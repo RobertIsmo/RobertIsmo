@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @RobertIsmo
-- 👀 I’m interested in building a startup
 - 🌱 I’m currently learning Elixir
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me 
