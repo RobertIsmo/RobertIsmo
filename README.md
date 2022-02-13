@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @RobertIsmo
-- 🌱 I’m currently learning Elixir
-- 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me 
 
 <!---
 RobertIsmo/RobertIsmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
