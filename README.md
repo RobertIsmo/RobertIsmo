@@ -4,6 +4,7 @@
 I am Robert, I am a backend developer from <img src="https://emojis.slackmojis.com/emojis/images/1638395689/50435/moulin_rouge.png?1638395689" width="20"/>Baton Rouge, Louisiana.</p>
 <h2>A list of some of the cool technology I have used or am learning!</h2>
 <p>
+<img src="https://emojis.slackmojis.com/emojis/images/1643516091/21142/meow_bongotap.gif?1643516091" width="35" alt="">
 <img src="https://img.shields.io/badge/Favorite%20Frontend%20Framework-SvelteKit-f83903" alt="">
 <img src="https://img.shields.io/badge/Second%20Favorite-Vue-40b581" alt="">
 <img src="https://img.shields.io/badge/Most%20Used%20Runtime-Nodejs-78b061" alt="">
