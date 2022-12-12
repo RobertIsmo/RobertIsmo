@@ -3,6 +3,7 @@
 - Studied Math at Louisiana State University
 - Currently work at Gnomic as an Software engineer
 - I love Svelte, Elixir, Typescript, and WASM!
+- I worked as a junior analyst at StrongArm Technologies 
 - My main areas of interest are AI, Mathematics, Urban Planning, and Quantitative finance
 
 <!---
