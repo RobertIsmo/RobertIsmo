@@ -1,0 +1,16 @@
+{
+  "name": "RobertIsmo",
+  "version": "1.0.0",
+  "description": "My personal README",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+	"build": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
