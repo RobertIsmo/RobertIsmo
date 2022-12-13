@@ -72,10 +72,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>The FTX founder Sam Bankman-Fried’s mother and father, who teach at Stanford Law School, are under scrutiny for their connections to their son’s crypto business.  <a href="https://nyti.ms/3VQKuHC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Hey Silicon Valley, It’s Time to Wear a Suit</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Sam Bankman-Fried’s choices may signal an end to the schlubby mystique.  <a href="https://nyti.ms/3FMp8pa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Scientists Achieve Nuclear Fusion Breakthrough With Blast of 192 Lasers</h3>
 <sub>By Kenneth Chang</sub>
 <p>The advancement by Lawrence Livermore National Laboratory researchers will be built on to further develop fusion energy research.  <a href="https://nyti.ms/3PuiZkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Can Fusion Solve the Climate Crisis?</h3>
+<sub>By Henry Fountain</sub>
+<p>Scientists made a huge breakthrough on the road to emissions-free power. Here’s what that means, and doesn’t mean.  <a href="https://nyti.ms/3FQQ5YY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -103,27 +115,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Two Groups Quietly Spent $32 Million Rallying Voters Behind Voting Rights</h3>
-<sub>By Katie Glueck</sub>
-<p>The money largely went to state and local organizations that often focused on turning out young voters and people of color, including with messages about threats to freedom and democracy.  <a href="https://nyti.ms/3YgzzZh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Lauren Boebert, Far-Right Firebrand, Wins Re-election After Recount</h3>
 <sub>By Jazmine Ulloa and Neil Vigdor</sub>
 <p>Ms. Boebert defeated Adam Frisch in Colorado’s Republican-leaning Third District to win a second term in the House.  <a href="https://nyti.ms/3uMq72o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Soccer Legends, Arab Viewers and the Man in the Middle</h3>
-<sub>By Tariq Panja</sub>
-<p>Qatar’s beIN Sports hired a host of retired players to bring authority to its World Cup coverage and a group of interpreters to render their words into Arabic. The toughest assignments go to one man.  <a href="https://nyti.ms/3ULLdZj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Team That Refuses to Lose</h3>
-<sub>By Rory Smith</sub>
-<p>Croatia, a nation of four million people, needs one more win to reach a second straight World Cup final. If it happens, it will probably come on penalties, and certainly after extra time.  <a href="https://nyti.ms/3hdsLLu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -132,10 +126,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>The herbal drink is beloved by South American players, who have taken it with them around the world — including to Qatar.  <a href="https://nyti.ms/3BuTB8I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Soccer Legends, Arab Viewers and the Man in the Middle</h3>
+<sub>By Tariq Panja</sub>
+<p>Qatar’s beIN Sports hired a host of retired players to bring authority to its World Cup coverage and a group of interpreters to render their words into Arabic. The toughest assignments go to one man.  <a href="https://nyti.ms/3ULLdZj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
+<hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-There&#39;s a lot going on in the world right now! Sam Bankman-Fried, founder of the crypto business FTX, has been arrested and faces charges including defrauding investors out of billions. His parents, who teach at Stanford Law School, are facing scrutiny for their connections to his business. Scientists have achieved a nuclear fusion breakthrough with lasers that could potentially lead to further development of fusion energy research. There&#39;s also a global pandemic still unfolding, and people in Beijing aren&#39;t venturing out even after restrictions are eased, but food supplies appear adequate. On the climate front, researchers created a map showing how where we live shapes our contribution to climate change. On the art side, US museums are returning artifacts to their countries of origin but that comes with many caveats. Politically speaking, Republicans narrowly won the popular vote in 2022 but weren&#39;t able to win as many seats thanks to some underlying factors like candidate quality and strength in the wrong places. Two groups quietly spent 32 million dollars rallying voters behind voting rights. Congresswoman Lauren Boebert won re-election after a recount in Colorado’s Republican-leaning district. In sports news, Qatar&#39;s beIN Sports hired a host former players to cover World Cup matches while their words were translated into Arabic -all overseen by one man! Croatia is one win away from making it to another World Cup final and they&#39;re apparently taking yerba mate with them as they hope they can pull off another miracle-win.</p>
+There&#39;s a lot happening in the world right now! We recently heard about Sam Bankman-Fried, a crypto mogul who is facing serious charges for allegedly defrauding investors out of billions. There&#39;s also been developments in the field of nuclear fusion with a research team at Lawrence Livermore National Laboratory achieving a big breakthrough. Scientists are now wondering if this could solve some of the world&#39;s climate crisis problems. In addition, here in the US, people are talking about Lauren Boebert, a far-right firebrand who won her re-election bid after a recount. There&#39;s even some fascinating stories in the sports world about how teams in the soccer World Cup rely on yerba mate for energy and how there&#39;s a whole team dedicated to interpreting famous players’ words into Arabic. All around, it looks like a busy week full of surprises!</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
