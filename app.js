@@ -8,11 +8,16 @@ const mainfile = './main.mustache'
 
 const news = await getNews(12);
 const blurb = await generateBlurb(news);
-
 let data = {
 	name: 'Robert Ismo',
 	date: currentDate(),
 	news,
+	blurb,
+	work: {
+		link: 'https://gnomic.education/',
+		name: 'Gnomic',
+		focus: 'education'
+	},
 	messages: [
 		{
 			message: 'Thomas Guibert',

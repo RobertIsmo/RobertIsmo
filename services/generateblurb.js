@@ -6,9 +6,9 @@ const config = new Configuration({
 const openai = new OpenAIApi(config);
 
 export const generateBlurb = async (articles) => {
-	const prompt = articles.map(({ section, title, abstract }) => {
+	const prompt = 'Given this list of news articles:\n\n'+articles.map(({ section, title, abstract }) => {
 		return `${section}\n${title}\n${abstract}`
-	}).join('\n\n')
+	}).join('\n\n')+'\nDescribe what is happening in the world to a close friend\n'
 	const completion = await openai.createCompletion({
 		model: "text-davinci-003",
 		prompt,

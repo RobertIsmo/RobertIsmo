@@ -131,7 +131,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub>Data provided by The New York Times</sub></a>
-<p></p>
+<p>
+Things have been pretty eventful lately. Recently, the founder of an important cryptocurrency company called FTX, Sam Bankman-Fried, was arrested in the Bahamas after US prosecutors filed criminal charges. This sparked a lot of investigation into his parents who teach at Stanford Law School. While another crypto exchange called Binance tries to step into the void left by FTX, Sam Bankman-Fried spoke at The New York Times’s DealBook conference and blamed huge management failures for the collapse. 
+
+On a brighter note, scientists made a major fusion energy breakthrough at Lawrence Livermore National Laboratory and could possibly lead to future energy sources. 
+
+Unfortunately, there has also been a mass migrant crossing to Texas which has flooded border facilities, along with public executions of protesters in Iran, and Putin skipping his annual news conference avoiding potential hard questions due to a war going poorly for Russia. In addition, Norway is seeing a lot of Russian spies around due to its wary Arctic environment, and Qatar had some dangerous working conditions for the migrant labor needed for its $220 billion construction project for the World Cup games. Lastly, Milwaukee is being hit hard by fentanyl and it&#39;s especially affecting their people of color there.</p>
 <h2>Special Thanks to...</h2>
 <ul>
 <li>Thomas Guibert, <a href="https://github.com/thmsgbrt/thmsgbrt">Check out some of his work!</a></li>

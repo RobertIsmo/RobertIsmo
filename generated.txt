@@ -1,1 +1,22 @@
 Tue Dec 13 03:04:45 UTC 2022
+
+test prompt:
+
+Given this list of news articles:
+
+FTX’s Sam Bankman-Fried Is Arrested in the Bahamas
+A statement by the government of the Bahamas said Mr. Bankman-Fried was arrested after prosecutors in the United States filed criminal charges.
+Monday, December 12, Central Standard Time
+
+The Parents in the Middle of FTX’s Collapse
+The FTX founder Sam Bankman-Fried’s mother and father, who teach at Stanford Law School, are under scrutiny for their connections to their son’s crypto business.
+Monday, December 12, Central Standard Time
+
+In FTX Collapse, Binance Sees a Chance to Become the New Face of Crypto
+Sam Bankman-Fried and Changpeng Zhao were archrivals. With FTX gone, Binance, the world’s biggest crypto exchange, is trying to step into the void.
+Monday, December 12, Central Standard Time
+
+Describe what is happening in the world to a close friend
+
+1. I am writing this post in part because I am sharing it with my close friend. He is being scrutinized after being credited with coming up with the idea for FTX. The company that Sam Bankman-Fried founded, FTX, was taken down from the market. Now, Sam Bankman-Fried is being arrested in the Bahamas after prosecutors in the United States filed criminal charges. This is a story that is being told all over the internet. my friend is very importance to me and I wish him the best of luck.
+
