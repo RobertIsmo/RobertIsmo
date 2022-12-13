@@ -9,7 +9,7 @@ const currentDate = () => new Date().toLocaleDateString('en-US', {
 	day: 'numeric',
 	timeZoneName: 'longGeneric',
 	timeZone: 'America/Chicago'
-})
+}).replace(' at', ',').replace('Time', 'Standard Time')
 
 let data = {
 	name: 'Robert Ismo',

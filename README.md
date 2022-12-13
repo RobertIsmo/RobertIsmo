@@ -55,7 +55,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <img src="https://emojis.slackmojis.com/emojis/images/1643514239/2069/excited.gif?1643514239" width="35" alt="">
 </p>
 <h2>What is happening in the world?</h2>
-<p>it is Monday, December 12 at Central Time</p>
+<p>it is Monday, December 12, Central Standard Time</p>
 
 <h2>Special Thanks to...</h2>
 <ul>

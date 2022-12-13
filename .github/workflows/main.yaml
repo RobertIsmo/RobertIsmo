@@ -15,7 +15,7 @@ jobs:
         - name: get node
           uses: actions/setup-node@v3
           with:
-              node-version: '16.x'
+              node-version: '18.x'
         - name: get pnpm
           uses: pnpm/action-setup@v2
           with:
