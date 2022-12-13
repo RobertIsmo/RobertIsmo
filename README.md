@@ -54,6 +54,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <img src="https://img.shields.io/badge/enjoyable-EC2-f17428" alt="">
 <img src="https://emojis.slackmojis.com/emojis/images/1643514239/2069/excited.gif?1643514239" width="35" alt="">
 </p>
+<h1>Beyond the tech, we all need a sense of storytelling.</h1>
+<p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
+<p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 12, Central Standard Time</p>
 <ol>
@@ -130,13 +133,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
-<a href="https://developer.nytimes.com"><sub>Data provided by The New York Times</sub></a>
+<a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-Things have been pretty eventful lately. Recently, the founder of an important cryptocurrency company called FTX, Sam Bankman-Fried, was arrested in the Bahamas after US prosecutors filed criminal charges. This sparked a lot of investigation into his parents who teach at Stanford Law School. While another crypto exchange called Binance tries to step into the void left by FTX, Sam Bankman-Fried spoke at The New York Times’s DealBook conference and blamed huge management failures for the collapse. 
+There have been some really unsettling news happening lately. First, the founder of a crypto-currency business was arrested in the Bahamas after charges were filed against him by U.S prosecutors. His parents, who are both working at Stanford Law School, are facing scrutiny for their involvement. Meanwhile, Binance, another major crypto exchange, is trying to take over the void left by FTX&#39;s collapse. 
 
-On a brighter note, scientists made a major fusion energy breakthrough at Lawrence Livermore National Laboratory and could possibly lead to future energy sources. 
+On the scientific front, researchers working with lasers may have made a major breakthrough that can lead to potential new sources of energy. 
 
-Unfortunately, there has also been a mass migrant crossing to Texas which has flooded border facilities, along with public executions of protesters in Iran, and Putin skipping his annual news conference avoiding potential hard questions due to a war going poorly for Russia. In addition, Norway is seeing a lot of Russian spies around due to its wary Arctic environment, and Qatar had some dangerous working conditions for the migrant labor needed for its $220 billion construction project for the World Cup games. Lastly, Milwaukee is being hit hard by fentanyl and it&#39;s especially affecting their people of color there.</p>
+In terms of world events, Iran is conducting public executions which is further inflaming the public and sparking protests. Putin skipped his annual news conference which could have raised uncomfortable questions about Russia&#39;s war. Norway and other European countries are also on alert for suspicious Russian activity in the Arctic.
+
+Lastly, the World Cup just finished along with its economy of migrant labor and in Milwaukee, fentanyl is causing a lot of suffering among people of color. Croatia has a chance to make it to their second consecutive World Cup final but they will likely have to survive extra time to pull off the win.</p>
+<hr/>
+<p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
+<p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
+<p>Building is equally artful as it is technical. I hope we all can build extremely cool things, and share them with the world.</p>
 <h2>Special Thanks to...</h2>
 <ul>
 <li>Thomas Guibert, <a href="https://github.com/thmsgbrt/thmsgbrt">Check out some of his work!</a></li>
