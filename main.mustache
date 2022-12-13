@@ -55,9 +55,21 @@ I am {{name}}, I am a backend developer from <img src="https://emojis.slackmojis
 <img src="https://emojis.slackmojis.com/emojis/images/1643514239/2069/excited.gif?1643514239" width="35" alt="">
 </p>
 <h2>What is happening in the world?</h2>
-<p>it is {{date}}</p>
+<p>It is {{date}}</p>
+<ol>
+{{#news}}
+<img src="https://img.shields.io/badge/-{{section}}-blue" alt="">
+<a href="{{short_url}}"><h3>{{title}}</h3></a>
+```diff
+# {{byline}}, {{publishedDate}}
+```
+<p>{{abstract}}<a href="https://developer.nytimes.com/"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352"></a></p>
+{{/news}}
+</ol>
 
 <h2>Special Thanks to...</h2>
 <ul>
-<li>{{message1.message}}, <a href="{{message1.link}}">{{message1.linkmessage}}</a></li>
+{{#messages}}
+<li>{{message}}, <a href="{{link}}">{{linkmessage}}</a></li>
+{{/messages}}
 </ul>

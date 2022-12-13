@@ -1,24 +1,23 @@
 import tache from 'mustache'
+import { getNews } from './services/getnews.js'
+import { currentDate } from './services/nicedate.js'
 import { readFileSync, writeFileSync } from 'node:fs'
 
 const mainfile = './main.mustache'
 
-const currentDate = () => new Date().toLocaleDateString('en-US', {
-	weekday: 'long',
-	month: 'long',
-	day: 'numeric',
-	timeZoneName: 'longGeneric',
-	timeZone: 'America/Chicago'
-}).replace(' at', ',').replace('Time', 'Standard Time')
+const news = await getNews();
 
 let data = {
 	name: 'Robert Ismo',
 	date: currentDate(),
-	message1: {
-		message: 'Thomas Guibert',
-		link: `https://github.com/thmsgbrt/thmsgbrt`,
-		linkmessage: 'Check out some of his work!'
-	}
+	news,
+	messages: [
+		{
+			message: 'Thomas Guibert',
+			link: `https://github.com/thmsgbrt/thmsgbrt`,
+			linkmessage: 'Check out some of his work!'
+		}
+	]
 }
 
 const buildREADME = () => {

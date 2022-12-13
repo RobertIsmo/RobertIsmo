@@ -5,12 +5,16 @@
   "type": "module",
   "main": "app.js",
   "scripts": {
-	"build": "node app.js"
+    "build": "node app.js",
+	"dev": "node -r dotenv/config app.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "mustache": "^4.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
   }
 }

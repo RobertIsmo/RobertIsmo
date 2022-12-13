@@ -1,12 +1,21 @@
 lockfileVersion: 5.4
 
 specifiers:
+  dotenv: ^16.0.3
   mustache: ^4.2.0
 
 dependencies:
   mustache: 4.2.0
 
+devDependencies:
+  dotenv: 16.0.3
+
 packages:
+
+  /dotenv/16.0.3:
+    resolution: {integrity: sha512-7GO6HghkA5fYG9TYnNxi14/7K9f5occMlp3zXAuSxn7CKCxt9xbNWG7yF8hTCSUchlfWSe3uLmlPfigevRItzQ==}
+    engines: {node: '>=12'}
+    dev: true
 
   /mustache/4.2.0:
     resolution: {integrity: sha512-71ippSywq5Yb7/tVYyGbkBggbU8H3u5Rz56fH60jGFgr8uHwxs+aSKeqmluIVzM0m0kB7xQjKS6qPfd0b2ZoqQ==}

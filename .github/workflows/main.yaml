@@ -36,6 +36,9 @@ jobs:
         - name: install deps
           run: pnpm install
         - name: build
+          env:
+            NYT_SECRET: ${{ secrets.NYT_SECRET }}
+            NYT_KEY: ${{ secrets.NYT_KEY }}
           run: pnpm build
         - name: push
           uses: github-actions-x/commit@v2.9
