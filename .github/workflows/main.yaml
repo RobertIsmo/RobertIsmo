@@ -3,33 +3,45 @@ name: readme BUILD
 on:
     push:
         branches:
-            - "main"
+            "main"
     schedule:
-    - cron: '0 */6 * * *'
+    cron: '0 */6 * * *'
 jobs:
     build:
         runs-on: ubuntu-latest
 
         steps:
-            - name: Checkout current repository to the main branch
-            uses: actions/checkout@v3
-            - name: Setup NodeJs 16.x
-            uses: actions/setup-node@v3
-            with:
-                node-version: '16.x'
-            uses: pnpm/action-setup@v2
-            with:
-                version: 6.0.2
-            - name: Cache dependencies and build outputs to improve workflow execution time.
-            uses: actions/cache@v3
-            with:
-                path: node_modules
-                key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-            - name: Install dependencies
-            run: npm install
-            - name: Generate README file
-            run: npm exec build
-            - name: Commit and Push new README.md to the repository
-            uses: mikeal/publish-to-github-action@master
-            env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            - name: checkout
+              uses: actions/checkout@v3
+            - name: get node
+              uses: actions/setup-node@v3
+              with:
+                  node-version: '16.x'
+            - name: get pnpm
+              uses: pnpm/action-setup@v2
+              with:
+                  version: 7
+                  run_install: false
+            - name: cache
+              id: pnpm-cache
+              shell: bash
+              run: |
+                  echo "STORE_PATH=$(pnpm store path)" >> $GITHUB_OUTPUT
+
+              uses: actions/cache@v3
+              with:
+                  path: ${{ steps.pnpm-cache.outputs.STORE_PATH }}
+                  key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+                  restore-keys: |
+                      ${{ runner.os }}-pnpm-store-
+            - name: install deps
+              run: pnpm install
+            - name: build
+              run: pnpm build
+            - name: push
+              uses: github-actions-x/commit@v2.9
+              with:
+                  github-token: ${{ secrets.GITHUB_TOKEN }}
+                  push-branch: 'main'
+                  commit-message: 'updated'
+                  force-add: 'true'
