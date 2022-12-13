@@ -61,16 +61,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>It is Tuesday, December 13, Central Standard Time</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>S.E.C. Charges Sam Bankman-Fried With Defrauding FTX Investors</h3>
-<sub>By Matthew Goldstein</sub>
-<p>The founder of the collapsed crypto exchange was accused of “orchestrating a scheme to defraud equity investors” who put more than $1.8 billion into the company.  <a href="https://nyti.ms/3W45hXQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Sam Bankman-Fried’s ‘House of Cards’ Teeters</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Stephen Gandel, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Now under arrest, the fallen crypto mogul faces a barrage of charges, including defrauding investors out of billions.  <a href="https://nyti.ms/3PlicT3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>FTX’s Sam Bankman-Fried Is Arrested in the Bahamas</h3>
-<sub>By David Yaffe-Bellany, William K. Rashbaum and Matthew Goldstein</sub>
-<p>A statement by the government of the Bahamas said Mr. Bankman-Fried was arrested after prosecutors in the United States filed criminal charges.  <a href="https://nyti.ms/3Yl4bIY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>The Parents in the Middle of FTX’s Collapse</h3>
@@ -78,29 +72,29 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>The FTX founder Sam Bankman-Fried’s mother and father, who teach at Stanford Law School, are under scrutiny for their connections to their son’s crypto business.  <a href="https://nyti.ms/3VQKuHC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Scientists Achieve Nuclear Fusion Breakthrough With Blast of 192 Lasers</h3>
+<sub>By Kenneth Chang</sub>
+<p>The advancement by Lawrence Livermore National Laboratory researchers will be built on to further develop fusion energy research.  <a href="https://nyti.ms/3PuiZkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Covid Spreads Fast, Beijing Isn’t in Lockdown. But It Feels Like It.</h3>
 <sub>By Keith Bradsher and David Pierson</sub>
 <p>Almost no one is venturing out even after an easing of pandemic measures. Cold and flu medicines are scarce, but food supplies appear adequate.  <a href="https://nyti.ms/3uJHUaa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>For U.S. Museums With Looted Art, the Indiana Jones Era Is Over</h3>
-<sub>By Graham Bowley</sub>
-<p>Prodded by law enforcement, and pushed by foreign governments, American museums are increasingly returning artifacts to countries of origin, but critics wonder at what cost.  <a href="https://nyti.ms/3Fqvk4Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Forecasts Were Wrong Last Year. Should We Believe Them Now?</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Economists misjudged how much staying power inflation would have. Next year could be better — but there’s ample room for humility.  <a href="https://nyti.ms/3URC2qe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>The Climate Impact of Your Neighborhood, Mapped</h3>
 <sub>By Nadja Popovich, Mira Rojanasakul and Brad Plumer</sub>
 <p>Where and how you live shapes your household’s contribution to climate change. Explore differences across the nation.  <a href="https://nyti.ms/3HzVzbB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>For U.S. Museums With Looted Art, the Indiana Jones Era Is Over</h3>
+<sub>By Graham Bowley</sub>
+<p>Prodded by law enforcement, and pushed by foreign governments, American museums are increasingly returning artifacts to countries of origin, but critics wonder at what cost.  <a href="https://nyti.ms/3Fqvk4Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>2022 Review: How Republicans Lost Despite Winning the Popular Vote</h3>
@@ -121,7 +115,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Soccer Legends, Arabic Viewers and the Man in the Middle</h3>
+<h3>Soccer Legends, Arab Viewers and the Man in the Middle</h3>
 <sub>By Tariq Panja</sub>
 <p>Qatar’s beIN Sports hired a host of retired players to bring authority to its World Cup coverage and a group of interpreters to render their words into Arabic. The toughest assignments go to one man.  <a href="https://nyti.ms/3ULLdZj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
@@ -132,10 +126,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Croatia, a nation of four million people, needs one more win to reach a second straight World Cup final. If it happens, it will probably come on penalties, and certainly after extra time.  <a href="https://nyti.ms/3hdsLLu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>What’s Powering Argentina at the World Cup? 1,100 Pounds of Yerba Mate.</h3>
+<sub>By James Wagner</sub>
+<p>The herbal drink is beloved by South American players, who have taken it with them around the world — including to Qatar.  <a href="https://nyti.ms/3BuTB8I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-There&#39;s a lot going on in the world right now. The SEC has charged Sam Bankman-Fried, the founder of the collapsed crypto exchange, with defrauding investors who had put more than $1.8 billion into the company. He was arrested in the Bahamas, and his parents, who teach at Stanford Law School, are under scrutiny for their connections to his crypto business. On top of that, as Covid continues to spread, Beijing&#39;s population is not in lockdown but feeling like it is. American museums are increasingly being called to return artifacts to countries where they originated from. Additionally, inflation forecasts have been wrong in the past, but economists are speculating about next year&#39;s economy. We can also explore the contributions each neighborhood makes to climate change on maps. In politics, Republicans lost out despite winning on popular vote due to some factors we should investigate further. Finally on sports news, Croatia needs one more win to reach a second straight World Cup final while Qatar&#39;s beIN Sports hires retired players and interpreters to bring authority to its World Cup coverage.</p>
+There&#39;s a lot going on in the world right now! Sam Bankman-Fried, founder of the crypto business FTX, has been arrested and faces charges including defrauding investors out of billions. His parents, who teach at Stanford Law School, are facing scrutiny for their connections to his business. Scientists have achieved a nuclear fusion breakthrough with lasers that could potentially lead to further development of fusion energy research. There&#39;s also a global pandemic still unfolding, and people in Beijing aren&#39;t venturing out even after restrictions are eased, but food supplies appear adequate. On the climate front, researchers created a map showing how where we live shapes our contribution to climate change. On the art side, US museums are returning artifacts to their countries of origin but that comes with many caveats. Politically speaking, Republicans narrowly won the popular vote in 2022 but weren&#39;t able to win as many seats thanks to some underlying factors like candidate quality and strength in the wrong places. Two groups quietly spent 32 million dollars rallying voters behind voting rights. Congresswoman Lauren Boebert won re-election after a recount in Colorado’s Republican-leaning district. In sports news, Qatar&#39;s beIN Sports hired a host former players to cover World Cup matches while their words were translated into Arabic -all overseen by one man! Croatia is one win away from making it to another World Cup final and they&#39;re apparently taking yerba mate with them as they hope they can pull off another miracle-win.</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
