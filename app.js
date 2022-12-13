@@ -5,7 +5,7 @@ import { readFileSync, writeFileSync } from 'node:fs'
 
 const mainfile = './main.mustache'
 
-const news = await getNews();
+const news = await getNews(12);
 
 let data = {
 	name: 'Robert Ismo',

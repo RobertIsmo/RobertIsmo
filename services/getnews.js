@@ -1,7 +1,7 @@
 import { currentDate } from "./nicedate.js";
 const endpoint = 'https://api.nytimes.com/svc/topstories/v2/home.json?api-key='+process.env.NYT_KEY
 
-export const getNews = async () => {
+export const getNews = async (limit) => {
 	const results = await fetch(endpoint);
 	const body = await results.json()
 	const rawNews = body.results;
@@ -14,5 +14,6 @@ export const getNews = async () => {
 			publishedDate, short_url
 		}
 	})
-	return news
+	return limit ? news.slice(0, limit) : news
+
 }
