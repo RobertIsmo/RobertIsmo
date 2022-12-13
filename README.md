@@ -58,7 +58,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, December 12, Central Standard Time</p>
+<p>It is Tuesday, December 13, Central Standard Time</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>FTX’s Sam Bankman-Fried Is Arrested in the Bahamas</h3>
@@ -135,13 +135,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-There have been some really unsettling news happening lately. First, the founder of a crypto-currency business was arrested in the Bahamas after charges were filed against him by U.S prosecutors. His parents, who are both working at Stanford Law School, are facing scrutiny for their involvement. Meanwhile, Binance, another major crypto exchange, is trying to take over the void left by FTX&#39;s collapse. 
-
-On the scientific front, researchers working with lasers may have made a major breakthrough that can lead to potential new sources of energy. 
-
-In terms of world events, Iran is conducting public executions which is further inflaming the public and sparking protests. Putin skipped his annual news conference which could have raised uncomfortable questions about Russia&#39;s war. Norway and other European countries are also on alert for suspicious Russian activity in the Arctic.
-
-Lastly, the World Cup just finished along with its economy of migrant labor and in Milwaukee, fentanyl is causing a lot of suffering among people of color. Croatia has a chance to make it to their second consecutive World Cup final but they will likely have to survive extra time to pull off the win.</p>
+Currently, there&#39;s been a lot of news about business, technology, science, US politics, world politics, sports, and other topics. In the business world, Sam Bankman-Fried of the crypto exchange FTX was recently arrested in the Bahamas after criminal charges were filed against him in the US. His parents have been connected to FTX&#39;s collapse and now Binance is looking to step into the void left by FTX. Sam has spoken out about “huge management failures” leading up to FTX&#39;s collapse. 
+In science news, researchers are preparing for a major fusion energy breakthrough. This new technology could lead to potential new energy sources in the future.
+On the political front, mass migrants have recently crossed into Texas overwhelming border facilities. In Iran, two public executions occurred in quick succession sparking protests from citizens. Russian President Putin skipped an annual news conference which likely would&#39;ve involved questions regarding a recent war between Russia and Ukraine. Reports have also arisen of Russian spies appearing across the Arctic region which is creating unease amongst many European countries.
+In sports news, the World Cup is coming to a close but many migrant workers who provided labor during this $220 billion project are continuing on with their same dangerous jobs for fear of not being able to support themselves if they quit. Additionally, Croatia only has one more win before going on to reach a second straight World Cup final. Finally, in domestic news fentanyl is cutting a bitter path through Milwaukee impacting many people of color who live there. </p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
