@@ -1,11 +1,13 @@
 import tache from 'mustache'
 import { getNews } from './services/getnews.js'
+import { generateBlurb } from './services/generateblurb.js'
 import { currentDate } from './services/nicedate.js'
 import { readFileSync, writeFileSync } from 'node:fs'
 
 const mainfile = './main.mustache'
 
 const news = await getNews(12);
+const blurb = await generateBlurb(news);
 
 let data = {
 	name: 'Robert Ismo',
