@@ -115,9 +115,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The World Cup Is Ending, but the Migrant Labor Economy Grinds On</h3>
-<sub>By Nicole Salazar, Pramod Acharya and Sarah Kerr</sub>
-<p>The World Cup was a $220 billion construction project powered by migrant workers. We went to Nepal — a major source of labor for Qatar — to find out what’s driving workers to do dangerous jobs that many say they can’t afford to lose.  <a href="https://nyti.ms/3Fig0al"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Soccer Legends, Arabic Viewers and the Man in the Middle</h3>
+<sub>By Tariq Panja</sub>
+<p>Qatar’s beIN Sports hired a host of retired players to bring authority to its World Cup coverage and a group of interpreters to render their words into Arabic. The toughest assignments go to one man.  <a href="https://nyti.ms/3ULLdZj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -135,10 +135,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-Currently, there&#39;s been a lot of news about business, technology, science, US politics, world politics, sports, and other topics. In the business world, Sam Bankman-Fried of the crypto exchange FTX was recently arrested in the Bahamas after criminal charges were filed against him in the US. His parents have been connected to FTX&#39;s collapse and now Binance is looking to step into the void left by FTX. Sam has spoken out about “huge management failures” leading up to FTX&#39;s collapse. 
-In science news, researchers are preparing for a major fusion energy breakthrough. This new technology could lead to potential new energy sources in the future.
-On the political front, mass migrants have recently crossed into Texas overwhelming border facilities. In Iran, two public executions occurred in quick succession sparking protests from citizens. Russian President Putin skipped an annual news conference which likely would&#39;ve involved questions regarding a recent war between Russia and Ukraine. Reports have also arisen of Russian spies appearing across the Arctic region which is creating unease amongst many European countries.
-In sports news, the World Cup is coming to a close but many migrant workers who provided labor during this $220 billion project are continuing on with their same dangerous jobs for fear of not being able to support themselves if they quit. Additionally, Croatia only has one more win before going on to reach a second straight World Cup final. Finally, in domestic news fentanyl is cutting a bitter path through Milwaukee impacting many people of color who live there. </p>
+I&#39;ve got some news to share. There&#39;s been criminal charges leveled against Sam Bankman-Fried at the founder of FTX, and it looks like there are some connections to his parents who are faculty members at Stanford Law School. In other business news, with FTX gone, Binance is trying to jump into the void and be one of the biggest crypto exchanges around.
+
+Turning to science, researchers at Lawrence Livermore National Laboratory just had a major breakthrough involving lasers that could lead to new energy sources in the future. And over in Texas there has been a surge of migrant crossings on the border which have overwhelmed the area. 
+
+Meanwhile, in a few places around the world, Iran has been using public executions for protesters and Russia&#39;s president Putin decided to skip his annual press conference for reasons possibly related to their war efforts. And in Norway, there&#39;s been a heightened level of paranoia because everybody is on alert for Russian spies. 
+
+In sports news, Qatar hired a lot of retired players for their World Cup coverage and Croatia is one win away from its second straight World Cup final (which may go into extra time!). Lastly, Fentanyl is cutting through Milwaukee and it&#39;s especially affecting people of color - it sounds like this is one of the worst drugs that an experienced drug counselor has seen.</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
