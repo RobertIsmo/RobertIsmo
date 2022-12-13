@@ -61,64 +61,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>It is Tuesday, December 13, Central Standard Time</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Sam Bankman-Fried’s ‘House of Cards’ Teeters</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Stephen Gandel, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Now under arrest, the fallen crypto mogul faces a barrage of charges, including defrauding investors out of billions.  <a href="https://nyti.ms/3PlicT3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Prosecutors Say FTX Was Engaged in a ‘Massive, Yearslong Fraud’</h3>
+<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
+<p>A criminal indictment unsealed on Tuesday and a complaint by the S.E.C. describe years of wrongdoing in Sam Bankman-Fried’s crypto empire.  <a href="https://nyti.ms/3BvYMoR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Parents in the Middle of FTX’s Collapse</h3>
-<sub>By David Yaffe-Bellany, Lora Kelley and Kenneth P. Vogel</sub>
-<p>The FTX founder Sam Bankman-Fried’s mother and father, who teach at Stanford Law School, are under scrutiny for their connections to their son’s crypto business.  <a href="https://nyti.ms/3VQKuHC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Hey Silicon Valley, It’s Time to Wear a Suit</h3>
 <sub>By Vanessa Friedman</sub>
 <p>Sam Bankman-Fried’s choices may signal an end to the schlubby mystique.  <a href="https://nyti.ms/3FMp8pa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Scientists Achieve Nuclear Fusion Breakthrough With Blast of 192 Lasers</h3>
-<sub>By Kenneth Chang</sub>
-<p>The advancement by Lawrence Livermore National Laboratory researchers will be built on to further develop fusion energy research.  <a href="https://nyti.ms/3PuiZkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Can Fusion Solve the Climate Crisis?</h3>
-<sub>By Henry Fountain</sub>
-<p>Scientists made a huge breakthrough on the road to emissions-free power. Here’s what that means, and doesn’t mean.  <a href="https://nyti.ms/3FQQ5YY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Covid Spreads Fast, Beijing Isn’t in Lockdown. But It Feels Like It.</h3>
-<sub>By Keith Bradsher and David Pierson</sub>
-<p>Almost no one is venturing out even after an easing of pandemic measures. Cold and flu medicines are scarce, but food supplies appear adequate.  <a href="https://nyti.ms/3uJHUaa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Climate Impact of Your Neighborhood, Mapped</h3>
-<sub>By Nadja Popovich, Mira Rojanasakul and Brad Plumer</sub>
-<p>Where and how you live shapes your household’s contribution to climate change. Explore differences across the nation.  <a href="https://nyti.ms/3HzVzbB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>For U.S. Museums With Looted Art, the Indiana Jones Era Is Over</h3>
-<sub>By Graham Bowley</sub>
-<p>Prodded by law enforcement, and pushed by foreign governments, American museums are increasingly returning artifacts to countries of origin, but critics wonder at what cost.  <a href="https://nyti.ms/3Fqvk4Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>2022 Review: How Republicans Lost Despite Winning the Popular Vote</h3>
-<sub>By Nate Cohn</sub>
-<p>There were several reasons Republicans struggled to translate votes into seats, including candidate quality and strength in the wrong places.  <a href="https://nyti.ms/3uJGWe3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lauren Boebert, Far-Right Firebrand, Wins Re-election After Recount</h3>
-<sub>By Jazmine Ulloa and Neil Vigdor</sub>
-<p>Ms. Boebert defeated Adam Frisch in Colorado’s Republican-leaning Third District to win a second term in the House.  <a href="https://nyti.ms/3uMq72o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>What’s Powering Argentina at the World Cup? 1,100 Pounds of Yerba Mate.</h3>
@@ -132,10 +84,58 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Qatar’s beIN Sports hired a host of retired players to bring authority to its World Cup coverage and a group of interpreters to render their words into Arabic. The toughest assignments go to one man.  <a href="https://nyti.ms/3ULLdZj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Are Qatar’s World Cup Stadiums the Future of Sports in a Warming World?</h3>
+<sub>By John Branch</sub>
+<p>A mechanical engineer at Qatar University used giant tanks of cold water to create a cooling system in one of the hottest places on the planet.  <a href="https://nyti.ms/3HASo3o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Scientists Achieve Nuclear Fusion Breakthrough With Blast of 192 Lasers</h3>
+<sub>By Kenneth Chang</sub>
+<p>The advancement by Lawrence Livermore National Laboratory researchers will be built on to further develop fusion energy research.  <a href="https://nyti.ms/3PuiZkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Fusion? We’ve Seen This Movie Before.</h3>
+<sub>By Maya Phillips</sub>
+<p>The promise of a new, bountiful energy source, not to mention the giant lasers, may sound familiar to fans of science fiction and comics.  <a href="https://nyti.ms/3uNUkOo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inflation Cooled Notably in November, Good News for the Fed</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Consumer Price Index data reinforces that inflation is beginning to slow down just ahead of the Federal Reserve’s December rate decision.  <a href="https://nyti.ms/3iToahP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Climate Impact of Your Neighborhood, Mapped</h3>
+<sub>By Nadja Popovich, Mira Rojanasakul and Brad Plumer</sub>
+<p>Where and how you live shapes your household’s contribution to climate change. Explore differences across the nation.  <a href="https://nyti.ms/3HzVzbB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Covid Spreads Fast, Beijing Isn’t in Lockdown. But It Feels Like It.</h3>
+<sub>By Keith Bradsher and David Pierson</sub>
+<p>Almost no one is venturing out even after an easing of pandemic measures. Cold and flu medicines are scarce, but food supplies appear adequate.  <a href="https://nyti.ms/3uJHUaa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>It’s Time to Wear a Mask Again, Health Experts Say</h3>
+<sub>By Dana G. Smith</sub>
+<p>A high-quality, well-fitting mask is your best protection against infection from the coronavirus, influenza and R.S.V.  <a href="https://nyti.ms/3FMO0x4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Do You Have Covid, Flu or R.S.V.?</h3>
+<sub>By Knvul Sheikh</sub>
+<p>If you’re feeling sick, this handy chart will help you zero in on which virus you might have.  <a href="https://nyti.ms/3Ftm4gj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-There&#39;s a lot happening in the world right now! We recently heard about Sam Bankman-Fried, a crypto mogul who is facing serious charges for allegedly defrauding investors out of billions. There&#39;s also been developments in the field of nuclear fusion with a research team at Lawrence Livermore National Laboratory achieving a big breakthrough. Scientists are now wondering if this could solve some of the world&#39;s climate crisis problems. In addition, here in the US, people are talking about Lauren Boebert, a far-right firebrand who won her re-election bid after a recount. There&#39;s even some fascinating stories in the sports world about how teams in the soccer World Cup rely on yerba mate for energy and how there&#39;s a whole team dedicated to interpreting famous players’ words into Arabic. All around, it looks like a busy week full of surprises!</p>
+Right now, the world is in the midst of two challenges—the coronavirus pandemic and climate change. With the Covid-19 virus spreading rapidly, health experts are recommending that people wear masks to reduce the spread of infection. Inflation has cooled a bit, good news for the Federal Reserve who will be making a rate decision this December. In soccer news, people are taking yerba mate, a herbal drink, to the 2022 World Cup hosted in Qatar. There&#39;s also some potentially exciting developments in nuclear fusion energy research happening at Lawrence Livermore National Laboratory. In terms of climate change, there&#39;s a new interactive map available that helps you understand the impact of your neighborhood on the environment. On top of all this, Sam Bankman-Fried&#39;s crypto empire is facing criminal charges for massive fraud and Silicon Valley&#39;s schlubby mystique may soon be coming to an end.</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
