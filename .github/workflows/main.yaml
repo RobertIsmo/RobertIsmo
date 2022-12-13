@@ -39,6 +39,7 @@ jobs:
           env:
             NYT_SECRET: ${{ secrets.NYT_SECRET }}
             NYT_KEY: ${{ secrets.NYT_KEY }}
+            OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
           run: pnpm build
         - name: push
           run: |

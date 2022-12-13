@@ -58,54 +58,67 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>It is Monday, December 12, Central Standard Time</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<a href="https://nyti.ms/3Yl4bIY"><h3>FTX’s Sam Bankman-Fried Is Arrested in the Bahamas</h3></a>
+<h3>FTX’s Sam Bankman-Fried Is Arrested in the Bahamas</h3>
 <sub>By David Yaffe-Bellany, William K. Rashbaum and Matthew Goldstein,   Monday, December 12, Central Standard Time</sub>
-<p>A statement by the government of the Bahamas said Mr. Bankman-Fried was arrested after prosecutors in the United States filed criminal charges.<a href="https://developer.nytimes.com/"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A statement by the government of the Bahamas said Mr. Bankman-Fried was arrested after prosecutors in the United States filed criminal charges.  <a href="https://nyti.ms/3Yl4bIY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<a href="https://nyti.ms/3VQKuHC"><h3>The Parents in the Middle of FTX’s Collapse</h3></a>
+<h3>The Parents in the Middle of FTX’s Collapse</h3>
 <sub>By David Yaffe-Bellany, Lora Kelley and Kenneth P. Vogel,   Monday, December 12, Central Standard Time</sub>
-<p>The FTX founder Sam Bankman-Fried’s mother and father, who teach at Stanford Law School, are under scrutiny for their connections to their son’s crypto business.<a href="https://developer.nytimes.com/"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The FTX founder Sam Bankman-Fried’s mother and father, who teach at Stanford Law School, are under scrutiny for their connections to their son’s crypto business.  <a href="https://nyti.ms/3VQKuHC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<a href="https://nyti.ms/3W6SpQw"><h3>In FTX Collapse, Binance Sees a Chance to Become the New Face of Crypto</h3></a>
+<h3>In FTX Collapse, Binance Sees a Chance to Become the New Face of Crypto</h3>
 <sub>By Emily Flitter and David Yaffe-Bellany,   Monday, December 12, Central Standard Time</sub>
-<p>Sam Bankman-Fried and Changpeng Zhao were archrivals. With FTX gone, Binance, the world’s biggest crypto exchange, is trying to step into the void.<a href="https://developer.nytimes.com/"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Sam Bankman-Fried and Changpeng Zhao were archrivals. With FTX gone, Binance, the world’s biggest crypto exchange, is trying to step into the void.  <a href="https://nyti.ms/3W6SpQw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<a href="https://nyti.ms/3GZJ3lj"><h3>Sam Bankman-Fried Blames ‘Huge Management Failures’ for FTX Collapse</h3></a>
+<h3>Sam Bankman-Fried Blames ‘Huge Management Failures’ for FTX Collapse</h3>
 <sub>By David Yaffe-Bellany,   Wednesday, November 30, Central Standard Time</sub>
-<p>Mr. Bankman-Fried spoke at The New York Times’s DealBook conference, in his first public appearance since his crypto exchange imploded.<a href="https://developer.nytimes.com/"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mr. Bankman-Fried spoke at The New York Times’s DealBook conference, in his first public appearance since his crypto exchange imploded.  <a href="https://nyti.ms/3GZJ3lj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
-<a href="https://nyti.ms/3BpMr5u"><h3>Major Fusion Energy Breakthrough to Be Announced by Scientists</h3></a>
+<h3>Major Fusion Energy Breakthrough to Be Announced by Scientists</h3>
 <sub>By Kenneth Chang,   Monday, December 12, Central Standard Time</sub>
-<p>Researchers working with lasers at Lawrence Livermore National Laboratory are expected to say they made a major advance that could lead to future energy sources.<a href="https://developer.nytimes.com/"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Researchers working with lasers at Lawrence Livermore National Laboratory are expected to say they made a major advance that could lead to future energy sources.  <a href="https://nyti.ms/3BpMr5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<a href="https://nyti.ms/3UKn0CA"><h3>Mass Migrant Crossing Floods Texas Border Facilities</h3></a>
+<h3>Mass Migrant Crossing Floods Texas Border Facilities</h3>
 <sub>By Simon Romero, J. David Goodman and Eileen Sullivan,   Monday, December 12, Central Standard Time</sub>
-<p>The arrival of up to 1,000 migrants, the latest big group to have crossed the border, was one of the largest single crossings in recent years in West Texas, which has seen a surge in migration.<a href="https://developer.nytimes.com/"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The arrival of up to 1,000 migrants, the latest big group to have crossed the border, was one of the largest single crossings in recent years in West Texas, which has seen a surge in migration.  <a href="https://nyti.ms/3UKn0CA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<a href="https://nyti.ms/3HuHwnJ"><h3>Iran Turns to Public Executions, Enraging an Already Protesting Public</h3></a>
+<h3>Iran Turns to Public Executions, Enraging an Already Protesting Public</h3>
 <sub>By Farnaz Fassihi,   Monday, December 12, Central Standard Time</sub>
-<p>In the second execution in just a few days, a 23-year-old protester was hanged from a construction crane at dawn in the city of Mashhad, galvanizing a new wave of demonstrations.<a href="https://developer.nytimes.com/"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In the second execution in just a few days, a 23-year-old protester was hanged from a construction crane at dawn in the city of Mashhad, galvanizing a new wave of demonstrations.  <a href="https://nyti.ms/3HuHwnJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<a href="https://nyti.ms/3WdRsWG"><h3>Putin Skips Annual News Conference, Avoiding Possible Questions on War</h3></a>
+<h3>Putin Skips Annual News Conference, Avoiding Possible Questions on War</h3>
 <sub>By Neil MacFarquhar,   Monday, December 12, Central Standard Time</sub>
-<p>The December event has offered reporters rare — albeit stage-managed — chances to pose hard questions. With the war going poorly for Russia, that could have been awkward.<a href="https://developer.nytimes.com/"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The December event has offered reporters rare — albeit stage-managed — chances to pose hard questions. With the war going poorly for Russia, that could have been awkward.  <a href="https://nyti.ms/3WdRsWG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<a href="https://nyti.ms/3FnvN7D"><h3>In a Wary Arctic, Norway Starts to See Russian Spies Everywhere</h3></a>
+<h3>In a Wary Arctic, Norway Starts to See Russian Spies Everywhere</h3>
 <sub>By Erika Solomon and Henrik Pryser Libell,   Monday, December 12, Central Standard Time</sub>
-<p>Other European countries are too, blurring the line between vigilance and paranoia.<a href="https://developer.nytimes.com/"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Other European countries are too, blurring the line between vigilance and paranoia.  <a href="https://nyti.ms/3FnvN7D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<a href="https://nyti.ms/3Fig0al"><h3>The World Cup Is Ending, but the Migrant Labor Economy Grinds On</h3></a>
+<h3>The World Cup Is Ending, but the Migrant Labor Economy Grinds On</h3>
 <sub>By Nicole Salazar, Pramod Acharya and Sarah Kerr,   Monday, December 12, Central Standard Time</sub>
-<p>The World Cup was a $220 billion construction project powered by migrant workers. We went to Nepal — a major source of labor for Qatar — to find out what’s driving workers to do dangerous jobs that many say they can’t afford to lose.<a href="https://developer.nytimes.com/"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The World Cup was a $220 billion construction project powered by migrant workers. We went to Nepal — a major source of labor for Qatar — to find out what’s driving workers to do dangerous jobs that many say they can’t afford to lose.  <a href="https://nyti.ms/3Fig0al"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<a href="https://nyti.ms/3hdsLLu"><h3>The Team That Refuses to Lose</h3></a>
+<h3>The Team That Refuses to Lose</h3>
 <sub>By Rory Smith,   Monday, December 12, Central Standard Time</sub>
-<p>Croatia, a nation of four million people, needs one more win to reach a second straight World Cup final. If it happens, it will probably come on penalties, and certainly after extra time.<a href="https://developer.nytimes.com/"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Croatia, a nation of four million people, needs one more win to reach a second straight World Cup final. If it happens, it will probably come on penalties, and certainly after extra time.  <a href="https://nyti.ms/3hdsLLu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<a href="https://nyti.ms/3UZkYyI"><h3>Fentanyl Cuts a Bitter Swath Through Milwaukee</h3></a>
+<h3>Fentanyl Cuts a Bitter Swath Through Milwaukee</h3>
 <sub>By Julie Bosman,   Monday, December 12, Central Standard Time</sub>
-<p>The potent opioid increasingly is afflicting people of color in American cities. “I’ve seen a lot of terrible drugs,” said a veteran drug counselor. “This is the worst.”<a href="https://developer.nytimes.com/"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The potent opioid increasingly is afflicting people of color in American cities. “I’ve seen a lot of terrible drugs,” said a veteran drug counselor. “This is the worst.”  <a href="https://nyti.ms/3UZkYyI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<hr/>
 </ol>
+<a href="https://developer.nytimes.com"><sub>Data provided by The New York Times</sub></a>
 
 <h2>Special Thanks to...</h2>
 <ul>
