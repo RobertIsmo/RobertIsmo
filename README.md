@@ -61,6 +61,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>It is Tuesday, December 13, Central Standard Time</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>S.E.C. Charges Sam Bankman-Fried With Defrauding FTX Investors</h3>
+<sub>By Matthew Goldstein</sub>
+<p>The founder of the collapsed crypto exchange was accused of “orchestrating a scheme to defraud equity investors” who put more than $1.8 billion into the company.  <a href="https://nyti.ms/3W45hXQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>FTX’s Sam Bankman-Fried Is Arrested in the Bahamas</h3>
 <sub>By David Yaffe-Bellany, William K. Rashbaum and Matthew Goldstein</sub>
 <p>A statement by the government of the Bahamas said Mr. Bankman-Fried was arrested after prosecutors in the United States filed criminal charges.  <a href="https://nyti.ms/3Yl4bIY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -72,46 +78,46 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>The FTX founder Sam Bankman-Fried’s mother and father, who teach at Stanford Law School, are under scrutiny for their connections to their son’s crypto business.  <a href="https://nyti.ms/3VQKuHC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Covid Spreads Fast, Beijing Isn’t in Lockdown. But It Feels Like It.</h3>
+<sub>By Keith Bradsher and David Pierson</sub>
+<p>Almost no one is venturing out even after an easing of pandemic measures. Cold and flu medicines are scarce, but food supplies appear adequate.  <a href="https://nyti.ms/3uJHUaa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>For U.S. Museums With Looted Art, the Indiana Jones Era Is Over</h3>
+<sub>By Graham Bowley</sub>
+<p>Prodded by law enforcement, and pushed by foreign governments, American museums are increasingly returning artifacts to countries of origin, but critics wonder at what cost.  <a href="https://nyti.ms/3Fqvk4Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In FTX Collapse, Binance Sees a Chance to Become the New Face of Crypto</h3>
-<sub>By Emily Flitter and David Yaffe-Bellany</sub>
-<p>Sam Bankman-Fried and Changpeng Zhao were archrivals. With FTX gone, Binance, the world’s biggest crypto exchange, is trying to step into the void.  <a href="https://nyti.ms/3W6SpQw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Inflation Forecasts Were Wrong Last Year. Should We Believe Them Now?</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Economists misjudged how much staying power inflation would have. Next year could be better — but there’s ample room for humility.  <a href="https://nyti.ms/3URC2qe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Sam Bankman-Fried Blames ‘Huge Management Failures’ for FTX Collapse</h3>
-<sub>By David Yaffe-Bellany</sub>
-<p>Mr. Bankman-Fried spoke at The New York Times’s DealBook conference, in his first public appearance since his crypto exchange imploded.  <a href="https://nyti.ms/3GZJ3lj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Climate Impact of Your Neighborhood, Mapped</h3>
+<sub>By Nadja Popovich, Mira Rojanasakul and Brad Plumer</sub>
+<p>Where and how you live shapes your household’s contribution to climate change. Explore differences across the nation.  <a href="https://nyti.ms/3HzVzbB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Major Fusion Energy Breakthrough to Be Announced by Scientists</h3>
-<sub>By Kenneth Chang</sub>
-<p>Researchers working with lasers at Lawrence Livermore National Laboratory are expected to say they made a major advance that could lead to future energy sources.  <a href="https://nyti.ms/3BpMr5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>2022 Review: How Republicans Lost Despite Winning the Popular Vote</h3>
+<sub>By Nate Cohn</sub>
+<p>There were several reasons Republicans struggled to translate votes into seats, including candidate quality and strength in the wrong places.  <a href="https://nyti.ms/3uJGWe3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Two Groups Quietly Spent $32 Million Rallying Voters Behind Voting Rights</h3>
+<sub>By Katie Glueck</sub>
+<p>The money largely went to state and local organizations that often focused on turning out young voters and people of color, including with messages about threats to freedom and democracy.  <a href="https://nyti.ms/3YgzzZh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mass Migrant Crossing Floods Texas Border Facilities</h3>
-<sub>By Simon Romero, J. David Goodman and Eileen Sullivan</sub>
-<p>The arrival of up to 1,000 migrants, the latest big group to have crossed the border, was one of the largest single crossings in recent years in West Texas, which has seen a surge in migration.  <a href="https://nyti.ms/3UKn0CA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Iran Turns to Public Executions, Enraging an Already Protesting Public</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>In the second execution in just a few days, a 23-year-old protester was hanged from a construction crane at dawn in the city of Mashhad, galvanizing a new wave of demonstrations.  <a href="https://nyti.ms/3HuHwnJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Skips Annual News Conference, Avoiding Possible Questions on War</h3>
-<sub>By Neil MacFarquhar</sub>
-<p>The December event has offered reporters rare — albeit stage-managed — chances to pose hard questions. With the war going poorly for Russia, that could have been awkward.  <a href="https://nyti.ms/3WdRsWG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Wary Arctic, Norway Starts to See Russian Spies Everywhere</h3>
-<sub>By Erika Solomon and Henrik Pryser Libell</sub>
-<p>Other European countries are too, blurring the line between vigilance and paranoia.  <a href="https://nyti.ms/3FnvN7D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Lauren Boebert, Far-Right Firebrand, Wins Re-election After Recount</h3>
+<sub>By Jazmine Ulloa and Neil Vigdor</sub>
+<p>Ms. Boebert defeated Adam Frisch in Colorado’s Republican-leaning Third District to win a second term in the House.  <a href="https://nyti.ms/3uMq72o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -126,22 +132,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Croatia, a nation of four million people, needs one more win to reach a second straight World Cup final. If it happens, it will probably come on penalties, and certainly after extra time.  <a href="https://nyti.ms/3hdsLLu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fentanyl Cuts a Bitter Swath Through Milwaukee</h3>
-<sub>By Julie Bosman</sub>
-<p>The potent opioid increasingly is afflicting people of color in American cities. “I’ve seen a lot of terrible drugs,” said a veteran drug counselor. “This is the worst.”  <a href="https://nyti.ms/3UZkYyI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
-<hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-I&#39;ve got some news to share. There&#39;s been criminal charges leveled against Sam Bankman-Fried at the founder of FTX, and it looks like there are some connections to his parents who are faculty members at Stanford Law School. In other business news, with FTX gone, Binance is trying to jump into the void and be one of the biggest crypto exchanges around.
-
-Turning to science, researchers at Lawrence Livermore National Laboratory just had a major breakthrough involving lasers that could lead to new energy sources in the future. And over in Texas there has been a surge of migrant crossings on the border which have overwhelmed the area. 
-
-Meanwhile, in a few places around the world, Iran has been using public executions for protesters and Russia&#39;s president Putin decided to skip his annual press conference for reasons possibly related to their war efforts. And in Norway, there&#39;s been a heightened level of paranoia because everybody is on alert for Russian spies. 
-
-In sports news, Qatar hired a lot of retired players for their World Cup coverage and Croatia is one win away from its second straight World Cup final (which may go into extra time!). Lastly, Fentanyl is cutting through Milwaukee and it&#39;s especially affecting people of color - it sounds like this is one of the worst drugs that an experienced drug counselor has seen.</p>
+There&#39;s a lot going on in the world right now. The SEC has charged Sam Bankman-Fried, the founder of the collapsed crypto exchange, with defrauding investors who had put more than $1.8 billion into the company. He was arrested in the Bahamas, and his parents, who teach at Stanford Law School, are under scrutiny for their connections to his crypto business. On top of that, as Covid continues to spread, Beijing&#39;s population is not in lockdown but feeling like it is. American museums are increasingly being called to return artifacts to countries where they originated from. Additionally, inflation forecasts have been wrong in the past, but economists are speculating about next year&#39;s economy. We can also explore the contributions each neighborhood makes to climate change on maps. In politics, Republicans lost out despite winning on popular vote due to some factors we should investigate further. Finally on sports news, Croatia needs one more win to reach a second straight World Cup final while Qatar&#39;s beIN Sports hires retired players and interpreters to bring authority to its World Cup coverage.</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
