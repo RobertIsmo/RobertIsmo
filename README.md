@@ -120,10 +120,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Defying age and his opponents, Lionel Messi gets a little help from his friends.  <a href="https://nyti.ms/3uLM6qf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>What’s Powering Argentina at the World Cup? 1,100 Pounds of Yerba Mate.</h3>
-<sub>By James Wagner</sub>
-<p>The herbal drink is beloved by South American players, who have taken it with them around the world — including to Qatar.  <a href="https://nyti.ms/3BuTB8I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Joy and Anxiety Collide as Moroccans Look to World Cup Match With France</h3>
+<sub>By Vivian Yee and Aida Alami</sub>
+<p>Morocco’s magical run has elated fans, but for some, the strain of the impending showdown with the country’s former colonial overlords is too much.  <a href="https://nyti.ms/3VO072p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -135,7 +135,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-There is a lot going on right now in the world. Elon Musk is shaking up twitter&#39;s legal team as he looks to cut more costs, and any potential mess in Arizona caused some heartburn for Democrats recently. There was also a criminal indictment involving Sam Bankman-Fried&#39;s crypto empire recently and the US is planning to send Patriot missiles to Ukraine. On the global stage, France-led efforts are in place to provide billions of dollars worth of aid to Ukraine, while Ukraine is likely preparing for a new front in the war against Russia. Lastly, sports news wise, Lionel Messi is showing age won&#39;t stop him from playing well in the World Cup tournament and Qatar stadiums have been built with cooling systems for their incredibly hot climate.</p>
+Right now, there is a lot going on in the world. In the technology industry, Elon Musk is trying to find ways to cut costs at Twitter. The US political landscape is not looking easy right now as right-wing opponents are standing strong against the reelection of Representative Kevin McCarthy and Democrats are scrambling to figure out what to do with their Senate seats in 2024. In other news, prosecutors have alleged that FTX was &quot;engaged in massive, yearslong fraud&quot; and that two US nationals and five Russians have been charged for conspiring to provide military-grade technology to Russia. In sports, Lionel Messi is continuing to defy age and opponents with some help from his friends as Moroccans anxiously prepare for a FIFA World Cup match with France. Lastly, Qatar is aiming for the future of sports stadiums in a climate change world by building cooling systems.</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
