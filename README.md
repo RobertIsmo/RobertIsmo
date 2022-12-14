@@ -60,10 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 14, Central Standard Time</p>
 <ol>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Musk Shakes Up Twitter’s Legal Team as He Looks to Cut More Costs</h3>
-<sub>By Ryan Mac, Mike Isaac and Kate Conger</sub>
-<p>Twitter has stopped paying rent on offices and is considering not paying severance packages to former employees, among other measures.  <a href="https://nyti.ms/3VUWzvr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Will China Fare With Covid? ‘Meaningless’ Data Clouds the Picture.</h3>
+<sub>By Daisuke Wakabayashi and Claire Fu</sub>
+<p>Despite assurances that the situation is under control, information on infections has become more opaque now that Beijing has rolled back pandemic restrictions.  <a href="https://nyti.ms/3WeL0iq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Federal Reserve Expected to Slow Rate Increases and Offer Hints at Future</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Central bankers are still fighting inflation, but are poised to slow to a rate increase of half a percentage point at their final meeting of 2022.  <a href="https://nyti.ms/3YqQ3hp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Defenses Carved Into the Earth</h3>
+<sub>By Marco Hernandez and Josh Holder</sub>
+<p>Russia is building a vast network of trenches, traps and obstacles to slow Ukraine’s momentum. Will it work?  <a href="https://nyti.ms/3uPUZyN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Russia’s ‘Sham’ Charge of Spying Makes Whelan’s Case the Hardest</h3>
+<sub>By Michael Crowley</sub>
+<p>Supporters say Paul Whelan is more hapless tourist than James Bond — and that the Russians know it. But that doesn’t make freeing him any easier.  <a href="https://nyti.ms/3BX4Qaj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Poised to Send Patriot Missiles to Ukraine, Officials Say</h3>
+<sub>By Eric Schmitt and John Ismay</sub>
+<p>The officials said a directive could be approved as early as this week to transfer the Patriot, the United States’ most advanced ground-based air defense system.  <a href="https://nyti.ms/3UWTDgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -73,46 +97,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Which Party Controls the Pennsylvania House? It’s TBD.</h3>
-<sub>By Campbell Robertson</sub>
-<p>Three seats won by Democrats in November are now vacant, giving Republicans more House members for now and sowing uncertainty ahead of the legislative session.  <a href="https://nyti.ms/3BxPyZl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Prosecutors Say FTX Was Engaged in a ‘Massive, Yearslong Fraud’</h3>
-<sub>By David Yaffe-Bellany, Matthew Goldstein and Emily Flitter</sub>
-<p>A criminal indictment unsealed on Tuesday and a complaint by the S.E.C. describe years of wrongdoing in Sam Bankman-Fried’s crypto empire.  <a href="https://nyti.ms/3BvYMoR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<h3>In Congress, Party Switching Cuts Both Ways</h3>
+<sub>By Carl Hulse</sub>
+<p>If history is any guide, Senator Kyrsten Sinema of Arizona, the latest lawmaker to change her stripes, faces an uncertain future.  <a href="https://nyti.ms/3ByXRUD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Poised to Send Patriot Missiles to Ukraine, Officials Say</h3>
-<sub>By Eric Schmitt and John Ismay</sub>
-<p>The officials said a directive could be approved as early as this week to transfer the Patriot, the United States’ most advanced ground-based air defense system.  <a href="https://nyti.ms/3UWTDgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Targeting One Southern City, Ukraine Hints at Next Front in the War</h3>
-<sub>By Marc Santora</sub>
-<p>Using missiles and saboteurs, Ukraine is focusing on the city of Melitopol, a vital Russian link to Crimea, ahead of an expected southern offensive.  <a href="https://nyti.ms/3YiDnZX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Federal prosecutors say 2 U.S. nationals and 5 Russians conspired to feed Moscow’s ‘war machine.’</h3>
-<sub>By Ed Shanahan</sub>
-<p>The seven were charged in a scheme to provide millions of dollars worth of American-made, military-grade technology to Russia.  <a href="https://nyti.ms/3hp3rSK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Maestro Conducts, and the Band Plays the Hits</h3>
-<sub>By Rory Smith</sub>
-<p>Defying age and his opponents, Lionel Messi gets a little help from his friends.  <a href="https://nyti.ms/3uLM6qf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Watching at one of Argentina’s most sacred places: Maradona’s old home.</h3>
-<sub>By Jack Nicas</sub>
-<p>  <a href="https://nyti.ms/3j2CDIs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<h3>10 Years Later, a State Trooper Who Responded to Sandy Hook Looks Back</h3>
+<sub>By Elizabeth Williamson</sub>
+<p>Bill Cario was one of the first to enter the elementary school after the shooting on Dec. 14, 2012, but he stresses that he was not alone in helping, or in healing the community.  <a href="https://nyti.ms/3uTKeLO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Joy and Anxiety Collide as Moroccans Look to World Cup Match With France</h3>
@@ -126,16 +120,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Wednesday’s face-off between the Atlas Lions and Les Bleus will be about more than just soccer, reviving old colonial wounds and fueling identity debates.  <a href="https://nyti.ms/3YoiQ6y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Signs Bill to Protect Same-Sex Marriage Rights</h3>
-<sub>By Michael D. Shear</sub>
-<p>Proponents of the legislation argued that Congress needed to be proactive in ensuring a future Supreme Court would not invalidate same-sex marriages around the country.  <a href="https://nyti.ms/3HwjMQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Maestro Conducts, and the Band Plays the Hits</h3>
+<sub>By Rory Smith</sub>
+<p>Defying age and his opponents, Lionel Messi gets a little help from his friends as Argentina advances to the World Cup final.  <a href="https://nyti.ms/3uLM6qf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>New York’s Top 10 New Restaurants of 2022</h3>
+<sub>By Pete Wells</sub>
+<p>Pete Wells counts down his favorites in a year when the city’s dining scene began to act like its old self again.  <a href="https://nyti.ms/3FOURWN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-There is a lot going on in the world right now. For example, tech mogul Elon Musk is making moves to cut costs at Twitter, and Kevin McCarthy&#39;s bid for Speaker of the House has been thrown into turmoil because of a group of conservative detractors. Meanwhile, federal prosecutors have accused two US nationals and five Russians of conspiring to provide military-grade technology to Russia, and Ukraine appears to be launching a southern offensive against the city of Melitopol. There is also news relating to sports - Lionel Messi seems to be defying age and his opponents in soccer games with a little help from his friends, while Morocco is getting ready to face France in a World Cup match with implications that span more than just the sport. Finally, President Biden recently signed a bill into law designed to protect same-sex marriage rights across the country.</p>
+There are some interesting developments going on in the world right now. In terms of business, the Federal Reserve is expected to slow rate increases and give hints at future economic plans. On the geopolitical stage, Russia is building a big network of trenches and obstacles to slow the momentum of Ukraine. In the US, the Trump administration is sending Patriot missiles to Ukraine and the White House is dealing with opposition from right wing groups. Internationally, Morocco and France are getting ready to compete in a World Cup match that has become a symbol of old colonial tensions. And finally, there are lots of new restaurants popping up in New York City, according to Pete Wells.</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
