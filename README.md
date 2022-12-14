@@ -58,7 +58,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, December 13, Central Standard Time</p>
+<p>It is Wednesday, December 14, Central Standard Time</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Musk Shakes Up Twitter’s Legal Team as He Looks to Cut More Costs</h3>
@@ -73,12 +73,6 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Sinema’s Defection Gives Democrats More Heartburn Over the 2024 Senate Map</h3>
-<sub>By Blake Hounshell</sub>
-<p>A potential mess in Arizona was an unwelcome surprise for Democrats while they were still savoring their victories in 2022.  <a href="https://nyti.ms/3UWvjev"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Which Party Controls the Pennsylvania House? It’s TBD.</h3>
 <sub>By Campbell Robertson</sub>
 <p>Three seats won by Democrats in November are now vacant, giving Republicans more House members for now and sowing uncertainty ahead of the legislative session.  <a href="https://nyti.ms/3BxPyZl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -88,12 +82,6 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h3>Prosecutors Say FTX Was Engaged in a ‘Massive, Yearslong Fraud’</h3>
 <sub>By David Yaffe-Bellany, Matthew Goldstein and Emily Flitter</sub>
 <p>A criminal indictment unsealed on Tuesday and a complaint by the S.E.C. describe years of wrongdoing in Sam Bankman-Fried’s crypto empire.  <a href="https://nyti.ms/3BvYMoR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Poised to Send Patriot Missiles to Ukraine, Officials Say</h3>
-<sub>By Eric Schmitt and John Ismay</sub>
-<p>The officials said a directive could be approved as early as this week to transfer the Patriot, the United States’ most advanced ground-based air defense system.  <a href="https://nyti.ms/3UWTDgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,16 +114,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Morocco’s magical run has elated fans, but for some, the strain of the impending showdown with the country’s former colonial overlords is too much.  <a href="https://nyti.ms/3VO072p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Are Qatar’s World Cup Stadiums the Future of Sports in a Warming World?</h3>
-<sub>By John Branch</sub>
-<p>A mechanical engineer at Qatar University used giant tanks of cold water to create a cooling system in one of the hottest places on the planet.  <a href="https://nyti.ms/3HASo3o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Signs Bill to Protect Same-Sex Marriage Rights</h3>
+<sub>By Michael D. Shear</sub>
+<p>Proponents of the legislation argued that Congress needed to be proactive in ensuring a future Supreme Court would not invalidate same-sex marriages around the country.  <a href="https://nyti.ms/3HwjMQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The 12 Republican Senators Who Voted for the Same-Sex Marriage Law</h3>
+<sub>By Annie Karni</sub>
+<p>The group includes moderates and senators known for crossing party lines, a few who are retiring and some who had already broken with their party to support same-sex marriage.  <a href="https://nyti.ms/3iYgtXF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Somalis Are Dying of Hunger. Officials Say It’s Not a Famine. Why?</h3>
+<sub>By Declan Walsh</sub>
+<p>An official declaration of famine would unleash aid and attention. Some experts say Somalia shows that the international system for making the judgment is broken.  <a href="https://nyti.ms/3UVeyAy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-Right now, there is a lot going on in the world. In the technology industry, Elon Musk is trying to find ways to cut costs at Twitter. The US political landscape is not looking easy right now as right-wing opponents are standing strong against the reelection of Representative Kevin McCarthy and Democrats are scrambling to figure out what to do with their Senate seats in 2024. In other news, prosecutors have alleged that FTX was &quot;engaged in massive, yearslong fraud&quot; and that two US nationals and five Russians have been charged for conspiring to provide military-grade technology to Russia. In sports, Lionel Messi is continuing to defy age and opponents with some help from his friends as Moroccans anxiously prepare for a FIFA World Cup match with France. Lastly, Qatar is aiming for the future of sports stadiums in a climate change world by building cooling systems.</p>
+Right now, some pretty alarming things are happening in the world. In Ukraine, they&#39;re facing a military showdown with Russia over a city they&#39;re targeting. In Morocco, people are experiencing both joy and anxiety ahead of an upcoming World Cup match against France, their former colonial overlords. In Somalia, people are dying of hunger, but officials aren&#39;t officially declaring it a famine because that would bring more attention and aid. Meanwhile, here in the US, same-sex marriage rights were just protected with a bill that was signed by President Biden. Within the tech world, Elon Musk is shaking up Twitter&#39;s legal team and looking for ways to cut costs. Finally, in Pennsylvania there&#39;s an inconclusive situation going on with their House which is TBD.</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
