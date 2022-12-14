@@ -84,10 +84,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>A criminal indictment unsealed on Tuesday and a complaint by the S.E.C. describe years of wrongdoing in Sam Bankman-Fried’s crypto empire.  <a href="https://nyti.ms/3BvYMoR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Plan for More Donors and Faster Aid Yields $1 Billion for Ukraine Repairs</h3>
-<sub>By Catherine Porter and Liz Alderman</sub>
-<p>A French-led effort to involve dozens of countries aims to help Ukraine survive a harsh winter with quick repair of vital electrical, heating, water and health care systems.  <a href="https://nyti.ms/3BxZNN9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Poised to Send Patriot Missiles to Ukraine, Officials Say</h3>
+<sub>By Eric Schmitt and John Ismay</sub>
+<p>The officials said a directive could be approved as early as this week to transfer the Patriot, the United States’ most advanced ground-based air defense system.  <a href="https://nyti.ms/3UWTDgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -108,10 +108,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Defying age and his opponents, Lionel Messi gets a little help from his friends.  <a href="https://nyti.ms/3uLM6qf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Watching at one of Argentina’s most sacred places: Maradona’s old home.</h3>
+<sub>By Jack Nicas</sub>
+<p>  <a href="https://nyti.ms/3j2CDIs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Joy and Anxiety Collide as Moroccans Look to World Cup Match With France</h3>
 <sub>By Vivian Yee and Aida Alami</sub>
 <p>Morocco’s magical run has elated fans, but for some, the strain of the impending showdown with the country’s former colonial overlords is too much.  <a href="https://nyti.ms/3VO072p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Morocco and France Prepare to Play, Decades of History Collide</h3>
+<sub>By Constant Méheut and Tom Nouvian</sub>
+<p>Wednesday’s face-off between the Atlas Lions and Les Bleus will be about more than just soccer, reviving old colonial wounds and fueling identity debates.  <a href="https://nyti.ms/3YoiQ6y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,22 +132,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Proponents of the legislation argued that Congress needed to be proactive in ensuring a future Supreme Court would not invalidate same-sex marriages around the country.  <a href="https://nyti.ms/3HwjMQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The 12 Republican Senators Who Voted for the Same-Sex Marriage Law</h3>
-<sub>By Annie Karni</sub>
-<p>The group includes moderates and senators known for crossing party lines, a few who are retiring and some who had already broken with their party to support same-sex marriage.  <a href="https://nyti.ms/3iYgtXF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Somalis Are Dying of Hunger. Officials Say It’s Not a Famine. Why?</h3>
-<sub>By Declan Walsh</sub>
-<p>An official declaration of famine would unleash aid and attention. Some experts say Somalia shows that the international system for making the judgment is broken.  <a href="https://nyti.ms/3UVeyAy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-Right now, some pretty alarming things are happening in the world. In Ukraine, they&#39;re facing a military showdown with Russia over a city they&#39;re targeting. In Morocco, people are experiencing both joy and anxiety ahead of an upcoming World Cup match against France, their former colonial overlords. In Somalia, people are dying of hunger, but officials aren&#39;t officially declaring it a famine because that would bring more attention and aid. Meanwhile, here in the US, same-sex marriage rights were just protected with a bill that was signed by President Biden. Within the tech world, Elon Musk is shaking up Twitter&#39;s legal team and looking for ways to cut costs. Finally, in Pennsylvania there&#39;s an inconclusive situation going on with their House which is TBD.</p>
+There is a lot going on in the world right now. For example, tech mogul Elon Musk is making moves to cut costs at Twitter, and Kevin McCarthy&#39;s bid for Speaker of the House has been thrown into turmoil because of a group of conservative detractors. Meanwhile, federal prosecutors have accused two US nationals and five Russians of conspiring to provide military-grade technology to Russia, and Ukraine appears to be launching a southern offensive against the city of Melitopol. There is also news relating to sports - Lionel Messi seems to be defying age and his opponents in soccer games with a little help from his friends, while Morocco is getting ready to face France in a World Cup match with implications that span more than just the sport. Finally, President Biden recently signed a bill into law designed to protect same-sex marriage rights across the country.</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
