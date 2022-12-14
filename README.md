@@ -60,16 +60,64 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 13, Central Standard Time</p>
 <ol>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Musk Shakes Up Twitter’s Legal Team as He Looks to Cut More Costs</h3>
+<sub>By Ryan Mac, Mike Isaac and Kate Conger</sub>
+<p>Twitter has stopped paying rent on offices and is considering not paying severance packages to former employees, among other measures.  <a href="https://nyti.ms/3VUWzvr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Despite Trump’s Lobbying, McCarthy’s Speaker Bid Remains Imperiled on the Right</h3>
+<sub>By Catie Edmondson, Maggie Haberman and Annie Karni</sub>
+<p>Representative Kevin McCarthy is dealing with a group of right-wing detractors who appear impervious to negotiation, and who have yet to be moved even by the entreaties of the former president.  <a href="https://nyti.ms/3VU2W27"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Sinema’s Defection Gives Democrats More Heartburn Over the 2024 Senate Map</h3>
+<sub>By Blake Hounshell</sub>
+<p>A potential mess in Arizona was an unwelcome surprise for Democrats while they were still savoring their victories in 2022.  <a href="https://nyti.ms/3UWvjev"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Which Party Controls the Pennsylvania House? It’s TBD.</h3>
+<sub>By Campbell Robertson</sub>
+<p>Three seats won by Democrats in November are now vacant, giving Republicans more House members for now and sowing uncertainty ahead of the legislative session.  <a href="https://nyti.ms/3BxPyZl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Prosecutors Say FTX Was Engaged in a ‘Massive, Yearslong Fraud’</h3>
-<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
+<sub>By David Yaffe-Bellany, Matthew Goldstein and Emily Flitter</sub>
 <p>A criminal indictment unsealed on Tuesday and a complaint by the S.E.C. describe years of wrongdoing in Sam Bankman-Fried’s crypto empire.  <a href="https://nyti.ms/3BvYMoR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Hey Silicon Valley, It’s Time to Wear a Suit</h3>
-<sub>By Vanessa Friedman</sub>
-<p>Sam Bankman-Fried’s choices may signal an end to the schlubby mystique.  <a href="https://nyti.ms/3FMp8pa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Poised to Send Patriot Missiles to Ukraine, Officials Say</h3>
+<sub>By Eric Schmitt and John Ismay</sub>
+<p>The officials said a directive could be approved as early as this week to transfer the Patriot, the United States’ most advanced ground-based air defense system.  <a href="https://nyti.ms/3UWTDgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Plan for More Donors and Faster Aid Yields $1 Billion for Ukraine Repairs</h3>
+<sub>By Catherine Porter and Liz Alderman</sub>
+<p>A French-led effort to involve dozens of countries aims to help Ukraine survive a harsh winter with quick repair of vital electrical, heating, water and health care systems.  <a href="https://nyti.ms/3BxZNN9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Targeting One Southern City, Ukraine Hints at Next Front in the War</h3>
+<sub>By Marc Santora</sub>
+<p>Using missiles and saboteurs, Ukraine is focusing on the city of Melitopol, a vital Russian link to Crimea, ahead of an expected southern offensive.  <a href="https://nyti.ms/3YiDnZX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Federal prosecutors say 2 U.S. nationals and 5 Russians conspired to feed Moscow’s ‘war machine.’</h3>
+<sub>By Ed Shanahan</sub>
+<p>The seven were charged in a scheme to provide millions of dollars worth of American-made, military-grade technology to Russia.  <a href="https://nyti.ms/3hp3rSK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Maestro Conducts, and the Band Plays the Hits</h3>
+<sub>By Rory Smith</sub>
+<p>Defying age and his opponents, Lionel Messi gets a little help from his friends.  <a href="https://nyti.ms/3uLM6qf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -79,63 +127,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Soccer Legends, Arab Viewers and the Man in the Middle</h3>
-<sub>By Tariq Panja</sub>
-<p>Qatar’s beIN Sports hired a host of retired players to bring authority to its World Cup coverage and a group of interpreters to render their words into Arabic. The toughest assignments go to one man.  <a href="https://nyti.ms/3ULLdZj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Are Qatar’s World Cup Stadiums the Future of Sports in a Warming World?</h3>
 <sub>By John Branch</sub>
 <p>A mechanical engineer at Qatar University used giant tanks of cold water to create a cooling system in one of the hottest places on the planet.  <a href="https://nyti.ms/3HASo3o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Scientists Achieve Nuclear Fusion Breakthrough With Blast of 192 Lasers</h3>
-<sub>By Kenneth Chang</sub>
-<p>The advancement by Lawrence Livermore National Laboratory researchers will be built on to further develop fusion energy research.  <a href="https://nyti.ms/3PuiZkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Fusion? We’ve Seen This Movie Before.</h3>
-<sub>By Maya Phillips</sub>
-<p>The promise of a new, bountiful energy source, not to mention the giant lasers, may sound familiar to fans of science fiction and comics.  <a href="https://nyti.ms/3uNUkOo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Cooled Notably in November, Good News for the Fed</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Consumer Price Index data reinforces that inflation is beginning to slow down just ahead of the Federal Reserve’s December rate decision.  <a href="https://nyti.ms/3iToahP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Climate Impact of Your Neighborhood, Mapped</h3>
-<sub>By Nadja Popovich, Mira Rojanasakul and Brad Plumer</sub>
-<p>Where and how you live shapes your household’s contribution to climate change. Explore differences across the nation.  <a href="https://nyti.ms/3HzVzbB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Covid Spreads Fast, Beijing Isn’t in Lockdown. But It Feels Like It.</h3>
-<sub>By Keith Bradsher and David Pierson</sub>
-<p>Almost no one is venturing out even after an easing of pandemic measures. Cold and flu medicines are scarce, but food supplies appear adequate.  <a href="https://nyti.ms/3uJHUaa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>It’s Time to Wear a Mask Again, Health Experts Say</h3>
-<sub>By Dana G. Smith</sub>
-<p>A high-quality, well-fitting mask is your best protection against infection from the coronavirus, influenza and R.S.V.  <a href="https://nyti.ms/3FMO0x4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Do You Have Covid, Flu or R.S.V.?</h3>
-<sub>By Knvul Sheikh</sub>
-<p>If you’re feeling sick, this handy chart will help you zero in on which virus you might have.  <a href="https://nyti.ms/3Ftm4gj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-Right now, the world is in the midst of two challenges—the coronavirus pandemic and climate change. With the Covid-19 virus spreading rapidly, health experts are recommending that people wear masks to reduce the spread of infection. Inflation has cooled a bit, good news for the Federal Reserve who will be making a rate decision this December. In soccer news, people are taking yerba mate, a herbal drink, to the 2022 World Cup hosted in Qatar. There&#39;s also some potentially exciting developments in nuclear fusion energy research happening at Lawrence Livermore National Laboratory. In terms of climate change, there&#39;s a new interactive map available that helps you understand the impact of your neighborhood on the environment. On top of all this, Sam Bankman-Fried&#39;s crypto empire is facing criminal charges for massive fraud and Silicon Valley&#39;s schlubby mystique may soon be coming to an end.</p>
+There is a lot going on right now in the world. Elon Musk is shaking up twitter&#39;s legal team as he looks to cut more costs, and any potential mess in Arizona caused some heartburn for Democrats recently. There was also a criminal indictment involving Sam Bankman-Fried&#39;s crypto empire recently and the US is planning to send Patriot missiles to Ukraine. On the global stage, France-led efforts are in place to provide billions of dollars worth of aid to Ukraine, while Ukraine is likely preparing for a new front in the war against Russia. Lastly, sports news wise, Lionel Messi is showing age won&#39;t stop him from playing well in the World Cup tournament and Qatar stadiums have been built with cooling systems for their incredibly hot climate.</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
