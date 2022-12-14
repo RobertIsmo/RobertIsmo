@@ -61,15 +61,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>It is Wednesday, December 14, Central Standard Time</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Will China Fare With Covid? ‘Meaningless’ Data Clouds the Picture.</h3>
-<sub>By Daisuke Wakabayashi and Claire Fu</sub>
-<p>Despite assurances that the situation is under control, information on infections has become more opaque now that Beijing has rolled back pandemic restrictions.  <a href="https://nyti.ms/3WeL0iq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Federal Reserve Expected to Slow Rate Increases and Offer Hints at Future</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Central bankers are still fighting inflation, but are poised to slow to a rate increase of half a percentage point at their final meeting of 2022.  <a href="https://nyti.ms/3YqQ3hp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What Fed Rate Increases Mean for Mortgages, Credit Cards and More</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>Savers will benefit and borrowers can expect to pay more on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3BCwNUt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -90,6 +84,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>The Russian arms dealer swapped for Brittney Griner was convicted of conspiring to kill Americans. But in the 1990s and early 2000s, he supplied weapons to myriad African conflicts.  <a href="https://nyti.ms/3URlCy0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Will China Fare With Covid? ‘Meaningless’ Data Clouds the Picture.</h3>
+<sub>By Daisuke Wakabayashi and Claire Fu</sub>
+<p>Despite assurances that the situation is under control, information on infections has become more opaque now that Beijing has rolled back pandemic restrictions.  <a href="https://nyti.ms/3WeL0iq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Despite Trump’s Lobbying, McCarthy’s Speaker Bid Remains Imperiled on the Right</h3>
 <sub>By Catie Edmondson, Maggie Haberman and Annie Karni</sub>
@@ -102,14 +102,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>If history is any guide, Senator Kyrsten Sinema of Arizona, the latest lawmaker to change her stripes, faces an uncertain future.  <a href="https://nyti.ms/3ByXRUD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>10 Years Later, a State Trooper Who Responded to Sandy Hook Looks Back</h3>
-<sub>By Elizabeth Williamson</sub>
-<p>Bill Cario was one of the first to enter the elementary school after the shooting on Dec. 14, 2012, but he stresses that he was not alone in helping, or in healing the community.  <a href="https://nyti.ms/3uTKeLO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Joy and Anxiety Collide as Moroccans Look to World Cup Match With France</h3>
+<h3>Joy and Anxiety as Moroccans Look to World Cup Match With France</h3>
 <sub>By Vivian Yee and Aida Alami</sub>
 <p>Morocco’s magical run has elated fans, but for some, the strain of the impending showdown with the country’s former colonial overlords is too much.  <a href="https://nyti.ms/3VO072p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
@@ -120,22 +114,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Wednesday’s face-off between the Atlas Lions and Les Bleus will be about more than just soccer, reviving old colonial wounds and fueling identity debates.  <a href="https://nyti.ms/3YoiQ6y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Maestro Conducts, and the Band Plays the Hits</h3>
-<sub>By Rory Smith</sub>
-<p>Defying age and his opponents, Lionel Messi gets a little help from his friends as Argentina advances to the World Cup final.  <a href="https://nyti.ms/3uLM6qf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Grant Wahl Died of a Burst Blood Vessel, His Family Says</h3>
 <sub>By Apoorva Mandavilli and Andrew Das</sub>
 <p>An autopsy in New York showed that the journalist had a tear in the ascending aorta, a large vessel that carries blood from the heart.  <a href="https://nyti.ms/3WeQkST"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>New York’s Top 10 New Restaurants of 2022</h3>
+<sub>By Pete Wells</sub>
+<p>Pete Wells counts down his favorites in a year when the city’s dining scene began to act like its old self again.  <a href="https://nyti.ms/3FOURWN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>They Fought the Lawn. And the Lawn Lost.</h3>
+<sub>By Cara Buckley and Jason Andrew</sub>
+<p>After their homeowner association ordered them to replace their wildlife-friendly plants with turf grass, a Maryland couple sued. They ended up changing state law.  <a href="https://nyti.ms/3ByRuRi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-Right now, there&#39;s a lot going on in the world. China is struggling to report reliable information on Covid infections due to pandemic restrictions, while the Federal Reserve is slowing rate increases and giving hints about the future economy. In Russia, a man accused of spying is having difficulty being freed from captivity. Meanwhile, Africa is grappling with the legacy of Russian arms dealer Viktor Bout and his role in supplying weapons to bloody conflicts across the continent for decades. In Congress, both parties are dealing with members changing sides and an intense battle for speaker of the House. The anniversary of the Sandy Hook shooting was last week and survivors are reflecting on how far they&#39;ve come since then. Morocco and France recently played each other in a World Cup game—a showdown which dredged up old colonial wounds. And finally, Lionel Messi helped Argentina advance to the World Cup final by getting a little help from his teammates, while journalist Grant Wahl tragically died of a burst blood vessel.</p>
+Well, it looks like Fed Rate increases could mean higher costs for borrowing on credit cards, student loans and other forms of debt in the US. In Russia, they&#39;re constructing a defence network to slow down Ukraine&#39;s progress. On a different note, an American citizen was arrested in Russia on spying charges that some say are unfounded. Russians arms dealer Viktor Bout has left a dark legacy throughout Africa due to his distribution of weapons during the 1990s and early 2000s.
+In China, Covid-19 stats have become more opaque as restrictions have been relaxed. A group of right-wingers in the US are seemingly unphased by former President Trump&#39;s lobbying efforts to get Kevin McCarthy elected Speaker of the House. Senator Kyrsten Sinema is another lawmaker who switched party lines in 2021; her future is unclear at this point. 
+Morocco and France are currently set up for a World Cup match with some underlying colonial tensions at play. Grant Wahl passed away from a burst blood vessel in his heart and it&#39;s been quite a year for New York City&#39;s restaurant scene with Pete Wells providing his own top 10 list of new eateries. Lastly, a Maryland couple fought against their Homeowner Association when they were asked to replace their wildlife-friendly plants with turf grass - they ended up changing state law!</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
