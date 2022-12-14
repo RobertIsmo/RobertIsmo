@@ -84,11 +84,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Supporters say Paul Whelan is more hapless tourist than James Bond — and that the Russians know it. But that doesn’t make freeing him any easier.  <a href="https://nyti.ms/3BX4Qaj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Poised to Send Patriot Missiles to Ukraine, Officials Say</h3>
-<sub>By Eric Schmitt and John Ismay</sub>
-<p>The officials said a directive could be approved as early as this week to transfer the Patriot, the United States’ most advanced ground-based air defense system.  <a href="https://nyti.ms/3UWTDgz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Liberia and Across Africa, Viktor Bout’s Bloody Legacy Is Still Felt</h3>
+<sub>By Ruth Maclean and Dounard Bondo</sub>
+<p>The Russian arms dealer swapped for Brittney Griner was convicted of conspiring to kill Americans. But in the 1990s and early 2000s, he supplied weapons to myriad African conflicts.  <a href="https://nyti.ms/3URlCy0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Despite Trump’s Lobbying, McCarthy’s Speaker Bid Remains Imperiled on the Right</h3>
@@ -126,16 +126,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Defying age and his opponents, Lionel Messi gets a little help from his friends as Argentina advances to the World Cup final.  <a href="https://nyti.ms/3uLM6qf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>New York’s Top 10 New Restaurants of 2022</h3>
-<sub>By Pete Wells</sub>
-<p>Pete Wells counts down his favorites in a year when the city’s dining scene began to act like its old self again.  <a href="https://nyti.ms/3FOURWN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Grant Wahl Died of a Burst Blood Vessel, His Family Says</h3>
+<sub>By Apoorva Mandavilli and Andrew Das</sub>
+<p>An autopsy in New York showed that the journalist had a tear in the ascending aorta, a large vessel that carries blood from the heart.  <a href="https://nyti.ms/3WeQkST"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-There are some interesting developments going on in the world right now. In terms of business, the Federal Reserve is expected to slow rate increases and give hints at future economic plans. On the geopolitical stage, Russia is building a big network of trenches and obstacles to slow the momentum of Ukraine. In the US, the Trump administration is sending Patriot missiles to Ukraine and the White House is dealing with opposition from right wing groups. Internationally, Morocco and France are getting ready to compete in a World Cup match that has become a symbol of old colonial tensions. And finally, there are lots of new restaurants popping up in New York City, according to Pete Wells.</p>
+Right now, there&#39;s a lot going on in the world. China is struggling to report reliable information on Covid infections due to pandemic restrictions, while the Federal Reserve is slowing rate increases and giving hints about the future economy. In Russia, a man accused of spying is having difficulty being freed from captivity. Meanwhile, Africa is grappling with the legacy of Russian arms dealer Viktor Bout and his role in supplying weapons to bloody conflicts across the continent for decades. In Congress, both parties are dealing with members changing sides and an intense battle for speaker of the House. The anniversary of the Sandy Hook shooting was last week and survivors are reflecting on how far they&#39;ve come since then. Morocco and France recently played each other in a World Cup game—a showdown which dredged up old colonial wounds. And finally, Lionel Messi helped Argentina advance to the World Cup final by getting a little help from his teammates, while journalist Grant Wahl tragically died of a burst blood vessel.</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
