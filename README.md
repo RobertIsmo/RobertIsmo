@@ -63,7 +63,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>An Alternate Reality: How Russia’s State TV Spins the Ukraine War</h3>
 <sub>By Paul Mozur, Adam Satariano and Aaron Krolik</sub>
-<p>Leaked emails detail how Russia’s biggest state broadcaster, working with the nation’s security services, mined right-wing American news and Chinese media to craft a narrative that Moscow was winning.  <a href="https://nyti.ms/3hw4dNJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Leaked emails detail how Russia’s biggest state broadcaster, working with the nation’s security services, mined right-wing American news and Chinese media to craft a narrative that Moscow was winning.  <a href="https://nyti.ms/3YnHP9U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -117,7 +117,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Keeping the National in National Team Coach</h3>
 <sub>By Rory Smith</sub>
-<p>There is nothing in the rules that requires a World Cup team to be managed by someone born, raised or otherwise connected to that country. So should it matter?  <a href="https://nyti.ms/3V8DS6k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>There is nothing in the rules that requires a World Cup team to be managed by someone born, raised or otherwise connected to that country. So should it matter?  <a href="https://nyti.ms/3hvGVaO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -135,7 +135,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-There&#39;s a lot going on in the world right now! Russia is creating its own alternate reality to spin their involvement in the ongoing Ukraine war. There has been an infrared hunt for Russian troops by the Ukrainian army in an area called Bakhmut. In terms of business, Ascension, one of the biggest health systems in the US, had been cutting jobs and it left them unprepared when the pandemic hit. In terms of NY region news, community boards are actually pushing for more new housing due to an extreme shortage. The leaders are also wanting to transform commercial districts into 24&#x2F;7 live-and-work spaces since the pandemic has changed the city. On a more somber note, The Lives They Lived series is highlighting 12 children who were killed by guns this year worldwide. Morroco put up a really good fight against France in the World Cup and there was a neat gathering to watch Argentina&#39;s World Cup match at Diego Maradona&#39;s old house with free beef! Lastly, China is dealing with immense grief due to the strict &quot;zero Covid&quot; policy while here in the US we are restarting a program to provide free at-home Covid tests through the Postal Service.</p>
+Right now, the world is facing a lot of issues related to the COVID-19 pandemic. In the U.S., the Biden administration has announced it will offer free at-home COVID tests through the Postal Service. At the same time, the government is launching initiatives to help the homeless and those with mental health issues. On a global level, countries are competing for dominance in world events like the World Cup, and Russia has been accused of using state TV to spin a narrative about its victories in Ukraine&#39;s war. Additionally, there have been many tragic stories of children being killed by guns this year.</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
