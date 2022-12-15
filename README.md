@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 15, Central Standard Time</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Aims to Inject New Energy Into U.S. Relations With African Nations</h3>
-<sub>By Peter Baker and Declan Walsh</sub>
-<p>With the United States lagging behind China in influence on the continent, the president pledged investments in key areas for development.  <a href="https://nyti.ms/3W4W6qr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>An Alternate Reality: How Russia’s State TV Spins the Ukraine War</h3>
+<sub>By Paul Mozur, Adam Satariano and Aaron Krolik</sub>
+<p>Leaked emails detail how Russia’s biggest state broadcaster, working with the nation’s security services, mined right-wing American news and Chinese media to craft a narrative that Moscow was winning.  <a href="https://nyti.ms/3hw4dNJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Infrared Hunt for Russian Troops in the Battle for Bakhmut</h3>
@@ -72,16 +72,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>On a frigid December night, The New York Times accompanied members of a surveillance team for the Ukrainian Army as they used a thermal sight to find enemy positions miles away.  <a href="https://nyti.ms/3FuPVoG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Aims to Inject New Energy Into U.S. Relations With African Nations</h3>
+<sub>By Peter Baker and Declan Walsh</sub>
+<p>With the United States lagging behind China in influence on the continent, the president pledged investments in key areas for development.  <a href="https://nyti.ms/3W4W6qr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Keeping the National in National Team Coach</h3>
+<sub>By Rory Smith</sub>
+<p>There is nothing in the rules that requires a World Cup team to be managed by someone born, raised or otherwise connected to that country. So should it matter?  <a href="https://nyti.ms/3V8DS6k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Morocco Gave Everything. It Needed a Little More Against France.</h3>
 <sub>By Rory Smith</sub>
 <p>On some level this will always be Morocco’s World Cup, the one that made it a trailblazer, a record breaker, a watermark that will not fade.  <a href="https://nyti.ms/3YnxMld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Grant Wahl Died of a Burst Blood Vessel, His Family Says</h3>
-<sub>By Apoorva Mandavilli and Andrew Das</sub>
-<p>An autopsy in New York showed that the journalist had a tear in the ascending aorta, a large vessel that carries blood from the heart.  <a href="https://nyti.ms/3WeQkST"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -126,16 +132,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>La medida suspenderá algunos derechos civiles, como la libertad de reunión, y profundiza una crisis que se desató cuando el Congreso destituyó al presidente electo la semana pasada.  <a href="https://nyti.ms/3htsBj6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>U.C.L.A. Is Allowed by California Regents to Join Big Ten</h3>
-<sub>By Billy Witz</sub>
-<p>The Regents chose not to block U.C.L.A. from leaving the Pac-12. But it attached conditions that could cost the school more than $20 million annually, including some money that would be diverted to U.C. Berkeley.  <a href="https://nyti.ms/3j7HibR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-In the US, President Biden is trying to strengthen ties with African nations, while in Russia and Ukraine, people are searching for Russian troops with thermal sights. In sports, Morocco turned heads during the World Cup but ultimately didn&#39;t win. Tragically, journalist Grant Wahl died recently due to a tear in his ascending aorta. The Federal Reserve also made some headlines recently by slowing down rate increases, but signal more to come. Meanwhile, a warehouse fire in New York erased evidence from unsolved cases and a gala in New York hosted by the GOP drew the attention of extremists. Lastly, Peru is currently under a national state of emergency due to protests and political turmoil, and U.C.L.A. was recently allowed by the California Regents to join the Big Ten with certain conditions attached.</p>
+There is a lot of unrest in the world right now. In Russia, state media is reportedly manipulating news stories about the Ukraine war. Meanwhile in Perú, the government recently declared a national state of emergency due to violent protests after their president was impeached. In Morocco, the national soccer team gave an impressive performance at the World Cup but wasn&#39;t able to secure a win. In the US, President Biden is looking to strengthen US-Africa relations by investing in key development areas. The Federal Reserve also signaled more action as they slowed rate increases. And finally, a warehouse fire recently destroyed evidence in many unsolved cases and a New York event for young Republicans raised concerns because of some extremist attendees.</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
