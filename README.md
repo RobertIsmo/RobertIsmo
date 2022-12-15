@@ -58,7 +58,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, December 14, Central Standard Time</p>
+<p>It is Thursday, December 15, Central Standard Time</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Aims to Inject New Energy Into U.S. Relations With African Nations</h3>
@@ -66,10 +66,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>With the United States lagging behind China in influence on the continent, the president pledged investments in key areas for development.  <a href="https://nyti.ms/3W4W6qr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Federal Reserve signals more to come even as it slows rate increases.</h3>
-<sub>By Jeanna Smialek and Joe Rennison</sub>
-<p>Central bankers made a smaller rate move, but predicted that they will weigh the economy down more aggressively than previously expected  <a href="https://nyti.ms/3YqQ3hp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Infrared Hunt for Russian Troops in the Battle for Bakhmut</h3>
+<sub>By Thomas Gibbons-Neff and Tyler Hicks</sub>
+<p>On a frigid December night, The New York Times accompanied members of a surveillance team for the Ukrainian Army as they used a thermal sight to find enemy positions miles away.  <a href="https://nyti.ms/3FuPVoG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -84,16 +84,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>An autopsy in New York showed that the journalist had a tear in the ascending aorta, a large vessel that carries blood from the heart.  <a href="https://nyti.ms/3WeQkST"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Defenses Carved Into the Earth</h3>
-<sub>By Marco Hernandez and Josh Holder</sub>
-<p>Russia is building a vast network of trenches, traps and obstacles to slow Ukraine’s momentum. Will it work?  <a href="https://nyti.ms/3uPUZyN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Launches a Wave of Iranian-Made Drones at Kyiv After a Lull</h3>
-<sub>By Andrew E. Kramer and Marc Santora</sub>
-<p>Analysts had surmised that Russia was having trouble with the drones, but if a problem has been fixed, it remains unclear how long the Kremlin can sustain such attacks.  <a href="https://nyti.ms/3Yq2Q3W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Federal Reserve signals more to come even as it slows rate increases.</h3>
+<sub>By Jeanna Smialek and Joe Rennison</sub>
+<p>Central bankers made a smaller rate move, but predicted that they will weigh the economy down more aggressively than previously expected  <a href="https://nyti.ms/3YqQ3hp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -132,10 +126,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>La medida suspenderá algunos derechos civiles, como la libertad de reunión, y profundiza una crisis que se desató cuando el Congreso destituyó al presidente electo la semana pasada.  <a href="https://nyti.ms/3htsBj6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>U.C.L.A. Is Allowed by California Regents to Join Big Ten</h3>
+<sub>By Billy Witz</sub>
+<p>The Regents chose not to block U.C.L.A. from leaving the Pac-12. But it attached conditions that could cost the school more than $20 million annually, including some money that would be diverted to U.C. Berkeley.  <a href="https://nyti.ms/3j7HibR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-There is a lot of news from around the world! In the US, President Biden is aiming to increase relations between the US and African nations and the Federal Reserve is pausing on rate increases. Sports-wise, Morocco made history in their World Cup performance, despite not winning. In terms of healthcare, a journalist sadly passed away from a burst blood vessel. Internationally, Russia has been constructing defenses and launching drones into Ukraine and Peru is currently in a state of emergency because of political turmoil. Finally, in New York, there were incoming Republican lawmakers attending an event with extremists as well as a &#39;nightmare&#39; warehouse fire that destroyed evidence in unsolved cases.</p>
+In the US, President Biden is trying to strengthen ties with African nations, while in Russia and Ukraine, people are searching for Russian troops with thermal sights. In sports, Morocco turned heads during the World Cup but ultimately didn&#39;t win. Tragically, journalist Grant Wahl died recently due to a tear in his ascending aorta. The Federal Reserve also made some headlines recently by slowing down rate increases, but signal more to come. Meanwhile, a warehouse fire in New York erased evidence from unsolved cases and a gala in New York hosted by the GOP drew the attention of extremists. Lastly, Peru is currently under a national state of emergency due to protests and political turmoil, and U.C.L.A. was recently allowed by the California Regents to join the Big Ten with certain conditions attached.</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
