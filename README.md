@@ -72,10 +72,46 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>On a frigid December night, The New York Times accompanied members of a surveillance team for the Ukrainian Army as they used a thermal sight to find enemy positions miles away.  <a href="https://nyti.ms/3FuPVoG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Aims to Inject New Energy Into U.S. Relations With African Nations</h3>
-<sub>By Peter Baker and Declan Walsh</sub>
-<p>With the United States lagging behind China in influence on the continent, the president pledged investments in key areas for development.  <a href="https://nyti.ms/3W4W6qr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How a Sprawling Hospital Chain Ignited Its Own Staffing Crisis</h3>
+<sub>By Rebecca Robbins, Katie Thomas and Jessica Silver-Greenberg</sub>
+<p>Ascension, one of the country’s largest health systems, spent years cutting jobs, leaving it flat-footed when the pandemic hit.  <a href="https://nyti.ms/3Yo4RgW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Can New York’s Plan for Mentally Ill Homeless People Make a Difference?</h3>
+<sub>By Andy Newman and Joseph Goldstein</sub>
+<p>In a big city, the number of untreated, severely mentally ill people is relatively small. But making sure they get the help they need feels like an enormous, intractable task.  <a href="https://nyti.ms/3HFIX2K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>N.Y.C. Community Boards Usually Oppose New Housing. Not This One.</h3>
+<sub>By Mihir Zaveri</sub>
+<p>Local groups are known for opposing new development. But amid a housing shortage, one community board representing parts of Manhattan’s West Side wants to see a lot more.  <a href="https://nyti.ms/3HANeV1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Hochul and Adams Envision ‘New New York.’ Getting There Is the Trick.</h3>
+<sub>By Jeffery C. Mays and Nicole Hong</sub>
+<p>The leaders want to turn commercial districts into 24-hour live-and-work spaces, recognizing that the pandemic has fundamentally changed the city.  <a href="https://nyti.ms/3uPUCEv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Lives They Lived</h3>
+<sub>By The New York Times Magazine</sub>
+<p>A boy just baptized. A girl who just had her Sweet 16. These are the stories of 12 children killed by guns this year.  <a href="https://nyti.ms/3W0ts9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Morocco Gave Everything. It Needed a Little More Against France.</h3>
+<sub>By Rory Smith</sub>
+<p>On some level this will always be Morocco’s World Cup, the one that made it a trailblazer, a record breaker, a watermark that will not fade.  <a href="https://nyti.ms/3YnxMld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Free Beef and a Blue Bidet: Watching the World Cup at Maradona’s House</h3>
+<sub>By Jack Nicas and Sarah Pabst</sub>
+<p>A Buenos Aires businessman bought Diego Maradona’s old house and has been opening it up for Argentina’s World Cup matches, meat included.  <a href="https://nyti.ms/3G2Qesp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -84,58 +120,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>There is nothing in the rules that requires a World Cup team to be managed by someone born, raised or otherwise connected to that country. So should it matter?  <a href="https://nyti.ms/3V8DS6k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Morocco Gave Everything. It Needed a Little More Against France.</h3>
-<sub>By Rory Smith</sub>
-<p>On some level this will always be Morocco’s World Cup, the one that made it a trailblazer, a record breaker, a watermark that will not fade.  <a href="https://nyti.ms/3YnxMld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Federal Reserve signals more to come even as it slows rate increases.</h3>
-<sub>By Jeanna Smialek and Joe Rennison</sub>
-<p>Central bankers made a smaller rate move, but predicted that they will weigh the economy down more aggressively than previously expected  <a href="https://nyti.ms/3YqQ3hp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>‘Nightmare’ Warehouse Fire Erases Evidence in Many Unsolved Cases</h3>
-<sub>By Corey Kilgannon, Hurubie Meko and Nate Schweber</sub>
-<p>Lawyers say evidence in cold cases and bids for exoneration disappeared or was ruined when a Police Department storage facility in Brooklyn went up in flames.  <a href="https://nyti.ms/3Psbjzc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<h3>Traumatized by Covid, but Ruled by a Party That Never Apologizes</h3>
+<sub>By Li Yuan</sub>
+<p>Gripped with grief, anxiety and depression, many in China want a national reckoning over the hard-line “zero Covid” policy. Holding the government to account may be a quixotic quest.  <a href="https://nyti.ms/3jaiZdi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A New York Gala Draws Incoming G.O.P. Lawmakers, and Extremists</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Organizations that track extremism have expressed concern about some of the attendees at a New York Young Republican Club event in Manhattan on Saturday.  <a href="https://nyti.ms/3WlvnWg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Is Showing Strength. He’s Also Vulnerable on His Right Flank.</h3>
-<sub>By Blake Hounshell</sub>
-<p>For staunchly anti-abortion conservatives, the Florida governor’s 15-week ban doesn’t go far enough.  <a href="https://nyti.ms/3BwVrWD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid Deadly Protests, Peru Declares a National State of Emergency</h3>
-<sub>By Mitra Taj and Julie Turkewitz</sub>
-<p>The measure suspended some civil rights, including the freedom of assembly, and deepens a crisis set off when the elected president was impeached by Congress last week.  <a href="https://nyti.ms/3HypAbX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Is Behind the Political Turmoil in Peru?</h3>
-<sub>By Emma Bubola and Genevieve Glatsky</sub>
-<p>An impeachment vote, an arrest, a new president, a national state of emergency. An initially peaceful transfer of power turned violent in this fragile South American democracy.  <a href="https://nyti.ms/3YcmW1t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Entre protestas y tensión política, Perú se encuentra en estado de emergencia</h3>
-<sub>By Mitra Taj and Julie Turkewitz</sub>
-<p>La medida suspenderá algunos derechos civiles, como la libertad de reunión, y profundiza una crisis que se desató cuando el Congreso destituyó al presidente electo la semana pasada.  <a href="https://nyti.ms/3htsBj6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<h3>U.S. Will Offer Free At-Home Covid Tests as Part of Winter Plan</h3>
+<sub>By Noah Weiland</sub>
+<p>With cases on the rise, the Biden administration said it would restart a program that provided hundreds of millions of tests through the Postal Service.  <a href="https://nyti.ms/3Prphl6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-There is a lot of unrest in the world right now. In Russia, state media is reportedly manipulating news stories about the Ukraine war. Meanwhile in Perú, the government recently declared a national state of emergency due to violent protests after their president was impeached. In Morocco, the national soccer team gave an impressive performance at the World Cup but wasn&#39;t able to secure a win. In the US, President Biden is looking to strengthen US-Africa relations by investing in key development areas. The Federal Reserve also signaled more action as they slowed rate increases. And finally, a warehouse fire recently destroyed evidence in many unsolved cases and a New York event for young Republicans raised concerns because of some extremist attendees.</p>
+There&#39;s a lot going on in the world right now! Russia is creating its own alternate reality to spin their involvement in the ongoing Ukraine war. There has been an infrared hunt for Russian troops by the Ukrainian army in an area called Bakhmut. In terms of business, Ascension, one of the biggest health systems in the US, had been cutting jobs and it left them unprepared when the pandemic hit. In terms of NY region news, community boards are actually pushing for more new housing due to an extreme shortage. The leaders are also wanting to transform commercial districts into 24&#x2F;7 live-and-work spaces since the pandemic has changed the city. On a more somber note, The Lives They Lived series is highlighting 12 children who were killed by guns this year worldwide. Morroco put up a really good fight against France in the World Cup and there was a neat gathering to watch Argentina&#39;s World Cup match at Diego Maradona&#39;s old house with free beef! Lastly, China is dealing with immense grief due to the strict &quot;zero Covid&quot; policy while here in the US we are restarting a program to provide free at-home Covid tests through the Postal Service.</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
