@@ -78,35 +78,23 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Ascension, one of the country’s largest health systems, spent years cutting jobs, leaving it flat-footed when the pandemic hit.  <a href="https://nyti.ms/3Yo4RgW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Can New York’s Plan for Mentally Ill Homeless People Make a Difference?</h3>
-<sub>By Andy Newman and Joseph Goldstein</sub>
-<p>In a big city, the number of untreated, severely mentally ill people is relatively small. But making sure they get the help they need feels like an enormous, intractable task.  <a href="https://nyti.ms/3HFIX2K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>N.Y.C. Community Boards Usually Oppose New Housing. Not This One.</h3>
-<sub>By Mihir Zaveri</sub>
-<p>Local groups are known for opposing new development. But amid a housing shortage, one community board representing parts of Manhattan’s West Side wants to see a lot more.  <a href="https://nyti.ms/3HANeV1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Hochul and Adams Envision ‘New New York.’ Getting There Is the Trick.</h3>
-<sub>By Jeffery C. Mays and Nicole Hong</sub>
-<p>The leaders want to turn commercial districts into 24-hour live-and-work spaces, recognizing that the pandemic has fundamentally changed the city.  <a href="https://nyti.ms/3uPUCEv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Lives They Lived</h3>
 <sub>By The New York Times Magazine</sub>
 <p>A boy just baptized. A girl who just had her Sweet 16. These are the stories of 12 children killed by guns this year.  <a href="https://nyti.ms/3W0ts9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Morocco Gave Everything. It Needed a Little More Against France.</h3>
-<sub>By Rory Smith</sub>
-<p>On some level this will always be Morocco’s World Cup, the one that made it a trailblazer, a record breaker, a watermark that will not fade.  <a href="https://nyti.ms/3YnxMld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In the World of Wrestling, a Heavy Hitter Steps Into the Ring</h3>
+<sub>By Joshua Needelman</sub>
+<p>The owner of the Los Angeles Lakers believes WOW — Women of Wrestling can be an engine of female empowerment. Her performers, known as “superheroes,” are breaking new ground in the historically male-centric space.  <a href="https://nyti.ms/3HDK2Ib"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Qatar, the Ancient Sport of Falconry Gets Some Upgrades</h3>
+<sub>By Erin Schaff and Christina Goldbaum</sub>
+<p>The training regimen now involves drones, but doomed pigeons are still in the mix. Generations of Qataris have taken up the hobby.  <a href="https://nyti.ms/3UZAWc6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Free Beef and a Blue Bidet: Watching the World Cup at Maradona’s House</h3>
@@ -127,15 +115,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Will Offer Free At-Home Covid Tests as Part of Winter Plan</h3>
+<h3>U.S. Offers Free At-Home Covid Tests as Part of Winter Plan</h3>
 <sub>By Noah Weiland</sub>
-<p>With cases on the rise, the Biden administration said it would restart a program that provided hundreds of millions of tests through the Postal Service.  <a href="https://nyti.ms/3Prphl6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>With cases on the rise, the Biden administration restarted a program that has provided hundreds of millions of tests through the Postal Service.  <a href="https://nyti.ms/3Prphl6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>The Coronavirus May Spread From Corpses, Scientists Report</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>Family members and health care workers should take precautions, experts said.  <a href="https://nyti.ms/3UV00AQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Three Michigan Men Sentenced to Prison Terms for Aiding Plot Against Whitmer</h3>
+<sub>By Eliza Fawcett</sub>
+<p>The men, who were convicted of aiding a plan to kidnap Gov. Gretchen Whitmer of Michigan, were given sentences that could put all three in prison for at least seven years.  <a href="https://nyti.ms/3YEo2mX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-Right now, the world is facing a lot of issues related to the COVID-19 pandemic. In the U.S., the Biden administration has announced it will offer free at-home COVID tests through the Postal Service. At the same time, the government is launching initiatives to help the homeless and those with mental health issues. On a global level, countries are competing for dominance in world events like the World Cup, and Russia has been accused of using state TV to spin a narrative about its victories in Ukraine&#39;s war. Additionally, there have been many tragic stories of children being killed by guns this year.</p>
+Hi friend! It’s been a while since we caught up. There’s been a lot going on in the world recently, so I thought I would update you. 
+
+First, Russia has been spinning stories about the Ukraine War to make it seem like Moscow is winning, working with state TV and its security services. Meanwhile, Ukraine is using thermal sights to monitor Russian troops near Bakhmut. 
+
+On the business front, a major health system called Ascension cut jobs before the pandemic hit and now they’re scrambling to deal with staffing shortages. In other news, there’s a new wrestling league called Women of Wrestling owned by the LA Lakers owner. It’s getting attention for empowering female wrestlers in this historically male-dominated sport. 
+
+Over in Qatar, falconry is still popular among generations of Qataris who have upgraded their training regimens with drones—but poor pigeons are still involved! Across South America, Diego Maradona’s former house has become a fan club for Argentina during this World Cup season where people can watch matches and eat free meat. 
+
+Erm…back in the US: The Biden administration is offering free at-home Covid tests through the Postal Service. There have also been reports that coronavirus may spread from dead bodies—so family members or healthcare workers should take special precautions if they come into contact with one. And three Michigan men were just sentencelected to prison terms for aiding a plot to kidnap someone...the governor of Michigan that is! 
+
+So yeah, that&#39;s what&#39;s been going on. How&#39;re things with you?</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
