@@ -61,9 +61,27 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>It is Wednesday, December 14, Central Standard Time</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Federal Reserve signals more to come even as it slows rate increases.</h3>
+<sub>By Jeanna Smialek and Joe Rennison</sub>
+<p>Central bankers made a smaller rate move, but predicted that they will weigh the economy down more aggressively than previously expected  <a href="https://nyti.ms/3YqQ3hp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Fed Rate Increases Mean for Mortgages, Credit Cards and More</h3>
 <sub>By Tara Siegel Bernard</sub>
 <p>Savers will benefit and borrowers can expect to pay more on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3BCwNUt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Morocco Gave Everything. It Needed a Little More Against France.</h3>
+<sub>By Rory Smith</sub>
+<p>On some level this will always be Morocco’s World Cup, the one that made it a trailblazer, a record breaker, a watermark that will not fade.  <a href="https://nyti.ms/3YnxMld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Grant Wahl Died of a Burst Blood Vessel, His Family Says</h3>
+<sub>By Apoorva Mandavilli and Andrew Das</sub>
+<p>An autopsy in New York showed that the journalist had a tear in the ascending aorta, a large vessel that carries blood from the heart.  <a href="https://nyti.ms/3WeQkST"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -72,46 +90,40 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Russia is building a vast network of trenches, traps and obstacles to slow Ukraine’s momentum. Will it work?  <a href="https://nyti.ms/3uPUZyN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Russia’s ‘Sham’ Charge of Spying Makes Whelan’s Case the Hardest</h3>
-<sub>By Michael Crowley</sub>
-<p>Supporters say Paul Whelan is more hapless tourist than James Bond — and that the Russians know it. But that doesn’t make freeing him any easier.  <a href="https://nyti.ms/3BX4Qaj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Liberia and Across Africa, Viktor Bout’s Bloody Legacy Is Still Felt</h3>
-<sub>By Ruth Maclean and Dounard Bondo</sub>
-<p>The Russian arms dealer swapped for Brittney Griner was convicted of conspiring to kill Americans. But in the 1990s and early 2000s, he supplied weapons to myriad African conflicts.  <a href="https://nyti.ms/3URlCy0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia Launches a Wave of Iranian-Made Drones at Kyiv After a Lull</h3>
+<sub>By Andrew E. Kramer and Marc Santora</sub>
+<p>Analysts had surmised that Russia was having trouble with the drones, but if a problem has been fixed, it remains unclear how long the Kremlin can sustain such attacks.  <a href="https://nyti.ms/3Yq2Q3W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden aims to demonstrate a renewed commitment to Africa.</h3>
-<sub>By Peter Baker</sub>
-<p>  <a href="https://nyti.ms/3HCcA58"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Aims to Inject New Energy Into U.S. Relations With African Nations</h3>
+<sub>By Peter Baker and Declan Walsh</sub>
+<p>With the United States lagging behind China in influence on the continent, the president pledged investments in key areas for development.  <a href="https://nyti.ms/3uSNbMS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>‘Nightmare’ Warehouse Fire Erases Evidence in Many Unsolved Cases</h3>
+<sub>By Corey Kilgannon, Hurubie Meko and Nate Schweber</sub>
+<p>Lawyers say evidence in cold cases and bids for exoneration disappeared or was ruined when a Police Department storage facility in Brooklyn went up in flames.  <a href="https://nyti.ms/3Psbjzc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A New York Gala Draws Incoming G.O.P. Lawmakers, and Extremists</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Organizations that track extremism have expressed concern about some of the attendees at a New York Young Republican Club event in Manhattan on Saturday.  <a href="https://nyti.ms/3WlvnWg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Is Showing Strength. He’s Also Vulnerable on His Right Flank.</h3>
+<sub>By Blake Hounshell</sub>
+<p>For staunchly anti-abortion conservatives, the Florida governor’s 15-week ban doesn’t go far enough.  <a href="https://nyti.ms/3BwVrWD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid Deadly Protests, Peru to Declare National State of Emergency</h3>
+<h3>Amid Deadly Protests, Peru Declares a National State of Emergency</h3>
 <sub>By Mitra Taj and Julie Turkewitz</sub>
-<p>The measure would suspend some civil rights, including the freedom of assembly, and deepens a crisis set off when the elected president was impeached by Congress last week.  <a href="https://nyti.ms/3HypAbX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Citing Progress Toward Spending Deal, Lawmakers Move to Avoid Shutdown</h3>
-<sub>By Emily Cochrane</sub>
-<p>The House was set to pass a bill to punt a Friday deadline and buy time to cement an agreement on a catchall measure to fund the government through next fall.  <a href="https://nyti.ms/3hu92Hu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Congress, Party Switching Cuts Both Ways</h3>
-<sub>By Carl Hulse</sub>
-<p>If history is any guide, Senator Kyrsten Sinema of Arizona, the latest lawmaker to change her stripes, faces an uncertain future.  <a href="https://nyti.ms/3ByXRUD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia’s Top Election Official Calls for End to Runoff System</h3>
-<sub>By Maya King</sub>
-<p>Brad Raffensperger, the Republican secretary of state, said that a newly tightened timeline for runoff elections had put added strain on election workers.  <a href="https://nyti.ms/3FwSpD3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The measure suspended some civil rights, including the freedom of assembly, and deepens a crisis set off when the elected president was impeached by Congress last week.  <a href="https://nyti.ms/3HypAbX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -120,22 +132,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Pete Wells counts down his favorites in a year when the city’s dining scene began to act like its old self again.  <a href="https://nyti.ms/3FOURWN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>They Fought the Lawn. And the Lawn Lost.</h3>
-<sub>By Cara Buckley and Jason Andrew</sub>
-<p>After their homeowner association ordered them to replace their wildlife-friendly plants with turf grass, a Maryland couple sued. They ended up changing state law.  <a href="https://nyti.ms/3ByRuRi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A Cyberattack Shuts the Met Opera’s Box Office, but the Show Goes On</h3>
-<sub>By Dan Bilefsky</sub>
-<p>After hackers knocked out the ticket-selling system of the Met, the largest performing arts organization in the United States, the company decided to sell $50 general admission seats.  <a href="https://nyti.ms/3W3sOIL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-Right now, there&#39;s a lot going on in the world. The Federal Reserve is raising interest rates, which impacts things like mortgages, credit cards and other types of debt. In Russia, they&#39;re creating vast defensive networks against Ukraine. An American citizen has been charged with spying in Russia, though supporters say he&#39;s not guilty. In Africa, the legacy of an infamous Russian arms dealer who supplied weapons to many conflicts is still felt today. On the political front, Joe Biden is showing his commitment to Africa through a renewed effort, while back home in the US there&#39;s talk of avoiding a government shutdown and a Georgia election official has called to end its runoff system. Closer to home, restaurants are popping up all over New York City and in Maryland a couple sued their homeowners association for mandating turf grass instead of wildlife-friendly plants - and won! Finally, the Metropolitan Opera experienced a cyberattack that shut down their box office but still managed to keep going by offering better bargain seating.</p>
+There seems to be a lot going on in the world right now. The Federal Reserve is signaling more rate increases, which may impact mortgages and credit cards. In sports, Morocco made an impressive showing at the World Cup but fell short of winning. There was tragic news in health, as well, as journalist Grant Wahl tragically passed away due to a burst blood vessel.
+
+In the realm of international affairs, Russia is reinforcing its presence in Ukraine with an extensive defense system while also launching drones into Kyiv. Meanwhile, the United States is attempting to strengthen ties with African nations after being outpaced by China&#39;s influence and investments on the continent. Closer to home, there was a disastrous fire at a Police Department storage facility in Brooklyn that destroyed crucial evidence for unsolved cases. Additionally, some extremists reportedly attended a Republican gathering in Manhattan, raising questions about the party&#39;s path forward.
+
+Finally, good news for New York City: its restaurant scene is beginning to bounce back with new top-notch places to eat popping up all over!</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
