@@ -60,16 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 14, Central Standard Time</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Aims to Inject New Energy Into U.S. Relations With African Nations</h3>
+<sub>By Peter Baker and Declan Walsh</sub>
+<p>With the United States lagging behind China in influence on the continent, the president pledged investments in key areas for development.  <a href="https://nyti.ms/3W4W6qr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Federal Reserve signals more to come even as it slows rate increases.</h3>
 <sub>By Jeanna Smialek and Joe Rennison</sub>
 <p>Central bankers made a smaller rate move, but predicted that they will weigh the economy down more aggressively than previously expected  <a href="https://nyti.ms/3YqQ3hp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Fed Rate Increases Mean for Mortgages, Credit Cards and More</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>Savers will benefit and borrowers can expect to pay more on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3BCwNUt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -96,12 +96,6 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Analysts had surmised that Russia was having trouble with the drones, but if a problem has been fixed, it remains unclear how long the Kremlin can sustain such attacks.  <a href="https://nyti.ms/3Yq2Q3W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Aims to Inject New Energy Into U.S. Relations With African Nations</h3>
-<sub>By Peter Baker and Declan Walsh</sub>
-<p>With the United States lagging behind China in influence on the continent, the president pledged investments in key areas for development.  <a href="https://nyti.ms/3uSNbMS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>‘Nightmare’ Warehouse Fire Erases Evidence in Many Unsolved Cases</h3>
 <sub>By Corey Kilgannon, Hurubie Meko and Nate Schweber</sub>
@@ -126,20 +120,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>The measure suspended some civil rights, including the freedom of assembly, and deepens a crisis set off when the elected president was impeached by Congress last week.  <a href="https://nyti.ms/3HypAbX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>New York’s Top 10 New Restaurants of 2022</h3>
-<sub>By Pete Wells</sub>
-<p>Pete Wells counts down his favorites in a year when the city’s dining scene began to act like its old self again.  <a href="https://nyti.ms/3FOURWN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What Is Behind the Political Turmoil in Peru?</h3>
+<sub>By Emma Bubola and Genevieve Glatsky</sub>
+<p>An impeachment vote, an arrest, a new president, a national state of emergency. An initially peaceful transfer of power turned violent in this fragile South American democracy.  <a href="https://nyti.ms/3YcmW1t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Entre protestas y tensión política, Perú se encuentra en estado de emergencia</h3>
+<sub>By Mitra Taj and Julie Turkewitz</sub>
+<p>La medida suspenderá algunos derechos civiles, como la libertad de reunión, y profundiza una crisis que se desató cuando el Congreso destituyó al presidente electo la semana pasada.  <a href="https://nyti.ms/3htsBj6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
 <p>
-There seems to be a lot going on in the world right now. The Federal Reserve is signaling more rate increases, which may impact mortgages and credit cards. In sports, Morocco made an impressive showing at the World Cup but fell short of winning. There was tragic news in health, as well, as journalist Grant Wahl tragically passed away due to a burst blood vessel.
-
-In the realm of international affairs, Russia is reinforcing its presence in Ukraine with an extensive defense system while also launching drones into Kyiv. Meanwhile, the United States is attempting to strengthen ties with African nations after being outpaced by China&#39;s influence and investments on the continent. Closer to home, there was a disastrous fire at a Police Department storage facility in Brooklyn that destroyed crucial evidence for unsolved cases. Additionally, some extremists reportedly attended a Republican gathering in Manhattan, raising questions about the party&#39;s path forward.
-
-Finally, good news for New York City: its restaurant scene is beginning to bounce back with new top-notch places to eat popping up all over!</p>
+There is a lot of news from around the world! In the US, President Biden is aiming to increase relations between the US and African nations and the Federal Reserve is pausing on rate increases. Sports-wise, Morocco made history in their World Cup performance, despite not winning. In terms of healthcare, a journalist sadly passed away from a burst blood vessel. Internationally, Russia has been constructing defenses and launching drones into Ukraine and Peru is currently in a state of emergency because of political turmoil. Finally, in New York, there were incoming Republican lawmakers attending an event with extremists as well as a &#39;nightmare&#39; warehouse fire that destroyed evidence in unsolved cases.</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
