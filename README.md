@@ -58,94 +58,88 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, December 15, Central Standard Time</p>
+<p>It is Friday, December 16, Central Standard Time</p>
+<p>
+Right now, the US is in the middle of a &#39;Tripledemic&#39;, where hospitalizations for respiratory illnesses are at an unusually high level, which makes it difficult to predict how bad this winter may be. In other news, Donald Trump sparked some controversy when it was revealed he left classified documents lying around high-traffic areas at his Mar-a-Lago estate. Elon Musk has also come under fire after he banned several high-profile journalists from his Twitter account, while simultaneously praised by some Silicon Valley bosses for his ruthless management style.
+
+The world is also tackling climate change and biodiversity conservation with crucial talks being held in Canada to try and protect wildlife from declines. Unfortunately, animals are running out of places to live as habitats have shrunk drastically. Also, comparisons can be drawn between Mexico&#39;s World Cup concert which was sold out months before but only saw a half empty floor on the night and private equity firms that are coming into the child care industry. 
+
+Finally, there have been some lighter moments too with Joe Lycett using comedy to gently protest Qatar&#39;s L.G.B.T.Q laws, and those dealing with grief having the chance to turn their holiday traditions into a positive experience over time.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Just How Bad Is the ‘Tripledemic’?</h3>
+<sub>By Amy Schoenfeld Walker</sub>
+<p>Hospitalizations for respiratory illnesses are at high levels for this time of year, disrupting seasonal patterns and making it hard to predict how bad this winter will be.  <a href="https://nyti.ms/3Wk7wqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside Mar-a-Lago, Where Thousands Partied Near Secret Files</h3>
+<sub>By Anjali Singhvi, Mika Gröndahl, Maggie Haberman, Weiyi Cai and Blacki Migliozzi</sub>
+<p>A Times investigation shows how Donald J. Trump stored classified documents in high-traffic areas at Mar-a-Lago, where guests may have been within feet of the materials.  <a href="https://nyti.ms/3BBciHB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Musk Faces Growing Anger Over Twitter Ban of Journalists</h3>
+<sub>By Bernhard Warner</sub>
+<p>The suspensions, which were criticized by U.S. and European lawmakers, could raise the regulatory heat on the social media platform — and Elon Musk’s other companies.  <a href="https://nyti.ms/3W56qi2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>An Alternate Reality: How Russia’s State TV Spins the Ukraine War</h3>
-<sub>By Paul Mozur, Adam Satariano and Aaron Krolik</sub>
-<p>Leaked emails detail how Russia’s biggest state broadcaster, working with the nation’s security services, mined right-wing American news and Chinese media to craft a narrative that Moscow was winning.  <a href="https://nyti.ms/3YnHP9U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<h3>Elon Musk, Management Guru?</h3>
+<sub>By Kevin Roose</sub>
+<p>Why the Twitter owner’s ruthless, unsparing style has made him a hero to many bosses in Silicon Valley.  <a href="https://nyti.ms/3W7d1sC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Crucial Talks on Preserving Nature Are on Now. Here Are the Key Issues.</h3>
+<sub>By Catrin Einhorn</sub>
+<p>Negotiators from around the world are meeting in Canada in an effort to halt, and reverse, staggering declines in wildlife.  <a href="https://nyti.ms/3WmgaV1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Animals Are Running Out of Places to Live</h3>
+<sub>By Catrin Einhorn and Lauren Leatherby</sub>
+<p>Talks in Montreal this month could be a big victory, or a missed opportunity, for the planet’s wildlife. We explain why, and show you some of the species losing habitat fast.  <a href="https://nyti.ms/3W7GHp5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Infrared Hunt for Russian Troops in the Battle for Bakhmut</h3>
-<sub>By Thomas Gibbons-Neff and Tyler Hicks</sub>
-<p>On a frigid December night, The New York Times accompanied members of a surveillance team for the Ukrainian Army as they used a thermal sight to find enemy positions miles away.  <a href="https://nyti.ms/3FuPVoG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<h3>Spending a Month’s Salary to See Bad Bunny, Only to Be Turned Away</h3>
+<sub>By Maria Abi-Habib</sub>
+<p>The concert was supposed to be one of Mexico’s largest, sold out months before. Instead, one of the world’s biggest stars played to a half empty floor.  <a href="https://nyti.ms/3FU9iYz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Sprawling Hospital Chain Ignited Its Own Staffing Crisis</h3>
-<sub>By Rebecca Robbins, Katie Thomas and Jessica Silver-Greenberg</sub>
-<p>Ascension, one of the country’s largest health systems, spent years cutting jobs, leaving it flat-footed when the pandemic hit.  <a href="https://nyti.ms/3Yo4RgW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Lives They Lived</h3>
-<sub>By The New York Times Magazine</sub>
-<p>A boy just baptized. A girl who just had her Sweet 16. These are the stories of 12 children killed by guns this year.  <a href="https://nyti.ms/3W0ts9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In the World of Wrestling, a Heavy Hitter Steps Into the Ring</h3>
-<sub>By Joshua Needelman</sub>
-<p>The owner of the Los Angeles Lakers believes WOW — Women of Wrestling can be an engine of female empowerment. Her performers, known as “superheroes,” are breaking new ground in the historically male-centric space.  <a href="https://nyti.ms/3HDK2Ib"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Qatar, the Ancient Sport of Falconry Gets Some Upgrades</h3>
-<sub>By Erin Schaff and Christina Goldbaum</sub>
-<p>The training regimen now involves drones, but doomed pigeons are still in the mix. Generations of Qataris have taken up the hobby.  <a href="https://nyti.ms/3UZAWc6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Free Beef and a Blue Bidet: Watching the World Cup at Maradona’s House</h3>
-<sub>By Jack Nicas and Sarah Pabst</sub>
-<p>A Buenos Aires businessman bought Diego Maradona’s old house and has been opening it up for Argentina’s World Cup matches, meat included.  <a href="https://nyti.ms/3G2Qesp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Can Child Care Be a Big Business? Private Equity Thinks So.</h3>
+<sub>By Dana Goldstein</sub>
+<p>Some high-end chains are surprisingly profitable, and they are trying to shape child care policy in Washington.  <a href="https://nyti.ms/3HGAKev"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Keeping the National in National Team Coach</h3>
+<h3>When World Cup Reality Isn’t What It Seems</h3>
 <sub>By Rory Smith</sub>
-<p>There is nothing in the rules that requires a World Cup team to be managed by someone born, raised or otherwise connected to that country. So should it matter?  <a href="https://nyti.ms/3hvGVaO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In Qatar, where the line between the artificial and the authentic has blurred or evaporated, it was the people, as always, who defined the tournament.  <a href="https://nyti.ms/3PwhyST"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Spot the Ball: And Then There Were Two</h3>
+<sub>By Michael Beswetherick, Alastair Coote, Rumsey Taylor and Sam Manchester</sub>
+<p>After a thrilling quarterfinal round and a more predictable semifinals, Argentina and France stand alone. These pictures show how they got here, with one tricky change: We’ve  removed the ball. See if you can guess where it was.  <a href="https://nyti.ms/3YDdvIC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Traumatized by Covid, but Ruled by a Party That Never Apologizes</h3>
-<sub>By Li Yuan</sub>
-<p>Gripped with grief, anxiety and depression, many in China want a national reckoning over the hard-line “zero Covid” policy. Holding the government to account may be a quixotic quest.  <a href="https://nyti.ms/3jaiZdi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A Comedian’s Stunt Is a Sly Protest of Qatar’s L.G.B.T.Q. Laws</h3>
+<sub>By Simran Hans</sub>
+<p>Joe Lycett appeared to shred cash after demanding that David Beckham end his relationship with the World Cup. It was his latest performance with a point.  <a href="https://nyti.ms/3htodAK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Offers Free At-Home Covid Tests as Part of Winter Plan</h3>
-<sub>By Noah Weiland</sub>
-<p>With cases on the rise, the Biden administration restarted a program that has provided hundreds of millions of tests through the Postal Service.  <a href="https://nyti.ms/3Prphl6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>The Coronavirus May Spread From Corpses, Scientists Report</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>Family members and health care workers should take precautions, experts said.  <a href="https://nyti.ms/3UV00AQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Three Michigan Men Sentenced to Prison Terms for Aiding Plot Against Whitmer</h3>
-<sub>By Eliza Fawcett</sub>
-<p>The men, who were convicted of aiding a plan to kidnap Gov. Gretchen Whitmer of Michigan, were given sentences that could put all three in prison for at least seven years.  <a href="https://nyti.ms/3YEo2mX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>How a Dreaded Holiday Tradition Turned Into the Best One</h3>
+<sub>By Elisabeth Egan</sub>
+<p>Grief and loss may make this time of year difficult, but that pain can lessen with time.  <a href="https://nyti.ms/3W59hHR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
-<p>
-Hi friend! It’s been a while since we caught up. There’s been a lot going on in the world recently, so I thought I would update you. 
-
-First, Russia has been spinning stories about the Ukraine War to make it seem like Moscow is winning, working with state TV and its security services. Meanwhile, Ukraine is using thermal sights to monitor Russian troops near Bakhmut. 
-
-On the business front, a major health system called Ascension cut jobs before the pandemic hit and now they’re scrambling to deal with staffing shortages. In other news, there’s a new wrestling league called Women of Wrestling owned by the LA Lakers owner. It’s getting attention for empowering female wrestlers in this historically male-dominated sport. 
-
-Over in Qatar, falconry is still popular among generations of Qataris who have upgraded their training regimens with drones—but poor pigeons are still involved! Across South America, Diego Maradona’s former house has become a fan club for Argentina during this World Cup season where people can watch matches and eat free meat. 
-
-Erm…back in the US: The Biden administration is offering free at-home Covid tests through the Postal Service. There have also been reports that coronavirus may spread from dead bodies—so family members or healthcare workers should take special precautions if they come into contact with one. And three Michigan men were just sentencelected to prison terms for aiding a plot to kidnap someone...the governor of Michigan that is! 
-
-So yeah, that&#39;s what&#39;s been going on. How&#39;re things with you?</p>
 <hr/>
 <p>What emotions did you feel reading all of this? Does any of it hit close to home? Does the data presented to you have some type of impact?</p>
 <p>I am Robert Ismo, I am a Backend Developer, I currently work at <a href="https://gnomic.education/">Gnomic</a>, I build education software. The experiences I create will touch a lot of people; understanding the impact that it will have and the stories people will create is one of the most important aspect of my job.</p>
