@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 16, Central Standard Time</p>
 <p>
-Right now, the US is in the middle of a &#39;Tripledemic&#39;, where hospitalizations for respiratory illnesses are at an unusually high level, which makes it difficult to predict how bad this winter may be. In other news, Donald Trump sparked some controversy when it was revealed he left classified documents lying around high-traffic areas at his Mar-a-Lago estate. Elon Musk has also come under fire after he banned several high-profile journalists from his Twitter account, while simultaneously praised by some Silicon Valley bosses for his ruthless management style.
-
-The world is also tackling climate change and biodiversity conservation with crucial talks being held in Canada to try and protect wildlife from declines. Unfortunately, animals are running out of places to live as habitats have shrunk drastically. Also, comparisons can be drawn between Mexico&#39;s World Cup concert which was sold out months before but only saw a half empty floor on the night and private equity firms that are coming into the child care industry. 
-
-Finally, there have been some lighter moments too with Joe Lycett using comedy to gently protest Qatar&#39;s L.G.B.T.Q laws, and those dealing with grief having the chance to turn their holiday traditions into a positive experience over time.</p>
+There is a lot of news happening in the world right now. The US is looking into how bad the &#39;tripledemic&#39; of seasonal illnesses, the coronavirus, and now hospitalizations for respiratory illnesses are for this time of year. Mar-a-Lago, President Trump&#39;s luxury resort, was revealed to have stored classified documents in high traffic areas, potentially exposing guests to them. In Ukraine, missiles have been fired at towns and cities this fall, disrupting everyday life and infrastructure. Elon Musk is facing a lot of anger from people over his recent Twitter ban of journalists. On the management side, there is discussion about the effectiveness of Elon Musk&#39;s ruthless but unsparing style for Silicon Valley leaders. In Mexico, fans were disappointed after buying tickets months in advance to see Bad Bunny perform in an arena only half full. Talks are currently happening in Montreal that could save nature as habitat loss becomes a bigger issue. Private equity companies are also trying to invest in child care as a big business now. Recently there have been World Cup matches in Qatar where the line between artificial and authentic has blurred. Plus comedian Joe Lycett used his comedy performance as a sly protest against Qatar&#39;s LGBTQ laws with David Beckham.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Just How Bad Is the ‘Tripledemic’?</h3>
@@ -78,6 +74,12 @@ Finally, there have been some lighter moments too with Joe Lycett using comedy t
 <p>A Times investigation shows how Donald J. Trump stored classified documents in high-traffic areas at Mar-a-Lago, where guests may have been within feet of the materials.  <a href="https://nyti.ms/3BBciHB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Missiles knock out heating systems in towns and cities amid freezing temperatures.</h3>
+<sub>By Andrew E. Kramer, Marc Santora and Victoria Kim</sub>
+<p>It was the ninth large-scale wave of missiles to be aimed at Ukrainian infrastructure this fall. Officials said 76 missiles had been fired, and all but 16 were shot down.  <a href="https://nyti.ms/3WkNUCN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Musk Faces Growing Anger Over Twitter Ban of Journalists</h3>
 <sub>By Bernhard Warner</sub>
@@ -88,6 +90,12 @@ Finally, there have been some lighter moments too with Joe Lycett using comedy t
 <h3>Elon Musk, Management Guru?</h3>
 <sub>By Kevin Roose</sub>
 <p>Why the Twitter owner’s ruthless, unsparing style has made him a hero to many bosses in Silicon Valley.  <a href="https://nyti.ms/3W7d1sC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Spending a Month’s Salary to See Bad Bunny, Only to Be Turned Away</h3>
+<sub>By Maria Abi-Habib</sub>
+<p>The concert was supposed to be one of Mexico’s largest, sold out months before. Instead, one of the world’s biggest stars played to a half empty floor.  <a href="https://nyti.ms/3FU9iYz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -101,12 +109,6 @@ Finally, there have been some lighter moments too with Joe Lycett using comedy t
 <sub>By Catrin Einhorn and Lauren Leatherby</sub>
 <p>Talks in Montreal this month could be a big victory, or a missed opportunity, for the planet’s wildlife. We explain why, and show you some of the species losing habitat fast.  <a href="https://nyti.ms/3W7GHp5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spending a Month’s Salary to See Bad Bunny, Only to Be Turned Away</h3>
-<sub>By Maria Abi-Habib</sub>
-<p>The concert was supposed to be one of Mexico’s largest, sold out months before. Instead, one of the world’s biggest stars played to a half empty floor.  <a href="https://nyti.ms/3FU9iYz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Can Child Care Be a Big Business? Private Equity Thinks So.</h3>
@@ -130,12 +132,6 @@ Finally, there have been some lighter moments too with Joe Lycett using comedy t
 <h3>A Comedian’s Stunt Is a Sly Protest of Qatar’s L.G.B.T.Q. Laws</h3>
 <sub>By Simran Hans</sub>
 <p>Joe Lycett appeared to shred cash after demanding that David Beckham end his relationship with the World Cup. It was his latest performance with a point.  <a href="https://nyti.ms/3htodAK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>How a Dreaded Holiday Tradition Turned Into the Best One</h3>
-<sub>By Elisabeth Egan</sub>
-<p>Grief and loss may make this time of year difficult, but that pain can lessen with time.  <a href="https://nyti.ms/3W59hHR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
