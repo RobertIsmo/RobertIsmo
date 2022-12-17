@@ -60,19 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 17, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now! In Russia, President Vladimir Putin&#39;s policies have turned a &#39;walk in the park&#39; into a catastrophe. In Ukraine, people are focusing on resilience a day after major Russian strikes. On a larger scale, an expert panel has been debating about whether to mark a new epoch in geologic time for planet Earth. Regarding business news, there&#39;s an individual by the name of Ryan Salame who is a big Republican donor, restaurateur and tipster - his company FTX is vastly different from stock exchanges. Also in Qatar, David Beckham was paid tens of millions of dollars as part of a promotional campaign but they weren&#39;t quite getting what they expected. On a more serious note, gun violence has recently surpassed car accidents as the leading cause of death for American children, and sadly we&#39;ve heard stories of 12 children killed by guns this year. Lastly, tech billionaire Elon Musk recently flexed his media muscle by suspending journalists on Twitter before reinstating them shortly after.</p>
+Things are really interesting and varied in the world right now. On the political front, there&#39;s a huge story about Vladimir Putin and Russia&#39;s involvement in what has become a catastrophe for them. When it comes to climate change, some experts think it&#39;s time to mark a new epoch in geologic time due to its huge impact on Planet Earth. There&#39;s also a lot of news about business, specifically focused on FTX, which is an exchange platform that does things differently than traditional stock exchanges. Sports-wise, there&#39;s been lots of focus on the World Cup and one of its stars Lionel Messi. For something more local, residents of San Francisco are trying to figure out what&#39;s next for their downtown, which has been particularly empty lately. We&#39;re also remembering some children who lost their lives due to gun violence in 2021, and citizens in New York are deploying creative tactics to catch people caught cheating or damaging license plates. Finally, we’re getting excited for 2022 with predictions on top restaurants dishes, famous faces of the year, and the NFL playoff picture!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s War: The Inside Story of a Catastrophe</h3>
 <sub>By Michael Schwirtz, Anton Troianovski, Yousur Al-Hlou, Masha Froliak, Adam Entous and Thomas Gibbons-Neff</sub>
 <p>Secret battle plans, intercepted communications and Russian soldiers explain how a “walk in the park” became a catastrophe for Russia.  <a href="https://nyti.ms/3FEonNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainians Focus on Resilience a Day After Major Russian Strikes</h3>
-<sub>By Carlotta Gall</sub>
-<p>The mayor of Kyiv said that water was back on and that the city’s subway service had resumed. President Volodymyr Zelensky urged businesses to help set up more “invincibility centers” for the public.  <a href="https://nyti.ms/3YsZ5uq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>For Planet Earth, This Might Be the Start of a New Age</h3>
@@ -111,28 +105,34 @@ There&#39;s a lot happening in the world right now! In Russia, President Vladimi
 <sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Childhood’s Greatest Danger: The Data on Kids and Gun Violence</h3>
-<sub>By Robert Gebeloff, Danielle Ivory, Bill Marsh, Allison McCann and Albert Sun</sub>
-<p>Gun violence recently surpassed car accidents as the leading cause of death for American children. No group of kids has been spared, but some have fared far worse.  <a href="https://nyti.ms/3PphjZP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Lives They Lived</h3>
 <sub>By The New York Times Magazine</sub>
 <p>A boy just baptized. A girl who just had her Sweet 16. These are the stories of 12 children killed by guns this year.  <a href="https://nyti.ms/3W0ts9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In Suspending Journalists on Twitter, Musk Flexes His Media Muscle</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>Elon Musk’s moves this week set off a heated debate about complex issues of free speech and online censorship.  <a href="https://nyti.ms/3HE9YDL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>They Dispense Street Justice, One Defaced License Plate at a Time</h3>
+<sub>By Corey Kilgannon</sub>
+<p>Scofflaws are tampering with tags, costing New York agencies more than $100 million a year in missed payments and fines. A group of citizen enforcers is coming to the city’s rescue.  <a href="https://nyti.ms/3FEGkeS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jillian Rayfield</sub>
+<p>The top 25 restaurant dishes of 2022. Also in this edition: how modern dog breeds were created, and a look at supposed hangover cures.  <a href="https://nyti.ms/3FYq8qo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Twitter Reinstates Suspended Accounts of Several Journalists</h3>
-<sub>By Yan Zhuang and Euan Ward</sub>
-<p>The brief bans, which came after Elon Musk had suggested the journalists were violating Twitter’s rules on personal privacy, had alarmed free-speech advocates.  <a href="https://nyti.ms/3FYWdy3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Faces Quiz: Do You Recognize These Notable People of 2022?</h3>
+<sub>Produced by Ashley Wu, Jessica Anderson, Matthew Cullen, Amy Fiscus, Lauren Hard, Lauren Jackson, Sean Kawasaki-Culligan, Brent Lewis, Claire Moses, Ian Prasad Philbrick and Tom Wright-Piersanti</sub>
+<p>See how well you know the defining personalities of 2022 with The New York Times Faces Quiz.  <a href="https://nyti.ms/3YmT5U9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>2022 N.F.L. Playoff Picture: Each Team’s Path to the Postseason</h3>
+<sub>By Josh Katz, Kevin Quealy and Rumsey Taylor</sub>
+<p>An interactive calculator that lets you explore every team’s path to the N.F.L. playoffs.  <a href="https://nyti.ms/3CbMrqN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, September 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
