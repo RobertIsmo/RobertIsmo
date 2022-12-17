@@ -60,13 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 17, Central Standard Time</p>
 <p>
-There is currently a lot happening in the world. Global leaders have been gathering in Qatar for the World Cup, trying to mix diplomacy with sports. In Russia, dozens of missiles are bombarding Ukraine, leaving many people without heat or water. Closer to home in the US, hospitalizations due to respiratory illnesses are on the rise this winter, and new Covid booster shots appear to cut the risk of hospitalization by half. Ex-US President Trump is facing charges of insurrection and obstruction, and the Justice Department is looking into emails from his lawyers related to the 2020 election. On top of all this, Elon Musk is being criticized for suspending journalists on Twitter, sparking discussions about free speech and censorship.</p>
+Right now, there are a few trends I&#39;m seeing across the news. In Russia, we&#39;re learning more about how a “walk in the park” war turned into a catastrophe for the country. On a global level, experts have been debating whether or not to mark a new epoch from the Earth&#39;s history - the Anthropocene. In business news, Elon Musk flexed his media power by suspending several journalists on Twitter, but days later reversed their suspensions. Additionally, in US news, there&#39;s discussions going on for potentially referring former President Donald Trump for charges related to the insurrection at Capitol Hill earlier this year.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Global Leaders Mix Sports and Diplomacy at the World Cup</h3>
-<sub>By Edward Wong</sub>
-<p>Dozens of top officials have flown to Qatar to cheer for teams while talking shop. The event has magnified the tiny Gulf nation’s role as a diplomatic broker.  <a href="https://nyti.ms/3j3Ggxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin’s War: The Inside Story of a Catastrophe</h3>
+<sub>By Michael Schwirtz, Anton Troianovski, Yousur Al-Hlou, Masha Froliak, Adam Entous and Thomas Gibbons-Neff</sub>
+<p>Secret battle plans, intercepted communications and Russian soldiers explain how a “walk in the park” became a catastrophe for Russia.  <a href="https://nyti.ms/3FEonNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>For Planet Earth, This Might Be the Start of a New Age</h3>
+<sub>By Raymond Zhong</sub>
+<p>A panel of experts has spent more than a decade deliberating on how, and whether, to mark a momentous new epoch in geologic time: our own.  <a href="https://nyti.ms/3BDqjEX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Restaurateur, Political Donor, Tipster: The Many Roles of FTX’s Ryan Salame</h3>
+<sub>By Matthew Goldstein, Kenneth P. Vogel and David Yaffe-Bellany</sub>
+<p>The co-chief executive of an FTX unit who told regulators about wrongdoing at the exchange was a big Republican donor. He also bought restaurants.  <a href="https://nyti.ms/3j0FyRK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>It’s the World Cup Souvenir Everyone Wants. Getting One Is the Hard Part.</h3>
+<sub>By Rory Smith</sub>
+<p>A game-worn Lionel Messi jersey is the most coveted collectible in Qatar. Good luck getting hold of the one (or two) he wears in the World Cup final.  <a href="https://nyti.ms/3jbKmUD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The World Cup’s Missing Mouthpiece</h3>
@@ -74,64 +92,46 @@ There is currently a lot happening in the world. Global leaders have been gather
 <p>Qatar paid David Beckham tens of millions of dollars to promote the country and its interests. To its frustration, it has not received the return it expected from that investment.  <a href="https://nyti.ms/3WkMicd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Subfreezing Cold, Waves of Russian Missiles Batter Ukraine</h3>
-<sub>By Andrew E. Kramer and Marc Santora</sub>
-<p>Dozens of missiles knocked out heat and electricity systems around the country including in Kyiv, where two-thirds of its residents had no heat or water.  <a href="https://nyti.ms/3BHasp0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Griner Leaves Texas Base, Pledges W.N.B.A. Return and Support for Whelan</h3>
-<sub>By Tania Ganguli</sub>
-<p>Griner, in her first public comments since being freed from imprisonment in Russia, said she would return to the Phoenix Mercury next season and work to free wrongful detainees outside the United States.  <a href="https://nyti.ms/3WjNADy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Official in Africa Wounded by Package Bomb, Moscow Says</h3>
-<sub>By Ruth Maclean, Elian Peltier and Anatoly Kurmanaev</sub>
-<p>The official, previously identified as a senior operative with the Wagner Group, was hospitalized in the capital of the Central African Republic, according to the Russian embassy.  <a href="https://nyti.ms/3WjOUX2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Just How Bad Is the ‘Tripledemic’?</h3>
-<sub>By Amy Schoenfeld Walker</sub>
-<p>Hospitalizations for respiratory illnesses are at high levels for this time of year, disrupting seasonal patterns and making it hard to predict how bad this winter will be.  <a href="https://nyti.ms/3Wk7wqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Global Leaders Mix Sports and Diplomacy at the World Cup</h3>
+<sub>By Edward Wong</sub>
+<p>Dozens of top officials have flown to Qatar to cheer for teams while talking shop. The event has magnified the tiny Gulf nation’s role as a diplomatic broker.  <a href="https://nyti.ms/3j3Ggxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>New Covid Booster Shots Cut Risk of Hospitalization by Half, C.D.C. Reports</h3>
-<sub>By Benjamin Mueller</sub>
-<p>The research was conducted in part when older variants of the coronavirus were spreading. Other factors may have influenced the conclusions.  <a href="https://nyti.ms/3j9DQ0H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Comes Next for the Most Empty Downtown in America</h3>
+<sub>By Conor Dougherty, Emma Goldberg and Aaron Wojack</sub>
+<p>Tech workers are still at home. The $17 salad place is expanding into the suburbs. So what is left in San Francisco?  <a href="https://nyti.ms/3BE5r03"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside Mar-a-Lago, Where Thousands Partied Near Secret Files</h3>
-<sub>By Anjali Singhvi, Mika Gröndahl, Maggie Haberman, Weiyi Cai and Blacki Migliozzi</sub>
-<p>A Times investigation shows how Donald J. Trump stored classified documents in high-traffic areas at Mar-a-Lago, where guests may have been within feet of the materials.  <a href="https://nyti.ms/3BBciHB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Childhood’s Greatest Danger: The Data on Kids and Gun Violence</h3>
+<sub>By Robert Gebeloff, Danielle Ivory, Bill Marsh, Allison McCann and Albert Sun</sub>
+<p>Gun violence recently surpassed car accidents as the leading cause of death for American children. No group of kids has been spared, but some have fared far worse.  <a href="https://nyti.ms/3PphjZP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Panel Plans Vote on Referring Trump for Insurrection and Other Charges</h3>
-<sub>By Luke Broadwater</sub>
-<p>The committee also was expected to recommend charging the former president with obstructing an official proceeding of Congress and defrauding the American people.  <a href="https://nyti.ms/3PvICBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Committee Takes Step Toward Potential Release of Trump’s Tax Data</h3>
-<sub>By Charlie Savage</sub>
-<p>The Ways and Means Committee announced a closed-door meeting next week at which it may vote to disclose the information.  <a href="https://nyti.ms/3FXZ4Y1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Examines Emails from Trump Lawyers in Fake Elector Inquiry</h3>
-<sub>By Alan Feuer and Adam Goldman</sub>
-<p>Prosecutors have combed through more than 100,000 documents from John Eastman, Jeffrey Clark and Ken Klukowski, who played roles in the effort to reverse the outcome of the 2020 election.  <a href="https://nyti.ms/3hATZf5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Lives They Lived</h3>
+<sub>By The New York Times Magazine</sub>
+<p>A boy just baptized. A girl who just had her Sweet 16. These are the stories of 12 children killed by guns this year.  <a href="https://nyti.ms/3W0ts9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>In Suspending Journalists on Twitter, Musk Flexes His Media Muscle</h3>
 <sub>By Michael M. Grynbaum</sub>
 <p>Elon Musk’s moves this week set off a heated debate about complex issues of free speech and online censorship.  <a href="https://nyti.ms/3HE9YDL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Twitter Reinstates Suspended Accounts of Several Journalists</h3>
+<sub>By Yan Zhuang</sub>
+<p>The brief bans, which came after Elon Musk had suggested the journalists were violating Twitter’s rules on personal privacy, had alarmed free-speech advocates.  <a href="https://nyti.ms/3FYWdy3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jan. 6 Panel Plans Vote on Referring Trump for Insurrection and Other Charges</h3>
+<sub>By Luke Broadwater</sub>
+<p>The committee also was expected to recommend charging the former president with obstructing an official proceeding of Congress and defrauding the American people.  <a href="https://nyti.ms/3PvICBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
