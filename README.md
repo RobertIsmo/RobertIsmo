@@ -60,7 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 17, Central Standard Time</p>
 <p>
-Things are really interesting and varied in the world right now. On the political front, there&#39;s a huge story about Vladimir Putin and Russia&#39;s involvement in what has become a catastrophe for them. When it comes to climate change, some experts think it&#39;s time to mark a new epoch in geologic time due to its huge impact on Planet Earth. There&#39;s also a lot of news about business, specifically focused on FTX, which is an exchange platform that does things differently than traditional stock exchanges. Sports-wise, there&#39;s been lots of focus on the World Cup and one of its stars Lionel Messi. For something more local, residents of San Francisco are trying to figure out what&#39;s next for their downtown, which has been particularly empty lately. We&#39;re also remembering some children who lost their lives due to gun violence in 2021, and citizens in New York are deploying creative tactics to catch people caught cheating or damaging license plates. Finally, we’re getting excited for 2022 with predictions on top restaurants dishes, famous faces of the year, and the NFL playoff picture!</p>
+Hey friend, it&#39;s been a while! A lot has happened in the world since we last talked. In Russia, things have been tough in recent years. It looks like a war that Russian President Vladimir Putin started a few years ago has been an absolute catastrophe for their country.
+
+In the US, there&#39;s been some drama with political donations by cryptocurrency executives. It&#39;s raised some serious concerns about campaign finance, which is getting investigated by federal prosecutors.
+
+Restaurateur and big Republican donor Ryan Salame is also making the headlines lately. He bought some restaurants and also tipped off regulators about potential wrongdoing at an exchange he works with.
+
+On a lighter note, Argentina has turned to witchcraft to help its national soccer team! Hundreds of &#39;brujas&#39; have been casting spells to protect their star player Lionel Messi and his team mates ahead of the World Cup. 
+
+In 2022, San Francisco may look quite different too. Restaurants are looking to expand out of downtown, tech workers are still at home, and the city is making some changes to stop people from tampering with their license plates and illegally avoiding payment and fines (which costs them over $100 million a year). 
+
+Oh, did I mention NFL? The 2022 playoffs have already begun! An interactive calculator lets people explore each team&#39;s path to make it there. 
+Anyway, glad we got to catch up!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s War: The Inside Story of a Catastrophe</h3>
@@ -68,10 +79,10 @@ Things are really interesting and varied in the world right now. On the politica
 <p>Secret battle plans, intercepted communications and Russian soldiers explain how a “walk in the park” became a catastrophe for Russia.  <a href="https://nyti.ms/3FEonNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>For Planet Earth, This Might Be the Start of a New Age</h3>
-<sub>By Raymond Zhong</sub>
-<p>A panel of experts has spent more than a decade deliberating on how, and whether, to mark a momentous new epoch in geologic time: our own.  <a href="https://nyti.ms/3BDqjEX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Scrutinizes Political Donations by Sam Bankman-Fried and Allies</h3>
+<sub>By Kenneth P. Vogel and Ken Bensinger</sub>
+<p>Federal prosecutors appear to be focusing on possible wrongdoing by cryptocurrency executives, rather than by Democratic or Republican politicians. But the inquiries widen an explosive campaign finance scandal.  <a href="https://nyti.ms/3W84CoK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -80,22 +91,22 @@ Things are really interesting and varied in the world right now. On the politica
 <p>The co-chief executive of an FTX unit who told regulators about wrongdoing at the exchange was a big Republican donor. He also bought restaurants.  <a href="https://nyti.ms/3j0FyRK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Traditional Exchange? FTX Was Anything But.</h3>
-<sub>By Joe Rennison</sub>
-<p>FTX called itself an exchange. But it was vastly different from stock exchanges, which are highly regulated and barred from engaging in many of the activities FTX pursued.  <a href="https://nyti.ms/3FWiGM9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>For Planet Earth, This Might Be the Start of a New Age</h3>
+<sub>By Raymond Zhong</sub>
+<p>A panel of experts has spent more than a decade deliberating on how, and whether, to mark a momentous new epoch in geologic time: our own.  <a href="https://nyti.ms/3BDqjEX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Behind Argentina’s World Cup Magic, an Army of Witches</h3>
+<sub>By Jack Nicas and Ana Lankes</sub>
+<p>France might have its star Kylian Mbappé, but Argentina has hundreds of “brujas” casting spells to protect Lionel Messi and the rest of its national squad.  <a href="https://nyti.ms/3V4K92Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The World Cup’s Missing Mouthpiece</h3>
+<h3>How FIFA Silenced a World Cup Armband Campaign</h3>
 <sub>By Tariq Panja</sub>
-<p>Qatar paid David Beckham tens of millions of dollars to promote the country and its interests. To its frustration, it has not received the return it expected from that investment.  <a href="https://nyti.ms/3WkMicd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>It’s the World Cup Souvenir Everyone Wants. Getting One Is the Hard Part.</h3>
-<sub>By Rory Smith</sub>
-<p>A game-worn Lionel Messi jersey is the most coveted collectible in Qatar. Good luck getting hold of the one (or two) he wears in the World Cup final.  <a href="https://nyti.ms/3jbKmUD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>European teams had planned to highlight inclusivity on soccer’s biggest stage. They blinked when the sport’s governing body flexed its muscles.  <a href="https://nyti.ms/3G1N3ku"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
