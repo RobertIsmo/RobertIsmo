@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 17, Central Standard Time</p>
 <p>
-Recently, world leaders have come together at the World Cup in Qatar, where diplomacy and sports are coming together. In Ukraine, a wave of Russian missiles has caused damage to heat and electricity systems. In addition, a Russian official was wounded by a package bomb in the Central African Republic. Griner, an American prisoner in Russia, was recently freed from her imprisonment.
-
-In the US, colder temperatures are causing hospitalizations to increase due to respiratory illnesses, while new Covid booster shots have been found to decrease the risk of hospitalization by half. Investigations have also revealed that former president Donald Trump stored classified documents in high-traffic areas of Mar-a-Lago. The Justice Department is also examining emails from Trump&#39;s lawyers that were part of his efforts to reverse the outcome of the 2020 election. Finally, Elon Musk recently flexed his media muscle by suspending journalists on Twitter, creating a heated debate about free speech and online censorship.</p>
+There is currently a lot happening in the world. Global leaders have been gathering in Qatar for the World Cup, trying to mix diplomacy with sports. In Russia, dozens of missiles are bombarding Ukraine, leaving many people without heat or water. Closer to home in the US, hospitalizations due to respiratory illnesses are on the rise this winter, and new Covid booster shots appear to cut the risk of hospitalization by half. Ex-US President Trump is facing charges of insurrection and obstruction, and the Justice Department is looking into emails from his lawyers related to the 2020 election. On top of all this, Elon Musk is being criticized for suspending journalists on Twitter, sparking discussions about free speech and censorship.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Global Leaders Mix Sports and Diplomacy at the World Cup</h3>
@@ -73,7 +71,7 @@ In the US, colder temperatures are causing hospitalizations to increase due to r
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The World Cup’s Missing Mouthpiece</h3>
 <sub>By Tariq Panja</sub>
-<p>Qatar paid David Beckham tens of millions of dollars to promote the country and its interests. To its frustration, it has not received much return on the investment.  <a href="https://nyti.ms/3WkMicd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Qatar paid David Beckham tens of millions of dollars to promote the country and its interests. To its frustration, it has not received the return it expected from that investment.  <a href="https://nyti.ms/3WkMicd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
