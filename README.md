@@ -58,13 +58,27 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, December 16, Central Standard Time</p>
+<p>It is Saturday, December 17, Central Standard Time</p>
 <p>
-Right now, there is a lot of disruption happening around the world. In Ukraine, Russian missiles have caused a lack of heat and electricity inKyiv, making life difficult for two-thirds of the city&#39;s residents. Meanwhile in Africa, a Russian official was injured by a package bomb, showing signs of tension escalating there. In the US, the situation is concerning with hospitalizations for respiratory illnesses spiking and people scrambling to get more information about the &#39;Tripledemic&#39;. The Justice Dept. is examining emails from Trump lawyers over an inquiry into possible electoral fraud, and to top it off, Donald Trump was found storing classified documents in high-traffic areas at Mar-a-Lago without any safety measures in place. To make matters worse, a father of an accused gunman from Illinois was charged with reckless conduct, and even concerts are falling apart - with one in Mexico ending up half empty after people spent a month’s salary. It&#39;s been a difficult season everywhere!</p>
+Recently, world leaders have come together at the World Cup in Qatar, where diplomacy and sports are coming together. In Ukraine, a wave of Russian missiles has caused damage to heat and electricity systems. In addition, a Russian official was wounded by a package bomb in the Central African Republic. Griner, an American prisoner in Russia, was recently freed from her imprisonment.
+
+In the US, colder temperatures are causing hospitalizations to increase due to respiratory illnesses, while new Covid booster shots have been found to decrease the risk of hospitalization by half. Investigations have also revealed that former president Donald Trump stored classified documents in high-traffic areas of Mar-a-Lago. The Justice Department is also examining emails from Trump&#39;s lawyers that were part of his efforts to reverse the outcome of the 2020 election. Finally, Elon Musk recently flexed his media muscle by suspending journalists on Twitter, creating a heated debate about free speech and online censorship.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Global Leaders Mix Sports and Diplomacy at the World Cup</h3>
+<sub>By Edward Wong</sub>
+<p>Dozens of top officials have flown to Qatar to cheer for teams while talking shop. The event has magnified the tiny Gulf nation’s role as a diplomatic broker.  <a href="https://nyti.ms/3j3Ggxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The World Cup’s Missing Mouthpiece</h3>
+<sub>By Tariq Panja</sub>
+<p>Qatar paid David Beckham tens of millions of dollars to promote the country and its interests. To its frustration, it has not received much return on the investment.  <a href="https://nyti.ms/3WkMicd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Subfreezing Cold, Waves of Russian Missiles Batter Ukraine</h3>
-<sub>By Marc Santora and Andrew E. Kramer</sub>
+<sub>By Andrew E. Kramer and Marc Santora</sub>
 <p>Dozens of missiles knocked out heat and electricity systems around the country including in Kyiv, where two-thirds of its residents had no heat or water.  <a href="https://nyti.ms/3BHasp0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
@@ -120,18 +134,6 @@ Right now, there is a lot of disruption happening around the world. In Ukraine, 
 <h3>In Suspending Journalists on Twitter, Musk Flexes His Media Muscle</h3>
 <sub>By Michael M. Grynbaum</sub>
 <p>Elon Musk’s moves this week set off a heated debate about complex issues of free speech and online censorship.  <a href="https://nyti.ms/3HE9YDL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Father of Accused Highland Park Gunman Charged in Connection With Shooting</h3>
-<sub>By Mitch Smith and Julie Bosman</sub>
-<p>Robert Crimo Jr., whose son is accused of killing seven people at this year’s Fourth of July parade in Highland Park, Ill., was charged with seven counts of reckless conduct.  <a href="https://nyti.ms/3V4llI4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spending a Month’s Salary to See Bad Bunny, Only to Be Turned Away</h3>
-<sub>By Maria Abi-Habib</sub>
-<p>The concert was supposed to be one of Mexico’s largest, sold out months before. Instead, one of the world’s biggest stars played to a half empty floor.  <a href="https://nyti.ms/3FU9iYz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
