@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 17, Central Standard Time</p>
 <p>
-Right now, there are a few trends I&#39;m seeing across the news. In Russia, we&#39;re learning more about how a “walk in the park” war turned into a catastrophe for the country. On a global level, experts have been debating whether or not to mark a new epoch from the Earth&#39;s history - the Anthropocene. In business news, Elon Musk flexed his media power by suspending several journalists on Twitter, but days later reversed their suspensions. Additionally, in US news, there&#39;s discussions going on for potentially referring former President Donald Trump for charges related to the insurrection at Capitol Hill earlier this year.</p>
+There&#39;s a lot happening in the world right now! In Russia, President Vladimir Putin&#39;s policies have turned a &#39;walk in the park&#39; into a catastrophe. In Ukraine, people are focusing on resilience a day after major Russian strikes. On a larger scale, an expert panel has been debating about whether to mark a new epoch in geologic time for planet Earth. Regarding business news, there&#39;s an individual by the name of Ryan Salame who is a big Republican donor, restaurateur and tipster - his company FTX is vastly different from stock exchanges. Also in Qatar, David Beckham was paid tens of millions of dollars as part of a promotional campaign but they weren&#39;t quite getting what they expected. On a more serious note, gun violence has recently surpassed car accidents as the leading cause of death for American children, and sadly we&#39;ve heard stories of 12 children killed by guns this year. Lastly, tech billionaire Elon Musk recently flexed his media muscle by suspending journalists on Twitter before reinstating them shortly after.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s War: The Inside Story of a Catastrophe</h3>
 <sub>By Michael Schwirtz, Anton Troianovski, Yousur Al-Hlou, Masha Froliak, Adam Entous and Thomas Gibbons-Neff</sub>
 <p>Secret battle plans, intercepted communications and Russian soldiers explain how a “walk in the park” became a catastrophe for Russia.  <a href="https://nyti.ms/3FEonNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainians Focus on Resilience a Day After Major Russian Strikes</h3>
+<sub>By Carlotta Gall</sub>
+<p>The mayor of Kyiv said that water was back on and that the city’s subway service had resumed. President Volodymyr Zelensky urged businesses to help set up more “invincibility centers” for the public.  <a href="https://nyti.ms/3YsZ5uq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>For Planet Earth, This Might Be the Start of a New Age</h3>
@@ -80,11 +86,11 @@ Right now, there are a few trends I&#39;m seeing across the news. In Russia, we&
 <p>The co-chief executive of an FTX unit who told regulators about wrongdoing at the exchange was a big Republican donor. He also bought restaurants.  <a href="https://nyti.ms/3j0FyRK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>It’s the World Cup Souvenir Everyone Wants. Getting One Is the Hard Part.</h3>
-<sub>By Rory Smith</sub>
-<p>A game-worn Lionel Messi jersey is the most coveted collectible in Qatar. Good luck getting hold of the one (or two) he wears in the World Cup final.  <a href="https://nyti.ms/3jbKmUD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Traditional Exchange? FTX Was Anything But.</h3>
+<sub>By Joe Rennison</sub>
+<p>FTX called itself an exchange. But it was vastly different from stock exchanges, which are highly regulated and barred from engaging in many of the activities FTX pursued.  <a href="https://nyti.ms/3FWiGM9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The World Cup’s Missing Mouthpiece</h3>
@@ -92,11 +98,11 @@ Right now, there are a few trends I&#39;m seeing across the news. In Russia, we&
 <p>Qatar paid David Beckham tens of millions of dollars to promote the country and its interests. To its frustration, it has not received the return it expected from that investment.  <a href="https://nyti.ms/3WkMicd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Global Leaders Mix Sports and Diplomacy at the World Cup</h3>
-<sub>By Edward Wong</sub>
-<p>Dozens of top officials have flown to Qatar to cheer for teams while talking shop. The event has magnified the tiny Gulf nation’s role as a diplomatic broker.  <a href="https://nyti.ms/3j3Ggxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>It’s the World Cup Souvenir Everyone Wants. Getting One Is the Hard Part.</h3>
+<sub>By Rory Smith</sub>
+<p>A game-worn Lionel Messi jersey is the most coveted collectible in Qatar. Good luck getting hold of the one (or two) he wears in the World Cup final.  <a href="https://nyti.ms/3jbKmUD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Comes Next for the Most Empty Downtown in America</h3>
@@ -124,15 +130,9 @@ Right now, there are a few trends I&#39;m seeing across the news. In Russia, we&
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Twitter Reinstates Suspended Accounts of Several Journalists</h3>
-<sub>By Yan Zhuang</sub>
+<sub>By Yan Zhuang and Euan Ward</sub>
 <p>The brief bans, which came after Elon Musk had suggested the journalists were violating Twitter’s rules on personal privacy, had alarmed free-speech advocates.  <a href="https://nyti.ms/3FYWdy3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Panel Plans Vote on Referring Trump for Insurrection and Other Charges</h3>
-<sub>By Luke Broadwater</sub>
-<p>The committee also was expected to recommend charging the former president with obstructing an official proceeding of Congress and defrauding the American people.  <a href="https://nyti.ms/3PvICBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
