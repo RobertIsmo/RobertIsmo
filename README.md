@@ -60,12 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 16, Central Standard Time</p>
 <p>
-There is a lot of news happening in the world right now. The US is looking into how bad the &#39;tripledemic&#39; of seasonal illnesses, the coronavirus, and now hospitalizations for respiratory illnesses are for this time of year. Mar-a-Lago, President Trump&#39;s luxury resort, was revealed to have stored classified documents in high traffic areas, potentially exposing guests to them. In Ukraine, missiles have been fired at towns and cities this fall, disrupting everyday life and infrastructure. Elon Musk is facing a lot of anger from people over his recent Twitter ban of journalists. On the management side, there is discussion about the effectiveness of Elon Musk&#39;s ruthless but unsparing style for Silicon Valley leaders. In Mexico, fans were disappointed after buying tickets months in advance to see Bad Bunny perform in an arena only half full. Talks are currently happening in Montreal that could save nature as habitat loss becomes a bigger issue. Private equity companies are also trying to invest in child care as a big business now. Recently there have been World Cup matches in Qatar where the line between artificial and authentic has blurred. Plus comedian Joe Lycett used his comedy performance as a sly protest against Qatar&#39;s LGBTQ laws with David Beckham.</p>
+Right now, there is a lot of conflict in the world. In Subfreezing Cold, Waves of Russian Missiles Batter Ukraine, leaving people without heat or water. Also, a Russian official in Africa was wounded by a package bomb. On a different note, it looks like this winter is going to be pretty bad due to high hospitalizations for respiratory illnesses - what&#39;s being called the &quot;Tripledemic&quot;. On top of that, new COVID booster shots have been found to cut the risk of hospitalization by half. Closer to home, there are investigations into Donald Trump&#39;s tax data as well as emails from his lawyers in relation to attempting to reverse the 2020 election outcome. And finally, there have been several instances of people not getting what they paid for - including at a concert in Mexico with Bad Bunny where people spent over a month&#39;s salary just to be turned away.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Subfreezing Cold, Waves of Russian Missiles Batter Ukraine</h3>
+<sub>By Marc Santora and Andrew E. Kramer</sub>
+<p>Dozens of missiles knocked out heat and electricity systems around the country including in Kyiv, where two-thirds of its residents had no heat or water.  <a href="https://nyti.ms/3BHasp0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Griner Leaves Texas Base, Pledges W.N.B.A. Return and Support for Whelan</h3>
+<sub>By Tania Ganguli</sub>
+<p>Griner, in her first public comments since being freed from imprisonment in Russia, said she would return to the Phoenix Mercury next season and work to free wrongful detainees outside the United States.  <a href="https://nyti.ms/3WjNADy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Official in Africa Wounded by Package Bomb, Moscow Says</h3>
+<sub>By Ruth Maclean, Elian Peltier and Anatoly Kurmanaev</sub>
+<p>The official, previously identified as a senior operative with the Wagner Group, was hospitalized in the capital of the Central African Republic, according to the Russian embassy.  <a href="https://nyti.ms/3WjOUX2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Just How Bad Is the ‘Tripledemic’?</h3>
 <sub>By Amy Schoenfeld Walker</sub>
 <p>Hospitalizations for respiratory illnesses are at high levels for this time of year, disrupting seasonal patterns and making it hard to predict how bad this winter will be.  <a href="https://nyti.ms/3Wk7wqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>New Covid Booster Shots Cut Risk of Hospitalization by Half, C.D.C. Reports</h3>
+<sub>By Benjamin Mueller</sub>
+<p>The research was conducted in part when older variants of the coronavirus were spreading. Other factors may have influenced the conclusions.  <a href="https://nyti.ms/3j9DQ0H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,64 +98,40 @@ There is a lot of news happening in the world right now. The US is looking into 
 <p>A Times investigation shows how Donald J. Trump stored classified documents in high-traffic areas at Mar-a-Lago, where guests may have been within feet of the materials.  <a href="https://nyti.ms/3BBciHB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Missiles knock out heating systems in towns and cities amid freezing temperatures.</h3>
-<sub>By Andrew E. Kramer, Marc Santora and Victoria Kim</sub>
-<p>It was the ninth large-scale wave of missiles to be aimed at Ukrainian infrastructure this fall. Officials said 76 missiles had been fired, and all but 16 were shot down.  <a href="https://nyti.ms/3WkNUCN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jan. 6 Panel Plans Vote on Referring Trump for Insurrection and Other Charges</h3>
+<sub>By Luke Broadwater</sub>
+<p>The committee also was expected to recommend charging the former president with obstructing an official proceeding of Congress and defrauding the American people.  <a href="https://nyti.ms/3PvICBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Committee Takes Step Toward Potential Release of Trump’s Tax Data</h3>
+<sub>By Charlie Savage</sub>
+<p>The Ways and Means Committee announced a closed-door meeting next week at which it may vote to disclose the information.  <a href="https://nyti.ms/3FXZ4Y1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Dept. Examines Emails from Trump Lawyers in Fake Elector Inquiry</h3>
+<sub>By Alan Feuer and Adam Goldman</sub>
+<p>Prosecutors have combed through more than 100,000 documents from John Eastman, Jeffrey Clark and Ken Klukowski, who played roles in the effort to reverse the outcome of the 2020 election.  <a href="https://nyti.ms/3hATZf5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Musk Faces Growing Anger Over Twitter Ban of Journalists</h3>
-<sub>By Bernhard Warner</sub>
-<p>The suspensions, which were criticized by U.S. and European lawmakers, could raise the regulatory heat on the social media platform — and Elon Musk’s other companies.  <a href="https://nyti.ms/3W56qi2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Suspending Journalists on Twitter, Musk Flexes His Media Muscle</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>Elon Musk’s moves this week set off a heated debate about complex issues of free speech and online censorship.  <a href="https://nyti.ms/3HE9YDL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Elon Musk, Management Guru?</h3>
-<sub>By Kevin Roose</sub>
-<p>Why the Twitter owner’s ruthless, unsparing style has made him a hero to many bosses in Silicon Valley.  <a href="https://nyti.ms/3W7d1sC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Father of Accused Highland Park Gunman Charged in Connection With Shooting</h3>
+<sub>By Mitch Smith and Julie Bosman</sub>
+<p>Robert Crimo Jr., whose son is accused of killing seven people at this year’s Fourth of July parade in Highland Park, Ill., was charged with seven counts of reckless conduct.  <a href="https://nyti.ms/3V4llI4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Spending a Month’s Salary to See Bad Bunny, Only to Be Turned Away</h3>
 <sub>By Maria Abi-Habib</sub>
 <p>The concert was supposed to be one of Mexico’s largest, sold out months before. Instead, one of the world’s biggest stars played to a half empty floor.  <a href="https://nyti.ms/3FU9iYz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Crucial Talks on Preserving Nature Are on Now. Here Are the Key Issues.</h3>
-<sub>By Catrin Einhorn</sub>
-<p>Negotiators from around the world are meeting in Canada in an effort to halt, and reverse, staggering declines in wildlife.  <a href="https://nyti.ms/3WmgaV1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Animals Are Running Out of Places to Live</h3>
-<sub>By Catrin Einhorn and Lauren Leatherby</sub>
-<p>Talks in Montreal this month could be a big victory, or a missed opportunity, for the planet’s wildlife. We explain why, and show you some of the species losing habitat fast.  <a href="https://nyti.ms/3W7GHp5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can Child Care Be a Big Business? Private Equity Thinks So.</h3>
-<sub>By Dana Goldstein</sub>
-<p>Some high-end chains are surprisingly profitable, and they are trying to shape child care policy in Washington.  <a href="https://nyti.ms/3HGAKev"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>When World Cup Reality Isn’t What It Seems</h3>
-<sub>By Rory Smith</sub>
-<p>In Qatar, where the line between the artificial and the authentic has blurred or evaporated, it was the people, as always, who defined the tournament.  <a href="https://nyti.ms/3PwhyST"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Spot the Ball: And Then There Were Two</h3>
-<sub>By Michael Beswetherick, Alastair Coote, Rumsey Taylor and Sam Manchester</sub>
-<p>After a thrilling quarterfinal round and a more predictable semifinals, Argentina and France stand alone. These pictures show how they got here, with one tricky change: We’ve  removed the ball. See if you can guess where it was.  <a href="https://nyti.ms/3YDdvIC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A Comedian’s Stunt Is a Sly Protest of Qatar’s L.G.B.T.Q. Laws</h3>
-<sub>By Simran Hans</sub>
-<p>Joe Lycett appeared to shred cash after demanding that David Beckham end his relationship with the World Cup. It was his latest performance with a point.  <a href="https://nyti.ms/3htodAK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
