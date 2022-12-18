@@ -60,31 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 18, Central Standard Time</p>
 <p>
-It looks like a lot is happening around the world! Russian President Putin is facing criticism for his handling of a crisis, and it sounds like there are some inquiries into possible political wrongdoing in the U.S. By some cryptocurrency executives. There&#39;s also a panel of experts trying to decide how to mark an epoch in geologic time. On a lighter note, the FIFA World Cup Final wrapped up with Messi and Argentina on one side, and Kylian Mbappé and France on the other. Argentina also has mysterious witches who are casting spells to protect their players. In San Francisco, high tech workers still seem to be working remotely, and New York is experiencing license plate thefts. Finally, The New York Times has released a Faces Quiz featuring notable people from 2022, and there&#39;s also advice on how to make two quick and stunning holiday meals!</p>
+Many countries are increasing their military spending as concerns about possible threats from other nations rise. In Russia, groups of volunteers have joined together to document the war dead from the conflict in Ukraine, while Argentina and France compete in the World Cup Final. Meanwhile in Texas, faith-based organizations are responding to a mother&#39;s decision to deny an abortion. Quietly looking away from his past, Hiroyuki Nishimura has become a celebrated figure in Japan, even though he has owned a notorious website. In response to Christmas falling on a Sunday, some Protestant pastors have decided to cancel services for the holiday. CNN&#39;s chief executive Chris Licht is finding his job more challenging than expected, while inmates pick the newest winner of France&#39;s book prize. And finally, The New York Times put out a quiz featuring noted personalities of 2022 and their defining traits</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin’s War: The Inside Story of a Catastrophe</h3>
-<sub>By Michael Schwirtz, Anton Troianovski, Yousur Al-Hlou, Masha Froliak, Adam Entous and Thomas Gibbons-Neff</sub>
-<p>Secret battle plans, intercepted communications and Russian soldiers explain how a “walk in the park” became a catastrophe for Russia.  <a href="https://nyti.ms/3FEonNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Scrutinizes Political Donations by Sam Bankman-Fried and Allies</h3>
-<sub>By Kenneth P. Vogel and Ken Bensinger</sub>
-<p>Federal prosecutors appear to be focusing on possible wrongdoing by cryptocurrency executives, rather than by Democratic or Republican politicians. But the inquiries widen an explosive campaign finance scandal.  <a href="https://nyti.ms/3W84CoK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
+<h3>Military Spending Surges, Creating New Boom for Arms Makers</h3>
+<sub></sub>
+<p>The combination of the war in Ukraine and concern about longer-term threats from Russia and China are driving a bipartisan push to increase U.S. capacity to produce weapons.  <a href="https://nyti.ms/3YphdVY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Sam Bankman-Fried Is Expected to Agree to Extradition to the U.S.</h3>
-<sub>By David Yaffe-Bellany, Rob Copeland and Matthew Goldstein</sub>
-<p>The FTX founder, now in prison in the Bahamas, faces criminal charges that he engaged in widespread fraud since founding the cryptocurrency exchange in 2019.  <a href="https://nyti.ms/3YxRESz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>For Planet Earth, This Might Be the Start of a New Age</h3>
-<sub>By Raymond Zhong</sub>
-<p>A panel of experts has spent more than a decade deliberating on how, and whether, to mark a momentous new epoch in geologic time: our own.  <a href="https://nyti.ms/3BDqjEX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Counting Russia’s War Dead, With Tips, Clips and a Giant Spreadsheet</h3>
+<sub>By Neil MacFarquhar</sub>
+<p>Amid doubts about Moscow’s true war losses, Russian data journalists and volunteers use news articles, tombstone photographs and other open-source information to tally the Russian toll from the war in Ukraine.  <a href="https://nyti.ms/3W8yn8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>World Cup Final Caps a Complex Saga Between Messi and Argentina</h3>
@@ -98,23 +86,35 @@ It looks like a lot is happening around the world! Russian President Putin is fa
 <p>The France and Argentina stars are teammates at Qatar-owned Paris St.-Germain. But when they collide in the World Cup final, both have much to gain, and a lot to lose.  <a href="https://nyti.ms/3FCfrbv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘I’m Not Ready’: A Mother Denied an Abortion in Texas Faces an Uncertain Future</h3>
+<sub>By Elizabeth Williamson and Erin Schaff</sub>
+<p>Faith-based Blue Haven Ranch provides temporary aid for poor Texas women with newborns. But how will they survive when it ends?  <a href="https://nyti.ms/3j2JNfA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Behind Argentina’s World Cup Magic, an Army of Witches</h3>
-<sub>By Jack Nicas and Ana Lankes</sub>
-<p>France might have its star Kylian Mbappé, but Argentina has hundreds of “brujas” casting spells to protect Lionel Messi and the rest of its national squad.  <a href="https://nyti.ms/3V4K92Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
+<h3>Putin’s War: The Inside Story of a Catastrophe</h3>
+<sub>By Michael Schwirtz, Anton Troianovski, Yousur Al-Hlou, Masha Froliak, Adam Entous and Thomas Gibbons-Neff</sub>
+<p>Secret battle plans, intercepted communications and Russian soldiers explain how a “walk in the park” became a catastrophe for Russia.  <a href="https://nyti.ms/3FEonNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Comes Next for the Most Empty Downtown in America</h3>
-<sub>By Conor Dougherty, Emma Goldberg and Aaron Wojack</sub>
-<p>Tech workers are still at home. The $17 salad place is expanding into the suburbs. So what is left in San Francisco?  <a href="https://nyti.ms/3BE5r03"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
+<h3>In the U.S., His Site Has Been Linked to Massacres. In Japan, He’s a Star.</h3>
+<sub>By Ben Dooley</sub>
+<p>Hiroyuki Nishimura has become a famous voice for disenchanted young Japanese. What he talks much less about is his ownership of the notorious website 4chan.  <a href="https://nyti.ms/3WqFFEB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>They Dispense Street Justice, One Defaced License Plate at a Time</h3>
-<sub>By Corey Kilgannon</sub>
-<p>Scofflaws are tampering with tags, costing New York agencies more than $100 million a year in missed payments and fines. A group of citizen enforcers is coming to the city’s rescue.  <a href="https://nyti.ms/3FEGkeS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>O Come All Ye Faithful, Except When Christmas Falls on a Sunday</h3>
+<sub>By Ruth Graham</sub>
+<p>Worried about coaxing people into pews when they’d rather be in their pajamas, some Protestant pastors are canceling Sunday services on Dec. 25.  <a href="https://nyti.ms/3hAaXKx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Education of CNN’s Chris Licht</h3>
+<sub>By James B. Stewart</sub>
+<p>The network’s chief executive knew the job would not be easy. But this hard?  <a href="https://nyti.ms/3htshkw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Weekender</h3>
@@ -128,11 +128,11 @@ It looks like a lot is happening around the world! Russian President Putin is fa
 <p>See how well you know the defining personalities of 2022 with The New York Times Faces Quiz.  <a href="https://nyti.ms/3YmT5U9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>These 2 Holiday Mains Aren’t Just Stunning. They Cook in Under an Hour.</h3>
-<sub>By Genevieve Ko</sub>
-<p>Genevieve Ko pairs salmon with miso cream and beef tenderloin with horseradish sauce for a lavish, but stress-free feast.  <a href="https://nyti.ms/3BAd6wn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>From Behind Bars, Inmates Award France’s Latest Book Prize</h3>
+<sub>By Aurelien Breeden and Andrea Mantovani for The New York Times</sub>
+<p>For the first time, detainees picked their own winner in an offshoot of the Goncourt, France’s top literary honor.  <a href="https://nyti.ms/3HE471o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
