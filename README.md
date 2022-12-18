@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 18, Central Standard Time</p>
 <p>
-In the world right now, there&#39;s a lot going on! Argentina has a big hit song that&#39;s become the soundtrack for the World Cup. U.S. military spending is increasing in anticipation of potential threats from Russia and China. Meanwhile, there are concerns about a potential offensive by Russian soldiers in Ukraine. Activists and data journalists in Russia have been creating giant spreadsheets to try and keep track of war deaths there. In Texas, abortion access is becoming increasingly difficult, while a Japanese website owner who is linked to several massacres is still having success in business. Even churches in the U.S. are canceling Sunday services on Christmas Day to avoid fewer people attending services on that day. Plus, CNN&#39;s CEO has faced more hard times than expected when taking on his new job. Lastly, Barbie&#39;s dreamhouses have completely changed over the last six decades!</p>
+Right now, there&#39;s a lot happening in the world. In sports, Argentina edged out France in an exciting World Cup Final. On the military side, spending has surged, creating a boom for arms makers in the U.S. Russia continues to present a threat with more evidence of training soldiers for potential offensives, while also dealing with war casualties in Ukraine. On the domestic front here in the U.S., abortion access is again a heated topic and controversy over closing services on Christmas Day when it falls on a Sunday still continues. And finally, New York City remains one of the most diverse, both spiritually and culturally, with plenty of unique religions and backgrounds to appreciate.</p>
 <ol>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How Argentina’s Favorite Song Became the World Cup’s Soundtrack</h3>
-<sub>By Rory Smith</sub>
-<p>The song, Muchachos, Ahora Nos Volvimos A Ilusionar, has been a constant refrain in Qatar.  <a href="https://nyti.ms/3WomfAg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>¡Gooooool! Watch All the Scores From the Incredible World Cup Final</h3>
+<sub>By Ben Shpigel</sub>
+<p>Argentina and France each scored two goals in regulation, both scored once in extra time, and Argentina won in a penalty shootout, 4-2. See all the highlights from Telemundo and Fox.  <a href="https://nyti.ms/3V8ws2R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,6 +110,12 @@ In the world right now, there&#39;s a lot going on! Argentina has a big hit song
 <p>Worried about coaxing people into pews when they’d rather be in their pajamas, some Protestant pastors are canceling Sunday services on Dec. 25.  <a href="https://nyti.ms/3hAaXKx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Look Inside New York’s Swirling Kaleidoscope of Faiths</h3>
+<sub>By James Estrin and Liam Stack</sub>
+<p>The city is home to some of the most spiritually and culturally diverse areas in the world. Here are some of them.  <a href="https://nyti.ms/3Pvhumg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Education of CNN’s Chris Licht</h3>
 <sub>By James B. Stewart</sub>
@@ -127,12 +133,6 @@ In the world right now, there&#39;s a lot going on! Argentina has a big hit song
 <sub>Produced by Ashley Wu, Jessica Anderson, Matthew Cullen, Amy Fiscus, Lauren Hard, Lauren Jackson, Sean Kawasaki-Culligan, Brent Lewis, Claire Moses, Ian Prasad Philbrick and Tom Wright-Piersanti</sub>
 <p>See how well you know the defining personalities of 2022 with The New York Times Faces Quiz.  <a href="https://nyti.ms/3YmT5U9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>A Six-Decade Tour of Barbie’s Dreamhouses</h3>
-<sub>By Julie Lasky</sub>
-<p>From midcentury modern to a Gen-Z collab house, Barbie has kept up with design trends.  <a href="https://nyti.ms/3PqNMig"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
