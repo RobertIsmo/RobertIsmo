@@ -60,30 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 18, Central Standard Time</p>
 <p>
-There is a lot of news happening all around the world. In the US, military spending is increasing and arms manufacturers are benefiting from a new boom in production. Russia&#39;s war in Ukraine has caused a lot of death that data journalists and volunteers are trying to track through news articles and open-source information. Fans around the world are celebrating Argentina&#39;s soccer star, Lionel Messi, after he led his team to victory at the World Cup final. Meanwhile, Texas mother Faith is battling with authorities to terminate her pregnancy, while in Japan Hiroyuki Nishimura has become a star thanks to his ownership of controversial website 4chan. Finally, there are award-winning books being written by inmates behind bars in France!</p>
+In the world right now, there&#39;s a lot going on! Argentina has a big hit song that&#39;s become the soundtrack for the World Cup. U.S. military spending is increasing in anticipation of potential threats from Russia and China. Meanwhile, there are concerns about a potential offensive by Russian soldiers in Ukraine. Activists and data journalists in Russia have been creating giant spreadsheets to try and keep track of war deaths there. In Texas, abortion access is becoming increasingly difficult, while a Japanese website owner who is linked to several massacres is still having success in business. Even churches in the U.S. are canceling Sunday services on Christmas Day to avoid fewer people attending services on that day. Plus, CNN&#39;s CEO has faced more hard times than expected when taking on his new job. Lastly, Barbie&#39;s dreamhouses have completely changed over the last six decades!</p>
 <ol>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>How Argentina’s Favorite Song Became the World Cup’s Soundtrack</h3>
+<sub>By Rory Smith</sub>
+<p>The song, Muchachos, Ahora Nos Volvimos A Ilusionar, has been a constant refrain in Qatar.  <a href="https://nyti.ms/3WomfAg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Military Spending Surges, Creating New Boom for Arms Makers</h3>
 <sub></sub>
-<p>The combination of the war in Ukraine and concern about longer-term threats from Russia and China are driving a bipartisan push to increase U.S. capacity to produce weapons.  <a href="https://nyti.ms/3YphdVY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The combination of the war in Ukraine and concern about longer-term threats from Russia and China is driving a bipartisan push to increase U.S. capacity to produce weapons.  <a href="https://nyti.ms/3YphdVY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Says Russia Is Training Soldiers for Possible New Offensive</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>An adviser to President Volodymyr Zelensky urged Western allies to take seriously the threat of a new Russian onslaught, which could include mass infantry attacks.  <a href="https://nyti.ms/3Wrs2oN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Counting Russia’s War Dead, With Tips, Clips and a Giant Spreadsheet</h3>
 <sub>By Neil MacFarquhar</sub>
 <p>Amid doubts about Moscow’s true war losses, Russian data journalists and volunteers use news articles, tombstone photographs and other open-source information to tally the Russian toll from the war in Ukraine.  <a href="https://nyti.ms/3W8yn8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>World Cup Final Caps a Complex Saga Between Messi and Argentina</h3>
-<sub>By Jack Nicas and Sebastián López Brach</sub>
-<p>Lionel Messi left Argentina when he was 13 and has had a complicated relationship with the nation since. But this World Cup has changed things.  <a href="https://nyti.ms/3hBEiEr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How Argentina’s Favorite Song Became the World Cup’s Soundtrack</h3>
-<sub>By Rory Smith</sub>
-<p>The song, Muchachos, Ahora Nos Volvimos A Ilusionar, has been a constant refrain in Qatar.  <a href="https://nyti.ms/3WomfAg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -113,7 +113,7 @@ There is a lot of news happening all around the world. In the US, military spend
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Education of CNN’s Chris Licht</h3>
 <sub>By James B. Stewart</sub>
-<p>The network’s chief executive knew the job would not be easy. But this hard?  <a href="https://nyti.ms/3htshkw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The network’s chief executive knew the job would not be easy. But this hard?  <a href="https://nyti.ms/3V6Qb2M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
@@ -128,10 +128,10 @@ There is a lot of news happening all around the world. In the US, military spend
 <p>See how well you know the defining personalities of 2022 with The New York Times Faces Quiz.  <a href="https://nyti.ms/3YmT5U9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>From Behind Bars, Inmates Award France’s Latest Book Prize</h3>
-<sub>By Aurelien Breeden and Andrea Mantovani for The New York Times</sub>
-<p>For the first time, detainees picked their own winner in an offshoot of the Goncourt, France’s top literary honor.  <a href="https://nyti.ms/3HE471o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>A Six-Decade Tour of Barbie’s Dreamhouses</h3>
+<sub>By Julie Lasky</sub>
+<p>From midcentury modern to a Gen-Z collab house, Barbie has kept up with design trends.  <a href="https://nyti.ms/3PqNMig"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
