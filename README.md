@@ -60,18 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 17, Central Standard Time</p>
 <p>
-Hey friend, it&#39;s been a while! A lot has happened in the world since we last talked. In Russia, things have been tough in recent years. It looks like a war that Russian President Vladimir Putin started a few years ago has been an absolute catastrophe for their country.
-
-In the US, there&#39;s been some drama with political donations by cryptocurrency executives. It&#39;s raised some serious concerns about campaign finance, which is getting investigated by federal prosecutors.
-
-Restaurateur and big Republican donor Ryan Salame is also making the headlines lately. He bought some restaurants and also tipped off regulators about potential wrongdoing at an exchange he works with.
-
-On a lighter note, Argentina has turned to witchcraft to help its national soccer team! Hundreds of &#39;brujas&#39; have been casting spells to protect their star player Lionel Messi and his team mates ahead of the World Cup. 
-
-In 2022, San Francisco may look quite different too. Restaurants are looking to expand out of downtown, tech workers are still at home, and the city is making some changes to stop people from tampering with their license plates and illegally avoiding payment and fines (which costs them over $100 million a year). 
-
-Oh, did I mention NFL? The 2022 playoffs have already begun! An interactive calculator lets people explore each team&#39;s path to make it there. 
-Anyway, glad we got to catch up!</p>
+There are a lot of interesting and varied stories in the news right now! In Russia, there&#39;s a new article about how a war became a catastrophe. In the US, federal prosecutors appear to be focused on possible wrongdoing by cryptocurrency executives. Meanwhile, in sports news, FIFA is trying to silence an armband campaign designed to promote inclusivity. On the climate front, experts have been discussing how to mark a momentous new epoch in geologic time. In Argentina, apparently there are hundreds of &#39;brujas&#39; casting spells for their World Cup team. And in NYC, people have been defacing license plates - costing the state millions of dollars! Finally, The New York Times has put out a quiz to test your knowledge of notable figures from 2022 as well as an interactive calculator for predicting NFL playoff success.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s War: The Inside Story of a Catastrophe</h3>
@@ -115,12 +104,6 @@ Anyway, glad we got to catch up!</p>
 <p>Tech workers are still at home. The $17 salad place is expanding into the suburbs. So what is left in San Francisco?  <a href="https://nyti.ms/3BE5r03"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Lives They Lived</h3>
-<sub>By The New York Times Magazine</sub>
-<p>A boy just baptized. A girl who just had her Sweet 16. These are the stories of 12 children killed by guns this year.  <a href="https://nyti.ms/3W0ts9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>They Dispense Street Justice, One Defaced License Plate at a Time</h3>
 <sub>By Corey Kilgannon</sub>
@@ -144,6 +127,12 @@ Anyway, glad we got to catch up!</p>
 <sub>By Josh Katz, Kevin Quealy and Rumsey Taylor</sub>
 <p>An interactive calculator that lets you explore every team’s path to the N.F.L. playoffs.  <a href="https://nyti.ms/3CbMrqN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, September 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>These 2 Holiday Mains Aren’t Just Stunning. They Cook in Under an Hour.</h3>
+<sub>By Genevieve Ko</sub>
+<p>Genevieve Ko pairs salmon with miso cream and beef tenderloin with horseradish sauce for a lavish, but stress-free feast.  <a href="https://nyti.ms/3BAd6wn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
