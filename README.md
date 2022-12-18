@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 17, Central Standard Time</p>
 <p>
-There are a lot of interesting and varied stories in the news right now! In Russia, there&#39;s a new article about how a war became a catastrophe. In the US, federal prosecutors appear to be focused on possible wrongdoing by cryptocurrency executives. Meanwhile, in sports news, FIFA is trying to silence an armband campaign designed to promote inclusivity. On the climate front, experts have been discussing how to mark a momentous new epoch in geologic time. In Argentina, apparently there are hundreds of &#39;brujas&#39; casting spells for their World Cup team. And in NYC, people have been defacing license plates - costing the state millions of dollars! Finally, The New York Times has put out a quiz to test your knowledge of notable figures from 2022 as well as an interactive calculator for predicting NFL playoff success.</p>
+There is a lot going on in the world right now. In Russia, Vladimir Putin&#39;s policy of aggression has resulted in a catastrophe, and the US government is investigating political donations from cryptocurrency executives. Sam Bankman-Fried, the founder of a cryptocurrency exchange, is expected to be extradited to face criminal charges. Meanwhile, an international panel has been discussing how to mark this new epoch in geologic time. At the World Cup Final, Lionel Messi and Kylian Mbappé are meeting in their roles as teammates on Paris St.-Germain, while in Argentina an army of witches are casting spells for the national squad. American cities are dealing with empty downtowns as many tech workers remain at home, while New Yorkers have been attempting to take on scofflaws tampering with license plates. Plus a quiz! There&#39;s plenty of other interesting things happening too - even two holiday mains that look stunning and only take an hour to cook.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s War: The Inside Story of a Catastrophe</h3>
@@ -75,9 +75,9 @@ There are a lot of interesting and varied stories in the news right now! In Russ
 <sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Restaurateur, Political Donor, Tipster: The Many Roles of FTX’s Ryan Salame</h3>
-<sub>By Matthew Goldstein, Kenneth P. Vogel and David Yaffe-Bellany</sub>
-<p>The co-chief executive of an FTX unit who told regulators about wrongdoing at the exchange was a big Republican donor. He also bought restaurants.  <a href="https://nyti.ms/3j0FyRK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Sam Bankman-Fried Is Expected to Agree to Extradition to the U.S.</h3>
+<sub>By David Yaffe-Bellany, Rob Copeland and Matthew Goldstein</sub>
+<p>The FTX founder, now in prison in the Bahamas, faces criminal charges that he engaged in widespread fraud since founding the cryptocurrency exchange in 2019.  <a href="https://nyti.ms/3YxRESz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -87,15 +87,21 @@ There are a lot of interesting and varied stories in the news right now! In Russ
 <sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Behind Argentina’s World Cup Magic, an Army of Witches</h3>
-<sub>By Jack Nicas and Ana Lankes</sub>
-<p>France might have its star Kylian Mbappé, but Argentina has hundreds of “brujas” casting spells to protect Lionel Messi and the rest of its national squad.  <a href="https://nyti.ms/3V4K92Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>World Cup Final Caps a Complex Saga Between Messi and Argentina</h3>
+<sub>By Jack Nicas and Sebastián López Brach</sub>
+<p>Lionel Messi left Argentina when he was 13 and has had a complicated relationship with the nation since. But this World Cup has changed things.  <a href="https://nyti.ms/3hBEiEr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How FIFA Silenced a World Cup Armband Campaign</h3>
+<h3>Kylian Mbappé Is Ready to Make Messi’s Moment His Own</h3>
 <sub>By Tariq Panja</sub>
-<p>European teams had planned to highlight inclusivity on soccer’s biggest stage. They blinked when the sport’s governing body flexed its muscles.  <a href="https://nyti.ms/3G1N3ku"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The France and Argentina stars are teammates at Qatar-owned Paris St.-Germain. But when they collide in the World Cup final, both have much to gain, and a lot to lose.  <a href="https://nyti.ms/3FCfrbv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Behind Argentina’s World Cup Magic, an Army of Witches</h3>
+<sub>By Jack Nicas and Ana Lankes</sub>
+<p>France might have its star Kylian Mbappé, but Argentina has hundreds of “brujas” casting spells to protect Lionel Messi and the rest of its national squad.  <a href="https://nyti.ms/3V4K92Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -121,12 +127,6 @@ There are a lot of interesting and varied stories in the news right now! In Russ
 <sub>Produced by Ashley Wu, Jessica Anderson, Matthew Cullen, Amy Fiscus, Lauren Hard, Lauren Jackson, Sean Kawasaki-Culligan, Brent Lewis, Claire Moses, Ian Prasad Philbrick and Tom Wright-Piersanti</sub>
 <p>See how well you know the defining personalities of 2022 with The New York Times Faces Quiz.  <a href="https://nyti.ms/3YmT5U9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>2022 N.F.L. Playoff Picture: Each Team’s Path to the Postseason</h3>
-<sub>By Josh Katz, Kevin Quealy and Rumsey Taylor</sub>
-<p>An interactive calculator that lets you explore every team’s path to the N.F.L. playoffs.  <a href="https://nyti.ms/3CbMrqN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, September 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
 <h3>These 2 Holiday Mains Aren’t Just Stunning. They Cook in Under an Hour.</h3>
