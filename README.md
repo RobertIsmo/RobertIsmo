@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 18, Central Standard Time</p>
 <p>
-Many countries are increasing their military spending as concerns about possible threats from other nations rise. In Russia, groups of volunteers have joined together to document the war dead from the conflict in Ukraine, while Argentina and France compete in the World Cup Final. Meanwhile in Texas, faith-based organizations are responding to a mother&#39;s decision to deny an abortion. Quietly looking away from his past, Hiroyuki Nishimura has become a celebrated figure in Japan, even though he has owned a notorious website. In response to Christmas falling on a Sunday, some Protestant pastors have decided to cancel services for the holiday. CNN&#39;s chief executive Chris Licht is finding his job more challenging than expected, while inmates pick the newest winner of France&#39;s book prize. And finally, The New York Times put out a quiz featuring noted personalities of 2022 and their defining traits</p>
+There is a lot of news happening all around the world. In the US, military spending is increasing and arms manufacturers are benefiting from a new boom in production. Russia&#39;s war in Ukraine has caused a lot of death that data journalists and volunteers are trying to track through news articles and open-source information. Fans around the world are celebrating Argentina&#39;s soccer star, Lionel Messi, after he led his team to victory at the World Cup final. Meanwhile, Texas mother Faith is battling with authorities to terminate her pregnancy, while in Japan Hiroyuki Nishimura has become a star thanks to his ownership of controversial website 4chan. Finally, there are award-winning books being written by inmates behind bars in France!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Military Spending Surges, Creating New Boom for Arms Makers</h3>
@@ -81,15 +81,15 @@ Many countries are increasing their military spending as concerns about possible
 <sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Kylian Mbappé Is Ready to Make Messi’s Moment His Own</h3>
-<sub>By Tariq Panja</sub>
-<p>The France and Argentina stars are teammates at Qatar-owned Paris St.-Germain. But when they collide in the World Cup final, both have much to gain, and a lot to lose.  <a href="https://nyti.ms/3FCfrbv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
+<h3>How Argentina’s Favorite Song Became the World Cup’s Soundtrack</h3>
+<sub>By Rory Smith</sub>
+<p>The song, Muchachos, Ahora Nos Volvimos A Ilusionar, has been a constant refrain in Qatar.  <a href="https://nyti.ms/3WomfAg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘I’m Not Ready’: A Mother Denied an Abortion in Texas Faces an Uncertain Future</h3>
 <sub>By Elizabeth Williamson and Erin Schaff</sub>
-<p>Faith-based Blue Haven Ranch provides temporary aid for poor Texas women with newborns. But how will they survive when it ends?  <a href="https://nyti.ms/3j2JNfA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Faith-based Blue Haven Ranch provides temporary aid for poor Texas women with newborns. But how will they survive when it ends?  <a href="https://nyti.ms/3hAKPPG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
