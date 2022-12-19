@@ -58,9 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, December 18, Central Standard Time</p>
+<p>It is Monday, December 19, Central Standard Time</p>
 <p>
-Things are kicking off in the US as the trial of the Proud Boys militia is set to open, and there is the potential for criminal charges to be brought against Donald Trump following a report by an investigating House panel. On the sporting front, Argentina just won the World Cup title for the first time since 1986 and did it in dramatic fashion with Lionel Messi leading his nation to victory. Meanwhile, Russia is allegedly training their soldiers for a possible new offensive against Ukraine, and some evidence of Moscow’s true war losses is starting to come out. Elon Musk has been causing outrage on Twitter recently due to some grievances on social media linking between platforms, whilst Hiroyuki Nishimura receives celebrity status in Japan despite owning 4chan. In Peru, there have been some violent clashes between protesters and security forces which has resulted in 25 deaths and hundreds injured.</p>
+It has been an exciting week with some significant news. In the US, an upcoming trial of the Proud Boys militia is set to take place and will focus on their role in the Jan. 6 riots at the Capitol. Former President Donald Trump is also facing a few headaches this week as a House panel investigating the Capitol attack may back criminal charges against him, and a separate committee could decide to release his tax returns.
+
+The sports world has been buzzing with Argentina winning the ultimate soccer trophy after an extra-long wait. There was great celebration in the streets across the country as it has been their first World Cup title since 1986. Unfortunately, Kylian Mbappé and France missed out due to a penalty shootout, but they did score three goals during it. 
+
+Internationally, Ukraine is warning other Western allies that Russia might be planning a new offensive against them. In Japan, Hiroyuki Nishimura made a name for himself while also owning the notorious website 4chan. Meanwhile in Peru, protesters are taking pauses to mourn at least 25 people dead and hundreds injured due to confrontations with their government.
+
+Lastly, the streaming industry might be entering into a decline after years of rapid growth in scripted TV series orders placed by networks and streamers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Proud Boys Trial Is Set to Open, Focusing on Role in Jan. 6 Violence</h3>
@@ -105,12 +111,6 @@ Things are kicking off in the US as the trial of the Proud Boys militia is set t
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Counting Russia’s War Dead, With Tips, Clips and a Giant Spreadsheet</h3>
-<sub>By Neil MacFarquhar</sub>
-<p>Amid doubts about Moscow’s true war losses, Russian data journalists and volunteers use news articles, tombstone photographs and other open-source information to tally the Russian toll from the war in Ukraine.  <a href="https://nyti.ms/3W8yn8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s War: The Inside Story of a Catastrophe</h3>
 <sub>By Michael Schwirtz, Anton Troianovski, Yousur Al-Hlou, Masha Froliak, Adam Entous and Thomas Gibbons-Neff</sub>
 <p>Secret battle plans, intercepted communications and Russian soldiers explain how a “walk in the park” became a catastrophe for Russia.  <a href="https://nyti.ms/3FEonNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -124,7 +124,7 @@ Things are kicking off in the US as the trial of the Proud Boys militia is set t
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>In the U.S., His Site Has Been Linked to Massacres. In Japan, He’s a Star.</h3>
-<sub>By Ben Dooley</sub>
+<sub>By Ben Dooley and Hisako Ueno</sub>
 <p>Hiroyuki Nishimura has become a famous voice for disenchanted young Japanese. What he talks much less about is his ownership of the notorious website 4chan.  <a href="https://nyti.ms/3WqFFEB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
@@ -132,6 +132,12 @@ Things are kicking off in the US as the trial of the Proud Boys militia is set t
 <h3>In Heart of Peru’s Protest, a Pause to Mourn the Dead</h3>
 <sub>By Julie Turkewitz and Victor Moriyama</sub>
 <p>Confrontations between protesters and the Peruvian authorities have left at least 25 dead and hundreds injured. Nowhere may tensions be higher than in the highland city of Ayacucho.  <a href="https://nyti.ms/3hE9kLV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Streaming’s Golden Age Is Suddenly Dimming</h3>
+<sub>By John Koblin</sub>
+<p>After years of breakneck growth, the number of scripted TV series orders made by networks and streamers is in decline.  <a href="https://nyti.ms/3WpIRAr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
