@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 19, Central Standard Time</p>
 <p>
-There is some difficult news coming out of China right now, as their leader appears to be suddenly abandoning their strategy to contain the coronavirus. In the US, a House panel investigating the Capitol attack is holding its final public session and they may refer criminal charges against Donald Trump. Reports are also surfacing about allegations of discrimination against gay people by the former head of NASA, and Elon Musk has put his future as CEO of Twitter up for a vote. Meanwhile, in Qatar, the heavily controversial World Cup tournament has been completed and Argentina finally won their first title in decades, while celebrations broke out across the country.</p>
+Right now, there&#39;s a lot happening in the world. We&#39;re still in the midst of the pandemic, and China has suddenly reversed its approach to the coronavirus strategy - essentially leaving its people to fend for themselves. In the US, there are several important developments happening: a House committee is ending their 18-month inquiry into former President Donald Trump publically, with potential criminal and ethics referrals against him; another committee may decide to release his taxes; and trials are set to begin for members of the Proud Boys and Oath Keepers&#39; militias who were involved in the Capitol attack on January 6th. On a lighter note, a Republican recently elected to US Congress may have exaggerated some of his career accomplishments. And finally, nearly every country signed on to a sweeping deal to dedicate 30 percent of planet&#39;s land and sea to nature conservation - but unfortunately, America won&#39;t participate in that.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>From Zero Covid to No Plan: Behind China’s Pandemic U-Turn</h3>
@@ -71,7 +71,7 @@ There is some difficult news coming out of China right now, as their leader appe
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jan. 6 Panel to Cap 18-Month Inquiry With Final Public Session</h3>
 <sub>By Luke Broadwater</sub>
-<p>The committee, which consistently broke new ground for a congressional investigation, is expected to approve its final report and vote on issuing criminal and civil referrals against Donald J. Trump.  <a href="https://nyti.ms/3BKPRjs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The committee, which consistently broke new ground for a congressional investigation, is expected to approve its final report and vote on issuing criminal and ethics referrals against Donald J. Trump.  <a href="https://nyti.ms/3W5fpzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,10 +92,28 @@ There is some difficult news coming out of China right now, as their leader appe
 <p>The charge of seditious conspiracy is the same as in a recent trial of members of the Oath Keepers militia, but the Proud Boys defendants are accused of a central role in the fighting at the Capitol.  <a href="https://nyti.ms/3HL1vyw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Naming the James Webb Telescope Turned Into a Fight Over Homophobia</h3>
-<sub>By Michael Powell</sub>
-<p>Did the former head of NASA discriminate against gay people? One physicist tried to rebut the accusation, only to find himself the target of attacks.  <a href="https://nyti.ms/3Wsx7gB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Who Is Rep.-Elect George Santos? His Résumé May Be Largely Fiction.</h3>
+<sub>By Grace Ashford and Michael Gold</sub>
+<p>Mr. Santos, a Republican from New York, says he’s the “embodiment of the American dream.” But he seems to have misrepresented a number of his career highlights.  <a href="https://nyti.ms/3Wsx7x7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Twitter Users Say Elon Musk Should Quit as C.E.O.</h3>
+<sub>By Eshe Nelson</sub>
+<p>After weeks of turmoil since he bought the company, Mr. Musk surveyed Twitter about whether he should remain in charge, and said he would abide by the result.  <a href="https://nyti.ms/3v4dO1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Epic Games to Pay $520 Million Over Children’s Privacy and Trickery Charges</h3>
+<sub>By Natasha Singer</sub>
+<p>The creator of popular games like Fortnite and Rocket League violated children’s privacy and duped millions of users into unwanted purchases, federal regulators said.  <a href="https://nyti.ms/3WpofsF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Trust the Models? In This Economy?</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Years into the pandemic, it is still difficult to get a handle on what comes next for the economy by looking at examples from the past.  <a href="https://nyti.ms/3V9wx6f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,35 +122,17 @@ There is some difficult news coming out of China right now, as their leader appe
 <p>Photographers captured historic moments of war, grief and wonder that defined the year.  <a href="https://nyti.ms/3G30HE8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Twitter Users Say Elon Musk Should Quit as C.E.O.</h3>
-<sub>By Eshe Nelson</sub>
-<p>After weeks of turmoil since he bought the company, Mr. Musk surveyed Twitter about whether he should remain in charge, and said he would abide by the result.  <a href="https://nyti.ms/3v4dO1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Nearly Every Country Signs On to a Sweeping Deal to Protect Nature</h3>
+<sub>By Catrin Einhorn</sub>
+<p>Roughly 190 nations, aiming to halt a dangerous decline in biodiversity, agreed to preserve 30 percent of the planet’s land and seas. The United States is not officially a participant.  <a href="https://nyti.ms/3FGYD2X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Bots Pushing Adult Content Drowned Out Chinese Protest Tweets</h3>
-<sub>By Stuart A. Thompson, Muyi Xiao and Ishaan Jhaveri</sub>
-<p>Chinese protesters shared videos and photos to Twitter. But their posts were swarmed by escort and gambling ads.  <a href="https://nyti.ms/3VashDJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Naming the James Webb Telescope Turned Into a Fight Over Homophobia</h3>
+<sub>By Michael Powell</sub>
+<p>Did the former head of NASA discriminate against gay people? One physicist tried to rebut the accusation, only to find himself the target of attacks.  <a href="https://nyti.ms/3Wsx7gB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Qatar Got the World Cup It Wanted</h3>
-<sub>By Tariq Panja</sub>
-<p>In the end, after a tournament shadowed by controversy since the host rights were awarded, Qatar had the turn in the global spotlight it sought.  <a href="https://nyti.ms/3WoPfIa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Argentina Hits the Streets for Long-Awaited Celebration</h3>
-<sub>By Jack Nicas</sub>
-<p>Spontaneous marches broke out across the country after the Argentine national team won its first World Cup title since 1986.  <a href="https://nyti.ms/3PySR8p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>For Messi, and Argentina, the (Extra) Wait Is Worth It</h3>
-<sub>By Rory Smith</sub>
-<p>It looked like another title might have slipped through its fingers, but Argentina, and its star, claimed the ultimate trophy.  <a href="https://nyti.ms/3WrC7lD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
