@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 19, Central Standard Time</p>
 <p>
-Right now, there are some big events happening around the world. In the US, the Proud Boys trial is set to open and focus on their role in the Jan. 6 violence at the Capitol. Meanwhile, former president Trump is facing a potential criminal charge as well as the release of his tax returns. Internationally, there&#39;s a lot going on too - Qatar just had its turn in the spotlight with the World Cup being hosted there, while tensions are high in Ukraine as they believe Russia may be preparing an offensive and in Peru where protests have left 25 people dead. On the streaming front, it&#39;s a bit of a downturn with scripted series orders from networks and streamers declining, so we&#39;re likely seeing a shift in that industry.</p>
+There is some difficult news coming out of China right now, as their leader appears to be suddenly abandoning their strategy to contain the coronavirus. In the US, a House panel investigating the Capitol attack is holding its final public session and they may refer criminal charges against Donald Trump. Reports are also surfacing about allegations of discrimination against gay people by the former head of NASA, and Elon Musk has put his future as CEO of Twitter up for a vote. Meanwhile, in Qatar, the heavily controversial World Cup tournament has been completed and Argentina finally won their first title in decades, while celebrations broke out across the country.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>From Zero Covid to No Plan: Behind China’s Pandemic U-Turn</h3>
+<sub>By Chris Buckley, Alexandra Stevenson and Keith Bradsher</sub>
+<p>After micromanaging the coronavirus strategy for nearly three years, the country’s leader, Xi Jinping, has suddenly left the populace to improvise.  <a href="https://nyti.ms/3v47EhT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Proud Boys Trial Is Set to Open, Focusing on Role in Jan. 6 Violence</h3>
-<sub>By Alan Feuer</sub>
-<p>The charge of seditious conspiracy is the same as in a recent trial of members of the Oath Keepers militia, but the Proud Boys defendants are accused of a central role in the fighting at the Capitol.  <a href="https://nyti.ms/3HL1vyw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Jan. 6 Panel to Cap 18-Month Inquiry With Final Public Session</h3>
+<sub>By Luke Broadwater</sub>
+<p>The committee, which consistently broke new ground for a congressional investigation, is expected to approve its final report and vote on issuing criminal and civil referrals against Donald J. Trump.  <a href="https://nyti.ms/3BKPRjs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -73,6 +79,42 @@ Right now, there are some big events happening around the world. In the US, the 
 <sub>By Maggie Haberman</sub>
 <p>The House panel investigating the Capitol attack is set to release its report and may back criminal charges against the former president, while a separate committee could decide to release his tax returns.  <a href="https://nyti.ms/3WoYQyE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How to Watch the Jan. 6 Committee’s Final Session</h3>
+<sub>By Zach Montague</sub>
+<p>The House committee will meet on Monday afternoon to consider criminal referrals against former President Donald J. Trump and several of his associates before issuing its final report.  <a href="https://nyti.ms/3VdQskp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Proud Boys Trial Is Set to Open, Focusing on Role in Jan. 6 Violence</h3>
+<sub>By Alan Feuer</sub>
+<p>The charge of seditious conspiracy is the same as in a recent trial of members of the Oath Keepers militia, but the Proud Boys defendants are accused of a central role in the fighting at the Capitol.  <a href="https://nyti.ms/3HL1vyw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Naming the James Webb Telescope Turned Into a Fight Over Homophobia</h3>
+<sub>By Michael Powell</sub>
+<p>Did the former head of NASA discriminate against gay people? One physicist tried to rebut the accusation, only to find himself the target of attacks.  <a href="https://nyti.ms/3Wsx7gB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Year in Pictures 2022</h3>
+<sub>By The New York Times</sub>
+<p>Photographers captured historic moments of war, grief and wonder that defined the year.  <a href="https://nyti.ms/3G30HE8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Twitter Users Say Elon Musk Should Quit as C.E.O.</h3>
+<sub>By Eshe Nelson</sub>
+<p>After weeks of turmoil since he bought the company, Mr. Musk surveyed Twitter about whether he should remain in charge, and said he would abide by the result.  <a href="https://nyti.ms/3v4dO1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Bots Pushing Adult Content Drowned Out Chinese Protest Tweets</h3>
+<sub>By Stuart A. Thompson, Muyi Xiao and Ishaan Jhaveri</sub>
+<p>Chinese protesters shared videos and photos to Twitter. But their posts were swarmed by escort and gambling ads.  <a href="https://nyti.ms/3VashDJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Qatar Got the World Cup It Wanted</h3>
@@ -90,48 +132,6 @@ Right now, there are some big events happening around the world. In the US, the 
 <h3>For Messi, and Argentina, the (Extra) Wait Is Worth It</h3>
 <sub>By Rory Smith</sub>
 <p>It looked like another title might have slipped through its fingers, but Argentina, and its star, claimed the ultimate trophy.  <a href="https://nyti.ms/3WrC7lD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Says Russia Is Training Soldiers for Possible New Offensive</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>An adviser to President Volodymyr Zelensky urged Western allies to take seriously the threat of a new Russian onslaught, which could include mass infantry attacks.  <a href="https://nyti.ms/3Wrs2oN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin’s War: The Inside Story of a Catastrophe</h3>
-<sub>By Michael Schwirtz, Anton Troianovski, Yousur Al-Hlou, Masha Froliak, Adam Entous and Thomas Gibbons-Neff</sub>
-<p>Secret battle plans, intercepted communications and Russian soldiers explain how a “walk in the park” became a catastrophe for Russia.  <a href="https://nyti.ms/3FEonNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘The Last Straw’: Twitter Users Rage Over Elon Musk’s Latest Actions</h3>
-<sub>By Kate Conger and Ryan Mac</sub>
-<p>Fury mounted over Mr. Musk’s moves to prevent Twitter users from sharing links to other social media platforms. The billionaire also asked whether he should remain as head of the service.  <a href="https://nyti.ms/3v186gP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In the U.S., His Site Has Been Linked to Massacres. In Japan, He’s a Star.</h3>
-<sub>By Ben Dooley and Hisako Ueno</sub>
-<p>Hiroyuki Nishimura has become a famous voice for disenchanted young Japanese. What he talks much less about is his ownership of the notorious website 4chan.  <a href="https://nyti.ms/3WqFFEB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Heart of Peru’s Protest, a Pause to Mourn the Dead</h3>
-<sub>By Julie Turkewitz and Victor Moriyama</sub>
-<p>Confrontations between protesters and the Peruvian authorities have left at least 25 dead and hundreds injured. Nowhere may tensions be higher than in the highland city of Ayacucho.  <a href="https://nyti.ms/3hE9kLV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Streaming’s Golden Age Is Suddenly Dimming</h3>
-<sub>By John Koblin</sub>
-<p>After years of breakneck growth, the number of scripted TV series orders made by networks and streamers is in decline.  <a href="https://nyti.ms/3WpIRAr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Want to Understand Television’s Troubles? Look at AMC.</h3>
-<sub>By Benjamin Mullin</sub>
-<p>The company has struggled to earn enough from streaming to make up for losses from its traditional cable business. It is a story widespread in the industry.  <a href="https://nyti.ms/3jcfyTM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
