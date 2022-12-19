@@ -60,20 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 19, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot happening in the world. We&#39;re still in the midst of the pandemic, and China has suddenly reversed its approach to the coronavirus strategy - essentially leaving its people to fend for themselves. In the US, there are several important developments happening: a House committee is ending their 18-month inquiry into former President Donald Trump publically, with potential criminal and ethics referrals against him; another committee may decide to release his taxes; and trials are set to begin for members of the Proud Boys and Oath Keepers&#39; militias who were involved in the Capitol attack on January 6th. On a lighter note, a Republican recently elected to US Congress may have exaggerated some of his career accomplishments. And finally, nearly every country signed on to a sweeping deal to dedicate 30 percent of planet&#39;s land and sea to nature conservation - but unfortunately, America won&#39;t participate in that.</p>
+It&#39;s been a pretty tumultuous year all around. Here&#39;s some of the biggest news that happened in the US and around the world. In the US, Trump had a rough Jan. 6th as a House panel released a report that may back criminal charges against him and a separate committee could release his taxes. A trial against the Proud Boys is opening to focus on their role in Jan. 6th violence, government conspiracy charges were brought up similar to those against members of an Oath Keepers militia. 
+
+In China, there was a U-turn in their Covid strategy as, after micromanaging it for nearly three years, their leader Xi Jinping now leaves the populace to improvise. Bots pushing adult content also dominated Chinese protest tweets by swarming posts. 
+
+In NY region, a Rep.-elect named George Santos may have misrepresented his career highlights on his résumé and Elon Musk asked Twitter whether he should stay as boss. Internationally, almost every country signed on to a sweeping deal to protect nature - except the United States - and Qatar got the spotlight it sought when hosting the World Cup. Finally, photographers captured historic moments of war, grief and wonder worldwide and Maxwell Frost&#39;s housing troubles showed how tough it can be for Gen Z to rent an apartment. </p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>From Zero Covid to No Plan: Behind China’s Pandemic U-Turn</h3>
-<sub>By Chris Buckley, Alexandra Stevenson and Keith Bradsher</sub>
-<p>After micromanaging the coronavirus strategy for nearly three years, the country’s leader, Xi Jinping, has suddenly left the populace to improvise.  <a href="https://nyti.ms/3v47EhT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Panel to Cap 18-Month Inquiry With Final Public Session</h3>
-<sub>By Luke Broadwater</sub>
-<p>The committee, which consistently broke new ground for a congressional investigation, is expected to approve its final report and vote on issuing criminal and ethics referrals against Donald J. Trump.  <a href="https://nyti.ms/3W5fpzU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Faces a Week of Headaches on Jan. 6 and His Taxes</h3>
 <sub>By Maggie Haberman</sub>
@@ -81,16 +73,22 @@ Right now, there&#39;s a lot happening in the world. We&#39;re still in the mids
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Watch the Jan. 6 Committee’s Final Session</h3>
-<sub>By Zach Montague</sub>
-<p>The House committee will meet on Monday afternoon to consider criminal referrals against former President Donald J. Trump and several of his associates before issuing its final report.  <a href="https://nyti.ms/3VdQskp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Proud Boys Trial Is Set to Open, Focusing on Role in Jan. 6 Violence</h3>
 <sub>By Alan Feuer</sub>
 <p>The charge of seditious conspiracy is the same as in a recent trial of members of the Oath Keepers militia, but the Proud Boys defendants are accused of a central role in the fighting at the Capitol.  <a href="https://nyti.ms/3HL1vyw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>From Zero Covid to No Plan: Behind China’s Pandemic U-Turn</h3>
+<sub>By Chris Buckley, Alexandra Stevenson and Keith Bradsher</sub>
+<p>After micromanaging the coronavirus strategy for nearly three years, the country’s leader, Xi Jinping, has suddenly left the populace to improvise.  <a href="https://nyti.ms/3v47EhT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Bots Pushing Adult Content Drowned Out Chinese Protest Tweets</h3>
+<sub>By Stuart A. Thompson, Muyi Xiao and Ishaan Jhaveri</sub>
+<p>Chinese protesters shared videos and photos to Twitter. But their posts were swarmed by escort and gambling ads.  <a href="https://nyti.ms/3VashDJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Who Is Rep.-Elect George Santos? His Résumé May Be Largely Fiction.</h3>
@@ -99,28 +97,16 @@ Right now, there&#39;s a lot happening in the world. We&#39;re still in the mids
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Twitter Users Say Elon Musk Should Quit as C.E.O.</h3>
+<h3>Twitter Users Say Elon Musk Should Quit as Boss</h3>
 <sub>By Eshe Nelson</sub>
 <p>After weeks of turmoil since he bought the company, Mr. Musk surveyed Twitter about whether he should remain in charge, and said he would abide by the result.  <a href="https://nyti.ms/3v4dO1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Epic Games to Pay $520 Million Over Children’s Privacy and Trickery Charges</h3>
-<sub>By Natasha Singer</sub>
-<p>The creator of popular games like Fortnite and Rocket League violated children’s privacy and duped millions of users into unwanted purchases, federal regulators said.  <a href="https://nyti.ms/3WpofsF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>The Portrait Hung in Joan Didion’s Home. But Who Painted It?</h3>
+<sub>By Kate Dwyer</sub>
+<p>No one in Didion’s circle knew the mysterious painting’s origin. The publicity created by an auction of her belongings brought the first clues in years — and the answer.  <a href="https://nyti.ms/3v0CDvb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Trust the Models? In This Economy?</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Years into the pandemic, it is still difficult to get a handle on what comes next for the economy by looking at examples from the past.  <a href="https://nyti.ms/3V9wx6f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Year in Pictures 2022</h3>
-<sub>By The New York Times</sub>
-<p>Photographers captured historic moments of war, grief and wonder that defined the year.  <a href="https://nyti.ms/3G30HE8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Nearly Every Country Signs On to a Sweeping Deal to Protect Nature</h3>
@@ -128,10 +114,28 @@ Right now, there&#39;s a lot happening in the world. We&#39;re still in the mids
 <p>Roughly 190 nations, aiming to halt a dangerous decline in biodiversity, agreed to preserve 30 percent of the planet’s land and seas. The United States is not officially a participant.  <a href="https://nyti.ms/3FGYD2X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Naming the James Webb Telescope Turned Into a Fight Over Homophobia</h3>
-<sub>By Michael Powell</sub>
-<p>Did the former head of NASA discriminate against gay people? One physicist tried to rebut the accusation, only to find himself the target of attacks.  <a href="https://nyti.ms/3Wsx7gB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Qatar Got the World Cup It Wanted</h3>
+<sub>By Tariq Panja</sub>
+<p>In the end, after a tournament shadowed by controversy since the host rights were awarded, Qatar had the turn in the global spotlight it sought.  <a href="https://nyti.ms/3WoPfIa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>For Messi, and Argentina, the (Extra) Wait Is Worth It</h3>
+<sub>By Rory Smith</sub>
+<p>It looked like another title might have slipped through its fingers, but Argentina, and its star, claimed the ultimate trophy.  <a href="https://nyti.ms/3WrC7lD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Year in Pictures 2022</h3>
+<sub>By The New York Times</sub>
+<p>Photographers captured historic moments of war, grief and wonder that defined the year.  <a href="https://nyti.ms/3G30HE8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Gen Z Problems: Maxwell Frost Is Struggling to Rent an Apartment</h3>
+<sub>By Stephanie Lai and Anna Kodé</sub>
+<p>Other young adults, who have poor credit history and are frustrated with expensive rental application fees, can relate to the housing troubles of the first Gen Zer elected to Congress.  <a href="https://nyti.ms/3jgotTT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
