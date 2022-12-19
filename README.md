@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 18, Central Standard Time</p>
 <p>
-Right now, there’s a lot going on in the world. In the U.S., a trial is set to open against members of the Proud Boys group, who are accused of playing a central role in the violence at the Capitol on January 6. Former President Trump could face criminal charges and see his tax records made public soon. Also in the U.S., a woman denied an abortion is struggling to provide for herself and her newborn.
-
-On the sports side, Argentina just won its first World Cup since 1986 after beating France 4-2 in a penalty shootout. Meanwhile, Ukraine is saying that Russia might launch a new offensive from its borders, and there’s evidence to suggest that many Russian casualties have gone unaccounted for.
-
-Lastly, the golden age of streaming may be coming to an end with networks and streamers reducing their orders for scripted TV series. Meanwhile, Hiroyuki Nishimura has become a famous voice in Japan even though he’s linked to numerous tragedies through his ownership of 4chan.</p>
+Things are kicking off in the US as the trial of the Proud Boys militia is set to open, and there is the potential for criminal charges to be brought against Donald Trump following a report by an investigating House panel. On the sporting front, Argentina just won the World Cup title for the first time since 1986 and did it in dramatic fashion with Lionel Messi leading his nation to victory. Meanwhile, Russia is allegedly training their soldiers for a possible new offensive against Ukraine, and some evidence of Moscow’s true war losses is starting to come out. Elon Musk has been causing outrage on Twitter recently due to some grievances on social media linking between platforms, whilst Hiroyuki Nishimura receives celebrity status in Japan despite owning 4chan. In Peru, there have been some violent clashes between protesters and security forces which has resulted in 25 deaths and hundreds injured.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Proud Boys Trial Is Set to Open, Focusing on Role in Jan. 6 Violence</h3>
@@ -114,17 +110,17 @@ Lastly, the golden age of streaming may be coming to an end with networks and st
 <p>Amid doubts about Moscow’s true war losses, Russian data journalists and volunteers use news articles, tombstone photographs and other open-source information to tally the Russian toll from the war in Ukraine.  <a href="https://nyti.ms/3W8yn8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘I’m Not Ready’: A Mother Denied an Abortion in Texas Faces an Uncertain Future</h3>
-<sub>By Elizabeth Williamson and Erin Schaff</sub>
-<p>Faith-based Blue Haven Ranch provides temporary aid for poor Texas women with newborns. But how will they survive when it ends?  <a href="https://nyti.ms/3hAKPPG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s War: The Inside Story of a Catastrophe</h3>
 <sub>By Michael Schwirtz, Anton Troianovski, Yousur Al-Hlou, Masha Froliak, Adam Entous and Thomas Gibbons-Neff</sub>
 <p>Secret battle plans, intercepted communications and Russian soldiers explain how a “walk in the park” became a catastrophe for Russia.  <a href="https://nyti.ms/3FEonNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘The Last Straw’: Twitter Users Rage Over Elon Musk’s Latest Actions</h3>
+<sub>By Kate Conger and Ryan Mac</sub>
+<p>Fury mounted over Mr. Musk’s moves to prevent Twitter users from sharing links to other social media platforms. The billionaire also asked whether he should remain as head of the service.  <a href="https://nyti.ms/3v186gP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>In the U.S., His Site Has Been Linked to Massacres. In Japan, He’s a Star.</h3>
@@ -132,10 +128,10 @@ Lastly, the golden age of streaming may be coming to an end with networks and st
 <p>Hiroyuki Nishimura has become a famous voice for disenchanted young Japanese. What he talks much less about is his ownership of the notorious website 4chan.  <a href="https://nyti.ms/3WqFFEB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Streaming’s Golden Age Is Suddenly Dimming</h3>
-<sub>By John Koblin</sub>
-<p>After years of breakneck growth, the number of scripted TV series orders made by networks and streamers is in decline.  <a href="https://nyti.ms/3WpIRAr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Heart of Peru’s Protest, a Pause to Mourn the Dead</h3>
+<sub>By Julie Turkewitz and Victor Moriyama</sub>
+<p>Confrontations between protesters and the Peruvian authorities have left at least 25 dead and hundreds injured. Nowhere may tensions be higher than in the highland city of Ayacucho.  <a href="https://nyti.ms/3hE9kLV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
