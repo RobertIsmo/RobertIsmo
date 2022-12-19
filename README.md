@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 19, Central Standard Time</p>
 <p>
-It has been an exciting week with some significant news. In the US, an upcoming trial of the Proud Boys militia is set to take place and will focus on their role in the Jan. 6 riots at the Capitol. Former President Donald Trump is also facing a few headaches this week as a House panel investigating the Capitol attack may back criminal charges against him, and a separate committee could decide to release his tax returns.
-
-The sports world has been buzzing with Argentina winning the ultimate soccer trophy after an extra-long wait. There was great celebration in the streets across the country as it has been their first World Cup title since 1986. Unfortunately, Kylian Mbappé and France missed out due to a penalty shootout, but they did score three goals during it. 
-
-Internationally, Ukraine is warning other Western allies that Russia might be planning a new offensive against them. In Japan, Hiroyuki Nishimura made a name for himself while also owning the notorious website 4chan. Meanwhile in Peru, protesters are taking pauses to mourn at least 25 people dead and hundreds injured due to confrontations with their government.
-
-Lastly, the streaming industry might be entering into a decline after years of rapid growth in scripted TV series orders placed by networks and streamers.</p>
+Right now, there are some big events happening around the world. In the US, the Proud Boys trial is set to open and focus on their role in the Jan. 6 violence at the Capitol. Meanwhile, former president Trump is facing a potential criminal charge as well as the release of his tax returns. Internationally, there&#39;s a lot going on too - Qatar just had its turn in the spotlight with the World Cup being hosted there, while tensions are high in Ukraine as they believe Russia may be preparing an offensive and in Peru where protests have left 25 people dead. On the streaming front, it&#39;s a bit of a downturn with scripted series orders from networks and streamers declining, so we&#39;re likely seeing a shift in that industry.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Proud Boys Trial Is Set to Open, Focusing on Role in Jan. 6 Violence</h3>
@@ -81,9 +75,9 @@ Lastly, the streaming industry might be entering into a decline after years of r
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>For Messi, and Argentina, the (Extra) Wait Is Worth It</h3>
-<sub>By Rory Smith</sub>
-<p>It looked like another title might have slipped through its fingers, but Argentina, and its star, claimed the ultimate trophy.  <a href="https://nyti.ms/3WrC7lD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Qatar Got the World Cup It Wanted</h3>
+<sub>By Tariq Panja</sub>
+<p>In the end, after a tournament shadowed by controversy since the host rights were awarded, Qatar had the turn in the global spotlight it sought.  <a href="https://nyti.ms/3WoPfIa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -93,15 +87,9 @@ Lastly, the streaming industry might be entering into a decline after years of r
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>For Mbappé, Three Goals Are a Bitter Consolation Prize</h3>
-<sub>By Andrew Das</sub>
-<p>Kylian Mbappé twice brought France back to tie Argentina, but his bid to lead his country to consecutive World Cup titles fell short on penalty kicks.  <a href="https://nyti.ms/3Vnu3l7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>¡Gooooool! Watch All the Scores From the Incredible World Cup Final</h3>
-<sub>By Ben Shpigel</sub>
-<p>Argentina and France each scored two goals in regulation, both scored once in extra time, and Argentina won in a penalty shootout, 4-2. See all the highlights from Telemundo and Fox.  <a href="https://nyti.ms/3V8ws2R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Messi, and Argentina, the (Extra) Wait Is Worth It</h3>
+<sub>By Rory Smith</sub>
+<p>It looked like another title might have slipped through its fingers, but Argentina, and its star, claimed the ultimate trophy.  <a href="https://nyti.ms/3WrC7lD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -138,6 +126,12 @@ Lastly, the streaming industry might be entering into a decline after years of r
 <h3>Streaming’s Golden Age Is Suddenly Dimming</h3>
 <sub>By John Koblin</sub>
 <p>After years of breakneck growth, the number of scripted TV series orders made by networks and streamers is in decline.  <a href="https://nyti.ms/3WpIRAr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Want to Understand Television’s Troubles? Look at AMC.</h3>
+<sub>By Benjamin Mullin</sub>
+<p>The company has struggled to earn enough from streaming to make up for losses from its traditional cable business. It is a story widespread in the industry.  <a href="https://nyti.ms/3jcfyTM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
