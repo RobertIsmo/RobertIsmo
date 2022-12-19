@@ -60,18 +60,46 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 18, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot happening in the world. In sports, Argentina edged out France in an exciting World Cup Final. On the military side, spending has surged, creating a boom for arms makers in the U.S. Russia continues to present a threat with more evidence of training soldiers for potential offensives, while also dealing with war casualties in Ukraine. On the domestic front here in the U.S., abortion access is again a heated topic and controversy over closing services on Christmas Day when it falls on a Sunday still continues. And finally, New York City remains one of the most diverse, both spiritually and culturally, with plenty of unique religions and backgrounds to appreciate.</p>
+Right now, there’s a lot going on in the world. In the U.S., a trial is set to open against members of the Proud Boys group, who are accused of playing a central role in the violence at the Capitol on January 6. Former President Trump could face criminal charges and see his tax records made public soon. Also in the U.S., a woman denied an abortion is struggling to provide for herself and her newborn.
+
+On the sports side, Argentina just won its first World Cup since 1986 after beating France 4-2 in a penalty shootout. Meanwhile, Ukraine is saying that Russia might launch a new offensive from its borders, and there’s evidence to suggest that many Russian casualties have gone unaccounted for.
+
+Lastly, the golden age of streaming may be coming to an end with networks and streamers reducing their orders for scripted TV series. Meanwhile, Hiroyuki Nishimura has become a famous voice in Japan even though he’s linked to numerous tragedies through his ownership of 4chan.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Proud Boys Trial Is Set to Open, Focusing on Role in Jan. 6 Violence</h3>
+<sub>By Alan Feuer</sub>
+<p>The charge of seditious conspiracy is the same as in a recent trial of members of the Oath Keepers militia, but the Proud Boys defendants are accused of a central role in the fighting at the Capitol.  <a href="https://nyti.ms/3HL1vyw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Faces a Week of Headaches on Jan. 6 and His Taxes</h3>
+<sub>By Maggie Haberman</sub>
+<p>The House panel investigating the Capitol attack is set to release its report and may back criminal charges against the former president, while a separate committee could decide to release his tax returns.  <a href="https://nyti.ms/3WoYQyE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>For Messi, and Argentina, the (Extra) Wait Is Worth It</h3>
+<sub>By Rory Smith</sub>
+<p>It looked like another title might have slipped through its fingers, but Argentina, and its star, claimed the ultimate trophy.  <a href="https://nyti.ms/3WrC7lD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Argentina Hits the Streets for Long-Awaited Celebration</h3>
+<sub>By Jack Nicas</sub>
+<p>Spontaneous marches broke out across the country after the Argentine national team won its first World Cup title since 1986.  <a href="https://nyti.ms/3PySR8p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>For Mbappé, Three Goals Are a Bitter Consolation Prize</h3>
+<sub>By Andrew Das</sub>
+<p>Kylian Mbappé twice brought France back to tie Argentina, but his bid to lead his country to consecutive World Cup titles fell short on penalty kicks.  <a href="https://nyti.ms/3Vnu3l7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>¡Gooooool! Watch All the Scores From the Incredible World Cup Final</h3>
 <sub>By Ben Shpigel</sub>
 <p>Argentina and France each scored two goals in regulation, both scored once in extra time, and Argentina won in a penalty shootout, 4-2. See all the highlights from Telemundo and Fox.  <a href="https://nyti.ms/3V8ws2R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Military Spending Surges, Creating New Boom for Arms Makers</h3>
-<sub></sub>
-<p>The combination of the war in Ukraine and concern about longer-term threats from Russia and China is driving a bipartisan push to increase U.S. capacity to produce weapons.  <a href="https://nyti.ms/3YphdVY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,35 +132,11 @@ Right now, there&#39;s a lot happening in the world. In sports, Argentina edged 
 <p>Hiroyuki Nishimura has become a famous voice for disenchanted young Japanese. What he talks much less about is his ownership of the notorious website 4chan.  <a href="https://nyti.ms/3WqFFEB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>O Come All Ye Faithful, Except When Christmas Falls on a Sunday</h3>
-<sub>By Ruth Graham</sub>
-<p>Worried about coaxing people into pews when they’d rather be in their pajamas, some Protestant pastors are canceling Sunday services on Dec. 25.  <a href="https://nyti.ms/3hAaXKx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Look Inside New York’s Swirling Kaleidoscope of Faiths</h3>
-<sub>By James Estrin and Liam Stack</sub>
-<p>The city is home to some of the most spiritually and culturally diverse areas in the world. Here are some of them.  <a href="https://nyti.ms/3Pvhumg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Education of CNN’s Chris Licht</h3>
-<sub>By James B. Stewart</sub>
-<p>The network’s chief executive knew the job would not be easy. But this hard?  <a href="https://nyti.ms/3V6Qb2M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Streaming’s Golden Age Is Suddenly Dimming</h3>
+<sub>By John Koblin</sub>
+<p>After years of breakneck growth, the number of scripted TV series orders made by networks and streamers is in decline.  <a href="https://nyti.ms/3WpIRAr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jillian Rayfield</sub>
-<p>The top 25 restaurant dishes of 2022. Also in this edition: how modern dog breeds were created, and a look at supposed hangover cures.  <a href="https://nyti.ms/3FYq8qo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Faces Quiz: Do You Recognize These Notable People of 2022?</h3>
-<sub>Produced by Ashley Wu, Jessica Anderson, Matthew Cullen, Amy Fiscus, Lauren Hard, Lauren Jackson, Sean Kawasaki-Culligan, Brent Lewis, Claire Moses, Ian Prasad Philbrick and Tom Wright-Piersanti</sub>
-<p>See how well you know the defining personalities of 2022 with The New York Times Faces Quiz.  <a href="https://nyti.ms/3YmT5U9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
