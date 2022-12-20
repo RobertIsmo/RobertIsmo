@@ -59,8 +59,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 20, Central Standard Time</p>
-<p>
-Right now, there are a lot of worrying things going on in the world. In Britain, there&#39;s a crisis with ambulance response times which is part of a broader breakdown of the country&#39;s healthcare system. In the US, former President Trump is facing charges of insurrection and other federal crimes as part of a damning narrative. This comes from a House Jan. 6 Committee report. Meanwhile in Ukraine, they&#39;re urging Russian soldiers to surrender to drones, and in Belarus Putin visited stirring new concerns about the future of Ukraine War. Closer to home, lawmakers are trying to avoid another government shutdown by unveiling a sprawling spending bill for the rest of the year. Lastly, an FTX founder named Sam Bankman-Fried has agreed to extradition after a chaotic hearing in the Bahamas.</p>
+<p> 
+Recently, there has been a lot going on in the world. In Britain, ambulance response times have been increasing and leading to serious problems with their health care system. It&#39;s also being reported that former President Trump has been accused of insurrection and other federal crimes by the House Jan. 6 committee, with federal prosecutors now taking it further. There is also tension between the US and China, as the US is threatening to shut down the popular Chinese app TikTok, and China is struggling to keep up with medical supplies during their Covid outbreak. Closer to home, the US government is passing a large spending bill while a jury in Los Angeles finds Harvey Weinstein guilty of rape. Finally, there have been reports of the NRA getting access to public schools through J.R.O.T.C. classes by offering them money for their marksmanship programs.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>One Day With an Ambulance in Britain: Long Waits, Rising Frustration</h3>
@@ -69,10 +69,10 @@ Right now, there are a lot of worrying things going on in the world. In Britain,
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Panel Accuses Trump of Insurrection and Refers Him to Justice Dept.</h3>
-<sub>By Luke Broadwater</sub>
-<p>The committee also accused the former president of three other federal crimes, including conspiracy to defraud the United States. Five Trump allies were referred as well.  <a href="https://nyti.ms/3WxKX11"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<h3>Release of Trump Tax Returns Could Herald New Era for Taxpayer Privacy</h3>
+<sub>By Alan Rappeport</sub>
+<p>Revealing private documents risks a tit for tat with Republicans set to retake control of the House of Representatives.  <a href="https://nyti.ms/3FKiv5m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Diminished Trump Meets a Damning Narrative</h3>
@@ -81,33 +81,27 @@ Right now, there are a lot of worrying things going on in the world. In Britain,
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Key Findings From the Jan. 6 Committee’s Report, Annotated</h3>
-<sub>By Alan Feuer</sub>
-<p>The panel included 17 specific findings in the executive summary of its final report.  <a href="https://nyti.ms/3PMfdmY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Jan. 6 Panel Accuses Trump of Insurrection and Refers Him to Justice Dept.</h3>
+<sub>By Luke Broadwater</sub>
+<p>The committee also accused the former president of three other federal crimes, including conspiracy to defraud the United States. Five Trump allies were referred as well.  <a href="https://nyti.ms/3WxKX11"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>It’s Unclear Whether the Justice Dept. Will Take Up the Jan. 6 Panel’s Charges</h3>
-<sub>By Alan Feuer</sub>
-<p>The department is under no obligation to adopt the House committee’s recommendations, and not much is publicly known about any specific charges that the special counsel might consider.  <a href="https://nyti.ms/3hB5vHn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>6 Takeaways From the Final Jan. 6 Hearing</h3>
+<sub>By Michael D. Shear</sub>
+<p>The House Jan. 6 committee focused almost exclusively on former President Donald J. Trump. The panel’s legacy will most likely be determined by the federal prosecutors in the coming months.  <a href="https://nyti.ms/3BNYWIt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Los Angeles Jury Finds Harvey Weinstein Guilty of Rape in Mixed Verdict</h3>
-<sub>By Lauren Herstik, Jill Cowan and Livia Albeck-Ripka</sub>
-<p>The former film producer was convicted of sex crimes for the second time, though the jury could not reach a decision on three counts and acquitted him on one count.  <a href="https://nyti.ms/3BOwsOE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How TikTok Became a Diplomatic Crisis</h3>
+<sub>By Alex W. Palmer</sub>
+<p>A Chinese app conquered the planet — and now the U.S. is threatening to shut it down. Can the world’s biggest virality machine survive?  <a href="https://nyti.ms/3BOqZHA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Who Is Rep.-Elect George Santos? His Résumé May Be Largely Fiction.</h3>
-<sub>By Grace Ashford and Michael Gold</sub>
-<p>Mr. Santos, a Republican from New York, says he’s the “embodiment of the American dream.” But he seems to have misrepresented a number of his career highlights.  <a href="https://nyti.ms/3Wsx7x7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Dodges Questions as Democrats Label Him ‘Unfit to Serve’</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>Democratic House leaders stopped short of calling for the resignation of Mr. Santos, a Republican, who may have misrepresented himself in his résumé.  <a href="https://nyti.ms/3Wxb9ZK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A Culture in the Cross Hairs</h3>
+<sub>By Jason Farago, Haley Willis, Sarah Kerr and Ainara Tiefenthäler</sub>
+<p>Russia’s invasion has systematically destroyed Ukrainian cultural sites. A Times investigation has identified 339 that sustained substantial damage this year.  <a href="https://nyti.ms/3PI2XUA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,10 +110,10 @@ Right now, there are a lot of worrying things going on in the world. In Britain,
 <p>Capitalizing on reports of low Russian morale, Ukraine has begun offering enemy troops detailed instructions on how to make their way over the battlefield and lay down their arms.  <a href="https://nyti.ms/3v16W4S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Visits Belarus, Stirring New Concern on Future of Ukraine War</h3>
-<sub>By Anatoly Kurmanaev, Andrew E. Kramer and Michael Levenson</sub>
-<p>Belarus has resisted being drawn more centrally into the war. But the visit raised worries that a new Russian ground offensive could aim again at Kyiv, near the Belarusian border.  <a href="https://nyti.ms/3HTg3wl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Los Angeles Jury Finds Harvey Weinstein Guilty of Rape in Mixed Verdict</h3>
+<sub>By Lauren Herstik, Jill Cowan and Livia Albeck-Ripka</sub>
+<p>The former film producer was convicted of sex crimes for the second time, though the jury could not reach a decision on three counts and acquitted him on one count.  <a href="https://nyti.ms/3BOwsOE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,11 +122,17 @@ Right now, there are a lot of worrying things going on in the world. In Britain,
 <p>The legislation, which would fund the government through September, would significantly increase federal spending.  <a href="https://nyti.ms/3YEzz5F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Sam Bankman-Fried Said to Agree to Extradition After Chaotic Hearing</h3>
-<sub>By Royston Jones Jr., David Yaffe-Bellany, Matthew Goldstein and Rob Copeland</sub>
-<p>The disgraced FTX founder, who has been in a Bahamas prison for the past week, agreed to be sent to the United States, after a confusing day in court.  <a href="https://nyti.ms/3WyJqYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Abrupt Covid Pivot Leaves Many Without Medicines</h3>
+<sub>By David Pierson, Isabelle Qian, Olivia Wang and Tiffany May</sub>
+<p>Millions are desperate to get their hands on fever-reducing drugs and antivirals such as Pfizer’s Paxlovid as infections across China outpace supplies.  <a href="https://nyti.ms/3jjUWJn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Public Schools, the N.R.A. Gets a Boost From Junior R.O.T.C.</h3>
+<sub>By Nicholas Bogel-Burroughs and Mike Baker</sub>
+<p>Instructors in military-sponsored J.R.O.T.C. classes have offered to promote the N.R.A. in high schools in exchange for money for their marksmanship programs.  <a href="https://nyti.ms/3BL4zXG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
