@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, December 19, Central Standard Time</p>
+<p>It is Tuesday, December 20, Central Standard Time</p>
 <p>
-There have been some pretty big developments happening around the world lately! In the US, there is a lot of discussion surrounding Donald Trump&#39;s impeachment, with a House panel officially accusing him of insurrection and referring him to the Justice Department. Meanwhile, there is also a case against Harvey Weinstein in Los Angeles resulting in a guilty verdict for rape. On the political side of things, George Santos was recently elected to the House in New York, but has been accused of misrepresenting himself in his résumé. 
-
-In other news, Russian president Vladimir Putin visited Belarus recently, raising concerns about a possible Russian offensive against Ukraine. At home, Arizona Governor Doug Ducey built an $82 million wall along the US-Mexico border, only for his successor Katie Hobbs calling it a waste of money. Finally, Elon Musk briefly surveyed Twitter users to see if he should remain as boss of his company, but kept silent after respondents said he should quit.</p>
+Recently, former US President Donald Trump was accused of insurrection by a House Jan. 6 committee and referred to the Justice Department. There&#39;s also been a lot of controversy over claims that Rep.-elect George Santos misrepresented himself in his résumé. In the business sector, Sam Bankman-Fried, founder of FTX, has faced extradition after a chaotic hearing. The situation in Ukraine is heating up too, as Russia and Ukraine engage in war in various battlefields - Ukraine is even asking Russian soldiers to surrender to drones. Elsewhere, Elon Musk asked for a Twitter survey about whether he should stay on as boss, and Chief Justice Roberts briefly postponed a decision banning border expulsions due to the pandemic.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jan. 6 Panel Accuses Trump of Insurrection and Refers Him to Justice Dept.</h3>
@@ -106,34 +104,34 @@ In other news, Russian president Vladimir Putin visited Belarus recently, raisin
 <p>Democratic House leaders stopped short of calling for the resignation of Mr. Santos, a Republican, who may have misrepresented himself in his résumé.  <a href="https://nyti.ms/3Wxb9ZK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Sam Bankman-Fried Said to Agree to Extradition After Chaotic Hearing</h3>
+<sub>By Royston Jones Jr., David Yaffe-Bellany, Matthew Goldstein and Rob Copeland</sub>
+<p>The disgraced FTX founder, who has been in a Bahamas prison for the past week, agreed to be sent to the United States, after a confusing day in court.  <a href="https://nyti.ms/3WyJqYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Surrender to a Drone? Ukraine Is Urging Russian Soldiers to Do Just That.</h3>
+<sub>By Marc Santora</sub>
+<p>Capitalizing on reports of low Russian morale, Ukraine has begun offering enemy troops detailed instructions on how to make their way over the battlefield and lay down their arms.  <a href="https://nyti.ms/3v16W4S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Visits Belarus, Stirring New Concern on Future of Ukraine War</h3>
 <sub>By Anatoly Kurmanaev, Andrew E. Kramer and Michael Levenson</sub>
 <p>Belarus has resisted being drawn more centrally into the war. But the visit raised worries that a new Russian ground offensive could aim again at Kyiv, near the Belarusian border.  <a href="https://nyti.ms/3HTg3wl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Peru’s Unrest Chases Away Visitors, Many in Tourism Fear for Their Livelihood</h3>
-<sub>By Mitra Taj, Genevieve Glatsky and Julie Turkewitz</sub>
-<p>In Cusco, the gateway to Machu Picchu and other ancient sites, tourist operators and hotel owners fear what the loss of visitors means for their livelihood.  <a href="https://nyti.ms/3jikTcc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Elon Musk Keeps Silent After Twitter Users Say He Should Quit as Boss</h3>
+<sub>By Eshe Nelson</sub>
+<p>Mr. Musk had surveyed Twitter about whether he should remain in charge, and had said he would abide by the result.  <a href="https://nyti.ms/3v4dO1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chief Justice Roberts Briefly Halts Decision Banning Border Expulsions</h3>
 <sub>By Adam Liptak</sub>
 <p>At issue is Title 42, a public health measure invoked by the Trump administration during the pandemic to block migrants from seeking asylum in the United States.  <a href="https://nyti.ms/3YDbMmD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>One Governor’s Border Wall Is Another Governor’s Headache</h3>
-<sub>By Jack Healy</sub>
-<p>Doug Ducey, the outgoing governor of Arizona, spent $82 million to stack shipping containers along the border with Mexico. His successor, Katie Hobbs, calls it a waste of money.  <a href="https://nyti.ms/3G3GeyZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Elon Musk Keeps Silent After Twitter Users Say He Should Quit as Boss</h3>
-<sub>By Eshe Nelson</sub>
-<p>Mr. Musk had surveyed Twitter about whether he should remain in charge, and had said he would abide by the result.  <a href="https://nyti.ms/3v4dO1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
