@@ -60,12 +60,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 19, Central Standard Time</p>
 <p>
-It&#39;s been a pretty eventful year so far. Former President Donald Trump has been facing a lot of backlash following the report from the House Jan. 6 committee against him. In New York, a Republican Representative from New York, George Santos, is being accused of misrepresenting himself in his resume. Over in the Bahamas, there was a chaotic hearing involving Sam Bankman-Fried, the disgraced FTX founder, who was arrested and sent to prison last week and is now facing extradition to the US. Elon Musk asked Twitter followers if he should step down as CEO and many think that he should. In Belarus, Putin visited which has raised concerns about another Russian ground offensive near Ukraine. There&#39;s also Diane Foley who has been pushing the White House under three presidents to prioritize U.S. Hostages overseas. Chief Justice Roberts briefly suspended a decision banning border expulsions in the U.S., and Arizona&#39;s governor spent $82 million on a border wall with Mexico which his successor is calling a waste of money. Peru has faced unrest resulting in loss of tourism business for many people in Cusco who rely on it for their livelihoods. Finally, photographers this year have documented some historic moments of war, grief and wonder across the globe.</p>
+There have been some pretty big developments happening around the world lately! In the US, there is a lot of discussion surrounding Donald Trump&#39;s impeachment, with a House panel officially accusing him of insurrection and referring him to the Justice Department. Meanwhile, there is also a case against Harvey Weinstein in Los Angeles resulting in a guilty verdict for rape. On the political side of things, George Santos was recently elected to the House in New York, but has been accused of misrepresenting himself in his résumé. 
+
+In other news, Russian president Vladimir Putin visited Belarus recently, raising concerns about a possible Russian offensive against Ukraine. At home, Arizona Governor Doug Ducey built an $82 million wall along the US-Mexico border, only for his successor Katie Hobbs calling it a waste of money. Finally, Elon Musk briefly surveyed Twitter users to see if he should remain as boss of his company, but kept silent after respondents said he should quit.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jan. 6 Panel Accuses Trump of Insurrection and Refers Him to Justice Dept.</h3>
+<sub>By Luke Broadwater</sub>
+<p>The committee also accused the former president of three other federal crimes, including conspiracy to defraud the United States. Five Trump allies were referred as well.  <a href="https://nyti.ms/3WxKX11"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Diminished Trump Meets a Damning Narrative</h3>
 <sub>By Maggie Haberman</sub>
 <p>Former President Donald Trump’s current woes extend beyond the report by the House Jan. 6 committee, but the case the panel laid out against him further complicates his future.  <a href="https://nyti.ms/3VahwRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Key Findings From the Jan. 6 Committee’s Report, Annotated</h3>
+<sub>By Alan Feuer</sub>
+<p>The panel included 17 specific findings in the executive summary of its final report.  <a href="https://nyti.ms/3PMfdmY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>It’s Unclear Whether the Justice Dept. Will Take Up the Jan. 6 Panel’s Charges</h3>
+<sub>By Alan Feuer</sub>
+<p>The department is under no obligation to adopt the House committee’s recommendations, and not much is publicly known about any specific charges that the special counsel might consider.  <a href="https://nyti.ms/3hB5vHn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Los Angeles Jury Finds Harvey Weinstein Guilty of Rape in Mixed Verdict</h3>
+<sub>By Lauren Herstik, Jill Cowan and Livia Albeck-Ripka</sub>
+<p>The former film producer was convicted of sex crimes for the second time, though the jury could not reach a decision on three counts and acquitted him on one count.  <a href="https://nyti.ms/3BOwsOE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -80,28 +106,16 @@ It&#39;s been a pretty eventful year so far. Former President Donald Trump has b
 <p>Democratic House leaders stopped short of calling for the resignation of Mr. Santos, a Republican, who may have misrepresented himself in his résumé.  <a href="https://nyti.ms/3Wxb9ZK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Sam Bankman-Fried Said to Agree to Extradition After Chaotic Hearing</h3>
-<sub>By Royston Jones Jr., David Yaffe-Bellany, Matthew Goldstein and Rob Copeland</sub>
-<p>The disgraced FTX founder, who has been in a Bahamas prison for the past week, agreed to be sent to the United States, after a confusing day in court.  <a href="https://nyti.ms/3WyJqYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Elon Musk Keeps Silent After Twitter Users Say He Should Quit as Boss</h3>
-<sub>By Eshe Nelson</sub>
-<p>Mr. Musk had surveyed Twitter about whether he should remain in charge, and had said he would abide by the result.  <a href="https://nyti.ms/3v4dO1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Visits Belarus, Stirring New Concern on Future of Ukraine War</h3>
 <sub>By Anatoly Kurmanaev, Andrew E. Kramer and Michael Levenson</sub>
 <p>Belarus has resisted being drawn more centrally into the war. But the visit raised worries that a new Russian ground offensive could aim again at Kyiv, near the Belarusian border.  <a href="https://nyti.ms/3HTg3wl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Diane Foley Made It Her Mission to Prioritize U.S. Hostages Overseas</h3>
-<sub>By Peter Baker</sub>
-<p>Ms. Foley, whose son was killed by terrorists in the Middle East, has pressured the White House under three presidents to raise the profiles of Americans held overseas.  <a href="https://nyti.ms/3v7nyb2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Peru’s Unrest Chases Away Visitors, Many in Tourism Fear for Their Livelihood</h3>
+<sub>By Mitra Taj, Genevieve Glatsky and Julie Turkewitz</sub>
+<p>In Cusco, the gateway to Machu Picchu and other ancient sites, tourist operators and hotel owners fear what the loss of visitors means for their livelihood.  <a href="https://nyti.ms/3jikTcc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,23 +130,11 @@ It&#39;s been a pretty eventful year so far. Former President Donald Trump has b
 <p>Doug Ducey, the outgoing governor of Arizona, spent $82 million to stack shipping containers along the border with Mexico. His successor, Katie Hobbs, calls it a waste of money.  <a href="https://nyti.ms/3G3GeyZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Peru’s Unrest Chases Away Visitors, Many in Tourism Fear for Their Livelihood</h3>
-<sub>By Mitra Taj, Genevieve Glatsky and Julie Turkewitz</sub>
-<p>In Cusco, the gateway to Machu Picchu and other ancient sites, tourist operators and hotel owners fear what the loss of visitors means for their livelihood.  <a href="https://nyti.ms/3jikTcc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Elon Musk Keeps Silent After Twitter Users Say He Should Quit as Boss</h3>
+<sub>By Eshe Nelson</sub>
+<p>Mr. Musk had surveyed Twitter about whether he should remain in charge, and had said he would abide by the result.  <a href="https://nyti.ms/3v4dO1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>The Portrait Hung in Joan Didion’s Home. But Who Painted It?</h3>
-<sub>By Kate Dwyer</sub>
-<p>No one in Didion’s circle knew the mysterious painting’s origin. The publicity created by an auction of her belongings brought the first clues in years — and the answer.  <a href="https://nyti.ms/3v0CDvb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Year in Pictures 2022</h3>
-<sub>By The New York Times</sub>
-<p>Photographers captured historic moments of war, grief and wonder that defined the year.  <a href="https://nyti.ms/3G30HE8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
