@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 19, Central Standard Time</p>
 <p>
-There are a lot of news stories happening in the world right now. The US Justice Department is facing the dilemma of whether to take up the recommendations made by a House committee investigating the January 6 Capitol riot. In New York, a Republican candidate for Congress was found to have fabricated many of his career highlights on his resume. There&#39;s also businessman Sam Bankman Fried who recently agreed to extradition back to the US after a chaotic hearing, and Twitter users are asking Elon Musk to step down from his role as CEO of the company he founded. On top of all this, there&#39;s Diane Foley, whose son was killed by terrorists in the Middle East, has been pushing for the White House to prioritize American hostages overseas. In Arizona, Governor Doug Ducey spent millions on building a border wall that his successor called a waste of money. Then there&#39;s the mystery behind a portrait that hung in Joan Didion&#39;s house with no one knowing its origin or creator. Moving on to sports news, Qatar was recently awarded the World Cup bid despite all its controversies, and Argentina and its star player Messi finally got their long awaited victory at the final match. 2021 still wasn&#39;t done with surprises yet - photgraphers managed to capture stunning moments from all around during the year, and  Gen Z Congressional candidate Maxwell Frost revealed his struggles in finding an apartment due to expensive application fees and a poor credit history. Lastly, as we move into 2021, people have started asking questions about how Jan 6th will be remembered in history and what meaning people will take out of it.</p>
+It&#39;s been a pretty eventful year so far. Former President Donald Trump has been facing a lot of backlash following the report from the House Jan. 6 committee against him. In New York, a Republican Representative from New York, George Santos, is being accused of misrepresenting himself in his resume. Over in the Bahamas, there was a chaotic hearing involving Sam Bankman-Fried, the disgraced FTX founder, who was arrested and sent to prison last week and is now facing extradition to the US. Elon Musk asked Twitter followers if he should step down as CEO and many think that he should. In Belarus, Putin visited which has raised concerns about another Russian ground offensive near Ukraine. There&#39;s also Diane Foley who has been pushing the White House under three presidents to prioritize U.S. Hostages overseas. Chief Justice Roberts briefly suspended a decision banning border expulsions in the U.S., and Arizona&#39;s governor spent $82 million on a border wall with Mexico which his successor is calling a waste of money. Peru has faced unrest resulting in loss of tourism business for many people in Cusco who rely on it for their livelihoods. Finally, photographers this year have documented some historic moments of war, grief and wonder across the globe.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>It’s Unclear Whether the Justice Dept. Will Take Up the Jan. 6 Panel’s Charges</h3>
-<sub>By Alan Feuer</sub>
-<p>The Justice Department is under no obligation to adopt the House committee’s recommendations, and not much is publicly known about any specific charges that the special counsel, Jack Smith, might consider.  <a href="https://nyti.ms/3hB5vHn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Diminished Trump Meets a Damning Narrative</h3>
+<sub>By Maggie Haberman</sub>
+<p>Former President Donald Trump’s current woes extend beyond the report by the House Jan. 6 committee, but the case the panel laid out against him further complicates his future.  <a href="https://nyti.ms/3VahwRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -74,16 +74,28 @@ There are a lot of news stories happening in the world right now. The US Justice
 <p>Mr. Santos, a Republican from New York, says he’s the “embodiment of the American dream.” But he seems to have misrepresented a number of his career highlights.  <a href="https://nyti.ms/3Wsx7x7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Sam Bankman-Fried Said to Agree to Extradition After Chaotic Hearing</h3>
-<sub>By Royston Jones Jr., David Yaffe-Bellany, Matthew Goldstein and Rob Copeland</sub>
-<p>The disgraced FTX founder, who has been in a Bahamas prison for the past week, agreed to be sent to the United States, following a confusing day in court.  <a href="https://nyti.ms/3WyJqYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Dodges Questions as Democrats Label Him ‘Unfit to Serve’</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>Democratic House leaders stopped short of calling for the resignation of Mr. Santos, a Republican, who may have misrepresented himself in his résumé.  <a href="https://nyti.ms/3Wxb9ZK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Twitter Users Say Elon Musk Should Quit as Boss</h3>
+<h3>Sam Bankman-Fried Said to Agree to Extradition After Chaotic Hearing</h3>
+<sub>By Royston Jones Jr., David Yaffe-Bellany, Matthew Goldstein and Rob Copeland</sub>
+<p>The disgraced FTX founder, who has been in a Bahamas prison for the past week, agreed to be sent to the United States, after a confusing day in court.  <a href="https://nyti.ms/3WyJqYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Elon Musk Keeps Silent After Twitter Users Say He Should Quit as Boss</h3>
 <sub>By Eshe Nelson</sub>
-<p>After weeks of turmoil since he bought the company, Mr. Musk surveyed Twitter about whether he should remain in charge, and said he would abide by the result.  <a href="https://nyti.ms/3v4dO1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mr. Musk had surveyed Twitter about whether he should remain in charge, and had said he would abide by the result.  <a href="https://nyti.ms/3v4dO1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin Visits Belarus, Stirring New Concern on Future of Ukraine War</h3>
+<sub>By Anatoly Kurmanaev, Andrew E. Kramer and Michael Levenson</sub>
+<p>Belarus has resisted being drawn more centrally into the war. But the visit raised worries that a new Russian ground offensive could aim again at Kyiv, near the Belarusian border.  <a href="https://nyti.ms/3HTg3wl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,9 +105,21 @@ There are a lot of news stories happening in the world right now. The US Justice
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chief Justice Roberts Briefly Halts Decision Banning Border Expulsions</h3>
+<sub>By Adam Liptak</sub>
+<p>At issue is Title 42, a public health measure invoked by the Trump administration during the pandemic to block migrants from seeking asylum in the United States.  <a href="https://nyti.ms/3YDbMmD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>One Governor’s Border Wall Is Another Governor’s Headache</h3>
 <sub>By Jack Healy</sub>
 <p>Doug Ducey, the outgoing governor of Arizona, spent $82 million to stack shipping containers along the border with Mexico. His successor, Katie Hobbs, calls it a waste of money.  <a href="https://nyti.ms/3G3GeyZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Peru’s Unrest Chases Away Visitors, Many in Tourism Fear for Their Livelihood</h3>
+<sub>By Mitra Taj, Genevieve Glatsky and Julie Turkewitz</sub>
+<p>In Cusco, the gateway to Machu Picchu and other ancient sites, tourist operators and hotel owners fear what the loss of visitors means for their livelihood.  <a href="https://nyti.ms/3jikTcc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -104,35 +128,11 @@ There are a lot of news stories happening in the world right now. The US Justice
 <p>No one in Didion’s circle knew the mysterious painting’s origin. The publicity created by an auction of her belongings brought the first clues in years — and the answer.  <a href="https://nyti.ms/3v0CDvb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Qatar Got the World Cup It Wanted</h3>
-<sub>By Tariq Panja</sub>
-<p>In the end, after a tournament shadowed by controversy since the host rights were awarded, Qatar had the turn in the global spotlight it sought.  <a href="https://nyti.ms/3WoPfIa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>For Messi, and Argentina, the (Extra) Wait Is Worth It</h3>
-<sub>By Rory Smith</sub>
-<p>It looked like another title might have slipped through its fingers, but Argentina, and its star, claimed the ultimate trophy.  <a href="https://nyti.ms/3WrC7lD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Year in Pictures 2022</h3>
 <sub>By The New York Times</sub>
 <p>Photographers captured historic moments of war, grief and wonder that defined the year.  <a href="https://nyti.ms/3G30HE8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Gen Z Problems: Maxwell Frost Is Struggling to Rent an Apartment</h3>
-<sub>By Stephanie Lai and Anna Kodé</sub>
-<p>Other young adults, who have poor credit history and are frustrated with expensive rental application fees, can relate to the housing troubles of the first Gen Zer elected to Congress.  <a href="https://nyti.ms/3jgotTT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>How Will History Remember Jan. 6?</h3>
-<sub>By Lydia Polgreen</sub>
-<p>History is not just what happened. It is the meaning we make out of what happened and the story we tell with that meaning.  <a href="https://nyti.ms/3jiFBsw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
