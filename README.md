@@ -59,13 +59,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 20, Central Standard Time</p>
-<p> 
-Recently, there has been a lot going on in the world. In Britain, ambulance response times have been increasing and leading to serious problems with their health care system. It&#39;s also being reported that former President Trump has been accused of insurrection and other federal crimes by the House Jan. 6 committee, with federal prosecutors now taking it further. There is also tension between the US and China, as the US is threatening to shut down the popular Chinese app TikTok, and China is struggling to keep up with medical supplies during their Covid outbreak. Closer to home, the US government is passing a large spending bill while a jury in Los Angeles finds Harvey Weinstein guilty of rape. Finally, there have been reports of the NRA getting access to public schools through J.R.O.T.C. classes by offering them money for their marksmanship programs.</p>
+<p>
+There are a number of noteworthy things happening in the world right now. Wells Fargo has been fined $1.7 billion due to consumer banking violations, lawmakers have put forward a spending bill to avoid a government shutdown, and former President Donald Trump is facing accusations of insurrection and a referral to the Justice Department for prosecution. On a global scale, Britain is struggling with long wait times in their ambulance system and potential labor strikes, while Ukraine is in the midst of their own crisis due to Russia&#39;s invasion. Lastly, Harvey Weinstein was convicted of rape in California recently.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>One Day With an Ambulance in Britain: Long Waits, Rising Frustration</h3>
-<sub>By Megan Specia</sub>
-<p>Britain is experiencing a crisis in ambulance response times, part of a broader breakdown in the country’s revered National Health Service. We rode with one crew to witness the problems in real time.  <a href="https://nyti.ms/3YAHtwM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Wells Fargo Fined $1.7 Billion Over Consumer Banking Violations</h3>
+<sub>By Emily Flitter</sub>
+<p>The Consumer Financial Protection Bureau cited improper overdraft fees, account freezes, auto repossessions and misapplied home loan payments that have harmed millions of consumers since 2011.  <a href="https://nyti.ms/3VeiCMq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lawmakers Unveil Sprawling Spending Bill to Avoid Shutdown</h3>
+<sub>By Emily Cochrane</sub>
+<p>The legislation, which would fund the government through September, would significantly increase federal spending.  <a href="https://nyti.ms/3YEzz5F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,6 +98,18 @@ Recently, there has been a lot going on in the world. In Britain, ambulance resp
 <p>The House Jan. 6 committee focused almost exclusively on former President Donald J. Trump. The panel’s legacy will most likely be determined by the federal prosecutors in the coming months.  <a href="https://nyti.ms/3BNYWIt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>One Day With an Ambulance in Britain: Long Waits, Rising Frustration</h3>
+<sub>By Megan Specia</sub>
+<p>Britain is experiencing a crisis in ambulance response times, part of a broader breakdown in the country’s revered National Health Service. We rode with one crew to witness the problems in real time.  <a href="https://nyti.ms/3YAHtwM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Strikes Expand, Britain Faces a New ‘Winter of Discontent’</h3>
+<sub>By Mark Landler</sub>
+<p>In the 1970s, Margaret Thatcher accused the Labour government of losing control. Now, the same charge is being leveled by Labour against the Conservatives.  <a href="https://nyti.ms/3VWYVKj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>How TikTok Became a Diplomatic Crisis</h3>
 <sub>By Alex W. Palmer</sub>
@@ -115,24 +133,6 @@ Recently, there has been a lot going on in the world. In Britain, ambulance resp
 <sub>By Lauren Herstik, Jill Cowan and Livia Albeck-Ripka</sub>
 <p>The former film producer was convicted of sex crimes for the second time, though the jury could not reach a decision on three counts and acquitted him on one count.  <a href="https://nyti.ms/3BOwsOE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lawmakers Unveil Sprawling Spending Bill to Avoid Shutdown</h3>
-<sub>By Emily Cochrane</sub>
-<p>The legislation, which would fund the government through September, would significantly increase federal spending.  <a href="https://nyti.ms/3YEzz5F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Abrupt Covid Pivot Leaves Many Without Medicines</h3>
-<sub>By David Pierson, Isabelle Qian, Olivia Wang and Tiffany May</sub>
-<p>Millions are desperate to get their hands on fever-reducing drugs and antivirals such as Pfizer’s Paxlovid as infections across China outpace supplies.  <a href="https://nyti.ms/3jjUWJn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Public Schools, the N.R.A. Gets a Boost From Junior R.O.T.C.</h3>
-<sub>By Nicholas Bogel-Burroughs and Mike Baker</sub>
-<p>Instructors in military-sponsored J.R.O.T.C. classes have offered to promote the N.R.A. in high schools in exchange for money for their marksmanship programs.  <a href="https://nyti.ms/3BL4zXG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
