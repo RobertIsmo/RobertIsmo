@@ -60,40 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 20, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot happening in the world. In the U.S., the House Ways and Means Committee is about to vote on making Trump&#39;s taxes public, and that decision could set off a battle between the Democrats and Republicans. There was also a 6.4-magnitude earthquake in Northern California, Wells Fargo was fined $3.7 billion over consumer banking violations, and Congress just proposed a spending bill to avoid a shutdown. 
+It looks like there is a lot going on in the world right now. In the US, lawmakers are unveiling a spending bill to avoid shutdown, and President Trump&#39;s tax returns could herald a new era of taxpayer privacy as Republicans take control of the House. In Ukraine, kids are asking for miracles at holiday celebrations, and in Afghanistan, Talibans are restricting women from college classes and rolling back on rights. Around the world, Argentina is celebrating their third World Cup title and the FIFA faces a legal challenge from Ukraine. 
 
-In Britain, there are long waits with ambulance services due to an NHS (National Health Service) crisis, and striking nurses, emergency responders, and rail workers are causing disruptions in travel and services in the holiday season. 
-
-Finally, something a bit more positive: There was good news for California as they were able to avoid another year of catastrophic wildfires.</p>
+In the US, it looks like people can expect more funding for climate aid and retirement saving options with the new spending bill. Additionally, a 6.4 magnitude earthquake recently shook Northern California damaging roads and buildings and knocking out power for tens of thousands of customers. Finally, if you are planning holiday travel be aware that there is a storm inbound that could make for treacherous conditions so be prepared!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Committee Will Vote on Making Trump’s Taxes Public</h3>
-<sub>By Charlie Savage</sub>
-<p>The Ways and Means Committee’s vote is expected to end a battle that Democrats in the House have been waging since 2019, when they began trying to perform oversight of then President Donald J. Trump.  <a href="https://nyti.ms/3hJgmPC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Release of Trump Tax Returns Could Herald New Era for Taxpayer Privacy</h3>
 <sub>By Alan Rappeport</sub>
 <p>Revealing private documents risks a tit for tat with Republicans set to retake control of the House of Representatives.  <a href="https://nyti.ms/3FKiv5m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Diminished Trump Meets a Damning Narrative</h3>
-<sub>By Maggie Haberman</sub>
-<p>Former President Donald Trump’s current woes extend beyond the report by the House Jan. 6 committee, but the case the panel laid out against him further complicates his future.  <a href="https://nyti.ms/3VahwRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>6 Takeaways From the Final Jan. 6 Hearing</h3>
-<sub>By Michael D. Shear</sub>
-<p>The House Jan. 6 committee focused almost exclusively on former President Donald J. Trump. The panel’s legacy will most likely be determined by the federal prosecutors in the coming months.  <a href="https://nyti.ms/3BNYWIt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Miraculous Life and Afterlife of Charlene Richard</h3>
-<sub>By Nathaniel Rich and Stacy Kranitz</sub>
-<p>She died in 1959, at age 12. But for Catholics in her Louisiana community, that was just the beginning of her incredible story — and a decades-long fight to make her a saint.  <a href="https://nyti.ms/3BOqHQU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At a holiday celebration in southern Ukraine, ‘kids still need miracles.’</h3>
+<sub>By Oleksandr Chubko and David Guttenfelder</sub>
+<p>Some asked Saint Nicholas for iPhones. Some asked for peace.  <a href="https://nyti.ms/3HMyCCd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -102,16 +82,22 @@ Finally, something a bit more positive: There was good news for California as th
 <p>The legislation, which would fund the government through September, would significantly increase federal spending.  <a href="https://nyti.ms/3YEzz5F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>6.4-Magnitude Earthquake Shakes Northern California</h3>
-<sub>By Jose Quezada, Daniel Victor and Shawn Hubler</sub>
-<p>The quake was reported around 2:30 a.m. local time. Tens of thousands of customers were without power.  <a href="https://nyti.ms/3HQnmos"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Congress Offers $1 Billion for Climate Aid, Falling Short of Biden’s Pledge</h3>
+<sub>By Lisa Friedman</sub>
+<p>Activists called the funding to help developing countries cope with the impacts of climate change “hugely disappointing.”  <a href="https://nyti.ms/3VdjqkC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Why California’s 2022 Wildfire Season Was Unexpectedly Quiet</h3>
-<sub>By Elena Shao</sub>
-<p>The state avoided a third year of catastrophic wildfires because of a combination of well-timed precipitation and favorable wind conditions — or “luck,” as experts put it.  <a href="https://nyti.ms/3BOrjpM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>New Spending Bill Makes It Easier for Americans Saving for Retirement</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>Several provisions in the spending bill outline new ways employers can help workers save for retirement.  <a href="https://nyti.ms/3v5rM37"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Miraculous Life and Afterlife of Charlene Richard</h3>
+<sub>By Nathaniel Rich and Stacy Kranitz</sub>
+<p>She died in 1959, at age 12. But for Catholics in her Louisiana community, that was just the beginning of her incredible story — and a decades-long fight to make her a saint.  <a href="https://nyti.ms/3BOqHQU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -120,22 +106,34 @@ Finally, something a bit more positive: There was good news for California as th
 <p>The settlement, which includes the largest fine ever imposed by the Consumer Financial Protection Bureau, allows the bank to resolve claims that it had harmed millions of consumers since 2011.  <a href="https://nyti.ms/3VeiCMq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How TikTok Became a Diplomatic Crisis</h3>
-<sub>By Alex W. Palmer</sub>
-<p>A Chinese app conquered the planet — and now the U.S. is threatening to shut it down. Can the world’s biggest virality machine survive?  <a href="https://nyti.ms/3BOqZHA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>6.4-Magnitude Earthquake Shakes Northern California</h3>
+<sub>By Jose Quezada, Daniel Victor and Shawn Hubler</sub>
+<p>The quake struck southwest of Eureka at about 2:30 a.m., damaging roads and buildings in several towns and knocking out power for tens of thousands of customers in Humboldt County.  <a href="https://nyti.ms/3HQnmos"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>One Day With an Ambulance in Britain: Long Waits, Rising Frustration</h3>
-<sub>By Megan Specia</sub>
-<p>Britain is experiencing a crisis in ambulance response times, part of a broader breakdown in the country’s revered National Health Service. We rode with one crew to witness the problems in real time.  <a href="https://nyti.ms/3YAHtwM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Taliban Bar Women From College Classes, in a Stark Reversal of Rights</h3>
+<sub>By Christina Goldbaum</sub>
+<p>The new Afghan government has rolled back to its hard-line stances from the 90s, instituting public beatings and executions as well.  <a href="https://nyti.ms/3YD20Rm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Planning Holiday Travel? How Wind, Cold and Snow Could Disrupt Your Trip.</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>A storm could make for treacherous conditions for parts of the country. ‘It could be one of the coldest Christmases in a while,’ one meteorologist said.  <a href="https://nyti.ms/3BJMWaN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Fresh Off World Cup, FIFA Faces a Legal Challenge From Ukraine</h3>
+<sub>By Tariq Panja</sub>
+<p>A hearing will be held over a rule that allows overseas players to suspend their contracts with Ukrainian teams during the Russian invasion.  <a href="https://nyti.ms/3j72r63"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.K. Nurses, Emergency Responders and Rail Workers Walk Out</h3>
-<sub>By Isabella Kwai</sub>
-<p>Continuing strikes over pay and economic conditions are likely to disrupt travel and services during the holiday season. Here’s what to expect.  <a href="https://nyti.ms/3j87Sle"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>World Cup Homecoming Brings Argentina to a Halt</h3>
+<sub>By The New York Times</sub>
+<p>Crowds thronged the streets of Buenos Aires as Argentina’s men’s national team took a 50-mile victory lap to celebrate its third World Cup title.  <a href="https://nyti.ms/3jca7nz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
