@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 21, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! A House panel has recently revealed that despite an IRS mandate, President Trump was not audited while in office. Reports have also shown that he paid $1.1 million in taxes during his presidency but nothing in 2020. In other news, Ukrainian President Volodymyr Zelensky is set to visit Washington DC and address Congress. The US has also promised Ukraine Patriot missiles for the first time. Seniors are now struggling to get Covid-19 booster shots, and former Pittsburgh Steelers running back Franco Harris has died just days before the 50th anniversary of one of the NFL’s most memorable plays. There&#39;s a storm headed towards the Midwest bringing subzero temperatures and blizzard conditions with it over the holidays, making things harder for workers on the front lines. Elon Musk recently announced that he&#39;ll resign as CEO of Twitter when he finds his successor and while doing so, he&#39;s attached some strings. Lastly, Christmas in Gyor, Hungary is looking different this year as dimmed festive lighting at an annual market reflects economic hardship across Hungary due to energy costs and inflation.</p>
+There are a lot of developments happening around the world right now. In Russia, Putin is promising to invest heavily in the war effort against Ukraine, while in the US, the IRS has decided to delay an audit on Donald Trump until after he left office. As far as healthcare goes, even seniors are skeptical of getting booster shots since their initial Covid vaccinations. On a lighter note, NFL Hall of Famer Franco Harris has passed away. Within the tech world, Sam Bankman-Fried was recently extradited to the US to face charges of fraud while Elon Musk announced he will be stepping down as CEO of Twitter when a successor is found. And finally, holiday travel this year could see disruption due to the cold and snow, and there&#39;s also debate over Zionism at Berkeley law school.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin admits shortcomings but vows ‘no limits’ to Russia’s war spending.</h3>
+<sub>By Anton Troianovski</sub>
+<p>The Russian leader’s speech to defense officials was his latest effort to show he has no intention of giving up in the war on Ukraine.  <a href="https://nyti.ms/3WiiY5O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Despite Mandate, I.R.S. Delayed Auditing Trump in Office, House Panel Finds</h3>
 <sub>By Charlie Savage, Emily Cochrane, Stephanie Lai and Alan Rappeport</sub>
@@ -69,28 +75,10 @@ There&#39;s a lot going on in the world right now! A House panel has recently re
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Paid $1.1 Million in Taxes During Presidency, but $0 in 2020, Report Shows</h3>
-<sub>By Mike McIntire, Russ Buettner and Susanne Craig</sub>
-<p>The former president reported a burst of income after entering the Oval Office, but by the end of his term, his tax filings had reverted to large losses, according to data released by a House panel.  <a href="https://nyti.ms/3G69AwD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Document: Report on Trump’s Tax Returns</h3>
-<sub></sub>
-<p>This report summarizes the House Ways and Means Committee’s review of the I.R.S. examination of Trump’s tax returns from 2015 to 2020.  <a href="https://nyti.ms/3PItLUs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Zelensky Will Meet With Biden in Washington and Address Congress, Officials Say</h3>
-<sub>By Michael D. Shear and Emily Cochrane</sub>
-<p>The visit will be the first time President Volodymyr Zelensky of Ukraine has left his country since Russia invaded in February.  <a href="https://nyti.ms/3v84329"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here Are the Key Numbers From Trump’s Tax Returns</h3>
+<sub>By Charlie Smart</sub>
+<p>Donald J. Trump paid $1.1 million in federal income taxes in his first three years as president, and paid no taxes in 2020 as his income began to dwindle.  <a href="https://nyti.ms/3FOekW7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The U.S. will give Ukraine Patriot missiles for the first time.</h3>
-<sub>By Helene Cooper</sub>
-<p>  <a href="https://nyti.ms/3hIsf8k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>As Covid Deaths Climb, Even Seniors Skip the Latest Booster</h3>
@@ -102,6 +90,12 @@ There&#39;s a lot going on in the world right now! A House panel has recently re
 <h3>Franco Harris, N.F.L. Hall of Famer Who Caught ‘Immaculate Reception,’ Dies at 72</h3>
 <sub>By Daniel Victor</sub>
 <p>The former Pittsburgh Steelers running back died days before the 50th anniversary of one of the most memorable plays in N.F.L. history.  <a href="https://nyti.ms/3PL11dQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Sam Bankman-Fried Is Set for Extradition to U.S.</h3>
+<sub>By Royston Jones Jr., David Yaffe-Bellany, Rob Copeland and Matthew Goldstein</sub>
+<p>The FTX founder agreed to be transferred from the Bahamas to face federal charges of fraud.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,6 +110,12 @@ There&#39;s a lot going on in the world right now! A House panel has recently re
 <p>A storm could make for treacherous conditions for parts of the country. ‘‘It could be one of the coldest Christmases in a while,’’ one meteorologist said.  <a href="https://nyti.ms/3BJMWaN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Elon Musk’s Distraction Is Just One of Tesla’s Problems</h3>
+<sub>By Jack Ewing, Daisuke Wakabayashi and Melissa Eddy</sub>
+<p>The maker of electric cars faces sharp competition, plummeting shares and production woes while its chief executive is preoccupied with Twitter.  <a href="https://nyti.ms/3VhpYyK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Elon Musk Says He Will Resign as Twitter C.E.O. When He Finds Successor</h3>
 <sub>By Ryan Mac and Kate Conger</sub>
@@ -123,15 +123,15 @@ There&#39;s a lot going on in the world right now! A House panel has recently re
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Elon Musk’s Succession Plan Comes with Strings Attached</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Stephen Gandel, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The Twitter owner has said he will resign as chief executive, but it’s far from certain whether he would actually step down as the boss.  <a href="https://nyti.ms/3HSQL11"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How New IRS Rules Could Affect Venmo, Zelle and CashApp Users</h3>
+<sub>By Alan Rappeport</sub>
+<p>Users of digital wallets and e-commerce platforms must start reporting small transactions, sowing fears among small-business owners.  <a href="https://nyti.ms/3BPw1Uo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Dark Christmas Signals Tough Times for a Prosperous City in Hungary</h3>
-<sub>By Andrew Higgins</sub>
-<p>Dimmed festive lighting at an annual market in the city of Gyor underscores the economic pain being felt across Hungary as energy costs and inflation soar.  <a href="https://nyti.ms/3v5CKFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At Berkeley Law, a Debate Over Zionism, Free Speech and Campus Ideals</h3>
+<sub>By Vimal Patel</sub>
+<p>A student group, Law Students for Justice in Palestine, barred supporters of Zionism from speaking at its events. The outrage — and legal misunderstandings — grew from there.  <a href="https://nyti.ms/3YG6ypX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
