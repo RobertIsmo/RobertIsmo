@@ -60,8 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 20, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! The US Congress recently proposed more than 44 billion dollars to Ukraine, and they are pushing through a 1.7 trillion dollar spending bill that will increase military spending, give more aid to Ukraine, and overhaul the Electoral Count Act. In addition, there&#39;s controversy surrounding a new FBI building as part of the bill. There are also new provisions in the spending bill that make it easier for Americans saving for retirement. Internationally, there have been new restrictions imposed by the Taliban preventing women from attending college classes. They also recently released two Americans who were being detained in Afghanistan. Google is also pushing for more clean energy but facing opposition from utilities in the Southeast. On a similar note, Mayor Eric Adams in New York City is urging people to mask up again due to the increase of Covid-19, flu and R.S.V cases in the area.</p>
+There&#39;s been a lot of news coming out of the US recently: a report summarizing the I.R.S. examination of Trump’s tax returns, an I.R.S. policy requiring them to audit presidents in office, Congress passing a spending bill that includes billions for Ukraine and other provisions, as well as a fight over the new F.B.I. headquarters location. Additionally, the spending bill includes several provisions to make it easier for Americans saving for retirement.
+
+Also in the US, restrictions from the Trump-era are still in place at the border, and now Elon Musk is considering stepping down as the CEO of Twitter.
+
+On a more international level, the Taliban has started bar women from college classes in Afghanistan and also released two Americans who were detained there - one of which was an independent filmmaker who had been held since August.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Document: Report on Trump’s Tax Returns</h3>
+<sub></sub>
+<p>This report summarizes the House Ways and Means Committee’s review of the I.R.S. examination of Trump’s tax returns from 2015 to 2020.  <a href="https://nyti.ms/3PItLUs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Document: Report on the I.R.S. Mandatory Audit Program for Presidents</h3>
+<sub></sub>
+<p>An I.R.S. policy requires the agency audit presidents in office, but the House Ways and Means Committee found it failed to do so for President Donald J. Trump.  <a href="https://nyti.ms/3PMZCnc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Congress Proposes More Than $44 Billion for Ukraine</h3>
 <sub>By Michael Crowley</sub>
@@ -104,10 +120,10 @@ There&#39;s a lot going on in the world right now! The US Congress recently prop
 <p>In a brief to the court, the Biden administration acknowledged that the end of Title 42 would most likely lead to an increase in border crossings.  <a href="https://nyti.ms/3PJR6Fb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>6.4-Magnitude Earthquake Shakes Northern California</h3>
-<sub>By Jose Quezada, Shawn Hubler and Daniel Victor</sub>
-<p>The quake struck southwest of Eureka at about 2:30 a.m., leaving at least two people dead and knocking out power for tens of thousands of customers in Humboldt County.  <a href="https://nyti.ms/3HQnmos"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Elon Musk Says He Will Resign as Twitter C.E.O. When He Finds Successor</h3>
+<sub>By Ryan Mac and Kate Conger</sub>
+<p>Mr. Musk, who asked his Twitter followers on Sunday if he should step down as head of the service, will remain the company’s owner.  <a href="https://nyti.ms/3G6HtNU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -120,18 +136,6 @@ There&#39;s a lot going on in the world right now! The US Congress recently prop
 <h3>Taliban Release 2 Americans Detained in Afghanistan</h3>
 <sub>By Katie Rogers</sub>
 <p>One of the Americans being held is an independent filmmaker who had been held since August.  <a href="https://nyti.ms/3WAa5Eq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Clean Energy Quest Pits Google Against Utilities</h3>
-<sub>By Peter Eavis</sub>
-<p>Google says its goals for carbon-free power are impeded by state-regulated utilities, particularly in the Southeast, that lack a competitive market.  <a href="https://nyti.ms/3WenHp6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>It’s Time for New Yorkers to Mask Up Again, Mayor Adams Says</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>Donning a mask, Mayor Eric Adams urged New Yorkers to protect themselves against a swirl of viral illnesses in the city, including Covid-19, flu and R.S.V.  <a href="https://nyti.ms/3BM2DhJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
