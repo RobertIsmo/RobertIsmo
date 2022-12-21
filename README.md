@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 21, Central Standard Time</p>
 <p>
-Currently, it looks like former president Trump paid $1.1 million in taxes while in office but nothing in 2020, according to a report. The current president of Ukraine, Volodymyr Zelensky, is scheduled to meet with President Biden and address Congress in Washington. Lawmakers are fast-tracking a $1.7 trillion spending bill that will help Americans save for retirement and provides billions of dollars in emergency aid. However, this bill is currently facing a snag due to a dispute between Virginia and Maryland lawmakers over the relocation of an F.B.I. building. Meanwhile, on the international front, the Taliban in Afghanistan has barred women from attending college classes in a stark reversal of their rights, but they&#39;ve released two American hostages previously held in their custody. On the business side of things, Google is pushing for clean energy efforts across the U.S., but this is facing opposition from utilities, especially in the Southeast where there is a lack of competition. Lastly, here in New York City Mayor Eric Adams has urged everyone to resume wearing masks due to rising numbers of viral illnesses such as Covid-19, flu and RSV.</p>
+It looks like there&#39;s been a lot happening recently in the US and around the world. In the US, a House panel released data showing that former President Trump paid $1.1 million in taxes during his presidency, but none in 2020. There&#39;s also a new spending bill that passed through Congress which increases military spending and provides billions of dollars in emergency aid and makes it easier for Americans to save for retirement. 
+
+Elsewhere, Ukraine&#39;s president, Volodymyr Zelensky is visiting Washington DC to address Congress. The US is also sending Ukraine Patriot missiles for the first time as part of an anti-Russia stance. Meanwhile, there have been some major reversals on women&#39;s rights in Afghanistan, with the Taliban barring women from college classes and carrying out public beatings and executions. On a positive note, they did recently release two Americans being held detainment. 
+
+Finally, Google is clashing with utilities over their clean energy quest. Google wants more carbon-free power but they&#39;re dealing with state-regulated utilities that are restricting a competitive market. As for Elon Musk, he&#39;s decided to step down as Twitter CEO when he finds a suitable successor - though he&#39;ll still remain the company&#39;s owner.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Paid $1.1 Million in Taxes During Presidency, but $0 in 2020, Report Shows</h3>
@@ -73,6 +77,12 @@ Currently, it looks like former president Trump paid $1.1 million in taxes while
 <sub>By Michael D. Shear and Emily Cochrane</sub>
 <p>The visit will be the first time President Volodymyr Zelensky of Ukraine has left his country since Russia invaded in February.  <a href="https://nyti.ms/3v84329"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The U.S. will give Ukraine Patriot missiles for the first time.</h3>
+<sub>By Helene Cooper</sub>
+<p>  <a href="https://nyti.ms/3hIsf8k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What’s In (and Not In) the $1.7 Trillion Spending Bill</h3>
@@ -126,12 +136,6 @@ Currently, it looks like former president Trump paid $1.1 million in taxes while
 <h3>Clean Energy Quest Pits Google Against Utilities</h3>
 <sub>By Peter Eavis</sub>
 <p>Google says its goals for carbon-free power are impeded by state-regulated utilities, particularly in the Southeast, that lack a competitive market.  <a href="https://nyti.ms/3WenHp6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>It’s Time for New Yorkers to Mask Up Again, Mayor Adams Says</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>Donning a mask, Mayor Eric Adams urged New Yorkers to protect themselves against a swirl of viral illnesses in the city, including Covid-19, flu and R.S.V.  <a href="https://nyti.ms/3BM2DhJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
