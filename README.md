@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 21, Central Standard Time</p>
 <p>
-There is a lot going on in the news lately. A House panel found that the I.R.S. delayed auditing Donald Trump while he was in office, even though they were mandated to do it. Trump also paid $1.1 million in taxes during his presidency but no taxes in 2020, and a House panel released this data. Meanwhile Ukraine&#39;s President Zelensky is traveling to Washington and address Congress, and the U.S. is giving Ukraine Patriot missiles for the first time. As Covid deaths climb, even seniors are skipping the latest booster vaccine shots due to limited government support and people are expecting a holiday storm with subzero temperatures and blizzard conditions across much of the Midwest that could disrupt holiday travel plans. In Hungary, a prosperous city has dimmed its festive lighting at an annual market due to economic pain from energy costs and inflation soaring nationwide. At Berkeley Law school, there is debate over Zionism, free speech and campus ideals after one student group barred supporters of Zionism from their events. Lastly, there is a new chatbot called ChatGPT that is using artificial intelligence which could potentially replace traditional internet search engines- which raises ethical questions about how we use it responsibly without causing harm to ourselves or others.</p>
+There&#39;s a lot going on in the world right now! A House panel has recently revealed that despite an IRS mandate, President Trump was not audited while in office. Reports have also shown that he paid $1.1 million in taxes during his presidency but nothing in 2020. In other news, Ukrainian President Volodymyr Zelensky is set to visit Washington DC and address Congress. The US has also promised Ukraine Patriot missiles for the first time. Seniors are now struggling to get Covid-19 booster shots, and former Pittsburgh Steelers running back Franco Harris has died just days before the 50th anniversary of one of the NFL’s most memorable plays. There&#39;s a storm headed towards the Midwest bringing subzero temperatures and blizzard conditions with it over the holidays, making things harder for workers on the front lines. Elon Musk recently announced that he&#39;ll resign as CEO of Twitter when he finds his successor and while doing so, he&#39;s attached some strings. Lastly, Christmas in Gyor, Hungary is looking different this year as dimmed festive lighting at an annual market reflects economic hardship across Hungary due to energy costs and inflation.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Despite Mandate, I.R.S. Delayed Auditing Trump in Office, House Panel Finds</h3>
@@ -72,6 +72,12 @@ There is a lot going on in the news lately. A House panel found that the I.R.S. 
 <h3>Trump Paid $1.1 Million in Taxes During Presidency, but $0 in 2020, Report Shows</h3>
 <sub>By Mike McIntire, Russ Buettner and Susanne Craig</sub>
 <p>The former president reported a burst of income after entering the Oval Office, but by the end of his term, his tax filings had reverted to large losses, according to data released by a House panel.  <a href="https://nyti.ms/3G69AwD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Document: Report on Trump’s Tax Returns</h3>
+<sub></sub>
+<p>This report summarizes the House Ways and Means Committee’s review of the I.R.S. examination of Trump’s tax returns from 2015 to 2020.  <a href="https://nyti.ms/3PItLUs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,6 +98,12 @@ There is a lot going on in the news lately. A House panel found that the I.R.S. 
 <p>Nearly all Americans over 65 got their initial Covid vaccines. But that immunity is waning, and this time, the government is offering far less support for new shots.  <a href="https://nyti.ms/3BRxCc4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Franco Harris, N.F.L. Hall of Famer Who Caught ‘Immaculate Reception,’ Dies at 72</h3>
+<sub>By Daniel Victor</sub>
+<p>The former Pittsburgh Steelers running back died days before the 50th anniversary of one of the most memorable plays in N.F.L. history.  <a href="https://nyti.ms/3PL11dQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As a Holiday Storm Bears Down, Some Brace for a Long Week at Work</h3>
 <sub>By Mitch Smith</sub>
@@ -110,28 +122,16 @@ There is a lot going on in the news lately. A House panel found that the I.R.S. 
 <p>Mr. Musk, who asked his Twitter followers on Sunday if he should step down as head of the service, will remain the company’s owner.  <a href="https://nyti.ms/3G6HtNU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Elon Musk’s Succession Plan Comes with Strings Attached</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Stephen Gandel, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>The Twitter owner has said he will resign as chief executive, but it’s far from certain whether he would actually step down as the boss.  <a href="https://nyti.ms/3HSQL11"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Dark Christmas Signals Tough Times for a Prosperous City in Hungary</h3>
 <sub>By Andrew Higgins</sub>
 <p>Dimmed festive lighting at an annual market in the city of Gyor underscores the economic pain being felt across Hungary as energy costs and inflation soar.  <a href="https://nyti.ms/3v5CKFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Berkeley Law, a Debate Over Zionism, Free Speech and Campus Ideals</h3>
-<sub>By Vimal Patel</sub>
-<p>A student group, Law Students for Justice in Palestine, barred supporters of Zionism from speaking at its events. The outrage — and legal misunderstandings — grew from there.  <a href="https://nyti.ms/3YG6ypX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A New Chat Bot Is a ‘Code Red’ for Google’s Search Business</h3>
-<sub>By Nico Grant and Cade Metz</sub>
-<p>A new wave of chat bots like ChatGPT use artificial intelligence that could reinvent or even replace the traditional internet search engine.  <a href="https://nyti.ms/3v5LuMj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How to Use ChatGPT and Still Be a Good Person</h3>
-<sub>By Brian X. Chen</sub>
-<p>It’s a turning point for artificial intelligence, and we need to take advantage of these tools without causing harm to ourselves or others.  <a href="https://nyti.ms/3WgOp0y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
