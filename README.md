@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 21, Central Standard Time</p>
 <p>
-It looks like there&#39;s been a lot happening recently in the US and around the world. In the US, a House panel released data showing that former President Trump paid $1.1 million in taxes during his presidency, but none in 2020. There&#39;s also a new spending bill that passed through Congress which increases military spending and provides billions of dollars in emergency aid and makes it easier for Americans to save for retirement. 
-
-Elsewhere, Ukraine&#39;s president, Volodymyr Zelensky is visiting Washington DC to address Congress. The US is also sending Ukraine Patriot missiles for the first time as part of an anti-Russia stance. Meanwhile, there have been some major reversals on women&#39;s rights in Afghanistan, with the Taliban barring women from college classes and carrying out public beatings and executions. On a positive note, they did recently release two Americans being held detainment. 
-
-Finally, Google is clashing with utilities over their clean energy quest. Google wants more carbon-free power but they&#39;re dealing with state-regulated utilities that are restricting a competitive market. As for Elon Musk, he&#39;s decided to step down as Twitter CEO when he finds a suitable successor - though he&#39;ll still remain the company&#39;s owner.</p>
+There is a lot going on in the news lately. A House panel found that the I.R.S. delayed auditing Donald Trump while he was in office, even though they were mandated to do it. Trump also paid $1.1 million in taxes during his presidency but no taxes in 2020, and a House panel released this data. Meanwhile Ukraine&#39;s President Zelensky is traveling to Washington and address Congress, and the U.S. is giving Ukraine Patriot missiles for the first time. As Covid deaths climb, even seniors are skipping the latest booster vaccine shots due to limited government support and people are expecting a holiday storm with subzero temperatures and blizzard conditions across much of the Midwest that could disrupt holiday travel plans. In Hungary, a prosperous city has dimmed its festive lighting at an annual market due to economic pain from energy costs and inflation soaring nationwide. At Berkeley Law school, there is debate over Zionism, free speech and campus ideals after one student group barred supporters of Zionism from their events. Lastly, there is a new chatbot called ChatGPT that is using artificial intelligence which could potentially replace traditional internet search engines- which raises ethical questions about how we use it responsibly without causing harm to ourselves or others.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Despite Mandate, I.R.S. Delayed Auditing Trump in Office, House Panel Finds</h3>
+<sub>By Charlie Savage, Emily Cochrane, Stephanie Lai and Alan Rappeport</sub>
+<p>Mr. Trump refused to disclose his taxes. A committee’s vote to release them ended an oversight battle Democratic lawmakers waged since 2019.  <a href="https://nyti.ms/3WwWtKm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Paid $1.1 Million in Taxes During Presidency, but $0 in 2020, Report Shows</h3>
 <sub>By Mike McIntire, Russ Buettner and Susanne Craig</sub>
@@ -84,35 +86,23 @@ Finally, Google is clashing with utilities over their clean energy quest. Google
 <p>  <a href="https://nyti.ms/3hIsf8k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What’s In (and Not In) the $1.7 Trillion Spending Bill</h3>
-<sub>By Emily Cochrane</sub>
-<p>A big boost for the military, more aid for Ukraine, a preference for the lobster industry over whales and an overhaul of the Electoral Count Act are among the provisions in the 4,155-page bill lawmakers expect to pass this week.  <a href="https://nyti.ms/3HRqnok"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>As Covid Deaths Climb, Even Seniors Skip the Latest Booster</h3>
+<sub>By Emily Baumgaertner</sub>
+<p>Nearly all Americans over 65 got their initial Covid vaccines. But that immunity is waning, and this time, the government is offering far less support for new shots.  <a href="https://nyti.ms/3BRxCc4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lawmakers Advance Sprawling Spending Bill in Race to Avoid Shutdown</h3>
-<sub>By Emily Cochrane</sub>
-<p>The legislation, which would fund the government through September, would significantly increase federal spending and provide billions of dollars in emergency aid.  <a href="https://nyti.ms/3YEzz5F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<h3>As a Holiday Storm Bears Down, Some Brace for a Long Week at Work</h3>
+<sub>By Mitch Smith</sub>
+<p>Subzero temperatures and blizzard conditions are expected across much of the Midwest, making life harder for workers on the front lines of the weather.  <a href="https://nyti.ms/3VuMKmZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Federal Spending Plan Hit a Snag on Plans to Relocate the F.B.I. Building</h3>
-<sub>By Stephanie Lai</sub>
-<p>A fight between Virginia and Maryland lawmakers over a new location for the F.B.I. headquarters held up a 4,155 page must-pass government funding measure.  <a href="https://nyti.ms/3v8b7vW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>New Spending Bill Makes It Easier for Americans Saving for Retirement</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>Several provisions in the spending bill outline new ways employers can help workers save for retirement.  <a href="https://nyti.ms/3v5rM37"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump-Era Border Restrictions Are in Place as Lawsuits Reach Supreme Court</h3>
-<sub>By Michael D. Shear and Edgar Sandoval</sub>
-<p>In a brief to the court, the Biden administration acknowledged that the end of Title 42 would most likely lead to an increase in border crossings.  <a href="https://nyti.ms/3PJR6Fb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<h3>Planning Holiday Travel? How Wind, Cold and Snow Could Disrupt Your Trip.</h3>
+<sub>By Livia Albeck-Ripka and Judson Jones</sub>
+<p>A storm could make for treacherous conditions for parts of the country. ‘‘It could be one of the coldest Christmases in a while,’’ one meteorologist said.  <a href="https://nyti.ms/3BJMWaN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Elon Musk Says He Will Resign as Twitter C.E.O. When He Finds Successor</h3>
@@ -121,22 +111,28 @@ Finally, Google is clashing with utilities over their clean energy quest. Google
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Taliban Bar Women From College Classes, in a Stark Reversal of Rights</h3>
-<sub>By Christina Goldbaum and Najim Rahim</sub>
-<p>The new Afghan government has returned to its hard-line stances from the 1990s, instituting public beatings and executions as well further restricting women’s rights.  <a href="https://nyti.ms/3YD20Rm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<h3>Dark Christmas Signals Tough Times for a Prosperous City in Hungary</h3>
+<sub>By Andrew Higgins</sub>
+<p>Dimmed festive lighting at an annual market in the city of Gyor underscores the economic pain being felt across Hungary as energy costs and inflation soar.  <a href="https://nyti.ms/3v5CKFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Taliban Release 2 Americans Detained in Afghanistan</h3>
-<sub>By Katie Rogers</sub>
-<p>One of the Americans being held is an independent filmmaker who had been held since August.  <a href="https://nyti.ms/3WAa5Eq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<h3>At Berkeley Law, a Debate Over Zionism, Free Speech and Campus Ideals</h3>
+<sub>By Vimal Patel</sub>
+<p>A student group, Law Students for Justice in Palestine, barred supporters of Zionism from speaking at its events. The outrage — and legal misunderstandings — grew from there.  <a href="https://nyti.ms/3YG6ypX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Clean Energy Quest Pits Google Against Utilities</h3>
-<sub>By Peter Eavis</sub>
-<p>Google says its goals for carbon-free power are impeded by state-regulated utilities, particularly in the Southeast, that lack a competitive market.  <a href="https://nyti.ms/3WenHp6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A New Chat Bot Is a ‘Code Red’ for Google’s Search Business</h3>
+<sub>By Nico Grant and Cade Metz</sub>
+<p>A new wave of chat bots like ChatGPT use artificial intelligence that could reinvent or even replace the traditional internet search engine.  <a href="https://nyti.ms/3v5LuMj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How to Use ChatGPT and Still Be a Good Person</h3>
+<sub>By Brian X. Chen</sub>
+<p>It’s a turning point for artificial intelligence, and we need to take advantage of these tools without causing harm to ourselves or others.  <a href="https://nyti.ms/3WgOp0y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
