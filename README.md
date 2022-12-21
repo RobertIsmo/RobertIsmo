@@ -60,12 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 21, Central Standard Time</p>
 <p>
-There are a lot of developments happening around the world right now. In Russia, Putin is promising to invest heavily in the war effort against Ukraine, while in the US, the IRS has decided to delay an audit on Donald Trump until after he left office. As far as healthcare goes, even seniors are skeptical of getting booster shots since their initial Covid vaccinations. On a lighter note, NFL Hall of Famer Franco Harris has passed away. Within the tech world, Sam Bankman-Fried was recently extradited to the US to face charges of fraud while Elon Musk announced he will be stepping down as CEO of Twitter when a successor is found. And finally, holiday travel this year could see disruption due to the cold and snow, and there&#39;s also debate over Zionism at Berkeley law school.</p>
+Right now, there are a lot of issues in the news that are impacting people around the world. In Ukraine, it&#39;s the second year of war between Russia and Ukraine and prospects of a stalemate are looming. Putin has admitted weakness in his country while committing to no limits in war spending. The United States has sent its most advanced ground-based missile defense system to Ukraine as tensions continue to rise. 
+
+Meanwhile, back in the US, we are learning more about Donald Trump&#39;s tax returns after the IRS delayed auditing him while he was in office. It turns out he paid $1.1 million in federal income taxes in his first three years but paid nothing in 2020 as his income dropped. He also refused to disclose his taxes which led to an oversight battle from Democratic lawmakers since 2019. 
+
+And weathered related news, much of the US is getting hit by a once-in-a-generation winter storm with strong winds, heavy snowfall and temperature drops. Travelers are being warned that their plans may be disrupted due to snow and rain. 
+
+Additionally, there have been some interesting developments for small businesses with popular platforms such as Venmo and CashApp. There are new rules that require some users to report small transactions which is raising fear among small business owners. 
+
+Finally, growing number of Covid deaths is causing people over 65 to skip vaccines boosters even though they had their initial vaccine shots. Unfortunately, the government isn&#39;t providing much support for these new shots.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Ukraine Readies for a Second Year at War, Prospect of Stalemate Looms</h3>
+<sub>By Julian E. Barnes, Helene Cooper and Eric Schmitt</sub>
+<p>American officials believe that with Russia bolstering defenses and learning lessons, Ukraine will find it more challenging to retake land.  <a href="https://nyti.ms/3VeDhA0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin admits shortcomings but vows ‘no limits’ to Russia’s war spending.</h3>
 <sub>By Anton Troianovski</sub>
 <p>The Russian leader’s speech to defense officials was his latest effort to show he has no intention of giving up in the war on Ukraine.  <a href="https://nyti.ms/3WiiY5O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Are Patriot Missiles, and Why Does Ukraine Want Them?</h3>
+<sub>By Helene Cooper</sub>
+<p>The United States is sending its most advanced ground-based missile defense system to Ukraine, as Russia continues to pummel the country with airstrikes.  <a href="https://nyti.ms/3Gd4qz3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,10 +100,22 @@ There are a lot of developments happening around the world right now. In Russia,
 <p>Donald J. Trump paid $1.1 million in federal income taxes in his first three years as president, and paid no taxes in 2020 as his income began to dwindle.  <a href="https://nyti.ms/3FOekW7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>As Covid Deaths Climb, Even Seniors Skip the Latest Booster</h3>
-<sub>By Emily Baumgaertner</sub>
-<p>Nearly all Americans over 65 got their initial Covid vaccines. But that immunity is waning, and this time, the government is offering far less support for new shots.  <a href="https://nyti.ms/3BRxCc4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Forecasts Grow Ominous, Winter Storm Forces Millions to Brace for the Worst</h3>
+<sub>By Rick Rojas, Eliza Fawcett, Campbell Robertson and Judson Jones</sub>
+<p>Much of the country faces dangerous conditions, including heavy snow, strong winds and steep temperature drops. In Buffalo, meteorologists warned of a “once-in-a-generation storm.”  <a href="https://nyti.ms/3Vg11DG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>What to Know if the Winter Storm Wreaks Havoc on Your Holiday Travel</h3>
+<sub>By Maria Cramer</sub>
+<p>Forecasters say a “bomb cyclone” will tear through much of the U.S. this week and that travelers could face cold, snow and rain. What can you do if your plans are disrupted?  <a href="https://nyti.ms/3Wycn7d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Jenna Bush Hager Is Making a List. Authors Are Obsessed With It.</h3>
+<sub>By Matt Flegenheimer</sub>
+<p>The daughter and granddaughter of presidents is now famous in her own right. Her TV book club is one of the few reliable paths to the best-seller list in a precarious industry.  <a href="https://nyti.ms/3hGkX4U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -92,46 +124,22 @@ There are a lot of developments happening around the world right now. In Russia,
 <p>The former Pittsburgh Steelers running back died days before the 50th anniversary of one of the most memorable plays in N.F.L. history.  <a href="https://nyti.ms/3PL11dQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Bankman-Fried Is Set for Extradition to U.S.</h3>
-<sub>By Royston Jones Jr., David Yaffe-Bellany, Rob Copeland and Matthew Goldstein</sub>
-<p>The FTX founder agreed to be transferred from the Bahamas to face federal charges of fraud.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As a Holiday Storm Bears Down, Some Brace for a Long Week at Work</h3>
-<sub>By Mitch Smith</sub>
-<p>Subzero temperatures and blizzard conditions are expected across much of the Midwest, making life harder for workers on the front lines of the weather.  <a href="https://nyti.ms/3VuMKmZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Planning Holiday Travel? How Wind, Cold and Snow Could Disrupt Your Trip.</h3>
-<sub>By Livia Albeck-Ripka and Judson Jones</sub>
-<p>A storm could make for treacherous conditions for parts of the country. ‘‘It could be one of the coldest Christmases in a while,’’ one meteorologist said.  <a href="https://nyti.ms/3BJMWaN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Elon Musk’s Distraction Is Just One of Tesla’s Problems</h3>
 <sub>By Jack Ewing, Daisuke Wakabayashi and Melissa Eddy</sub>
 <p>The maker of electric cars faces sharp competition, plummeting shares and production woes while its chief executive is preoccupied with Twitter.  <a href="https://nyti.ms/3VhpYyK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Elon Musk Says He Will Resign as Twitter C.E.O. When He Finds Successor</h3>
-<sub>By Ryan Mac and Kate Conger</sub>
-<p>Mr. Musk, who asked his Twitter followers on Sunday if he should step down as head of the service, will remain the company’s owner.  <a href="https://nyti.ms/3G6HtNU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How New IRS Rules Could Affect Venmo, Zelle and CashApp Users</h3>
+<h3>How New IRS Rules Could Affect Venmo, Etsy and CashApp Users</h3>
 <sub>By Alan Rappeport</sub>
-<p>Users of digital wallets and e-commerce platforms must start reporting small transactions, sowing fears among small-business owners.  <a href="https://nyti.ms/3BPw1Uo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Some users of digital wallets and e-commerce platforms must start reporting small transactions, sowing fears among small-business owners.  <a href="https://nyti.ms/3BPw1Uo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Berkeley Law, a Debate Over Zionism, Free Speech and Campus Ideals</h3>
-<sub>By Vimal Patel</sub>
-<p>A student group, Law Students for Justice in Palestine, barred supporters of Zionism from speaking at its events. The outrage — and legal misunderstandings — grew from there.  <a href="https://nyti.ms/3YG6ypX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>As Covid Deaths Climb, Even Seniors Skip the Latest Booster</h3>
+<sub>By Emily Baumgaertner</sub>
+<p>Nearly all Americans over 65 got their initial Covid vaccines. But that immunity is waning, and this time, the government is offering far less support for new shots.  <a href="https://nyti.ms/3BRxCc4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
