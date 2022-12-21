@@ -60,32 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 20, Central Standard Time</p>
 <p>
-It looks like there is a lot going on in the world right now. In the US, lawmakers are unveiling a spending bill to avoid shutdown, and President Trump&#39;s tax returns could herald a new era of taxpayer privacy as Republicans take control of the House. In Ukraine, kids are asking for miracles at holiday celebrations, and in Afghanistan, Talibans are restricting women from college classes and rolling back on rights. Around the world, Argentina is celebrating their third World Cup title and the FIFA faces a legal challenge from Ukraine. 
-
-In the US, it looks like people can expect more funding for climate aid and retirement saving options with the new spending bill. Additionally, a 6.4 magnitude earthquake recently shook Northern California damaging roads and buildings and knocking out power for tens of thousands of customers. Finally, if you are planning holiday travel be aware that there is a storm inbound that could make for treacherous conditions so be prepared!</p>
+There&#39;s a lot going on in the world right now! The US Congress recently proposed more than 44 billion dollars to Ukraine, and they are pushing through a 1.7 trillion dollar spending bill that will increase military spending, give more aid to Ukraine, and overhaul the Electoral Count Act. In addition, there&#39;s controversy surrounding a new FBI building as part of the bill. There are also new provisions in the spending bill that make it easier for Americans saving for retirement. Internationally, there have been new restrictions imposed by the Taliban preventing women from attending college classes. They also recently released two Americans who were being detained in Afghanistan. Google is also pushing for more clean energy but facing opposition from utilities in the Southeast. On a similar note, Mayor Eric Adams in New York City is urging people to mask up again due to the increase of Covid-19, flu and R.S.V cases in the area.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Release of Trump Tax Returns Could Herald New Era for Taxpayer Privacy</h3>
-<sub>By Alan Rappeport</sub>
-<p>Revealing private documents risks a tit for tat with Republicans set to retake control of the House of Representatives.  <a href="https://nyti.ms/3FKiv5m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At a holiday celebration in southern Ukraine, ‘kids still need miracles.’</h3>
-<sub>By Oleksandr Chubko and David Guttenfelder</sub>
-<p>Some asked Saint Nicholas for iPhones. Some asked for peace.  <a href="https://nyti.ms/3HMyCCd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Congress Proposes More Than $44 Billion for Ukraine</h3>
+<sub>By Michael Crowley</sub>
+<p>The spending bill unveiled Tuesday includes billions more for the country than President Biden had requested.  <a href="https://nyti.ms/3VfajQj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lawmakers Unveil Sprawling Spending Bill to Avoid Shutdown</h3>
+<h3>What’s In (and Not In) the $1.7 Trillion Spending Bill</h3>
 <sub>By Emily Cochrane</sub>
-<p>The legislation, which would fund the government through September, would significantly increase federal spending.  <a href="https://nyti.ms/3YEzz5F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A big boost for the military, more aid for Ukraine, a preference for the lobster industry over whales and an overhaul of the Electoral Count Act are among the provisions in the 4,155-page bill lawmakers expect to pass this week.  <a href="https://nyti.ms/3HRqnok"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Congress Offers $1 Billion for Climate Aid, Falling Short of Biden’s Pledge</h3>
-<sub>By Lisa Friedman</sub>
-<p>Activists called the funding to help developing countries cope with the impacts of climate change “hugely disappointing.”  <a href="https://nyti.ms/3VdjqkC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lawmakers Advance Sprawling Spending Bill in Race to Avoid Shutdown</h3>
+<sub>By Emily Cochrane</sub>
+<p>The legislation, which would fund the government through September, would significantly increase federal spending and provide billions of dollars in emergency aid.  <a href="https://nyti.ms/3YEzz5F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How the Federal Spending Plan Hit a Snag on Plans to Relocate the F.B.I. Building</h3>
+<sub>By Stephanie Lai</sub>
+<p>A fight between Virginia and Maryland lawmakers over a new location for the F.B.I. headquarters held up a 4,155 page must-pass government funding measure.  <a href="https://nyti.ms/3v8b7vW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-your-money-blue" alt="">
@@ -100,40 +98,40 @@ In the US, it looks like people can expect more funding for climate aid and reti
 <p>She died in 1959, at age 12. But for Catholics in her Louisiana community, that was just the beginning of her incredible story — and a decades-long fight to make her a saint.  <a href="https://nyti.ms/3BOqHQU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wells Fargo to Pay $3.7 Billion Over Consumer Banking Violations</h3>
-<sub>By Emily Flitter</sub>
-<p>The settlement, which includes the largest fine ever imposed by the Consumer Financial Protection Bureau, allows the bank to resolve claims that it had harmed millions of consumers since 2011.  <a href="https://nyti.ms/3VeiCMq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump-Era Border Restrictions Are in Place as Lawsuits Reach Supreme Court</h3>
+<sub>By Michael D. Shear and Edgar Sandoval</sub>
+<p>In a brief to the court, the Biden administration acknowledged that the end of Title 42 would most likely lead to an increase in border crossings.  <a href="https://nyti.ms/3PJR6Fb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>6.4-Magnitude Earthquake Shakes Northern California</h3>
-<sub>By Jose Quezada, Daniel Victor and Shawn Hubler</sub>
-<p>The quake struck southwest of Eureka at about 2:30 a.m., damaging roads and buildings in several towns and knocking out power for tens of thousands of customers in Humboldt County.  <a href="https://nyti.ms/3HQnmos"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Jose Quezada, Shawn Hubler and Daniel Victor</sub>
+<p>The quake struck southwest of Eureka at about 2:30 a.m., leaving at least two people dead and knocking out power for tens of thousands of customers in Humboldt County.  <a href="https://nyti.ms/3HQnmos"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Taliban Bar Women From College Classes, in a Stark Reversal of Rights</h3>
-<sub>By Christina Goldbaum</sub>
-<p>The new Afghan government has rolled back to its hard-line stances from the 90s, instituting public beatings and executions as well.  <a href="https://nyti.ms/3YD20Rm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Christina Goldbaum and Najim Rahim</sub>
+<p>The new Afghan government has returned to its hard-line stances from the 1990s, instituting public beatings and executions as well further restricting women’s rights.  <a href="https://nyti.ms/3YD20Rm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Planning Holiday Travel? How Wind, Cold and Snow Could Disrupt Your Trip.</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>A storm could make for treacherous conditions for parts of the country. ‘It could be one of the coldest Christmases in a while,’ one meteorologist said.  <a href="https://nyti.ms/3BJMWaN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Fresh Off World Cup, FIFA Faces a Legal Challenge From Ukraine</h3>
-<sub>By Tariq Panja</sub>
-<p>A hearing will be held over a rule that allows overseas players to suspend their contracts with Ukrainian teams during the Russian invasion.  <a href="https://nyti.ms/3j72r63"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Taliban Release 2 Americans Detained in Afghanistan</h3>
+<sub>By Katie Rogers</sub>
+<p>One of the Americans being held is an independent filmmaker who had been held since August.  <a href="https://nyti.ms/3WAa5Eq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>World Cup Homecoming Brings Argentina to a Halt</h3>
-<sub>By The New York Times</sub>
-<p>Crowds thronged the streets of Buenos Aires as Argentina’s men’s national team took a 50-mile victory lap to celebrate its third World Cup title.  <a href="https://nyti.ms/3jca7nz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Clean Energy Quest Pits Google Against Utilities</h3>
+<sub>By Peter Eavis</sub>
+<p>Google says its goals for carbon-free power are impeded by state-regulated utilities, particularly in the Southeast, that lack a competitive market.  <a href="https://nyti.ms/3WenHp6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>It’s Time for New Yorkers to Mask Up Again, Mayor Adams Says</h3>
+<sub>By Emma G. Fitzsimmons</sub>
+<p>Donning a mask, Mayor Eric Adams urged New Yorkers to protect themselves against a swirl of viral illnesses in the city, including Covid-19, flu and R.S.V.  <a href="https://nyti.ms/3BM2DhJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
