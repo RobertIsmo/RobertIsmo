@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 21, Central Standard Time</p>
 <p>
-It&#39;s been quite a busy few weeks with news around the world. In Ukraine, President Zelensky is trying to ensure that the nation&#39;s fight against Russia doesn&#39;t become a partisan issue. Russia and its leader, Putin, are still pushing ahead with their efforts even as they admit to some challenges. Meanwhile, in the US, questions have been raised about why Donald Trump has yet to be audited by the IRS despite a mandatory presidential audit program. We also learned that Trump&#39;s history of questionable tax maneuvers continued through his presidency and he was unable to pay any income taxes in 2020. Elsewhere, millions of people in the US are bracing themselves as forecasters predict a &quot;once-in-a-generation&quot; snow storm this week. In Israel, Benjamin Netanyahu has secured a governing coalition that if approved by Parliament, will return him back to power. And lastly, Jenna Bush Hager has been making waves in the publishing industry and some people have been anxiously waiting for the end of pandemic-era travel restrictions at the US border. On a sad note, Steeler Franco Harris passed away at 72 days before the 50th anniversary of what is likely one of the most memorable plays in NFL history: his famous &quot;Immaculate Reception&quot;.</p>
+Right now, there is a lot going on in the world. In Ukraine, President Zelensky is making a strong effort to keep the war from becoming a partisan issue. In Russia, Putin is admitting to military failings but committing to fight on nonetheless. In the US, the IRS is facing questions over delays for audits of former President Trump -- while Trump&#39;s taxes have also revealed some suspicious maneuvers and considerable losses. On top of all this, millions of Americans are bracing for an incoming winter storm that could wreak havoc on holiday travel plans. Meanwhile, Israeli leader Benjamin Netanyahu is on the brink of returning to power at the head of a hard-right alliance. Finally, Jenna Bush Hager has risen to fame as a publishing kingmaker, and US lawmakers are steering more than $15 billion worth of pet projects back to their home states.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky’s Message: Ukraine Is Fighting for Good Over Evil</h3>
@@ -69,7 +69,7 @@ It&#39;s been quite a busy few weeks with news around the world. In Ukraine, Pre
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Ukraine Readies for a Second Year at War, Prospect of Stalemate Looms</h3>
+<h3>As Ukraine Prepares for a Second Year at War, the Prospect of a Stalemate Looms</h3>
 <sub>By Julian E. Barnes, Helene Cooper and Eric Schmitt</sub>
 <p>American officials believe that with Russia bolstering defenses and learning lessons, Ukraine will find it more challenging to retake land.  <a href="https://nyti.ms/3VeDhA0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
@@ -110,6 +110,12 @@ It&#39;s been quite a busy few weeks with news around the world. In Ukraine, Pre
 <p>Forecasters say a “bomb cyclone” will tear through much of the U.S. this week and that travelers could face cold, snow and rain. What can you do if your plans are disrupted?  <a href="https://nyti.ms/3Wycn7d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud</h3>
+<sub>By David Yaffe-Bellany, Matthew Goldstein and Benjamin Weiser</sub>
+<p>Caroline Ellison, the former chief executive of Alameda Research, and Gary Wang, a founder of FTX, are cooperating in the federal criminal case against Mr. Bankman-Fried.  <a href="https://nyti.ms/3vcLp9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Coalition Deal Puts Netanyahu on Brink of Power in Israel</h3>
 <sub>By Patrick Kingsley</sub>
@@ -123,15 +129,9 @@ It&#39;s been quite a busy few weeks with news around the world. In Ukraine, Pre
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Along the Border, Waiting Anxiously for the End of a Pandemic-Era Rule</h3>
-<sub>By J. David Goodman and Edgar Sandoval</sub>
-<p>A tense limbo pervaded both sides of the border on Wednesday as people waited for the end of a policy that has restricted immigration during the pandemic.  <a href="https://nyti.ms/3jr85jS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Franco Harris, Steeler Who Caught ‘Immaculate Reception,’ Dies at 72</h3>
-<sub>By Richard Sandomir and Daniel Victor</sub>
-<p>A Hall of Fame running back, he died days before the 50th anniversary of one of the most memorable plays in N.F.L. history.  <a href="https://nyti.ms/3PL11dQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Lawmakers Steer Home More Than $15 Billion in Pet Projects</h3>
+<sub>By Stephanie Lai</sub>
+<p>The $1.7 trillion spending bill moving through Congress contains more than 7,200 earmarks for projects in lawmakers’ home states and districts.  <a href="https://nyti.ms/3jkvzqE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
