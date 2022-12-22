@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, December 21, Central Standard Time</p>
+<p>It is Thursday, December 22, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. In Ukraine, President Zelensky is making a strong effort to keep the war from becoming a partisan issue. In Russia, Putin is admitting to military failings but committing to fight on nonetheless. In the US, the IRS is facing questions over delays for audits of former President Trump -- while Trump&#39;s taxes have also revealed some suspicious maneuvers and considerable losses. On top of all this, millions of Americans are bracing for an incoming winter storm that could wreak havoc on holiday travel plans. Meanwhile, Israeli leader Benjamin Netanyahu is on the brink of returning to power at the head of a hard-right alliance. Finally, Jenna Bush Hager has risen to fame as a publishing kingmaker, and US lawmakers are steering more than $15 billion worth of pet projects back to their home states.</p>
+Hey there! There is a lot going on in the world right now. In Ukraine, President Zelensky is trying to prevent support for the war from becoming a partisan issue. In Russia, President Putin is acknowledging military failings and insisting that they will fight on. Meanwhile here in the U.S., we have just released documents that show President Donald Trump paid only $1.1 million in federal income taxes during his first three years as president and paid no taxes in 2020. It&#39;s also looking like there might be a dangerous winter storm heading our way later this week - lots of snow, strong winds, and potentially life-threatening temperatures. Finally, lawmakers are steering more than $15 billion in pet projects back home and the Jan 6 attacks are being looked into again, with witnesses saying they plead the fifth - which can make it hard for authorities to investigate what happened.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky’s Message: Ukraine Is Fighting for Good Over Evil</h3>
@@ -122,16 +122,16 @@ Right now, there is a lot going on in the world. In Ukraine, President Zelensky 
 <p>After weeks of talks, Benjamin Netanyahu said he had formed a new governing coalition. Once ratified by Parliament, the deal will return him to power at the head of a hard-right alliance.  <a href="https://nyti.ms/3jqNZ9q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Jenna Bush Hager, Progeny of Presidents, Is Now a Publishing Kingmaker</h3>
-<sub>By Matt Flegenheimer</sub>
-<p>The former first daughter is famous in her own right. Her TV book club is one of the few reliable paths to the best-seller list in a precarious industry.  <a href="https://nyti.ms/3hGkX4U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Lawmakers Steer Home More Than $15 Billion in Pet Projects</h3>
 <sub>By Stephanie Lai</sub>
 <p>The $1.7 trillion spending bill moving through Congress contains more than 7,200 earmarks for projects in lawmakers’ home states and districts.  <a href="https://nyti.ms/3jkvzqE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Common Answer to Jan. 6 Panel Questions: The Fifth</h3>
+<sub>By Luke Broadwater, Maggie Haberman and Alan Feuer</sub>
+<p>Transcripts released by the House Jan. 6 committee showed nearly two dozen witnesses invoking their right against self-incrimination, underscoring the hurdles to the investigation.  <a href="https://nyti.ms/3PPg2LB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
