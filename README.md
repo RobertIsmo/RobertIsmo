@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 22, Central Standard Time</p>
 <p>
-Hey there! There is a lot going on in the world right now. In Ukraine, President Zelensky is trying to prevent support for the war from becoming a partisan issue. In Russia, President Putin is acknowledging military failings and insisting that they will fight on. Meanwhile here in the U.S., we have just released documents that show President Donald Trump paid only $1.1 million in federal income taxes during his first three years as president and paid no taxes in 2020. It&#39;s also looking like there might be a dangerous winter storm heading our way later this week - lots of snow, strong winds, and potentially life-threatening temperatures. Finally, lawmakers are steering more than $15 billion in pet projects back home and the Jan 6 attacks are being looked into again, with witnesses saying they plead the fifth - which can make it hard for authorities to investigate what happened.</p>
+There&#39;s a lot going on in the world right now. Currently in the US, there is political tension as Congress is investigating what happened during the Jan 6th riots and many witnesses are pleading the fifth. At the same time, President Donald Trump&#39;s tax returns were released to the public showing some questionable practices. Meanwhile, President Volodymyr Zelensky of Ukraine is pushing for military assistance from the US against Russia, and winter storms are expected to wreak havoc across many parts of the country this week. In Israel, Benjamin Netanyahu struck a coalition deal that will keep him in power at the head of a hard-right alliance. Finally, two executives from a tech company owned by Sam Bankman-Fried have pleaded guilty to fraud in a federal criminal case.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky’s Message: Ukraine Is Fighting for Good Over Evil</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>One of the Ukrainian leader’s overriding aims is to prevent support for the war from becoming a partisan issue.  <a href="https://nyti.ms/3YHNwQ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Aid Is ‘Not Charity,’ Zelensky Tells Congress as a Lengthy War Looms</h3>
+<sub>By Michael D. Shear and Zolan Kanno-Youngs</sub>
+<p>President Volodymyr Zelensky described military assistance for Ukraine as an investment in global security and democracy in the face of Russian aggression.  <a href="https://nyti.ms/3v7Hdro"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
