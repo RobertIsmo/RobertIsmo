@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 22, Central Standard Time</p>
 <p>
-There are a lot of interesting things happening in the world right now. For example, there&#39;s an investigation into a group of Russian military soldiers who have allegedly killed dozens of people in Ukraine. In the US, there have been developments in the issue of immigration policy and spending packages, as President Zelensky has visited Washington and made a important speech. Over in London, people can enjoy all kinds of flavors during a weekend visit. Finally, there&#39;s an ongoing discussion about accountabilty and justice surrounding the events of January 6th.</p>
+There&#39;s a lot going on in the world right now. In the US, there are reports of funding woes for the IRS, and the possibility for many areas to have white Christmases this year. At the same time, investigators have been able to pinpoint a Russian military unit behind a serious atrocity in Ukraine, and Ukraine&#39;s president made a pitch for support in Washington. On the European front, one snack shop is still managing to serve people despite ongoing shelling in a city located in a key battleground of the war. Back at home, a disgraced cryptocurrency executive has been released on bail and SEC Chair Gary Gensler has said existing rules surrounding cryptocurrency are adequate but warned companies to stay compliant. Politically, the US Senate has managed to pass a $1.7 trillion spending bill amidst worries of an impending government shutdown, while members of Congress recently updated the Electoral Count Act after recognizing it could be abused during presidential elections. Additionally, not too far from us here in New York, an intriguing mystery has arisen involving an area doctor who disappeared mysteriously from his boat.</p>
 <ol>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>How Much Snow Will Fall Where You Live?</h3>
-<sub>By Aatish Bhatia, Josh Katz, Margot Sanger-Katz and Samuel Jacoby</sub>
-<p>Type in your community to see the full range of possibilities in the next few days.  <a href="https://nyti.ms/3hdEfL2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Audit Shows Depths of I.R.S. Funding Woes</h3>
+<sub>By Alan Rappeport</sub>
+<p>The agency lacks the resources to go after rich taxpayers. For years, a single revenue agent was responsible for the audits of Donald J. Trump.  <a href="https://nyti.ms/3jekAPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Will You Have a White Christmas This Year?</h3>
+<sub>By Judson Jones, Zach Levitt, Bea Malsky and John-Michael Murphy</sub>
+<p>A significant winter storm sweeping much of the nation means that snow is in the holiday forecast in many areas that don’t normally see a single flake.  <a href="https://nyti.ms/3Ve4jqZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-video-blue" alt="">
 <h3>Caught on Camera, Traced by Phone: The Russian Military Unit That Killed Dozens in Bucha</h3>
@@ -89,7 +95,7 @@ There are a lot of interesting things happening in the world right now. For exam
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>The Olive Green Sweatshirt Goes to Congress</h3>
 <sub>By Vanessa Friedman</sub>
-<p>Volodymyr Zelensky came to Washington wearing his reality on his sleeves.  <a href="https://nyti.ms/3HVPGWp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Volodymyr Zelensky of Ukraine came to Washington wearing his reality on his sleeves.  <a href="https://nyti.ms/3HVPGWp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -98,40 +104,34 @@ There are a lot of interesting things happening in the world right now. For exam
 <p>Dozens of doctors said the nonprofit hospital pressured them to give preferential treatment to donors, trustees and their families.  <a href="https://nyti.ms/3vbMQFi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Sam Bankman-Fried Released on $250 Million Bond With Restrictions</h3>
+<sub>By Benjamin Weiser, Matthew Goldstein and David Yaffe-Bellany</sub>
+<p>The disgraced cryptocurrency executive appeared in court in Manhattan after his extradition from the Bahamas last night. He was granted bail and will live with his parents in California.  <a href="https://nyti.ms/3HWvy6x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Even After FTX, S.E.C. Chair Sees No Need for New Crypto Laws</h3>
+<sub>By Ephrat Livni and Matthew Goldstein</sub>
+<p>The Securities and Exchange Commission chair, Gary Gensler, said existing rules were adequate but warned crypto issuers and exchanges on compliance.  <a href="https://nyti.ms/3BWyTPe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Moves to Pass Spending Package After Immigration Dispute Initially Delayed Votes</h3>
+<h3>Senate Passes $1.7 Trillion Spending Bill Ahead of Friday Deadline</h3>
 <sub>By Emily Cochrane</sub>
-<p>An effort to force a vote to maintain Title 42, a pandemic-era border policy, had stalled the scramble to pass the spending package before a midnight Friday deadline.  <a href="https://nyti.ms/3WiJhch"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The bill now heads to the House for a vote as lawmakers race to prevent a government shutdown.  <a href="https://nyti.ms/3WiJhch"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a Bipartisan Senate Group Addressed a Flaw Exposed by Jan. 6</h3>
+<sub>By Carl Hulse</sub>
+<p>Democrats and Republicans managed to come together to update the archaic Electoral Count Act after they recognized it could again be abused to subvert the presidential vote.  <a href="https://nyti.ms/3jmnwcT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Mysterious Case of the Doctor Who Disappeared at Sea</h3>
 <sub>By Michael Wilson</sub>
 <p>Dr. Marvin Moy was facing federal prosecution and a bitter divorce, and his life had been in limbo for months. Some immediately wondered if what looked like a boat crash was actually something else.  <a href="https://nyti.ms/3Wjp8CW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud</h3>
-<sub>By David Yaffe-Bellany, Matthew Goldstein and Benjamin Weiser</sub>
-<p>Caroline Ellison, the former chief executive of Alameda Research, and Gary Wang, a founder of FTX, are cooperating in the federal criminal case against Mr. Bankman-Fried.  <a href="https://nyti.ms/3vcLp9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>I.R.S. Routinely Audited Obama and Biden, Raising Questions Over Delays for Trump</h3>
-<sub>By Charlie Savage and Alan Rappeport</sub>
-<p>The revelation that the agency had not audited Donald J. Trump during his first two years in office despite a mandatory presidential audit program raised concerns about potential politicization.  <a href="https://nyti.ms/3VcgdSd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>36 Hours in London</h3>
-<sub>By Desiree Ibekwe</sub>
-<p>Up for a flavorful London weekend? Stuff yourself royally with a “full English” and a Sunday roast, journey into the literary heart of the city and stroll along the Queen’s Walk.  <a href="https://nyti.ms/3vaQEXi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The Last Lesson of the Jan. 6 Committee</h3>
-<sub>By The Editorial Board</sub>
-<p>Accountability is up to the Justice Department and American voters.  <a href="https://nyti.ms/3HVbK3i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
