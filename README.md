@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 22, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. Currently in the US, there is political tension as Congress is investigating what happened during the Jan 6th riots and many witnesses are pleading the fifth. At the same time, President Donald Trump&#39;s tax returns were released to the public showing some questionable practices. Meanwhile, President Volodymyr Zelensky of Ukraine is pushing for military assistance from the US against Russia, and winter storms are expected to wreak havoc across many parts of the country this week. In Israel, Benjamin Netanyahu struck a coalition deal that will keep him in power at the head of a hard-right alliance. Finally, two executives from a tech company owned by Sam Bankman-Fried have pleaded guilty to fraud in a federal criminal case.</p>
+It looks like things are a bit hectic in the news lately. In the US, President Zelensky gave a speech to Congress about how American aid is an investment in global security and democracy, potentially because of the looming war with Russia. We&#39;ve also got some crazy weather about to cross over the country; it&#39;s expected to bring heavy snow and cold temperatures. On the political front, Donald Trump hasn&#39;t been audited by the IRS during his first two years as president, which raises flags of potential politicization. On top of all that, there&#39;s this &quot;Tripledemic&quot; happening where RSV has likely peaked but flu and COVID-19 cases are still increasing. On the other side of the world, Chinese censors aren&#39;t sure what to do since their official propaganda is being thrown off by the end of &quot;zero Covid&quot;. Finally, doctors have accused NYU&#39;s ER of prioritizing donors, trustees, and their families over other patients. It&#39;s wild right now!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Zelensky, a Celebration of Resilience and a Sales Pitch for Support</h3>
+<sub>By David E. Sanger</sub>
+<p>For all the talk of victory, President Volodymyr Zelensky’s remarks in Washington revealed hints about his worries for the year ahead.  <a href="https://nyti.ms/3vgxwHb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Aid Is ‘Not Charity,’ Zelensky Tells Congress as a Lengthy War Looms</h3>
 <sub>By Michael D. Shear and Zolan Kanno-Youngs</sub>
@@ -69,16 +75,34 @@ There&#39;s a lot going on in the world right now. Currently in the US, there is
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Ukraine Prepares for a Second Year at War, the Prospect of a Stalemate Looms</h3>
-<sub>By Julian E. Barnes, Helene Cooper and Eric Schmitt</sub>
-<p>American officials believe that with Russia bolstering defenses and learning lessons, Ukraine will find it more challenging to retake land.  <a href="https://nyti.ms/3VeDhA0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Full Transcript of Zelensky’s Speech Before Congress</h3>
+<sub>By Aishvarya Kavi</sub>
+<p>The Ukrainian president delivered an emotional appeal for further American support, vowing that his country would prevail in its war with Russia.  <a href="https://nyti.ms/3WiOtwy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Concedes Military Failings, but Insists Russia Will Fight On</h3>
-<sub>By Anton Troianovski</sub>
-<p>Nodding to criticism that his army lacked the basic necessities to wage war, the Russian leader said his government was providing “everything that the army asks for.’’  <a href="https://nyti.ms/3FOiOfG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud</h3>
+<sub>By David Yaffe-Bellany, Matthew Goldstein and Benjamin Weiser</sub>
+<p>Caroline Ellison, the former chief executive of Alameda Research, and Gary Wang, a founder of FTX, are cooperating in the federal criminal case against Mr. Bankman-Fried.  <a href="https://nyti.ms/3vcLp9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fierce Storm and Bone-Chilling Cold Will Sweep Central and Eastern U.S.</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>A ghastly weather system will tear across the country this week, bringing freezing temperatures, snow, rain and wind. Here’s how it might affect your region.  <a href="https://nyti.ms/3FKZ7Fv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Winter Storm Forecasts Grow Ominous, Millions Brace for the Worst</h3>
+<sub>By Rick Rojas, Eliza Fawcett, Campbell Robertson and Judson Jones</sub>
+<p>Much of the country faces dangerous conditions, including heavy snow, strong winds and steep temperature drops. In Buffalo, meteorologists warned of a “once-in-a-generation storm.”  <a href="https://nyti.ms/3Vg11DG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>What Is the Polar Vortex? And Other Cold-Weather Climate Questions</h3>
+<sub>By Henry Fountain</sub>
+<p>As much of the United States plunges into a deep freeze, scientists continue to debate how rapid Arctic warming is playing a role.  <a href="https://nyti.ms/3Wk4jr1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>I.R.S. Routinely Audited Obama and Biden, Raising Questions Over Delays for Trump</h3>
@@ -92,47 +116,23 @@ There&#39;s a lot going on in the world right now. Currently in the US, there is
 <p>The presidency of Donald J. Trump, a congressional report reveals, was marked by some of the same questionable tax maneuvers that had characterized his business career.  <a href="https://nyti.ms/3GaFSXn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Are the Key Numbers From Trump’s Tax Returns</h3>
-<sub>By Charlie Smart</sub>
-<p>Donald J. Trump paid $1.1 million in federal income taxes in his first three years as president, and paid no taxes in 2020 as his income began to dwindle.  <a href="https://nyti.ms/3FOekW7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>‘Tripledemic’ Rages On: Fever-Filled Weeks Lie Ahead</h3>
+<sub>By Emily Anthes</sub>
+<p>R.S.V. has probably peaked, but flu is still surging and Covid-19 cases are rising. Scientists are hopeful next winter will be better.  <a href="https://nyti.ms/3WuLdhG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Winter Storm Forecasts Grow Ominous, Millions Brace for the Worst</h3>
-<sub>By Rick Rojas, Eliza Fawcett, Campbell Robertson and Judson Jones</sub>
-<p>Much of the country faces dangerous conditions, including heavy snow, strong winds and steep temperature drops. In Buffalo, meteorologists warned of a “once-in-a-generation storm.”  <a href="https://nyti.ms/3Vg11DG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Without a Covid Narrative, China’s Censors Are Not Sure What to Do</h3>
+<sub>By John Liu and Paul Mozur</sub>
+<p>The end of “zero Covid” has undermined years of official propaganda, and the vast censorship system is struggling to catch up.  <a href="https://nyti.ms/3hI2XHm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>What to Know if the Winter Storm Wreaks Havoc on Your Holiday Travel</h3>
-<sub>By Maria Cramer</sub>
-<p>Forecasters say a “bomb cyclone” will tear through much of the U.S. this week and that travelers could face cold, snow and rain. What can you do if your plans are disrupted?  <a href="https://nyti.ms/3Wycn7d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud</h3>
-<sub>By David Yaffe-Bellany, Matthew Goldstein and Benjamin Weiser</sub>
-<p>Caroline Ellison, the former chief executive of Alameda Research, and Gary Wang, a founder of FTX, are cooperating in the federal criminal case against Mr. Bankman-Fried.  <a href="https://nyti.ms/3vcLp9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Coalition Deal Puts Netanyahu on Brink of Power in Israel</h3>
-<sub>By Patrick Kingsley</sub>
-<p>After weeks of talks, Benjamin Netanyahu said he had formed a new governing coalition. Once ratified by Parliament, the deal will return him to power at the head of a hard-right alliance.  <a href="https://nyti.ms/3jqNZ9q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lawmakers Steer Home More Than $15 Billion in Pet Projects</h3>
-<sub>By Stephanie Lai</sub>
-<p>The $1.7 trillion spending bill moving through Congress contains more than 7,200 earmarks for projects in lawmakers’ home states and districts.  <a href="https://nyti.ms/3jkvzqE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Common Answer to Jan. 6 Panel Questions: The Fifth</h3>
-<sub>By Luke Broadwater, Maggie Haberman and Alan Feuer</sub>
-<p>Transcripts released by the House Jan. 6 committee showed nearly two dozen witnesses invoking their right against self-incrimination, underscoring the hurdles to the investigation.  <a href="https://nyti.ms/3PPg2LB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>‘Major Trustee, Please Prioritize’: How NYU’s E.R. Favors the Rich</h3>
+<sub>By Sarah Kliff and Jessica Silver-Greenberg</sub>
+<p>Dozens of doctors said the nonprofit hospital pressured them to give preferential treatment to donors, trustees and their families.  <a href="https://nyti.ms/3vbMQFi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
