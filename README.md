@@ -60,16 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 21, Central Standard Time</p>
 <p>
-Right now, there are a lot of issues in the news that are impacting people around the world. In Ukraine, it&#39;s the second year of war between Russia and Ukraine and prospects of a stalemate are looming. Putin has admitted weakness in his country while committing to no limits in war spending. The United States has sent its most advanced ground-based missile defense system to Ukraine as tensions continue to rise. 
-
-Meanwhile, back in the US, we are learning more about Donald Trump&#39;s tax returns after the IRS delayed auditing him while he was in office. It turns out he paid $1.1 million in federal income taxes in his first three years but paid nothing in 2020 as his income dropped. He also refused to disclose his taxes which led to an oversight battle from Democratic lawmakers since 2019. 
-
-And weathered related news, much of the US is getting hit by a once-in-a-generation winter storm with strong winds, heavy snowfall and temperature drops. Travelers are being warned that their plans may be disrupted due to snow and rain. 
-
-Additionally, there have been some interesting developments for small businesses with popular platforms such as Venmo and CashApp. There are new rules that require some users to report small transactions which is raising fear among small business owners. 
-
-Finally, growing number of Covid deaths is causing people over 65 to skip vaccines boosters even though they had their initial vaccine shots. Unfortunately, the government isn&#39;t providing much support for these new shots.</p>
+It&#39;s been quite a busy few weeks with news around the world. In Ukraine, President Zelensky is trying to ensure that the nation&#39;s fight against Russia doesn&#39;t become a partisan issue. Russia and its leader, Putin, are still pushing ahead with their efforts even as they admit to some challenges. Meanwhile, in the US, questions have been raised about why Donald Trump has yet to be audited by the IRS despite a mandatory presidential audit program. We also learned that Trump&#39;s history of questionable tax maneuvers continued through his presidency and he was unable to pay any income taxes in 2020. Elsewhere, millions of people in the US are bracing themselves as forecasters predict a &quot;once-in-a-generation&quot; snow storm this week. In Israel, Benjamin Netanyahu has secured a governing coalition that if approved by Parliament, will return him back to power. And lastly, Jenna Bush Hager has been making waves in the publishing industry and some people have been anxiously waiting for the end of pandemic-era travel restrictions at the US border. On a sad note, Steeler Franco Harris passed away at 72 days before the 50th anniversary of what is likely one of the most memorable plays in NFL history: his famous &quot;Immaculate Reception&quot;.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky’s Message: Ukraine Is Fighting for Good Over Evil</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>One of the Ukrainian leader’s overriding aims is to prevent support for the war from becoming a partisan issue.  <a href="https://nyti.ms/3YHNwQ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Ukraine Readies for a Second Year at War, Prospect of Stalemate Looms</h3>
 <sub>By Julian E. Barnes, Helene Cooper and Eric Schmitt</sub>
@@ -77,22 +75,22 @@ Finally, growing number of Covid deaths is causing people over 65 to skip vaccin
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin admits shortcomings but vows ‘no limits’ to Russia’s war spending.</h3>
+<h3>Putin Concedes Military Failings, but Insists Russia Will Fight On</h3>
 <sub>By Anton Troianovski</sub>
-<p>The Russian leader’s speech to defense officials was his latest effort to show he has no intention of giving up in the war on Ukraine.  <a href="https://nyti.ms/3WiiY5O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Nodding to criticism that his army lacked the basic necessities to wage war, the Russian leader said his government was providing “everything that the army asks for.’’  <a href="https://nyti.ms/3FOiOfG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Are Patriot Missiles, and Why Does Ukraine Want Them?</h3>
-<sub>By Helene Cooper</sub>
-<p>The United States is sending its most advanced ground-based missile defense system to Ukraine, as Russia continues to pummel the country with airstrikes.  <a href="https://nyti.ms/3Gd4qz3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>I.R.S. Routinely Audited Obama and Biden, Raising Questions Over Delays for Trump</h3>
+<sub>By Charlie Savage and Alan Rappeport</sub>
+<p>The revelation that the agency had not audited Donald J. Trump during his first two years in office despite a mandatory presidential audit program raised concerns about potential politicization.  <a href="https://nyti.ms/3VcgdSd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Despite Mandate, I.R.S. Delayed Auditing Trump in Office, House Panel Finds</h3>
-<sub>By Charlie Savage, Emily Cochrane, Stephanie Lai and Alan Rappeport</sub>
-<p>Mr. Trump refused to disclose his taxes. A committee’s vote to release them ended an oversight battle Democratic lawmakers waged since 2019.  <a href="https://nyti.ms/3WwWtKm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 20, Central Standard Time</sub></sub>
+<h3>Trump’s Taxes: Red Flags, Big Losses and a Windfall From His Father</h3>
+<sub>By Russ Buettner, Susanne Craig and Mike McIntire</sub>
+<p>The presidency of Donald J. Trump, a congressional report reveals, was marked by some of the same questionable tax maneuvers that had characterized his business career.  <a href="https://nyti.ms/3GaFSXn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Here Are the Key Numbers From Trump’s Tax Returns</h3>
@@ -101,7 +99,7 @@ Finally, growing number of Covid deaths is causing people over 65 to skip vaccin
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Forecasts Grow Ominous, Winter Storm Forces Millions to Brace for the Worst</h3>
+<h3>As Winter Storm Forecasts Grow Ominous, Millions Brace for the Worst</h3>
 <sub>By Rick Rojas, Eliza Fawcett, Campbell Robertson and Judson Jones</sub>
 <p>Much of the country faces dangerous conditions, including heavy snow, strong winds and steep temperature drops. In Buffalo, meteorologists warned of a “once-in-a-generation storm.”  <a href="https://nyti.ms/3Vg11DG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
@@ -112,34 +110,28 @@ Finally, growing number of Covid deaths is causing people over 65 to skip vaccin
 <p>Forecasters say a “bomb cyclone” will tear through much of the U.S. this week and that travelers could face cold, snow and rain. What can you do if your plans are disrupted?  <a href="https://nyti.ms/3Wycn7d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Coalition Deal Puts Netanyahu on Brink of Power in Israel</h3>
+<sub>By Patrick Kingsley</sub>
+<p>After weeks of talks, Benjamin Netanyahu said he had formed a new governing coalition. Once ratified by Parliament, the deal will return him to power at the head of a hard-right alliance.  <a href="https://nyti.ms/3jqNZ9q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Jenna Bush Hager Is Making a List. Authors Are Obsessed With It.</h3>
+<h3>Jenna Bush Hager, Progeny of Presidents, Is Now a Publishing Kingmaker</h3>
 <sub>By Matt Flegenheimer</sub>
-<p>The daughter and granddaughter of presidents is now famous in her own right. Her TV book club is one of the few reliable paths to the best-seller list in a precarious industry.  <a href="https://nyti.ms/3hGkX4U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The former first daughter is famous in her own right. Her TV book club is one of the few reliable paths to the best-seller list in a precarious industry.  <a href="https://nyti.ms/3hGkX4U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Along the Border, Waiting Anxiously for the End of a Pandemic-Era Rule</h3>
+<sub>By J. David Goodman and Edgar Sandoval</sub>
+<p>A tense limbo pervaded both sides of the border on Wednesday as people waited for the end of a policy that has restricted immigration during the pandemic.  <a href="https://nyti.ms/3jr85jS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Franco Harris, N.F.L. Hall of Famer Who Caught ‘Immaculate Reception,’ Dies at 72</h3>
-<sub>By Daniel Victor</sub>
-<p>The former Pittsburgh Steelers running back died days before the 50th anniversary of one of the most memorable plays in N.F.L. history.  <a href="https://nyti.ms/3PL11dQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Elon Musk’s Distraction Is Just One of Tesla’s Problems</h3>
-<sub>By Jack Ewing, Daisuke Wakabayashi and Melissa Eddy</sub>
-<p>The maker of electric cars faces sharp competition, plummeting shares and production woes while its chief executive is preoccupied with Twitter.  <a href="https://nyti.ms/3VhpYyK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How New IRS Rules Could Affect Venmo, Etsy and CashApp Users</h3>
-<sub>By Alan Rappeport</sub>
-<p>Some users of digital wallets and e-commerce platforms must start reporting small transactions, sowing fears among small-business owners.  <a href="https://nyti.ms/3BPw1Uo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>As Covid Deaths Climb, Even Seniors Skip the Latest Booster</h3>
-<sub>By Emily Baumgaertner</sub>
-<p>Nearly all Americans over 65 got their initial Covid vaccines. But that immunity is waning, and this time, the government is offering far less support for new shots.  <a href="https://nyti.ms/3BRxCc4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Franco Harris, Steeler Who Caught ‘Immaculate Reception,’ Dies at 72</h3>
+<sub>By Richard Sandomir and Daniel Victor</sub>
+<p>A Hall of Fame running back, he died days before the 50th anniversary of one of the most memorable plays in N.F.L. history.  <a href="https://nyti.ms/3PL11dQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
