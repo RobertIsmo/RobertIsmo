@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 22, Central Standard Time</p>
 <p>
-It looks like things are a bit hectic in the news lately. In the US, President Zelensky gave a speech to Congress about how American aid is an investment in global security and democracy, potentially because of the looming war with Russia. We&#39;ve also got some crazy weather about to cross over the country; it&#39;s expected to bring heavy snow and cold temperatures. On the political front, Donald Trump hasn&#39;t been audited by the IRS during his first two years as president, which raises flags of potential politicization. On top of all that, there&#39;s this &quot;Tripledemic&quot; happening where RSV has likely peaked but flu and COVID-19 cases are still increasing. On the other side of the world, Chinese censors aren&#39;t sure what to do since their official propaganda is being thrown off by the end of &quot;zero Covid&quot;. Finally, doctors have accused NYU&#39;s ER of prioritizing donors, trustees, and their families over other patients. It&#39;s wild right now!</p>
+Right now, a lot is going on in the world. Ukraine&#39;s president Volodymyr Zelensky recently celebrated his country&#39;s resilience and pitched for additional global support. In America, the Senate is trying to pass a spending package before the end of the week and address an immigration dispute. Meanwhile, some tech executives have plead guilty to fraud charges against another executive named Sam Bankman-Fried. And in terms of climate change, many parts of the U.S. are facing extreme winter weather and scientists have debated how rapid Arctic warming is playing a role. Plus, China is struggling with its censorship system due to a lack of Covid-related news stories.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Zelensky, a Celebration of Resilience and a Sales Pitch for Support</h3>
@@ -74,11 +74,17 @@ It looks like things are a bit hectic in the news lately. In the US, President Z
 <p>President Volodymyr Zelensky described military assistance for Ukraine as an investment in global security and democracy in the face of Russian aggression.  <a href="https://nyti.ms/3v7Hdro"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Frontline City’s Final Food Stand Finds a Way to Keep the Pizza Coming</h3>
+<sub>By Thomas Gibbons-Neff, Natalia Yermak and Tyler Hicks</sub>
+<p>Despite all the shelling, and with no electricity, one snack shop is still serving the soldiers and citizens who have stayed in Bakhmut, Ukraine, a pivotal battleground in the war.  <a href="https://nyti.ms/3jojnVZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Full Transcript of Zelensky’s Speech Before Congress</h3>
-<sub>By Aishvarya Kavi</sub>
-<p>The Ukrainian president delivered an emotional appeal for further American support, vowing that his country would prevail in its war with Russia.  <a href="https://nyti.ms/3WiOtwy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<h3>Senate Moves to Pass Spending Package After Immigration Dispute Delays Votes</h3>
+<sub>By Emily Cochrane</sub>
+<p>An effort to force a vote to maintain Title 42, a pandemic-era border policy, had stalled the scramble to pass the spending package before a midnight Friday deadline.  <a href="https://nyti.ms/3WiJhch"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud</h3>
@@ -86,22 +92,22 @@ It looks like things are a bit hectic in the news lately. In the US, President Z
 <p>Caroline Ellison, the former chief executive of Alameda Research, and Gary Wang, a founder of FTX, are cooperating in the federal criminal case against Mr. Bankman-Fried.  <a href="https://nyti.ms/3vcLp9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fierce Storm and Bone-Chilling Cold Will Sweep Central and Eastern U.S.</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>A ghastly weather system will tear across the country this week, bringing freezing temperatures, snow, rain and wind. Here’s how it might affect your region.  <a href="https://nyti.ms/3FKZ7Fv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Sam Bankman-Fried, FTX’s Co-Founder, Is Increasingly Alone</h3>
+<sub>By Andrew Ross Sorkin, Bernhard Warner, Michael J. de la Merced and Lauren Hirsch</sub>
+<p>Decisions by two senior associates to cooperate with government prosecutors raise the legal heat on the fallen crypto mogul.  <a href="https://nyti.ms/3hOeGnR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Winter Storm Forecasts Grow Ominous, Millions Brace for the Worst</h3>
-<sub>By Rick Rojas, Eliza Fawcett, Campbell Robertson and Judson Jones</sub>
-<p>Much of the country faces dangerous conditions, including heavy snow, strong winds and steep temperature drops. In Buffalo, meteorologists warned of a “once-in-a-generation storm.”  <a href="https://nyti.ms/3Vg11DG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>What Is the Polar Vortex? And Other Cold-Weather Climate Questions</h3>
 <sub>By Henry Fountain</sub>
 <p>As much of the United States plunges into a deep freeze, scientists continue to debate how rapid Arctic warming is playing a role.  <a href="https://nyti.ms/3Wk4jr1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How to Prepare Your House for the Extreme Holiday Weather</h3>
+<sub>By Jenny Gross</sub>
+<p>This may be one of the coldest Christmases for parts of the United States in recent years. Follow these steps to stay warm and to keep your energy bills down.  <a href="https://nyti.ms/3Wi0iDv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ It looks like things are a bit hectic in the news lately. In the US, President Z
 <h3>Without a Covid Narrative, China’s Censors Are Not Sure What to Do</h3>
 <sub>By John Liu and Paul Mozur</sub>
 <p>The end of “zero Covid” has undermined years of official propaganda, and the vast censorship system is struggling to catch up.  <a href="https://nyti.ms/3hI2XHm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>‘Major Trustee, Please Prioritize’: How NYU’s E.R. Favors the Rich</h3>
-<sub>By Sarah Kliff and Jessica Silver-Greenberg</sub>
-<p>Dozens of doctors said the nonprofit hospital pressured them to give preferential treatment to donors, trustees and their families.  <a href="https://nyti.ms/3vbMQFi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
