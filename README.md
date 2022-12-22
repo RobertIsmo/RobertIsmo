@@ -60,19 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 22, Central Standard Time</p>
 <p>
-Right now, a lot is going on in the world. Ukraine&#39;s president Volodymyr Zelensky recently celebrated his country&#39;s resilience and pitched for additional global support. In America, the Senate is trying to pass a spending package before the end of the week and address an immigration dispute. Meanwhile, some tech executives have plead guilty to fraud charges against another executive named Sam Bankman-Fried. And in terms of climate change, many parts of the U.S. are facing extreme winter weather and scientists have debated how rapid Arctic warming is playing a role. Plus, China is struggling with its censorship system due to a lack of Covid-related news stories.</p>
+There are a lot of interesting things happening in the world right now. For example, there&#39;s an investigation into a group of Russian military soldiers who have allegedly killed dozens of people in Ukraine. In the US, there have been developments in the issue of immigration policy and spending packages, as President Zelensky has visited Washington and made a important speech. Over in London, people can enjoy all kinds of flavors during a weekend visit. Finally, there&#39;s an ongoing discussion about accountabilty and justice surrounding the events of January 6th.</p>
 <ol>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>How Much Snow Will Fall Where You Live?</h3>
+<sub>By Aatish Bhatia, Josh Katz, Margot Sanger-Katz and Samuel Jacoby</sub>
+<p>Type in your community to see the full range of possibilities in the next few days.  <a href="https://nyti.ms/3hdEfL2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-video-blue" alt="">
+<h3>Caught on Camera, Traced by Phone: The Russian Military Unit That Killed Dozens in Bucha</h3>
+<sub></sub>
+<p>Exclusive evidence obtained in a monthslong investigation identifies the Russian regiment — and commander — behind one of the worst atrocities in Ukraine.  <a href="https://nyti.ms/3VjfdMm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Zelensky, a Celebration of Resilience and a Sales Pitch for Support</h3>
 <sub>By David E. Sanger</sub>
 <p>For all the talk of victory, President Volodymyr Zelensky’s remarks in Washington revealed hints about his worries for the year ahead.  <a href="https://nyti.ms/3vgxwHb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Aid Is ‘Not Charity,’ Zelensky Tells Congress as a Lengthy War Looms</h3>
-<sub>By Michael D. Shear and Zolan Kanno-Youngs</sub>
-<p>President Volodymyr Zelensky described military assistance for Ukraine as an investment in global security and democracy in the face of Russian aggression.  <a href="https://nyti.ms/3v7Hdro"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Frontline City’s Final Food Stand Finds a Way to Keep the Pizza Coming</h3>
@@ -80,10 +86,28 @@ Right now, a lot is going on in the world. Ukraine&#39;s president Volodymyr Zel
 <p>Despite all the shelling, and with no electricity, one snack shop is still serving the soldiers and citizens who have stayed in Bakhmut, Ukraine, a pivotal battleground in the war.  <a href="https://nyti.ms/3jojnVZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Olive Green Sweatshirt Goes to Congress</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Volodymyr Zelensky came to Washington wearing his reality on his sleeves.  <a href="https://nyti.ms/3HVPGWp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>‘Major Trustee, Please Prioritize’: How NYU’s E.R. Favors the Rich</h3>
+<sub>By Sarah Kliff and Jessica Silver-Greenberg</sub>
+<p>Dozens of doctors said the nonprofit hospital pressured them to give preferential treatment to donors, trustees and their families.  <a href="https://nyti.ms/3vbMQFi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Moves to Pass Spending Package After Immigration Dispute Delays Votes</h3>
+<h3>Senate Moves to Pass Spending Package After Immigration Dispute Initially Delayed Votes</h3>
 <sub>By Emily Cochrane</sub>
 <p>An effort to force a vote to maintain Title 42, a pandemic-era border policy, had stalled the scramble to pass the spending package before a midnight Friday deadline.  <a href="https://nyti.ms/3WiJhch"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Mysterious Case of the Doctor Who Disappeared at Sea</h3>
+<sub>By Michael Wilson</sub>
+<p>Dr. Marvin Moy was facing federal prosecution and a bitter divorce, and his life had been in limbo for months. Some immediately wondered if what looked like a boat crash was actually something else.  <a href="https://nyti.ms/3Wjp8CW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -92,46 +116,22 @@ Right now, a lot is going on in the world. Ukraine&#39;s president Volodymyr Zel
 <p>Caroline Ellison, the former chief executive of Alameda Research, and Gary Wang, a founder of FTX, are cooperating in the federal criminal case against Mr. Bankman-Fried.  <a href="https://nyti.ms/3vcLp9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Sam Bankman-Fried, FTX’s Co-Founder, Is Increasingly Alone</h3>
-<sub>By Andrew Ross Sorkin, Bernhard Warner, Michael J. de la Merced and Lauren Hirsch</sub>
-<p>Decisions by two senior associates to cooperate with government prosecutors raise the legal heat on the fallen crypto mogul.  <a href="https://nyti.ms/3hOeGnR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>What Is the Polar Vortex? And Other Cold-Weather Climate Questions</h3>
-<sub>By Henry Fountain</sub>
-<p>As much of the United States plunges into a deep freeze, scientists continue to debate how rapid Arctic warming is playing a role.  <a href="https://nyti.ms/3Wk4jr1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Prepare Your House for the Extreme Holiday Weather</h3>
-<sub>By Jenny Gross</sub>
-<p>This may be one of the coldest Christmases for parts of the United States in recent years. Follow these steps to stay warm and to keep your energy bills down.  <a href="https://nyti.ms/3Wi0iDv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>I.R.S. Routinely Audited Obama and Biden, Raising Questions Over Delays for Trump</h3>
 <sub>By Charlie Savage and Alan Rappeport</sub>
 <p>The revelation that the agency had not audited Donald J. Trump during his first two years in office despite a mandatory presidential audit program raised concerns about potential politicization.  <a href="https://nyti.ms/3VcgdSd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Taxes: Red Flags, Big Losses and a Windfall From His Father</h3>
-<sub>By Russ Buettner, Susanne Craig and Mike McIntire</sub>
-<p>The presidency of Donald J. Trump, a congressional report reveals, was marked by some of the same questionable tax maneuvers that had characterized his business career.  <a href="https://nyti.ms/3GaFSXn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>‘Tripledemic’ Rages On: Fever-Filled Weeks Lie Ahead</h3>
-<sub>By Emily Anthes</sub>
-<p>R.S.V. has probably peaked, but flu is still surging and Covid-19 cases are rising. Scientists are hopeful next winter will be better.  <a href="https://nyti.ms/3WuLdhG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>36 Hours in London</h3>
+<sub>By Desiree Ibekwe</sub>
+<p>Up for a flavorful London weekend? Stuff yourself royally with a “full English” and a Sunday roast, journey into the literary heart of the city and stroll along the Queen’s Walk.  <a href="https://nyti.ms/3vaQEXi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Without a Covid Narrative, China’s Censors Are Not Sure What to Do</h3>
-<sub>By John Liu and Paul Mozur</sub>
-<p>The end of “zero Covid” has undermined years of official propaganda, and the vast censorship system is struggling to catch up.  <a href="https://nyti.ms/3hI2XHm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The Last Lesson of the Jan. 6 Committee</h3>
+<sub>By The Editorial Board</sub>
+<p>Accountability is up to the Justice Department and American voters.  <a href="https://nyti.ms/3HVbK3i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
