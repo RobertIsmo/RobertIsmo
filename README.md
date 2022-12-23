@@ -60,10 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 23, Central Standard Time</p>
 <p>
-There have been a lot of challenges lately, especially with weather! We&#39;ve had extreme winter storms across the United States that have caused thousands of flight delays and cancellations, as well as disruptions to rail and road travel. On top of this, a &quot;bomb cyclone&quot; is currently causing much more powerful weather than usual. In politics, there has been some drama too - the Jan. 6 panel released a final report assigning blame for the Capitol riot to a single person. There&#39;s also been some curiosity about George Santos&#39; early life, since he was elected to office but has been facing scrutiny for potentially misrepresenting parts of his campaign biography.
-
-The Covid pandemic continues to be an issue too - China&#39;s low death toll figures are widely mistrusted, which means more and more people are having to consider testing before attending holiday festivities. As for retirement savings, BlackRock is pushing for more socially conscious investment opportunities, which is agitating all sides. Unfortunately, there were some notable deaths in 2022 as well - Queen Elizabeth II, Mikhail S. Gorbachev, Sidney Poitier, Bill Russell and many other famous people sadly passed away this year.</p>
+Things are chaotic right now! There&#39;s a spending package being cleared by the US House to avert a shutdown, but there&#39;s a winter storm disrupting flights nationwide and it&#39;s causing problems with transport. It&#39;s even creating &#39;bomb cyclones&#39;-- storms that are more powerful than most. It looks like former President Donald J Trump is being blamed for the Capitol Riot in Washington with the release of a final report. On top of that, there&#39;s a race amongst publishers to be the first to market with their editions of the Jan. 6 report. The F.D.A has released something new too; morning after pills are not abortion pills, apparently. Over in Ukraine, their weapons wish list remains unfulfilled after Zelensky&#39;s trip to Washington and there have been some revelations about the Representative-elect George Santos not representing his campaign biography accurately. Meanwhile, in China, Covid cases are exploding, but their death toll stats aren&#39;t convincing anyone! In light of all this chaos, people trying to celebrate during the holiday season have to take extra precautions and get tested before attending events. Retirement accounts are also undergoing some changes in terms of transferring money from 529 plans to Roth I.R.As etc... So yeah - it&#39;s just complete chaos out here!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Clears $1.7 Trillion Spending Package, Averting Shutdown</h3>
+<sub>By Emily Cochrane</sub>
+<p>The bill, which passed the Senate on Thursday, now heads to President Biden’s desk for his signature.  <a href="https://nyti.ms/3WXzto7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Winter Storm Disrupts Thousands of Flights on a Busy Holiday Travel Day</h3>
 <sub>By Shannon Sims</sub>
@@ -94,6 +98,12 @@ The Covid pandemic continues to be an issue too - China&#39;s low death toll fig
 <p>Publishers are releasing more than half a dozen editions of the report, and are now in a frantic race to be first to market.  <a href="https://nyti.ms/3BUdzdi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>The F.D.A. Now Says It Plainly: Morning-After Pills Are Not Abortion Pills</h3>
+<sub>By Pam Belluck</sub>
+<p>Labels of Plan B One-Step had previously said, without scientific evidence, that the pill might block fertilized eggs from implanting in the womb.  <a href="https://nyti.ms/3GdpfdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Zelensky’s Weapons Wish List Goes Mostly Unfulfilled on Trip to Washington</h3>
 <sub>By Eric Schmitt, Zolan Kanno-Youngs and Julian E. Barnes</sub>
@@ -122,18 +132,6 @@ The Covid pandemic continues to be an issue too - China&#39;s low death toll fig
 <h3>New Retirement Law Would Bring Twists to Roth I.R.A.s and 401(k)s</h3>
 <sub>By Ron Lieber</sub>
 <p>Want to transfer money from a 529 plan to a Roth I.R.A. or get an after-tax employee match in your Roth 401(k)? You may be in luck.  <a href="https://nyti.ms/3VmGBZP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>BlackRock’s Pitch for Socially Conscious Investing Antagonizes All Sides</h3>
-<sub>By Matthew Goldstein and Maureen Farrell</sub>
-<p>Right-wing officials are attacking BlackRock for overstepping. Those on the left say the world’s biggest asset manager is not doing enough.  <a href="https://nyti.ms/3WiWbXv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
-<h3>Notable Deaths of 2022</h3>
-<sub></sub>
-<p>Remembering Queen Elizabeth II, Mikhail S. Gorbachev, Sidney Poitier, Bill Russell, Loretta Lynn, Jiang Zemin, Madeleine Albright, Jean-Luc Godard, Shinzo Abe, Régine, Meat Loaf, Ivana Trump, Vin Scully and many others who died in 2022.  <a href="https://nyti.ms/3FOaxs5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
