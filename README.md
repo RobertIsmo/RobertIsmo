@@ -60,16 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 23, Central Standard Time</p>
 <p>
-There has been a lot of news recently about the fallout from the Capitol Riot earlier this year. A panel issued a final report that mostly blames Donald Trump for his &quot;multipart plan&quot; to overturn the 2020 election. This report and other congressional investigations have shed more light on what happened on the day of the riot. 
+There have been a lot of challenges lately, especially with weather! We&#39;ve had extreme winter storms across the United States that have caused thousands of flight delays and cancellations, as well as disruptions to rail and road travel. On top of this, a &quot;bomb cyclone&quot; is currently causing much more powerful weather than usual. In politics, there has been some drama too - the Jan. 6 panel released a final report assigning blame for the Capitol riot to a single person. There&#39;s also been some curiosity about George Santos&#39; early life, since he was elected to office but has been facing scrutiny for potentially misrepresenting parts of his campaign biography.
 
-At the same time, there&#39;s a big winter storm predicted in many parts of the US that could wreak havoc on people&#39;s holiday travel plans, so it&#39;s important to know what to do if your plans are disrupted.
-
-In international news, Ukraine President Zelensky&#39;s wish list for military equipment from the US has gone unfulfilled. 
-
-Also, people everywhere appear to be gearing up for their holiday celebrations despite the pandemic, and hosts are finding creative ways to make sure everyone stays safe at parties. 
-
-On the financial side of things, there&#39;s a new retirement law which could give people more options for Roth IRAs and 401ks plans. And BlackRock is under scrutiny for their involvement in socially conscious investing which is antagonizing both sides of the political spectrum.</p>
+The Covid pandemic continues to be an issue too - China&#39;s low death toll figures are widely mistrusted, which means more and more people are having to consider testing before attending holiday festivities. As for retirement savings, BlackRock is pushing for more socially conscious investment opportunities, which is agitating all sides. Unfortunately, there were some notable deaths in 2022 as well - Queen Elizabeth II, Mikhail S. Gorbachev, Sidney Poitier, Bill Russell and many other famous people sadly passed away this year.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Winter Storm Disrupts Thousands of Flights on a Busy Holiday Travel Day</h3>
+<sub>By Shannon Sims</sub>
+<p>Wind, ice and snow are snarling air travel across the United States, and playing havoc with rail and road travel as well.  <a href="https://nyti.ms/3FRiv3D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>What Is a ‘Bomb Cyclone’?</h3>
+<sub>By Henry Fountain</sub>
+<p>These storms aren’t tremendously rare, but this particular one is much more powerful than most.  <a href="https://nyti.ms/3FQ7Juy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jan. 6 Panel Issues Final Report, Placing Blame for Capitol Riot on ‘One Man’</h3>
 <sub>By Luke Broadwater and Maggie Haberman</sub>
@@ -82,23 +88,11 @@ On the financial side of things, there&#39;s a new retirement law which could gi
 <p>Power struggles, resignations and made-for-TV moments — the untold story of the most important congressional investigation in generations.  <a href="https://nyti.ms/3js2klW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Final Report From the Jan. 6 Committee</h3>
-<sub></sub>
-<p>The lengthy, eight-chapter document details former President Donald J. Trump’s efforts to overturn the 2020 election. Each chapter roughly mirrors the presentation of the committee’s investigative hearings this past year.  <a href="https://nyti.ms/3PLsADP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Witness Told Panel That Lawyer Tried to Influence Her Testimony</h3>
-<sub>By Luke Broadwater and Alan Feuer</sub>
-<p>Cassidy Hutchinson recounted to the House select committee how a lawyer with ties to former President Donald J. Trump said to her that she should “focus on protecting the president.”  <a href="https://nyti.ms/3VnjT3E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>What to Know if the Winter Storm Wreaks Havoc on Your Holiday Travel</h3>
-<sub>By Maria Cramer</sub>
-<p>Forecasters say a “bomb cyclone” will tear through much of the U.S. this week and that travelers could face cold, snow and rain. What can you do if your plans are disrupted?  <a href="https://nyti.ms/3Wycn7d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>The Most Sought After Manuscript in Publishing? The Jan. 6 Report.</h3>
+<sub>By Alexandra Alter and Elizabeth A. Harris</sub>
+<p>Publishers are releasing more than half a dozen editions of the report, and are now in a frantic race to be first to market.  <a href="https://nyti.ms/3BUdzdi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Zelensky’s Weapons Wish List Goes Mostly Unfulfilled on Trip to Washington</h3>
@@ -110,12 +104,6 @@ On the financial side of things, there&#39;s a new retirement law which could gi
 <h3>George Santos’s Early Life: Odd Jobs, Bad Debts and Lawsuits</h3>
 <sub>By Michael Gold, Grace Ashford and Ellen Yan</sub>
 <p>Representative-elect George Santos, who is under scrutiny over potentially misrepresenting key parts of his campaign biography, had other undisclosed troubles in his early career.  <a href="https://nyti.ms/3Wo3FZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>It’s Boom Times for Santa</h3>
-<sub>By Emily Badger and Eve Washington</sub>
-<p>Like other in-person workers, Santa took a hit the first two years of the pandemic. But he’s back in a big way.  <a href="https://nyti.ms/3VmGFZz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -140,6 +128,12 @@ On the financial side of things, there&#39;s a new retirement law which could gi
 <h3>BlackRock’s Pitch for Socially Conscious Investing Antagonizes All Sides</h3>
 <sub>By Matthew Goldstein and Maureen Farrell</sub>
 <p>Right-wing officials are attacking BlackRock for overstepping. Those on the left say the world’s biggest asset manager is not doing enough.  <a href="https://nyti.ms/3WiWbXv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>Notable Deaths of 2022</h3>
+<sub></sub>
+<p>Remembering Queen Elizabeth II, Mikhail S. Gorbachev, Sidney Poitier, Bill Russell, Loretta Lynn, Jiang Zemin, Madeleine Albright, Jean-Luc Godard, Shinzo Abe, Régine, Meat Loaf, Ivana Trump, Vin Scully and many others who died in 2022.  <a href="https://nyti.ms/3FOaxs5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
