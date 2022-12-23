@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 23, Central Standard Time</p>
 <p>
-There are a few big events happening in the US and around the world right now. The latest reports about the January 6 attack on the Capitol indicate that it was mainly the work of one person who was incited by former President Donald Trump. There&#39;s a new bipartisan bill passed in Congress allowing more power to prosecute international war crimes, which came after a speech by Ukraine’s leader. In addition, the Senate just passed a $1.7 trillion spending bill that includes nearly $50 billion in aid to Ukraine. On a lighter note, many places are facing a rare White Christmas this year due to a large winter storm. Lastly, Madison Square Garden has been using facial recognition technology to ban people they don&#39;t like from attending concerts and sporting events at the arena.</p>
+There has been a lot of news lately surrounding the Capitol Riot from January 6th. A panel released their final report recently, and it blamed the riot mostly on one man, likely referring to former President Donald J. Trump. It described his &quot;multipart plan&quot; to try and overturn the 2020 election. Witnesses have come forward with accounts of people trying to influence their testimonies to protect Trump. On a lighter note, it looks like many parts of the country will have a white Christmas this year! There&#39;s also news regarding an audit showing how the I.R.S. lacks resources to go after rich taxpayers, and a Ukrainian leader&#39;s unsuccessful wish list for weapons which the U.S. continues to refuse to give. In a bit of good news, Congress voted to expand U.S.&#39;s power to prosecute international war crimes, and senators have passed a $1.7 trillion spending bill which may avert another government shutdown. Furthermore, there have been investigations into Russian military identified for killing dozens in Bucha, as well as disgraced cryptocurrency executive Sam Bankman-Fried being released on $250 million bond with restrictions. Lastly, even after new crypto laws related to FTX, S.E.C chair Gary Gensler sees no need for them and is warning crypto issuers and exchanges on compliance instead of legislation changes.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jan. 6 Panel Issues Final Report, Placing Blame for Capitol Riot on ‘One Man’</h3>
-<sub>By Luke Broadwater</sub>
-<p>The release of the report, the panel’s last major action, came three days after lawmakers formally accused former President Donald J. Trump of inciting insurrection and other crimes.  <a href="https://nyti.ms/3jrBz0Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Luke Broadwater and Maggie Haberman</sub>
+<p>The report expanded on this summer’s televised hearings, describing in detail what it called former President Donald J. Trump’s “multipart plan” to overturn the 2020 election.  <a href="https://nyti.ms/3jrBz0Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,12 +98,6 @@ There are a few big events happening in the US and around the world right now. T
 <p>The Biden administration continues to balk at sending U.S. battle tanks, fighter jets and long-range missiles to Ukraine.  <a href="https://nyti.ms/3FOqpuD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Buoyed by Hero’s Welcome for Zelensky in Washington</h3>
-<sub>By Andrew E. Kramer and Ivan Nechepurenko</sub>
-<p>Ukrainians, many left in the dark and cold by Russian airstrikes, drew solace from President Volodymyr Zelensky’s speech to Congress.  <a href="https://nyti.ms/3YWEfnF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Congress Votes to Expand U.S. Power to Prosecute International War Crimes</h3>
 <sub>By Aishvarya Kavi</sub>
@@ -116,6 +110,18 @@ There are a few big events happening in the US and around the world right now. T
 <p>Exclusive evidence obtained in a monthslong investigation identifies the Russian regiment — and commander — behind one of the worst atrocities in Ukraine.  <a href="https://nyti.ms/3VjfdMm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Sam Bankman-Fried Released on $250 Million Bond With Restrictions</h3>
+<sub>By Benjamin Weiser, Matthew Goldstein and David Yaffe-Bellany</sub>
+<p>The disgraced cryptocurrency executive appeared in court in Manhattan after his extradition from the Bahamas. He will live with his parents in California.  <a href="https://nyti.ms/3HWvy6x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Even After FTX, S.E.C. Chair Sees No Need for New Crypto Laws</h3>
+<sub>By Ephrat Livni and Matthew Goldstein</sub>
+<p>The Securities and Exchange Commission chair, Gary Gensler, said existing rules were adequate but warned crypto issuers and exchanges on compliance.  <a href="https://nyti.ms/3BWyTPe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How a Bipartisan Senate Group Addressed a Flaw Exposed by Jan. 6</h3>
 <sub>By Carl Hulse</sub>
@@ -126,12 +132,6 @@ There are a few big events happening in the US and around the world right now. T
 <h3>Senate Passes $1.7 Trillion Spending Bill, in Bid to Avert Government Shutdown</h3>
 <sub>By Emily Cochrane</sub>
 <p>The bill, which would provide nearly $50 billion in aid to Ukraine, now heads to the House for a vote where it is expected to pass before being sent to President Biden.  <a href="https://nyti.ms/3WiJhch"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies</h3>
-<sub>By Kashmir Hill and Corey Kilgannon</sub>
-<p>MSG Entertainment, the owner of the arena and Radio City Music Hall, has put lawyers who represent people suing it on an “exclusion list” to keep them out of concerts and sporting events.  <a href="https://nyti.ms/3WfShPg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
