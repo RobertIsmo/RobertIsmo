@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 22, Central Standard Time</p>
 <p>
-There is a lot going on in the United States and around the world right now. In the US, the IRS has been facing funding shortfalls for years, which have made it harder for them to audit wealthy taxpayers-- including Donald Trump. Meanwhile, a major winter storm is sweeping across much of the nation, meaning that some areas may have a white Christmas this year. 
+There is currently a big news story on the US Capitol riot and former President Donald Trump&#39;s alleged involvement. This week, members of Congress released a final report on their inquiry into the incident, as well as testimony from a witness who claims to have been approached by someone close to Trump to focus on protecting him. There&#39;s also a report that shows how the IRS funds were misused for Trump&#39;s audits.
 
-Internationally, Ukraine&#39;s president Volodymyr Zelensky recently visited Washington, but was unable to get most of the military and weapon supplies he requested from the US. Ukrainians in his home country were buoyed by the warm welcome he received in Washington, though many are still suffering from Russian airstrikes. Investigations are being conducted into atrocities in Ukraine and Russia, while domestically Senate has just passed a $1.7 trillion spending bill to avoid a government shutdown. 
+Outside of the US, there is plenty of news too. Ukrainian President Volodymyr Zelensky was recently in the US, where his trip to Washington was largely unsuccessful in getting the country more weapons. However, he received a hero&#39;s welcome when he returned home. There are also reports of a Russian military unit being tracked in Ukraine following an attack that killed dozens.
 
-In business news, cryptocurrency executive Sam Bankman-Fried was released on $250 million bond with restrictions after his extradition from the Bahamas. Meanwhile, S.E.C chair Gary Gensler sees no need for new crypto laws despite that recent developments in cryptocurrency field. And in New York City, Madison Square Garden is using facial recognition to ban certain people related to lawsuits they are facing from seeing concerts or sporting events at their venues. </p>
+In other news, there is the latest on disgraced cryptocurrency executive Sam Bankman-Fried who is out on $250 million bond with restrictions after his extradition from the Bahamas. The SEC Chair has also given comments about new crypto laws not being needed at this time. Lastly, there was an interesting display of bipartisanship in the Senate where two groups managed to come together and pass an $1.7 trillion spending bill which includes nearly $50 billion in aid for Ukraine.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jan. 6 Committee Issues Its Final Report</h3>
+<sub>By Luke Broadwater</sub>
+<p>The release, the panel’s last major action in its groundbreaking inquiry, came days after lawmakers formally accused former President Donald J. Trump of inciting insurrection and other crimes.  <a href="https://nyti.ms/3jrBz0Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jan. 6 Witness Told Panel That Lawyer Tried to Influence Her Testimony</h3>
+<sub>By Luke Broadwater and Alan Feuer</sub>
+<p>Cassidy Hutchinson recounted to the House select committee how a lawyer with ties to former President Donald J. Trump said to her that she should “focus on protecting the president.”  <a href="https://nyti.ms/3VnjT3E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Audit Shows Depths of I.R.S. Funding Woes</h3>
 <sub>By Alan Rappeport</sub>
@@ -102,12 +114,6 @@ In business news, cryptocurrency executive Sam Bankman-Fried was released on $25
 <p>Exclusive evidence obtained in a monthslong investigation identifies the Russian regiment — and commander — behind one of the worst atrocities in Ukraine.  <a href="https://nyti.ms/3VjfdMm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Witness Told Panel That Lawyer Tried to Influence Her Testimony</h3>
-<sub>By Luke Broadwater and Alan Feuer</sub>
-<p>Cassidy Hutchinson recounted to the House select committee how a lawyer with ties to former President Donald J. Trump said to her that she should “focus on protecting the president.”  <a href="https://nyti.ms/3VnjT3E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Sam Bankman-Fried Released on $250 Million Bond With Restrictions</h3>
 <sub>By Benjamin Weiser, Matthew Goldstein and David Yaffe-Bellany</sub>
@@ -130,12 +136,6 @@ In business news, cryptocurrency executive Sam Bankman-Fried was released on $25
 <h3>Senate Passes $1.7 Trillion Spending Bill, in Bid to Avert Government Shutdown</h3>
 <sub>By Emily Cochrane</sub>
 <p>The bill, which would provide nearly $50 billion in aid to Ukraine, now heads to the House for a vote where it is expected to pass before being sent to President Biden.  <a href="https://nyti.ms/3WiJhch"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies</h3>
-<sub>By Kashmir Hill and Corey Kilgannon</sub>
-<p>MSG Entertainment, the owner of the arena and Radio City Music Hall, has put lawyers who represent people suing it on an “exclusion list” to keep them out of concerts and sporting events.  <a href="https://nyti.ms/3WfShPg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
