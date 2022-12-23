@@ -60,12 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 23, Central Standard Time</p>
 <p>
-There has been a lot of news lately surrounding the Capitol Riot from January 6th. A panel released their final report recently, and it blamed the riot mostly on one man, likely referring to former President Donald J. Trump. It described his &quot;multipart plan&quot; to try and overturn the 2020 election. Witnesses have come forward with accounts of people trying to influence their testimonies to protect Trump. On a lighter note, it looks like many parts of the country will have a white Christmas this year! There&#39;s also news regarding an audit showing how the I.R.S. lacks resources to go after rich taxpayers, and a Ukrainian leader&#39;s unsuccessful wish list for weapons which the U.S. continues to refuse to give. In a bit of good news, Congress voted to expand U.S.&#39;s power to prosecute international war crimes, and senators have passed a $1.7 trillion spending bill which may avert another government shutdown. Furthermore, there have been investigations into Russian military identified for killing dozens in Bucha, as well as disgraced cryptocurrency executive Sam Bankman-Fried being released on $250 million bond with restrictions. Lastly, even after new crypto laws related to FTX, S.E.C chair Gary Gensler sees no need for them and is warning crypto issuers and exchanges on compliance instead of legislation changes.</p>
+The world is dealing with a lot of big issues right now. To start, many countries are still trying to get the pandemic under control. In the United States, there was recently a report from a congressional investigation into the Capitol riot which blamed it on former President Donald J. Trump’s “multipart plan” to overturn the 2020 election. Meanwhile, Ukraine recently visited Washington seeking military aid; the Biden administration chose not to provide the desired assistance. In Europe, Christmas Markets have returned in Germany but shoppers are being more cautious because of economic uncertainty. China is also facing controversy over its Covid death toll, which is suspected of being far higher than what China claims. 
+
+It’s not all bad news though because people can still find ways to celebrate safely this holiday season and Santa has been surprisingly successful despite these trying times. Additionally, there may be some new changes coming to retirement plans like Roth IRA&#39;s and 401ks in 2021. Finally, more women are exploring egg-freezing as an option to preserve their fertility options even as they delay having children while they focus on their careers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jan. 6 Panel Issues Final Report, Placing Blame for Capitol Riot on ‘One Man’</h3>
 <sub>By Luke Broadwater and Maggie Haberman</sub>
 <p>The report expanded on this summer’s televised hearings, describing in detail what it called former President Donald J. Trump’s “multipart plan” to overturn the 2020 election.  <a href="https://nyti.ms/3jrBz0Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Inside the Jan. 6 Committee</h3>
+<sub>By Robert Draper, Luke Broadwater and Philip Montgomery</sub>
+<p>Power struggles, resignations and made-for-TV moments — the untold story of the most important congressional investigation in generations.  <a href="https://nyti.ms/3js2klW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Final Report From the Jan. 6 Committee</h3>
+<sub></sub>
+<p>The lengthy, eight-chapter document details former President Donald J. Trump’s efforts to overturn the 2020 election. Each chapter roughly mirrors the presentation of the committee’s investigative hearings this past year.  <a href="https://nyti.ms/3PLsADP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,64 +89,52 @@ There has been a lot of news lately surrounding the Capitol Riot from January 6t
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Final Report From the Jan. 6 Committee</h3>
-<sub></sub>
-<p>The lengthy, eight-chapter document details former President Donald J. Trump’s efforts to overturn the 2020 election. Each chapter roughly mirrors the presentation of the committee’s investigative hearings this past year.  <a href="https://nyti.ms/3PLsADP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Will You Have a White Christmas This Year?</h3>
-<sub>By Judson Jones, Zach Levitt, Bea Malsky and John-Michael Murphy</sub>
-<p>A significant winter storm sweeping much of the nation means that snow is in the holiday forecast in many areas that don’t normally see a single flake.  <a href="https://nyti.ms/3Ve4jqZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Audit Shows Depths of I.R.S. Funding Woes</h3>
-<sub>By Alan Rappeport</sub>
-<p>The agency lacks the resources to go after rich taxpayers. For years, a single revenue agent was responsible for the audits of Donald J. Trump.  <a href="https://nyti.ms/3jekAPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Zelensky’s Weapons Wish List Goes Mostly Unfulfilled on Trip to Washington</h3>
 <sub>By Eric Schmitt, Zolan Kanno-Youngs and Julian E. Barnes</sub>
 <p>The Biden administration continues to balk at sending U.S. battle tanks, fighter jets and long-range missiles to Ukraine.  <a href="https://nyti.ms/3FOqpuD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Congress Votes to Expand U.S. Power to Prosecute International War Crimes</h3>
-<sub>By Aishvarya Kavi</sub>
-<p>Passed after an address by Ukraine’s leader, the bill would allow foreigners in the United States who are suspected of war crimes to be tried even if the crime was overseas and the victim was not American.  <a href="https://nyti.ms/3PMjhn4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>It’s Boom Times for Santa</h3>
+<sub>By Emily Badger and Eve Washington</sub>
+<p>Like other in-person workers, Santa took a hit the first two years of the pandemic. But he’s back in a big way.  <a href="https://nyti.ms/3VmGFZz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-video-blue" alt="">
-<h3>Caught on Camera, Traced by Phone: The Russian Military Unit That Killed Dozens in Bucha</h3>
-<sub></sub>
-<p>Exclusive evidence obtained in a monthslong investigation identifies the Russian regiment — and commander — behind one of the worst atrocities in Ukraine.  <a href="https://nyti.ms/3VjfdMm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At German Christmas Markets, Smiles Shine Bright but Budgets Are Tight</h3>
+<sub>By Christopher F. Schuetze</sub>
+<p>In Nuremberg, the stalls are open without Covid restrictions, and big crowds are returning to sip mulled wine and socialize. But amid economic uncertainty, visitors are spending less.  <a href="https://nyti.ms/3jnFjjV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Cases Explode, China’s Low Covid Death Toll Convinces No One</h3>
+<sub>By Keith Bradsher, Amy Chang Chien and Joy Dong</sub>
+<p>China’s murky statistics are fueling widespread public distrust. Its narrow definition of Covid deaths “will very much underestimate the true death toll,” the W.H.O. says.  <a href="https://nyti.ms/3FOGtfS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>This Party Season, You Don’t Have to R.S.V.P., Just Test</h3>
+<sub>By Roni Caryn Rabin and Holly Secon</sub>
+<p>As rising Covid rates collide with a return to holiday festivities, hosts are coming up with inventive compromises.  <a href="https://nyti.ms/3VmGH3D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Sam Bankman-Fried Released on $250 Million Bond With Restrictions</h3>
-<sub>By Benjamin Weiser, Matthew Goldstein and David Yaffe-Bellany</sub>
-<p>The disgraced cryptocurrency executive appeared in court in Manhattan after his extradition from the Bahamas. He will live with his parents in California.  <a href="https://nyti.ms/3HWvy6x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<h3>For Many Wall Street Bankers, This Year’s Bonus Season Is a Bust</h3>
+<sub>By Maureen Farrell, Lauren Hirsch and Anupreeta Das</sub>
+<p>There were fewer mergers and public listings this year, shrinking investment banking revenue. For bankers, that means a smaller pot of money for bonuses.  <a href="https://nyti.ms/3WgvSkS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Even After FTX, S.E.C. Chair Sees No Need for New Crypto Laws</h3>
-<sub>By Ephrat Livni and Matthew Goldstein</sub>
-<p>The Securities and Exchange Commission chair, Gary Gensler, said existing rules were adequate but warned crypto issuers and exchanges on compliance.  <a href="https://nyti.ms/3BWyTPe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>New Retirement Law Would Bring Twists to Roth I.R.A.s and 401(k)s</h3>
+<sub>By Ron Lieber</sub>
+<p>Want to transfer money from a 529 plan to a Roth I.R.A. or get an after-tax employee match in your Roth 401(k)? You may be in luck.  <a href="https://nyti.ms/3VmGBZP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Bipartisan Senate Group Addressed a Flaw Exposed by Jan. 6</h3>
-<sub>By Carl Hulse</sub>
-<p>Democrats and Republicans managed to come together to update the archaic Electoral Count Act after they recognized it could again be abused to subvert the presidential vote.  <a href="https://nyti.ms/3jmnwcT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Passes $1.7 Trillion Spending Bill, in Bid to Avert Government Shutdown</h3>
-<sub>By Emily Cochrane</sub>
-<p>The bill, which would provide nearly $50 billion in aid to Ukraine, now heads to the House for a vote where it is expected to pass before being sent to President Biden.  <a href="https://nyti.ms/3WiJhch"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Hope, Regret, Uncertainty: 7 Women on Freezing Their Eggs</h3>
+<sub>By Alisha Haridasani Gupta and Dani Blum</sub>
+<p>Ten years have passed since the procedure’s “experimental” label was lifted. The Times heard from hundreds of patients about their experiences.  <a href="https://nyti.ms/3WcMsSJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
