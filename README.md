@@ -60,9 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 23, Central Standard Time</p>
 <p>
-The world is dealing with a lot of big issues right now. To start, many countries are still trying to get the pandemic under control. In the United States, there was recently a report from a congressional investigation into the Capitol riot which blamed it on former President Donald J. Trump’s “multipart plan” to overturn the 2020 election. Meanwhile, Ukraine recently visited Washington seeking military aid; the Biden administration chose not to provide the desired assistance. In Europe, Christmas Markets have returned in Germany but shoppers are being more cautious because of economic uncertainty. China is also facing controversy over its Covid death toll, which is suspected of being far higher than what China claims. 
+There has been a lot of news recently about the fallout from the Capitol Riot earlier this year. A panel issued a final report that mostly blames Donald Trump for his &quot;multipart plan&quot; to overturn the 2020 election. This report and other congressional investigations have shed more light on what happened on the day of the riot. 
 
-It’s not all bad news though because people can still find ways to celebrate safely this holiday season and Santa has been surprisingly successful despite these trying times. Additionally, there may be some new changes coming to retirement plans like Roth IRA&#39;s and 401ks in 2021. Finally, more women are exploring egg-freezing as an option to preserve their fertility options even as they delay having children while they focus on their careers.</p>
+At the same time, there&#39;s a big winter storm predicted in many parts of the US that could wreak havoc on people&#39;s holiday travel plans, so it&#39;s important to know what to do if your plans are disrupted.
+
+In international news, Ukraine President Zelensky&#39;s wish list for military equipment from the US has gone unfulfilled. 
+
+Also, people everywhere appear to be gearing up for their holiday celebrations despite the pandemic, and hosts are finding creative ways to make sure everyone stays safe at parties. 
+
+On the financial side of things, there&#39;s a new retirement law which could give people more options for Roth IRAs and 401ks plans. And BlackRock is under scrutiny for their involvement in socially conscious investing which is antagonizing both sides of the political spectrum.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jan. 6 Panel Issues Final Report, Placing Blame for Capitol Riot on ‘One Man’</h3>
@@ -88,22 +94,28 @@ It’s not all bad news though because people can still find ways to celebrate s
 <p>Cassidy Hutchinson recounted to the House select committee how a lawyer with ties to former President Donald J. Trump said to her that she should “focus on protecting the president.”  <a href="https://nyti.ms/3VnjT3E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>What to Know if the Winter Storm Wreaks Havoc on Your Holiday Travel</h3>
+<sub>By Maria Cramer</sub>
+<p>Forecasters say a “bomb cyclone” will tear through much of the U.S. this week and that travelers could face cold, snow and rain. What can you do if your plans are disrupted?  <a href="https://nyti.ms/3Wycn7d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Zelensky’s Weapons Wish List Goes Mostly Unfulfilled on Trip to Washington</h3>
 <sub>By Eric Schmitt, Zolan Kanno-Youngs and Julian E. Barnes</sub>
 <p>The Biden administration continues to balk at sending U.S. battle tanks, fighter jets and long-range missiles to Ukraine.  <a href="https://nyti.ms/3FOqpuD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos’s Early Life: Odd Jobs, Bad Debts and Lawsuits</h3>
+<sub>By Michael Gold, Grace Ashford and Ellen Yan</sub>
+<p>Representative-elect George Santos, who is under scrutiny over potentially misrepresenting key parts of his campaign biography, had other undisclosed troubles in his early career.  <a href="https://nyti.ms/3Wo3FZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>It’s Boom Times for Santa</h3>
 <sub>By Emily Badger and Eve Washington</sub>
 <p>Like other in-person workers, Santa took a hit the first two years of the pandemic. But he’s back in a big way.  <a href="https://nyti.ms/3VmGFZz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At German Christmas Markets, Smiles Shine Bright but Budgets Are Tight</h3>
-<sub>By Christopher F. Schuetze</sub>
-<p>In Nuremberg, the stalls are open without Covid restrictions, and big crowds are returning to sip mulled wine and socialize. But amid economic uncertainty, visitors are spending less.  <a href="https://nyti.ms/3jnFjjV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -118,22 +130,16 @@ It’s not all bad news though because people can still find ways to celebrate s
 <p>As rising Covid rates collide with a return to holiday festivities, hosts are coming up with inventive compromises.  <a href="https://nyti.ms/3VmGH3D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>For Many Wall Street Bankers, This Year’s Bonus Season Is a Bust</h3>
-<sub>By Maureen Farrell, Lauren Hirsch and Anupreeta Das</sub>
-<p>There were fewer mergers and public listings this year, shrinking investment banking revenue. For bankers, that means a smaller pot of money for bonuses.  <a href="https://nyti.ms/3WgvSkS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-your-money-blue" alt="">
 <h3>New Retirement Law Would Bring Twists to Roth I.R.A.s and 401(k)s</h3>
 <sub>By Ron Lieber</sub>
 <p>Want to transfer money from a 529 plan to a Roth I.R.A. or get an after-tax employee match in your Roth 401(k)? You may be in luck.  <a href="https://nyti.ms/3VmGBZP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Hope, Regret, Uncertainty: 7 Women on Freezing Their Eggs</h3>
-<sub>By Alisha Haridasani Gupta and Dani Blum</sub>
-<p>Ten years have passed since the procedure’s “experimental” label was lifted. The Times heard from hundreds of patients about their experiences.  <a href="https://nyti.ms/3WcMsSJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>BlackRock’s Pitch for Socially Conscious Investing Antagonizes All Sides</h3>
+<sub>By Matthew Goldstein and Maureen Farrell</sub>
+<p>Right-wing officials are attacking BlackRock for overstepping. Those on the left say the world’s biggest asset manager is not doing enough.  <a href="https://nyti.ms/3WiWbXv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
