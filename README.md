@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 22, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, there are reports of funding woes for the IRS, and the possibility for many areas to have white Christmases this year. At the same time, investigators have been able to pinpoint a Russian military unit behind a serious atrocity in Ukraine, and Ukraine&#39;s president made a pitch for support in Washington. On the European front, one snack shop is still managing to serve people despite ongoing shelling in a city located in a key battleground of the war. Back at home, a disgraced cryptocurrency executive has been released on bail and SEC Chair Gary Gensler has said existing rules surrounding cryptocurrency are adequate but warned companies to stay compliant. Politically, the US Senate has managed to pass a $1.7 trillion spending bill amidst worries of an impending government shutdown, while members of Congress recently updated the Electoral Count Act after recognizing it could be abused during presidential elections. Additionally, not too far from us here in New York, an intriguing mystery has arisen involving an area doctor who disappeared mysteriously from his boat.</p>
+There is a lot going on in the United States and around the world right now. In the US, the IRS has been facing funding shortfalls for years, which have made it harder for them to audit wealthy taxpayers-- including Donald Trump. Meanwhile, a major winter storm is sweeping across much of the nation, meaning that some areas may have a white Christmas this year. 
+
+Internationally, Ukraine&#39;s president Volodymyr Zelensky recently visited Washington, but was unable to get most of the military and weapon supplies he requested from the US. Ukrainians in his home country were buoyed by the warm welcome he received in Washington, though many are still suffering from Russian airstrikes. Investigations are being conducted into atrocities in Ukraine and Russia, while domestically Senate has just passed a $1.7 trillion spending bill to avoid a government shutdown. 
+
+In business news, cryptocurrency executive Sam Bankman-Fried was released on $250 million bond with restrictions after his extradition from the Bahamas. Meanwhile, S.E.C chair Gary Gensler sees no need for new crypto laws despite that recent developments in cryptocurrency field. And in New York City, Madison Square Garden is using facial recognition to ban certain people related to lawsuits they are facing from seeing concerts or sporting events at their venues. </p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Audit Shows Depths of I.R.S. Funding Woes</h3>
@@ -74,22 +78,16 @@ There&#39;s a lot going on in the world right now. In the US, there are reports 
 <p>A significant winter storm sweeping much of the nation means that snow is in the holiday forecast in many areas that don’t normally see a single flake.  <a href="https://nyti.ms/3Ve4jqZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-video-blue" alt="">
-<h3>Caught on Camera, Traced by Phone: The Russian Military Unit That Killed Dozens in Bucha</h3>
-<sub></sub>
-<p>Exclusive evidence obtained in a monthslong investigation identifies the Russian regiment — and commander — behind one of the worst atrocities in Ukraine.  <a href="https://nyti.ms/3VjfdMm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Zelensky, a Celebration of Resilience and a Sales Pitch for Support</h3>
-<sub>By David E. Sanger</sub>
-<p>For all the talk of victory, President Volodymyr Zelensky’s remarks in Washington revealed hints about his worries for the year ahead.  <a href="https://nyti.ms/3vgxwHb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Zelensky’s Weapons Wish List Goes Mostly Unfulfilled on Trip to Washington</h3>
+<sub>By Eric Schmitt, Zolan Kanno-Youngs and Julian E. Barnes</sub>
+<p>The Biden administration continues to balk at sending U.S. battle tanks, fighter jets and long-range missiles to Ukraine.  <a href="https://nyti.ms/3FOqpuD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Frontline City’s Final Food Stand Finds a Way to Keep the Pizza Coming</h3>
-<sub>By Thomas Gibbons-Neff, Natalia Yermak and Tyler Hicks</sub>
-<p>Despite all the shelling, and with no electricity, one snack shop is still serving the soldiers and citizens who have stayed in Bakhmut, Ukraine, a pivotal battleground in the war.  <a href="https://nyti.ms/3jojnVZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Buoyed by Hero’s Welcome for Zelensky in Washington</h3>
+<sub>By Andrew E. Kramer and Ivan Nechepurenko</sub>
+<p>Ukrainians, many left in the dark and cold by Russian airstrikes, drew solace from President Volodymyr Zelensky’s speech to Congress.  <a href="https://nyti.ms/3YWEfnF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -98,16 +96,22 @@ There&#39;s a lot going on in the world right now. In the US, there are reports 
 <p>President Volodymyr Zelensky of Ukraine came to Washington wearing his reality on his sleeves.  <a href="https://nyti.ms/3HVPGWp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>‘Major Trustee, Please Prioritize’: How NYU’s E.R. Favors the Rich</h3>
-<sub>By Sarah Kliff and Jessica Silver-Greenberg</sub>
-<p>Dozens of doctors said the nonprofit hospital pressured them to give preferential treatment to donors, trustees and their families.  <a href="https://nyti.ms/3vbMQFi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-video-blue" alt="">
+<h3>Caught on Camera, Traced by Phone: The Russian Military Unit That Killed Dozens in Bucha</h3>
+<sub></sub>
+<p>Exclusive evidence obtained in a monthslong investigation identifies the Russian regiment — and commander — behind one of the worst atrocities in Ukraine.  <a href="https://nyti.ms/3VjfdMm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jan. 6 Witness Told Panel That Lawyer Tried to Influence Her Testimony</h3>
+<sub>By Luke Broadwater and Alan Feuer</sub>
+<p>Cassidy Hutchinson recounted to the House select committee how a lawyer with ties to former President Donald J. Trump said to her that she should “focus on protecting the president.”  <a href="https://nyti.ms/3VnjT3E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Sam Bankman-Fried Released on $250 Million Bond With Restrictions</h3>
 <sub>By Benjamin Weiser, Matthew Goldstein and David Yaffe-Bellany</sub>
-<p>The disgraced cryptocurrency executive appeared in court in Manhattan after his extradition from the Bahamas last night. He was granted bail and will live with his parents in California.  <a href="https://nyti.ms/3HWvy6x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The disgraced cryptocurrency executive appeared in court in Manhattan after his extradition from the Bahamas. He will live with his parents in California.  <a href="https://nyti.ms/3HWvy6x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -117,21 +121,21 @@ There&#39;s a lot going on in the world right now. In the US, there are reports 
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Passes $1.7 Trillion Spending Bill Ahead of Friday Deadline</h3>
-<sub>By Emily Cochrane</sub>
-<p>The bill now heads to the House for a vote as lawmakers race to prevent a government shutdown.  <a href="https://nyti.ms/3WiJhch"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How a Bipartisan Senate Group Addressed a Flaw Exposed by Jan. 6</h3>
 <sub>By Carl Hulse</sub>
 <p>Democrats and Republicans managed to come together to update the archaic Electoral Count Act after they recognized it could again be abused to subvert the presidential vote.  <a href="https://nyti.ms/3jmnwcT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senate Passes $1.7 Trillion Spending Bill, in Bid to Avert Government Shutdown</h3>
+<sub>By Emily Cochrane</sub>
+<p>The bill, which would provide nearly $50 billion in aid to Ukraine, now heads to the House for a vote where it is expected to pass before being sent to President Biden.  <a href="https://nyti.ms/3WiJhch"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Mysterious Case of the Doctor Who Disappeared at Sea</h3>
-<sub>By Michael Wilson</sub>
-<p>Dr. Marvin Moy was facing federal prosecution and a bitter divorce, and his life had been in limbo for months. Some immediately wondered if what looked like a boat crash was actually something else.  <a href="https://nyti.ms/3Wjp8CW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies</h3>
+<sub>By Kashmir Hill and Corey Kilgannon</sub>
+<p>MSG Entertainment, the owner of the arena and Radio City Music Hall, has put lawyers who represent people suing it on an “exclusion list” to keep them out of concerts and sporting events.  <a href="https://nyti.ms/3WfShPg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
