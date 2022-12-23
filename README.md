@@ -58,18 +58,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, December 22, Central Standard Time</p>
+<p>It is Friday, December 23, Central Standard Time</p>
 <p>
-There is currently a big news story on the US Capitol riot and former President Donald Trump&#39;s alleged involvement. This week, members of Congress released a final report on their inquiry into the incident, as well as testimony from a witness who claims to have been approached by someone close to Trump to focus on protecting him. There&#39;s also a report that shows how the IRS funds were misused for Trump&#39;s audits.
-
-Outside of the US, there is plenty of news too. Ukrainian President Volodymyr Zelensky was recently in the US, where his trip to Washington was largely unsuccessful in getting the country more weapons. However, he received a hero&#39;s welcome when he returned home. There are also reports of a Russian military unit being tracked in Ukraine following an attack that killed dozens.
-
-In other news, there is the latest on disgraced cryptocurrency executive Sam Bankman-Fried who is out on $250 million bond with restrictions after his extradition from the Bahamas. The SEC Chair has also given comments about new crypto laws not being needed at this time. Lastly, there was an interesting display of bipartisanship in the Senate where two groups managed to come together and pass an $1.7 trillion spending bill which includes nearly $50 billion in aid for Ukraine.</p>
+There are a few big events happening in the US and around the world right now. The latest reports about the January 6 attack on the Capitol indicate that it was mainly the work of one person who was incited by former President Donald Trump. There&#39;s a new bipartisan bill passed in Congress allowing more power to prosecute international war crimes, which came after a speech by Ukraine’s leader. In addition, the Senate just passed a $1.7 trillion spending bill that includes nearly $50 billion in aid to Ukraine. On a lighter note, many places are facing a rare White Christmas this year due to a large winter storm. Lastly, Madison Square Garden has been using facial recognition technology to ban people they don&#39;t like from attending concerts and sporting events at the arena.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Committee Issues Its Final Report</h3>
+<h3>Jan. 6 Panel Issues Final Report, Placing Blame for Capitol Riot on ‘One Man’</h3>
 <sub>By Luke Broadwater</sub>
-<p>The release, the panel’s last major action in its groundbreaking inquiry, came days after lawmakers formally accused former President Donald J. Trump of inciting insurrection and other crimes.  <a href="https://nyti.ms/3jrBz0Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The release of the report, the panel’s last major action, came three days after lawmakers formally accused former President Donald J. Trump of inciting insurrection and other crimes.  <a href="https://nyti.ms/3jrBz0Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -79,15 +75,21 @@ In other news, there is the latest on disgraced cryptocurrency executive Sam Ban
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Audit Shows Depths of I.R.S. Funding Woes</h3>
-<sub>By Alan Rappeport</sub>
-<p>The agency lacks the resources to go after rich taxpayers. For years, a single revenue agent was responsible for the audits of Donald J. Trump.  <a href="https://nyti.ms/3jekAPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Final Report From the Jan. 6 Committee</h3>
+<sub></sub>
+<p>The lengthy, eight-chapter document details former President Donald J. Trump’s efforts to overturn the 2020 election. Each chapter roughly mirrors the presentation of the committee’s investigative hearings this past year.  <a href="https://nyti.ms/3PLsADP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Will You Have a White Christmas This Year?</h3>
 <sub>By Judson Jones, Zach Levitt, Bea Malsky and John-Michael Murphy</sub>
 <p>A significant winter storm sweeping much of the nation means that snow is in the holiday forecast in many areas that don’t normally see a single flake.  <a href="https://nyti.ms/3Ve4jqZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Audit Shows Depths of I.R.S. Funding Woes</h3>
+<sub>By Alan Rappeport</sub>
+<p>The agency lacks the resources to go after rich taxpayers. For years, a single revenue agent was responsible for the audits of Donald J. Trump.  <a href="https://nyti.ms/3jekAPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -102,28 +104,16 @@ In other news, there is the latest on disgraced cryptocurrency executive Sam Ban
 <p>Ukrainians, many left in the dark and cold by Russian airstrikes, drew solace from President Volodymyr Zelensky’s speech to Congress.  <a href="https://nyti.ms/3YWEfnF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Olive Green Sweatshirt Goes to Congress</h3>
-<sub>By Vanessa Friedman</sub>
-<p>President Volodymyr Zelensky of Ukraine came to Washington wearing his reality on his sleeves.  <a href="https://nyti.ms/3HVPGWp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Congress Votes to Expand U.S. Power to Prosecute International War Crimes</h3>
+<sub>By Aishvarya Kavi</sub>
+<p>Passed after an address by Ukraine’s leader, the bill would allow foreigners in the United States who are suspected of war crimes to be tried even if the crime was overseas and the victim was not American.  <a href="https://nyti.ms/3PMjhn4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-video-blue" alt="">
 <h3>Caught on Camera, Traced by Phone: The Russian Military Unit That Killed Dozens in Bucha</h3>
 <sub></sub>
 <p>Exclusive evidence obtained in a monthslong investigation identifies the Russian regiment — and commander — behind one of the worst atrocities in Ukraine.  <a href="https://nyti.ms/3VjfdMm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Sam Bankman-Fried Released on $250 Million Bond With Restrictions</h3>
-<sub>By Benjamin Weiser, Matthew Goldstein and David Yaffe-Bellany</sub>
-<p>The disgraced cryptocurrency executive appeared in court in Manhattan after his extradition from the Bahamas. He will live with his parents in California.  <a href="https://nyti.ms/3HWvy6x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Even After FTX, S.E.C. Chair Sees No Need for New Crypto Laws</h3>
-<sub>By Ephrat Livni and Matthew Goldstein</sub>
-<p>The Securities and Exchange Commission chair, Gary Gensler, said existing rules were adequate but warned crypto issuers and exchanges on compliance.  <a href="https://nyti.ms/3BWyTPe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -136,6 +126,12 @@ In other news, there is the latest on disgraced cryptocurrency executive Sam Ban
 <h3>Senate Passes $1.7 Trillion Spending Bill, in Bid to Avert Government Shutdown</h3>
 <sub>By Emily Cochrane</sub>
 <p>The bill, which would provide nearly $50 billion in aid to Ukraine, now heads to the House for a vote where it is expected to pass before being sent to President Biden.  <a href="https://nyti.ms/3WiJhch"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies</h3>
+<sub>By Kashmir Hill and Corey Kilgannon</sub>
+<p>MSG Entertainment, the owner of the arena and Radio City Music Hall, has put lawyers who represent people suing it on an “exclusion list” to keep them out of concerts and sporting events.  <a href="https://nyti.ms/3WfShPg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
