@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 23, Central Standard Time</p>
 <p>
-Things are chaotic right now! There&#39;s a spending package being cleared by the US House to avert a shutdown, but there&#39;s a winter storm disrupting flights nationwide and it&#39;s causing problems with transport. It&#39;s even creating &#39;bomb cyclones&#39;-- storms that are more powerful than most. It looks like former President Donald J Trump is being blamed for the Capitol Riot in Washington with the release of a final report. On top of that, there&#39;s a race amongst publishers to be the first to market with their editions of the Jan. 6 report. The F.D.A has released something new too; morning after pills are not abortion pills, apparently. Over in Ukraine, their weapons wish list remains unfulfilled after Zelensky&#39;s trip to Washington and there have been some revelations about the Representative-elect George Santos not representing his campaign biography accurately. Meanwhile, in China, Covid cases are exploding, but their death toll stats aren&#39;t convincing anyone! In light of all this chaos, people trying to celebrate during the holiday season have to take extra precautions and get tested before attending events. Retirement accounts are also undergoing some changes in terms of transferring money from 529 plans to Roth I.R.As etc... So yeah - it&#39;s just complete chaos out here!</p>
+There is a lot of news from the US right now. Drivers were stranded overnight after getting stuck in a snow jam in Kentucky and whiteout conditions and frigid temperatures have forced a travel ban in Buffalo. In Iowa, a sports reporter was sent to cover the storm even though all sporting events had been canceled. The US House of Representatives recently passed a $1.7 trillion spending package to avoid a shutdown, and a committee studying the events of January 6th has released its final report asking for accountability from those responsible. Meanwhile, the FDA has clarified that morning-after pills are not abortion pills and there is an executive who admitted her role in the FTX collapse admitting she was wrong. There are also questions about how one of the country&#39;s billionaires made his $250 million bail, and the US is giving Ukraine guided bombs as part of a $1.85 billion aid package.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Drivers were stranded overnight in a jam on a snowy Kentucky highway.</h3>
+<sub>By Michael Levenson</sub>
+<p>  <a href="https://nyti.ms/3WDE5Q2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Buffalo, whiteout conditions and frigid temperatures force a travel ban.</h3>
+<sub>By Michael D. Regan and Sarah Maslin Nir</sub>
+<p>  <a href="https://nyti.ms/3FUo8yd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An Iowa Sports Reporter Was Sent to Cover the Weather. He Did Not Like It.</h3>
+<sub>By Remy Tumin</sub>
+<p>After sporting events were canceled in Iowa, Mark Woodley was pressed into service covering the storm. “I didn’t realize that there was a 3:30 also in the morning until today,” he said.  <a href="https://nyti.ms/3WC1cuN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Clears $1.7 Trillion Spending Package, Averting Shutdown</h3>
 <sub>By Emily Cochrane</sub>
@@ -69,22 +87,10 @@ Things are chaotic right now! There&#39;s a spending package being cleared by th
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Winter Storm Disrupts Thousands of Flights on a Busy Holiday Travel Day</h3>
-<sub>By Shannon Sims</sub>
-<p>Wind, ice and snow are snarling air travel across the United States, and playing havoc with rail and road travel as well.  <a href="https://nyti.ms/3FRiv3D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>With Detailed Evidence and a Call for Accountability, Jan. 6 Panel Seeks a Legacy</h3>
+<sub>By Luke Broadwater</sub>
+<p>The final report of the committee provides many new details on former President Donald J. Trump’s actions and a record for history. But Republicans will soon begin a campaign to discredit it.  <a href="https://nyti.ms/3C0DDmO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>What Is a ‘Bomb Cyclone’?</h3>
-<sub>By Henry Fountain</sub>
-<p>These storms aren’t tremendously rare, but this particular one is much more powerful than most.  <a href="https://nyti.ms/3FQ7Juy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Panel Issues Final Report, Placing Blame for Capitol Riot on ‘One Man’</h3>
-<sub>By Luke Broadwater and Maggie Haberman</sub>
-<p>The report expanded on this summer’s televised hearings, describing in detail what it called former President Donald J. Trump’s “multipart plan” to overturn the 2020 election.  <a href="https://nyti.ms/3jrBz0Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Inside the Jan. 6 Committee</h3>
@@ -92,10 +98,10 @@ Things are chaotic right now! There&#39;s a spending package being cleared by th
 <p>Power struggles, resignations and made-for-TV moments — the untold story of the most important congressional investigation in generations.  <a href="https://nyti.ms/3js2klW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>The Most Sought After Manuscript in Publishing? The Jan. 6 Report.</h3>
-<sub>By Alexandra Alter and Elizabeth A. Harris</sub>
-<p>Publishers are releasing more than half a dozen editions of the report, and are now in a frantic race to be first to market.  <a href="https://nyti.ms/3BUdzdi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jan. 6 Report Leaves Questions About What Happened in Trump’s S.U.V.</h3>
+<sub>By Maggie Haberman</sub>
+<p>Witnesses had less detailed recollections than the account provided by Cassidy Hutchinson of a furious president reaching for the steering wheel when told he could not go to the Capitol.  <a href="https://nyti.ms/3Gd3R8i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -104,34 +110,28 @@ Things are chaotic right now! There&#39;s a spending package being cleared by th
 <p>Labels of Plan B One-Step had previously said, without scientific evidence, that the pill might block fertilized eggs from implanting in the womb.  <a href="https://nyti.ms/3GdpfdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Zelensky’s Weapons Wish List Goes Mostly Unfulfilled on Trip to Washington</h3>
-<sub>By Eric Schmitt, Zolan Kanno-Youngs and Julian E. Barnes</sub>
-<p>The Biden administration continues to balk at sending U.S. battle tanks, fighter jets and long-range missiles to Ukraine.  <a href="https://nyti.ms/3FOqpuD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Alameda Executive Says She Is ‘Truly Sorry’ for Her Role in FTX Collapse</h3>
+<sub>By Matthew Goldstein and Benjamin Weiser</sub>
+<p>Caroline Ellison of Alameda, a trading firm tied closely to FTX, admitted she participated in defrauding customers and misleading investors.  <a href="https://nyti.ms/3WnWdxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos’s Early Life: Odd Jobs, Bad Debts and Lawsuits</h3>
-<sub>By Michael Gold, Grace Ashford and Ellen Yan</sub>
-<p>Representative-elect George Santos, who is under scrutiny over potentially misrepresenting key parts of his campaign biography, had other undisclosed troubles in his early career.  <a href="https://nyti.ms/3Wo3FZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Did Sam Bankman-Fried Make His $250 Million Bail?</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>Though Mr. Bankman-Fried was not required to pay $250 million, the large amount of the bond in this high-profile case has raised questions about the federal bail process.  <a href="https://nyti.ms/3vaxbpI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Cases Explode, China’s Low Covid Death Toll Convinces No One</h3>
-<sub>By Keith Bradsher, Amy Chang Chien and Joy Dong</sub>
-<p>China’s murky statistics are fueling widespread public distrust. Its narrow definition of Covid deaths “will very much underestimate the true death toll,” the W.H.O. says.  <a href="https://nyti.ms/3FOGtfS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Threat of Invasion From Belarus Low, Says Ukraine Spy Chief</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>In a wide-ranging interview on the state of the war, Kyrylo Budanov also spoke about Russia-Iran relations and Moscow’s obsession with taking the city of Bakhmut.  <a href="https://nyti.ms/3FTxQR5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>This Party Season, You Don’t Have to R.S.V.P., Just Test</h3>
-<sub>By Roni Caryn Rabin and Holly Secon</sub>
-<p>As rising Covid rates collide with a return to holiday festivities, hosts are coming up with inventive compromises.  <a href="https://nyti.ms/3VmGH3D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>New Retirement Law Would Bring Twists to Roth I.R.A.s and 401(k)s</h3>
-<sub>By Ron Lieber</sub>
-<p>Want to transfer money from a 529 plan to a Roth I.R.A. or get an after-tax employee match in your Roth 401(k)? You may be in luck.  <a href="https://nyti.ms/3VmGBZP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Are JDAMs? And What Will They Do For Ukraine?</h3>
+<sub>By John Ismay</sub>
+<p>The United States is giving satellite-guided bombs to Kyiv for the first time as part of a new $1.85 billion military aid package.  <a href="https://nyti.ms/3WHQSAK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
