@@ -58,20 +58,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, December 23, Central Standard Time</p>
+<p>It is Saturday, December 24, Central Standard Time</p>
 <p>
-There are some tough winters going on in the US right now—drivers were stranded overnight in a jam on a snowy Kentucky highway and there was a travel ban announced in Buffalo due to whiteout conditions and frigid temperatures. Congress just passed a $1.7 Trillion spending package to avoid government shutdown and the bi-partisan Jan. 6 Panel released its final report with detailed evidence of former President Trump’s responsibility and accountability for the attack on the Capitol. Recently, the FDA announced that morning-after pills are not abortion pills contrary to what was previously thought. On another note, an executive from Alameda was ‘truly sorry’ for her role in a trading firm collapse and has admitted to defrauding customers and misleading investors. There is an interesting story about KYC predicting that the threat of invasion from Belarus is low and explaining Russia’s obsession with taking the city of Bakhmut, as well as looking into US giving satellite-guided bombs to Kyiv for the first time. Lastly, we have just learned more about Representative-elect George Santo’s early life, which included odd jobs, bad debts and lawsuits.</p>
+Right now, the US is being pummeled by a pre-holiday snowstorm that&#39;s affecting almost two-thirds of the population. In Buffalo, families are huddling in dark and cold homes, and in Iowa an unfortunate sports reporter was sent out to report on the storm in the middle of the night! On a brighter note, the House has just approved a $1.7 trillion spending package to avoid a shutdown. 
+
+Meanwhile, the Jan. 6 Capitol Riot panel is crafting a legacy report with detailed evidence in order to call for accountability. However, there are still some unanswered questions about what happened in Trump’s SUV during the riot. 
+
+On the health front, the Food and Drug Administration (FDA) cleared up misconceptions around morning-after pills that they are not associated with abortion pills.
+
+In business news, Caroline Ellison of Alameda, a trading firm tied closely to FTX admitted involvement in defrauding customers and misleading investors and apologized for her role. On a related note, there are lots of questions about how Sam Bankman-Fried managed to pay his $250 million bail after he was arrested. 
+
+Turning to international news... Ukraine&#39;s security chief has said that the threat of invasion from Belarus is currently low. He also spoke about Russia-Iranian relations and Moscow’s interest in holding jurisdiction over Bakhmut city. On another note, the USA is sending satellite guided bombs worth $1.85 billion to Ukraine as part of its military aid package. 
+
+Finally here at home, George Santos - who was recently elected into congress - has come under scrutiny due to inconsistencies in his campaign biography and some other undisclosed troubles from his past.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Drivers were stranded overnight in a jam on a snowy Kentucky highway.</h3>
-<sub>By Michael Levenson</sub>
-<p>  <a href="https://nyti.ms/3WDE5Q2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Like a Walk-In Freezer: Pre-Holiday Storm Pummels the Nation</h3>
+<sub>By Julie Bosman, Richard Fausset and Jamie McGee</sub>
+<p>Roughly two-thirds of the U.S. population — more than 200 million people — were under winter warnings or advisories at one point on Friday.  <a href="https://nyti.ms/3WEKZnV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Buffalo, whiteout conditions and frigid temperatures force a travel ban.</h3>
-<sub>By Michael D. Regan and Sarah Maslin Nir</sub>
-<p>  <a href="https://nyti.ms/3FUo8yd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Buffalo, families huddle in dark, cold homes.</h3>
+<sub>By Michael D. Regan</sub>
+<p>  <a href="https://nyti.ms/3WtgOAI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
