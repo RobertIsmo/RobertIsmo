@@ -60,8 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 24, Central Standard Time</p>
 <p>
-The US is seeing a surge of news articles related to politics and current events. In 2022, an important slice of the electorate voted against extremist Republican candidates and in 2024, Democrats and Republicans are gearing up for a possible campaign. Meanwhile, a big winter storm is hitting much of the US right now that could bring snow to areas not used to it. Understandably, events linked to Donald Trump are still in the news. Specifically, significant evidence was released showing his role in the Capitol riots on January 6th and there are still unanswered questions about his exact whereabouts on that day. Lastly, with overdoses on the rise, there&#39;s a new strategy emerging to detect fentanyl in people&#39;s drugs and keep them safe.</p>
+There is a lot happening in the world right now. Russian President Putin is attempting to gain fealty from African countries in his war in Ukraine, which has led to at least 10 deaths in Kherson recently. In the US, many areas were hit by treacherous weather conditions; a sports reporter had to cover the storm and concerns over extremist Republican politicians was narrowly avoided in 2022. Meanwhile, potential candidates for 2024 are discussing running with their families while an Arizona judge rejected a losing Republican campaign&#39;s false election claims. In Afghanistan, the Taliban has barred women from NGOs, and in Palestine, former residents of Iqrit are using religious rituals to reconnect with a place they were expelled from decades ago.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin Wants Fealty, and He’s Found It in Africa</h3>
+<sub>By Roger Cohen and Mauricio Lima</sub>
+<p>The Russian president has unleashed a new disorder on the world with his war in Ukraine, and the Central African Republic may be its ultimate expression.  <a href="https://nyti.ms/3C20Yoq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Least 10 Killed in Kherson Shelling, Fueling Anger Over Christmas Strikes</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>President Volodymyr Zelensky of Ukraine had urged vigilance after the military noted the presence of Russian ships carrying cruise missiles in the Black Sea.  <a href="https://nyti.ms/3WIdkde"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Buffalo, it was ‘a very, very bad night in our community.’</h3>
+<sub>By Michael D. Regan and Kimiko de Freytas-Tamura</sub>
+<p>A barreling storm thrust piles of snow against the fronts of homes and businesses, pinning vehicles parked in roads and driveways. The few people who ventured out faced bitterly cold temperatures.  <a href="https://nyti.ms/3WoJwSX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An Iowa Sports Reporter Was Sent to Cover the Weather. He Did Not Like It.</h3>
+<sub>By Remy Tumin</sub>
+<p>After sporting events were canceled in Iowa, Mark Woodley was pressed into service covering the storm. “I didn’t realize that there was a 3:30 also in the morning until today,” he said.  <a href="https://nyti.ms/3WC1cuN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How the Worst Fears for Democracy Were Averted in 2022</h3>
 <sub>By Charles Homans, Jazmine Ulloa and Blake Hounshell</sub>
@@ -75,27 +99,9 @@ The US is seeing a surge of news articles related to politics and current events
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Will You Have a White Christmas This Year?</h3>
-<sub>By Judson Jones, Zach Levitt, Bea Malsky and John-Michael Murphy</sub>
-<p>A significant winter storm sweeping much of the nation means that snow is in the holiday forecast in many areas that don’t normally see a single flake.  <a href="https://nyti.ms/3Ve4jqZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An Iowa Sports Reporter Was Sent to Cover the Weather. He Did Not Like It.</h3>
-<sub>By Remy Tumin</sub>
-<p>After sporting events were canceled in Iowa, Mark Woodley was pressed into service covering the storm. “I didn’t realize that there was a 3:30 also in the morning until today,” he said.  <a href="https://nyti.ms/3WC1cuN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Their Final Moments: Victims of a Russian Atrocity in Bucha</h3>
-<sub>By Masha Froliak, Yousur Al-Hlou, Haley Willis, Aliza Aufrichtig and Rebecca Lieberman</sub>
-<p>Through text messages, death certificates, social media posts, satellite imagery and personal testimony, we retraced the final moments of dozens of Ukrainians killed along one street in Bucha.  <a href="https://nyti.ms/3FLf9z1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Shells Kherson, Killing 5 as Zelensky Warns More Strikes Could Mar Christmas</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>Ukraine’s leader had urged vigilance after the military noted the presence of Russian ships carrying cruise missiles in the Black Sea.  <a href="https://nyti.ms/3WIdkde"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Arizona Judge Rejects Kari Lake’s Effort to Overturn Her Election Loss</h3>
+<sub>By Alexandra Berzon and Charles Homans</sub>
+<p>Kari Lake, a Republican who was defeated by Katie Hobbs in the Arizona governor’s race, had made false election claims the centerpiece of her campaign.  <a href="https://nyti.ms/3hMywQy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -104,34 +110,28 @@ The US is seeing a surge of news articles related to politics and current events
 <p>Meet the people as old in their jobs as Tom Brady is in his.  <a href="https://nyti.ms/3vlrODX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Week 16 N.F.L. Playoff Picture: A Team-by-Team Guide</h3>
-<sub>By Josh Katz and Kevin Quealy</sub>
-<p>Some games are much more important than others.  <a href="https://nyti.ms/3FKWcMQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>N.F.L. Week 16 Predictions: Our Picks for Each Game</h3>
-<sub>By David Hill</sub>
-<p>The Eagles face the Cowboys in a game that looks very different without Jalen Hurts. And some matchups, like the Giants at the Vikings, are just plain fun.  <a href="https://nyti.ms/3hHKYAQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Their Final Moments: Victims of a Russian Atrocity in Bucha</h3>
+<sub>By Masha Froliak, Yousur Al-Hlou, Haley Willis, Aliza Aufrichtig and Rebecca Lieberman</sub>
+<p>Through text messages, death certificates, social media posts, satellite imagery and personal testimony, we retraced the final moments of dozens of Ukrainians killed along one street in Bucha.  <a href="https://nyti.ms/3FLf9z1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Detailed Evidence and a Call for Accountability, Jan. 6 Panel Seeks a Legacy</h3>
-<sub>By Luke Broadwater</sub>
-<p>The final report of the committee provides many new details on former President Donald J. Trump’s actions and a record for history. But Republicans will soon begin a campaign to discredit it.  <a href="https://nyti.ms/3C0DDmO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Taliban Bar Women From NGOs, Threatening to Worsen Crisis</h3>
+<sub>By Christina Goldbaum, Safiullah Padshah and Najim Rahim</sub>
+<p>A letter from Afghanistan’s Ministry of Economy warned that it would revoke the operating licenses of any organizations that defied the decree.  <a href="https://nyti.ms/3BZNcSZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Inside the Jan. 6 Committee</h3>
+<sub>By Robert Draper, Luke Broadwater and Philip Montgomery</sub>
+<p>Power struggles, resignations and made-for-TV moments — the untold story of the most important congressional investigation in generations.  <a href="https://nyti.ms/3js2klW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Report Leaves Questions About What Happened in Trump’s S.U.V.</h3>
-<sub>By Maggie Haberman</sub>
-<p>Witnesses had less detailed recollections than the account provided by Cassidy Hutchinson of a furious president reaching for the steering wheel when told he could not go to the Capitol.  <a href="https://nyti.ms/3Gd3R8i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A High-Tech Strategy for Keeping Drug Users Safe: Analyzing Their Fentanyl</h3>
-<sub>By Noah Weiland</sub>
-<p>Machines that examine samples of drugs can cost tens or even hundreds of thousands of dollars, but experts say they are an increasingly vital tool in stemming overdoses.  <a href="https://nyti.ms/3Wp0cKj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Christmas Tree Brings Life to a Destroyed Palestinian Village</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>For former residents of Iqrit, where Israeli forces leveled everything but the church in 1951, religious rituals bind them to a place from which they were expelled.  <a href="https://nyti.ms/3vflcHi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
