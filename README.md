@@ -60,13 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 24, Central Standard Time</p>
 <p>
-It has been a turbulent year worldwide. In the US, people in Buffalo are struggling to stay warm and safe in the dark without electricity. In Iowa, the cancellation of sporting events have caused an unexpected job for one sports reporter. Congress has cleared a massive spending package to keep the government running. There is also evidence of what happened leading up to and during the Capitol attack, which will hopefully hold people accountable. On top of that, there are new developments with Plan B One-Step morning-after pills being more truthfully labeled by the FDA, and recent legal issues with fraudulent activity from a trading firm having ties to a crypto startup. In Ukraine, there is low risk of an invasion meanwhile Ukraine internationally is receiving satellite-guided bombs from the US along with money. Closer to home, a politician has recently been charged with lying on his campaign biography and in other contexts. Lastly, this year saw many notable deaths including Queen Elizabeth II and others in the arts, politics and entertainment.</p>
+The US is seeing a surge of news articles related to politics and current events. In 2022, an important slice of the electorate voted against extremist Republican candidates and in 2024, Democrats and Republicans are gearing up for a possible campaign. Meanwhile, a big winter storm is hitting much of the US right now that could bring snow to areas not used to it. Understandably, events linked to Donald Trump are still in the news. Specifically, significant evidence was released showing his role in the Capitol riots on January 6th and there are still unanswered questions about his exact whereabouts on that day. Lastly, with overdoses on the rise, there&#39;s a new strategy emerging to detect fentanyl in people&#39;s drugs and keep them safe.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Buffalo, families huddle in dark, cold homes.</h3>
-<sub>By Michael D. Regan</sub>
-<p>  <a href="https://nyti.ms/3WtgOAI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<h3>How the Worst Fears for Democracy Were Averted in 2022</h3>
+<sub>By Charles Homans, Jazmine Ulloa and Blake Hounshell</sub>
+<p>A precariously narrow but consequential slice of the electorate broke with its own voting history to reject openly extremist Republican candidates — at least partly out of concern for the health of the political system.  <a href="https://nyti.ms/3vfRrq4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jingle Bell Time Is a Swell Time to Decide About a 2024 Campaign</h3>
+<sub>By Trip Gabriel</sub>
+<p>A host of Democrats and Republicans say they’ll discuss running for office with their families, weighing their political futures with eggnog, board games and maybe a wise uncle.  <a href="https://nyti.ms/3GcDgqT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Will You Have a White Christmas This Year?</h3>
+<sub>By Judson Jones, Zach Levitt, Bea Malsky and John-Michael Murphy</sub>
+<p>A significant winter storm sweeping much of the nation means that snow is in the holiday forecast in many areas that don’t normally see a single flake.  <a href="https://nyti.ms/3Ve4jqZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>An Iowa Sports Reporter Was Sent to Cover the Weather. He Did Not Like It.</h3>
@@ -74,11 +86,35 @@ It has been a turbulent year worldwide. In the US, people in Buffalo are struggl
 <p>After sporting events were canceled in Iowa, Mark Woodley was pressed into service covering the storm. “I didn’t realize that there was a 3:30 also in the morning until today,” he said.  <a href="https://nyti.ms/3WC1cuN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Clears $1.7 Trillion Spending Package, Averting Shutdown</h3>
-<sub>By Emily Cochrane</sub>
-<p>The bill, which passed the Senate on Thursday, now heads to President Biden’s desk for his signature.  <a href="https://nyti.ms/3WXzto7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Their Final Moments: Victims of a Russian Atrocity in Bucha</h3>
+<sub>By Masha Froliak, Yousur Al-Hlou, Haley Willis, Aliza Aufrichtig and Rebecca Lieberman</sub>
+<p>Through text messages, death certificates, social media posts, satellite imagery and personal testimony, we retraced the final moments of dozens of Ukrainians killed along one street in Bucha.  <a href="https://nyti.ms/3FLf9z1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Shells Kherson, Killing 5 as Zelensky Warns More Strikes Could Mar Christmas</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>Ukraine’s leader had urged vigilance after the military noted the presence of Russian ships carrying cruise missiles in the Black Sea.  <a href="https://nyti.ms/3WIdkde"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The Tom Brady of Other Jobs</h3>
+<sub>By Francesca Paris</sub>
+<p>Meet the people as old in their jobs as Tom Brady is in his.  <a href="https://nyti.ms/3vlrODX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Week 16 N.F.L. Playoff Picture: A Team-by-Team Guide</h3>
+<sub>By Josh Katz and Kevin Quealy</sub>
+<p>Some games are much more important than others.  <a href="https://nyti.ms/3FKWcMQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>N.F.L. Week 16 Predictions: Our Picks for Each Game</h3>
+<sub>By David Hill</sub>
+<p>The Eagles face the Cowboys in a game that looks very different without Jalen Hurts. And some matchups, like the Giants at the Vikings, are just plain fun.  <a href="https://nyti.ms/3hHKYAQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Detailed Evidence and a Call for Accountability, Jan. 6 Panel Seeks a Legacy</h3>
@@ -92,47 +128,11 @@ It has been a turbulent year worldwide. In the US, people in Buffalo are struggl
 <p>Witnesses had less detailed recollections than the account provided by Cassidy Hutchinson of a furious president reaching for the steering wheel when told he could not go to the Capitol.  <a href="https://nyti.ms/3Gd3R8i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>The F.D.A. Now Says It Plainly: Morning-After Pills Are Not Abortion Pills</h3>
-<sub>By Pam Belluck</sub>
-<p>Labels of Plan B One-Step had previously said, without scientific evidence, that the pill might block fertilized eggs from implanting in the womb.  <a href="https://nyti.ms/3GdpfdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Alameda Executive Says She Is ‘Truly Sorry’ for Her Role in FTX Collapse</h3>
-<sub>By Matthew Goldstein and Benjamin Weiser</sub>
-<p>Caroline Ellison of Alameda, a trading firm tied closely to FTX, admitted she participated in defrauding customers and misleading investors.  <a href="https://nyti.ms/3WnWdxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Did Sam Bankman-Fried Make His $250 Million Bail?</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>Though Mr. Bankman-Fried was not required to pay $250 million, the large amount of the bond in this high-profile case has raised questions about the federal bail process.  <a href="https://nyti.ms/3vaxbpI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Threat of Invasion From Belarus Low, Says Ukraine Spy Chief</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>In a wide-ranging interview on the state of the war, Kyrylo Budanov also spoke about Russia-Iran relations and Moscow’s obsession with taking the city of Bakhmut.  <a href="https://nyti.ms/3FTxQR5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Are JDAMs? And What Will They Do For Ukraine?</h3>
-<sub>By John Ismay</sub>
-<p>The United States is giving satellite-guided bombs to Kyiv for the first time as part of a new $1.85 billion military aid package.  <a href="https://nyti.ms/3WHQSAK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos’s Early Life: Odd Jobs, Bad Debts and Lawsuits</h3>
-<sub>By Michael Gold, Grace Ashford and Ellen Yan</sub>
-<p>Representative-elect George Santos, who is under scrutiny over potentially misrepresenting key parts of his campaign biography, had other undisclosed troubles in his early career.  <a href="https://nyti.ms/3Wo3FZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
-<h3>Notable Deaths of 2022</h3>
-<sub></sub>
-<p>Remembering Queen Elizabeth II, Mikhail S. Gorbachev, Sidney Poitier, Bill Russell, Loretta Lynn, Jiang Zemin, Madeleine Albright, Jean-Luc Godard, Shinzo Abe, Régine, Meat Loaf, Ivana Trump, Vin Scully and many others who died in 2022.  <a href="https://nyti.ms/3FOaxs5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<h3>A High-Tech Strategy for Keeping Drug Users Safe: Analyzing Their Fentanyl</h3>
+<sub>By Noah Weiland</sub>
+<p>Machines that examine samples of drugs can cost tens or even hundreds of thousands of dollars, but experts say they are an increasingly vital tool in stemming overdoses.  <a href="https://nyti.ms/3Wp0cKj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
