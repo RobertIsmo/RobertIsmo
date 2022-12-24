@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 23, Central Standard Time</p>
 <p>
-There is a lot of news from the US right now. Drivers were stranded overnight after getting stuck in a snow jam in Kentucky and whiteout conditions and frigid temperatures have forced a travel ban in Buffalo. In Iowa, a sports reporter was sent to cover the storm even though all sporting events had been canceled. The US House of Representatives recently passed a $1.7 trillion spending package to avoid a shutdown, and a committee studying the events of January 6th has released its final report asking for accountability from those responsible. Meanwhile, the FDA has clarified that morning-after pills are not abortion pills and there is an executive who admitted her role in the FTX collapse admitting she was wrong. There are also questions about how one of the country&#39;s billionaires made his $250 million bail, and the US is giving Ukraine guided bombs as part of a $1.85 billion aid package.</p>
+There are some tough winters going on in the US right now—drivers were stranded overnight in a jam on a snowy Kentucky highway and there was a travel ban announced in Buffalo due to whiteout conditions and frigid temperatures. Congress just passed a $1.7 Trillion spending package to avoid government shutdown and the bi-partisan Jan. 6 Panel released its final report with detailed evidence of former President Trump’s responsibility and accountability for the attack on the Capitol. Recently, the FDA announced that morning-after pills are not abortion pills contrary to what was previously thought. On another note, an executive from Alameda was ‘truly sorry’ for her role in a trading firm collapse and has admitted to defrauding customers and misleading investors. There is an interesting story about KYC predicting that the threat of invasion from Belarus is low and explaining Russia’s obsession with taking the city of Bakhmut, as well as looking into US giving satellite-guided bombs to Kyiv for the first time. Lastly, we have just learned more about Representative-elect George Santo’s early life, which included odd jobs, bad debts and lawsuits.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Drivers were stranded overnight in a jam on a snowy Kentucky highway.</h3>
@@ -90,12 +90,6 @@ There is a lot of news from the US right now. Drivers were stranded overnight af
 <h3>With Detailed Evidence and a Call for Accountability, Jan. 6 Panel Seeks a Legacy</h3>
 <sub>By Luke Broadwater</sub>
 <p>The final report of the committee provides many new details on former President Donald J. Trump’s actions and a record for history. But Republicans will soon begin a campaign to discredit it.  <a href="https://nyti.ms/3C0DDmO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Inside the Jan. 6 Committee</h3>
-<sub>By Robert Draper, Luke Broadwater and Philip Montgomery</sub>
-<p>Power struggles, resignations and made-for-TV moments — the untold story of the most important congressional investigation in generations.  <a href="https://nyti.ms/3js2klW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ There is a lot of news from the US right now. Drivers were stranded overnight af
 <h3>What Are JDAMs? And What Will They Do For Ukraine?</h3>
 <sub>By John Ismay</sub>
 <p>The United States is giving satellite-guided bombs to Kyiv for the first time as part of a new $1.85 billion military aid package.  <a href="https://nyti.ms/3WHQSAK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos’s Early Life: Odd Jobs, Bad Debts and Lawsuits</h3>
+<sub>By Michael Gold, Grace Ashford and Ellen Yan</sub>
+<p>Representative-elect George Santos, who is under scrutiny over potentially misrepresenting key parts of his campaign biography, had other undisclosed troubles in his early career.  <a href="https://nyti.ms/3Wo3FZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
