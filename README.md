@@ -60,24 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 24, Central Standard Time</p>
 <p>
-Right now, the US is being pummeled by a pre-holiday snowstorm that&#39;s affecting almost two-thirds of the population. In Buffalo, families are huddling in dark and cold homes, and in Iowa an unfortunate sports reporter was sent out to report on the storm in the middle of the night! On a brighter note, the House has just approved a $1.7 trillion spending package to avoid a shutdown. 
-
-Meanwhile, the Jan. 6 Capitol Riot panel is crafting a legacy report with detailed evidence in order to call for accountability. However, there are still some unanswered questions about what happened in Trump’s SUV during the riot. 
-
-On the health front, the Food and Drug Administration (FDA) cleared up misconceptions around morning-after pills that they are not associated with abortion pills.
-
-In business news, Caroline Ellison of Alameda, a trading firm tied closely to FTX admitted involvement in defrauding customers and misleading investors and apologized for her role. On a related note, there are lots of questions about how Sam Bankman-Fried managed to pay his $250 million bail after he was arrested. 
-
-Turning to international news... Ukraine&#39;s security chief has said that the threat of invasion from Belarus is currently low. He also spoke about Russia-Iranian relations and Moscow’s interest in holding jurisdiction over Bakhmut city. On another note, the USA is sending satellite guided bombs worth $1.85 billion to Ukraine as part of its military aid package. 
-
-Finally here at home, George Santos - who was recently elected into congress - has come under scrutiny due to inconsistencies in his campaign biography and some other undisclosed troubles from his past.</p>
+It has been a turbulent year worldwide. In the US, people in Buffalo are struggling to stay warm and safe in the dark without electricity. In Iowa, the cancellation of sporting events have caused an unexpected job for one sports reporter. Congress has cleared a massive spending package to keep the government running. There is also evidence of what happened leading up to and during the Capitol attack, which will hopefully hold people accountable. On top of that, there are new developments with Plan B One-Step morning-after pills being more truthfully labeled by the FDA, and recent legal issues with fraudulent activity from a trading firm having ties to a crypto startup. In Ukraine, there is low risk of an invasion meanwhile Ukraine internationally is receiving satellite-guided bombs from the US along with money. Closer to home, a politician has recently been charged with lying on his campaign biography and in other contexts. Lastly, this year saw many notable deaths including Queen Elizabeth II and others in the arts, politics and entertainment.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Like a Walk-In Freezer: Pre-Holiday Storm Pummels the Nation</h3>
-<sub>By Julie Bosman, Richard Fausset and Jamie McGee</sub>
-<p>Roughly two-thirds of the U.S. population — more than 200 million people — were under winter warnings or advisories at one point on Friday.  <a href="https://nyti.ms/3WEKZnV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Buffalo, families huddle in dark, cold homes.</h3>
 <sub>By Michael D. Regan</sub>
@@ -142,6 +126,12 @@ Finally here at home, George Santos - who was recently elected into congress - h
 <h3>George Santos’s Early Life: Odd Jobs, Bad Debts and Lawsuits</h3>
 <sub>By Michael Gold, Grace Ashford and Ellen Yan</sub>
 <p>Representative-elect George Santos, who is under scrutiny over potentially misrepresenting key parts of his campaign biography, had other undisclosed troubles in his early career.  <a href="https://nyti.ms/3Wo3FZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>Notable Deaths of 2022</h3>
+<sub></sub>
+<p>Remembering Queen Elizabeth II, Mikhail S. Gorbachev, Sidney Poitier, Bill Russell, Loretta Lynn, Jiang Zemin, Madeleine Albright, Jean-Luc Godard, Shinzo Abe, Régine, Meat Loaf, Ivana Trump, Vin Scully and many others who died in 2022.  <a href="https://nyti.ms/3FOaxs5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
