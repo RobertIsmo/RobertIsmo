@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 24, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. Russian President Putin is attempting to gain fealty from African countries in his war in Ukraine, which has led to at least 10 deaths in Kherson recently. In the US, many areas were hit by treacherous weather conditions; a sports reporter had to cover the storm and concerns over extremist Republican politicians was narrowly avoided in 2022. Meanwhile, potential candidates for 2024 are discussing running with their families while an Arizona judge rejected a losing Republican campaign&#39;s false election claims. In Afghanistan, the Taliban has barred women from NGOs, and in Palestine, former residents of Iqrit are using religious rituals to reconnect with a place they were expelled from decades ago.</p>
+There is a lot happening in the world right now. In Russia, President Putin is pushing for loyalty and has gained control in the Central African Republic, despite little response from the West. In Buffalo, there was a massive snowstorm that left thousands without power facing brutally cold temperatures. There is also a story about an individual trying to overturn their election loss in Arizona if false claims were made during their campaign. In Canada, another storm has battered the country causing further power outages and extreme cold weather that can freeze flesh in minutes. And in Afghanistan, the Taliban has barred women from attending NGOS which threatens to worsen the crisis even further.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Wants Fealty, and He’s Found It in Africa</h3>
 <sub>By Roger Cohen and Mauricio Lima</sub>
-<p>The Russian president has unleashed a new disorder on the world with his war in Ukraine, and the Central African Republic may be its ultimate expression.  <a href="https://nyti.ms/3C20Yoq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Least 10 Killed in Kherson Shelling, Fueling Anger Over Christmas Strikes</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>President Volodymyr Zelensky of Ukraine had urged vigilance after the military noted the presence of Russian ships carrying cruise missiles in the Black Sea.  <a href="https://nyti.ms/3WIdkde"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>As Moscow wages war in Ukraine, its mercenaries have already established control in the Central African Republic — with scant Western reaction.  <a href="https://nyti.ms/3C20Yoq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,21 +75,21 @@ There is a lot happening in the world right now. Russian President Putin is atte
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An Iowa Sports Reporter Was Sent to Cover the Weather. He Did Not Like It.</h3>
-<sub>By Remy Tumin</sub>
-<p>After sporting events were canceled in Iowa, Mark Woodley was pressed into service covering the storm. “I didn’t realize that there was a 3:30 also in the morning until today,” he said.  <a href="https://nyti.ms/3WC1cuN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<h3>He left work on Friday morning and still has not made it home.</h3>
+<sub>By Michael D. Regan</sub>
+<p>  <a href="https://nyti.ms/3vkUkFK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Storm Batters Canada, Leaving Thousands Without Power</h3>
+<sub>By Russell Goldman and Euan Ward</sub>
+<p>Even Canadians accustomed to the vagaries of Arctic weather systems contended with a long list of extremes, including cold that “freezes flesh in minutes.”  <a href="https://nyti.ms/3WmAje3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How the Worst Fears for Democracy Were Averted in 2022</h3>
 <sub>By Charles Homans, Jazmine Ulloa and Blake Hounshell</sub>
 <p>A precariously narrow but consequential slice of the electorate broke with its own voting history to reject openly extremist Republican candidates — at least partly out of concern for the health of the political system.  <a href="https://nyti.ms/3vfRrq4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jingle Bell Time Is a Swell Time to Decide About a 2024 Campaign</h3>
-<sub>By Trip Gabriel</sub>
-<p>A host of Democrats and Republicans say they’ll discuss running for office with their families, weighing their political futures with eggnog, board games and maybe a wise uncle.  <a href="https://nyti.ms/3GcDgqT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,6 +111,12 @@ There is a lot happening in the world right now. Russian President Putin is atte
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Lonely, Single and Over 50? China Has a Game Show for That.</h3>
+<sub>By Vivian Wang and Joy Dong</sub>
+<p>Several popular television programs in the country are helping to encourage conversations about the social, romantic and sexual needs of older Chinese people.  <a href="https://nyti.ms/3VhkUuh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Taliban Bar Women From NGOs, Threatening to Worsen Crisis</h3>
 <sub>By Christina Goldbaum, Safiullah Padshah and Najim Rahim</sub>
 <p>A letter from Afghanistan’s Ministry of Economy warned that it would revoke the operating licenses of any organizations that defied the decree.  <a href="https://nyti.ms/3BZNcSZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -128,11 +128,11 @@ There is a lot happening in the world right now. Russian President Putin is atte
 <p>Power struggles, resignations and made-for-TV moments — the untold story of the most important congressional investigation in generations.  <a href="https://nyti.ms/3js2klW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Christmas Tree Brings Life to a Destroyed Palestinian Village</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>For former residents of Iqrit, where Israeli forces leveled everything but the church in 1951, religious rituals bind them to a place from which they were expelled.  <a href="https://nyti.ms/3vflcHi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub></sub>
+<p>The rush to control panettone, a Christmas treat. Also in this edition: a Joan Didion mystery, and Harrison Ford on his first big TV role.  <a href="https://nyti.ms/3WhzMtM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
