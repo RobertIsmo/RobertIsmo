@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 25, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of tension in Ukraine related to Vladimir Putin&#39;s plan to take over one of the cities. Many people have started spying on Russian soldiers and even hunting them down. Putin recently declared his intention to have talks with Ukraine, while air-raid sirens sounded throughout the area. Despite this, some towns are still trying to keep Christmas alive and the pope just addressed that there is a &quot;grave famine of peace&quot;. In other areas, bad weather has led to death and destruction with Con Edison asking their customers to conserve energy. Police departments are going above and beyond to recruit new members by offering bonuses or extra attention. In Britain, people&#39;s cars routinely crash into bridges for some odd reason. St. Nicholas Church recently opened a new building after 21 years and $85 million and King Charles III is trying to make his monarchy more inclusive by celebrating multiple religions during the holidays. Finally, there&#39;s a NBA player&#x2F;businessman who bought the Phoenix Suns in a $4 billion deal, allowing him to live his sports dream. And finally, Emily in Paris remains a big cultural phenomenon despite getting widely mocked since releasing on Netflix!</p>
+There seems to be a lot happening in the world right now. In Ukraine, they recently had air-raid sirens sound and people are still celebrating Christmas even without power in some of their cities. Pope Francis gave a Christmas address asking for peace in the country, while Russian leader Vladimir Putin asserts that he is open to talks. Meanwhile, in Western New York there has been a storm resulting in seven deaths as emergency workers struggle to save those who are stranded at cars and homes without power. At a different front, in Britain there has been a bridge that keeps being bashed into with vehicles, sending cargo such as flowers and veggies across the road. Lastly, Charles III of Britain is becoming more inclusive with his monarchy by embracing Hanukkah and Diwali into the traditional Christmas address.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Citizen Spies Foiled Putin’s Grand Plan for One Ukrainian City</h3>
@@ -71,7 +71,7 @@ Right now, there&#39;s a lot of tension in Ukraine related to Vladimir Putin&#39
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Insists He Is Open to Talks, as Air-Raid Sirens Sound Across Ukraine</h3>
 <sub>By Andrew E. Kramer and Anton Troianovski</sub>
-<p>The alert was lifted in most areas after about two hours. President Vladimir V. Putin repeated the claim that he invaded Ukraine to defend Russia’s national interests.  <a href="https://nyti.ms/3FM00gQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ukrainians appeared intent on celebrating Christmas, even if scarce power left some cities darkened, save for generator-powered holiday light displays.  <a href="https://nyti.ms/3FM00gQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
