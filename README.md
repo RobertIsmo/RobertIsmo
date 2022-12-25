@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 25, Central Standard Time</p>
 <p>
-It looks like it&#39;s been a pretty eventful few days around the world. In Ukraine, citizens in one city have been fighting back against Russian forces and their plan, with spy and partisan cells coming together to thwart it. Meanwhile, Vladimir Putin is still claiming he invaded Ukraine to protect Russian interests and Christmas lights are being used as a symbol of standing strong despite the war. 
-
-Over in the US, parts of Buffalo are reeling from a winter storm that killed at least three people and left thousands without power while police departments are offering bonuses to lure recruits. In Britain, there&#39;s a railway bridge that gets bashed into by vehicles with alarming regularity. 
-
-In terms of fun stuff, there&#39;s a new Greek Orthodox house of worship in town (21 years after its destruction on 9&#x2F;11), an OK basketball player hoping to be a great NBA team owner, the Netflix series &#39;Emily is Still in Paris&#39;, and for those brave enough for some travel - Iceland&#39;s Ring Road offers drivers midnight sun (in Summer) plus snowy delights (in Winter).</p>
+Right now, it looks like the world is a bit of a mess. In Ukraine, Russian forces have taken over and people there are living under the threat of air-raid sirens and combat. Meanwhile, in the US, some regions have been hit by a winter storm that&#39;s killed at least three people and left thousands without power. Britain&#39;s also in the news, with a railway bridge that keeps getting crashed into due to a shallow underpass. To top things off, unfortunately there&#39;s also some war-related unrest going on. People in some places are putting up Christmas decorations in defiance of the darkness of war and hoping for better days ahead.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Citizen Spies Foiled Putin’s Grand Plan for One Ukrainian City</h3>
@@ -73,7 +69,7 @@ In terms of fun stuff, there&#39;s a new Greek Orthodox house of worship in town
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Insists He Is Ready for Peace Talks, as Air-Raid Sirens Sound Across Ukraine</h3>
+<h3>Putin Insists He Is Open to Talks, as Air-Raid Sirens Sound Across Ukraine</h3>
 <sub>By Andrew E. Kramer and Anton Troianovski</sub>
 <p>The alert was lifted in most areas after about two hours. President Vladimir V. Putin repeated the claim that he invaded Ukraine to defend Russia’s national interests.  <a href="https://nyti.ms/3FM00gQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
