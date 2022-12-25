@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 25, Central Standard Time</p>
 <p>
-Right now, it looks like the world is a bit of a mess. In Ukraine, Russian forces have taken over and people there are living under the threat of air-raid sirens and combat. Meanwhile, in the US, some regions have been hit by a winter storm that&#39;s killed at least three people and left thousands without power. Britain&#39;s also in the news, with a railway bridge that keeps getting crashed into due to a shallow underpass. To top things off, unfortunately there&#39;s also some war-related unrest going on. People in some places are putting up Christmas decorations in defiance of the darkness of war and hoping for better days ahead.</p>
+Right now, there&#39;s a lot of tension in Ukraine related to Vladimir Putin&#39;s plan to take over one of the cities. Many people have started spying on Russian soldiers and even hunting them down. Putin recently declared his intention to have talks with Ukraine, while air-raid sirens sounded throughout the area. Despite this, some towns are still trying to keep Christmas alive and the pope just addressed that there is a &quot;grave famine of peace&quot;. In other areas, bad weather has led to death and destruction with Con Edison asking their customers to conserve energy. Police departments are going above and beyond to recruit new members by offering bonuses or extra attention. In Britain, people&#39;s cars routinely crash into bridges for some odd reason. St. Nicholas Church recently opened a new building after 21 years and $85 million and King Charles III is trying to make his monarchy more inclusive by celebrating multiple religions during the holidays. Finally, there&#39;s a NBA player&#x2F;businessman who bought the Phoenix Suns in a $4 billion deal, allowing him to live his sports dream. And finally, Emily in Paris remains a big cultural phenomenon despite getting widely mocked since releasing on Netflix!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Citizen Spies Foiled Putin’s Grand Plan for One Ukrainian City</h3>
@@ -80,10 +80,22 @@ Right now, it looks like the world is a bit of a mess. In Ukraine, Russian force
 <p>One town is protecting a statue of St. Nick with sandbags, another is putting its Christmas tree underground and others are cranking up noisy generators to keep the holiday spirit alive.  <a href="https://nyti.ms/3YMMPFe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Christmas Address, Pope Bemoans ‘Grave Famine of Peace’</h3>
+<sub>By Jason Horowitz</sub>
+<p>Pope Francis urged the tens of thousands of faithful in St. Peter’s Square to pray for Ukraine and for others suffering in conflicts around the world.  <a href="https://nyti.ms/3YRVLtc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Western New York, Death Toll From Storm Rises to 7</h3>
+<sub>By Sarah Maslin Nir</sub>
+<p>Emergency workers on Christmas morning were still attempting to rescue people stranded in cars and homes without power.  <a href="https://nyti.ms/3GjAlhl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Winter Storm Leaves Buffalo and Its Region Reeling</h3>
-<sub>By Michael D. Regan, Kimiko de Freytas-Tamura and Jenna Russell</sub>
-<p>At least three people have died in Erie County, and thousands were without power. The bitingly cold temperatures are expected to persist.  <a href="https://nyti.ms/3GihiUg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Con Edison asks New York City customers to conserve energy.</h3>
+<sub>By Eduardo Medina</sub>
+<p>  <a href="https://nyti.ms/3vh8nMK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,6 +116,12 @@ Right now, it looks like the world is a bit of a mess. In Ukraine, Russian force
 <p>The Greek Orthodox house of worship was destroyed on Sept. 11. After 21 years and $85 million, its glowing new home has opened.  <a href="https://nyti.ms/3WskJxt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Charles Charts a Path as a King for All Holiday Seasons</h3>
+<sub>By Mark Landler</sub>
+<p>Adding a Hanukkah party and Diwali treats to the traditional Christmas address, King Charles III is publicly embracing a more inclusive monarchy in his first months.  <a href="https://nyti.ms/3Comvb9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>An OK Basketball Player Hopes to Be a Great N.B.A. Team Owner</h3>
 <sub>By Tania Ganguli and Sopan Deb</sub>
@@ -115,24 +133,6 @@ Right now, it looks like the world is a bit of a mess. In Ukraine, Russian force
 <sub>By Iva Dixit</sub>
 <p>The Netflix hit has been widely mocked from the beginning. But despite its flaws — or perhaps because of them — it’s a pop-culture phenomenon.  <a href="https://nyti.ms/3hMwTlP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub></sub>
-<p>The rush to control panettone, a Christmas treat. Also in this edition: a Joan Didion mystery, and Harrison Ford on his first big TV role.  <a href="https://nyti.ms/3WhzMtM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>How Well Do You Know Your Holiday Movies?</h3>
-<sub>By Nancy Coleman</sub>
-<p>Between a murderous Santa wielding a sledgehammer and an elf throwing a rave in a corporate mailroom, Christmas movies seem to get more outlandish every year.  <a href="https://nyti.ms/3PRH2dG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Black Ice and White Knuckles: Braving the Elements on Iceland’s Ring Road</h3>
-<sub>By Eric A. Taub</sub>
-<p>In summer, the roughly 830-mile route offers drivers midnight sun, along with plenty of traffic. Other times of the year, its snowy delights are more solitary, and slippery.  <a href="https://nyti.ms/3vdgQ3z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
