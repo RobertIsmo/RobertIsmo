@@ -60,72 +60,64 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 25, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In Ukraine, air raid sirens sounded across the entire country on Christmas morning due to an expected wave of missile attacks from Russia. Also in Russia, their mercenaries have gained control of the Central African Republic and caused concern among Western countries. In the US, a harsh winter storm has left Buffalo and its surrounding area reeling. Con Edison has even asked New Yorkers to conserve energy to help. Canada has been hit with a strong storm too and thousands are without power there. This election year may have scared some citizens but ultimately resulted in the rejection of extremists by a narrow majority. Kari Lake, a Republican candidate for Arizona governor, recently had her effort to overturn her election loss rejected by an Arizona judge. China is helping lonely single people over 50 find love through game shows. And finally, the Taliban has barred women from participating with NGOs which could worsen their current crisis.</p>
+It looks like it&#39;s been a pretty eventful few days around the world. In Ukraine, citizens in one city have been fighting back against Russian forces and their plan, with spy and partisan cells coming together to thwart it. Meanwhile, Vladimir Putin is still claiming he invaded Ukraine to protect Russian interests and Christmas lights are being used as a symbol of standing strong despite the war. 
+
+Over in the US, parts of Buffalo are reeling from a winter storm that killed at least three people and left thousands without power while police departments are offering bonuses to lure recruits. In Britain, there&#39;s a railway bridge that gets bashed into by vehicles with alarming regularity. 
+
+In terms of fun stuff, there&#39;s a new Greek Orthodox house of worship in town (21 years after its destruction on 9&#x2F;11), an OK basketball player hoping to be a great NBA team owner, the Netflix series &#39;Emily is Still in Paris&#39;, and for those brave enough for some travel - Iceland&#39;s Ring Road offers drivers midnight sun (in Summer) plus snowy delights (in Winter).</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Air-Raid Sirens Sound Across All of Ukraine on Christmas Morning</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>The authorities in Ukraine have been warning for days that Russia’s military planned another wave of missile attacks.  <a href="https://nyti.ms/3VwkRuM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Citizen Spies Foiled Putin’s Grand Plan for One Ukrainian City</h3>
+<sub>By Jeffrey Gettleman</sub>
+<p>A partisan cell in Kherson spied on, undermined and even hunted down Russian soldiers. Now that Vladimir V. Putin’s forces are gone, people feel free to talk — and to brag a little.  <a href="https://nyti.ms/3I2fS1M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Wants Fealty, and He’s Found It in Africa</h3>
-<sub>By Roger Cohen and Mauricio Lima</sub>
-<p>As Moscow wages war in Ukraine, its mercenaries have already established control in the Central African Republic — with scant Western reaction.  <a href="https://nyti.ms/3C20Yoq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<h3>Putin Insists He Is Ready for Peace Talks, as Air-Raid Sirens Sound Across Ukraine</h3>
+<sub>By Andrew E. Kramer and Anton Troianovski</sub>
+<p>The alert was lifted in most areas after about two hours. President Vladimir V. Putin repeated the claim that he invaded Ukraine to defend Russia’s national interests.  <a href="https://nyti.ms/3FM00gQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Ukraine, Christmas Lights Defy Darkness of War, and Children Ask for Peace</h3>
+<sub>By Maria Varenikova</sub>
+<p>One town is protecting a statue of St. Nick with sandbags, another is putting its Christmas tree underground and others are cranking up noisy generators to keep the holiday spirit alive.  <a href="https://nyti.ms/3YMMPFe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Winter Storm Leaves Buffalo and Its Region Reeling</h3>
 <sub>By Michael D. Regan, Kimiko de Freytas-Tamura and Jenna Russell</sub>
-<p>Here’s the latest on the bitter cold weather.  <a href="https://nyti.ms/3GihiUg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>At least three people have died in Erie County, and thousands were without power. The bitingly cold temperatures are expected to persist.  <a href="https://nyti.ms/3GihiUg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Con Edison asks New York City customers to conserve energy.</h3>
-<sub>By Eduardo Medina</sub>
-<p>  <a href="https://nyti.ms/3vh8nMK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<h3>As Applications Fall, Police Departments Lure Recruits With Bonuses and Attention</h3>
+<sub>By Mitch Smith</sub>
+<p>Many police chiefs say staffing levels have not rebounded from a wave of resignations that started with the pandemic and the 2020 unrest.  <a href="https://nyti.ms/3YMk7V1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Storm Batters Canada, Leaving Thousands Without Power</h3>
-<sub>By Russell Goldman and Euan Ward</sub>
-<p>Even Canadians accustomed to the vagaries of Arctic weather systems contended with a long list of extremes, including cold that “freezes flesh in minutes.”  <a href="https://nyti.ms/3WmAje3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Another Day, Another Crash: Life by Britain’s Most Bashed Bridge</h3>
+<sub>By Stephen Castle</sub>
+<p>A railway bridge with a shallow underpass is bashed into by vehicles with startling regularity, causing mostly embarrassment, but sending cargo — flowers, bicycles, eggs and potatoes — flying onto the roadway.  <a href="https://nyti.ms/3PQ8FDC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>St. Nicholas (the Church) Has Come to Town</h3>
+<sub>By Jane Margolies</sub>
+<p>The Greek Orthodox house of worship was destroyed on Sept. 11. After 21 years and $85 million, its glowing new home has opened.  <a href="https://nyti.ms/3WskJxt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Worst Fears for Democracy Were Averted in 2022</h3>
-<sub>By Charles Homans, Jazmine Ulloa and Blake Hounshell</sub>
-<p>A precariously narrow but consequential slice of the electorate broke with its own voting history to reject openly extremist Republican candidates — at least partly out of concern for the health of the political system.  <a href="https://nyti.ms/3vfRrq4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Arizona Judge Rejects Kari Lake’s Effort to Overturn Her Election Loss</h3>
-<sub>By Alexandra Berzon and Charles Homans</sub>
-<p>Kari Lake, a Republican who was defeated by Katie Hobbs in the Arizona governor’s race, had made false election claims the centerpiece of her campaign.  <a href="https://nyti.ms/3hMywQy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The Tom Brady of Other Jobs</h3>
-<sub>By Francesca Paris</sub>
-<p>Meet the people as old in their jobs as Tom Brady is in his.  <a href="https://nyti.ms/3vlrODX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Lonely, Single and Over 50? China Has a Game Show for That.</h3>
-<sub>By Vivian Wang and Joy Dong</sub>
-<p>Several popular television programs in the country are helping to encourage conversations about the social, romantic and sexual needs of older Chinese people.  <a href="https://nyti.ms/3VhkUuh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Taliban Bar Women From NGOs, Threatening to Worsen Crisis</h3>
-<sub>By Christina Goldbaum, Safiullah Padshah and Najim Rahim</sub>
-<p>A letter from Afghanistan’s Ministry of Economy warned that it would revoke the operating licenses of any organizations that defied the decree.  <a href="https://nyti.ms/3BZNcSZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>An OK Basketball Player Hopes to Be a Great N.B.A. Team Owner</h3>
+<sub>By Tania Ganguli and Sopan Deb</sub>
+<p>Mat Ishbia was a walk on at Michigan State 20 years ago before he became a wealthy businessman. His $4 billion deal to buy the Phoenix Suns could help him live his sports dream.  <a href="https://nyti.ms/3jtIVBb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Inside the Jan. 6 Committee</h3>
-<sub>By Robert Draper, Luke Broadwater and Philip Montgomery</sub>
-<p>Power struggles, resignations and made-for-TV moments — the untold story of the most important congressional investigation in generations.  <a href="https://nyti.ms/3js2klW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Emily Is Still in Paris. Why Are We Still Watching?</h3>
+<sub>By Iva Dixit</sub>
+<p>The Netflix hit has been widely mocked from the beginning. But despite its flaws — or perhaps because of them — it’s a pop-culture phenomenon.  <a href="https://nyti.ms/3hMwTlP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
@@ -133,6 +125,18 @@ There is a lot going on around the world right now. In Ukraine, air raid sirens 
 <sub></sub>
 <p>The rush to control panettone, a Christmas treat. Also in this edition: a Joan Didion mystery, and Harrison Ford on his first big TV role.  <a href="https://nyti.ms/3WhzMtM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>How Well Do You Know Your Holiday Movies?</h3>
+<sub>By Nancy Coleman</sub>
+<p>Between a murderous Santa wielding a sledgehammer and an elf throwing a rave in a corporate mailroom, Christmas movies seem to get more outlandish every year.  <a href="https://nyti.ms/3PRH2dG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Black Ice and White Knuckles: Braving the Elements on Iceland’s Ring Road</h3>
+<sub>By Eric A. Taub</sub>
+<p>In summer, the roughly 830-mile route offers drivers midnight sun, along with plenty of traffic. Other times of the year, its snowy delights are more solitary, and slippery.  <a href="https://nyti.ms/3vdgQ3z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
