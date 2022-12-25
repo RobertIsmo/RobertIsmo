@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 24, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Russia, President Putin is pushing for loyalty and has gained control in the Central African Republic, despite little response from the West. In Buffalo, there was a massive snowstorm that left thousands without power facing brutally cold temperatures. There is also a story about an individual trying to overturn their election loss in Arizona if false claims were made during their campaign. In Canada, another storm has battered the country causing further power outages and extreme cold weather that can freeze flesh in minutes. And in Afghanistan, the Taliban has barred women from attending NGOS which threatens to worsen the crisis even further.</p>
+Things in the world seem to be a bit chaotic right now. Putin is looking to increase his influence in Africa, and the Central African Republic is facing a lot of conflict with little Western reaction. Here in the US, we&#39;re contending with extreme cold weather and power outages, particularly in Canada where thousands are without power due to the storms. On a more positive note, despite fears for democracy and extremist Republican candidates, an important demographic managed to swing an election in the right direction. Arizona judge has also rejected an election loss by Kari Lake on false election claims. On a lighter note, we have some older people as successful in their jobs as Tom Brady and a game show dedicated to people over 50 who are single. In Afghanistan, there&#39;s an effort to bar women from NGOs causing further unrest. Back at home there&#39;s a congressional investigation into the events of January 6th and all around us there are holiday movies getting more and more outlandish every year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Wants Fealty, and He’s Found It in Africa</h3>
@@ -75,9 +75,9 @@ There is a lot happening in the world right now. In Russia, President Putin is p
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>He left work on Friday morning and still has not made it home.</h3>
-<sub>By Michael D. Regan</sub>
-<p>  <a href="https://nyti.ms/3vkUkFK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Con Edison asks New York City customers to conserve energy.</h3>
+<sub>By Eduardo Medina</sub>
+<p>  <a href="https://nyti.ms/3vh8nMK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -105,12 +105,6 @@ There is a lot happening in the world right now. In Russia, President Putin is p
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Their Final Moments: Victims of a Russian Atrocity in Bucha</h3>
-<sub>By Masha Froliak, Yousur Al-Hlou, Haley Willis, Aliza Aufrichtig and Rebecca Lieberman</sub>
-<p>Through text messages, death certificates, social media posts, satellite imagery and personal testimony, we retraced the final moments of dozens of Ukrainians killed along one street in Bucha.  <a href="https://nyti.ms/3FLf9z1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Lonely, Single and Over 50? China Has a Game Show for That.</h3>
 <sub>By Vivian Wang and Joy Dong</sub>
 <p>Several popular television programs in the country are helping to encourage conversations about the social, romantic and sexual needs of older Chinese people.  <a href="https://nyti.ms/3VhkUuh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -132,6 +126,12 @@ There is a lot happening in the world right now. In Russia, President Putin is p
 <h3>The Weekender</h3>
 <sub></sub>
 <p>The rush to control panettone, a Christmas treat. Also in this edition: a Joan Didion mystery, and Harrison Ford on his first big TV role.  <a href="https://nyti.ms/3WhzMtM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>How Well Do You Know Your Holiday Movies?</h3>
+<sub>By Nancy Coleman</sub>
+<p>Between a murderous Santa wielding a sledgehammer and an elf throwing a rave in a corporate mailroom, Christmas movies seem to get more outlandish every year.  <a href="https://nyti.ms/3PRH2dG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
