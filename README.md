@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, December 24, Central Standard Time</p>
+<p>It is Sunday, December 25, Central Standard Time</p>
 <p>
-Things in the world seem to be a bit chaotic right now. Putin is looking to increase his influence in Africa, and the Central African Republic is facing a lot of conflict with little Western reaction. Here in the US, we&#39;re contending with extreme cold weather and power outages, particularly in Canada where thousands are without power due to the storms. On a more positive note, despite fears for democracy and extremist Republican candidates, an important demographic managed to swing an election in the right direction. Arizona judge has also rejected an election loss by Kari Lake on false election claims. On a lighter note, we have some older people as successful in their jobs as Tom Brady and a game show dedicated to people over 50 who are single. In Afghanistan, there&#39;s an effort to bar women from NGOs causing further unrest. Back at home there&#39;s a congressional investigation into the events of January 6th and all around us there are holiday movies getting more and more outlandish every year.</p>
+Right now, it looks like the world is in a very unstable state. Russian President Putin is doing whatever it takes to exert control over different countries, particularly in Africa, and there has been very little reaction from the West. Closer to home, extreme weather conditions are causing power outages nationwide, and Con Edison is asking customers in New York City to conserve energy as much as possible. Canada is also seeing some extreme weather, where cold temperatures have reached &quot;freezing flesh in minutes&quot; levels. There are also increasing fears about the state of democracy around the world, with increasingly extremist candidates running for positions of power and the ramifications of the 2020 US Presidential Election still being felt today. Finally, Taliban forces in Afghanistan have put forth a decree that prevents women from working for NGOs.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Wants Fealty, and He’s Found It in Africa</h3>
@@ -69,9 +69,9 @@ Things in the world seem to be a bit chaotic right now. Putin is looking to incr
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Buffalo, it was ‘a very, very bad night in our community.’</h3>
-<sub>By Michael D. Regan and Kimiko de Freytas-Tamura</sub>
-<p>A barreling storm thrust piles of snow against the fronts of homes and businesses, pinning vehicles parked in roads and driveways. The few people who ventured out faced bitterly cold temperatures.  <a href="https://nyti.ms/3WoJwSX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Winter Storm Leaves Buffalo and Its Region Reeling</h3>
+<sub>By Michael D. Regan, Kimiko de Freytas-Tamura and Jenna Russell</sub>
+<p>Here’s the latest on the bitter cold weather.  <a href="https://nyti.ms/3GihiUg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
