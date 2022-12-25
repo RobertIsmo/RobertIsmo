@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 25, Central Standard Time</p>
 <p>
-Right now, it looks like the world is in a very unstable state. Russian President Putin is doing whatever it takes to exert control over different countries, particularly in Africa, and there has been very little reaction from the West. Closer to home, extreme weather conditions are causing power outages nationwide, and Con Edison is asking customers in New York City to conserve energy as much as possible. Canada is also seeing some extreme weather, where cold temperatures have reached &quot;freezing flesh in minutes&quot; levels. There are also increasing fears about the state of democracy around the world, with increasingly extremist candidates running for positions of power and the ramifications of the 2020 US Presidential Election still being felt today. Finally, Taliban forces in Afghanistan have put forth a decree that prevents women from working for NGOs.</p>
+There is a lot going on around the world right now. In Ukraine, air raid sirens sounded across the entire country on Christmas morning due to an expected wave of missile attacks from Russia. Also in Russia, their mercenaries have gained control of the Central African Republic and caused concern among Western countries. In the US, a harsh winter storm has left Buffalo and its surrounding area reeling. Con Edison has even asked New Yorkers to conserve energy to help. Canada has been hit with a strong storm too and thousands are without power there. This election year may have scared some citizens but ultimately resulted in the rejection of extremists by a narrow majority. Kari Lake, a Republican candidate for Arizona governor, recently had her effort to overturn her election loss rejected by an Arizona judge. China is helping lonely single people over 50 find love through game shows. And finally, the Taliban has barred women from participating with NGOs which could worsen their current crisis.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Air-Raid Sirens Sound Across All of Ukraine on Christmas Morning</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>The authorities in Ukraine have been warning for days that Russia’s military planned another wave of missile attacks.  <a href="https://nyti.ms/3VwkRuM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Wants Fealty, and He’s Found It in Africa</h3>
 <sub>By Roger Cohen and Mauricio Lima</sub>
@@ -126,12 +132,6 @@ Right now, it looks like the world is in a very unstable state. Russian Presiden
 <h3>The Weekender</h3>
 <sub></sub>
 <p>The rush to control panettone, a Christmas treat. Also in this edition: a Joan Didion mystery, and Harrison Ford on his first big TV role.  <a href="https://nyti.ms/3WhzMtM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>How Well Do You Know Your Holiday Movies?</h3>
-<sub>By Nancy Coleman</sub>
-<p>Between a murderous Santa wielding a sledgehammer and an elf throwing a rave in a corporate mailroom, Christmas movies seem to get more outlandish every year.  <a href="https://nyti.ms/3PRH2dG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
