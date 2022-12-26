@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 25, Central Standard Time</p>
 <p>
-Right now, it seems like a lot is going on in the world. Police departments are trying to hire additional staff due to a wave of resignations following the pandemic and 2020 unrest. There have been multiple natural disasters such as a devastating blizzard in Buffalo and a bus crash in Canada on Christmas Eve. In South Korea, a tour group became stranded near Buffalo and had to spend the weekend with the homeowners luckily with a well-stocked kitchen. Additionally, there are many developments in popular culture such as Charles embracing of a more inclusive monarchy and various television series offering some of the best bites. Lastly, people seem to be able to find comfort in activities such as easy holiday dessert recipes and making use of air fryers if they got one for the holidays, as well as sports-fashion collaborations creating business opportunities.</p>
+It looks to be a chaotic time in the world right now. Police departments are struggling with staffing shortages due to pandemic-related repercussions and others are offering bonuses to luring recruits. On Christmas Eve, there was a bus crash in Canada that resulted in four deaths and dozens of injuries. A South Korean tour group got stranded near Buffalo after a huge blizzard. In Ukraine, citizens are fighting back against Russian forces by spying on them and actively undermining their operations. Additionally, in Memphis, high schools are implementing specialized literacy programs to support students in academics other than English. The British monarchy has been embracing a more inclusive approach with King Charles III, while in Britain there&#39;s a bridge that is constantly being bashed into by vehicles.
+
+Looking on the brighter side, 2021 has seen an incredible rise in the intersection between sports and fashion, while there have also been some amazing TV offerings like ‘Barry’ and ‘This Fool’. If you’re looking for easier dessert recipes for this holiday season, you won&#39;t be disappointed as there are many no-fuss items to choose from. We&#39;ve also been seeing families gifting air fryers so if you were lucky enough to receive one then there are plenty of great recipes out there for you to try too!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Applications Fall, Police Departments Lure Recruits With Bonuses and Attention</h3>
@@ -71,7 +73,7 @@ Right now, it seems like a lot is going on in the world. Police departments are 
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>In Buffalo, Even the Rescuers Needed Rescuing</h3>
 <sub>By Sarah Maslin Nir and Michael D. Regan</sub>
-<p>Two days after a raging blizzard struck, residents remained trapped in cars and in homes without heat. The death toll rose to 12.  <a href="https://nyti.ms/3GjAlhl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Two days after a raging blizzard struck, residents remained trapped in cars and in homes without heat. The death toll in the region rose to 17.  <a href="https://nyti.ms/3GjAlhl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
