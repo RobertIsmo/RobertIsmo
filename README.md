@@ -59,17 +59,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 26, Central Standard Time</p>
-<p>This year has been incredibly difficult due to the pandemic and social unrest, but some good news is that many police departments in the U.S. are luring recruits with bonuses and attention, hoping staffing levels will rebound.
+<p>
+There is a lot happening in the world right now. Police departments in the US are dealing with a wave of resignations, which started during the pandemic and last year&#39;s civil unrest, and are having to resort to offering bonuses and attention to recruits. In Buffalo, there was a blizzard that has trapped people in their homes and cars without heat, resulting in 17 deaths. There was also a tragic bus crash in Canada on Christmas Eve which killed 4 people and injured dozens more. A South Korean tour group got stranded near Buffalo as well. Internationally, there was a fascinating story about how citizen spies foiled Putin&#39;s grand plan for one Ukrainian city. 
 
-Buffalo experienced an extreme blizzard this past Christmas season, and many residents were stranded without heat and power. Sadly, the death toll in the region rose to 17 due to the storm. Other than this tragedy, a tour group from South Korea got stranded near Buffalo, and luckily were able to stay with a well-stocked homeowners until it was safe for them to leave.
-
-Elsewhere in the world, a bus crashed in Canada on Christmas Eve due to extremely icy road conditions, killing 4 people and injuring dozens of others. In Ukraine, citizen spies helped thwart Putin&#39;s grand plan for one city by spying on and confronting Russian forces that have since left.
-
-On the brighter side, Memphis public high schools have started embedding literacy lessons into every academic class - even biology - resulting from an educational &#39;phonics movement&#39;. In Britain, King Charles III recently embraced an inclusive monarchy by adding a Hanukkah party and Diwali treats to the traditional Christmas address.
-
-In terms of entertainment this year, we were still able to watch favorites like Barry, Ms. Marvel, Pachinko and Station Eleven due to streaming services - although not as many people watched in theatres or on actual TV channels due to restrictions put in place by COVID-19. 
-
-For those looking for recipes after a long year of shut-ins, there are many easy holiday dessert recipes circulating this season as well as air-fryer recipes now that these appliances have become popular gifts during the holidays. Finally, fashion and sports won big together this year despite all the obstacles with more fans becoming consumers from home rather than attending events in person.</p>
+In Memphis, high schools are introducing new phonics literacy lessons into their classes and King Charles III is taking steps to make his monarchy more inclusive. In Britain, there is an interesting story about a bridge that keeps getting crashed into by vehicles resulting in cargo such as flowers and potatoes being spread around the roadway! On top of all this, we&#39;ve had some great TV episodes this year, easy recipes for holiday desserts and plenty of great air-fryer recipes if you happen to have got one for the holidays. We&#39;ve also seen fashion and sports joining together in a big way this year and creating massive business opportunities.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Applications Fall, Police Departments Lure Recruits With Bonuses and Attention</h3>
@@ -92,7 +85,7 @@ For those looking for recipes after a long year of shut-ins, there are many easy
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>They Traveled From South Korea. They Got Stranded Near Buffalo.</h3>
 <sub>By Christine Chung</sub>
-<p>A South Korean tour group’s van became stuck in the snow outside a house in Williamsville, N.Y. They spent the weekend with the homeowners — who luckily had a well-stocked kitchen.  <a href="https://nyti.ms/3Q7JwEV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A South Korean tour group’s van became stuck in the snow outside a house in Williamsville, N.Y. They spent the weekend with the residents — who luckily had a well-stocked kitchen.  <a href="https://nyti.ms/3Q7JwEV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
