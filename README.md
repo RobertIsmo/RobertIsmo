@@ -60,26 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 26, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. Police departments in the US are dealing with a wave of resignations, which started during the pandemic and last year&#39;s civil unrest, and are having to resort to offering bonuses and attention to recruits. In Buffalo, there was a blizzard that has trapped people in their homes and cars without heat, resulting in 17 deaths. There was also a tragic bus crash in Canada on Christmas Eve which killed 4 people and injured dozens more. A South Korean tour group got stranded near Buffalo as well. Internationally, there was a fascinating story about how citizen spies foiled Putin&#39;s grand plan for one Ukrainian city. 
-
-In Memphis, high schools are introducing new phonics literacy lessons into their classes and King Charles III is taking steps to make his monarchy more inclusive. In Britain, there is an interesting story about a bridge that keeps getting crashed into by vehicles resulting in cargo such as flowers and potatoes being spread around the roadway! On top of all this, we&#39;ve had some great TV episodes this year, easy recipes for holiday desserts and plenty of great air-fryer recipes if you happen to have got one for the holidays. We&#39;ve also seen fashion and sports joining together in a big way this year and creating massive business opportunities.</p>
+The world is a busy place right now! Democrats are working on legislation to expand voting access. There&#39;s a debate around people wearing masks and some people still refusing to. China is getting good at controlling the pandemic but its leadership has been questioned by the public. In Buffalo, people were rescued after blizzard conditions trapped them without heat and power. A son of an influential priest in the Bronx just inherited a $7 million fortune to his surprise. In Memphis, high schools are focusing on phonics literacy lessons across all subjects. Asian gamblers are being targeted by casinos in New York. West African fishermen need more ice while it&#39;s becoming increasingly expensive. Lastly, the climate coverage this year is focusing on some positive developments, like huge environment legislation and guessing games about trash!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Applications Fall, Police Departments Lure Recruits With Bonuses and Attention</h3>
-<sub>By Mitch Smith</sub>
-<p>Many police chiefs say staffing levels have not rebounded from a wave of resignations that started with the pandemic and the 2020 unrest.  <a href="https://nyti.ms/3YMk7V1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<h3>Democrats, Feeling New Strength, Plan to Go on Offense on Voting Rights</h3>
+<sub>By Reid J. Epstein</sub>
+<p>After retaining most of the governor’s offices they hold and capturing the legislatures in Michigan and Minnesota, Democrats are putting forward a long list of proposals to expand voting access.  <a href="https://nyti.ms/3WpTROI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Last Holdouts</h3>
+<sub>By Amy Harmon</sub>
+<p>It can be tough being a committed mask wearer when others have long since moved on.  <a href="https://nyti.ms/3hLgDBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>With ‘Zero Covid,’ China Proved It’s Good at Control. Governance Is Harder.</h3>
+<sub>By Li Yuan</sub>
+<p>For a powerful government that has bragged about its command of the country, its absence at a moment of crisis has made the public question its credibility.  <a href="https://nyti.ms/3I2WtO7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>In Buffalo, Even the Rescuers Needed Rescuing</h3>
 <sub>By Sarah Maslin Nir and Michael D. Regan</sub>
 <p>Two days after a raging blizzard struck, residents remained trapped in cars and in homes without heat. The death toll in the region rose to 17.  <a href="https://nyti.ms/3GjAlhl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>4 Dead and Dozens Injured in Bus Crash in Canada on Christmas Eve</h3>
-<sub>By Christopher Mele</sub>
-<p>The authorities said an investigation was continuing but that “it is believed that extremely icy road conditions” caused the bus to roll over.  <a href="https://nyti.ms/3WsmlYe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -89,10 +93,22 @@ In Memphis, high schools are introducing new phonics literacy lessons into their
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Citizen Spies Foiled Putin’s Grand Plan for One Ukrainian City</h3>
-<sub>By Jeffrey Gettleman</sub>
-<p>A partisan cell in Kherson spied on, undermined and even hunted down Russian soldiers. Now that Vladimir V. Putin’s forces are gone, people feel free to talk — and to brag a little.  <a href="https://nyti.ms/3I2fS1M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Nord Stream Mystery, Baltic Seabed Provides a Nearly Ideal Crime Scene</h3>
+<sub>By Rebecca R. Ruiz and Justin Scheck</sub>
+<p>As investigators piece together clues, Russia has quietly taken steps to begin expensive repairs on the giant gas pipeline, complicating theories about who was behind September’s sabotage.  <a href="https://nyti.ms/3GgyqtO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Did a Fourth Grader Write This? Or the New Chatbot?</h3>
+<sub>By Claire Cain Miller, Adam Playford, Larry Buchanan and Aaron Krolik</sub>
+<p>Don’t be surprised if you can’t always tell. Neither could two teachers, a professor, nor even the renowned children’s author Judy Blume.  <a href="https://nyti.ms/3GiaIND"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>One Final Twist in the Rev. Louis Gigante’s Colorful Life: A Son</h3>
+<sub>By Michael Wilson</sub>
+<p>Father Gigante, a towering figure in the Bronx, left a $7 million fortune entirely to the son he had while he was a priest.  <a href="https://nyti.ms/3WFzT24"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Memphis, the Phonics Movement Comes to High School</h3>
@@ -100,41 +116,23 @@ In Memphis, high schools are introducing new phonics literacy lessons into their
 <p>Literacy lessons are embedded in every academic class. Even in biology.  <a href="https://nyti.ms/3WH7BUT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Charles Charts a Path as a King for All Holiday Seasons</h3>
-<sub>By Mark Landler</sub>
-<p>Adding a Hanukkah party and Diwali treats to the traditional Christmas address, King Charles III is publicly embracing a more inclusive monarchy in his first months.  <a href="https://nyti.ms/3Comvb9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Casinos Target a Vulnerable Clientele: Older Asian Gamblers</h3>
+<sub>By Nicole Hong, Mable Chan and Janice Chung</sub>
+<p>The industry’s efforts to lure Asian customers will be a significant factor looming over the upcoming application process for new casino licenses in New York.  <a href="https://nyti.ms/3WnaR81"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Another Day, Another Crash: Life by Britain’s Most Bashed Bridge</h3>
-<sub>By Stephen Castle</sub>
-<p>A railway bridge with a shallow underpass is bashed into by vehicles with startling regularity, causing mostly embarrassment, but sending cargo — flowers, bicycles, eggs and potatoes — flying onto the roadway.  <a href="https://nyti.ms/3PQ8FDC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<h3>Nets, Buoys, Salt, Ice. For West African Fishermen, ‘Everything’ Is Going Up.</h3>
+<sub>By Elian Peltier</sub>
+<p>Fishermen in Sierra Leone need large amounts of ice to store their catch on multiday journeys. Like many commodities, it has become pricey.  <a href="https://nyti.ms/3GfW0qy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Best TV Episodes of 2022</h3>
-<sub>By James Poniewozik, Mike Hale and Margaret Lyons</sub>
-<p>TV in the streaming era is an endless feast. This year, series like “Barry,” “Ms. Marvel,” “Pachinko,” “Station Eleven” and “This Fool” offered some of the best bites.  <a href="https://nyti.ms/3Wmop40"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Our Favorite 2022 Climate Coverage. (Some of It’s Even Good News!)</h3>
+<sub>By The New York Times</sub>
+<p>Huge legislation. Secret Amazon airstrips. Political shenanigans. Also a trash guessing game. Reporters and editors from The Times’s Climate Desk share pieces they particularly liked.  <a href="https://nyti.ms/3PKMK0L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>20 Easy Holiday Dessert Recipes</h3>
-<sub>By Margaux Laskey</sub>
-<p>Cookies, cakes and more no-fuss treats for this holiday season.  <a href="https://nyti.ms/3aguFVp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Our Best Air-Fryer Recipes</h3>
-<sub>By Eleanore Park</sub>
-<p>Did you happen to get one for the holidays? Here are recipes for pork chops, chicken breasts, broccoli and more.  <a href="https://nyti.ms/3GaBPu6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Sports and Fashion Won Big Together This Year</h3>
-<sub>By Vanessa Friedman</sub>
-<p>When the teams are brands and the brands are stars and the fans are consumers, everything blends into one enormous business opportunity.  <a href="https://nyti.ms/3jhuYpD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
