@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 26, Central Standard Time</p>
 <p>
-The world is a busy place right now! Democrats are working on legislation to expand voting access. There&#39;s a debate around people wearing masks and some people still refusing to. China is getting good at controlling the pandemic but its leadership has been questioned by the public. In Buffalo, people were rescued after blizzard conditions trapped them without heat and power. A son of an influential priest in the Bronx just inherited a $7 million fortune to his surprise. In Memphis, high schools are focusing on phonics literacy lessons across all subjects. Asian gamblers are being targeted by casinos in New York. West African fishermen need more ice while it&#39;s becoming increasingly expensive. Lastly, the climate coverage this year is focusing on some positive developments, like huge environment legislation and guessing games about trash!</p>
+There has been a huge push for voter rights in the US, which is causing tensions between political parties. Covid-19 has been difficult to control, and China has had success in curbing the virus. There have been extreme weather events worldwide, such as a blizzard in Buffalo and record military incursions with China and Taiwan. Schools around the world are looking into new ways to offer literacy lessons, and the climate crisis is continuing to be one of the top global issues.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Democrats, Feeling New Strength, Plan to Go on Offense on Voting Rights</h3>
@@ -80,6 +80,12 @@ The world is a busy place right now! Democrats are working on legislation to exp
 <p>For a powerful government that has bragged about its command of the country, its absence at a moment of crisis has made the public question its credibility.  <a href="https://nyti.ms/3I2WtO7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Nord Stream Mystery, Baltic Seabed Provides a Nearly Ideal Crime Scene</h3>
+<sub>By Rebecca R. Ruiz and Justin Scheck</sub>
+<p>As investigators piece together clues, Russia has quietly taken steps to begin expensive repairs on the giant gas pipeline, complicating theories about who was behind September’s sabotage.  <a href="https://nyti.ms/3GgyqtO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>In Buffalo, Even the Rescuers Needed Rescuing</h3>
 <sub>By Sarah Maslin Nir and Michael D. Regan</sub>
@@ -91,12 +97,6 @@ The world is a busy place right now! Democrats are working on legislation to exp
 <sub>By Christine Chung</sub>
 <p>A South Korean tour group’s van became stuck in the snow outside a house in Williamsville, N.Y. They spent the weekend with the residents — who luckily had a well-stocked kitchen.  <a href="https://nyti.ms/3Q7JwEV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Nord Stream Mystery, Baltic Seabed Provides a Nearly Ideal Crime Scene</h3>
-<sub>By Rebecca R. Ruiz and Justin Scheck</sub>
-<p>As investigators piece together clues, Russia has quietly taken steps to begin expensive repairs on the giant gas pipeline, complicating theories about who was behind September’s sabotage.  <a href="https://nyti.ms/3GgyqtO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Did a Fourth Grader Write This? Or the New Chatbot?</h3>
@@ -110,22 +110,22 @@ The world is a busy place right now! Democrats are working on legislation to exp
 <p>Father Gigante, a towering figure in the Bronx, left a $7 million fortune entirely to the son he had while he was a priest.  <a href="https://nyti.ms/3WFzT24"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Memphis, the Phonics Movement Comes to High School</h3>
-<sub>By Sarah Mervosh</sub>
-<p>Literacy lessons are embedded in every academic class. Even in biology.  <a href="https://nyti.ms/3WH7BUT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Casinos Target a Vulnerable Clientele: Older Asian Gamblers</h3>
 <sub>By Nicole Hong, Mable Chan and Janice Chung</sub>
 <p>The industry’s efforts to lure Asian customers will be a significant factor looming over the upcoming application process for new casino licenses in New York.  <a href="https://nyti.ms/3WnaR81"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Memphis, the Phonics Movement Comes to High School</h3>
+<sub>By Sarah Mervosh</sub>
+<p>Literacy lessons are embedded in every academic class. Even in biology.  <a href="https://nyti.ms/3WH7BUT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Nets, Buoys, Salt, Ice. For West African Fishermen, ‘Everything’ Is Going Up.</h3>
-<sub>By Elian Peltier</sub>
-<p>Fishermen in Sierra Leone need large amounts of ice to store their catch on multiday journeys. Like many commodities, it has become pricey.  <a href="https://nyti.ms/3GfW0qy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>With Record Military Incursions, China Warns Taiwan and the U.S.</h3>
+<sub>By Amy Chang Chien and Chang Che</sub>
+<p>Taiwan said China sent 71 military aircraft near the island days after President Biden bolstered U.S. support for Taiwan.  <a href="https://nyti.ms/3GjB9mc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
