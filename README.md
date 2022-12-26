@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 26, Central Standard Time</p>
 <p>
-There are a lot of troubling events currently happening in the world. Currently, many countries and communities are experiencing the effects of the Covid-19 pandemic, and medical workers are facing increasing strain with each passing day. Protests and demonstrations have also been taking place around the world to fight against police brutality and systemic racism. Additionally, there have been recent scandals relating to corporations, governments, and celebrities. All of these issues present difficult challenges, but they also give us hope that we can bring about positive change in 2021.</p>
+There&#39;s a lot going on in the world right now. In Europe, there is an investigation into sabotage on a gas pipelines involving Russia. Meanwhile Ukraine is proposing a peace summit for February. In the US, people are still struggling to live and work with the COVID pandemic, while Democrats are pushing for more voting rights. In Asia, China is easing Covid travel restrictions after almost three years of lockdowns. The US has also seen its own share of tragedies; a blizzard has caused power outages in New York and the sister survivors of a mass shooting in Colorado are struggling this holiday season.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Nord Stream Mystery, Baltic Seabed Provides a Nearly Ideal Crime Scene</h3>
+<sub>By Rebecca R. Ruiz and Justin Scheck</sub>
+<p>As investigators piece together clues, Russia has quietly taken steps to begin expensive repairs on the giant gas pipeline, complicating theories about who was behind September’s sabotage.  <a href="https://nyti.ms/3GgyqtO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine’s foreign minister proposes peace summit for February.</h3>
+<sub>By Carly Olson</sub>
+<p>  <a href="https://nyti.ms/3VnMw0H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Last Holdouts</h3>
 <sub>By Amy Harmon</sub>
@@ -75,15 +87,15 @@ There are a lot of troubling events currently happening in the world. Currently,
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Nord Stream Mystery, Baltic Seabed Provides a Nearly Ideal Crime Scene</h3>
-<sub>By Rebecca R. Ruiz and Justin Scheck</sub>
-<p>As investigators piece together clues, Russia has quietly taken steps to begin expensive repairs on the giant gas pipeline, complicating theories about who was behind September’s sabotage.  <a href="https://nyti.ms/3GgyqtO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China to Drop Covid Quarantine for Incoming Travelers</h3>
+<sub>By Vivian Wang</sub>
+<p>From Jan. 8, visitors will be required to show only a negative P.C.R. test taken within 48 hours. The restrictions had cut the country off from the rest of the world for nearly three years.  <a href="https://nyti.ms/3I1Wkua"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>27 Dead in Western New York Blizzard, With More Snow on Way</h3>
+<h3>27 Dead in ‘Once in a Generation’ Blizzard in Western New York</h3>
 <sub>By Michael Gold and Mihir Zaveri</sub>
-<p>Thousands remain without power in the Buffalo region, where there is as much as 49 inches of snow on the ground.  <a href="https://nyti.ms/3PSvOW2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Thousands remain without power in the Buffalo region, where there is as much as 49 inches of snow on the ground, with more still falling.  <a href="https://nyti.ms/3PSvOW2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -91,6 +103,12 @@ There are a lot of troubling events currently happening in the world. Currently,
 <sub>By Christine Chung</sub>
 <p>A South Korean tour group’s van became stuck in the snow outside a house in Williamsville, N.Y. They spent the weekend with the residents — who luckily had a well-stocked kitchen.  <a href="https://nyti.ms/3Q7JwEV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Pandemic Woes Lead Met Opera to Tap Endowment and Embrace New Work</h3>
+<sub>By Javier C. Hernández</sub>
+<p>Facing tepid ticket sales, the company will withdraw up to $30 million from its endowment and stage more operas by living composers, which have been outselling the classics.  <a href="https://nyti.ms/3viifFW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Democrats, Feeling New Strength, Plan to Go on Offense on Voting Rights</h3>
@@ -115,24 +133,6 @@ There are a lot of troubling events currently happening in the world. Currently,
 <sub>By Jack Healy</sub>
 <p>Charlene and James Slaugh were both wounded at Club Q. Families impacted by hundreds of mass shootings this year face a tough holiday season.  <a href="https://nyti.ms/3Wrr4Js"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Casinos Target a Vulnerable Clientele: Older Asian Gamblers</h3>
-<sub>By Nicole Hong, Mable Chan and Janice Chung</sub>
-<p>The industry’s efforts to lure Asian customers will be a significant factor looming over the upcoming application process for new casino licenses in New York.  <a href="https://nyti.ms/3WnaR81"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Motorsports Is Looking for the Next Danica Patrick. And the One After That.</h3>
-<sub>By Gregory Leporati</sub>
-<p>Despite a push for greater diversity, female drivers remain a rarity in top racing series like Formula 1, NASCAR and IndyCar.  <a href="https://nyti.ms/3I2LynG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>How Anger Affects the Body</h3>
-<sub>By Gina Cherelus</sub>
-<p>Lost your cool? Your heart, brain and gut are taking notice.  <a href="https://nyti.ms/3FCvXYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
