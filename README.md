@@ -60,24 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 26, Central Standard Time</p>
 <p>
-There has been a huge push for voter rights in the US, which is causing tensions between political parties. Covid-19 has been difficult to control, and China has had success in curbing the virus. There have been extreme weather events worldwide, such as a blizzard in Buffalo and record military incursions with China and Taiwan. Schools around the world are looking into new ways to offer literacy lessons, and the climate crisis is continuing to be one of the top global issues.</p>
+There are a lot of troubling events currently happening in the world. Currently, many countries and communities are experiencing the effects of the Covid-19 pandemic, and medical workers are facing increasing strain with each passing day. Protests and demonstrations have also been taking place around the world to fight against police brutality and systemic racism. Additionally, there have been recent scandals relating to corporations, governments, and celebrities. All of these issues present difficult challenges, but they also give us hope that we can bring about positive change in 2021.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats, Feeling New Strength, Plan to Go on Offense on Voting Rights</h3>
-<sub>By Reid J. Epstein</sub>
-<p>After retaining most of the governor’s offices they hold and capturing the legislatures in Michigan and Minnesota, Democrats are putting forward a long list of proposals to expand voting access.  <a href="https://nyti.ms/3WpTROI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Last Holdouts</h3>
 <sub>By Amy Harmon</sub>
-<p>It can be tough being a committed mask wearer when others have long since moved on.  <a href="https://nyti.ms/3hLgDBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>What it’s like to wear masks for Covid when most others have long since moved on.  <a href="https://nyti.ms/3hLgDBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>With ‘Zero Covid,’ China Proved It’s Good at Control. Governance Is Harder.</h3>
-<sub>By Li Yuan</sub>
-<p>For a powerful government that has bragged about its command of the country, its absence at a moment of crisis has made the public question its credibility.  <a href="https://nyti.ms/3I2WtO7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>The I.C.U. Nurse: A Symbol of Endurance</h3>
+<sub>By Isadora Kosofsky and Andrew Jacobs</sub>
+<p>Caring for seriously ill patients needing round-the-clock attention during the pandemic has added layers of commitment.  <a href="https://nyti.ms/3hNY9R0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -87,16 +81,22 @@ There has been a huge push for voter rights in the US, which is causing tensions
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Buffalo, Even the Rescuers Needed Rescuing</h3>
-<sub>By Sarah Maslin Nir and Michael D. Regan</sub>
-<p>Two days after a raging blizzard struck, residents remained trapped in cars and in homes without heat. The death toll in the region rose to 17.  <a href="https://nyti.ms/3GjAlhl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<h3>27 Dead in Western New York Blizzard, With More Snow on Way</h3>
+<sub>By Michael Gold and Mihir Zaveri</sub>
+<p>Thousands remain without power in the Buffalo region, where there is as much as 49 inches of snow on the ground.  <a href="https://nyti.ms/3PSvOW2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>They Traveled From South Korea. They Got Stranded Near Buffalo.</h3>
 <sub>By Christine Chung</sub>
 <p>A South Korean tour group’s van became stuck in the snow outside a house in Williamsville, N.Y. They spent the weekend with the residents — who luckily had a well-stocked kitchen.  <a href="https://nyti.ms/3Q7JwEV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats, Feeling New Strength, Plan to Go on Offense on Voting Rights</h3>
+<sub>By Reid J. Epstein</sub>
+<p>After retaining most of the governor’s offices they hold and capturing the legislatures in Michigan and Minnesota, Democrats are putting forward a long list of proposals to expand voting access.  <a href="https://nyti.ms/3WpTROI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Did a Fourth Grader Write This? Or the New Chatbot?</h3>
@@ -110,29 +110,29 @@ There has been a huge push for voter rights in the US, which is causing tensions
 <p>Father Gigante, a towering figure in the Bronx, left a $7 million fortune entirely to the son he had while he was a priest.  <a href="https://nyti.ms/3WFzT24"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Sibling Survivors of a Mass Shooting, Christmas Is an Act of Resolve</h3>
+<sub>By Jack Healy</sub>
+<p>Charlene and James Slaugh were both wounded at Club Q. Families impacted by hundreds of mass shootings this year face a tough holiday season.  <a href="https://nyti.ms/3Wrr4Js"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Casinos Target a Vulnerable Clientele: Older Asian Gamblers</h3>
 <sub>By Nicole Hong, Mable Chan and Janice Chung</sub>
 <p>The industry’s efforts to lure Asian customers will be a significant factor looming over the upcoming application process for new casino licenses in New York.  <a href="https://nyti.ms/3WnaR81"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Memphis, the Phonics Movement Comes to High School</h3>
-<sub>By Sarah Mervosh</sub>
-<p>Literacy lessons are embedded in every academic class. Even in biology.  <a href="https://nyti.ms/3WH7BUT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Record Military Incursions, China Warns Taiwan and the U.S.</h3>
-<sub>By Amy Chang Chien and Chang Che</sub>
-<p>Taiwan said China sent 71 military aircraft near the island days after President Biden bolstered U.S. support for Taiwan.  <a href="https://nyti.ms/3GjB9mc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Motorsports Is Looking for the Next Danica Patrick. And the One After That.</h3>
+<sub>By Gregory Leporati</sub>
+<p>Despite a push for greater diversity, female drivers remain a rarity in top racing series like Formula 1, NASCAR and IndyCar.  <a href="https://nyti.ms/3I2LynG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Our Favorite 2022 Climate Coverage. (Some of It’s Even Good News!)</h3>
-<sub>By The New York Times</sub>
-<p>Huge legislation. Secret Amazon airstrips. Political shenanigans. Also a trash guessing game. Reporters and editors from The Times’s Climate Desk share pieces they particularly liked.  <a href="https://nyti.ms/3PKMK0L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>How Anger Affects the Body</h3>
+<sub>By Gina Cherelus</sub>
+<p>Lost your cool? Your heart, brain and gut are taking notice.  <a href="https://nyti.ms/3FCvXYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
