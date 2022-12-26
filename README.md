@@ -58,11 +58,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, December 25, Central Standard Time</p>
-<p>
-It looks to be a chaotic time in the world right now. Police departments are struggling with staffing shortages due to pandemic-related repercussions and others are offering bonuses to luring recruits. On Christmas Eve, there was a bus crash in Canada that resulted in four deaths and dozens of injuries. A South Korean tour group got stranded near Buffalo after a huge blizzard. In Ukraine, citizens are fighting back against Russian forces by spying on them and actively undermining their operations. Additionally, in Memphis, high schools are implementing specialized literacy programs to support students in academics other than English. The British monarchy has been embracing a more inclusive approach with King Charles III, while in Britain there&#39;s a bridge that is constantly being bashed into by vehicles.
+<p>It is Monday, December 26, Central Standard Time</p>
+<p>This year has been incredibly difficult due to the pandemic and social unrest, but some good news is that many police departments in the U.S. are luring recruits with bonuses and attention, hoping staffing levels will rebound.
 
-Looking on the brighter side, 2021 has seen an incredible rise in the intersection between sports and fashion, while there have also been some amazing TV offerings like ‘Barry’ and ‘This Fool’. If you’re looking for easier dessert recipes for this holiday season, you won&#39;t be disappointed as there are many no-fuss items to choose from. We&#39;ve also been seeing families gifting air fryers so if you were lucky enough to receive one then there are plenty of great recipes out there for you to try too!</p>
+Buffalo experienced an extreme blizzard this past Christmas season, and many residents were stranded without heat and power. Sadly, the death toll in the region rose to 17 due to the storm. Other than this tragedy, a tour group from South Korea got stranded near Buffalo, and luckily were able to stay with a well-stocked homeowners until it was safe for them to leave.
+
+Elsewhere in the world, a bus crashed in Canada on Christmas Eve due to extremely icy road conditions, killing 4 people and injuring dozens of others. In Ukraine, citizen spies helped thwart Putin&#39;s grand plan for one city by spying on and confronting Russian forces that have since left.
+
+On the brighter side, Memphis public high schools have started embedding literacy lessons into every academic class - even biology - resulting from an educational &#39;phonics movement&#39;. In Britain, King Charles III recently embraced an inclusive monarchy by adding a Hanukkah party and Diwali treats to the traditional Christmas address.
+
+In terms of entertainment this year, we were still able to watch favorites like Barry, Ms. Marvel, Pachinko and Station Eleven due to streaming services - although not as many people watched in theatres or on actual TV channels due to restrictions put in place by COVID-19. 
+
+For those looking for recipes after a long year of shut-ins, there are many easy holiday dessert recipes circulating this season as well as air-fryer recipes now that these appliances have become popular gifts during the holidays. Finally, fashion and sports won big together this year despite all the obstacles with more fans becoming consumers from home rather than attending events in person.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Applications Fall, Police Departments Lure Recruits With Bonuses and Attention</h3>
