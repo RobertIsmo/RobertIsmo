@@ -60,48 +60,48 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 25, Central Standard Time</p>
 <p>
-There seems to be a lot happening in the world right now. In Ukraine, they recently had air-raid sirens sound and people are still celebrating Christmas even without power in some of their cities. Pope Francis gave a Christmas address asking for peace in the country, while Russian leader Vladimir Putin asserts that he is open to talks. Meanwhile, in Western New York there has been a storm resulting in seven deaths as emergency workers struggle to save those who are stranded at cars and homes without power. At a different front, in Britain there has been a bridge that keeps being bashed into with vehicles, sending cargo such as flowers and veggies across the road. Lastly, Charles III of Britain is becoming more inclusive with his monarchy by embracing Hanukkah and Diwali into the traditional Christmas address.</p>
+Right now, it seems like a lot is going on in the world. Police departments are trying to hire additional staff due to a wave of resignations following the pandemic and 2020 unrest. There have been multiple natural disasters such as a devastating blizzard in Buffalo and a bus crash in Canada on Christmas Eve. In South Korea, a tour group became stranded near Buffalo and had to spend the weekend with the homeowners luckily with a well-stocked kitchen. Additionally, there are many developments in popular culture such as Charles embracing of a more inclusive monarchy and various television series offering some of the best bites. Lastly, people seem to be able to find comfort in activities such as easy holiday dessert recipes and making use of air fryers if they got one for the holidays, as well as sports-fashion collaborations creating business opportunities.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Applications Fall, Police Departments Lure Recruits With Bonuses and Attention</h3>
+<sub>By Mitch Smith</sub>
+<p>Many police chiefs say staffing levels have not rebounded from a wave of resignations that started with the pandemic and the 2020 unrest.  <a href="https://nyti.ms/3YMk7V1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Buffalo, Even the Rescuers Needed Rescuing</h3>
+<sub>By Sarah Maslin Nir and Michael D. Regan</sub>
+<p>Two days after a raging blizzard struck, residents remained trapped in cars and in homes without heat. The death toll rose to 12.  <a href="https://nyti.ms/3GjAlhl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>4 Dead and Dozens Injured in Bus Crash in Canada on Christmas Eve</h3>
+<sub>By Christopher Mele</sub>
+<p>The authorities said an investigation was continuing but that “it is believed that extremely icy road conditions” caused the bus to roll over.  <a href="https://nyti.ms/3WsmlYe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>They Traveled From South Korea. They Got Stranded Near Buffalo.</h3>
+<sub>By Christine Chung</sub>
+<p>A South Korean tour group’s van became stuck in the snow outside a house in Williamsville, N.Y. They spent the weekend with the homeowners — who luckily had a well-stocked kitchen.  <a href="https://nyti.ms/3Q7JwEV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Citizen Spies Foiled Putin’s Grand Plan for One Ukrainian City</h3>
 <sub>By Jeffrey Gettleman</sub>
 <p>A partisan cell in Kherson spied on, undermined and even hunted down Russian soldiers. Now that Vladimir V. Putin’s forces are gone, people feel free to talk — and to brag a little.  <a href="https://nyti.ms/3I2fS1M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Insists He Is Open to Talks, as Air-Raid Sirens Sound Across Ukraine</h3>
-<sub>By Andrew E. Kramer and Anton Troianovski</sub>
-<p>Ukrainians appeared intent on celebrating Christmas, even if scarce power left some cities darkened, save for generator-powered holiday light displays.  <a href="https://nyti.ms/3FM00gQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Ukraine, Christmas Lights Defy Darkness of War, and Children Ask for Peace</h3>
-<sub>By Maria Varenikova</sub>
-<p>One town is protecting a statue of St. Nick with sandbags, another is putting its Christmas tree underground and others are cranking up noisy generators to keep the holiday spirit alive.  <a href="https://nyti.ms/3YMMPFe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Christmas Address, Pope Bemoans ‘Grave Famine of Peace’</h3>
-<sub>By Jason Horowitz</sub>
-<p>Pope Francis urged the tens of thousands of faithful in St. Peter’s Square to pray for Ukraine and for others suffering in conflicts around the world.  <a href="https://nyti.ms/3YRVLtc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Western New York, Death Toll From Storm Rises to 7</h3>
-<sub>By Sarah Maslin Nir</sub>
-<p>Emergency workers on Christmas morning were still attempting to rescue people stranded in cars and homes without power.  <a href="https://nyti.ms/3GjAlhl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Con Edison asks New York City customers to conserve energy.</h3>
-<sub>By Eduardo Medina</sub>
-<p>  <a href="https://nyti.ms/3vh8nMK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<h3>In Memphis, the Phonics Movement Comes to High School</h3>
+<sub>By Sarah Mervosh</sub>
+<p>Literacy lessons are embedded in every academic class. Even in biology.  <a href="https://nyti.ms/3WH7BUT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Applications Fall, Police Departments Lure Recruits With Bonuses and Attention</h3>
-<sub>By Mitch Smith</sub>
-<p>Many police chiefs say staffing levels have not rebounded from a wave of resignations that started with the pandemic and the 2020 unrest.  <a href="https://nyti.ms/3YMk7V1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Charles Charts a Path as a King for All Holiday Seasons</h3>
+<sub>By Mark Landler</sub>
+<p>Adding a Hanukkah party and Diwali treats to the traditional Christmas address, King Charles III is publicly embracing a more inclusive monarchy in his first months.  <a href="https://nyti.ms/3Comvb9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,29 +110,29 @@ There seems to be a lot happening in the world right now. In Ukraine, they recen
 <p>A railway bridge with a shallow underpass is bashed into by vehicles with startling regularity, causing mostly embarrassment, but sending cargo — flowers, bicycles, eggs and potatoes — flying onto the roadway.  <a href="https://nyti.ms/3PQ8FDC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>St. Nicholas (the Church) Has Come to Town</h3>
-<sub>By Jane Margolies</sub>
-<p>The Greek Orthodox house of worship was destroyed on Sept. 11. After 21 years and $85 million, its glowing new home has opened.  <a href="https://nyti.ms/3WskJxt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The Best TV Episodes of 2022</h3>
+<sub>By James Poniewozik, Mike Hale and Margaret Lyons</sub>
+<p>TV in the streaming era is an endless feast. This year, series like “Barry,” “Ms. Marvel,” “Pachinko,” “Station Eleven” and “This Fool” offered some of the best bites.  <a href="https://nyti.ms/3Wmop40"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Charles Charts a Path as a King for All Holiday Seasons</h3>
-<sub>By Mark Landler</sub>
-<p>Adding a Hanukkah party and Diwali treats to the traditional Christmas address, King Charles III is publicly embracing a more inclusive monarchy in his first months.  <a href="https://nyti.ms/3Comvb9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>20 Easy Holiday Dessert Recipes</h3>
+<sub>By Margaux Laskey</sub>
+<p>Cookies, cakes and more no-fuss treats for this holiday season.  <a href="https://nyti.ms/3aguFVp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>An OK Basketball Player Hopes to Be a Great N.B.A. Team Owner</h3>
-<sub>By Tania Ganguli and Sopan Deb</sub>
-<p>Mat Ishbia was a walk on at Michigan State 20 years ago before he became a wealthy businessman. His $4 billion deal to buy the Phoenix Suns could help him live his sports dream.  <a href="https://nyti.ms/3jtIVBb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Our Best Air-Fryer Recipes</h3>
+<sub>By Eleanore Park</sub>
+<p>Did you happen to get one for the holidays? Here are recipes for pork chops, chicken breasts, broccoli and more.  <a href="https://nyti.ms/3GaBPu6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Emily Is Still in Paris. Why Are We Still Watching?</h3>
-<sub>By Iva Dixit</sub>
-<p>The Netflix hit has been widely mocked from the beginning. But despite its flaws — or perhaps because of them — it’s a pop-culture phenomenon.  <a href="https://nyti.ms/3hMwTlP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Sports and Fashion Won Big Together This Year</h3>
+<sub>By Vanessa Friedman</sub>
+<p>When the teams are brands and the brands are stars and the fans are consumers, everything blends into one enormous business opportunity.  <a href="https://nyti.ms/3jhuYpD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
