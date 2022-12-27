@@ -60,8 +60,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 26, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Europe, there is an investigation into sabotage on a gas pipelines involving Russia. Meanwhile Ukraine is proposing a peace summit for February. In the US, people are still struggling to live and work with the COVID pandemic, while Democrats are pushing for more voting rights. In Asia, China is easing Covid travel restrictions after almost three years of lockdowns. The US has also seen its own share of tragedies; a blizzard has caused power outages in New York and the sister survivors of a mass shooting in Colorado are struggling this holiday season.</p>
+In the world, a &#39;once in a generation&#39; blizzard has struck Western New York, leaving millions of people without power. In other news, Ukraine&#39;s foreign minister proposes a peace summit for February and China is dropping quarantine restrictions for incoming travelers due to Covid-19. On the health front, ICU nurses are increasingly becoming symbols of endurance during the pandemic, and there&#39;s even a new chatbot that can mimic the writing of 4th graders in producing convincing essays!</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>28 Dead in ‘Once in a Generation’ Blizzard in Western New York</h3>
+<sub>By Michael D. Regan, Michael Gold and Mihir Zaveri</sub>
+<p>Thousands remain without power in the Buffalo region, where there is as much as 49 inches of snow on the ground, with more still falling.  <a href="https://nyti.ms/3PSvOW2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Thousands of Canceled Flights Cap Holiday Weekend of Travel Nightmares</h3>
+<sub>By Amy Qin, Nicholas Bogel-Burroughs and Steve Lohr</sub>
+<p>Southwest Airlines, which canceled nearly 70 percent of its flights, was the airline most affected on Monday.  <a href="https://nyti.ms/3VjkGmk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Admits to Lying About College and Work History</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>The congressman-elect told The New York Post that he had not graduated from college or worked at two major Wall Street companies, as he had previously claimed.  <a href="https://nyti.ms/3GlAel2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos’s Early Life: Odd Jobs, Bad Debts and Lawsuits</h3>
+<sub>By Michael Gold, Grace Ashford and Ellen Yan</sub>
+<p>Representative-elect George Santos, who is under scrutiny over potentially misrepresenting key parts of his campaign biography, had other undisclosed troubles in his early career.  <a href="https://nyti.ms/3Wo3FZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Air Base Is Attacked, as Ukraine Discounts Escalation Threat</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Russia said falling wreckage from a Ukrainian drone had killed three servicemen at the base, some 300 miles from Ukraine, which would be the third such long-range attack this month.  <a href="https://nyti.ms/3GhHrTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Nord Stream Mystery, Baltic Seabed Provides a Nearly Ideal Crime Scene</h3>
 <sub>By Rebecca R. Ruiz and Justin Scheck</sub>
@@ -92,28 +122,10 @@ There&#39;s a lot going on in the world right now. In Europe, there is an invest
 <p>From Jan. 8, visitors will be required to show only a negative P.C.R. test taken within 48 hours. The restrictions had cut the country off from the rest of the world for nearly three years.  <a href="https://nyti.ms/3I1Wkua"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>27 Dead in ‘Once in a Generation’ Blizzard in Western New York</h3>
-<sub>By Michael Gold and Mihir Zaveri</sub>
-<p>Thousands remain without power in the Buffalo region, where there is as much as 49 inches of snow on the ground, with more still falling.  <a href="https://nyti.ms/3PSvOW2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>They Traveled From South Korea. They Got Stranded Near Buffalo.</h3>
-<sub>By Christine Chung</sub>
-<p>A South Korean tour group’s van became stuck in the snow outside a house in Williamsville, N.Y. They spent the weekend with the residents — who luckily had a well-stocked kitchen.  <a href="https://nyti.ms/3Q7JwEV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Pandemic Woes Lead Met Opera to Tap Endowment and Embrace New Work</h3>
 <sub>By Javier C. Hernández</sub>
 <p>Facing tepid ticket sales, the company will withdraw up to $30 million from its endowment and stage more operas by living composers, which have been outselling the classics.  <a href="https://nyti.ms/3viifFW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats, Feeling New Strength, Plan to Go on Offense on Voting Rights</h3>
-<sub>By Reid J. Epstein</sub>
-<p>After retaining most of the governor’s offices they hold and capturing the legislatures in Michigan and Minnesota, Democrats are putting forward a long list of proposals to expand voting access.  <a href="https://nyti.ms/3WpTROI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -121,18 +133,6 @@ There&#39;s a lot going on in the world right now. In Europe, there is an invest
 <sub>By Claire Cain Miller, Adam Playford, Larry Buchanan and Aaron Krolik</sub>
 <p>Don’t be surprised if you can’t always tell. Neither could two teachers, a professor, nor even the renowned children’s author Judy Blume.  <a href="https://nyti.ms/3GiaIND"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>One Final Twist in the Rev. Louis Gigante’s Colorful Life: A Son</h3>
-<sub>By Michael Wilson</sub>
-<p>Father Gigante, a towering figure in the Bronx, left a $7 million fortune entirely to the son he had while he was a priest.  <a href="https://nyti.ms/3WFzT24"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Sibling Survivors of a Mass Shooting, Christmas Is an Act of Resolve</h3>
-<sub>By Jack Healy</sub>
-<p>Charlene and James Slaugh were both wounded at Club Q. Families impacted by hundreds of mass shootings this year face a tough holiday season.  <a href="https://nyti.ms/3Wrr4Js"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
