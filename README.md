@@ -60,18 +60,48 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 27, Central Standard Time</p>
 <p>
-I wanted to give you an update on what&#39;s happening in the world right now. In China, there’s a coronavirus crisis taking place, with medical staff becoming overwhelmed and overwhelmed by the strain on the country’s health care system. China has also dropped its quarantine for incoming travelers, requiring only negative PCR tests taken within 48 hours. Here in the US, thousands of flights have been cancelled and are causing travel delays. Additionally, a massive snowstorm just hit western New York recently with 28 people dead due to power outages. On the economy side of things, some retired workers are decreasing so much that it&#39;s making an impact on the job market rebound. Could also affect unions since Biden is being called &quot;the most pro-union president.&quot; In Russia, military losses have caused sorrow without resentment toward Putin&#39;s war. Lastly, Nicaraguan people are fleeing poverty and repression from their authoritarian government in record numbers and they&#39;re winding up here in the United States.</p>
+Things in the world have been chaotic and difficult lately. Southwest Airlines is struggling after a major winter storm caused them to cancel most of their flights, leaving many travelers stranded. Western New York has also been badly affected by this blizzard, with 8 more deaths reported recently. We&#39;ve seen numerous travel meltdowns over the holiday weekend due to flight delays and cancellations. In China, medical staff have been overwhelmed from a Covid crisis that has spiraled out of control. On the brighter side, new scientific results from the Webb Telescope are coming back better than expected, and Disney&#39;s iconic character &quot;Steamboat Willie&quot; will enter the public domain soon. There have also been some concerning developments - a man was recently sentenced to 16 years for plotting to kidnap Michigan&#39;s governor, Russian soldiers are being sent off to fight with no surge of public outrage, and a military database of fingerprints and iris scans was found for sale on eBay.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Southwest Airlines Struggles to Right Its Operation After Winter Storm</h3>
+<sub>By Isabella Simonetti, Derrick Bryson Taylor and Daniel Victor</sub>
+<p>The company canceled more than 60 percent of its flights on Tuesday and Wednesday, leaving many travelers stranded.  <a href="https://nyti.ms/3YSc1tZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Western New York, Death Toll From Winter Storm Continues to Climb</h3>
+<sub>By Hurubie Meko and Sarah Maslin Nir</sub>
+<p>Eight more deaths were reported in the region, which is still digging out from a holiday blizzard that has taken more than 30 lives.  <a href="https://nyti.ms/3FZVo6S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Travel Meltdowns in Recent History</h3>
+<sub>By Daniel Victor</sub>
+<p>Flight delays and cancellations over the holiday weekend have left thousands of passengers stranded. Here’s a look at a few other notable episodes like it in recent memory.  <a href="https://nyti.ms/3YOZozT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Tragic Battle’: On the Front Lines of China’s Covid Crisis</h3>
 <sub>By Isabelle Qian and David Pierson</sub>
 <p>Medical staff are outnumbered and working sick as the nation’s health care system buckles under the strain of a spiraling crisis.  <a href="https://nyti.ms/3GilYK6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>The Webb Telescope Is Just Getting Started</h3>
+<sub>By Dennis Overbye</sub>
+<p>The first scientific results are coming in, and the $10 billion instrument is working even better than astronomers had dared to hope.  <a href="https://nyti.ms/3vg8cRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Sentenced to 16 Years in Prison for Plotting to Kidnap Michigan’s Governor</h3>
+<sub>By Mitch Smith</sub>
+<p>Jurors convicted Adam Fox of scheming to kidnap Gov. Gretchen Whitmer in 2020 in what federal prosecutors described as a threat to American democracy.  <a href="https://nyti.ms/3VkSOOI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China to Drop Covid Quarantine for Incoming Travelers</h3>
-<sub>By Vivian Wang</sub>
-<p>From Jan. 8, visitors will be required to show only a negative P.C.R. test taken within 48 hours. The restrictions had cut the country off from the rest of the world for nearly three years.  <a href="https://nyti.ms/3I1Wkua"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russian City Mourns Its Lost Soldiers, but Doesn’t Resent Putin’s War</h3>
+<sub>By Valerie Hopkins and Nanna Heitmann</sub>
+<p>Ryazan, not far from Moscow, regularly sends young men off to fight. Some are now buried in the local cemetery, but there is no surge of outrage against Russian leaders.  <a href="https://nyti.ms/3hTx7HL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -86,18 +116,6 @@ I wanted to give you an update on what&#39;s happening in the world right now. I
 <p>Representative-elect George Santos, who is under scrutiny over potentially misrepresenting key parts of his campaign biography, had other undisclosed troubles in his early career.  <a href="https://nyti.ms/3Wo3FZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Thousands of Canceled Flights Upend Travel Plans Across U.S.</h3>
-<sub>By Derrick Bryson Taylor and Daniel Victor</sub>
-<p>Most of the disruption was on Southwest Airlines, which had called off more than 60 percent of its flights by Tuesday morning.  <a href="https://nyti.ms/3FYy4GD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>28 Dead in ‘Once in a Generation’ Blizzard in Western New York</h3>
-<sub>By Michael D. Regan, Michael Gold and Mihir Zaveri</sub>
-<p>Thousands remain without power in the Buffalo region, where there is as much as 49 inches of snow on the ground, with more still falling.  <a href="https://nyti.ms/3PSvOW2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Retirees Are One Reason the Fed Has Given Up on a Big Worker Rebound</h3>
 <sub>By Jeanna Smialek and Ben Casselman</sub>
@@ -105,21 +123,9 @@ I wanted to give you an update on what&#39;s happening in the world right now. I
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘Most Pro-Union President’ Runs Into Doubts in Labor Ranks</h3>
-<sub>By Noam Scheiber</sub>
-<p>Many union leaders say the Biden White House has delivered on its promises. But its handling of a freight rail dispute has given rise to detractors.  <a href="https://nyti.ms/3Z1W4Se"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian City Mourns Its Lost Soldiers, but Doesn’t Resent Putin’s War</h3>
-<sub>By Valerie Hopkins and Nanna Heitmann</sub>
-<p>Ryazan, not far from Moscow, regularly sends young men off to fight. Some are now buried in the local cemetery, but there is no surge of outrage against Russian leaders.  <a href="https://nyti.ms/3hTx7HL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Far From the World Cup, the Essence of Argentine Soccer Expands Its Reach</h3>
-<sub>By Juan Jose Relmucao and Anita Pouchard Serra</sub>
-<p>The “potrero” circuit around Buenos Aires recalls the game’s early, rawer beginnings with a gifted style of play the country has become known for.  <a href="https://nyti.ms/3jxuxrf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Mickey’s Copyright Adventure: Early Disney Creation Will Soon Be Public Property</h3>
+<sub>By Brooks Barnes</sub>
+<p>The version of the iconic character from “Steamboat Willie” will enter the public domain in 2024. But those trying to take advantage could end up in a legal mousetrap.  <a href="https://nyti.ms/3WJhbXt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -127,12 +133,6 @@ I wanted to give you an update on what&#39;s happening in the world right now. I
 <sub>By Kashmir Hill, John Ismay, Christopher F. Schuetze and Aaron Krolik</sub>
 <p>German security researchers studying biometric capture devices popular with the U.S. military got more than they expected for $68 on eBay.  <a href="https://nyti.ms/3WoOVJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Record Numbers, an Unexpected Migrant Group Is Fleeing to the U.S.</h3>
-<sub>By Alfonso Flores Bermúdez and Frances Robles</sub>
-<p>Hundreds of thousands of Nicaraguans have fled their country in recent years, escaping poverty and repression under an increasingly authoritarian government.  <a href="https://nyti.ms/3hRA9MG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
