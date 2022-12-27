@@ -58,10 +58,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, December 26, Central Standard Time</p>
+<p>It is Tuesday, December 27, Central Standard Time</p>
 <p>
-There are some chaotic news stories happening around the world right now. In Western New York, there has been a major snowstorm resulting in 28 deaths, with thousands still without power. Travelers faced nightmare conditions over the holiday weekend due to flight cancellations. In politics, a congressman-elect admitted lying about his college and work history, and had other undisclosed troubles in his early career. Russia and Ukraine have been engaged in an escalating conflict with an attack on a Russian air base this month. Meanwhile, there is a mystery unfolding in the Baltic Sea with what appears to be sabotage of a gas pipeline. To try and foster peace, Ukraine&#39;s foreign minister has proposed a summit for February. Here closer to home, people are reflecting on the experience of wearing masks for Covid for so long as many others have moved on past it. China is easing up travel restrictions as well by no longer requiring quarantine for incoming travelers; they just need to show a negative test taken within 48 hours. And finally, the Metropolitan Opera is struggling financially due to the pandemic and so they&#39;re taking money from their endowment and staging more operas by living composers which appear to be outselling the classics. Lastly, there&#39;s an interesting story about the Rev. Louis Gigante - even though he was a priest, he had a son that he left his $7 million fortune entirely to when he passed away - quite the twist!</p>
+There&#39;s a lot happening in the world right now, but there are some major stories you should know about. In the US, there have been many delays and cancellations over the holiday weekend due to travel nightmares. Also in the US, people who are still wearing masks for Covid protection face a tough holiday season. In New York, newly elected Congressman George Santos admitted to lying about his college and work history. On the world stage, Russia has been attacked with long-range drones, and China has dropped its strict Covid quarantine measures for incoming travelers after nearly three years. Additionally, the Met Opera is facing tepid ticket sales so they will be tapping their endowment and staging more operas by living composers to help improve their finances. Finally, a last twist in the Rev. Louis Gigante&#39;s colorful life revealed that he had left his $7 million fortune entirely to a son he had while he was still a priest.</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Admits to Lying About College and Work History</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>The congressman-elect confirmed The New York Times’s findings that he had not graduated from college or worked at two major Wall Street firms, as he had claimed.  <a href="https://nyti.ms/3GlAel2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos’s Early Life: Odd Jobs, Bad Debts and Lawsuits</h3>
+<sub>By Michael Gold, Grace Ashford and Ellen Yan</sub>
+<p>Representative-elect George Santos, who is under scrutiny over potentially misrepresenting key parts of his campaign biography, had other undisclosed troubles in his early career.  <a href="https://nyti.ms/3Wo3FZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>28 Dead in ‘Once in a Generation’ Blizzard in Western New York</h3>
 <sub>By Michael D. Regan, Michael Gold and Mihir Zaveri</sub>
@@ -74,18 +86,6 @@ There are some chaotic news stories happening around the world right now. In Wes
 <p>Southwest Airlines, which canceled about 70 percent of its flights, was the airline most affected on Monday.  <a href="https://nyti.ms/3VjkGmk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Admits to Lying About College and Work History</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>The congressman-elect confirmed The New York Times’s findings that he had not graduated from college or worked at two major Wall Street companies, as he had claimed.  <a href="https://nyti.ms/3GlAel2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos’s Early Life: Odd Jobs, Bad Debts and Lawsuits</h3>
-<sub>By Michael Gold, Grace Ashford and Ellen Yan</sub>
-<p>Representative-elect George Santos, who is under scrutiny over potentially misrepresenting key parts of his campaign biography, had other undisclosed troubles in his early career.  <a href="https://nyti.ms/3Wo3FZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russian Air Base Is Attacked, as Ukraine Discounts Escalation Threat</h3>
 <sub>By Andrew E. Kramer</sub>
@@ -93,15 +93,9 @@ There are some chaotic news stories happening around the world right now. In Wes
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Nord Stream Mystery, Baltic Seabed Provides a Nearly Ideal Crime Scene</h3>
-<sub>By Rebecca R. Ruiz and Justin Scheck</sub>
-<p>As investigators piece together clues, Russia has quietly taken steps to begin expensive repairs on the giant gas pipeline, complicating theories about who was behind September’s sabotage.  <a href="https://nyti.ms/3GgyqtO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine’s foreign minister proposes peace summit for February.</h3>
-<sub>By Carly Olson</sub>
-<p>  <a href="https://nyti.ms/3VnMw0H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russian City Mourns Its Lost Soldiers, but Doesn’t Resent Putin’s War</h3>
+<sub>By Valerie Hopkins and Nanna Heitmann</sub>
+<p>Ryazan, not far from Moscow, regularly sends young men off to fight. Some are now buried in the local cemetery, but there is no surge of outrage against Russian leaders.  <a href="https://nyti.ms/3hTx7HL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +110,28 @@ There are some chaotic news stories happening around the world right now. In Wes
 <p>From Jan. 8, visitors will be required to show only a negative P.C.R. test taken within 48 hours. The restrictions had cut the country off from the rest of the world for nearly three years.  <a href="https://nyti.ms/3I1Wkua"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>For Sale on eBay: A Military Database of Fingerprints and Iris Scans</h3>
+<sub>By Kashmir Hill, John Ismay, Christopher F. Schuetze and Aaron Krolik</sub>
+<p>German security researchers studying biometric capture devices popular with the U.S. military got more than they expected for $68 on eBay.  <a href="https://nyti.ms/3WoOVJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Pandemic Woes Lead Met Opera to Tap Endowment and Embrace New Work</h3>
 <sub>By Javier C. Hernández</sub>
 <p>Facing tepid ticket sales, the company will withdraw up to $30 million from its endowment and stage more operas by living composers, which have been outselling the classics.  <a href="https://nyti.ms/3viifFW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Did a Fourth Grader Write This? Or the New Chatbot?</h3>
-<sub>By Claire Cain Miller, Adam Playford, Larry Buchanan and Aaron Krolik</sub>
-<p>Don’t be surprised if you can’t always tell. Neither could two teachers, a professor, nor even the renowned children’s author Judy Blume.  <a href="https://nyti.ms/3GiaIND"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>One Final Twist in the Rev. Louis Gigante’s Colorful Life: A Son</h3>
 <sub>By Michael Wilson</sub>
 <p>Father Gigante, a towering figure in the Bronx, left a $7 million fortune entirely to the son he had while he was a priest.  <a href="https://nyti.ms/3WFzT24"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Sibling Survivors of a Mass Shooting, Christmas Is an Act of Resolve</h3>
+<sub>By Jack Healy</sub>
+<p>Charlene and James Slaugh were both wounded at Club Q. Families impacted by hundreds of mass shootings this year face a tough holiday season.  <a href="https://nyti.ms/3Wrr4Js"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
