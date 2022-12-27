@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 26, Central Standard Time</p>
 <p>
-In the world, a &#39;once in a generation&#39; blizzard has struck Western New York, leaving millions of people without power. In other news, Ukraine&#39;s foreign minister proposes a peace summit for February and China is dropping quarantine restrictions for incoming travelers due to Covid-19. On the health front, ICU nurses are increasingly becoming symbols of endurance during the pandemic, and there&#39;s even a new chatbot that can mimic the writing of 4th graders in producing convincing essays!</p>
+There are some chaotic news stories happening around the world right now. In Western New York, there has been a major snowstorm resulting in 28 deaths, with thousands still without power. Travelers faced nightmare conditions over the holiday weekend due to flight cancellations. In politics, a congressman-elect admitted lying about his college and work history, and had other undisclosed troubles in his early career. Russia and Ukraine have been engaged in an escalating conflict with an attack on a Russian air base this month. Meanwhile, there is a mystery unfolding in the Baltic Sea with what appears to be sabotage of a gas pipeline. To try and foster peace, Ukraine&#39;s foreign minister has proposed a summit for February. Here closer to home, people are reflecting on the experience of wearing masks for Covid for so long as many others have moved on past it. China is easing up travel restrictions as well by no longer requiring quarantine for incoming travelers; they just need to show a negative test taken within 48 hours. And finally, the Metropolitan Opera is struggling financially due to the pandemic and so they&#39;re taking money from their endowment and staging more operas by living composers which appear to be outselling the classics. Lastly, there&#39;s an interesting story about the Rev. Louis Gigante - even though he was a priest, he had a son that he left his $7 million fortune entirely to when he passed away - quite the twist!</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>28 Dead in ‘Once in a Generation’ Blizzard in Western New York</h3>
@@ -71,13 +71,13 @@ In the world, a &#39;once in a generation&#39; blizzard has struck Western New Y
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Thousands of Canceled Flights Cap Holiday Weekend of Travel Nightmares</h3>
 <sub>By Amy Qin, Nicholas Bogel-Burroughs and Steve Lohr</sub>
-<p>Southwest Airlines, which canceled nearly 70 percent of its flights, was the airline most affected on Monday.  <a href="https://nyti.ms/3VjkGmk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Southwest Airlines, which canceled about 70 percent of its flights, was the airline most affected on Monday.  <a href="https://nyti.ms/3VjkGmk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos Admits to Lying About College and Work History</h3>
 <sub>By Michael Gold and Grace Ashford</sub>
-<p>The congressman-elect told The New York Post that he had not graduated from college or worked at two major Wall Street companies, as he had previously claimed.  <a href="https://nyti.ms/3GlAel2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The congressman-elect confirmed The New York Times’s findings that he had not graduated from college or worked at two major Wall Street companies, as he had claimed.  <a href="https://nyti.ms/3GlAel2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -110,12 +110,6 @@ In the world, a &#39;once in a generation&#39; blizzard has struck Western New Y
 <p>What it’s like to wear masks for Covid when most others have long since moved on.  <a href="https://nyti.ms/3hLgDBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>The I.C.U. Nurse: A Symbol of Endurance</h3>
-<sub>By Isadora Kosofsky and Andrew Jacobs</sub>
-<p>Caring for seriously ill patients needing round-the-clock attention during the pandemic has added layers of commitment.  <a href="https://nyti.ms/3hNY9R0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China to Drop Covid Quarantine for Incoming Travelers</h3>
 <sub>By Vivian Wang</sub>
@@ -133,6 +127,12 @@ In the world, a &#39;once in a generation&#39; blizzard has struck Western New Y
 <sub>By Claire Cain Miller, Adam Playford, Larry Buchanan and Aaron Krolik</sub>
 <p>Don’t be surprised if you can’t always tell. Neither could two teachers, a professor, nor even the renowned children’s author Judy Blume.  <a href="https://nyti.ms/3GiaIND"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>One Final Twist in the Rev. Louis Gigante’s Colorful Life: A Son</h3>
+<sub>By Michael Wilson</sub>
+<p>Father Gigante, a towering figure in the Bronx, left a $7 million fortune entirely to the son he had while he was a priest.  <a href="https://nyti.ms/3WFzT24"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
