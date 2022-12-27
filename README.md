@@ -60,8 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 27, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In the US, there were lots of travel nightmares for people over the holiday weekend due to cancelled flights. In Western New York, there was an incredibly rare and destructive blizzard that killed at least 28 people. In Russia, there have been air base attacks that have killed Russian servicemen; but the citizens don&#39;t seem to resent the war their leaders are waging. Internationally, China is going to lift its Covid quarantine restrictions for incoming travelers. In terms of Covid, it seems like almost everywhere is struggling with some consequences of the pandemic--like people having to wear masks when most others have moved on. And in New York, there&#39;s George Santos who was just elected as congressman but it&#39;s since been revealed that he lied about his college and work history. Plus the wealthy priest, Louis Gigante, who shockingly left all his $7 million fortune to the son he had while being a priest. Lastly, amid this difficult time with mass shootings all around us, we have James and Charlene Slaugh who survived being shot at Club Q, underscoring how this holiday season will be especially tough for families impacted by mass shootings this year.</p>
+Right now, many parts of the world are being impacted by a spiraling Covid crisis. In China, medical staff are severely outnumbered and working sick as their health care system buckles under the strain. However, the Chinese government is now dropping its coronavirus quarantine requirements for travelers from abroad.
+
+Meanwhile here in the US, thousands of flights have been cancelled and thrown travelers&#39; plans into disarray, while there has been a record breaking blizzard in Western New York with up to 49 inches of snow. On a more tragic note, we&#39;re seeing more and more survivors of mass shootings having to grapple with an especially difficult holiday season this year.
+
+In other news, George Santos, a congressman-elect from New York, has recently been revealed to have lied about his college and work history. Additionally, labor unions have raised doubts over Biden&#39;s stance on workers&#39; rights after he handled a freight rail dispute in an unexpected way. Finally, there has been an unexpected surge of migrants fleeing poverty and repression in Nicaragua - but unfortunately also reported sightings of a military database containing fingerprint and iris scans on sale on eBay!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Tragic Battle’: On the Front Lines of China’s Covid Crisis</h3>
+<sub>By Isabelle Qian and David Pierson</sub>
+<p>Medical staff are outnumbered and working sick as the nation’s health care system buckles under the strain of a spiraling crisis.  <a href="https://nyti.ms/3GilYK6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China to Drop Covid Quarantine for Incoming Travelers</h3>
+<sub>By Vivian Wang</sub>
+<p>From Jan. 8, visitors will be required to show only a negative P.C.R. test taken within 48 hours. The restrictions had cut the country off from the rest of the world for nearly three years.  <a href="https://nyti.ms/3I1Wkua"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos Admits to Lying About College and Work History</h3>
 <sub>By Michael Gold and Grace Ashford</sub>
@@ -74,17 +90,17 @@ There&#39;s a lot happening in the world right now. In the US, there were lots o
 <p>Representative-elect George Santos, who is under scrutiny over potentially misrepresenting key parts of his campaign biography, had other undisclosed troubles in his early career.  <a href="https://nyti.ms/3Wo3FZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>28 Dead in ‘Once in a Generation’ Blizzard in Western New York</h3>
-<sub>By Michael D. Regan, Michael Gold and Mihir Zaveri</sub>
-<p>Thousands remain without power in the Buffalo region, where there is as much as 49 inches of snow on the ground, with more still falling.  <a href="https://nyti.ms/3PSvOW2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Retirees Are One Reason the Fed Has Given Up on a Big Worker Rebound</h3>
+<sub>By Jeanna Smialek and Ben Casselman</sub>
+<p>Workers are in short supply three years into the pandemic job market rebound, and officials increasingly think they aren’t coming back.  <a href="https://nyti.ms/3YNTwqB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Thousands of Canceled Flights Cap Holiday Weekend of Travel Nightmares</h3>
-<sub>By Amy Qin, Nicholas Bogel-Burroughs and Steve Lohr</sub>
-<p>Southwest Airlines, which canceled about 70 percent of its flights, was the airline most affected on Monday.  <a href="https://nyti.ms/3VjkGmk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘Most Pro-Union President’ Runs Into Doubts in Labor Ranks</h3>
+<sub>By Noam Scheiber</sub>
+<p>Many union leaders say the Biden White House has delivered on its promises. But its handling of a freight rail dispute has given rise to detractors.  <a href="https://nyti.ms/3Z1W4Se"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russian City Mourns Its Lost Soldiers, but Doesn’t Resent Putin’s War</h3>
@@ -92,22 +108,22 @@ There&#39;s a lot happening in the world right now. In the US, there were lots o
 <p>Ryazan, not far from Moscow, regularly sends young men off to fight. Some are now buried in the local cemetery, but there is no surge of outrage against Russian leaders.  <a href="https://nyti.ms/3hTx7HL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Air Base Is Attacked, as Ukraine Discounts Escalation Threat</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Russia said falling wreckage from a Ukrainian drone had killed three servicemen at the base, some 300 miles from Ukraine, which would be the third such long-range attack this month.  <a href="https://nyti.ms/3GhHrTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Thousands of Canceled Flights Upend Travel Plans Across U.S.</h3>
+<sub>By Derrick Bryson Taylor and Daniel Victor</sub>
+<p>Most of the disruption was on Southwest Airlines, which had called off more than 60 percent of its flights by Tuesday morning.  <a href="https://nyti.ms/3FYy4GD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>28 Dead in ‘Once in a Generation’ Blizzard in Western New York</h3>
+<sub>By Michael D. Regan, Michael Gold and Mihir Zaveri</sub>
+<p>Thousands remain without power in the Buffalo region, where there is as much as 49 inches of snow on the ground, with more still falling.  <a href="https://nyti.ms/3PSvOW2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Last Holdouts</h3>
-<sub>By Amy Harmon</sub>
-<p>What it’s like to wear masks for Covid when most others have long since moved on.  <a href="https://nyti.ms/3hLgDBH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China to Drop Covid Quarantine for Incoming Travelers</h3>
-<sub>By Vivian Wang</sub>
-<p>From Jan. 8, visitors will be required to show only a negative P.C.R. test taken within 48 hours. The restrictions had cut the country off from the rest of the world for nearly three years.  <a href="https://nyti.ms/3I1Wkua"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Sibling Survivors of a Mass Shooting, Christmas Is an Act of Resolve</h3>
+<sub>By Jack Healy</sub>
+<p>Charlene and James Slaugh were both wounded at Club Q. Families impacted by hundreds of mass shootings this year face a tough holiday season.  <a href="https://nyti.ms/3Wrr4Js"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -116,23 +132,11 @@ There&#39;s a lot happening in the world right now. In the US, there were lots o
 <p>German security researchers studying biometric capture devices popular with the U.S. military got more than they expected for $68 on eBay.  <a href="https://nyti.ms/3WoOVJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Pandemic Woes Lead Met Opera to Tap Endowment and Embrace New Work</h3>
-<sub>By Javier C. Hernández</sub>
-<p>Facing tepid ticket sales, the company will withdraw up to $30 million from its endowment and stage more operas by living composers, which have been outselling the classics.  <a href="https://nyti.ms/3viifFW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>One Final Twist in the Rev. Louis Gigante’s Colorful Life: A Son</h3>
-<sub>By Michael Wilson</sub>
-<p>Father Gigante, a towering figure in the Bronx, left a $7 million fortune entirely to the son he had while he was a priest.  <a href="https://nyti.ms/3WFzT24"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Sibling Survivors of a Mass Shooting, Christmas Is an Act of Resolve</h3>
-<sub>By Jack Healy</sub>
-<p>Charlene and James Slaugh were both wounded at Club Q. Families impacted by hundreds of mass shootings this year face a tough holiday season.  <a href="https://nyti.ms/3Wrr4Js"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Record Numbers, an Unexpected Migrant Group Is Fleeing to the U.S.</h3>
+<sub>By Alfonso Flores Bermúdez and Frances Robles</sub>
+<p>Hundreds of thousands of Nicaraguans have fled their country in recent years, escaping poverty and repression under an increasingly authoritarian government.  <a href="https://nyti.ms/3hRA9MG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
