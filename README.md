@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 27, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now, but there are some major stories you should know about. In the US, there have been many delays and cancellations over the holiday weekend due to travel nightmares. Also in the US, people who are still wearing masks for Covid protection face a tough holiday season. In New York, newly elected Congressman George Santos admitted to lying about his college and work history. On the world stage, Russia has been attacked with long-range drones, and China has dropped its strict Covid quarantine measures for incoming travelers after nearly three years. Additionally, the Met Opera is facing tepid ticket sales so they will be tapping their endowment and staging more operas by living composers to help improve their finances. Finally, a last twist in the Rev. Louis Gigante&#39;s colorful life revealed that he had left his $7 million fortune entirely to a son he had while he was still a priest.</p>
+There&#39;s a lot happening in the world right now. In the US, there were lots of travel nightmares for people over the holiday weekend due to cancelled flights. In Western New York, there was an incredibly rare and destructive blizzard that killed at least 28 people. In Russia, there have been air base attacks that have killed Russian servicemen; but the citizens don&#39;t seem to resent the war their leaders are waging. Internationally, China is going to lift its Covid quarantine restrictions for incoming travelers. In terms of Covid, it seems like almost everywhere is struggling with some consequences of the pandemic--like people having to wear masks when most others have moved on. And in New York, there&#39;s George Santos who was just elected as congressman but it&#39;s since been revealed that he lied about his college and work history. Plus the wealthy priest, Louis Gigante, who shockingly left all his $7 million fortune to the son he had while being a priest. Lastly, amid this difficult time with mass shootings all around us, we have James and Charlene Slaugh who survived being shot at Club Q, underscoring how this holiday season will be especially tough for families impacted by mass shootings this year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos Admits to Lying About College and Work History</h3>
@@ -87,15 +87,15 @@ There&#39;s a lot happening in the world right now, but there are some major sto
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Air Base Is Attacked, as Ukraine Discounts Escalation Threat</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Russia said falling wreckage from a Ukrainian drone had killed three servicemen at the base, some 300 miles from Ukraine, which would be the third such long-range attack this month.  <a href="https://nyti.ms/3GhHrTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russian City Mourns Its Lost Soldiers, but Doesn’t Resent Putin’s War</h3>
 <sub>By Valerie Hopkins and Nanna Heitmann</sub>
 <p>Ryazan, not far from Moscow, regularly sends young men off to fight. Some are now buried in the local cemetery, but there is no surge of outrage against Russian leaders.  <a href="https://nyti.ms/3hTx7HL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Air Base Is Attacked, as Ukraine Discounts Escalation Threat</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Russia said falling wreckage from a Ukrainian drone had killed three servicemen at the base, some 300 miles from Ukraine, which would be the third such long-range attack this month.  <a href="https://nyti.ms/3GhHrTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
