@@ -60,18 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 27, Central Standard Time</p>
 <p>
-Things in the world have been chaotic and difficult lately. Southwest Airlines is struggling after a major winter storm caused them to cancel most of their flights, leaving many travelers stranded. Western New York has also been badly affected by this blizzard, with 8 more deaths reported recently. We&#39;ve seen numerous travel meltdowns over the holiday weekend due to flight delays and cancellations. In China, medical staff have been overwhelmed from a Covid crisis that has spiraled out of control. On the brighter side, new scientific results from the Webb Telescope are coming back better than expected, and Disney&#39;s iconic character &quot;Steamboat Willie&quot; will enter the public domain soon. There have also been some concerning developments - a man was recently sentenced to 16 years for plotting to kidnap Michigan&#39;s governor, Russian soldiers are being sent off to fight with no surge of public outrage, and a military database of fingerprints and iris scans was found for sale on eBay.</p>
+It&#39;s been a rough winter, especially in western New York where more than 30 lives have been lost in a snowstorm. Travelers have also experienced big headaches over the holidays because of flight delays and cancellations. Meanwhile, China is facing a spiraling Covid crisis with medical staff feeling overwhelmed by the situation. On the more positive side, astronomers are excited that the new Webb telescope is doing even better than expected. 
+
+Closer to home, a man has been sentenced to 16 years in prison for plotting to kidnap Michigan governor Gretchen Whitmer. A new congressman-elect George Santos unfortunately lied about his college and job history, but G.O.P leadership has remained silent on that matter. Retirees are playing a part in why the job market hasn&#39;t fully recovered - and of course there&#39;s always the looming expiration of Mickey&#39;s copyright!</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>‘It Was Just a Crying Day’: Families Mourn for Those Killed in the Storm</h3>
+<sub>By Lola Fadulu, Sarah Maslin Nir and Hurubie Meko</sub>
+<p>Western New York is still digging out from a punishing holiday blizzard that has taken more than 30 lives.  <a href="https://nyti.ms/3FZVo6S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Southwest Airlines Struggles to Right Its Operation After Winter Storm</h3>
 <sub>By Isabella Simonetti, Derrick Bryson Taylor and Daniel Victor</sub>
 <p>The company canceled more than 60 percent of its flights on Tuesday and Wednesday, leaving many travelers stranded.  <a href="https://nyti.ms/3YSc1tZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Western New York, Death Toll From Winter Storm Continues to Climb</h3>
-<sub>By Hurubie Meko and Sarah Maslin Nir</sub>
-<p>Eight more deaths were reported in the region, which is still digging out from a holiday blizzard that has taken more than 30 lives.  <a href="https://nyti.ms/3FZVo6S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,6 +106,12 @@ Things in the world have been chaotic and difficult lately. Southwest Airlines i
 <p>Ryazan, not far from Moscow, regularly sends young men off to fight. Some are now buried in the local cemetery, but there is no surge of outrage against Russian leaders.  <a href="https://nyti.ms/3hTx7HL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>G.O.P. Leadership Remains Silent Over George Santos’s Falsehoods</h3>
+<sub>By Luke Broadwater, Catie Edmondson and Michael Gold</sub>
+<p>The muted response from party leaders suggested that so far they were prepared to mete out little, if any, punishment to the congressman-elect.  <a href="https://nyti.ms/3vnpfBz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos Admits to Lying About College and Work History</h3>
 <sub>By Michael Gold and Grace Ashford</sub>
@@ -111,10 +119,10 @@ Things in the world have been chaotic and difficult lately. Southwest Airlines i
 <sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos’s Early Life: Odd Jobs, Bad Debts and Lawsuits</h3>
-<sub>By Michael Gold, Grace Ashford and Ellen Yan</sub>
-<p>Representative-elect George Santos, who is under scrutiny over potentially misrepresenting key parts of his campaign biography, had other undisclosed troubles in his early career.  <a href="https://nyti.ms/3Wo3FZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 23, Central Standard Time</sub></sub>
+<h3>George Santos: What We Know and Don’t Know About the Representative-Elect</h3>
+<sub>By Dana Rubinstein</sub>
+<p>Mr. Santos admitted that the information in his résumé about where he worked and went to school were not true. Other discrepancies in his biography remain a mystery.  <a href="https://nyti.ms/3VpOFZN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Retirees Are One Reason the Fed Has Given Up on a Big Worker Rebound</h3>
@@ -127,12 +135,6 @@ Things in the world have been chaotic and difficult lately. Southwest Airlines i
 <sub>By Brooks Barnes</sub>
 <p>The version of the iconic character from “Steamboat Willie” will enter the public domain in 2024. But those trying to take advantage could end up in a legal mousetrap.  <a href="https://nyti.ms/3WJhbXt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>For Sale on eBay: A Military Database of Fingerprints and Iris Scans</h3>
-<sub>By Kashmir Hill, John Ismay, Christopher F. Schuetze and Aaron Krolik</sub>
-<p>German security researchers studying biometric capture devices popular with the U.S. military got more than they expected for $68 on eBay.  <a href="https://nyti.ms/3WoOVJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
