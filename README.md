@@ -60,19 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 28, Central Standard Time</p>
 <p>
-Right now, it looks like bad winter weather is causing lots of disruptions in the US. Southwest Airlines had to cancel so many flights that thousands of passengers are stranded and frustrated. Out in Western New York, they&#39;re still recovering from a huge blizzard that killed almost 30 people. There&#39;s also a fast-moving storm system out West that could cause flooding and mudslides. On top of that, a pandemic rule known as &#39;Title 42&#39; has been extended by the Supreme Court; it allows migrants to be quickly expelled from the US-Mexico border. There&#39;s also been legal trouble for George Santos, a congressman-elect who was recently found to have lied about his heritage - leading the Republican Jewish Coalition and other party leaders to try and figure out what punishment he may face. But on the brighter side, the Webb Telescope recently launched and it&#39;s working even better than astronomers had hoped. And in Eastern Ukraine, there&#39;s fighting with Russia over a gateway city called Kreminna.</p>
+There is a lot going on in the world right now! The U.S. is scrambling to stop Iran from providing drones for Russia as the war in Ukraine continues. Meanwhile, doctors are trying to stop the spread of misinformation about Covid-19. Southwest has had a major meltdown recently and caused thousands of flights to be cancelled or delayed. There&#39;s also a dangerous &#39;atmospheric river&#39; storm hitting the West Coast, and a Supreme Court ruling meaning that certain migrants must stay outside of the U.S. In terms of business, companies are trying to work out what to do with all their vacant office spaces - whether it be storage, making them into gyms or film sets. On top of this, there&#39;s an ugly fight within the Republican party as they select their new leader. To make matters worse, some of the party leadership are staying silent over George Santos&#39;s false statements. Finally, Google employees are anxiously bracing themselves ahead of cost-cutting plans.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Southwest’s Debacle, Which Stranded Thousands, to Be Felt for Days</h3>
-<sub>By Isabella Simonetti and Peter Eavis</sub>
-<p>Bad winter weather led the company to cancel more than 60 percent of its flights for Tuesday and Wednesday, leaving many travelers frustrated.  <a href="https://nyti.ms/3YSc1tZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Scrambles to Stop Iran From Providing Drones for Russia</h3>
+<sub>By David E. Sanger, Julian E. Barnes and Eric Schmitt</sub>
+<p>As the war in Ukraine grinds on, some officials have become convinced that Iran and Russia are building a new alliance of convenience.  <a href="https://nyti.ms/3I6w81u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>‘It Was Just a Crying Day’: Families Mourn Those Killed in the Storm</h3>
-<sub>By Lola Fadulu, Hurubie Meko and Sarah Maslin Nir</sub>
-<p>Western New York is still digging out from a punishing holiday blizzard that has taken nearly 30 lives.  <a href="https://nyti.ms/3FZVo6S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>As Covid-19 Continues to Spread, So Does Misinformation About It</h3>
+<sub>By Tiffany Hsu</sub>
+<p>Doctors are exasperated by the persistence of false and misleading claims about the virus.  <a href="https://nyti.ms/3Vu7lHN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Southwest’s Meltdown Draws Federal Scrutiny as Passengers Remain Stranded</h3>
+<sub>By Tanya Sichynsky and Daniel Victor</sub>
+<p>The airline canceled another 2,500 flights on Wednesday and said it would be days before normal service resumes.  <a href="https://nyti.ms/3QcFM53"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Atmospheric River’ Begins to Pound Western U.S. With Rain and Snow</h3>
@@ -98,29 +104,23 @@ Right now, it looks like bad winter weather is causing lots of disruptions in th
 <p>A Supreme Court ruling extending an expulsion policy known as Title 42 proved deeply disappointing for many migrants gathered at the border, hoping for a chance to seek asylum.  <a href="https://nyti.ms/3PTUcGY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Would It Take to Turn More Offices Into Housing?</h3>
+<sub>By Emma Goldberg</sub>
+<p>Vast amounts of empty real estate are a crisis for building owners. But some politicians and business leaders hope they can be converted into something new — and transform downtown neighborhoods.  <a href="https://nyti.ms/3C2D4ZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Getting Creative With Vacant Office Space: Storage, Gym, Film Set</h3>
+<sub>By Patrick Sisson</sub>
+<p>Some landlords are skipping residential conversion and instead seeking alternatives that are cheaper and easier to manage.  <a href="https://nyti.ms/3C5INhE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Title 42 Has Allowed Many Migrants to Be Quickly Expelled, and Others to Stay</h3>
-<sub>By Eileen Sullivan</sub>
-<p>The Supreme Court agreed to a request from Republican-led states to keep in place — for now — a public health rule that has been used to turn back migrants during the pandemic.  <a href="https://nyti.ms/3djHoa8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Transcripts Shed New Light on How Trump Considered Blanket Pardons</h3>
-<sub>By Luke Broadwater, Catie Edmondson and Stephanie Lai</sub>
-<p>The transcripts build on a growing body of evidence about the extent to which many in Mr. Trump’s orbit were seeking pardons after the 2021 attack on the Capitol.  <a href="https://nyti.ms/3jzcNfm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>The Webb Telescope Is Just Getting Started</h3>
-<sub>By Dennis Overbye</sub>
-<p>The first scientific results are coming in, and the $10 billion instrument is working even better than astronomers had dared to hope.  <a href="https://nyti.ms/3vg8cRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine and Russia Battle for a Gateway City in the East</h3>
-<sub>By Andrew E. Kramer, Matthew Mpoke Bigg and Alan Yuhas</sub>
-<p>Recapturing Kreminna, in eastern Ukraine, would be a step further in Ukraine’s campaign to retake major cities that Russia seized after it invaded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<h3>Race for G.O.P. Chair Obscures the Party’s Bigger Problems</h3>
+<sub>By Jonathan Weisman and Ken Bensinger</sub>
+<p>Ronna McDaniel’s quest for a fourth term atop the Republican National Committee has triggered an ugly intraparty fight between the right and the farther right. Figuring out how to win back swing voters is not a top priority.  <a href="https://nyti.ms/3YSj6La"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Leadership Remains Silent Over George Santos’s Falsehoods</h3>
@@ -128,11 +128,11 @@ Right now, it looks like bad winter weather is causing lots of disruptions in th
 <p>The muted response from party leaders suggested that so far they were prepared to mete out little, if any, punishment to the congressman-elect.  <a href="https://nyti.ms/3vnpfBz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Jewish Coalition Says Santos ‘Deceived Us’ About His Heritage</h3>
-<sub>By Ken Bensinger</sub>
-<p>The group said that Representative-elect George Santos would be barred from its events, but it stopped short of calling for him not to serve in Congress.  <a href="https://nyti.ms/3VqDOPh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google Employees Brace for a Cost-Cutting Drive as Anxiety Mounts</h3>
+<sub>By Nico Grant</sub>
+<p>The tech giant has so far taken steps to streamline without mass layoffs, but employees are girding for deeper cuts.  <a href="https://nyti.ms/3VtI7Jy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
