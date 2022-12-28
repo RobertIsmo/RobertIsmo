@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 28, Central Standard Time</p>
 <p>
-Recently, the US has become increasingly concerned about a new alliance of convenience forming between Iran and Russia. At the same time, misinformation about Covid-19 has been spreading quickly and many people are anxious as China loosens travel rules again. In addition, Southwest Airlines has canceled 2,500 flights due to a technical meltdown, affecting travelers nationwide. There is also an intense storm headed to the West Coast of the US bringing heavy rain and snow.
-
-On top of that, there&#39;s been news of stricter migrant expulsion policy temporarily staying in place at the US&#x2F;Mexico border. And due to disruption from winter storms, a lot of people have gotten separated from their luggage. To make things more complicated, there’s an intense fight within the GOP for leadership between the right and further right - with party leaders remaining silent over false claims made by one congressman-elect. Additionally, there’s been talk of converting vacant office spaces for purposes other than housing - such as storage, gyms and film sets.</p>
+There are a lot of different things going on in the world right now. In the US, there is a scramble to stop Iran from providing drones to Russia as the war in Ukraine continues. There is also a lot of misinformation about Covid-19 going around, and Southwest Airlines has been under scrutiny for stranding passengers after canceling flights. On top of that, the West is dealing with a &#39;Atmospheric River&#39; that&#39;s bringing rain and snow, while a man was sentenced to nearly 20 years in prison for plotting to kidnap Michigan&#39;s governor. Meanwhile, Republicans are attacking the FBI as they investigate former President Donald Trump, and there is an intraparty fight between the right and farther right in the GOP while they figure out how to win back swing voters. In the business world, people are trying to turn offices into housing and Google employees are anxious about potential cost-cutting measures. Oakland&#39;s next mayor will be a Hmong American refugee, and Art Spiegelman, author of &quot;Maus,&quot; has had his book banned and discussed sanitization of history this past year. All in all, it&#39;s a lot to keep up with!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Scrambles to Stop Iran From Providing Drones for Russia</h3>
@@ -74,12 +72,6 @@ On top of that, there&#39;s been news of stricter migrant expulsion policy tempo
 <h3>As Covid-19 Continues to Spread, So Does Misinformation About It</h3>
 <sub>By Tiffany Hsu</sub>
 <p>Doctors are exasperated by the persistence of false and misleading claims about the virus.  <a href="https://nyti.ms/3Vu7lHN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Easing of Travel Rules Met With Joy, and Some Anxiety</h3>
-<sub>By Chang Che, Claire Fu and Amy Chang Chien</sub>
-<p>Many welcomed Beijing’s plan to loosen quarantine rules for travelers, but concerns linger about the country’s Covid wave.  <a href="https://nyti.ms/3WxvFKq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -94,35 +86,17 @@ On top of that, there&#39;s been news of stricter migrant expulsion policy tempo
 <p>As the Eastern United States starts to recover from a deadly weekend, the West is dealing with a fast-moving storm system that could bring flooding and mudslides, forecasters say.  <a href="https://nyti.ms/3I8rRLi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>You Didn’t Make It to St. Louis, but Your Bags Did. Here’s What to Do.</h3>
-<sub>By Julie Weed and Víctor Manuel Ramos</sub>
-<p>Disruptions from winter storms have not only caused flight delays and cancellations, but have also separated many passengers from their luggage. Here are some ways to make reuniting easier.  <a href="https://nyti.ms/3WJPtK6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Receives Nearly 20 Years in Prison for Plot to Kidnap Gov. Gretchen Whitmer</h3>
+<sub>By Mitch Smith</sub>
+<p>Barry Croft planned to use guns and explosives to abduct Michigan’s governor, prosecutors said. He was the final federal defendant to face sentencing.  <a href="https://nyti.ms/3VJLtbP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Migrant Expulsion Policy Must Stay in Place for Now, Supreme Court Says</h3>
-<sub>By Adam Liptak, Miriam Jordan and Eileen Sullivan</sub>
-<p>The temporary stay in lifting the pandemic rule known as Title 42 is a provisional victory for 19 states, led mostly by Republicans, that had sought to keep it in place on the border.  <a href="https://nyti.ms/3GlZkQO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At a Crowded Border Camp in Mexico, Frustration and Shattered Hopes</h3>
-<sub>By Edgar Sandoval</sub>
-<p>A Supreme Court ruling extending an expulsion policy known as Title 42 proved deeply disappointing for many migrants gathered at the border, hoping for a chance to seek asylum.  <a href="https://nyti.ms/3PTUcGY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Would It Take to Turn More Offices Into Housing?</h3>
-<sub>By Emma Goldberg</sub>
-<p>Vast amounts of empty real estate are a crisis for building owners. But some politicians and business leaders hope they can be converted into something new — and transform downtown neighborhoods.  <a href="https://nyti.ms/3C2D4ZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Getting Creative With Vacant Office Space: Storage, Gym, Film Set</h3>
-<sub>By Patrick Sisson</sub>
-<p>Some landlords are skipping residential conversion and instead seeking alternatives that are cheaper and easier to manage.  <a href="https://nyti.ms/3C5INhE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<h3>Republicans Step Up Attacks on F.B.I. as It Investigates Trump</h3>
+<sub>By Adam Goldman and Alan Feuer</sub>
+<p>Historically, the F.B.I.’s critics have come from the left. But the bureau’s array of inquiries into former President Donald J. Trump has turned the tables.  <a href="https://nyti.ms/3I3Zmyh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Race for G.O.P. Chair Obscures the Party’s Bigger Problems</h3>
@@ -130,11 +104,35 @@ On top of that, there&#39;s been news of stricter migrant expulsion policy tempo
 <p>Ronna McDaniel’s quest for a fourth term atop the Republican National Committee has triggered an ugly intraparty fight between the right and the farther right. Figuring out how to win back swing voters is not a top priority.  <a href="https://nyti.ms/3YSj6La"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Leadership Remains Silent Over George Santos’s Falsehoods</h3>
-<sub>By Luke Broadwater, Catie Edmondson and Michael Gold</sub>
-<p>The muted response from party leaders suggested that so far they were prepared to mete out little, if any, punishment to the congressman-elect.  <a href="https://nyti.ms/3vnpfBz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Would It Take to Turn More Offices Into Housing?</h3>
+<sub>By Emma Goldberg</sub>
+<p>Vast amounts of empty real estate are a crisis for building owners. But some politicians and business leaders hope they can be converted into something new — and transform downtown neighborhoods.  <a href="https://nyti.ms/3C2D4ZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google Employees Brace for a Cost-Cutting Drive as Anxiety Mounts</h3>
+<sub>By Nico Grant</sub>
+<p>The tech giant has so far taken steps to streamline without mass layoffs, but employees are girding for deeper cuts.  <a href="https://nyti.ms/3VtI7Jy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Oakland’s Next Mayor Highlights Political Rise of Hmong Americans</h3>
+<sub>By Amy Qin</sub>
+<p>Sheng Thao, the daughter of refugees, will become the most prominent Hmong American politician when she leads the California city of 440,000 residents.  <a href="https://nyti.ms/3FWiXOd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Art Spiegelman on Life With a ‘500-Pound Mouse Chasing Me’</h3>
+<sub>By Alexandra Alter</sub>
+<p>Known for his Pulitzer Prize-winning comic book, “Maus,” the author has had a busy year, after the book was banned and jump-started a fresh debate about the sanitization of history. Frankly, he’s ready to get back to work.  <a href="https://nyti.ms/3vjnp4D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>How the House of Trump Was Built</h3>
+<sub>By Carlos Lozada</sub>
+<p>When you suck all the air out of a room, you risk bursting at the end.  <a href="https://nyti.ms/3G22YOm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
