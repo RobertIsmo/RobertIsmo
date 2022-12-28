@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 28, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! The U.S. is scrambling to stop Iran from providing drones for Russia as the war in Ukraine continues. Meanwhile, doctors are trying to stop the spread of misinformation about Covid-19. Southwest has had a major meltdown recently and caused thousands of flights to be cancelled or delayed. There&#39;s also a dangerous &#39;atmospheric river&#39; storm hitting the West Coast, and a Supreme Court ruling meaning that certain migrants must stay outside of the U.S. In terms of business, companies are trying to work out what to do with all their vacant office spaces - whether it be storage, making them into gyms or film sets. On top of this, there&#39;s an ugly fight within the Republican party as they select their new leader. To make matters worse, some of the party leadership are staying silent over George Santos&#39;s false statements. Finally, Google employees are anxiously bracing themselves ahead of cost-cutting plans.</p>
+Recently, the US has become increasingly concerned about a new alliance of convenience forming between Iran and Russia. At the same time, misinformation about Covid-19 has been spreading quickly and many people are anxious as China loosens travel rules again. In addition, Southwest Airlines has canceled 2,500 flights due to a technical meltdown, affecting travelers nationwide. There is also an intense storm headed to the West Coast of the US bringing heavy rain and snow.
+
+On top of that, there&#39;s been news of stricter migrant expulsion policy temporarily staying in place at the US&#x2F;Mexico border. And due to disruption from winter storms, a lot of people have gotten separated from their luggage. To make things more complicated, there’s an intense fight within the GOP for leadership between the right and further right - with party leaders remaining silent over false claims made by one congressman-elect. Additionally, there’s been talk of converting vacant office spaces for purposes other than housing - such as storage, gyms and film sets.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Scrambles to Stop Iran From Providing Drones for Russia</h3>
@@ -72,6 +74,12 @@ There is a lot going on in the world right now! The U.S. is scrambling to stop I
 <h3>As Covid-19 Continues to Spread, So Does Misinformation About It</h3>
 <sub>By Tiffany Hsu</sub>
 <p>Doctors are exasperated by the persistence of false and misleading claims about the virus.  <a href="https://nyti.ms/3Vu7lHN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Easing of Travel Rules Met With Joy, and Some Anxiety</h3>
+<sub>By Chang Che, Claire Fu and Amy Chang Chien</sub>
+<p>Many welcomed Beijing’s plan to loosen quarantine rules for travelers, but concerns linger about the country’s Covid wave.  <a href="https://nyti.ms/3WxvFKq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -127,12 +135,6 @@ There is a lot going on in the world right now! The U.S. is scrambling to stop I
 <sub>By Luke Broadwater, Catie Edmondson and Michael Gold</sub>
 <p>The muted response from party leaders suggested that so far they were prepared to mete out little, if any, punishment to the congressman-elect.  <a href="https://nyti.ms/3vnpfBz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google Employees Brace for a Cost-Cutting Drive as Anxiety Mounts</h3>
-<sub>By Nico Grant</sub>
-<p>The tech giant has so far taken steps to streamline without mass layoffs, but employees are girding for deeper cuts.  <a href="https://nyti.ms/3VtI7Jy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
