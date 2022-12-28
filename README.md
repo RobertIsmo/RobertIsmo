@@ -58,12 +58,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, December 27, Central Standard Time</p>
+<p>It is Wednesday, December 28, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. It looks like winter weather has been causing headaches for travelers, as many have been stranded and forced to cancel holidays due to Southwest Airlines problems. In western New York people are mourning the lives lost in a recent blizzard. Also, the US Supreme Court has upheld a pandemic rule known as Title 42 that was implemented at the US-Mexico border, affecting many migrants hoping to seek asylum in the US. On Capitol Hill, new transcripts from January 6th are shedding light on how Trump considered giving out blanket pardons and have further evidenced his involvement with the attack. NASA&#39;s Webb Telescope is making strides and scientific results on it are looking really good. In eastern Ukraine, Russia and Ukraine are at odds over control of Kreminna, a gateway city to the east. And finally, there&#39;s a controversy surrounding Republican congressman-elect George Santos who has deceived people about his heritage--the Republican Jewish Coalition is barring him from their events but has stopped short of booting him from Congress. That&#39;s what&#39;s up!</p>
+Right now, there is a lot going on in the world. Businesses have been impacted significantly by winter storms in recent weeks. For example, Southwest Airlines has canceled over 60% of their flights due to severe weather. Meanwhile, families are mourning those killed in the storm across New York. In the Western U.S., an “atmospheric river” storm system could bring flooding and mudslides. Elsewhere, travelers who had their bags misplaced because of flight delays and cancellations may not know what to do. At the same time, migrants along the U.S.-Mexico border are facing expulsion policies as a result of the pandemic. Even more recently, transcripts revealed that former President Trump considered blanketing pardons during the January 6 attack on the Capitol. On top of all this, the new Webb Telescope is revealing astonishing new knowledge about our universe, and Ukraine and Russia are locked in a battle for a gateway city in Eastern Ukraine – Kreminna. Oh, and this is all without even mentioning the controversy around U.S. Congressman-elect George Santos regarding his heritage and Native American ancestry claims. So yeah… it&#39;s been a wild week!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Thousands Stranded, and Angry, as Southwest Airlines Melts Down</h3>
+<h3>Southwest’s Debacle, Which Stranded Thousands, to Be Felt for Days</h3>
 <sub>By Isabella Simonetti and Peter Eavis</sub>
 <p>Bad winter weather led the company to cancel more than 60 percent of its flights for Tuesday and Wednesday, leaving many travelers frustrated.  <a href="https://nyti.ms/3YSc1tZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
@@ -75,9 +75,9 @@ There&#39;s a lot happening in the world right now. It looks like winter weather
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abandoned Trips, Lost Presents: Southwest Cancellations Wreak Holiday Havoc</h3>
-<sub>By Robert Chiarito, Nicholas Bogel-Burroughs, Clyde McGrady and Soumya Karlamangla</sub>
-<p>Some passengers slept in airports, while others desperately searched for rental cars and bus tickets as the outlook remained grim.  <a href="https://nyti.ms/3hTLb3Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘Atmospheric River’ Begins to Pound Western U.S. With Rain and Snow</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>As the Eastern United States starts to recover from a deadly weekend, the West is dealing with a fast-moving storm system that could bring flooding and mudslides, forecasters say.  <a href="https://nyti.ms/3I8rRLi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
@@ -119,7 +119,7 @@ There&#39;s a lot happening in the world right now. It looks like winter weather
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine and Russia Battle for a Gateway City in the East</h3>
 <sub>By Andrew E. Kramer, Matthew Mpoke Bigg and Alan Yuhas</sub>
-<p>Recapturing Kreminna, in eastern Ukraine, would be a step further in Ukraine’s campaign to retake major cities that Russia seized after it invaded.  <a href="https://nyti.ms/3G1iCJQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Recapturing Kreminna, in eastern Ukraine, would be a step further in Ukraine’s campaign to retake major cities that Russia seized after it invaded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
