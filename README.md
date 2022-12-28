@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 27, Central Standard Time</p>
 <p>
-There has been a lot going on around the world recently! In the US, a Supreme Court ruling on a migrant expulsion policy and Southwest Airlines cancellations have caused travel disruption and distress. In Nicaragua, hundreds of thousands of people are fleeing to the US to escape poverty and repression. In Western New York, many families are mourning deaths as a result of storms. Then, in Congress, Republican Jewish Coalition has criticised newly-elected Representative George Santos for falsehoods about his heritage. And in pop culture, men are dismantling traditional gender roles. It&#39;s been an eventful year!</p>
+There&#39;s a lot happening in the world right now. It looks like winter weather has been causing headaches for travelers, as many have been stranded and forced to cancel holidays due to Southwest Airlines problems. In western New York people are mourning the lives lost in a recent blizzard. Also, the US Supreme Court has upheld a pandemic rule known as Title 42 that was implemented at the US-Mexico border, affecting many migrants hoping to seek asylum in the US. On Capitol Hill, new transcripts from January 6th are shedding light on how Trump considered giving out blanket pardons and have further evidenced his involvement with the attack. NASA&#39;s Webb Telescope is making strides and scientific results on it are looking really good. In eastern Ukraine, Russia and Ukraine are at odds over control of Kreminna, a gateway city to the east. And finally, there&#39;s a controversy surrounding Republican congressman-elect George Santos who has deceived people about his heritage--the Republican Jewish Coalition is barring him from their events but has stopped short of booting him from Congress. That&#39;s what&#39;s up!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Migrant Expulsion Policy Must Stay in Place for Now, Supreme Court Says</h3>
-<sub>By Adam Liptak, Miriam Jordan and Eileen Sullivan</sub>
-<p>The temporary stay in lifting the pandemic rule known as Title 42 is a provisional victory for 19 states, led mostly by Republicans, that had sought to keep it in place on the border.  <a href="https://nyti.ms/3GlZkQO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Title 42 Has Allowed Many Migrants to Be Quickly Expelled, and Others to Stay</h3>
-<sub>By Eileen Sullivan</sub>
-<p>The Supreme Court agreed to a request from Republican-led states to keep in place — for now — a public health rule that has been used to turn back migrants during the pandemic.  <a href="https://nyti.ms/3djHoa8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Record Numbers, an Unexpected Migrant Group Is Fleeing to the U.S.</h3>
-<sub>By Alfonso Flores Bermúdez and Frances Robles</sub>
-<p>Hundreds of thousands of Nicaraguans have fled their country in recent years, escaping poverty and repression under an increasingly authoritarian government.  <a href="https://nyti.ms/3hRA9MG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Thousands Stranded, and Angry, as Southwest Airlines Melts Down</h3>
+<sub>By Isabella Simonetti and Peter Eavis</sub>
+<p>Bad winter weather led the company to cancel more than 60 percent of its flights for Tuesday and Wednesday, leaving many travelers frustrated.  <a href="https://nyti.ms/3YSc1tZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -86,16 +74,40 @@ There has been a lot going on around the world recently! In the US, a Supreme Co
 <p>Western New York is still digging out from a punishing holiday blizzard that has taken nearly 30 lives.  <a href="https://nyti.ms/3FZVo6S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Thousands Stranded, and Angry, as Southwest Airlines Melts Down</h3>
-<sub>By Isabella Simonetti and Peter Eavis</sub>
-<p>Bad winter weather led the company to cancel more than 60 percent of its flights for Tuesday and Wednesday, leaving many travelers frustrated.  <a href="https://nyti.ms/3YSc1tZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Abandoned Trips, Lost Presents: Southwest Cancellations Wreak Holiday Havoc</h3>
 <sub>By Robert Chiarito, Nicholas Bogel-Burroughs, Clyde McGrady and Soumya Karlamangla</sub>
 <p>Some passengers slept in airports, while others desperately searched for rental cars and bus tickets as the outlook remained grim.  <a href="https://nyti.ms/3hTLb3Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>You Didn’t Make It to St. Louis, but Your Bags Did. Here’s What to Do.</h3>
+<sub>By Julie Weed and Víctor Manuel Ramos</sub>
+<p>Disruptions from winter storms have not only caused flight delays and cancellations, but have also separated many passengers from their luggage. Here are some ways to make reuniting easier.  <a href="https://nyti.ms/3WJPtK6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Migrant Expulsion Policy Must Stay in Place for Now, Supreme Court Says</h3>
+<sub>By Adam Liptak, Miriam Jordan and Eileen Sullivan</sub>
+<p>The temporary stay in lifting the pandemic rule known as Title 42 is a provisional victory for 19 states, led mostly by Republicans, that had sought to keep it in place on the border.  <a href="https://nyti.ms/3GlZkQO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At a Crowded Border Camp in Mexico, Frustration and Shattered Hopes</h3>
+<sub>By Edgar Sandoval</sub>
+<p>A Supreme Court ruling extending an expulsion policy known as Title 42 proved deeply disappointing for many migrants gathered at the border, hoping for a chance to seek asylum.  <a href="https://nyti.ms/3PTUcGY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Title 42 Has Allowed Many Migrants to Be Quickly Expelled, and Others to Stay</h3>
+<sub>By Eileen Sullivan</sub>
+<p>The Supreme Court agreed to a request from Republican-led states to keep in place — for now — a public health rule that has been used to turn back migrants during the pandemic.  <a href="https://nyti.ms/3djHoa8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jan. 6 Transcripts Shed New Light on How Trump Considered Blanket Pardons</h3>
+<sub>By Luke Broadwater, Catie Edmondson and Stephanie Lai</sub>
+<p>The transcripts build on a growing body of evidence about the extent to which many in Mr. Trump’s orbit were seeking pardons after the 2021 attack on the Capitol.  <a href="https://nyti.ms/3jzcNfm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -104,10 +116,10 @@ There has been a lot going on around the world recently! In the US, a Supreme Co
 <p>The first scientific results are coming in, and the $10 billion instrument is working even better than astronomers had dared to hope.  <a href="https://nyti.ms/3vg8cRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Sentenced to 16 Years in Prison for Plotting to Kidnap Michigan’s Governor</h3>
-<sub>By Mitch Smith</sub>
-<p>Jurors convicted Adam Fox of scheming to kidnap Gov. Gretchen Whitmer in 2020 in what federal prosecutors described as a threat to American democracy.  <a href="https://nyti.ms/3VkSOOI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine and Russia Battle for a Gateway City in the East</h3>
+<sub>By Andrew E. Kramer, Matthew Mpoke Bigg and Alan Yuhas</sub>
+<p>Recapturing Kreminna, in eastern Ukraine, would be a step further in Ukraine’s campaign to retake major cities that Russia seized after it invaded.  <a href="https://nyti.ms/3G1iCJQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,18 +132,6 @@ There has been a lot going on around the world recently! In the US, a Supreme Co
 <h3>Republican Jewish Coalition Says Santos ‘Deceived Us’ About His Heritage</h3>
 <sub>By Ken Bensinger</sub>
 <p>The group said that Representative-elect George Santos would be barred from its events, but it stopped short of calling for him not to serve in Congress.  <a href="https://nyti.ms/3VqDOPh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos: What We Know and Don’t Know About the Representative-Elect</h3>
-<sub>By Dana Rubinstein</sub>
-<p>Mr. Santos admitted that the information in his résumé about where he worked and went to school was not true. Other discrepancies in his biography remain a mystery.  <a href="https://nyti.ms/3VpOFZN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Year Pop’s Men Dismantled Their Masculinity</h3>
-<sub>By Lindsay Zoladz</sub>
-<p>In 2022, stars including Harry Styles, Jack Harlow and Bad Bunny offered liberated takes on gender, but also risked pandering. Are men OK?  <a href="https://nyti.ms/3viiYa7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
