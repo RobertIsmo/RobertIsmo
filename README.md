@@ -60,18 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 28, Central Standard Time</p>
 <p>
-There are a lot of different things going on in the world right now. In the US, there is a scramble to stop Iran from providing drones to Russia as the war in Ukraine continues. There is also a lot of misinformation about Covid-19 going around, and Southwest Airlines has been under scrutiny for stranding passengers after canceling flights. On top of that, the West is dealing with a &#39;Atmospheric River&#39; that&#39;s bringing rain and snow, while a man was sentenced to nearly 20 years in prison for plotting to kidnap Michigan&#39;s governor. Meanwhile, Republicans are attacking the FBI as they investigate former President Donald Trump, and there is an intraparty fight between the right and farther right in the GOP while they figure out how to win back swing voters. In the business world, people are trying to turn offices into housing and Google employees are anxious about potential cost-cutting measures. Oakland&#39;s next mayor will be a Hmong American refugee, and Art Spiegelman, author of &quot;Maus,&quot; has had his book banned and discussed sanitization of history this past year. All in all, it&#39;s a lot to keep up with!</p>
+Right now, the world is in a very difficult place. The Covid-19 pandemic is still going on, and the Biden Administration has announced new requirements for Covid testing for travelers coming from China, Hong Kong and Macau. There&#39;s a lot of misinformation about the virus out there, and a storm recently hit western New York and caused many casualties. Southwest Airlines had a massive meltdown which caused people to be stranded at airports all around the U.S., so it&#39;s unclear when things will be fully back to normal. Additionally, Iran and Russia are forming an alliance with each other, and in the U.S., Republicans are stepping up attacks on the FBI as it investigates Trump, and also there&#39;s an intraparty fight going on between some factions within the Republican National Committee. Businesses are trying to turn offices into housing in order to try to solve some of their crisis situations, and Google employees are bracing for cost-cutting drives as anxiety mounts.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Scrambles to Stop Iran From Providing Drones for Russia</h3>
-<sub>By David E. Sanger, Julian E. Barnes and Eric Schmitt</sub>
-<p>As the war in Ukraine grinds on, some officials have become convinced that Iran and Russia are building a new alliance of convenience.  <a href="https://nyti.ms/3I6w81u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Announces New Covid Test Requirements for Travelers From China</h3>
+<sub>By Sheryl Gay Stolberg and Benjamin Mueller</sub>
+<p>The Biden administration said those coming from China, Hong Kong and Macau must show negative coronavirus tests before entering the United States.  <a href="https://nyti.ms/3jCj1v2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Easing of Travel Rules Met With Joy, and Some Anxiety</h3>
+<sub>By Chang Che, Claire Fu and Amy Chang Chien</sub>
+<p>Many welcomed Beijing’s plan to loosen quarantine rules for travelers, but concerns linger about the country’s Covid wave.  <a href="https://nyti.ms/3WxvFKq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>As Covid-19 Continues to Spread, So Does Misinformation About It</h3>
 <sub>By Tiffany Hsu</sub>
 <p>Doctors are exasperated by the persistence of false and misleading claims about the virus.  <a href="https://nyti.ms/3Vu7lHN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Storm’s Victims: an Expectant Parent, a Doting Daughter, a Refugee</h3>
+<sub>By Lola Fadulu and Hurubie Meko</sub>
+<p>More than 30 people in western New York are known to have died in the storm, but officials expect the death toll to rise.  <a href="https://nyti.ms/3YWxB0i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,15 +93,9 @@ There are a lot of different things going on in the world right now. In the US, 
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Atmospheric River’ Begins to Pound Western U.S. With Rain and Snow</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>As the Eastern United States starts to recover from a deadly weekend, the West is dealing with a fast-moving storm system that could bring flooding and mudslides, forecasters say.  <a href="https://nyti.ms/3I8rRLi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Receives Nearly 20 Years in Prison for Plot to Kidnap Gov. Gretchen Whitmer</h3>
-<sub>By Mitch Smith</sub>
-<p>Barry Croft planned to use guns and explosives to abduct Michigan’s governor, prosecutors said. He was the final federal defendant to face sentencing.  <a href="https://nyti.ms/3VJLtbP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>You’re Stranded at the Airport. Now What?</h3>
+<sub>By Jesus Jiménez</sub>
+<p>Airlines may provide vouchers or reimbursements, or there may be places to sleep within the airport.  <a href="https://nyti.ms/3hXNMtL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,6 +110,18 @@ There are a lot of different things going on in the world right now. In the US, 
 <p>Ronna McDaniel’s quest for a fourth term atop the Republican National Committee has triggered an ugly intraparty fight between the right and the farther right. Figuring out how to win back swing voters is not a top priority.  <a href="https://nyti.ms/3YSj6La"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Receives Nearly 20 Years in Prison for Plot to Kidnap Gov. Gretchen Whitmer</h3>
+<sub>By Mitch Smith</sub>
+<p>Barry Croft planned to use guns and explosives to abduct Michigan’s governor, prosecutors said. He was the final federal defendant to face sentencing.  <a href="https://nyti.ms/3VJLtbP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Scrambles to Stop Iran From Providing Drones for Russia</h3>
+<sub>By David E. Sanger, Julian E. Barnes and Eric Schmitt</sub>
+<p>As the war in Ukraine grinds on, some officials have become convinced that Iran and Russia are building a new alliance of convenience.  <a href="https://nyti.ms/3I6w81u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Would It Take to Turn More Offices Into Housing?</h3>
 <sub>By Emma Goldberg</sub>
@@ -114,24 +132,6 @@ There are a lot of different things going on in the world right now. In the US, 
 <h3>Google Employees Brace for a Cost-Cutting Drive as Anxiety Mounts</h3>
 <sub>By Nico Grant</sub>
 <p>The tech giant has so far taken steps to streamline without mass layoffs, but employees are girding for deeper cuts.  <a href="https://nyti.ms/3VtI7Jy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Oakland’s Next Mayor Highlights Political Rise of Hmong Americans</h3>
-<sub>By Amy Qin</sub>
-<p>Sheng Thao, the daughter of refugees, will become the most prominent Hmong American politician when she leads the California city of 440,000 residents.  <a href="https://nyti.ms/3FWiXOd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Art Spiegelman on Life With a ‘500-Pound Mouse Chasing Me’</h3>
-<sub>By Alexandra Alter</sub>
-<p>Known for his Pulitzer Prize-winning comic book, “Maus,” the author has had a busy year, after the book was banned and jump-started a fresh debate about the sanitization of history. Frankly, he’s ready to get back to work.  <a href="https://nyti.ms/3vjnp4D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>How the House of Trump Was Built</h3>
-<sub>By Carlos Lozada</sub>
-<p>When you suck all the air out of a room, you risk bursting at the end.  <a href="https://nyti.ms/3G22YOm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
