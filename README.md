@@ -60,32 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 27, Central Standard Time</p>
 <p>
-It&#39;s been a rough winter, especially in western New York where more than 30 lives have been lost in a snowstorm. Travelers have also experienced big headaches over the holidays because of flight delays and cancellations. Meanwhile, China is facing a spiraling Covid crisis with medical staff feeling overwhelmed by the situation. On the more positive side, astronomers are excited that the new Webb telescope is doing even better than expected. 
-
-Closer to home, a man has been sentenced to 16 years in prison for plotting to kidnap Michigan governor Gretchen Whitmer. A new congressman-elect George Santos unfortunately lied about his college and job history, but G.O.P leadership has remained silent on that matter. Retirees are playing a part in why the job market hasn&#39;t fully recovered - and of course there&#39;s always the looming expiration of Mickey&#39;s copyright!</p>
+There has been a lot going on around the world recently! In the US, a Supreme Court ruling on a migrant expulsion policy and Southwest Airlines cancellations have caused travel disruption and distress. In Nicaragua, hundreds of thousands of people are fleeing to the US to escape poverty and repression. In Western New York, many families are mourning deaths as a result of storms. Then, in Congress, Republican Jewish Coalition has criticised newly-elected Representative George Santos for falsehoods about his heritage. And in pop culture, men are dismantling traditional gender roles. It&#39;s been an eventful year!</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>‘It Was Just a Crying Day’: Families Mourn for Those Killed in the Storm</h3>
-<sub>By Lola Fadulu, Sarah Maslin Nir and Hurubie Meko</sub>
-<p>Western New York is still digging out from a punishing holiday blizzard that has taken more than 30 lives.  <a href="https://nyti.ms/3FZVo6S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Migrant Expulsion Policy Must Stay in Place for Now, Supreme Court Says</h3>
+<sub>By Adam Liptak, Miriam Jordan and Eileen Sullivan</sub>
+<p>The temporary stay in lifting the pandemic rule known as Title 42 is a provisional victory for 19 states, led mostly by Republicans, that had sought to keep it in place on the border.  <a href="https://nyti.ms/3GlZkQO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Southwest Airlines Struggles to Right Its Operation After Winter Storm</h3>
-<sub>By Isabella Simonetti, Derrick Bryson Taylor and Daniel Victor</sub>
-<p>The company canceled more than 60 percent of its flights on Tuesday and Wednesday, leaving many travelers stranded.  <a href="https://nyti.ms/3YSc1tZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Travel Meltdowns in Recent History</h3>
-<sub>By Daniel Victor</sub>
-<p>Flight delays and cancellations over the holiday weekend have left thousands of passengers stranded. Here’s a look at a few other notable episodes like it in recent memory.  <a href="https://nyti.ms/3YOZozT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Title 42 Has Allowed Many Migrants to Be Quickly Expelled, and Others to Stay</h3>
+<sub>By Eileen Sullivan</sub>
+<p>The Supreme Court agreed to a request from Republican-led states to keep in place — for now — a public health rule that has been used to turn back migrants during the pandemic.  <a href="https://nyti.ms/3djHoa8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Tragic Battle’: On the Front Lines of China’s Covid Crisis</h3>
-<sub>By Isabelle Qian and David Pierson</sub>
-<p>Medical staff are outnumbered and working sick as the nation’s health care system buckles under the strain of a spiraling crisis.  <a href="https://nyti.ms/3GilYK6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Record Numbers, an Unexpected Migrant Group Is Fleeing to the U.S.</h3>
+<sub>By Alfonso Flores Bermúdez and Frances Robles</sub>
+<p>Hundreds of thousands of Nicaraguans have fled their country in recent years, escaping poverty and repression under an increasingly authoritarian government.  <a href="https://nyti.ms/3hRA9MG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>‘It Was Just a Crying Day’: Families Mourn Those Killed in the Storm</h3>
+<sub>By Lola Fadulu, Hurubie Meko and Sarah Maslin Nir</sub>
+<p>Western New York is still digging out from a punishing holiday blizzard that has taken nearly 30 lives.  <a href="https://nyti.ms/3FZVo6S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Thousands Stranded, and Angry, as Southwest Airlines Melts Down</h3>
+<sub>By Isabella Simonetti and Peter Eavis</sub>
+<p>Bad winter weather led the company to cancel more than 60 percent of its flights for Tuesday and Wednesday, leaving many travelers frustrated.  <a href="https://nyti.ms/3YSc1tZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Abandoned Trips, Lost Presents: Southwest Cancellations Wreak Holiday Havoc</h3>
+<sub>By Robert Chiarito, Nicholas Bogel-Burroughs, Clyde McGrady and Soumya Karlamangla</sub>
+<p>Some passengers slept in airports, while others desperately searched for rental cars and bus tickets as the outlook remained grim.  <a href="https://nyti.ms/3hTLb3Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -100,40 +110,28 @@ Closer to home, a man has been sentenced to 16 years in prison for plotting to k
 <p>Jurors convicted Adam Fox of scheming to kidnap Gov. Gretchen Whitmer in 2020 in what federal prosecutors described as a threat to American democracy.  <a href="https://nyti.ms/3VkSOOI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian City Mourns Its Lost Soldiers, but Doesn’t Resent Putin’s War</h3>
-<sub>By Valerie Hopkins and Nanna Heitmann</sub>
-<p>Ryazan, not far from Moscow, regularly sends young men off to fight. Some are now buried in the local cemetery, but there is no surge of outrage against Russian leaders.  <a href="https://nyti.ms/3hTx7HL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Leadership Remains Silent Over George Santos’s Falsehoods</h3>
 <sub>By Luke Broadwater, Catie Edmondson and Michael Gold</sub>
 <p>The muted response from party leaders suggested that so far they were prepared to mete out little, if any, punishment to the congressman-elect.  <a href="https://nyti.ms/3vnpfBz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Admits to Lying About College and Work History</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>The congressman-elect confirmed The New York Times’s findings that he had not graduated from college or worked at two major Wall Street firms, as he had claimed.  <a href="https://nyti.ms/3GlAel2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republican Jewish Coalition Says Santos ‘Deceived Us’ About His Heritage</h3>
+<sub>By Ken Bensinger</sub>
+<p>The group said that Representative-elect George Santos would be barred from its events, but it stopped short of calling for him not to serve in Congress.  <a href="https://nyti.ms/3VqDOPh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos: What We Know and Don’t Know About the Representative-Elect</h3>
 <sub>By Dana Rubinstein</sub>
-<p>Mr. Santos admitted that the information in his résumé about where he worked and went to school were not true. Other discrepancies in his biography remain a mystery.  <a href="https://nyti.ms/3VpOFZN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mr. Santos admitted that the information in his résumé about where he worked and went to school was not true. Other discrepancies in his biography remain a mystery.  <a href="https://nyti.ms/3VpOFZN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Retirees Are One Reason the Fed Has Given Up on a Big Worker Rebound</h3>
-<sub>By Jeanna Smialek and Ben Casselman</sub>
-<p>Workers are in short supply three years into the pandemic job market rebound, and officials increasingly think they aren’t coming back.  <a href="https://nyti.ms/3YNTwqB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Mickey’s Copyright Adventure: Early Disney Creation Will Soon Be Public Property</h3>
-<sub>By Brooks Barnes</sub>
-<p>The version of the iconic character from “Steamboat Willie” will enter the public domain in 2024. But those trying to take advantage could end up in a legal mousetrap.  <a href="https://nyti.ms/3WJhbXt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The Year Pop’s Men Dismantled Their Masculinity</h3>
+<sub>By Lindsay Zoladz</sub>
+<p>In 2022, stars including Harry Styles, Jack Harlow and Bad Bunny offered liberated takes on gender, but also risked pandering. Are men OK?  <a href="https://nyti.ms/3viiYa7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
