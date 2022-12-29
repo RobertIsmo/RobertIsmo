@@ -60,8 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 29, Central Standard Time</p>
 <p>
-Right now, Russia&#39;s war in Ukraine is causing a lot of people to flee to Turkey, and the U.S. is taking notice: there was a congressional inquiry into a drug that treats Alzheimer&#39;s disease and criticism of its maker and the FDA, while another political candidate admitted to lying about his educational and work background. On top of all this news, Southwest, an airline company, had to cancel thousands of flights due to a winter storm that caused chaos during the holidays. In New York state, Governor Kathy Hochul has been given permission to build skyscrapers in a supposedly &quot;blighted&quot; area near Penn Station. In Buffalo, many people are blaming the mayor for not responding quickly enough to the winter storm that has resulted in multiple deaths.</p>
+Well, there have been a couple of big stories this week. 
+
+First, in Israel, a hard-line government has taken office and that&#39;s creating some tension with the US and Europe. People are worried it will hurt the country&#39;s democracy and stability. 
+
+On a sadder note, Pelé, the iconic soccer star and global ambassador for Brazil, recently passed away at 82. He helped popularize the sport in the US and brought fame to his home country. There&#39;ve been lots of tributes from around the world. 
+
+Meanwhile in Turkey, lots of Russians and Ukrainians have settled in one of its resort towns trying to escape a war in Ukraine. 
+
+In US news, there&#39;s an inquiry into an Alzheimer’s drug and its maker is being criticized for how much it charges for it. Southwest Airlines also had some travel chaos over the holiday weekend but they&#39;re slowly getting back normal service now. 
+
+Finally, back in NY, there&#39;s a scandal involving some federal and local investigations into lies told by elected official George Santos during his campaign. So right now there&#39;s public dismay over that as well.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s Hard-Line Government Takes Office, Testing Bonds With Allies</h3>
+<sub>By Isabel Kershner</sub>
+<p>Prime Minister Benjamin Netanyahu’s right-wing coalition will likely test ties with the United States and Europe, amid fears that it will undermine the country’s democracy and stability.  <a href="https://nyti.ms/3Q1YcVV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Pelé, the Global Face of Soccer, Dies at 82</h3>
+<sub>By Lawrie Mifflin</sub>
+<p>Pelé, who was declared a national treasure in his native Brazil, achieved worldwide celebrity and helped popularize the sport in the United States.  <a href="https://nyti.ms/3vmrl4H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Pelé Was Brazil’s Ambassador to the World</h3>
+<sub>By Tariq Panja</sub>
+<p>In leading his national team to success on the field, a soccer star helped his country find itself.  <a href="https://nyti.ms/3YZGfew"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Pelé, the Story in Pictures</h3>
+<sub>By The New York Times</sub>
+<p>His appeal is captured in images from across the decades.  <a href="https://nyti.ms/3WNMnVs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Moscow on the Med: A Faraway War Transforms a Turkish Resort Town</h3>
 <sub>By Ben Hubbard and Safak Timur</sub>
@@ -74,40 +108,10 @@ Right now, Russia&#39;s war in Ukraine is causing a lot of people to flee to Tur
 <p>The report said the F.D.A.’s approval process for Aduhelm was “rife with irregularities” and criticized Biogen for setting an “unjustifiably high price.”  <a href="https://nyti.ms/3WwgPDX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Hasidic Schools Reaped a Windfall of Special Education Funding</h3>
-<sub>By Brian M. Rosenthal</sub>
-<p>New York has paid companies millions of dollars to help children with disabilities in religious schools. But the services are not always needed or even provided.  <a href="https://nyti.ms/3vluUbe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Faces Federal and Local Investigations, and Public Dismay</h3>
-<sub>By Michael Gold, Ed Shanahan, Brittany Kriegstein and Rebecca Davis O’Brien</sub>
-<p>Prosecutors said on Wednesday that they would examine Mr. Santos, who has admitted lying about his work and educational history during his campaign.  <a href="https://nyti.ms/3Vt0YVd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>George Santos Is in a Class of His Own. But Other Politicians Have Embellished Their Resumes, Too.</h3>
-<sub>By Neil Vigdor</sub>
-<p>Mr. Santos, a Republican representative-elect from Long Island, has admitted to lying about his professional background, educational history and property ownership.  <a href="https://nyti.ms/3C7EO3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Half a Century, Fauci Prepares for Life After Government</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>The nation’s top infectious disease expert, whose last day as a federal employee is Saturday, plans to write a memoir and wants to encourage people to go into public service.  <a href="https://nyti.ms/3I728Tp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Responds to U.S. Covid Testing Rule With a Collective Shrug</h3>
-<sub>By Mike Ives, Amy Chang Chien, Claire Fu and Tiffany May</sub>
-<p>The U.S. travel rule drew a muted response in a country grappling with outbreaks and where mass, regular Covid testing was up until recently a daily reality for many millions of people.  <a href="https://nyti.ms/3C87pWW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why New York State Insists That the Penn Station Area Is ‘Blighted’</h3>
-<sub>By Matthew Haag, Patrick McGeehan and Benjamin Norman</sub>
-<p>The designation gives Gov. Kathy Hochul authority to transform the Manhattan neighborhood and build 10 skyscrapers there. A lawsuit is challenging her claim.  <a href="https://nyti.ms/3VvbITc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Southwest Says It Plans to Restore Normal Flight Schedule Friday</h3>
+<sub>By Isabella Simonetti, Daniel Victor and Soumya Karlamangla</sub>
+<p>Nearly a week after a winter storm upended holiday travel across the U.S., the airline says it is close to resuming service “with minimal disruptions.”  <a href="https://nyti.ms/3GnrTO2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
@@ -119,19 +123,25 @@ Right now, Russia&#39;s war in Ukraine is causing a lot of people to flee to Tur
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Southwest Stole Christmas. It Still Has Superfans.</h3>
 <sub>By Emma Goldberg</sub>
-<p>It’s been a disastrous week for the budget airline. But its influencers are prepared to defend their brand loyalty.  <a href="https://nyti.ms/3YYbt60"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>More Mass Cancellations as Southwest Struggles to Untangle Travel Meltdown</h3>
-<sub>By Daniel Victor and Soumya Karlamangla</sub>
-<p>The airline canceled more than half its flights on Thursday, nearly a week after a winter storm disrupted holiday travel across the United States.  <a href="https://nyti.ms/3GnrTO2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>It’s been a disastrous week for the budget airline. But its influencers are prepared to defend their brand.  <a href="https://nyti.ms/3YYbt60"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Buffalo, Finger-Pointing and Growing Complaints Over Storm Response</h3>
-<sub>By Michael D. Regan, Lola Fadulu and Hurubie Meko</sub>
-<p>As the death toll grew, the Erie County executive criticized the Buffalo mayor, and the mayor suggested stress led to the outburst.  <a href="https://nyti.ms/3PYEXMN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Hasidic Schools Reaped a Windfall of Special Education Funding</h3>
+<sub>By Brian M. Rosenthal</sub>
+<p>New York has paid companies millions of dollars to help children with disabilities in religious schools. But the services are not always needed or even provided.  <a href="https://nyti.ms/3vluUbe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Can the House Do to Address George Santos’s Falsehoods?</h3>
+<sub>By Catie Edmondson</sub>
+<p>The representative-elect’s long list of fabrications has raised questions about whether he will even be allowed to take his seat next week. But House Republicans have shown little appetite for punishing him.  <a href="https://nyti.ms/3Q0hCKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Faces Federal and Local Investigations, and Public Dismay</h3>
+<sub>By Michael Gold, Ed Shanahan, Brittany Kriegstein and Rebecca Davis O’Brien</sub>
+<p>Prosecutors said on Wednesday that they would examine Mr. Santos, who has admitted lying about his work and educational history during his campaign.  <a href="https://nyti.ms/3Vt0YVd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
