@@ -58,12 +58,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, December 28, Central Standard Time</p>
+<p>It is Thursday, December 29, Central Standard Time</p>
 <p>
-It looks like the world is going through a lot right now. There&#39;s severe winter weather in many southern parts of the United States that is causing widespread disruption and broken pipes, and a growing death toll from a storm in western New York. Meanwhile a spreading coronavirus is causing people to doubt the accuracy of information about it, and a low-cost airline is canceling thousands of flights in the wake of holiday travel chaos. In Ukraine and Russia, tensions continue to mount and peace talks seem unlikely. And there are efforts to turn office spaces into housing in order to help downtown neighborhoods.</p>
+It seems like the news is a little chaotic right now. In the US, severe weather caused major flight cancellations and brought water system issues in the South. To try and prevent an increase of COVID-19 cases, the Biden administration announced they will require negative COVID tests for travelers entering from China. On top of that, there is a lot of misinformation being spread about the virus. In other parts of the world, Russia and Ukraine have taken hard-line stances on peace talks and in Buffalo public officials are being criticized for their response to a heavy storm. There are also some positive developments - people are looking at ways to convert empty office buildings into housing to transform downtown neighborhoods.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Buffalo, Finger-Pointing and Mounting Criticism Over Storm Response</h3>
+<h3>George Santos Faces Federal and Local Investigations, and Public Dismay</h3>
+<sub>By Michael Gold, Ed Shanahan, Brittany Kriegstein and Rebecca Davis O’Brien</sub>
+<p>Prosecutors said on Wednesday that they would examine Mr. Santos, who has admitted lying about his work and educational history during his campaign.  <a href="https://nyti.ms/3Vt0YVd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Buffalo, Finger-Pointing and Growing Complaints Over Storm Response</h3>
 <sub>By Michael D. Regan, Lola Fadulu and Hurubie Meko</sub>
 <p>As the death toll grew, the Erie County executive criticized the Buffalo mayor, and the mayor suggested stress led to the outburst.  <a href="https://nyti.ms/3PYEXMN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
@@ -80,14 +86,8 @@ It looks like the world is going through a lot right now. There&#39;s severe win
 <p>The bitter cold had left the region by Wednesday, but myriad broken pipes, disrupted municipal water systems and widespread aggravation remained.  <a href="https://nyti.ms/3Q0FvSD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Faces an Investigation and Public Dismay</h3>
-<sub>By Michael Gold, Ed Shanahan and Brittany Kriegstein</sub>
-<p>The Nassau County district attorney said her office would examine Mr. Santos, who has admitted lying about his work and educational history during his campaign.  <a href="https://nyti.ms/3Vt0YVd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. to Require Negative Covid Tests for Travelers From China</h3>
+<h3>U.S. to Require Negative Covid Tests for Travelers Coming From China</h3>
 <sub>By Sheryl Gay Stolberg and Benjamin Mueller</sub>
 <p>Amid concerns about a coronavirus surge in Beijing, the Biden administration announced the change in policy for those entering the United States from China, including Hong Kong and Macau.  <a href="https://nyti.ms/3jCj1v2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
