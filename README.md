@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 28, Central Standard Time</p>
 <p>
-Recently, the US has been dealing with a surge in coronavirus cases, so the Biden administration has implemented a policy requiring travelers from China, Hong Kong, and Macau to have negative Covid tests before entering. Unfortunately, this has also led to a spread of misinformation about the virus. On the other hand, a snowstorm in western New York has led to the deaths of nearly 40 people and subfreezing temperatures in much of the South have caused broken pipes and disrupted municipal water systems. Southwest Airlines alone has had to cancel thousands of flights due to winter weather, which was made worse by their CEO&#39;s lack of preparedness for such a crisis. Meanwhile, on other matters, there’s a lot of public dismay about an investigation into George Santos, who admitted to lying about his work and educational history during his campaign. Lastly, there are heated disputes between Russia and Ukraine that could possibly lead to peace talks – although it doesn&#39;t seem likely at this point – while some real estate buildings may be converted into housing or something else in effort to transform downtown neighborhoods.</p>
+It looks like the world is going through a lot right now. There&#39;s severe winter weather in many southern parts of the United States that is causing widespread disruption and broken pipes, and a growing death toll from a storm in western New York. Meanwhile a spreading coronavirus is causing people to doubt the accuracy of information about it, and a low-cost airline is canceling thousands of flights in the wake of holiday travel chaos. In Ukraine and Russia, tensions continue to mount and peace talks seem unlikely. And there are efforts to turn office spaces into housing in order to help downtown neighborhoods.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. to Require Negative Covid Tests for Travelers From China</h3>
-<sub>By Sheryl Gay Stolberg and Benjamin Mueller</sub>
-<p>Amid concerns about a coronavirus surge in Beijing, the Biden administration announced the change in policy for those entering the United States from China, including Hong Kong and Macau.  <a href="https://nyti.ms/3jCj1v2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>As Covid-19 Continues to Spread, So Does Misinformation About It</h3>
-<sub>By Tiffany Hsu</sub>
-<p>Doctors are exasperated by the persistence of false and misleading claims about the virus.  <a href="https://nyti.ms/3Vu7lHN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Faces an Investigation and Public Dismay</h3>
-<sub>By Michael Gold and Ed Shanahan</sub>
-<p>The Nassau County district attorney said on Wednesday her office would examine Mr. Santos, who admitted to lying about his work and educational history during his campaign.  <a href="https://nyti.ms/3Vt0YVd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Buffalo, Finger-Pointing and Mounting Criticism Over Storm Response</h3>
+<sub>By Michael D. Regan, Lola Fadulu and Hurubie Meko</sub>
+<p>As the death toll grew, the Erie County executive criticized the Buffalo mayor, and the mayor suggested stress led to the outburst.  <a href="https://nyti.ms/3PYEXMN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -92,10 +80,22 @@ Recently, the US has been dealing with a surge in coronavirus cases, so the Bide
 <p>The bitter cold had left the region by Wednesday, but myriad broken pipes, disrupted municipal water systems and widespread aggravation remained.  <a href="https://nyti.ms/3Q0FvSD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Faces an Investigation and Public Dismay</h3>
+<sub>By Michael Gold, Ed Shanahan and Brittany Kriegstein</sub>
+<p>The Nassau County district attorney said her office would examine Mr. Santos, who has admitted lying about his work and educational history during his campaign.  <a href="https://nyti.ms/3Vt0YVd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Southwest’s Woes No Longer ‘Weather-Driven,’ Transportation Secretary Says</h3>
-<sub>By Robert Chiarito, Nicholas Bogel-Burroughs, Jill Cowan and Daniel Victor</sub>
-<p>The airline canceled another 2,500 flights on Wednesday and said it would be days before normal service resumed.  <a href="https://nyti.ms/3QcFM53"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. to Require Negative Covid Tests for Travelers From China</h3>
+<sub>By Sheryl Gay Stolberg and Benjamin Mueller</sub>
+<p>Amid concerns about a coronavirus surge in Beijing, the Biden administration announced the change in policy for those entering the United States from China, including Hong Kong and Macau.  <a href="https://nyti.ms/3jCj1v2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>As Covid-19 Continues to Spread, So Does Misinformation About It</h3>
+<sub>By Tiffany Hsu</sub>
+<p>Doctors are exasperated by the persistence of false and misleading claims about the virus.  <a href="https://nyti.ms/3Vu7lHN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
