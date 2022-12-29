@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 29, Central Standard Time</p>
 <p>
-There are currently a lot of different troubles all over the world. In the U.S., we&#39;re dealing with widespread water disruptions due to subfreezing temperatures across the South, and a surge of migrants at the border. In Turkey, locals are facing a major influx of citizens from Russia and Ukraine escaping the war in their countries. And on a global level, China has not responded well to a new U.S. rule requiring all travelers from China to provide proof of negative Covid tests before entry into the country. Meanwhile in New York, there is a criminal investigation concerning one candidate for office and investigations into religious schools receiving special education funding.</p>
+It looks like things are busy and changing rapidly across the world right now. In Turkey, tens of thousands of Russians and Ukrainians have relocated to resort town Antalya to avoid the fallout of Russia&#39;s war in Ukraine. In New York, religious schools are getting a lot of special education funding, but there&#39;s some concern that the funds aren&#39;t being used as effectively as they could be. In Long Island, George Santos, a Republican representative-elect, is in trouble after it was revealed he lied about his educational history and professional background on the campaign trail. In Buffalo and much of the South there have been extremely cold temperatures, causing weather-related disruption like broken pipes and municipal water system failures. Southwest Airlines has recently been in a lot of trouble too--they had to cancel thousands of flights after a winter storm, and many more recently due to operational issues that emerged during the storm. China has responded with a collective shrug to an American Covid testing rule. Last but not least, Jason Lentz is becoming a world-class competitive lumberjack--it must run in his family!</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Faces Federal and Local Investigations, and Public Dismay</h3>
-<sub>By Michael Gold, Ed Shanahan, Brittany Kriegstein and Rebecca Davis O’Brien</sub>
-<p>Prosecutors said on Wednesday that they would examine Mr. Santos, who has admitted lying about his work and educational history during his campaign.  <a href="https://nyti.ms/3Vt0YVd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Moscow on the Med: A Faraway War Transforms a Turkish Resort Town</h3>
+<sub>By Ben Hubbard and Safak Timur</sub>
+<p>Tens of thousands of Russians and Ukrainians have settled in Antalya, on Turkey’s southern coast, hoping to avoid the fallout of Russia’s war in Ukraine and start new lives.  <a href="https://nyti.ms/3jDzuzb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>How a Windfall of Special Education Funding Benefited Hasidic Schools</h3>
@@ -74,11 +74,17 @@ There are currently a lot of different troubles all over the world. In the U.S.,
 <p>New York has paid companies millions of dollars to help children with disabilities in religious schools. But the services are not always needed or even provided.  <a href="https://nyti.ms/3vluUbe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Moscow on the Med: A Faraway War Transforms a Turkish Resort Town</h3>
-<sub>By Ben Hubbard and Safak Timur</sub>
-<p>Tens of thousands of Russians and Ukrainians have settled in Antalya, on Turkey’s southern coast, hoping to avoid the fallout of Russia’s war in Ukraine and start new lives.  <a href="https://nyti.ms/3jDzuzb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Faces Federal and Local Investigations, and Public Dismay</h3>
+<sub>By Michael Gold, Ed Shanahan, Brittany Kriegstein and Rebecca Davis O’Brien</sub>
+<p>Prosecutors said on Wednesday that they would examine Mr. Santos, who has admitted lying about his work and educational history during his campaign.  <a href="https://nyti.ms/3Vt0YVd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>George Santos Is in a Class of His Own. But Other Politicians Have Embellished Their Resumes, Too.</h3>
+<sub>By Neil Vigdor</sub>
+<p>Mr. Santos, a Republican representative-elect from Long Island, has admitted to lying about his professional background, educational history and property ownership.  <a href="https://nyti.ms/3C7EO3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>In Buffalo, Finger-Pointing and Growing Complaints Over Storm Response</h3>
@@ -90,18 +96,6 @@ There are currently a lot of different troubles all over the world. In the U.S.,
 <h3>In Much of the South, Subfreezing Weather Crippled Water Systems</h3>
 <sub></sub>
 <p>The bitter cold had left the region by Wednesday, but myriad broken pipes, disrupted municipal water systems and widespread aggravation remained.  <a href="https://nyti.ms/3Q0FvSD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Responds to U.S. Covid Testing Rule With a Collective Shrug</h3>
-<sub>By Mike Ives, Amy Chang Chien, Claire Fu and Tiffany May</sub>
-<p>The U.S. travel rule drew a muted response in a country grappling with outbreaks and where mass, regular Covid testing was up until recently a daily reality for many millions of people.  <a href="https://nyti.ms/3C87pWW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. to Require Negative Covid Tests for Travelers Coming From China</h3>
-<sub>By Sheryl Gay Stolberg and Benjamin Mueller</sub>
-<p>Amid concerns about a coronavirus surge in Beijing, the Biden administration announced the change in policy for those entering the United States from China, including Hong Kong and Macau.  <a href="https://nyti.ms/3jCj1v2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
@@ -122,17 +116,23 @@ There are currently a lot of different troubles all over the world. In the U.S.,
 <p>Bob Jordan, the airline’s top executive, heralded the company’s performance just weeks before the storm highlighted gaping weaknesses in its operations.  <a href="https://nyti.ms/3I5eETd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Responds to U.S. Covid Testing Rule With a Collective Shrug</h3>
+<sub>By Mike Ives, Amy Chang Chien, Claire Fu and Tiffany May</sub>
+<p>The U.S. travel rule drew a muted response in a country grappling with outbreaks and where mass, regular Covid testing was up until recently a daily reality for many millions of people.  <a href="https://nyti.ms/3C87pWW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>What Does It Take to Become the No. 1 Lumberjack?</h3>
+<sub>By Reid Forgrave</sub>
+<p>For Jason Lentz, being a world-class competitive lumberjack was fated in his family tree.  <a href="https://nyti.ms/3jyfca9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Will Lifting Title 42 Cause a Border Crisis? It’s Already Here.</h3>
 <sub></sub>
 <p>Plans to lift Title 42 have prompted dire predictions of chaos on the border. But there is already a migrant surge, because the pandemic policy was never an effective border-control tool.  <a href="https://nyti.ms/3vlTFnx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘This Is Not About the Pandemic Anymore’: Public Health Law Is Embraced as Border Band-Aid</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>For some lawmakers and politicians on both sides of the aisle, brandishing Title 42 is a way to flaunt an aggressive stance on the border.  <a href="https://nyti.ms/3WnpW9P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
