@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 29, Central Standard Time</p>
 <p>
-It looks like things are busy and changing rapidly across the world right now. In Turkey, tens of thousands of Russians and Ukrainians have relocated to resort town Antalya to avoid the fallout of Russia&#39;s war in Ukraine. In New York, religious schools are getting a lot of special education funding, but there&#39;s some concern that the funds aren&#39;t being used as effectively as they could be. In Long Island, George Santos, a Republican representative-elect, is in trouble after it was revealed he lied about his educational history and professional background on the campaign trail. In Buffalo and much of the South there have been extremely cold temperatures, causing weather-related disruption like broken pipes and municipal water system failures. Southwest Airlines has recently been in a lot of trouble too--they had to cancel thousands of flights after a winter storm, and many more recently due to operational issues that emerged during the storm. China has responded with a collective shrug to an American Covid testing rule. Last but not least, Jason Lentz is becoming a world-class competitive lumberjack--it must run in his family!</p>
+Right now, Russia&#39;s war in Ukraine is causing a lot of people to flee to Turkey, and the U.S. is taking notice: there was a congressional inquiry into a drug that treats Alzheimer&#39;s disease and criticism of its maker and the FDA, while another political candidate admitted to lying about his educational and work background. On top of all this news, Southwest, an airline company, had to cancel thousands of flights due to a winter storm that caused chaos during the holidays. In New York state, Governor Kathy Hochul has been given permission to build skyscrapers in a supposedly &quot;blighted&quot; area near Penn Station. In Buffalo, many people are blaming the mayor for not responding quickly enough to the winter storm that has resulted in multiple deaths.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Moscow on the Med: A Faraway War Transforms a Turkish Resort Town</h3>
@@ -68,8 +68,14 @@ It looks like things are busy and changing rapidly across the world right now. I
 <p>Tens of thousands of Russians and Ukrainians have settled in Antalya, on Turkey’s southern coast, hoping to avoid the fallout of Russia’s war in Ukraine and start new lives.  <a href="https://nyti.ms/3jDzuzb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Congressional Inquiry into Alzheimer’s Drug Faults Its Maker and F.D.A.</h3>
+<sub>By Pam Belluck</sub>
+<p>The report said the F.D.A.’s approval process for Aduhelm was “rife with irregularities” and criticized Biogen for setting an “unjustifiably high price.”  <a href="https://nyti.ms/3WwgPDX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How a Windfall of Special Education Funding Benefited Hasidic Schools</h3>
+<h3>How Hasidic Schools Reaped a Windfall of Special Education Funding</h3>
 <sub>By Brian M. Rosenthal</sub>
 <p>New York has paid companies millions of dollars to help children with disabilities in religious schools. But the services are not always needed or even provided.  <a href="https://nyti.ms/3vluUbe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
@@ -86,17 +92,23 @@ It looks like things are busy and changing rapidly across the world right now. I
 <p>Mr. Santos, a Republican representative-elect from Long Island, has admitted to lying about his professional background, educational history and property ownership.  <a href="https://nyti.ms/3C7EO3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Buffalo, Finger-Pointing and Growing Complaints Over Storm Response</h3>
-<sub>By Michael D. Regan, Lola Fadulu and Hurubie Meko</sub>
-<p>As the death toll grew, the Erie County executive criticized the Buffalo mayor, and the mayor suggested stress led to the outburst.  <a href="https://nyti.ms/3PYEXMN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Much of the South, Subfreezing Weather Crippled Water Systems</h3>
-<sub></sub>
-<p>The bitter cold had left the region by Wednesday, but myriad broken pipes, disrupted municipal water systems and widespread aggravation remained.  <a href="https://nyti.ms/3Q0FvSD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<h3>After Half a Century, Fauci Prepares for Life After Government</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>The nation’s top infectious disease expert, whose last day as a federal employee is Saturday, plans to write a memoir and wants to encourage people to go into public service.  <a href="https://nyti.ms/3I728Tp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Responds to U.S. Covid Testing Rule With a Collective Shrug</h3>
+<sub>By Mike Ives, Amy Chang Chien, Claire Fu and Tiffany May</sub>
+<p>The U.S. travel rule drew a muted response in a country grappling with outbreaks and where mass, regular Covid testing was up until recently a daily reality for many millions of people.  <a href="https://nyti.ms/3C87pWW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Why New York State Insists That the Penn Station Area Is ‘Blighted’</h3>
+<sub>By Matthew Haag, Patrick McGeehan and Benjamin Norman</sub>
+<p>The designation gives Gov. Kathy Hochul authority to transform the Manhattan neighborhood and build 10 skyscrapers there. A lawsuit is challenging her claim.  <a href="https://nyti.ms/3VvbITc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
 <h3>What Caused the Chaos at Southwest</h3>
@@ -105,34 +117,22 @@ It looks like things are busy and changing rapidly across the world right now. I
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Southwest Stole Christmas. It Still Has Superfans.</h3>
+<sub>By Emma Goldberg</sub>
+<p>It’s been a disastrous week for the budget airline. But its influencers are prepared to defend their brand loyalty.  <a href="https://nyti.ms/3YYbt60"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>More Mass Cancellations as Southwest Struggles to Untangle Travel Meltdown</h3>
 <sub>By Daniel Victor and Soumya Karlamangla</sub>
 <p>The airline canceled more than half its flights on Thursday, nearly a week after a winter storm disrupted holiday travel across the United States.  <a href="https://nyti.ms/3GnrTO2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>10 Months Into Job, Southwest’s C.E.O. Faces a Giant Crisis</h3>
-<sub>By Peter Eavis and Isabella Simonetti</sub>
-<p>Bob Jordan, the airline’s top executive, heralded the company’s performance just weeks before the storm highlighted gaping weaknesses in its operations.  <a href="https://nyti.ms/3I5eETd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Buffalo, Finger-Pointing and Growing Complaints Over Storm Response</h3>
+<sub>By Michael D. Regan, Lola Fadulu and Hurubie Meko</sub>
+<p>As the death toll grew, the Erie County executive criticized the Buffalo mayor, and the mayor suggested stress led to the outburst.  <a href="https://nyti.ms/3PYEXMN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Responds to U.S. Covid Testing Rule With a Collective Shrug</h3>
-<sub>By Mike Ives, Amy Chang Chien, Claire Fu and Tiffany May</sub>
-<p>The U.S. travel rule drew a muted response in a country grappling with outbreaks and where mass, regular Covid testing was up until recently a daily reality for many millions of people.  <a href="https://nyti.ms/3C87pWW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>What Does It Take to Become the No. 1 Lumberjack?</h3>
-<sub>By Reid Forgrave</sub>
-<p>For Jason Lentz, being a world-class competitive lumberjack was fated in his family tree.  <a href="https://nyti.ms/3jyfca9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Will Lifting Title 42 Cause a Border Crisis? It’s Already Here.</h3>
-<sub></sub>
-<p>Plans to lift Title 42 have prompted dire predictions of chaos on the border. But there is already a migrant surge, because the pandemic policy was never an effective border-control tool.  <a href="https://nyti.ms/3vlTFnx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
