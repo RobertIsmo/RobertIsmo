@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 28, Central Standard Time</p>
 <p>
-Right now, the world is in a very difficult place. The Covid-19 pandemic is still going on, and the Biden Administration has announced new requirements for Covid testing for travelers coming from China, Hong Kong and Macau. There&#39;s a lot of misinformation about the virus out there, and a storm recently hit western New York and caused many casualties. Southwest Airlines had a massive meltdown which caused people to be stranded at airports all around the U.S., so it&#39;s unclear when things will be fully back to normal. Additionally, Iran and Russia are forming an alliance with each other, and in the U.S., Republicans are stepping up attacks on the FBI as it investigates Trump, and also there&#39;s an intraparty fight going on between some factions within the Republican National Committee. Businesses are trying to turn offices into housing in order to try to solve some of their crisis situations, and Google employees are bracing for cost-cutting drives as anxiety mounts.</p>
+Recently, the US has been dealing with a surge in coronavirus cases, so the Biden administration has implemented a policy requiring travelers from China, Hong Kong, and Macau to have negative Covid tests before entering. Unfortunately, this has also led to a spread of misinformation about the virus. On the other hand, a snowstorm in western New York has led to the deaths of nearly 40 people and subfreezing temperatures in much of the South have caused broken pipes and disrupted municipal water systems. Southwest Airlines alone has had to cancel thousands of flights due to winter weather, which was made worse by their CEO&#39;s lack of preparedness for such a crisis. Meanwhile, on other matters, there’s a lot of public dismay about an investigation into George Santos, who admitted to lying about his work and educational history during his campaign. Lastly, there are heated disputes between Russia and Ukraine that could possibly lead to peace talks – although it doesn&#39;t seem likely at this point – while some real estate buildings may be converted into housing or something else in effort to transform downtown neighborhoods.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Announces New Covid Test Requirements for Travelers From China</h3>
+<h3>U.S. to Require Negative Covid Tests for Travelers From China</h3>
 <sub>By Sheryl Gay Stolberg and Benjamin Mueller</sub>
-<p>The Biden administration said those coming from China, Hong Kong and Macau must show negative coronavirus tests before entering the United States.  <a href="https://nyti.ms/3jCj1v2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Easing of Travel Rules Met With Joy, and Some Anxiety</h3>
-<sub>By Chang Che, Claire Fu and Amy Chang Chien</sub>
-<p>Many welcomed Beijing’s plan to loosen quarantine rules for travelers, but concerns linger about the country’s Covid wave.  <a href="https://nyti.ms/3WxvFKq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Amid concerns about a coronavirus surge in Beijing, the Biden administration announced the change in policy for those entering the United States from China, including Hong Kong and Macau.  <a href="https://nyti.ms/3jCj1v2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -81,15 +75,39 @@ Right now, the world is in a very difficult place. The Covid-19 pandemic is stil
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Storm’s Victims: an Expectant Parent, a Doting Daughter, a Refugee</h3>
+<h3>George Santos Faces an Investigation and Public Dismay</h3>
+<sub>By Michael Gold and Ed Shanahan</sub>
+<p>The Nassau County district attorney said on Wednesday her office would examine Mr. Santos, who admitted to lying about his work and educational history during his campaign.  <a href="https://nyti.ms/3Vt0YVd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Storm’s Victims: An Expectant Parent, a Doting Daughter, a Refugee</h3>
 <sub>By Lola Fadulu and Hurubie Meko</sub>
-<p>More than 30 people in western New York are known to have died in the storm, but officials expect the death toll to rise.  <a href="https://nyti.ms/3YWxB0i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Nearly 40 people in western New York are known to have died in the storm, but officials expect the death toll to rise.  <a href="https://nyti.ms/3YWxB0i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Southwest’s Meltdown Draws Federal Scrutiny as Passengers Remain Stranded</h3>
-<sub>By Tanya Sichynsky and Daniel Victor</sub>
-<p>The airline canceled another 2,500 flights on Wednesday and said it would be days before normal service resumes.  <a href="https://nyti.ms/3QcFM53"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Much of the South, Subfreezing Weather Crippled Water Systems</h3>
+<sub></sub>
+<p>The bitter cold had left the region by Wednesday, but myriad broken pipes, disrupted municipal water systems and widespread aggravation remained.  <a href="https://nyti.ms/3Q0FvSD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Southwest’s Woes No Longer ‘Weather-Driven,’ Transportation Secretary Says</h3>
+<sub>By Robert Chiarito, Nicholas Bogel-Burroughs, Jill Cowan and Daniel Victor</sub>
+<p>The airline canceled another 2,500 flights on Wednesday and said it would be days before normal service resumed.  <a href="https://nyti.ms/3QcFM53"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>What Caused the Chaos at Southwest</h3>
+<sub>By Maria Cramer and Michael Levenson</sub>
+<p>While carriers like Delta, American Airlines and United bounced back after severe winter weather wreaked havoc on holiday travel, the low-cost carrier canceled thousands of flights. Here’s why.  <a href="https://nyti.ms/3jCEgNi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>10 Months Into Job, Southwest’s C.E.O. Faces a Giant Crisis</h3>
+<sub>By Peter Eavis and Isabella Simonetti</sub>
+<p>Bob Jordan, the airline’s top executive, heralded the company’s performance just weeks before the storm highlighted gaping weaknesses in its operations.  <a href="https://nyti.ms/3I5eETd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,27 +117,15 @@ Right now, the world is in a very difficult place. The Covid-19 pandemic is stil
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Step Up Attacks on F.B.I. as It Investigates Trump</h3>
-<sub>By Adam Goldman and Alan Feuer</sub>
-<p>Historically, the F.B.I.’s critics have come from the left. But the bureau’s array of inquiries into former President Donald J. Trump has turned the tables.  <a href="https://nyti.ms/3I3Zmyh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘This Is Not About the Pandemic Anymore’: Public Health Law Is Embraced as Border Band-Aid</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>For some lawmakers and politicians on both sides of the aisle, brandishing Title 42 is a way to flaunt an aggressive stance on the border.  <a href="https://nyti.ms/3WnpW9P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Race for G.O.P. Chair Obscures the Party’s Bigger Problems</h3>
-<sub>By Jonathan Weisman and Ken Bensinger</sub>
-<p>Ronna McDaniel’s quest for a fourth term atop the Republican National Committee has triggered an ugly intraparty fight between the right and the farther right. Figuring out how to win back swing voters is not a top priority.  <a href="https://nyti.ms/3YSj6La"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Receives Nearly 20 Years in Prison for Plot to Kidnap Gov. Gretchen Whitmer</h3>
-<sub>By Mitch Smith</sub>
-<p>Barry Croft planned to use guns and explosives to abduct Michigan’s governor, prosecutors said. He was the final federal defendant to face sentencing.  <a href="https://nyti.ms/3VJLtbP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Scrambles to Stop Iran From Providing Drones for Russia</h3>
-<sub>By David E. Sanger, Julian E. Barnes and Eric Schmitt</sub>
-<p>As the war in Ukraine grinds on, some officials have become convinced that Iran and Russia are building a new alliance of convenience.  <a href="https://nyti.ms/3I6w81u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hard-Line Positions by Russia and Ukraine Dim Hope for Peace Talks</h3>
+<sub>By Shashank Bengali</sub>
+<p>Both Moscow and Kyiv say they are ready to talk, but their terms for sitting down at a negotiating table suggest otherwise.  <a href="https://nyti.ms/3WuXF1b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -127,12 +133,6 @@ Right now, the world is in a very difficult place. The Covid-19 pandemic is stil
 <sub>By Emma Goldberg</sub>
 <p>Vast amounts of empty real estate are a crisis for building owners. But some politicians and business leaders hope they can be converted into something new — and transform downtown neighborhoods.  <a href="https://nyti.ms/3C2D4ZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google Employees Brace for a Cost-Cutting Drive as Anxiety Mounts</h3>
-<sub>By Nico Grant</sub>
-<p>The tech giant has so far taken steps to streamline without mass layoffs, but employees are girding for deeper cuts.  <a href="https://nyti.ms/3VtI7Jy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
