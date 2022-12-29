@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 29, Central Standard Time</p>
 <p>
-This week has been a pretty chaotic one in the news. We have a political scandal in New York State, as George Santos faces investigations from both federal and local authorities for lying on his campaign forms. In Buffalo, we are also seeing an outcry over the unaddressed storm and its death toll, with the mayor and county executive voicing complaints about one another. In the south of the United States, subfreezing weather has crippled water systems, leaving many without access or facing aggravation. The U.S. is further tightening border restrictions in response to Covid-19, while doctors grow frustrated with false information and myths surrounding the virus. Southwest airlines experienced huge travel setbacks due to severe winter weather, causing thousands of flight cancelations and stranding passengers who are now trying to figure out their options. The new CEO of Southwest is also facing a major crisis due to the airline&#39;s operational weaknesses being exposed by the storm. In Oakland, California, we&#39;re seeing major polarization around public health laws at the border as well as a groundbreaking move made by Sheng Thao becoming mayor; she&#39;s the first Hmong American politician to be in power and is leading a city of 440k people! Finally, some businesses are exploring ways to use vacant real estate for housing in downtown neighbourhoods during this crisis.</p>
+There are currently a lot of different troubles all over the world. In the U.S., we&#39;re dealing with widespread water disruptions due to subfreezing temperatures across the South, and a surge of migrants at the border. In Turkey, locals are facing a major influx of citizens from Russia and Ukraine escaping the war in their countries. And on a global level, China has not responded well to a new U.S. rule requiring all travelers from China to provide proof of negative Covid tests before entry into the country. Meanwhile in New York, there is a criminal investigation concerning one candidate for office and investigations into religious schools receiving special education funding.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos Faces Federal and Local Investigations, and Public Dismay</h3>
@@ -69,15 +69,21 @@ This week has been a pretty chaotic one in the news. We have a political scandal
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How a Windfall of Special Education Funding Benefited Hasidic Schools</h3>
+<sub>By Brian M. Rosenthal</sub>
+<p>New York has paid companies millions of dollars to help children with disabilities in religious schools. But the services are not always needed or even provided.  <a href="https://nyti.ms/3vluUbe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Moscow on the Med: A Faraway War Transforms a Turkish Resort Town</h3>
+<sub>By Ben Hubbard and Safak Timur</sub>
+<p>Tens of thousands of Russians and Ukrainians have settled in Antalya, on Turkey’s southern coast, hoping to avoid the fallout of Russia’s war in Ukraine and start new lives.  <a href="https://nyti.ms/3jDzuzb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>In Buffalo, Finger-Pointing and Growing Complaints Over Storm Response</h3>
 <sub>By Michael D. Regan, Lola Fadulu and Hurubie Meko</sub>
 <p>As the death toll grew, the Erie County executive criticized the Buffalo mayor, and the mayor suggested stress led to the outburst.  <a href="https://nyti.ms/3PYEXMN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Storm’s Victims: An Expectant Parent, a Doting Daughter, a Refugee</h3>
-<sub>By Lola Fadulu and Hurubie Meko</sub>
-<p>Nearly 40 people in western New York are known to have died in the storm, but officials expect the death toll to rise.  <a href="https://nyti.ms/3YWxB0i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,16 +92,16 @@ This week has been a pretty chaotic one in the news. We have a political scandal
 <p>The bitter cold had left the region by Wednesday, but myriad broken pipes, disrupted municipal water systems and widespread aggravation remained.  <a href="https://nyti.ms/3Q0FvSD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Responds to U.S. Covid Testing Rule With a Collective Shrug</h3>
+<sub>By Mike Ives, Amy Chang Chien, Claire Fu and Tiffany May</sub>
+<p>The U.S. travel rule drew a muted response in a country grappling with outbreaks and where mass, regular Covid testing was up until recently a daily reality for many millions of people.  <a href="https://nyti.ms/3C87pWW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. to Require Negative Covid Tests for Travelers Coming From China</h3>
 <sub>By Sheryl Gay Stolberg and Benjamin Mueller</sub>
 <p>Amid concerns about a coronavirus surge in Beijing, the Biden administration announced the change in policy for those entering the United States from China, including Hong Kong and Macau.  <a href="https://nyti.ms/3jCj1v2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>As Covid-19 Continues to Spread, So Does Misinformation About It</h3>
-<sub>By Tiffany Hsu</sub>
-<p>Doctors are exasperated by the persistence of false and misleading claims about the virus.  <a href="https://nyti.ms/3Vu7lHN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
@@ -105,33 +111,27 @@ This week has been a pretty chaotic one in the news. We have a political scandal
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>More Mass Cancellations as Southwest Struggles to Untangle Travel Meltdown</h3>
+<sub>By Daniel Victor and Soumya Karlamangla</sub>
+<p>The airline canceled more than half its flights on Thursday, nearly a week after a winter storm disrupted holiday travel across the United States.  <a href="https://nyti.ms/3GnrTO2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>10 Months Into Job, Southwest’s C.E.O. Faces a Giant Crisis</h3>
 <sub>By Peter Eavis and Isabella Simonetti</sub>
 <p>Bob Jordan, the airline’s top executive, heralded the company’s performance just weeks before the storm highlighted gaping weaknesses in its operations.  <a href="https://nyti.ms/3I5eETd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>You’re Stranded at the Airport. Now What?</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Airlines may provide vouchers or reimbursements, or there may be places to sleep within the airport.  <a href="https://nyti.ms/3hXNMtL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<h3>Will Lifting Title 42 Cause a Border Crisis? It’s Already Here.</h3>
+<sub></sub>
+<p>Plans to lift Title 42 have prompted dire predictions of chaos on the border. But there is already a migrant surge, because the pandemic policy was never an effective border-control tool.  <a href="https://nyti.ms/3vlTFnx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘This Is Not About the Pandemic Anymore’: Public Health Law Is Embraced as Border Band-Aid</h3>
 <sub>By Zolan Kanno-Youngs</sub>
 <p>For some lawmakers and politicians on both sides of the aisle, brandishing Title 42 is a way to flaunt an aggressive stance on the border.  <a href="https://nyti.ms/3WnpW9P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Would It Take to Turn More Offices Into Housing?</h3>
-<sub>By Emma Goldberg</sub>
-<p>Vast amounts of empty real estate are a crisis for building owners. But some politicians and business leaders hope they can be converted into something new — and transform downtown neighborhoods.  <a href="https://nyti.ms/3C2D4ZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Oakland’s Next Mayor Highlights Political Rise of Hmong Americans</h3>
-<sub>By Amy Qin</sub>
-<p>Sheng Thao, the daughter of refugees, will become the most prominent Hmong American politician when she leads the California city of 440,000 residents.  <a href="https://nyti.ms/3FWiXOd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
