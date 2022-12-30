@@ -58,14 +58,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, December 29, Central Standard Time</p>
+<p>It is Friday, December 30, Central Standard Time</p>
 <p>
-Right now, the world is seeing a resurgence of COVID-19 cases in China, even with incomplete information coming from the Chinese government. Unfortunately, there is also some bad news in the sports world- soccer legend Pelé died at age 82. This loss has left him remembered as one of the most influential soccer players ever and Brazil&#39;s ambassador to the world. There has also been severe weather in the U.S., with a storm in Buffalo being so deadly. And in Ukraine, Russian missiles are taking out their air defense system. Back on American shores, Southwest Airlines has been experiencing significant flight delays and cancellations due to winter weather, causing travelers to become anxious and police officers threatening those that haven&#39;t left airports with arrest. In the fashion world, Vivienne Westwood, who was responsible for bringing provocative punk style to high fashion, died at age 81; her influence will be felt across decades.</p>
+There is a surge of Covid cases in China, which scientists are trying to estimate without reliable data from the government. In NY, there is uncertainty around the candidacy of George Santos since he falsified much of his resume. Furthermore, the soccer legend Pelé passed away at 82. The US House is considering what action to take about Santos&#39; untruthfulness. There was an unprecedented winter storm in Buffalo NY which caused immense damage and a Russian missile barrage severely damaged Ukraine&#39;s air defense. In California Southwest Airlines has been struggling from the impact of the winter storm and is trying to resume operations with minimal disruptions on Friday.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>How Bad Is China’s Covid Outbreak? It’s a Scientific Guessing Game.</h3>
 <sub>By Alexandra Stevenson and Benjamin Mueller</sub>
 <p>In the absence of credible information from the Chinese government, researchers around the world are looking for any clues to determine the size and severity of the surge.  <a href="https://nyti.ms/3Wyp3eI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Santos, a Suburban House and $11,000 in Campaign Payments for ‘Rent’</h3>
+<sub>By Grace Ashford and Dana Rubinstein</sub>
+<p>Representative-elect George Santos, under scrutiny after fabricating much of his résumé, also spent campaign funds on $40,000 worth of air travel.  <a href="https://nyti.ms/3hYwH2Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos: What We Know and Don’t Know About the Representative-Elect</h3>
+<sub>By Dana Rubinstein</sub>
+<p>Mr. Santos admitted that the information in his résumé about where he worked and went to school was not true. Other discrepancies in his biography remain a mystery.  <a href="https://nyti.ms/3VpOFZN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Can the House Do to Address George Santos’s Falsehoods?</h3>
+<sub>By Catie Edmondson</sub>
+<p>The representative-elect’s long list of fabrications has raised questions about whether he will even be allowed to take his seat next week. But House Republicans have shown little appetite for punishing him.  <a href="https://nyti.ms/3Q0hCKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -107,31 +125,13 @@ Right now, the world is seeing a resurgence of COVID-19 cases in China, even wit
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Southwest Is California’s ‘Unofficial Airline.’ The Meltdown Has Residents Anxious.</h3>
 <sub>By Shawn Hubler and Soumya Karlamangla</sub>
-<p>Once a Texas mainstay, Southwest has become a major airline that many Californians rely upon to travel across the vast state.  <a href="https://nyti.ms/3WvG759"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Once a Texas mainstay, Southwest has become a major airline that many Californians rely upon to travel across their vast state.  <a href="https://nyti.ms/3WvG759"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Its Reputation in Tatters, Southwest Aims to Resume Normal Schedule on Friday</h3>
 <sub>By Isabella Simonetti, Peter Eavis and Soumya Karlamangla</sub>
 <p>Nearly a week after a winter storm upended holiday travel across the U.S., the airline says it is close to resuming service “with minimal disruptions.”  <a href="https://nyti.ms/3GnrTO2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Their Flights Canceled, Southwest Travelers Were Threatened With Arrest</h3>
-<sub>By Michael Levenson</sub>
-<p>A police officer at Nashville International Airport told travelers whose Southwest flights had been canceled that they would be arrested for trespassing if they did not leave a secure area, a video shows.  <a href="https://nyti.ms/3IfvLlD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-fashion-blue" alt="">
-<h3>Vivienne Westwood, 81, Dies; Brought Provocative Punk Style to High Fashion</h3>
-<sub>By Marisa Meltzer</sub>
-<p>The London shop she ran with Malcolm McLaren defined an era. “I don’t think punk would have happened,” Chrissie Hynde said, “without Vivienne and Malcolm.”  <a href="https://nyti.ms/3VvJc3x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Vivienne Westwood, a Lifetime of Looks</h3>
-<sub>By Guy Trebay</sub>
-<p>The legendary fashion designer’s influence stretches back across decades.  <a href="https://nyti.ms/3CcGGsq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
