@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 30, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! In China, researchers are trying to guess the size and severity of Covid cases since there is not much information from the government. In New York, there are questions about Representative-elect George Santos&#39; résumé and what lawmakers can do about it. Brazil just recently lost a FIFA legend and soccer star, Pelé, and paid tribute for his influence. In Buffalo, a heavy snowstorm affected the area for days with winds of up to 70 mph. Ukraine recently had an attack with cruise missiles and exploding drones from Iran. Southwest Airlines had to shut down due to severe winter weather, but is trying to resume normal service soon.</p>
+The world is facing an array of challenges right now, from the Covid-19 pandemic to economic uncertainty and climate change. Inflation and high interest rates have disrupted markets worldwide, and some countries are dealing with political unrest. There have been huge financial impacts on businesses, especially airlines like Southwest, where massive cancellations have caused disruption for travelers. At the same time, leaders around the globe, including China&#39;s Xi and Russia&#39;s Putin, are facing their own difficult circumstances. Ukraine is waging a war against Moscow to gain freedom from its legacy of dominance. Renewable energy is facing local resistance as towns across the United States debate wind farm proposals. And Brazil has just lost one of its national treasures--Pelé, a soccer player who was an international symbol of excellence and helped make the sport popular in the U.S.</p>
 <ol>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>How Bad Is China’s Covid Outbreak? It’s a Scientific Guessing Game.</h3>
-<sub>By Alexandra Stevenson and Benjamin Mueller</sub>
-<p>In the absence of credible information from the Chinese government, researchers around the world are looking for any clues to determine the size and severity of the surge.  <a href="https://nyti.ms/3Wyp3eI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Year the Long Stock Market Rally Ended</h3>
+<sub>By Joe Rennison, Karl Russell and John-Michael Murphy</sub>
+<p>How fast inflation and high interest rates upended markets across the globe.  <a href="https://nyti.ms/3G1HvoZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Santos, a Suburban House and $11,000 in Campaign Payments for ‘Rent’</h3>
@@ -74,22 +74,34 @@ There is a lot going on in the world right now! In China, researchers are trying
 <p>Representative-elect George Santos, under scrutiny after fabricating much of his résumé, also spent campaign funds on $40,000 worth of air travel.  <a href="https://nyti.ms/3hYwH2Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos: What We Know and Don’t Know About the Representative-Elect</h3>
-<sub>By Dana Rubinstein</sub>
-<p>Mr. Santos admitted that the information in his résumé about where he worked and went to school was not true. Other discrepancies in his biography remain a mystery.  <a href="https://nyti.ms/3VpOFZN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Xi and Putin Meet Again, Two Strongmen in a Weak Moment</h3>
+<sub>By David Pierson and Anton Troianovski</sub>
+<p>Russia is isolated by its invasion of Ukraine and needs China more than ever. But China, facing a Covid crisis, is in no position to risk sanctions.  <a href="https://nyti.ms/3Wrm7At"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Can the House Do to Address George Santos’s Falsehoods?</h3>
-<sub>By Catie Edmondson</sub>
-<p>The representative-elect’s long list of fabrications has raised questions about whether he will even be allowed to take his seat next week. But House Republicans have shown little appetite for punishing him.  <a href="https://nyti.ms/3Q0hCKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>100 Years Since the Birth of the Soviet Union, in Pictures</h3>
+<sub>By The New York Times</sub>
+<p>It is the disintegration of the U.S.S.R. that President Vladimir V. Putin of Russia says he wants to remedy by waging war against Ukraine; it is the legacy of Moscow’s dominance that Ukrainians hope to free themselves of by defeating Moscow.  <a href="https://nyti.ms/3WDxLbx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Pelé, the Global Face of Soccer, Dies at 82</h3>
-<sub>By Lawrie Mifflin</sub>
-<p>Pelé, who was declared a national treasure in his native Brazil, achieved worldwide celebrity and helped popularize the sport in the United States.  <a href="https://nyti.ms/3vmrl4H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Great News Quiz of 2022</h3>
+<sub></sub>
+<p>This was quite a year. How well do you remember it?  <a href="https://nyti.ms/3vr2EEa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Town-by-Town Battle to Sell Americans on Renewable Energy</h3>
+<sub>By David Gelles</sub>
+<p>In the fight against climate change, national goals are facing local resistance. One county scheduled 19 nights of meetings to debate one wind farm.  <a href="https://nyti.ms/3PZ6DRX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>How Bad Is China’s Covid Outbreak? It’s a Scientific Guessing Game.</h3>
+<sub>By Alexandra Stevenson and Benjamin Mueller</sub>
+<p>In the absence of credible information from the Chinese government, researchers around the world are looking for any clues to determine the size and severity of the surge.  <a href="https://nyti.ms/3Wyp3eI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -99,27 +111,9 @@ There is a lot going on in the world right now! In China, researchers are trying
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Pelé Was Brazil’s Ambassador to the World</h3>
-<sub>By Tariq Panja</sub>
-<p>In leading his national team to success on the field, a soccer star helped his country find itself.  <a href="https://nyti.ms/3YZGfew"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Pelé, the Story in Pictures</h3>
-<sub>By The New York Times</sub>
-<p>His appeal is captured in images from across the decades.  <a href="https://nyti.ms/3WNMnVs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How the Buffalo Blizzard Became So Deadly</h3>
-<sub>By Corey Kilgannon, Lola Fadulu, Hurubie Meko and Sarah Maslin Nir</sub>
-<p>The storm raged for days, dumping four feet of snow and packing winds as high as 70 miles per hour, an unusually catastrophic combination.  <a href="https://nyti.ms/3WIs0ZQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Missile Barrage Staggers Ukraine’s Air Defenses</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Cruise missiles and exploding drones from Iran swept across the skies of Ukraine, wreaking havoc and once again knocking out power.  <a href="https://nyti.ms/3C5vSvR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Pelé, the Global Face of Soccer, Dies at 82</h3>
+<sub>By Lawrie Mifflin</sub>
+<p>Pelé, who was declared a national treasure in his native Brazil, achieved worldwide celebrity and helped popularize the sport in the United States.  <a href="https://nyti.ms/3vmrl4H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -129,9 +123,15 @@ There is a lot going on in the world right now! In China, researchers are trying
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Its Reputation in Tatters, Southwest Aims to Resume Normal Schedule on Friday</h3>
-<sub>By Isabella Simonetti, Peter Eavis and Soumya Karlamangla</sub>
-<p>Nearly a week after a winter storm upended holiday travel across the U.S., the airline says it is close to resuming service “with minimal disruptions.”  <a href="https://nyti.ms/3GnrTO2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>With Only Dozens of Cancellations on Friday, Southwest Steps Closer to Normal</h3>
+<sub>By Daniel Victor</sub>
+<p>Barring last-minute problems, the airline was poised to return to its usual schedule, but challenges remain.  <a href="https://nyti.ms/3Ccfdac"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>What Can Stranded Travelers Expect From Southwest?</h3>
+<sub>By Shannon Sims</sub>
+<p>The troubled carrier says it will honor “reasonable requests for reimbursement” for those whose flights were delayed or canceled because of its meltdown. What will that mean in practice?  <a href="https://nyti.ms/3G4eIQt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
