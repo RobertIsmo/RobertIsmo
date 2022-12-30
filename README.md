@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 29, Central Standard Time</p>
 <p>
-Right now, things are looking pretty chaotic around the world. In China, there&#39;s a major Covid outbreak, but reliable information from the government is hard to come by. In Brazil, soccer star Pelé recently passed away, and he was a national treasure who helped promote the sport in other countries. Israel&#39;s new hard-line government could test the country&#39;s bonds with allied nations like the US and Europe. In Ukraine, there was a Russian missile attack that knocked out power for many people. Many travelers in the US have had their flights canceled due to winter storms, and some of them were even threatened with arrest. In addition, New York has been paying millions of dollars in special education funds to Hasidic schools, but it&#39;s not clear whether those services are being provided. Finally, the House of Representatives is grappling with what to do about one of its newest members who has peddled multiple falsehoods- though so far Republican lawmakers have not shown much interest in punishing him.</p>
+Right now, the world is seeing a resurgence of COVID-19 cases in China, even with incomplete information coming from the Chinese government. Unfortunately, there is also some bad news in the sports world- soccer legend Pelé died at age 82. This loss has left him remembered as one of the most influential soccer players ever and Brazil&#39;s ambassador to the world. There has also been severe weather in the U.S., with a storm in Buffalo being so deadly. And in Ukraine, Russian missiles are taking out their air defense system. Back on American shores, Southwest Airlines has been experiencing significant flight delays and cancellations due to winter weather, causing travelers to become anxious and police officers threatening those that haven&#39;t left airports with arrest. In the fashion world, Vivienne Westwood, who was responsible for bringing provocative punk style to high fashion, died at age 81; her influence will be felt across decades.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>How Bad Is China’s Covid Outbreak? It’s a Scientific Guessing Game.</h3>
@@ -68,16 +68,16 @@ Right now, things are looking pretty chaotic around the world. In China, there&#
 <p>In the absence of credible information from the Chinese government, researchers around the world are looking for any clues to determine the size and severity of the surge.  <a href="https://nyti.ms/3Wyp3eI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Half a Century, Fauci Prepares for Life After Government</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>The nation’s top infectious disease expert, whose last day as a federal employee is Saturday, plans to write a memoir and wants to encourage people to go into public service.  <a href="https://nyti.ms/3I728Tp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Pelé, the Global Face of Soccer, Dies at 82</h3>
 <sub>By Lawrie Mifflin</sub>
 <p>Pelé, who was declared a national treasure in his native Brazil, achieved worldwide celebrity and helped popularize the sport in the United States.  <a href="https://nyti.ms/3vmrl4H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Pelé, a Name That Became Shorthand for Perfection</h3>
+<sub>By Rory Smith</sub>
+<p>The best gauge of what Pelé meant to soccer is that he was synonymous with excellence even before people saw him play.  <a href="https://nyti.ms/3hTsT36"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -92,10 +92,10 @@ Right now, things are looking pretty chaotic around the world. In China, there&#
 <p>His appeal is captured in images from across the decades.  <a href="https://nyti.ms/3WNMnVs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Hard-Line Government Takes Office, Testing Bonds With Allies</h3>
-<sub>By Isabel Kershner</sub>
-<p>Prime Minister Benjamin Netanyahu’s right-wing coalition will likely test ties with the United States and Europe, amid fears that it will undermine the country’s democracy and stability.  <a href="https://nyti.ms/3Q1YcVV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How the Buffalo Blizzard Became So Deadly</h3>
+<sub>By Corey Kilgannon, Lola Fadulu, Hurubie Meko and Sarah Maslin Nir</sub>
+<p>The storm raged for days, dumping four feet of snow and packing winds as high as 70 miles per hour, an unusually catastrophic combination.  <a href="https://nyti.ms/3WIs0ZQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,8 +104,14 @@ Right now, things are looking pretty chaotic around the world. In China, there&#
 <p>Cruise missiles and exploding drones from Iran swept across the skies of Ukraine, wreaking havoc and once again knocking out power.  <a href="https://nyti.ms/3C5vSvR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Southwest Is California’s ‘Unofficial Airline.’ The Meltdown Has Residents Anxious.</h3>
+<sub>By Shawn Hubler and Soumya Karlamangla</sub>
+<p>Once a Texas mainstay, Southwest has become a major airline that many Californians rely upon to travel across the vast state.  <a href="https://nyti.ms/3WvG759"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Southwest Says It Plans to Restore Normal Flight Schedule Friday</h3>
+<h3>Its Reputation in Tatters, Southwest Aims to Resume Normal Schedule on Friday</h3>
 <sub>By Isabella Simonetti, Peter Eavis and Soumya Karlamangla</sub>
 <p>Nearly a week after a winter storm upended holiday travel across the U.S., the airline says it is close to resuming service “with minimal disruptions.”  <a href="https://nyti.ms/3GnrTO2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
@@ -116,22 +122,16 @@ Right now, things are looking pretty chaotic around the world. In China, there&#
 <p>A police officer at Nashville International Airport told travelers whose Southwest flights had been canceled that they would be arrested for trespassing if they did not leave a secure area, a video shows.  <a href="https://nyti.ms/3IfvLlD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How the Buffalo Blizzard Became So Deadly</h3>
-<sub>By Corey Kilgannon, Lola Fadulu, Hurubie Meko and Sarah Maslin Nir</sub>
-<p>The storm raged for days, dumping four feet of snow and packing winds as high as 70 miles per hour, an unusually catastrophic combination.  <a href="https://nyti.ms/3WIs0ZQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-fashion-blue" alt="">
+<h3>Vivienne Westwood, 81, Dies; Brought Provocative Punk Style to High Fashion</h3>
+<sub>By Marisa Meltzer</sub>
+<p>The London shop she ran with Malcolm McLaren defined an era. “I don’t think punk would have happened,” Chrissie Hynde said, “without Vivienne and Malcolm.”  <a href="https://nyti.ms/3VvJc3x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Hasidic Schools Reaped a Windfall of Special Education Funding</h3>
-<sub>By Brian M. Rosenthal</sub>
-<p>New York has paid companies millions of dollars to help children with disabilities in religious schools. But the services are not always needed or even provided.  <a href="https://nyti.ms/3vluUbe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Can the House Do to Address George Santos’s Falsehoods?</h3>
-<sub>By Catie Edmondson</sub>
-<p>The representative-elect’s long list of fabrications has raised questions about whether he will even be allowed to take his seat next week. But House Republicans have shown little appetite for punishing him.  <a href="https://nyti.ms/3Q0hCKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Vivienne Westwood, a Lifetime of Looks</h3>
+<sub>By Guy Trebay</sub>
+<p>The legendary fashion designer’s influence stretches back across decades.  <a href="https://nyti.ms/3CcGGsq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
