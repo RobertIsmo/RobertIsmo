@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 30, Central Standard Time</p>
 <p>
-There is a surge of Covid cases in China, which scientists are trying to estimate without reliable data from the government. In NY, there is uncertainty around the candidacy of George Santos since he falsified much of his resume. Furthermore, the soccer legend Pelé passed away at 82. The US House is considering what action to take about Santos&#39; untruthfulness. There was an unprecedented winter storm in Buffalo NY which caused immense damage and a Russian missile barrage severely damaged Ukraine&#39;s air defense. In California Southwest Airlines has been struggling from the impact of the winter storm and is trying to resume operations with minimal disruptions on Friday.</p>
+There is a lot going on in the world right now! In China, researchers are trying to guess the size and severity of Covid cases since there is not much information from the government. In New York, there are questions about Representative-elect George Santos&#39; résumé and what lawmakers can do about it. Brazil just recently lost a FIFA legend and soccer star, Pelé, and paid tribute for his influence. In Buffalo, a heavy snowstorm affected the area for days with winds of up to 70 mph. Ukraine recently had an attack with cruise missiles and exploding drones from Iran. Southwest Airlines had to shut down due to severe winter weather, but is trying to resume normal service soon.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>How Bad Is China’s Covid Outbreak? It’s a Scientific Guessing Game.</h3>
