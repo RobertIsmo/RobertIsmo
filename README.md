@@ -60,12 +60,44 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 30, Central Standard Time</p>
 <p>
-The world is facing an array of challenges right now, from the Covid-19 pandemic to economic uncertainty and climate change. Inflation and high interest rates have disrupted markets worldwide, and some countries are dealing with political unrest. There have been huge financial impacts on businesses, especially airlines like Southwest, where massive cancellations have caused disruption for travelers. At the same time, leaders around the globe, including China&#39;s Xi and Russia&#39;s Putin, are facing their own difficult circumstances. Ukraine is waging a war against Moscow to gain freedom from its legacy of dominance. Renewable energy is facing local resistance as towns across the United States debate wind farm proposals. And Brazil has just lost one of its national treasures--Pelé, a soccer player who was an international symbol of excellence and helped make the sport popular in the U.S.</p>
+Things have been pretty crazy politically and economically lately. Just last week, House Democrats released Donald Trump&#39;s tax returns following questions about why the IRS didn&#39;t fully audit him while he was president. Turns out he paid $1.1 million in the first three years of his presidency and nothing the fourth year, as his income dwindled. At the same time, there has been a lot of speculation about whether the long stock market rally will continue this year; inflation and high interest rates could derail it. Home prices, rents, inventory and interest rates have been mostly stagnant in the housing market lately, though there have been some modest signs of revival. Mergers &amp; acquisitions activity also dropped significantly in the second half of 2022 but could rise again soon. On top of all that, we saw Representative-elect George Santos face criticism for fabricating his résumé and spending $40,000 on air travel with campaign funds. 
+
+Internationally, we&#39;ve seen Chinese President Xi Jinping meet with Russian President Vladimir Putin to discuss ties between their countries, which is especially important considering Russia&#39;s recent invasion of Ukraine. It also marks 100 years since the birth of the Soviet Union. Climate change is still a very pressing issue with thousands of wind farms proposed in the US, but they face a lot of local resistance. Finally, there was some really positive news with Pelé&#39;s 90th birthday - he was acclaimed as soccer&#39;s greatest for excellence before anyone even saw him play!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Tax Returns Released by House Democrats</h3>
+<sub>By Alan Rappeport and Jim Tankersley</sub>
+<p>The publication of former President Donald J. Trump’s private tax documents comes amid questions about why the I.R.S. failed to fully audit him during his presidency.  <a href="https://nyti.ms/3GqAHCL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here Are the Key Numbers From Trump’s Tax Returns</h3>
+<sub>By Charlie Smart</sub>
+<p>Donald J. Trump paid $1.1 million in federal income taxes in his first three years as president, and paid no taxes in 2020 as his income began to dwindle.  <a href="https://nyti.ms/3FOekW7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Taxes Show Chronic Losses and Years of Income Tax Avoidance</h3>
+<sub>By Russ Buettner, Susanne Craig and Mike McIntire</sub>
+<p>The Times obtained Donald Trump’s tax information extending over more than two decades, revealing struggling properties, vast write-offs, an audit battle and hundreds of millions in debt coming due.  <a href="https://nyti.ms/3jmgeBf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Year the Long Stock Market Rally Ended</h3>
 <sub>By Joe Rennison, Karl Russell and John-Michael Murphy</sub>
-<p>How fast inflation and high interest rates upended markets across the globe.  <a href="https://nyti.ms/3G1HvoZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>How fast inflation and high interest rates upended markets across the globe.  <a href="https://nyti.ms/3CzyqTB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>A Housing Market Hangover</h3>
+<sub>By Ronda Kaysen</sub>
+<p>In the year ahead, the housing market may be slow to start, with home prices, rents, inventory and interest rates not moving much at all, according to economists, analysts and real estate brokers.  <a href="https://nyti.ms/3Czsry7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Deal-making Thrived, Then Hit a Road Bump</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Stephen Gandel, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Mergers and acquisitions activity plunged in the second half of 2022, but there are signs that it could pick up again next year.  <a href="https://nyti.ms/3vwB9Ja"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -93,45 +125,15 @@ The world is facing an array of challenges right now, from the Covid-19 pandemic
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Town-by-Town Battle to Sell Americans on Renewable Energy</h3>
+<h3>The U.S. Will Need Thousands of Wind Farms. Will Small Towns Go Along?</h3>
 <sub>By David Gelles</sub>
 <p>In the fight against climate change, national goals are facing local resistance. One county scheduled 19 nights of meetings to debate one wind farm.  <a href="https://nyti.ms/3PZ6DRX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>How Bad Is China’s Covid Outbreak? It’s a Scientific Guessing Game.</h3>
-<sub>By Alexandra Stevenson and Benjamin Mueller</sub>
-<p>In the absence of credible information from the Chinese government, researchers around the world are looking for any clues to determine the size and severity of the surge.  <a href="https://nyti.ms/3Wyp3eI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Pelé, a Name That Became Shorthand for Perfection</h3>
 <sub>By Rory Smith</sub>
 <p>The best gauge of what Pelé meant to soccer is that he was synonymous with excellence even before people saw him play.  <a href="https://nyti.ms/3hTsT36"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Pelé, the Global Face of Soccer, Dies at 82</h3>
-<sub>By Lawrie Mifflin</sub>
-<p>Pelé, who was declared a national treasure in his native Brazil, achieved worldwide celebrity and helped popularize the sport in the United States.  <a href="https://nyti.ms/3vmrl4H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Southwest Is California’s ‘Unofficial Airline.’ The Meltdown Has Residents Anxious.</h3>
-<sub>By Shawn Hubler and Soumya Karlamangla</sub>
-<p>Once a Texas mainstay, Southwest has become a major airline that many Californians rely upon to travel across their vast state.  <a href="https://nyti.ms/3WvG759"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>With Only Dozens of Cancellations on Friday, Southwest Steps Closer to Normal</h3>
-<sub>By Daniel Victor</sub>
-<p>Barring last-minute problems, the airline was poised to return to its usual schedule, but challenges remain.  <a href="https://nyti.ms/3Ccfdac"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>What Can Stranded Travelers Expect From Southwest?</h3>
-<sub>By Shannon Sims</sub>
-<p>The troubled carrier says it will honor “reasonable requests for reimbursement” for those whose flights were delayed or canceled because of its meltdown. What will that mean in practice?  <a href="https://nyti.ms/3G4eIQt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
