@@ -60,22 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 29, Central Standard Time</p>
 <p>
-Well, there have been a couple of big stories this week. 
-
-First, in Israel, a hard-line government has taken office and that&#39;s creating some tension with the US and Europe. People are worried it will hurt the country&#39;s democracy and stability. 
-
-On a sadder note, Pelé, the iconic soccer star and global ambassador for Brazil, recently passed away at 82. He helped popularize the sport in the US and brought fame to his home country. There&#39;ve been lots of tributes from around the world. 
-
-Meanwhile in Turkey, lots of Russians and Ukrainians have settled in one of its resort towns trying to escape a war in Ukraine. 
-
-In US news, there&#39;s an inquiry into an Alzheimer’s drug and its maker is being criticized for how much it charges for it. Southwest Airlines also had some travel chaos over the holiday weekend but they&#39;re slowly getting back normal service now. 
-
-Finally, back in NY, there&#39;s a scandal involving some federal and local investigations into lies told by elected official George Santos during his campaign. So right now there&#39;s public dismay over that as well.</p>
+Right now, things are looking pretty chaotic around the world. In China, there&#39;s a major Covid outbreak, but reliable information from the government is hard to come by. In Brazil, soccer star Pelé recently passed away, and he was a national treasure who helped promote the sport in other countries. Israel&#39;s new hard-line government could test the country&#39;s bonds with allied nations like the US and Europe. In Ukraine, there was a Russian missile attack that knocked out power for many people. Many travelers in the US have had their flights canceled due to winter storms, and some of them were even threatened with arrest. In addition, New York has been paying millions of dollars in special education funds to Hasidic schools, but it&#39;s not clear whether those services are being provided. Finally, the House of Representatives is grappling with what to do about one of its newest members who has peddled multiple falsehoods- though so far Republican lawmakers have not shown much interest in punishing him.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Hard-Line Government Takes Office, Testing Bonds With Allies</h3>
-<sub>By Isabel Kershner</sub>
-<p>Prime Minister Benjamin Netanyahu’s right-wing coalition will likely test ties with the United States and Europe, amid fears that it will undermine the country’s democracy and stability.  <a href="https://nyti.ms/3Q1YcVV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>How Bad Is China’s Covid Outbreak? It’s a Scientific Guessing Game.</h3>
+<sub>By Alexandra Stevenson and Benjamin Mueller</sub>
+<p>In the absence of credible information from the Chinese government, researchers around the world are looking for any clues to determine the size and severity of the surge.  <a href="https://nyti.ms/3Wyp3eI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Half a Century, Fauci Prepares for Life After Government</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>The nation’s top infectious disease expert, whose last day as a federal employee is Saturday, plans to write a memoir and wants to encourage people to go into public service.  <a href="https://nyti.ms/3I728Tp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -97,33 +93,33 @@ Finally, back in NY, there&#39;s a scandal involving some federal and local inve
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Moscow on the Med: A Faraway War Transforms a Turkish Resort Town</h3>
-<sub>By Ben Hubbard and Safak Timur</sub>
-<p>Tens of thousands of Russians and Ukrainians have settled in Antalya, on Turkey’s southern coast, hoping to avoid the fallout of Russia’s war in Ukraine and start new lives.  <a href="https://nyti.ms/3jDzuzb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel’s Hard-Line Government Takes Office, Testing Bonds With Allies</h3>
+<sub>By Isabel Kershner</sub>
+<p>Prime Minister Benjamin Netanyahu’s right-wing coalition will likely test ties with the United States and Europe, amid fears that it will undermine the country’s democracy and stability.  <a href="https://nyti.ms/3Q1YcVV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Congressional Inquiry into Alzheimer’s Drug Faults Its Maker and F.D.A.</h3>
-<sub>By Pam Belluck</sub>
-<p>The report said the F.D.A.’s approval process for Aduhelm was “rife with irregularities” and criticized Biogen for setting an “unjustifiably high price.”  <a href="https://nyti.ms/3WwgPDX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Missile Barrage Staggers Ukraine’s Air Defenses</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Cruise missiles and exploding drones from Iran swept across the skies of Ukraine, wreaking havoc and once again knocking out power.  <a href="https://nyti.ms/3C5vSvR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Southwest Says It Plans to Restore Normal Flight Schedule Friday</h3>
-<sub>By Isabella Simonetti, Daniel Victor and Soumya Karlamangla</sub>
+<sub>By Isabella Simonetti, Peter Eavis and Soumya Karlamangla</sub>
 <p>Nearly a week after a winter storm upended holiday travel across the U.S., the airline says it is close to resuming service “with minimal disruptions.”  <a href="https://nyti.ms/3GnrTO2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>What Caused the Chaos at Southwest</h3>
-<sub>By Maria Cramer and Michael Levenson</sub>
-<p>While carriers like Delta, American Airlines and United bounced back after severe winter weather wreaked havoc on holiday travel, the low-cost carrier canceled thousands of flights. Here’s why.  <a href="https://nyti.ms/3jCEgNi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Their Flights Canceled, Southwest Travelers Were Threatened With Arrest</h3>
+<sub>By Michael Levenson</sub>
+<p>A police officer at Nashville International Airport told travelers whose Southwest flights had been canceled that they would be arrested for trespassing if they did not leave a secure area, a video shows.  <a href="https://nyti.ms/3IfvLlD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Southwest Stole Christmas. It Still Has Superfans.</h3>
-<sub>By Emma Goldberg</sub>
-<p>It’s been a disastrous week for the budget airline. But its influencers are prepared to defend their brand.  <a href="https://nyti.ms/3YYbt60"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How the Buffalo Blizzard Became So Deadly</h3>
+<sub>By Corey Kilgannon, Lola Fadulu, Hurubie Meko and Sarah Maslin Nir</sub>
+<p>The storm raged for days, dumping four feet of snow and packing winds as high as 70 miles per hour, an unusually catastrophic combination.  <a href="https://nyti.ms/3WIs0ZQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -137,12 +133,6 @@ Finally, back in NY, there&#39;s a scandal involving some federal and local inve
 <sub>By Catie Edmondson</sub>
 <p>The representative-elect’s long list of fabrications has raised questions about whether he will even be allowed to take his seat next week. But House Republicans have shown little appetite for punishing him.  <a href="https://nyti.ms/3Q0hCKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Faces Federal and Local Investigations, and Public Dismay</h3>
-<sub>By Michael Gold, Ed Shanahan, Brittany Kriegstein and Rebecca Davis O’Brien</sub>
-<p>Prosecutors said on Wednesday that they would examine Mr. Santos, who has admitted lying about his work and educational history during his campaign.  <a href="https://nyti.ms/3Vt0YVd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
