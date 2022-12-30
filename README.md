@@ -60,10 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 30, Central Standard Time</p>
 <p>
-Things have been pretty crazy politically and economically lately. Just last week, House Democrats released Donald Trump&#39;s tax returns following questions about why the IRS didn&#39;t fully audit him while he was president. Turns out he paid $1.1 million in the first three years of his presidency and nothing the fourth year, as his income dwindled. At the same time, there has been a lot of speculation about whether the long stock market rally will continue this year; inflation and high interest rates could derail it. Home prices, rents, inventory and interest rates have been mostly stagnant in the housing market lately, though there have been some modest signs of revival. Mergers &amp; acquisitions activity also dropped significantly in the second half of 2022 but could rise again soon. On top of all that, we saw Representative-elect George Santos face criticism for fabricating his résumé and spending $40,000 on air travel with campaign funds. 
-
-Internationally, we&#39;ve seen Chinese President Xi Jinping meet with Russian President Vladimir Putin to discuss ties between their countries, which is especially important considering Russia&#39;s recent invasion of Ukraine. It also marks 100 years since the birth of the Soviet Union. Climate change is still a very pressing issue with thousands of wind farms proposed in the US, but they face a lot of local resistance. Finally, there was some really positive news with Pelé&#39;s 90th birthday - he was acclaimed as soccer&#39;s greatest for excellence before anyone even saw him play!</p>
+In the US, there has been a lot of focus on the tax documents released by House Democrats about former President Donald Trump. They revealed that Trump paid $1.1 million in federal income taxes in his first three years as president and no taxes in 2020 due to his dwindling income. Elsewhere, the housing market is expected to be slow moving this year with little change in prices, rents, inventory and interest rates. In Russia, a suspect has been arrested for the murders of four college students and in Ukraine, firefighters are having to negotiate land mines and freezing cold temperatures as they try to mitigate disasters caused by the invasion of their country by Russia. Lastly, people around the globe are reflecting on the centennial anniversary of the Soviet Union&#39;s creation.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Key Takeaways From Trump’s Tax Returns</h3>
+<sub>By Jim Tankersley, Susanne Craig and Russ Buettner</sub>
+<p>Thousands of pages of tax documents contain details that have not previously been revealed. Here’s a running list of insights.  <a href="https://nyti.ms/3VBKp9N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Tax Returns Released by House Democrats</h3>
 <sub>By Alan Rappeport and Jim Tankersley</sub>
@@ -94,10 +98,10 @@ Internationally, we&#39;ve seen Chinese President Xi Jinping meet with Russian P
 <p>In the year ahead, the housing market may be slow to start, with home prices, rents, inventory and interest rates not moving much at all, according to economists, analysts and real estate brokers.  <a href="https://nyti.ms/3Czsry7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Deal-making Thrived, Then Hit a Road Bump</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Stephen Gandel, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Mergers and acquisitions activity plunged in the second half of 2022, but there are signs that it could pick up again next year.  <a href="https://nyti.ms/3vwB9Ja"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Suspect Arrested in Killings of 4 College Students in Moscow, Idaho</h3>
+<sub>By Nicholas Bogel-Burroughs and Glenn Thrush</sub>
+<p>The college town has been reeling since the attack last month, in which four students were killed overnight, apparently as they slept.  <a href="https://nyti.ms/3Q6gPrH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -113,6 +117,12 @@ Internationally, we&#39;ve seen Chinese President Xi Jinping meet with Russian P
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Battered Ukrainian City, the Latest Battle is Against Winter</h3>
+<sub>By Natalia Yermak and Thomas Gibbons-Neff</sub>
+<p>Firefighters in Lyman, in Ukraine’s east, contend with land mines, freezing temperatures, damaged buildings, awful cell service and a lack of water.  <a href="https://nyti.ms/3i5LCs7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>100 Years Since the Birth of the Soviet Union, in Pictures</h3>
 <sub>By The New York Times</sub>
 <p>It is the disintegration of the U.S.S.R. that President Vladimir V. Putin of Russia says he wants to remedy by waging war against Ukraine; it is the legacy of Moscow’s dominance that Ukrainians hope to free themselves of by defeating Moscow.  <a href="https://nyti.ms/3WDxLbx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -122,18 +132,6 @@ Internationally, we&#39;ve seen Chinese President Xi Jinping meet with Russian P
 <h3>The Great News Quiz of 2022</h3>
 <sub></sub>
 <p>This was quite a year. How well do you remember it?  <a href="https://nyti.ms/3vr2EEa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The U.S. Will Need Thousands of Wind Farms. Will Small Towns Go Along?</h3>
-<sub>By David Gelles</sub>
-<p>In the fight against climate change, national goals are facing local resistance. One county scheduled 19 nights of meetings to debate one wind farm.  <a href="https://nyti.ms/3PZ6DRX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Pelé, a Name That Became Shorthand for Perfection</h3>
-<sub>By Rory Smith</sub>
-<p>The best gauge of what Pelé meant to soccer is that he was synonymous with excellence even before people saw him play.  <a href="https://nyti.ms/3hTsT36"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
