@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 30, Central Standard Time</p>
 <p>
-In the US, there has been a lot of focus on the tax documents released by House Democrats about former President Donald Trump. They revealed that Trump paid $1.1 million in federal income taxes in his first three years as president and no taxes in 2020 due to his dwindling income. Elsewhere, the housing market is expected to be slow moving this year with little change in prices, rents, inventory and interest rates. In Russia, a suspect has been arrested for the murders of four college students and in Ukraine, firefighters are having to negotiate land mines and freezing cold temperatures as they try to mitigate disasters caused by the invasion of their country by Russia. Lastly, people around the globe are reflecting on the centennial anniversary of the Soviet Union&#39;s creation.</p>
+2020 was a tumultuous year of political upheaval, economic uncertainty, and public health crises. In the United States, former president Donald Trump was impeached and then defeated in a presidential election that was marred with allegations of voter fraud, corruption, and disinformation. He also faced scrutiny regarding his tax returns as well as allegations of inappropriate payouts to political allies. Meanwhile, there was a disproportionate impact from the COVID-19 pandemic among certain demographics, leading to an increasing income gap between the rich and the poor. There were several high-profile killings by police, including the death of George Floyd, which sparked outrage across the country. On top of all this, wildfires in California caused massive destruction and a series of government-imposed lockdowns restricted people&#39;s movements throughout the year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Key Takeaways From Trump’s Tax Returns</h3>
 <sub>By Jim Tankersley, Susanne Craig and Russ Buettner</sub>
-<p>Thousands of pages of tax documents contain details that have not previously been revealed. Here’s a running list of insights.  <a href="https://nyti.ms/3VBKp9N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Former President Donald J. Trump, who fought for years to keep his returns private, made no charitable donations in 2020, and his own tax law may have cost him. Here’s a running list of insights.  <a href="https://nyti.ms/3VBKp9N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,22 +86,28 @@ In the US, there has been a lot of focus on the tax documents released by House 
 <p>The Times obtained Donald Trump’s tax information extending over more than two decades, revealing struggling properties, vast write-offs, an audit battle and hundreds of millions in debt coming due.  <a href="https://nyti.ms/3jmgeBf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Killings Left an Idaho College Town Shaken</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>A third of the students living in the dorms at the University of Idaho have not returned after the Thanksgiving break, as residents worry about their safety.  <a href="https://nyti.ms/3Us75ZA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Latest on Idaho Killings: Police Arrest Man in Pennsylvania</h3>
+<sub>By Nicholas Bogel-Burroughs and Mike Baker</sub>
+<p>A 28-year-old has been taken into custody in connection with the gruesome stabbing deaths of four University of Idaho students.  <a href="https://nyti.ms/3ApvYhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Year the Long Stock Market Rally Ended</h3>
 <sub>By Joe Rennison, Karl Russell and John-Michael Murphy</sub>
 <p>How fast inflation and high interest rates upended markets across the globe.  <a href="https://nyti.ms/3CzyqTB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>A Housing Market Hangover</h3>
-<sub>By Ronda Kaysen</sub>
-<p>In the year ahead, the housing market may be slow to start, with home prices, rents, inventory and interest rates not moving much at all, according to economists, analysts and real estate brokers.  <a href="https://nyti.ms/3Czsry7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Suspect Arrested in Killings of 4 College Students in Moscow, Idaho</h3>
-<sub>By Nicholas Bogel-Burroughs and Glenn Thrush</sub>
-<p>The college town has been reeling since the attack last month, in which four students were killed overnight, apparently as they slept.  <a href="https://nyti.ms/3Q6gPrH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>It Was a Bad Year for Stocks, and a Worse Year for Tesla</h3>
+<sub>By Jack Ewing</sub>
+<p>Investors blame Elon Musk and wonder how much more the stock will fall.  <a href="https://nyti.ms/3Q1mzDb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -111,22 +117,16 @@ In the US, there has been a lot of focus on the tax documents released by House 
 <sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Xi and Putin Meet Again, Two Strongmen in a Weak Moment</h3>
-<sub>By David Pierson and Anton Troianovski</sub>
-<p>Russia is isolated by its invasion of Ukraine and needs China more than ever. But China, facing a Covid crisis, is in no position to risk sanctions.  <a href="https://nyti.ms/3Wrm7At"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Battered Ukrainian City, the Latest Battle is Against Winter</h3>
 <sub>By Natalia Yermak and Thomas Gibbons-Neff</sub>
 <p>Firefighters in Lyman, in Ukraine’s east, contend with land mines, freezing temperatures, damaged buildings, awful cell service and a lack of water.  <a href="https://nyti.ms/3i5LCs7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>100 Years Since the Birth of the Soviet Union, in Pictures</h3>
-<sub>By The New York Times</sub>
-<p>It is the disintegration of the U.S.S.R. that President Vladimir V. Putin of Russia says he wants to remedy by waging war against Ukraine; it is the legacy of Moscow’s dominance that Ukrainians hope to free themselves of by defeating Moscow.  <a href="https://nyti.ms/3WDxLbx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
+<h3>Xi and Putin Meet Again, Two Strongmen in a Weak Moment</h3>
+<sub>By David Pierson and Anton Troianovski</sub>
+<p>Russia is isolated by its invasion of Ukraine and needs China more than ever. But China, facing a Covid crisis, is in no position to risk sanctions.  <a href="https://nyti.ms/3Wrm7At"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Great News Quiz of 2022</h3>
