@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, December 30, Central Standard Time</p>
+<p>It is Saturday, December 31, Central Standard Time</p>
 <p>
-It looks like a lot of different things are going on in the world right now. In the United States, it looks like the Supreme Court Historical Society has been raising money from donors who want access to the Justices. Also, there was recently the release of former President Donald J. Trump&#39;s tax documents which showed that much of his income was derived from inherited assets. Furthermore, there was an arrest of a 28-year-old in Pennsylvania, charged with the gruesome killing of four University of Idaho students.
-
-Internationally, we have seen a year of big changes in the stock market all over the world as well as Tesla stocks plummeting 65%. In Ukraine, firefighters are facing land mines and other issues while trying to fight winter conditions. On top of that, NATO head has expressed his belief that they need more arms support to combat Russia&#39;s drone swarm attacks against their energy systems and cities.</p>
+Hey! It&#39;s been a wild few weeks in the news. In the US, we&#39;re learning more details about former President Trump&#39;s tax returns, as well as his actions on the day of the Capitol insurrection. There was a horrific murder at one of the universities in Idaho, and now they&#39;ve arrested someone in Pennsylvania in connection with it. We also remembered the life and legacy of Barbara Walters, who was a true pioneer for women in media. Overseas, there have been some major battles going on in Ukraine against Russia - it&#39;s really sad to hear about all of the suffering that has been caused by conflict. Finally, Tesla&#39;s stock has taken a huge hit this year - investors are trying to figure out how much lower it will go!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Charity Tied to the Supreme Court Offers Donors Access to the Justices</h3>
@@ -73,7 +71,19 @@ Internationally, we have seen a year of big changes in the stock market all over
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Barbara Walters, a First Among TV Newswomen, Is Dead at 93</h3>
 <sub>By Alessandra Stanley</sub>
-<p>She broke barriers for women as a co-host of the “Today” show and a network evening news anchor while gaining her own kind of celebrity for interviewing the famous.  <a href="https://nyti.ms/3WyIDHC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>She broke barriers for women as a co-host of the “Today” show, a network evening news anchor and a creator of “The View,” all while gaining her own kind of celebrity.  <a href="https://nyti.ms/3WyIDHC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Barbara Walters Is Remembered as a Trailblazer, and a Friend</h3>
+<sub>By McKenna Oxenden, Eduardo Medina and John Yoon</sub>
+<p>Her fellow journalists, celebrity interview subjects and others offered tribute to the renowned newswoman.  <a href="https://nyti.ms/3jAIBjT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The Best of Barbara Walters</h3>
+<sub>By Jennifer Vineyard</sub>
+<p>Walters was a broadcasting trailblazer who helped develop many modern TV templates. Here are some of the most memorable moments from her influential career.  <a href="https://nyti.ms/3G8kS2g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -89,12 +99,6 @@ Internationally, we have seen a year of big changes in the stock market all over
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Are the Key Numbers From Trump’s Tax Returns</h3>
-<sub>By Charlie Smart</sub>
-<p>Donald J. Trump paid $1.1 million in federal income taxes in his first three years as president, and paid no taxes in 2020 as his income began to dwindle.  <a href="https://nyti.ms/3FOekW7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Criminology Student Is Charged in 4 University of Idaho Killings</h3>
 <sub>By Rachel Sun, Nicholas Bogel-Burroughs and Serge F. Kovaleski</sub>
 <p>The college town of Moscow, Idaho, has been reeling since the attack last month, but the police gave no motive for the murders.  <a href="https://nyti.ms/3GqAZZh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -105,12 +109,6 @@ Internationally, we have seen a year of big changes in the stock market all over
 <sub>By Nicholas Bogel-Burroughs and Mike Baker</sub>
 <p>A 28-year-old has been taken into custody in connection with the gruesome stabbing deaths of four University of Idaho students.  <a href="https://nyti.ms/3ApvYhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Year the Long Stock Market Rally Ended</h3>
-<sub>By Joe Rennison, Karl Russell and John-Michael Murphy</sub>
-<p>How fast inflation and high interest rates upended markets across the globe.  <a href="https://nyti.ms/3CzyqTB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>In a Bad Year for Stocks, Tesla Plunged 65%</h3>
