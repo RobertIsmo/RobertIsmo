@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 30, Central Standard Time</p>
 <p>
-It has been a busy year in the world - from the aftermath of Donald Trump&#39;s 2020 presidential election to businesses and economies navigating their way through the coronavirus pandemic. A charity tied to the Supreme Court offered donors access to the justices, while Trump&#39;s tax returns undermine his image as a successful entrepreneur. Ukrainian firefighters had to contend with freezing temperatures, damaged buildings, and landmines while they fought against winter. In 2021, the long stock market rally ended and Tesla plunged 65%. And finally, the January 6th riots at the Capitol revealed internal differences that divided Trump&#39;s camp.</p>
+It looks like a lot of different things are going on in the world right now. In the United States, it looks like the Supreme Court Historical Society has been raising money from donors who want access to the Justices. Also, there was recently the release of former President Donald J. Trump&#39;s tax documents which showed that much of his income was derived from inherited assets. Furthermore, there was an arrest of a 28-year-old in Pennsylvania, charged with the gruesome killing of four University of Idaho students.
+
+Internationally, we have seen a year of big changes in the stock market all over the world as well as Tesla stocks plummeting 65%. In Ukraine, firefighters are facing land mines and other issues while trying to fight winter conditions. On top of that, NATO head has expressed his belief that they need more arms support to combat Russia&#39;s drone swarm attacks against their energy systems and cities.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Charity Tied to the Supreme Court Offers Donors Access to the Justices</h3>
 <sub>By Jo Becker and Julie Tate</sub>
 <p>The Supreme Court Historical Society has raised more than $23 million in the last two decades, much of it from lawyers, corporations and special interests.  <a href="https://nyti.ms/3IcYmrs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Barbara Walters, a First Among TV Newswomen, Is Dead at 93</h3>
+<sub>By Alessandra Stanley</sub>
+<p>She broke barriers for women as a co-host of the “Today” show and a network evening news anchor while gaining her own kind of celebrity for interviewing the famous.  <a href="https://nyti.ms/3WyIDHC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,10 +95,10 @@ It has been a busy year in the world - from the aftermath of Donald Trump&#39;s 
 <sub><sub>Wednesday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Taxes Show Chronic Losses and Years of Income Tax Avoidance</h3>
-<sub>By Russ Buettner, Susanne Craig and Mike McIntire</sub>
-<p>The Times obtained Donald Trump’s tax information extending over more than two decades, revealing struggling properties, vast write-offs, an audit battle and hundreds of millions in debt coming due.  <a href="https://nyti.ms/3jmgeBf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 27, Central Standard Time</sub></sub>
+<h3>Criminology Student Is Charged in 4 University of Idaho Killings</h3>
+<sub>By Rachel Sun, Nicholas Bogel-Burroughs and Serge F. Kovaleski</sub>
+<p>The college town of Moscow, Idaho, has been reeling since the attack last month, but the police gave no motive for the murders.  <a href="https://nyti.ms/3GqAZZh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Latest on Idaho Killings: Police Arrest Man in Pennsylvania</h3>
@@ -127,12 +135,6 @@ It has been a busy year in the world - from the aftermath of Donald Trump&#39;s 
 <sub>By Luke Broadwater, Alan Feuer, Catie Edmondson and Stephanie Lai</sub>
 <p>Interviews revealed that people in President Donald J. Trump’s orbit had very different views on seizing voting machines, the Proud Boys and each other’s roles.  <a href="https://nyti.ms/3jIE3Ix"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Great News Quiz of 2022</h3>
-<sub></sub>
-<p>This was quite a year. How well do you remember it?  <a href="https://nyti.ms/3vr2EEa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
