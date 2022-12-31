@@ -60,13 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 31, Central Standard Time</p>
 <p>
-There are a lot of news stories in the world right now that can seem quite overwhelming. Pope Benedict XVI, one of the first modern Popes to resign, has passed away at 95. A lot of conservative Catholics in the US are mourning his death, since he was seen as a hero for them. His papacy was noted for his struggle with the clergy sexual abuse scandal and his unexpected resignation. Sadly, a lot of people criticized him for his handling of the sex abuse scandal; he worked to rid the church of what he called “filth” but was reluctant to hold bishops accountable.
+In the world, Benedict XVI, the first modern pope to resign, recently passed away at age 95. His papacy was noted for his struggle with clergy sexual abuse scandals and his unexpected resignation. Germans are experiencing a range of emotions as they reflect on Benedict&#39;s life as the first German pope in over 400 years, who failed to properly handle sexual abuse scandals when he served in southern Germany. 
 
-Also in the US, there was recently an election where many polls inaccurately predicted the outcome and skewed the narrative of some candidates. Meanwhile, Barbara Walters died at 93 after breaking barriers as a co-host of the &quot;Today&quot; show, network evening news anchor, and creator of &quot;The View.&quot; She’ll be remembered for her pioneering work in American media and entertainment.
+In the US, news has been dominated by the Republican congresswoman Elise Stefanik’s rise through the Trump era, and skewed polls led to a false election narrative. There have also been stories about teenage mothers who wanted to be better than their mothers, and a drop in child poverty thanks to their efforts. 
 
-On a global scale, there is war being waged in Ukraine where churches are becoming tools of war used by both Ukraine and Russia. Ukraine&#39;s President has also been trying to rally his country, and its allies, around fighting for Ukraine&#39;s cause through speeches he has been giving nightly.
-
-Finally, many technology companies like Google and Apple are offering cloud storage services so you can store photos and important documents online, but it&#39;s still recommended to keep an extra backup copy just in case. A criminology student has also just been charged with 4 murders that have happened in a college town in Idaho recently but nobody quite knows what motive was behind it yet.</p>
+In business and media, people have been reflecting on Barbara Waller’s legacy -the first woman to co-anchor the evening news- her struggle against her male counterparts and influence in modern TV templates. There have also been stories about cloud storage where people can store photos, videos and important documents safely. And finally there have been devastating reports of a student charged with 4 university killings in Idaho, though yet no motive has been identified.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Benedict XVI, First Modern Pope to Resign, Dies at 95</h3>
@@ -74,10 +72,10 @@ Finally, many technology companies like Google and Apple are offering cloud stor
 <p>He defined a conservative course for the Roman Catholic Church, but his papacy was noted for his struggle with the clergy sexual abuse scandal and for his unexpected resignation.  <a href="https://nyti.ms/3i7n6XK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Conservative Catholics in U.S., Pope Benedict’s Death Is Loss of a Hero</h3>
-<sub>By Elizabeth Dias and Ruth Graham</sub>
-<p>Even after his retirement a decade ago, the former pope remained the unofficial figurehead of the conservative wing of the American church.  <a href="https://nyti.ms/3Q6YOto"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>From Germans, an Outpouring of Mixed Emotions at Benedict XVI’s Death</h3>
+<sub>By Erika Solomon</sub>
+<p>He was the first German pope in over 400 years, but his legacy is marred by failures at handling sexual abuse scandals when he served in southern Germany.  <a href="https://nyti.ms/3Qd3yO7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -87,9 +85,27 @@ Finally, many technology companies like Google and Apple are offering cloud stor
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Invention of Elise Stefanik</h3>
+<sub>By Nicholas Confessore</sub>
+<p>To rise through the Trump-era G.O.P., a young congresswoman gave up her friends, her mentors and her ideals. Will it be enough?  <a href="https://nyti.ms/3Ie9S5U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The ‘Red Wave’ Washout: How Skewed Polls Fed a False Election Narrative</h3>
 <sub>By Jim Rutenberg, Ken Bensinger and Steve Eder</sub>
 <p>The errant surveys spooked some candidates into spending more money than necessary, and diverted help from others who otherwise had a fighting chance of winning.  <a href="https://nyti.ms/3Z06OAs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘I just don’t have words.’ Kyiv residents express fury at New Year’s Eve attacks.</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>The year ended much the same way it had gone for months, with air raid sirens, explosions and families rushing to find shelter.  <a href="https://nyti.ms/3YWxtOJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Their Mothers Were Teenagers. They Didn’t Want That for Themselves.</h3>
+<sub>By Jason DeParle</sub>
+<p>Teen pregnancies have plummeted, as has child poverty. The result is a profound change in the forces that bring opportunity between generations.  <a href="https://nyti.ms/3CcTxe5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -109,24 +125,6 @@ Finally, many technology companies like Google and Apple are offering cloud stor
 <sub>By Jennifer Vineyard</sub>
 <p>Walters was a broadcasting trailblazer who helped develop many modern TV templates. Here are some of the most memorable moments from her influential career.  <a href="https://nyti.ms/3G8kS2g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Their Mothers Were Teenagers. They Didn’t Want That for Themselves.</h3>
-<sub>By Jason DeParle</sub>
-<p>Teen pregnancies have plummeted, as has child poverty. The result is a profound change in the forces that bring opportunity between generations.  <a href="https://nyti.ms/3CcTxe5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Clergymen or Spies? Churches Become Tools of War in Ukraine</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Ukrainian officials are cracking down on a branch of the Russian Orthodox Church that they describe as a subversive force doing the Kremlin’s bidding.  <a href="https://nyti.ms/3CdyRmg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Speeches to Ukraine, and the World, Zelensky Shapes Narrative of the War</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>In nightly addresses to his people and passionate speeches to foreign leaders, the Ukrainian president has delivered a story line to rally his country, and its allies, to Ukraine’s cause.  <a href="https://nyti.ms/3IeVGJX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Your Memories. Their Cloud.</h3>
