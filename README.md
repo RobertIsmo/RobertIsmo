@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 31, Central Standard Time</p>
 <p>
-Right now a lot is going on around the world. Recently, Benedict XVI, the first modern Pope to resign, died at 95. He defined a conservative course for the Roman Catholic Church but had to grapple with the clergy sexual abuse scandal and his resignation was unexpected. In America, people are mourning the passing of TV newswoman Barbara Walters who broke barriers for women in broadcasting and created &quot;The View&quot;. In Ukraine, some churches are being used as tools of war for the country’s conflict with Russia. Meanwhile, in Idaho, a criminology student has been charged with four killings in a university town and police have yet to provide a motive for these murders.</p>
+There are a lot of news stories in the world right now that can seem quite overwhelming. Pope Benedict XVI, one of the first modern Popes to resign, has passed away at 95. A lot of conservative Catholics in the US are mourning his death, since he was seen as a hero for them. His papacy was noted for his struggle with the clergy sexual abuse scandal and his unexpected resignation. Sadly, a lot of people criticized him for his handling of the sex abuse scandal; he worked to rid the church of what he called “filth” but was reluctant to hold bishops accountable.
+
+Also in the US, there was recently an election where many polls inaccurately predicted the outcome and skewed the narrative of some candidates. Meanwhile, Barbara Walters died at 93 after breaking barriers as a co-host of the &quot;Today&quot; show, network evening news anchor, and creator of &quot;The View.&quot; She’ll be remembered for her pioneering work in American media and entertainment.
+
+On a global scale, there is war being waged in Ukraine where churches are becoming tools of war used by both Ukraine and Russia. Ukraine&#39;s President has also been trying to rally his country, and its allies, around fighting for Ukraine&#39;s cause through speeches he has been giving nightly.
+
+Finally, many technology companies like Google and Apple are offering cloud storage services so you can store photos and important documents online, but it&#39;s still recommended to keep an extra backup copy just in case. A criminology student has also just been charged with 4 murders that have happened in a college town in Idaho recently but nobody quite knows what motive was behind it yet.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Benedict XVI, First Modern Pope to Resign, Dies at 95</h3>
@@ -75,9 +81,9 @@ Right now a lot is going on around the world. Recently, Benedict XVI, the first 
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pope Benedict’s Life in Pictures</h3>
-<sub>By The New York Times</sub>
-<p>Here are a selection of images from Benedict’s long life.  <a href="https://nyti.ms/3Cdwq30"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Benedict was criticized for his handling of the church’s sex abuse scandal.</h3>
+<sub>By Elisabetta Povoledo</sub>
+<p>His efforts to rid the church of what he called “filth” went further than those of John Paul II, but he was reluctant to hold bishops accountable.  <a href="https://nyti.ms/3WQsqxc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,15 +93,15 @@ Right now a lot is going on around the world. Recently, Benedict XVI, the first 
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Barbara Walters Went From ‘Today Girl’ to Pioneering Media Star</h3>
+<sub>By Tiffany Hsu</sub>
+<p>The first woman to co-anchor the evening news, she endured the scorn of her male counterparts.  <a href="https://nyti.ms/3G7fZX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Barbara Walters, a First Among TV Newswomen, Is Dead at 93</h3>
 <sub>By Alessandra Stanley</sub>
 <p>She broke barriers for women as a co-host of the “Today” show, a network evening news anchor and a creator of “The View,” all while gaining her own kind of celebrity.  <a href="https://nyti.ms/3WyIDHC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Barbara Walters Is Remembered as a Trailblazer, and a Friend</h3>
-<sub>By McKenna Oxenden, Eduardo Medina and John Yoon</sub>
-<p>Her fellow journalists, celebrity interview subjects and others offered tribute to the renowned newswoman.  <a href="https://nyti.ms/3jAIBjT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -117,7 +123,7 @@ Right now a lot is going on around the world. Recently, Benedict XVI, the first 
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Leadership and Speaking Skills, Zelensky Shapes Narrative of the War</h3>
+<h3>With Speeches to Ukraine, and the World, Zelensky Shapes Narrative of the War</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>In nightly addresses to his people and passionate speeches to foreign leaders, the Ukrainian president has delivered a story line to rally his country, and its allies, to Ukraine’s cause.  <a href="https://nyti.ms/3IeVGJX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
