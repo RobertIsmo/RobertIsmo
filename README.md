@@ -60,13 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 31, Central Standard Time</p>
 <p>
-Right now there&#39;s a lot going on. A charity related to the Supreme Court is offering donors access to the Justices, and iconic TV newswoman Barbara Walters passed away at 93. Her colleagues, celebrity interview subjects and others are offering tribute. There have also been some big developments with former President Donald Trump. His tax documents were released by the House Ways and Means Committee and show heavy losses from his own ventures, and transcripts of the January 6th riots revealed disagreements between people in his camp. In Ukraine, their army recently fended off a drone swarm attack and NATO says they need more arms to protect their cities. Lastly, investors in Tesla stock are not doing too well as it has dropped by 65%.</p>
+There is a lot going on in the world right now. Former Pope Benedict XVI has died at the age of 95 after resigning in 2013 - the first pope to do so in modern times. Recently, polls were found to have been skewed before the US election, spooking some candidates into spending more money than necessary. Additionally, the renowned newswoman Barbara Walters has passed away. Churches in Ukraine are also being used as tools of war as Ukraine tries to crack down on Russian influence. Lastly, there was an arrest in Pennsylvania related to four University of Idaho killings and more details are emerging about President Trump&#39;s tax returns.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Benedict XVI, First Modern Pope to Resign, Dies at 95</h3>
+<sub>By Ian Fisher and Rachel Donadio</sub>
+<p>He defined a conservative course for the Roman Catholic Church, but his papacy was noted for his struggle with the clergy sexual abuse scandal and for his unexpected resignation.  <a href="https://nyti.ms/3i7n6XK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pope Benedict’s Life in Pictures</h3>
+<sub>By The New York Times</sub>
+<p>Here are a selection of images from Benedict’s long life.  <a href="https://nyti.ms/3Cdwq30"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Charity Tied to the Supreme Court Offers Donors Access to the Justices</h3>
-<sub>By Jo Becker and Julie Tate</sub>
-<p>The Supreme Court Historical Society has raised more than $23 million in the last two decades, much of it from lawyers, corporations and special interests.  <a href="https://nyti.ms/3IcYmrs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<h3>The ‘Red Wave’ Washout: How Skewed Polls Fed a False Election Narrative</h3>
+<sub>By Jim Rutenberg, Ken Bensinger and Steve Eder</sub>
+<p>The errant surveys spooked some candidates into spending more money than necessary, and diverted help from others who otherwise had a fighting chance of winning.  <a href="https://nyti.ms/3Z06OAs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Barbara Walters, a First Among TV Newswomen, Is Dead at 93</h3>
@@ -87,16 +99,22 @@ Right now there&#39;s a lot going on. A charity related to the Supreme Court is 
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Tax Returns Undermine His Image as a Successful Entrepreneur</h3>
-<sub>By Jim Tankersley, Susanne Craig and Russ Buettner</sub>
-<p>The release of former President Donald J. Trump’s private tax documents by the House Ways and Means Committee shows heavy losses from his own ventures as he continued to cash in on inherited assets.  <a href="https://nyti.ms/3jI7v1f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<h3>Their Mothers Were Teenagers. They Didn’t Want That for Themselves.</h3>
+<sub>By Jason DeParle</sub>
+<p>Teen pregnancies have plummeted, as has child poverty. The result is a profound change in the forces that bring opportunity between generations.  <a href="https://nyti.ms/3CcTxe5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Key Takeaways From Trump’s Tax Returns</h3>
-<sub>By Jim Tankersley, Susanne Craig and Russ Buettner</sub>
-<p>Former President Donald J. Trump, who fought for years to keep his returns private, made no charitable donations in 2020, and his own tax law may have cost him. Here’s a running list of insights.  <a href="https://nyti.ms/3VBKp9N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Clergymen or Spies? Churches Become Tools of War in Ukraine</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Ukrainian officials are cracking down on a branch of the Russian Orthodox Church that they describe as a subversive force doing the Kremlin’s bidding.  <a href="https://nyti.ms/3CdyRmg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Your Memories. Their Cloud.</h3>
+<sub>By Kashmir Hill</sub>
+<p>Google, Apple and Meta offer near-limitless digital basements in which to store photos, videos and important documents, but you should keep a copy of what you hold most dear.  <a href="https://nyti.ms/3Cg3Ttw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Criminology Student Is Charged in 4 University of Idaho Killings</h3>
@@ -110,28 +128,10 @@ Right now there&#39;s a lot going on. A charity related to the Supreme Court is 
 <p>A 28-year-old has been taken into custody in connection with the gruesome stabbing deaths of four University of Idaho students.  <a href="https://nyti.ms/3ApvYhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In a Bad Year for Stocks, Tesla Plunged 65%</h3>
-<sub>By Jack Ewing</sub>
-<p>Investors blame Elon Musk and wonder how much more the stock will fall.  <a href="https://nyti.ms/3Q1mzDb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Battered Ukrainian City, the Latest Battle is Against Winter</h3>
-<sub>By Natalia Yermak and Thomas Gibbons-Neff</sub>
-<p>Firefighters in Lyman, in Ukraine’s east, contend with land mines, freezing temperatures, damaged buildings, awful cell service and a lack of water.  <a href="https://nyti.ms/3i5LCs7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Defeats Russian Drone Swarm, as NATO Head Says Kyiv Needs More Arms</h3>
-<sub>By Cassandra Vinograd and Richard Pérez-Peña</sub>
-<p>In a war where the vital weapons and tactics have changed repeatedly, Ukraine relies more than ever on air defenses to fend off barrages aimed at its energy systems and cities.  <a href="https://nyti.ms/3GusddJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Transcripts Reveal Disagreements That Divided Trump Camp</h3>
-<sub>By Luke Broadwater, Alan Feuer, Catie Edmondson and Stephanie Lai</sub>
-<p>Interviews revealed that people in President Donald J. Trump’s orbit had very different views on seizing voting machines, the Proud Boys and each other’s roles.  <a href="https://nyti.ms/3jIE3Ix"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Key Takeaways From Trump’s Tax Returns</h3>
+<sub>By Jim Tankersley, Susanne Craig and Russ Buettner</sub>
+<p>Former President Donald J. Trump, who fought for years to keep his returns private, made no charitable donations in 2020, and his own tax law may have cost him. Here’s a running list of insights.  <a href="https://nyti.ms/3VBKp9N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
