@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 30, Central Standard Time</p>
 <p>
-2020 was a tumultuous year of political upheaval, economic uncertainty, and public health crises. In the United States, former president Donald Trump was impeached and then defeated in a presidential election that was marred with allegations of voter fraud, corruption, and disinformation. He also faced scrutiny regarding his tax returns as well as allegations of inappropriate payouts to political allies. Meanwhile, there was a disproportionate impact from the COVID-19 pandemic among certain demographics, leading to an increasing income gap between the rich and the poor. There were several high-profile killings by police, including the death of George Floyd, which sparked outrage across the country. On top of all this, wildfires in California caused massive destruction and a series of government-imposed lockdowns restricted people&#39;s movements throughout the year.</p>
+It has been a busy year in the world - from the aftermath of Donald Trump&#39;s 2020 presidential election to businesses and economies navigating their way through the coronavirus pandemic. A charity tied to the Supreme Court offered donors access to the justices, while Trump&#39;s tax returns undermine his image as a successful entrepreneur. Ukrainian firefighters had to contend with freezing temperatures, damaged buildings, and landmines while they fought against winter. In 2021, the long stock market rally ended and Tesla plunged 65%. And finally, the January 6th riots at the Capitol revealed internal differences that divided Trump&#39;s camp.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Charity Tied to the Supreme Court Offers Donors Access to the Justices</h3>
+<sub>By Jo Becker and Julie Tate</sub>
+<p>The Supreme Court Historical Society has raised more than $23 million in the last two decades, much of it from lawyers, corporations and special interests.  <a href="https://nyti.ms/3IcYmrs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Tax Returns Undermine His Image as a Successful Entrepreneur</h3>
+<sub>By Jim Tankersley, Susanne Craig and Russ Buettner</sub>
+<p>The release of former President Donald J. Trump’s private tax documents by the House Ways and Means Committee shows heavy losses from his own ventures as he continued to cash in on inherited assets.  <a href="https://nyti.ms/3jI7v1f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Key Takeaways From Trump’s Tax Returns</h3>
 <sub>By Jim Tankersley, Susanne Craig and Russ Buettner</sub>
 <p>Former President Donald J. Trump, who fought for years to keep his returns private, made no charitable donations in 2020, and his own tax law may have cost him. Here’s a running list of insights.  <a href="https://nyti.ms/3VBKp9N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Tax Returns Released by House Democrats</h3>
-<sub>By Alan Rappeport and Jim Tankersley</sub>
-<p>The publication of former President Donald J. Trump’s private tax documents comes amid questions about why the I.R.S. failed to fully audit him during his presidency.  <a href="https://nyti.ms/3GqAHCL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,12 +93,6 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Sunday, September 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Killings Left an Idaho College Town Shaken</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>A third of the students living in the dorms at the University of Idaho have not returned after the Thanksgiving break, as residents worry about their safety.  <a href="https://nyti.ms/3Us75ZA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Latest on Idaho Killings: Police Arrest Man in Pennsylvania</h3>
 <sub>By Nicholas Bogel-Burroughs and Mike Baker</sub>
 <p>A 28-year-old has been taken into custody in connection with the gruesome stabbing deaths of four University of Idaho students.  <a href="https://nyti.ms/3ApvYhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -105,16 +105,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>It Was a Bad Year for Stocks, and a Worse Year for Tesla</h3>
+<h3>In a Bad Year for Stocks, Tesla Plunged 65%</h3>
 <sub>By Jack Ewing</sub>
 <p>Investors blame Elon Musk and wonder how much more the stock will fall.  <a href="https://nyti.ms/3Q1mzDb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Santos, a Suburban House and $11,000 in Campaign Payments for ‘Rent’</h3>
-<sub>By Grace Ashford and Dana Rubinstein</sub>
-<p>Representative-elect George Santos, under scrutiny after fabricating much of his résumé, also spent campaign funds on $40,000 worth of air travel.  <a href="https://nyti.ms/3hYwH2Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Battered Ukrainian City, the Latest Battle is Against Winter</h3>
@@ -123,9 +117,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Xi and Putin Meet Again, Two Strongmen in a Weak Moment</h3>
-<sub>By David Pierson and Anton Troianovski</sub>
-<p>Russia is isolated by its invasion of Ukraine and needs China more than ever. But China, facing a Covid crisis, is in no position to risk sanctions.  <a href="https://nyti.ms/3Wrm7At"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Defeats Russian Drone Swarm, as NATO Head Says Kyiv Needs More Arms</h3>
+<sub>By Cassandra Vinograd and Richard Pérez-Peña</sub>
+<p>In a war where the vital weapons and tactics have changed repeatedly, Ukraine relies more than ever on air defenses to fend off barrages aimed at its energy systems and cities.  <a href="https://nyti.ms/3GusddJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jan. 6 Transcripts Reveal Disagreements That Divided Trump Camp</h3>
+<sub>By Luke Broadwater, Alan Feuer, Catie Edmondson and Stephanie Lai</sub>
+<p>Interviews revealed that people in President Donald J. Trump’s orbit had very different views on seizing voting machines, the Proud Boys and each other’s roles.  <a href="https://nyti.ms/3jIE3Ix"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
