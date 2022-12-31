@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 31, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. Former Pope Benedict XVI has died at the age of 95 after resigning in 2013 - the first pope to do so in modern times. Recently, polls were found to have been skewed before the US election, spooking some candidates into spending more money than necessary. Additionally, the renowned newswoman Barbara Walters has passed away. Churches in Ukraine are also being used as tools of war as Ukraine tries to crack down on Russian influence. Lastly, there was an arrest in Pennsylvania related to four University of Idaho killings and more details are emerging about President Trump&#39;s tax returns.</p>
+Right now a lot is going on around the world. Recently, Benedict XVI, the first modern Pope to resign, died at 95. He defined a conservative course for the Roman Catholic Church but had to grapple with the clergy sexual abuse scandal and his resignation was unexpected. In America, people are mourning the passing of TV newswoman Barbara Walters who broke barriers for women in broadcasting and created &quot;The View&quot;. In Ukraine, some churches are being used as tools of war for the country’s conflict with Russia. Meanwhile, in Idaho, a criminology student has been charged with four killings in a university town and police have yet to provide a motive for these murders.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Benedict XVI, First Modern Pope to Resign, Dies at 95</h3>
 <sub>By Ian Fisher and Rachel Donadio</sub>
 <p>He defined a conservative course for the Roman Catholic Church, but his papacy was noted for his struggle with the clergy sexual abuse scandal and for his unexpected resignation.  <a href="https://nyti.ms/3i7n6XK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Conservative Catholics in U.S., Pope Benedict’s Death Is Loss of a Hero</h3>
+<sub>By Elizabeth Dias and Ruth Graham</sub>
+<p>Even after his retirement a decade ago, the former pope remained the unofficial figurehead of the conservative wing of the American church.  <a href="https://nyti.ms/3Q6YOto"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,6 +116,12 @@ There is a lot going on in the world right now. Former Pope Benedict XVI has die
 <p>Ukrainian officials are cracking down on a branch of the Russian Orthodox Church that they describe as a subversive force doing the Kremlin’s bidding.  <a href="https://nyti.ms/3CdyRmg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With Leadership and Speaking Skills, Zelensky Shapes Narrative of the War</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>In nightly addresses to his people and passionate speeches to foreign leaders, the Ukrainian president has delivered a story line to rally his country, and its allies, to Ukraine’s cause.  <a href="https://nyti.ms/3IeVGJX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Your Memories. Their Cloud.</h3>
 <sub>By Kashmir Hill</sub>
@@ -120,18 +132,6 @@ There is a lot going on in the world right now. Former Pope Benedict XVI has die
 <h3>Criminology Student Is Charged in 4 University of Idaho Killings</h3>
 <sub>By Rachel Sun, Nicholas Bogel-Burroughs and Serge F. Kovaleski</sub>
 <p>The college town of Moscow, Idaho, has been reeling since the attack last month, but the police gave no motive for the murders.  <a href="https://nyti.ms/3GqAZZh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Latest on Idaho Killings: Police Arrest Man in Pennsylvania</h3>
-<sub>By Nicholas Bogel-Burroughs and Mike Baker</sub>
-<p>A 28-year-old has been taken into custody in connection with the gruesome stabbing deaths of four University of Idaho students.  <a href="https://nyti.ms/3ApvYhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Key Takeaways From Trump’s Tax Returns</h3>
-<sub>By Jim Tankersley, Susanne Craig and Russ Buettner</sub>
-<p>Former President Donald J. Trump, who fought for years to keep his returns private, made no charitable donations in 2020, and his own tax law may have cost him. Here’s a running list of insights.  <a href="https://nyti.ms/3VBKp9N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
