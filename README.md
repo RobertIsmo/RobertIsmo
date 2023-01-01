@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 1, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world at the moment – from the tech cold war between the US and China to debates about when life begins to a Russian soldier&#39;s rampage in a small town in Ukraine. In the US, well, there&#39;s strife in schools, between those in favor of abortion and those against it, while US companies are investing heavily in chip production to keep up with demands. Meanwhile, Mexico is becoming an attractive area for international businesses looking to move away from China. At home there are big changes happening; newly elected congressman George Santos is set to be sworn in, while longtime Donald Trump-era lawmakers are leaving Congress.</p>
+There&#39;s some important news to catch up on! A lot has been happening this month, especially when it comes to tech and global issues. In the US, a debate over the beginning of life is still ongoing, while in Russia there have been a final rampage and the inauguration of a new president. Many retiring members of Congress have noticed the gridlock and won&#39;t miss it, but will face rough roads ahead. In Brazil, Luiz Inácio Lula da Silva was inaugurated as president while Jair Bolsonaro has taken refuge in Florida. Elsewhere, Central Ohio is trying to get people to reduce food waste, and Idaho is searching for a motive in a murder suspect&#39;s case. Climate change is also affecting parts of the US like Cape Cod with electric-green algae blooms. Lastly, Elise Stefanik made headlines for rising quickly through the Trump-era GOP by giving up her ideals.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>U.S. Pours Money Into Chips, but Even Soaring Spending Has Limits</h3>
@@ -86,35 +86,11 @@ There&#39;s a lot going on in the world at the moment – from the tech cold war
 <p>Seasonal greetings from imprisoned opponents offered counterprogramming of a sort to the traditional end-of-year speech from President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/3IggRLB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Strife in the Schools: Education Dept. Logs Record Number of Discrimination Complaints</h3>
-<sub>By Erica L. Green</sub>
-<p>Some of the highest-profile complaints show how America’s culture wars are affecting the nation’s children.  <a href="https://nyti.ms/3Z1DSIa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-headway-blue" alt="">
-<h3>How Central Ohio Got People to Eat Their Leftovers</h3>
-<sub>By Susan Shain</sub>
-<p>The average U.S. household wastes nearly a third of the food it buys. This community is nudging its residents to change their habits.  <a href="https://nyti.ms/3WEnZWK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Lula Becomes Brazil’s President, Bolsonaro Flees to Florida</h3>
-<sub>By Jack Nicas and André Spigariol</sub>
-<p>Brazil inaugurates its new president, Luiz Inácio Lula da Silva, on Sunday. Facing investigations, former President Jair Bolsonaro has taken refuge in Orlando.  <a href="https://nyti.ms/3GwzhGF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russian Airstrikes Leave Ukrainians Few Options but to Endure</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Ten months into the war, Ukraine has turned the tide in ground combat, but its cities are still facing relentless waves of missiles and exploding drones.  <a href="https://nyti.ms/3GuYGk6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘OK, Mexico, Save Me’: After China, This Is Where Globalization May Lead</h3>
-<sub>By Peter S. Goodman</sub>
-<p>As American companies seek to limit their exposure to the pitfalls of making goods in China, some are moving production to Mexico.  <a href="https://nyti.ms/3YXeTGd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What TikTok Told Us About the Economy in 2022</h3>
-<sub>By Jeanna Smialek</sub>
-<p>From Barbiecore to revenge travel, social media trends gave us a clear picture of the forces reshaping the economy.  <a href="https://nyti.ms/3vrJwWv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>As His Life of Fantasy Comes Into Focus, George Santos Goes to Washington</h3>
@@ -126,6 +102,30 @@ There&#39;s a lot going on in the world at the moment – from the tech cold war
 <h3>Retiring Congress Members See Rough Roads Ahead. They Won’t Miss the Gridlock.</h3>
 <sub>By Emily Cochrane</sub>
 <p>Departing longtime lawmakers perceive little prospect of orderly business in a divided Congress. They’re taking with them decades of experience in the day-to-day work of keeping the government running.  <a href="https://nyti.ms/3G5gRvv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Lula Becomes Brazil’s President, With Bolsonaro in Florida</h3>
+<sub>By Jack Nicas and André Spigariol</sub>
+<p>Brazil inaugurates its new president, Luiz Inácio Lula da Silva, on Sunday. Facing investigations, former President Jair Bolsonaro has taken refuge in Orlando.  <a href="https://nyti.ms/3GwzhGF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-headway-blue" alt="">
+<h3>How Central Ohio Got People to Eat Their Leftovers</h3>
+<sub>By Susan Shain</sub>
+<p>The average U.S. household wastes nearly a third of the food it buys. This community is nudging its residents to change their habits.  <a href="https://nyti.ms/3WEnZWK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Idaho Murder Suspect Had Been a Student of the Criminal Mind</h3>
+<sub>By Nicholas Bogel-Burroughs, Rachel Sun, Mike Baker and Serge F. Kovaleski</sub>
+<p>The arrest of Bryan Kohberger, now charged with murdering four University of Idaho students, eased fears but raised a troubling new question: What was the motive?  <a href="https://nyti.ms/3vtJDRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Stinky Stew on Cape Cod: Human Waste and Warming Water</h3>
+<sub>By Christopher Flavelle and Sophie Park</sub>
+<p>Climate change is contributing to electric-green algae blooms. Massachusetts wants a cleanup of the antiquated septic systems feeding the mess, but it could cost billions.  <a href="https://nyti.ms/3GxPaNd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
