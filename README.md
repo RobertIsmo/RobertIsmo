@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 1, Central Standard Time</p>
 <p>
-In 2020, the world dealt with instability and upheaval. In Ukraine, there were Russian strikes on New Year&#39;s Eve that caused explosions in cities including the capital city of Kyiv. In Bucha, a Russian soldier left a trail of blood and devastation in a final rampage. Sadly, we also experienced the death of Pope Benedict XVI, a living pope presiding over the funeral of his predecessor. In the United States, elections were rife with skewed polls that led to ill-prepared candidates, while many dealt with the effects of Covid-19: isolation, loneliness and sadness. 2021 has begun with hope and optimism that it will turn out better than 2020.</p>
+Right now, there is a lot of violence across the globe. In Bucha, Russia, a soldier went on a rampage just before the Russian troops left. On New Year&#39;s Eve, Russian strikes caused explosions in Ukraine, while people rushed to find shelter.
+
+Pope Benedict XVI, who was the first pope in 600 years to resign instead of dying in office, passed away recently. He was German and his legacy was marked somewhat by his association with the Catholic Church&#39;s struggles with sexual abuse scandals when he served in southern Germany. 
+
+The US is experiencing morale shifts as well – young Congresswoman Elise Stefanik rose through the Trump-era GOP by giving up things like friends, mentors and ideals. There was also an &quot;election narrative,&quot; where poll results skewed to show wrong numbers which scared candidates into overspending and shifted help from those who needed it. Teen pregnancies have decreased here too, so it has created a different opportunity for younger generations.
+
+Finally, during the pandemic photos we&#39;ve seen family reunions, holiday celebrations, but unfortunately some are still struggling with isolation and sadness. In sports news, Georgia just downed Ohio State in the semifinal in a crazy last-minute touchdown.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Bucha, a Final Rampage Served as a Coda to a Month of Atrocities</h3>
@@ -122,16 +128,16 @@ In 2020, the world dealt with instability and upheaval. In Ukraine, there were R
 <p>Family reunions, play dates and holidays never looked so good. But for some, isolation and sadness linger.  <a href="https://nyti.ms/3Gv62UG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The State of the Midnight Kiss</h3>
-<sub>By Gina Cherelus</sub>
-<p>Has our modern era dimmed the appeal of making out with a stranger, or are people still eager to participate in the New Year’s Eve tradition?  <a href="https://nyti.ms/3Z2VPX2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Hottest Place to Network Is an Ice Bath</h3>
+<sub>By Alyson Krueger</sub>
+<p>“The amount of meetings is actually absurd, considering this is a spa.”  <a href="https://nyti.ms/3Z2Fce8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-insider-blue" alt="">
-<h3>71 of Our Favorite Facts of 2022</h3>
-<sub>By Times Insider Staff and JooHee Yoon</sub>
-<p>Each day, Inside The Times Times Insider editors scour the newspaper for the most interesting facts to appear in articles. Here are facts that surprised, enlightened or entertained us this year.  <a href="https://nyti.ms/3jKdgez"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Georgia Downs Ohio State in Semifinal on Last-Minute Touchdown</h3>
+<sub>By Alan Blinder</sub>
+<p>Georgia scored in the final minute of the game, and Ohio State missed a field goal in the first minute of 2023.  <a href="https://nyti.ms/3CfORnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
