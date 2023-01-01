@@ -60,23 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 1, Central Standard Time</p>
 <p>
-There’s a lot going on in the world right now. In the U.S., we’re pouring money into tech, but even with huge investments, there may be limits to what can be done. A final rampage in Bucha left a trail of blood and devastation just hours before Russian troops withdrew from the town. And there have been a record number of discrimination complaints against schools this year that reflect the culture wars taking place in America. 
-
-In an effort to reduce food waste, central Ohio is encouraging its citizens to eat their leftovers, while American companies are moving away from China by producing goods in Mexico. Also, Eric Adams has been battling to lead as mayor of New York City this past year, but his quickness to address urgent challenges has been brought into question. 
-
-On the sports front, Georgia defeated Ohio State with a last-minute touchdown, and T.C.U. upset Michigan in a wild playoff semifinal that resulted in a 51-45 score. Lastly, people are using ice baths as the hottest place to network, so that&#39;s something else to think about!</p>
+In 2021, the U.S. government has been pouring millions of dollars into the chip manufacturing industry in an effort to stay ahead in a tech cold war with China. At home, the nation continues to grapple with deep questions about the morality of abortion. In Ukraine, explosions rocked on New Year&#39;s Eve as part of the Russian invasion and we continue to see discrimination complaints filed against schools. In Mexico, some companies are starting to move their production away from China. In New York City, mayor Eric Adams is finding it tough to make progress on challenging issues. And in sports, Georgia beat Ohio State in a wild semifinal and Texas Christian upset Michigan 51-45, setting both teams up for a national championship game.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>U.S. Pours Money Into Chips, but Even Soaring Spending Has Limits</h3>
 <sub>By Don Clark and Ana Swanson</sub>
-<p>Amid a tech cold war with China, U.S. companies have pledged nearly $200 billion for chip manufacturing projects since early 2020. But the investments are not a silver bullet.  <a href="https://nyti.ms/3WFd3rG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Amid a tech cold war with China, U.S. companies have pledged nearly $200 billion for chip manufacturing projects since early 2020. But the investments are not a silver bullet.  <a href="https://nyti.ms/3Cdxtji"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>When Does Life Begin?</h3>
+<sub>By Elizabeth Dias and Bethany Mollenkof</sub>
+<p>The question is at the heart of the human experience — and the nation’s abortion debate. An exploration through science, theology and philosophy.  <a href="https://nyti.ms/3WUcXwf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Bucha, a Final Rampage Served as a Coda to a Month of Atrocities</h3>
 <sub>By Carlotta Gall and Oleksandr Chubko</sub>
 <p>Hours before Russian troops began withdrawing from the suburban town, a Russian soldier left a trail of blood and devastated lives in a last paroxysm of violence.  <a href="https://nyti.ms/3jH69DZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin Has a New Year’s Message. So Do His Critics, From Jail.</h3>
+<sub>By Anton Troianovski</sub>
+<p>Seasonal greetings from imprisoned opponents offered counterprogramming of a sort to the traditional end-of-year speech from President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/3IggRLB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Deadly Russian Strikes Hammer Ukraine on New Year’s Eve</h3>
@@ -125,18 +133,6 @@ On the sports front, Georgia defeated Ohio State with a last-minute touchdown, a
 <sub>By Billy Witz</sub>
 <p>Texas Christian returned two interceptions for touchdowns, just part of a zany back-and-forth upset of Michigan, 51-45, which put the Horned Frogs in the national championship game.  <a href="https://nyti.ms/3WAjOeo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Hottest Place to Network Is an Ice Bath</h3>
-<sub>By Alyson Krueger</sub>
-<p>“The amount of meetings is actually absurd, considering this is a spa.”  <a href="https://nyti.ms/3Z2Fce8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Christine Chun</sub>
-<p>A bright, infrared future for the Webb telescope. Also in this edition: the Tom Brady of other jobs and Mickey Mouse’s copyright journey.  <a href="https://nyti.ms/3G66k33"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
