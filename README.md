@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 1, Central Standard Time</p>
 <p>
-In 2021, the U.S. government has been pouring millions of dollars into the chip manufacturing industry in an effort to stay ahead in a tech cold war with China. At home, the nation continues to grapple with deep questions about the morality of abortion. In Ukraine, explosions rocked on New Year&#39;s Eve as part of the Russian invasion and we continue to see discrimination complaints filed against schools. In Mexico, some companies are starting to move their production away from China. In New York City, mayor Eric Adams is finding it tough to make progress on challenging issues. And in sports, Georgia beat Ohio State in a wild semifinal and Texas Christian upset Michigan 51-45, setting both teams up for a national championship game.</p>
+There&#39;s a lot going on in the world at the moment – from the tech cold war between the US and China to debates about when life begins to a Russian soldier&#39;s rampage in a small town in Ukraine. In the US, well, there&#39;s strife in schools, between those in favor of abortion and those against it, while US companies are investing heavily in chip production to keep up with demands. Meanwhile, Mexico is becoming an attractive area for international businesses looking to move away from China. At home there are big changes happening; newly elected congressman George Santos is set to be sworn in, while longtime Donald Trump-era lawmakers are leaving Congress.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>U.S. Pours Money Into Chips, but Even Soaring Spending Has Limits</h3>
@@ -86,12 +86,6 @@ In 2021, the U.S. government has been pouring millions of dollars into the chip 
 <p>Seasonal greetings from imprisoned opponents offered counterprogramming of a sort to the traditional end-of-year speech from President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/3IggRLB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Deadly Russian Strikes Hammer Ukraine on New Year’s Eve</h3>
-<sub>By Andrew E. Kramer and Anton Troianovski</sub>
-<p>Explosions hit the capital, Kyiv, and other cities on the final day of a year shaped by Russia’s invasion. Flanked by soldiers, Vladimir V. Putin called the invasion a “sacred duty” of Russians.  <a href="https://nyti.ms/3i5xBL8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Strife in the Schools: Education Dept. Logs Record Number of Discrimination Complaints</h3>
 <sub>By Erica L. Green</sub>
@@ -104,34 +98,40 @@ In 2021, the U.S. government has been pouring millions of dollars into the chip 
 <p>The average U.S. household wastes nearly a third of the food it buys. This community is nudging its residents to change their habits.  <a href="https://nyti.ms/3WEnZWK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Lula Becomes Brazil’s President, Bolsonaro Flees to Florida</h3>
+<sub>By Jack Nicas and André Spigariol</sub>
+<p>Brazil inaugurates its new president, Luiz Inácio Lula da Silva, on Sunday. Facing investigations, former President Jair Bolsonaro has taken refuge in Orlando.  <a href="https://nyti.ms/3GwzhGF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>‘OK, Mexico, Save Me’: After China, This Is Where Globalization May Lead</h3>
 <sub>By Peter S. Goodman</sub>
 <p>As American companies seek to limit their exposure to the pitfalls of making goods in China, some are moving production to Mexico.  <a href="https://nyti.ms/3YXeTGd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What TikTok Told Us About the Economy in 2022</h3>
+<sub>By Jeanna Smialek</sub>
+<p>From Barbiecore to revenge travel, social media trends gave us a clear picture of the forces reshaping the economy.  <a href="https://nyti.ms/3vrJwWv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Eric Adams Said He Wanted to ‘Get Stuff Done.’ Did He?</h3>
-<sub>By Emma G. Fitzsimmons and Jeffery C. Mays</sub>
-<p>In his first year as mayor, he focused his attention on fighting crime. But critics say he is not moving quickly enough to address New York City’s other urgent challenges.  <a href="https://nyti.ms/3Q6a4pM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As His Life of Fantasy Comes Into Focus, George Santos Goes to Washington</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>Mr. Santos, under scrutiny for lies about his background, is set to be sworn into Congress on Tuesday even as records, colleagues and friends divulge more about his past.  <a href="https://nyti.ms/3IlGBXj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Retiring Congress Members See Rough Roads Ahead. They Won’t Miss the Gridlock.</h3>
+<sub>By Emily Cochrane</sub>
+<p>Departing longtime lawmakers perceive little prospect of orderly business in a divided Congress. They’re taking with them decades of experience in the day-to-day work of keeping the government running.  <a href="https://nyti.ms/3G5gRvv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Invention of Elise Stefanik</h3>
 <sub>By Nicholas Confessore</sub>
 <p>To rise through the Trump-era G.O.P., a young congresswoman gave up her friends, her mentors and her ideals. Will it be enough?  <a href="https://nyti.ms/3Ie9S5U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Georgia Downs Ohio State in Semifinal on Last-Minute Touchdown</h3>
-<sub>By Alan Blinder</sub>
-<p>Georgia scored in the final minute of the game, and Ohio State missed a field goal in the first minute of 2023.  <a href="https://nyti.ms/3CfORnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>T.C.U. Upends Michigan in Wild Playoff Semifinal</h3>
-<sub>By Billy Witz</sub>
-<p>Texas Christian returned two interceptions for touchdowns, just part of a zany back-and-forth upset of Michigan, 51-45, which put the Horned Frogs in the national championship game.  <a href="https://nyti.ms/3WAjOeo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
