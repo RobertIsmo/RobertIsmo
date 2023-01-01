@@ -58,10 +58,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, December 31, Central Standard Time</p>
+<p>It is Sunday, January 1, Central Standard Time</p>
 <p>
-There have been a lot of big changes in the news recently. On the religious side of things, Pope Benedict XVI has passed away at 95, which is an unprecedented moment for the modern church because he was the first pope to resign in nearly 600 years. The response from Germany, his home country, has been mixed due to his involvement with the clergy sexual abuse scandal. Meanwhile, there&#39;s gathering tension between Russia and Ukraine, and unfortunately the year ended with violent explosions in Kyiv on New Year&#39;s Eve. On the domestic front here in the US, we&#39;ve got a conservative Congresswoman giving up her mentors and ideals to gain influence in the Trump-era GOP, as well as how skewed polls influenced false narratives leading up to the election. Finally, something a little more positive - teen pregnancies are dropping while childhood poverty is declining due to increased opportunity between generations!</p>
+In 2020, the world dealt with instability and upheaval. In Ukraine, there were Russian strikes on New Year&#39;s Eve that caused explosions in cities including the capital city of Kyiv. In Bucha, a Russian soldier left a trail of blood and devastation in a final rampage. Sadly, we also experienced the death of Pope Benedict XVI, a living pope presiding over the funeral of his predecessor. In the United States, elections were rife with skewed polls that led to ill-prepared candidates, while many dealt with the effects of Covid-19: isolation, loneliness and sadness. 2021 has begun with hope and optimism that it will turn out better than 2020.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Bucha, a Final Rampage Served as a Coda to a Month of Atrocities</h3>
+<sub>By Carlotta Gall and Oleksandr Chubko</sub>
+<p>Hours before Russian troops began withdrawing from the suburban town, a Russian soldier left a trail of blood and devastated lives in a last paroxysm of violence.  <a href="https://nyti.ms/3jH69DZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Deadly Russian Strikes Hammer Ukraine on New Year’s Eve</h3>
+<sub>By Andrew E. Kramer and Anton Troianovski</sub>
+<p>Explosions hit the capital, Kyiv, and other cities on the final day of a year shaped by Russia’s invasion. Flanked by soldiers, Vladimir V. Putin called the invasion a “sacred duty” of Russians.  <a href="https://nyti.ms/3i5xBL8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘I just don’t have words.’ Kyiv residents express fury at New Year’s Eve attacks.</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>The year ended much the same way it had gone for months, with air raid sirens, explosions and families rushing to find shelter.  <a href="https://nyti.ms/3YWxtOJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>With Benedict’s Death, an Unprecedented Moment for the Modern Church</h3>
 <sub>By Jason Horowitz and Elisabetta Povoledo</sub>
@@ -92,34 +110,10 @@ There have been a lot of big changes in the news recently. On the religious side
 <p>The errant surveys spooked some candidates into spending more money than necessary, and diverted help from others who otherwise had a fighting chance of winning.  <a href="https://nyti.ms/3Z06OAs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Deadly Russian Strikes Hammer Ukraine on New Year’s Eve</h3>
-<sub>By Andrew E. Kramer and Anton Troianovski</sub>
-<p>Explosions hit the capital, Kyiv, and other cities on the final day of a year shaped by Russia’s invasion. Flanked by soldiers, Vladimir V. Putin called the invasion a “sacred duty” of Russians.  <a href="https://nyti.ms/3i5xBL8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Speeches to Ukraine, and the World, Zelensky Shapes Narrative of the War</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>In a New Year’s Eve addresses to his people , the president  delivered a message meant to rouse his people and rally Ukraine’s allies.  <a href="https://nyti.ms/3IeVGJX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘I just don’t have words.’ Kyiv residents express fury at New Year’s Eve attacks.</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>The year ended much the same way it had gone for months, with air raid sirens, explosions and families rushing to find shelter.  <a href="https://nyti.ms/3YWxtOJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Their Mothers Were Teenagers. They Didn’t Want That for Themselves.</h3>
 <sub>By Jason DeParle</sub>
 <p>Teen pregnancies have plummeted, as has child poverty. The result is a profound change in the forces that bring opportunity between generations.  <a href="https://nyti.ms/3CcTxe5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Your Memories. Their Cloud.</h3>
-<sub>By Kashmir Hill</sub>
-<p>Google, Apple and Meta offer near-limitless digital basements in which to store photos, videos and important documents, but you should keep a copy of what you hold most dear.  <a href="https://nyti.ms/3Cg3Ttw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -132,6 +126,12 @@ There have been a lot of big changes in the news recently. On the religious side
 <h3>The State of the Midnight Kiss</h3>
 <sub>By Gina Cherelus</sub>
 <p>Has our modern era dimmed the appeal of making out with a stranger, or are people still eager to participate in the New Year’s Eve tradition?  <a href="https://nyti.ms/3Z2VPX2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-insider-blue" alt="">
+<h3>71 of Our Favorite Facts of 2022</h3>
+<sub>By Times Insider Staff and JooHee Yoon</sub>
+<p>Each day, Inside The Times Times Insider editors scour the newspaper for the most interesting facts to appear in articles. Here are facts that surprised, enlightened or entertained us this year.  <a href="https://nyti.ms/3jKdgez"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
