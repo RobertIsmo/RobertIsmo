@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 31, Central Standard Time</p>
 <p>
-In the world, Benedict XVI, the first modern pope to resign, recently passed away at age 95. His papacy was noted for his struggle with clergy sexual abuse scandals and his unexpected resignation. Germans are experiencing a range of emotions as they reflect on Benedict&#39;s life as the first German pope in over 400 years, who failed to properly handle sexual abuse scandals when he served in southern Germany. 
+Recently, the world experienced the passing of Benedict XVI, the first modern pope to resign from his position in 600 years. His death has caused an unprecedented moment for the Roman Catholic Church, with a living pope presiding over his funeral. People around the globe have responded to the news with mixed emotions, with Germany particularly affected given Benedict was the first German pope in 400 years.
 
-In the US, news has been dominated by the Republican congresswoman Elise Stefanik’s rise through the Trump era, and skewed polls led to a false election narrative. There have also been stories about teenage mothers who wanted to be better than their mothers, and a drop in child poverty thanks to their efforts. 
+Meanwhile, new political figures such as Elise Stefanik have been gaining traction while their attempts to rise through Trump-era politics are being heavily scrutinized by media. Additionally, polls used leading up to recent elections have caused some candidates to make bad decisions regarding their spending and strategies.
 
-In business and media, people have been reflecting on Barbara Waller’s legacy -the first woman to co-anchor the evening news- her struggle against her male counterparts and influence in modern TV templates. There have also been stories about cloud storage where people can store photos, videos and important documents safely. And finally there have been devastating reports of a student charged with 4 university killings in Idaho, though yet no motive has been identified.</p>
+Elsewhere in the world, relations between Russia and Ukraine remain tense following devastating strikes made by Russian forces in Ukraine on New Year&#39;s Eve. To rally his allies and his own people, Ukrainian president Zelensky gave multiple speeches on the matter. In response to these attacks, many Kyiv residents have expressed anger and shock over their government&#39;s inability to protect them from further harm.
+
+At home here in the U.S., teen pregnancies have dropped significantly due to better access to contraception and reduced child poverty rates are leading to a profound change of opportunity offered between generations. Additionally, close attention is currently being paid to companies such as Google, Apple and Meta who offer near-limitless digital basements for people to store important documents. Finally, there&#39;s some curiosity over the current state of midnight kissing and whether or not people are still eager to partake in this classic New Year&#39;s Eve tradition.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With Benedict’s Death, an Unprecedented Moment for the Modern Church</h3>
+<sub>By Jason Horowitz and Elisabetta Povoledo</sub>
+<p>Benedict stunned the Roman Catholic world by becoming the first pope in nearly 600 years to resign. Now his death leaves a living pope presiding over the funeral of his predecessor.  <a href="https://nyti.ms/3Z3hNcb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Benedict XVI, First Modern Pope to Resign, Dies at 95</h3>
 <sub>By Ian Fisher and Rachel Donadio</sub>
@@ -76,12 +84,6 @@ In business and media, people have been reflecting on Barbara Waller’s legacy 
 <h3>From Germans, an Outpouring of Mixed Emotions at Benedict XVI’s Death</h3>
 <sub>By Erika Solomon</sub>
 <p>He was the first German pope in over 400 years, but his legacy is marred by failures at handling sexual abuse scandals when he served in southern Germany.  <a href="https://nyti.ms/3Qd3yO7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Benedict was criticized for his handling of the church’s sex abuse scandal.</h3>
-<sub>By Elisabetta Povoledo</sub>
-<p>His efforts to rid the church of what he called “filth” went further than those of John Paul II, but he was reluctant to hold bishops accountable.  <a href="https://nyti.ms/3WQsqxc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -97,6 +99,18 @@ In business and media, people have been reflecting on Barbara Waller’s legacy 
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Deadly Russian Strikes Hammer Ukraine on New Year’s Eve</h3>
+<sub>By Andrew E. Kramer and Anton Troianovski</sub>
+<p>Explosions hit the capital, Kyiv, and other cities on the final day of a year shaped by Russia’s invasion. Flanked by soldiers, Vladimir V. Putin called the invasion a “sacred duty” of Russians.  <a href="https://nyti.ms/3i5xBL8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With Speeches to Ukraine, and the World, Zelensky Shapes Narrative of the War</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>In a New Year’s Eve address, the president delivered a message meant to rouse his people and rally Ukraine’s allies.  <a href="https://nyti.ms/3IeVGJX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘I just don’t have words.’ Kyiv residents express fury at New Year’s Eve attacks.</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>The year ended much the same way it had gone for months, with air raid sirens, explosions and families rushing to find shelter.  <a href="https://nyti.ms/3YWxtOJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -108,35 +122,23 @@ In business and media, people have been reflecting on Barbara Waller’s legacy 
 <p>Teen pregnancies have plummeted, as has child poverty. The result is a profound change in the forces that bring opportunity between generations.  <a href="https://nyti.ms/3CcTxe5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Barbara Walters Went From ‘Today Girl’ to Pioneering Media Star</h3>
-<sub>By Tiffany Hsu</sub>
-<p>The first woman to co-anchor the evening news, she endured the scorn of her male counterparts.  <a href="https://nyti.ms/3G7fZX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Barbara Walters, a First Among TV Newswomen, Is Dead at 93</h3>
-<sub>By Alessandra Stanley</sub>
-<p>She broke barriers for women as a co-host of the “Today” show, a network evening news anchor and a creator of “The View,” all while gaining her own kind of celebrity.  <a href="https://nyti.ms/3WyIDHC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Best of Barbara Walters</h3>
-<sub>By Jennifer Vineyard</sub>
-<p>Walters was a broadcasting trailblazer who helped develop many modern TV templates. Here are some of the most memorable moments from her influential career.  <a href="https://nyti.ms/3G8kS2g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Your Memories. Their Cloud.</h3>
 <sub>By Kashmir Hill</sub>
 <p>Google, Apple and Meta offer near-limitless digital basements in which to store photos, videos and important documents, but you should keep a copy of what you hold most dear.  <a href="https://nyti.ms/3Cg3Ttw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Criminology Student Is Charged in 4 University of Idaho Killings</h3>
-<sub>By Rachel Sun, Nicholas Bogel-Burroughs and Serge F. Kovaleski</sub>
-<p>The college town of Moscow, Idaho, has been reeling since the attack last month, but the police gave no motive for the murders.  <a href="https://nyti.ms/3GqAZZh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Readers Sent Us Pandemic Photos in 2020. Here’s How Their Lives Look Now.</h3>
+<sub>By Alicia Parlapiano, Emily Badger, Claire Cain Miller and Margot Sanger-Katz</sub>
+<p>Family reunions, play dates and holidays never looked so good. But for some, isolation and sadness linger.  <a href="https://nyti.ms/3Gv62UG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The State of the Midnight Kiss</h3>
+<sub>By Gina Cherelus</sub>
+<p>Has our modern era dimmed the appeal of making out with a stranger, or are people still eager to participate in the New Year’s Eve tradition?  <a href="https://nyti.ms/3Z2VPX2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
