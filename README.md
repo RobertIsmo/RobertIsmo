@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 31, Central Standard Time</p>
 <p>
-Recently, the world experienced the passing of Benedict XVI, the first modern pope to resign from his position in 600 years. His death has caused an unprecedented moment for the Roman Catholic Church, with a living pope presiding over his funeral. People around the globe have responded to the news with mixed emotions, with Germany particularly affected given Benedict was the first German pope in 400 years.
-
-Meanwhile, new political figures such as Elise Stefanik have been gaining traction while their attempts to rise through Trump-era politics are being heavily scrutinized by media. Additionally, polls used leading up to recent elections have caused some candidates to make bad decisions regarding their spending and strategies.
-
-Elsewhere in the world, relations between Russia and Ukraine remain tense following devastating strikes made by Russian forces in Ukraine on New Year&#39;s Eve. To rally his allies and his own people, Ukrainian president Zelensky gave multiple speeches on the matter. In response to these attacks, many Kyiv residents have expressed anger and shock over their government&#39;s inability to protect them from further harm.
-
-At home here in the U.S., teen pregnancies have dropped significantly due to better access to contraception and reduced child poverty rates are leading to a profound change of opportunity offered between generations. Additionally, close attention is currently being paid to companies such as Google, Apple and Meta who offer near-limitless digital basements for people to store important documents. Finally, there&#39;s some curiosity over the current state of midnight kissing and whether or not people are still eager to partake in this classic New Year&#39;s Eve tradition.</p>
+There have been a lot of big changes in the news recently. On the religious side of things, Pope Benedict XVI has passed away at 95, which is an unprecedented moment for the modern church because he was the first pope to resign in nearly 600 years. The response from Germany, his home country, has been mixed due to his involvement with the clergy sexual abuse scandal. Meanwhile, there&#39;s gathering tension between Russia and Ukraine, and unfortunately the year ended with violent explosions in Kyiv on New Year&#39;s Eve. On the domestic front here in the US, we&#39;ve got a conservative Congresswoman giving up her mentors and ideals to gain influence in the Trump-era GOP, as well as how skewed polls influenced false narratives leading up to the election. Finally, something a little more positive - teen pregnancies are dropping while childhood poverty is declining due to increased opportunity between generations!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>With Benedict’s Death, an Unprecedented Moment for the Modern Church</h3>
@@ -107,7 +101,7 @@ At home here in the U.S., teen pregnancies have dropped significantly due to bet
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>With Speeches to Ukraine, and the World, Zelensky Shapes Narrative of the War</h3>
 <sub>By Andrew E. Kramer</sub>
-<p>In a New Year’s Eve address, the president delivered a message meant to rouse his people and rally Ukraine’s allies.  <a href="https://nyti.ms/3IeVGJX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In a New Year’s Eve addresses to his people , the president  delivered a message meant to rouse his people and rally Ukraine’s allies.  <a href="https://nyti.ms/3IeVGJX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
