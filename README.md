@@ -60,14 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 1, Central Standard Time</p>
 <p>
-Right now, there is a lot of violence across the globe. In Bucha, Russia, a soldier went on a rampage just before the Russian troops left. On New Year&#39;s Eve, Russian strikes caused explosions in Ukraine, while people rushed to find shelter.
+There’s a lot going on in the world right now. In the U.S., we’re pouring money into tech, but even with huge investments, there may be limits to what can be done. A final rampage in Bucha left a trail of blood and devastation just hours before Russian troops withdrew from the town. And there have been a record number of discrimination complaints against schools this year that reflect the culture wars taking place in America. 
 
-Pope Benedict XVI, who was the first pope in 600 years to resign instead of dying in office, passed away recently. He was German and his legacy was marked somewhat by his association with the Catholic Church&#39;s struggles with sexual abuse scandals when he served in southern Germany. 
+In an effort to reduce food waste, central Ohio is encouraging its citizens to eat their leftovers, while American companies are moving away from China by producing goods in Mexico. Also, Eric Adams has been battling to lead as mayor of New York City this past year, but his quickness to address urgent challenges has been brought into question. 
 
-The US is experiencing morale shifts as well – young Congresswoman Elise Stefanik rose through the Trump-era GOP by giving up things like friends, mentors and ideals. There was also an &quot;election narrative,&quot; where poll results skewed to show wrong numbers which scared candidates into overspending and shifted help from those who needed it. Teen pregnancies have decreased here too, so it has created a different opportunity for younger generations.
-
-Finally, during the pandemic photos we&#39;ve seen family reunions, holiday celebrations, but unfortunately some are still struggling with isolation and sadness. In sports news, Georgia just downed Ohio State in the semifinal in a crazy last-minute touchdown.</p>
+On the sports front, Georgia defeated Ohio State with a last-minute touchdown, and T.C.U. upset Michigan in a wild playoff semifinal that resulted in a 51-45 score. Lastly, people are using ice baths as the hottest place to network, so that&#39;s something else to think about!</p>
 <ol>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>U.S. Pours Money Into Chips, but Even Soaring Spending Has Limits</h3>
+<sub>By Don Clark and Ana Swanson</sub>
+<p>Amid a tech cold war with China, U.S. companies have pledged nearly $200 billion for chip manufacturing projects since early 2020. But the investments are not a silver bullet.  <a href="https://nyti.ms/3WFd3rG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Bucha, a Final Rampage Served as a Coda to a Month of Atrocities</h3>
 <sub>By Carlotta Gall and Oleksandr Chubko</sub>
@@ -80,29 +84,29 @@ Finally, during the pandemic photos we&#39;ve seen family reunions, holiday cele
 <p>Explosions hit the capital, Kyiv, and other cities on the final day of a year shaped by Russia’s invasion. Flanked by soldiers, Vladimir V. Putin called the invasion a “sacred duty” of Russians.  <a href="https://nyti.ms/3i5xBL8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘I just don’t have words.’ Kyiv residents express fury at New Year’s Eve attacks.</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>The year ended much the same way it had gone for months, with air raid sirens, explosions and families rushing to find shelter.  <a href="https://nyti.ms/3YWxtOJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Strife in the Schools: Education Dept. Logs Record Number of Discrimination Complaints</h3>
+<sub>By Erica L. Green</sub>
+<p>Some of the highest-profile complaints show how America’s culture wars are affecting the nation’s children.  <a href="https://nyti.ms/3Z1DSIa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Benedict’s Death, an Unprecedented Moment for the Modern Church</h3>
-<sub>By Jason Horowitz and Elisabetta Povoledo</sub>
-<p>Benedict stunned the Roman Catholic world by becoming the first pope in nearly 600 years to resign. Now his death leaves a living pope presiding over the funeral of his predecessor.  <a href="https://nyti.ms/3Z3hNcb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-headway-blue" alt="">
+<h3>How Central Ohio Got People to Eat Their Leftovers</h3>
+<sub>By Susan Shain</sub>
+<p>The average U.S. household wastes nearly a third of the food it buys. This community is nudging its residents to change their habits.  <a href="https://nyti.ms/3WEnZWK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Benedict XVI, First Modern Pope to Resign, Dies at 95</h3>
-<sub>By Ian Fisher and Rachel Donadio</sub>
-<p>He defined a conservative course for the Roman Catholic Church, but his papacy was noted for his struggle with the clergy sexual abuse scandal and for his unexpected resignation.  <a href="https://nyti.ms/3i7n6XK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘OK, Mexico, Save Me’: After China, This Is Where Globalization May Lead</h3>
+<sub>By Peter S. Goodman</sub>
+<p>As American companies seek to limit their exposure to the pitfalls of making goods in China, some are moving production to Mexico.  <a href="https://nyti.ms/3YXeTGd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>From Germans, an Outpouring of Mixed Emotions at Benedict XVI’s Death</h3>
-<sub>By Erika Solomon</sub>
-<p>He was the first German pope in over 400 years, but his legacy is marred by failures at handling sexual abuse scandals when he served in southern Germany.  <a href="https://nyti.ms/3Qd3yO7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Eric Adams Said He Wanted to ‘Get Stuff Done.’ Did He?</h3>
+<sub>By Emma G. Fitzsimmons and Jeffery C. Mays</sub>
+<p>In his first year as mayor, he focused his attention on fighting crime. But critics say he is not moving quickly enough to address New York City’s other urgent challenges.  <a href="https://nyti.ms/3Q6a4pM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Invention of Elise Stefanik</h3>
@@ -110,22 +114,16 @@ Finally, during the pandemic photos we&#39;ve seen family reunions, holiday cele
 <p>To rise through the Trump-era G.O.P., a young congresswoman gave up her friends, her mentors and her ideals. Will it be enough?  <a href="https://nyti.ms/3Ie9S5U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The ‘Red Wave’ Washout: How Skewed Polls Fed a False Election Narrative</h3>
-<sub>By Jim Rutenberg, Ken Bensinger and Steve Eder</sub>
-<p>The errant surveys spooked some candidates into spending more money than necessary, and diverted help from others who otherwise had a fighting chance of winning.  <a href="https://nyti.ms/3Z06OAs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Georgia Downs Ohio State in Semifinal on Last-Minute Touchdown</h3>
+<sub>By Alan Blinder</sub>
+<p>Georgia scored in the final minute of the game, and Ohio State missed a field goal in the first minute of 2023.  <a href="https://nyti.ms/3CfORnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Their Mothers Were Teenagers. They Didn’t Want That for Themselves.</h3>
-<sub>By Jason DeParle</sub>
-<p>Teen pregnancies have plummeted, as has child poverty. The result is a profound change in the forces that bring opportunity between generations.  <a href="https://nyti.ms/3CcTxe5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Readers Sent Us Pandemic Photos in 2020. Here’s How Their Lives Look Now.</h3>
-<sub>By Alicia Parlapiano, Emily Badger, Claire Cain Miller and Margot Sanger-Katz</sub>
-<p>Family reunions, play dates and holidays never looked so good. But for some, isolation and sadness linger.  <a href="https://nyti.ms/3Gv62UG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>T.C.U. Upends Michigan in Wild Playoff Semifinal</h3>
+<sub>By Billy Witz</sub>
+<p>Texas Christian returned two interceptions for touchdowns, just part of a zany back-and-forth upset of Michigan, 51-45, which put the Horned Frogs in the national championship game.  <a href="https://nyti.ms/3WAjOeo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -134,11 +132,11 @@ Finally, during the pandemic photos we&#39;ve seen family reunions, holiday cele
 <p>“The amount of meetings is actually absurd, considering this is a spa.”  <a href="https://nyti.ms/3Z2Fce8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Georgia Downs Ohio State in Semifinal on Last-Minute Touchdown</h3>
-<sub>By Alan Blinder</sub>
-<p>Georgia scored in the final minute of the game, and Ohio State missed a field goal in the first minute of 2023.  <a href="https://nyti.ms/3CfORnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Christine Chun</sub>
+<p>A bright, infrared future for the Webb telescope. Also in this edition: the Tom Brady of other jobs and Mickey Mouse’s copyright journey.  <a href="https://nyti.ms/3G66k33"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
