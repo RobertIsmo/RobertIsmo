@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 2, Central Standard Time</p>
 <p>
-Right now, there are a lot of tensions and conflict around the world. In Ukraine, Russia has waged a war and it is causing global starvation by blocking most shipments from the country. Russia&#39;s invasion of Ukraine is helping its economy to become even more powerful, which could affect other countries like India. Closer to home, states with looser gun laws have less power to respond to people with high powered weapons in public places. China&#39;s economy is struggling after the Coronavirus lockdowns but it&#39;s youth elite are still striving for government jobs- which may not be all they imagined. In Arkansas, there has been an emergency curfew due to violence stemming from a gun death on Christmas Eve. On a happier note, thousands of people queued up to pay their respects at the Vatican in Rome for Pope Emeritus Benedict when he was lying in state. In Washington, a graduate student who has been caught telling lies about his backgroundcalled George Santos will be sworn into Congress this week. Finally, there has been an ongoing debate about when life begins, which is relevant for the nation&#39;s abortion debate. Oh and of course Pelé died this week- his native city of Santos in Brazil is mourning especially deeply as his friends , family and neighbours remembered him with great fondness.</p>
+There is a lot of political activity going on right now in Washington, DC. Representative Kevin McCarthy is trying to become the new speaker of the House, and some hard-right lawmakers are standing in his way. In addition, a man from Arkansas has been sworn into Congress despite rumors about his past. On an international level, Russia is at war with Ukraine which is causing global starvation and affecting India&#39;s growing economic and political power. There have also been instances of heavily armed individuals making public appearances which have forced states with permissive gun laws to confront their limits for when taking action is possible. In China, the rapid spread of the virus has brought economic hardship and affects those trying to get government jobs. Lastly, mourners having been paying homage to the Pope Emeritus in St Peter&#39;s Basilica as he lies in state.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy’s Bid for Speaker Remains in Peril Even After Key Concessions</h3>
+<sub>By Catie Edmondson</sub>
+<p>Representative Kevin McCarthy, Republican of California, is struggling to break through a wall of entrenched opposition from hard-right lawmakers even after agreeing to weaken his leadership power.  <a href="https://nyti.ms/3CgWSsm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here Are the House Republicans to Watch If McCarthy’s Bid For Speaker Falters</h3>
+<sub>By Catie Edmondson</sub>
+<p>Representative Kevin McCarthy has so far faced no viable challenger for the speakership. But if he is unable to secure the votes, an alternative could quickly emerge.  <a href="https://nyti.ms/3CgqQwR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>As His Life of Fantasy Comes Into Focus, George Santos Goes to Washington</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>Mr. Santos, under scrutiny for lies about his background, is set to be sworn into Congress on Tuesday even as records, colleagues and friends divulge more about his past.  <a href="https://nyti.ms/3IlGBXj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Russia’s War on Ukraine Is Worsening Global Starvation</h3>
 <sub>By Edward Wong and Ana Swanson</sub>
@@ -99,22 +117,10 @@ Right now, there are a lot of tensions and conflict around the world. In Ukraine
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Chance to Say Goodbye to Benedict Draws Thousands</h3>
+<h3>A Chance to Say Goodbye to Benedict Draws Tens of Thousands</h3>
 <sub>By Emma Bubola and Elisabetta Povoledo</sub>
-<p>The pope emeritus is lying in state in St. Peter’s Basilica, where a long line of mourners, including Roman Catholic faithful and tourists, waited to pray and to pay last respects.  <a href="https://nyti.ms/3GvDhaC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The pope emeritus is lying in state in St. Peter’s Basilica, where more than 40,000 mourners, including Roman Catholic faithful and tourists, had paid last respects by Monday afternoon.  <a href="https://nyti.ms/3GvDhaC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>As His Life of Fantasy Comes Into Focus, George Santos Goes to Washington</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>Mr. Santos, under scrutiny for lies about his background, is set to be sworn into Congress on Tuesday even as records, colleagues and friends divulge more about his past.  <a href="https://nyti.ms/3IlGBXj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When Does Life Begin?</h3>
-<sub>By Elizabeth Dias and Bethany Mollenkof</sub>
-<p>The question is at the heart of the human experience — and the nation’s abortion debate. An exploration through science, theology and philosophy.  <a href="https://nyti.ms/3WUcXwf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Idaho Murder Suspect Had Been a Student of the Criminal Mind</h3>
@@ -122,17 +128,11 @@ Right now, there are a lot of tensions and conflict around the world. In Ukraine
 <p>The arrest of a graduate student in the murder of four University of Idaho students eased fears but raised a troubling new question: What was the motive?  <a href="https://nyti.ms/3vtJDRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>My Uncle Taught Pelé Guitar: The Mourning Is Deeper in One City</h3>
-<sub>By Ana Ionova</sub>
-<p>While fans around the world grieve Pelé’s death, in Santos, Brazil, where he first made his mark, residents recall a friend and neighbor who never forgot them.  <a href="https://nyti.ms/3ChbCb3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>A Failed Speaker Vote for Kevin McCarthy Would Be a Historical Event</h3>
-<sub>By Brendan Buck</sub>
-<p>A small group of Republicans has promised to vote again Kevin McCarthy this week. Their opposition could throw the House into chaos not seen for a century.  <a href="https://nyti.ms/3GcYzZ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Man Who Made Spain the Magic Capital of the World</h3>
+<sub>By Shuja Haider</sub>
+<p>Inside the mind of Juan Tamariz, the godfather of close-up card magic.  <a href="https://nyti.ms/3WGehTy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
