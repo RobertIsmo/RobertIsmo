@@ -58,9 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, January 1, Central Standard Time</p>
+<p>It is Monday, January 2, Central Standard Time</p>
 <p>
-There has been a lot of news coming out of the world lately. In Brazil, former President Jair Bolsonaro has taken refuge in Florida while the current President Luiz Inácio Lula da Silva was inaugurated. Russia is making a big move in India and their invasion of Ukraine is having a huge effect on the global system. Ukraine has been facing relentless air strikes from Russian forces, with no end in sight. In response to the tech cold war with China, U.S companies have been investing nearly $200 billion into chip manufacturing since early 2021. Philosophical and theological debates about when life begins are at the center of the nation&#39;s abortion debate, as well as Congress members departing leaving little prospect of orderly business due to the gridlock among others. The average U.S household waste nearly a third of food bought, so Central Ohio is starting to nudge its residents to change their habits. A suspect accused of murdering four University of Idaho students had been studying criminal minds which raises more questions than answers concerning his motivations. Anita Pointer, who was a lead singer in the Pointer sister group, sadly passed away recently and in Massachusetts they are struggling with electric-green algae blooms due to climate change that could cost billions to fix. Finally, New York state just had their first female governor Kathy Hochul sworn in for a full term and she appealed for unity during her inauguration speech.</p>
+Right now, there are some major things going on around the world. In Brazil, they&#39;ve just inaugurated a new president, Luiz Inácio Lula da Silva, while former President Jair Bolsonaro is in Florida. Russia&#39;s invasion of Ukraine is beginning to have an impact on global influence and power dynamics. In the US, abortion debate is still raging, with tensions between different perspectives flaring up.
+
+At the same time, specific individual stories are taking shape in the news. George Santos—a man accused of lying about his past—is about to be sworn into Congress in spite of the controversy. There are also people retiring from Congress after a long service who are disappointed in the current level of gridlock.
+
+Other topics currently in the mainstream media include recovery from food waste and accomplishments from individuals like Anita Pointer—the lead singer of ‘The Pointer Sisters’ from the 80’s who has sadly passed away recently. There&#39;s also rising concern about climate change and its effects in places like Cape Cod, Massachusetts.
+
+Finally, for those ready for a positive outlook and new habits in the New Year, there are inspirational articles about trying out different kinds of workouts and thoughtfully considering Pope Benedict XVI&#39;s legacy.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Lula Becomes Brazil’s President, With Bolsonaro in Florida</h3>
@@ -73,18 +79,6 @@ There has been a lot of news coming out of the world lately. In Brazil, former P
 <sub>By Roger Cohen and Mauricio Lima</sub>
 <p>The invasion of Ukraine, compounding the effects of the pandemic, has contributed to the ascent of a giant that defies easy alignment. It could be the decisive force in a changing global system.  <a href="https://nyti.ms/3If810N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Airstrikes Leave Ukrainians Few Options but to Endure</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Ten months into the war, Ukraine has turned the tide in ground combat, but its cities are still facing relentless waves of missiles and exploding drones.  <a href="https://nyti.ms/3GuYGk6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>U.S. Pours Money Into Chips, but Even Soaring Spending Has Limits</h3>
-<sub>By Don Clark and Ana Swanson</sub>
-<p>Amid a tech cold war with China, U.S. companies have pledged nearly $200 billion for chip manufacturing projects since early 2020. But the investments are not a silver bullet.  <a href="https://nyti.ms/3Cdxtji"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>When Does Life Begin?</h3>
@@ -113,7 +107,13 @@ There has been a lot of news coming out of the world lately. In Brazil, former P
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Idaho Murder Suspect Had Been a Student of the Criminal Mind</h3>
 <sub>By Nicholas Bogel-Burroughs, Rachel Sun, Mike Baker and Serge F. Kovaleski</sub>
-<p>The arrest of Bryan Kohberger, now charged with murdering four University of Idaho students, eased fears but raised a troubling new question: What was the motive?  <a href="https://nyti.ms/3vtJDRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The arrest of a graduate student in the murder of four University of Idaho students eased fears but raised a troubling new question: What was the motive?  <a href="https://nyti.ms/3vtJDRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>U.S. Pours Money Into Chips, but Even Soaring Spending Has Limits</h3>
+<sub>By Don Clark and Ana Swanson</sub>
+<p>Amid a tech cold war with China, U.S. companies have pledged nearly $200 billion for chip manufacturing projects since early 2020. But the investments are not a silver bullet.  <a href="https://nyti.ms/3Cdxtji"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-obituaries-blue" alt="">
@@ -128,10 +128,16 @@ There has been a lot of news coming out of the world lately. In Brazil, former P
 <p>Climate change is contributing to electric-green algae blooms. Massachusetts wants a cleanup of the antiquated septic systems feeding the mess, but it could cost billions.  <a href="https://nyti.ms/3GxPaNd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>At Inauguration, Hochul Vows to Make New York Safer and More Affordable</h3>
-<sub>By Luis Ferré-Sadurní and Jesse McKinley</sub>
-<p>Gov. Kathy Hochul, the first woman to be sworn in for a full term as New York State governor, appealed for unity.  <a href="https://nyti.ms/3WHCSaS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>12 Workouts to Try in 2023</h3>
+<sub>By Erik Vance</sub>
+<p>This year, resolve to create a stable fitness routine out of whatever you enjoy most.  <a href="https://nyti.ms/3VEcTQ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The First Afterlife of Pope Benedict XVI</h3>
+<sub>By Ross Douthat</sub>
+<p>Pope Benedict’s legacy will be felt across decades or even centuries.   <a href="https://nyti.ms/3vwnvWM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
