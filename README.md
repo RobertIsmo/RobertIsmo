@@ -60,16 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 2, Central Standard Time</p>
 <p>
-There&#39;s a lot of upheaval and unrest around the world right now, from wars to economic recessions. In Russia, attacks on Ukraine&#39;s energy grid have caused global starvation due to disrupted wheat shipments from one of the world&#39;s largest producers. India is quickly becoming a giant world force and larger player in a changing global system. 
-
-Here in the US, gun laws are being tested in some states where heavily-armed individuals cause fear or panic in public. Meanwhile, China is dealing with an economic crisis resulting from years of lockdowns and pandemic outbreaks. There are high levels of youth unemployment, leading many to take crucial exams for government jobs which can become monotonous and blur the line between personal and professional lives.
-
-One small town in Arkansas is facing crime related fears and dread, while Brazil just inaugurated its new president, Luiz Inácio Lula da Silva, while their former president takes refuge in Florida.
-
-In Washington, a member of Congress is under scrutiny for lying about his background, and here in the US we&#39;re seeing debates over when life actually begins as it pertains to our nation&#39;s abortion debate. Finally, sports fans are grieving the death of Pelé - particularly those from Santos, Brazil - who remember him as a friend and neighbor who never forgot where he came from.</p>
+Right now, there are a lot of tensions and conflict around the world. In Ukraine, Russia has waged a war and it is causing global starvation by blocking most shipments from the country. Russia&#39;s invasion of Ukraine is helping its economy to become even more powerful, which could affect other countries like India. Closer to home, states with looser gun laws have less power to respond to people with high powered weapons in public places. China&#39;s economy is struggling after the Coronavirus lockdowns but it&#39;s youth elite are still striving for government jobs- which may not be all they imagined. In Arkansas, there has been an emergency curfew due to violence stemming from a gun death on Christmas Eve. On a happier note, thousands of people queued up to pay their respects at the Vatican in Rome for Pope Emeritus Benedict when he was lying in state. In Washington, a graduate student who has been caught telling lies about his backgroundcalled George Santos will be sworn into Congress this week. Finally, there has been an ongoing debate about when life begins, which is relevant for the nation&#39;s abortion debate. Oh and of course Pelé died this week- his native city of Santos in Brazil is mourning especially deeply as his friends , family and neighbours remembered him with great fondness.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Russia’s War on Ukraine Worsens Global Starvation</h3>
+<h3>How Russia’s War on Ukraine Is Worsening Global Starvation</h3>
 <sub>By Edward Wong and Ana Swanson</sub>
 <p>Moscow blocks most shipments from Ukraine, one of the world’s largest wheat producers, and its attacks on the country’s energy grid also disrupt the flow of food.  <a href="https://nyti.ms/3GxOZ4o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
@@ -83,7 +77,7 @@ In Washington, a member of Congress is under scrutiny for lying about his backgr
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Heavily Armed Man Caused Panic at a Supermarket. But Did He Break the Law?</h3>
 <sub>By Richard Fausset</sub>
-<p>In states with permissive gun laws, police and prosecutors have limited tools at their disposal when a heavily armed individual sows fear or panic in public.  <a href="https://nyti.ms/3Zh712v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In states with permissive gun laws, police and prosecutors have limited tools at their disposal when a heavily armed individual sows fear or panic in public.  <a href="https://nyti.ms/3VD7NDB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -101,14 +95,14 @@ In Washington, a member of Congress is under scrutiny for lying about his backgr
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In a Small Arkansas City, Crime, Dread and an Emergency Curfew</h3>
 <sub>By Rick Rojas</sub>
-<p>A gun death on Christmas Eve crystallized the fear and frustration over violence that had been building in Eudora, Ark., a city of 1,700, for months.  <a href="https://nyti.ms/3XfFnkD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A gun death on Christmas Eve crystallized the fear and frustration over violence that had been building in Eudora, Ark., a city of 1,700, for months.  <a href="https://nyti.ms/3Qahmsx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Lula Becomes Brazil’s President, With Bolsonaro in Florida</h3>
-<sub>By Jack Nicas and André Spigariol</sub>
-<p>Brazil inaugurates its new president, Luiz Inácio Lula da Silva, on Sunday. Facing investigations, former President Jair Bolsonaro has taken refuge in Orlando.  <a href="https://nyti.ms/3GwzhGF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<h3>A Chance to Say Goodbye to Benedict Draws Thousands</h3>
+<sub>By Emma Bubola and Elisabetta Povoledo</sub>
+<p>The pope emeritus is lying in state in St. Peter’s Basilica, where a long line of mourners, including Roman Catholic faithful and tourists, waited to pray and to pay last respects.  <a href="https://nyti.ms/3GvDhaC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>As His Life of Fantasy Comes Into Focus, George Santos Goes to Washington</h3>
