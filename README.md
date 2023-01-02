@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 2, Central Standard Time</p>
 <p>
-There is a lot of political activity going on right now in Washington, DC. Representative Kevin McCarthy is trying to become the new speaker of the House, and some hard-right lawmakers are standing in his way. In addition, a man from Arkansas has been sworn into Congress despite rumors about his past. On an international level, Russia is at war with Ukraine which is causing global starvation and affecting India&#39;s growing economic and political power. There have also been instances of heavily armed individuals making public appearances which have forced states with permissive gun laws to confront their limits for when taking action is possible. In China, the rapid spread of the virus has brought economic hardship and affects those trying to get government jobs. Lastly, mourners having been paying homage to the Pope Emeritus in St Peter&#39;s Basilica as he lies in state.</p>
+Right now, there is a lot going on in the world. In the US, Representative Kevin McCarthy is facing difficulty securing votes for Speaker, and a heavily armed man at a supermarket has sparked debate about gun laws. Over in Europe, Russia&#39;s actions in Ukraine have temporarily worsened global starvation and given India more power in the global system. Meanwhile, President Biden has been enacting policies which could reshape the US economy, and a suspect in New York was driven to extremism by Islamic beliefs. In China, the Covid pandemic has affected businesses and the economy is having troubles with recovery. The government jobs sector is also seeing an influx of people wanting to work there, but some are coming to regret it due to monotonous work blurring lines between personal and work life. Finally, Spain is gaining attention for its close-up card magic performers, led by Juan Tamariz, who is known as the godfather of the craft.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy’s Bid for Speaker Remains in Peril Even After Key Concessions</h3>
@@ -69,7 +69,7 @@ There is a lot of political activity going on right now in Washington, DC. Repre
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Are the House Republicans to Watch If McCarthy’s Bid For Speaker Falters</h3>
+<h3>Here Are the House Republicans to Watch if McCarthy’s Bid for Speaker Falters</h3>
 <sub>By Catie Edmondson</sub>
 <p>Representative Kevin McCarthy has so far faced no viable challenger for the speakership. But if he is unable to secure the votes, an alternative could quickly emerge.  <a href="https://nyti.ms/3CgqQwR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
@@ -99,6 +99,18 @@ There is a lot of political activity going on right now in Washington, DC. Repre
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Biden Caps Two Years of Action on the Economy, With New Challenges Ahead</h3>
+<sub>By Jim Tankersley</sub>
+<p>The president used a slim congressional majority to enact legislation that could reshape the American economy — if his administration can make the laws succeed.  <a href="https://nyti.ms/3WHkY7V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Islamic Extremism Drove Suspect in Times Square Attack, Official Says</h3>
+<sub>By Andy Newman and Mihir Zaveri</sub>
+<p>Trevor Bickford, a 19-year-old man from Maine, had recently become radicalized and traveled to New York to attack the police, according to a law enforcement official.  <a href="https://nyti.ms/3QbcFPa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why China’s Economy Faces a Perilous Road to Recovery</h3>
 <sub>By Keith Bradsher</sub>
 <p>Years of lockdowns took a brutal toll on businesses. Now, the rapid spread of Covid after a chaotic reopening has deprived them of workers and customers.  <a href="https://nyti.ms/3YXJDXz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -110,23 +122,11 @@ There is a lot of political activity going on right now in Washington, DC. Repre
 <p>With youth unemployment high, millions will take this month’s Civil Service exam. But for those who get jobs, the reality can be monotonous work that blurs the line with personal lives.  <a href="https://nyti.ms/3G6c90x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In a Small Arkansas City, Crime, Dread and an Emergency Curfew</h3>
-<sub>By Rick Rojas</sub>
-<p>A gun death on Christmas Eve crystallized the fear and frustration over violence that had been building in Eudora, Ark., a city of 1,700, for months.  <a href="https://nyti.ms/3Qahmsx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Chance to Say Goodbye to Benedict Draws Tens of Thousands</h3>
-<sub>By Emma Bubola and Elisabetta Povoledo</sub>
-<p>The pope emeritus is lying in state in St. Peter’s Basilica, where more than 40,000 mourners, including Roman Catholic faithful and tourists, had paid last respects by Monday afternoon.  <a href="https://nyti.ms/3GvDhaC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>To Buff a Balkan Leader’s Image, a Filmmaker Calls In Kevin Spacey</h3>
+<sub>By Andrew Higgins</sub>
+<p>A director cast the beleaguered actor as Franjo Tudjman, the late Croatian leader, whom some call a patriot and others revile as an ethnonationalist zealot.  <a href="https://nyti.ms/3G4upr0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Idaho Murder Suspect Had Been a Student of the Criminal Mind</h3>
-<sub>By Nicholas Bogel-Burroughs, Rachel Sun, Mike Baker and Serge F. Kovaleski</sub>
-<p>The arrest of a graduate student in the murder of four University of Idaho students eased fears but raised a troubling new question: What was the motive?  <a href="https://nyti.ms/3vtJDRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Man Who Made Spain the Magic Capital of the World</h3>
