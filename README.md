@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 1, Central Standard Time</p>
 <p>
-There&#39;s some important news to catch up on! A lot has been happening this month, especially when it comes to tech and global issues. In the US, a debate over the beginning of life is still ongoing, while in Russia there have been a final rampage and the inauguration of a new president. Many retiring members of Congress have noticed the gridlock and won&#39;t miss it, but will face rough roads ahead. In Brazil, Luiz Inácio Lula da Silva was inaugurated as president while Jair Bolsonaro has taken refuge in Florida. Elsewhere, Central Ohio is trying to get people to reduce food waste, and Idaho is searching for a motive in a murder suspect&#39;s case. Climate change is also affecting parts of the US like Cape Cod with electric-green algae blooms. Lastly, Elise Stefanik made headlines for rising quickly through the Trump-era GOP by giving up her ideals.</p>
+There are a lot of interesting things happening in the world right now. In Brazil, Luiz Inácio Lula da Silva was just sworn in as the new president, while former president Jair Bolsonaro has taken refuge in Florida. Meanwhile, amid a tech war with China, US companies have poured nearly $200 billion into chip manufacturing projects. Closer to home, the question of when life begins continues to be at the heart of the US abortion debate. In Bucha, Russia, a soldier went on a final rampage before Russian troops withdrew from the town. It took ten months before Ukraine could turn the tide in its ground combat against Russia, but its cities still face missile attacks and exploding drones. In Washington DC, a man named George Santos is set to be sworn into Congress for his second term despite some lies about his past coming to light. A few retiring Congress members expressed their frustrations over the intense gridlock but leave with decades of experience in how our government works beneath it all. Over in Ohio, they’ve been working on reducing food waste by getting people to eat their leftovers. And finally, back here in New York State our new Governor Kathy Hochul was just inaugurated. She made an appeal for unity and looks forward to making New York safer and more affordable for everyone.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Lula Becomes Brazil’s President, With Bolsonaro in Florida</h3>
+<sub>By Jack Nicas and André Spigariol</sub>
+<p>Brazil inaugurates its new president, Luiz Inácio Lula da Silva, on Sunday. Facing investigations, former President Jair Bolsonaro has taken refuge in Orlando.  <a href="https://nyti.ms/3GwzhGF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>U.S. Pours Money Into Chips, but Even Soaring Spending Has Limits</h3>
 <sub>By Don Clark and Ana Swanson</sub>
@@ -81,12 +87,6 @@ There&#39;s some important news to catch up on! A lot has been happening this mo
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Has a New Year’s Message. So Do His Critics, From Jail.</h3>
-<sub>By Anton Troianovski</sub>
-<p>Seasonal greetings from imprisoned opponents offered counterprogramming of a sort to the traditional end-of-year speech from President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/3IggRLB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russian Airstrikes Leave Ukrainians Few Options but to Endure</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>Ten months into the war, Ukraine has turned the tide in ground combat, but its cities are still facing relentless waves of missiles and exploding drones.  <a href="https://nyti.ms/3GuYGk6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -104,12 +104,6 @@ There&#39;s some important news to catch up on! A lot has been happening this mo
 <p>Departing longtime lawmakers perceive little prospect of orderly business in a divided Congress. They’re taking with them decades of experience in the day-to-day work of keeping the government running.  <a href="https://nyti.ms/3G5gRvv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Lula Becomes Brazil’s President, With Bolsonaro in Florida</h3>
-<sub>By Jack Nicas and André Spigariol</sub>
-<p>Brazil inaugurates its new president, Luiz Inácio Lula da Silva, on Sunday. Facing investigations, former President Jair Bolsonaro has taken refuge in Orlando.  <a href="https://nyti.ms/3GwzhGF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-headway-blue" alt="">
 <h3>How Central Ohio Got People to Eat Their Leftovers</h3>
 <sub>By Susan Shain</sub>
@@ -122,17 +116,23 @@ There&#39;s some important news to catch up on! A lot has been happening this mo
 <p>The arrest of Bryan Kohberger, now charged with murdering four University of Idaho students, eased fears but raised a troubling new question: What was the motive?  <a href="https://nyti.ms/3vtJDRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>Anita Pointer, Frequent Lead Singer of Famed Sister Act, Dies at 74</h3>
+<sub>By Alex Traub</sub>
+<p>She was the lead vocalist on all three of the Pointer Sisters’ Top 40 hits in the group’s early years, and she helped define its pop sound in the 1980s.  <a href="https://nyti.ms/3i40TtB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Stinky Stew on Cape Cod: Human Waste and Warming Water</h3>
+<h3>A Toxic Stew on Cape Cod: Human Waste and Warming Water</h3>
 <sub>By Christopher Flavelle and Sophie Park</sub>
 <p>Climate change is contributing to electric-green algae blooms. Massachusetts wants a cleanup of the antiquated septic systems feeding the mess, but it could cost billions.  <a href="https://nyti.ms/3GxPaNd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Invention of Elise Stefanik</h3>
-<sub>By Nicholas Confessore</sub>
-<p>To rise through the Trump-era G.O.P., a young congresswoman gave up her friends, her mentors and her ideals. Will it be enough?  <a href="https://nyti.ms/3Ie9S5U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>At Inauguration, Hochul Vows to Make New York Safer and More Affordable</h3>
+<sub>By Luis Ferré-Sadurní and Jesse McKinley</sub>
+<p>Gov. Kathy Hochul, the first woman to be sworn in for a full term as New York State governor, appealed for unity.  <a href="https://nyti.ms/3WHCSaS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
