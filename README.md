@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 1, Central Standard Time</p>
 <p>
-There are a lot of interesting things happening in the world right now. In Brazil, Luiz Inácio Lula da Silva was just sworn in as the new president, while former president Jair Bolsonaro has taken refuge in Florida. Meanwhile, amid a tech war with China, US companies have poured nearly $200 billion into chip manufacturing projects. Closer to home, the question of when life begins continues to be at the heart of the US abortion debate. In Bucha, Russia, a soldier went on a final rampage before Russian troops withdrew from the town. It took ten months before Ukraine could turn the tide in its ground combat against Russia, but its cities still face missile attacks and exploding drones. In Washington DC, a man named George Santos is set to be sworn into Congress for his second term despite some lies about his past coming to light. A few retiring Congress members expressed their frustrations over the intense gridlock but leave with decades of experience in how our government works beneath it all. Over in Ohio, they’ve been working on reducing food waste by getting people to eat their leftovers. And finally, back here in New York State our new Governor Kathy Hochul was just inaugurated. She made an appeal for unity and looks forward to making New York safer and more affordable for everyone.</p>
+There has been a lot of news coming out of the world lately. In Brazil, former President Jair Bolsonaro has taken refuge in Florida while the current President Luiz Inácio Lula da Silva was inaugurated. Russia is making a big move in India and their invasion of Ukraine is having a huge effect on the global system. Ukraine has been facing relentless air strikes from Russian forces, with no end in sight. In response to the tech cold war with China, U.S companies have been investing nearly $200 billion into chip manufacturing since early 2021. Philosophical and theological debates about when life begins are at the center of the nation&#39;s abortion debate, as well as Congress members departing leaving little prospect of orderly business due to the gridlock among others. The average U.S household waste nearly a third of food bought, so Central Ohio is starting to nudge its residents to change their habits. A suspect accused of murdering four University of Idaho students had been studying criminal minds which raises more questions than answers concerning his motivations. Anita Pointer, who was a lead singer in the Pointer sister group, sadly passed away recently and in Massachusetts they are struggling with electric-green algae blooms due to climate change that could cost billions to fix. Finally, New York state just had their first female governor Kathy Hochul sworn in for a full term and she appealed for unity during her inauguration speech.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Lula Becomes Brazil’s President, With Bolsonaro in Florida</h3>
 <sub>By Jack Nicas and André Spigariol</sub>
 <p>Brazil inaugurates its new president, Luiz Inácio Lula da Silva, on Sunday. Facing investigations, former President Jair Bolsonaro has taken refuge in Orlando.  <a href="https://nyti.ms/3GwzhGF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia’s War Could Make It India’s World</h3>
+<sub>By Roger Cohen and Mauricio Lima</sub>
+<p>The invasion of Ukraine, compounding the effects of the pandemic, has contributed to the ascent of a giant that defies easy alignment. It could be the decisive force in a changing global system.  <a href="https://nyti.ms/3If810N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Airstrikes Leave Ukrainians Few Options but to Endure</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Ten months into the war, Ukraine has turned the tide in ground combat, but its cities are still facing relentless waves of missiles and exploding drones.  <a href="https://nyti.ms/3GuYGk6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -79,18 +91,6 @@ There are a lot of interesting things happening in the world right now. In Brazi
 <sub>By Elizabeth Dias and Bethany Mollenkof</sub>
 <p>The question is at the heart of the human experience — and the nation’s abortion debate. An exploration through science, theology and philosophy.  <a href="https://nyti.ms/3WUcXwf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Bucha, a Final Rampage Served as a Coda to a Month of Atrocities</h3>
-<sub>By Carlotta Gall and Oleksandr Chubko</sub>
-<p>Hours before Russian troops began withdrawing from the suburban town, a Russian soldier left a trail of blood and devastated lives in a last paroxysm of violence.  <a href="https://nyti.ms/3jH69DZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Airstrikes Leave Ukrainians Few Options but to Endure</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Ten months into the war, Ukraine has turned the tide in ground combat, but its cities are still facing relentless waves of missiles and exploding drones.  <a href="https://nyti.ms/3GuYGk6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>As His Life of Fantasy Comes Into Focus, George Santos Goes to Washington</h3>
