@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 2, Central Standard Time</p>
 <p>
-Currently, Brazil has inaugurated its new president, Luiz Inácio Lula da Silva, while its former president, Jair Bolsonaro, has fled to Florida amidst investigations into his actions. Meanwhile in Russia, the invasion of Ukraine and the pandemic have caused them to become a major global force. In the U.S., there is a great debate about when life begins and what it means for abortion rights. George Santos has been sworn into Congress even though records are revealing more of his past; there are also many retiring Congress members who have noticed how split the body is in terms of ideology. In Central Ohio, people are slowly beginning to take steps to reduce their food waste. Moreover, Idaho has arrested a graduate student for the murder of four university students and is still trying to uncover the motive. Meanwhile, the U.S. government is heavily investing in resources like chips manufacturing but it is not the panacea for all tech cold war-related issues with China. Anita Pointer of the Pointer Sisters passed away recently aged 74 leaving a lasting legacy on pop music in the 80&#39;s; Cape Cod is also facing toxic algae blooms due to climate change as well as antiquated septic systems that could cost billions to clean up. On a brighter note, hopefully you can make some resolutions for 2023 that revolve around fitness and wellness. Lastly, Pope Benedict XVI has left behind an Afterlife and it will be felt across decades or even centuries to come.</p>
+There&#39;s a lot of upheaval and unrest around the world right now, from wars to economic recessions. In Russia, attacks on Ukraine&#39;s energy grid have caused global starvation due to disrupted wheat shipments from one of the world&#39;s largest producers. India is quickly becoming a giant world force and larger player in a changing global system. 
+
+Here in the US, gun laws are being tested in some states where heavily-armed individuals cause fear or panic in public. Meanwhile, China is dealing with an economic crisis resulting from years of lockdowns and pandemic outbreaks. There are high levels of youth unemployment, leading many to take crucial exams for government jobs which can become monotonous and blur the line between personal and professional lives.
+
+One small town in Arkansas is facing crime related fears and dread, while Brazil just inaugurated its new president, Luiz Inácio Lula da Silva, while their former president takes refuge in Florida.
+
+In Washington, a member of Congress is under scrutiny for lying about his background, and here in the US we&#39;re seeing debates over when life actually begins as it pertains to our nation&#39;s abortion debate. Finally, sports fans are grieving the death of Pelé - particularly those from Santos, Brazil - who remember him as a friend and neighbor who never forgot where he came from.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Lula Becomes Brazil’s President, With Bolsonaro in Florida</h3>
-<sub>By Jack Nicas and André Spigariol</sub>
-<p>Brazil inaugurates its new president, Luiz Inácio Lula da Silva, on Sunday. Facing investigations, former President Jair Bolsonaro has taken refuge in Orlando.  <a href="https://nyti.ms/3GwzhGF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Russia’s War on Ukraine Worsens Global Starvation</h3>
+<sub>By Edward Wong and Ana Swanson</sub>
+<p>Moscow blocks most shipments from Ukraine, one of the world’s largest wheat producers, and its attacks on the country’s energy grid also disrupt the flow of food.  <a href="https://nyti.ms/3GxOZ4o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia’s War Could Make It India’s World</h3>
@@ -75,10 +81,34 @@ Currently, Brazil has inaugurated its new president, Luiz Inácio Lula da Silva,
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When Does Life Begin?</h3>
-<sub>By Elizabeth Dias and Bethany Mollenkof</sub>
-<p>The question is at the heart of the human experience — and the nation’s abortion debate. An exploration through science, theology and philosophy.  <a href="https://nyti.ms/3WUcXwf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<h3>A Heavily Armed Man Caused Panic at a Supermarket. But Did He Break the Law?</h3>
+<sub>By Richard Fausset</sub>
+<p>In states with permissive gun laws, police and prosecutors have limited tools at their disposal when a heavily armed individual sows fear or panic in public.  <a href="https://nyti.ms/3Zh712v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why China’s Economy Faces a Perilous Road to Recovery</h3>
+<sub>By Keith Bradsher</sub>
+<p>Years of lockdowns took a brutal toll on businesses. Now, the rapid spread of Covid after a chaotic reopening has deprived them of workers and customers.  <a href="https://nyti.ms/3YXJDXz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Young Elite Clamber for Government Jobs. Some Come to Regret It.</h3>
+<sub>By Claire Fu</sub>
+<p>With youth unemployment high, millions will take this month’s Civil Service exam. But for those who get jobs, the reality can be monotonous work that blurs the line with personal lives.  <a href="https://nyti.ms/3G6c90x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In a Small Arkansas City, Crime, Dread and an Emergency Curfew</h3>
+<sub>By Rick Rojas</sub>
+<p>A gun death on Christmas Eve crystallized the fear and frustration over violence that had been building in Eudora, Ark., a city of 1,700, for months.  <a href="https://nyti.ms/3XfFnkD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Lula Becomes Brazil’s President, With Bolsonaro in Florida</h3>
+<sub>By Jack Nicas and André Spigariol</sub>
+<p>Brazil inaugurates its new president, Luiz Inácio Lula da Silva, on Sunday. Facing investigations, former President Jair Bolsonaro has taken refuge in Orlando.  <a href="https://nyti.ms/3GwzhGF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>As His Life of Fantasy Comes Into Focus, George Santos Goes to Washington</h3>
@@ -87,16 +117,10 @@ Currently, Brazil has inaugurated its new president, Luiz Inácio Lula da Silva,
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Retiring Congress Members See Rough Roads Ahead. They Won’t Miss the Gridlock.</h3>
-<sub>By Emily Cochrane</sub>
-<p>Departing longtime lawmakers perceive little prospect of orderly business in a divided Congress. They’re taking with them decades of experience in the day-to-day work of keeping the government running.  <a href="https://nyti.ms/3G5gRvv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-headway-blue" alt="">
-<h3>How Central Ohio Got People to Eat Their Leftovers</h3>
-<sub>By Susan Shain</sub>
-<p>The average U.S. household wastes nearly a third of the food it buys. This community is nudging its residents to change their habits.  <a href="https://nyti.ms/3WEnZWK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<h3>When Does Life Begin?</h3>
+<sub>By Elizabeth Dias and Bethany Mollenkof</sub>
+<p>The question is at the heart of the human experience — and the nation’s abortion debate. An exploration through science, theology and philosophy.  <a href="https://nyti.ms/3WUcXwf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Idaho Murder Suspect Had Been a Student of the Criminal Mind</h3>
@@ -104,35 +128,17 @@ Currently, Brazil has inaugurated its new president, Luiz Inácio Lula da Silva,
 <p>The arrest of a graduate student in the murder of four University of Idaho students eased fears but raised a troubling new question: What was the motive?  <a href="https://nyti.ms/3vtJDRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>U.S. Pours Money Into Chips, but Even Soaring Spending Has Limits</h3>
-<sub>By Don Clark and Ana Swanson</sub>
-<p>Amid a tech cold war with China, U.S. companies have pledged nearly $200 billion for chip manufacturing projects since early 2020. But the investments are not a silver bullet.  <a href="https://nyti.ms/3Cdxtji"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
-<h3>Anita Pointer, Frequent Lead Singer of Famed Sister Act, Dies at 74</h3>
-<sub>By Alex Traub</sub>
-<p>She was the lead vocalist on all three of the Pointer Sisters’ Top 40 hits in the group’s early years, and she helped define its pop sound in the 1980s.  <a href="https://nyti.ms/3i40TtB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Toxic Stew on Cape Cod: Human Waste and Warming Water</h3>
-<sub>By Christopher Flavelle and Sophie Park</sub>
-<p>Climate change is contributing to electric-green algae blooms. Massachusetts wants a cleanup of the antiquated septic systems feeding the mess, but it could cost billions.  <a href="https://nyti.ms/3GxPaNd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>12 Workouts to Try in 2023</h3>
-<sub>By Erik Vance</sub>
-<p>This year, resolve to create a stable fitness routine out of whatever you enjoy most.  <a href="https://nyti.ms/3VEcTQ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>My Uncle Taught Pelé Guitar: The Mourning Is Deeper in One City</h3>
+<sub>By Ana Ionova</sub>
+<p>While fans around the world grieve Pelé’s death, in Santos, Brazil, where he first made his mark, residents recall a friend and neighbor who never forgot them.  <a href="https://nyti.ms/3ChbCb3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The First Afterlife of Pope Benedict XVI</h3>
-<sub>By Ross Douthat</sub>
-<p>Pope Benedict’s legacy will be felt across decades or even centuries.   <a href="https://nyti.ms/3vwnvWM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<h3>A Failed Speaker Vote for Kevin McCarthy Would Be a Historical Event</h3>
+<sub>By Brendan Buck</sub>
+<p>A small group of Republicans has promised to vote again Kevin McCarthy this week. Their opposition could throw the House into chaos not seen for a century.  <a href="https://nyti.ms/3GcYzZ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
