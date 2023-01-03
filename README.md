@@ -58,14 +58,44 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, January 2, Central Standard Time</p>
+<p>It is Tuesday, January 3, Central Standard Time</p>
 <p>
-It feels like there&#39;s a lot going on in the world right now. Recently, the Jan. 6 committee released a flurry of documents about their investigation, and Representative Kevin McCarthy is struggling to become Speaker of the House. In Brazil, authorities are reviving a fraud case against George Santos from 2008. In Ukraine, there was a deadly strike on Russian nationals that was blamed on Moscow&#39;s military failings. An NFL game was postponed after a player collapsed on the field, and people are debating if an armed man with a gun in a supermarket caused panic illegally or not. On a lighter note, U.S. News &amp; World Report is changing its ranking system after law schools boycotted it, and we&#39;re learning about Juan Tamariz - the godfather of close-up card magic - and his art in Spain. Lastly, choreography on the ground has been helping meals reach the sky too! It&#39;s just an interesting mix of news all around!</p>
+In the world right now, there&#39;s a lot going on. In Ukraine, a deadly strike targeted Russians and has exposed their military failings. Meanwhile, in Romania, U.S. troops are training near Russia&#39;s war in an attempt to send a signal to Moscow. Back on the home front in the U.S., the Jan. 6 transcript transcripts have been released from the Capitol riots and participants are being tried for their respective roles. In sports news, a Bills player collapsed during an N.F.L game and athletes and fans nationwide have been offering up prayers in his name for recovery; he had been determined to give back to his Pennsylvania hometown before his medical emergency occurred. In politics, Republican Kevin McCarthy is trying to become the Speaker of the House, but is facing opposition from hard-right representatives, who could be replaced by an alternative challenger should McCarthy ultimately fail in his bid for power. On the international front, Brazilian authorities are reviving a fraud case against George Santos that had previously went cold due to law enforcement officials not being able to locate him; while stateside, law enforcement officials are attempting to determine if a heavily armed man caused a panic at a supermarket broke law. Lastly, concluding on educational news, U.S. News &amp; World Report is changing its school ranking system following boycotts from numerous law schools nationwide.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Deadly Strike on Russians in Ukraine Exposes Moscow’s Military Failings</h3>
+<sub>By Matthew Mpoke Bigg, Anatoly Kurmanaev and Richard Pérez-Peña</sub>
+<p>A Ukrainian attack with U.S.-made rockets may have left hundreds of casualties, and pro-war Russians accused their military commanders of repeating fatal errors.  <a href="https://nyti.ms/3jNA6lT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Romania, U.S. Troops Train Close to Russia’s War, in Signal to Moscow</h3>
+<sub>By Lara Jakes</sub>
+<p>The deployment to a NATO country near the conflict in Ukraine is seen as a model of deterrence for a U.S. military that has recently stepped back from direct fighting.  <a href="https://nyti.ms/3i9ELhq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trying to Trademark ‘Rigged Election,’ and Other Revelations From the Jan. 6 Transcripts</h3>
 <sub>By Luke Broadwater, Maggie Haberman, Alan Feuer and Emily Cochrane</sub>
 <p>The Jan. 6 committee released a whirlwind of documents in its final days and wrapped up its work on Monday.  <a href="https://nyti.ms/3i9sZUg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Damar Hamlin of Buffalo Bills in Critical Condition After Collapsing During N.F.L. Game</h3>
+<sub>By Emmanuel Morgan and Ken Belson</sub>
+<p>Hamlin, a 24-year-old safety, received medical treatment on the field for 10 minutes before being taken to a hospital. The game against the Cincinnati Bengals was postponed indefinitely.  <a href="https://nyti.ms/3Q6QhXq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>On His Way to the N.F.L., Damar Hamlin Was Determined to Give Back</h3>
+<sub>By Jenny Vrentas</sub>
+<p>The Buffalo Bills safety, who collapsed during a game Monday night, created a toy drive for children in need in his Pennsylvania hometown.  <a href="https://nyti.ms/3vD9dmY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Athletes and Fans Pray for Damar Hamlin After On-Field Collapse</h3>
+<sub>By Jesus Jiménez</sub>
+<p>Gov. Phil Murphy of New Jersey joined a chorus of voices on Twitter offering prayers for Hamlin. “We are all Buffalo Bills fans tonight,” Mr. Murphy said.  <a href="https://nyti.ms/3G8P2lX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,18 +116,6 @@ It feels like there&#39;s a lot going on in the world right now. Recently, the J
 <p>A 2008 court case had been suspended because Brazilian law enforcement officials could not find Mr. Santos.  <a href="https://nyti.ms/3jzfD3R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Deadly Strike on Russians in Ukraine Exposes Moscow’s Military Failings</h3>
-<sub>By Matthew Mpoke Bigg, Anatoly Kurmanaev and Richard Pérez-Peña</sub>
-<p>A Ukrainian attack with U.S.-made rockets may have left hundreds of casualties, and pro-war Russians accused their military commanders of repeating fatal errors.  <a href="https://nyti.ms/3jNA6lT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Monday Night Football Game Postponed Indefinitely After Player Collapses on Field</h3>
-<sub>By Emmanuel Morgan</sub>
-<p>Bills safety Damar Hamlin, 24, collapsed after a tackle and received medical treatment on the field for 10 minutes before being taken to the hospital.  <a href="https://nyti.ms/3Q6QhXq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Heavily Armed Man Caused Panic at a Supermarket. But Did He Break the Law?</h3>
 <sub>By Richard Fausset</sub>
@@ -110,29 +128,11 @@ It feels like there&#39;s a lot going on in the world right now. Recently, the J
 <p>The magazine, which has been rating top schools for decades, said in a letter to deans that it is altering its methods to address their concerns.  <a href="https://nyti.ms/3Gz5ldf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Man Who Made Spain the Magic Capital of the World</h3>
-<sub>By Shuja Haider</sub>
-<p>Inside the mind of Juan Tamariz, the godfather of close-up card magic.  <a href="https://nyti.ms/3WGehTy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>El arte de Juan Tamariz, el hombre que impulsó la magia de cartas en España</h3>
-<sub>By Shuja Haider</sub>
-<p>Un paseo por la mente del padrino de la cartomagia mundial.  <a href="https://nyti.ms/3jKRCqy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Choreography on the Ground That Puts Meals in the Sky</h3>
 <sub>By Niraj Chokshi and Jutharat Pinyodoonyachet</sub>
 <p>  <a href="https://nyti.ms/3G5wnqZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>We’re Going to Miss Greed and Cynicism</h3>
-<sub>By Paul Krugman</sub>
-<p>We’ll be nostalgic for the days when the culture war was phony.  <a href="https://nyti.ms/3vw2lb1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
