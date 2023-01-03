@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 2, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In the US, Republican Representative Kevin McCarthy is trying to become Speaker of the House, but he has been met with resistance from hard-right lawmakers. If his bid fails, alternative candidates could emerge. Brazilian authorities are reviving a fraud case against George Santos, and in Ukraine a deadly strike by US-made rockets has exposed Moscow&#39;s military failings. Here in the US, heavily armed individuals have caused fear and panic in public places, prompting discussion about gun control laws. Meanwhile, the US News &amp; World Report is changing its ranking system after boycotts from law schools. On the economy side of things, President Biden has passed laws to reshape the American economy with limited congressional majority and there has been an Islamic extremism suspect apprehended in Times Square. Lastly, Juan Tamariz is getting recognition for his work on close-up card magic and a look at how meals get delivered in the sky. People are starting to miss the good old days when culture wars were phony and greed was more accepted.</p>
+It feels like there&#39;s a lot going on in the world right now. Recently, the Jan. 6 committee released a flurry of documents about their investigation, and Representative Kevin McCarthy is struggling to become Speaker of the House. In Brazil, authorities are reviving a fraud case against George Santos from 2008. In Ukraine, there was a deadly strike on Russian nationals that was blamed on Moscow&#39;s military failings. An NFL game was postponed after a player collapsed on the field, and people are debating if an armed man with a gun in a supermarket caused panic illegally or not. On a lighter note, U.S. News &amp; World Report is changing its ranking system after law schools boycotted it, and we&#39;re learning about Juan Tamariz - the godfather of close-up card magic - and his art in Spain. Lastly, choreography on the ground has been helping meals reach the sky too! It&#39;s just an interesting mix of news all around!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trying to Trademark ‘Rigged Election,’ and Other Revelations From the Jan. 6 Transcripts</h3>
+<sub>By Luke Broadwater, Maggie Haberman, Alan Feuer and Emily Cochrane</sub>
+<p>The Jan. 6 committee released a whirlwind of documents in its final days and wrapped up its work on Monday.  <a href="https://nyti.ms/3i9sZUg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy’s Bid for Speaker Remains in Peril Even After Key Concessions</h3>
 <sub>By Catie Edmondson</sub>
@@ -86,6 +92,12 @@ There&#39;s a lot happening in the world right now. In the US, Republican Repres
 <p>A Ukrainian attack with U.S.-made rockets may have left hundreds of casualties, and pro-war Russians accused their military commanders of repeating fatal errors.  <a href="https://nyti.ms/3jNA6lT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Monday Night Football Game Postponed Indefinitely After Player Collapses on Field</h3>
+<sub>By Emmanuel Morgan</sub>
+<p>Bills safety Damar Hamlin, 24, collapsed after a tackle and received medical treatment on the field for 10 minutes before being taken to the hospital.  <a href="https://nyti.ms/3Q6QhXq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Heavily Armed Man Caused Panic at a Supermarket. But Did He Break the Law?</h3>
 <sub>By Richard Fausset</sub>
@@ -96,18 +108,6 @@ There&#39;s a lot happening in the world right now. In the US, Republican Repres
 <h3>After Boycott from Law Schools, U.S. News &amp; World Report Changes Ranking System</h3>
 <sub>By Ruth Graham</sub>
 <p>The magazine, which has been rating top schools for decades, said in a letter to deans that it is altering its methods to address their concerns.  <a href="https://nyti.ms/3Gz5ldf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Biden Caps Two Years of Action on the Economy, With New Challenges Ahead</h3>
-<sub>By Jim Tankersley</sub>
-<p>The president used a slim congressional majority to enact legislation that could reshape the American economy — if his administration can make the laws succeed.  <a href="https://nyti.ms/3WHkY7V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Islamic Extremism Drove Suspect in Times Square Attack, Official Says</h3>
-<sub>By Andy Newman and Mihir Zaveri</sub>
-<p>Trevor Bickford, a 19-year-old from Maine, had recently become radicalized and traveled to New York to attack the police, according to a law enforcement official.  <a href="https://nyti.ms/3QbcFPa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
