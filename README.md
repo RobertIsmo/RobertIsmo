@@ -60,10 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 3, Central Standard Time</p>
 <p>
-At the start of 2021, a lot is happening in the US and around the world! In politics, there is still debate around who will take the Speaker role of the House, as well as a Republican who recently made false claims about his background, education and finances joining Congress. On a more positive note, we have Nancy Pelosi leaving a powerful legacy after having been the first female speaker of the House. In sports, there is an athlete who recently collapsed during an NFL game and the whole community showed support by praying for him. On a global level, US soldiers are stationed near Russia for for deterrence and effect. In business, many people are jobs-switching since the pandemic began-making it harder to get output produced. In health news, Oregon just became the first state to allow adult use of psilocybin &quot;magic&quot; mushrooms which could potentially be a success based on how well-trained the guides are.</p>
+Things in the US have been pretty eventful lately. There&#39;s been some political turmoil, as a Republican candidate failed to muster enough support to become speaker of the House and there are now some new representatives with some sketchy backgrounds joining the Congress. There was also a football player from the Buffalo Bills who collapsed during a game and went into cardiac arrest, so everyone&#39;s been praying for him and his recovery. On the business side, natural gas prices in Europe are back to pre-Invasion levels thanks to warm weather, alternatives to Russian gas and storage buildup. On top of all that, there were ice storms, heavy snowfall and tornadoes threatening parts of the Midwest and South – doesn&#39;t sound like much fun! Finally, gun violence has left a growing number of people with long-term disabilities, so survivors are turning to support groups in order to cope. Phew!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Vote Looming, McCarthy Remains Short of Support to Become Speaker</h3>
+<h3>McCarthy Remains Short of Support to Become Speaker as Vote Nears</h3>
 <sub>By Catie Edmondson and Emily Cochrane</sub>
 <p>A monthslong lobbying effort has failed to yield the breakthrough the California Republican would need to cement the top job, threatening a messy floor fight just as his party is assuming control of the House.  <a href="https://nyti.ms/3i7qYrA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
@@ -89,13 +89,13 @@ At the start of 2021, a lot is happening in the US and around the world! In poli
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Damar Hamlin of Buffalo Bills in Critical Condition After Collapsing During N.F.L. Game</h3>
 <sub>By Emmanuel Morgan and Ken Belson</sub>
-<p>Hamlin, a 24-year-old safety, suffered cardiac arrest after being hit, but his heartbeat was restored by medical personnel, the Bills said. The game against the Cincinnati Bengals was postponed.  <a href="https://nyti.ms/3Q6QhXq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Hamlin, a 24-year-old safety, went into cardiac arrest after being hit, but his heartbeat was restored by medical personnel, the Bills said. The game against the Cincinnati Bengals was postponed.  <a href="https://nyti.ms/3Q6QhXq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>On His Way to the N.F.L., Damar Hamlin Was Determined to Give Back</h3>
 <sub>By Jenny Vrentas</sub>
-<p>The Buffalo Bills safety, who collapsed during a game Monday night, created a toy drive for children in need in his Pennsylvania hometown.  <a href="https://nyti.ms/3vD9dmY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Buffalo Bills safety, who went into cardic arrest during a game Monday night, created a toy drive for children in need in his Pennsylvania hometown.  <a href="https://nyti.ms/3vD9dmY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -104,11 +104,11 @@ At the start of 2021, a lot is happening in the US and around the world! In poli
 <p>Gov. Phil Murphy of New Jersey joined a chorus of voices on Twitter offering prayers for Hamlin. “We are all Buffalo Bills fans tonight,” Mr. Murphy said.  <a href="https://nyti.ms/3G8P2lX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Romania, U.S. Troops Train Close to Russia’s War, in Signal to Moscow</h3>
-<sub>By Lara Jakes</sub>
-<p>The deployment to a NATO country near the conflict in Ukraine is seen as a model of deterrence for a U.S. military that has recently stepped back from direct fighting.  <a href="https://nyti.ms/3i9ELhq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Natural Gas Prices in Europe Fall to Pre-Invasion Levels</h3>
+<sub>By Stanley Reed</sub>
+<p>Warm weather, alternatives to Russian gas and a buildup of storage all help. But prices remain high for consumers and industry.  <a href="https://nyti.ms/3Cjf4BE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trying to Trademark ‘Rigged Election,’ and Other Revelations From the Jan. 6 Transcripts</h3>
@@ -123,15 +123,15 @@ At the start of 2021, a lot is happening in the US and around the world! In poli
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ice Storms, Heavy Snowfall, Tornadoes Threaten Midwest and South</h3>
+<sub>By Neelam Bohra</sub>
+<p>A “multi-hazard” storm that already wrought havoc on the West Coast turned into a large winter storm system as it moved across the country.  <a href="https://nyti.ms/3ZhLjLI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Paralyzed by Gun Violence, They Seek Solace From Other Survivors</h3>
 <sub>By Neelam Bohra</sub>
 <p>Gunfire in America has left a growing number of people with long-term disabilities. In one city, a support group that includes people who spent time in the same trauma ward offers a way to cope.  <a href="https://nyti.ms/3Q7Pfud"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Legal Use of Hallucinogenic Mushrooms Begins in Oregon</h3>
-<sub>By Andrew Jacobs</sub>
-<p>On Jan. 1, Oregon became the first state to allow adult use of psilocybin “magic” mushrooms. Licensed guides will likely determine whether the program is a success.  <a href="https://nyti.ms/3Z926jO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
