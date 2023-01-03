@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 2, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. In the US, Representative Kevin McCarthy is facing difficulty securing votes for Speaker, and a heavily armed man at a supermarket has sparked debate about gun laws. Over in Europe, Russia&#39;s actions in Ukraine have temporarily worsened global starvation and given India more power in the global system. Meanwhile, President Biden has been enacting policies which could reshape the US economy, and a suspect in New York was driven to extremism by Islamic beliefs. In China, the Covid pandemic has affected businesses and the economy is having troubles with recovery. The government jobs sector is also seeing an influx of people wanting to work there, but some are coming to regret it due to monotonous work blurring lines between personal and work life. Finally, Spain is gaining attention for its close-up card magic performers, led by Juan Tamariz, who is known as the godfather of the craft.</p>
+There&#39;s a lot happening in the world right now. In the US, Republican Representative Kevin McCarthy is trying to become Speaker of the House, but he has been met with resistance from hard-right lawmakers. If his bid fails, alternative candidates could emerge. Brazilian authorities are reviving a fraud case against George Santos, and in Ukraine a deadly strike by US-made rockets has exposed Moscow&#39;s military failings. Here in the US, heavily armed individuals have caused fear and panic in public places, prompting discussion about gun control laws. Meanwhile, the US News &amp; World Report is changing its ranking system after boycotts from law schools. On the economy side of things, President Biden has passed laws to reshape the American economy with limited congressional majority and there has been an Islamic extremism suspect apprehended in Times Square. Lastly, Juan Tamariz is getting recognition for his work on close-up card magic and a look at how meals get delivered in the sky. People are starting to miss the good old days when culture wars were phony and greed was more accepted.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy’s Bid for Speaker Remains in Peril Even After Key Concessions</h3>
@@ -75,27 +75,27 @@ Right now, there is a lot going on in the world. In the US, Representative Kevin
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>As His Life of Fantasy Comes Into Focus, George Santos Goes to Washington</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>Mr. Santos, under scrutiny for lies about his background, is set to be sworn into Congress on Tuesday even as records, colleagues and friends divulge more about his past.  <a href="https://nyti.ms/3IlGBXj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Russia’s War on Ukraine Is Worsening Global Starvation</h3>
-<sub>By Edward Wong and Ana Swanson</sub>
-<p>Moscow blocks most shipments from Ukraine, one of the world’s largest wheat producers, and its attacks on the country’s energy grid also disrupt the flow of food.  <a href="https://nyti.ms/3GxOZ4o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Brazilian Authorities Will Revive Fraud Case Against George Santos</h3>
+<sub>By Grace Ashford and André Spigariol</sub>
+<p>A 2008 court case had been suspended because Brazilian law enforcement officials could not find Mr. Santos.  <a href="https://nyti.ms/3jzfD3R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s War Could Make It India’s World</h3>
-<sub>By Roger Cohen and Mauricio Lima</sub>
-<p>The invasion of Ukraine, compounding the effects of the pandemic, has contributed to the ascent of a giant that defies easy alignment. It could be the decisive force in a changing global system.  <a href="https://nyti.ms/3If810N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<h3>Deadly Strike on Russians in Ukraine Exposes Moscow’s Military Failings</h3>
+<sub>By Matthew Mpoke Bigg, Anatoly Kurmanaev and Richard Pérez-Peña</sub>
+<p>A Ukrainian attack with U.S.-made rockets may have left hundreds of casualties, and pro-war Russians accused their military commanders of repeating fatal errors.  <a href="https://nyti.ms/3jNA6lT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Heavily Armed Man Caused Panic at a Supermarket. But Did He Break the Law?</h3>
 <sub>By Richard Fausset</sub>
 <p>In states with permissive gun laws, police and prosecutors have limited tools at their disposal when a heavily armed individual sows fear or panic in public.  <a href="https://nyti.ms/3VD7NDB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Boycott from Law Schools, U.S. News &amp; World Report Changes Ranking System</h3>
+<sub>By Ruth Graham</sub>
+<p>The magazine, which has been rating top schools for decades, said in a letter to deans that it is altering its methods to address their concerns.  <a href="https://nyti.ms/3Gz5ldf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -107,25 +107,7 @@ Right now, there is a lot going on in the world. In the US, Representative Kevin
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Islamic Extremism Drove Suspect in Times Square Attack, Official Says</h3>
 <sub>By Andy Newman and Mihir Zaveri</sub>
-<p>Trevor Bickford, a 19-year-old man from Maine, had recently become radicalized and traveled to New York to attack the police, according to a law enforcement official.  <a href="https://nyti.ms/3QbcFPa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why China’s Economy Faces a Perilous Road to Recovery</h3>
-<sub>By Keith Bradsher</sub>
-<p>Years of lockdowns took a brutal toll on businesses. Now, the rapid spread of Covid after a chaotic reopening has deprived them of workers and customers.  <a href="https://nyti.ms/3YXJDXz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Young Elite Clamber for Government Jobs. Some Come to Regret It.</h3>
-<sub>By Claire Fu</sub>
-<p>With youth unemployment high, millions will take this month’s Civil Service exam. But for those who get jobs, the reality can be monotonous work that blurs the line with personal lives.  <a href="https://nyti.ms/3G6c90x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>To Buff a Balkan Leader’s Image, a Filmmaker Calls In Kevin Spacey</h3>
-<sub>By Andrew Higgins</sub>
-<p>A director cast the beleaguered actor as Franjo Tudjman, the late Croatian leader, whom some call a patriot and others revile as an ethnonationalist zealot.  <a href="https://nyti.ms/3G4upr0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Trevor Bickford, a 19-year-old from Maine, had recently become radicalized and traveled to New York to attack the police, according to a law enforcement official.  <a href="https://nyti.ms/3QbcFPa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -133,6 +115,24 @@ Right now, there is a lot going on in the world. In the US, Representative Kevin
 <sub>By Shuja Haider</sub>
 <p>Inside the mind of Juan Tamariz, the godfather of close-up card magic.  <a href="https://nyti.ms/3WGehTy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>El arte de Juan Tamariz, el hombre que impulsó la magia de cartas en España</h3>
+<sub>By Shuja Haider</sub>
+<p>Un paseo por la mente del padrino de la cartomagia mundial.  <a href="https://nyti.ms/3jKRCqy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Choreography on the Ground That Puts Meals in the Sky</h3>
+<sub>By Niraj Chokshi and Jutharat Pinyodoonyachet</sub>
+<p>  <a href="https://nyti.ms/3G5wnqZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>We’re Going to Miss Greed and Cynicism</h3>
+<sub>By Paul Krugman</sub>
+<p>We’ll be nostalgic for the days when the culture war was phony.  <a href="https://nyti.ms/3vw2lb1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
