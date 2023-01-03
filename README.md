@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 3, Central Standard Time</p>
 <p>
-Things in the US have been pretty eventful lately. There&#39;s been some political turmoil, as a Republican candidate failed to muster enough support to become speaker of the House and there are now some new representatives with some sketchy backgrounds joining the Congress. There was also a football player from the Buffalo Bills who collapsed during a game and went into cardiac arrest, so everyone&#39;s been praying for him and his recovery. On the business side, natural gas prices in Europe are back to pre-Invasion levels thanks to warm weather, alternatives to Russian gas and storage buildup. On top of all that, there were ice storms, heavy snowfall and tornadoes threatening parts of the Midwest and South – doesn&#39;t sound like much fun! Finally, gun violence has left a growing number of people with long-term disabilities, so survivors are turning to support groups in order to cope. Phew!</p>
+Right now, there is a lot of political and economic upheaval taking place around the world. In the US, a small but vocal group of Republicans is leading a rebellion against the current Republican leader&#39;s bid for Speaker of the House, while George Santos, a newly-elected Republican who has been accused of lying about his background, is set to join the 118th Congress. In sports news, NFL player Damar Hamlin collapsed during a game due to cardiac arrest, raising questions about the safety afforded NFL players. And in Europe, natural gas prices are back to pre-invasion levels despite the ongoing warm weather. Additionally, people from Ukraine have taken to painting their experiences of living through a war in an exhibit that recently opened in Chicago. On a brighter note, research has shown that 8-minute phone calls can make us feel better and Hispanics in Florida are having some influence on its 2024 election with both Republican candidates trying to court their vote as leaders of its evangelical movement. Finally, across many industries employers have been forced to step up their training efforts as they face a higher turnover rate since the pandemic started.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Remains Short of Support to Become Speaker as Vote Nears</h3>
-<sub>By Catie Edmondson and Emily Cochrane</sub>
-<p>A monthslong lobbying effort has failed to yield the breakthrough the California Republican would need to cement the top job, threatening a messy floor fight just as his party is assuming control of the House.  <a href="https://nyti.ms/3i7qYrA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Who Are the Republicans Opposing McCarthy’s Speaker Bid?</h3>
 <sub>By Catie Edmondson</sub>
@@ -75,9 +69,9 @@ Things in the US have been pretty eventful lately. There&#39;s been some politic
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Pelosi Era Comes to a Close</h3>
-<sub>By Carl Hulse</sub>
-<p>The first woman to become speaker leaves a legacy that will be difficult for her successors to equal.  <a href="https://nyti.ms/3vw5NTh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>This is what could happen if McCarthy falls short.</h3>
+<sub>By Catie Edmondson</sub>
+<p>There is little modern precedent to govern the chaos that could ensue if the Republican leader fails to win the speaker’s gavel on the first ballot.  <a href="https://nyti.ms/3IjcO1e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,16 +87,16 @@ Things in the US have been pretty eventful lately. There&#39;s been some politic
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>On His Way to the N.F.L., Damar Hamlin Was Determined to Give Back</h3>
-<sub>By Jenny Vrentas</sub>
-<p>The Buffalo Bills safety, who went into cardic arrest during a game Monday night, created a toy drive for children in need in his Pennsylvania hometown.  <a href="https://nyti.ms/3vD9dmY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<h3>N.F.L. Faces New Injury Crisis With Hamlin’s Collapse</h3>
+<sub>By Ken Belson</sub>
+<p>Pro football has never been more popular, or lucrative, but the collapse of Damar Hamlin during a prime-time game was a reminder of the sport’s inherent risk.  <a href="https://nyti.ms/3Qej6RW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Athletes and Fans Pray for Damar Hamlin After On-Field Collapse</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Gov. Phil Murphy of New Jersey joined a chorus of voices on Twitter offering prayers for Hamlin. “We are all Buffalo Bills fans tonight,” Mr. Murphy said.  <a href="https://nyti.ms/3G8P2lX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<h3>We’re All Complicit in the N.F.L.’s Violent Spectacle</h3>
+<sub>By Kurt Streeter</sub>
+<p>The appetite for football has never been higher, even as viewers look past the toll the sport takes on players’ lives. Damar Hamlin’s collapse during a prime-time game should force a reconsideration.  <a href="https://nyti.ms/3Z6BT5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Natural Gas Prices in Europe Fall to Pre-Invasion Levels</h3>
@@ -110,28 +104,34 @@ Things in the US have been pretty eventful lately. There&#39;s been some politic
 <p>Warm weather, alternatives to Russian gas and a buildup of storage all help. But prices remain high for consumers and industry.  <a href="https://nyti.ms/3Cjf4BE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trying to Trademark ‘Rigged Election,’ and Other Revelations From the Jan. 6 Transcripts</h3>
-<sub>By Luke Broadwater, Maggie Haberman, Alan Feuer and Emily Cochrane</sub>
-<p>The Jan. 6 committee released a whirlwind of documents in its final days and wrapped up its work on Monday.  <a href="https://nyti.ms/3i9sZUg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Tanks and Teddy Bears: Ukrainian Children Paint the War</h3>
+<sub>By Julia Jacobs</sub>
+<p>An artist from Lviv has brought works by young people affected by the Russian invasion to a museum in Chicago’s Ukrainian enclave.  <a href="https://nyti.ms/3WYcKIk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>The Science of Awe</h3>
+<sub>By Hope Reese</sub>
+<p>Experts say wonder is an essential human emotion — and a salve for a turbulent mind.  <a href="https://nyti.ms/3jQwfUM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Day 2: The Secret Power of the 8-Minute Phone Call</h3>
+<sub>By Jancee Dunn</sub>
+<p>Even a brief chat has measurable effects on our well-being.  <a href="https://nyti.ms/3GcJyGG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hispanic Evangelical Leaders Ask: Trump or DeSantis?</h3>
+<sub>By Jennifer Medina</sub>
+<p>In Florida, where Hispanic evangelicals carry outsize influence, many of their pastors view the budding 2024 rivalry as a sign of the potency of their unabashedly politicized Christianity.  <a href="https://nyti.ms/3X1BeR6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Wave of Job-Switching Has Employers on a Training Treadmill</h3>
 <sub>By Sydney Ember and Ben Casselman</sub>
 <p>The rise in turnover since the pandemic started has a cost in productivity: “It’s taking longer to get stuff out the door.”  <a href="https://nyti.ms/3jGiJ6h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ice Storms, Heavy Snowfall, Tornadoes Threaten Midwest and South</h3>
-<sub>By Neelam Bohra</sub>
-<p>A “multi-hazard” storm that already wrought havoc on the West Coast turned into a large winter storm system as it moved across the country.  <a href="https://nyti.ms/3ZhLjLI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Paralyzed by Gun Violence, They Seek Solace From Other Survivors</h3>
-<sub>By Neelam Bohra</sub>
-<p>Gunfire in America has left a growing number of people with long-term disabilities. In one city, a support group that includes people who spent time in the same trauma ward offers a way to cope.  <a href="https://nyti.ms/3Q7Pfud"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
