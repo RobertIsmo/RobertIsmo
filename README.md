@@ -60,42 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 3, Central Standard Time</p>
 <p>
-Right now, there is a lot of political and economic upheaval taking place around the world. In the US, a small but vocal group of Republicans is leading a rebellion against the current Republican leader&#39;s bid for Speaker of the House, while George Santos, a newly-elected Republican who has been accused of lying about his background, is set to join the 118th Congress. In sports news, NFL player Damar Hamlin collapsed during a game due to cardiac arrest, raising questions about the safety afforded NFL players. And in Europe, natural gas prices are back to pre-invasion levels despite the ongoing warm weather. Additionally, people from Ukraine have taken to painting their experiences of living through a war in an exhibit that recently opened in Chicago. On a brighter note, research has shown that 8-minute phone calls can make us feel better and Hispanics in Florida are having some influence on its 2024 election with both Republican candidates trying to court their vote as leaders of its evangelical movement. Finally, across many industries employers have been forced to step up their training efforts as they face a higher turnover rate since the pandemic started.</p>
+In the US, people are demanding accountability from politicians like McCarthy, while tensions between Republican politicians Trump and DeSantis could have a big influence in the upcoming 2024 presidential elections. In the sports world, NFL player Damar Hamlin experienced cardiac arrest during a game and is still in hospital. Meanwhile, gas prices for European consumers and industry remain high despite warm weather due to supply being replaced by alternatives to Russian gas. In Ukraine, children affected by the Russian invasion are painting their experiences of war with tanks and teddy bears, which were then exhibited in a museum in the US. On a more hopeful note, experts say that feeling awe can be good for our health, and even short phone calls can help increase our overall wellbeing. Finally, in Tunisia, burn wards are filled with citizens after a failed democracy and perceived lack of prosperity from elected officials.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Are the Republicans Opposing McCarthy’s Speaker Bid?</h3>
-<sub>By Catie Edmondson</sub>
-<p>The rebellion has been led by a small but vocal group of ultraconservative Republicans. But there are other, less-known defectors who could help scuttle the G.O.P. leader’s candidacy.  <a href="https://nyti.ms/3Z59AEq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>This is what could happen if McCarthy falls short.</h3>
-<sub>By Catie Edmondson</sub>
-<p>There is little modern precedent to govern the chaos that could ensue if the Republican leader fails to win the speaker’s gavel on the first ballot.  <a href="https://nyti.ms/3IjcO1e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>George Santos Comes to Washington. It Could Be Awkward.</h3>
-<sub>By Annie Karni</sub>
-<p>On the first day of the 118th Congress, the representative-elect, a Republican who has made false claims about his background, education and finances, will bring his saga to Capitol Hill.  <a href="https://nyti.ms/3YYoJYa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here’s what McCarthy’s detractors are demanding.</h3>
+<sub>By Emily Cochrane</sub>
+<p>  <a href="https://nyti.ms/3Zaym68"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Damar Hamlin of Buffalo Bills in Critical Condition After Collapsing During N.F.L. Game</h3>
-<sub>By Emmanuel Morgan and Ken Belson</sub>
-<p>Hamlin, a 24-year-old safety, went into cardiac arrest after being hit, but his heartbeat was restored by medical personnel, the Bills said. The game against the Cincinnati Bengals was postponed.  <a href="https://nyti.ms/3Q6QhXq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>N.F.L. Faces New Injury Crisis With Hamlin’s Collapse</h3>
+<h3>N.F.L. Says Suspended Game Won’t Resume This Week as Hamlin Stays in Hospital</h3>
 <sub>By Ken Belson</sub>
-<p>Pro football has never been more popular, or lucrative, but the collapse of Damar Hamlin during a prime-time game was a reminder of the sport’s inherent risk.  <a href="https://nyti.ms/3Qej6RW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The family of Damar Hamlin expressed optimism even though his medical condition had not changed after a cardiac arrest.  <a href="https://nyti.ms/3Qej6RW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>We’re All Complicit in the N.F.L.’s Violent Spectacle</h3>
 <sub>By Kurt Streeter</sub>
 <p>The appetite for football has never been higher, even as viewers look past the toll the sport takes on players’ lives. Damar Hamlin’s collapse during a prime-time game should force a reconsideration.  <a href="https://nyti.ms/3Z6BT5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Damar Hamlin’s Cardiac Arrest: What We Know and Don’t Know</h3>
+<sub>By Gina Kolata</sub>
+<p>Cardiac doctors say that blows to the chest causing an erratic heart rhythm are highly unusual, but not unheard-of in sports.  <a href="https://nyti.ms/3CmKyXU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -111,7 +99,7 @@ Right now, there is a lot of political and economic upheaval taking place around
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>The Science of Awe</h3>
+<h3>How a Bit of Awe Can Improve Your Health</h3>
 <sub>By Hope Reese</sub>
 <p>Experts say wonder is an essential human emotion — and a salve for a turbulent mind.  <a href="https://nyti.ms/3jQwfUM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
@@ -123,15 +111,27 @@ Right now, there is a lot of political and economic upheaval taking place around
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hispanic Evangelical Leaders Ask: Trump or DeSantis?</h3>
+<h3>Trump-DeSantis Showdown Could Supercharge Latino Evangelicals’ Influence</h3>
 <sub>By Jennifer Medina</sub>
 <p>In Florida, where Hispanic evangelicals carry outsize influence, many of their pastors view the budding 2024 rivalry as a sign of the potency of their unabashedly politicized Christianity.  <a href="https://nyti.ms/3X1BeR6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wave of Job-Switching Has Employers on a Training Treadmill</h3>
-<sub>By Sydney Ember and Ben Casselman</sub>
-<p>The rise in turnover since the pandemic started has a cost in productivity: “It’s taking longer to get stuff out the door.”  <a href="https://nyti.ms/3jGiJ6h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Suspect in Killing of 4 Idaho Undergrads Agrees to Be Extradited</h3>
+<sub>By David DeKok and Nicholas Bogel-Burroughs</sub>
+<p>The 28-year-old Ph.D. student accused in the killings will be taken to Idaho to face four counts of murder after making a brief appearance in a Pennsylvania courtroom.  <a href="https://nyti.ms/3WG70TH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Sam Bankman-Fried Pleads Not Guilty to Fraud and Other Charges</h3>
+<sub>By Benjamin Weiser, David Yaffe-Bellany and Matthew Goldstein</sub>
+<p>The founder of the collapsed cryptocurrency exchange FTX, who was released on a $250 million bond, returned to New York to appear in court on Tuesday.  <a href="https://nyti.ms/3VK8Kdk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In a Hospital Ward, the Wounds of a Failed Democracy Don’t Heal</h3>
+<sub>By Vivian Yee</sub>
+<p>Tunisia’s road to democracy began with a self-immolation, and such cases have filled hospital burn wards ever since, as elected leaders failed to deliver on a promise of prosperity.  <a href="https://nyti.ms/3CjcR9I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
