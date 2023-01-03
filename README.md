@@ -60,25 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 3, Central Standard Time</p>
 <p>
-Right now, Ukraine is facing militar conflict with Russia, and U.S. troops are conducting drills close to the region to signal to Moscow. In America, Republicans are trying to elect a new speaker of the House but they&#39;re facing opposition from hard-right lawmakers. Meanwhile, in Brazil a fraud case has been revived against a man who could not be found previously. Another news story is about a heavily armed man at a supermarket who caused fear and panic among customers, and in some states the police and prosecutors don&#39;t have many tools to deal with situations like this. Lastly, the U.S. News &amp; World Report, which ranks top universities, is changing its ranking system due to complaints from law schools.</p>
+At the start of 2021, a lot is happening in the US and around the world! In politics, there is still debate around who will take the Speaker role of the House, as well as a Republican who recently made false claims about his background, education and finances joining Congress. On a more positive note, we have Nancy Pelosi leaving a powerful legacy after having been the first female speaker of the House. In sports, there is an athlete who recently collapsed during an NFL game and the whole community showed support by praying for him. On a global level, US soldiers are stationed near Russia for for deterrence and effect. In business, many people are jobs-switching since the pandemic began-making it harder to get output produced. In health news, Oregon just became the first state to allow adult use of psilocybin &quot;magic&quot; mushrooms which could potentially be a success based on how well-trained the guides are.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Deadly Strike on Russians in Ukraine Exposes Moscow’s Military Failings</h3>
-<sub>By Matthew Mpoke Bigg, Anatoly Kurmanaev and Richard Pérez-Peña</sub>
-<p>A Ukrainian attack with U.S.-made rockets may have left hundreds of casualties, and pro-war Russians accused their military commanders of repeating fatal errors.  <a href="https://nyti.ms/3jNA6lT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Romania, U.S. Troops Train Close to Russia’s War, in Signal to Moscow</h3>
-<sub>By Lara Jakes</sub>
-<p>The deployment to a NATO country near the conflict in Ukraine is seen as a model of deterrence for a U.S. military that has recently stepped back from direct fighting.  <a href="https://nyti.ms/3i9ELhq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Vote Looming, McCarthy Remains Short of Support to Become Speaker</h3>
+<sub>By Catie Edmondson and Emily Cochrane</sub>
+<p>A monthslong lobbying effort has failed to yield the breakthrough the California Republican would need to cement the top job, threatening a messy floor fight just as his party is assuming control of the House.  <a href="https://nyti.ms/3i7qYrA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trying to Trademark ‘Rigged Election,’ and Other Revelations From the Jan. 6 Transcripts</h3>
-<sub>By Luke Broadwater, Maggie Haberman, Alan Feuer and Emily Cochrane</sub>
-<p>The Jan. 6 committee released a whirlwind of documents in its final days and wrapped up its work on Monday.  <a href="https://nyti.ms/3i9sZUg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
+<h3>Who Are the Republicans Opposing McCarthy’s Speaker Bid?</h3>
+<sub>By Catie Edmondson</sub>
+<p>The rebellion has been led by a small but vocal group of ultraconservative Republicans. But there are other, less-known defectors who could help scuttle the G.O.P. leader’s candidacy.  <a href="https://nyti.ms/3Z59AEq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Pelosi Era Comes to a Close</h3>
+<sub>By Carl Hulse</sub>
+<p>The first woman to become speaker leaves a legacy that will be difficult for her successors to equal.  <a href="https://nyti.ms/3vw5NTh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>George Santos Comes to Washington. It Could Be Awkward.</h3>
+<sub>By Annie Karni</sub>
+<p>On the first day of the 118th Congress, the representative-elect, a Republican who has made false claims about his background, education and finances, will bring his saga to Capitol Hill.  <a href="https://nyti.ms/3YYoJYa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Damar Hamlin of Buffalo Bills in Critical Condition After Collapsing During N.F.L. Game</h3>
@@ -98,41 +104,35 @@ Right now, Ukraine is facing militar conflict with Russia, and U.S. troops are c
 <p>Gov. Phil Murphy of New Jersey joined a chorus of voices on Twitter offering prayers for Hamlin. “We are all Buffalo Bills fans tonight,” Mr. Murphy said.  <a href="https://nyti.ms/3G8P2lX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy’s Bid for Speaker Remains in Peril Even After Key Concessions</h3>
-<sub>By Catie Edmondson</sub>
-<p>Representative Kevin McCarthy, Republican of California, is struggling to break through a wall of entrenched opposition from hard-right lawmakers even after agreeing to weaken his leadership power.  <a href="https://nyti.ms/3CgWSsm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Romania, U.S. Troops Train Close to Russia’s War, in Signal to Moscow</h3>
+<sub>By Lara Jakes</sub>
+<p>The deployment to a NATO country near the conflict in Ukraine is seen as a model of deterrence for a U.S. military that has recently stepped back from direct fighting.  <a href="https://nyti.ms/3i9ELhq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Are the House Republicans to Watch if McCarthy’s Bid for Speaker Falters</h3>
-<sub>By Catie Edmondson</sub>
-<p>Representative Kevin McCarthy has so far faced no viable challenger for the speakership. But if he is unable to secure the votes, an alternative could quickly emerge.  <a href="https://nyti.ms/3CgqQwR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Brazilian Authorities Will Revive Fraud Case Against George Santos</h3>
-<sub>By Grace Ashford and André Spigariol</sub>
-<p>A 2008 court case had been suspended because Brazilian law enforcement officials could not find Mr. Santos.  <a href="https://nyti.ms/3jzfD3R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Heavily Armed Man Caused Panic at a Supermarket. But Did He Break the Law?</h3>
-<sub>By Richard Fausset</sub>
-<p>In states with permissive gun laws, police and prosecutors have limited tools at their disposal when a heavily armed individual sows fear or panic in public.  <a href="https://nyti.ms/3VD7NDB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Boycott from Law Schools, U.S. News &amp; World Report Changes Ranking System</h3>
-<sub>By Ruth Graham</sub>
-<p>The magazine, which has been rating top schools for decades, said in a letter to deans that it is altering its methods to address their concerns.  <a href="https://nyti.ms/3Gz5ldf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trying to Trademark ‘Rigged Election,’ and Other Revelations From the Jan. 6 Transcripts</h3>
+<sub>By Luke Broadwater, Maggie Haberman, Alan Feuer and Emily Cochrane</sub>
+<p>The Jan. 6 committee released a whirlwind of documents in its final days and wrapped up its work on Monday.  <a href="https://nyti.ms/3i9sZUg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Choreography on the Ground That Puts Meals in the Sky</h3>
-<sub>By Niraj Chokshi and Jutharat Pinyodoonyachet</sub>
-<p>  <a href="https://nyti.ms/3G5wnqZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 30, Central Standard Time</sub></sub>
+<h3>Wave of Job-Switching Has Employers on a Training Treadmill</h3>
+<sub>By Sydney Ember and Ben Casselman</sub>
+<p>The rise in turnover since the pandemic started has a cost in productivity: “It’s taking longer to get stuff out the door.”  <a href="https://nyti.ms/3jGiJ6h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Paralyzed by Gun Violence, They Seek Solace From Other Survivors</h3>
+<sub>By Neelam Bohra</sub>
+<p>Gunfire in America has left a growing number of people with long-term disabilities. In one city, a support group that includes people who spent time in the same trauma ward offers a way to cope.  <a href="https://nyti.ms/3Q7Pfud"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Legal Use of Hallucinogenic Mushrooms Begins in Oregon</h3>
+<sub>By Andrew Jacobs</sub>
+<p>On Jan. 1, Oregon became the first state to allow adult use of psilocybin “magic” mushrooms. Licensed guides will likely determine whether the program is a success.  <a href="https://nyti.ms/3Z926jO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
