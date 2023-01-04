@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 4, Central Standard Time</p>
 <p>
-It feels like the world is going through some turbulent times right now. In the US, on the first day of the new congressional session, the House Republicans were paralyzed when a right-wing group blocked one of their own from becoming speaker. This revealed how divided and disoriented their majority has become. The Democrats chose a lawyer and tactician to be their leader who happens to be their first Black politician in this role. Another exciting news item is that abortion pills can now be offered at retail pharmacies after the FDA made a decision. We even had another football drama when one of the players went into cardiac arrest during a game, but fortunately he&#39;s doing better now with doctors getting him breathing without a ventilator. On the world stage, Russian President Putin spoke to his people warning them to get ready for a long battle while Ukraine&#39;s military efforts cost them heavily in shooting down drones. Finally, here&#39;s an interesting piece of news - researchers have found out how channelsing awe can improve our mental health!</p>
+To catch them up on the news, I&#39;d tell my close friend that in the US there are divisions in the House Majority as they fail to agree on a new speaker, and state politics are shaking up too with the New York representative being the first Black politician to lead either party in Congress. Also, a Republican candidate for office who has made false claims about his past is now in Washington DC.
+
+On the sports front, there was a suspended NFL game due to a Bills safety going into cardiac arrest, but he&#39;s still in hospital. In addition, an important story in Russia is that President Putin is seems to be preparing Russians for a long fight ahead because of war with Ukraine.
+
+Finally, the FDA has determined that abortion pills can now be offered at retail pharmacies, and some studies suggest that awe can improve one&#39;s overall health too.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House G.O.P. Paralyzed on Day 1 as Right Wing Blocks McCarthy Speakership</h3>
