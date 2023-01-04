@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 4, Central Standard Time</p>
 <p>
-It&#39;s been a busy week! In the US, the Republican party is having difficulties as they struggle over who should be their speaker. Meanwhile, Biden is trying to promote bipartisanship and bridge the divide between parties. On the sports front, NFL players are returning to work despite heavy hearts following an injury to a player. Elsewhere, Putin has warned his people that a long fight lies ahead and salesforce has announced layoffs due to business slowdowns in the tech sector. Finally, Tesla has had a huge sell-off and Coinbase has just reached a $100 million settlement with New York regulators.</p>
+There is a lot going on in the world right now. The US House of Representatives is in the midst of voting for the new Speaker, while 20 Republicans have been deemed to be far-right leaning. In sports, NFL players are grappling with the violent consequences of the game, while Damar Hamlin recently suffered a cardiac arrest during a game. In terms of technology, Meta has been ruled illegal under EU law and Salesforce will be laying off 10% of its staff due to economic slowdown. Tesla&#39;s market capitalization had a huge sell-off and Coinbase reached a $100 million settlement with New York regulators. There are also two new movies that provide an unfamiliar discourse around the #MeToo movement, and some Brazilians fear the Amazon may soon &quot;tip&quot; into becoming a savanna. To top it off, California is bracing for some more severe flooding from an incoming storm!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Fight Over Speaker Enters Its Second Day</h3>
-<sub>By Catie Edmondson</sub>
-<p>The House is set to reconvene at noon to continue a historic floor fight — the first in a century — prompted by the Republican leader’s failure to secure a majority to become speaker.  <a href="https://nyti.ms/3IjGZFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Live Vote Count: Tracking the House Speaker Votes</h3>
+<sub>By Allison McCartney, Alicia Parlapiano and Emily Cochrane</sub>
+<p>Follow live to see how each representative voted for House speaker.  <a href="https://nyti.ms/3CmBDFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,17 +74,11 @@ It&#39;s been a busy week! In the US, the Republican party is having difficultie
 <p>Most denied the 2020 election, are members of the ultraconservative Freedom Caucus, or both.  <a href="https://nyti.ms/3GhDooM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Promotes Bipartisan Victories as Divisions Roil the Republican Party</h3>
-<sub>By Michael D. Shear</sub>
-<p>The president, who has said he intends to run for re-election, will travel to Kentucky to emphasize that he is determined to reach across the aisle.  <a href="https://nyti.ms/3IjGY4z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Grappling With, but Not Yet Turning Away From, Football’s Violent Pull</h3>
+<sub>By Andrew Keh</sub>
+<p>After Damar Hamlin’s collapse during an N.F.L. game, fans, coaches and players processed what it meant to love a sport that carries the risk of bodily harm for its participants.  <a href="https://nyti.ms/3GfKIkT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Speaker Fight Reveals a Divided and Disoriented House Majority</h3>
-<sub>By Carl Hulse</sub>
-<p>In failing to coalesce around Kevin McCarthy for speaker, Republicans showcased divisions that portend real difficulties in governing.  <a href="https://nyti.ms/3CoECNV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>With Heavy Hearts, N.F.L. Players Prepare to Go Back to Work</h3>
@@ -92,34 +86,22 @@ It&#39;s been a busy week! In the US, the Republican party is having difficultie
 <p>Teams will return to practices on Wednesday, two days after Buffalo Bills safety Damar Hamlin suffered a cardiac arrest during a game. He remains hospitalized.  <a href="https://nyti.ms/3GD1Hik"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>N.F.L. Says Suspended Game Won’t Resume This Week as Hamlin Stays in Hospital</h3>
-<sub>By Ken Belson</sub>
-<p>An uncle of Damar Hamlin, a Bills safety who went into cardiac arrest during Monday’s game, said Tuesday night that doctors were working to get his nephew breathing on his own without a ventilator.  <a href="https://nyti.ms/3Qej6RW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Damar Hamlin’s Collapse Tests Buffalo Again: ‘Karma Owes Us’</h3>
+<sub>By Jesse McKinley and Lauren D’Avolio</sub>
+<p>In a wrenching year for the city, the Bills offered a beloved distraction, until the horrifying collapse of their 24-year-old safety on Monday night.  <a href="https://nyti.ms/3vAMojT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>On His Way to the N.F.L., Damar Hamlin Was Determined to Give Back</h3>
-<sub>By Billy Witz and Jenny Vrentas</sub>
-<p>Hamlin, a Buffalo Bills safety who went into cardiac arrest during a game Monday night, asserted himself as a leader in high school — and kept going back to help others after he graduated.  <a href="https://nyti.ms/3vD9dmY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Prepares Russians for a Long Fight Ahead</h3>
-<sub>By Anton Troianovski and Anatoly Kurmanaev</sub>
-<p>The Russian leader has dropped the pretense that life goes on as normal despite the war, evident in the Kremlin’s quick acknowledgment of mass casualties inflicted by Ukraine last weekend.  <a href="https://nyti.ms/3IDf3gf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Meta’s Ad Practices Ruled Illegal Under E.U. Law</h3>
 <sub>By Adam Satariano</sub>
-<p>The decision is one of the most consequential issued under the E.U.’s landmark data-protection law and creates a new business headwind for the social media giant.  <a href="https://nyti.ms/3i9WjtG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The decision is one of the most consequential issued under the E.U.’s landmark data-protection law and creates a new business headwind for the social media giant.  <a href="https://nyti.ms/3ibftPR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Salesforce to Lay Off 10 Percent of Staff and Cut Office Space</h3>
-<sub>By Isabella Simonetti</sub>
-<p>The software company plans to cut around 8,000 jobs as business slows for tech companies. “We hired too many people leading into this economic downturn,” Salesforce’s chief executive said.  <a href="https://nyti.ms/3WIt7Ju"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Isabella Simonetti and Kalley Huang</sub>
+<p>The software company plans to cut around 8,000 jobs as business slows for tech companies. “We hired too many people leading into this economic downturn,” Salesforce’s chief executive said.  <a href="https://nyti.ms/3QfUJD3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -132,6 +114,24 @@ It&#39;s been a busy week! In the US, the Republican party is having difficultie
 <h3>Coinbase Reaches $100 Million Settlement With New York Regulators</h3>
 <sub>By Matthew Goldstein and Emily Flitter</sub>
 <p>The U.S. crypto exchange will pay a $50 million fine for letting customers open accounts with few background checks and spend $50 million to improve compliance.  <a href="https://nyti.ms/3vA7dMi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Breaking Out of the #MeToo Movie Formula</h3>
+<sub>By Amanda Hess</sub>
+<p>How “Women Talking” and “Tár” make the discourse around the movement feel thrillingly unfamiliar.  <a href="https://nyti.ms/3GvF27y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Has the Amazon Reached Its ‘Tipping Point’?</h3>
+<sub>By Alex Cuadros</sub>
+<p>Some Brazilian scientists fear that the Amazon may become a grassy savanna — with profound effects on the climate worldwide.  <a href="https://nyti.ms/3GAoBqL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Powerful Storm Threatens California With More Flooding</h3>
+<sub>By Shawn Hubler and John Yoon</sub>
+<p>After several damaging storms swept through the state in recent weeks, residents face another deluge.  <a href="https://nyti.ms/3CmpZLf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
