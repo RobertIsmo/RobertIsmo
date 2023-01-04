@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 4, Central Standard Time</p>
 <p>
-Right now, there seems to be a lot of chaos and confusion going on in the US. There&#39;s a fight for Speaker of the House that has been going on for the past few days and tensions are high between Republicans. Biden is trying to promote bipartisanship, but divisions in Congress seem to be growing. In sports, NFL players have been saddened by Buffalo Bills safety Damar Hamlin&#39;s cardiac arrest during a game and they are getting ready to go back to work. Internationally, Putin is preparing Russians for a long fight ahead after Ukraine inflicted mass casualties last weekend. The Amazon is also a worry right now as some experts fear it has gone beyond its &#39;tipping point&#39;. On the bright side, the FDA recently announced that abortion pills can be provided at retail pharmacies. Lastly, California is bracing for more rain this week despite having gone through several powerful storms in recent weeks.</p>
+It&#39;s been a busy week! In the US, the Republican party is having difficulties as they struggle over who should be their speaker. Meanwhile, Biden is trying to promote bipartisanship and bridge the divide between parties. On the sports front, NFL players are returning to work despite heavy hearts following an injury to a player. Elsewhere, Putin has warned his people that a long fight lies ahead and salesforce has announced layoffs due to business slowdowns in the tech sector. Finally, Tesla has had a huge sell-off and Coinbase has just reached a $100 million settlement with New York regulators.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Fight Over Speaker Enters Its Second Day</h3>
@@ -110,28 +110,28 @@ Right now, there seems to be a lot of chaos and confusion going on in the US. Th
 <p>The Russian leader has dropped the pretense that life goes on as normal despite the war, evident in the Kremlin’s quick acknowledgment of mass casualties inflicted by Ukraine last weekend.  <a href="https://nyti.ms/3IDf3gf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Has the Amazon Reached Its ‘Tipping Point’?</h3>
-<sub>By Alex Cuadros</sub>
-<p>Some Brazilian scientists fear that the Amazon may become a grassy savanna — with profound effects on the climate worldwide.  <a href="https://nyti.ms/3GAoBqL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Meta’s Ad Practices Ruled Illegal Under E.U. Law</h3>
+<sub>By Adam Satariano</sub>
+<p>The decision is one of the most consequential issued under the E.U.’s landmark data-protection law and creates a new business headwind for the social media giant.  <a href="https://nyti.ms/3i9WjtG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Abortion Pills Can Now Be Offered at Retail Pharmacies, F.D.A. Says</h3>
-<sub>By Pam Belluck</sub>
-<p>Mifepristone, the first of two drugs in medication abortions, previously had to be dispensed only by clinics, doctors or a few mail-order pharmacies. Now, if local drugstores or chains like CVS agree to certain rules, they can provide it.  <a href="https://nyti.ms/3GdNt6b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Are Energy Prices So High? Some Experts Blame Deregulation.</h3>
-<sub>By Ivan Penn</sub>
-<p>California and the 34 other states that have deregulated all or parts of their electricity system tend to have higher rates than the rest of the country.  <a href="https://nyti.ms/3Z75vjg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Salesforce to Lay Off 10 Percent of Staff and Cut Office Space</h3>
+<sub>By Isabella Simonetti</sub>
+<p>The software company plans to cut around 8,000 jobs as business slows for tech companies. “We hired too many people leading into this economic downturn,” Salesforce’s chief executive said.  <a href="https://nyti.ms/3WIt7Ju"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Braces for Yet More Rain</h3>
-<sub>By John Yoon</sub>
-<p>Emergency responders and residents have endured several powerful storms in recent weeks. Wednesday brings another.  <a href="https://nyti.ms/3CmpZLf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Tesla Bulls Brace for a Rough Year Ahead</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>A huge sell-off wiped billions of dollars from the electric carmaker’s market capitalization on Tuesday. Analysts see more trouble ahead.  <a href="https://nyti.ms/3QhC9un"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Coinbase Reaches $100 Million Settlement With New York Regulators</h3>
+<sub>By Matthew Goldstein and Emily Flitter</sub>
+<p>The U.S. crypto exchange will pay a $50 million fine for letting customers open accounts with few background checks and spend $50 million to improve compliance.  <a href="https://nyti.ms/3vA7dMi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
