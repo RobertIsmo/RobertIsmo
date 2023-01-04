@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, January 3, Central Standard Time</p>
+<p>It is Wednesday, January 4, Central Standard Time</p>
 <p>
-It looks like these past few days have been pretty eventful. In the US, the first day of Congress was disrupted by a right-wing rebellion that stopped House GOP leader Kevin McCarthy from becoming speaker. Meanwhile, Hakeem Jeffries became the first Black politician to lead either party in Congress. We also heard about a Republican representative-elect who made false claims about his background and education. On a more somber note, there’s a suspect in the killing of 4 Idaho undergrads who has agreed to be extradited and there was also heavy snowfall and tornadoes wreaking havoc on Midwestern and Southern states. In other news, the NFL said that a suspended game won&#39;t resume this week, but we heard some inspiring news about a Buffalo Bills safety who went into cardiac arrest during a game Monday night. Overseas, Russian president Putin has been preparing his people for a long fight ahead due to heightened anxiety and Ukraine keeps harming Russian drones with missiles despite the high costs involved. Finally, the FDA just said abortion pills can now be offered at retail pharmacies which could mean better accessibility for many women.</p>
+It feels like the world is going through some turbulent times right now. In the US, on the first day of the new congressional session, the House Republicans were paralyzed when a right-wing group blocked one of their own from becoming speaker. This revealed how divided and disoriented their majority has become. The Democrats chose a lawyer and tactician to be their leader who happens to be their first Black politician in this role. Another exciting news item is that abortion pills can now be offered at retail pharmacies after the FDA made a decision. We even had another football drama when one of the players went into cardiac arrest during a game, but fortunately he&#39;s doing better now with doctors getting him breathing without a ventilator. On the world stage, Russian President Putin spoke to his people warning them to get ready for a long battle while Ukraine&#39;s military efforts cost them heavily in shooting down drones. Finally, here&#39;s an interesting piece of news - researchers have found out how channelsing awe can improve our mental health!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House G.O.P. Paralyzed on Day 1 as Right Wing Blocks McCarthy Speakership</h3>
@@ -98,8 +98,14 @@ It looks like these past few days have been pretty eventful. In the US, the firs
 <p>Hamlin, a Buffalo Bills safety who went into cardiac arrest during a game Monday night, asserted himself as a leader in high school — and kept going back to help others after he graduated.  <a href="https://nyti.ms/3vD9dmY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>What the N.F.L. Says, and What It Doesn’t, About Injuries</h3>
+<sub>By Alan Blinder</sub>
+<p>The league regularly shares information about concussions and knee injuries, but it reveals only so much about player health in general.  <a href="https://nyti.ms/3VJ6uDt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Heightened Anxiety, Putin Prepares Russians for Long Fight Ahead</h3>
+<h3>Putin Prepares Russians for a Long Fight Ahead</h3>
 <sub>By Anton Troianovski and Anatoly Kurmanaev</sub>
 <p>The Russian leader has dropped the pretense that life goes on as normal despite the war, evident in the Kremlin’s quick acknowledgment of mass casualties inflicted by Ukraine last weekend.  <a href="https://nyti.ms/3IDf3gf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
@@ -126,12 +132,6 @@ It looks like these past few days have been pretty eventful. In the US, the firs
 <h3>Suspect in Killing of 4 Idaho Undergrads Agrees to Be Extradited</h3>
 <sub>By David DeKok and Nicholas Bogel-Burroughs</sub>
 <p>The 28-year-old Ph.D. student accused in the killings will be taken to Idaho to face four counts of murder after making a brief appearance in a Pennsylvania courtroom.  <a href="https://nyti.ms/3WG70TH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Heavy Snowfall and Tornadoes Wreak Havoc on Midwest and South</h3>
-<sub>By Neelam Bohra</sub>
-<p>A “multi-hazard” storm that had already flooded the West Coast turned into a large winter storm system as it moved across the country.  <a href="https://nyti.ms/3ZhLjLI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
