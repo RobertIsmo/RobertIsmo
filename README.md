@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 3, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. The US House of Representatives is divided, and they recently failed to coalesce around Kevin McCarthy for speaker. Hakeem Jeffries was just named leader of the House Democrats- he&#39;s the first Black politician to lead either party in Congress. 
-
-There&#39;s also been a big news story about an US representative-elect, George Santos- he has made false claims about his background, education and finances. In sports news, NFL player Damar Hamlin is currently in the hospital after suffering cardiac arrest, and the family hopes he&#39;ll make a full recovery. 
-
-The Russian leader, Putin, is preparing Russians for a long fight ahead as anxiety rises. Meanwhile, the FDA has just announced that abortion pills can be offered at retail pharmacies with certain rules. Finally, there&#39;s been a lot of natural disasters recently as well- heavy snowfall and tornadoes wreaking havoc on Midwest and South while California&#39;s experiencing storms shaped by climate change.</p>
+It looks like these past few days have been pretty eventful. In the US, the first day of Congress was disrupted by a right-wing rebellion that stopped House GOP leader Kevin McCarthy from becoming speaker. Meanwhile, Hakeem Jeffries became the first Black politician to lead either party in Congress. We also heard about a Republican representative-elect who made false claims about his background and education. On a more somber note, there’s a suspect in the killing of 4 Idaho undergrads who has agreed to be extradited and there was also heavy snowfall and tornadoes wreaking havoc on Midwestern and Southern states. In other news, the NFL said that a suspended game won&#39;t resume this week, but we heard some inspiring news about a Buffalo Bills safety who went into cardiac arrest during a game Monday night. Overseas, Russian president Putin has been preparing his people for a long fight ahead due to heightened anxiety and Ukraine keeps harming Russian drones with missiles despite the high costs involved. Finally, the FDA just said abortion pills can now be offered at retail pharmacies which could mean better accessibility for many women.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House G.O.P. Paralyzed on Day 1 as Right Wing Blocks McCarthy Speakership</h3>
+<sub>By Catie Edmondson</sub>
+<p>On the first day of the new Congress, Representative Kevin McCarthy fell short repeatedly in his bid to become speaker as a right-wing rebellion prompted a historic floor fight.  <a href="https://nyti.ms/3i7qYrA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Speaker Fight Reveals a Divided and Disoriented House Majority</h3>
 <sub>By Carl Hulse</sub>
@@ -87,25 +89,25 @@ The Russian leader, Putin, is preparing Russians for a long fight ahead as anxie
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>N.F.L. Says Suspended Game Won’t Resume This Week as Hamlin Stays in Hospital</h3>
 <sub>By Ken Belson</sub>
-<p>The family of Damar Hamlin expressed optimism even though his medical condition had not changed after his cardiac arrest.  <a href="https://nyti.ms/3Qej6RW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>An uncle of Damar Hamlin, a Bills safety who went into cardiac arrest during Monday’s game, said Tuesday night that doctors were working to get his nephew breathing on his own without a ventilator.  <a href="https://nyti.ms/3Qej6RW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>N.F.L. Player’s Collapse Put ESPN at the Center of the News</h3>
-<sub>By John Koblin</sub>
-<p>The question everyone wanted to know, including those at the sports network: What had happened to Damar Hamlin, and would he be OK?  <a href="https://nyti.ms/3ZjwjwS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Damar Hamlin’s Cardiac Arrest: What We Know and Don’t Know</h3>
-<sub>By Gina Kolata</sub>
-<p>Cardiac doctors say that blows to the chest causing an erratic heart rhythm are highly unusual, but not unheard-of in sports.  <a href="https://nyti.ms/3CmKyXU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>On His Way to the N.F.L., Damar Hamlin Was Determined to Give Back</h3>
+<sub>By Billy Witz and Jenny Vrentas</sub>
+<p>Hamlin, a Buffalo Bills safety who went into cardiac arrest during a game Monday night, asserted himself as a leader in high school — and kept going back to help others after he graduated.  <a href="https://nyti.ms/3vD9dmY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>With Heightened Anxiety, Putin Prepares Russians for Long Fight Ahead</h3>
 <sub>By Anton Troianovski and Anatoly Kurmanaev</sub>
 <p>The Russian leader has dropped the pretense that life goes on as normal despite the war, evident in the Kremlin’s quick acknowledgment of mass casualties inflicted by Ukraine last weekend.  <a href="https://nyti.ms/3IDf3gf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Keeps Downing Russian Drones, but Price Tag Is High</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>When costly missiles take out cheap drones, the real winner over time may be the country that spends less.  <a href="https://nyti.ms/3jQEFff"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -130,12 +132,6 @@ The Russian leader, Putin, is preparing Russians for a long fight ahead as anxie
 <h3>Heavy Snowfall and Tornadoes Wreak Havoc on Midwest and South</h3>
 <sub>By Neelam Bohra</sub>
 <p>A “multi-hazard” storm that had already flooded the West Coast turned into a large winter storm system as it moved across the country.  <a href="https://nyti.ms/3ZhLjLI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Climate Change Is Shaping California’s Winter Storms</h3>
-<sub>By Raymond Zhong</sub>
-<p>So far, the downpours are largely in line with past storms, an official said. But their quick pace is testing the limits of the state’s infrastructure.  <a href="https://nyti.ms/3CmU0KJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
