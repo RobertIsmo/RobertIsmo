@@ -60,17 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 4, Central Standard Time</p>
 <p>
-To catch them up on the news, I&#39;d tell my close friend that in the US there are divisions in the House Majority as they fail to agree on a new speaker, and state politics are shaking up too with the New York representative being the first Black politician to lead either party in Congress. Also, a Republican candidate for office who has made false claims about his past is now in Washington DC.
-
-On the sports front, there was a suspended NFL game due to a Bills safety going into cardiac arrest, but he&#39;s still in hospital. In addition, an important story in Russia is that President Putin is seems to be preparing Russians for a long fight ahead because of war with Ukraine.
-
-Finally, the FDA has determined that abortion pills can now be offered at retail pharmacies, and some studies suggest that awe can improve one&#39;s overall health too.</p>
+Right now, there seems to be a lot of chaos and confusion going on in the US. There&#39;s a fight for Speaker of the House that has been going on for the past few days and tensions are high between Republicans. Biden is trying to promote bipartisanship, but divisions in Congress seem to be growing. In sports, NFL players have been saddened by Buffalo Bills safety Damar Hamlin&#39;s cardiac arrest during a game and they are getting ready to go back to work. Internationally, Putin is preparing Russians for a long fight ahead after Ukraine inflicted mass casualties last weekend. The Amazon is also a worry right now as some experts fear it has gone beyond its &#39;tipping point&#39;. On the bright side, the FDA recently announced that abortion pills can be provided at retail pharmacies. Lastly, California is bracing for more rain this week despite having gone through several powerful storms in recent weeks.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House G.O.P. Paralyzed on Day 1 as Right Wing Blocks McCarthy Speakership</h3>
+<h3>G.O.P. Fight Over Speaker Enters Its Second Day</h3>
 <sub>By Catie Edmondson</sub>
-<p>On the first day of the new Congress, Representative Kevin McCarthy fell short repeatedly in his bid to become speaker as a right-wing rebellion prompted a historic floor fight.  <a href="https://nyti.ms/3i7qYrA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The House is set to reconvene at noon to continue a historic floor fight — the first in a century — prompted by the Republican leader’s failure to secure a majority to become speaker.  <a href="https://nyti.ms/3IjGZFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Far Right Are the 20 Republicans Who Voted Against McCarthy</h3>
+<sub>By Danielle Ivory, Charlie Smart and Karen Yourish</sub>
+<p>Most denied the 2020 election, are members of the ultraconservative Freedom Caucus, or both.  <a href="https://nyti.ms/3GhDooM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Promotes Bipartisan Victories as Divisions Roil the Republican Party</h3>
+<sub>By Michael D. Shear</sub>
+<p>The president, who has said he intends to run for re-election, will travel to Kentucky to emphasize that he is determined to reach across the aisle.  <a href="https://nyti.ms/3IjGY4z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Speaker Fight Reveals a Divided and Disoriented House Majority</h3>
@@ -78,17 +86,11 @@ Finally, the FDA has determined that abortion pills can now be offered at retail
 <p>In failing to coalesce around Kevin McCarthy for speaker, Republicans showcased divisions that portend real difficulties in governing.  <a href="https://nyti.ms/3CoECNV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Hakeem Jeffries Takes Over as Leader of House Democrats</h3>
-<sub>By Nicholas Fandos</sub>
-<p>A lawyer and disciplined tactician, Mr. Jeffries is the first Black politician to lead either party in Congress.  <a href="https://nyti.ms/3WGKmec"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>George Santos Came to Washington. It Was Awkward.</h3>
-<sub>By Annie Karni and Michael Gold</sub>
-<p>On the first day of the 118th Congress, the representative-elect, a Republican who has made false claims about his background, education and finances, brought his saga to Capitol Hill.  <a href="https://nyti.ms/3YYoJYa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>With Heavy Hearts, N.F.L. Players Prepare to Go Back to Work</h3>
+<sub>By Jenny Vrentas</sub>
+<p>Teams will return to practices on Wednesday, two days after Buffalo Bills safety Damar Hamlin suffered a cardiac arrest during a game. He remains hospitalized.  <a href="https://nyti.ms/3GD1Hik"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>N.F.L. Says Suspended Game Won’t Resume This Week as Hamlin Stays in Hospital</h3>
@@ -102,23 +104,17 @@ Finally, the FDA has determined that abortion pills can now be offered at retail
 <p>Hamlin, a Buffalo Bills safety who went into cardiac arrest during a game Monday night, asserted himself as a leader in high school — and kept going back to help others after he graduated.  <a href="https://nyti.ms/3vD9dmY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>What the N.F.L. Says, and What It Doesn’t, About Injuries</h3>
-<sub>By Alan Blinder</sub>
-<p>The league regularly shares information about concussions and knee injuries, but it reveals only so much about player health in general.  <a href="https://nyti.ms/3VJ6uDt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Prepares Russians for a Long Fight Ahead</h3>
 <sub>By Anton Troianovski and Anatoly Kurmanaev</sub>
 <p>The Russian leader has dropped the pretense that life goes on as normal despite the war, evident in the Kremlin’s quick acknowledgment of mass casualties inflicted by Ukraine last weekend.  <a href="https://nyti.ms/3IDf3gf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Keeps Downing Russian Drones, but Price Tag Is High</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>When costly missiles take out cheap drones, the real winner over time may be the country that spends less.  <a href="https://nyti.ms/3jQEFff"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Has the Amazon Reached Its ‘Tipping Point’?</h3>
+<sub>By Alex Cuadros</sub>
+<p>Some Brazilian scientists fear that the Amazon may become a grassy savanna — with profound effects on the climate worldwide.  <a href="https://nyti.ms/3GAoBqL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Abortion Pills Can Now Be Offered at Retail Pharmacies, F.D.A. Says</h3>
@@ -126,17 +122,17 @@ Finally, the FDA has determined that abortion pills can now be offered at retail
 <p>Mifepristone, the first of two drugs in medication abortions, previously had to be dispensed only by clinics, doctors or a few mail-order pharmacies. Now, if local drugstores or chains like CVS agree to certain rules, they can provide it.  <a href="https://nyti.ms/3GdNt6b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>How a Bit of Awe Can Improve Your Health</h3>
-<sub>By Hope Reese</sub>
-<p>Experts say wonder is an essential human emotion — and a salve for a turbulent mind.  <a href="https://nyti.ms/3jQwfUM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Are Energy Prices So High? Some Experts Blame Deregulation.</h3>
+<sub>By Ivan Penn</sub>
+<p>California and the 34 other states that have deregulated all or parts of their electricity system tend to have higher rates than the rest of the country.  <a href="https://nyti.ms/3Z75vjg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Suspect in Killing of 4 Idaho Undergrads Agrees to Be Extradited</h3>
-<sub>By David DeKok and Nicholas Bogel-Burroughs</sub>
-<p>The 28-year-old Ph.D. student accused in the killings will be taken to Idaho to face four counts of murder after making a brief appearance in a Pennsylvania courtroom.  <a href="https://nyti.ms/3WG70TH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<h3>California Braces for Yet More Rain</h3>
+<sub>By John Yoon</sub>
+<p>Emergency responders and residents have endured several powerful storms in recent weeks. Wednesday brings another.  <a href="https://nyti.ms/3CmpZLf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
