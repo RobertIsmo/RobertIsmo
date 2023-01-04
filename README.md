@@ -60,24 +60,40 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 3, Central Standard Time</p>
 <p>
-In the US, people are demanding accountability from politicians like McCarthy, while tensions between Republican politicians Trump and DeSantis could have a big influence in the upcoming 2024 presidential elections. In the sports world, NFL player Damar Hamlin experienced cardiac arrest during a game and is still in hospital. Meanwhile, gas prices for European consumers and industry remain high despite warm weather due to supply being replaced by alternatives to Russian gas. In Ukraine, children affected by the Russian invasion are painting their experiences of war with tanks and teddy bears, which were then exhibited in a museum in the US. On a more hopeful note, experts say that feeling awe can be good for our health, and even short phone calls can help increase our overall wellbeing. Finally, in Tunisia, burn wards are filled with citizens after a failed democracy and perceived lack of prosperity from elected officials.</p>
+There&#39;s a lot happening in the world right now. The US House of Representatives is divided, and they recently failed to coalesce around Kevin McCarthy for speaker. Hakeem Jeffries was just named leader of the House Democrats- he&#39;s the first Black politician to lead either party in Congress. 
+
+There&#39;s also been a big news story about an US representative-elect, George Santos- he has made false claims about his background, education and finances. In sports news, NFL player Damar Hamlin is currently in the hospital after suffering cardiac arrest, and the family hopes he&#39;ll make a full recovery. 
+
+The Russian leader, Putin, is preparing Russians for a long fight ahead as anxiety rises. Meanwhile, the FDA has just announced that abortion pills can be offered at retail pharmacies with certain rules. Finally, there&#39;s been a lot of natural disasters recently as well- heavy snowfall and tornadoes wreaking havoc on Midwest and South while California&#39;s experiencing storms shaped by climate change.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here’s what McCarthy’s detractors are demanding.</h3>
-<sub>By Emily Cochrane</sub>
-<p>  <a href="https://nyti.ms/3Zaym68"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Speaker Fight Reveals a Divided and Disoriented House Majority</h3>
+<sub>By Carl Hulse</sub>
+<p>In failing to coalesce around Kevin McCarthy for speaker, Republicans showcased divisions that portend real difficulties in governing.  <a href="https://nyti.ms/3CoECNV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Hakeem Jeffries Takes Over as Leader of House Democrats</h3>
+<sub>By Nicholas Fandos</sub>
+<p>A lawyer and disciplined tactician, Mr. Jeffries is the first Black politician to lead either party in Congress.  <a href="https://nyti.ms/3WGKmec"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>George Santos Came to Washington. It Was Awkward.</h3>
+<sub>By Annie Karni and Michael Gold</sub>
+<p>On the first day of the 118th Congress, the representative-elect, a Republican who has made false claims about his background, education and finances, brought his saga to Capitol Hill.  <a href="https://nyti.ms/3YYoJYa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>N.F.L. Says Suspended Game Won’t Resume This Week as Hamlin Stays in Hospital</h3>
 <sub>By Ken Belson</sub>
-<p>The family of Damar Hamlin expressed optimism even though his medical condition had not changed after a cardiac arrest.  <a href="https://nyti.ms/3Qej6RW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The family of Damar Hamlin expressed optimism even though his medical condition had not changed after his cardiac arrest.  <a href="https://nyti.ms/3Qej6RW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>We’re All Complicit in the N.F.L.’s Violent Spectacle</h3>
-<sub>By Kurt Streeter</sub>
-<p>The appetite for football has never been higher, even as viewers look past the toll the sport takes on players’ lives. Damar Hamlin’s collapse during a prime-time game should force a reconsideration.  <a href="https://nyti.ms/3Z6BT5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>N.F.L. Player’s Collapse Put ESPN at the Center of the News</h3>
+<sub>By John Koblin</sub>
+<p>The question everyone wanted to know, including those at the sports network: What had happened to Damar Hamlin, and would he be OK?  <a href="https://nyti.ms/3ZjwjwS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -86,16 +102,16 @@ In the US, people are demanding accountability from politicians like McCarthy, w
 <p>Cardiac doctors say that blows to the chest causing an erratic heart rhythm are highly unusual, but not unheard-of in sports.  <a href="https://nyti.ms/3CmKyXU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Natural Gas Prices in Europe Fall to Pre-Invasion Levels</h3>
-<sub>By Stanley Reed</sub>
-<p>Warm weather, alternatives to Russian gas and a buildup of storage all help. But prices remain high for consumers and industry.  <a href="https://nyti.ms/3Cjf4BE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With Heightened Anxiety, Putin Prepares Russians for Long Fight Ahead</h3>
+<sub>By Anton Troianovski and Anatoly Kurmanaev</sub>
+<p>The Russian leader has dropped the pretense that life goes on as normal despite the war, evident in the Kremlin’s quick acknowledgment of mass casualties inflicted by Ukraine last weekend.  <a href="https://nyti.ms/3IDf3gf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Tanks and Teddy Bears: Ukrainian Children Paint the War</h3>
-<sub>By Julia Jacobs</sub>
-<p>An artist from Lviv has brought works by young people affected by the Russian invasion to a museum in Chicago’s Ukrainian enclave.  <a href="https://nyti.ms/3WYcKIk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Abortion Pills Can Now Be Offered at Retail Pharmacies, F.D.A. Says</h3>
+<sub>By Pam Belluck</sub>
+<p>Mifepristone, the first of two drugs in medication abortions, previously had to be dispensed only by clinics, doctors or a few mail-order pharmacies. Now, if local drugstores or chains like CVS agree to certain rules, they can provide it.  <a href="https://nyti.ms/3GdNt6b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
@@ -104,34 +120,22 @@ In the US, people are demanding accountability from politicians like McCarthy, w
 <p>Experts say wonder is an essential human emotion — and a salve for a turbulent mind.  <a href="https://nyti.ms/3jQwfUM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Day 2: The Secret Power of the 8-Minute Phone Call</h3>
-<sub>By Jancee Dunn</sub>
-<p>Even a brief chat has measurable effects on our well-being.  <a href="https://nyti.ms/3GcJyGG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump-DeSantis Showdown Could Supercharge Latino Evangelicals’ Influence</h3>
-<sub>By Jennifer Medina</sub>
-<p>In Florida, where Hispanic evangelicals carry outsize influence, many of their pastors view the budding 2024 rivalry as a sign of the potency of their unabashedly politicized Christianity.  <a href="https://nyti.ms/3X1BeR6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Suspect in Killing of 4 Idaho Undergrads Agrees to Be Extradited</h3>
 <sub>By David DeKok and Nicholas Bogel-Burroughs</sub>
 <p>The 28-year-old Ph.D. student accused in the killings will be taken to Idaho to face four counts of murder after making a brief appearance in a Pennsylvania courtroom.  <a href="https://nyti.ms/3WG70TH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Bankman-Fried Pleads Not Guilty to Fraud and Other Charges</h3>
-<sub>By Benjamin Weiser, David Yaffe-Bellany and Matthew Goldstein</sub>
-<p>The founder of the collapsed cryptocurrency exchange FTX, who was released on a $250 million bond, returned to New York to appear in court on Tuesday.  <a href="https://nyti.ms/3VK8Kdk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Heavy Snowfall and Tornadoes Wreak Havoc on Midwest and South</h3>
+<sub>By Neelam Bohra</sub>
+<p>A “multi-hazard” storm that had already flooded the West Coast turned into a large winter storm system as it moved across the country.  <a href="https://nyti.ms/3ZhLjLI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Hospital Ward, the Wounds of a Failed Democracy Don’t Heal</h3>
-<sub>By Vivian Yee</sub>
-<p>Tunisia’s road to democracy began with a self-immolation, and such cases have filled hospital burn wards ever since, as elected leaders failed to deliver on a promise of prosperity.  <a href="https://nyti.ms/3CjcR9I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Climate Change Is Shaping California’s Winter Storms</h3>
+<sub>By Raymond Zhong</sub>
+<p>So far, the downpours are largely in line with past storms, an official said. But their quick pace is testing the limits of the state’s infrastructure.  <a href="https://nyti.ms/3CmU0KJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
