@@ -60,19 +60,23 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 4, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The US House of Representatives is in the midst of voting for the new Speaker, while 20 Republicans have been deemed to be far-right leaning. In sports, NFL players are grappling with the violent consequences of the game, while Damar Hamlin recently suffered a cardiac arrest during a game. In terms of technology, Meta has been ruled illegal under EU law and Salesforce will be laying off 10% of its staff due to economic slowdown. Tesla&#39;s market capitalization had a huge sell-off and Coinbase reached a $100 million settlement with New York regulators. There are also two new movies that provide an unfamiliar discourse around the #MeToo movement, and some Brazilians fear the Amazon may soon &quot;tip&quot; into becoming a savanna. To top it off, California is bracing for some more severe flooding from an incoming storm!</p>
+Hi, 
+
+I just wanted to let you know that there’s a lot happening in the world right now. In the US, there was an election for House Speaker and some far-right Republicans are pushing for more influence. There’s also been issues with football players’ safety due to its violent nature. Trailers have been closed because of warmer than usual temperatures and flooding has been occurring in California because of powerful storms. We also learned that some social media companies were practicing illegal data protection under EU Law and layoffs in the tech industry were announced by Salesforce. In entertainment, there is a new batch of movies coming out that are looking to take on the #MeToo movement. And lastly, the Federal Reserve was worried that markets might misread their rate slowdown while Rick Singer, the mastermind behind the Varsity Blues scandal, was sentenced to 3 1&#x2F;2 years in prison. 
+
+All-in-all, things are quite chaotic but hopefully things can start getting better soon! Let me know what you think about all this news!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Live Vote Count: Tracking the House Speaker Votes</h3>
 <sub>By Allison McCartney, Alicia Parlapiano and Emily Cochrane</sub>
-<p>Follow live to see how each representative voted for House speaker.  <a href="https://nyti.ms/3CmBDFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Follow live to see how each representative voted for House speaker on each ballot.  <a href="https://nyti.ms/3CmBDFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Far Right Are the 20 Republicans Who Voted Against McCarthy</h3>
-<sub>By Danielle Ivory, Charlie Smart and Karen Yourish</sub>
-<p>Most denied the 2020 election, are members of the ultraconservative Freedom Caucus, or both.  <a href="https://nyti.ms/3GhDooM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<h3>What the Far-Right Republicans Want: To Remake Congress and the Government</h3>
+<sub>By Carl Hulse and Emily Cochrane</sub>
+<p>At the heart of the speakership battle is a right-wing push for more influence.  <a href="https://nyti.ms/3GC4vMP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Grappling With, but Not Yet Turning Away From, Football’s Violent Pull</h3>
@@ -81,16 +85,16 @@ There is a lot going on in the world right now. The US House of Representatives 
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>With Heavy Hearts, N.F.L. Players Prepare to Go Back to Work</h3>
-<sub>By Jenny Vrentas</sub>
-<p>Teams will return to practices on Wednesday, two days after Buffalo Bills safety Damar Hamlin suffered a cardiac arrest during a game. He remains hospitalized.  <a href="https://nyti.ms/3GD1Hik"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Will the Suspended Bills-Bengals Game Be Resolved?</h3>
+<sub>By Victor Mather</sub>
+<p>The N.F.L. has a number of options, none of them perfect, for how to handle competition for the last week of the regular season and the playoffs.  <a href="https://nyti.ms/3VG7gRn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Damar Hamlin’s Collapse Tests Buffalo Again: ‘Karma Owes Us’</h3>
-<sub>By Jesse McKinley and Lauren D’Avolio</sub>
-<p>In a wrenching year for the city, the Bills offered a beloved distraction, until the horrifying collapse of their 24-year-old safety on Monday night.  <a href="https://nyti.ms/3vAMojT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>What to Know About Damar Hamlin’s Injury</h3>
+<sub>By Victor Mather</sub>
+<p>Hamlin, a Buffalo Bills safety, was in critical condition at a hospital after going into cardiac arrest following a routine tackle.  <a href="https://nyti.ms/3QhjOxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Meta’s Ad Practices Ruled Illegal Under E.U. Law</h3>
@@ -99,21 +103,9 @@ There is a lot going on in the world right now. The US House of Representatives 
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Salesforce to Lay Off 10 Percent of Staff and Cut Office Space</h3>
+<h3>Salesforce to Lay Off 10% of Staff and Cut Office Space</h3>
 <sub>By Isabella Simonetti and Kalley Huang</sub>
 <p>The software company plans to cut around 8,000 jobs as business slows for tech companies. “We hired too many people leading into this economic downturn,” Salesforce’s chief executive said.  <a href="https://nyti.ms/3QfUJD3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Tesla Bulls Brace for a Rough Year Ahead</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>A huge sell-off wiped billions of dollars from the electric carmaker’s market capitalization on Tuesday. Analysts see more trouble ahead.  <a href="https://nyti.ms/3QhC9un"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Coinbase Reaches $100 Million Settlement With New York Regulators</h3>
-<sub>By Matthew Goldstein and Emily Flitter</sub>
-<p>The U.S. crypto exchange will pay a $50 million fine for letting customers open accounts with few background checks and spend $50 million to improve compliance.  <a href="https://nyti.ms/3vA7dMi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -122,16 +114,28 @@ There is a lot going on in the world right now. The US House of Representatives 
 <p>How “Women Talking” and “Tár” make the discourse around the movement feel thrillingly unfamiliar.  <a href="https://nyti.ms/3GvF27y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Has the Amazon Reached Its ‘Tipping Point’?</h3>
-<sub>By Alex Cuadros</sub>
-<p>Some Brazilian scientists fear that the Amazon may become a grassy savanna — with profound effects on the climate worldwide.  <a href="https://nyti.ms/3GAoBqL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fed Officials Fretted That Markets Would Misread Rate Slowdown</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Central bankers remained committed to wrestling inflation lower, and wanted to make sure investors understood that message, minutes from the Federal Reserve’s December meeting showed.  <a href="https://nyti.ms/3jQ1fVb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Powerful Storm Threatens California With More Flooding</h3>
-<sub>By Shawn Hubler and John Yoon</sub>
-<p>After several damaging storms swept through the state in recent weeks, residents face another deluge.  <a href="https://nyti.ms/3CmpZLf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Shawn Hubler, John Yoon and Jacey Fortin</sub>
+<p>After several damaging storms swept through the state in recent weeks, residents face another deluge.  <a href="https://nyti.ms/3Qctg5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Some in Europe Toasted the New Year in T-Shirts</h3>
+<sub>By Isabella Kwai</sub>
+<p>Countries across the continent saw the warmest start to the year ever measured. The weather has forced ski resorts to close trails, with sparser than usual snow cover.  <a href="https://nyti.ms/3Z4AEE1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Rick Singer, Mastermind of Varsity Blues Scandal, Is Sentenced to 3½ Years in Prison</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>The ruling is a final chapter in the cheating scandal. But the cynicism over college admissions, athletics and fund-raising is not going away.  <a href="https://nyti.ms/3GGK9So"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
