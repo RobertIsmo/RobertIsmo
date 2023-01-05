@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 4, Central Standard Time</p>
 <p>
-Hi, 
-
-I just wanted to let you know that there’s a lot happening in the world right now. In the US, there was an election for House Speaker and some far-right Republicans are pushing for more influence. There’s also been issues with football players’ safety due to its violent nature. Trailers have been closed because of warmer than usual temperatures and flooding has been occurring in California because of powerful storms. We also learned that some social media companies were practicing illegal data protection under EU Law and layoffs in the tech industry were announced by Salesforce. In entertainment, there is a new batch of movies coming out that are looking to take on the #MeToo movement. And lastly, the Federal Reserve was worried that markets might misread their rate slowdown while Rick Singer, the mastermind behind the Varsity Blues scandal, was sentenced to 3 1&#x2F;2 years in prison. 
-
-All-in-all, things are quite chaotic but hopefully things can start getting better soon! Let me know what you think about all this news!</p>
+There is a lot going on in the world right now. In the US, there is a deadlock in the House of Representatives due to a lack of agreement on who should become the speaker, which has caused a part of government to stop functioning and workers not receiving their pay. Meanwhile, the NFL is grappling with safety issues surrounding football and trying to decide how to handle its last week of the regular season and playoffs. In Ukraine, tensions are high as Russian troops battle against Ukrainian forces using cellphone signals to target them, with Ukraine claiming heavy losses from missile strikes. On a more positive note, movies are being made about the #MeToo movement and exploring what it means for victims. In California, another powerful storm is threatening people with more flooding. And here in New York City, Mayor Eric Adams is dealing with rats in an increasingly bizarre situation that has drawn criticism from those in previous administrations.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Live Vote Count: Tracking the House Speaker Votes</h3>
@@ -73,9 +69,9 @@ All-in-all, things are quite chaotic but hopefully things can start getting bett
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What the Far-Right Republicans Want: To Remake Congress and the Government</h3>
-<sub>By Carl Hulse and Emily Cochrane</sub>
-<p>At the heart of the speakership battle is a right-wing push for more influence.  <a href="https://nyti.ms/3GC4vMP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Lacking a Speaker, One Part of Government Ceases to Function</h3>
+<sub>By Luke Broadwater</sub>
+<p>Lawmakers in the House have yet to be sworn in. They can’t help constituents or get classified briefings, much less hold hearings or pass laws. And at some point, they may have trouble getting paid.  <a href="https://nyti.ms/3Qhh1Vd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -96,16 +92,16 @@ All-in-all, things are quite chaotic but hopefully things can start getting bett
 <p>Hamlin, a Buffalo Bills safety, was in critical condition at a hospital after going into cardiac arrest following a routine tackle.  <a href="https://nyti.ms/3QhjOxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Meta’s Ad Practices Ruled Illegal Under E.U. Law</h3>
-<sub>By Adam Satariano</sub>
-<p>The decision is one of the most consequential issued under the E.U.’s landmark data-protection law and creates a new business headwind for the social media giant.  <a href="https://nyti.ms/3ibftPR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For Russian Troops, Cellphone Use Is a Persistent, Lethal Danger</h3>
+<sub>By Alan Yuhas, Thomas Gibbons-Neff and Yousur Al-Hlou</sub>
+<p>Ukrainian artillery targets Russian soldiers by pinpointing their phone signals. Despite the deadly results, Russian troops keep defying a ban on cellphone use near the front.  <a href="https://nyti.ms/3jTSIAn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Salesforce to Lay Off 10% of Staff and Cut Office Space</h3>
-<sub>By Isabella Simonetti and Kalley Huang</sub>
-<p>The software company plans to cut around 8,000 jobs as business slows for tech companies. “We hired too many people leading into this economic downturn,” Salesforce’s chief executive said.  <a href="https://nyti.ms/3QfUJD3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Claims Heavy Russian Losses in Waves of Missile Strikes</h3>
+<sub>By Andrew E. Kramer, Anatoly Kurmanaev and Christiaan Triebert</sub>
+<p>Kyiv says its forces have killed or wounded more than 1,000 Russian soldiers in a series of pinpoint attacks. Russia has confirmed only one of three waves of strikes.  <a href="https://nyti.ms/3QfiXgQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -122,20 +118,20 @@ All-in-all, things are quite chaotic but hopefully things can start getting bett
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Powerful Storm Threatens California With More Flooding</h3>
-<sub>By Shawn Hubler, John Yoon and Jacey Fortin</sub>
-<p>After several damaging storms swept through the state in recent weeks, residents face another deluge.  <a href="https://nyti.ms/3Qctg5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Shawn Hubler, Soumya Karlamangla and Jacey Fortin</sub>
+<p>After several damaging storms swept through California in recent weeks, Gov. Gavin Newsom has declared a state of emergency as residents face another deluge.  <a href="https://nyti.ms/3Qctg5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Some in Europe Toasted the New Year in T-Shirts</h3>
-<sub>By Isabella Kwai</sub>
-<p>Countries across the continent saw the warmest start to the year ever measured. The weather has forced ski resorts to close trails, with sparser than usual snow cover.  <a href="https://nyti.ms/3Z4AEE1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Mayor Adams Has Rats. Curtis Sliwa Has Cats. What Could Go Wrong?</h3>
+<sub>By Dana Rubinstein</sub>
+<p>The ongoing saga of Mayor Eric Adams and his war against rats reached a new level of absurdity, with Curtis Sliwa and feral cats entering the mix.  <a href="https://nyti.ms/3jM00WZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rick Singer, Mastermind of Varsity Blues Scandal, Is Sentenced to 3½ Years in Prison</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>The ruling is a final chapter in the cheating scandal. But the cynicism over college admissions, athletics and fund-raising is not going away.  <a href="https://nyti.ms/3GGK9So"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Adams Rejects Criticism From de Blasio Aides in Scathing Broadside</h3>
+<sub>By Emma G. Fitzsimmons</sub>
+<p>Mayor Eric Adams expressed frustration over criticism of his policies from officials who served in the previous administration.  <a href="https://nyti.ms/3IoLYVv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
