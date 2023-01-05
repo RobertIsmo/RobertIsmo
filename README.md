@@ -58,14 +58,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, January 4, Central Standard Time</p>
+<p>It is Thursday, January 5, Central Standard Time</p>
 <p>
-There have been lots of interesting news recently. In the US, lawmakers are currently voting for House Speaker and cannot pass laws or help their constituents until one is chosen. In sports, NFL fans, coaches and players are grappling with the violent nature of the game after a player went into cardiac arrest following a tackle. Also, in Ukraine, Russian troops have been targeted by phone pinpointing artillery from Ukraine and in California residents are bracing for more flooding as a powerful storm hits the state. On top of that, Amazon just announced 18,000 layoffs and New York City Mayor Eric Adams is having an ongoing war with rats that just got more complicated with Curtis Sliwa and feral cats entering the fray.</p>
+There has been a lot of political unrest lately in the US and other parts of the world. In the US, there is a rebellion in the House of Representatives against Republican leader Kevin McCarthy that has caused the House to be paralyzed for two days. Meanwhile, in Pennsylvania, there is a surprise development where Republicans are supporting an ex-Democrat for speaker. In Europe, Russian forces are using cellphone signals to target Ukrainian soldiers, violating many international rules and leading to heavy casualties on both sides. In addition, there have also been reports of Russian troops committing sexual violence against civilians in Ukraine. Closer to home, California is facing yet another deluge of severe flooding after a series of damaging storms that have swept through recently, prompting the state&#39;s governor to declare an emergency. Finally, in New York City, Mayor Eric Adams is clashing with aides of his predecessor Bill de Blasio over rat control and other city issues - even going so far as enlisting radio host Curtis Sliwa and his army of feral cats, to help fight off rats!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Live Vote Count: Tracking the House Speaker Votes</h3>
-<sub>By Allison McCartney, Alicia Parlapiano and Emily Cochrane</sub>
-<p>Follow live to see how each representative voted for House speaker on each ballot.  <a href="https://nyti.ms/3CmBDFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>McCarthy Flounders as G.O.P. Rebellion Paralyzes the House for a Second Day</h3>
+<sub>By Catie Edmondson</sub>
+<p>The House continued a historic floor showdown — the first in a century — prompted by the Republican leader’s failure to secure a majority to become speaker.  <a href="https://nyti.ms/3IjGZFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,22 +74,16 @@ There have been lots of interesting news recently. In the US, lawmakers are curr
 <p>Lawmakers in the House have yet to be sworn in. They can’t help constituents or get classified briefings, much less hold hearings or pass laws. And at some point, they may have trouble getting paid.  <a href="https://nyti.ms/3Qhh1Vd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Grappling With, but Not Yet Turning Away From, Football’s Violent Pull</h3>
-<sub>By Andrew Keh</sub>
-<p>After Damar Hamlin’s collapse during an N.F.L. game, fans, coaches and players processed what it meant to love a sport that carries the risk of bodily harm for its participants.  <a href="https://nyti.ms/3GfKIkT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Far Right Are the 20 Republicans Who Voted Against McCarthy?</h3>
+<sub>By Danielle Ivory, Charlie Smart and Karen Yourish</sub>
+<p>Most denied the 2020 election, are members of the ultraconservative Freedom Caucus, or both.  <a href="https://nyti.ms/3GhDooM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How Will the Suspended Bills-Bengals Game Be Resolved?</h3>
-<sub>By Victor Mather</sub>
-<p>The N.F.L. has a number of options, none of them perfect, for how to handle competition for the last week of the regular season and the playoffs.  <a href="https://nyti.ms/3VG7gRn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>What to Know About Damar Hamlin’s Injury</h3>
-<sub>By Victor Mather</sub>
-<p>Hamlin, a Buffalo Bills safety, was in critical condition at a hospital after going into cardiac arrest following a routine tackle.  <a href="https://nyti.ms/3QhjOxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Surprise in Pennsylvania: Republicans Back a (Former?) Democrat for Speaker</h3>
+<sub>By Campbell Robertson</sub>
+<p>Representative Mark Rozzi, long a moderate Democrat, pledged not to caucus with either party as speaker of the closely divided state House of Representatives. Many questions remain.  <a href="https://nyti.ms/3Z8MBZf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,27 +93,27 @@ There have been lots of interesting news recently. In the US, lawmakers are curr
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Fear Still Remains’: Ukraine Finds Sexual Crimes Where Russian Troops Ruled</h3>
+<sub>By Carlotta Gall and Laura Boushnak</sub>
+<p>Russian officials have denied abuses against civilians despite widespread evidence of sexual violence by Russian troops documented by Ukrainian and international investigators.  <a href="https://nyti.ms/3vFMyqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Claims Heavy Russian Losses in Waves of Missile Strikes</h3>
 <sub>By Andrew E. Kramer, Anatoly Kurmanaev and Christiaan Triebert</sub>
 <p>Kyiv says its forces have killed or wounded more than 1,000 Russian soldiers in a series of pinpoint attacks. Russia has confirmed only one of three waves of strikes.  <a href="https://nyti.ms/3QfiXgQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Breaking Out of the #MeToo Movie Formula</h3>
-<sub>By Amanda Hess</sub>
-<p>How “Women Talking” and “Tár” make the discourse around the movement feel thrillingly unfamiliar.  <a href="https://nyti.ms/3GvF27y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Officials Fretted That Markets Would Misread Rate Slowdown</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Central bankers remained committed to wrestling inflation lower, and wanted to make sure investors understood that message, minutes from the Federal Reserve’s December meeting showed.  <a href="https://nyti.ms/3jQ1fVb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Grappling With, but Not Yet Turning Away From, Football’s Violent Pull</h3>
+<sub>By Andrew Keh</sub>
+<p>After Damar Hamlin’s collapse during an N.F.L. game, fans, coaches and players processed what it meant to love a sport that carries the risk of bodily harm for its participants.  <a href="https://nyti.ms/3GfKIkT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Amazon Expands Corporate Layoffs to 18,000 Jobs</h3>
-<sub>By Karen Weise</sub>
-<p>The layoffs will focus on human resources and its retail division, Amazon’s chief executive said in an email to employees.  <a href="https://nyti.ms/3GPPvLz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>What to Know About Damar Hamlin’s Injury</h3>
+<sub>By Victor Mather</sub>
+<p>Hamlin, a Buffalo Bills safety, was in critical condition at a hospital after going into cardiac arrest following a routine tackle.  <a href="https://nyti.ms/3QhjOxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ There have been lots of interesting news recently. In the US, lawmakers are curr
 <h3>Mayor Adams Has Rats. Curtis Sliwa Has Cats. What Could Go Wrong?</h3>
 <sub>By Dana Rubinstein</sub>
 <p>The ongoing saga of Mayor Eric Adams and his war against rats reached a new level of absurdity, with Curtis Sliwa and feral cats entering the mix.  <a href="https://nyti.ms/3jM00WZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Adams Rejects Criticism From de Blasio Aides in Scathing Broadside</h3>
+<sub>By Emma G. Fitzsimmons</sub>
+<p>Mayor Eric Adams expressed frustration over criticism of his policies from officials who served in the previous administration.  <a href="https://nyti.ms/3IoLYVv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
