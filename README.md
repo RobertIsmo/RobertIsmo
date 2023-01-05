@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 5, Central Standard Time</p>
 <p>
-There has been a lot of political unrest lately in the US and other parts of the world. In the US, there is a rebellion in the House of Representatives against Republican leader Kevin McCarthy that has caused the House to be paralyzed for two days. Meanwhile, in Pennsylvania, there is a surprise development where Republicans are supporting an ex-Democrat for speaker. In Europe, Russian forces are using cellphone signals to target Ukrainian soldiers, violating many international rules and leading to heavy casualties on both sides. In addition, there have also been reports of Russian troops committing sexual violence against civilians in Ukraine. Closer to home, California is facing yet another deluge of severe flooding after a series of damaging storms that have swept through recently, prompting the state&#39;s governor to declare an emergency. Finally, in New York City, Mayor Eric Adams is clashing with aides of his predecessor Bill de Blasio over rat control and other city issues - even going so far as enlisting radio host Curtis Sliwa and his army of feral cats, to help fight off rats!</p>
+It looks like there is a lot going on in the US and around the world. In the US, there is a rebellion by republicans that has paralyzed the House of Representatives for a second day, which means representatives cannot help constituents, get classified briefings, hold hearings or pass laws. There&#39;s also a speaker drama in Pennsylvania, where a former Democrat was backed by Republicans to lead the House.
+
+Elsewhere in the world, there is news coming out of Russia and Ukraine. In Russia, there have been reports of cellphone use restrictions among troops due to Ukrainian artillery using phone signals as targeting. In Ukraine, meanwhile, there are reports of sexual crimes committed by Russian troops as well as missile strikes against Russia claiming over 1,000 soldiers.
+
+In the sports realm, an NFL player collapsed during a game and is currently in critical condition at the hospital. Lastly, we have some stories coming from New York City regarding their mayor Eric Adams and his unusual methods for dealing with rat infestations (i.e., enlisting Curtis Sliwa with his team of feral cats).</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy Flounders as G.O.P. Rebellion Paralyzes the House for a Second Day</h3>
