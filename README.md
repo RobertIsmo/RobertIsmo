@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 5, Central Standard Time</p>
 <p>
-In the US, the Republican party is in the midst of a leaderless struggle that threatens to unravel it. At the same time, the House of Representatives have yet to be sworn in due to lack of leadership, leading to a halt in government functions such as helping constituents and passing laws. Meanwhile, there is an outpouring of support for Buffalo Bills safety Damar Hamlin who went into cardiac arrest recently. Over in Ukraine and the Philippines, people are raising awareness about sexual crimes and discrimination experienced by members of their LGBT+ community respectively. In California, global warming has caused more intense rainfall leading to fears of flooding and a need for communities there to give rivers more room to flood. Lastly, a city at the US-Mexico border is gaining international attention as a hub of global trade.</p>
+Right now, there&#39;s a lot going on in the world. In the US, Republicans have been stumbling around without a unified agenda or clear leadership and Congress is having difficulty functioning due to a lack of speakers. There&#39;s also allegations of sexual crimes being committed by Russian troops in Ukraine, and the FTC has proposed legislation that would ban noncompete agreements in labor contracts. On a more uplifting note, we&#39;re hearing stories of faith and resilience from the &quot;Golden Gays&quot; in the Philippines and the brave Buffalo Bills safety Damar Hamlin who inspired fans with his prayers even after he was hospitalized. Climate-wise, California is at a dilemma since it needs to accommodate for rising sea levels but doing so comes with its own unique challenges. Lastly, Laredo (Texas) is catapulting into the future and becoming one of the most important land ports for global trade with companies reducing their reliance on Asian factories.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Nobody Is in Charge’: A Ragged G.O.P. Stumbles Through the Wilderness</h3>
 <sub>By Lisa Lerer and Reid J. Epstein</sub>
 <p>With no unified agenda or clear leadership, Republicans face the prospect that the anti-establishment fervor that has powered the party in recent years could now devour it.  <a href="https://nyti.ms/3Isey8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Prepares to Plunge Back Into Speaker Fight as McCarthy Battles On</h3>
-<sub>By Catie Edmondson</sub>
-<p>The House was scheduled to convene at noon on Thursday after adjourning for the second day in a row without a speaker, after Representative Kevin McCarthy lost a sixth consecutive vote.  <a href="https://nyti.ms/3Qkd0zu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,6 +104,12 @@ In the US, the Republican party is in the midst of a leaderless struggle that th
 <p>Investigators have uncovered widespread evidence of abuse by Moscow’s forces, including rape and forced nudity. Kremlin officials have repeatedly denied accusations of rights violations.  <a href="https://nyti.ms/3vFMyqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Moves to Bar Noncompete Agreements in Labor Contracts</h3>
+<sub>By Noam Scheiber</sub>
+<p>A sweeping proposal by the Federal Trade Commission would block companies from limiting their employees’ ability to work for a rival.  <a href="https://nyti.ms/3ia95IV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The ‘Golden Gays’ Return to the Stage in the Philippines</h3>
 <sub>By Hannah Reyes Morales</sub>
@@ -124,8 +124,8 @@ In the US, the Republican party is in the midst of a leaderless struggle that th
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>California Storm Brings More Rain and Fears of Flooding</h3>
-<sub>By Mike Ives</sub>
-<p>A powerful winter storm moving across the state was bringing heavy rain, wind and snow early Thursday.  <a href="https://nyti.ms/3Cqsnk0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Shawn Hubler and Mike Ives</sub>
+<p>A powerful winter storm moving across the state was bringing heavy rain and wind early Thursday.  <a href="https://nyti.ms/3Cqsnk0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
