@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 4, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, there is a deadlock in the House of Representatives due to a lack of agreement on who should become the speaker, which has caused a part of government to stop functioning and workers not receiving their pay. Meanwhile, the NFL is grappling with safety issues surrounding football and trying to decide how to handle its last week of the regular season and playoffs. In Ukraine, tensions are high as Russian troops battle against Ukrainian forces using cellphone signals to target them, with Ukraine claiming heavy losses from missile strikes. On a more positive note, movies are being made about the #MeToo movement and exploring what it means for victims. In California, another powerful storm is threatening people with more flooding. And here in New York City, Mayor Eric Adams is dealing with rats in an increasingly bizarre situation that has drawn criticism from those in previous administrations.</p>
+There have been lots of interesting news recently. In the US, lawmakers are currently voting for House Speaker and cannot pass laws or help their constituents until one is chosen. In sports, NFL fans, coaches and players are grappling with the violent nature of the game after a player went into cardiac arrest following a tackle. Also, in Ukraine, Russian troops have been targeted by phone pinpointing artillery from Ukraine and in California residents are bracing for more flooding as a powerful storm hits the state. On top of that, Amazon just announced 18,000 layoffs and New York City Mayor Eric Adams is having an ongoing war with rats that just got more complicated with Curtis Sliwa and feral cats entering the fray.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Live Vote Count: Tracking the House Speaker Votes</h3>
@@ -116,22 +116,22 @@ There is a lot going on in the world right now. In the US, there is a deadlock i
 <p>Central bankers remained committed to wrestling inflation lower, and wanted to make sure investors understood that message, minutes from the Federal Reserve’s December meeting showed.  <a href="https://nyti.ms/3jQ1fVb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Amazon Expands Corporate Layoffs to 18,000 Jobs</h3>
+<sub>By Karen Weise</sub>
+<p>The layoffs will focus on human resources and its retail division, Amazon’s chief executive said in an email to employees.  <a href="https://nyti.ms/3GPPvLz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Powerful Storm Threatens California With More Flooding</h3>
-<sub>By Shawn Hubler, Soumya Karlamangla and Jacey Fortin</sub>
-<p>After several damaging storms swept through California in recent weeks, Gov. Gavin Newsom has declared a state of emergency as residents face another deluge.  <a href="https://nyti.ms/3Qctg5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Powerful Storm Hits California, as Residents Brace for More Flooding</h3>
+<sub>By Shawn Hubler, Soumya Karlamangla, Jacey Fortin and Jill Cowan</sub>
+<p>After several damaging storms swept through California in recent weeks, Gov. Gavin Newsom has declared a state of emergency amid another deluge.  <a href="https://nyti.ms/3Qctg5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Mayor Adams Has Rats. Curtis Sliwa Has Cats. What Could Go Wrong?</h3>
 <sub>By Dana Rubinstein</sub>
 <p>The ongoing saga of Mayor Eric Adams and his war against rats reached a new level of absurdity, with Curtis Sliwa and feral cats entering the mix.  <a href="https://nyti.ms/3jM00WZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Adams Rejects Criticism From de Blasio Aides in Scathing Broadside</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>Mayor Eric Adams expressed frustration over criticism of his policies from officials who served in the previous administration.  <a href="https://nyti.ms/3IoLYVv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
