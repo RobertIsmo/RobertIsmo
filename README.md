@@ -60,17 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 5, Central Standard Time</p>
 <p>
-It looks like there is a lot going on in the US and around the world. In the US, there is a rebellion by republicans that has paralyzed the House of Representatives for a second day, which means representatives cannot help constituents, get classified briefings, hold hearings or pass laws. There&#39;s also a speaker drama in Pennsylvania, where a former Democrat was backed by Republicans to lead the House.
-
-Elsewhere in the world, there is news coming out of Russia and Ukraine. In Russia, there have been reports of cellphone use restrictions among troops due to Ukrainian artillery using phone signals as targeting. In Ukraine, meanwhile, there are reports of sexual crimes committed by Russian troops as well as missile strikes against Russia claiming over 1,000 soldiers.
-
-In the sports realm, an NFL player collapsed during a game and is currently in critical condition at the hospital. Lastly, we have some stories coming from New York City regarding their mayor Eric Adams and his unusual methods for dealing with rat infestations (i.e., enlisting Curtis Sliwa with his team of feral cats).</p>
+In the US, the Republican party is in the midst of a leaderless struggle that threatens to unravel it. At the same time, the House of Representatives have yet to be sworn in due to lack of leadership, leading to a halt in government functions such as helping constituents and passing laws. Meanwhile, there is an outpouring of support for Buffalo Bills safety Damar Hamlin who went into cardiac arrest recently. Over in Ukraine and the Philippines, people are raising awareness about sexual crimes and discrimination experienced by members of their LGBT+ community respectively. In California, global warming has caused more intense rainfall leading to fears of flooding and a need for communities there to give rivers more room to flood. Lastly, a city at the US-Mexico border is gaining international attention as a hub of global trade.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Flounders as G.O.P. Rebellion Paralyzes the House for a Second Day</h3>
+<h3>‘Nobody Is in Charge’: A Ragged G.O.P. Stumbles Through the Wilderness</h3>
+<sub>By Lisa Lerer and Reid J. Epstein</sub>
+<p>With no unified agenda or clear leadership, Republicans face the prospect that the anti-establishment fervor that has powered the party in recent years could now devour it.  <a href="https://nyti.ms/3Isey8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Prepares to Plunge Back Into Speaker Fight as McCarthy Battles On</h3>
 <sub>By Catie Edmondson</sub>
-<p>The House continued a historic floor showdown — the first in a century — prompted by the Republican leader’s failure to secure a majority to become speaker.  <a href="https://nyti.ms/3IjGZFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<p>The House was scheduled to convene at noon on Thursday after adjourning for the second day in a row without a speaker, after Representative Kevin McCarthy lost a sixth consecutive vote.  <a href="https://nyti.ms/3Qkd0zu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Lacking a Speaker, One Part of Government Ceases to Function</h3>
@@ -84,35 +86,17 @@ In the sports realm, an NFL player collapsed during a game and is currently in c
 <p>Most denied the 2020 election, are members of the ultraconservative Freedom Caucus, or both.  <a href="https://nyti.ms/3GhDooM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Surprise in Pennsylvania: Republicans Back a (Former?) Democrat for Speaker</h3>
-<sub>By Campbell Robertson</sub>
-<p>Representative Mark Rozzi, long a moderate Democrat, pledged not to caucus with either party as speaker of the closely divided state House of Representatives. Many questions remain.  <a href="https://nyti.ms/3Z8MBZf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Russian Troops, Cellphone Use Is a Persistent, Lethal Danger</h3>
-<sub>By Alan Yuhas, Thomas Gibbons-Neff and Yousur Al-Hlou</sub>
-<p>Ukrainian artillery targets Russian soldiers by pinpointing their phone signals. Despite the deadly results, Russian troops keep defying a ban on cellphone use near the front.  <a href="https://nyti.ms/3jTSIAn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Fear Still Remains’: Ukraine Finds Sexual Crimes Where Russian Troops Ruled</h3>
-<sub>By Carlotta Gall and Laura Boushnak</sub>
-<p>Russian officials have denied abuses against civilians despite widespread evidence of sexual violence by Russian troops documented by Ukrainian and international investigators.  <a href="https://nyti.ms/3vFMyqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Claims Heavy Russian Losses in Waves of Missile Strikes</h3>
-<sub>By Andrew E. Kramer, Anatoly Kurmanaev and Christiaan Triebert</sub>
-<p>Kyiv says its forces have killed or wounded more than 1,000 Russian soldiers in a series of pinpoint attacks. Russia has confirmed only one of three waves of strikes.  <a href="https://nyti.ms/3QfiXgQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Grappling With, but Not Yet Turning Away From, Football’s Violent Pull</h3>
-<sub>By Andrew Keh</sub>
-<p>After Damar Hamlin’s collapse during an N.F.L. game, fans, coaches and players processed what it meant to love a sport that carries the risk of bodily harm for its participants.  <a href="https://nyti.ms/3GfKIkT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<h3>With Hamlin in Hospital, Bills Ready for Next Game</h3>
+<sub>By Kris Rhim</sub>
+<p>As Damar Hamlin remained in critical condition at a Cincinnati hospital, the Bills had a walk-through practice on Wednesday and announced a move to compensate for his absence on their roster.  <a href="https://nyti.ms/3QiMpCT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prayers for Damar Hamlin Show Bond Between Football and Faith</h3>
+<sub>By Ruth Graham</sub>
+<p>Christianity is embedded in N.F.L. culture in a way that goes beyond most sports; “Lord, I need you, please be by my side.”  <a href="https://nyti.ms/3CpzVmY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>What to Know About Damar Hamlin’s Injury</h3>
@@ -120,23 +104,35 @@ In the sports realm, an NFL player collapsed during a game and is currently in c
 <p>Hamlin, a Buffalo Bills safety, was in critical condition at a hospital after going into cardiac arrest following a routine tackle.  <a href="https://nyti.ms/3QhjOxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Fear Still Remains’: Ukraine Finds Sexual Crimes Where Russian Troops Ruled</h3>
+<sub>By Carlotta Gall and Laura Boushnak</sub>
+<p>Investigators have uncovered widespread evidence of abuse by Moscow’s forces, including rape and forced nudity. Kremlin officials have repeatedly denied accusations of rights violations.  <a href="https://nyti.ms/3vFMyqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The ‘Golden Gays’ Return to the Stage in the Philippines</h3>
+<sub>By Hannah Reyes Morales</sub>
+<p>They formed a community meant to support and shelter gay people who had been cast aside by society. Decades later, they are still living together, hosting pageants to help make ends meet.  <a href="https://nyti.ms/3Z8QJbK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Floods Show California’s Climate Dilemma: Fight the Water, or Pull Back?</h3>
+<sub>By Christopher Flavelle, Raymond Zhong, Zach Levitt and Mira Rojanasakul</sub>
+<p>As global warming brings more intense rainfall, experts say the state needs to give rivers more room to flood safely. But the obstacles are enormous.  <a href="https://nyti.ms/3GivH1R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Powerful Storm Hits California, as Residents Brace for More Flooding</h3>
-<sub>By Shawn Hubler, Soumya Karlamangla, Jacey Fortin and Jill Cowan</sub>
-<p>After several damaging storms swept through California in recent weeks, Gov. Gavin Newsom has declared a state of emergency amid another deluge.  <a href="https://nyti.ms/3Qctg5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<h3>California Storm Brings More Rain and Fears of Flooding</h3>
+<sub>By Mike Ives</sub>
+<p>A powerful winter storm moving across the state was bringing heavy rain, wind and snow early Thursday.  <a href="https://nyti.ms/3Cqsnk0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Mayor Adams Has Rats. Curtis Sliwa Has Cats. What Could Go Wrong?</h3>
-<sub>By Dana Rubinstein</sub>
-<p>The ongoing saga of Mayor Eric Adams and his war against rats reached a new level of absurdity, with Curtis Sliwa and feral cats entering the mix.  <a href="https://nyti.ms/3jM00WZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Adams Rejects Criticism From de Blasio Aides in Scathing Broadside</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>Mayor Eric Adams expressed frustration over criticism of his policies from officials who served in the previous administration.  <a href="https://nyti.ms/3IoLYVv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How a Texas Border City Is Shaping the Future of Global Trade</h3>
+<sub>By Peter S. Goodman</sub>
+<p>Laredo, across from Mexico on the Rio Grande, is primed to become one of the world’s most important land ports as American companies reduce their reliance on factories in Asia.  <a href="https://nyti.ms/3VNY7pZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
