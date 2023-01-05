@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 5, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. In the US, Republicans have been stumbling around without a unified agenda or clear leadership and Congress is having difficulty functioning due to a lack of speakers. There&#39;s also allegations of sexual crimes being committed by Russian troops in Ukraine, and the FTC has proposed legislation that would ban noncompete agreements in labor contracts. On a more uplifting note, we&#39;re hearing stories of faith and resilience from the &quot;Golden Gays&quot; in the Philippines and the brave Buffalo Bills safety Damar Hamlin who inspired fans with his prayers even after he was hospitalized. Climate-wise, California is at a dilemma since it needs to accommodate for rising sea levels but doing so comes with its own unique challenges. Lastly, Laredo (Texas) is catapulting into the future and becoming one of the most important land ports for global trade with companies reducing their reliance on Asian factories.</p>
+There&#39;s a lot going on in the world right now. In the US, there&#39;s a lot of political turmoil and uncertainty as the Republican party is struggling to maintain control. We&#39;re also watching the House Speaker voting process happen, and following updates on a football player who was critically injured. In other parts of the world, investigators have uncovered horrific human rights violations in Ukraine where Russian troops were stationed. Closer to home, California is dealing with their climate crisis by fighting against floods while at the same time trying to keep people safe from potential dangers from rain and wind. Lastly, President Biden just announced plans to crack down on illegal border crossings as more migrants start entering the country.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Nobody Is in Charge’: A Ragged G.O.P. Stumbles Through the Wilderness</h3>
@@ -69,21 +69,21 @@ Right now, there&#39;s a lot going on in the world. In the US, Republicans have 
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lacking a Speaker, One Part of Government Ceases to Function</h3>
-<sub>By Luke Broadwater</sub>
-<p>Lawmakers in the House have yet to be sworn in. They can’t help constituents or get classified briefings, much less hold hearings or pass laws. And at some point, they may have trouble getting paid.  <a href="https://nyti.ms/3Qhh1Vd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Live Vote Count: Tracking the House Speaker Votes</h3>
+<sub>By Allison McCartney, Alicia Parlapiano and Emily Cochrane</sub>
+<p>Follow live to see how each representative voted for House speaker on each ballot.  <a href="https://nyti.ms/3CmBDFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Far Right Are the 20 Republicans Who Voted Against McCarthy?</h3>
-<sub>By Danielle Ivory, Charlie Smart and Karen Yourish</sub>
-<p>Most denied the 2020 election, are members of the ultraconservative Freedom Caucus, or both.  <a href="https://nyti.ms/3GhDooM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Fear Still Remains’: Ukraine Finds Sexual Crimes Where Russian Troops Ruled</h3>
+<sub>By Carlotta Gall and Laura Boushnak</sub>
+<p>Investigators have uncovered widespread evidence of abuse by Moscow’s forces, including rape and forced nudity. Kremlin officials have repeatedly denied accusations of rights violations.  <a href="https://nyti.ms/3vFMyqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>With Hamlin in Hospital, Bills Ready for Next Game</h3>
+<h3>Bills Say Hamlin Is Improving While Still in Critical Condition</h3>
 <sub>By Kris Rhim</sub>
-<p>As Damar Hamlin remained in critical condition at a Cincinnati hospital, the Bills had a walk-through practice on Wednesday and announced a move to compensate for his absence on their roster.  <a href="https://nyti.ms/3QiMpCT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Bills announced that Damar Hamlin appeared to be “neurologically intact” though still critically ill at a Cincinnati hospital.  <a href="https://nyti.ms/3X6Nbov"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,11 +98,11 @@ Right now, there&#39;s a lot going on in the world. In the US, Republicans have 
 <p>Hamlin, a Buffalo Bills safety, was in critical condition at a hospital after going into cardiac arrest following a routine tackle.  <a href="https://nyti.ms/3QhjOxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Fear Still Remains’: Ukraine Finds Sexual Crimes Where Russian Troops Ruled</h3>
-<sub>By Carlotta Gall and Laura Boushnak</sub>
-<p>Investigators have uncovered widespread evidence of abuse by Moscow’s forces, including rape and forced nudity. Kremlin officials have repeatedly denied accusations of rights violations.  <a href="https://nyti.ms/3vFMyqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here is what the newly released affidavit tells us about the killings.</h3>
+<sub>By Mike Baker</sub>
+<p>  <a href="https://nyti.ms/3GmOZTP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. Moves to Bar Noncompete Agreements in Labor Contracts</h3>
@@ -110,11 +110,11 @@ Right now, there&#39;s a lot going on in the world. In the US, Republicans have 
 <p>A sweeping proposal by the Federal Trade Commission would block companies from limiting their employees’ ability to work for a rival.  <a href="https://nyti.ms/3ia95IV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The ‘Golden Gays’ Return to the Stage in the Philippines</h3>
-<sub>By Hannah Reyes Morales</sub>
-<p>They formed a community meant to support and shelter gay people who had been cast aside by society. Decades later, they are still living together, hosting pageants to help make ends meet.  <a href="https://nyti.ms/3Z8QJbK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>‘This Is What We Do While We’re Waiting for the World to Change’</h3>
+<sub>By Tracy Kidder</sub>
+<p>Lessons from Dr. Jim O’Connell’s long crusade to care for Boston’s homeless.  <a href="https://nyti.ms/3VIgdcV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Floods Show California’s Climate Dilemma: Fight the Water, or Pull Back?</h3>
@@ -123,15 +123,15 @@ Right now, there&#39;s a lot going on in the world. In the US, Republicans have 
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Storm Brings More Rain and Fears of Flooding</h3>
-<sub>By Shawn Hubler and Mike Ives</sub>
-<p>A powerful winter storm moving across the state was bringing heavy rain and wind early Thursday.  <a href="https://nyti.ms/3Cqsnk0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>California Storm Brings More Rain and Topples Trees</h3>
+<sub>By Shawn Hubler, Soumya Karlamangla and Mike Ives</sub>
+<p>A powerful winter storm moving across the state was bringing heavy rain and wind on Thursday.  <a href="https://nyti.ms/3Cqsnk0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Texas Border City Is Shaping the Future of Global Trade</h3>
-<sub>By Peter S. Goodman</sub>
-<p>Laredo, across from Mexico on the Rio Grande, is primed to become one of the world’s most important land ports as American companies reduce their reliance on factories in Asia.  <a href="https://nyti.ms/3VNY7pZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Announces Crackdown on Illegal Border Crossings</h3>
+<sub>By Michael D. Shear and Eileen Sullivan</sub>
+<p>President Biden, who is under pressure to confront increasing numbers of migrants at the border, said he would visit El Paso on Sunday.  <a href="https://nyti.ms/3X5AQB1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
