@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 6, Central Standard Time</p>
 <p>
-There is quite a lot happening in the world right now. In the US, Republican leader McCarthy has to negotiate with his far-right factions to try and maintain control of their majority in the House. In business news, job growth in the hospitality, health care, and construction industries means that markets are now on the rise. A Buffalo Bills NFL player who suffered a cardiac arrest during a game was seen to be making positive progress this week and recordings were captured of the medical personnel responding to the emergency. In Idaho, a murder case exposed alarming details about four University of Idaho students who were killed two years ago. Scientists are beginning to explore the implications of creating conscious robots, while prosecutors connected with the Jan 6th riots continue to make arrests and gain convictions against those who stormed Capitol Hill. Ukraine is now receiving arms from countries previously thought ‘taboo’. Finally, debate continues in the US about how best to improve transportation infrastructure after it has become apparent that widening highways does not necessarily solve traffic problems. Over in sports news, there has been an increase in 50-point games as NBA teams become more &#39;loose&#39; and defensive play diminishes.</p>
+Right now, the Republican party is facing internal divisions in the US Congress, with their leader trying to bargain with far-right individuals and factions. December saw strong job growth for employers in the US, which was encouraging for the economic outlook. There has also been a legal development in Idaho as details emerge in a murder case of four college students. 
+In terms of technology breakthroughs, researchers are exploring artificial intelligence and consciousness in robots. Across the world, legal action is still underway as authorities keep investigating and charging those who sieged the Capitol on January 6th. The US government has also made a $3 billion package of military aid to Ukraine, including Bradley vehicles. Meanwhile Ukrainian officials view these developments positively, viewing it as a sign that key weapons will no longer be seen as taboo amongst its allies.
+
+On the health front, a new treatment known as Leqembi has been approved by the FDA to try and treat early Alzheimer&#39;s, though there are some potential safety risks to consider. On the topic of transportation infrastructure, it looks like state governments are finding it difficult to move away from widening highways as a way to fix traffic congestion, despite evidence showing that this strategy doesn&#39;t yield desirable results for states in the long run. 
+Meanwhile in sports news, there&#39;s been a huge uptick in 50-point games across the NBA lately thanks partly to more loose rules and less enforcement of defensive tactics - Donovan Mitchell even scored an incredible 71 points against Utah Jazz earlier this week!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Speaker Quest Reveals McCarthy’s Tenuous Grip on an Unruly Majority</h3>
@@ -75,15 +79,9 @@ There is quite a lot happening in the world right now. In the US, Republican lea
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Hospitality, health care and construction generated job growth.</h3>
-<sub>By Sydney Ember</sub>
-<p>  <a href="https://nyti.ms/3jKzSf1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Markets Rise as Investors Like the Look of Hiring and Wage Trends</h3>
-<sub>By Joe Rennison</sub>
-<p>Traders are betting that a slowdown in job growth and wage gains could reduce the pressure on prices and make the Federal Reserve less aggressive in raising interest rates.  <a href="https://nyti.ms/3VWsElr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. employers added 223,000 jobs in December.</h3>
+<sub>By Lydia DePillis</sub>
+<p>Forecasters estimate that employers added 200,000 jobs in December, a robust number though a bit below the average in recent months.  <a href="https://nyti.ms/3vICHjv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -92,12 +90,6 @@ There is quite a lot happening in the world right now. In the US, Republican lea
 <p>The Buffalo Bills said Hamlin “continues to progress remarkably” and his neurological function was intact.  <a href="https://nyti.ms/3VRgCd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>‘We’re Going to Need Everybody’: Recordings Captured Response to N.F.L. Crisis</h3>
-<sub>By Ken Belson, Alan Blinder and Robin Stein</sub>
-<p>When Damar Hamlin’s heart stopped during a game on Monday night, medical personnel can be heard responding to the kind of emergency the league hoped it would never face.  <a href="https://nyti.ms/3VTtCPw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>10 Key Revelations in Idaho Murder Case</h3>
 <sub>By Mike Baker</sub>
@@ -105,9 +97,9 @@ There is quite a lot happening in the world right now. In the US, Republican lea
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>These Engineers Want to Build Conscious Robots. Others Say It’s a Bad Idea.</h3>
+<h3>‘Consciousness’ in Robots Was Once Taboo. Now It’s the Last Word.</h3>
 <sub>By Oliver Whang</sub>
-<p>The pursuit of robot consciousness may be humankind’s next moonshot. But it comes with a slurry of difficult questions.  <a href="https://nyti.ms/3iioRRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The pursuit of artificial awareness may be humankind’s next moonshot. But it comes with a slurry of difficult questions.  <a href="https://nyti.ms/3iioRRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,9 +109,21 @@ There is quite a lot happening in the world right now. In the US, Republican lea
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The U.S. announces a $3 billion package of military aid to Ukraine, including Bradley Fighting Vehicles.</h3>
+<sub>By Michael D. Shear</sub>
+<p>Karine Jean-Pierre, the White House press secretary, said the administration would also send $682 million to countries on NATO’s eastern flank.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine says recent pledges show that key weapons are no longer ‘taboo’ for its allies.</h3>
 <sub>By Cassandra Vinograd</sub>
-<p>  <a href="https://nyti.ms/3ZbfjZH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>  <a href="https://nyti.ms/3GL6gam"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>F.D.A. Approves New Treatment for Early Alzheimer’s</h3>
+<sub>By Pam Belluck</sub>
+<p>The drug, Leqembi, may modestly slow cognitive decline in early stages of the disease but carries some safety risks. Still, data suggests it is more promising than the small number of other available treatments.  <a href="https://nyti.ms/3vFTQul"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
