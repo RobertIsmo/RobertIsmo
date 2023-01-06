@@ -60,26 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 5, Central Standard Time</p>
 <p>
-Right now, in the US, there is a live vote count underway to decide who will become House Speaker. There is a divide among Republicans with some supporting Representative Kevin McCarthy and others blocking his nomination. 
-
-On the sports front, there was an emergency response at a NFL game when a player&#39;s heart stopped. He&#39;s improving now and the recordings have been released of the medical personnel&#39;s response. 
-
-In Idaho, there was a tragic murder of four college students, and an affidavit has been released detailing what happened that night. A timeline has also been released of the suspects movements that night. 
-
-Elsewhere in the world, Benedict&#39;s funeral took place, bringing an end to an extraordinary period for the modern church. However, not all were content with Francis&#39; homily for Benedict and believed it was too modest for their standard-bearer. 
-
-Finally, in California, there is a powerful storm moving across the state. It is bringing heavy rain and high winds which have led to evacuation orders along the coast and near swollen rivers. This storm is expected to last for several days.</p>
+There is a lot going on in the world right now. In the US, there is a vote count to decide who will become the House Speaker and 100 years after a long drawn-out clash for the position, things feel eerily similar. There&#39;s also reports coming in of a medical emergency during an NFL game, with a Bills player beginning to recover but still critically ill. Meanwhile, the South Carolina Supreme Court has overturned the state’s six-week abortion ban, a major victory for abortion rights in the South. Further afield, Russia’s President Vladimir Putin has called for a 36-hour cease-fire in Ukraine but his opponents are skeptical, while Pope Francis presided over the funeral of Pope Benedict XVI at The Vatican despite some conservative dissatisfaction. In California, people are being asked to evacuate due to powerful storms and high winds expected to last days.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Live Vote Count: Tracking the House Speaker Votes</h3>
-<sub>By Allison McCartney, Alicia Parlapiano and Emily Cochrane</sub>
+<sub>By Allison McCartney, Alicia Parlapiano, Ashley Wu and Emily Cochrane</sub>
 <p>Follow live to see how each representative voted for House speaker on each ballot.  <a href="https://nyti.ms/3CmBDFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Republican divide plays out in conservative news outlets.</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>While much of the commentary has supported Representative Kevin McCarthy, others have backed the group of Republicans blocking him from becoming speaker.  <a href="https://nyti.ms/3WKmNky"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>100 Years Later, a Modern Speaker Showdown Feels Eerily Similar</h3>
+<sub>By Carl Hulse</sub>
+<p>The parallels between a drawn-out clash for speaker in 1923 and one in 2023 suggest that not much has changed in Congress over a century.  <a href="https://nyti.ms/3iaEZFa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -91,7 +83,13 @@ Finally, in California, there is a powerful storm moving across the state. It is
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Doctors Say Hamlin Is Improving and Able to Communicate in Writing</h3>
 <sub>By Kris Rhim</sub>
-<p>Doctors treating Damar Hamlin at a hospital said he was beginning to awaken but still critically ill and on a ventilator.  <a href="https://nyti.ms/3X6Nbov"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Doctors treating Buffalo Bills safety Damar Hamlin at a hospital said he was beginning to awaken but still critically ill and on a ventilator.  <a href="https://nyti.ms/3X6Nbov"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Damar Hamlin’s Ability to Communicate Signals a ‘Turning Point’</h3>
+<sub>By Gina Kolata</sub>
+<p>The Buffalo Bills safety was on a good path for neurological recovery but might still face injuries to other organs, including his lungs.  <a href="https://nyti.ms/3VNX21E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -100,16 +98,10 @@ Finally, in California, there is a powerful storm moving across the state. It is
 <p>  <a href="https://nyti.ms/3GmOZTP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read the Police Affidavit in the Idaho College Murders</h3>
-<sub>By The New York Times</sub>
-<p>Here’s how investigators say they identified the suspect.  <a href="https://nyti.ms/3IvpeTN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Timeline of the Night of the Idaho College Murders</h3>
-<sub>By Mike Baker</sub>
-<p>New investigative details released on Thursday provide the first clear view of the apparent movements of the man accused of fatally stabbing four University of Idaho students on Nov. 13.  <a href="https://nyti.ms/3jS2WkT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin Calls a 36-Hour Cease-Fire, but Ukraine and U.S. Are Skeptical</h3>
+<sub>By Anatoly Kurmanaev</sub>
+<p>The cease-fire would coincide with the Eastern Orthodox Christmas on Saturday, but Kremlin adversaries and some analysts call it a ploy for military and political advantage.  <a href="https://nyti.ms/3QkuoE7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -118,10 +110,10 @@ Finally, in California, there is a powerful storm moving across the state. It is
 <p>An extraordinary period for the modern church ended with Francis presiding over the funeral of his retired predecessor. Some conservatives found the ceremony too modest for their standard-bearer.  <a href="https://nyti.ms/3IrkU8f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Some find fault with Francis’ homily for Benedict.</h3>
-<sub>By Jason Horowitz and Ruth Graham</sub>
-<p>The former pope’s supporters, who include conservatives, said Francis’ approach seemed paltry in comparison to Benedict’s homily at the funeral of Pope John Paul II.  <a href="https://nyti.ms/3ZbKW5g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>South Carolina Constitution Includes Abortion Right, State Supreme Court Rules</h3>
+<sub>By Kate Zernike</sub>
+<p>The decision overturns the state’s six-week ban on abortion, a major victory for abortion rights in the South, where the procedure is strictly limited.  <a href="https://nyti.ms/3Is3UPd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -132,8 +124,8 @@ Finally, in California, there is a powerful storm moving across the state. It is
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Powerful Storm Strikes California, From Surging Seas to Mountain Snow</h3>
-<sub>By Shawn Hubler, Soumya Karlamangla, Mike Ives and Jacey Fortin</sub>
-<p>A winter storm moving across the state was also bringing heavy rain and wind on Thursday. Evacuations have been ordered along the coast and near swollen rivers.  <a href="https://nyti.ms/3Cqsnk0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Soumya Karlamangla, Kellen Browning and Jacey Fortin</sub>
+<p>A winter storm moving across the state brought more rain, wind and snow on Thursday. Evacuations have been ordered along the coast and near swollen rivers. More storms are on the way.  <a href="https://nyti.ms/3Cqsnk0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
