@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 5, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, there is a vote count to decide who will become the House Speaker and 100 years after a long drawn-out clash for the position, things feel eerily similar. There&#39;s also reports coming in of a medical emergency during an NFL game, with a Bills player beginning to recover but still critically ill. Meanwhile, the South Carolina Supreme Court has overturned the state’s six-week abortion ban, a major victory for abortion rights in the South. Further afield, Russia’s President Vladimir Putin has called for a 36-hour cease-fire in Ukraine but his opponents are skeptical, while Pope Francis presided over the funeral of Pope Benedict XVI at The Vatican despite some conservative dissatisfaction. In California, people are being asked to evacuate due to powerful storms and high winds expected to last days.</p>
+Wow, it&#39;s been quite a week in world news! In the US, there&#39;s a heated back and forth going on in Congress over the speakership position, with members hard-right rebels causing some friction. Meanwhile, here at home in New York City, crime rates have risen by 22% this year. Rounding out US news, South Carolina&#39;s Supreme Court just ruled that the state constitution included an abortion right. Overseas, Russian President Putin announced a 36-hour ceasefire to certain areas of the Ukraine. And finally, Pope Francis presided over the funeral of his predecessor Benedict XVI, marking an end to an extraordinary period for modern day Church.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Adjourns Without a Speaker as McCarthy Offers Concessions</h3>
+<sub>By Catie Edmondson</sub>
+<p>The California Republican signaled he would give in to more demands from hard-right rebels in a frenzied effort to win enough support for the speakership but continued to lose ground on vote after vote.  <a href="https://nyti.ms/3WM3vuZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Live Vote Count: Tracking the House Speaker Votes</h3>
 <sub>By Allison McCartney, Alicia Parlapiano, Ashley Wu and Emily Cochrane</sub>
@@ -74,6 +80,12 @@ There is a lot going on in the world right now. In the US, there is a vote count
 <p>The parallels between a drawn-out clash for speaker in 1923 and one in 2023 suggest that not much has changed in Congress over a century.  <a href="https://nyti.ms/3iaEZFa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Republicans’ Internecine Conflict Is Mirrored in Conservative Media</h3>
+<sub>By Jeremy W. Peters</sub>
+<p>National Review has called the House leadership votes “an embarrassing spectacle.” Others have cheered it on.  <a href="https://nyti.ms/3Xc094e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>‘We’re Going to Need Everybody’: Recordings Captured Response to N.F.L. Crisis</h3>
 <sub>By Ken Belson, Alan Blinder and Robin Stein</sub>
@@ -81,9 +93,9 @@ There is a lot going on in the world right now. In the US, there is a vote count
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Doctors Say Hamlin Is Improving and Able to Communicate in Writing</h3>
-<sub>By Kris Rhim</sub>
-<p>Doctors treating Buffalo Bills safety Damar Hamlin at a hospital said he was beginning to awaken but still critically ill and on a ventilator.  <a href="https://nyti.ms/3X6Nbov"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>N.F.L. Cancels Bills-Bengals Game</h3>
+<sub>By Jenny Vrentas</sub>
+<p>The league announced that it would not resume the Monday night matchup that was postponed after Buffalo safety Damar Hamlin collapsed on the field in Cincinnati.  <a href="https://nyti.ms/3Isr47N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -93,9 +105,9 @@ There is a lot going on in the world right now. In the US, there is a vote count
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here is what the newly released affidavit tells us about the killings.</h3>
-<sub>By Mike Baker</sub>
-<p>  <a href="https://nyti.ms/3GmOZTP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Knife Sheath, Phone Pings and Trash: The Hunt for a Killer in Idaho</h3>
+<sub>By Mike Baker, Nicholas Bogel-Burroughs and Serge F. Kovaleski</sub>
+<p>On the night four college students were killed, a roommate saw a man clad in black walk through the home. It took a cross-country investigation to find a suspect.  <a href="https://nyti.ms/3vIB1GO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,28 +122,16 @@ There is a lot going on in the world right now. In the US, there is a vote count
 <p>An extraordinary period for the modern church ended with Francis presiding over the funeral of his retired predecessor. Some conservatives found the ceremony too modest for their standard-bearer.  <a href="https://nyti.ms/3IrkU8f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Major Crimes Rose 22 Percent in New York City, Even as Shootings Fell</h3>
+<sub>By Chelsia Rose Marcius and Ed Shanahan</sub>
+<p>Homicides fell to their lowest level since 2019, before the pandemic, but other categories of crime, including robbery and burglary, drove the overall increase compared to last year.  <a href="https://nyti.ms/3XaFQ7r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>South Carolina Constitution Includes Abortion Right, State Supreme Court Rules</h3>
 <sub>By Kate Zernike</sub>
 <p>The decision overturns the state’s six-week ban on abortion, a major victory for abortion rights in the South, where the procedure is strictly limited.  <a href="https://nyti.ms/3Is3UPd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>You Have to Learn to Listen’: How a Doctor Cares for Boston’s Homeless</h3>
-<sub>By Tracy Kidder</sub>
-<p>Lessons from Dr. Jim O’Connell’s long crusade to care for the city’s “rough sleepers.”  <a href="https://nyti.ms/3VIgdcV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Powerful Storm Strikes California, From Surging Seas to Mountain Snow</h3>
-<sub>By Soumya Karlamangla, Kellen Browning and Jacey Fortin</sub>
-<p>A winter storm moving across the state brought more rain, wind and snow on Thursday. Evacuations have been ordered along the coast and near swollen rivers. More storms are on the way.  <a href="https://nyti.ms/3Cqsnk0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Could See Rain and High Winds for Days</h3>
-<sub>By Judson Jones</sub>
-<p>Here is a day-by-day look at what to expect.  <a href="https://nyti.ms/3id45Dl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
