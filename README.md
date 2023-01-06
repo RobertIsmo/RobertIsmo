@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, January 5, Central Standard Time</p>
+<p>It is Friday, January 6, Central Standard Time</p>
 <p>
-Wow, it&#39;s been quite a week in world news! In the US, there&#39;s a heated back and forth going on in Congress over the speakership position, with members hard-right rebels causing some friction. Meanwhile, here at home in New York City, crime rates have risen by 22% this year. Rounding out US news, South Carolina&#39;s Supreme Court just ruled that the state constitution included an abortion right. Overseas, Russian President Putin announced a 36-hour ceasefire to certain areas of the Ukraine. And finally, Pope Francis presided over the funeral of his predecessor Benedict XVI, marking an end to an extraordinary period for modern day Church.</p>
+Right now, there is a lot of chaos going on in the US, as lawmakers recently failed to appoint a speaker in the House. This has been followed by mounting tension in Republican and conservative media circles. On the sporting front, the NFL abruptly cancelled a Monday night game after Bills safety Damar Hamlin collapsed on the field, but thankfully he has so far made good progress toward neurological recovery. On the international scene, Russian President Vladimir Putin declared a 36-hour cease-fire with Ukraine and the US, while Vatican City held an funeral service for Pope Benedict amid some controversy - conservatives felt it was too modest for their standard-bearer. And finally, major crimes rose 22% in New York City last year even as gun violence fell - with increased robberies and burglaries driving the overall increase.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Adjourns Without a Speaker as McCarthy Offers Concessions</h3>
@@ -69,10 +69,10 @@ Wow, it&#39;s been quite a week in world news! In the US, there&#39;s a heated b
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Live Vote Count: Tracking the House Speaker Votes</h3>
-<sub>By Allison McCartney, Alicia Parlapiano, Ashley Wu and Emily Cochrane</sub>
-<p>Follow live to see how each representative voted for House speaker on each ballot.  <a href="https://nyti.ms/3CmBDFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<h3>Chaos in House Rolls On: ‘I’m Never Getting Sworn In, Am I?’</h3>
+<sub>By Michael Gold</sub>
+<p>Near collisions abound on Capitol Hill as House members make history in failing to elect a speaker after three days and more than 10 futile votes.  <a href="https://nyti.ms/3VIRhCg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>100 Years Later, a Modern Speaker Showdown Feels Eerily Similar</h3>
@@ -110,6 +110,12 @@ Wow, it&#39;s been quite a week in world news! In the US, there&#39;s a heated b
 <p>On the night four college students were killed, a roommate saw a man clad in black walk through the home. It took a cross-country investigation to find a suspect.  <a href="https://nyti.ms/3vIB1GO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Latest on Idaho Killings: Suspect Linked to Crime Scene by Phone and DNA</h3>
+<sub>By Nicholas Bogel-Burroughs and Mike Baker</sub>
+<p>Court records detailed the police evidence against Bryan C. Kohberger, 28, who is accused in the brutal stabbing deaths of four University of Idaho students.  <a href="https://nyti.ms/3ApvYhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Calls a 36-Hour Cease-Fire, but Ukraine and U.S. Are Skeptical</h3>
 <sub>By Anatoly Kurmanaev</sub>
@@ -125,13 +131,7 @@ Wow, it&#39;s been quite a week in world news! In the US, there&#39;s a heated b
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Major Crimes Rose 22 Percent in New York City, Even as Shootings Fell</h3>
 <sub>By Chelsia Rose Marcius and Ed Shanahan</sub>
-<p>Homicides fell to their lowest level since 2019, before the pandemic, but other categories of crime, including robbery and burglary, drove the overall increase compared to last year.  <a href="https://nyti.ms/3XaFQ7r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>South Carolina Constitution Includes Abortion Right, State Supreme Court Rules</h3>
-<sub>By Kate Zernike</sub>
-<p>The decision overturns the state’s six-week ban on abortion, a major victory for abortion rights in the South, where the procedure is strictly limited.  <a href="https://nyti.ms/3Is3UPd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Homicides fell last year to their lowest level since 2019, before the pandemic, but other categories of crime, including robbery and burglary, drove the overall increase compared with 2021.  <a href="https://nyti.ms/3XaFQ7r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
