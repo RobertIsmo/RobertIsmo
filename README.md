@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 6, Central Standard Time</p>
 <p>
-At the same time that we&#39;re seeing a decrease in homicides in many cities across the nation, we&#39;re also dealing with political turmoil. In the US, lawmakers have been unable to elect a Speaker for the House of Representatives after three days and numerous votes. The Republican Party is struggling with infighting between their more hard-right members and moderates. In addition, over in Russia, President Putin has proposed a cease-fire though Ukraine and other international adversaries doubt its legitimacy. Closer to home, NYC is experiencing a 22 percent increase in major crimes such as robberies and burglaries while gun violence fell last year. Finally, the Church is still dealing with divisions following Pope Benedict&#39;s funeral this week.</p>
+It looks like there&#39;s a lot of political chaos going on in the US right now. Speaker Kevin McCarthy is having trouble controlling an unruly majority, and the Republican holdouts don&#39;t seem to be budging. There may even be a potential for a recession this year if the economy isn&#39;t managed well. Elsewhere, it looks like the Eurozone is facing deflation too. On a brighter note, NFL players are relieved after they got great news about Damar Hamlin&#39;s health.
+
+Unfortunately, we&#39;re also seeing some unfortunate news coming out of China. People are preparing to make their annual trips home for lunar new year despite a surge of covid cases, which could cause further spread in rural areas which have limited medical services. To top it off, Southwest Airlines had some massive malfunctions that have stranded tons of travelers and cost them a lot of money.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Adjourns Without a Speaker as McCarthy Offers Concessions</h3>
-<sub>By Catie Edmondson</sub>
-<p>The California Republican signaled he would give in to more demands from hard-right rebels in a frenzied effort to win enough support for the speakership but continued to lose ground on vote after vote.  <a href="https://nyti.ms/3WM3vuZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Speaker Quest Reveals McCarthy’s Tenuous Grip on an Unruly Majority</h3>
+<sub>By Luke Broadwater</sub>
+<p>As the Republican leader has made concessions to the far right, he has effectively agreed to give them carte blanche to disrupt the workings of the House — and to hold him hostage to their demands.  <a href="https://nyti.ms/3imfW1R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Just What Do McCarthy’s Antagonists Want, and Why Won’t They Budge?</h3>
+<sub>By Blake Hounshell</sub>
+<p>The Republican holdouts are showing that party leaders’ usual methods of arm-twisting no longer work. “It’s not about policies, it’s about the fight,” said one former operative.  <a href="https://nyti.ms/3GKvgii"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,17 +82,17 @@ At the same time that we&#39;re seeing a decrease in homicides in many cities ac
 <p>Near collisions abound on Capitol Hill as House members make history in failing to elect a speaker after three days and more than 10 futile votes.  <a href="https://nyti.ms/3VIRhCg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>100 Years Later, a Modern Speaker Showdown Feels Eerily Similar</h3>
-<sub>By Carl Hulse</sub>
-<p>The parallels between a drawn-out clash for speaker in 1923 and one in 2023 suggest that not much has changed in Congress over a century.  <a href="https://nyti.ms/3iaEZFa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Even a Soft Landing for the Economy May Be Uneven</h3>
+<sub>By Talmon Joseph Smith</sub>
+<p>Small businesses and lower-income families could feel pinched in the months ahead whether or not a recession is avoided this year.  <a href="https://nyti.ms/3jY65Qp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Republicans’ Internecine Conflict Is Mirrored in Conservative Media</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>National Review has called the House leadership votes “an embarrassing spectacle.” Others have cheered it on.  <a href="https://nyti.ms/3Xc094e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<h3>Eurozone Inflation Eases on Lower Energy Prices</h3>
+<sub>By Patricia Cohen</sub>
+<p>The rate of price increases in countries using the euro slowed to 9.2 percent in December, down from 10.1 percent a month earlier.  <a href="https://nyti.ms/3vJVY4g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>‘We’re Going to Need Everybody’: Recordings Captured Response to N.F.L. Crisis</h3>
@@ -93,46 +101,40 @@ At the same time that we&#39;re seeing a decrease in homicides in many cities ac
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>N.F.L. Cancels Bills-Bengals Game</h3>
-<sub>By Jenny Vrentas</sub>
-<p>The league announced that it would not resume the Monday night matchup that was postponed after Buffalo safety Damar Hamlin collapsed on the field in Cincinnati.  <a href="https://nyti.ms/3Isr47N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Damar Hamlin’s Ability to Communicate Signals a ‘Turning Point’</h3>
-<sub>By Gina Kolata</sub>
-<p>The Buffalo Bills safety was on a good path for neurological recovery but might still face injuries to other organs, including his lungs.  <a href="https://nyti.ms/3VNX21E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<h3>Bills Players Can’t Wait to ‘Love Up On’ Hamlin After Health Update</h3>
+<sub>By Dan Higgins</sub>
+<p>After a heartening update from Damar Hamlin’s father, Bills players and coaches said they looked forward to reuniting with their teammate.  <a href="https://nyti.ms/3VRgCd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Knife Sheath, Phone Pings and Trash: The Hunt for a Killer in Idaho</h3>
-<sub>By Mike Baker, Nicholas Bogel-Burroughs and Serge F. Kovaleski</sub>
-<p>On the night four college students were killed, a roommate saw a man clad in black walk through the home. It took a cross-country investigation to find a suspect.  <a href="https://nyti.ms/3vIB1GO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<h3>Two Years Later, Prosecutions of Jan. 6 Rioters Continue to Grow</h3>
+<sub>By Alan Feuer</sub>
+<p>The Justice Department’s investigation of the Capitol attack, already the largest it has ever conducted, has resulted in 900 arrests, with the potential for scores or hundreds more to come.  <a href="https://nyti.ms/3Qioh34"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Latest on Idaho Killings: Suspect Linked to Crime Scene by Phone and DNA</h3>
-<sub>By Nicholas Bogel-Burroughs and Mike Baker</sub>
-<p>Court records detailed the police evidence against Bryan C. Kohberger, 28, who is accused in the brutal stabbing deaths of four University of Idaho students.  <a href="https://nyti.ms/3ApvYhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 19, Central Standard Time</sub></sub>
+<h3>Military Investigation Reveals How the U.S. Botched a Drone Strike in Kabul</h3>
+<sub>By Azmat Khan</sub>
+<p>Documents obtained through a lawsuit reveal how biases led to the deadly August 2021 blunder, and that officials made misleading statements concealing their assessment of civilian casualties.  <a href="https://nyti.ms/3ItDPir"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Stranded by Southwest and Stuck With Unexpected Costs</h3>
+<sub>By Isabella Simonetti</sub>
+<p>The airline’s customers incurred thousands in expenses as they scrambled to find alternate ways to get home.  <a href="https://nyti.ms/3Cuv5VI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Southwest’s Meltdown Could Cost It Up to $825 Million</h3>
+<sub>By Niraj Chokshi and Peter Eavis</sub>
+<p>The airline has not said how soon it will upgrade the systems that contributed to mass flight cancellations, or how much that will cost.  <a href="https://nyti.ms/3iheD47"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Calls a 36-Hour Cease-Fire, but Ukraine and U.S. Are Skeptical</h3>
-<sub>By Anatoly Kurmanaev</sub>
-<p>The cease-fire would coincide with the Eastern Orthodox Christmas on Saturday, but Kremlin adversaries and some analysts call it a ploy for military and political advantage.  <a href="https://nyti.ms/3QkuoE7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Church Lays Benedict to Rest, if Not Its Divisions</h3>
-<sub>By Jason Horowitz</sub>
-<p>An extraordinary period for the modern church ended with Francis presiding over the funeral of his retired predecessor. Some conservatives found the ceremony too modest for their standard-bearer.  <a href="https://nyti.ms/3IrkU8f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Major Crimes Rose 22 Percent in New York City, Even as Shootings Fell</h3>
-<sub>By Chelsia Rose Marcius and Ed Shanahan</sub>
-<p>Homicides fell last year to their lowest level since 2019, before the pandemic, but other categories of crime, including robbery and burglary, drove the overall increase compared with 2021.  <a href="https://nyti.ms/3XaFQ7r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<h3>China’s Covid Surge Threatens Villages as Lunar New Year Approaches</h3>
+<sub>By David Pierson, Joy Dong, Claire Fu and Olivia Wang</sub>
+<p>Millions are expected to travel home this month, spreading Covid to rural communities where health care services are woefully underdeveloped.  <a href="https://nyti.ms/3WOPWuR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
