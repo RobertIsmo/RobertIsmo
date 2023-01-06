@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 6, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot of political chaos going on in the US right now. Speaker Kevin McCarthy is having trouble controlling an unruly majority, and the Republican holdouts don&#39;t seem to be budging. There may even be a potential for a recession this year if the economy isn&#39;t managed well. Elsewhere, it looks like the Eurozone is facing deflation too. On a brighter note, NFL players are relieved after they got great news about Damar Hamlin&#39;s health.
-
-Unfortunately, we&#39;re also seeing some unfortunate news coming out of China. People are preparing to make their annual trips home for lunar new year despite a surge of covid cases, which could cause further spread in rural areas which have limited medical services. To top it off, Southwest Airlines had some massive malfunctions that have stranded tons of travelers and cost them a lot of money.</p>
+There is quite a lot happening in the world right now. In the US, Republican leader McCarthy has to negotiate with his far-right factions to try and maintain control of their majority in the House. In business news, job growth in the hospitality, health care, and construction industries means that markets are now on the rise. A Buffalo Bills NFL player who suffered a cardiac arrest during a game was seen to be making positive progress this week and recordings were captured of the medical personnel responding to the emergency. In Idaho, a murder case exposed alarming details about four University of Idaho students who were killed two years ago. Scientists are beginning to explore the implications of creating conscious robots, while prosecutors connected with the Jan 6th riots continue to make arrests and gain convictions against those who stormed Capitol Hill. Ukraine is now receiving arms from countries previously thought ‘taboo’. Finally, debate continues in the US about how best to improve transportation infrastructure after it has become apparent that widening highways does not necessarily solve traffic problems. Over in sports news, there has been an increase in 50-point games as NBA teams become more &#39;loose&#39; and defensive play diminishes.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Speaker Quest Reveals McCarthy’s Tenuous Grip on an Unruly Majority</h3>
@@ -71,27 +69,27 @@ Unfortunately, we&#39;re also seeing some unfortunate news coming out of China. 
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Just What Do McCarthy’s Antagonists Want, and Why Won’t They Budge?</h3>
-<sub>By Blake Hounshell</sub>
-<p>The Republican holdouts are showing that party leaders’ usual methods of arm-twisting no longer work. “It’s not about policies, it’s about the fight,” said one former operative.  <a href="https://nyti.ms/3GKvgii"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chaos in House Rolls On: ‘I’m Never Getting Sworn In, Am I?’</h3>
-<sub>By Michael Gold</sub>
-<p>Near collisions abound on Capitol Hill as House members make history in failing to elect a speaker after three days and more than 10 futile votes.  <a href="https://nyti.ms/3VIRhCg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<h3>Live Vote Count: Tracking the House Speaker Votes</h3>
+<sub>By Allison McCartney, Alicia Parlapiano, Ashley Wu and Emily Cochrane</sub>
+<p>Follow live to see how each representative voted for House speaker on each ballot.  <a href="https://nyti.ms/3CmBDFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Even a Soft Landing for the Economy May Be Uneven</h3>
-<sub>By Talmon Joseph Smith</sub>
-<p>Small businesses and lower-income families could feel pinched in the months ahead whether or not a recession is avoided this year.  <a href="https://nyti.ms/3jY65Qp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Hospitality, health care and construction generated job growth.</h3>
+<sub>By Sydney Ember</sub>
+<p>  <a href="https://nyti.ms/3jKzSf1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Eurozone Inflation Eases on Lower Energy Prices</h3>
-<sub>By Patricia Cohen</sub>
-<p>The rate of price increases in countries using the euro slowed to 9.2 percent in December, down from 10.1 percent a month earlier.  <a href="https://nyti.ms/3vJVY4g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Markets Rise as Investors Like the Look of Hiring and Wage Trends</h3>
+<sub>By Joe Rennison</sub>
+<p>Traders are betting that a slowdown in job growth and wage gains could reduce the pressure on prices and make the Federal Reserve less aggressive in raising interest rates.  <a href="https://nyti.ms/3VWsElr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Damar Hamlin Has Breathing Tube Removed and Is Talking</h3>
+<sub>By Emmanuel Morgan and Dan Higgins</sub>
+<p>The Buffalo Bills said Hamlin “continues to progress remarkably” and his neurological function was intact.  <a href="https://nyti.ms/3VRgCd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -100,10 +98,16 @@ Unfortunately, we&#39;re also seeing some unfortunate news coming out of China. 
 <p>When Damar Hamlin’s heart stopped during a game on Monday night, medical personnel can be heard responding to the kind of emergency the league hoped it would never face.  <a href="https://nyti.ms/3VTtCPw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Bills Players Can’t Wait to ‘Love Up On’ Hamlin After Health Update</h3>
-<sub>By Dan Higgins</sub>
-<p>After a heartening update from Damar Hamlin’s father, Bills players and coaches said they looked forward to reuniting with their teammate.  <a href="https://nyti.ms/3VRgCd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>10 Key Revelations in Idaho Murder Case</h3>
+<sub>By Mike Baker</sub>
+<p>Court records unsealed this week provided vital and unsettling new details about the night four University of Idaho students were killed.  <a href="https://nyti.ms/3W6RDTz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>These Engineers Want to Build Conscious Robots. Others Say It’s a Bad Idea.</h3>
+<sub>By Oliver Whang</sub>
+<p>The pursuit of robot consciousness may be humankind’s next moonshot. But it comes with a slurry of difficult questions.  <a href="https://nyti.ms/3iioRRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -112,28 +116,22 @@ Unfortunately, we&#39;re also seeing some unfortunate news coming out of China. 
 <p>The Justice Department’s investigation of the Capitol attack, already the largest it has ever conducted, has resulted in 900 arrests, with the potential for scores or hundreds more to come.  <a href="https://nyti.ms/3Qioh34"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Military Investigation Reveals How the U.S. Botched a Drone Strike in Kabul</h3>
-<sub>By Azmat Khan</sub>
-<p>Documents obtained through a lawsuit reveal how biases led to the deadly August 2021 blunder, and that officials made misleading statements concealing their assessment of civilian casualties.  <a href="https://nyti.ms/3ItDPir"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Stranded by Southwest and Stuck With Unexpected Costs</h3>
-<sub>By Isabella Simonetti</sub>
-<p>The airline’s customers incurred thousands in expenses as they scrambled to find alternate ways to get home.  <a href="https://nyti.ms/3Cuv5VI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Southwest’s Meltdown Could Cost It Up to $825 Million</h3>
-<sub>By Niraj Chokshi and Peter Eavis</sub>
-<p>The airline has not said how soon it will upgrade the systems that contributed to mass flight cancellations, or how much that will cost.  <a href="https://nyti.ms/3iheD47"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Covid Surge Threatens Villages as Lunar New Year Approaches</h3>
-<sub>By David Pierson, Joy Dong, Claire Fu and Olivia Wang</sub>
-<p>Millions are expected to travel home this month, spreading Covid to rural communities where health care services are woefully underdeveloped.  <a href="https://nyti.ms/3WOPWuR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine says recent pledges show that key weapons are no longer ‘taboo’ for its allies.</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>  <a href="https://nyti.ms/3ZbfjZH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Widening Highways Doesn’t Fix Traffic. So Why Do We Keep Doing It?</h3>
+<sub>By Eden Weingart and Alyssa Schukar</sub>
+<p>With billions of dollars available to improve transportation infrastructure, states have a chance to try new strategies for addressing congestion. But some habits are hard to break.  <a href="https://nyti.ms/3X7kMiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>As the N.B.A. Gets ‘Loose,’ 50-Point Games Are Surging</h3>
+<sub>By Victor Mather</sub>
+<p>Donovan Mitchell’s 71 points in a game this week was the top mark since 2006, but a rise in offense (and a lack of defense) has made high-scoring games a routine affair.  <a href="https://nyti.ms/3WT5cXB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
