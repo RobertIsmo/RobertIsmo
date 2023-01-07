@@ -60,61 +60,49 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 7, Central Standard Time</p>
 <p>
-Right now, there is a lot happening in the world. In the US, there was a big election for House Speaker and President Biden is honoring people who defend democracy. There was also a murder case in Idaho that had major revelations this week. In the international world, there is violence still continuing in Ukraine despite what Russia says is a cease-fire and Western allies are helping with new armored vehicles. In China, Jack Ma of Ant Group is losing control of his company because of some disagreements with Beijing. There was also a shooting at an elementary school in Virginia where a 6-year-old wounded a teacher and the Oscars nominations are speculated for 2023. And finally, people are learning more about why Mediterranean diets are so good for health.</p>
+There have been some dramatic events happening in the US recently. First, McCarthy won the Speaker of the House post after agreeing to concessions with ultraconservative Republicans. This is raising fears on debt limit issues as it gives conservatives more power. There were also further revelations about his tenuous grip on an unruly majority. In more upbeat news, there is a new investment frenzy around innovative artificial intelligence technology, and digital cameras from 20 years ago are becoming popular with Gen Z! Around the world, in Ukraine there&#39;s an effort to build better grenades and in the US an alarming case of a 6-year-old student shooting a teacher happened. In terms of science, there&#39;s a new coronavirus subvariant that&#39;s making up one-quarter of all cases in the US and it&#39;s prompting questions about taking antiviral medicine. And to end with something positive, football players are returning to the field after an emotional week after Damar Hamlin’s collapse brought attention to sudden cardiac arrest rates across sports.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy Wins Speakership on 15th Vote After Concessions to Hard Right</h3>
+<sub>By Annie Karni</sub>
+<p>An agreement with ultraconservative Republicans delivered a breakthrough for the California Republican, but he still had to claw his way to the post during a dramatic post-midnight session.  <a href="https://nyti.ms/3CoFRfV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Speaker Drama Raises New Fears on Debt Limit</h3>
+<sub>By Jim Tankersley</sub>
+<p>An emboldened conservative flank and concessions made to win votes could lead to a protracted standoff on critical fiscal issues, risking economic pain.  <a href="https://nyti.ms/3CvaNLU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Speaker Quest Reveals McCarthy’s Tenuous Grip on an Unruly Majority</h3>
 <sub>By Luke Broadwater</sub>
 <p>As the Republican leader has made concessions to the far right, he has effectively agreed to give them carte blanche to disrupt the workings of the House — and to hold him hostage to their demands.  <a href="https://nyti.ms/3imfW1R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Vote Count: McCarthy Elected House Speaker After 15 Ballots</h3>
-<sub>By Allison McCartney, Alicia Parlapiano, Ashley Wu, Christine Zhang, Josh Williams, Emily Cochrane and John-Michael Murphy</sub>
-<p>See how each representative voted in each round of the marathon election for House speaker.  <a href="https://nyti.ms/3CmBDFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A New Area of A.I. Booms, Even Amid the Tech Gloom</h3>
+<sub>By Erin Griffith and Cade Metz</sub>
+<p>An investment frenzy over “generative artificial intelligence” has gripped Silicon Valley, as tools that generate text, images and sounds in response to short prompts seize the imagination.  <a href="https://nyti.ms/3GN2WMc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Honors ‘Extraordinary Americans’ Who Defended Democracy on Jan. 6</h3>
-<sub>By Michael D. Shear</sub>
-<p>President Biden marked the second anniversary of the Jan. 6 attack by awarding the Presidential Citizens Medal to 14 people.  <a href="https://nyti.ms/3XfR1vN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Damar Hamlin Has Breathing Tube Removed and Is Talking</h3>
-<sub>By Emmanuel Morgan and Dan Higgins</sub>
-<p>The Buffalo Bills said Hamlin “continues to progress remarkably” and his neurological function was intact.  <a href="https://nyti.ms/3VRgCd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>10 Key Revelations in Idaho Murder Case</h3>
-<sub>By Mike Baker</sub>
-<p>Court records unsealed this week provided vital and unsettling new details about the night four University of Idaho students were killed.  <a href="https://nyti.ms/3W6RDTz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Attacks Continue in Ukraine Despite Russia’s Supposed Cease-Fire</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Ukraine never accepted Russia’s unilateral Christmas truce, dismissing it as a hollow ploy, and Russian shelling was as intense as ever in a hotly contested city.  <a href="https://nyti.ms/3XdQ7zE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>New Armored Vehicles Will Help Ukraine Take the Fight to Russia</h3>
-<sub>By Steven Erlanger and Thomas Gibbons-Neff</sub>
-<p>The Western allies’ provision of infantry fighting vehicles signals their support for new offensives in coming months, analysts said.  <a href="https://nyti.ms/3ZfcAOK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Ant Group Says Its Founder, Jack Ma, Will Relinquish Control</h3>
-<sub>By Chang Che and Mike Ives</sub>
-<p>Ant Group, the fintech sister company of the e-commerce behemoth Alibaba, is one of China’s most influential companies.  <a href="https://nyti.ms/3GNNy2b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Tranq Dope: Animal Sedative Mixed With Fentanyl Brings Fresh Horror to U.S. Drug Zones</h3>
+<sub>By Jan Hoffman</sub>
+<p>A veterinary tranquilizer called xylazine is infiltrating street drugs, deepening addiction, baffling law enforcement and causing wounds so severe that some result in amputation.  <a href="https://nyti.ms/3GMOOCx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Why China Turned Against Jack Ma</h3>
-<sub>By Li Yuan</sub>
-<p>The Alibaba chief paid for pushing back against Beijing. But the shift in attitude also speaks to a growing wealth gap and diminished opportunities for the young.  <a href="https://nyti.ms/3rsw0i3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 24, Central Standard Time</sub></sub>
+<h3>The Hottest Gen Z Gadget Is a 20-Year-Old Digital Camera</h3>
+<sub>By Kalley Huang</sub>
+<p>Young people are opting for point-and-shoots and blurry photos.  <a href="https://nyti.ms/3CuS6rs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In a Ukraine Workshop, the Quest to Build the Perfect Grenade</h3>
+<sub>By Thomas Gibbons-Neff and Natalia Yermak</sub>
+<p>A Ukrainian unit is tinkering with tape, a scale, a 3-D printer and other items to turn a fragmentation grenade into a tank-killer. It’s a steep and risky challenge.  <a href="https://nyti.ms/3iqiyvt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>6-Year-Old Shoots Teacher at Virginia Elementary School, Police Say</h3>
@@ -122,17 +110,29 @@ Right now, there is a lot happening in the world. In the US, there was a big ele
 <p>A teacher at Richneck Elementary School in Newport News has “life-threatening injuries” after being shot by one of her students, the authorities said.  <a href="https://nyti.ms/3GIwLgJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>And the 2023 Oscar Nominees Should Be …</h3>
-<sub>By Manohla Dargis and A.O. Scott</sub>
-<p>Academy voters will do what they want, but if our chief critics had their way, these are the films and performers that would be up for Oscars this year.  <a href="https://nyti.ms/3IrDxIT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Health Experts Warily Eye XBB.1.5, the Latest Omicron Subvariant</h3>
+<sub>By Carl Zimmer</sub>
+<p>A young version of the coronavirus makes up one-quarter of Covid cases across the United States and over 70 percent of new cases in the Northeast.  <a href="https://nyti.ms/3Iy4FpQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>The Mediterranean Diet Really Is That Good for You. Here’s Why.</h3>
-<sub>By Dani Blum</sub>
-<p>It has become the bedrock of virtuous eating. Experts answer common questions about how it leads to better health.  <a href="https://nyti.ms/3WPWWb7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Should you take Paxlovid if you are mildly ill?</h3>
+<sub>By Knvul Sheikh</sub>
+<p>Very few people take the antiviral medicine, but there are good reasons for certain Covid patients to consider it.  <a href="https://nyti.ms/3CvG0yd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Hamlin’s Cardiac Arrest Highlights Danger Across Sports</h3>
+<sub>By Kris Rhim</sub>
+<p>The collapse of Damar Hamlin of the Buffalo Bills has brought attention to sudden cardiac arrest and the need for the proper medical care and equipment from youth leagues to the professional ranks.  <a href="https://nyti.ms/3ZkXXcA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>After an Emotional Week, N.F.L. Players Return to the Field</h3>
+<sub>By Kevin Draper</sub>
+<p>Kansas City will play against the Raiders on Saturday in Las Vegas in the first N.F.L. game since Damar Hamlin’s collapse on Monday night. The mood is likely to be subdued, at least at first.  <a href="https://nyti.ms/3ilW2UF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
