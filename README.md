@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 7, Central Standard Time</p>
 <p>
-Currently, a lot is going on in politics, tech, health, and around the world. In the US, there is a deep dive into the roots of our current chaotic governing system which started with Newt Gingrich and is now manifesting through supporters of Trump&#39;s Make America Great Again campaign. This has given conservative forces more power in the House, causing fears of dysfunction ahead in government and potential economic harm. In the tech world, there has been an increased investment in Artificial Intelligence Tools. On the health front, there is the presence of a veterinary tranquilizer that is being mixed into street drugs, making addiction harder to control. We are also seeing a trend towards young people using 20-year-old digital cameras. In the world news we have Ukrainian units attempting to create a tank-killer grenade as well as Ukrainians celebrating Orthodox Christmas which had long been connected to Moscow. Lastly in US news, there is an incident at a Virginia elementary school where a 6-year-old shot their teacher with life-threatening results. There is also discussion on whether it is worthwhile to take an antiviral medicine for mild covid cases and finally, the first death penalty trial under Biden&#39;s administration for someone accused of killing bike path terrorists - even though Biden campaigned against it.</p>
+Right now, there&#39;s a lot going on in the world. In the US, we&#39;ve seen 10 years of political chaos come to a head with the election of Donald Trump and the subsequent post-election speaker drama in the House. This has raised new fears about the US debt limit and revealed connections between those who were pro-Trump and pro-2020 Election lies. On top of that, we&#39;re also seeing a surge in drug-related issues with a veterinary sedative called xylazine invading American streets. In Ukraine, researchers are working to make a better grenade while also dealing with tensions with Moscow during their Orthodox Christmas celebrations. Finally, here in the US, there was also an horrific 6-year-old shooting at a Virginia elementary school. Scientists have also become very concerned about XBB.1.5, the newest version of coronavirus, which makes up around 25% of Covid cases nationwide and over 70% in the Northeast.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From Gingrich to McCarthy, the Roots of Governance by Chaos</h3>
 <sub>By Robert Draper</sub>
-<p>Mr. Gingrich began the zero-sum politics that mutated into the Tea Party to Trump M.A.G.A. Republicans to the raucous five-day stretch in the House that ended early Saturday.  <a href="https://nyti.ms/3ItbPvp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mr. Gingrich began the zero-sum politics that mutated into the brand of the Tea Party and Trump M.A.G.A. Republicans and that presaged the raucous speaker battle in the House.  <a href="https://nyti.ms/3ItbPvp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -79,6 +79,12 @@ Currently, a lot is going on in politics, tech, health, and around the world. In
 <sub>By Jim Tankersley</sub>
 <p>An emboldened conservative flank and concessions made to win votes could lead to a protracted standoff on critical fiscal issues, risking economic pain.  <a href="https://nyti.ms/3CvaNLU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Confluence of Forces: Anti-Kevin McCarthy and Pro-2020 Election Lies</h3>
+<sub>By Luke Broadwater</sub>
+<p>Some of the same Republicans who were former President Donald J. Trump’s lieutenants in seeking to overturn the 2020 election led the charge against Representative Kevin McCarthy as speaker.  <a href="https://nyti.ms/3Ixvp9Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>A New Area of A.I. Booms, Even Amid the Tech Gloom</h3>
@@ -126,12 +132,6 @@ Currently, a lot is going on in politics, tech, health, and around the world. In
 <h3>Should you take Paxlovid if you are mildly ill?</h3>
 <sub>By Knvul Sheikh</sub>
 <p>Very few people take the antiviral medicine, but there are good reasons for certain Covid patients to consider it.  <a href="https://nyti.ms/3CvG0yd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Accused Bike Path Killer Faces First Death Penalty Trial Under Biden</h3>
-<sub>By Benjamin Weiser</sub>
-<p>Though President Biden campaigned against capital punishment, Attorney General Merrick Garland is charting his own course in pursuing the death penalty in the trial of Sayfullo Saipov.  <a href="https://nyti.ms/3Qo0w9J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
