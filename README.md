@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 7, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, politicians are fighting for the speakership of the House, and President Biden is honoring those who defended democracy on January 6. In sports, football player Damar Hamlin is making a great recovery after having his breathing tube removed and is currently talking again. In Idaho, new revelations have come to light in a murder case, while in the Ukraine there continue to be attacks despite Russia&#39;s supposed cease-fire. Western allies are sending infantry fighting vehicles to help Ukraine take on Russia and widen highways as a solution to traffic congestion. On the health front, there&#39;s a promising new treatment for early Alzheimer&#39;s that has been approved by the FDA. And finally, discussions are already underway on which films may receive Oscar nominations come 2023!</p>
+Right now, there is a lot happening in the world. In the US, there was a big election for House Speaker and President Biden is honoring people who defend democracy. There was also a murder case in Idaho that had major revelations this week. In the international world, there is violence still continuing in Ukraine despite what Russia says is a cease-fire and Western allies are helping with new armored vehicles. In China, Jack Ma of Ant Group is losing control of his company because of some disagreements with Beijing. There was also a shooting at an elementary school in Virginia where a 6-year-old wounded a teacher and the Oscars nominations are speculated for 2023. And finally, people are learning more about why Mediterranean diets are so good for health.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy, All Carrots and No Sticks, Grinned His Way to the Speakership</h3>
-<sub>By Catie Edmondson</sub>
-<p>The Republican leader’s sheer willingness to endure vote after vote against him — even as he offered a slew of concessions — delivered him the top post.  <a href="https://nyti.ms/3ZkBXyu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Speaker Quest Reveals McCarthy’s Tenuous Grip on an Unruly Majority</h3>
 <sub>By Luke Broadwater</sub>
@@ -110,16 +104,22 @@ There is a lot happening in the world right now. In the US, politicians are figh
 <p>The Western allies’ provision of infantry fighting vehicles signals their support for new offensives in coming months, analysts said.  <a href="https://nyti.ms/3ZfcAOK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Widening Highways Doesn’t Fix Traffic. So Why Do We Keep Doing It?</h3>
-<sub>By Eden Weingart and Alyssa Schukar</sub>
-<p>With billions of dollars available to improve transportation infrastructure, states have a chance to try new strategies for addressing congestion. But some habits are hard to break.  <a href="https://nyti.ms/3X7kMiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Ant Group Says Its Founder, Jack Ma, Will Relinquish Control</h3>
+<sub>By Chang Che and Mike Ives</sub>
+<p>Ant Group, the fintech sister company of the e-commerce behemoth Alibaba, is one of China’s most influential companies.  <a href="https://nyti.ms/3GNNy2b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>F.D.A. Approves New Treatment for Early Alzheimer’s</h3>
-<sub>By Pam Belluck</sub>
-<p>The drug, Leqembi, may modestly slow cognitive decline in early stages of the disease but carries some safety risks. Still, data suggests it is more promising than the small number of other available treatments.  <a href="https://nyti.ms/3vFTQul"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Why China Turned Against Jack Ma</h3>
+<sub>By Li Yuan</sub>
+<p>The Alibaba chief paid for pushing back against Beijing. But the shift in attitude also speaks to a growing wealth gap and diminished opportunities for the young.  <a href="https://nyti.ms/3rsw0i3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>6-Year-Old Shoots Teacher at Virginia Elementary School, Police Say</h3>
+<sub>By Livia Albeck-Ripka and Eduardo Medina</sub>
+<p>A teacher at Richneck Elementary School in Newport News has “life-threatening injuries” after being shot by one of her students, the authorities said.  <a href="https://nyti.ms/3GIwLgJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
