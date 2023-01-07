@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 7, Central Standard Time</p>
 <p>
-There have been some dramatic events happening in the US recently. First, McCarthy won the Speaker of the House post after agreeing to concessions with ultraconservative Republicans. This is raising fears on debt limit issues as it gives conservatives more power. There were also further revelations about his tenuous grip on an unruly majority. In more upbeat news, there is a new investment frenzy around innovative artificial intelligence technology, and digital cameras from 20 years ago are becoming popular with Gen Z! Around the world, in Ukraine there&#39;s an effort to build better grenades and in the US an alarming case of a 6-year-old student shooting a teacher happened. In terms of science, there&#39;s a new coronavirus subvariant that&#39;s making up one-quarter of all cases in the US and it&#39;s prompting questions about taking antiviral medicine. And to end with something positive, football players are returning to the field after an emotional week after Damar Hamlin’s collapse brought attention to sudden cardiac arrest rates across sports.</p>
+There&#39;s been a lot happening in the world recently! In the US, Republican Kevin McCarthy just won the speakership after making some concessions to the hard right. This has raised new fears about a possible debt limit standoff. There have also been developments in the tech world - A.I. investment has been booming, and apparently a 20-year-old digital camera is making a comeback with Gen Z. Over in Ukraine, they&#39;re trying to build the perfect grenade, while in a celebratory move, people gathered there for Orthodox Christmas at a holy site traditionally tied to Moscow. Unfortunately, violence was reported as well when a 6-year-old shot their teacher at an elementary school in Virginia, leaving them with life-threatening injuries. Scientists are now concerned about an emerging Covid variant, while people are debating if they should take an antiviral medicine known as Paxlovid if they are mildly ill. Finally, there&#39;s the trial of Sayfullo Saipov who is facing the death penalty for his attack on a bike path back in 2017 - Biden had campaigned against capital punishment but Garland is continuing the case regardless.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy Wins Speakership on 15th Vote After Concessions to Hard Right</h3>
@@ -89,7 +89,7 @@ There have been some dramatic events happening in the US recently. First, McCart
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Tranq Dope: Animal Sedative Mixed With Fentanyl Brings Fresh Horror to U.S. Drug Zones</h3>
 <sub>By Jan Hoffman</sub>
-<p>A veterinary tranquilizer called xylazine is infiltrating street drugs, deepening addiction, baffling law enforcement and causing wounds so severe that some result in amputation.  <a href="https://nyti.ms/3GMOOCx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A veterinary tranquilizer called xylazine is infiltrating street drugs, deepening addiction, baffling law enforcement and causing wounds so severe that some result in amputation.  <a href="https://nyti.ms/3vMLukE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -102,6 +102,12 @@ There have been some dramatic events happening in the US recently. First, McCart
 <h3>In a Ukraine Workshop, the Quest to Build the Perfect Grenade</h3>
 <sub>By Thomas Gibbons-Neff and Natalia Yermak</sub>
 <p>A Ukrainian unit is tinkering with tape, a scale, a 3-D printer and other items to turn a fragmentation grenade into a tank-killer. It’s a steep and risky challenge.  <a href="https://nyti.ms/3iqiyvt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainians Celebrate Orthodox Christmas at a Holy Site Long Linked to Moscow</h3>
+<sub>By Megan Specia</sub>
+<p>The Mass, a deeply symbolic moment after months of tension with the Moscow-led branch of the church, came as a cease-fire failed to materialize.  <a href="https://nyti.ms/3ZlUUAY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +128,10 @@ There have been some dramatic events happening in the US recently. First, McCart
 <p>Very few people take the antiviral medicine, but there are good reasons for certain Covid patients to consider it.  <a href="https://nyti.ms/3CvG0yd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Hamlin’s Cardiac Arrest Highlights Danger Across Sports</h3>
-<sub>By Kris Rhim</sub>
-<p>The collapse of Damar Hamlin of the Buffalo Bills has brought attention to sudden cardiac arrest and the need for the proper medical care and equipment from youth leagues to the professional ranks.  <a href="https://nyti.ms/3ZkXXcA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>After an Emotional Week, N.F.L. Players Return to the Field</h3>
-<sub>By Kevin Draper</sub>
-<p>Kansas City will play against the Raiders on Saturday in Las Vegas in the first N.F.L. game since Damar Hamlin’s collapse on Monday night. The mood is likely to be subdued, at least at first.  <a href="https://nyti.ms/3ilW2UF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Accused Bike Path Killer Faces First Death Penalty Trial Under Biden</h3>
+<sub>By Benjamin Weiser</sub>
+<p>Though President Biden campaigned against capital punishment, Attorney General Merrick Garland is charting his own course in pursuing the death penalty in the trial of Sayfullo Saipov.  <a href="https://nyti.ms/3Qo0w9J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
