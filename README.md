@@ -60,11 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 6, Central Standard Time</p>
 <p>
-Right now, the Republican party is facing internal divisions in the US Congress, with their leader trying to bargain with far-right individuals and factions. December saw strong job growth for employers in the US, which was encouraging for the economic outlook. There has also been a legal development in Idaho as details emerge in a murder case of four college students. 
-In terms of technology breakthroughs, researchers are exploring artificial intelligence and consciousness in robots. Across the world, legal action is still underway as authorities keep investigating and charging those who sieged the Capitol on January 6th. The US government has also made a $3 billion package of military aid to Ukraine, including Bradley vehicles. Meanwhile Ukrainian officials view these developments positively, viewing it as a sign that key weapons will no longer be seen as taboo amongst its allies.
+There&#39;s a lot going on in the world right now. US politics looks tumultuous, with Speaker of the House McCarthy struggling to manage an unruly majority. President Biden has honored the brave Americans who defended democracy on the anniversary of the Jan. 6 attack. In sports news, star NFL player Damar Hamlin has had his breathing tube removed and is recovering well. 
 
-On the health front, a new treatment known as Leqembi has been approved by the FDA to try and treat early Alzheimer&#39;s, though there are some potential safety risks to consider. On the topic of transportation infrastructure, it looks like state governments are finding it difficult to move away from widening highways as a way to fix traffic congestion, despite evidence showing that this strategy doesn&#39;t yield desirable results for states in the long run. 
-Meanwhile in sports news, there&#39;s been a huge uptick in 50-point games across the NBA lately thanks partly to more loose rules and less enforcement of defensive tactics - Donovan Mitchell even scored an incredible 71 points against Utah Jazz earlier this week!</p>
+In Idaho, shocking revelations have come out in a murder case, 10 key details have been unsealed this week. Scientists are also researching artificial intelligence as well as consciousness in robots and AI technology - it&#39;s like a moonshot for humankind but comes with some difficult questions. 
+
+The job market is still uncertain: the US added 223,000 jobs in December, although wage growth lost momentum. Conflict continues to plague Ukraine, despite Russia&#39;s supposed ceasefire, but new armoured vehicles will help Ukrainians take the fight to their opponents. Infratructure is a hot topic - widening highways doesn&#39;t fix traffic but centuries-old habits are hard to break. 
+
+On a more positive note, there&#39;s been breakthroughs in health with FDA approving a new treatment for early Alzheimer&#39;s and the benefits of eating a mostly Mediterranean diet are clear to see. In the world of movies, critics are already thinking about 2023 Oscar nominees!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Speaker Quest Reveals McCarthy’s Tenuous Grip on an Unruly Majority</h3>
@@ -73,15 +75,9 @@ Meanwhile in sports news, there&#39;s been a huge uptick in 50-point games acros
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Live Vote Count: Tracking the House Speaker Votes</h3>
-<sub>By Allison McCartney, Alicia Parlapiano, Ashley Wu and Emily Cochrane</sub>
-<p>Follow live to see how each representative voted for House speaker on each ballot.  <a href="https://nyti.ms/3CmBDFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. employers added 223,000 jobs in December.</h3>
-<sub>By Lydia DePillis</sub>
-<p>Forecasters estimate that employers added 200,000 jobs in December, a robust number though a bit below the average in recent months.  <a href="https://nyti.ms/3vICHjv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Honors ‘Extraordinary Americans’ Who Defended Democracy on Jan. 6</h3>
+<sub>By Michael D. Shear</sub>
+<p>President Biden marked the second anniversary of the Jan. 6 attack by awarding the Presidential Citizens Medal to 14 people.  <a href="https://nyti.ms/3XfR1vN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -102,28 +98,22 @@ Meanwhile in sports news, there&#39;s been a huge uptick in 50-point games acros
 <p>The pursuit of artificial awareness may be humankind’s next moonshot. But it comes with a slurry of difficult questions.  <a href="https://nyti.ms/3iioRRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Two Years Later, Prosecutions of Jan. 6 Rioters Continue to Grow</h3>
-<sub>By Alan Feuer</sub>
-<p>The Justice Department’s investigation of the Capitol attack, already the largest it has ever conducted, has resulted in 900 arrests, with the potential for scores or hundreds more to come.  <a href="https://nyti.ms/3Qioh34"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Added 223,000 Jobs in December, a Slight Easing in Pace</h3>
+<sub>By Lydia DePillis</sub>
+<p>The Federal Reserve’s moves to cool the economy with higher interest rates seem to be taking gentle hold. Wage growth lost momentum.  <a href="https://nyti.ms/3vICHjv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The U.S. announces a $3 billion package of military aid to Ukraine, including Bradley Fighting Vehicles.</h3>
-<sub>By Michael D. Shear</sub>
-<p>Karine Jean-Pierre, the White House press secretary, said the administration would also send $682 million to countries on NATO’s eastern flank.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Attacks Continue in Ukraine Despite Russia’s Supposed Cease-Fire</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Ukraine never accepted Russia’s unilateral Christmas truce, dismissing it as a hollow ploy, and Russian shelling was as intense as ever in a hotly contested city.  <a href="https://nyti.ms/3XdQ7zE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine says recent pledges show that key weapons are no longer ‘taboo’ for its allies.</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>  <a href="https://nyti.ms/3GL6gam"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>F.D.A. Approves New Treatment for Early Alzheimer’s</h3>
-<sub>By Pam Belluck</sub>
-<p>The drug, Leqembi, may modestly slow cognitive decline in early stages of the disease but carries some safety risks. Still, data suggests it is more promising than the small number of other available treatments.  <a href="https://nyti.ms/3vFTQul"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>New Armored Vehicles Will Help Ukraine Take the Fight to Russia</h3>
+<sub>By Steven Erlanger and Thomas Gibbons-Neff</sub>
+<p>The Western allies’ provision of infantry fighting vehicles signals their support for new offensives in coming months, analysts said.  <a href="https://nyti.ms/3ZfcAOK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,10 +122,22 @@ Meanwhile in sports news, there&#39;s been a huge uptick in 50-point games acros
 <p>With billions of dollars available to improve transportation infrastructure, states have a chance to try new strategies for addressing congestion. But some habits are hard to break.  <a href="https://nyti.ms/3X7kMiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>As the N.B.A. Gets ‘Loose,’ 50-Point Games Are Surging</h3>
-<sub>By Victor Mather</sub>
-<p>Donovan Mitchell’s 71 points in a game this week was the top mark since 2006, but a rise in offense (and a lack of defense) has made high-scoring games a routine affair.  <a href="https://nyti.ms/3WT5cXB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>F.D.A. Approves New Treatment for Early Alzheimer’s</h3>
+<sub>By Pam Belluck</sub>
+<p>The drug, Leqembi, may modestly slow cognitive decline in early stages of the disease but carries some safety risks. Still, data suggests it is more promising than the small number of other available treatments.  <a href="https://nyti.ms/3vFTQul"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>And the 2023 Oscar Nominees Should Be …</h3>
+<sub>By Manohla Dargis and A.O. Scott</sub>
+<p>Academy voters will do what they want, but if our chief critics had their way, these are the films and performers that would be up for Oscars this year.  <a href="https://nyti.ms/3IrDxIT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>The Mediterranean Diet Really Is That Good for You. Here’s Why.</h3>
+<sub>By Dani Blum</sub>
+<p>It has become the bedrock of virtuous eating. Experts answer common questions about how it leads to better health.  <a href="https://nyti.ms/3WPWWb7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
