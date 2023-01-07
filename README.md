@@ -58,10 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, January 6, Central Standard Time</p>
+<p>It is Saturday, January 7, Central Standard Time</p>
 <p>
-Recently, there&#39;s been a lot of news related to the US government. Speaker Quest Reveals McCarthy&#39;s Tenuous Grip on an Unruly Majority has reported on Republican leader concessions to the far right and the president awarding 14 people the Presidential Citizens Medal to honor extraordinary Americans who defended democracy on Jan. 6. On the sports front, Buffalo Bills&#39; Damar Hamlin has had a breathing tube removed and is talking, while 10 key revelations in Idaho murder case were unsealed this week. In science news, experts are exploring &#39;consciousness&#39; in robots and how it may be humankind&#39;s next moonshot. In world news, there has been an attack in Ukraine despite Russia&#39;s supposed cease-fire and Western allies providing infantry fighting vehicles to help Ukraine take the fight to Russia. As for US infrastructure, Widening Highways Doesn&#39;t Fix Traffic and billions of dollars become available leading to new strategies for addressing congestion. In health news, the FDA has approved a new treatment for early Alzheimer&#39;s that carries some safety risks but shows promise compared to other treatments. Lastly, movies buffs are offering their predictions of 2023 Oscar nominees and fans of Mediterranean Diet are exploring why it is so good for your health.</p>
+There is a lot happening in the world right now. In the US, politicians are fighting for the speakership of the House, and President Biden is honoring those who defended democracy on January 6. In sports, football player Damar Hamlin is making a great recovery after having his breathing tube removed and is currently talking again. In Idaho, new revelations have come to light in a murder case, while in the Ukraine there continue to be attacks despite Russia&#39;s supposed cease-fire. Western allies are sending infantry fighting vehicles to help Ukraine take on Russia and widen highways as a solution to traffic congestion. On the health front, there&#39;s a promising new treatment for early Alzheimer&#39;s that has been approved by the FDA. And finally, discussions are already underway on which films may receive Oscar nominations come 2023!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy, All Carrots and No Sticks, Grinned His Way to the Speakership</h3>
+<sub>By Catie Edmondson</sub>
+<p>The Republican leader’s sheer willingness to endure vote after vote against him — even as he offered a slew of concessions — delivered him the top post.  <a href="https://nyti.ms/3ZkBXyu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Speaker Quest Reveals McCarthy’s Tenuous Grip on an Unruly Majority</h3>
 <sub>By Luke Broadwater</sub>
@@ -69,9 +75,9 @@ Recently, there&#39;s been a lot of news related to the US government. Speaker Q
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Live Vote Count: Tracking the House Speaker Votes</h3>
+<h3>Vote Count: McCarthy Elected House Speaker After 15 Ballots</h3>
 <sub>By Allison McCartney, Alicia Parlapiano, Ashley Wu, Christine Zhang, Josh Williams, Emily Cochrane and John-Michael Murphy</sub>
-<p>Follow live to see how each representative voted for House speaker on each ballot.  <a href="https://nyti.ms/3CmBDFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>See how each representative voted in each round of the marathon election for House speaker.  <a href="https://nyti.ms/3CmBDFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -90,12 +96,6 @@ Recently, there&#39;s been a lot of news related to the US government. Speaker Q
 <h3>10 Key Revelations in Idaho Murder Case</h3>
 <sub>By Mike Baker</sub>
 <p>Court records unsealed this week provided vital and unsettling new details about the night four University of Idaho students were killed.  <a href="https://nyti.ms/3W6RDTz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>‘Consciousness’ in Robots Was Once Taboo. Now It’s the Last Word.</h3>
-<sub>By Oliver Whang</sub>
-<p>The pursuit of artificial awareness may be humankind’s next moonshot. But it comes with a slurry of difficult questions.  <a href="https://nyti.ms/3iioRRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
