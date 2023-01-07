@@ -60,19 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 6, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. US politics looks tumultuous, with Speaker of the House McCarthy struggling to manage an unruly majority. President Biden has honored the brave Americans who defended democracy on the anniversary of the Jan. 6 attack. In sports news, star NFL player Damar Hamlin has had his breathing tube removed and is recovering well. 
-
-In Idaho, shocking revelations have come out in a murder case, 10 key details have been unsealed this week. Scientists are also researching artificial intelligence as well as consciousness in robots and AI technology - it&#39;s like a moonshot for humankind but comes with some difficult questions. 
-
-The job market is still uncertain: the US added 223,000 jobs in December, although wage growth lost momentum. Conflict continues to plague Ukraine, despite Russia&#39;s supposed ceasefire, but new armoured vehicles will help Ukrainians take the fight to their opponents. Infratructure is a hot topic - widening highways doesn&#39;t fix traffic but centuries-old habits are hard to break. 
-
-On a more positive note, there&#39;s been breakthroughs in health with FDA approving a new treatment for early Alzheimer&#39;s and the benefits of eating a mostly Mediterranean diet are clear to see. In the world of movies, critics are already thinking about 2023 Oscar nominees!</p>
+Recently, there&#39;s been a lot of news related to the US government. Speaker Quest Reveals McCarthy&#39;s Tenuous Grip on an Unruly Majority has reported on Republican leader concessions to the far right and the president awarding 14 people the Presidential Citizens Medal to honor extraordinary Americans who defended democracy on Jan. 6. On the sports front, Buffalo Bills&#39; Damar Hamlin has had a breathing tube removed and is talking, while 10 key revelations in Idaho murder case were unsealed this week. In science news, experts are exploring &#39;consciousness&#39; in robots and how it may be humankind&#39;s next moonshot. In world news, there has been an attack in Ukraine despite Russia&#39;s supposed cease-fire and Western allies providing infantry fighting vehicles to help Ukraine take the fight to Russia. As for US infrastructure, Widening Highways Doesn&#39;t Fix Traffic and billions of dollars become available leading to new strategies for addressing congestion. In health news, the FDA has approved a new treatment for early Alzheimer&#39;s that carries some safety risks but shows promise compared to other treatments. Lastly, movies buffs are offering their predictions of 2023 Oscar nominees and fans of Mediterranean Diet are exploring why it is so good for your health.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Speaker Quest Reveals McCarthy’s Tenuous Grip on an Unruly Majority</h3>
 <sub>By Luke Broadwater</sub>
 <p>As the Republican leader has made concessions to the far right, he has effectively agreed to give them carte blanche to disrupt the workings of the House — and to hold him hostage to their demands.  <a href="https://nyti.ms/3imfW1R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Live Vote Count: Tracking the House Speaker Votes</h3>
+<sub>By Allison McCartney, Alicia Parlapiano, Ashley Wu, Christine Zhang, Josh Williams, Emily Cochrane and John-Michael Murphy</sub>
+<p>Follow live to see how each representative voted for House speaker on each ballot.  <a href="https://nyti.ms/3CmBDFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Honors ‘Extraordinary Americans’ Who Defended Democracy on Jan. 6</h3>
@@ -96,12 +96,6 @@ On a more positive note, there&#39;s been breakthroughs in health with FDA appro
 <h3>‘Consciousness’ in Robots Was Once Taboo. Now It’s the Last Word.</h3>
 <sub>By Oliver Whang</sub>
 <p>The pursuit of artificial awareness may be humankind’s next moonshot. But it comes with a slurry of difficult questions.  <a href="https://nyti.ms/3iioRRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Added 223,000 Jobs in December, a Slight Easing in Pace</h3>
-<sub>By Lydia DePillis</sub>
-<p>The Federal Reserve’s moves to cool the economy with higher interest rates seem to be taking gentle hold. Wage growth lost momentum.  <a href="https://nyti.ms/3vICHjv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
