@@ -60,25 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 7, Central Standard Time</p>
 <p>
-There&#39;s been a lot happening in the world recently! In the US, Republican Kevin McCarthy just won the speakership after making some concessions to the hard right. This has raised new fears about a possible debt limit standoff. There have also been developments in the tech world - A.I. investment has been booming, and apparently a 20-year-old digital camera is making a comeback with Gen Z. Over in Ukraine, they&#39;re trying to build the perfect grenade, while in a celebratory move, people gathered there for Orthodox Christmas at a holy site traditionally tied to Moscow. Unfortunately, violence was reported as well when a 6-year-old shot their teacher at an elementary school in Virginia, leaving them with life-threatening injuries. Scientists are now concerned about an emerging Covid variant, while people are debating if they should take an antiviral medicine known as Paxlovid if they are mildly ill. Finally, there&#39;s the trial of Sayfullo Saipov who is facing the death penalty for his attack on a bike path back in 2017 - Biden had campaigned against capital punishment but Garland is continuing the case regardless.</p>
+Currently, a lot is going on in politics, tech, health, and around the world. In the US, there is a deep dive into the roots of our current chaotic governing system which started with Newt Gingrich and is now manifesting through supporters of Trump&#39;s Make America Great Again campaign. This has given conservative forces more power in the House, causing fears of dysfunction ahead in government and potential economic harm. In the tech world, there has been an increased investment in Artificial Intelligence Tools. On the health front, there is the presence of a veterinary tranquilizer that is being mixed into street drugs, making addiction harder to control. We are also seeing a trend towards young people using 20-year-old digital cameras. In the world news we have Ukrainian units attempting to create a tank-killer grenade as well as Ukrainians celebrating Orthodox Christmas which had long been connected to Moscow. Lastly in US news, there is an incident at a Virginia elementary school where a 6-year-old shot their teacher with life-threatening results. There is also discussion on whether it is worthwhile to take an antiviral medicine for mild covid cases and finally, the first death penalty trial under Biden&#39;s administration for someone accused of killing bike path terrorists - even though Biden campaigned against it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Wins Speakership on 15th Vote After Concessions to Hard Right</h3>
-<sub>By Annie Karni</sub>
-<p>An agreement with ultraconservative Republicans delivered a breakthrough for the California Republican, but he still had to claw his way to the post during a dramatic post-midnight session.  <a href="https://nyti.ms/3CoFRfV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<h3>From Gingrich to McCarthy, the Roots of Governance by Chaos</h3>
+<sub>By Robert Draper</sub>
+<p>Mr. Gingrich began the zero-sum politics that mutated into the Tea Party to Trump M.A.G.A. Republicans to the raucous five-day stretch in the House that ended early Saturday.  <a href="https://nyti.ms/3ItbPvp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why McCarthy’s Slog to Speaker Could Mean Dysfunction Ahead in the House</h3>
+<sub>By Emily Cochrane</sub>
+<p>The top Republican already had to work with a tiny majority and an emboldened right flank. Concessions he made to win his speakership gave the rebels more tools to sow disarray.  <a href="https://nyti.ms/3vNbnR8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Speaker Drama Raises New Fears on Debt Limit</h3>
 <sub>By Jim Tankersley</sub>
 <p>An emboldened conservative flank and concessions made to win votes could lead to a protracted standoff on critical fiscal issues, risking economic pain.  <a href="https://nyti.ms/3CvaNLU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Speaker Quest Reveals McCarthy’s Tenuous Grip on an Unruly Majority</h3>
-<sub>By Luke Broadwater</sub>
-<p>As the Republican leader has made concessions to the far right, he has effectively agreed to give them carte blanche to disrupt the workings of the House — and to hold him hostage to their demands.  <a href="https://nyti.ms/3imfW1R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>A New Area of A.I. Booms, Even Amid the Tech Gloom</h3>
@@ -107,7 +107,7 @@ There&#39;s been a lot happening in the world recently! In the US, Republican Ke
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainians Celebrate Orthodox Christmas at a Holy Site Long Linked to Moscow</h3>
 <sub>By Megan Specia</sub>
-<p>The Mass, a deeply symbolic moment after months of tension with the Moscow-led branch of the church, came as a cease-fire failed to materialize.  <a href="https://nyti.ms/3ZlUUAY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The sermon, a deeply symbolic moment after months of tension with the Moscow-led branch of the church, came as a cease-fire failed to materialize.  <a href="https://nyti.ms/3ZlUUAY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
