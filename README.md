@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 8, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of political turmoil and unrest in the US, Ukraine, and Iran. In the US House of Representatives, fights are breaking out among Republicans as they attempt to pick a new speaker. In Ukraine, a military unit is attempting to build the perfect grenade to kill tanks with. And in Iran, a monthslong uprising has been met with government crackdowns resulting in death sentences for some protesters. Meanwhile, we&#39;re also grappling with fentanyl-laced drugs that are ravaging US cities and a 20-year-old analog camera becoming an unlikely hit with younger generations. Even sports news isn&#39;t immune to the tense mood; an NFL game had to be halted when one player collapsed after suffering a severe injury on the field.</p>
+There is currently a lot going on in the world. In Ukraine, volunteers with historical grievances against Russia are taking up arms and fighting against Moscow. Meanwhile, some of the former Soviet republics are using tape, scales, and 3-D printers to turn fragmentation grenades into tank-killers. In the US, there was an overnight session in Congress to decide the new Speaker. This has been part of a zero-sum politics that has mutated over time into what it is now. In Asia, populations are aging quickly, with elderly workers staying in the workforce well beyond their seventies. In an art history class, Muslim students have voiced an outcry over a painting of the Prophet Muhammad. This painting is considered a masterpiece by many scholars. There is also ongoing debate in New York City over dirt roads - both for maintenance and cultural implications. Migrants from the border are settling in New York and facing both help and hardship as they integrate into society. And finally, the NFL has returned this weekend after Damar Hamlin&#39;s collapse last Monday - with many questions still unanswered about what happened and how to cover it appropriately moving forward.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Now Fighting for Ukraine: Volunteers Seeking Revenge Against Russia</h3>
+<sub>By Carlotta Gall</sub>
+<p>Chechens, Crimean Tatars and people from the former Soviet republics, all with deep historical grievances against Moscow, are eagerly taking up arms for Kyiv.  <a href="https://nyti.ms/3ZnhB7S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In a Ukraine Workshop, the Quest to Build the Perfect Grenade</h3>
+<sub>By Thomas Gibbons-Neff and Natalia Yermak</sub>
+<p>A Ukrainian unit is tinkering with tape, a scale, a 3-D printer and other items to turn a fragmentation grenade into a tank-killer. It’s a steep and risky challenge.  <a href="https://nyti.ms/3iqiyvt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Speaker Fight’s Final Hours, Arm-Twisting, Flaring Tempers and Calls From Trump</h3>
 <sub>By Catie Edmondson</sub>
@@ -74,46 +86,34 @@ Right now, there&#39;s a lot of political turmoil and unrest in the US, Ukraine,
 <p>Mr. Gingrich began the zero-sum politics that mutated into the brand of the Tea Party and Trump M.A.G.A. Republicans and that presaged the raucous speaker battle in the House.  <a href="https://nyti.ms/3ItbPvp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why McCarthy’s Slog to Speaker Could Mean Dysfunction Ahead in the House</h3>
-<sub>By Emily Cochrane</sub>
-<p>The top Republican already had to work with a tiny majority and an emboldened right flank. Concessions he made to win his speakership gave the rebels more tools to sow disarray.  <a href="https://nyti.ms/3vNbnR8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Tranq Dope: Animal Sedative Mixed With Fentanyl Brings Fresh Horror to U.S. Drug Zones</h3>
-<sub>By Jan Hoffman</sub>
-<p>A veterinary tranquilizer called xylazine is infiltrating street drugs, deepening addiction, baffling law enforcement and causing wounds so severe that some result in amputation.  <a href="https://nyti.ms/3vMLukE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Ukraine Workshop, the Quest to Build the Perfect Grenade</h3>
-<sub>By Thomas Gibbons-Neff and Natalia Yermak</sub>
-<p>A Ukrainian unit is tinkering with tape, a scale, a 3-D printer and other items to turn a fragmentation grenade into a tank-killer. It’s a steep and risky challenge.  <a href="https://nyti.ms/3iqiyvt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Asian Societies Age, ‘Retirement’ Just Means More Work</h3>
+<sub>By Motoko Rich and Hikari Hida</sub>
+<p>Across East Asia, populations are graying faster than anywhere else in the world, and while younger generations shrink, older workers are often toiling well into their 70s and beyond.  <a href="https://nyti.ms/3CttBuE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Hottest Gen Z Gadget Is a 20-Year-Old Digital Camera</h3>
-<sub>By Kalley Huang</sub>
-<p>Young people are opting for point-and-shoots and blurry photos.  <a href="https://nyti.ms/3CuS6rs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Lecturer Showed a Painting of the Prophet Muhammad. She Lost Her Job.</h3>
+<sub>By Vimal Patel</sub>
+<p>After an outcry over the art history class by Muslim students, Hamline University officials said the incident was Islamophobic. But many scholars say the work is a masterpiece.  <a href="https://nyti.ms/3Xe7oZH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Expensive, Treacherous, Beautiful: The Battle Over Dirt Roads</h3>
+<sub>By Jim Zarroli</sub>
+<p>For one town on the Hudson River, the soul of the place is found in its dirt roads. That is, unless you have to drive on them in bad weather.  <a href="https://nyti.ms/3GO72DR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>‘I Don’t Get Lost Anymore’: Migrants in New York Struggle, and Settle In</h3>
+<sub>By Karen Zraick and Brittany Kriegstein</sub>
+<p>People who arrived in New York from the border describe the help and hardship they have experienced as the city prepares for more migrants to arrive.  <a href="https://nyti.ms/3k1LOJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After 6-Year-Old Is Accused in School Shooting, Many Questions and a Murky Legal Path</h3>
 <sub>By Paul Bibeau, Sarah Mervosh and Tim Arango</sub>
 <p>The teacher who was shot was in stable condition on Saturday, the police said, but details surrounding the gun remained unknown.  <a href="https://nyti.ms/3vRblaQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Benedict’s Burial Leaves Francis Alone, and Unbound</h3>
-<sub>By Jason Horowitz</sub>
-<p>Liberal supporters of Francis, a pope never shy about exercising power, now anticipate a late-breaking season of change.  <a href="https://nyti.ms/3ZioxmG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Damar Hamlin and the Existential Crisis of ‘Monday Night Football’</h3>
-<sub>By Devin Gordon</sub>
-<p>Fans are used to seeing gruesome injuries. But there was no media playbook for what happened to Hamlin.  <a href="https://nyti.ms/3X9R78F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -128,10 +128,10 @@ Right now, there&#39;s a lot of political turmoil and unrest in the US, Ukraine,
 <p>The broadcast on Saturday was a test of how the networks are going to cover the sport in the wake of Damar Hamlin’s collapse on the field last Monday.  <a href="https://nyti.ms/3GwAtZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here Are the People Iran Sentenced to Death in Its Protest Crackdown</h3>
-<sub>By Farnaz Fassihi and Cora Engelbrecht</sub>
-<p>An updated look at the Iranians marked for execution in the government’s attempt to curb a monthslong uprising.  <a href="https://nyti.ms/3vNvTB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jillian Rayfield</sub>
+<p>The Norwegian hobbyists finding hundreds of Bronze Age carvings. Also in this edition: a bolder Michelle Williams, and Iggy Pop’s staying power.  <a href="https://nyti.ms/3vJYTcZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
