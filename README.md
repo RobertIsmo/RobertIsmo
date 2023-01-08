@@ -58,9 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, January 7, Central Standard Time</p>
+<p>It is Sunday, January 8, Central Standard Time</p>
 <p>
-There is a lot of turmoil around the world right now. In the U.S., speakers are fighting and intraparty strife between Republicans has reached a boiling point. In Ukraine, they are questing to build the perfect grenade with 3-D printers and other materials. In Iran, people have been sentenced to death due to their involvement in protests. And in the health realm, there is a new concern about animal sedatives being mixed with fentanyl, leading to extreme addiction and wounds so severe that some need amputations.</p>
+In the US, there has been an intense fight for Speaker of the House in Congress. From tensions and arm-twisting to calls from President Trump, this historic battle has been going on to determine who will lead the House. Also in the US, there have been reports of a deadly drug called tranq dope being mixed with fentanyl and sold in drug-prone areas. This has caused many serious wounds and amputations.
+
+In Ukraine, a unit has taken up the arduous task of creating a tank-killer grenade through 3-D printing and other tools. Elsewhere in the world, Iran has recently cracked down on protestors with death sentences on some of them. 
+
+There have also been several interesting stories emerging in technology and sports lately. There has been a resurgence of young people opting for 20-year old point-and-shoot cameras, as well as an emotional week for viewers of Monday Night Football when an player collapsed on the field. Finally the NFL had resumed games which were broadcasted by ESPN looking for the right tone in their coverage.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Speaker Fight’s Final Hours, Arm-Twisting, Flaring Tempers and Calls From Trump</h3>
