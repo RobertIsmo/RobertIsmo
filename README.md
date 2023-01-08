@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 8, Central Standard Time</p>
 <p>
-There is currently a lot going on in the world. In Ukraine, volunteers with historical grievances against Russia are taking up arms and fighting against Moscow. Meanwhile, some of the former Soviet republics are using tape, scales, and 3-D printers to turn fragmentation grenades into tank-killers. In the US, there was an overnight session in Congress to decide the new Speaker. This has been part of a zero-sum politics that has mutated over time into what it is now. In Asia, populations are aging quickly, with elderly workers staying in the workforce well beyond their seventies. In an art history class, Muslim students have voiced an outcry over a painting of the Prophet Muhammad. This painting is considered a masterpiece by many scholars. There is also ongoing debate in New York City over dirt roads - both for maintenance and cultural implications. Migrants from the border are settling in New York and facing both help and hardship as they integrate into society. And finally, the NFL has returned this weekend after Damar Hamlin&#39;s collapse last Monday - with many questions still unanswered about what happened and how to cover it appropriately moving forward.</p>
+Around the world, there are a lot of intense events taking place. Volunteers with a history of grievances against Russia are taking up arms to fight for Ukraine. In Ukraine, they&#39;re also tinkering with different items to make grenades more powerful. Despite difficult conditions, families are still celebrating Orthodox Christmas as an act of defiance. In America, the fight over the speaker of the house recently drew to a close after a tiring overnight session and this was part of a larger pattern of zero-sum politics. Additionally, in Asia older workers often work well beyond the retirement age due to the graying population. In America, some university lecturers took alleged Islamophobic stances and were fired for doing so and on the southern border President Biden is preparing for a new wave of migrants. New York is now home to many migrants who face help and hardship as they settle in but also towns on the Hudson River have begun debating how to take care of their dirt roads. Finally, China is lifting pandemic border controls while anxiousness still remains in some people.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Now Fighting for Ukraine: Volunteers Seeking Revenge Against Russia</h3>
@@ -73,6 +73,12 @@ There is currently a lot going on in the world. In Ukraine, volunteers with hist
 <sub>By Thomas Gibbons-Neff and Natalia Yermak</sub>
 <p>A Ukrainian unit is tinkering with tape, a scale, a 3-D printer and other items to turn a fragmentation grenade into a tank-killer. It’s a steep and risky challenge.  <a href="https://nyti.ms/3iqiyvt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The House Is in Ruins, but the Holiday Feast Goes On</h3>
+<sub>By Megan Specia</sub>
+<p>Orthodox Christmas came under harsh circumstances in Ukraine this year. For families like the Kovtuns, living next to the remains of their shell-struck home, celebration was an act of defiance.  <a href="https://nyti.ms/3vNdNze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Speaker Fight’s Final Hours, Arm-Twisting, Flaring Tempers and Calls From Trump</h3>
@@ -98,11 +104,11 @@ There is currently a lot going on in the world. In Ukraine, volunteers with hist
 <p>After an outcry over the art history class by Muslim students, Hamline University officials said the incident was Islamophobic. But many scholars say the work is a masterpiece.  <a href="https://nyti.ms/3Xe7oZH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Expensive, Treacherous, Beautiful: The Battle Over Dirt Roads</h3>
-<sub>By Jim Zarroli</sub>
-<p>For one town on the Hudson River, the soul of the place is found in its dirt roads. That is, unless you have to drive on them in bad weather.  <a href="https://nyti.ms/3GO72DR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden to Visit Southern Border Amid Fresh Crackdown on Migrants</h3>
+<sub>By Michael D. Shear</sub>
+<p>A surge of migration has made El Paso one of the most vivid symbols of the decades-long breakdown in America’s immigration system.  <a href="https://nyti.ms/3Gt9bmM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>‘I Don’t Get Lost Anymore’: Migrants in New York Struggle, and Settle In</h3>
@@ -110,29 +116,23 @@ There is currently a lot going on in the world. In Ukraine, volunteers with hist
 <p>People who arrived in New York from the border describe the help and hardship they have experienced as the city prepares for more migrants to arrive.  <a href="https://nyti.ms/3k1LOJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After 6-Year-Old Is Accused in School Shooting, Many Questions and a Murky Legal Path</h3>
-<sub>By Paul Bibeau, Sarah Mervosh and Tim Arango</sub>
-<p>The teacher who was shot was in stable condition on Saturday, the police said, but details surrounding the gun remained unknown.  <a href="https://nyti.ms/3vRblaQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Expensive, Treacherous, Beautiful: The Battle Over Dirt Roads</h3>
+<sub>By Jim Zarroli</sub>
+<p>For one town on the Hudson River, the soul of the place is found in its dirt roads. That is, unless you have to drive on them in bad weather.  <a href="https://nyti.ms/3GO72DR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>After an Emotional Week, the N.F.L. Returns to Something Like Normal</h3>
-<sub>By Kevin Draper and Ken Belson</sub>
-<p>In the first games since Damar Hamlin’s collapse, Kansas City beat the Raiders and the Jaguars beat the Titans. Playing again was “definitely weird,” Patrick Mahomes said.  <a href="https://nyti.ms/3VRtDUg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As China Lifts Pandemic Border Controls, Mixed Feelings at Home and Abroad</h3>
+<sub>By Alexandra Stevenson, Zixu Wang and Tiffany May</sub>
+<p>Friends and families are planning reunions; tourists are booking flights. But amid the anticipation, there’s a whiff of anxiety.  <a href="https://nyti.ms/3vN6hEt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>ESPN Looks for the Right Tone as the N.F.L. Resumes Games</h3>
-<sub>By John Koblin</sub>
-<p>The broadcast on Saturday was a test of how the networks are going to cover the sport in the wake of Damar Hamlin’s collapse on the field last Monday.  <a href="https://nyti.ms/3GwAtZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Should you take Paxlovid if you are mildly ill?</h3>
+<sub>By Knvul Sheikh</sub>
+<p>Very few people take the antiviral medicine, but there are good reasons for certain Covid patients to consider it.  <a href="https://nyti.ms/3CvG0yd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jillian Rayfield</sub>
-<p>The Norwegian hobbyists finding hundreds of Bronze Age carvings. Also in this edition: a bolder Michelle Williams, and Iggy Pop’s staying power.  <a href="https://nyti.ms/3vJYTcZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
