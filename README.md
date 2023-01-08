@@ -60,33 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 8, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Ukraine, there are volunteers who have taken up arms to fight against Russia, and a Ukrainian unit is tinkering with tape, a scale, and a 3-D printer to transform a fragment grenade into a tank-killer. Despite destruction from shelling during the Orthodox Christmas, some families are defiantly celebrating the holiday. Meanwhile, in Asia, populations are aging faster than any other region in the world, with older generations continuing to work into their 70s and beyond. 
-
-In the US, House Republicans have planned a special subcommittee led by a Trump ally to scrutinize FBI and intelligence agencies. There was also a lot of intraparty strife yesterday, leading up to the election of Speaker Kevin McCarthy. There has been some criticism over him in his hometown as well; particularly after a lecturer at Hamline University lost her job for displaying an artwork of the Prophet Muhammad (which many scholars say is a masterpiece). VP Biden has been visiting the southern border due to the increase of immigrants crossing over, and in New York City migrants from other countries are struggling but also settling in. Finally, China is lifting their pandemic border controls which is causing mixed feelings of anticipation and anxiety at home and abroad.</p>
+There is a lot happening around the world right now. In Brazil, President Bolsonaro has been staying thousands of miles away in Florida. In the US, Republicans are in the process of introducing new rules to try and address some of Congress&#39; complexities and are also setting up a committee to scrutinize open criminal investigations and classified intelligence. In Ukraine, volunteers from Chechnya, Crimea and former Soviet republics are taking up arms to fight against Russia. Despite the war in Ukraine, residents still celebrated Orthodox Christmas as an act of defiance. In the US, an art lecturer lost their job for showing a painting of the Prophet Muhammad, and at the same time, immigration continues to be difficult as more migrants arrive at the Southern US border. In New York, migrants who arrived at the border are struggling but managing to settle in, while East Asian countries are starting to experience fast graying of populations due to lack of younger generations. On the Hudson River in New York, there is a battle over dirt roads while China has started to lift pandemic border control restrictions but with mixed feelings amongst people and abroad. Lastly in the US, an alarming incident occurred when a 6-year-old was suspected of shooting at school and began raising many questions about it legal path and clarity around the gun itself.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Now Fighting for Ukraine: Volunteers Seeking Revenge Against Russia</h3>
-<sub>By Carlotta Gall</sub>
-<p>Chechens, Crimean Tatars and people from the former Soviet republics, all with deep historical grievances against Moscow, are eagerly taking up arms for Kyiv.  <a href="https://nyti.ms/3ZnhB7S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Bolsonaro has been holed up thousands of miles away in Florida.</h3>
+<sub>By Jack Nicas</sub>
+<p>  <a href="https://nyti.ms/3Xi3tLA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Ukraine Workshop, the Quest to Build the Perfect Grenade</h3>
-<sub>By Thomas Gibbons-Neff and Natalia Yermak</sub>
-<p>A Ukrainian unit is tinkering with tape, a scale, a 3-D printer and other items to turn a fragmentation grenade into a tank-killer. It’s a steep and risky challenge.  <a href="https://nyti.ms/3iqiyvt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The House Is in Ruins, but the Holiday Feast Goes On</h3>
-<sub>By Megan Specia</sub>
-<p>Orthodox Christmas came under harsh circumstances in Ukraine this year. For families like the Kovtuns, living next to the remains of their shell-struck home, celebration was an act of defiance.  <a href="https://nyti.ms/3vNdNze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Prepare New Rules, but Fixing Congress Isn’t So Easy</h3>
+<sub>By Carl Hulse</sub>
+<p>History suggests that the procedural plans of the new House Republican majority are likely to lead to more gridlock and legislative instability, not less.  <a href="https://nyti.ms/3IsV8Aq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Asian Societies Age, ‘Retirement’ Just Means More Work</h3>
-<sub>By Motoko Rich and Hikari Hida</sub>
-<p>Across East Asia, populations are graying faster than anywhere else in the world, and while younger generations shrink, older workers are often toiling well into their 70s and beyond.  <a href="https://nyti.ms/3CttBuE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Republicans Preparing Broad Inquiry Into F.B.I. and Security Agencies</h3>
@@ -94,17 +80,17 @@ In the US, House Republicans have planned a special subcommittee led by a Trump 
 <p>Republicans plan to create a special subcommittee, led by a Trump ally, with a mandate to scrutinize open criminal investigations and classified intelligence.  <a href="https://nyti.ms/3CxAMlz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Speaker Fight’s Final Hours, Arm-Twisting, Flaring Tempers and Calls From Trump</h3>
-<sub>By Catie Edmondson</sub>
-<p>Speaker Kevin McCarthy’s slog to his post ended with a remarkably public show of intraparty strife that played out in a history-making overnight session.  <a href="https://nyti.ms/3Cy7mUt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Now Fighting for Ukraine: Volunteers Seeking Revenge Against Russia</h3>
+<sub>By Carlotta Gall</sub>
+<p>Chechens, Crimean Tatars and people from the former Soviet republics, all with deep historical grievances against Moscow, are eagerly taking up arms for Kyiv.  <a href="https://nyti.ms/3ZnhB7S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Far-Right Critics Vex McCarthy in His Bakersfield District, Too</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The Republican divisions facing Representative Kevin McCarthy played out not only on the House floor but also in his hometown, a red area of blue California.  <a href="https://nyti.ms/3WQMXSU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The House Is in Ruins, but the Holiday Feast Goes On</h3>
+<sub>By Megan Specia</sub>
+<p>Orthodox Christmas came under harsh circumstances in Ukraine this year. For families like the Kovtuns, living next to the remains of their shell-struck home, celebration was an act of defiance.  <a href="https://nyti.ms/3vNdNze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Lecturer Showed a Painting of the Prophet Muhammad. She Lost Her Job.</h3>
@@ -113,7 +99,7 @@ In the US, House Republicans have planned a special subcommittee led by a Trump 
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Visit Southern Border Amid Fresh Crackdown on Migrants</h3>
+<h3>Biden Visits Southern Border Amid Fresh Crackdown on Migrants</h3>
 <sub>By Michael D. Shear</sub>
 <p>A surge of migration has made El Paso one of the most vivid symbols of the decades-long breakdown in America’s immigration system.  <a href="https://nyti.ms/3Gt9bmM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
@@ -123,6 +109,12 @@ In the US, House Republicans have planned a special subcommittee led by a Trump 
 <sub>By Karen Zraick and Brittany Kriegstein</sub>
 <p>People who arrived in New York from the border describe the help and hardship they have experienced as the city prepares for more migrants to arrive.  <a href="https://nyti.ms/3k1LOJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Asian Societies Age, ‘Retirement’ Just Means More Work</h3>
+<sub>By Motoko Rich and Hikari Hida</sub>
+<p>Across East Asia, populations are graying faster than anywhere else in the world, and while younger generations shrink, older workers are often toiling well into their 70s and beyond.  <a href="https://nyti.ms/3CttBuE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Expensive, Treacherous, Beautiful: The Battle Over Dirt Roads</h3>
@@ -134,6 +126,12 @@ In the US, House Republicans have planned a special subcommittee led by a Trump 
 <h3>As China Lifts Pandemic Border Controls, Mixed Feelings at Home and Abroad</h3>
 <sub>By Alexandra Stevenson, Zixu Wang and Tiffany May</sub>
 <p>Friends and families are planning reunions; tourists are booking flights. But amid the anticipation, there’s a whiff of anxiety.  <a href="https://nyti.ms/3QwoTCj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After 6-Year-Old Is Accused in School Shooting, Many Questions and a Murky Legal Path</h3>
+<sub>By Paul Bibeau, Sarah Mervosh and Tim Arango</sub>
+<p>The teacher who was shot was in stable condition on Saturday, the police said, but details surrounding the gun remained unknown.  <a href="https://nyti.ms/3vRblaQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
