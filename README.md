@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 7, Central Standard Time</p>
 <p>
-There seems to be a lot going on in the world right now. In the US, the Republican Speaker in Congress has been elected after a long and contentious fight. In terms of health, there&#39;s a serious situation developing with a new drug on the streets made from an animal tranquilizer mixed with Fentanyl. Meanwhile over in Ukraine, they&#39;re working to build a kind of super grenade to use against tanks. And in Iran, there are people facing the death penalty for their role in protests against the government. On top of all that, ESPN is looking at how to cover NFL games after a player collapsed on the field during a game this week.</p>
+There is a lot of turmoil around the world right now. In the U.S., speakers are fighting and intraparty strife between Republicans has reached a boiling point. In Ukraine, they are questing to build the perfect grenade with 3-D printers and other materials. In Iran, people have been sentenced to death due to their involvement in protests. And in the health realm, there is a new concern about animal sedatives being mixed with fentanyl, leading to extreme addiction and wounds so severe that some need amputations.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Speaker Fight’s Final Hours, Arm-Twisting, Flaring Tempers and Calls From Trump</h3>
@@ -98,10 +98,10 @@ There seems to be a lot going on in the world right now. In the US, the Republic
 <p>Young people are opting for point-and-shoots and blurry photos.  <a href="https://nyti.ms/3CuS6rs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Suspect in Bike Path Killing Faces First Death Penalty Trial Under Biden</h3>
-<sub>By Benjamin Weiser</sub>
-<p>Though President Biden campaigned against capital punishment, Attorney General Merrick Garland is charting his own course in pursuing the death penalty in the trial of Sayfullo Saipov.  <a href="https://nyti.ms/3Qo0w9J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After 6-Year-Old Is Accused in School Shooting, Many Questions and a Murky Legal Path</h3>
+<sub>By Paul Bibeau, Sarah Mervosh and Tim Arango</sub>
+<p>The teacher who was shot was in stable condition on Saturday, the police said, but details surrounding the gun remained unknown.  <a href="https://nyti.ms/3vRblaQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,16 +116,16 @@ There seems to be a lot going on in the world right now. In the US, the Republic
 <p>Fans are used to seeing gruesome injuries. But there was no media playbook for what happened to Hamlin.  <a href="https://nyti.ms/3X9R78F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>After an Emotional Week, the N.F.L. Returns to Something Like Normal</h3>
+<sub>By Kevin Draper and Ken Belson</sub>
+<p>In the first games since Damar Hamlin’s collapse, Kansas City beat the Raiders and the Jaguars took on the Titans. Playing again was “definitely weird,” Patrick Mahomes said.  <a href="https://nyti.ms/3VRtDUg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>ESPN Looks for the Right Tone as the N.F.L. Resumes Games</h3>
 <sub>By John Koblin</sub>
 <p>The broadcast on Saturday was a test of how the networks are going to cover the sport in the wake of Damar Hamlin’s collapse on the field last Monday.  <a href="https://nyti.ms/3GwAtZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Week 18 N.F.L. Playoff Picture Preview: A Team-by-Team Guide</h3>
-<sub>By Josh Katz and Kevin Quealy</sub>
-<p>Some games are much more important than others.  <a href="https://nyti.ms/3GM5Xfy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
