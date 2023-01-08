@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 8, Central Standard Time</p>
 <p>
-In the US, there has been an intense fight for Speaker of the House in Congress. From tensions and arm-twisting to calls from President Trump, this historic battle has been going on to determine who will lead the House. Also in the US, there have been reports of a deadly drug called tranq dope being mixed with fentanyl and sold in drug-prone areas. This has caused many serious wounds and amputations.
-
-In Ukraine, a unit has taken up the arduous task of creating a tank-killer grenade through 3-D printing and other tools. Elsewhere in the world, Iran has recently cracked down on protestors with death sentences on some of them. 
-
-There have also been several interesting stories emerging in technology and sports lately. There has been a resurgence of young people opting for 20-year old point-and-shoot cameras, as well as an emotional week for viewers of Monday Night Football when an player collapsed on the field. Finally the NFL had resumed games which were broadcasted by ESPN looking for the right tone in their coverage.</p>
+Right now, there&#39;s a lot of political turmoil and unrest in the US, Ukraine, and Iran. In the US House of Representatives, fights are breaking out among Republicans as they attempt to pick a new speaker. In Ukraine, a military unit is attempting to build the perfect grenade to kill tanks with. And in Iran, a monthslong uprising has been met with government crackdowns resulting in death sentences for some protesters. Meanwhile, we&#39;re also grappling with fentanyl-laced drugs that are ravaging US cities and a 20-year-old analog camera becoming an unlikely hit with younger generations. Even sports news isn&#39;t immune to the tense mood; an NFL game had to be halted when one player collapsed after suffering a severe injury on the field.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Speaker Fight’s Final Hours, Arm-Twisting, Flaring Tempers and Calls From Trump</h3>
@@ -123,7 +119,7 @@ There have also been several interesting stories emerging in technology and spor
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>After an Emotional Week, the N.F.L. Returns to Something Like Normal</h3>
 <sub>By Kevin Draper and Ken Belson</sub>
-<p>In the first games since Damar Hamlin’s collapse, Kansas City beat the Raiders and the Jaguars took on the Titans. Playing again was “definitely weird,” Patrick Mahomes said.  <a href="https://nyti.ms/3VRtDUg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In the first games since Damar Hamlin’s collapse, Kansas City beat the Raiders and the Jaguars beat the Titans. Playing again was “definitely weird,” Patrick Mahomes said.  <a href="https://nyti.ms/3VRtDUg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
