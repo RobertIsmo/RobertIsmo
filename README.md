@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 8, Central Standard Time</p>
 <p>
-Around the world, there are a lot of intense events taking place. Volunteers with a history of grievances against Russia are taking up arms to fight for Ukraine. In Ukraine, they&#39;re also tinkering with different items to make grenades more powerful. Despite difficult conditions, families are still celebrating Orthodox Christmas as an act of defiance. In America, the fight over the speaker of the house recently drew to a close after a tiring overnight session and this was part of a larger pattern of zero-sum politics. Additionally, in Asia older workers often work well beyond the retirement age due to the graying population. In America, some university lecturers took alleged Islamophobic stances and were fired for doing so and on the southern border President Biden is preparing for a new wave of migrants. New York is now home to many migrants who face help and hardship as they settle in but also towns on the Hudson River have begun debating how to take care of their dirt roads. Finally, China is lifting pandemic border controls while anxiousness still remains in some people.</p>
+There is a lot happening in the world right now. In Ukraine, there are volunteers who have taken up arms to fight against Russia, and a Ukrainian unit is tinkering with tape, a scale, and a 3-D printer to transform a fragment grenade into a tank-killer. Despite destruction from shelling during the Orthodox Christmas, some families are defiantly celebrating the holiday. Meanwhile, in Asia, populations are aging faster than any other region in the world, with older generations continuing to work into their 70s and beyond. 
+
+In the US, House Republicans have planned a special subcommittee led by a Trump ally to scrutinize FBI and intelligence agencies. There was also a lot of intraparty strife yesterday, leading up to the election of Speaker Kevin McCarthy. There has been some criticism over him in his hometown as well; particularly after a lecturer at Hamline University lost her job for displaying an artwork of the Prophet Muhammad (which many scholars say is a masterpiece). VP Biden has been visiting the southern border due to the increase of immigrants crossing over, and in New York City migrants from other countries are struggling but also settling in. Finally, China is lifting their pandemic border controls which is causing mixed feelings of anticipation and anxiety at home and abroad.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Now Fighting for Ukraine: Volunteers Seeking Revenge Against Russia</h3>
@@ -80,6 +82,18 @@ Around the world, there are a lot of intense events taking place. Volunteers wit
 <p>Orthodox Christmas came under harsh circumstances in Ukraine this year. For families like the Kovtuns, living next to the remains of their shell-struck home, celebration was an act of defiance.  <a href="https://nyti.ms/3vNdNze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Asian Societies Age, ‘Retirement’ Just Means More Work</h3>
+<sub>By Motoko Rich and Hikari Hida</sub>
+<p>Across East Asia, populations are graying faster than anywhere else in the world, and while younger generations shrink, older workers are often toiling well into their 70s and beyond.  <a href="https://nyti.ms/3CttBuE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Republicans Preparing Broad Inquiry Into F.B.I. and Security Agencies</h3>
+<sub>By Charlie Savage and Luke Broadwater</sub>
+<p>Republicans plan to create a special subcommittee, led by a Trump ally, with a mandate to scrutinize open criminal investigations and classified intelligence.  <a href="https://nyti.ms/3CxAMlz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Speaker Fight’s Final Hours, Arm-Twisting, Flaring Tempers and Calls From Trump</h3>
 <sub>By Catie Edmondson</sub>
@@ -87,16 +101,10 @@ Around the world, there are a lot of intense events taking place. Volunteers wit
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>From Gingrich to McCarthy, the Roots of Governance by Chaos</h3>
-<sub>By Robert Draper</sub>
-<p>Mr. Gingrich began the zero-sum politics that mutated into the brand of the Tea Party and Trump M.A.G.A. Republicans and that presaged the raucous speaker battle in the House.  <a href="https://nyti.ms/3ItbPvp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Asian Societies Age, ‘Retirement’ Just Means More Work</h3>
-<sub>By Motoko Rich and Hikari Hida</sub>
-<p>Across East Asia, populations are graying faster than anywhere else in the world, and while younger generations shrink, older workers are often toiling well into their 70s and beyond.  <a href="https://nyti.ms/3CttBuE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<h3>Far-Right Critics Vex McCarthy in His Bakersfield District, Too</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The Republican divisions facing Representative Kevin McCarthy played out not only on the House floor but also in his hometown, a red area of blue California.  <a href="https://nyti.ms/3WQMXSU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Lecturer Showed a Painting of the Prophet Muhammad. She Lost Her Job.</h3>
@@ -125,13 +133,7 @@ Around the world, there are a lot of intense events taking place. Volunteers wit
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As China Lifts Pandemic Border Controls, Mixed Feelings at Home and Abroad</h3>
 <sub>By Alexandra Stevenson, Zixu Wang and Tiffany May</sub>
-<p>Friends and families are planning reunions; tourists are booking flights. But amid the anticipation, there’s a whiff of anxiety.  <a href="https://nyti.ms/3vN6hEt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Should you take Paxlovid if you are mildly ill?</h3>
-<sub>By Knvul Sheikh</sub>
-<p>Very few people take the antiviral medicine, but there are good reasons for certain Covid patients to consider it.  <a href="https://nyti.ms/3CvG0yd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Friends and families are planning reunions; tourists are booking flights. But amid the anticipation, there’s a whiff of anxiety.  <a href="https://nyti.ms/3QwoTCj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
