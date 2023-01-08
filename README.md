@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 7, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. In the US, we&#39;ve seen 10 years of political chaos come to a head with the election of Donald Trump and the subsequent post-election speaker drama in the House. This has raised new fears about the US debt limit and revealed connections between those who were pro-Trump and pro-2020 Election lies. On top of that, we&#39;re also seeing a surge in drug-related issues with a veterinary sedative called xylazine invading American streets. In Ukraine, researchers are working to make a better grenade while also dealing with tensions with Moscow during their Orthodox Christmas celebrations. Finally, here in the US, there was also an horrific 6-year-old shooting at a Virginia elementary school. Scientists have also become very concerned about XBB.1.5, the newest version of coronavirus, which makes up around 25% of Covid cases nationwide and over 70% in the Northeast.</p>
+There seems to be a lot going on in the world right now. In the US, the Republican Speaker in Congress has been elected after a long and contentious fight. In terms of health, there&#39;s a serious situation developing with a new drug on the streets made from an animal tranquilizer mixed with Fentanyl. Meanwhile over in Ukraine, they&#39;re working to build a kind of super grenade to use against tanks. And in Iran, there are people facing the death penalty for their role in protests against the government. On top of all that, ESPN is looking at how to cover NFL games after a player collapsed on the field during a game this week.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Speaker Fight’s Final Hours, Arm-Twisting, Flaring Tempers and Calls From Trump</h3>
+<sub>By Catie Edmondson</sub>
+<p>Speaker Kevin McCarthy’s slog to his post ended with a remarkably public show of intraparty strife that played out in a history-making overnight session.  <a href="https://nyti.ms/3Cy7mUt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From Gingrich to McCarthy, the Roots of Governance by Chaos</h3>
 <sub>By Robert Draper</sub>
@@ -74,34 +80,10 @@ Right now, there&#39;s a lot going on in the world. In the US, we&#39;ve seen 10
 <p>The top Republican already had to work with a tiny majority and an emboldened right flank. Concessions he made to win his speakership gave the rebels more tools to sow disarray.  <a href="https://nyti.ms/3vNbnR8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Speaker Drama Raises New Fears on Debt Limit</h3>
-<sub>By Jim Tankersley</sub>
-<p>An emboldened conservative flank and concessions made to win votes could lead to a protracted standoff on critical fiscal issues, risking economic pain.  <a href="https://nyti.ms/3CvaNLU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Confluence of Forces: Anti-Kevin McCarthy and Pro-2020 Election Lies</h3>
-<sub>By Luke Broadwater</sub>
-<p>Some of the same Republicans who were former President Donald J. Trump’s lieutenants in seeking to overturn the 2020 election led the charge against Representative Kevin McCarthy as speaker.  <a href="https://nyti.ms/3Ixvp9Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A New Area of A.I. Booms, Even Amid the Tech Gloom</h3>
-<sub>By Erin Griffith and Cade Metz</sub>
-<p>An investment frenzy over “generative artificial intelligence” has gripped Silicon Valley, as tools that generate text, images and sounds in response to short prompts seize the imagination.  <a href="https://nyti.ms/3GN2WMc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Tranq Dope: Animal Sedative Mixed With Fentanyl Brings Fresh Horror to U.S. Drug Zones</h3>
 <sub>By Jan Hoffman</sub>
 <p>A veterinary tranquilizer called xylazine is infiltrating street drugs, deepening addiction, baffling law enforcement and causing wounds so severe that some result in amputation.  <a href="https://nyti.ms/3vMLukE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Hottest Gen Z Gadget Is a 20-Year-Old Digital Camera</h3>
-<sub>By Kalley Huang</sub>
-<p>Young people are opting for point-and-shoots and blurry photos.  <a href="https://nyti.ms/3CuS6rs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,29 +92,47 @@ Right now, there&#39;s a lot going on in the world. In the US, we&#39;ve seen 10
 <p>A Ukrainian unit is tinkering with tape, a scale, a 3-D printer and other items to turn a fragmentation grenade into a tank-killer. It’s a steep and risky challenge.  <a href="https://nyti.ms/3iqiyvt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Hottest Gen Z Gadget Is a 20-Year-Old Digital Camera</h3>
+<sub>By Kalley Huang</sub>
+<p>Young people are opting for point-and-shoots and blurry photos.  <a href="https://nyti.ms/3CuS6rs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Suspect in Bike Path Killing Faces First Death Penalty Trial Under Biden</h3>
+<sub>By Benjamin Weiser</sub>
+<p>Though President Biden campaigned against capital punishment, Attorney General Merrick Garland is charting his own course in pursuing the death penalty in the trial of Sayfullo Saipov.  <a href="https://nyti.ms/3Qo0w9J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainians Celebrate Orthodox Christmas at a Holy Site Long Linked to Moscow</h3>
-<sub>By Megan Specia</sub>
-<p>The sermon, a deeply symbolic moment after months of tension with the Moscow-led branch of the church, came as a cease-fire failed to materialize.  <a href="https://nyti.ms/3ZlUUAY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Benedict’s Burial Leaves Francis Alone, and Unbound</h3>
+<sub>By Jason Horowitz</sub>
+<p>Liberal supporters of Francis, a pope never shy about exercising power, now anticipate a late-breaking season of change.  <a href="https://nyti.ms/3ZioxmG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>6-Year-Old Shoots Teacher at Virginia Elementary School, Police Say</h3>
-<sub>By Livia Albeck-Ripka and Eduardo Medina</sub>
-<p>A teacher at Richneck Elementary School in Newport News has “life-threatening injuries” after being shot by one of her students, the authorities said.  <a href="https://nyti.ms/3GIwLgJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Damar Hamlin and the Existential Crisis of ‘Monday Night Football’</h3>
+<sub>By Devin Gordon</sub>
+<p>Fans are used to seeing gruesome injuries. But there was no media playbook for what happened to Hamlin.  <a href="https://nyti.ms/3X9R78F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>ESPN Looks for the Right Tone as the N.F.L. Resumes Games</h3>
+<sub>By John Koblin</sub>
+<p>The broadcast on Saturday was a test of how the networks are going to cover the sport in the wake of Damar Hamlin’s collapse on the field last Monday.  <a href="https://nyti.ms/3GwAtZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Week 18 N.F.L. Playoff Picture Preview: A Team-by-Team Guide</h3>
+<sub>By Josh Katz and Kevin Quealy</sub>
+<p>Some games are much more important than others.  <a href="https://nyti.ms/3GM5Xfy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Here Are the People Iran Sentenced to Death in Its Protest Crackdown</h3>
+<sub>By Farnaz Fassihi and Cora Engelbrecht</sub>
+<p>An updated look at the Iranians marked for execution in the government’s attempt to curb a monthslong uprising.  <a href="https://nyti.ms/3vNvTB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Health Experts Warily Eye XBB.1.5, the Latest Omicron Subvariant</h3>
-<sub>By Carl Zimmer</sub>
-<p>A young version of the coronavirus makes up one-quarter of Covid cases across the United States and over 70 percent of new cases in the Northeast.  <a href="https://nyti.ms/3Iy4FpQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Should you take Paxlovid if you are mildly ill?</h3>
-<sub>By Knvul Sheikh</sub>
-<p>Very few people take the antiviral medicine, but there are good reasons for certain Covid patients to consider it.  <a href="https://nyti.ms/3CvG0yd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
