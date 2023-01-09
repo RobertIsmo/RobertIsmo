@@ -60,10 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 9, Central Standard Time</p>
 <p>
-There is a lot going on all over the world right now. In Brazil, some rioters have attacked important government buildings such as the Congress, Presidential offices and the Supreme Court. In the US, there is a problem with a newly built memorial wall that commemorates the American service members who died in the Korean War - many of their names are misspelled or missing from it. Meanwhile, the Supreme Court is looking at whether encouraging people to stay in the country illegally constitutes allowing free speech or if it should be considered a felony. 
-
-Ukraine and Russia are facing off in a pitched battle in Bakhmut, and Putin is having difficulty convincing Western countries to join his side despite his ceasfire proposal. In Israel, ultra-Orthodox parties have been gaining power with Netanyahu and pushing for greater autonomy. And finally, California coastal towns are preparing for another deluge after storms have already damaged hundreds of homes in the Santa Cruz region.</p>
+There has been some tension between Ukraine and Russia recently, with the Ukrainians not backing down from a confrontation. Meanwhile, Putin&#39;s attempt to divide the world&#39;s opinion on Ukraine hasn&#39;t worked, as the West has become unified in their position. In Brazil, there were violent riots recently over the election of Jair Bolsonaro, similar to what happened with Donald Trump&#39;s election in the US. Speaking of the US, there is a new Wall of Remembrance for the Korean War that contains several errors regarding names of those who died in the conflict. The Republican Party in Congress is instituting new rules that may cause divided opinions and gridlock in legislature. René Redzepi, renowned chef from Copenhagen, is closing his highly-regarded restaurant called Noma due to its intense hours and workplace culture. There have been positive developments too–the ozone layer is making a comeback since China has cut rogue emissions, though California is experiencing some devastating storms that have caused power outages and flooding.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Without Hesitation, Ukraine Goes Toe to Toe With Russia in Bakhmut</h3>
+<sub>By Andrew E. Kramer and Nicole Tung</sub>
+<p>Earlier in the war, Ukraine’s leadership was more equivocal about pitched battles with high casualties. There’s no second-guessing this time. Some analysts say it makes sense strategically.  <a href="https://nyti.ms/3Iu7FUe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin’s Efforts to Divide the West Over Ukraine Fall Flat</h3>
+<sub>By Max Fisher</sub>
+<p>A cease-fire proposal seemingly aimed at splintering Western unity has instead been met with Western escalation, underscoring Moscow’s diplomatic struggles.  <a href="https://nyti.ms/3Cyqyl4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Videos Show How Rioters Stormed Brazil’s Capital</h3>
 <sub>By Axel Boada, Scott Reinhard, Jack Nicas, André Spigariol and Nailah Morgan</sub>
@@ -88,24 +98,6 @@ Ukraine and Russia are facing off in a pitched battle in Bakhmut, and Putin is h
 <p>History suggests that the procedural plans of the new House Republican majority are likely to lead to more gridlock and legislative instability, not less.  <a href="https://nyti.ms/3IsV8Aq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Is Encouraging Unauthorized Immigration Free Speech or a Felony?</h3>
-<sub>By Adam Liptak</sub>
-<p>The Supreme Court will decide whether a 1986 law that makes it a crime to urge people to stay in the United States unlawfully can be squared with the First Amendment.  <a href="https://nyti.ms/3GrmeVR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Without Hesitation, Ukraine Goes Toe to Toe With Russia in Bakhmut</h3>
-<sub>By Andrew E. Kramer and Nicole Tung</sub>
-<p>Earlier in the war, Ukraine’s leadership was more equivocal about pitched battles with high casualties. There’s no second-guessing this time. Some analysts say it makes sense strategically.  <a href="https://nyti.ms/3Iu7FUe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin’s Efforts to Divide the West Over Ukraine Fall Flat</h3>
-<sub>By Max Fisher</sub>
-<p>A cease-fire proposal seemingly aimed at splintering Western unity has instead been met with Western escalation, underscoring Moscow’s diplomatic struggles.  <a href="https://nyti.ms/3Cyqyl4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
 <h3>Noma, Rated the World’s Best Restaurant, Is Closing Its Doors</h3>
 <sub>By Julia Moskin</sub>
@@ -124,17 +116,23 @@ Ukraine and Russia are facing off in a pitched battle in Bakhmut, and Putin is h
 <p>Rogue emissions from China of ozone-depleting chemicals had threatened to delay recovery by a decade. But the emissions were stopped, according to a U.N.-backed report.  <a href="https://nyti.ms/3ilwO94"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Power With Netanyahu, Ultra-Orthodox Parties Chart Israel’s Future</h3>
-<sub>By Isabel Kershner</sub>
-<p>Bolstered by growth in numbers and political influence, ultra-Orthodox parties are pushing for greater autonomy, with potentially far-reaching implications for the country.  <a href="https://nyti.ms/3Zl0kfC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Battered by Storms, California Coastal Towns Prepare for Another Deluge</h3>
 <sub>By Kellen Browning and Soumya Karlamangla</sub>
 <p>Hundreds of homes in the Santa Cruz region were damaged by flooding and wind. Weary residents are steeling themselves for even worse conditions this week.  <a href="https://nyti.ms/3ZmLW6z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>California Faces Another Storm Onslaught After Power Outages in Sacramento</h3>
+<sub>By Judson Jones, Luke Vander Ploeg and Carly Stern</sub>
+<p>A powerful storm system across the state could bring more flooding and outages on Monday into Tuesday, after more than 300,000 customers lost electricity over the weekend.  <a href="https://nyti.ms/3IxSLfy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tracking the California Storms</h3>
+<sub>By Judson Jones, Zach Levitt and Bea Malsky</sub>
+<p>Maps show the precipitation so far, and the forecast for more.  <a href="https://nyti.ms/3CrqJi3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
