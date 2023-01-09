@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 8, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. Brazil is facing political turmoil with former President Bolsonaro holed up in Florida and his supporters creating unrest. In Ukraine, volunteers are taking arms against Russia for revenge. Joe Biden recently visited the US-Mexico border amid increased migration and crackdowns from the US. In Mexico, a prominent TV anchor resigned raising questions about how dispassionate coverage will be affected. East Asia is aging rapidly, causing fewer younger generations and elderly to work well into their 70s. Finally, dirt roads are causing expensive and treacherous battles in some towns on the Hudson River.</p>
+There is a lot going on in the world right now. In Brazil, former president Jair Bolsonaro has been urging his supporters to avoid violence and there have been videos of rioters storming the capital. In the US, Republicans are making an inquiry into security agencies and Biden has visited the southern border due to a surge of migration. In East Asia, populations are graying faster than anywhere else in the world, leading to older workers toiling well into their 70s and beyond. Lastly, there was a football game between the Bills and Patriots that was full of emotion due to one player&#39;s collapse before the game.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Bolsonaro has been holed up thousands of miles away in Florida.</h3>
@@ -128,10 +128,10 @@ There is a lot happening in the world right now. Brazil is facing political turm
 <p>For one town on the Hudson River, the soul of the place is found in its dirt roads. That is, unless you have to drive on them in bad weather.  <a href="https://nyti.ms/3GO72DR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Prominent Mexican TV Anchor Departs. Will Dispassionate Coverage Go With Her?</h3>
-<sub>By Natalie Kitroeff</sub>
-<p>As a crucial presidential election approaches, a newswoman’s resignation has raised a crucial question: Is her restrained approach also on its way out?  <a href="https://nyti.ms/3QrwiD6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>For the Bills and Their Fans, Catharsis Is the Real Win</h3>
+<sub>By Andrew Keh</sub>
+<p>Big plays, including a touchdown on the opening kickoff, defined the Bills’ emotional victory over the New England Patriots. It was the first game Buffalo played since Damar Hamlin’s collapse.  <a href="https://nyti.ms/3CzNosx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
