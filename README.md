@@ -60,13 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 8, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. In Brazil, President Bolsonaro has been staying thousands of miles away in Florida. In the US, Republicans are in the process of introducing new rules to try and address some of Congress&#39; complexities and are also setting up a committee to scrutinize open criminal investigations and classified intelligence. In Ukraine, volunteers from Chechnya, Crimea and former Soviet republics are taking up arms to fight against Russia. Despite the war in Ukraine, residents still celebrated Orthodox Christmas as an act of defiance. In the US, an art lecturer lost their job for showing a painting of the Prophet Muhammad, and at the same time, immigration continues to be difficult as more migrants arrive at the Southern US border. In New York, migrants who arrived at the border are struggling but managing to settle in, while East Asian countries are starting to experience fast graying of populations due to lack of younger generations. On the Hudson River in New York, there is a battle over dirt roads while China has started to lift pandemic border control restrictions but with mixed feelings amongst people and abroad. Lastly in the US, an alarming incident occurred when a 6-year-old was suspected of shooting at school and began raising many questions about it legal path and clarity around the gun itself.</p>
+There is a lot happening in the world right now. Brazil is facing political turmoil with former President Bolsonaro holed up in Florida and his supporters creating unrest. In Ukraine, volunteers are taking arms against Russia for revenge. Joe Biden recently visited the US-Mexico border amid increased migration and crackdowns from the US. In Mexico, a prominent TV anchor resigned raising questions about how dispassionate coverage will be affected. East Asia is aging rapidly, causing fewer younger generations and elderly to work well into their 70s. Finally, dirt roads are causing expensive and treacherous battles in some towns on the Hudson River.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Bolsonaro has been holed up thousands of miles away in Florida.</h3>
 <sub>By Jack Nicas</sub>
-<p>  <a href="https://nyti.ms/3Xi3tLA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Before departing Brazil, the former president had urged his supporters to avoid violence.  <a href="https://nyti.ms/3IH2Zdw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Videos Show How Rioters Stormed Brazil’s Capital</h3>
+<sub>By Axel Boada, Scott Reinhard, Jack Nicas, André Spigariol and Nailah Morgan</sub>
+<p>Watch key moments of rioters attacking Brazil’s Congress, Presidential offices and the Supreme Court.  <a href="https://nyti.ms/3VWmEcv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Bolsonaro Built the Myth of Stolen Elections in Brazil</h3>
+<sub>By Jack Nicas, Flávia Milhorance and Ana Ionova</sub>
+<p>President Jair Bolsonaro has spent years undermining Brazil’s voting systems. Now the nation is bracing for his reaction if he loses Sunday’s election.  <a href="https://nyti.ms/3TyBaqE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Republicans Prepare New Rules, but Fixing Congress Isn’t So Easy</h3>
@@ -86,12 +98,6 @@ There is a lot happening around the world right now. In Brazil, President Bolson
 <p>Chechens, Crimean Tatars and people from the former Soviet republics, all with deep historical grievances against Moscow, are eagerly taking up arms for Kyiv.  <a href="https://nyti.ms/3ZnhB7S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The House Is in Ruins, but the Holiday Feast Goes On</h3>
-<sub>By Megan Specia</sub>
-<p>Orthodox Christmas came under harsh circumstances in Ukraine this year. For families like the Kovtuns, living next to the remains of their shell-struck home, celebration was an act of defiance.  <a href="https://nyti.ms/3vNdNze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Lecturer Showed a Painting of the Prophet Muhammad. She Lost Her Job.</h3>
 <sub>By Vimal Patel</sub>
@@ -100,7 +106,7 @@ There is a lot happening around the world right now. In Brazil, President Bolson
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Visits Southern Border Amid Fresh Crackdown on Migrants</h3>
-<sub>By Michael D. Shear</sub>
+<sub>By Michael D. Shear and Edgar Sandoval</sub>
 <p>A surge of migration has made El Paso one of the most vivid symbols of the decades-long breakdown in America’s immigration system.  <a href="https://nyti.ms/3Gt9bmM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
@@ -123,16 +129,10 @@ There is a lot happening around the world right now. In Brazil, President Bolson
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As China Lifts Pandemic Border Controls, Mixed Feelings at Home and Abroad</h3>
-<sub>By Alexandra Stevenson, Zixu Wang and Tiffany May</sub>
-<p>Friends and families are planning reunions; tourists are booking flights. But amid the anticipation, there’s a whiff of anxiety.  <a href="https://nyti.ms/3QwoTCj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After 6-Year-Old Is Accused in School Shooting, Many Questions and a Murky Legal Path</h3>
-<sub>By Paul Bibeau, Sarah Mervosh and Tim Arango</sub>
-<p>The teacher who was shot was in stable condition on Saturday, the police said, but details surrounding the gun remained unknown.  <a href="https://nyti.ms/3vRblaQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<h3>A Prominent Mexican TV Anchor Departs. Will Dispassionate Coverage Go With Her?</h3>
+<sub>By Natalie Kitroeff</sub>
+<p>As a crucial presidential election approaches, a newswoman’s resignation has raised a crucial question: Is her restrained approach also on its way out?  <a href="https://nyti.ms/3QrwiD6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
