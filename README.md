@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 9, Central Standard Time</p>
 <p>
-There have been several protests and demonstrations around the world recently. In Brazil, rioters attacked the country&#39;s Congress, Presidential offices, and Supreme Court. In the US, a memorial wall for American service members who died in the Korean War was found to have many errors. Republicans in the US are also introducing new rules, while a case involving free speech and unauthorized immigration is pending in the Supreme Court. Also, restricted by COVID-19 restrictions, renowned restaurant Noma in Copenhagen announced it will close its doors. Israel is also in political turmoil with Ultra-Orthodox parties on the rise. Natural disasters are also wreaking havoc around certain regions of California as well as western New York. In comparison, Rome is trying to boost tourism with an outdoor skatepark with a view of the Colosseum. Lastly, a reminder that one&#39;s job is important but not all-important in trying times.</p>
+There is a lot going on all over the world right now. In Brazil, some rioters have attacked important government buildings such as the Congress, Presidential offices and the Supreme Court. In the US, there is a problem with a newly built memorial wall that commemorates the American service members who died in the Korean War - many of their names are misspelled or missing from it. Meanwhile, the Supreme Court is looking at whether encouraging people to stay in the country illegally constitutes allowing free speech or if it should be considered a felony. 
+
+Ukraine and Russia are facing off in a pitched battle in Bakhmut, and Putin is having difficulty convincing Western countries to join his side despite his ceasfire proposal. In Israel, ultra-Orthodox parties have been gaining power with Netanyahu and pushing for greater autonomy. And finally, California coastal towns are preparing for another deluge after storms have already damaged hundreds of homes in the Santa Cruz region.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Videos Show How Rioters Stormed Brazil’s Capital</h3>
@@ -92,6 +94,18 @@ There have been several protests and demonstrations around the world recently. I
 <p>The Supreme Court will decide whether a 1986 law that makes it a crime to urge people to stay in the United States unlawfully can be squared with the First Amendment.  <a href="https://nyti.ms/3GrmeVR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Without Hesitation, Ukraine Goes Toe to Toe With Russia in Bakhmut</h3>
+<sub>By Andrew E. Kramer and Nicole Tung</sub>
+<p>Earlier in the war, Ukraine’s leadership was more equivocal about pitched battles with high casualties. There’s no second-guessing this time. Some analysts say it makes sense strategically.  <a href="https://nyti.ms/3Iu7FUe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin’s Efforts to Divide the West Over Ukraine Fall Flat</h3>
+<sub>By Max Fisher</sub>
+<p>A cease-fire proposal seemingly aimed at splintering Western unity has instead been met with Western escalation, underscoring Moscow’s diplomatic struggles.  <a href="https://nyti.ms/3Cyqyl4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
 <h3>Noma, Rated the World’s Best Restaurant, Is Closing Its Doors</h3>
 <sub>By Julia Moskin</sub>
@@ -104,6 +118,12 @@ There have been several protests and demonstrations around the world recently. I
 <p>As the renowned Copenhagen destination prepares to end its regular service, Pete Wells examines its complicated legacy.  <a href="https://nyti.ms/3k28DwP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Restoration of the Ozone Layer Is Back on Track, Scientists Say</h3>
+<sub>By Henry Fountain</sub>
+<p>Rogue emissions from China of ozone-depleting chemicals had threatened to delay recovery by a decade. But the emissions were stopped, according to a U.N.-backed report.  <a href="https://nyti.ms/3ilwO94"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Power With Netanyahu, Ultra-Orthodox Parties Chart Israel’s Future</h3>
 <sub>By Isabel Kershner</sub>
@@ -111,28 +131,10 @@ There have been several protests and demonstrations around the world recently. I
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Battered by Storms, Central Coast of California Prepares for Another Deluge</h3>
+<h3>Battered by Storms, California Coastal Towns Prepare for Another Deluge</h3>
 <sub>By Kellen Browning and Soumya Karlamangla</sub>
 <p>Hundreds of homes in the Santa Cruz region were damaged by flooding and wind. Weary residents are steeling themselves for even worse conditions this week.  <a href="https://nyti.ms/3ZmLW6z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Buffalo’s Unrelenting Tragedy: ‘We Haven’t Really Got a Chance to Heal’</h3>
-<sub>By Hurubie Meko and Lola Fadulu</sub>
-<p>As western New York prepares to bury more than 40 victims of a catastrophic storm, Black residents are reeling from a year of grief.  <a href="https://nyti.ms/3Ze54Ue"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Skatepark With Colosseum View Gives Rome a Modern Tourist Attraction</h3>
-<sub>By Elisabetta Povoledo</sub>
-<p>The ancient city’s leaders hope the new recreation area will lure more visitors from abroad. It has already impressed the talent at home.  <a href="https://nyti.ms/3GRbDoC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yes, Your Job Is Important. But It’s Not All-Important.</h3>
-<sub>By Roxane Gay</sub>
-<p>Here is how to think about the gulf between what you should do and what you can do.  <a href="https://nyti.ms/3X1BY9m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
