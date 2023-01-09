@@ -58,10 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, January 8, Central Standard Time</p>
+<p>It is Monday, January 9, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Brazil, former president Jair Bolsonaro has been urging his supporters to avoid violence and there have been videos of rioters storming the capital. In the US, Republicans are making an inquiry into security agencies and Biden has visited the southern border due to a surge of migration. In East Asia, populations are graying faster than anywhere else in the world, leading to older workers toiling well into their 70s and beyond. Lastly, there was a football game between the Bills and Patriots that was full of emotion due to one player&#39;s collapse before the game.</p>
+Right now, former President Jair Bolsonaro&#39;s supporters in Brazil are causing chaos and ransacking government offices because they falsely believe the election was rigged. In the U.S., Republicans have started a special subcommittee to investigate the FBI and security agencies, while House Democrats are trying to fix Congress but having difficulty. In terms of immigration, Biden just visited the Southern border and El Paso is seeing a surge of migrants due to immigration system breakdowns. Finally, in East Asia, populations are aging quickly, leading to older people working well into their 70s and beyond.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Bolsonaro Supporters Lay Siege to Brazil’s Capital</h3>
+<sub>By Jack Nicas and André Spigariol</sub>
+<p>Backers of former President Jair Bolsonaro ransacked government offices, denouncing what they falsely claim was a rigged election. Hundreds were arrested.  <a href="https://nyti.ms/3XbAfOR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Bolsonaro has been holed up thousands of miles away in Florida.</h3>
 <sub>By Jack Nicas</sub>
@@ -127,12 +133,6 @@ There is a lot going on in the world right now. In Brazil, former president Jair
 <sub>By Jim Zarroli</sub>
 <p>For one town on the Hudson River, the soul of the place is found in its dirt roads. That is, unless you have to drive on them in bad weather.  <a href="https://nyti.ms/3GO72DR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>For the Bills and Their Fans, Catharsis Is the Real Win</h3>
-<sub>By Andrew Keh</sub>
-<p>Big plays, including a touchdown on the opening kickoff, defined the Bills’ emotional victory over the New England Patriots. It was the first game Buffalo played since Damar Hamlin’s collapse.  <a href="https://nyti.ms/3CzNosx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
