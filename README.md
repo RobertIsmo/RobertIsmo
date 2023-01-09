@@ -60,20 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 9, Central Standard Time</p>
 <p>
-Right now, Brazil is going through a turbulent political period. Supporters of former president Jair Bolsonaro have been protesting and laying siege to various government offices they think were involved in a fraudulent election. There have been reports of rioters attacking Brazil&#39;s Congress, Presidential offices and the Supreme Court. Over in the US, House Republicans are preparing an inquiry into the FBI and security agencies and new rules on how Congress operates to try to reduce gridlock and legislative instability. There are also volunteer fighters arising in Ukraine seeking revenge against Russia. Meanwhile, President Biden is visiting the US-Mexico border to tackle the surge of migrants seeking asylum. In East Asia, many people are aging faster than usual and are having to continue working well into their 70s and beyond. Finally, in New York a heated debate is over dirt roads which can be treacherous but also provide stunning beauty.</p>
+There have been several protests and demonstrations around the world recently. In Brazil, rioters attacked the country&#39;s Congress, Presidential offices, and Supreme Court. In the US, a memorial wall for American service members who died in the Korean War was found to have many errors. Republicans in the US are also introducing new rules, while a case involving free speech and unauthorized immigration is pending in the Supreme Court. Also, restricted by COVID-19 restrictions, renowned restaurant Noma in Copenhagen announced it will close its doors. Israel is also in political turmoil with Ultra-Orthodox parties on the rise. Natural disasters are also wreaking havoc around certain regions of California as well as western New York. In comparison, Rome is trying to boost tourism with an outdoor skatepark with a view of the Colosseum. Lastly, a reminder that one&#39;s job is important but not all-important in trying times.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Bolsonaro Supporters Lay Siege to Brazil’s Capital</h3>
-<sub>By Jack Nicas and André Spigariol</sub>
-<p>Backers of former President Jair Bolsonaro ransacked government offices, denouncing what they falsely claim was a rigged election. Hundreds were arrested.  <a href="https://nyti.ms/3XbAfOR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Bolsonaro has been holed up thousands of miles away in Florida.</h3>
-<sub>By Jack Nicas</sub>
-<p>Before departing Brazil, the former president had urged his supporters to avoid violence.  <a href="https://nyti.ms/3IH2Zdw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Videos Show How Rioters Stormed Brazil’s Capital</h3>
 <sub>By Axel Boada, Scott Reinhard, Jack Nicas, André Spigariol and Nailah Morgan</sub>
@@ -81,10 +69,16 @@ Right now, Brazil is going through a turbulent political period. Supporters of f
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Bolsonaro Built the Myth of Stolen Elections in Brazil</h3>
-<sub>By Jack Nicas, Flávia Milhorance and Ana Ionova</sub>
-<p>President Jair Bolsonaro has spent years undermining Brazil’s voting systems. Now the nation is bracing for his reaction if he loses Sunday’s election.  <a href="https://nyti.ms/3TyBaqE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 24, Central Standard Time</sub></sub>
+<h3>The attack on Brazil’s seat of government resembles the storming of the U.S. Capitol on Jan. 6, 2021.</h3>
+<sub>By Chris Cameron</sub>
+<p>Jair Bolsonaro, the right-wing former president of Brazil, had for months sought to undermine the results of an election that he lost, in much the same manner that Donald J. Trump did after his defeat in the 2020 presidential election.  <a href="https://nyti.ms/3ioEyqI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Korean War Wall of Remembrance Set Hundreds of Errors in Stone</h3>
+<sub>By Dave Philipps</sub>
+<p>Many names of American service members who died in the conflict are misspelled or missing from the new memorial wall in Washington, relatives and researchers say.  <a href="https://nyti.ms/3jVUbq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Republicans Prepare New Rules, but Fixing Congress Isn’t So Easy</h3>
@@ -93,46 +87,52 @@ Right now, Brazil is going through a turbulent political period. Supporters of f
 <sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans Preparing Broad Inquiry Into F.B.I. and Security Agencies</h3>
-<sub>By Charlie Savage and Luke Broadwater</sub>
-<p>Republicans plan to create a special subcommittee, led by a Trump ally, with a mandate to scrutinize open criminal investigations and classified intelligence.  <a href="https://nyti.ms/3CxAMlz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
+<h3>Is Encouraging Unauthorized Immigration Free Speech or a Felony?</h3>
+<sub>By Adam Liptak</sub>
+<p>The Supreme Court will decide whether a 1986 law that makes it a crime to urge people to stay in the United States unlawfully can be squared with the First Amendment.  <a href="https://nyti.ms/3GrmeVR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Noma, Rated the World’s Best Restaurant, Is Closing Its Doors</h3>
+<sub>By Julia Moskin</sub>
+<p>The Copenhagen chef René Redzepi says fine dining at the highest level, with its grueling hours and intense workplace culture, has hit a breaking point: “It’s unsustainable.”  <a href="https://nyti.ms/3GQgMgQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Noma Spawned a World of Imitators, but the Restaurant Remains an Original</h3>
+<sub>By Pete Wells</sub>
+<p>As the renowned Copenhagen destination prepares to end its regular service, Pete Wells examines its complicated legacy.  <a href="https://nyti.ms/3k28DwP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Now Fighting for Ukraine: Volunteers Seeking Revenge Against Russia</h3>
-<sub>By Carlotta Gall</sub>
-<p>Chechens, Crimean Tatars and people from the former Soviet republics, all with deep historical grievances against Moscow, are eagerly taking up arms for Kyiv.  <a href="https://nyti.ms/3ZnhB7S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
+<h3>In Power With Netanyahu, Ultra-Orthodox Parties Chart Israel’s Future</h3>
+<sub>By Isabel Kershner</sub>
+<p>Bolstered by growth in numbers and political influence, ultra-Orthodox parties are pushing for greater autonomy, with potentially far-reaching implications for the country.  <a href="https://nyti.ms/3Zl0kfC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Lecturer Showed a Painting of the Prophet Muhammad. She Lost Her Job.</h3>
-<sub>By Vimal Patel</sub>
-<p>After an outcry over the art history class by Muslim students, Hamline University officials said the incident was Islamophobic. But many scholars say the work is a masterpiece.  <a href="https://nyti.ms/3Xe7oZH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Visits Southern Border Amid Fresh Crackdown on Migrants</h3>
-<sub>By Michael D. Shear and Edgar Sandoval</sub>
-<p>A surge of migration has made El Paso one of the most vivid symbols of the decades-long breakdown in America’s immigration system.  <a href="https://nyti.ms/3Gt9bmM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
+<h3>Battered by Storms, Central Coast of California Prepares for Another Deluge</h3>
+<sub>By Kellen Browning and Soumya Karlamangla</sub>
+<p>Hundreds of homes in the Santa Cruz region were damaged by flooding and wind. Weary residents are steeling themselves for even worse conditions this week.  <a href="https://nyti.ms/3ZmLW6z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>‘I Don’t Get Lost Anymore’: Migrants in New York Struggle, and Settle In</h3>
-<sub>By Karen Zraick and Brittany Kriegstein</sub>
-<p>People who arrived in New York from the border describe the help and hardship they have experienced as the city prepares for more migrants to arrive.  <a href="https://nyti.ms/3k1LOJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
+<h3>Buffalo’s Unrelenting Tragedy: ‘We Haven’t Really Got a Chance to Heal’</h3>
+<sub>By Hurubie Meko and Lola Fadulu</sub>
+<p>As western New York prepares to bury more than 40 victims of a catastrophic storm, Black residents are reeling from a year of grief.  <a href="https://nyti.ms/3Ze54Ue"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Asian Societies Age, ‘Retirement’ Just Means More Work</h3>
-<sub>By Motoko Rich and Hikari Hida</sub>
-<p>Across East Asia, populations are graying faster than anywhere else in the world, and while younger generations shrink, older workers are often toiling well into their 70s and beyond.  <a href="https://nyti.ms/3CttBuE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<h3>Skatepark With Colosseum View Gives Rome a Modern Tourist Attraction</h3>
+<sub>By Elisabetta Povoledo</sub>
+<p>The ancient city’s leaders hope the new recreation area will lure more visitors from abroad. It has already impressed the talent at home.  <a href="https://nyti.ms/3GRbDoC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Expensive, Treacherous, Beautiful: The Battle Over Dirt Roads</h3>
-<sub>By Jim Zarroli</sub>
-<p>For one town on the Hudson River, the soul of the place is found in its dirt roads. That is, unless you have to drive on them in bad weather.  <a href="https://nyti.ms/3GO72DR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yes, Your Job Is Important. But It’s Not All-Important.</h3>
+<sub>By Roxane Gay</sub>
+<p>Here is how to think about the gulf between what you should do and what you can do.  <a href="https://nyti.ms/3X1BY9m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
