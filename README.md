@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 9, Central Standard Time</p>
 <p>
-There has been some tension between Ukraine and Russia recently, with the Ukrainians not backing down from a confrontation. Meanwhile, Putin&#39;s attempt to divide the world&#39;s opinion on Ukraine hasn&#39;t worked, as the West has become unified in their position. In Brazil, there were violent riots recently over the election of Jair Bolsonaro, similar to what happened with Donald Trump&#39;s election in the US. Speaking of the US, there is a new Wall of Remembrance for the Korean War that contains several errors regarding names of those who died in the conflict. The Republican Party in Congress is instituting new rules that may cause divided opinions and gridlock in legislature. René Redzepi, renowned chef from Copenhagen, is closing his highly-regarded restaurant called Noma due to its intense hours and workplace culture. There have been positive developments too–the ozone layer is making a comeback since China has cut rogue emissions, though California is experiencing some devastating storms that have caused power outages and flooding.</p>
+There is ongoing tension between Ukraine and Russia, with Ukrainian forces going up against the Russians in a battle in Bakhmut. In Brazil, there have been protests over the government which were summoned by social media, as investigators are trying to figure out what happened. Additionally, Buffalo Bills safety Damar Hamlin was injured and had to be transferred to hospital in Cincinnati, but is now on the road to recovery. Also, Noma, regarded as the world&#39;s best restaurant, is closing its doors and leaving behind a complicated legacy. On top of that, California coastal towns are preparing for another deluge of storms as the ozone layer is slowly recovering due to decreased emissions of ozone-depleting chemicals. Lastly, Prince Harry has been sharing his story and experience of overcoming family dysfunction and trauma but the public&#39;s interest appears to be waning.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House G.O.P. Races to Line Up Votes for Rules After McCarthy Concessions</h3>
+<sub>By Catie Edmondson</sub>
+<p>Some rank-and-file Republicans balked at a package of proposed changes to House rules that would enshrine concessions the speaker made to win support from ultraconservative members.  <a href="https://nyti.ms/3QyDJIE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Without Hesitation, Ukraine Goes Toe to Toe With Russia in Bakhmut</h3>
 <sub>By Andrew E. Kramer and Nicole Tung</sub>
@@ -69,34 +75,28 @@ There has been some tension between Ukraine and Russia recently, with the Ukrain
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin’s Efforts to Divide the West Over Ukraine Fall Flat</h3>
-<sub>By Max Fisher</sub>
-<p>A cease-fire proposal seemingly aimed at splintering Western unity has instead been met with Western escalation, underscoring Moscow’s diplomatic struggles.  <a href="https://nyti.ms/3Cyqyl4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Voices on social media summoned the protesters to Brasília, offering free transportation and food.</h3>
+<sub>By Yan Boechat and Leonardo Coelho</sub>
+<p>  <a href="https://nyti.ms/3GRVpM7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Videos Show How Rioters Stormed Brazil’s Capital</h3>
-<sub>By Axel Boada, Scott Reinhard, Jack Nicas, André Spigariol and Nailah Morgan</sub>
-<p>Watch key moments of rioters attacking Brazil’s Congress, Presidential offices and the Supreme Court.  <a href="https://nyti.ms/3VWmEcv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The attack on Brazil’s seat of government resembles the storming of the U.S. Capitol on Jan. 6, 2021.</h3>
-<sub>By Chris Cameron</sub>
-<p>Jair Bolsonaro, the right-wing former president of Brazil, had for months sought to undermine the results of an election that he lost, in much the same manner that Donald J. Trump did after his defeat in the 2020 presidential election.  <a href="https://nyti.ms/3ioEyqI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Korean War Wall of Remembrance Set Hundreds of Errors in Stone</h3>
-<sub>By Dave Philipps</sub>
-<p>Many names of American service members who died in the conflict are misspelled or missing from the new memorial wall in Washington, relatives and researchers say.  <a href="https://nyti.ms/3jVUbq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What We Know About the Investigations Into the Brazil Protests</h3>
+<sub>By Alan Yuhas</sub>
+<p>Investigators face several major questions as they piece together how rioters briefly seized the seats of Brazil’s government.  <a href="https://nyti.ms/3XfHpBc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Prepare New Rules, but Fixing Congress Isn’t So Easy</h3>
-<sub>By Carl Hulse</sub>
-<p>History suggests that the procedural plans of the new House Republican majority are likely to lead to more gridlock and legislative instability, not less.  <a href="https://nyti.ms/3IsV8Aq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Damar Hamlin Transferred From Hospital in Cincinnati to Buffalo</h3>
+<sub>By Jenny Vrentas</sub>
+<p>The injured Buffalo Bills safety left a hospital in Cincinnati after being treated for a cardiac arrest a week ago, his doctors there said.  <a href="https://nyti.ms/3Zlaq01"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How Damar Hamlin’s Recovery Allowed Us to Breathe</h3>
+<sub>By Michael Kimmelman</sub>
+<p>This weekend the narrative around the Buffalo Bills player flipped, from soul-searching about the violence of America’s most popular sport to something more hopeful.  <a href="https://nyti.ms/3WYmqmq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
 <h3>Noma, Rated the World’s Best Restaurant, Is Closing Its Doors</h3>
@@ -123,16 +123,16 @@ There has been some tension between Ukraine and Russia recently, with the Ukrain
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Faces Another Storm Onslaught After Power Outages in Sacramento</h3>
-<sub>By Judson Jones, Luke Vander Ploeg and Carly Stern</sub>
-<p>A powerful storm system across the state could bring more flooding and outages on Monday into Tuesday, after more than 300,000 customers lost electricity over the weekend.  <a href="https://nyti.ms/3IxSLfy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tracking the California Storms</h3>
 <sub>By Judson Jones, Zach Levitt and Bea Malsky</sub>
 <p>Maps show the precipitation so far, and the forecast for more.  <a href="https://nyti.ms/3CrqJi3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Has Prince Harry’s Confessional Tour Run Its Course?</h3>
+<sub>By Sarah Lyall</sub>
+<p>Even in the United States, which has a high tolerance for redemptive stories about overcoming trauma and family dysfunction, the tide seems to be turning.  <a href="https://nyti.ms/3GSqwqA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
