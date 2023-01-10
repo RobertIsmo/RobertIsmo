@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 10, Central Standard Time</p>
 <p>
-There have been a lot of political developments happening in the US recently. House Republicans narrowly approved a package of changes to House rules that gave concessions to ultraconservative members, making it easier to dump the Speaker and harder to raise or spend taxes. They also voted to rescind the Internal Revenue Service&#39;s funding by billions of dollars. On the other side of the world, Ukraine is engaged in a toe-to-toe battle with Russia in Bakhmut, and in Brazil there was a mass attack driven by conspiracy theories aimed at their democracy. Meanwhile, California is being pounded by a huge storm which has caused flash flooding in areas like Malibu, Hollywood, and Beverly Hills and evacuations are underway in some Santa Barbara county enclaves. Lastly, Prince Harry&#39;s memoir has just been released and it gives insight into his life as well as eleven takeaways from his story.</p>
+There&#39;s a lot going on in the world right now. In the US, the House of Representatives recently narrowly approved rules that make it easier to remove the speaker, while making it harder to spend or raise taxes. California is reeling from heavy rains and storms, while in Los Angeles there has been flooding, and a 6-year-old brought a gun to school, leaving a teacher injured. Meanwhile, over in Brazil a mass attack was driven by conspiracy theory mass delusion, and in Ukraine they are engaged in an escalating battle with Russia. And finally, Prince Harry has been on a confessional tour but people are starting to question it now.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Narrowly Approves Rules Amid Concerns About McCarthy’s Concessions</h3>
@@ -93,9 +93,9 @@ There have been a lot of political developments happening in the US recently. Ho
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Most of Los Angeles County Under Flash Flood Warning as Rains Pound California</h3>
+<h3>Heavy Rains Lash Los Angeles As California Reels From Another Storm</h3>
 <sub>By Jill Cowan, Victoria Kim and Mike Ives</sub>
-<p>Malibu, Hollywood and Beverly Hills were forecast to experience flooding on Monday night. Along the coast to the north, evacuations were underway in a Santa Barbara County enclave.  <a href="https://nyti.ms/3QtnZX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The rain caused flooding in downtown Los Angeles and beyond. A flash flood warning was in effect for most of the county early Tuesday morning.  <a href="https://nyti.ms/3QtnZX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -109,6 +109,12 @@ There have been a lot of political developments happening in the US recently. Ho
 <sub>By Peter Baker, Charlie Savage, Glenn Thrush and Adam Goldman</sub>
 <p>The White House said it was cooperating as the Justice Department scrutinizes the matter.  <a href="https://nyti.ms/3CBf0h7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>This Is What Shanghai’s Covid Outbreak Looks Like</h3>
+<sub>By Qilai Shen and David Pierson</sub>
+<p>The Chinese city is being gripped by a massive Covid wave, leading to a surge in hospitalizations and crowded funeral homes.  <a href="https://nyti.ms/3W45GsO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>6-Year-Old Brought Gun From Home in Newport News School Shooting, Police Say</h3>
@@ -126,12 +132,6 @@ There have been a lot of political developments happening in the US recently. Ho
 <h3>Has Prince Harry’s Confessional Tour Run Its Course?</h3>
 <sub>By Sarah Lyall</sub>
 <p>Even in the United States, which has a high tolerance for redemptive stories about overcoming trauma and family dysfunction, the tide seems to be turning.  <a href="https://nyti.ms/3GSqwqA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>11 Takeaways From Prince Harry’s Memoir, ‘Spare’</h3>
-<sub>By The New York Times Books Staff</sub>
-<p>The much-anticipated book offers few revelations, in the wake of leaks and high-profile interviews, but it tucks familiar incidents into a broader narrative.  <a href="https://nyti.ms/3CAPIQe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
