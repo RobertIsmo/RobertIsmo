@@ -60,8 +60,52 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 10, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, the House of Representatives recently narrowly approved rules that make it easier to remove the speaker, while making it harder to spend or raise taxes. California is reeling from heavy rains and storms, while in Los Angeles there has been flooding, and a 6-year-old brought a gun to school, leaving a teacher injured. Meanwhile, over in Brazil a mass attack was driven by conspiracy theory mass delusion, and in Ukraine they are engaged in an escalating battle with Russia. And finally, Prince Harry has been on a confessional tour but people are starting to question it now.</p>
+In the US, there has been record amounts of rainfall in Southern California, leading to flooding and evacuations. They&#39;re expecting more storms this week in the coastal towns of Santa Cruz that were already badly hit. In terms of economics, the Fed might finally be winning the war on inflation, but it could come with a great cost. Joe Biden has proposed changes to federal student loan repayment plans, which could reduce monthly payments for many borrowers. In politics, House Republicans passed new rules that makes it easier to remove the House Speaker and harder to raise taxes. They also voted to rescind IRS funding. 
+
+Elsewhere in the world, there is growing concern about what &#39;security guarantees&#39; towards Ukraine mean and whether NATO membership will satisfy Kyiv and deter Moscow. In the Philippines, two notorious dynasties won landslide election victories for 2022. And in Shanghai, there has been a massive Covid surge and overcrowded funeral homes.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Rain Swamps Southern California, and More Storms Are Expected</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>More than a foot of rain has fallen in parts of the state over the past 48 hours, flooding streets and prompting evacuations.  <a href="https://nyti.ms/3ID0J7m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Battered by Storms, California Coastal Towns Prepare for Another Deluge</h3>
+<sub>By Kellen Browning and Soumya Karlamangla</sub>
+<p>Hundreds of homes in the Santa Cruz region were damaged by flooding and wind. Weary residents are steeling themselves for even worse conditions this week.  <a href="https://nyti.ms/3ZmLW6z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tracking the California Storms</h3>
+<sub>By Judson Jones, Zach Levitt and Bea Malsky</sub>
+<p>Maps show the precipitation so far, and the forecast for more.  <a href="https://nyti.ms/3CrqJi3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What Does It Mean to Provide ‘Security Guarantees’ to Ukraine?</h3>
+<sub>By Steven Erlanger</sub>
+<p>A postwar Ukraine will want to ensure that Russia does not attack again. But is there anything short of full NATO membership that will satisfy Kyiv and deter Moscow?  <a href="https://nyti.ms/3CBnyVg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Fed May Finally Be Winning the War on Inflation. But at What Cost?</h3>
+<sub>By Michael Steinberger</sub>
+<p>There’s a good chance that the Fed could push the economy into recession. The pain will not be shared equally.  <a href="https://nyti.ms/3CyxUVS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As Infrastructure Money Lands, the Job Dividends Begin</h3>
+<sub>By Lydia DePillis</sub>
+<p>Trillions of dollars in government spending will profoundly affect the labor market, but in ways hard to measure, and mostly under the surface.  <a href="https://nyti.ms/3IxDoE1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>What to Know About Biden’s Income-Driven Repayment Proposal</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>Proposed changes to federal student-loan repayment plans tied to income could cut some borrowers’ monthly payments by more than half.  <a href="https://nyti.ms/3ITZwJ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Narrowly Approves Rules Amid Concerns About McCarthy’s Concessions</h3>
 <sub>By Catie Edmondson</sub>
@@ -75,64 +119,22 @@ There&#39;s a lot going on in the world right now. In the US, the House of Repre
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Final Vote Count: How Each Member Voted on the House Rules Package</h3>
-<sub>By Allison McCartney and Emily Cochrane</sub>
-<p>See how the House voted on the rules that govern how it operates, which include a series of concessions to a group of ultraconservative Republicans.  <a href="https://nyti.ms/3QrxAxG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Republicans Vote to Rescind I.R.S. Funding</h3>
 <sub>By Emily Cochrane and Alan Rappeport</sub>
 <p>The measure, one of the new majority’s first legislative moves, would cut billions in funding that Democrats passed to help crack down on tax cheats. It does not have enough votes to pass the Senate.  <a href="https://nyti.ms/3X0fCF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Drove a Mass Attack on Brazil’s Capital? Mass Delusion.</h3>
-<sub>By Jack Nicas</sub>
-<p>Sunday’s riot laid bare a daunting threat to Brazilian democracy: Unlike past putsch attempts in Latin America, this one was driven by deeply rooted conspiracy theories.  <a href="https://nyti.ms/3itXpAL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Heavy Rains Lash Los Angeles As California Reels From Another Storm</h3>
-<sub>By Jill Cowan, Victoria Kim and Mike Ives</sub>
-<p>The rain caused flooding in downtown Los Angeles and beyond. A flash flood warning was in effect for most of the county early Tuesday morning.  <a href="https://nyti.ms/3QtnZX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking the California Storms</h3>
-<sub>By Judson Jones, Zach Levitt and Bea Malsky</sub>
-<p>Maps show the precipitation so far, and the forecast for more.  <a href="https://nyti.ms/3CrqJi3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Lawyers Found Classified Material at His Former Office</h3>
-<sub>By Peter Baker, Charlie Savage, Glenn Thrush and Adam Goldman</sub>
-<p>The White House said it was cooperating as the Justice Department scrutinizes the matter.  <a href="https://nyti.ms/3CBf0h7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<h3>The Marcos-Duterte Ticket Won. Can This Philippine Alliance Last?</h3>
+<sub>By Sui-Lee Wee and Camille Elemia</sub>
+<p>The two scions from notorious family dynasties clinched landslide election victories in 2022, but their power balance remains fragile.  <a href="https://nyti.ms/3iuXOD1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>This Is What Shanghai’s Covid Outbreak Looks Like</h3>
 <sub>By Qilai Shen and David Pierson</sub>
 <p>The Chinese city is being gripped by a massive Covid wave, leading to a surge in hospitalizations and crowded funeral homes.  <a href="https://nyti.ms/3W45GsO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>6-Year-Old Brought Gun From Home in Newport News School Shooting, Police Say</h3>
-<sub>By Paul Bibeau, Sarah Mervosh and Campbell Robertson</sub>
-<p>The wounded teacher went to the school office and said “call 911” before collapsing, a witness said.  <a href="https://nyti.ms/3GT4KmA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Without Hesitation, Ukraine Goes Toe to Toe With Russia in Bakhmut</h3>
-<sub>By Andrew E. Kramer and Nicole Tung</sub>
-<p>Earlier in the war, Ukraine’s leadership was more equivocal about pitched battles with high casualties. There’s no second-guessing this time. Some analysts say it makes sense strategically.  <a href="https://nyti.ms/3Iu7FUe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Has Prince Harry’s Confessional Tour Run Its Course?</h3>
-<sub>By Sarah Lyall</sub>
-<p>Even in the United States, which has a high tolerance for redemptive stories about overcoming trauma and family dysfunction, the tide seems to be turning.  <a href="https://nyti.ms/3GSqwqA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
