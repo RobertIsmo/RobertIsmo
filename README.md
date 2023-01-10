@@ -60,12 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 9, Central Standard Time</p>
 <p>
-Right now, there is a lot happening in the US and around the world. In the US, the House has narrowly approved changes to their rules amid concerns from certain members, and Republicans are trying to cut funding for the IRS. On an international level, Ukraine is going toe-to-toe with Russia in a war, and Brazil’s democracy is being threatened by conspiracy theories. Other news in the US include Biden’s lawyers finding classified material at his former office, an injured football player being transferred from Cincinnati to Buffalo, and a 6-year-old bringing a gun from home to a school shooting in Newport News. In California, there are storms and mudslides causing evacuations in Montecito. Lastly, there is also news about Prince Harry&#39;s confessional tour coming to an end.</p>
+It looks like there&#39;s some political turmoil in the US right now. The House narrowly approved a new set of rules that give more power to ultraconservative Republicans, and at the same time, made it easier for any single representative to impeach the Speaker. There&#39;s also a measure to cut IRS funding that&#39;s currently not likely to pass in the Senate.
+
+Meanwhile, there was a huge protest in Brazil recently driven by conspiracy theories, and Ukraine is going to battle with Russia over a city. And on the other side of the world here in the US, we have some natural disasters-- Montecito has been ordered to evacuate due to mudslides, and tracking maps predict much more precipitation due to storms.
+
+On top of all this, it looks like Prince Harry has started speaking out against his family, with a tell-all memoir that may have gone too far for some people&#39;s taste. It&#39;ll be interesting to see how this all shakes out!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Narrowly Approves Rules Amid Concerns About McCarthy’s Concessions</h3>
 <sub>By Catie Edmondson</sub>
 <p>After initially balking at a package of changes to House rules that enshrine concessions the speaker made to ultraconservative members, Republicans united to push them through.  <a href="https://nyti.ms/3QyDJIE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>New House Rules Make It Easier to Dump Speaker, and Harder to Spend or Raise Taxes</h3>
+<sub>By Carl Hulse and Luke Broadwater</sub>
+<p>The rules package Republicans pushed through on Monday allows a single lawmaker to force a vote on “vacating” the speaker’s chair.  <a href="https://nyti.ms/3ZscL9p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,15 +85,9 @@ Right now, there is a lot happening in the US and around the world. In the US, t
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans Will Try to Rescind I.R.S. Funding</h3>
+<h3>House Republicans Vote to Rescind I.R.S. Funding</h3>
 <sub>By Emily Cochrane and Alan Rappeport</sub>
-<p>Their first legislative move will seek to cut billions in funding that Democrats passed last year to help the agency crack down on tax cheats.  <a href="https://nyti.ms/3X0fCF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Without Hesitation, Ukraine Goes Toe to Toe With Russia in Bakhmut</h3>
-<sub>By Andrew E. Kramer and Nicole Tung</sub>
-<p>Earlier in the war, Ukraine’s leadership was more equivocal about pitched battles with high casualties. There’s no second-guessing this time. Some analysts say it makes sense strategically.  <a href="https://nyti.ms/3Iu7FUe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The measure, one of the new majority’s first legislative moves, would cut billions in funding that Democrats passed to help crack down on tax cheats. It does not have enough votes to pass the Senate.  <a href="https://nyti.ms/3X0fCF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,22 +96,16 @@ Right now, there is a lot happening in the US and around the world. In the US, t
 <p>Sunday’s riot laid bare a daunting threat to Brazilian democracy: Unlike past putsch attempts in Latin America, this one was driven by deeply rooted conspiracy theories.  <a href="https://nyti.ms/3itXpAL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Without Hesitation, Ukraine Goes Toe to Toe With Russia in Bakhmut</h3>
+<sub>By Andrew E. Kramer and Nicole Tung</sub>
+<p>Earlier in the war, Ukraine’s leadership was more equivocal about pitched battles with high casualties. There’s no second-guessing this time. Some analysts say it makes sense strategically.  <a href="https://nyti.ms/3Iu7FUe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Lawyers Found Classified Material at His Former Office</h3>
 <sub>By Peter Baker, Charlie Savage and Glenn Thrush</sub>
-<p>The White House said it was cooperating with a Justice Department review of the matter.  <a href="https://nyti.ms/3CBf0h7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Damar Hamlin Transferred From Hospital in Cincinnati to Buffalo</h3>
-<sub>By Jenny Vrentas</sub>
-<p>The injured Buffalo Bills safety left a hospital in Cincinnati after being treated for cardiac arrest a week ago, his doctors there said.  <a href="https://nyti.ms/3Zlaq01"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Who Told Players to Warm Up After Damar Hamlin Collapsed?</h3>
-<sub>By Ken Belson and Jenny Vrentas</sub>
-<p>ESPN told viewers that players were given five minutes to warm up after Hamlin was taken off the field. The N.F.L. denied that. On Sunday, Commissioner Roger Goodell addressed the question.  <a href="https://nyti.ms/3k5lLkR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The White House said it was cooperating as the Justice Department scrutinizes the matter.  <a href="https://nyti.ms/3CBf0h7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +130,12 @@ Right now, there is a lot happening in the US and around the world. In the US, t
 <h3>Has Prince Harry’s Confessional Tour Run Its Course?</h3>
 <sub>By Sarah Lyall</sub>
 <p>Even in the United States, which has a high tolerance for redemptive stories about overcoming trauma and family dysfunction, the tide seems to be turning.  <a href="https://nyti.ms/3GSqwqA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Prince Harry’s Bridge-Burner of a Memoir Signals a Bigger Royal Rift</h3>
+<sub>By Mark Landler</sub>
+<p>The self-exiled royal has given the world a warts-and-all look at his family — with an emphasis on the warts.  <a href="https://nyti.ms/3k22mRE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
