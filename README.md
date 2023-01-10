@@ -58,13 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, January 9, Central Standard Time</p>
+<p>It is Tuesday, January 10, Central Standard Time</p>
 <p>
-It looks like there&#39;s some political turmoil in the US right now. The House narrowly approved a new set of rules that give more power to ultraconservative Republicans, and at the same time, made it easier for any single representative to impeach the Speaker. There&#39;s also a measure to cut IRS funding that&#39;s currently not likely to pass in the Senate.
-
-Meanwhile, there was a huge protest in Brazil recently driven by conspiracy theories, and Ukraine is going to battle with Russia over a city. And on the other side of the world here in the US, we have some natural disasters-- Montecito has been ordered to evacuate due to mudslides, and tracking maps predict much more precipitation due to storms.
-
-On top of all this, it looks like Prince Harry has started speaking out against his family, with a tell-all memoir that may have gone too far for some people&#39;s taste. It&#39;ll be interesting to see how this all shakes out!</p>
+There have been a lot of political developments happening in the US recently. House Republicans narrowly approved a package of changes to House rules that gave concessions to ultraconservative members, making it easier to dump the Speaker and harder to raise or spend taxes. They also voted to rescind the Internal Revenue Service&#39;s funding by billions of dollars. On the other side of the world, Ukraine is engaged in a toe-to-toe battle with Russia in Bakhmut, and in Brazil there was a mass attack driven by conspiracy theories aimed at their democracy. Meanwhile, California is being pounded by a huge storm which has caused flash flooding in areas like Malibu, Hollywood, and Beverly Hills and evacuations are underway in some Santa Barbara county enclaves. Lastly, Prince Harry&#39;s memoir has just been released and it gives insight into his life as well as eleven takeaways from his story.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Narrowly Approves Rules Amid Concerns About McCarthy’s Concessions</h3>
@@ -96,15 +92,21 @@ On top of all this, it looks like Prince Harry has started speaking out against 
 <p>Sunday’s riot laid bare a daunting threat to Brazilian democracy: Unlike past putsch attempts in Latin America, this one was driven by deeply rooted conspiracy theories.  <a href="https://nyti.ms/3itXpAL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Without Hesitation, Ukraine Goes Toe to Toe With Russia in Bakhmut</h3>
-<sub>By Andrew E. Kramer and Nicole Tung</sub>
-<p>Earlier in the war, Ukraine’s leadership was more equivocal about pitched battles with high casualties. There’s no second-guessing this time. Some analysts say it makes sense strategically.  <a href="https://nyti.ms/3Iu7FUe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Most of Los Angeles County Under Flash Flood Warning as Rains Pound California</h3>
+<sub>By Jill Cowan, Victoria Kim and Mike Ives</sub>
+<p>Malibu, Hollywood and Beverly Hills were forecast to experience flooding on Monday night. Along the coast to the north, evacuations were underway in a Santa Barbara County enclave.  <a href="https://nyti.ms/3QtnZX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tracking the California Storms</h3>
+<sub>By Judson Jones, Zach Levitt and Bea Malsky</sub>
+<p>Maps show the precipitation so far, and the forecast for more.  <a href="https://nyti.ms/3CrqJi3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Lawyers Found Classified Material at His Former Office</h3>
-<sub>By Peter Baker, Charlie Savage and Glenn Thrush</sub>
+<sub>By Peter Baker, Charlie Savage, Glenn Thrush and Adam Goldman</sub>
 <p>The White House said it was cooperating as the Justice Department scrutinizes the matter.  <a href="https://nyti.ms/3CBf0h7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
@@ -114,17 +116,11 @@ On top of all this, it looks like Prince Harry has started speaking out against 
 <p>The wounded teacher went to the school office and said “call 911” before collapsing, a witness said.  <a href="https://nyti.ms/3GT4KmA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Montecito Ordered to Evacuate as Mudslide Danger Rises in California</h3>
-<sub>By Jill Cowan and Victoria Kim</sub>
-<p>The evacuation order came five years after a mudslide killed 23 people and destroyed homes in the Santa Barbara County community.  <a href="https://nyti.ms/3QtnZX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Without Hesitation, Ukraine Goes Toe to Toe With Russia in Bakhmut</h3>
+<sub>By Andrew E. Kramer and Nicole Tung</sub>
+<p>Earlier in the war, Ukraine’s leadership was more equivocal about pitched battles with high casualties. There’s no second-guessing this time. Some analysts say it makes sense strategically.  <a href="https://nyti.ms/3Iu7FUe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking the California Storms</h3>
-<sub>By Judson Jones, Zach Levitt and Bea Malsky</sub>
-<p>Maps show the precipitation so far, and the forecast for more.  <a href="https://nyti.ms/3CrqJi3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>Has Prince Harry’s Confessional Tour Run Its Course?</h3>
@@ -132,10 +128,10 @@ On top of all this, it looks like Prince Harry has started speaking out against 
 <p>Even in the United States, which has a high tolerance for redemptive stories about overcoming trauma and family dysfunction, the tide seems to be turning.  <a href="https://nyti.ms/3GSqwqA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Prince Harry’s Bridge-Burner of a Memoir Signals a Bigger Royal Rift</h3>
-<sub>By Mark Landler</sub>
-<p>The self-exiled royal has given the world a warts-and-all look at his family — with an emphasis on the warts.  <a href="https://nyti.ms/3k22mRE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>11 Takeaways From Prince Harry’s Memoir, ‘Spare’</h3>
+<sub>By The New York Times Books Staff</sub>
+<p>The much-anticipated book offers few revelations, in the wake of leaks and high-profile interviews, but it tucks familiar incidents into a broader narrative.  <a href="https://nyti.ms/3CAPIQe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
