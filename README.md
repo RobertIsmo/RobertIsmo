@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 10, Central Standard Time</p>
 <p>
-The world is going through a difficult time right now. In the US, California is dealing with storm damage that could cost over $1 billion. Europe experienced its hottest summer ever and the US saw Biden Lawyers find classified material at his former office. On the other side of the world in Peru, violence has caused 46 deaths and in Ukraine there are talks of providing &quot;security guarantees&quot;. Stateside, New York State is looking for solutions to crime, housing and mental health issues. All of this comes as global temperatures have been reaching record highs.</p>
+In the US, there has been major weather disasters striking the country recently due to global climate change. California was recently pummeled by storms causing over $1 billion in damage. It could be getting more rain and high winds for days. There is also an ongoing investigation into classified material found in the White House that Biden lawyers stumbled upon. A 18-year-old mayor was elected in Arkansas city to turn things around.
+
+Europe has recorded its hottest summer ever, while 2022 was the fifth-hottest year on record worldwide. In New York, lawmakers have requested a House Ethics investigation of George Santos due to his financial disclosures.
+
+In Peru, there is an extraordinary violence which has led to 46 deaths so far and a human rights activist called it a &#39;massacre&#39;. Russia&#39;s budget deficit for 2022 is one of its highest since the post-Soviet era, and a longtime finance chief of Donald Trump was sentenced to 5 months in jail for tax fraud.
+
+Prince Harry released a memoir, &#39;Spare&#39;, which is both emotional and embittered about fame.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Videos, Photos and Maps of the Damage From the California Storms</h3>
+<sub>By Adeel Hassan, Christina Kelso, Scott Reinhard, Stephen Reiss and Josh Williams</sub>
+<p>A catastrophic string of storms continued to pummel California on Tuesday. Here’s what it looked like.  <a href="https://nyti.ms/3jVEvD6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>California storm damage could top $1 billion.</h3>
 <sub>By Christopher Flavelle</sub>
@@ -75,9 +87,9 @@ The world is going through a difficult time right now. In the US, California is 
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Does It Mean to Provide ‘Security Guarantees’ to Ukraine?</h3>
-<sub>By Steven Erlanger</sub>
-<p>A postwar Ukraine will want to ensure that Russia does not attack again. But is there anything short of full NATO membership that will satisfy Kyiv and deter Moscow?  <a href="https://nyti.ms/3CBnyVg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia posts a $47 billion budget deficit for 2022, its second highest in the post-Soviet era.</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>The budget gap reached 3.3 trillion rubles, or 2.3 percent of the size of the Russian economy, according to the country’s finance minister.  <a href="https://nyti.ms/3k14061"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,22 +104,28 @@ The world is going through a difficult time right now. In the US, California is 
 <p>“What happened yesterday was really a massacre,” said one human rights activist.  <a href="https://nyti.ms/3Qs9AL0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Perú en crisis: 46 personas han muerto mientras continúa la violencia</h3>
+<sub>By Mitra Taj and Julie Turkewitz</sub>
+<p>En un solo día se registraron al menos 17 muertes en el sur del país. “Lo que ocurrió ayer realmente fue una masacre”, dijo una activista de derechos humanos.  <a href="https://nyti.ms/3k0TyeN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump’s Longtime Finance Chief Sentenced to 5 Months in Jail</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
+<p>Allen H. Weisselberg served the family company for decades but agreed to testify about its tax fraud in exchange for a lighter punishment.  <a href="https://nyti.ms/3GUFpsz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An Ailing Arkansas City Elected an 18-Year-Old Mayor to Turn Things Around</h3>
+<sub>By Rick Rojas</sub>
+<p>Residents hope that Jaylen Smith’s youthful energy and sense of purpose can improve the fortunes of Earle, Ark. — or at least attract a supermarket to the small city.  <a href="https://nyti.ms/3X2ZLWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>The Last 8 Years Were the Hottest on Record</h3>
 <sub>By Henry Fountain and Mira Rojanasakul</sub>
 <p>Europe experienced its hottest summer ever, while 2022 was the fifth-hottest year on record worldwide.  <a href="https://nyti.ms/3ICC3M1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As Infrastructure Money Lands, the Job Dividends Begin</h3>
-<sub>By Lydia DePillis</sub>
-<p>Trillions of dollars in government spending will profoundly affect the labor market, but in ways hard to measure, and mostly under the surface.  <a href="https://nyti.ms/3IxDoE1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Fed May Finally Be Winning the War on Inflation. But at What Cost?</h3>
-<sub>By Michael Steinberger</sub>
-<p>There’s a good chance that the Fed could push the economy into recession. The pain will not be shared equally.  <a href="https://nyti.ms/3CyxUVS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -116,22 +134,10 @@ The world is going through a difficult time right now. In the US, California is 
 <p>Two Democrats filed an official complaint about Mr. Santos’s financial disclosures with the House’s bipartisan ethics committee.  <a href="https://nyti.ms/3CyIaxa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>This Is What Shanghai’s Covid Outbreak Looks Like</h3>
-<sub>By Qilai Shen and David Pierson</sub>
-<p>The Chinese city is being gripped by a massive Covid wave, leading to a surge in hospitalizations and crowded funeral homes.  <a href="https://nyti.ms/3W45GsO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Hochul’s Vision for New York: Fighting Crime and Building Housing</h3>
-<sub>By Luis Ferré-Sadurní and Grace Ashford</sub>
-<p>Gov. Kathy Hochul delivered a State of the State speech on Tuesday that addressed some of the issues that played well for her opponent in the November election.  <a href="https://nyti.ms/3Gnu6aY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Hochul to Unveil a $1 Billion Plan to Tackle Mental Illness in New York</h3>
-<sub>By Luis Ferré-Sadurní and Andy Newman</sub>
-<p>In a State of the State address, the governor will seek to create new beds for people with severe mental illness and offer more mental health care to children.  <a href="https://nyti.ms/3IEfaIe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Prince Harry Learns to Cry, and Takes No Prisoners, in ‘Spare’</h3>
+<sub>By Alexandra Jacobs</sub>
+<p>At once emotional and embittered, the royal memoir is mired in a paradox: drawing endless attention in an effort to renounce fame.  <a href="https://nyti.ms/3k1CBku"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
