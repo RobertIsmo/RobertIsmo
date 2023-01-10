@@ -60,26 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 10, Central Standard Time</p>
 <p>
-In the US, there has been record amounts of rainfall in Southern California, leading to flooding and evacuations. They&#39;re expecting more storms this week in the coastal towns of Santa Cruz that were already badly hit. In terms of economics, the Fed might finally be winning the war on inflation, but it could come with a great cost. Joe Biden has proposed changes to federal student loan repayment plans, which could reduce monthly payments for many borrowers. In politics, House Republicans passed new rules that makes it easier to remove the House Speaker and harder to raise taxes. They also voted to rescind IRS funding. 
-
-Elsewhere in the world, there is growing concern about what &#39;security guarantees&#39; towards Ukraine mean and whether NATO membership will satisfy Kyiv and deter Moscow. In the Philippines, two notorious dynasties won landslide election victories for 2022. And in Shanghai, there has been a massive Covid surge and overcrowded funeral homes.</p>
+The world is going through a difficult time right now. In the US, California is dealing with storm damage that could cost over $1 billion. Europe experienced its hottest summer ever and the US saw Biden Lawyers find classified material at his former office. On the other side of the world in Peru, violence has caused 46 deaths and in Ukraine there are talks of providing &quot;security guarantees&quot;. Stateside, New York State is looking for solutions to crime, housing and mental health issues. All of this comes as global temperatures have been reaching record highs.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rain Swamps Southern California, and More Storms Are Expected</h3>
-<sub>By Derrick Bryson Taylor</sub>
-<p>More than a foot of rain has fallen in parts of the state over the past 48 hours, flooding streets and prompting evacuations.  <a href="https://nyti.ms/3ID0J7m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>California storm damage could top $1 billion.</h3>
+<sub>By Christopher Flavelle</sub>
+<p>Major weather disasters have been striking the United States much more often in recent years as the global climate changes.  <a href="https://nyti.ms/3Xf3ijO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Battered by Storms, California Coastal Towns Prepare for Another Deluge</h3>
-<sub>By Kellen Browning and Soumya Karlamangla</sub>
-<p>Hundreds of homes in the Santa Cruz region were damaged by flooding and wind. Weary residents are steeling themselves for even worse conditions this week.  <a href="https://nyti.ms/3ZmLW6z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking the California Storms</h3>
-<sub>By Judson Jones, Zach Levitt and Bea Malsky</sub>
-<p>Maps show the precipitation so far, and the forecast for more.  <a href="https://nyti.ms/3CrqJi3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Day-by-Day Look at California’s Weather</h3>
+<sub>By Judson Jones</sub>
+<p>The state, already inundated with water, could see rain and high winds for days.  <a href="https://nyti.ms/3id45Dl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -88,10 +80,22 @@ Elsewhere in the world, there is growing concern about what &#39;security guaran
 <p>A postwar Ukraine will want to ensure that Russia does not attack again. But is there anything short of full NATO membership that will satisfy Kyiv and deter Moscow?  <a href="https://nyti.ms/3CBnyVg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Fed May Finally Be Winning the War on Inflation. But at What Cost?</h3>
-<sub>By Michael Steinberger</sub>
-<p>There’s a good chance that the Fed could push the economy into recession. The pain will not be shared equally.  <a href="https://nyti.ms/3CyxUVS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Lawyers Found Classified Material at His Former Office</h3>
+<sub>By Peter Baker, Charlie Savage, Glenn Thrush and Adam Goldman</sub>
+<p>The White House said it was cooperating as the Justice Department scrutinizes the matter.  <a href="https://nyti.ms/3CBf0h7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Death Toll in Peru Rises to 46 Amid Extraordinary Violence</h3>
+<sub>By Mitra Taj and Julie Turkewitz</sub>
+<p>“What happened yesterday was really a massacre,” said one human rights activist.  <a href="https://nyti.ms/3Qs9AL0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Last 8 Years Were the Hottest on Record</h3>
+<sub>By Henry Fountain and Mira Rojanasakul</sub>
+<p>Europe experienced its hottest summer ever, while 2022 was the fifth-hottest year on record worldwide.  <a href="https://nyti.ms/3ICC3M1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -100,40 +104,34 @@ Elsewhere in the world, there is growing concern about what &#39;security guaran
 <p>Trillions of dollars in government spending will profoundly affect the labor market, but in ways hard to measure, and mostly under the surface.  <a href="https://nyti.ms/3IxDoE1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>What to Know About Biden’s Income-Driven Repayment Proposal</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>Proposed changes to federal student-loan repayment plans tied to income could cut some borrowers’ monthly payments by more than half.  <a href="https://nyti.ms/3ITZwJ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Fed May Finally Be Winning the War on Inflation. But at What Cost?</h3>
+<sub>By Michael Steinberger</sub>
+<p>There’s a good chance that the Fed could push the economy into recession. The pain will not be shared equally.  <a href="https://nyti.ms/3CyxUVS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Narrowly Approves Rules Amid Concerns About McCarthy’s Concessions</h3>
-<sub>By Catie Edmondson</sub>
-<p>After initially balking at a package of changes to House rules that enshrine concessions the speaker made to ultraconservative members, Republicans united to push them through.  <a href="https://nyti.ms/3QyDJIE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New House Rules Make It Easier to Dump Speaker, and Harder to Spend or Raise Taxes</h3>
-<sub>By Carl Hulse and Luke Broadwater</sub>
-<p>The rules package Republicans pushed through on Monday allows a single lawmaker to force a vote on “vacating” the speaker’s chair.  <a href="https://nyti.ms/3ZscL9p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans Vote to Rescind I.R.S. Funding</h3>
-<sub>By Emily Cochrane and Alan Rappeport</sub>
-<p>The measure, one of the new majority’s first legislative moves, would cut billions in funding that Democrats passed to help crack down on tax cheats. It does not have enough votes to pass the Senate.  <a href="https://nyti.ms/3X0fCF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Marcos-Duterte Ticket Won. Can This Philippine Alliance Last?</h3>
-<sub>By Sui-Lee Wee and Camille Elemia</sub>
-<p>The two scions from notorious family dynasties clinched landslide election victories in 2022, but their power balance remains fragile.  <a href="https://nyti.ms/3iuXOD1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>N.Y. Lawmakers Request House Ethics Investigation of George Santos</h3>
+<sub>By Michael Gold</sub>
+<p>Two Democrats filed an official complaint about Mr. Santos’s financial disclosures with the House’s bipartisan ethics committee.  <a href="https://nyti.ms/3CyIaxa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>This Is What Shanghai’s Covid Outbreak Looks Like</h3>
 <sub>By Qilai Shen and David Pierson</sub>
 <p>The Chinese city is being gripped by a massive Covid wave, leading to a surge in hospitalizations and crowded funeral homes.  <a href="https://nyti.ms/3W45GsO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Hochul’s Vision for New York: Fighting Crime and Building Housing</h3>
+<sub>By Luis Ferré-Sadurní and Grace Ashford</sub>
+<p>Gov. Kathy Hochul delivered a State of the State speech on Tuesday that addressed some of the issues that played well for her opponent in the November election.  <a href="https://nyti.ms/3Gnu6aY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Hochul to Unveil a $1 Billion Plan to Tackle Mental Illness in New York</h3>
+<sub>By Luis Ferré-Sadurní and Andy Newman</sub>
+<p>In a State of the State address, the governor will seek to create new beds for people with severe mental illness and offer more mental health care to children.  <a href="https://nyti.ms/3IEfaIe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
