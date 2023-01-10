@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 9, Central Standard Time</p>
 <p>
-There is ongoing tension between Ukraine and Russia, with Ukrainian forces going up against the Russians in a battle in Bakhmut. In Brazil, there have been protests over the government which were summoned by social media, as investigators are trying to figure out what happened. Additionally, Buffalo Bills safety Damar Hamlin was injured and had to be transferred to hospital in Cincinnati, but is now on the road to recovery. Also, Noma, regarded as the world&#39;s best restaurant, is closing its doors and leaving behind a complicated legacy. On top of that, California coastal towns are preparing for another deluge of storms as the ozone layer is slowly recovering due to decreased emissions of ozone-depleting chemicals. Lastly, Prince Harry has been sharing his story and experience of overcoming family dysfunction and trauma but the public&#39;s interest appears to be waning.</p>
+Right now, there is a lot happening in the US and around the world. In the US, the House has narrowly approved changes to their rules amid concerns from certain members, and Republicans are trying to cut funding for the IRS. On an international level, Ukraine is going toe-to-toe with Russia in a war, and Brazil’s democracy is being threatened by conspiracy theories. Other news in the US include Biden’s lawyers finding classified material at his former office, an injured football player being transferred from Cincinnati to Buffalo, and a 6-year-old bringing a gun from home to a school shooting in Newport News. In California, there are storms and mudslides causing evacuations in Montecito. Lastly, there is also news about Prince Harry&#39;s confessional tour coming to an end.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House G.O.P. Races to Line Up Votes for Rules After McCarthy Concessions</h3>
+<h3>House Narrowly Approves Rules Amid Concerns About McCarthy’s Concessions</h3>
 <sub>By Catie Edmondson</sub>
-<p>Some rank-and-file Republicans balked at a package of proposed changes to House rules that would enshrine concessions the speaker made to win support from ultraconservative members.  <a href="https://nyti.ms/3QyDJIE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>After initially balking at a package of changes to House rules that enshrine concessions the speaker made to ultraconservative members, Republicans united to push them through.  <a href="https://nyti.ms/3QyDJIE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Final Vote Count: How Each Member Voted on the House Rules Package</h3>
+<sub>By Allison McCartney and Emily Cochrane</sub>
+<p>See how the House voted on the rules that govern how it operates, which include a series of concessions to a group of ultraconservative Republicans.  <a href="https://nyti.ms/3QrxAxG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Republicans Will Try to Rescind I.R.S. Funding</h3>
+<sub>By Emily Cochrane and Alan Rappeport</sub>
+<p>Their first legislative move will seek to cut billions in funding that Democrats passed last year to help the agency crack down on tax cheats.  <a href="https://nyti.ms/3X0fCF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,51 +87,39 @@ There is ongoing tension between Ukraine and Russia, with Ukrainian forces going
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Voices on social media summoned the protesters to Brasília, offering free transportation and food.</h3>
-<sub>By Yan Boechat and Leonardo Coelho</sub>
-<p>  <a href="https://nyti.ms/3GRVpM7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What Drove a Mass Attack on Brazil’s Capital? Mass Delusion.</h3>
+<sub>By Jack Nicas</sub>
+<p>Sunday’s riot laid bare a daunting threat to Brazilian democracy: Unlike past putsch attempts in Latin America, this one was driven by deeply rooted conspiracy theories.  <a href="https://nyti.ms/3itXpAL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What We Know About the Investigations Into the Brazil Protests</h3>
-<sub>By Alan Yuhas</sub>
-<p>Investigators face several major questions as they piece together how rioters briefly seized the seats of Brazil’s government.  <a href="https://nyti.ms/3XfHpBc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Lawyers Found Classified Material at His Former Office</h3>
+<sub>By Peter Baker, Charlie Savage and Glenn Thrush</sub>
+<p>The White House said it was cooperating with a Justice Department review of the matter.  <a href="https://nyti.ms/3CBf0h7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Damar Hamlin Transferred From Hospital in Cincinnati to Buffalo</h3>
 <sub>By Jenny Vrentas</sub>
-<p>The injured Buffalo Bills safety left a hospital in Cincinnati after being treated for a cardiac arrest a week ago, his doctors there said.  <a href="https://nyti.ms/3Zlaq01"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The injured Buffalo Bills safety left a hospital in Cincinnati after being treated for cardiac arrest a week ago, his doctors there said.  <a href="https://nyti.ms/3Zlaq01"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How Damar Hamlin’s Recovery Allowed Us to Breathe</h3>
-<sub>By Michael Kimmelman</sub>
-<p>This weekend the narrative around the Buffalo Bills player flipped, from soul-searching about the violence of America’s most popular sport to something more hopeful.  <a href="https://nyti.ms/3WYmqmq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Noma, Rated the World’s Best Restaurant, Is Closing Its Doors</h3>
-<sub>By Julia Moskin</sub>
-<p>The Copenhagen chef René Redzepi says fine dining at the highest level, with its grueling hours and intense workplace culture, has hit a breaking point: “It’s unsustainable.”  <a href="https://nyti.ms/3GQgMgQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Noma Spawned a World of Imitators, but the Restaurant Remains an Original</h3>
-<sub>By Pete Wells</sub>
-<p>As the renowned Copenhagen destination prepares to end its regular service, Pete Wells examines its complicated legacy.  <a href="https://nyti.ms/3k28DwP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Restoration of the Ozone Layer Is Back on Track, Scientists Say</h3>
-<sub>By Henry Fountain</sub>
-<p>Rogue emissions from China of ozone-depleting chemicals had threatened to delay recovery by a decade. But the emissions were stopped, according to a U.N.-backed report.  <a href="https://nyti.ms/3ilwO94"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Who Told Players to Warm Up After Damar Hamlin Collapsed?</h3>
+<sub>By Ken Belson and Jenny Vrentas</sub>
+<p>ESPN told viewers that players were given five minutes to warm up after Hamlin was taken off the field. The N.F.L. denied that. On Sunday, Commissioner Roger Goodell addressed the question.  <a href="https://nyti.ms/3k5lLkR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Battered by Storms, California Coastal Towns Prepare for Another Deluge</h3>
-<sub>By Kellen Browning and Soumya Karlamangla</sub>
-<p>Hundreds of homes in the Santa Cruz region were damaged by flooding and wind. Weary residents are steeling themselves for even worse conditions this week.  <a href="https://nyti.ms/3ZmLW6z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>6-Year-Old Brought Gun From Home in Newport News School Shooting, Police Say</h3>
+<sub>By Paul Bibeau, Sarah Mervosh and Campbell Robertson</sub>
+<p>The wounded teacher went to the school office and said “call 911” before collapsing, a witness said.  <a href="https://nyti.ms/3GT4KmA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Montecito Ordered to Evacuate as Mudslide Danger Rises in California</h3>
+<sub>By Jill Cowan and Victoria Kim</sub>
+<p>The evacuation order came five years after a mudslide killed 23 people and destroyed homes in the Santa Barbara County community.  <a href="https://nyti.ms/3QtnZX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
