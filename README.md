@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 11, Central Standard Time</p>
 <p>
-There have been some troubling developments lately in the world. In the U.S., Republicans have started to launch investigations against the newly elected Biden administration and a Republican congressman-elect has been accused of exaggerating his resume. On top of that, a number of flight delays caused chaos and frustration for airline passengers in recent weeks. Globally, people are still struggling to cope with indoor air pollution from gas stoves and plastic continues to be a huge environmental issue. Additionally, Christian Nationalism is on the rise in Montana.</p>
+There&#39;s a lot happening in the world right now. Republican leaders in Nassau County are calling for George Santos, a congressional candidate, to resign because of lies on his resume. Hunter Biden is facing scrutiny over tax and gun charges, and Congress has begun investigations into the Biden administration. In Ukraine, power outages have people resorting to working in makeshift office spaces. California is experiencing rain relief for the first time in a while. In Miami, the Affordable Care Act&#39;s popularity persists. The FAA recently experienced an outage due to NOTAM alerts. And if Congress fails to increase the government’s borrowing limit on time, it could create serious issues with our economy and financial markets.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos Faces Calls to Resign From Long Island G.O.P. Leaders</h3>
@@ -69,21 +69,21 @@ There have been some troubling developments lately in the world. In the U.S., Re
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Who Is Rep.-Elect George Santos? His Résumé May Be Largely Fiction.</h3>
-<sub>By Grace Ashford and Michael Gold</sub>
-<p>Mr. Santos, a Republican from New York, says he’s the “embodiment of the American dream.” But he seems to have misrepresented a number of his career highlights.  <a href="https://nyti.ms/3Wsx7x7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What is NOTAM? Here’s what caused the F.A.A. groundstop.</h3>
-<sub>By Niraj Chokshi</sub>
-<p>NOTAM alerts — short for Notice to Air Mission — are crucial to planning flights.  <a href="https://nyti.ms/3GYhcS4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>George Santos’s Secret Résumé: A Wall Street Star With a 3.9 G.P.A.</h3>
+<sub>By Nicholas Fandos</sub>
+<p>Two years before his successful run for Congress, George Santos gave Long Island Republican officials a résumé that reads like a detailed road map of his lies.  <a href="https://nyti.ms/3ZvPzXM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Once Again, Thousands of Airline Passengers Were Left Confused and Frustrated</h3>
-<sub>By Daniel Victor</sub>
-<p>For the second time in recent weeks, the U.S. airline industry faced major delays. This time, it wasn’t the airlines’ fault.  <a href="https://nyti.ms/3GYyuOY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Resume of George Santos</h3>
+<sub></sub>
+<p>A copy of a two-page version of his resume, obtained by The Times, is the first that has become public.  <a href="https://nyti.ms/3CIFX2a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hunter Biden’s Tangled Tale Comes Front and Center</h3>
+<sub>By Adam Entous, Michael S. Schmidt and Katie Benner</sub>
+<p>Federal prosecutors could decide soon whether to indict the president’s son on tax and gun charges, and he faces a fresh round of hostile congressional hearings. But a close look at his story shows that it differs in important ways from the narrative promoted by Republicans.  <a href="https://nyti.ms/3iqI1Fn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,46 +92,46 @@ There have been some troubling developments lately in the world. In the U.S., Re
 <p>With Republicans in control of the House, they have begun to unleash the cascade of investigations of the Biden administration that they have long promised.  <a href="https://nyti.ms/3XqoRho"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>I.R.S. Backlogs Continue as Republicans Mount Offensive</h3>
-<sub>By Alan Rappeport</sub>
-<p>The National Taxpayer Advocate expressed hope that better days were ahead for the tax collection agency.  <a href="https://nyti.ms/3k7HBUN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Come On In, the Internet Is Fine: Kyiv Workers Get Online in Unlikely Spots</h3>
+<sub>By Megan Specia</sub>
+<p>Sporadic power outages have people resorting to makeshift office spaces in the Ukrainian capital. Stores have set up power hubs, and workers are getting comfortable doing their jobs in home furnishing displays.  <a href="https://nyti.ms/3X5rntJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>N.F.L.’s Damar Hamlin Released From Buffalo Hospital After Jarring Injury</h3>
-<sub>By Jenny Vrentas</sub>
-<p>Hamlin was expected to continue his recovery from cardiac arrest at home and with his team, the Buffalo Bills.  <a href="https://nyti.ms/3kaBcIx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>When Will the Rain End in California? Soon, but Not Soon Enough</h3>
+<sub>By Judson Jones</sub>
+<p>After a brief respite, rain is expected to return on Saturday and linger into early next week. Drier conditions could arrive after that.  <a href="https://nyti.ms/3GzT5YF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Obamacare Is Everywhere in the Unlikeliest of Places: Miami</h3>
+<sub>By Patricia Mazzei</sub>
+<p>A decade after the Affordable Care Act’s federal health insurance marketplace was created, its outsize — and improbable — popularity in South Florida persists.  <a href="https://nyti.ms/3Zv917i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What is NOTAM? Here’s what caused the F.A.A. outage.</h3>
+<sub>By Niraj Chokshi</sub>
+<p>NOTAM alerts — short for Notice to Air Mission — are crucial to planning flights.  <a href="https://nyti.ms/3GYhcS4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Another Week, Another Meltdown, Only This Time You Can’t Blame the Airlines</h3>
+<sub>By Daniel Victor and Maria Cramer</sub>
+<p>Fliers stranded by an F.A.A. system failure on Wednesday commended pilots and staff even as passenger advocates called the shutdown “shocking” and potentially avoidable.  <a href="https://nyti.ms/3GYyuOY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Trying to Live a Day Without Plastic</h3>
 <sub>By A. J. Jacobs</sub>
-<p>It’s all around us, despite its adverse effects on the planet. In a 24-hour experiment, our reporter tried to go plastic free.  <a href="https://nyti.ms/3VYemAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>It’s all around us, despite its adverse effects on the planet. In a 24-hour experiment, one journalist tried to go plastic free.  <a href="https://nyti.ms/3VYemAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>‘Chaotic’ Scenes Inside 2 New York City Hospitals During Nurses’ Strike</h3>
-<sub>By Sharon Otterman</sub>
-<p>Nurses have remained on the picket lines this week at Mount Sinai Hospital and Montefiore Medical Center, which have been less full but still tumultuous as they operate with skeletal staffs.  <a href="https://nyti.ms/3k9pvl3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>R.J. Reynolds Pivots to New Cigarette Pitches as Flavor Ban Takes Effect</h3>
-<sub>By Christina Jewett and Emily Baumgaertner</sub>
-<p>Now that California’s tobacco prohibitions are in place, some Camel and Newport items are billed as newly “fresh” or “crisp” non-menthol versions.  <a href="https://nyti.ms/3GZw3Mp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Ban Gas Stoves? Just the Idea Gets Some in Washington Boiling.</h3>
-<sub>By Elena Shao and Lisa Friedman</sub>
-<p>The nation’s top consumer watchdog agency raised concerns about indoor air pollution from gas stoves. A political firestorm ensued.  <a href="https://nyti.ms/3k6DzvO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How Montana Took a Hard Right Turn Toward Christian Nationalism</h3>
-<sub>By Abe Streep</sub>
-<p>What happened to a state known for its political independence?  <a href="https://nyti.ms/3Xpo28W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The U.S. May Finally Breach the Debt Ceiling. Here’s Why That Would Be Very Bad.</h3>
+<sub>By Alan Rappeport, Jim Tankersley and Jeanna Smialek</sub>
+<p>If Congress fails to increase the government’s borrowing limit in time, the result would be a shock to the economy and financial markets.  <a href="https://nyti.ms/3GXMbhq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
