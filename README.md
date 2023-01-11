@@ -60,51 +60,45 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 11, Central Standard Time</p>
 <p>
-Right now in the US, the House has approved a new committee to scrutinize what they claim is an effort by the government to target and silence conservatives. California has also been pounded by a long string of storms, and videos, photos, and maps of the damage have been released. On the Biden front, some classified documents have been found in his private office and are being compared to the Trump case. 
+There are some really wild weather events happening right now in California. People who are homeless are having a particularly difficult time dealing with the rains and trying to stay safe. In other news, there was a disruption in air travel across the U.S. recently when the F.A.A failed. A 5-year-old boy is missing after being swept away during floods in California and people are searching for him. There was also a division in Congress over creating a committee to scrutinize the government&#39;s efforts to target conservatives. And nurses in New York City are on strike at two hospitals creating chaotic scenes.
 
-Worldwide, Peru is facing almost unprecedented levels of violence with 47 people dead as a result so far. Just recently Biden visited Mexico and was able to make some progress with the Mexican president on issues like migration, climate change and drug trade. Lastly, an 18-year-old was elected mayor of a small town in Arkansas called Earle who is hoping to bring some much needed change to his community.</p>
+In entertainment news, the Golden Globes were televised this past weekend and TV stars were enlisted as part of an industry effort to oppose climate action. And finally, Montana is in the spotlight lately as it has shifted toward Christian Nationalism in its politics.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Soaked and Battered by Repeating Rainstorms, California Girds for More</h3>
+<sub>By Victoria Kim, Soumya Karlamangla and Jacey Fortin</sub>
+<p>Extreme weather has plagued many parts of the country this fall and winter. But few places have been as ravaged by the changing climate these last weeks as California.  <a href="https://nyti.ms/3ID0J7m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Storms Hammer California, Homeless Campers Try to Survive Outside</h3>
+<sub>By Shawn Hubler, Livia Albeck-Ripka and Corina Knoll</sub>
+<p>Unlike in colder-weather states, most homeless people in California live on the streets, in cars and along rivers. They are experiencing a long stretch of fierce storms in a way few others are.  <a href="https://nyti.ms/3CE4w0e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘He Was a Great Kid’: Search Resumes for 5-Year-Old Lost in California Floods</h3>
+<sub>By Victoria Kim</sub>
+<p>Kyle Doan was swept out of his mother’s arms after their car was swamped on the way to school on Monday. “It’s so unfair,” his father said.  <a href="https://nyti.ms/3W1U3CA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Flights Grounded Across U.S. After F.A.A. Failure</h3>
+<sub>By Jenny Gross and Daniel Victor</sub>
+<p>The full extent of the delays was not immediately known.  <a href="https://nyti.ms/3QxWlIG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Divided House Approves G.O.P. Inquiry Into ‘Weaponization’ of Government</h3>
 <sub>By Luke Broadwater and Catie Edmondson</sub>
 <p>Republicans pushed through a measure to create a powerful new committee to scrutinize what they have charged is an effort by the government to target and silence conservatives.  <a href="https://nyti.ms/3QwLjTR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Soaked and Battered by Repeating Rainstorms, California Girds for More</h3>
-<sub>By Victoria Kim, Soumya Karlamangla and Jacey Fortin</sub>
-<p>Extreme weather has plagued many parts of the country this fall and winter. But few places have been as savaged by the changing climate these last weeks as California.  <a href="https://nyti.ms/3ID0J7m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Videos, Photos and Maps of the Damage From the California Storms</h3>
-<sub>By Adeel Hassan, Christina Kelso, Zach Levitt, Bea Malsky, Scott Reinhard, Stephen Reiss and Josh Williams</sub>
-<p>A catastrophic string of storms continued to pummel California on Tuesday. Here’s what it looked like.  <a href="https://nyti.ms/3jVEvD6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden ‘Surprised’ to Learn Classified Documents Were Found in Private Office</h3>
-<sub>By Glenn Thrush and Charlie Savage</sub>
-<p>The papers include briefing materials on foreign countries dating from President Biden’s time as vice president.  <a href="https://nyti.ms/3XknGjF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Discovery of Classified Files in Biden’s Office Compares With the Trump Case</h3>
-<sub>By Charlie Savage</sub>
-<p>The Justice Department is scrutinizing how both presidents came to have classified records after they left office. But there are major differences.  <a href="https://nyti.ms/3ZqwZ3k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Death Toll in Peru Rises to 47 Amid Extraordinary Violence</h3>
-<sub>By Mitra Taj, Julie Turkewitz and Genevieve Glatsky</sub>
-<p>“What happened yesterday was really a massacre,” said one human rights activist.  <a href="https://nyti.ms/3Qs9AL0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Perú en crisis: 47 personas han muerto mientras continúa la violencia</h3>
-<sub>By Mitra Taj, Julie Turkewitz and Genevieve Glatsky</sub>
-<p>En un solo día se registraron al menos 17 muertes en el sur del país. “Lo que ocurrió ayer realmente fue una masacre”, dijo una activista de derechos humanos.  <a href="https://nyti.ms/3k0TyeN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>‘Chaotic’ Scenes Inside 2 New York City Hospitals During Nurses’ Strike</h3>
+<sub>By Sharon Otterman</sub>
+<p>Nurses have remained on the picket lines this week at Mount Sinai Hospital and Montefiore Medical Center, which have been less full but still tumultuous as they operate with skeletal staffs.  <a href="https://nyti.ms/3k9pvl3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>Tarnished Golden Globes Return to TV, and Hollywood Plays Along</h3>
@@ -119,22 +113,28 @@ Worldwide, Peru is facing almost unprecedented levels of violence with 47 people
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Defends His Immigration Policy as Summit in Mexico Wraps Up</h3>
-<sub>By Michael D. Shear and Anushka Patil</sub>
-<p>Even as President Biden and the leaders of Canada and Mexico sought to emphasize their shared commitments, the tricky issue of immigration dominated much of the discussion.  <a href="https://nyti.ms/3vUOr2A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Rocky Start, Biden Builds Rapport With Mexico’s President</h3>
-<sub>By Natalie Kitroeff and Michael D. Shear</sub>
-<p>Warm gestures by the American president have helped cement a critical relationship with a Mexican leader whose cooperation on migration, climate change and the drug trade is crucial.  <a href="https://nyti.ms/3CDDsyn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden ‘Surprised’ to Learn Classified Documents Were Found in Private Office</h3>
+<sub>By Glenn Thrush and Charlie Savage</sub>
+<p>The papers include briefing materials on foreign countries dating from President Biden’s time as vice president.  <a href="https://nyti.ms/3XknGjF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An Ailing Arkansas City Elected an 18-Year-Old Mayor to Turn Things Around</h3>
-<sub>By Rick Rojas</sub>
-<p>Residents hope that Jaylen Smith’s youthful energy and sense of purpose can improve the fortunes of Earle, Ark. — or at least attract a supermarket to the small city.  <a href="https://nyti.ms/3W0lQTV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How the Discovery of Classified Files in Biden’s Office Compares With the Trump Case</h3>
+<sub>By Charlie Savage</sub>
+<p>The Justice Department is scrutinizing how both presidents came to have classified records after they left office. But there are major differences.  <a href="https://nyti.ms/3ZqwZ3k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How Montana Took a Hard Right Turn Toward Christian Nationalism</h3>
+<sub>By Abe Streep</sub>
+<p>What happened to a state known for its political independence?  <a href="https://nyti.ms/3Xpo28W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The New Soldiers in Propane’s Fight Against Climate Action: Television Stars</h3>
+<sub>By Hiroko Tabuchi</sub>
+<p>An industry group is spending millions of dollars to push back against efforts to move heating away from oil and gas.  <a href="https://nyti.ms/3XnXtRq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
