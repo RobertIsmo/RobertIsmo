@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 10, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, the House of Representatives has approved a measure to set up a committee to look into allegations that the government is targeting and trying to silence conservatives. There is also serious damage in California from powerful storms. 
-
-Turning to international news, Russia has recorded a budget deficit of over $47 billion for 2022, its second largest since the end of the Soviet Union. Meanwhile, President Biden was recently surprised to learn that classified documents were found in his private office. In Peru, 47 people have died due to extraordinary violence over the past few days. 
-
-Finally, there are some more lighthearted stories! After some rocky starts with Mexico’s president, Joe Biden has been able to build a strong relationship with him, thanks to warm gestures from both sides. In Earle, Arkansas, an 18-year-old named Jaylen Smith was elected mayor in hopes of bringing about positive change for his city, and Prince Harry recently released his memoir &#39;Spare&#39;, which chronicles his struggles with grief and how he eventually overcame it. Finally, there&#39;s an unusual professional wrestler named Danhausen who has risen to stardom by acting weirdly!</p>
+The news this week has highlighted a lot of global conflicts and issues. In the US, the House voted to create a powerful new committee to investigate what has been perceived as the government targeting and silencing conservative voices. Meanwhile in California, a string of massive storms have caused widespread damage. Russia has reported a budget deficit of $47 billion for 2022. To make matters worse, confidential documents were found in Vice President Biden’s office. Unrest and violence is rising in Peru, claiming 47 lives so far. In international news, President Biden has been building a rapport with Mexico’s president in an effort to ally critical relations on migration, climate change and the drug trade. Another 18-year-old just became mayor in Arkansas, while the death of George Pell, an adviser to Pope Francis, was announced after his abuse conviction was overturned. Lastly, Prince Harry released his memoir detailing his struggles with grief and fame. He also mentioned taking psychedelic drugs to cope with his mother’s passing -- so we are now learning more about how it might help people with extreme grief as well.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Divided House Approves G.O.P. Inquiry Into ‘Weaponization’ of Government</h3>
@@ -103,8 +99,8 @@ Finally, there are some more lighthearted stories! After some rocky starts with 
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Perú en crisis: 46 personas han muerto mientras continúa la violencia</h3>
-<sub>By Mitra Taj and Julie Turkewitz</sub>
+<h3>Perú en crisis: 47 personas han muerto mientras continúa la violencia</h3>
+<sub>By Mitra Taj, Julie Turkewitz and Genevieve Glatsky</sub>
 <p>En un solo día se registraron al menos 17 muertes en el sur del país. “Lo que ocurrió ayer realmente fue una masacre”, dijo una activista de derechos humanos.  <a href="https://nyti.ms/3k0TyeN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
@@ -120,6 +116,12 @@ Finally, there are some more lighthearted stories! After some rocky starts with 
 <p>Residents hope that Jaylen Smith’s youthful energy and sense of purpose can improve the fortunes of Earle, Ark. — or at least attract a supermarket to the small city.  <a href="https://nyti.ms/3W0lQTV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>George Pell, Cardinal Whose Abuse Conviction Was Overturned, Dies at 81</h3>
+<sub>By Natasha Frost and Damien Cave</sub>
+<p>An adviser to Pope Francis and a prominent figure in Australia, Cardinal Pell went to prison on charges of abusing two boys in the 1990s, but a higher court later acquitted him.  <a href="https://nyti.ms/3XnozYY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>Prince Harry Learns to Cry, and Takes No Prisoners, in ‘Spare’</h3>
 <sub>By Alexandra Jacobs</sub>
@@ -130,12 +132,6 @@ Finally, there are some more lighthearted stories! After some rocky starts with 
 <h3>What We Know About Treating Extreme Grief With Psychedelics</h3>
 <sub>By Dana G. Smith</sub>
 <p>In his new memoir, Prince Harry talks about taking psychedelics to deal with the ongoing pain over the death of his mother. Here’s what we know and don’t know about their effectiveness.  <a href="https://nyti.ms/3W5pax3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How Danhausen Became Professional Wrestling’s Strangest Star</h3>
-<sub>By Dan Brooks</sub>
-<p>What’s the best way for a not-particularly-athletic barista-slash-wrestling geek to go pro? Act really weird.  <a href="https://nyti.ms/3CCfKTb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
