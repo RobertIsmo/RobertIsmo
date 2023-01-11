@@ -60,31 +60,23 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 10, Central Standard Time</p>
 <p>
-In the US, there has been major weather disasters striking the country recently due to global climate change. California was recently pummeled by storms causing over $1 billion in damage. It could be getting more rain and high winds for days. There is also an ongoing investigation into classified material found in the White House that Biden lawyers stumbled upon. A 18-year-old mayor was elected in Arkansas city to turn things around.
+There is a lot going on in the world right now. In the US, the House of Representatives has approved a measure to set up a committee to look into allegations that the government is targeting and trying to silence conservatives. There is also serious damage in California from powerful storms. 
 
-Europe has recorded its hottest summer ever, while 2022 was the fifth-hottest year on record worldwide. In New York, lawmakers have requested a House Ethics investigation of George Santos due to his financial disclosures.
+Turning to international news, Russia has recorded a budget deficit of over $47 billion for 2022, its second largest since the end of the Soviet Union. Meanwhile, President Biden was recently surprised to learn that classified documents were found in his private office. In Peru, 47 people have died due to extraordinary violence over the past few days. 
 
-In Peru, there is an extraordinary violence which has led to 46 deaths so far and a human rights activist called it a &#39;massacre&#39;. Russia&#39;s budget deficit for 2022 is one of its highest since the post-Soviet era, and a longtime finance chief of Donald Trump was sentenced to 5 months in jail for tax fraud.
-
-Prince Harry released a memoir, &#39;Spare&#39;, which is both emotional and embittered about fame.</p>
+Finally, there are some more lighthearted stories! After some rocky starts with Mexico’s president, Joe Biden has been able to build a strong relationship with him, thanks to warm gestures from both sides. In Earle, Arkansas, an 18-year-old named Jaylen Smith was elected mayor in hopes of bringing about positive change for his city, and Prince Harry recently released his memoir &#39;Spare&#39;, which chronicles his struggles with grief and how he eventually overcame it. Finally, there&#39;s an unusual professional wrestler named Danhausen who has risen to stardom by acting weirdly!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Divided House Approves G.O.P. Inquiry Into ‘Weaponization’ of Government</h3>
+<sub>By Luke Broadwater and Catie Edmondson</sub>
+<p>Republicans pushed through a measure to create a powerful new committee to scrutinize what they have charged is an effort by the government to target and silence conservatives.  <a href="https://nyti.ms/3QwLjTR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Videos, Photos and Maps of the Damage From the California Storms</h3>
-<sub>By Adeel Hassan, Christina Kelso, Scott Reinhard, Stephen Reiss and Josh Williams</sub>
+<sub>By Adeel Hassan, Christina Kelso, Zach Levitt, Bea Malsky, Scott Reinhard, Stephen Reiss and Josh Williams</sub>
 <p>A catastrophic string of storms continued to pummel California on Tuesday. Here’s what it looked like.  <a href="https://nyti.ms/3jVEvD6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California storm damage could top $1 billion.</h3>
-<sub>By Christopher Flavelle</sub>
-<p>Major weather disasters have been striking the United States much more often in recent years as the global climate changes.  <a href="https://nyti.ms/3Xf3ijO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Day-by-Day Look at California’s Weather</h3>
-<sub>By Judson Jones</sub>
-<p>The state, already inundated with water, could see rain and high winds for days.  <a href="https://nyti.ms/3id45Dl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia posts a $47 billion budget deficit for 2022, its second highest in the post-Soviet era.</h3>
@@ -93,14 +85,20 @@ Prince Harry released a memoir, &#39;Spare&#39;, which is both emotional and emb
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Lawyers Found Classified Material at His Former Office</h3>
-<sub>By Peter Baker, Charlie Savage, Glenn Thrush and Adam Goldman</sub>
-<p>The White House said it was cooperating as the Justice Department scrutinizes the matter.  <a href="https://nyti.ms/3CBf0h7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 9, Central Standard Time</sub></sub>
+<h3>Biden ‘Surprised’ to Learn Classified Documents Were Found in Private Office</h3>
+<sub>By Glenn Thrush and Charlie Savage</sub>
+<p>The papers include briefing materials on foreign countries dating from President Biden’s time as vice president.  <a href="https://nyti.ms/3XknGjF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How the Discovery of Classified Files in Biden’s Office Compares With the Trump Case</h3>
+<sub>By Charlie Savage</sub>
+<p>The Justice Department is scrutinizing how both presidents came to have classified records after they left office. But there are major differences.  <a href="https://nyti.ms/3ZqwZ3k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Death Toll in Peru Rises to 46 Amid Extraordinary Violence</h3>
-<sub>By Mitra Taj and Julie Turkewitz</sub>
+<h3>Death Toll in Peru Rises to 47 Amid Extraordinary Violence</h3>
+<sub>By Mitra Taj, Julie Turkewitz and Genevieve Glatsky</sub>
 <p>“What happened yesterday was really a massacre,” said one human rights activist.  <a href="https://nyti.ms/3Qs9AL0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
@@ -110,34 +108,34 @@ Prince Harry released a memoir, &#39;Spare&#39;, which is both emotional and emb
 <p>En un solo día se registraron al menos 17 muertes en el sur del país. “Lo que ocurrió ayer realmente fue una masacre”, dijo una activista de derechos humanos.  <a href="https://nyti.ms/3k0TyeN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump’s Longtime Finance Chief Sentenced to 5 Months in Jail</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
-<p>Allen H. Weisselberg served the family company for decades but agreed to testify about its tax fraud in exchange for a lighter punishment.  <a href="https://nyti.ms/3GUFpsz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Rocky Start, Biden Builds Rapport With Mexico’s President</h3>
+<sub>By Natalie Kitroeff and Michael D. Shear</sub>
+<p>Warm gestures by the American president have helped cement a critical relationship with a Mexican leader whose cooperation on migration, climate change and the drug trade is crucial.  <a href="https://nyti.ms/3CDDsyn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>An Ailing Arkansas City Elected an 18-Year-Old Mayor to Turn Things Around</h3>
 <sub>By Rick Rojas</sub>
-<p>Residents hope that Jaylen Smith’s youthful energy and sense of purpose can improve the fortunes of Earle, Ark. — or at least attract a supermarket to the small city.  <a href="https://nyti.ms/3X2ZLWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Last 8 Years Were the Hottest on Record</h3>
-<sub>By Henry Fountain and Mira Rojanasakul</sub>
-<p>Europe experienced its hottest summer ever, while 2022 was the fifth-hottest year on record worldwide.  <a href="https://nyti.ms/3ICC3M1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>N.Y. Lawmakers Request House Ethics Investigation of George Santos</h3>
-<sub>By Michael Gold</sub>
-<p>Two Democrats filed an official complaint about Mr. Santos’s financial disclosures with the House’s bipartisan ethics committee.  <a href="https://nyti.ms/3CyIaxa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Residents hope that Jaylen Smith’s youthful energy and sense of purpose can improve the fortunes of Earle, Ark. — or at least attract a supermarket to the small city.  <a href="https://nyti.ms/3W0lQTV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>Prince Harry Learns to Cry, and Takes No Prisoners, in ‘Spare’</h3>
 <sub>By Alexandra Jacobs</sub>
 <p>At once emotional and embittered, the royal memoir is mired in a paradox: drawing endless attention in an effort to renounce fame.  <a href="https://nyti.ms/3k1CBku"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>What We Know About Treating Extreme Grief With Psychedelics</h3>
+<sub>By Dana G. Smith</sub>
+<p>In his new memoir, Prince Harry talks about taking psychedelics to deal with the ongoing pain over the death of his mother. Here’s what we know and don’t know about their effectiveness.  <a href="https://nyti.ms/3W5pax3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How Danhausen Became Professional Wrestling’s Strangest Star</h3>
+<sub>By Dan Brooks</sub>
+<p>What’s the best way for a not-particularly-athletic barista-slash-wrestling geek to go pro? Act really weird.  <a href="https://nyti.ms/3CCfKTb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
