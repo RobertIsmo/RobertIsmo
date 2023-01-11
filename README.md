@@ -60,13 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 11, Central Standard Time</p>
 <p>
-Hi friend! There&#39;s been a lot of news lately, and here are some of the big stories: 
-In the US, a divided House approved GOP plans to investigate how the government is using its powers against conservatives. In California there have been catastrophic storms that caused a lot of damage. 
-Worldwide, there has been bloodshed as Russia takes control of an important town in Ukraine, which is now locked in a war zone. Meanwhile, President Biden is facing questions about classified documents in his office. There are also comparisons to what happened with President Trump&#39;s office.
+Right now in the US, the House has approved a new committee to scrutinize what they claim is an effort by the government to target and silence conservatives. California has also been pounded by a long string of storms, and videos, photos, and maps of the damage have been released. On the Biden front, some classified documents have been found in his private office and are being compared to the Trump case. 
 
-In Peru, the death toll from violence has risen to 47, leaving activists shocked over what they describe as a &quot;massacre&quot;. On a more positive note, the Golden Globes Awards were recently televised and there was good anticipation around who&#39;d win.
-
-Finally - this week President Biden wrapped up a visit to Mexico where he discussed important topics like immigration, climate change and drug trafficking. Despite some rocky moments, it looks like he managed to build up rapport with Mexico&#39;s leader. On the home front, we have an 18 year old Mayor in Earle Arkansas trying to turn things around - and locals hoping that his energy might help bring in some new businesses like maybe even a supermarket!</p>
+Worldwide, Peru is facing almost unprecedented levels of violence with 47 people dead as a result so far. Just recently Biden visited Mexico and was able to make some progress with the Mexican president on issues like migration, climate change and drug trade. Lastly, an 18-year-old was elected mayor of a small town in Arkansas called Earle who is hoping to bring some much needed change to his community.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Divided House Approves G.O.P. Inquiry Into ‘Weaponization’ of Government</h3>
@@ -75,15 +71,15 @@ Finally - this week President Biden wrapped up a visit to Mexico where he discus
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Soaked and Battered by Repeating Rainstorms, California Girds for More</h3>
+<sub>By Victoria Kim, Soumya Karlamangla and Jacey Fortin</sub>
+<p>Extreme weather has plagued many parts of the country this fall and winter. But few places have been as savaged by the changing climate these last weeks as California.  <a href="https://nyti.ms/3ID0J7m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Videos, Photos and Maps of the Damage From the California Storms</h3>
 <sub>By Adeel Hassan, Christina Kelso, Zach Levitt, Bea Malsky, Scott Reinhard, Stephen Reiss and Josh Williams</sub>
 <p>A catastrophic string of storms continued to pummel California on Tuesday. Here’s what it looked like.  <a href="https://nyti.ms/3jVEvD6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Mercenary Group Says It Has Taken Contested Ukrainian Town</h3>
-<sub>By Megan Specia, Ivan Nechepurenko and Thomas Gibbons-Neff</sub>
-<p>With a harsh winter putting sweeping offensives on hold, the war has shifted back to bloody battles of attrition like the one for the small city of Bakhmut and the smaller town of Soledar.  <a href="https://nyti.ms/3IEAayH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
