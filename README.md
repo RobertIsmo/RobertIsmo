@@ -58,9 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, January 10, Central Standard Time</p>
+<p>It is Wednesday, January 11, Central Standard Time</p>
 <p>
-The news this week has highlighted a lot of global conflicts and issues. In the US, the House voted to create a powerful new committee to investigate what has been perceived as the government targeting and silencing conservative voices. Meanwhile in California, a string of massive storms have caused widespread damage. Russia has reported a budget deficit of $47 billion for 2022. To make matters worse, confidential documents were found in Vice President Biden’s office. Unrest and violence is rising in Peru, claiming 47 lives so far. In international news, President Biden has been building a rapport with Mexico’s president in an effort to ally critical relations on migration, climate change and the drug trade. Another 18-year-old just became mayor in Arkansas, while the death of George Pell, an adviser to Pope Francis, was announced after his abuse conviction was overturned. Lastly, Prince Harry released his memoir detailing his struggles with grief and fame. He also mentioned taking psychedelic drugs to cope with his mother’s passing -- so we are now learning more about how it might help people with extreme grief as well.</p>
+Hi friend! There&#39;s been a lot of news lately, and here are some of the big stories: 
+In the US, a divided House approved GOP plans to investigate how the government is using its powers against conservatives. In California there have been catastrophic storms that caused a lot of damage. 
+Worldwide, there has been bloodshed as Russia takes control of an important town in Ukraine, which is now locked in a war zone. Meanwhile, President Biden is facing questions about classified documents in his office. There are also comparisons to what happened with President Trump&#39;s office.
+
+In Peru, the death toll from violence has risen to 47, leaving activists shocked over what they describe as a &quot;massacre&quot;. On a more positive note, the Golden Globes Awards were recently televised and there was good anticipation around who&#39;d win.
+
+Finally - this week President Biden wrapped up a visit to Mexico where he discussed important topics like immigration, climate change and drug trafficking. Despite some rocky moments, it looks like he managed to build up rapport with Mexico&#39;s leader. On the home front, we have an 18 year old Mayor in Earle Arkansas trying to turn things around - and locals hoping that his energy might help bring in some new businesses like maybe even a supermarket!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Divided House Approves G.O.P. Inquiry Into ‘Weaponization’ of Government</h3>
@@ -75,9 +81,9 @@ The news this week has highlighted a lot of global conflicts and issues. In the 
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia posts a $47 billion budget deficit for 2022, its second highest in the post-Soviet era.</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>The budget gap reached 3.3 trillion rubles, or 2.3 percent of the size of the Russian economy, according to the country’s finance minister.  <a href="https://nyti.ms/3k14061"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russian Mercenary Group Says It Has Taken Contested Ukrainian Town</h3>
+<sub>By Megan Specia, Ivan Nechepurenko and Thomas Gibbons-Neff</sub>
+<p>With a harsh winter putting sweeping offensives on hold, the war has shifted back to bloody battles of attrition like the one for the small city of Bakhmut and the smaller town of Soledar.  <a href="https://nyti.ms/3IEAayH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,6 +110,24 @@ The news this week has highlighted a lot of global conflicts and issues. In the 
 <p>En un solo día se registraron al menos 17 muertes en el sur del país. “Lo que ocurrió ayer realmente fue una masacre”, dijo una activista de derechos humanos.  <a href="https://nyti.ms/3k0TyeN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Tarnished Golden Globes Return to TV, and Hollywood Plays Along</h3>
+<sub>By Brooks Barnes</sub>
+<p>Amid a few awkward moments, the industry’s stars mostly embraced the chance to accept film and TV trophies in hopes of a bump in business and award-season momentum.  <a href="https://nyti.ms/3k9rCWl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Golden Globes Winners 2023: The Complete List</h3>
+<sub>By Gabe Cohn</sub>
+<p>The winning films, TV shows, actors and production teams at the 2023 Golden Globe Awards.  <a href="https://nyti.ms/3CAaTBK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Defends His Immigration Policy as Summit in Mexico Wraps Up</h3>
+<sub>By Michael D. Shear and Anushka Patil</sub>
+<p>Even as President Biden and the leaders of Canada and Mexico sought to emphasize their shared commitments, the tricky issue of immigration dominated much of the discussion.  <a href="https://nyti.ms/3vUOr2A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Rocky Start, Biden Builds Rapport With Mexico’s President</h3>
 <sub>By Natalie Kitroeff and Michael D. Shear</sub>
@@ -114,24 +138,6 @@ The news this week has highlighted a lot of global conflicts and issues. In the 
 <h3>An Ailing Arkansas City Elected an 18-Year-Old Mayor to Turn Things Around</h3>
 <sub>By Rick Rojas</sub>
 <p>Residents hope that Jaylen Smith’s youthful energy and sense of purpose can improve the fortunes of Earle, Ark. — or at least attract a supermarket to the small city.  <a href="https://nyti.ms/3W0lQTV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>George Pell, Cardinal Whose Abuse Conviction Was Overturned, Dies at 81</h3>
-<sub>By Natasha Frost and Damien Cave</sub>
-<p>An adviser to Pope Francis and a prominent figure in Australia, Cardinal Pell went to prison on charges of abusing two boys in the 1990s, but a higher court later acquitted him.  <a href="https://nyti.ms/3XnozYY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Prince Harry Learns to Cry, and Takes No Prisoners, in ‘Spare’</h3>
-<sub>By Alexandra Jacobs</sub>
-<p>At once emotional and embittered, the royal memoir is mired in a paradox: drawing endless attention in an effort to renounce fame.  <a href="https://nyti.ms/3k1CBku"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>What We Know About Treating Extreme Grief With Psychedelics</h3>
-<sub>By Dana G. Smith</sub>
-<p>In his new memoir, Prince Harry talks about taking psychedelics to deal with the ongoing pain over the death of his mother. Here’s what we know and don’t know about their effectiveness.  <a href="https://nyti.ms/3W5pax3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
