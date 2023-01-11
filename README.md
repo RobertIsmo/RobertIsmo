@@ -60,36 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 11, Central Standard Time</p>
 <p>
-There is quite a lot going on in the world right now. Businesswise, the Federal Aviation Administration has issued a groundstop due to a Notice to Air Mission (NOTAM). At the same time, California is being hit by heavy storms and homeless people are having difficulty surviving. On top of that, the United States House of Representatives has approved an inquiry into what they believe is the U.S. government&#39;s attempt to target conservative voices. Meanwhile, the IRS backlog issue continues as Republicans apply more pressure and it&#39;s causing major problems for taxpayers. 
-
-In New York City, nurses have been on strike at two hospitals and there has been reported chaos during this time. The Supreme Court has decided to leave a new gun law in place related to carrying firearms in public which was enacted in response to a June ruling that impacted gun control. 
-
-The Golden Globes returned on TV with some awkward moments but relative success; several winners took home film and TV trophies to hopefully get a business and award season boost. However, it remains to be seen whether its legitimacy as an awards show will recover or not.
-
-Finally, President Joe Biden was apparently unaware that classified documents were found in his private office, containing briefing materials from his time as vice president. The U.S. Justice Department is currently looking into how both President Biden and former President Trump came to possess such documents after leaving office, with some key differences between the two cases.</p>
+There have been some troubling developments lately in the world. In the U.S., Republicans have started to launch investigations against the newly elected Biden administration and a Republican congressman-elect has been accused of exaggerating his resume. On top of that, a number of flight delays caused chaos and frustration for airline passengers in recent weeks. Globally, people are still struggling to cope with indoor air pollution from gas stoves and plastic continues to be a huge environmental issue. Additionally, Christian Nationalism is on the rise in Montana.</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Faces Calls to Resign From Long Island G.O.P. Leaders</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>The rejection by Republican leaders in Nassau County is the sharpest denunciation from Mr. Santos’s party, whose leaders in Washington have mostly stayed mum.  <a href="https://nyti.ms/3izdipx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Who Is Rep.-Elect George Santos? His Résumé May Be Largely Fiction.</h3>
+<sub>By Grace Ashford and Michael Gold</sub>
+<p>Mr. Santos, a Republican from New York, says he’s the “embodiment of the American dream.” But he seems to have misrepresented a number of his career highlights.  <a href="https://nyti.ms/3Wsx7x7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What is NOTAM? Here’s what caused the F.A.A. groundstop.</h3>
 <sub>By Niraj Chokshi</sub>
 <p>NOTAM alerts — short for Notice to Air Mission — are crucial to planning flights.  <a href="https://nyti.ms/3GYhcS4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Storms Hammer California, Homeless Campers Try to Survive Outside</h3>
-<sub>By Shawn Hubler, Livia Albeck-Ripka and Corina Knoll</sub>
-<p>Unlike in colder-weather states, most homeless people in California live on the streets, in cars and along rivers. They are experiencing a long stretch of fierce storms in a way few others are.  <a href="https://nyti.ms/3CE4w0e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Once Again, Thousands of Airline Passengers Were Left Confused and Frustrated</h3>
+<sub>By Daniel Victor</sub>
+<p>For the second time in recent weeks, the U.S. airline industry faced major delays. This time, it wasn’t the airlines’ fault.  <a href="https://nyti.ms/3GYyuOY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Divided House Approves G.O.P. Inquiry Into ‘Weaponization’ of Government</h3>
-<sub>By Luke Broadwater and Catie Edmondson</sub>
-<p>Republicans pushed through a measure to create a powerful new committee to scrutinize what they have charged is an effort by the government to target and silence conservatives.  <a href="https://nyti.ms/3QwLjTR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<h3>Comer Asks Treasury for Biden Family Financial Records as G.O.P. Inquiries Begin</h3>
+<sub>By Luke Broadwater</sub>
+<p>With Republicans in control of the House, they have begun to unleash the cascade of investigations of the Biden administration that they have long promised.  <a href="https://nyti.ms/3XqoRho"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>I.R.S. Backlogs Continue as Republicans Mount Offensive</h3>
 <sub>By Alan Rappeport</sub>
 <p>The National Taxpayer Advocate expressed hope that better days were ahead for the tax collection agency.  <a href="https://nyti.ms/3k7HBUN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>N.F.L.’s Damar Hamlin Released From Buffalo Hospital After Jarring Injury</h3>
+<sub>By Jenny Vrentas</sub>
+<p>Hamlin was expected to continue his recovery from cardiac arrest at home and with his team, the Buffalo Bills.  <a href="https://nyti.ms/3kaBcIx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Trying to Live a Day Without Plastic</h3>
+<sub>By A. J. Jacobs</sub>
+<p>It’s all around us, despite its adverse effects on the planet. In a 24-hour experiment, our reporter tried to go plastic free.  <a href="https://nyti.ms/3VYemAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -98,47 +116,23 @@ Finally, President Joe Biden was apparently unaware that classified documents we
 <p>Nurses have remained on the picket lines this week at Mount Sinai Hospital and Montefiore Medical Center, which have been less full but still tumultuous as they operate with skeletal staffs.  <a href="https://nyti.ms/3k9pvl3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Leaves New York’s New Gun Law in Place for Now</h3>
-<sub>By Adam Liptak</sub>
-<p>The law, enacted in response to a decision in June striking down a restrictive gun control law, imposed new requirements on carrying guns in public.  <a href="https://nyti.ms/3iyDHDZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>R.J. Reynolds Pivots to New Cigarette Pitches as Flavor Ban Takes Effect</h3>
+<sub>By Christina Jewett and Emily Baumgaertner</sub>
+<p>Now that California’s tobacco prohibitions are in place, some Camel and Newport items are billed as newly “fresh” or “crisp” non-menthol versions.  <a href="https://nyti.ms/3GZw3Mp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Tarnished Golden Globes Return to TV, and Hollywood Plays Along</h3>
-<sub>By Brooks Barnes</sub>
-<p>Amid a few awkward moments, the industry’s stars mostly embraced the chance to accept film and TV trophies in hopes of a bump in business and award-season momentum.  <a href="https://nyti.ms/3k9rCWl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Golden Globes Winners 2023: The Complete List</h3>
-<sub>By Gabe Cohn</sub>
-<p>The winning films, TV shows, actors and production teams at the 2023 Golden Globe Awards.  <a href="https://nyti.ms/3CAaTBK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Golden Globes Were Too Big to Fail</h3>
-<sub>By James Poniewozik</sub>
-<p>Did the awards get their legitimacy back? You can’t regain what you never had.  <a href="https://nyti.ms/3vSk0Ki"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Ban Gas Stoves? Just the Idea Gets Some in Washington Boiling.</h3>
+<sub>By Elena Shao and Lisa Friedman</sub>
+<p>The nation’s top consumer watchdog agency raised concerns about indoor air pollution from gas stoves. A political firestorm ensued.  <a href="https://nyti.ms/3k6DzvO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>On the Golden Globes Red Carpet, a Night of Statement-Making</h3>
-<sub>By Vanessa Friedman</sub>
-<p>The awards show returned, and so did major dressing up.  <a href="https://nyti.ms/3W2l5dc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How Montana Took a Hard Right Turn Toward Christian Nationalism</h3>
+<sub>By Abe Streep</sub>
+<p>What happened to a state known for its political independence?  <a href="https://nyti.ms/3Xpo28W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden ‘Surprised’ to Learn Classified Documents Were Found in Private Office</h3>
-<sub>By Glenn Thrush and Charlie Savage</sub>
-<p>The papers include briefing materials on foreign countries dating from President Biden’s time as vice president.  <a href="https://nyti.ms/3XknGjF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Discovery of Classified Files in Biden’s Office Compares With the Trump Case</h3>
-<sub>By Charlie Savage</sub>
-<p>The Justice Department is scrutinizing how both presidents came to have classified records after they left office. But there are major differences.  <a href="https://nyti.ms/3ZqwZ3k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
