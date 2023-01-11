@@ -60,15 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 11, Central Standard Time</p>
 <p>
-There are some really wild weather events happening right now in California. People who are homeless are having a particularly difficult time dealing with the rains and trying to stay safe. In other news, there was a disruption in air travel across the U.S. recently when the F.A.A failed. A 5-year-old boy is missing after being swept away during floods in California and people are searching for him. There was also a division in Congress over creating a committee to scrutinize the government&#39;s efforts to target conservatives. And nurses in New York City are on strike at two hospitals creating chaotic scenes.
+There is quite a lot going on in the world right now. Businesswise, the Federal Aviation Administration has issued a groundstop due to a Notice to Air Mission (NOTAM). At the same time, California is being hit by heavy storms and homeless people are having difficulty surviving. On top of that, the United States House of Representatives has approved an inquiry into what they believe is the U.S. government&#39;s attempt to target conservative voices. Meanwhile, the IRS backlog issue continues as Republicans apply more pressure and it&#39;s causing major problems for taxpayers. 
 
-In entertainment news, the Golden Globes were televised this past weekend and TV stars were enlisted as part of an industry effort to oppose climate action. And finally, Montana is in the spotlight lately as it has shifted toward Christian Nationalism in its politics.</p>
+In New York City, nurses have been on strike at two hospitals and there has been reported chaos during this time. The Supreme Court has decided to leave a new gun law in place related to carrying firearms in public which was enacted in response to a June ruling that impacted gun control. 
+
+The Golden Globes returned on TV with some awkward moments but relative success; several winners took home film and TV trophies to hopefully get a business and award season boost. However, it remains to be seen whether its legitimacy as an awards show will recover or not.
+
+Finally, President Joe Biden was apparently unaware that classified documents were found in his private office, containing briefing materials from his time as vice president. The U.S. Justice Department is currently looking into how both President Biden and former President Trump came to possess such documents after leaving office, with some key differences between the two cases.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Soaked and Battered by Repeating Rainstorms, California Girds for More</h3>
-<sub>By Victoria Kim, Soumya Karlamangla and Jacey Fortin</sub>
-<p>Extreme weather has plagued many parts of the country this fall and winter. But few places have been as ravaged by the changing climate these last weeks as California.  <a href="https://nyti.ms/3ID0J7m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What is NOTAM? Here’s what caused the F.A.A. groundstop.</h3>
+<sub>By Niraj Chokshi</sub>
+<p>NOTAM alerts — short for Notice to Air Mission — are crucial to planning flights.  <a href="https://nyti.ms/3GYhcS4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Storms Hammer California, Homeless Campers Try to Survive Outside</h3>
@@ -77,27 +81,27 @@ In entertainment news, the Golden Globes were televised this past weekend and TV
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘He Was a Great Kid’: Search Resumes for 5-Year-Old Lost in California Floods</h3>
-<sub>By Victoria Kim</sub>
-<p>Kyle Doan was swept out of his mother’s arms after their car was swamped on the way to school on Monday. “It’s so unfair,” his father said.  <a href="https://nyti.ms/3W1U3CA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Flights Grounded Across U.S. After F.A.A. Failure</h3>
-<sub>By Jenny Gross and Daniel Victor</sub>
-<p>The full extent of the delays was not immediately known.  <a href="https://nyti.ms/3QxWlIG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Divided House Approves G.O.P. Inquiry Into ‘Weaponization’ of Government</h3>
 <sub>By Luke Broadwater and Catie Edmondson</sub>
 <p>Republicans pushed through a measure to create a powerful new committee to scrutinize what they have charged is an effort by the government to target and silence conservatives.  <a href="https://nyti.ms/3QwLjTR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>I.R.S. Backlogs Continue as Republicans Mount Offensive</h3>
+<sub>By Alan Rappeport</sub>
+<p>The National Taxpayer Advocate expressed hope that better days were ahead for the tax collection agency.  <a href="https://nyti.ms/3k7HBUN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>‘Chaotic’ Scenes Inside 2 New York City Hospitals During Nurses’ Strike</h3>
 <sub>By Sharon Otterman</sub>
 <p>Nurses have remained on the picket lines this week at Mount Sinai Hospital and Montefiore Medical Center, which have been less full but still tumultuous as they operate with skeletal staffs.  <a href="https://nyti.ms/3k9pvl3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Leaves New York’s New Gun Law in Place for Now</h3>
+<sub>By Adam Liptak</sub>
+<p>The law, enacted in response to a decision in June striking down a restrictive gun control law, imposed new requirements on carrying guns in public.  <a href="https://nyti.ms/3iyDHDZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -112,6 +116,18 @@ In entertainment news, the Golden Globes were televised this past weekend and TV
 <p>The winning films, TV shows, actors and production teams at the 2023 Golden Globe Awards.  <a href="https://nyti.ms/3CAaTBK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The Golden Globes Were Too Big to Fail</h3>
+<sub>By James Poniewozik</sub>
+<p>Did the awards get their legitimacy back? You can’t regain what you never had.  <a href="https://nyti.ms/3vSk0Ki"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>On the Golden Globes Red Carpet, a Night of Statement-Making</h3>
+<sub>By Vanessa Friedman</sub>
+<p>The awards show returned, and so did major dressing up.  <a href="https://nyti.ms/3W2l5dc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden ‘Surprised’ to Learn Classified Documents Were Found in Private Office</h3>
 <sub>By Glenn Thrush and Charlie Savage</sub>
@@ -123,18 +139,6 @@ In entertainment news, the Golden Globes were televised this past weekend and TV
 <sub>By Charlie Savage</sub>
 <p>The Justice Department is scrutinizing how both presidents came to have classified records after they left office. But there are major differences.  <a href="https://nyti.ms/3ZqwZ3k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How Montana Took a Hard Right Turn Toward Christian Nationalism</h3>
-<sub>By Abe Streep</sub>
-<p>What happened to a state known for its political independence?  <a href="https://nyti.ms/3Xpo28W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The New Soldiers in Propane’s Fight Against Climate Action: Television Stars</h3>
-<sub>By Hiroko Tabuchi</sub>
-<p>An industry group is spending millions of dollars to push back against efforts to move heating away from oil and gas.  <a href="https://nyti.ms/3XnXtRq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
