@@ -58,20 +58,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, January 11, Central Standard Time</p>
+<p>It is Thursday, January 12, Central Standard Time</p>
 <p>
-Right now, there are a few major things going on in the world. In the U.S., there are questions being raised over former President Donald Trump&#39;s handling of documents and President Biden&#39;s retaining of classified documents. There&#39;s also an ongoing special counsel investigation into Trump, and 4 GOP Congressmen calling for George Santos to resign from office due to past lies. Plus, Hunter Biden&#39;s tangled legal issues are coming to the forefront with potential indictments and hearings, and House Republicans plan to investigate the Biden administration for potential impeachment. On an international level, Russia has replaced its war commander for the conflict in Ukraine and is facing signs of internal dissension. Lastly, California is experiencing storms that might or might not end their drought, creating weather whiplash that could be worrying for many Californians.</p>
+Things are getting pretty wild out there lately! The US is dealing with political issues, as a recent discovery of classified records raise questions on Biden&#39;s handling of documents and a member of the GOP facing calls to resign. In Brazil there were riots that broke out due to a severe shortfall of security forces. Meanwhile, in California they&#39;ve been hit by pounding rains and flooding, followed by quick swings between wet and dry periods. On top of this, the Federal Aviation Administration had to halt all flights recently after their system to alert pilots of safety issues went down.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Discovery of More Classified Records Raises Questions Over Biden’s Handling of Documents</h3>
 <sub>By Glenn Thrush</sub>
 <p>The revelation is sure to intensify Republican attacks on the president, who has called former President Donald J. Trump irresponsible for hoarding sensitive documents at his estate in Florida.  <a href="https://nyti.ms/3GCx6jK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Special Counsel Investigating Trump Faces Headwinds Few Others Have</h3>
-<sub>By Katie Benner, Adam Goldman, Glenn Thrush and Maggie Haberman</sub>
-<p>Jack Smith’s challenges include a newly empowered Republican House majority and the recent disclosures of President Biden’s retention of classified documents.  <a href="https://nyti.ms/3QN005H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -132,6 +126,12 @@ Right now, there are a few major things going on in the world. In the U.S., ther
 <h3>Will Storms End California’s Drought? That May Be the Wrong Question</h3>
 <sub>By Henry Fountain</sub>
 <p>California has experienced what one researcher described as “weather whiplash” with quick swings between wet and dry periods.  <a href="https://nyti.ms/3vTIHGn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Moment the Brazil Rioters Broke Through: Exclusive Video</h3>
+<sub>By Jack Nicas, André Spigariol, Flávia Milhorance and Ana Ionova</sub>
+<p>The invasion of Brazil’s halls of power began with a severe shortfall of security forces.  <a href="https://nyti.ms/3Xqbr54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
