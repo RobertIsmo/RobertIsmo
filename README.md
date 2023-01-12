@@ -60,19 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 12, Central Standard Time</p>
 <p>
-Things are getting pretty wild out there lately! The US is dealing with political issues, as a recent discovery of classified records raise questions on Biden&#39;s handling of documents and a member of the GOP facing calls to resign. In Brazil there were riots that broke out due to a severe shortfall of security forces. Meanwhile, in California they&#39;ve been hit by pounding rains and flooding, followed by quick swings between wet and dry periods. On top of this, the Federal Aviation Administration had to halt all flights recently after their system to alert pilots of safety issues went down.</p>
+There is a lot going on in the world right now! The Chinese government is attempting to become more business friendly and make changes to help the economy, while investors are cautious about corporate financial results because of the pandemic. Here in the US, President Biden is facing questions about his handling of classified documents, and Governor Youngkin of Virginia may be running for president. Meanwhile, travel has been slowly rebounding as people look for new places to explore, even as the US is trying to fight back against Chinese outposts that collect intelligence outside their jurisdiction. Closer to home, nurses in NYC recently went on strike but have since reached a deal. On a more personal level, AI has been providing us with more attention than ever with its face filters and selfie apps. Lastly, there is data showing that Black real estate agents and brokers are not compensated as much as their white peers.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Discovery of More Classified Records Raises Questions Over Biden’s Handling of Documents</h3>
-<sub>By Glenn Thrush</sub>
-<p>The revelation is sure to intensify Republican attacks on the president, who has called former President Donald J. Trump irresponsible for hoarding sensitive documents at his estate in Florida.  <a href="https://nyti.ms/3GCx6jK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>From Disciplinarian to Cheerleader: Why China Is Changing Its Tone on Business</h3>
+<sub>By Daisuke Wakabayashi and Claire Fu</sub>
+<p>With the economy in a fragile state, Chinese officials are starting to use more business-friendly language, and also to back their words with action.  <a href="https://nyti.ms/3IION46"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Investors Look to Corporate Reports With Low Expectations</h3>
+<sub>By Joe Rennison</sub>
+<p>As companies prepare to publish their latest financial results, Wall Street forecasters expect profits to fall for the first time since the early days of the pandemic.  <a href="https://nyti.ms/3GwDhWJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Faces Calls to Resign From 4 G.O.P. Congressmen</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>Republican officials in New York sharply denounced the embattled representative, even as leaders in Washington have said they will not push him to step down.  <a href="https://nyti.ms/3izdipx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<h3>The Mysterious, Unregistered Fund That Raised Big Money for Santos</h3>
+<sub>By Alexandra Berzon and Grace Ashford</sub>
+<p>A review of records and newly uncovered documents reveals that efforts to elect George Santos may have run afoul of campaign finance rules.  <a href="https://nyti.ms/3GyZ5kj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos’s Secret Résumé: A Wall Street Star With a 3.9 G.P.A.</h3>
@@ -81,57 +87,51 @@ Things are getting pretty wild out there lately! The US is dealing with politica
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Résumé of George Santos</h3>
+<h3>Discovery of More Classified Records Raises Questions Over Biden’s Handling of Documents</h3>
+<sub>By Glenn Thrush</sub>
+<p>The revelation is sure to intensify Republican attacks on the president, who has called former President Donald J. Trump irresponsible for hoarding sensitive documents at his estate in Florida.  <a href="https://nyti.ms/3GCx6jK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>52 Places to Go in 2023</h3>
 <sub></sub>
-<p>A copy of a two-page version of his résumé, obtained by The Times, is the first that has become public.  <a href="https://nyti.ms/3CIFX2a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hunter Biden’s Tangled Tale Comes Front and Center</h3>
-<sub>By Adam Entous, Michael S. Schmidt and Katie Benner</sub>
-<p>Federal prosecutors could decide soon whether to indict the president’s son on tax and gun charges, and he faces a fresh round of hostile congressional hearings. But a close look at his story shows that it differs in important ways from the narrative promoted by Republicans.  <a href="https://nyti.ms/3iqI1Fn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Are All the Ways Republicans Plan to Investigate Biden</h3>
-<sub>By Luke Broadwater</sub>
-<p>House Republicans are preparing a cascade of investigations, some overlapping, into the Biden administration and its policies. Right-wing lawmakers have said the ultimate goal is to impeach the president.  <a href="https://nyti.ms/3W2gM1C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<p>Travel’s rebound has revealed the depth of our drive to explore the world. Why do we travel? For food, culture, adventure, natural beauty? This year’s list has all those elements, and more.  <a href="https://nyti.ms/3vXlHWQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Replaces Commander for Ukraine War, as Signs of Dissension Grow</h3>
+<h3>With F.B.I. Search, U.S. Escalates Global Fight Over Chinese Police Outposts</h3>
+<sub>By Megha Rajagopalan and William K. Rashbaum</sub>
+<p>Beijing says the outposts aren’t doing police work, but Chinese state media reports say they “collect intelligence” and solve crimes far outside their jurisdiction.  <a href="https://nyti.ms/3QAWBGE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Nurses Strike Ends at Two New York City Hospitals</h3>
+<sub>By Sharon Otterman and Jenny Gross</sub>
+<p>Nurses at Montefiore Medical Center in the Bronx and Mount Sinai in Manhattan will return to work after reaching tentative deals, union leaders said.  <a href="https://nyti.ms/3kc2Ft3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With the battle for Soledar, the founder of a mercenary army seeks a bigger role in Russia’s power structure.</h3>
 <sub>By Anatoly Kurmanaev</sub>
-<p>Allies of President Vladimir V. Putin contradicted each other about battlefield progress, as a war command shake-up put another Kremlin loyalist in charge.  <a href="https://nyti.ms/3W53gdz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Jeff Beck, Guitarist With a Chapter in Rock History, Dies at 78</h3>
-<sub>By Jim Farber</sub>
-<p>His playing with the Yardbirds and as leader of his own bands brought a sense of adventure to their groundbreaking recordings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>F.A.A. Outage Highlights Fragility of the Aviation System</h3>
-<sub>By Niraj Chokshi and Mark Walker</sub>
-<p>The Federal Aviation Administration halted flights Wednesday morning after a system to alert pilots to safety issues went down, just two weeks after a major Southwest Airlines meltdown.  <a href="https://nyti.ms/3ixkDG8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>  <a href="https://nyti.ms/3VYmvFr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Glimpsing Blue Skies, California Cleans Itself Up and Braces for the Next Storm</h3>
-<sub>By Shawn Hubler, Victoria Kim, Corina Knoll and Jacey Fortin</sub>
-<p>After pounding rains that flooded roads and brought down hillsides and trees, the state is catching its breath during a short dry spell.  <a href="https://nyti.ms/3W8wZ5c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<h3>His Star Rising, Youngkin Juggles Local Issues and National Ambition</h3>
+<sub>By Trip Gabriel</sub>
+<p>Virginia’s Republican governor is considering a presidential run, but a divided state legislature may thwart his ambitions for conservative policy victories.  <a href="https://nyti.ms/3QAWDyg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Will Storms End California’s Drought? That May Be the Wrong Question</h3>
-<sub>By Henry Fountain</sub>
-<p>California has experienced what one researcher described as “weather whiplash” with quick swings between wet and dry periods.  <a href="https://nyti.ms/3vTIHGn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Selling Houses While Black</h3>
+<sub>By Colette Coleman</sub>
+<p>About 6 percent of real estate agents and brokers  in the United States are Black. Their white peers make almost three times as much, according to data and surveys.  <a href="https://nyti.ms/3QAWx9S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Moment the Brazil Rioters Broke Through: Exclusive Video</h3>
-<sub>By Jack Nicas, André Spigariol, Flávia Milhorance and Ana Ionova</sub>
-<p>The invasion of Brazil’s halls of power began with a severe shortfall of security forces.  <a href="https://nyti.ms/3Xqbr54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>AI’s Best Trick Yet Is Showering Us With Attention</h3>
+<sub>By Sophie Haigney</sub>
+<p>Face filters and selfie apps are so compelling because they simulate limitless interest in what we look like.  <a href="https://nyti.ms/3X3WSV0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
