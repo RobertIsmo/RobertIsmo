@@ -60,16 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 12, Central Standard Time</p>
 <p>
-I have some news about what&#39;s happening in the world. A statement from the White House recently confirmed that a second set of classified documents have been found at Biden&#39;s Wilmington home. Additionally, inflation rates are up as rent prices stayed steady even though car prices dropped. The U.S. is also dealing with an egg supply shortage due to an avian flu outbreak and increasing costs of fuel and feed which has resulted in higher prices.
-
-In China, officials are trying to take a more business-friendly approach to encourage economic growth by using more encouraging language. Back stateside, records and documents have revealed some irregularities concerning funds raised by George Santos who was recently elected to Congress. His résumé was found to be hiding lies that would have otherwise disqualified him for the position.
-
-Lastly, there&#39;s a lot of travel news! A list of 52 places to go in 2023 was recently released, while worldwide the US is escalating its fight with China regarding outposts collecting intelligence across their own jurisdiction. On the domestic level, two NYC hospitals were on strike recently but fortunately, action and negotiations ended this recently. And finally, a young politician in Virginia named Glenn Youngkin may be considering running for president but his ambitions could be undermined by a divided state legislature.</p>
+There is a lot going on in the world these days! A Justice Department investigation is looking into how former Presidents Trump and Biden acquired classified documents after leaving office. In business, the latest inflation report revealed rent prices remain rapid, despite car prices falling. Additionally, there is a current egg supply shortage in some parts of the country due to an avian flu outbreak and increasing production costs. On the political front, a review of records uncovered suspicious fundraising efforts for George Santos&#39; congressional run, as well as many lies that were found in his résumé when he ran for Congress.  On the brighter side, people are eager to travel and explore yet again, but there&#39;s U.S. scrutiny of police outposts by China around the globe. Closer to home, a &quot;Geezer Happy Hour&quot; has become incredibly popular with those over 65 years old enjoying the music like it was decades before. Finally, there have been fraud allegations against a crypto currency mogul and Sam Bankman-Fried responded that customers can still get their deposits back. As far as music goes, Jeff Beck passed away this week and there are plenty of essential songs showcasing his range and intensity released from 1966 to 2010 that have made him a legend.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Second Set of Classified Documents Were Found at Biden’s Wilmington Home, White House Says</h3>
+<h3>How Biden’s Discovery of Classified Files Compares With the Trump Case</h3>
 <sub>By Charlie Savage</sub>
-<p>A statement by the president’s special counsel confirmed reports that more documents had been uncovered after a previous batch was found at a think tank.  <a href="https://nyti.ms/3XcRnnm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Justice Department is scrutinizing how both presidents came to have classified records after they left office. But there are major differences.  <a href="https://nyti.ms/3ZqwZ3k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden says he takes classified documents seriously and is cooperating with the Justice Department.</h3>
+<sub>By Jim Tankersley</sub>
+<p>  <a href="https://nyti.ms/3W03lz6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -82,12 +84,6 @@ Lastly, there&#39;s a lot of travel news! A list of 52 places to go in 2023 was 
 <h3>Can You Find Eggs Here or There? Can You Find Them Anywhere?</h3>
 <sub>By Jesus Jiménez</sub>
 <p>An avian flu outbreak and increasing costs of fuel, feed and packaging have contributed to an egg supply shortage and high prices in some parts of the country.  <a href="https://nyti.ms/3CI9etP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>From Disciplinarian to Cheerleader: Why China Is Changing Its Tone on Business</h3>
-<sub>By Daisuke Wakabayashi and Claire Fu</sub>
-<p>With the economy in a fragile state, Chinese officials are starting to use more business-friendly language, and also to back their words with action.  <a href="https://nyti.ms/3IION46"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -114,28 +110,28 @@ Lastly, there&#39;s a lot of travel news! A list of 52 places to go in 2023 was 
 <p>Beijing says the outposts aren’t doing police work, but Chinese state media reports say they “collect intelligence” and solve crimes far outside their jurisdiction.  <a href="https://nyti.ms/3QAWBGE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Nurses’ Strike Ends at Two New York City Hospitals</h3>
-<sub>By Sharon Otterman and Jenny Gross</sub>
-<p>Nurses at Montefiore Medical Center in the Bronx and Mount Sinai in Manhattan will return to work after reaching tentative deals, union leaders said.  <a href="https://nyti.ms/3kc2Ft3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>It’s the Coolest Rock Show in Ann Arbor. And Almost Everyone There Is Over 65.</h3>
+<sub>By Joseph Bernstein</sub>
+<p>At the “Geezer Happy Hour,” the “silver tsunami” has been dancing for decades.  <a href="https://nyti.ms/3GAWbeX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Bankman-Fried Makes First Detailed Response to Fraud Charges</h3>
+<h3>Sam Bankman-Fried Responds to Fraud Charges: ‘I Didn’t Steal Funds’</h3>
 <sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
 <p>The disgraced founder of the crypto exchange FTX denied that he stole anyone’s money and said customers could still get their deposits back.  <a href="https://nyti.ms/3Qz7RDC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With the battle for Soledar, the founder of a mercenary army seeks a bigger role in Russia’s power structure.</h3>
-<sub>By Anatoly Kurmanaev</sub>
-<p>  <a href="https://nyti.ms/3VYmvFr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<h3>Russia released a U.S. Navy veteran who had been quietly detained.</h3>
+<sub>By Michael Crowley</sub>
+<p>  <a href="https://nyti.ms/3GvxAZ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>His Star Rising, Youngkin Juggles Local Issues and National Ambition</h3>
-<sub>By Trip Gabriel</sub>
-<p>Virginia’s Republican governor is considering a presidential run, but a divided state legislature may thwart his ambitions for conservative policy victories.  <a href="https://nyti.ms/3QAWDyg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Jeff Beck’s 10 Essential Songs</h3>
+<sub>By Jon Pareles</sub>
+<p>The guitarist, who died on Tuesday, could make his instrument slash, burn and sigh. Listen to tracks released from 1966 to 2010 that reveal his range and intensity.  <a href="https://nyti.ms/3GEmAsr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
