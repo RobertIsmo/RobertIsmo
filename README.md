@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 11, Central Standard Time</p>
 <p>
-It looks like some pretty interesting things are happening in the world right now. First off, there are a lot of investigations into President Biden&#39;s handling of classified documents, as well as calls for New York representative George Santos to resign over accusations about lying on his resume. At the same time, there is an investigation surrounding Hunter Biden&#39;s potential tax and gun charges, and Republicans are preparing a number of investigations into the Biden administration that even involve potential impeachment. On top of all that, in terms of air travel, a Federal Aviation Administration system went down recently and Russian commanders are being switched up due to dissension. Last but not least, some much needed rain is expected to come onto California soon, and an Obamacare marketplace continues to be incredibly popular in Miami.</p>
+Right now, there are a few major things going on in the world. In the U.S., there are questions being raised over former President Donald Trump&#39;s handling of documents and President Biden&#39;s retaining of classified documents. There&#39;s also an ongoing special counsel investigation into Trump, and 4 GOP Congressmen calling for George Santos to resign from office due to past lies. Plus, Hunter Biden&#39;s tangled legal issues are coming to the forefront with potential indictments and hearings, and House Republicans plan to investigate the Biden administration for potential impeachment. On an international level, Russia has replaced its war commander for the conflict in Ukraine and is facing signs of internal dissension. Lastly, California is experiencing storms that might or might not end their drought, creating weather whiplash that could be worrying for many Californians.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Discovery of More Classified Records Raises Questions Over Biden’s Handling of Documents</h3>
@@ -70,7 +70,7 @@ It looks like some pretty interesting things are happening in the world right no
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Special Counsel Investigating Trump Faces Headwinds Few Others Have</h3>
-<sub>By Katie Benner, Adam Goldman and Glenn Thrush</sub>
+<sub>By Katie Benner, Adam Goldman, Glenn Thrush and Maggie Haberman</sub>
 <p>Jack Smith’s challenges include a newly empowered Republican House majority and the recent disclosures of President Biden’s retention of classified documents.  <a href="https://nyti.ms/3QN005H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
@@ -104,12 +104,6 @@ It looks like some pretty interesting things are happening in the world right no
 <p>House Republicans are preparing a cascade of investigations, some overlapping, into the Biden administration and its policies. Right-wing lawmakers have said the ultimate goal is to impeach the president.  <a href="https://nyti.ms/3W2gM1C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>F.A.A. Outage Highlights Fragility of the Aviation System</h3>
-<sub>By Niraj Chokshi and Mark Walker</sub>
-<p>The Federal Aviation Administration halted flights Wednesday morning after a system to alert pilots to safety issues went down, just two weeks after a major Southwest Airlines meltdown.  <a href="https://nyti.ms/3ixkDG8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Replaces Commander for Ukraine War, as Signs of Dissension Grow</h3>
 <sub>By Anatoly Kurmanaev</sub>
@@ -122,16 +116,22 @@ It looks like some pretty interesting things are happening in the world right no
 <p>His playing with the Yardbirds and as leader of his own bands brought a sense of adventure to their groundbreaking recordings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When Will the Rain End in California? Soon, but Not Soon Enough</h3>
-<sub>By Judson Jones</sub>
-<p>After a brief respite, rain is expected to return on Saturday and linger into early next week. Drier conditions could arrive after that.  <a href="https://nyti.ms/3GzT5YF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>F.A.A. Outage Highlights Fragility of the Aviation System</h3>
+<sub>By Niraj Chokshi and Mark Walker</sub>
+<p>The Federal Aviation Administration halted flights Wednesday morning after a system to alert pilots to safety issues went down, just two weeks after a major Southwest Airlines meltdown.  <a href="https://nyti.ms/3ixkDG8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Obamacare Is Everywhere in the Unlikeliest of Places: Miami</h3>
-<sub>By Patricia Mazzei</sub>
-<p>A decade after the Affordable Care Act’s federal health insurance marketplace was created, its outsize — and improbable — popularity in South Florida persists.  <a href="https://nyti.ms/3Zv917i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Glimpsing Blue Skies, California Cleans Itself Up and Braces for the Next Storm</h3>
+<sub>By Shawn Hubler, Victoria Kim, Corina Knoll and Jacey Fortin</sub>
+<p>After pounding rains that flooded roads and brought down hillsides and trees, the state is catching its breath during a short dry spell.  <a href="https://nyti.ms/3W8wZ5c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Will Storms End California’s Drought? That May Be the Wrong Question</h3>
+<sub>By Henry Fountain</sub>
+<p>California has experienced what one researcher described as “weather whiplash” with quick swings between wet and dry periods.  <a href="https://nyti.ms/3vTIHGn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
