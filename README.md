@@ -60,18 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 12, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! The Chinese government is attempting to become more business friendly and make changes to help the economy, while investors are cautious about corporate financial results because of the pandemic. Here in the US, President Biden is facing questions about his handling of classified documents, and Governor Youngkin of Virginia may be running for president. Meanwhile, travel has been slowly rebounding as people look for new places to explore, even as the US is trying to fight back against Chinese outposts that collect intelligence outside their jurisdiction. Closer to home, nurses in NYC recently went on strike but have since reached a deal. On a more personal level, AI has been providing us with more attention than ever with its face filters and selfie apps. Lastly, there is data showing that Black real estate agents and brokers are not compensated as much as their white peers.</p>
+I have some news about what&#39;s happening in the world. A statement from the White House recently confirmed that a second set of classified documents have been found at Biden&#39;s Wilmington home. Additionally, inflation rates are up as rent prices stayed steady even though car prices dropped. The U.S. is also dealing with an egg supply shortage due to an avian flu outbreak and increasing costs of fuel and feed which has resulted in higher prices.
+
+In China, officials are trying to take a more business-friendly approach to encourage economic growth by using more encouraging language. Back stateside, records and documents have revealed some irregularities concerning funds raised by George Santos who was recently elected to Congress. His résumé was found to be hiding lies that would have otherwise disqualified him for the position.
+
+Lastly, there&#39;s a lot of travel news! A list of 52 places to go in 2023 was recently released, while worldwide the US is escalating its fight with China regarding outposts collecting intelligence across their own jurisdiction. On the domestic level, two NYC hospitals were on strike recently but fortunately, action and negotiations ended this recently. And finally, a young politician in Virginia named Glenn Youngkin may be considering running for president but his ambitions could be undermined by a divided state legislature.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Second Set of Classified Documents Were Found at Biden’s Wilmington Home, White House Says</h3>
+<sub>By Charlie Savage</sub>
+<p>A statement by the president’s special counsel confirmed reports that more documents had been uncovered after a previous batch was found at a think tank.  <a href="https://nyti.ms/3XcRnnm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Takeaways from the latest inflation report.</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Rent prices remained rapid, even as car prices pulled back. Here’s what to know about the inflation report.  <a href="https://nyti.ms/3kcB9vv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Can You Find Eggs Here or There? Can You Find Them Anywhere?</h3>
+<sub>By Jesus Jiménez</sub>
+<p>An avian flu outbreak and increasing costs of fuel, feed and packaging have contributed to an egg supply shortage and high prices in some parts of the country.  <a href="https://nyti.ms/3CI9etP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>From Disciplinarian to Cheerleader: Why China Is Changing Its Tone on Business</h3>
 <sub>By Daisuke Wakabayashi and Claire Fu</sub>
 <p>With the economy in a fragile state, Chinese officials are starting to use more business-friendly language, and also to back their words with action.  <a href="https://nyti.ms/3IION46"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Investors Look to Corporate Reports With Low Expectations</h3>
-<sub>By Joe Rennison</sub>
-<p>As companies prepare to publish their latest financial results, Wall Street forecasters expect profits to fall for the first time since the early days of the pandemic.  <a href="https://nyti.ms/3GwDhWJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -84,12 +100,6 @@ There is a lot going on in the world right now! The Chinese government is attemp
 <h3>George Santos’s Secret Résumé: A Wall Street Star With a 3.9 G.P.A.</h3>
 <sub>By Nicholas Fandos</sub>
 <p>Two years before his successful run for Congress, George Santos gave Long Island Republican officials a résumé that reads like a detailed road map of his lies.  <a href="https://nyti.ms/3ZvPzXM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Discovery of More Classified Records Raises Questions Over Biden’s Handling of Documents</h3>
-<sub>By Glenn Thrush</sub>
-<p>The revelation is sure to intensify Republican attacks on the president, who has called former President Donald J. Trump irresponsible for hoarding sensitive documents at his estate in Florida.  <a href="https://nyti.ms/3GCx6jK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
@@ -105,9 +115,15 @@ There is a lot going on in the world right now! The Chinese government is attemp
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Nurses Strike Ends at Two New York City Hospitals</h3>
+<h3>Nurses’ Strike Ends at Two New York City Hospitals</h3>
 <sub>By Sharon Otterman and Jenny Gross</sub>
 <p>Nurses at Montefiore Medical Center in the Bronx and Mount Sinai in Manhattan will return to work after reaching tentative deals, union leaders said.  <a href="https://nyti.ms/3kc2Ft3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Sam Bankman-Fried Makes First Detailed Response to Fraud Charges</h3>
+<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
+<p>The disgraced founder of the crypto exchange FTX denied that he stole anyone’s money and said customers could still get their deposits back.  <a href="https://nyti.ms/3Qz7RDC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -121,18 +137,6 @@ There is a lot going on in the world right now! The Chinese government is attemp
 <sub>By Trip Gabriel</sub>
 <p>Virginia’s Republican governor is considering a presidential run, but a divided state legislature may thwart his ambitions for conservative policy victories.  <a href="https://nyti.ms/3QAWDyg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Selling Houses While Black</h3>
-<sub>By Colette Coleman</sub>
-<p>About 6 percent of real estate agents and brokers  in the United States are Black. Their white peers make almost three times as much, according to data and surveys.  <a href="https://nyti.ms/3QAWx9S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>AI’s Best Trick Yet Is Showering Us With Attention</h3>
-<sub>By Sophie Haigney</sub>
-<p>Face filters and selfie apps are so compelling because they simulate limitless interest in what we look like.  <a href="https://nyti.ms/3X3WSV0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
