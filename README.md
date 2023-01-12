@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 11, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. Republican leaders in Nassau County are calling for George Santos, a congressional candidate, to resign because of lies on his resume. Hunter Biden is facing scrutiny over tax and gun charges, and Congress has begun investigations into the Biden administration. In Ukraine, power outages have people resorting to working in makeshift office spaces. California is experiencing rain relief for the first time in a while. In Miami, the Affordable Care Act&#39;s popularity persists. The FAA recently experienced an outage due to NOTAM alerts. And if Congress fails to increase the government’s borrowing limit on time, it could create serious issues with our economy and financial markets.</p>
+It looks like some pretty interesting things are happening in the world right now. First off, there are a lot of investigations into President Biden&#39;s handling of classified documents, as well as calls for New York representative George Santos to resign over accusations about lying on his resume. At the same time, there is an investigation surrounding Hunter Biden&#39;s potential tax and gun charges, and Republicans are preparing a number of investigations into the Biden administration that even involve potential impeachment. On top of all that, in terms of air travel, a Federal Aviation Administration system went down recently and Russian commanders are being switched up due to dissension. Last but not least, some much needed rain is expected to come onto California soon, and an Obamacare marketplace continues to be incredibly popular in Miami.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Discovery of More Classified Records Raises Questions Over Biden’s Handling of Documents</h3>
+<sub>By Glenn Thrush</sub>
+<p>The revelation is sure to intensify Republican attacks on the president, who has called former President Donald J. Trump irresponsible for hoarding sensitive documents at his estate in Florida.  <a href="https://nyti.ms/3GCx6jK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Special Counsel Investigating Trump Faces Headwinds Few Others Have</h3>
+<sub>By Katie Benner, Adam Goldman and Glenn Thrush</sub>
+<p>Jack Smith’s challenges include a newly empowered Republican House majority and the recent disclosures of President Biden’s retention of classified documents.  <a href="https://nyti.ms/3QN005H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Faces Calls to Resign From Long Island G.O.P. Leaders</h3>
+<h3>George Santos Faces Calls to Resign From 4 G.O.P. Congressmen</h3>
 <sub>By Michael Gold and Grace Ashford</sub>
-<p>The rejection by Republican leaders in Nassau County is the sharpest denunciation from Mr. Santos’s party, whose leaders in Washington have mostly stayed mum.  <a href="https://nyti.ms/3izdipx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Republican officials in New York sharply denounced the embattled representative, even as leaders in Washington have said they will not push him to step down.  <a href="https://nyti.ms/3izdipx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -75,9 +87,9 @@ There&#39;s a lot happening in the world right now. Republican leaders in Nassau
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Resume of George Santos</h3>
+<h3>Résumé of George Santos</h3>
 <sub></sub>
-<p>A copy of a two-page version of his resume, obtained by The Times, is the first that has become public.  <a href="https://nyti.ms/3CIFX2a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A copy of a two-page version of his résumé, obtained by The Times, is the first that has become public.  <a href="https://nyti.ms/3CIFX2a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,15 +99,27 @@ There&#39;s a lot happening in the world right now. Republican leaders in Nassau
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Comer Asks Treasury for Biden Family Financial Records as G.O.P. Inquiries Begin</h3>
+<h3>Here Are All the Ways Republicans Plan to Investigate Biden</h3>
 <sub>By Luke Broadwater</sub>
-<p>With Republicans in control of the House, they have begun to unleash the cascade of investigations of the Biden administration that they have long promised.  <a href="https://nyti.ms/3XqoRho"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>House Republicans are preparing a cascade of investigations, some overlapping, into the Biden administration and its policies. Right-wing lawmakers have said the ultimate goal is to impeach the president.  <a href="https://nyti.ms/3W2gM1C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>F.A.A. Outage Highlights Fragility of the Aviation System</h3>
+<sub>By Niraj Chokshi and Mark Walker</sub>
+<p>The Federal Aviation Administration halted flights Wednesday morning after a system to alert pilots to safety issues went down, just two weeks after a major Southwest Airlines meltdown.  <a href="https://nyti.ms/3ixkDG8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Come On In, the Internet Is Fine: Kyiv Workers Get Online in Unlikely Spots</h3>
-<sub>By Megan Specia</sub>
-<p>Sporadic power outages have people resorting to makeshift office spaces in the Ukrainian capital. Stores have set up power hubs, and workers are getting comfortable doing their jobs in home furnishing displays.  <a href="https://nyti.ms/3X5rntJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia Replaces Commander for Ukraine War, as Signs of Dissension Grow</h3>
+<sub>By Anatoly Kurmanaev</sub>
+<p>Allies of President Vladimir V. Putin contradicted each other about battlefield progress, as a war command shake-up put another Kremlin loyalist in charge.  <a href="https://nyti.ms/3W53gdz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Jeff Beck, Guitarist With a Chapter in Rock History, Dies at 78</h3>
+<sub>By Jim Farber</sub>
+<p>His playing with the Yardbirds and as leader of his own bands brought a sense of adventure to their groundbreaking recordings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -108,30 +132,6 @@ There&#39;s a lot happening in the world right now. Republican leaders in Nassau
 <h3>Obamacare Is Everywhere in the Unlikeliest of Places: Miami</h3>
 <sub>By Patricia Mazzei</sub>
 <p>A decade after the Affordable Care Act’s federal health insurance marketplace was created, its outsize — and improbable — popularity in South Florida persists.  <a href="https://nyti.ms/3Zv917i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What is NOTAM? Here’s what caused the F.A.A. outage.</h3>
-<sub>By Niraj Chokshi</sub>
-<p>NOTAM alerts — short for Notice to Air Mission — are crucial to planning flights.  <a href="https://nyti.ms/3GYhcS4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Another Week, Another Meltdown, Only This Time You Can’t Blame the Airlines</h3>
-<sub>By Daniel Victor and Maria Cramer</sub>
-<p>Fliers stranded by an F.A.A. system failure on Wednesday commended pilots and staff even as passenger advocates called the shutdown “shocking” and potentially avoidable.  <a href="https://nyti.ms/3GYyuOY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Trying to Live a Day Without Plastic</h3>
-<sub>By A. J. Jacobs</sub>
-<p>It’s all around us, despite its adverse effects on the planet. In a 24-hour experiment, one journalist tried to go plastic free.  <a href="https://nyti.ms/3VYemAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The U.S. May Finally Breach the Debt Ceiling. Here’s Why That Would Be Very Bad.</h3>
-<sub>By Alan Rappeport, Jim Tankersley and Jeanna Smialek</sub>
-<p>If Congress fails to increase the government’s borrowing limit in time, the result would be a shock to the economy and financial markets.  <a href="https://nyti.ms/3GXMbhq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
