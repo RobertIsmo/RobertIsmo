@@ -60,24 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 12, Central Standard Time</p>
 <p>
-There is a lot going on in the world these days! A Justice Department investigation is looking into how former Presidents Trump and Biden acquired classified documents after leaving office. In business, the latest inflation report revealed rent prices remain rapid, despite car prices falling. Additionally, there is a current egg supply shortage in some parts of the country due to an avian flu outbreak and increasing production costs. On the political front, a review of records uncovered suspicious fundraising efforts for George Santos&#39; congressional run, as well as many lies that were found in his résumé when he ran for Congress.  On the brighter side, people are eager to travel and explore yet again, but there&#39;s U.S. scrutiny of police outposts by China around the globe. Closer to home, a &quot;Geezer Happy Hour&quot; has become incredibly popular with those over 65 years old enjoying the music like it was decades before. Finally, there have been fraud allegations against a crypto currency mogul and Sam Bankman-Fried responded that customers can still get their deposits back. As far as music goes, Jeff Beck passed away this week and there are plenty of essential songs showcasing his range and intensity released from 1966 to 2010 that have made him a legend.</p>
+There is a lot going on in the world right now. There are two special counsels investigating former President Trump and the Justice Department is looking into how presidents came to have access to classified records. Inflation is slowing and the US deficit fell to $1.4 trillion in 2022. Avian flu outbreaks have caused an egg supply shortage alongside increasing costs of fuel, feed and packaging, while a mysterious fund has been raising big money for a local candidate, potentially in violation of campaign finance rules. Overseas, Russia released a US Navy veteran who had been detained in Kaliningrad last April under still-undisclosed charges and the FBi is escalating its fight with China over police outposts abroad. Meanwhile, it&#39;s been revealed that Exxon scientists had predicted global warming even as the company was publicly casting doubts on climate change. Finally, we&#39;ve lost an iconic guitar player this week - Jeff Beck - whose death has prompted many to look back over his 10 essential songs from 1966 to 2010.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Biden’s Discovery of Classified Files Compares With the Trump Case</h3>
+<h3>What Is a Special Counsel and What Can They Do?</h3>
 <sub>By Charlie Savage</sub>
-<p>The Justice Department is scrutinizing how both presidents came to have classified records after they left office. But there are major differences.  <a href="https://nyti.ms/3ZqwZ3k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<p>There are now two special counsels looking into presidents — Jack Smith was appointed in November by the attorney general to oversee the two investigations into former President Trump. Here’s more about the powers of a special counsel and why they are used.  <a href="https://nyti.ms/3X8wBVF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden says he takes classified documents seriously and is cooperating with the Justice Department.</h3>
-<sub>By Jim Tankersley</sub>
-<p>  <a href="https://nyti.ms/3W03lz6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Biden’s discovery of classified files compares with the Trump case.</h3>
+<sub>By Charlie Savage</sub>
+<p>The Justice Department is scrutinizing how both presidents came to have classified records after they left office. But there are major differences.  <a href="https://nyti.ms/3ix9kxB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Takeaways from the latest inflation report.</h3>
+<h3>Inflation Is Slowing, Good News for American Consumers and the Fed</h3>
 <sub>By Jeanna Smialek</sub>
-<p>Rent prices remained rapid, even as car prices pulled back. Here’s what to know about the inflation report.  <a href="https://nyti.ms/3kcB9vv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Consumer Price Index inflation moderated to 6.5 percent in December, helping Fed officials to lean toward slower rate moves.  <a href="https://nyti.ms/3IGR5QW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,17 +86,17 @@ There is a lot going on in the world these days! A Justice Department investigat
 <p>An avian flu outbreak and increasing costs of fuel, feed and packaging have contributed to an egg supply shortage and high prices in some parts of the country.  <a href="https://nyti.ms/3CI9etP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Deficit Fell to $1.4 Trillion in 2022</h3>
+<sub>By Alan Rappeport and Jim Tankersley</sub>
+<p>The deficit was down from $2.6 trillion a year earlier, as pandemic emergency spending slowed, the economy reopened and tax revenue rose. The new figures come as spending fights loom in a divided Congress.  <a href="https://nyti.ms/3k9SxRK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Mysterious, Unregistered Fund That Raised Big Money for Santos</h3>
 <sub>By Alexandra Berzon and Grace Ashford</sub>
 <p>A review of records and newly uncovered documents reveals that efforts to elect George Santos may have run afoul of campaign finance rules.  <a href="https://nyti.ms/3GyZ5kj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos’s Secret Résumé: A Wall Street Star With a 3.9 G.P.A.</h3>
-<sub>By Nicholas Fandos</sub>
-<p>Two years before his successful run for Congress, George Santos gave Long Island Republican officials a résumé that reads like a detailed road map of his lies.  <a href="https://nyti.ms/3ZvPzXM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
 <h3>52 Places to Go in 2023</h3>
@@ -105,9 +105,9 @@ There is a lot going on in the world these days! A Justice Department investigat
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With F.B.I. Search, U.S. Escalates Global Fight Over Chinese Police Outposts</h3>
-<sub>By Megha Rajagopalan and William K. Rashbaum</sub>
-<p>Beijing says the outposts aren’t doing police work, but Chinese state media reports say they “collect intelligence” and solve crimes far outside their jurisdiction.  <a href="https://nyti.ms/3QAWBGE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia releases a U.S. Navy veteran quietly detained in Kaliningrad in April of last year.</h3>
+<sub>By Michael Crowley</sub>
+<p>The veteran, Taylor Dudley, had traveled to Poland to attend a music festival and “at some point crossed the Russian border,” a family spokesman said. It remained unclear on what charges he had been held.  <a href="https://nyti.ms/3ZtYlpt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -116,16 +116,16 @@ There is a lot going on in the world these days! A Justice Department investigat
 <p>At the “Geezer Happy Hour,” the “silver tsunami” has been dancing for decades.  <a href="https://nyti.ms/3GAWbeX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Bankman-Fried Responds to Fraud Charges: ‘I Didn’t Steal Funds’</h3>
-<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
-<p>The disgraced founder of the crypto exchange FTX denied that he stole anyone’s money and said customers could still get their deposits back.  <a href="https://nyti.ms/3Qz7RDC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With F.B.I. Search, U.S. Escalates Global Fight Over Chinese Police Outposts</h3>
+<sub>By Megha Rajagopalan and William K. Rashbaum</sub>
+<p>Beijing says the outposts aren’t doing police work, but Chinese state media reports say they “collect intelligence” and solve crimes far outside their jurisdiction.  <a href="https://nyti.ms/3QAWBGE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia released a U.S. Navy veteran who had been quietly detained.</h3>
-<sub>By Michael Crowley</sub>
-<p>  <a href="https://nyti.ms/3GvxAZ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Exxon Scientists Predicted Global Warming, Even as Company Cast Doubts, Study Finds</h3>
+<sub>By Hiroko Tabuchi</sub>
+<p>Starting in the 1970s, scientists working for the oil giant made remarkably accurate projections of just how much burning fossil fuels would warm the planet.  <a href="https://nyti.ms/3XdBE7y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
