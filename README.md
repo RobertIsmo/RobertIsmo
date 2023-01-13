@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 12, Central Standard Time</p>
 <p>
-There’s a lot happening in the world right now. In the US, there’s an inquiry looking into President Biden’s handling of classified documents that has been drawing attention recently. There’s been some speculation about how his case compares with that of former President Trump, who had a special counsel investigate the Russia investigation. Internationally, tanks have been sent to Ukraine to counter the Russian aggression and the International Monetary Fund is predicting that the global economy will rebound despite being fragile in 2023. Closer to home, NYC Mayor Eric Adams has just unveiled a $103 billion budget that aims to tackle the major challenges New York faces as it reopens after last year’s pandemic shutdown. Finally, there was a cool rock show in Ann Arbor, Michigan recently where almost all the attendees were over 65- years-old!</p>
+There&#39;s a lot happening in the world right now! The US Justice Department has appointed Robert K. Hur, a special counsel to investigate the handling of classified documents associated with President Biden. They&#39;re also looking into what happened during the Trump presidency with Russia. In international news, there have been reports that Western tanks may be headed to Ukraine, which breaks an important taboo. The US economy is slowing down and inflation has moderated to 6.5 percent in December, which is good news for consumers and the Federal Reserve. On the political side, G.O.P leaders are standing by Santos as New York Republicans attempt to push him to resign from his post. In terms of travel, there are 52 places to visit in 2023 if you want to get out of your home country and explore the world. Microsoft has made a major move in A.I technology by investing in OpenAI, the creator of a chatbot that can do incredibly amazing things with conversations. Meanwhile, Lisa Marie Presley - daughter of Elvis Presley - died at 54 after a brief hospitalization. And finally, there&#39;s this really cool rock show happening in Ann Arbor where almost everyone attending is over 65-years-of-age called Geezer Happy Hour! And if all of this wasn&#39;t enough, Mayor Eric Adams just unveiled a $103 Billion budget for New York City as they face major challenges in trying to recover their economy from the pandemic aftermath.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Garland Appoints Special Counsel to Investigate Handling of Biden Documents</h3>
+<sub>By Glenn Thrush, Peter Baker and Charlie Savage</sub>
+<p>The appointment of Robert K. Hur comes two months after the attorney general named a special counsel to investigate former President Donald J. Trump’s mishandling of classified material.  <a href="https://nyti.ms/3ZuAshu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Robert Hur, Special Counsel for Biden’s Inquiry, Knows Pitfalls of the Job</h3>
 <sub>By Glenn Thrush, Adam Goldman and Luke Broadwater</sub>
@@ -92,18 +98,6 @@ There’s a lot happening in the world right now. In the US, there’s an inquir
 <p>Consumer Price Index inflation moderated to 6.5 percent in December, helping Fed officials to lean toward slower rate moves.  <a href="https://nyti.ms/3IGR5QW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Deficit Fell to $1.4 Trillion in 2022</h3>
-<sub>By Alan Rappeport and Jim Tankersley</sub>
-<p>The deficit was down from $2.6 trillion a year earlier, as pandemic emergency spending slowed, the economy reopened and tax revenue rose. The new figures come as spending fights loom in a divided Congress.  <a href="https://nyti.ms/3k9SxRK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>I.M.F. Sees World Economy Rebounding, Yet Still Fragile, in 2023</h3>
-<sub>By Alan Rappeport</sub>
-<p>Kristalina Georgieva, the managing director of the International Monetary Fund, predicts that a global recession can be avoided.  <a href="https://nyti.ms/3ZK1r95"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Leaders Stand by Santos as New York Republicans Call on Him to Resign</h3>
 <sub>By Annie Karni and Michael Gold</sub>
@@ -120,6 +114,12 @@ There’s a lot happening in the world right now. In the US, there’s an inquir
 <h3>Microsoft Bets Big on the Creator of ChatGPT in Race to Dominate A.I.</h3>
 <sub>By Cade Metz and Karen Weise</sub>
 <p>As a new chatbot wows the world with its conversational talents, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI.  <a href="https://nyti.ms/3X6H8Rl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lisa Marie Presley, the Daughter of Elvis Presley, Dies at 54</h3>
+<sub>By Eduardo Medina and April Rubin</sub>
+<p>The death on Thursday came after a medical emergency and brief hospitalization.  <a href="https://nyti.ms/3kevDsh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
