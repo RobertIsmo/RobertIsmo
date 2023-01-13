@@ -60,8 +60,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 13, Central Standard Time</p>
 <p>
-To sum up what&#39;s going on in the world, US politics are a bit chaotic. The Biden documents case has raised a lot of questions, particularly surrounding Robert Hur&#39;s new role as special counsel for the investigation. Meanwhile, tanks from the West have been sent to Ukraine as a way of showing their support against a new Russian offensive. On the crime front, Idaho has seen one of its researchers charged with four murders after displaying little emotion or remorse. Moving on to business news, the Trump Organization has been handed an $1.6 million fine for evading taxes and providing executive off-the-books benefits. Away from politics and crime, Bill Nighy is courting Oscar success with the release of &#39;Living.&#39; Another controversial figure is rapper Young Thug, who&#39;s been accused of leading a violent gang operating through his music label YSL. Lastly, California&#39;s been flooded lately and Lisa Marie Presley, daughter of Elvis Presley, sadly passed away at 54 years old. Celebrities paid tribute to her on social media and remembered her career as a musician and actress.</p>
+Recently, the US and Japan have been strengthening their alliance amid increasing power from China. Sanctions from the West have caused a lot of Russia&#39;s imports to travel through Georgia via truck route. In Russia, there is a rift occurring between the defense ministry and a group named Wagner. In the US, Treasury Department is expecting to use “extraordinary measures” to continue paying government obligations as they battle it out over the debt limit. Big banks are setting aside billions in order to protect against economic downfall in 2021. Special counsels appointed by Biden and Garland are creating political turmoil as Trump cries persecution. At the same time, an Idaho man has been charged with four murders that show his lack of emotion and remorse as a teen. Meanwhile, Trump Organization is being fined over 1.6 million for avoiding taxes. The Signal Peak Mine in Montana has gotten into trouble for its criminal activity, leading environmental groups to want it shut down. Lastly, fans around the world have been mourning Lisa Marie Presley at Graceland as she tragically passed away.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden and Kishida to Bolster U.S.-Japan Alliance Amid China’s Growing Power</h3>
+<sub>By Edward Wong</sub>
+<p>The two leaders are set to discuss tensions with China, North Korea and Russia and to plan for deterrence in Asia with U.S. troops and missiles.  <a href="https://nyti.ms/3iIxR2K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Western Goods Reach Russia: A Long Line of Trucks Through Georgia</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>With Western sanctions barring many imports, a lot of what Russia needs now travels a slow, crowded truck route through the Caucasus Mountains from Georgia.  <a href="https://nyti.ms/3ZzQ17x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Wagner leader accuses Russia’s defense ministry of stealing credit for Soledar, amplifying a rift.</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>  <a href="https://nyti.ms/3W327TO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Will Hit Debt Limit Jan. 19, Yellen Tells Congress</h3>
+<sub>By Alan Rappeport and Jim Tankersley</sub>
+<p>The Treasury Department expects to begin taking “extraordinary measures” to continue paying the government’s obligations ahead of what’s expected to be a big fight to raise the borrowing cap.  <a href="https://nyti.ms/3vZpUt1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Big Banks Set Aside Billions as They Brace for a Downturn</h3>
+<sub>By Stacy Cowley and Rob Copeland</sub>
+<p>The country’s largest lenders increased their reserves to protect against deteriorating economic conditions this year, after reporting resilient profits for the end of last year.  <a href="https://nyti.ms/3kiX0S0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Special Counsel Inquiry Leaves Biden and Garland in Awkward Spots</h3>
 <sub>By Glenn Thrush, Peter Baker and Charlie Savage</sub>
@@ -69,21 +99,9 @@ To sum up what&#39;s going on in the world, US politics are a bit chaotic. The B
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Timeline of the Biden Documents Case: What We Know So Far</h3>
-<sub>By Ben Shpigel</sub>
-<p>Attorney General Merrick Garland provided more details on Thursday regarding the discovery of classified files associated with President Biden.  <a href="https://nyti.ms/3vWs251"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Robert Hur, Special Counsel for Biden’s Inquiry, Knows Pitfalls of the Job</h3>
 <sub>By Glenn Thrush, Adam Goldman and Luke Broadwater</sub>
 <p>Mr. Hur spent time during the Trump administration as a top aide in the Justice Department when it installed a special counsel to oversee the Russia investigation.  <a href="https://nyti.ms/3W87zot"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Western Tanks Appear Headed to Ukraine, Breaking Another Taboo</h3>
-<sub>By Lara Jakes and Steven Erlanger</sub>
-<p>The West has sent an array of weapons once seen as too provocative, and it looks like tanks will be next. With a new Russian offensive expected, officials see an urgent need to shift the balance.  <a href="https://nyti.ms/3ZzYwPW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,41 +116,23 @@ To sum up what&#39;s going on in the world, US politics are a bit chaotic. The B
 <p>The Trump Organization must pay $1.6 million for giving executive off-the-books benefits and pay.  <a href="https://nyti.ms/3w0OCt7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Bill Nighy, Master of Misdirection</h3>
-<sub>By Sarah Lyall</sub>
-<p>Though his turn in the drama “Living” is the subject of Oscar chatter, just try getting him to talk about his art. He prefers self-deprecation instead.  <a href="https://nyti.ms/3vT4yOd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Violent Gang, or Rap Label? Prosecutors Say Young Thug’s YSL Is Both.</h3>
-<sub>By Joe Coscarelli and Richard Fausset</sub>
-<p>With a blockbuster case set to begin, the superstar rapper sits at the intersection of complex questions about art, crime and the criminal justice system.  <a href="https://nyti.ms/3k1OJSr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Faked Kidnapping and Cocaine: A Montana Mine’s Descent Into Chaos</h3>
+<sub>By Hiroko Tabuchi</sub>
+<p>The Signal Peak Mine was embroiled in a web of criminal activity. Now, environmental groups want to shut it down.  <a href="https://nyti.ms/3CKOu4X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In a Drought, California Is Watching Water Wash Out to Sea</h3>
-<sub>By Ralph Vartabedian and Mette Lampcov</sub>
-<p>Heavy storms have flooded parts of California, but the state has been unable to capture billions of gallons of water that are flowing unchecked into the ocean. Los Angeles is embarking on an ambitious new program to change that.  <a href="https://nyti.ms/3QEfqc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Fans Mourn Lisa Marie Presley, Daughter of the King, at Graceland</h3>
+<sub>By Laura Faith Kebede and Dan Bilefsky</sub>
+<p>At the stone wall outside Elvis Presley’s estate, his only child was remembered as a kind of rock star royalty.  <a href="https://nyti.ms/3CLr8fp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lisa Marie Presley, the Daughter of Elvis Presley, Dies at 54</h3>
-<sub>By Eduardo Medina and April Rubin</sub>
-<p>The death on Thursday came after a medical emergency and brief hospitalization.  <a href="https://nyti.ms/3kevDsh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Lisa Marie Presley on Elvis, Michael Jackson and Her Music</h3>
-<sub>By The New York Times</sub>
-<p>The daughter of a rock star navigated a lifetime of fame by marrying a pop star and releasing three of her own albums.  <a href="https://nyti.ms/3W6morp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Celebrities Remember Lisa Marie Presley</h3>
-<sub>By John Yoon</sub>
-<p>On social media, they recalled her talent, her kindness and her struggles.  <a href="https://nyti.ms/3ITQJqa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Lisa Marie Presley, a Life in Pictures</h3>
+<sub>By Vanessa Friedman</sub>
+<p>The daughter of Elvis was famous from the moment she was born.  <a href="https://nyti.ms/3GFYYn4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
