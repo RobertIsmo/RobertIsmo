@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 13, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, Special Counsel has launched an inquiry that could potentially put former President Donald Trump and current President Joe Biden in awkward positions politically. The Justice Department is also investigating documents linked to both presidents. Over in Ukraine, Western tanks are being sent as part of an effort to prevent a new possible Russian offensive. Elsewhere, an Idaho murder suspect was revealed to have had little emotion or remorse as a teen. Africa is dealing with a Taliban-imposed ban on aid work for women, and California is struggling with droughts leading to tons of water being washed out to sea. On a more somber note, Lisa Marie Presley, daughter of iconic rock star Elvis Presley, passed away at 54 following a medical emergency. Social media has been flooded with tributes from celebrities saying how kind she was and how talented she was with her own music albums.</p>
+To sum up what&#39;s going on in the world, US politics are a bit chaotic. The Biden documents case has raised a lot of questions, particularly surrounding Robert Hur&#39;s new role as special counsel for the investigation. Meanwhile, tanks from the West have been sent to Ukraine as a way of showing their support against a new Russian offensive. On the crime front, Idaho has seen one of its researchers charged with four murders after displaying little emotion or remorse. Moving on to business news, the Trump Organization has been handed an $1.6 million fine for evading taxes and providing executive off-the-books benefits. Away from politics and crime, Bill Nighy is courting Oscar success with the release of &#39;Living.&#39; Another controversial figure is rapper Young Thug, who&#39;s been accused of leading a violent gang operating through his music label YSL. Lastly, California&#39;s been flooded lately and Lisa Marie Presley, daughter of Elvis Presley, sadly passed away at 54 years old. Celebrities paid tribute to her on social media and remembered her career as a musician and actress.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Special Counsel Inquiry Leaves Biden and Garland in Awkward Spots</h3>
@@ -75,9 +75,9 @@ There&#39;s a lot going on in the world right now. In the US, Special Counsel ha
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Biden’s discovery of classified files compares with the Trump case.</h3>
-<sub>By Charlie Savage</sub>
-<p>The Justice Department is scrutinizing how both presidents came to have classified records after they left office. But there are major differences.  <a href="https://nyti.ms/3ix9kxB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Robert Hur, Special Counsel for Biden’s Inquiry, Knows Pitfalls of the Job</h3>
+<sub>By Glenn Thrush, Adam Goldman and Luke Broadwater</sub>
+<p>Mr. Hur spent time during the Trump administration as a top aide in the Justice Department when it installed a special counsel to oversee the Russia investigation.  <a href="https://nyti.ms/3W87zot"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -90,6 +90,12 @@ There&#39;s a lot going on in the world right now. In the US, Special Counsel ha
 <h3>Idaho Murders Suspect Felt ‘No Emotion’ and ‘Little Remorse’ as a Teen</h3>
 <sub>By Mike Baker and Nicholas Bogel-Burroughs</sub>
 <p>Messages and online posts from the Ph.D. student now charged with four murders show that he was once detached and suicidal before he became fascinated with criminals’ minds.  <a href="https://nyti.ms/3kcxa2m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump’s Company Gets Maximum Punishment for Evading Taxes</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
+<p>The Trump Organization must pay $1.6 million for giving executive off-the-books benefits and pay.  <a href="https://nyti.ms/3w0OCt7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -105,7 +111,7 @@ There&#39;s a lot going on in the world right now. In the US, Special Counsel ha
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In a Drought, California is Watching Water Wash Out to Sea</h3>
+<h3>In a Drought, California Is Watching Water Wash Out to Sea</h3>
 <sub>By Ralph Vartabedian and Mette Lampcov</sub>
 <p>Heavy storms have flooded parts of California, but the state has been unable to capture billions of gallons of water that are flowing unchecked into the ocean. Los Angeles is embarking on an ambitious new program to change that.  <a href="https://nyti.ms/3QEfqc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
@@ -127,12 +133,6 @@ There&#39;s a lot going on in the world right now. In the US, Special Counsel ha
 <sub>By John Yoon</sub>
 <p>On social media, they recalled her talent, her kindness and her struggles.  <a href="https://nyti.ms/3ITQJqa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Burying Us Alive’: Afghan Women Devastated by Suspension of Aid Under Taliban Law</h3>
-<sub>By Christina Goldbaum and Najim Rahim</sub>
-<p>Since the Taliban administration banned women from aid work, many groups have suspended their operations in the country and warned of permanently shutting down if the ban remains.  <a href="https://nyti.ms/3CLz2p6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
