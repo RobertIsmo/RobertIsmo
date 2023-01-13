@@ -58,10 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, January 12, Central Standard Time</p>
+<p>It is Friday, January 13, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now! The US Justice Department has appointed Robert K. Hur, a special counsel to investigate the handling of classified documents associated with President Biden. They&#39;re also looking into what happened during the Trump presidency with Russia. In international news, there have been reports that Western tanks may be headed to Ukraine, which breaks an important taboo. The US economy is slowing down and inflation has moderated to 6.5 percent in December, which is good news for consumers and the Federal Reserve. On the political side, G.O.P leaders are standing by Santos as New York Republicans attempt to push him to resign from his post. In terms of travel, there are 52 places to visit in 2023 if you want to get out of your home country and explore the world. Microsoft has made a major move in A.I technology by investing in OpenAI, the creator of a chatbot that can do incredibly amazing things with conversations. Meanwhile, Lisa Marie Presley - daughter of Elvis Presley - died at 54 after a brief hospitalization. And finally, there&#39;s this really cool rock show happening in Ann Arbor where almost everyone attending is over 65-years-of-age called Geezer Happy Hour! And if all of this wasn&#39;t enough, Mayor Eric Adams just unveiled a $103 Billion budget for New York City as they face major challenges in trying to recover their economy from the pandemic aftermath.</p>
+Recently, Western tanks have been heading towards Ukraine, a move seen as too provocative by many but deemed necessary to shift the balance as a new Russian offensive seems imminent. In the United States, news of Robert K. Hur&#39;s appointment as special counsel to investigate former President Donald J. Trump’s mishandling of classified material has been circulating and he is also now tasked with an inquiry into the discovery of classified files associated with President Biden. At the same time, inflation has been slowing to 6.5%, good news for consumers and the Fed but Republican congressional leaders are being put in a tough position after newly elected representative, Santos, got caught up in a scandal and many are calling for him to resign. Unfortunately, Lisa Marie Presley, daughter of Elvis Presley, recently passed away at just 54-years-old and celebrities have been paying tribute on social media. On a brighter note though, we&#39;re looking forward to travelling again and there&#39;s already a list of 52 places to go in 2023! Finally, Microsoft has made a big bet on OpenAI, who created chatbot ChatGPT that has wowed the world with its conversational talents and is leading the race to dominate A.I.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Western Tanks Appear Headed to Ukraine, Breaking Another Taboo</h3>
+<sub>By Lara Jakes and Steven Erlanger</sub>
+<p>The West has sent an array of weapons once seen as too provocative, and it looks like tanks will be next. With a new Russian offensive expected, officials see an urgent need to shift the balance.  <a href="https://nyti.ms/3ZzYwPW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Garland Appoints Special Counsel to Investigate Handling of Biden Documents</h3>
 <sub>By Glenn Thrush, Peter Baker and Charlie Savage</sub>
@@ -86,12 +92,6 @@ There&#39;s a lot happening in the world right now! The US Justice Department ha
 <p>The Justice Department is scrutinizing how both presidents came to have classified records after they left office. But there are major differences.  <a href="https://nyti.ms/3ix9kxB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Western Tanks Appear Headed to Ukraine, Breaking Another Taboo</h3>
-<sub>By Lara Jakes and Steven Erlanger</sub>
-<p>The West has sent an array of weapons once seen as too provocative, and it looks like tanks will be next. With a new Russian offensive expected, officials see an urgent need to shift the balance.  <a href="https://nyti.ms/3ZzYwPW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Inflation Is Slowing, Good News for American Consumers and the Fed</h3>
 <sub>By Jeanna Smialek</sub>
@@ -104,6 +104,24 @@ There&#39;s a lot happening in the world right now! The US Justice Department ha
 <p>Republican congressional leaders badly need the newly elected representative’s vote, but local officials and lawmakers are eager to distance themselves from his scandal.  <a href="https://nyti.ms/3CJNxcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lisa Marie Presley, the Daughter of Elvis Presley, Dies at 54</h3>
+<sub>By Eduardo Medina and April Rubin</sub>
+<p>The death on Thursday came after a medical emergency and brief hospitalization.  <a href="https://nyti.ms/3kevDsh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Lisa Marie Presley on Elvis, Michael Jackson and Her Music</h3>
+<sub>By The New York Times</sub>
+<p>The daughter of a rock star navigated a lifetime of fame by marrying a pop star and releasing three of her own albums.  <a href="https://nyti.ms/3W6morp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Celebrities Remember Lisa Marie Presley</h3>
+<sub>By John Yoon</sub>
+<p>On social media, they recalled her talent, her kindness and her struggles.  <a href="https://nyti.ms/3ZJmtEK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
 <h3>52 Places to Go in 2023</h3>
 <sub></sub>
@@ -114,24 +132,6 @@ There&#39;s a lot happening in the world right now! The US Justice Department ha
 <h3>Microsoft Bets Big on the Creator of ChatGPT in Race to Dominate A.I.</h3>
 <sub>By Cade Metz and Karen Weise</sub>
 <p>As a new chatbot wows the world with its conversational talents, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI.  <a href="https://nyti.ms/3X6H8Rl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lisa Marie Presley, the Daughter of Elvis Presley, Dies at 54</h3>
-<sub>By Eduardo Medina and April Rubin</sub>
-<p>The death on Thursday came after a medical emergency and brief hospitalization.  <a href="https://nyti.ms/3kevDsh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>It’s the Coolest Rock Show in Ann Arbor. And Almost Everyone There Is Over 65.</h3>
-<sub>By Joseph Bernstein</sub>
-<p>At the “Geezer Happy Hour,” the “silver tsunami” has been dancing for decades.  <a href="https://nyti.ms/3GAWbeX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Adams Unveils $103 Billion Budget as New York Faces Major Challenges</h3>
-<sub>By Dana Rubinstein and Emma G. Fitzsimmons</sub>
-<p>Mayor Eric Adams wants to retain funding for safety, housing and sanitation but predicts future deficits as the city’s economy struggles to recover fully.  <a href="https://nyti.ms/3vWEUbc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
