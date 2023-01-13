@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 12, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. There are two special counsels investigating former President Trump and the Justice Department is looking into how presidents came to have access to classified records. Inflation is slowing and the US deficit fell to $1.4 trillion in 2022. Avian flu outbreaks have caused an egg supply shortage alongside increasing costs of fuel, feed and packaging, while a mysterious fund has been raising big money for a local candidate, potentially in violation of campaign finance rules. Overseas, Russia released a US Navy veteran who had been detained in Kaliningrad last April under still-undisclosed charges and the FBi is escalating its fight with China over police outposts abroad. Meanwhile, it&#39;s been revealed that Exxon scientists had predicted global warming even as the company was publicly casting doubts on climate change. Finally, we&#39;ve lost an iconic guitar player this week - Jeff Beck - whose death has prompted many to look back over his 10 essential songs from 1966 to 2010.</p>
+There’s a lot happening in the world right now. In the US, there’s an inquiry looking into President Biden’s handling of classified documents that has been drawing attention recently. There’s been some speculation about how his case compares with that of former President Trump, who had a special counsel investigate the Russia investigation. Internationally, tanks have been sent to Ukraine to counter the Russian aggression and the International Monetary Fund is predicting that the global economy will rebound despite being fragile in 2023. Closer to home, NYC Mayor Eric Adams has just unveiled a $103 billion budget that aims to tackle the major challenges New York faces as it reopens after last year’s pandemic shutdown. Finally, there was a cool rock show in Ann Arbor, Michigan recently where almost all the attendees were over 65- years-old!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Is a Special Counsel and What Can They Do?</h3>
-<sub>By Charlie Savage</sub>
-<p>There are now two special counsels looking into presidents — Jack Smith was appointed in November by the attorney general to oversee the two investigations into former President Trump. Here’s more about the powers of a special counsel and why they are used.  <a href="https://nyti.ms/3X8wBVF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Robert Hur, Special Counsel for Biden’s Inquiry, Knows Pitfalls of the Job</h3>
+<sub>By Glenn Thrush, Adam Goldman and Luke Broadwater</sub>
+<p>Mr. Hur spent time during the Trump administration as a top aide in the Justice Department when it installed a special counsel to oversee the Russia investigation.  <a href="https://nyti.ms/3W87zot"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Timeline of the Biden Documents Case: What We Know So Far</h3>
+<sub>By Ben Shpigel</sub>
+<p>Attorney General Merrick Garland provided more details on Thursday regarding the discovery of classified files associated with President Biden.  <a href="https://nyti.ms/3vWs251"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,16 +80,16 @@ There is a lot going on in the world right now. There are two special counsels i
 <p>The Justice Department is scrutinizing how both presidents came to have classified records after they left office. But there are major differences.  <a href="https://nyti.ms/3ix9kxB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Western Tanks Appear Headed to Ukraine, Breaking Another Taboo</h3>
+<sub>By Lara Jakes and Steven Erlanger</sub>
+<p>The West has sent an array of weapons once seen as too provocative, and it looks like tanks will be next. With a new Russian offensive expected, officials see an urgent need to shift the balance.  <a href="https://nyti.ms/3ZzYwPW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Inflation Is Slowing, Good News for American Consumers and the Fed</h3>
 <sub>By Jeanna Smialek</sub>
 <p>Consumer Price Index inflation moderated to 6.5 percent in December, helping Fed officials to lean toward slower rate moves.  <a href="https://nyti.ms/3IGR5QW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can You Find Eggs Here or There? Can You Find Them Anywhere?</h3>
-<sub>By Jesus Jiménez</sub>
-<p>An avian flu outbreak and increasing costs of fuel, feed and packaging have contributed to an egg supply shortage and high prices in some parts of the country.  <a href="https://nyti.ms/3CI9etP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -92,10 +98,16 @@ There is a lot going on in the world right now. There are two special counsels i
 <p>The deficit was down from $2.6 trillion a year earlier, as pandemic emergency spending slowed, the economy reopened and tax revenue rose. The new figures come as spending fights loom in a divided Congress.  <a href="https://nyti.ms/3k9SxRK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Mysterious, Unregistered Fund That Raised Big Money for Santos</h3>
-<sub>By Alexandra Berzon and Grace Ashford</sub>
-<p>A review of records and newly uncovered documents reveals that efforts to elect George Santos may have run afoul of campaign finance rules.  <a href="https://nyti.ms/3GyZ5kj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>I.M.F. Sees World Economy Rebounding, Yet Still Fragile, in 2023</h3>
+<sub>By Alan Rappeport</sub>
+<p>Kristalina Georgieva, the managing director of the International Monetary Fund, predicts that a global recession can be avoided.  <a href="https://nyti.ms/3ZK1r95"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>G.O.P. Leaders Stand by Santos as New York Republicans Call on Him to Resign</h3>
+<sub>By Annie Karni and Michael Gold</sub>
+<p>Republican congressional leaders badly need the newly elected representative’s vote, but local officials and lawmakers are eager to distance themselves from his scandal.  <a href="https://nyti.ms/3CJNxcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
@@ -104,10 +116,10 @@ There is a lot going on in the world right now. There are two special counsels i
 <p>Travel’s rebound has revealed the depth of our drive to explore the world. Why do we travel? For food, culture, adventure, natural beauty? This year’s list has all those elements, and more.  <a href="https://nyti.ms/3vXlHWQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia releases a U.S. Navy veteran quietly detained in Kaliningrad in April of last year.</h3>
-<sub>By Michael Crowley</sub>
-<p>The veteran, Taylor Dudley, had traveled to Poland to attend a music festival and “at some point crossed the Russian border,” a family spokesman said. It remained unclear on what charges he had been held.  <a href="https://nyti.ms/3ZtYlpt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Microsoft Bets Big on the Creator of ChatGPT in Race to Dominate A.I.</h3>
+<sub>By Cade Metz and Karen Weise</sub>
+<p>As a new chatbot wows the world with its conversational talents, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI.  <a href="https://nyti.ms/3X6H8Rl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -116,22 +128,10 @@ There is a lot going on in the world right now. There are two special counsels i
 <p>At the “Geezer Happy Hour,” the “silver tsunami” has been dancing for decades.  <a href="https://nyti.ms/3GAWbeX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With F.B.I. Search, U.S. Escalates Global Fight Over Chinese Police Outposts</h3>
-<sub>By Megha Rajagopalan and William K. Rashbaum</sub>
-<p>Beijing says the outposts aren’t doing police work, but Chinese state media reports say they “collect intelligence” and solve crimes far outside their jurisdiction.  <a href="https://nyti.ms/3QAWBGE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Exxon Scientists Predicted Global Warming, Even as Company Cast Doubts, Study Finds</h3>
-<sub>By Hiroko Tabuchi</sub>
-<p>Starting in the 1970s, scientists working for the oil giant made remarkably accurate projections of just how much burning fossil fuels would warm the planet.  <a href="https://nyti.ms/3XdBE7y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Jeff Beck’s 10 Essential Songs</h3>
-<sub>By Jon Pareles</sub>
-<p>The guitarist, who died on Tuesday, could make his instrument slash, burn and sigh. Listen to tracks released from 1966 to 2010 that reveal his range and intensity.  <a href="https://nyti.ms/3GEmAsr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Adams Unveils $103 Billion Budget as New York Faces Major Challenges</h3>
+<sub>By Dana Rubinstein and Emma G. Fitzsimmons</sub>
+<p>Mayor Eric Adams wants to retain funding for safety, housing and sanitation but predicts future deficits as the city’s economy struggles to recover fully.  <a href="https://nyti.ms/3vWEUbc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
