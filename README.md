@@ -60,25 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 13, Central Standard Time</p>
 <p>
-Right now, the West has sent an array of weapons to Ukraine, and it looks like tanks will be next. This comes with a Russian offensive being expected. In the US, Attorney General Merrick Garland appointed Robert K. Hur as a special counsel to investigate former President Donald J. Trump&#39;s mishandling of classified material - an inquiry similar to the one into President Biden&#39;s handling of classified documents. Inflation is slowing down, which is good news for consumers and the Fed. There are also some scandals going on in the US - G.O.P. leaders are standing by Santos despite New York Republicans calling for him to resign and there is an investigation into both Hillary Clinton and Donald Trump in how they handled classified files after leaving office. Also, Lisa Marie Presley, daughter of Elvis Presley, has passed away at 54 years old. People have been remembering her talent, kindness, and struggles both through social media and her own music before her death. Finally, Microsoft is making a huge bet on OpenAI in their race to dominate A.I., which has come up with a chatbot that can hold a conversation surprisingly well.</p>
+There&#39;s a lot going on in the world right now. In the US, Special Counsel has launched an inquiry that could potentially put former President Donald Trump and current President Joe Biden in awkward positions politically. The Justice Department is also investigating documents linked to both presidents. Over in Ukraine, Western tanks are being sent as part of an effort to prevent a new possible Russian offensive. Elsewhere, an Idaho murder suspect was revealed to have had little emotion or remorse as a teen. Africa is dealing with a Taliban-imposed ban on aid work for women, and California is struggling with droughts leading to tons of water being washed out to sea. On a more somber note, Lisa Marie Presley, daughter of iconic rock star Elvis Presley, passed away at 54 following a medical emergency. Social media has been flooded with tributes from celebrities saying how kind she was and how talented she was with her own music albums.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Western Tanks Appear Headed to Ukraine, Breaking Another Taboo</h3>
-<sub>By Lara Jakes and Steven Erlanger</sub>
-<p>The West has sent an array of weapons once seen as too provocative, and it looks like tanks will be next. With a new Russian offensive expected, officials see an urgent need to shift the balance.  <a href="https://nyti.ms/3ZzYwPW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Garland Appoints Special Counsel to Investigate Handling of Biden Documents</h3>
+<h3>Special Counsel Inquiry Leaves Biden and Garland in Awkward Spots</h3>
 <sub>By Glenn Thrush, Peter Baker and Charlie Savage</sub>
-<p>The appointment of Robert K. Hur comes two months after the attorney general named a special counsel to investigate former President Donald J. Trump’s mishandling of classified material.  <a href="https://nyti.ms/3ZuAshu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Robert Hur, Special Counsel for Biden’s Inquiry, Knows Pitfalls of the Job</h3>
-<sub>By Glenn Thrush, Adam Goldman and Luke Broadwater</sub>
-<p>Mr. Hur spent time during the Trump administration as a top aide in the Justice Department when it installed a special counsel to oversee the Russia investigation.  <a href="https://nyti.ms/3W87zot"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<p>Although the cases differ significantly, the new investigation is sure to muddy the waters politically as former President Donald J. Trump cries persecution over his own documents inquiry.  <a href="https://nyti.ms/3QDSGt1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Timeline of the Biden Documents Case: What We Know So Far</h3>
@@ -92,17 +80,35 @@ Right now, the West has sent an array of weapons to Ukraine, and it looks like t
 <p>The Justice Department is scrutinizing how both presidents came to have classified records after they left office. But there are major differences.  <a href="https://nyti.ms/3ix9kxB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Is Slowing, Good News for American Consumers and the Fed</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Consumer Price Index inflation moderated to 6.5 percent in December, helping Fed officials to lean toward slower rate moves.  <a href="https://nyti.ms/3IGR5QW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Western Tanks Appear Headed to Ukraine, Breaking Another Taboo</h3>
+<sub>By Lara Jakes and Steven Erlanger</sub>
+<p>The West has sent an array of weapons once seen as too provocative, and it looks like tanks will be next. With a new Russian offensive expected, officials see an urgent need to shift the balance.  <a href="https://nyti.ms/3ZzYwPW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Leaders Stand by Santos as New York Republicans Call on Him to Resign</h3>
-<sub>By Annie Karni and Michael Gold</sub>
-<p>Republican congressional leaders badly need the newly elected representative’s vote, but local officials and lawmakers are eager to distance themselves from his scandal.  <a href="https://nyti.ms/3CJNxcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Idaho Murders Suspect Felt ‘No Emotion’ and ‘Little Remorse’ as a Teen</h3>
+<sub>By Mike Baker and Nicholas Bogel-Burroughs</sub>
+<p>Messages and online posts from the Ph.D. student now charged with four murders show that he was once detached and suicidal before he became fascinated with criminals’ minds.  <a href="https://nyti.ms/3kcxa2m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Bill Nighy, Master of Misdirection</h3>
+<sub>By Sarah Lyall</sub>
+<p>Though his turn in the drama “Living” is the subject of Oscar chatter, just try getting him to talk about his art. He prefers self-deprecation instead.  <a href="https://nyti.ms/3vT4yOd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Violent Gang, or Rap Label? Prosecutors Say Young Thug’s YSL Is Both.</h3>
+<sub>By Joe Coscarelli and Richard Fausset</sub>
+<p>With a blockbuster case set to begin, the superstar rapper sits at the intersection of complex questions about art, crime and the criminal justice system.  <a href="https://nyti.ms/3k1OJSr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In a Drought, California is Watching Water Wash Out to Sea</h3>
+<sub>By Ralph Vartabedian and Mette Lampcov</sub>
+<p>Heavy storms have flooded parts of California, but the state has been unable to capture billions of gallons of water that are flowing unchecked into the ocean. Los Angeles is embarking on an ambitious new program to change that.  <a href="https://nyti.ms/3QEfqc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Lisa Marie Presley, the Daughter of Elvis Presley, Dies at 54</h3>
@@ -119,20 +125,14 @@ Right now, the West has sent an array of weapons to Ukraine, and it looks like t
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Celebrities Remember Lisa Marie Presley</h3>
 <sub>By John Yoon</sub>
-<p>On social media, they recalled her talent, her kindness and her struggles.  <a href="https://nyti.ms/3ZJmtEK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>On social media, they recalled her talent, her kindness and her struggles.  <a href="https://nyti.ms/3ITQJqa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>52 Places to Go in 2023</h3>
-<sub></sub>
-<p>Travel’s rebound has revealed the depth of our drive to explore the world. Why do we travel? For food, culture, adventure, natural beauty? This year’s list has all those elements, and more.  <a href="https://nyti.ms/3vXlHWQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Microsoft Bets Big on the Creator of ChatGPT in Race to Dominate A.I.</h3>
-<sub>By Cade Metz and Karen Weise</sub>
-<p>As a new chatbot wows the world with its conversational talents, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI.  <a href="https://nyti.ms/3X6H8Rl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Burying Us Alive’: Afghan Women Devastated by Suspension of Aid Under Taliban Law</h3>
+<sub>By Christina Goldbaum and Najim Rahim</sub>
+<p>Since the Taliban administration banned women from aid work, many groups have suspended their operations in the country and warned of permanently shutting down if the ban remains.  <a href="https://nyti.ms/3CLz2p6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
