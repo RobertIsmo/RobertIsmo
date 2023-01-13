@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 13, Central Standard Time</p>
 <p>
-Recently, the US and Japan have been strengthening their alliance amid increasing power from China. Sanctions from the West have caused a lot of Russia&#39;s imports to travel through Georgia via truck route. In Russia, there is a rift occurring between the defense ministry and a group named Wagner. In the US, Treasury Department is expecting to use “extraordinary measures” to continue paying government obligations as they battle it out over the debt limit. Big banks are setting aside billions in order to protect against economic downfall in 2021. Special counsels appointed by Biden and Garland are creating political turmoil as Trump cries persecution. At the same time, an Idaho man has been charged with four murders that show his lack of emotion and remorse as a teen. Meanwhile, Trump Organization is being fined over 1.6 million for avoiding taxes. The Signal Peak Mine in Montana has gotten into trouble for its criminal activity, leading environmental groups to want it shut down. Lastly, fans around the world have been mourning Lisa Marie Presley at Graceland as she tragically passed away.</p>
+There&#39;s a lot going on in the world right now! In the US, Biden and Kishida are planning to bolster the relationship between Japan and the US, which has been strained due to China&#39;s growing power and increasing tensions with North Korea and Russia. Meanwhile, there&#39;s been increased focus on debt ceilings and special counsel inquiries from the government, with President Biden joining the club of presidents who have faced a special prosecutor. On the state level, Idaho is dealing with a suspect who feels &quot;no emotion&quot; and &quot;little remorse&quot; after committing four murders. 
+
+The global landscape looks quite different at the moment. There&#39;s an interesting story coming out of Georgia in which a lot of what Russia needs—especially as Western sanctions bar many imports—travels through a slow, congested truck route through the Caucasus mountains. Additionally, there&#39;s a rift widening in Moscow’s war effort as Wagner leaders demand credit for Soledar victory. 
+
+In terms of business, big banks are setting aside billions to prepare for economic downturns. Goldman Sachs has run into some difficulties after trying to tap into consumers, while Signal Peak Mine in Montana is also facing legal troubles with an array of criminal activity happening at the site. 
+
+Finally, fans recently mourned Lisa Marie Presley at Graceland following her death last week—she was remembered as rock star royalty.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden and Kishida to Bolster U.S.-Japan Alliance Amid China’s Growing Power</h3>
 <sub>By Edward Wong</sub>
-<p>The two leaders are set to discuss tensions with China, North Korea and Russia and to plan for deterrence in Asia with U.S. troops and missiles.  <a href="https://nyti.ms/3iIxR2K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The two leaders discussed tensions with China, North Korea and Russia and plans for deterrence in Asia with U.S. troops and missiles.  <a href="https://nyti.ms/3iIxR2K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,7 +81,7 @@ Recently, the US and Japan have been strengthening their alliance amid increasin
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Wagner leader accuses Russia’s defense ministry of stealing credit for Soledar, amplifying a rift.</h3>
+<h3>As Wagner leaders demand credit for Soledar victory, the rift in Moscow’s war effort widens.</h3>
 <sub>By Ivan Nechepurenko</sub>
 <p>  <a href="https://nyti.ms/3W327TO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
@@ -86,12 +92,6 @@ Recently, the US and Japan have been strengthening their alliance amid increasin
 <p>The Treasury Department expects to begin taking “extraordinary measures” to continue paying the government’s obligations ahead of what’s expected to be a big fight to raise the borrowing cap.  <a href="https://nyti.ms/3vZpUt1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Big Banks Set Aside Billions as They Brace for a Downturn</h3>
-<sub>By Stacy Cowley and Rob Copeland</sub>
-<p>The country’s largest lenders increased their reserves to protect against deteriorating economic conditions this year, after reporting resilient profits for the end of last year.  <a href="https://nyti.ms/3kiX0S0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Special Counsel Inquiry Leaves Biden and Garland in Awkward Spots</h3>
 <sub>By Glenn Thrush, Peter Baker and Charlie Savage</sub>
@@ -99,10 +99,10 @@ Recently, the US and Japan have been strengthening their alliance amid increasin
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Robert Hur, Special Counsel for Biden’s Inquiry, Knows Pitfalls of the Job</h3>
-<sub>By Glenn Thrush, Adam Goldman and Luke Broadwater</sub>
-<p>Mr. Hur spent time during the Trump administration as a top aide in the Justice Department when it installed a special counsel to oversee the Russia investigation.  <a href="https://nyti.ms/3W87zot"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<h3>Presidents and Their Prosecutors</h3>
+<sub>By Peter Baker</sub>
+<p>Since the dark days of Watergate, every president but one has faced a special prosecutor scrutinizing them or their associates. President Biden now joins the club.  <a href="https://nyti.ms/3QHkFb1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Idaho Murders Suspect Felt ‘No Emotion’ and ‘Little Remorse’ as a Teen</h3>
@@ -110,10 +110,16 @@ Recently, the US and Japan have been strengthening their alliance amid increasin
 <p>Messages and online posts from the Ph.D. student now charged with four murders show that he was once detached and suicidal before he became fascinated with criminals’ minds.  <a href="https://nyti.ms/3kcxa2m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump’s Company Gets Maximum Punishment for Evading Taxes</h3>
-<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
-<p>The Trump Organization must pay $1.6 million for giving executive off-the-books benefits and pay.  <a href="https://nyti.ms/3w0OCt7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Big Banks Set Aside Billions as They Brace for a Downturn</h3>
+<sub>By Stacy Cowley and Rob Copeland</sub>
+<p>The country’s largest lenders increased their reserves to protect against deteriorating economic conditions this year, after reporting resilient profits for the end of last year.  <a href="https://nyti.ms/3kiX0S0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Goldman’s Pitch to the Little Guy Turns Costly, as Struggles Mount</h3>
+<sub>By Rob Copeland and Emily Flitter</sub>
+<p>Goldman Sachs will take a big hit from its ill-fated move into consumer banking, even as its other businesses weaken amid an economic slowdown.  <a href="https://nyti.ms/3kdYkFU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
