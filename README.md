@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 13, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! In the US, Biden and Kishida are planning to bolster the relationship between Japan and the US, which has been strained due to China&#39;s growing power and increasing tensions with North Korea and Russia. Meanwhile, there&#39;s been increased focus on debt ceilings and special counsel inquiries from the government, with President Biden joining the club of presidents who have faced a special prosecutor. On the state level, Idaho is dealing with a suspect who feels &quot;no emotion&quot; and &quot;little remorse&quot; after committing four murders. 
-
-The global landscape looks quite different at the moment. There&#39;s an interesting story coming out of Georgia in which a lot of what Russia needs—especially as Western sanctions bar many imports—travels through a slow, congested truck route through the Caucasus mountains. Additionally, there&#39;s a rift widening in Moscow’s war effort as Wagner leaders demand credit for Soledar victory. 
-
-In terms of business, big banks are setting aside billions to prepare for economic downturns. Goldman Sachs has run into some difficulties after trying to tap into consumers, while Signal Peak Mine in Montana is also facing legal troubles with an array of criminal activity happening at the site. 
-
-Finally, fans recently mourned Lisa Marie Presley at Graceland following her death last week—she was remembered as rock star royalty.</p>
+There is a lot happening around the world right now. In New York, a Republican politician named George Santos was found to have lied during his campaign, yet many in his own party turned a blind eye. Meanwhile, tensions between Russia, Ukraine, and other countries are continuing to rise with many Russian imports being taken through the Caucasus Mountains from Georgia. In the US, former President Trump is still facing consequences from a documents inquiry while President Biden is having to grapple with issues such as debt limits and preparing his first State of the Union address. Climate change is also an issue, as Montana has faced criminal activity around one of its mines.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and Kishida to Bolster U.S.-Japan Alliance Amid China’s Growing Power</h3>
-<sub>By Edward Wong</sub>
-<p>The two leaders discussed tensions with China, North Korea and Russia and plans for deterrence in Asia with U.S. troops and missiles.  <a href="https://nyti.ms/3iIxR2K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Santos’s Lies Were Known to Some Well-Connected Republicans</h3>
+<sub>By Nicholas Fandos</sub>
+<p>George Santos inspired no shortage of suspicion during his 2022 campaign, including in the upper echelons of his own party, yet many Republicans looked the other way.  <a href="https://nyti.ms/3QG4w5H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia’s Claim to Seize a Ukrainian Town Exposes Rifts Among Forces</h3>
+<sub>By Alan Yuhas, Megan Specia and Ivan Nechepurenko</sub>
+<p>After Russia’s Defense Ministry said its troops had taken Soledar, a leader of the Wagner mercenary group accused the military of stealing credit. Ukraine said its forces were still fighting there.  <a href="https://nyti.ms/3GE3mD5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,22 +80,16 @@ Finally, fans recently mourned Lisa Marie Presley at Graceland following her dea
 <p>With Western sanctions barring many imports, a lot of what Russia needs now travels a slow, crowded truck route through the Caucasus Mountains from Georgia.  <a href="https://nyti.ms/3ZzQ17x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Wagner leaders demand credit for Soledar victory, the rift in Moscow’s war effort widens.</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>  <a href="https://nyti.ms/3W327TO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Will Hit Debt Limit Jan. 19, Yellen Tells Congress</h3>
+<h3>U.S. Will Hit Debt Limit on Thursday, Yellen Tells Congress</h3>
 <sub>By Alan Rappeport and Jim Tankersley</sub>
-<p>The Treasury Department expects to begin taking “extraordinary measures” to continue paying the government’s obligations ahead of what’s expected to be a big fight to raise the borrowing cap.  <a href="https://nyti.ms/3vZpUt1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Treasury Department expects to begin taking “extraordinary measures” to continue paying the government’s obligations before what is expected to be a big fight to raise the borrowing cap.  <a href="https://nyti.ms/3vZpUt1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Special Counsel Inquiry Leaves Biden and Garland in Awkward Spots</h3>
-<sub>By Glenn Thrush, Peter Baker and Charlie Savage</sub>
-<p>Although the cases differ significantly, the new investigation is sure to muddy the waters politically as former President Donald J. Trump cries persecution over his own documents inquiry.  <a href="https://nyti.ms/3QDSGt1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Washington Adjusts to Altered Landscape After Justice Dept. Installs Special Counsel</h3>
+<sub>By Glenn Thrush and Luke Broadwater</sub>
+<p>The new investigation is sure to muddy the waters politically as former President Donald J. Trump cries persecution over his own documents inquiry, although the cases differ significantly.  <a href="https://nyti.ms/3QDSGt1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,39 +99,39 @@ Finally, fans recently mourned Lisa Marie Presley at Graceland following her dea
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Idaho Murders Suspect Felt ‘No Emotion’ and ‘Little Remorse’ as a Teen</h3>
-<sub>By Mike Baker and Nicholas Bogel-Burroughs</sub>
-<p>Messages and online posts from the Ph.D. student now charged with four murders show that he was once detached and suicidal before he became fascinated with criminals’ minds.  <a href="https://nyti.ms/3kcxa2m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Classified Information Is Handled</h3>
+<sub>By Charlie Savage</sub>
+<p>Presidents have established and developed the classification system through a series of executive orders around World War II and the early Cold War.  <a href="https://nyti.ms/3Xc1AjF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Big Banks Set Aside Billions as They Brace for a Downturn</h3>
-<sub>By Stacy Cowley and Rob Copeland</sub>
-<p>The country’s largest lenders increased their reserves to protect against deteriorating economic conditions this year, after reporting resilient profits for the end of last year.  <a href="https://nyti.ms/3kiX0S0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Sweden Says It Has Uncovered a Rare Earth Bonanza</h3>
+<sub>By Stanley Reed</sub>
+<p>A state-owned mining company announced it had found Europe’s largest deposit of the vital minerals used in electric vehicles and other green technology.  <a href="https://nyti.ms/3CNSqlj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Goldman’s Pitch to the Little Guy Turns Costly, as Struggles Mount</h3>
-<sub>By Rob Copeland and Emily Flitter</sub>
-<p>Goldman Sachs will take a big hit from its ill-fated move into consumer banking, even as its other businesses weaken amid an economic slowdown.  <a href="https://nyti.ms/3kdYkFU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Fentanyl Helps Push Overdose Deaths to Record Level in New York City</h3>
+<sub>By Joseph Goldstein and Joshua Needelman</sub>
+<p>The city’s health commissioner said fatalities appeared to still be surging despite measures meant to keep addicted people alive.  <a href="https://nyti.ms/3ILxxuQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden and Kishida Vow to Bolster U.S.-Japan Alliance as China’s Power Grows</h3>
+<sub>By Edward Wong</sub>
+<p>The two leaders discussed tensions with China, North Korea and Russia and plans for deterrence in Asia with U.S. troops and missiles.  <a href="https://nyti.ms/3iIxR2K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Will Deliver State of the Union Address on Feb. 7</h3>
+<sub>By Michael D. Shear</sub>
+<p>President Biden’s speech will be his first appearance before a House led by Republicans who are unlikely to cooperate with his agenda.  <a href="https://nyti.ms/3Da3hX9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>A Faked Kidnapping and Cocaine: A Montana Mine’s Descent Into Chaos</h3>
 <sub>By Hiroko Tabuchi</sub>
 <p>The Signal Peak Mine was embroiled in a web of criminal activity. Now, environmental groups want to shut it down.  <a href="https://nyti.ms/3CKOu4X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Fans Mourn Lisa Marie Presley, Daughter of the King, at Graceland</h3>
-<sub>By Laura Faith Kebede and Dan Bilefsky</sub>
-<p>At the stone wall outside Elvis Presley’s estate, his only child was remembered as a kind of rock star royalty.  <a href="https://nyti.ms/3CLr8fp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Lisa Marie Presley, a Life in Pictures</h3>
-<sub>By Vanessa Friedman</sub>
-<p>The daughter of Elvis was famous from the moment she was born.  <a href="https://nyti.ms/3GFYYn4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
