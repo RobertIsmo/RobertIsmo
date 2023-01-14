@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 14, Central Standard Time</p>
 <p>
-Currently, the world is facing many different issues. In the US, former President Donald Trump is being investigated by a special counsel, and there is a fight to raise the debt limit. In Russia, there is political tension over their troops seizing a Ukrainian town. Governments around the world are also dealing with the effects of COVID-19 and countries like Sweden are turning to rare earth minerals for green technology. Fans have been mourning the unfortunate death of Lisa Marie Presley, daughter of Elvis Presley. Meanwhile in New York City, an alarming number of people overdosed due to fentanyl and people on the street are struggling financially.</p>
+There is a lot happening in the world right now. In New York, former president Santos&#39;s lies were known to some well-connected Republicans, but were ignored. Russia has made a claim to seize a Ukrainian town, and goods are getting to Russia through a long line of trucks coming from Georgia. In Kyiv, Ukraine&#39;s capital, there have been explosions after days of relative calm due to Russian forces targeting them with missiles and drones. 
+
+On the economic front, U.S. Treasury Secretary Yellen has said that the debt limit will be reached on Thursday, and President Biden is now facing a special prosecutor for his documents inquiry like every president before him, apart from one. Sweden just announced that it has uncovered Europe&#39;s largest deposit of rare earth minerals used in electric vehicles and other green technologies. In Germany, an entire village was cleared out due to a fight over coal and climate change; and in New York City overdose deaths are at an all-time high due to fentanyl use. 
+
+Also, President Biden and Japan&#39;s Foreign Minister Kishida just had a meeting where they discussed tensions with China, North Korea and Russia and plans for deterrence in Asia with U.S. troops and missiles. And sadly Elvis Presley&#39;s daughter Lisa Marie Presley has passed away recently and her fans have gone to Graceland to remember her at the stone wall outside his estate.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Santos’s Lies Were Known to Some Well-Connected Republicans</h3>
@@ -79,6 +83,12 @@ Currently, the world is facing many different issues. In the US, former Presiden
 <sub>By Ivan Nechepurenko</sub>
 <p>With Western sanctions barring many imports, a lot of what Russia needs now travels a slow, crowded truck route through the Caucasus Mountains from Georgia.  <a href="https://nyti.ms/3ZzQ17x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Explosions Ring Out in Kyiv After Days of Relative Calm</h3>
+<sub>By Megan Specia</sub>
+<p>Russian forces have targeted Kyiv, the Ukrainian capital, and other cities with missile and drone attacks off-and-on for months, devastating the power grid and forcing rolling blackouts.  <a href="https://nyti.ms/3IOtMVC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. Will Hit Debt Limit on Thursday, Yellen Tells Congress</h3>
@@ -104,6 +114,12 @@ Currently, the world is facing many different issues. In the US, former Presiden
 <p>A state-owned mining company announced it had found Europe’s largest deposit of the vital minerals used in electric vehicles and other green technology.  <a href="https://nyti.ms/3CNSqlj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>German Village at Center of a Fight Over Coal and Climate Is Cleared Out</h3>
+<sub>By Christopher F. Schuetze</sub>
+<p>For years, activists tried to save tiny Lützerath from being razed to make way for the expansion of an open-pit coal mine. This past week, the police moved them out.  <a href="https://nyti.ms/3Wdp5Yp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Fentanyl Helps Push Overdose Deaths to Record Level in New York City</h3>
 <sub>By Joseph Goldstein and Joshua Needelman</sub>
@@ -120,18 +136,6 @@ Currently, the world is facing many different issues. In the US, former Presiden
 <h3>Fans Mourn Lisa Marie Presley, Daughter of the King, at Graceland</h3>
 <sub>By Laura Faith Kebede and Dan Bilefsky</sub>
 <p>At the stone wall outside Elvis Presley’s estate, his only child was remembered as a kind of rock star royalty.  <a href="https://nyti.ms/3CLr8fp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Another Public, Painful Loss for Priscilla Presley</h3>
-<sub>By Maya Salam</sub>
-<p>Priscilla Presley appeared with her daughter, Lisa Marie Presley, at the Golden Globes on Tuesday, just days before her death.  <a href="https://nyti.ms/3Zyp6ck"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>27 People on the Streets of New York Talk About How Much Money They Make</h3>
-<sub>By Julia Rothman and Shaina Feinberg</sub>
-<p>We asked nearly 400 people to tell us how much they earn. Here are two dozen who actually spoke to us.  <a href="https://nyti.ms/3ZvsC7g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
