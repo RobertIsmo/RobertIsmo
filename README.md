@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 14, Central Standard Time</p>
 <p>
-It&#39;s a really interesting time in the world right now. In Brazil, there is tension between President Jair Bolsonaro and the people who opposed him and were even trying to overthrow him earlier this week--the Supreme Court is now investigating him for how he may have inspired the attack. In Ukraine, Russian forces are looting valuable art pieces and attacking its cultural identity, while also targeting cities like Kyiv with missile and drone attacks. Meanwhile, in Germany the people of a small village have been cleared from their homes to make way for a coal mine expansion. Ecuador is struggling with debt and considering drilling more into its national rainforest, which would have an effect on the climate. Sweden has just announced it has found Europe&#39;s largest deposit of mineral resources that are used in green technology, like electric vehicles. And finally in Washington, D.C., the Justice Department recently installed a special counsel to investigate documents related to former President Donald Trump’s administration--a move he perceives as persecution. It&#39;s a lot going on at once!</p>
+In the world right now, there is a lot of news and focus on political issues, human rights, and the environment. In the US, there is a debate over disinformation in politics driving a divide between Republicans and Democrats. In Ukraine, Russians are engaging in cultural theft by stealing art to strip the country of its heritage. In Ecuador, oil drilling is expanding despite efforts to limit it to protect the Amazon rainforest. We are also seeing how the Covid-19 pandemic is still affecting many countries, particularly China, as it reports nearly 60,000 deaths since lifting restrictions. Additionally, many parts of Europe struggle with coal and mining projects that are destroying communities and ecosystems.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Santos’s Lies Were Known to Some Well-Connected Republicans</h3>
@@ -69,39 +69,33 @@ It&#39;s a really interesting time in the world right now. In Brazil, there is t
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Russians Steal Ukraine’s Art, They Attack Its Identity, Too</h3>
+<sub>By Jeffrey Gettleman and Oleksandra Mykolyshyn</sub>
+<p>Russian forces have looted tens of thousands of pieces, including avant-garde oil paintings and Scythian gold. Experts say it is the biggest art heist since the Nazis in World War II, intended to strip Ukraine of its cultural heritage.  <a href="https://nyti.ms/3IMl1v6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia launches strikes on cities far from Ukraine’s front lines.</h3>
+<sub>By Megan Specia</sub>
+<p>Russian forces have targeted Kyiv, the Ukrainian capital, and other cities with missile and drone attacks off-and-on for months, devastating the power grid and forcing rolling blackouts.  <a href="https://nyti.ms/3QCau7K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘We Will Die for Brazil’: How a Far-Right Mob Tried to Oust Lula</h3>
 <sub>By Jack Nicas and Simon Romero</sub>
 <p>The storming of Brazil’s capital failed to overthrow the elected government. But an examination of the attack reveals how extremism is threatening Latin America’s largest democracy.  <a href="https://nyti.ms/3Xrihr8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Bolsonaro Faces Investigation for Inspiring Brazil’s Capital Riot</h3>
-<sub>By Jack Nicas and André Spigariol</sub>
-<p>Brazil’s Supreme Court said it would investigate Jair Bolsonaro, the country’s former president, for inspiring the mob that stormed the nation’s halls of power on Sunday.  <a href="https://nyti.ms/3XnaOtm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Russians Steal Ukraine’s Art, They Attack Its Identity, Too</h3>
-<sub>By Jeffrey Gettleman and Oleksandra Mykolyshyn</sub>
-<p>Russian forces have looted tens of thousands of pieces, including avant-garde oil paintings and Scythian gold. Experts say it is the biggest art heist since the Nazis in World War II, intended to strip Ukraine of its cultural heritage.  <a href="https://nyti.ms/3IMl1v6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A Culture in the Cross Hairs</h3>
-<sub>By Jason Farago, Haley Willis, Sarah Kerr and Ainara Tiefenthäler</sub>
-<p>Russia’s invasion has systematically destroyed Ukrainian cultural sites. A Times investigation has identified 339 that sustained substantial damage this year.  <a href="https://nyti.ms/3PI2XUA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Explosions Ring Out in Kyiv After Days of Relative Calm</h3>
-<sub>By Megan Specia</sub>
-<p>Russian forces have targeted Kyiv, the Ukrainian capital, and other cities with missile and drone attacks off-and-on for months, devastating the power grid and forcing rolling blackouts.  <a href="https://nyti.ms/3IOtMVC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hunting for Truffles Is a Perilous Pursuit, Especially for the Dogs Who Dig</h3>
 <sub>By Jason Horowitz</sub>
 <p>Truffles are big business, and some are trying to take out the competition by poisoning the dogs that accompany those known as “truffle hunters.”  <a href="https://nyti.ms/3H69Qwf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Reports Nearly 60,000 Covid Deaths Since Lifting Restrictions</h3>
+<sub>By David Pierson and Olivia Wang</sub>
+<p>The unexpected disclosure was made as the country faces mounting criticism for providing unreliable data on its latest coronavirus outbreak.  <a href="https://nyti.ms/3IIYaRc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -117,21 +111,27 @@ It&#39;s a really interesting time in the world right now. In Brazil, there is t
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Sweden Says It Has Uncovered a Rare Earth Bonanza</h3>
-<sub>By Stanley Reed</sub>
-<p>A state-owned mining company announced it had found Europe’s largest deposit of the vital minerals used in electric vehicles and other green technology.  <a href="https://nyti.ms/3CNSqlj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>‘Based on a True Story’ (Except the Parts That Aren’t)</h3>
 <sub>By Jeremy W. Peters and Nicole Sperling</sub>
 <p>The entertainment genre of historical drama is flourishing — and riddled with inaccuracies. The untrue parts are leading to more public spats and lawsuits.  <a href="https://nyti.ms/3GJrAvK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Washington Adjusts to Altered Landscape After Justice Dept. Installs Special Counsel</h3>
-<sub>By Glenn Thrush and Luke Broadwater</sub>
-<p>The new investigation is sure to muddy the waters politically as former President Donald J. Trump cries persecution over his own documents inquiry, although the cases differ significantly.  <a href="https://nyti.ms/3QDSGt1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Why N.F.L. Receivers Don’t Get Enough Credit</h3>
+<sub>By Emmanuel Morgan</sub>
+<p>In split seconds, their moves make all the difference. Justin Jefferson, Adam Thielen, Tyreek Hill, DeVonta Smith and CeeDee Lamb helped us dissect the art of route running.  <a href="https://nyti.ms/3IOeKza"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jaclyn Reiss</sub>
+<p>The New York Times book review of Prince Harry’s memoir, where to go in 2023 and why Noma, the world’s top-rated restaurant, plans to close.  <a href="https://nyti.ms/3IJXoTN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, January 13, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3iy16W0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
