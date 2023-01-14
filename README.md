@@ -60,8 +60,44 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 14, Central Standard Time</p>
 <p>
-In the world right now, there is a lot of news and focus on political issues, human rights, and the environment. In the US, there is a debate over disinformation in politics driving a divide between Republicans and Democrats. In Ukraine, Russians are engaging in cultural theft by stealing art to strip the country of its heritage. In Ecuador, oil drilling is expanding despite efforts to limit it to protect the Amazon rainforest. We are also seeing how the Covid-19 pandemic is still affecting many countries, particularly China, as it reports nearly 60,000 deaths since lifting restrictions. Additionally, many parts of Europe struggle with coal and mining projects that are destroying communities and ecosystems.</p>
+In the world right now, there are a lot of things happening. China has reported nearly 60,000 Covid-related deaths since lifting restrictions, and in Shanghai a massive Covid wave is gripping the city and leading to huge hospitalizations. There&#39;s also a new dominant strain of Covid that&#39;s causing a majority of new cases in the Northeast. Closer to home, more documents have been found at Joe Biden&#39;s Wilmington home than initially reported, and the special counsel is trying to figure out how exactly those documents got there from his vice presidency. At the same time, some well-connected Republicans had suspicions about someone cheating in the 2022 election and did nothing about it. In Ukraine, Russian forces are looting art and attempting to strip the country of its cultural heritage after WW2. Meanwhile, California is facing gigantic weather patterns that bring devastating storms. Truffle hunting is also proving to be a dangerous pursuit with some trying to poision the dogs that accompany truffle hunters. And there’s a resurgance of far-right extremism threatening Latin America&#39;s largest democracy in Brazil. Finally, some movies aren&#39;t totally true to history anymore (based on a true story), which has resulted in more public disputes and lawsuits.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Reports Nearly 60,000 Covid-Linked Deaths Since Lifting Restrictions</h3>
+<sub>By David Pierson and Olivia Wang</sub>
+<p>The unexpected disclosure was made as the country faces mounting criticism for providing unreliable data on its latest coronavirus outbreak.  <a href="https://nyti.ms/3IIYaRc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>This Is What Shanghai’s Covid Outbreak Looks Like</h3>
+<sub>By Qilai Shen and David Pierson</sub>
+<p>The Chinese city is being gripped by a massive Covid wave, leading to a surge in hospitalizations and crowded funeral homes.  <a href="https://nyti.ms/3W45GsO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>There’s Already Another New Dominant Covid Strain. Here’s What to Know.</h3>
+<sub>By Knvul Sheikh</sub>
+<p>In the Northeast, the fast-spreading XBB.1.5 variant is causing a majority of new cases.  <a href="https://nyti.ms/3DEiUoP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Additional Documents Found at Biden’s Wilmington Home, White House Says</h3>
+<sub>By Charlie Savage</sub>
+<p>The revelation came as the White House defended its public statements, which had not fully disclosed the extent of the documents that remained in Mr. Biden’s possession.  <a href="https://nyti.ms/3ZCxwPL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Documents Inquiry Puts Spotlight on Biden’s Frenetic Last Days as Vice President</h3>
+<sub>By Peter Baker and Michael D. Shear</sub>
+<p>The special counsel will have to reconstruct how a small number of classified documents made it to Mr. Biden’s home in Delaware and a private office in Washington.  <a href="https://nyti.ms/3QC2vHT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Classified Information Is Handled</h3>
+<sub>By Charlie Savage</sub>
+<p>Presidents have established and developed the classification system through a series of executive orders around World War II and the early Cold War.  <a href="https://nyti.ms/3Xc1AjF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Santos’s Lies Were Known to Some Well-Connected Republicans</h3>
 <sub>By Nicholas Fandos</sub>
@@ -74,17 +110,11 @@ In the world right now, there is a lot of news and focus on political issues, hu
 <p>Russian forces have looted tens of thousands of pieces, including avant-garde oil paintings and Scythian gold. Experts say it is the biggest art heist since the Nazis in World War II, intended to strip Ukraine of its cultural heritage.  <a href="https://nyti.ms/3IMl1v6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia launches strikes on cities far from Ukraine’s front lines.</h3>
-<sub>By Megan Specia</sub>
-<p>Russian forces have targeted Kyiv, the Ukrainian capital, and other cities with missile and drone attacks off-and-on for months, devastating the power grid and forcing rolling blackouts.  <a href="https://nyti.ms/3QCau7K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>8 Miles Over the Pacific, Getting Inside California’s Wild Weather</h3>
+<sub>By Raymond Zhong and Erin Schaff</sub>
+<p>A Times reporter and photographer rode along with a team gathering data on the colossal atmospheric rivers that have drenched the state.  <a href="https://nyti.ms/3H2JV8q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘We Will Die for Brazil’: How a Far-Right Mob Tried to Oust Lula</h3>
-<sub>By Jack Nicas and Simon Romero</sub>
-<p>The storming of Brazil’s capital failed to overthrow the elected government. But an examination of the attack reveals how extremism is threatening Latin America’s largest democracy.  <a href="https://nyti.ms/3Xrihr8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hunting for Truffles Is a Perilous Pursuit, Especially for the Dogs Who Dig</h3>
@@ -93,46 +123,16 @@ In the world right now, there is a lot of news and focus on political issues, hu
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Reports Nearly 60,000 Covid Deaths Since Lifting Restrictions</h3>
-<sub>By David Pierson and Olivia Wang</sub>
-<p>The unexpected disclosure was made as the country faces mounting criticism for providing unreliable data on its latest coronavirus outbreak.  <a href="https://nyti.ms/3IIYaRc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Ecuador Tried to Curb Drilling and Protect the Amazon. The Opposite Happened.</h3>
-<sub>By Catrin Einhorn, Manuela Andreoni and Erin Schaff</sub>
-<p>A novel idea to leave the country’s vast oil reserves in the ground fizzled for lack of international support. Now, struggling under painful debt, the government wants to expand drilling in the rainforest.  <a href="https://nyti.ms/3iGEJhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>German Village at Center of a Fight Over Coal and Climate Is Cleared Out</h3>
-<sub>By Christopher F. Schuetze</sub>
-<p>For years, activists tried to save tiny Lützerath from being razed to make way for the expansion of an open-pit coal mine. This past week, the police moved them out.  <a href="https://nyti.ms/3Wdp5Yp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<h3>‘We Will Die for Brazil’: How a Far-Right Mob Tried to Oust Lula</h3>
+<sub>By Jack Nicas and Simon Romero</sub>
+<p>The storming of Brazil’s capital failed to overthrow the elected government. But an examination of the attack reveals how extremism is threatening Latin America’s largest democracy.  <a href="https://nyti.ms/3Xrihr8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>‘Based on a True Story’ (Except the Parts That Aren’t)</h3>
 <sub>By Jeremy W. Peters and Nicole Sperling</sub>
 <p>The entertainment genre of historical drama is flourishing — and riddled with inaccuracies. The untrue parts are leading to more public spats and lawsuits.  <a href="https://nyti.ms/3GJrAvK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Why N.F.L. Receivers Don’t Get Enough Credit</h3>
-<sub>By Emmanuel Morgan</sub>
-<p>In split seconds, their moves make all the difference. Justin Jefferson, Adam Thielen, Tyreek Hill, DeVonta Smith and CeeDee Lamb helped us dissect the art of route running.  <a href="https://nyti.ms/3IOeKza"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jaclyn Reiss</sub>
-<p>The New York Times book review of Prince Harry’s memoir, where to go in 2023 and why Noma, the world’s top-rated restaurant, plans to close.  <a href="https://nyti.ms/3IJXoTN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, January 13, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3iy16W0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
