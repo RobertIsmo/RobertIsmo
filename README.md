@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, January 13, Central Standard Time</p>
+<p>It is Saturday, January 14, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot going on in the news lately! In the US and NYC region specifically, there are a lot of political issues, including the Justice Department&#39;s appointment of a special counsel to investigate the Trump administration and President Biden preparing to deliver his first State of the Union address. Globally, Russia is facing rifts among forces as they attempt to seize a Ukrainian town and truck routes over the Caucasus Mountains from Georgia are carrying goods into Russia due to Western sanctions. There are also environmental concerns, such as a Montana mine that got wrapped up in criminal activity. And New York City had a record high level of overdose deaths due to fentanyl.</p>
+Currently, the world is facing many different issues. In the US, former President Donald Trump is being investigated by a special counsel, and there is a fight to raise the debt limit. In Russia, there is political tension over their troops seizing a Ukrainian town. Governments around the world are also dealing with the effects of COVID-19 and countries like Sweden are turning to rare earth minerals for green technology. Fans have been mourning the unfortunate death of Lisa Marie Presley, daughter of Elvis Presley. Meanwhile in New York City, an alarming number of people overdosed due to fentanyl and people on the street are struggling financially.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Santos’s Lies Were Known to Some Well-Connected Republicans</h3>
@@ -98,12 +98,6 @@ It looks like there&#39;s a lot going on in the news lately! In the US and NYC r
 <p>Since the dark days of Watergate, every president but one has faced a special prosecutor scrutinizing them or their associates. President Biden now joins the club.  <a href="https://nyti.ms/3QHkFb1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Classified Information Is Handled</h3>
-<sub>By Charlie Savage</sub>
-<p>Presidents have established and developed the classification system through a series of executive orders around World War II and the early Cold War.  <a href="https://nyti.ms/3Xc1AjF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Sweden Says It Has Uncovered a Rare Earth Bonanza</h3>
 <sub>By Stanley Reed</sub>
@@ -122,16 +116,22 @@ It looks like there&#39;s a lot going on in the news lately! In the US and NYC r
 <p>The two leaders discussed tensions with China, North Korea and Russia and plans for deterrence in Asia with U.S. troops and missiles.  <a href="https://nyti.ms/3iIxR2K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Will Deliver State of the Union Address on Feb. 7</h3>
-<sub>By Michael D. Shear</sub>
-<p>President Biden’s speech will be his first appearance before a House led by Republicans who are unlikely to cooperate with his agenda.  <a href="https://nyti.ms/3Da3hX9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Fans Mourn Lisa Marie Presley, Daughter of the King, at Graceland</h3>
+<sub>By Laura Faith Kebede and Dan Bilefsky</sub>
+<p>At the stone wall outside Elvis Presley’s estate, his only child was remembered as a kind of rock star royalty.  <a href="https://nyti.ms/3CLr8fp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Faked Kidnapping and Cocaine: A Montana Mine’s Descent Into Chaos</h3>
-<sub>By Hiroko Tabuchi</sub>
-<p>The Signal Peak Mine was embroiled in a web of criminal activity. Now, environmental groups want to shut it down.  <a href="https://nyti.ms/3CKOu4X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Another Public, Painful Loss for Priscilla Presley</h3>
+<sub>By Maya Salam</sub>
+<p>Priscilla Presley appeared with her daughter, Lisa Marie Presley, at the Golden Globes on Tuesday, just days before her death.  <a href="https://nyti.ms/3Zyp6ck"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>27 People on the Streets of New York Talk About How Much Money They Make</h3>
+<sub>By Julia Rothman and Shaina Feinberg</sub>
+<p>We asked nearly 400 people to tell us how much they earn. Here are two dozen who actually spoke to us.  <a href="https://nyti.ms/3ZvsC7g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
