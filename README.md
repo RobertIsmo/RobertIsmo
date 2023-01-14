@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 14, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In New York, former president Santos&#39;s lies were known to some well-connected Republicans, but were ignored. Russia has made a claim to seize a Ukrainian town, and goods are getting to Russia through a long line of trucks coming from Georgia. In Kyiv, Ukraine&#39;s capital, there have been explosions after days of relative calm due to Russian forces targeting them with missiles and drones. 
-
-On the economic front, U.S. Treasury Secretary Yellen has said that the debt limit will be reached on Thursday, and President Biden is now facing a special prosecutor for his documents inquiry like every president before him, apart from one. Sweden just announced that it has uncovered Europe&#39;s largest deposit of rare earth minerals used in electric vehicles and other green technologies. In Germany, an entire village was cleared out due to a fight over coal and climate change; and in New York City overdose deaths are at an all-time high due to fentanyl use. 
-
-Also, President Biden and Japan&#39;s Foreign Minister Kishida just had a meeting where they discussed tensions with China, North Korea and Russia and plans for deterrence in Asia with U.S. troops and missiles. And sadly Elvis Presley&#39;s daughter Lisa Marie Presley has passed away recently and her fans have gone to Graceland to remember her at the stone wall outside his estate.</p>
+It&#39;s a really interesting time in the world right now. In Brazil, there is tension between President Jair Bolsonaro and the people who opposed him and were even trying to overthrow him earlier this week--the Supreme Court is now investigating him for how he may have inspired the attack. In Ukraine, Russian forces are looting valuable art pieces and attacking its cultural identity, while also targeting cities like Kyiv with missile and drone attacks. Meanwhile, in Germany the people of a small village have been cleared from their homes to make way for a coal mine expansion. Ecuador is struggling with debt and considering drilling more into its national rainforest, which would have an effect on the climate. Sweden has just announced it has found Europe&#39;s largest deposit of mineral resources that are used in green technology, like electric vehicles. And finally in Washington, D.C., the Justice Department recently installed a special counsel to investigate documents related to former President Donald Trump’s administration--a move he perceives as persecution. It&#39;s a lot going on at once!</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Santos’s Lies Were Known to Some Well-Connected Republicans</h3>
@@ -73,16 +69,28 @@ Also, President Biden and Japan&#39;s Foreign Minister Kishida just had a meetin
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s Claim to Seize a Ukrainian Town Exposes Rifts Among Forces</h3>
-<sub>By Alan Yuhas, Megan Specia and Ivan Nechepurenko</sub>
-<p>After Russia’s Defense Ministry said its troops had taken Soledar, a leader of the Wagner mercenary group accused the military of stealing credit. Ukraine said its forces were still fighting there.  <a href="https://nyti.ms/3GE3mD5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘We Will Die for Brazil’: How a Far-Right Mob Tried to Oust Lula</h3>
+<sub>By Jack Nicas and Simon Romero</sub>
+<p>The storming of Brazil’s capital failed to overthrow the elected government. But an examination of the attack reveals how extremism is threatening Latin America’s largest democracy.  <a href="https://nyti.ms/3Xrihr8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Western Goods Reach Russia: A Long Line of Trucks Through Georgia</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>With Western sanctions barring many imports, a lot of what Russia needs now travels a slow, crowded truck route through the Caucasus Mountains from Georgia.  <a href="https://nyti.ms/3ZzQ17x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Bolsonaro Faces Investigation for Inspiring Brazil’s Capital Riot</h3>
+<sub>By Jack Nicas and André Spigariol</sub>
+<p>Brazil’s Supreme Court said it would investigate Jair Bolsonaro, the country’s former president, for inspiring the mob that stormed the nation’s halls of power on Sunday.  <a href="https://nyti.ms/3XnaOtm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Russians Steal Ukraine’s Art, They Attack Its Identity, Too</h3>
+<sub>By Jeffrey Gettleman and Oleksandra Mykolyshyn</sub>
+<p>Russian forces have looted tens of thousands of pieces, including avant-garde oil paintings and Scythian gold. Experts say it is the biggest art heist since the Nazis in World War II, intended to strip Ukraine of its cultural heritage.  <a href="https://nyti.ms/3IMl1v6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A Culture in the Cross Hairs</h3>
+<sub>By Jason Farago, Haley Willis, Sarah Kerr and Ainara Tiefenthäler</sub>
+<p>Russia’s invasion has systematically destroyed Ukrainian cultural sites. A Times investigation has identified 339 that sustained substantial damage this year.  <a href="https://nyti.ms/3PI2XUA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Explosions Ring Out in Kyiv After Days of Relative Calm</h3>
@@ -90,29 +98,17 @@ Also, President Biden and Japan&#39;s Foreign Minister Kishida just had a meetin
 <p>Russian forces have targeted Kyiv, the Ukrainian capital, and other cities with missile and drone attacks off-and-on for months, devastating the power grid and forcing rolling blackouts.  <a href="https://nyti.ms/3IOtMVC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Will Hit Debt Limit on Thursday, Yellen Tells Congress</h3>
-<sub>By Alan Rappeport and Jim Tankersley</sub>
-<p>The Treasury Department expects to begin taking “extraordinary measures” to continue paying the government’s obligations before what is expected to be a big fight to raise the borrowing cap.  <a href="https://nyti.ms/3vZpUt1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hunting for Truffles Is a Perilous Pursuit, Especially for the Dogs Who Dig</h3>
+<sub>By Jason Horowitz</sub>
+<p>Truffles are big business, and some are trying to take out the competition by poisoning the dogs that accompany those known as “truffle hunters.”  <a href="https://nyti.ms/3H69Qwf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Washington Adjusts to Altered Landscape After Justice Dept. Installs Special Counsel</h3>
-<sub>By Glenn Thrush and Luke Broadwater</sub>
-<p>The new investigation is sure to muddy the waters politically as former President Donald J. Trump cries persecution over his own documents inquiry, although the cases differ significantly.  <a href="https://nyti.ms/3QDSGt1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Presidents and Their Prosecutors</h3>
-<sub>By Peter Baker</sub>
-<p>Since the dark days of Watergate, every president but one has faced a special prosecutor scrutinizing them or their associates. President Biden now joins the club.  <a href="https://nyti.ms/3QHkFb1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Sweden Says It Has Uncovered a Rare Earth Bonanza</h3>
-<sub>By Stanley Reed</sub>
-<p>A state-owned mining company announced it had found Europe’s largest deposit of the vital minerals used in electric vehicles and other green technology.  <a href="https://nyti.ms/3CNSqlj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Ecuador Tried to Curb Drilling and Protect the Amazon. The Opposite Happened.</h3>
+<sub>By Catrin Einhorn, Manuela Andreoni and Erin Schaff</sub>
+<p>A novel idea to leave the country’s vast oil reserves in the ground fizzled for lack of international support. Now, struggling under painful debt, the government wants to expand drilling in the rainforest.  <a href="https://nyti.ms/3iGEJhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>German Village at Center of a Fight Over Coal and Climate Is Cleared Out</h3>
@@ -120,22 +116,22 @@ Also, President Biden and Japan&#39;s Foreign Minister Kishida just had a meetin
 <p>For years, activists tried to save tiny Lützerath from being razed to make way for the expansion of an open-pit coal mine. This past week, the police moved them out.  <a href="https://nyti.ms/3Wdp5Yp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Fentanyl Helps Push Overdose Deaths to Record Level in New York City</h3>
-<sub>By Joseph Goldstein and Joshua Needelman</sub>
-<p>The city’s health commissioner said fatalities appeared to still be surging despite measures meant to keep addicted people alive.  <a href="https://nyti.ms/3ILxxuQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Sweden Says It Has Uncovered a Rare Earth Bonanza</h3>
+<sub>By Stanley Reed</sub>
+<p>A state-owned mining company announced it had found Europe’s largest deposit of the vital minerals used in electric vehicles and other green technology.  <a href="https://nyti.ms/3CNSqlj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘Based on a True Story’ (Except the Parts That Aren’t)</h3>
+<sub>By Jeremy W. Peters and Nicole Sperling</sub>
+<p>The entertainment genre of historical drama is flourishing — and riddled with inaccuracies. The untrue parts are leading to more public spats and lawsuits.  <a href="https://nyti.ms/3GJrAvK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and Kishida Vow to Bolster U.S.-Japan Alliance as China’s Power Grows</h3>
-<sub>By Edward Wong</sub>
-<p>The two leaders discussed tensions with China, North Korea and Russia and plans for deterrence in Asia with U.S. troops and missiles.  <a href="https://nyti.ms/3iIxR2K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Fans Mourn Lisa Marie Presley, Daughter of the King, at Graceland</h3>
-<sub>By Laura Faith Kebede and Dan Bilefsky</sub>
-<p>At the stone wall outside Elvis Presley’s estate, his only child was remembered as a kind of rock star royalty.  <a href="https://nyti.ms/3CLr8fp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Washington Adjusts to Altered Landscape After Justice Dept. Installs Special Counsel</h3>
+<sub>By Glenn Thrush and Luke Broadwater</sub>
+<p>The new investigation is sure to muddy the waters politically as former President Donald J. Trump cries persecution over his own documents inquiry, although the cases differ significantly.  <a href="https://nyti.ms/3QDSGt1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
