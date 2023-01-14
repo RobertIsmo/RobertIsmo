@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 14, Central Standard Time</p>
 <p>
-In the world right now, there are a lot of things happening. China has reported nearly 60,000 Covid-related deaths since lifting restrictions, and in Shanghai a massive Covid wave is gripping the city and leading to huge hospitalizations. There&#39;s also a new dominant strain of Covid that&#39;s causing a majority of new cases in the Northeast. Closer to home, more documents have been found at Joe Biden&#39;s Wilmington home than initially reported, and the special counsel is trying to figure out how exactly those documents got there from his vice presidency. At the same time, some well-connected Republicans had suspicions about someone cheating in the 2022 election and did nothing about it. In Ukraine, Russian forces are looting art and attempting to strip the country of its cultural heritage after WW2. Meanwhile, California is facing gigantic weather patterns that bring devastating storms. Truffle hunting is also proving to be a dangerous pursuit with some trying to poision the dogs that accompany truffle hunters. And there’s a resurgance of far-right extremism threatening Latin America&#39;s largest democracy in Brazil. Finally, some movies aren&#39;t totally true to history anymore (based on a true story), which has resulted in more public disputes and lawsuits.</p>
+There have been some concerning developments in the world lately. In China, nearly 60,000 Covid-linked deaths have been reported since restrictions were lifted, and a severe outbreak is happening in Shanghai. Recently, another new dominant strain of Covid called the XBB.1.5 variant has emerged in the Northeast and is causing a surge in cases. On the political side, some additional documents have been found at Joe Biden&#39;s Wilmington home and a special counsel is investigating how they got there. In Russia, there is an ongoing art heist targeting Ukraine&#39;s cultural heritage, while in California, giant atmospheric rivers are drenching the state. Lastly, truffle hunting is becoming a dangerous activity due to people using poison on dogs who accompany truffle hunters.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China Reports Nearly 60,000 Covid-Linked Deaths Since Lifting Restrictions</h3>
@@ -83,7 +83,7 @@ In the world right now, there are a lot of things happening. China has reported 
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Additional Documents Found at Biden’s Wilmington Home, White House Says</h3>
 <sub>By Charlie Savage</sub>
-<p>The revelation came as the White House defended its public statements, which had not fully disclosed the extent of the documents that remained in Mr. Biden’s possession.  <a href="https://nyti.ms/3ZCxwPL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The revelation came as the White House defended its public statements about the extent of the documents that remained in Mr. Biden’s possession.  <a href="https://nyti.ms/3ZCxwPL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,10 +104,22 @@ In the world right now, there are a lot of things happening. China has reported 
 <p>George Santos inspired no shortage of suspicion during his 2022 campaign, including in the upper echelons of his own party, yet many Republicans looked the other way.  <a href="https://nyti.ms/3QG4w5H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Santos, as ‘Anthony Devolder,’ Pushed Transgender Voters to G.O.P. in 2019</h3>
+<sub>By Michael Gold</sub>
+<p>A year before George Santos first ran for Congress, he appeared at an L.G.B.T.Q. event using one of his alternate identities.  <a href="https://nyti.ms/3iDjIUy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Russians Steal Ukraine’s Art, They Attack Its Identity, Too</h3>
 <sub>By Jeffrey Gettleman and Oleksandra Mykolyshyn</sub>
 <p>Russian forces have looted tens of thousands of pieces, including avant-garde oil paintings and Scythian gold. Experts say it is the biggest art heist since the Nazis in World War II, intended to strip Ukraine of its cultural heritage.  <a href="https://nyti.ms/3IMl1v6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The U.K. says it aims to give Ukraine the first Western-made tanks.</h3>
+<sub>By Lara Jakes</sub>
+<p>  <a href="https://nyti.ms/3QGCabA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -120,18 +132,6 @@ In the world right now, there are a lot of things happening. China has reported 
 <h3>Hunting for Truffles Is a Perilous Pursuit, Especially for the Dogs Who Dig</h3>
 <sub>By Jason Horowitz</sub>
 <p>Truffles are big business, and some are trying to take out the competition by poisoning the dogs that accompany those known as “truffle hunters.”  <a href="https://nyti.ms/3H69Qwf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘We Will Die for Brazil’: How a Far-Right Mob Tried to Oust Lula</h3>
-<sub>By Jack Nicas and Simon Romero</sub>
-<p>The storming of Brazil’s capital failed to overthrow the elected government. But an examination of the attack reveals how extremism is threatening Latin America’s largest democracy.  <a href="https://nyti.ms/3Xrihr8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘Based on a True Story’ (Except the Parts That Aren’t)</h3>
-<sub>By Jeremy W. Peters and Nicole Sperling</sub>
-<p>The entertainment genre of historical drama is flourishing — and riddled with inaccuracies. The untrue parts are leading to more public spats and lawsuits.  <a href="https://nyti.ms/3GJrAvK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
