@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 13, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. In New York, a Republican politician named George Santos was found to have lied during his campaign, yet many in his own party turned a blind eye. Meanwhile, tensions between Russia, Ukraine, and other countries are continuing to rise with many Russian imports being taken through the Caucasus Mountains from Georgia. In the US, former President Trump is still facing consequences from a documents inquiry while President Biden is having to grapple with issues such as debt limits and preparing his first State of the Union address. Climate change is also an issue, as Montana has faced criminal activity around one of its mines.</p>
+It looks like there&#39;s a lot going on in the news lately! In the US and NYC region specifically, there are a lot of political issues, including the Justice Department&#39;s appointment of a special counsel to investigate the Trump administration and President Biden preparing to deliver his first State of the Union address. Globally, Russia is facing rifts among forces as they attempt to seize a Ukrainian town and truck routes over the Caucasus Mountains from Georgia are carrying goods into Russia due to Western sanctions. There are also environmental concerns, such as a Montana mine that got wrapped up in criminal activity. And New York City had a record high level of overdose deaths due to fentanyl.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Santos’s Lies Were Known to Some Well-Connected Republicans</h3>
