@@ -60,19 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 14, Central Standard Time</p>
 <p>
-There have been some concerning developments in the world lately. In China, nearly 60,000 Covid-linked deaths have been reported since restrictions were lifted, and a severe outbreak is happening in Shanghai. Recently, another new dominant strain of Covid called the XBB.1.5 variant has emerged in the Northeast and is causing a surge in cases. On the political side, some additional documents have been found at Joe Biden&#39;s Wilmington home and a special counsel is investigating how they got there. In Russia, there is an ongoing art heist targeting Ukraine&#39;s cultural heritage, while in California, giant atmospheric rivers are drenching the state. Lastly, truffle hunting is becoming a dangerous activity due to people using poison on dogs who accompany truffle hunters.</p>
+Right now, California is experiencing some wild and extreme weather, like heavy rains causing landslides and flooding, cutting off roads. There are also extreme storms occurring in China which have led to over 60,000 Covid-related deaths since restrictions were lifted, and a new Covid strain is rapidly spreading in the Northeast. On the other side of the globe, Britain is breaking a Western taboo by agreeing to give Ukraine tanks and other weapons in order to increase spring fighting. Lastly, truffle hunters are in danger due to competition trying to poison their dogs, who help them search for the valuable ingredient.</p>
 <ol>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Getting Inside California’s Wild Weather 8 Miles Over the Pacific</h3>
+<sub>By Raymond Zhong and Erin Schaff</sub>
+<p>A Times reporter and photographer rode along with a team gathering data on the colossal atmospheric rivers that have drenched the state.  <a href="https://nyti.ms/3H2JV8q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Whiteouts, Landslides and Floods Cut Off California Roads</h3>
+<sub>By Amanda Holpuch</sub>
+<p>The latest storms produced treacherous driving conditions across the state.  <a href="https://nyti.ms/3w98PNi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tracking the California Storms</h3>
+<sub>By Judson Jones, Zach Levitt, Bea Malsky and Scott Reinhard</sub>
+<p>Maps show the extreme weather so far, and the forecast for more.  <a href="https://nyti.ms/3CrqJi3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China Reports Nearly 60,000 Covid-Linked Deaths Since Lifting Restrictions</h3>
 <sub>By David Pierson and Olivia Wang</sub>
 <p>The unexpected disclosure was made as the country faces mounting criticism for providing unreliable data on its latest coronavirus outbreak.  <a href="https://nyti.ms/3IIYaRc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>This Is What Shanghai’s Covid Outbreak Looks Like</h3>
-<sub>By Qilai Shen and David Pierson</sub>
-<p>The Chinese city is being gripped by a massive Covid wave, leading to a surge in hospitalizations and crowded funeral homes.  <a href="https://nyti.ms/3W45GsO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>There’s Already Another New Dominant Covid Strain. Here’s What to Know.</h3>
@@ -93,10 +105,10 @@ There have been some concerning developments in the world lately. In China, near
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Classified Information Is Handled</h3>
-<sub>By Charlie Savage</sub>
-<p>Presidents have established and developed the classification system through a series of executive orders around World War II and the early Cold War.  <a href="https://nyti.ms/3Xc1AjF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<h3>Timeline of the Biden Documents Case: What We Know So Far</h3>
+<sub>By Ben Shpigel</sub>
+<p>Attorney General Merrick Garland and the White House have provided more details about the discovery of classified files associated with President Biden.  <a href="https://nyti.ms/3vWs251"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Santos’s Lies Were Known to Some Well-Connected Republicans</h3>
@@ -111,21 +123,9 @@ There have been some concerning developments in the world lately. In China, near
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Russians Steal Ukraine’s Art, They Attack Its Identity, Too</h3>
-<sub>By Jeffrey Gettleman and Oleksandra Mykolyshyn</sub>
-<p>Russian forces have looted tens of thousands of pieces, including avant-garde oil paintings and Scythian gold. Experts say it is the biggest art heist since the Nazis in World War II, intended to strip Ukraine of its cultural heritage.  <a href="https://nyti.ms/3IMl1v6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The U.K. says it aims to give Ukraine the first Western-made tanks.</h3>
-<sub>By Lara Jakes</sub>
-<p>  <a href="https://nyti.ms/3QGCabA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>8 Miles Over the Pacific, Getting Inside California’s Wild Weather</h3>
-<sub>By Raymond Zhong and Erin Schaff</sub>
-<p>A Times reporter and photographer rode along with a team gathering data on the colossal atmospheric rivers that have drenched the state.  <a href="https://nyti.ms/3H2JV8q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Britain Says It Will Give Ukraine Tanks, Breaching a Western Taboo</h3>
+<sub>By Megan Specia and Ben Hubbard</sub>
+<p>Western countries have balked at giving Ukraine tanks and other powerful weapons. As increased spring fighting looms, that seems to be changing.  <a href="https://nyti.ms/3WblDxA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
