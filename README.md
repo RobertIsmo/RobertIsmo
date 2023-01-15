@@ -60,55 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 15, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. In the US, there have been weeks of damaging storms that has left 19 people dead in California. There are also classified documents that were found at Biden&#39;s house in Wilmington. White House officials are trying to shed more light on the situation. On top of all that, there&#39;s Covid which is still running rampant all over the world with China reporting nearly 60,000 deaths since restrictions were lifted. There&#39;s also a new dominant strain called XBB.1.5 that has been making its way around the northeast and causing a majority of new cases recently. Lastly, outside of the US, there have been some dangerous events like rescuers rushing to save the people buried in a building destroyed by a Russian missile and hunters for truffles having to be careful about their dogs getting poisoned by competitors who are trying to take out this lucrative industry.</p>
+There is a lot going on in the world at the moment. In Russia-occupied areas of Ukraine, families are waiting desperately for their freedom. Meanwhile, thousands of Russians and Ukrainians have escaped to Bali, where the war still looms large. As tensions continue to rise, Britain has announced that it will send tanks to Ukraine as assistance, breaching a major Western taboo. Further, Covid-19 and economic inequalities are dominating much of the conversations at the World Economic Forum in Davos. In the United States, California is enduring weeks of relentless storms with 19 dead and counting, while teenagers at universities like Auburn have been embroiled in geopolitical fights.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Another storm is soaking California. Here’s what to know.</h3>
-<sub>By Shawn Hubler, Victoria Kim and Judson Jones</sub>
-<p>The state’s northern and central regions have sustained the most damage during weeks of endless storms that have left at least 19 dead.  <a href="https://nyti.ms/3kgW68W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Getting Inside California’s Wild Weather 8 Miles Over the Pacific</h3>
-<sub>By Raymond Zhong and Erin Schaff</sub>
-<p>A Times reporter and photographer rode along with a team gathering data on the colossal atmospheric rivers that have drenched the state.  <a href="https://nyti.ms/3H2JV8q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Whiteouts, Landslides and Floods Cut Off California Roads</h3>
-<sub>By Amanda Holpuch</sub>
-<p>The latest storms produced treacherous driving conditions across the state.  <a href="https://nyti.ms/3w98PNi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking the California Storms</h3>
-<sub>By Judson Jones, Zach Levitt, Bea Malsky and Scott Reinhard</sub>
-<p>Maps show the extreme weather so far, and the forecast for more.  <a href="https://nyti.ms/3CrqJi3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 5, Central Standard Time</sub></sub>
+<h3>If Affirmative Action Ends, College Admissions May Be Changed Forever</h3>
+<sub>By Stephanie Saul</sub>
+<p>Schools may need to rethink everything, including recruitment, scholarships, standardized testing and alumni preferences.  <a href="https://nyti.ms/3CM59VO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Reports Nearly 60,000 Covid-Linked Deaths Since Lifting Restrictions</h3>
-<sub>By David Pierson and Olivia Wang</sub>
-<p>The unexpected disclosure was made as the country faces mounting criticism for providing unreliable data on its latest coronavirus outbreak.  <a href="https://nyti.ms/3IIYaRc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<h3>For Families and Detainees in Russian-Occupied Areas, a Grim Wait</h3>
+<sub>By Carlotta Gall</sub>
+<p>After Russia’s retreat from Kherson city, Ukrainians in other occupied areas of the south had expectations of quickly regaining their freedom. But those hopes have been dashed.  <a href="https://nyti.ms/3QGbeZn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>There’s Already Another New Dominant Covid Strain. Here’s What to Know.</h3>
-<sub>By Knvul Sheikh</sub>
-<p>In the Northeast, the fast-spreading XBB.1.5 variant is causing a majority of new cases.  <a href="https://nyti.ms/3DEiUoP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘I’m Sorry, We’re From Moscow.’ In Bali, Warring Sides Learn to Cohabitate</h3>
+<sub>By Sui-Lee Wee and Nyimas Laula</sub>
+<p>Thousands of Russians and Ukrainians have fled their homelands for Bali. But even in a tropical paradise, the war is ever-present.  <a href="https://nyti.ms/3GGOfJ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Additional Documents Found at Biden’s Wilmington Home, White House Says</h3>
-<sub>By Charlie Savage</sub>
-<p>The revelation came as the White House defended its public statements about the extent of the documents that remained in Mr. Biden’s possession.  <a href="https://nyti.ms/3ZCxwPL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Timeline of the Biden Documents Case: What We Know So Far</h3>
-<sub>By Ben Shpigel</sub>
-<p>Attorney General Merrick Garland and the White House have provided more details about the discovery of classified files associated with President Biden.  <a href="https://nyti.ms/3vWs251"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Death Toll Rises After Russian Strike Destroys Apartment Block</h3>
+<sub>By Megan Specia</sub>
+<p>Rescue workers were still digging through the rubble of a residential building in the central Ukrainian city of Dnipro on Sunday, a day after a Russian missile attack.  <a href="https://nyti.ms/3CQ4FxF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Britain Says It Will Give Ukraine Tanks, Breaching a Western Taboo</h3>
@@ -116,22 +92,46 @@ Right now, there&#39;s a lot going on in the world. In the US, there have been w
 <p>Western countries have balked at giving Ukraine tanks and other powerful weapons. As increased spring fighting looms, that seems to be changing.  <a href="https://nyti.ms/3WblDxA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rescuers rush to save people buried in rubble of a building destroyed by a Russian missile.</h3>
-<sub>By Nicole Tung, Megan Specia and Cassandra Vinograd</sub>
-<p>A 15-year-old girl was among the 14 people killed. The search for survivors continues.  <a href="https://nyti.ms/3CNQrgM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Brooklyn’s Lifeguard Factory Is Open Again</h3>
+<sub>By Corey Kilgannon</sub>
+<p>A high school in Bushwick is coaxing teenagers into a long-neglected pool, turning nonswimmers into competitors — and possibly a summer job in a lifeguard chair.  <a href="https://nyti.ms/3H54aCv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hunting for Truffles Is a Perilous Pursuit, Especially for the Dogs Who Dig</h3>
-<sub>By Jason Horowitz</sub>
-<p>Truffles are big business, and some are trying to take out the competition by poisoning the dogs that accompany those known as “truffle hunters.”  <a href="https://nyti.ms/3H69Qwf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Davos Confronts a New World Order</h3>
+<sub>By Roger Cohen</sub>
+<p>The Covid-19 pandemic, invasion of Ukraine, trend toward autocracy and economic inequalities challenge the World Economic Forum’s relevance.  <a href="https://nyti.ms/3CJTJBK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A United Europe Weathers Crises, but Deeper Challenges Remain</h3>
+<sub>By Steven Erlanger</sub>
+<p>Differences on NATO and E.U. enlargement, energy and climate, and relationships with the United States, China, Russia and Ukraine will prime Davos talks.  <a href="https://nyti.ms/3H60JeO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘Based on a True Story’ (Except the Parts That Aren’t)</h3>
-<sub>By Jeremy W. Peters and Nicole Sperling</sub>
-<p>The entertainment genre of historical drama is flourishing — and riddled with inaccuracies. The untrue parts are leading to more public spats and lawsuits.  <a href="https://nyti.ms/3GJrAvK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Auburn Banned TikTok, and Students Can’t Stop Talking About It</h3>
+<sub>By Sapna Maheshwari</sub>
+<p>The school’s prohibition brings a geopolitical fight front and center for TikTok’s biggest fans: young Americans.  <a href="https://nyti.ms/3QJTbBS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Another storm is soaking California. Here’s what to know.</h3>
+<sub>By Shawn Hubler, Victoria Kim and Judson Jones</sub>
+<p>The state’s northern and central regions have sustained the most damage during weeks of endless storms that have left at least 19 dead.  <a href="https://nyti.ms/3kgW68W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Who Benefits When Salary Info Is Public?</h3>
+<sub>By Sarah Kessler</sub>
+<p>It’s good for pay equity, and it can be good for managers, but it’s not so good for superstars.  <a href="https://nyti.ms/3H1MbwP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How to Ask for a Raise, Without Alienating Your Boss Along the Way</h3>
+<sub>By Paulette Perhach</sub>
+<p>Tips from psychologists, managers and people who have successfully asked what can feel like a very difficult question.  <a href="https://nyti.ms/3CR066j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
