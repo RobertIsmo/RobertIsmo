@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 15, Central Standard Time</p>
 <p>
-There are a lot of troubling events occurring around the world. In Russia, families and detainees have been grimly waiting for freedom after Russia&#39;s retreat from Kherson city. A residential building in Ukraine was hit and destroyed by a missile attack launched by Russia, and the death toll continues to rise. Meanwhile, Davos is contending with a new world order due to the Covid-19 pandemic, invasion of Ukraine, increasing trend toward autocracy and economic inequalities which are challenging the World Economic Forum’s relevance. Closer to home, California has endured weeks of endless storms which have left at least 19 dead. Here in Pennsylvania, there were enough election deniers to convince officials to conduct a recount and even in Bali, Russians and Ukrainians have fled their homelands due to war which is ever present. </p>
+There&#39;s a lot going on around the world. In Russia and Ukraine, families in occupied areas have been facing a grim wait, while a recent Russian missile attack on an apartment block in Ukraine has left many dead. Meanwhile, in Bali, tensions between Russians and Ukrainians are still rising as thousands flee their homelands for the tropical paradise. Things don&#39;t seem to be much better here in the US either - there&#39;s disagreement over affirmative action and college admissions policies, while in one Pennsylvania county they&#39;ve just conducted a three-day recount of 2020 votes after election deniers requested it. California has been getting hit hard by multiple storms recently, resulting in 19 deaths so far. On the sports front, tennis star Nick Kyrgios is making waves with his unique playing style. And finally, there&#39;s been some interesting developments in the business world: salary information is becoming more public, while there are tips from psychologists out on how to successfully ask for a raise.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>If Affirmative Action Ends, College Admissions May Be Changed Forever</h3>
@@ -82,8 +82,8 @@ There are a lot of troubling events occurring around the world. In Russia, famil
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Death Toll Rises After Russian Strike Destroys Apartment Block</h3>
-<sub>By Megan Specia</sub>
-<p>Rescue workers were still digging through the rubble of a residential building in the central Ukrainian city of Dnipro on Sunday, a day after a Russian missile attack.  <a href="https://nyti.ms/3CQ4FxF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Megan Specia and Nicole Tung</sub>
+<p>Rescue workers were still digging through the rubble of a residential building in the central Ukrainian city of Dnipro on Sunday, a day after a Russian missile attack.  <a href="https://nyti.ms/3CPnfGi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -92,11 +92,11 @@ There are a lot of troubling events occurring around the world. In Russia, famil
 <p>A high school in Bushwick is coaxing teenagers into a long-neglected pool, turning nonswimmers into competitors — and possibly a summer job in a lifeguard chair.  <a href="https://nyti.ms/3H54aCv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Davos Confronts a New World Order</h3>
-<sub>By Roger Cohen</sub>
-<p>The Covid-19 pandemic, invasion of Ukraine, trend toward autocracy and economic inequalities challenge the World Economic Forum’s relevance.  <a href="https://nyti.ms/3CJTJBK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Driven by Election Deniers, This County Recounted 2020 Votes Last Week</h3>
+<sub>By Trip Gabriel</sub>
+<p>Lycoming County, Pa., officials were persuaded to conduct a 2020 recount, a three-day undertaking that showed almost no change, but left skeptics just as skeptical.  <a href="https://nyti.ms/3Xdjin0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Auburn Banned TikTok, and Students Can’t Stop Talking About It</h3>
@@ -110,10 +110,10 @@ There are a lot of troubling events occurring around the world. In Russia, famil
 <p>The state’s northern and central regions have sustained the most damage during weeks of endless storms that have left at least 19 dead.  <a href="https://nyti.ms/3kgW68W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Pennsylvania, the 2020 Election Still Stirs Fury. And a Recount.</h3>
-<sub>By Trip Gabriel</sub>
-<p>Election deniers in Lycoming County convinced officials to conduct a 2020 recount, a three-day undertaking that showed almost no change, but left skeptics just as skeptical.  <a href="https://nyti.ms/3Xdjin0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Plane Crash in Nepal Leaves at Least 68 Dead</h3>
+<sub>By Bhadra Sharma and Karan Deep Singh</sub>
+<p>A twin-engine propeller plane crashed on approach to the city of Pokhara, with 72 people on board.  <a href="https://nyti.ms/3COQyJ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
