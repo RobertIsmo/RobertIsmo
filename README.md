@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, January 14, Central Standard Time</p>
+<p>It is Sunday, January 15, Central Standard Time</p>
 <p>
-In the world right now, California is getting hit hard by extreme weather, with floods, landslides, and whiteouts causing a lot of damage and cutting off roads. Across the world in China, Covid-19 has killed nearly 60,000 people since the country lifted restrictions. In the US Northeast there&#39;s been a new variant called XBB that has been spreading quickly. There have also been documents discovered at President Biden&#39;s Wilmington home which have given rise to some controversy. In international news, Britain is giving tanks to Ukraine despite it being against the conventional Western stance and in Russia, a building was destroyed by a missile killing 14 people. Finally, historical dramas in films and shows are growing more popular but there are inaccuracies leading to public spats and lawsuits.</p>
+The world is experiencing a lot of extreme weather events. In California, there have been wild storms that have caused whiteouts and landslides, while the Northeast has seen the fast-spreading XBB.1.5 Covid variant. In other news, China is facing criticism for not providing accurate data on its latest coronavirus outbreak, and Britain is taking a controversial move by giving Ukraine tanks and other powerful weapons that have previously been avoided by Western countries. Lastly, rescuers have been rushing to save people buried in rubble created by a Russian missile attack and truffle hunters face danger from competitors trying to poison their dogs.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Getting Inside California’s Wild Weather 8 Miles Over the Pacific</h3>
