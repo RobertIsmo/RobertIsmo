@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 15, Central Standard Time</p>
 <p>
-The world is experiencing a lot of extreme weather events. In California, there have been wild storms that have caused whiteouts and landslides, while the Northeast has seen the fast-spreading XBB.1.5 Covid variant. In other news, China is facing criticism for not providing accurate data on its latest coronavirus outbreak, and Britain is taking a controversial move by giving Ukraine tanks and other powerful weapons that have previously been avoided by Western countries. Lastly, rescuers have been rushing to save people buried in rubble created by a Russian missile attack and truffle hunters face danger from competitors trying to poison their dogs.</p>
+Right now, there&#39;s a lot going on in the world. In the US, there have been weeks of damaging storms that has left 19 people dead in California. There are also classified documents that were found at Biden&#39;s house in Wilmington. White House officials are trying to shed more light on the situation. On top of all that, there&#39;s Covid which is still running rampant all over the world with China reporting nearly 60,000 deaths since restrictions were lifted. There&#39;s also a new dominant strain called XBB.1.5 that has been making its way around the northeast and causing a majority of new cases recently. Lastly, outside of the US, there have been some dangerous events like rescuers rushing to save the people buried in a building destroyed by a Russian missile and hunters for truffles having to be careful about their dogs getting poisoned by competitors who are trying to take out this lucrative industry.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Another storm is soaking California. Here’s what to know.</h3>
+<sub>By Shawn Hubler, Victoria Kim and Judson Jones</sub>
+<p>The state’s northern and central regions have sustained the most damage during weeks of endless storms that have left at least 19 dead.  <a href="https://nyti.ms/3kgW68W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Getting Inside California’s Wild Weather 8 Miles Over the Pacific</h3>
 <sub>By Raymond Zhong and Erin Schaff</sub>
@@ -127,12 +133,6 @@ The world is experiencing a lot of extreme weather events. In California, there 
 <sub>By Jeremy W. Peters and Nicole Sperling</sub>
 <p>The entertainment genre of historical drama is flourishing — and riddled with inaccuracies. The untrue parts are leading to more public spats and lawsuits.  <a href="https://nyti.ms/3GJrAvK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jaclyn Reiss</sub>
-<p>The New York Times book review of Prince Harry’s memoir, where to go in 2023 and why Noma, the world’s top-rated restaurant, plans to close.  <a href="https://nyti.ms/3IJXoTN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
