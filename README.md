@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 15, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world. In Russia and Ukraine, families in occupied areas have been facing a grim wait, while a recent Russian missile attack on an apartment block in Ukraine has left many dead. Meanwhile, in Bali, tensions between Russians and Ukrainians are still rising as thousands flee their homelands for the tropical paradise. Things don&#39;t seem to be much better here in the US either - there&#39;s disagreement over affirmative action and college admissions policies, while in one Pennsylvania county they&#39;ve just conducted a three-day recount of 2020 votes after election deniers requested it. California has been getting hit hard by multiple storms recently, resulting in 19 deaths so far. On the sports front, tennis star Nick Kyrgios is making waves with his unique playing style. And finally, there&#39;s been some interesting developments in the business world: salary information is becoming more public, while there are tips from psychologists out on how to successfully ask for a raise.</p>
+There is a lot happening in the world right now. In Bali, Russians and Ukrainians who have escaped war in their homelands are learning how to live together peacefully. In Ukraine, a Russian missile attack destroyed an apartment block and left dozens dead. In California, yet another storm has caused serious damage, taking at least 19 lives in its wake. A plane crash in Nepal also killed 68 people. On a lighter note, The New York Times recently released their list of the top places to travel to for 2023 so there are some exciting opportunities for exploration if the pandemic subsides soon. Finally, the University of Auburn recently banned TikTok which has become quite a topic of discussion among students!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>If Affirmative Action Ends, College Admissions May Be Changed Forever</h3>
 <sub>By Stephanie Saul</sub>
 <p>Schools may need to rethink everything, including recruitment, scholarships, standardized testing and alumni preferences.  <a href="https://nyti.ms/3CM59VO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Families and Detainees in Russian-Occupied Areas, a Grim Wait</h3>
-<sub>By Carlotta Gall</sub>
-<p>After Russia’s retreat from Kherson city, Ukrainians in other occupied areas of the south had expectations of quickly regaining their freedom. But those hopes have been dashed.  <a href="https://nyti.ms/3QGbeZn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,17 +80,17 @@ There&#39;s a lot going on around the world. In Russia and Ukraine, families in 
 <p>Rescue workers were still digging through the rubble of a residential building in the central Ukrainian city of Dnipro on Sunday, a day after a Russian missile attack.  <a href="https://nyti.ms/3CPnfGi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Brooklyn’s Lifeguard Factory Is Open Again</h3>
-<sub>By Corey Kilgannon</sub>
-<p>A high school in Bushwick is coaxing teenagers into a long-neglected pool, turning nonswimmers into competitors — and possibly a summer job in a lifeguard chair.  <a href="https://nyti.ms/3H54aCv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Driven by Election Deniers, This County Recounted 2020 Votes Last Week</h3>
 <sub>By Trip Gabriel</sub>
 <p>Lycoming County, Pa., officials were persuaded to conduct a 2020 recount, a three-day undertaking that showed almost no change, but left skeptics just as skeptical.  <a href="https://nyti.ms/3Xdjin0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>52 Places to Go in 2023</h3>
+<sub></sub>
+<p>Travel’s rebound has revealed the depth of our drive to explore the world. Why do we travel? For food, culture, adventure, natural beauty? This year’s list has all those elements, and more.  <a href="https://nyti.ms/3vXlHWQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Auburn Banned TikTok, and Students Can’t Stop Talking About It</h3>
@@ -128,11 +122,17 @@ There&#39;s a lot going on around the world. In Russia and Ukraine, families in 
 <p>Tips from psychologists, managers and people who have successfully asked what can feel like a very difficult question.  <a href="https://nyti.ms/3CR066j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Nick Kyrgios Is Coming for Tennis</h3>
-<sub>By Matthew Futterman</sub>
-<p>On the eve of the Australian Open, the electric, sometimes eccentric tennis star has become the sport’s biggest draw, but he’s also its riskiest pitchman.  <a href="https://nyti.ms/3ZBLj9r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jaclyn Reiss</sub>
+<p>The New York Times book review of Prince Harry’s memoir, where to go in 2023 and why Noma, the world’s top-rated restaurant, plans to close.  <a href="https://nyti.ms/3IJXoTN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, January 13, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3iy16W0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
