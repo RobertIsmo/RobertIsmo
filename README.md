@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 15, Central Standard Time</p>
 <p>
-There is a lot going on in the world at the moment. In Russia-occupied areas of Ukraine, families are waiting desperately for their freedom. Meanwhile, thousands of Russians and Ukrainians have escaped to Bali, where the war still looms large. As tensions continue to rise, Britain has announced that it will send tanks to Ukraine as assistance, breaching a major Western taboo. Further, Covid-19 and economic inequalities are dominating much of the conversations at the World Economic Forum in Davos. In the United States, California is enduring weeks of relentless storms with 19 dead and counting, while teenagers at universities like Auburn have been embroiled in geopolitical fights.</p>
+There are a lot of troubling events occurring around the world. In Russia, families and detainees have been grimly waiting for freedom after Russia&#39;s retreat from Kherson city. A residential building in Ukraine was hit and destroyed by a missile attack launched by Russia, and the death toll continues to rise. Meanwhile, Davos is contending with a new world order due to the Covid-19 pandemic, invasion of Ukraine, increasing trend toward autocracy and economic inequalities which are challenging the World Economic Forum’s relevance. Closer to home, California has endured weeks of endless storms which have left at least 19 dead. Here in Pennsylvania, there were enough election deniers to convince officials to conduct a recount and even in Bali, Russians and Ukrainians have fled their homelands due to war which is ever present. </p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>If Affirmative Action Ends, College Admissions May Be Changed Forever</h3>
@@ -86,12 +86,6 @@ There is a lot going on in the world at the moment. In Russia-occupied areas of 
 <p>Rescue workers were still digging through the rubble of a residential building in the central Ukrainian city of Dnipro on Sunday, a day after a Russian missile attack.  <a href="https://nyti.ms/3CQ4FxF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Britain Says It Will Give Ukraine Tanks, Breaching a Western Taboo</h3>
-<sub>By Megan Specia and Ben Hubbard</sub>
-<p>Western countries have balked at giving Ukraine tanks and other powerful weapons. As increased spring fighting looms, that seems to be changing.  <a href="https://nyti.ms/3WblDxA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Brooklyn’s Lifeguard Factory Is Open Again</h3>
 <sub>By Corey Kilgannon</sub>
@@ -102,12 +96,6 @@ There is a lot going on in the world at the moment. In Russia-occupied areas of 
 <h3>Davos Confronts a New World Order</h3>
 <sub>By Roger Cohen</sub>
 <p>The Covid-19 pandemic, invasion of Ukraine, trend toward autocracy and economic inequalities challenge the World Economic Forum’s relevance.  <a href="https://nyti.ms/3CJTJBK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A United Europe Weathers Crises, but Deeper Challenges Remain</h3>
-<sub>By Steven Erlanger</sub>
-<p>Differences on NATO and E.U. enlargement, energy and climate, and relationships with the United States, China, Russia and Ukraine will prime Davos talks.  <a href="https://nyti.ms/3H60JeO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -122,6 +110,12 @@ There is a lot going on in the world at the moment. In Russia-occupied areas of 
 <p>The state’s northern and central regions have sustained the most damage during weeks of endless storms that have left at least 19 dead.  <a href="https://nyti.ms/3kgW68W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Pennsylvania, the 2020 Election Still Stirs Fury. And a Recount.</h3>
+<sub>By Trip Gabriel</sub>
+<p>Election deniers in Lycoming County convinced officials to conduct a 2020 recount, a three-day undertaking that showed almost no change, but left skeptics just as skeptical.  <a href="https://nyti.ms/3Xdjin0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Who Benefits When Salary Info Is Public?</h3>
 <sub>By Sarah Kessler</sub>
@@ -132,6 +126,12 @@ There is a lot going on in the world at the moment. In Russia-occupied areas of 
 <h3>How to Ask for a Raise, Without Alienating Your Boss Along the Way</h3>
 <sub>By Paulette Perhach</sub>
 <p>Tips from psychologists, managers and people who have successfully asked what can feel like a very difficult question.  <a href="https://nyti.ms/3CR066j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Nick Kyrgios Is Coming for Tennis</h3>
+<sub>By Matthew Futterman</sub>
+<p>On the eve of the Australian Open, the electric, sometimes eccentric tennis star has become the sport’s biggest draw, but he’s also its riskiest pitchman.  <a href="https://nyti.ms/3ZBLj9r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
