@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 14, Central Standard Time</p>
 <p>
-Right now, California is experiencing some wild and extreme weather, like heavy rains causing landslides and flooding, cutting off roads. There are also extreme storms occurring in China which have led to over 60,000 Covid-related deaths since restrictions were lifted, and a new Covid strain is rapidly spreading in the Northeast. On the other side of the globe, Britain is breaking a Western taboo by agreeing to give Ukraine tanks and other weapons in order to increase spring fighting. Lastly, truffle hunters are in danger due to competition trying to poison their dogs, who help them search for the valuable ingredient.</p>
+In the world right now, California is getting hit hard by extreme weather, with floods, landslides, and whiteouts causing a lot of damage and cutting off roads. Across the world in China, Covid-19 has killed nearly 60,000 people since the country lifted restrictions. In the US Northeast there&#39;s been a new variant called XBB that has been spreading quickly. There have also been documents discovered at President Biden&#39;s Wilmington home which have given rise to some controversy. In international news, Britain is giving tanks to Ukraine despite it being against the conventional Western stance and in Russia, a building was destroyed by a missile killing 14 people. Finally, historical dramas in films and shows are growing more popular but there are inaccuracies leading to public spats and lawsuits.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Getting Inside California’s Wild Weather 8 Miles Over the Pacific</h3>
@@ -99,28 +99,10 @@ Right now, California is experiencing some wild and extreme weather, like heavy 
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Documents Inquiry Puts Spotlight on Biden’s Frenetic Last Days as Vice President</h3>
-<sub>By Peter Baker and Michael D. Shear</sub>
-<p>The special counsel will have to reconstruct how a small number of classified documents made it to Mr. Biden’s home in Delaware and a private office in Washington.  <a href="https://nyti.ms/3QC2vHT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Timeline of the Biden Documents Case: What We Know So Far</h3>
 <sub>By Ben Shpigel</sub>
 <p>Attorney General Merrick Garland and the White House have provided more details about the discovery of classified files associated with President Biden.  <a href="https://nyti.ms/3vWs251"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Santos’s Lies Were Known to Some Well-Connected Republicans</h3>
-<sub>By Nicholas Fandos</sub>
-<p>George Santos inspired no shortage of suspicion during his 2022 campaign, including in the upper echelons of his own party, yet many Republicans looked the other way.  <a href="https://nyti.ms/3QG4w5H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Santos, as ‘Anthony Devolder,’ Pushed Transgender Voters to G.O.P. in 2019</h3>
-<sub>By Michael Gold</sub>
-<p>A year before George Santos first ran for Congress, he appeared at an L.G.B.T.Q. event using one of his alternate identities.  <a href="https://nyti.ms/3iDjIUy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Britain Says It Will Give Ukraine Tanks, Breaching a Western Taboo</h3>
@@ -129,10 +111,28 @@ Right now, California is experiencing some wild and extreme weather, like heavy 
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Rescuers rush to save people buried in rubble of a building destroyed by a Russian missile.</h3>
+<sub>By Nicole Tung, Megan Specia and Cassandra Vinograd</sub>
+<p>A 15-year-old girl was among the 14 people killed. The search for survivors continues.  <a href="https://nyti.ms/3CNQrgM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hunting for Truffles Is a Perilous Pursuit, Especially for the Dogs Who Dig</h3>
 <sub>By Jason Horowitz</sub>
 <p>Truffles are big business, and some are trying to take out the competition by poisoning the dogs that accompany those known as “truffle hunters.”  <a href="https://nyti.ms/3H69Qwf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘Based on a True Story’ (Except the Parts That Aren’t)</h3>
+<sub>By Jeremy W. Peters and Nicole Sperling</sub>
+<p>The entertainment genre of historical drama is flourishing — and riddled with inaccuracies. The untrue parts are leading to more public spats and lawsuits.  <a href="https://nyti.ms/3GJrAvK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jaclyn Reiss</sub>
+<p>The New York Times book review of Prince Harry’s memoir, where to go in 2023 and why Noma, the world’s top-rated restaurant, plans to close.  <a href="https://nyti.ms/3IJXoTN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
