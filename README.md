@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 16, Central Standard Time</p>
 <p>
-There seems to be a lot going on around the world right now. In Germany, the country&#39;s Defense Minister has resigned due to public criticism over her decisions. There is also ongoing conflict between Russia and Ukraine that resembles something from a bygone era. On the other side of the world, a water crisis in Arizona is causing hundreds of homes to go without water during a drought situation in the West. In other news, China recently implemented strict &quot;zero Covid&quot; controls which have created an unrest among workers who are unpaid. Meanwhile, Italy has finally arrested a notorious mafia boss who evaded capture for 30 years. Finally, there is also unrest in US theaters as some lawyers have been barred using facial recognition technology imposed by Madison Square Garden, but some have managed to return using an old law passed back in 1941. It&#39;s been a chaotic year for sure!</p>
+There&#39;s a lot going on in the world right now. In the U.S., a Florida school recently received a threat, prompting some states to enact red flag laws to help prevent future school shootings. In the tech world, a new AI chatbot called ChatGPT has caused universities to rethink how they teach. On the international stage, Germany&#39;s Defense Minister quit, citing media focus as a major factor. Arizona is experiencing a major water shortage, and White House visitor logs won&#39;t be made public while President Biden works from his Delaware home. On Martin Luther King Jr.&#39;s birthday, Biden gave a more subdued address in comparison to his fiery voting rights speech of last year. There have been instances of fake deaths in Romancelandia, China&#39;s unpaid &#39;zero Covid&#39; workers are causing unrest, and California is seeing yet another round of bad weather. Meanwhile, Rikers investigators have been taking unnecessary sick days while cracking down on abuse, Italy has arrested a mafia boss after 30 years of running from arrest, and lawyers have found a way back into Madison Square Garden using facial recognition technology protected by an old theater critic law from 1941.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Florida School Received a Threat. Did a Red Flag Law Prevent a Shooting?</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>Judges in 19 states and the District of Columbia are issuing orders to keep guns out of the hands of people deemed dangerous, like a Fort Lauderdale teenager who threatened a school shooting.  <a href="https://nyti.ms/3GLCYY5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Alarmed by A.I. Chatbots, Universities Start Revamping How They Teach</h3>
 <sub>By Kalley Huang</sub>
@@ -74,16 +80,16 @@ There seems to be a lot going on around the world right now. In Germany, the cou
 <p>Christine Lambrecht was a frequent target of criticism, including over German caution on military aid to Ukraine. Chancellor Olaf Scholz had backed her strongly, and may find her hard to replace.  <a href="https://nyti.ms/3QHdPCq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What 70 Years of War Can Tell Us About the Russia-Ukraine Conflict</h3>
-<sub>By Max Fisher</sub>
-<p>Despite some postmodern features, the fighting resembles a type of conflict from decades past: wars fought between nations in which one does not conquer the other outright.  <a href="https://nyti.ms/3ISK8wy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Skipped Showers, Paper Plates: An Arizona Suburb’s Water Is Cut Off</h3>
 <sub>By Jack Healy</sub>
-<p>Hundreds of homes outside the boundaries of Scottsdale can no longer get water from the city, now their owners are living a worst-case scenario of drought in the West.  <a href="https://nyti.ms/3H5gz9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Hundreds of homes outside the boundaries of Scottsdale can no longer get water from the city, so their owners are living a worst-case scenario of drought in the West.  <a href="https://nyti.ms/3H5gz9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>White House Says It Does Not Keep Visitor Logs at Biden’s Delaware Home</h3>
+<sub>By Michael D. Shear</sub>
+<p>A top House Republican had demanded the logs after classified documents were found at President Biden’s personal residence.  <a href="https://nyti.ms/3ISsyIR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,10 +111,16 @@ There seems to be a lot going on around the world right now. In Germany, the cou
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Another Storm Arriving, Five Areas of California to Watch</h3>
+<h3>As One More Storm Hits California, Five Areas of the State to Watch</h3>
 <sub>By Carly Olson, Ava Sasani, Luke Vander Ploeg and Julie Brown</sub>
-<p>Already soaked, the state is girding for yet another round of rain and snow.  <a href="https://nyti.ms/3DdYJz1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Already soaked, the state is enduring yet another round of rain and snow.  <a href="https://nyti.ms/3DdYJz1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>At Rikers, Piling Up Sick Days While Investigating Sick-Leave Abuse</h3>
+<sub>By Jan Ransom and William K. Rashbaum</sub>
+<p>A number of investigators responsible for cracking down on jail officers who lie about being sick have themselves been absent from work for significant periods.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Mafia Boss Arrested in Italy After Eluding Capture for 30 Years</h3>
@@ -120,18 +132,6 @@ There seems to be a lot going on around the world right now. In Germany, the cou
 <h3>Lawyers Barred by Madison Square Garden Found a Way Back In</h3>
 <sub>By Kashmir Hill</sub>
 <p>MSG Entertainment resorted to facial recognition technology to kick out legal foes, but some have undermined the ban using a law passed to protect theater critics in 1941.  <a href="https://nyti.ms/3w8cfzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>17 Years After Her Husband’s Crash in Nepal, a Pilot Met the Same Fate</h3>
-<sub>By Bhadra Sharma and Mujib Mashal</sub>
-<p>Anju Khatiwada, who died on Sunday in a crash in Pokhara, Nepal, decided to become a pilot after her husband’s death in 2006. The family’s calamities are part of a deadly pattern of aviation disasters in Nepal.  <a href="https://nyti.ms/3QIikfX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Gina Lollobrigida, Movie Star and Sex Symbol, Is Dead at 95</h3>
-<sub>By Anita Gates</sub>
-<p>She began her career in her native Italy and, although she achieved fame in America worked more often in Europe. She later had a second career as an artist and filmmaker.  <a href="https://nyti.ms/3ZDGUCK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
