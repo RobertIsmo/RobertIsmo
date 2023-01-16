@@ -60,23 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 16, Central Standard Time</p>
 <p>
-In the US, President Biden delivered a muted address at Ebenezer Baptist Church on Martin Luther King Jr.’s birthday. In Boston, an artist has created a sculpture of Dr. King and Coretta Scott King hugging to commemorate the civil rights leader. California is preparing for another round of rain and snow, and if affirmative action is eliminated, college admissions could change drastically. 
-
-Elsewhere, in Ukraine, rescue workers are still finding bodies after a Russian missile attack on residential buildings. In Bali, thousands of Russians and Ukrainians have fled their homelands from the war back home and have to learn to cohabitate. In Switzerland, a warm winter has put ski resorts and sports events in jeopardy due to melting snow. And in Nepal, there was a fatal plane crash that killed 68 people. 
-
-Closer to home, Mayor Eric Adams is pressuring the federal government for more funding due to an influx of migrants in New York City that he estimates would cost the city around $2 billion. Finally, opinion pieces are stating that the Republican party keeps coming apart due to its old motto of ‘Democrats fall in love; Republicans fall in line’ feeling more outdated than ever before.</p>
+There&#39;s a lot going on in the world right now! In technology, universities are revamping how they teach due to the rise of the popular chatbot ChatGPT. Worldwide, there are similarities between current conflicts and wars from 70 years ago- like in Russia and Ukraine. In the US, some suburbs have had their water cut off due to drought, and Biden gave a muted address on Martin Luther King Jr. day. China is facing unrest due to unpaid Covid workers. California is girding for another round of rain and snow, and some real estate agents and brokers are disproportionately making much less than White peers. Europe has seen a decrease in inflation rates, but central bankers are still concerned about persistently high prices. There&#39;s a law passed back in 1941 that some lawyers have used to get back into Madison Square Garden despite facial recognition technology being used to them out. For Chinese New Year celebrations this year, someFestive festival dishes can be easily made at home. Lastly, people are discussing how power makes those in positions of authority act weirdly - from the royal family to Congress!</p>
 <ol>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Alarmed by A.I. Chatbots, Universities Start Revamping How They Teach</h3>
+<sub>By Kalley Huang</sub>
+<p>With the rise of the popular new chatbot ChatGPT, colleges are restructuring some courses and taking preventive measures.  <a href="https://nyti.ms/3XuBOHe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What 70 Years of War Can Tell Us About the Russia-Ukraine Conflict</h3>
+<sub>By Max Fisher</sub>
+<p>Despite some postmodern features, the fighting resembles a type of conflict from decades past: wars fought between nations in which one does not conquer the other outright.  <a href="https://nyti.ms/3GLbjGB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Skipped Showers, Paper Plates: An Arizona Suburb’s Water Is Cut Off</h3>
+<sub>By Jack Healy</sub>
+<p>Hundreds of homes outside the boundaries of Scottsdale can no longer get water from the city, now their owners are living a worst-case scenario of drought in the West.  <a href="https://nyti.ms/3ZFdEeX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Year After a Fiery Voting Rights Speech, Biden Delivers a More Muted Address</h3>
 <sub>By Peter Baker</sub>
 <p>On Martin Luther King Jr.’s birthday, the president assured an audience at Ebenezer Baptist Church that its side in the struggle would, indeed, overcome someday.  <a href="https://nyti.ms/3ZBjONh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>In Boston, ‘The Embrace’ Honors Dr. Martin Luther King Jr.’s Legacy</h3>
-<sub>By Kalia Richardson</sub>
-<p>The bronze sculpture, by the artist Hank Willis Thomas, symbolizes the hug Dr. King and Coretta Scott King shared after Dr. King won the 1964 Nobel Peace Prize.  <a href="https://nyti.ms/3H8RTwS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Latest Source of Unrest: Unpaid ‘Zero Covid’ Workers</h3>
+<sub>By David Pierson, Keith Bradsher and Muyi Xiao</sub>
+<p>Companies that reaped windfalls helping the government implement strict ‘zero Covid’ controls are now struggling to pay and keep workers.  <a href="https://nyti.ms/3XA1LVW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Another Storm Arriving, Five Areas of California to Watch</h3>
@@ -84,59 +98,41 @@ Closer to home, Mayor Eric Adams is pressuring the federal government for more f
 <p>Already soaked, the state is girding for yet another round of rain and snow.  <a href="https://nyti.ms/3DdYJz1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>If Affirmative Action Ends, College Admissions May Be Changed Forever</h3>
-<sub>By Stephanie Saul</sub>
-<p>Schools may need to rethink everything, including recruitment, scholarships, standardized testing and alumni preferences.  <a href="https://nyti.ms/3CM59VO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Selling Houses While Black</h3>
+<sub>By Colette Coleman</sub>
+<p>About 6 percent of real estate agents and brokers in the United States are Black. Their white peers make almost three times as much, according to data and surveys.  <a href="https://nyti.ms/3QAWx9S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Dead, Alive or Devastated After Russian Strike on Apartments</h3>
-<sub>By Megan Specia and Nicole Tung</sub>
-<p>Rescue workers were still digging through the ruins of a residential building in the central Ukrainian city of Dnipro on Sunday, a day after a Russian missile attack.  <a href="https://nyti.ms/3CPnfGi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>How Three Black Women Hope to Change the Home Appraisal Industry</h3>
+<sub>By Debra Kamin</sub>
+<p>Two veteran appraisers and a newcomer have different but compatible approaches to combating discrimination against Black homeowners.  <a href="https://nyti.ms/3GUkZzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘I’m Sorry, We’re From Moscow.’ In Bali, Warring Sides Learn to Cohabitate</h3>
-<sub>By Sui-Lee Wee and Nyimas Laula</sub>
-<p>Thousands of Russians and Ukrainians have fled their homelands for Bali. But even in a tropical paradise, the war is ever-present.  <a href="https://nyti.ms/3GGOfJ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Price Gains Ease in Europe but Core Inflation Keeps Policymakers ‘Up at Night’</h3>
+<sub>By Eshe Nelson</sub>
+<p>Declines in overall inflation rates may bring comfort to consumers, but central bankers are still wary of drivers of persistently high prices.  <a href="https://nyti.ms/3GI9jza"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Driven by Election Deniers, This County Recounted 2020 Votes Last Week</h3>
-<sub>By Trip Gabriel</sub>
-<p>Lycoming County, Pa., officials were persuaded to conduct a 2020 recount, a three-day undertaking that showed almost no change, but left skeptics just as skeptical.  <a href="https://nyti.ms/3Xdjin0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Lawyers Barred by Madison Square Garden Found a Way Back In</h3>
+<sub>By Kashmir Hill</sub>
+<p>MSG Entertainment resorted to facial recognition technology to kick out legal foes, but some have undermined the ban using a law passed to protect theater critics in 1941.  <a href="https://nyti.ms/3w8cfzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Dwindling Snow Leaves Swiss Alpine Villages Staring at an Identity Crisis</h3>
-<sub>By Erika Solomon</sub>
-<p>An unusually warm winter has forced a rethink about climate change in areas with lower peaks as ski resorts and sporting events face an uncertain future.  <a href="https://nyti.ms/3Xfya4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Adams Visits the Border to Step Up Pressure on Biden for Migrant Funds</h3>
-<sub>By John De Frank and Emma G. Fitzsimmons</sub>
-<p>Mayor Eric Adams says that an influx of migrants could cost New York City $2 billion. He wants financial help from the federal government.  <a href="https://nyti.ms/3H4V6gS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Plane Crash in Nepal Leaves at Least 68 Dead</h3>
-<sub>By Bhadra Sharma and Karan Deep Singh</sub>
-<p>A twin-engine propeller plane crashed on approach to the city of Pokhara, with 72 people on board.  <a href="https://nyti.ms/3COQyJ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>The Transgressive Power of Alba de Céspedes</h3>
-<sub>By Joumana Khatib</sub>
-<p>A best-selling novelist and political activist in her native Italy, she was admired for her sensitive depictions of women and their predicaments. Recently rediscovered, her work has lost none of its subversive force.  <a href="https://nyti.ms/3GAXRoJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Easy, Festive Dishes for Chinese New Year at Home</h3>
+<sub>By Genevieve Ko</sub>
+<p>Wontons may be an everyday affair, but that’s all the more reason to celebrate with them, Genevieve Ko writes.  <a href="https://nyti.ms/3J40qTp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Three Reasons the Republican Party Keeps Coming Apart at the Seams</h3>
-<sub>By Ezra Klein</sub>
-<p>Remember when it was ‘Democrats fall in love; Republicans fall in line&#39;? Me neither.   <a href="https://nyti.ms/3CLaMTR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<h3>And Now a Few Words About How Power Makes You Weird</h3>
+<sub>By Gail Collins and Bret Stephens</sub>
+<p>From the royal family to the House of Repesentatives, it was a strange week.  <a href="https://nyti.ms/3XQHBqX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
