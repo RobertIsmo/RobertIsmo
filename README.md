@@ -60,8 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 15, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Bali, Russians and Ukrainians who have escaped war in their homelands are learning how to live together peacefully. In Ukraine, a Russian missile attack destroyed an apartment block and left dozens dead. In California, yet another storm has caused serious damage, taking at least 19 lives in its wake. A plane crash in Nepal also killed 68 people. On a lighter note, The New York Times recently released their list of the top places to travel to for 2023 so there are some exciting opportunities for exploration if the pandemic subsides soon. Finally, the University of Auburn recently banned TikTok which has become quite a topic of discussion among students!</p>
+There is a lot happening in the world right now. In honor of Martin Luther King Jr.&#39;s birthday, President Biden gave a speech at Ebenezer Baptist Church and reassured the audience that good will overcome evil. There&#39;s also a new bronze sculpture in Boston commemorating the hug that Dr. King and Coretta Scott King shared after he won the Nobel Peace Prize. The U.S Supreme Court recently heard cases regarding affirmative action in college admissions, which could have lasting implications for students in the future if upheld. 
+
+Internationally, thousands of Russians and Ukrainians have fled to Bali to escape escalating war tensions between their countries. Furthermore, in Ukraine a Russian missile attack left many dead and rescue workers had to work to clear the debris of a residential building. In Switzerland, snow levels are rapidly decreasing due to an unusually warm winter, fundamentally changing how ski resorts and sporting events operate.
+
+An influx of migrants in New York could cost up to $2 billion dollars, prompting New York City Mayor Eric Adams press the federal government for financial assistance. California has been experiencing endless storms recently, leaving 19 dead so far. There was also a deadly plane crash in Nepal leaving 68 dead and only four survivors out of the 72 passengers on board. Lastly, college students are talking about Auburn University banning TikTok, which brings a geopolitical fight to the forefront for its biggest fans--young Americans.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Year After a Fiery Voting Rights Speech, Biden Delivers a More Muted Address</h3>
+<sub>By Peter Baker</sub>
+<p>On Martin Luther King Jr.’s birthday, the president assured an audience at Ebenezer Baptist Church that its side in the struggle would, indeed, overcome someday.  <a href="https://nyti.ms/3ZBjONh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>In Boston, ‘The Embrace’ Honors Dr. Martin Luther King Jr.’s Legacy</h3>
+<sub>By Kalia Richardson</sub>
+<p>The bronze sculpture, by the artist Hank Willis Thomas, symbolizes the hug Dr. King and Coretta Scott King shared after Dr. King won the 1964 Nobel Peace Prize.  <a href="https://nyti.ms/3H8RTwS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>If Affirmative Action Ends, College Admissions May Be Changed Forever</h3>
 <sub>By Stephanie Saul</sub>
@@ -75,9 +91,9 @@ There is a lot happening in the world right now. In Bali, Russians and Ukrainian
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Death Toll Rises After Russian Strike Destroys Apartment Block</h3>
+<h3>Dead, Alive or Devastated After Russian Strike on Apartments</h3>
 <sub>By Megan Specia and Nicole Tung</sub>
-<p>Rescue workers were still digging through the rubble of a residential building in the central Ukrainian city of Dnipro on Sunday, a day after a Russian missile attack.  <a href="https://nyti.ms/3CPnfGi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Rescue workers were still digging through the ruins of a residential building in the central Ukrainian city of Dnipro on Sunday, a day after a Russian missile attack.  <a href="https://nyti.ms/3CPnfGi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,16 +102,16 @@ There is a lot happening in the world right now. In Bali, Russians and Ukrainian
 <p>Lycoming County, Pa., officials were persuaded to conduct a 2020 recount, a three-day undertaking that showed almost no change, but left skeptics just as skeptical.  <a href="https://nyti.ms/3Xdjin0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>52 Places to Go in 2023</h3>
-<sub></sub>
-<p>Travel’s rebound has revealed the depth of our drive to explore the world. Why do we travel? For food, culture, adventure, natural beauty? This year’s list has all those elements, and more.  <a href="https://nyti.ms/3vXlHWQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Dwindling Snow Leaves Swiss Alpine Villages Staring at an Identity Crisis</h3>
+<sub>By Erika Solomon</sub>
+<p>An unusually warm winter has forced a rethink about climate change in areas with lower peaks as ski resorts and sporting events face an uncertain future.  <a href="https://nyti.ms/3Xfya4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Auburn Banned TikTok, and Students Can’t Stop Talking About It</h3>
-<sub>By Sapna Maheshwari</sub>
-<p>The school’s prohibition brings a geopolitical fight front and center for TikTok’s biggest fans: young Americans.  <a href="https://nyti.ms/3QJTbBS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Adams Visits the Border to Step Up Pressure on Biden for Migrant Funds</h3>
+<sub>By John De Frank and Emma G. Fitzsimmons</sub>
+<p>Mayor Eric Adams says that an influx of migrants could cost New York City $2 billion. He wants financial help from the federal government.  <a href="https://nyti.ms/3H4V6gS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,27 +127,15 @@ There is a lot happening in the world right now. In Bali, Russians and Ukrainian
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Who Benefits When Salary Info Is Public?</h3>
-<sub>By Sarah Kessler</sub>
-<p>It’s good for pay equity, and it can be good for managers, but it’s not so good for superstars.  <a href="https://nyti.ms/3H1MbwP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<h3>Auburn Banned TikTok, and Students Can’t Stop Talking About It</h3>
+<sub>By Sapna Maheshwari</sub>
+<p>The school’s prohibition brings a geopolitical fight front and center for TikTok’s biggest fans: young Americans.  <a href="https://nyti.ms/3QJTbBS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How to Ask for a Raise, Without Alienating Your Boss Along the Way</h3>
-<sub>By Paulette Perhach</sub>
-<p>Tips from psychologists, managers and people who have successfully asked what can feel like a very difficult question.  <a href="https://nyti.ms/3CR066j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jaclyn Reiss</sub>
-<p>The New York Times book review of Prince Harry’s memoir, where to go in 2023 and why Noma, the world’s top-rated restaurant, plans to close.  <a href="https://nyti.ms/3IJXoTN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, January 13, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3iy16W0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>The Transgressive Power of Alba de Céspedes</h3>
+<sub>By Joumana Khatib</sub>
+<p>A best-selling novelist and political activist in her native Italy, she was admired for her sensitive depictions of women and their predicaments. Recently rediscovered, her work has lost none of its subversive force.  <a href="https://nyti.ms/3GAXRoJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
