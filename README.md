@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 16, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In the US, President Biden addressed the legacy of Martin Luther King Jr. on a historic day for civil rights. On the West Coast, several areas are bracing for yet another round of rain and snow due to an incoming storm. Meanwhile, dozens of deaths were reported following a plane crash in Nepal. In terms of politics, some debates around college admissions and migrant aid to New York City remain ongoing. And Republicans have been facing internal divisions and disunity over the past few years.</p>
+In the US, President Biden delivered a muted address at Ebenezer Baptist Church on Martin Luther King Jr.’s birthday. In Boston, an artist has created a sculpture of Dr. King and Coretta Scott King hugging to commemorate the civil rights leader. California is preparing for another round of rain and snow, and if affirmative action is eliminated, college admissions could change drastically. 
+
+Elsewhere, in Ukraine, rescue workers are still finding bodies after a Russian missile attack on residential buildings. In Bali, thousands of Russians and Ukrainians have fled their homelands from the war back home and have to learn to cohabitate. In Switzerland, a warm winter has put ski resorts and sports events in jeopardy due to melting snow. And in Nepal, there was a fatal plane crash that killed 68 people. 
+
+Closer to home, Mayor Eric Adams is pressuring the federal government for more funding due to an influx of migrants in New York City that he estimates would cost the city around $2 billion. Finally, opinion pieces are stating that the Republican party keeps coming apart due to its old motto of ‘Democrats fall in love; Republicans fall in line’ feeling more outdated than ever before.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Year After a Fiery Voting Rights Speech, Biden Delivers a More Muted Address</h3>
