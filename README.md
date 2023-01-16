@@ -60,10 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 16, Central Standard Time</p>
 <p>
-Well, lots of people are worried about chatbot technology coming up and colleges are having to rework classes in order to handle it effectively. There is also a Russia-Ukraine conflict which resembles wars fought between nations decades ago instead of a modern conflict - Germany&#39;s Defence Minister recently resigned because of media criticism. 
-In the US, there&#39;s an isolating experience as one Arizona suburb is cut off from their water supply while Biden gave a more muted address on Martin Luther King Jr. day. Across the Pacific there have been issues with Chinese &#39;Zero Covid&#39; workers not getting paid properly and California is bracing for more storms. And then back in Europe, a Mafia Boss has finally been arrested after 30 years hiding from capture.
-
-In the real estate industry, Black agents and brokers make almost three times less than a white peer and three Black women are hoping to change this as well as tackling discrimination against Black homeowners. On the tech side of things, MSG Entertainment used facial recognition technology to kick out legal foes but this was disputed by a law passed in 1941 to protect theater critics. Lastly, Gina Lollobrigida sadly passed away at age 95 - she had been known as &#39;the most beautiful woman in the world&#39; and had later enjoyed success as both an artist and filmmaker.</p>
+There seems to be a lot going on around the world right now. In Germany, the country&#39;s Defense Minister has resigned due to public criticism over her decisions. There is also ongoing conflict between Russia and Ukraine that resembles something from a bygone era. On the other side of the world, a water crisis in Arizona is causing hundreds of homes to go without water during a drought situation in the West. In other news, China recently implemented strict &quot;zero Covid&quot; controls which have created an unrest among workers who are unpaid. Meanwhile, Italy has finally arrested a notorious mafia boss who evaded capture for 30 years. Finally, there is also unrest in US theaters as some lawyers have been barred using facial recognition technology imposed by Madison Square Garden, but some have managed to return using an old law passed back in 1941. It&#39;s been a chaotic year for sure!</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Alarmed by A.I. Chatbots, Universities Start Revamping How They Teach</h3>
@@ -72,21 +69,21 @@ In the real estate industry, Black agents and brokers make almost three times le
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What 70 Years of War Can Tell Us About the Russia-Ukraine Conflict</h3>
-<sub>By Max Fisher</sub>
-<p>Despite some postmodern features, the fighting resembles a type of conflict from decades past: wars fought between nations in which one does not conquer the other outright.  <a href="https://nyti.ms/3GLbjGB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Germany’s Defense Minister Quits, Blaming ‘Media Focus’</h3>
 <sub>By Erika Solomon</sub>
 <p>Christine Lambrecht was a frequent target of criticism, including over German caution on military aid to Ukraine. Chancellor Olaf Scholz had backed her strongly, and may find her hard to replace.  <a href="https://nyti.ms/3QHdPCq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What 70 Years of War Can Tell Us About the Russia-Ukraine Conflict</h3>
+<sub>By Max Fisher</sub>
+<p>Despite some postmodern features, the fighting resembles a type of conflict from decades past: wars fought between nations in which one does not conquer the other outright.  <a href="https://nyti.ms/3ISK8wy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Skipped Showers, Paper Plates: An Arizona Suburb’s Water Is Cut Off</h3>
 <sub>By Jack Healy</sub>
-<p>Hundreds of homes outside the boundaries of Scottsdale can no longer get water from the city, now their owners are living a worst-case scenario of drought in the West.  <a href="https://nyti.ms/3ZFdEeX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Hundreds of homes outside the boundaries of Scottsdale can no longer get water from the city, now their owners are living a worst-case scenario of drought in the West.  <a href="https://nyti.ms/3H5gz9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -94,6 +91,12 @@ In the real estate industry, Black agents and brokers make almost three times le
 <sub>By Peter Baker</sub>
 <p>On Martin Luther King Jr.’s birthday, the president assured an audience at Ebenezer Baptist Church that its side in the struggle would, indeed, overcome someday.  <a href="https://nyti.ms/3ZBjONh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>A Fake Death in Romancelandia</h3>
+<sub>By Ellen Barry</sub>
+<p>A Tennessee homemaker entered the online world of romance writers and it became, in her words, “an addiction.” Things went downhill from there.  <a href="https://nyti.ms/3iAeIAl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China’s Latest Source of Unrest: Unpaid ‘Zero Covid’ Workers</h3>
@@ -113,28 +116,22 @@ In the real estate industry, Black agents and brokers make almost three times le
 <p>Matteo Messina Denaro, who was sentenced in absentia for the 1992 murder of two prosecutors and other crimes, was apprehended in a Sicilian hospital.  <a href="https://nyti.ms/3klG51c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Selling Houses While Black</h3>
-<sub>By Colette Coleman</sub>
-<p>About 6 percent of real estate agents and brokers in the United States are Black. Their white peers make almost three times as much, according to data and surveys.  <a href="https://nyti.ms/3QAWx9S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>How Three Black Women Hope to Change the Home Appraisal Industry</h3>
-<sub>By Debra Kamin</sub>
-<p>Two veteran appraisers and a newcomer have different but compatible approaches to combating discrimination against Black homeowners.  <a href="https://nyti.ms/3GUkZzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Lawyers Barred by Madison Square Garden Found a Way Back In</h3>
 <sub>By Kashmir Hill</sub>
 <p>MSG Entertainment resorted to facial recognition technology to kick out legal foes, but some have undermined the ban using a law passed to protect theater critics in 1941.  <a href="https://nyti.ms/3w8cfzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>17 Years After Her Husband’s Crash in Nepal, a Pilot Met the Same Fate</h3>
+<sub>By Bhadra Sharma and Mujib Mashal</sub>
+<p>Anju Khatiwada, who died on Sunday in a crash in Pokhara, Nepal, decided to become a pilot after her husband’s death in 2006. The family’s calamities are part of a deadly pattern of aviation disasters in Nepal.  <a href="https://nyti.ms/3QIikfX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Gina Lollobrigida, Italian Movie Legend, Is Dead at 95</h3>
+<h3>Gina Lollobrigida, Movie Star and Sex Symbol, Is Dead at 95</h3>
 <sub>By Anita Gates</sub>
-<p>Known as “the most beautiful woman in the world,” the European sex symbol went on to American movie stardom, later enjoying a second career as an artist and filmmaker.  <a href="https://nyti.ms/3ZDGUCK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>She began her career in her native Italy and, although she achieved fame in America worked more often in Europe. She later had a second career as an artist and filmmaker.  <a href="https://nyti.ms/3ZDGUCK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
