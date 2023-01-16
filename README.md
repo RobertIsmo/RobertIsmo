@@ -60,7 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 16, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! In technology, universities are revamping how they teach due to the rise of the popular chatbot ChatGPT. Worldwide, there are similarities between current conflicts and wars from 70 years ago- like in Russia and Ukraine. In the US, some suburbs have had their water cut off due to drought, and Biden gave a muted address on Martin Luther King Jr. day. China is facing unrest due to unpaid Covid workers. California is girding for another round of rain and snow, and some real estate agents and brokers are disproportionately making much less than White peers. Europe has seen a decrease in inflation rates, but central bankers are still concerned about persistently high prices. There&#39;s a law passed back in 1941 that some lawyers have used to get back into Madison Square Garden despite facial recognition technology being used to them out. For Chinese New Year celebrations this year, someFestive festival dishes can be easily made at home. Lastly, people are discussing how power makes those in positions of authority act weirdly - from the royal family to Congress!</p>
+Well, lots of people are worried about chatbot technology coming up and colleges are having to rework classes in order to handle it effectively. There is also a Russia-Ukraine conflict which resembles wars fought between nations decades ago instead of a modern conflict - Germany&#39;s Defence Minister recently resigned because of media criticism. 
+In the US, there&#39;s an isolating experience as one Arizona suburb is cut off from their water supply while Biden gave a more muted address on Martin Luther King Jr. day. Across the Pacific there have been issues with Chinese &#39;Zero Covid&#39; workers not getting paid properly and California is bracing for more storms. And then back in Europe, a Mafia Boss has finally been arrested after 30 years hiding from capture.
+
+In the real estate industry, Black agents and brokers make almost three times less than a white peer and three Black women are hoping to change this as well as tackling discrimination against Black homeowners. On the tech side of things, MSG Entertainment used facial recognition technology to kick out legal foes but this was disputed by a law passed in 1941 to protect theater critics. Lastly, Gina Lollobrigida sadly passed away at age 95 - she had been known as &#39;the most beautiful woman in the world&#39; and had later enjoyed success as both an artist and filmmaker.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Alarmed by A.I. Chatbots, Universities Start Revamping How They Teach</h3>
@@ -72,6 +75,12 @@ There&#39;s a lot going on in the world right now! In technology, universities a
 <h3>What 70 Years of War Can Tell Us About the Russia-Ukraine Conflict</h3>
 <sub>By Max Fisher</sub>
 <p>Despite some postmodern features, the fighting resembles a type of conflict from decades past: wars fought between nations in which one does not conquer the other outright.  <a href="https://nyti.ms/3GLbjGB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Germany’s Defense Minister Quits, Blaming ‘Media Focus’</h3>
+<sub>By Erika Solomon</sub>
+<p>Christine Lambrecht was a frequent target of criticism, including over German caution on military aid to Ukraine. Chancellor Olaf Scholz had backed her strongly, and may find her hard to replace.  <a href="https://nyti.ms/3QHdPCq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,6 +107,12 @@ There&#39;s a lot going on in the world right now! In technology, universities a
 <p>Already soaked, the state is girding for yet another round of rain and snow.  <a href="https://nyti.ms/3DdYJz1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mafia Boss Arrested in Italy After Eluding Capture for 30 Years</h3>
+<sub>By Gaia Pianigiani</sub>
+<p>Matteo Messina Denaro, who was sentenced in absentia for the 1992 murder of two prosecutors and other crimes, was apprehended in a Sicilian hospital.  <a href="https://nyti.ms/3klG51c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>Selling Houses While Black</h3>
 <sub>By Colette Coleman</sub>
@@ -110,28 +125,16 @@ There&#39;s a lot going on in the world right now! In technology, universities a
 <p>Two veteran appraisers and a newcomer have different but compatible approaches to combating discrimination against Black homeowners.  <a href="https://nyti.ms/3GUkZzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Price Gains Ease in Europe but Core Inflation Keeps Policymakers ‘Up at Night’</h3>
-<sub>By Eshe Nelson</sub>
-<p>Declines in overall inflation rates may bring comfort to consumers, but central bankers are still wary of drivers of persistently high prices.  <a href="https://nyti.ms/3GI9jza"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Lawyers Barred by Madison Square Garden Found a Way Back In</h3>
 <sub>By Kashmir Hill</sub>
 <p>MSG Entertainment resorted to facial recognition technology to kick out legal foes, but some have undermined the ban using a law passed to protect theater critics in 1941.  <a href="https://nyti.ms/3w8cfzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Easy, Festive Dishes for Chinese New Year at Home</h3>
-<sub>By Genevieve Ko</sub>
-<p>Wontons may be an everyday affair, but that’s all the more reason to celebrate with them, Genevieve Ko writes.  <a href="https://nyti.ms/3J40qTp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>And Now a Few Words About How Power Makes You Weird</h3>
-<sub>By Gail Collins and Bret Stephens</sub>
-<p>From the royal family to the House of Repesentatives, it was a strange week.  <a href="https://nyti.ms/3XQHBqX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Gina Lollobrigida, Italian Movie Legend, Is Dead at 95</h3>
+<sub>By Anita Gates</sub>
+<p>Known as “the most beautiful woman in the world,” the European sex symbol went on to American movie stardom, later enjoying a second career as an artist and filmmaker.  <a href="https://nyti.ms/3ZDGUCK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
