@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 15, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In honor of Martin Luther King Jr.&#39;s birthday, President Biden gave a speech at Ebenezer Baptist Church and reassured the audience that good will overcome evil. There&#39;s also a new bronze sculpture in Boston commemorating the hug that Dr. King and Coretta Scott King shared after he won the Nobel Peace Prize. The U.S Supreme Court recently heard cases regarding affirmative action in college admissions, which could have lasting implications for students in the future if upheld. 
-
-Internationally, thousands of Russians and Ukrainians have fled to Bali to escape escalating war tensions between their countries. Furthermore, in Ukraine a Russian missile attack left many dead and rescue workers had to work to clear the debris of a residential building. In Switzerland, snow levels are rapidly decreasing due to an unusually warm winter, fundamentally changing how ski resorts and sporting events operate.
-
-An influx of migrants in New York could cost up to $2 billion dollars, prompting New York City Mayor Eric Adams press the federal government for financial assistance. California has been experiencing endless storms recently, leaving 19 dead so far. There was also a deadly plane crash in Nepal leaving 68 dead and only four survivors out of the 72 passengers on board. Lastly, college students are talking about Auburn University banning TikTok, which brings a geopolitical fight to the forefront for its biggest fans--young Americans.</p>
+A lot is happening in the world right now. On Martin Luther King Jr.&#39;s birthday, President Biden gave a muted address at Ebenezer Baptist Church, and a sculpture by artist Hank Willis Thomas honors his legacy. It’s been an unusually wet winter in California with yet another storm on the way, forcing people to rethink the effects of climate change due to dwindling snow in Swiss Alpine villages. In Ukraine, a Russian missile attack destroyed a residential building leaving many dead or devastated. In Bali, Russians and Ukrainians have left their homelands due to war-related reasons and are living together there. Here in the US, Donald Trump supporters sought out recounts of 2020 votes but found no change, while Mayor Eric Adams of New York visited the border to ask for funds to manage migrant influx.  Additionally, Alba de Céspedes&#39;s novel is back in circulation and its sensitive depiction of women still holds power today. Lastly, Republicans keep coming apart at the seams as they struggle to find unity.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Year After a Fiery Voting Rights Speech, Biden Delivers a More Muted Address</h3>
@@ -79,21 +75,27 @@ An influx of migrants in New York could cost up to $2 billion dollars, prompting
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Another Storm Arriving, Five Areas of California to Watch</h3>
+<sub>By Carly Olson, Ava Sasani, Luke Vander Ploeg and Julie Brown</sub>
+<p>Already soaked, the state is girding for yet another round of rain and snow.  <a href="https://nyti.ms/3DdYJz1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>If Affirmative Action Ends, College Admissions May Be Changed Forever</h3>
 <sub>By Stephanie Saul</sub>
 <p>Schools may need to rethink everything, including recruitment, scholarships, standardized testing and alumni preferences.  <a href="https://nyti.ms/3CM59VO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘I’m Sorry, We’re From Moscow.’ In Bali, Warring Sides Learn to Cohabitate</h3>
-<sub>By Sui-Lee Wee and Nyimas Laula</sub>
-<p>Thousands of Russians and Ukrainians have fled their homelands for Bali. But even in a tropical paradise, the war is ever-present.  <a href="https://nyti.ms/3GGOfJ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Dead, Alive or Devastated After Russian Strike on Apartments</h3>
 <sub>By Megan Specia and Nicole Tung</sub>
 <p>Rescue workers were still digging through the ruins of a residential building in the central Ukrainian city of Dnipro on Sunday, a day after a Russian missile attack.  <a href="https://nyti.ms/3CPnfGi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘I’m Sorry, We’re From Moscow.’ In Bali, Warring Sides Learn to Cohabitate</h3>
+<sub>By Sui-Lee Wee and Nyimas Laula</sub>
+<p>Thousands of Russians and Ukrainians have fled their homelands for Bali. But even in a tropical paradise, the war is ever-present.  <a href="https://nyti.ms/3GGOfJ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,22 +116,10 @@ An influx of migrants in New York could cost up to $2 billion dollars, prompting
 <p>Mayor Eric Adams says that an influx of migrants could cost New York City $2 billion. He wants financial help from the federal government.  <a href="https://nyti.ms/3H4V6gS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Another storm is soaking California. Here’s what to know.</h3>
-<sub>By Shawn Hubler, Victoria Kim and Judson Jones</sub>
-<p>The state’s northern and central regions have sustained the most damage during weeks of endless storms that have left at least 19 dead.  <a href="https://nyti.ms/3kgW68W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Plane Crash in Nepal Leaves at Least 68 Dead</h3>
 <sub>By Bhadra Sharma and Karan Deep Singh</sub>
 <p>A twin-engine propeller plane crashed on approach to the city of Pokhara, with 72 people on board.  <a href="https://nyti.ms/3COQyJ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Auburn Banned TikTok, and Students Can’t Stop Talking About It</h3>
-<sub>By Sapna Maheshwari</sub>
-<p>The school’s prohibition brings a geopolitical fight front and center for TikTok’s biggest fans: young Americans.  <a href="https://nyti.ms/3QJTbBS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -137,6 +127,12 @@ An influx of migrants in New York could cost up to $2 billion dollars, prompting
 <sub>By Joumana Khatib</sub>
 <p>A best-selling novelist and political activist in her native Italy, she was admired for her sensitive depictions of women and their predicaments. Recently rediscovered, her work has lost none of its subversive force.  <a href="https://nyti.ms/3GAXRoJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Three Reasons the Republican Party Keeps Coming Apart at the Seams</h3>
+<sub>By Ezra Klein</sub>
+<p>Remember when it was ‘Democrats fall in love; Republicans fall in line&#39;? Me neither.   <a href="https://nyti.ms/3CLaMTR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
