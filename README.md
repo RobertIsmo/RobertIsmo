@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 17, Central Standard Time</p>
 <p>
-There are a lot of exciting, yet concerning things happening in the world right now. For example, in China, their population is shrinking due to a demographic crisis and their economy has slumped last year due to Covid-19 restrictions. In the Caucasus region, there&#39;s a renewed conflict between Armenia and Azerbaijan that Russia has not intervened in, possibly because they are distracted and weakened by Ukraine. In the US, there have been a few shootings targeting Democrats and an incident at JFK Airport where an American Airlines plane almost collided with a Delta flight. Lastly, the beloved film star, Gina Lollobrigida has died at 95 years old.</p>
+Recently, there has been a lot going on in the world. In China, the population has fallen and birth rates are decreasing, which has caused a demographic crisis. At the same time, the Chinese economy has been subdued due to Covid-19 and lockdowns. In the US, restaurant workers are having to pay for their own lobbying to ensure their wages stay low. On a global level, however, there has been a push to treat HIV, but unfortunately children are not getting enough attention in this regard. 
+
+As for tech and business news, Elon Musk&#39;s strategies have been causing controversy and he is now facing trial over alleged losses from a failed plan of his from 2018. Meanwhile in Armenia&#x2F;Azerbaijan, Russia appears weakened and unable to intervene in a renewed conflict in the region. As for returning art stolen way back in the 1800s, negotiations between Britain and Greece appear to be coming closer to a resolution. Sadly in the US there were recent shootings targeting Democrats and an ex-Republican candidate was arrested. Meanwhile in France they&#39;re trying to delay retirement with older workers facing potential discrimination when seeking jobs. However Peru is having their own problems as protests continue and their death toll rises due to disillusionment with democracy. Lastly here in California, while we appreciate beautiful views of Montecito, we also must face reality that mudslides can occur here at any time making it risky to live near here.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China’s Population Falls, Heralding a Demographic Crisis</h3>
@@ -74,46 +76,40 @@ There are a lot of exciting, yet concerning things happening in the world right 
 <p>New government data shows that growth for the year fell far short of Beijing’s goal. With Covid curbs lifted but the pandemic’s course uncertain, hope and fear cloud the forecast.  <a href="https://nyti.ms/3QLoLPl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Restaurant Workers Help Pay for Lobbying to Keep Their Wages Low</h3>
+<sub>By David A. Fahrenthold and Talmon Joseph Smith</sub>
+<p>The National Restaurant Association uses mandatory $15 food-safety classes to turn waiters and cooks into unwitting funders of its battle against minimum wage increases.  <a href="https://nyti.ms/3kkjHW7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Global Push to Treat H.I.V. Leaves Children Behind</h3>
+<sub>By Stephanie Nolen and Malin Fezehai</sub>
+<p>Sub-Saharan Africa has made steady progress in delivering lifesaving medication to adults, but young patients are harder to reach and 100,000 are dying of AIDS each year  <a href="https://nyti.ms/3XFa2YJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Elon Musk’s Appetite for Destruction</h3>
+<sub>By Christopher Cox</sub>
+<p>A wave of lawsuits argue that Tesla’s self-driving software is dangerously overhyped. What can its blind spots teach us about the company’s erratic C.E.O.?  <a href="https://nyti.ms/3Xih7ym"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Elon Musk Faces Trial Over His 2018 Plan to Take Tesla Private</h3>
+<sub>By Peter Eavis and Kalley Huang</sub>
+<p>Investors are seeking billions of dollars in damages for their losses after Mr. Musk posted a proposal on Twitter that never materialized.  <a href="https://nyti.ms/3WjobJX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Renewed Armenia-Azerbaijan Conflict Underlines Russia’s Waning Influence</h3>
 <sub>By Anton Troianovski</sub>
 <p>Russia helped end a 2020 war and its troops policed the cease-fire. But with a new crisis in the Caucasus heating up, Moscow, distracted and weakened by Ukraine, has not intervened.  <a href="https://nyti.ms/3XcR8Zg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Death Toll of Russian Strike in Dnipro Rises to 40, Ukraine Says</h3>
-<sub>By Andrew E. Kramer and Megan Specia</sub>
-<p>The authorities said 34 people remained missing after three days of searching for the living and the dead at an apartment building struck by a Russian missile in Dnipro.  <a href="https://nyti.ms/3CSmoEI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Florida School Received a Threat. Did a Red Flag Law Prevent a Shooting?</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>Judges in 19 states and the District of Columbia are issuing orders to keep guns out of the hands of people deemed dangerous, like a Fort Lauderdale teenager who threatened a school shooting.  <a href="https://nyti.ms/3GLCYY5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Alarmed by A.I. Chatbots, Universities Start Revamping How They Teach</h3>
-<sub>By Kalley Huang</sub>
-<p>With the rise of the popular new chatbot ChatGPT, colleges are restructuring some courses and taking preventive measures.  <a href="https://nyti.ms/3XuBOHe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Skipped Showers, Paper Plates: An Arizona Suburb’s Water Is Cut Off</h3>
-<sub>By Jack Healy</sub>
-<p>Hundreds of homes outside the boundaries of Scottsdale can no longer get water from the city, so their owners are living a worst-case scenario of drought in the West.  <a href="https://nyti.ms/3H5gz9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>White House Says It Does Not Keep Visitor Logs at Biden’s Delaware Home</h3>
-<sub>By Michael D. Shear</sub>
-<p>A top House Republican had demanded the logs after classified documents were found at President Biden’s personal residence.  <a href="https://nyti.ms/3ISsyIR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As France Moves to Delay Retirement, Older Workers Are in a Quandary</h3>
-<sub>By Liz Alderman</sub>
-<p>A measure to raise the retirement age to 64 from 62 is expected to expose more people to age discrimination: “Companies in France won’t hire them.”  <a href="https://nyti.ms/3XAlkgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>After 220 Years, the Fate of the Parthenon Marbles Rests in Secret Talks</h3>
+<sub>By Alex Marshall</sub>
+<p>The British Museum and Greece’s prime minister are getting closer to a deal on returning the so-called Elgin Marbles to Athens. But key differences remain.  <a href="https://nyti.ms/3XiVbmO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,17 +118,23 @@ There are a lot of exciting, yet concerning things happening in the world right 
 <p>The authorities in Albuquerque said that Solomon Peña, who lost his bid for a State House seat in November, was behind a series of recent shootings targeting Democratic elected officials.  <a href="https://nyti.ms/3ZzXtjb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Gina Lollobrigida, Movie Star and Sex Symbol, Is Dead at 95</h3>
-<sub>By Anita Gates</sub>
-<p>She began her career in her native Italy and, although she achieved fame in America worked more often in Europe. She later had a second career as an artist and filmmaker.  <a href="https://nyti.ms/3ZDGUCK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As France Moves to Delay Retirement, Older Workers Are in a Quandary</h3>
+<sub>By Liz Alderman</sub>
+<p>A measure to raise the retirement age to 64 from 62 is expected to expose more people to age discrimination: “Companies in France won’t hire them.”  <a href="https://nyti.ms/3XAlkgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With 50 Dead in Peru, a Referendum on Democracy</h3>
+<sub>By Julie Turkewitz and Federico Rios</sub>
+<p>Weeks after the ouster of a leftist president, persistent protests and a mounting death toll have exacerbated widespread disillusionment with the country’s young democracy.  <a href="https://nyti.ms/3GLEDgj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Delta 1943, Cancel Takeoff’: Wrong Turn Results in Near Miss at J.F.K.</h3>
-<sub>By Andy Newman and Livia Albeck-Ripka</sub>
-<p>An American Airlines plane crossed about 1,000 feet ahead of a Delta flight about to depart from Kennedy International Airport, officials said.  <a href="https://nyti.ms/3ZGRnO3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
+<h3>In Montecito, the Million-Dollar Views Still Come With Mudslide Risks</h3>
+<sub>By Jill Cowan and Corina Knoll</sub>
+<p>Life in California often requires navigating the edges of natural beauty and natural disaster. On the fifth anniversary of a catastrophe, residents had to flee again.  <a href="https://nyti.ms/3ZEo2DR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
