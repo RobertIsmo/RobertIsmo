@@ -60,9 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 17, Central Standard Time</p>
 <p>
-Recently, there has been a lot going on in the world. In China, the population has fallen and birth rates are decreasing, which has caused a demographic crisis. At the same time, the Chinese economy has been subdued due to Covid-19 and lockdowns. In the US, restaurant workers are having to pay for their own lobbying to ensure their wages stay low. On a global level, however, there has been a push to treat HIV, but unfortunately children are not getting enough attention in this regard. 
-
-As for tech and business news, Elon Musk&#39;s strategies have been causing controversy and he is now facing trial over alleged losses from a failed plan of his from 2018. Meanwhile in Armenia&#x2F;Azerbaijan, Russia appears weakened and unable to intervene in a renewed conflict in the region. As for returning art stolen way back in the 1800s, negotiations between Britain and Greece appear to be coming closer to a resolution. Sadly in the US there were recent shootings targeting Democrats and an ex-Republican candidate was arrested. Meanwhile in France they&#39;re trying to delay retirement with older workers facing potential discrimination when seeking jobs. However Peru is having their own problems as protests continue and their death toll rises due to disillusionment with democracy. Lastly here in California, while we appreciate beautiful views of Montecito, we also must face reality that mudslides can occur here at any time making it risky to live near here.</p>
+The world is dealing with a lot of changes right now. In China, the population has declined for the first time in 60 years, which could have major implications for the country, its economy and beyond. Meanwhile, China&#39;s economy suffered due to Covid-19 related lockdowns. 
+In the US, restaurant workers are unknowingly funding lobbying campaigns against increasing wages. Sub-Saharan Africa is making progress treating HIV in adults, but young patients are struggling to access care, resulting in over 100,000 deaths per year due to AIDS.
+Elon Musk is facing a trial due to his 2018 proposal to take Tesla private, and there&#39;s a wave of lawsuits that argue that his self-driving software is dangerously overhyped. 
+Russia failed to intervene in renewed Armenia-Azerbaijan conflict, indicating their waning influence. Also, there was a rare defection by a former member of the Russian paramilitary force that may aid investigations into Moscow&#39;s atrocities. 
+The business leaders at the World Economic Forum are worried about a ‘polycrisis’ that arose from various world problems. Also, talks between British Museum and Greece&#39;s prime minister on returning the Elgin Marbles to Athens has reached an impasse. 
+And finally, a former Republican candidate was arrested in New Mexico for shootings targeting Democratic elected officials, while France moves to delay retirement creating struggles for older workers who face age discrimination when looking for jobs.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China’s Population Falls, Heralding a Demographic Crisis</h3>
@@ -106,6 +109,18 @@ As for tech and business news, Elon Musk&#39;s strategies have been causing cont
 <p>Russia helped end a 2020 war and its troops policed the cease-fire. But with a new crisis in the Caucasus heating up, Moscow, distracted and weakened by Ukraine, has not intervened.  <a href="https://nyti.ms/3XcR8Zg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Wagner fighter defects to Norway, promising to expose Russian war crimes in Ukraine.</h3>
+<sub>By Anatoly Kurmanaev, Henrik Pryser Libell and Michael Schwirtz</sub>
+<p>The rare defection by a former member of the notorious Russian paramilitary force could aid investigations into Moscow’s atrocities.  <a href="https://nyti.ms/3IW4Jjy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Davos Worries About a ‘Polycrisis’</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>So many global troubles have arisen that the political and business leaders at the World Economic Forum in Switzerland have adopted a buzzword to capture the moment.  <a href="https://nyti.ms/3CSPF2j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>After 220 Years, the Fate of the Parthenon Marbles Rests in Secret Talks</h3>
 <sub>By Alex Marshall</sub>
@@ -122,18 +137,6 @@ As for tech and business news, Elon Musk&#39;s strategies have been causing cont
 <h3>As France Moves to Delay Retirement, Older Workers Are in a Quandary</h3>
 <sub>By Liz Alderman</sub>
 <p>A measure to raise the retirement age to 64 from 62 is expected to expose more people to age discrimination: “Companies in France won’t hire them.”  <a href="https://nyti.ms/3XAlkgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With 50 Dead in Peru, a Referendum on Democracy</h3>
-<sub>By Julie Turkewitz and Federico Rios</sub>
-<p>Weeks after the ouster of a leftist president, persistent protests and a mounting death toll have exacerbated widespread disillusionment with the country’s young democracy.  <a href="https://nyti.ms/3GLEDgj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Montecito, the Million-Dollar Views Still Come With Mudslide Risks</h3>
-<sub>By Jill Cowan and Corina Knoll</sub>
-<p>Life in California often requires navigating the edges of natural beauty and natural disaster. On the fifth anniversary of a catastrophe, residents had to flee again.  <a href="https://nyti.ms/3ZEo2DR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
