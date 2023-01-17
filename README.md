@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 16, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the U.S., a Florida school recently received a threat, prompting some states to enact red flag laws to help prevent future school shootings. In the tech world, a new AI chatbot called ChatGPT has caused universities to rethink how they teach. On the international stage, Germany&#39;s Defense Minister quit, citing media focus as a major factor. Arizona is experiencing a major water shortage, and White House visitor logs won&#39;t be made public while President Biden works from his Delaware home. On Martin Luther King Jr.&#39;s birthday, Biden gave a more subdued address in comparison to his fiery voting rights speech of last year. There have been instances of fake deaths in Romancelandia, China&#39;s unpaid &#39;zero Covid&#39; workers are causing unrest, and California is seeing yet another round of bad weather. Meanwhile, Rikers investigators have been taking unnecessary sick days while cracking down on abuse, Italy has arrested a mafia boss after 30 years of running from arrest, and lawyers have found a way back into Madison Square Garden using facial recognition technology protected by an old theater critic law from 1941.</p>
+There is a lot of news happening around the world right now. In Russia, the death toll from a missile strike in Dnipro has risen to 40 with 34 people still missing. In Florida, gun control is being discussed in light of a school threat, and judges have the authority to keep guns out a particular individual&#39;s hands if deemed dangerous. Universities are restructuring classes to respond to technology advances and alarm over chatbot AI. In an Arizona suburb, water supply has been cut off from hundreds of homes, forcing them to live in drought-like scenarios. The White House has responded to requests for visitor logs at Biden&#39;s Delaware home with no logs kept. Health care stories reported include a Tennessee homemaker&#39;s &quot;addiction&quot; to romance writers online and California experiencing another round of rain and snow. Additionally, Rikers Island has discovered sick leave abuse from its officers and Italy captured its most wanted Mafia boss after 30 years at a hospital. In entertainment news, Gina Lollobrigida, an Italian movie star an sex symbol, passed away at age 95. Finally, at J.F.K airport there was a near miss caused by an American Airlines plane taking a wrong turn crossing 1,000 feet ahead of the Delta flight about to depart.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Death Toll of Russian Strike in Dnipro Rises to 40, Ukraine Says</h3>
+<sub>By Andrew E. Kramer and Megan Specia</sub>
+<p>The authorities said 34 people remained missing after three days of searching for the living and the dead at an apartment building struck by a Russian missile in Dnipro.  <a href="https://nyti.ms/3CSmoEI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Florida School Received a Threat. Did a Red Flag Law Prevent a Shooting?</h3>
 <sub>By Sheryl Gay Stolberg</sub>
@@ -72,12 +78,6 @@ There&#39;s a lot going on in the world right now. In the U.S., a Florida school
 <h3>Alarmed by A.I. Chatbots, Universities Start Revamping How They Teach</h3>
 <sub>By Kalley Huang</sub>
 <p>With the rise of the popular new chatbot ChatGPT, colleges are restructuring some courses and taking preventive measures.  <a href="https://nyti.ms/3XuBOHe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Germany’s Defense Minister Quits, Blaming ‘Media Focus’</h3>
-<sub>By Erika Solomon</sub>
-<p>Christine Lambrecht was a frequent target of criticism, including over German caution on military aid to Ukraine. Chancellor Olaf Scholz had backed her strongly, and may find her hard to replace.  <a href="https://nyti.ms/3QHdPCq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,26 +92,14 @@ There&#39;s a lot going on in the world right now. In the U.S., a Florida school
 <p>A top House Republican had demanded the logs after classified documents were found at President Biden’s personal residence.  <a href="https://nyti.ms/3ISsyIR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Year After a Fiery Voting Rights Speech, Biden Delivers a More Muted Address</h3>
-<sub>By Peter Baker</sub>
-<p>On Martin Luther King Jr.’s birthday, the president assured an audience at Ebenezer Baptist Church that its side in the struggle would, indeed, overcome someday.  <a href="https://nyti.ms/3ZBjONh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>A Fake Death in Romancelandia</h3>
 <sub>By Ellen Barry</sub>
 <p>A Tennessee homemaker entered the online world of romance writers and it became, in her words, “an addiction.” Things went downhill from there.  <a href="https://nyti.ms/3iAeIAl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Latest Source of Unrest: Unpaid ‘Zero Covid’ Workers</h3>
-<sub>By David Pierson, Keith Bradsher and Muyi Xiao</sub>
-<p>Companies that reaped windfalls helping the government implement strict ‘zero Covid’ controls are now struggling to pay and keep workers.  <a href="https://nyti.ms/3XA1LVW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As One More Storm Hits California, Five Areas of the State to Watch</h3>
+<h3>A Break in California’s Storms Is in Sight. Here Are Regions to Watch.</h3>
 <sub>By Carly Olson, Ava Sasani, Luke Vander Ploeg and Julie Brown</sub>
 <p>Already soaked, the state is enduring yet another round of rain and snow.  <a href="https://nyti.ms/3DdYJz1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
@@ -124,8 +112,8 @@ There&#39;s a lot going on in the world right now. In the U.S., a Florida school
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Mafia Boss Arrested in Italy After Eluding Capture for 30 Years</h3>
-<sub>By Gaia Pianigiani</sub>
-<p>Matteo Messina Denaro, who was sentenced in absentia for the 1992 murder of two prosecutors and other crimes, was apprehended in a Sicilian hospital.  <a href="https://nyti.ms/3klG51c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Jason Horowitz and Gaia Pianigiani</sub>
+<p>Matteo Messina Denaro, who was sentenced in absentia for the 1992 murders of two prosecutors and other crimes, was apprehended at a Sicilian hospital.  <a href="https://nyti.ms/3klG51c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -133,6 +121,18 @@ There&#39;s a lot going on in the world right now. In the U.S., a Florida school
 <sub>By Kashmir Hill</sub>
 <p>MSG Entertainment resorted to facial recognition technology to kick out legal foes, but some have undermined the ban using a law passed to protect theater critics in 1941.  <a href="https://nyti.ms/3w8cfzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Gina Lollobrigida, Movie Star and Sex Symbol, Is Dead at 95</h3>
+<sub>By Anita Gates</sub>
+<p>She began her career in her native Italy and, although she achieved fame in America worked more often in Europe. She later had a second career as an artist and filmmaker.  <a href="https://nyti.ms/3ZDGUCK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Delta 1943, Cancel Takeoff’: Wrong Turn Results in Near Miss at J.F.K.</h3>
+<sub>By Andy Newman and Livia Albeck-Ripka</sub>
+<p>An American Airlines plane crossed about 1,000 feet ahead of a Delta flight about to depart from Kennedy International Airport, officials said.  <a href="https://nyti.ms/3ZGRnO3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
