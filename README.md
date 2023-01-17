@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 16, Central Standard Time</p>
 <p>
-There is a lot of news happening around the world right now. In Russia, the death toll from a missile strike in Dnipro has risen to 40 with 34 people still missing. In Florida, gun control is being discussed in light of a school threat, and judges have the authority to keep guns out a particular individual&#39;s hands if deemed dangerous. Universities are restructuring classes to respond to technology advances and alarm over chatbot AI. In an Arizona suburb, water supply has been cut off from hundreds of homes, forcing them to live in drought-like scenarios. The White House has responded to requests for visitor logs at Biden&#39;s Delaware home with no logs kept. Health care stories reported include a Tennessee homemaker&#39;s &quot;addiction&quot; to romance writers online and California experiencing another round of rain and snow. Additionally, Rikers Island has discovered sick leave abuse from its officers and Italy captured its most wanted Mafia boss after 30 years at a hospital. In entertainment news, Gina Lollobrigida, an Italian movie star an sex symbol, passed away at age 95. Finally, at J.F.K airport there was a near miss caused by an American Airlines plane taking a wrong turn crossing 1,000 feet ahead of the Delta flight about to depart.</p>
+There is a lot going on in the world right now. In China, its population has gone down for the first time in sixty years, which could have major implications for its economy and global markets. Meanwhile, Covid-19 remains a challenge to many countries, including China where it has hobbled growth. In Ukraine, there was a Russian strike that resulted in 40 fatalities, with 34 still missing after three days of searching. Closer to home, Florida recently passed a Red Flag law allowing judges to prevent people deemed dangerous from possessing firearms after a school received a threat. On top of societal issues, universities are also taking steps to address new A.I. chatbot technology and universities are revamping their curriculum accordingly. It&#39;s not all doom-and-gloom though; Arizona suburbanites are facing a worse-case scenario of drought with their water cut off and White House has no records of guests at President Biden&#39;s Delaware home due to privacy laws. Elsewhere, a Tennessee homemaker who fell into an online world of romance writers was arrested for fake death and Italian police finally captured a mafia boss who had been eluding arrest for 30 years. There&#39;s also been a near-miss at J.F.K airport when an American Airlines plane crossed paths with departing Delta flight, causing alarm but no harm thankfully! Lastly, actress Gina Lollobrigida--popular in the 50s as both a movie star and sex symbol--has passed away at 95 years old.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Population Falls, Heralding a Demographic Crisis</h3>
+<sub>By Alexandra Stevenson and Zixu Wang</sub>
+<p>Deaths outnumbered births last year for the first time in six decades. Experts see major implications for China, its economy and the world.  <a href="https://nyti.ms/3WflARo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Economy Stumbled Last Year With Covid Lockdowns Hobbling Growth</h3>
+<sub>By Keith Bradsher</sub>
+<p>New government data shows that growth for the year fell far short of Beijing’s goal. With Covid curbs lifted but the pandemic’s course uncertain, hope and fear cloud the forecast.  <a href="https://nyti.ms/3QLoLPl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Death Toll of Russian Strike in Dnipro Rises to 40, Ukraine Says</h3>
 <sub>By Andrew E. Kramer and Megan Specia</sub>
@@ -98,12 +110,6 @@ There is a lot of news happening around the world right now. In Russia, the deat
 <p>A Tennessee homemaker entered the online world of romance writers and it became, in her words, “an addiction.” Things went downhill from there.  <a href="https://nyti.ms/3iAeIAl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Break in California’s Storms Is in Sight. Here Are Regions to Watch.</h3>
-<sub>By Carly Olson, Ava Sasani, Luke Vander Ploeg and Julie Brown</sub>
-<p>Already soaked, the state is enduring yet another round of rain and snow.  <a href="https://nyti.ms/3DdYJz1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>At Rikers, Piling Up Sick Days While Investigating Sick-Leave Abuse</h3>
 <sub>By Jan Ransom and William K. Rashbaum</sub>
@@ -114,12 +120,6 @@ There is a lot of news happening around the world right now. In Russia, the deat
 <h3>Mafia Boss Arrested in Italy After Eluding Capture for 30 Years</h3>
 <sub>By Jason Horowitz and Gaia Pianigiani</sub>
 <p>Matteo Messina Denaro, who was sentenced in absentia for the 1992 murders of two prosecutors and other crimes, was apprehended at a Sicilian hospital.  <a href="https://nyti.ms/3klG51c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Lawyers Barred by Madison Square Garden Found a Way Back In</h3>
-<sub>By Kashmir Hill</sub>
-<p>MSG Entertainment resorted to facial recognition technology to kick out legal foes, but some have undermined the ban using a law passed to protect theater critics in 1941.  <a href="https://nyti.ms/3w8cfzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
