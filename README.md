@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 17, Central Standard Time</p>
 <p>
-It looks like the world is going through some big changes. In China, its population is dropping and its economy fell short of Beijing’s goal last year due to Covid lockdowns. In the Caucasus, there&#39;s a new conflict between Armenia and Azerbaijan that Russia has not been able to intervene in due to being distracted and weakened in Ukraine. In Florida, they&#39;ve implemented &#39;red flag&#39; gun laws to prevent school shootings. Universities are revamping their teaching methods to address popular AI chatbots. In Arizona, people are living without running water due to drought conditions in the West. At Rikers Jail, investigators of sick leave abuse have been unable to work due to high attendance of officers lying about being sick. There was an attempted shooting targeting New Mexico Democrats by a Republican ex-candidate. And finally, there was a near-miss at JFK due to one plane taking off when another was crossing its path.</p>
+There are a lot of exciting, yet concerning things happening in the world right now. For example, in China, their population is shrinking due to a demographic crisis and their economy has slumped last year due to Covid-19 restrictions. In the Caucasus region, there&#39;s a renewed conflict between Armenia and Azerbaijan that Russia has not intervened in, possibly because they are distracted and weakened by Ukraine. In the US, there have been a few shootings targeting Democrats and an incident at JFK Airport where an American Airlines plane almost collided with a Delta flight. Lastly, the beloved film star, Gina Lollobrigida has died at 95 years old.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China’s Population Falls, Heralding a Demographic Crisis</h3>
@@ -75,15 +75,15 @@ It looks like the world is going through some big changes. In China, its populat
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Death Toll of Russian Strike in Dnipro Rises to 40, Ukraine Says</h3>
-<sub>By Andrew E. Kramer and Megan Specia</sub>
-<p>The authorities said 34 people remained missing after three days of searching for the living and the dead at an apartment building struck by a Russian missile in Dnipro.  <a href="https://nyti.ms/3CSmoEI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Renewed Armenia-Azerbaijan Conflict Underlines Russia’s Waning Influence</h3>
 <sub>By Anton Troianovski</sub>
 <p>Russia helped end a 2020 war and its troops policed the cease-fire. But with a new crisis in the Caucasus heating up, Moscow, distracted and weakened by Ukraine, has not intervened.  <a href="https://nyti.ms/3XcR8Zg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Death Toll of Russian Strike in Dnipro Rises to 40, Ukraine Says</h3>
+<sub>By Andrew E. Kramer and Megan Specia</sub>
+<p>The authorities said 34 people remained missing after three days of searching for the living and the dead at an apartment building struck by a Russian missile in Dnipro.  <a href="https://nyti.ms/3CSmoEI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,11 +110,11 @@ It looks like the world is going through some big changes. In China, its populat
 <p>A top House Republican had demanded the logs after classified documents were found at President Biden’s personal residence.  <a href="https://nyti.ms/3ISsyIR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>At Rikers, Piling Up Sick Days While Investigating Sick-Leave Abuse</h3>
-<sub>By Jan Ransom and William K. Rashbaum</sub>
-<p>A number of investigators responsible for cracking down on jail officers who lie about being sick have themselves been absent from work for significant periods.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As France Moves to Delay Retirement, Older Workers Are in a Quandary</h3>
+<sub>By Liz Alderman</sub>
+<p>A measure to raise the retirement age to 64 from 62 is expected to expose more people to age discrimination: “Companies in France won’t hire them.”  <a href="https://nyti.ms/3XAlkgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Republican Ex-Candidate Arrested in Shootings Targeting New Mexico Democrats</h3>
