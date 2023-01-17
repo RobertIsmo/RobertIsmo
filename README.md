@@ -60,23 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 17, Central Standard Time</p>
 <p>
-The world is dealing with a lot of changes right now. In China, the population has declined for the first time in 60 years, which could have major implications for the country, its economy and beyond. Meanwhile, China&#39;s economy suffered due to Covid-19 related lockdowns. 
-In the US, restaurant workers are unknowingly funding lobbying campaigns against increasing wages. Sub-Saharan Africa is making progress treating HIV in adults, but young patients are struggling to access care, resulting in over 100,000 deaths per year due to AIDS.
-Elon Musk is facing a trial due to his 2018 proposal to take Tesla private, and there&#39;s a wave of lawsuits that argue that his self-driving software is dangerously overhyped. 
-Russia failed to intervene in renewed Armenia-Azerbaijan conflict, indicating their waning influence. Also, there was a rare defection by a former member of the Russian paramilitary force that may aid investigations into Moscow&#39;s atrocities. 
-The business leaders at the World Economic Forum are worried about a ‘polycrisis’ that arose from various world problems. Also, talks between British Museum and Greece&#39;s prime minister on returning the Elgin Marbles to Athens has reached an impasse. 
-And finally, a former Republican candidate was arrested in New Mexico for shootings targeting Democratic elected officials, while France moves to delay retirement creating struggles for older workers who face age discrimination when looking for jobs.</p>
+Right now, there are a few big stories in the news. Financial markets and politicians in the United States are trying to figure out how to avoid hitting the debt ceiling, meaning the US government can&#39;t borrow any more money. In China, there&#39;s been a population decline for the first time in decades, with serious potential implications for their economy. In Ukraine, Russian strikes have made power outages part of going to school and teachers and students stay determined. Elon Musk is facing lawsuits in regards to Tesla&#39;s self-driving software overhype, while in a related British Museum and Greece conflict, talks over the Parthenon Marbles are happening in secret. Finally, diversity trainings may be quietly doing more harm than good.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As Debt Limit Threat Looms, Wall Street and Washington Have Only Rough Plans</h3>
+<sub>By Jeanna Smialek and Joe Rennison</sub>
+<p>A default would most likely rattle markets and carry big risks, no matter how the Federal Reserve and Treasury try to curb the fallout.  <a href="https://nyti.ms/3GFDI0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Close Is the U.S. to Hitting the Debt Ceiling? How Bad Would That Be?</h3>
+<sub>By Alan Rappeport</sub>
+<p>The United States has a cap on the amount of money it can borrow. That means it can run out of cash if the limit isn’t lifted.  <a href="https://nyti.ms/3IQea3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China’s Population Falls, Heralding a Demographic Crisis</h3>
 <sub>By Alexandra Stevenson and Zixu Wang</sub>
 <p>Deaths outnumbered births last year for the first time in six decades. Experts see major implications for China, its economy and the world.  <a href="https://nyti.ms/3WflARo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Economy Stumbled Last Year With Covid Lockdowns Hobbling Growth</h3>
-<sub>By Keith Bradsher</sub>
-<p>New government data shows that growth for the year fell far short of Beijing’s goal. With Covid curbs lifted but the pandemic’s course uncertain, hope and fear cloud the forecast.  <a href="https://nyti.ms/3QLoLPl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,9 +87,9 @@ And finally, a former Republican candidate was arrested in New Mexico for shooti
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Global Push to Treat H.I.V. Leaves Children Behind</h3>
-<sub>By Stephanie Nolen and Malin Fezehai</sub>
-<p>Sub-Saharan Africa has made steady progress in delivering lifesaving medication to adults, but young patients are harder to reach and 100,000 are dying of AIDS each year  <a href="https://nyti.ms/3XFa2YJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Father of the Abortion Pill</h3>
+<sub>By Pam Belluck</sub>
+<p>The 96-year-old scientist who came up with an idea for an “unpregnancy pill” decades ago has led an eventful life, from his teenage days in the French Resistance to his friendships with famous artists.  <a href="https://nyti.ms/3XyPVvg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -97,29 +98,17 @@ And finally, a former Republican candidate was arrested in New Mexico for shooti
 <p>A wave of lawsuits argue that Tesla’s self-driving software is dangerously overhyped. What can its blind spots teach us about the company’s erratic C.E.O.?  <a href="https://nyti.ms/3Xih7ym"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Elon Musk Faces Trial Over His 2018 Plan to Take Tesla Private</h3>
-<sub>By Peter Eavis and Kalley Huang</sub>
-<p>Investors are seeking billions of dollars in damages for their losses after Mr. Musk posted a proposal on Twitter that never materialized.  <a href="https://nyti.ms/3WjobJX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>School Is in Session, Power or Not</h3>
+<sub>By Megan Specia and Laura Boushnak</sub>
+<p>In Kyiv, Ukraine’s capital, Russian strikes and power outages are part of the school day. Teachers and students press on with resolve.  <a href="https://nyti.ms/3WmNgng"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Renewed Armenia-Azerbaijan Conflict Underlines Russia’s Waning Influence</h3>
-<sub>By Anton Troianovski</sub>
-<p>Russia helped end a 2020 war and its troops policed the cease-fire. But with a new crisis in the Caucasus heating up, Moscow, distracted and weakened by Ukraine, has not intervened.  <a href="https://nyti.ms/3XcR8Zg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Snarl, You’re on Candid Camera</h3>
+<sub>By Emily Anthes</sub>
+<p>Wildlife cameras in Wisconsin are capturing interspecies encounters — and providing evidence that human activity might make such meetings more likely.  <a href="https://nyti.ms/3ZBAqEy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Wagner fighter defects to Norway, promising to expose Russian war crimes in Ukraine.</h3>
-<sub>By Anatoly Kurmanaev, Henrik Pryser Libell and Michael Schwirtz</sub>
-<p>The rare defection by a former member of the notorious Russian paramilitary force could aid investigations into Moscow’s atrocities.  <a href="https://nyti.ms/3IW4Jjy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Davos Worries About a ‘Polycrisis’</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>So many global troubles have arisen that the political and business leaders at the World Economic Forum in Switzerland have adopted a buzzword to capture the moment.  <a href="https://nyti.ms/3CSPF2j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>After 220 Years, the Fate of the Parthenon Marbles Rests in Secret Talks</h3>
@@ -127,16 +116,22 @@ And finally, a former Republican candidate was arrested in New Mexico for shooti
 <p>The British Museum and Greece’s prime minister are getting closer to a deal on returning the so-called Elgin Marbles to Athens. But key differences remain.  <a href="https://nyti.ms/3XiVbmO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Ex-Candidate Arrested in Shootings Targeting New Mexico Democrats</h3>
-<sub>By Remy Tumin and Mike Ives</sub>
-<p>The authorities in Albuquerque said that Solomon Peña, who lost his bid for a State House seat in November, was behind a series of recent shootings targeting Democratic elected officials.  <a href="https://nyti.ms/3ZzXtjb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Hummus, Tahini and Other Tastes of Home in Jerusalem’s Old City</h3>
+<sub>By Reem Kassis</sub>
+<p>A local provides a throw-away-the-map food tour of the Muslim quarter, offering a window into the city that tourists rarely see.  <a href="https://nyti.ms/3Xi9xUE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As France Moves to Delay Retirement, Older Workers Are in a Quandary</h3>
-<sub>By Liz Alderman</sub>
-<p>A measure to raise the retirement age to 64 from 62 is expected to expose more people to age discrimination: “Companies in France won’t hire them.”  <a href="https://nyti.ms/3XAlkgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>How Long Can Hakeem Jeffries Keep His Democratic Cats Herded?</h3>
+<sub>By Ross Barkan</sub>
+<p>How two things will test the comity Democrats enjoy today.  <a href="https://nyti.ms/3ko1WoK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>What if Diversity Trainings Are Doing More Harm Than Good?</h3>
+<sub>By Jesse Singal</sub>
+<p>They might even make things worse.  <a href="https://nyti.ms/3XiNflz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
