@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 17, Central Standard Time</p>
 <p>
-Right now, there are a few big stories in the news. Financial markets and politicians in the United States are trying to figure out how to avoid hitting the debt ceiling, meaning the US government can&#39;t borrow any more money. In China, there&#39;s been a population decline for the first time in decades, with serious potential implications for their economy. In Ukraine, Russian strikes have made power outages part of going to school and teachers and students stay determined. Elon Musk is facing lawsuits in regards to Tesla&#39;s self-driving software overhype, while in a related British Museum and Greece conflict, talks over the Parthenon Marbles are happening in secret. Finally, diversity trainings may be quietly doing more harm than good.</p>
+There is a lot happening in the world right now. The US is sending arms to Ukraine that were previously stored in Israel, despite initial concerns from Israeli officials that it could damage the country&#39;s relations with Russia. In Kyiv, Ukraine&#39;s capital city, power outages have become part of the school day, but teachers and students remain determined to press on. The US and its allies are contemplating sending weapons to Ukraine to help them retake more territory before a Russian spring offensive. Closer to home, Wall Street is preparing for the possible implications of a US debt limit default and trying to plan accordingly. Lawyers have been able to uncover billions of dollars in cash and digital assets after FTX collapsed, which will go towards repaying customers and lenders. George Santos has been appointed to the Small Business and Science committees in the US House of Representatives. A 96-year-old scientist has made headlines for his invention of an &quot;unpregnancy pill&quot; decades ago, and a man in New Mexico who cheered for President Trump at the Jan. 6 Capitol riots is now facing charges of targeting political rivals. Elon Musk continues to dominate the news cycles with lawsuits surrounding Tesla&#39;s self-driving software as well as his personal life. Finally, wildlife cameras in Wisconsin are capturing interspecies encounters that may be linked to human activity.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pentagon Sends U.S. Arms Stored in Israel to Ukraine</h3>
+<sub>By Eric Schmitt, Adam Entous, Ronen Bergman, John Ismay and Thomas Gibbons-Neff</sub>
+<p>Israeli officials had initially expressed concerns that the move could damage its relations with Russia.  <a href="https://nyti.ms/3WoeBWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>School Is in Session, Power or Not</h3>
+<sub>By Megan Specia and Laura Boushnak</sub>
+<p>In Kyiv, Ukraine’s capital, Russian strikes and power outages are part of the school day. Teachers and students press on with resolve.  <a href="https://nyti.ms/3WmNgng"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At a Pivotal Moment in Ukraine, U.S. and Allies Will Decide on Sending Arms</h3>
+<sub>By Steven Erlanger</sub>
+<p>Ukraine has a narrow window of time to retake more territory ahead of an expected Russian spring offensive, but to do that it needs weapons like armored vehicles.  <a href="https://nyti.ms/3Xiytvd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>As Debt Limit Threat Looms, Wall Street and Washington Have Only Rough Plans</h3>
 <sub>By Jeanna Smialek and Joe Rennison</sub>
@@ -75,15 +93,21 @@ Right now, there are a few big stories in the news. Financial markets and politi
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Population Falls, Heralding a Demographic Crisis</h3>
-<sub>By Alexandra Stevenson and Zixu Wang</sub>
-<p>Deaths outnumbered births last year for the first time in six decades. Experts see major implications for China, its economy and the world.  <a href="https://nyti.ms/3WflARo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<h3>FTX Executives Expressed Concern Over Use of Customer Funds, Documents Show</h3>
+<sub>By David Yaffe-Bellany</sub>
+<p>Documents obtained by The New York Times provide new details about the discussions among FTX’s top leaders before the cryptocurrency exchange collapsed in November.  <a href="https://nyti.ms/3IVrVOE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Restaurant Workers Help Pay for Lobbying to Keep Their Wages Low</h3>
-<sub>By David A. Fahrenthold and Talmon Joseph Smith</sub>
-<p>The National Restaurant Association uses mandatory $15 food-safety classes to turn waiters and cooks into unwitting funders of its battle against minimum wage increases.  <a href="https://nyti.ms/3kkjHW7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In Hunt for FTX Assets, Lawyers Locate Billions in Cash and Crypto</h3>
+<sub>By Matthew Goldstein and David Yaffe-Bellany</sub>
+<p>Lawyers for FTX have identified cash and digital assets that would go toward repaying customers and lenders of the collapsed exchange.  <a href="https://nyti.ms/3XhDkMZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Lands 2 House Committees: Small Business and Science</h3>
+<sub>By Michael Gold and Jonathan Swan</sub>
+<p>House Republican leadership placed Representative George Santos on two committees, even as some G.O.P. congressmen have called for his resignation.  <a href="https://nyti.ms/3ISz81V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -92,16 +116,16 @@ Right now, there are a few big stories in the news. Financial markets and politi
 <p>The 96-year-old scientist who came up with an idea for an “unpregnancy pill” decades ago has led an eventful life, from his teenage days in the French Resistance to his friendships with famous artists.  <a href="https://nyti.ms/3XyPVvg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>He Cheered Trump on Jan. 6. Now He’s Accused of Targeting Political Rivals.</h3>
+<sub>By Simon Romero and Alan Feuer</sub>
+<p>Solomon Peña, who lost his bid to become a New Mexico lawmaker, faces charges in a series of shootings. “He had a belief process that he was cheated,” the Albuquerque police chief said.  <a href="https://nyti.ms/3HcIbtr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Elon Musk’s Appetite for Destruction</h3>
 <sub>By Christopher Cox</sub>
 <p>A wave of lawsuits argue that Tesla’s self-driving software is dangerously overhyped. What can its blind spots teach us about the company’s erratic C.E.O.?  <a href="https://nyti.ms/3Xih7ym"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>School Is in Session, Power or Not</h3>
-<sub>By Megan Specia and Laura Boushnak</sub>
-<p>In Kyiv, Ukraine’s capital, Russian strikes and power outages are part of the school day. Teachers and students press on with resolve.  <a href="https://nyti.ms/3WmNgng"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -109,30 +133,6 @@ Right now, there are a few big stories in the news. Financial markets and politi
 <sub>By Emily Anthes</sub>
 <p>Wildlife cameras in Wisconsin are capturing interspecies encounters — and providing evidence that human activity might make such meetings more likely.  <a href="https://nyti.ms/3ZBAqEy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>After 220 Years, the Fate of the Parthenon Marbles Rests in Secret Talks</h3>
-<sub>By Alex Marshall</sub>
-<p>The British Museum and Greece’s prime minister are getting closer to a deal on returning the so-called Elgin Marbles to Athens. But key differences remain.  <a href="https://nyti.ms/3XiVbmO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Hummus, Tahini and Other Tastes of Home in Jerusalem’s Old City</h3>
-<sub>By Reem Kassis</sub>
-<p>A local provides a throw-away-the-map food tour of the Muslim quarter, offering a window into the city that tourists rarely see.  <a href="https://nyti.ms/3Xi9xUE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>How Long Can Hakeem Jeffries Keep His Democratic Cats Herded?</h3>
-<sub>By Ross Barkan</sub>
-<p>How two things will test the comity Democrats enjoy today.  <a href="https://nyti.ms/3ko1WoK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>What if Diversity Trainings Are Doing More Harm Than Good?</h3>
-<sub>By Jesse Singal</sub>
-<p>They might even make things worse.  <a href="https://nyti.ms/3XiNflz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
