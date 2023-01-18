@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 18, Central Standard Time</p>
 <p>
-There have been some very significant news events recently. In Ukraine, there was a helicopter crash that killed a top government minister who was involved in security. Israel&#39;s Supreme Court blocked a high-ranking minister appointment due to his past conviction of tax fraud. Microsoft is laying off 10,000 workers as part of their cost-cutting strategy, and the US government passed a $1.7 trillion budget bill, which included funding for addressing maternal mortality among Black women. Additionally, China&#39;s shrinking and aging population has caused alarm among economists. Finally, meteorologists have expressed their grievances about how the public inaccurately talks about extreme weather events like &quot;polar vortexes&quot;.</p>
+There has been a lot going on in the world recently. In Ukraine, a minister recently died in a helicopter crash, and in Israel the Supreme Court ordered the removal of a minister close to the Prime Minister. Closer to home, Microsoft is laying off 10,000 workers as they look to cut costs, and Representative George Santos has been seen with far-right politicians, signaling his move away from mainstream politics. There are also environmental considerations, as California is still in drought despite recent rainstorms and studies show that Black residents could be disproportionately affected by major floods. Finally, California and other states are suing drug companies and pharmacy benefit managers for raising insulin prices.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Minister Killed in Helicopter Crash Oversaw Some Security Forces</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>Denys Monastyrsky was the highest-ranking Ukrainian government official to die since Russia’s invasion began in February last year.  <a href="https://nyti.ms/3ZBMC8e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At the crash site, an anguished mother waited for word on her child.</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>  <a href="https://nyti.ms/3QRnab6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -75,9 +81,9 @@ There have been some very significant news events recently. In Ukraine, there wa
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Supreme Court Blocks Appointment of Netanyahu Minister</h3>
+<h3>Israel’s Supreme Court Orders Removal of Netanyahu Minister</h3>
 <sub>By Isabel Kershner</sub>
-<p>The court ruled that Aryeh Deri, a close ally of Benjamin Netanyahu who was convicted of tax fraud, should be removed from his posts, setting up a clash between the government and the  judiciary.  <a href="https://nyti.ms/3GRIys4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The court ruled that Aryeh Deri, a close ally of the prime minister who was convicted of tax fraud, should be removed from his posts, setting up a clash between the government and the judiciary.  <a href="https://nyti.ms/3GRIys4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -98,40 +104,34 @@ There have been some very significant news events recently. In Ukraine, there wa
 <p>George Santos used fashion to flout the rules.  <a href="https://nyti.ms/3WeE0l3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Statehouse Democrats Embrace an Unfamiliar Reality: Full Power</h3>
-<sub>By Mitch Smith</sub>
-<p>After taking control of four state governments in the midterms, including in politically mixed Michigan, Democrats have a long-sought chance to govern.  <a href="https://nyti.ms/3CU1CEE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>They Rejected Diet Culture 30 Years Ago. Then They Went Mainstream.</h3>
+<sub>By Michelle Ruiz</sub>
+<p>Once considered radical, Elyse Resch and Evelyn Tribole’s method of intuitive eating has become the cornerstone of the modern anti-diet movement.  <a href="https://nyti.ms/3XGwfFA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Shrinking, Aging China May Have Backed Itself Into a Corner</h3>
-<sub>By Chris Buckley, Joy Dong and Amy Chang Chien</sub>
-<p>A demographics challenge has been building for years, but Beijing’s preparations are lagging. Now, many worry that current measures may offer too little, too late.  <a href="https://nyti.ms/3Hga0kJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why China’s Shrinking Population Is Cause for Alarm</h3>
-<sub>By Nicole Hong</sub>
-<p>China struggled for years to curtail its rapid population growth. Now that its population is declining, economists and others fear serious implications for China and countries around the world.  <a href="https://nyti.ms/3J56ryO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Can We Talk About How We Talk About the Weather?</h3>
-<sub>By Matt Richtel</sub>
-<p>When the barometer drops, the hyperbole rises, and meteorologists aren’t happy about it.  <a href="https://nyti.ms/3XIeGVT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>‘Polar Vortex’ Got You Baffled? Try This Extreme-Weather Guide</h3>
-<sub>By Matt Richtel</sub>
-<p>A handy explanation of some of the newer climatological verbiage.  <a href="https://nyti.ms/3Wi686T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Despite Rain Storms, California Is Still in Drought</h3>
+<sub>By Elena Shao, Mira Rojanasakul and Nadja Popovich</sub>
+<p>Multiple atmospheric rivers brought extreme rain and snow to California, but the recent deluge hasn’t made up for years of ongoing drought.  <a href="https://nyti.ms/3WtoEcM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘I Don’t Want to Die’: Fighting Maternal Mortality Among Black Women</h3>
-<sub>By Erica L. Green</sub>
-<p>A St. Louis doula program, part of a nonprofit that received funding in the $1.7 trillion federal budget bill, looks for solutions in a benefit largely associated with affluent white women.  <a href="https://nyti.ms/3Wi2zOc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Los Angeles County’s Black Residents Are Most at Risk in Major Floods</h3>
+<sub>By Audra D. S. Burch and Eileen Guo</sub>
+<p>Southern California has so far escaped the worst impact of recent rainstorms, but a new study shows a 100-year-flood event would disproportionately impact Black residents.  <a href="https://nyti.ms/3GMZWhr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>LaSalle Defends Judicial Record Before a Skeptical N.Y. Senate Panel</h3>
+<sub>By Luis Ferré-Sadurní and Jesse McKinley</sub>
+<p>Gov. Kathy Hochul’s choice of Justice Hector LaSalle to become the state’s top judge has caused an intraparty Democratic battle that was on display at Wednesday’s judicial hearing.  <a href="https://nyti.ms/3kjKYbb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>California Joins Other States in Suing Companies Over Insulin Prices</h3>
+<sub>By Benjamin Ryan</sub>
+<p>The state is taking action against three major drug companies and the big pharmacy benefit managers in an effort to temper costs for people with diabetes.  <a href="https://nyti.ms/3koS9z4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
