@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 18, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The Pentagon has sent U.S. arms previously stored in Israel to Ukraine, and Germany has a new untested defense minister who some are wary of. In the business world, issues over the debt ceiling are causing alarm, and lawyers are searching for FTX assets to repay customers after its collapse. Back home, Congressman George Santos was placed on two House Committees and a former candidate for New Mexico lawmaker is being charged for shooting political rivals. Additionally, in India single women face unique rental restrictions that keep them from leading economic lives, while Tesla and its C.E.O., Elon Musk, have sparked heated controversy over the accuracy of their self-driving software. Finally, candid cameras in Wisconsin have revealed that human activity may oversaturate the area with wildlife activity.</p>
+There is a lot going on in the world right now. The US has sent arms stored in Israel to Ukraine, and Germany has a new defense minister. US Democrats have taken back control of some state governments in the midterms, and the US Treasury Secretary may soon need to use accounting maneuvers to prevent defaulting on debt. China&#39;s shrinking population is causing concern for its economy, as well as for countries around the world. In New York, Republican congressman George Santos has made staff hires and appearances with members of the House Freedom Caucus, and he recently landed two committee appointments. And in India, there are many obstacles for single women to renting apartments.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pentagon Sends U.S. Arms Stored in Israel to Ukraine</h3>
@@ -74,29 +74,35 @@ There is a lot going on in the world right now. The Pentagon has sent U.S. arms 
 <p>Boris Pistorius, the new defense minister, is seen as a skilled politician but, entering a world stage on which Ukraine is at war, he may pose a risk for Chancellor Olaf Scholz.  <a href="https://nyti.ms/3iM9C3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As Debt Limit Threat Looms, Wall Street and Washington Have Only Rough Plans</h3>
-<sub>By Jeanna Smialek and Joe Rennison</sub>
-<p>A default would most likely rattle markets and carry big risks, no matter how the Federal Reserve and Treasury try to curb the fallout.  <a href="https://nyti.ms/3GFDI0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Statehouse Democrats Embrace an Unfamiliar Reality: Full Power</h3>
+<sub>By Mitch Smith</sub>
+<p>After taking control of four state governments in the midterms, including in politically mixed Michigan, Democrats have a long-sought chance to govern.  <a href="https://nyti.ms/3CU1CEE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Close Is the U.S. to Hitting the Debt Ceiling? How Bad Would That Be?</h3>
+<h3>How ‘Extraordinary Measures’ Can Postpone a Debt Limit Disaster</h3>
 <sub>By Alan Rappeport</sub>
-<p>The United States has a cap on the amount of money it can borrow. That means it can run out of cash if the limit isn’t lifted.  <a href="https://nyti.ms/3IQea3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<p>Treasury Secretary Janet L. Yellen will soon need to use accounting maneuvers to keep the United States from defaulting on its debt.  <a href="https://nyti.ms/3CUYlFj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>FTX Executives Expressed Concern Over Use of Customer Funds, Documents Show</h3>
-<sub>By David Yaffe-Bellany</sub>
-<p>Documents obtained by The New York Times provide new details about the discussions among FTX’s top leaders before the cryptocurrency exchange collapsed in November.  <a href="https://nyti.ms/3IVrVOE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Shrinking, Aging China May Have Backed Itself Into a Corner</h3>
+<sub>By Chris Buckley, Joy Dong and Amy Chang Chien</sub>
+<p>A demographics challenge has been building for years, but Beijing’s preparations are lagging. Now, many worry that current measures may offer too little, too late.  <a href="https://nyti.ms/3Hga0kJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In Hunt for FTX Assets, Lawyers Locate Billions in Cash and Crypto</h3>
-<sub>By Matthew Goldstein and David Yaffe-Bellany</sub>
-<p>Lawyers for FTX have identified cash and digital assets that would go toward repaying customers and lenders of the collapsed exchange.  <a href="https://nyti.ms/3XhDkMZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why China’s Shrinking Population Is Cause for Alarm</h3>
+<sub>By Nicole Hong</sub>
+<p>China struggled for years to curtail its rapid population growth. Now that its population is declining, economists and others fear serious implications for China and countries around the world.  <a href="https://nyti.ms/3J56ryO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Shows Early Signs of Tilting to the Hard Right</h3>
+<sub>By Michael Gold</sub>
+<p>Through his staff hires and his public appearances with members of the House Freedom Caucus, Representative George Santos has signaled a move away from the mainstream.  <a href="https://nyti.ms/3CSm60E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos Lands 2 House Committees: Small Business and Science</h3>
@@ -104,35 +110,29 @@ There is a lot going on in the world right now. The Pentagon has sent U.S. arms 
 <p>House Republican leadership placed Representative George Santos on two committees, even as some G.O.P. congressmen have called for his resignation.  <a href="https://nyti.ms/3ISz81V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Clothes Make the Con Man</h3>
+<sub>By Vanessa Friedman</sub>
+<p>George Santos used fashion to flout the rules.  <a href="https://nyti.ms/3WeE0l3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘I Don’t Want to Die’: Fighting Maternal Mortality Among Black Women</h3>
+<sub>By Erica L. Green</sub>
+<p>A St. Louis doula program, part of a nonprofit that received funding in the $1.7 trillion federal budget bill, looks for solutions in a benefit largely associated with affluent white women.  <a href="https://nyti.ms/3Wi2zOc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Cockfighting Is Illegal in the U.S. Why Does It Breed so Many Fighting Birds?</h3>
+<sub>By Oliver Whang and Andres Serrano</sub>
+<p>The long tradition of American game-fowl breeding has produced some of the world’s most coveted roosters.  <a href="https://nyti.ms/3Hg40bH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>No Visitors, No Drinking, Home by 9: Renting as a Single Woman in India</h3>
 <sub>By Damien Cave</sub>
 <p>India says it must do more to harness women’s economic potential. A good place to start, many say, would be the many obstacles they face outside the workplace.  <a href="https://nyti.ms/3HaFvMO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>He Cheered Trump on Jan. 6. Now He’s Accused of Targeting Political Rivals.</h3>
-<sub>By Simon Romero and Alan Feuer</sub>
-<p>Solomon Peña, who lost his bid to become a New Mexico lawmaker, faces charges in a series of shootings. “He had a belief process that he was cheated,” the Albuquerque police chief said.  <a href="https://nyti.ms/3HcIbtr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Elon Musk’s Appetite for Destruction</h3>
-<sub>By Christopher Cox</sub>
-<p>A wave of lawsuits argue that Tesla’s self-driving software is dangerously overhyped. What can its blind spots teach us about the company’s erratic C.E.O.?  <a href="https://nyti.ms/3Xih7ym"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Lecturer Sues, Hamline University Walks Back Its ‘Islamophobic’ Comments</h3>
-<sub>By Vimal Patel</sub>
-<p>In an about-face, the school said that using the term was “flawed” and that respect for Muslim students should not have superseded academic freedom.  <a href="https://nyti.ms/3WfBYBb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Snarl, You’re on Candid Camera</h3>
-<sub>By Emily Anthes</sub>
-<p>Wildlife cameras in Wisconsin are capturing interspecies encounters — and providing evidence that human activity might make such meetings more likely.  <a href="https://nyti.ms/3ZBAqEy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
