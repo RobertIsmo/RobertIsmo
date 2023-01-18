@@ -60,30 +60,48 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 18, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The US has sent arms stored in Israel to Ukraine, and Germany has a new defense minister. US Democrats have taken back control of some state governments in the midterms, and the US Treasury Secretary may soon need to use accounting maneuvers to prevent defaulting on debt. China&#39;s shrinking population is causing concern for its economy, as well as for countries around the world. In New York, Republican congressman George Santos has made staff hires and appearances with members of the House Freedom Caucus, and he recently landed two committee appointments. And in India, there are many obstacles for single women to renting apartments.</p>
+There have been some very significant news events recently. In Ukraine, there was a helicopter crash that killed a top government minister who was involved in security. Israel&#39;s Supreme Court blocked a high-ranking minister appointment due to his past conviction of tax fraud. Microsoft is laying off 10,000 workers as part of their cost-cutting strategy, and the US government passed a $1.7 trillion budget bill, which included funding for addressing maternal mortality among Black women. Additionally, China&#39;s shrinking and aging population has caused alarm among economists. Finally, meteorologists have expressed their grievances about how the public inaccurately talks about extreme weather events like &quot;polar vortexes&quot;.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon Sends U.S. Arms Stored in Israel to Ukraine</h3>
-<sub>By Eric Schmitt, Adam Entous, Ronen Bergman, John Ismay and Thomas Gibbons-Neff</sub>
-<p>Israeli officials had initially expressed concerns that the move could damage its relations with Russia.  <a href="https://nyti.ms/3WoeBWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Minister Killed in Helicopter Crash Oversaw Some Security Forces</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Denys Monastyrsky was the highest-ranking Ukrainian government official to die since Russia’s invasion began in February last year.  <a href="https://nyti.ms/3ZBMC8e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Microsoft to Lay Off 10,000 Workers as It Looks to Trim Costs</h3>
+<sub>By Karen Weise</sub>
+<p>The job cuts, which amount to less than 5 percent of the company’s work force, are its largest in roughly eight years.  <a href="https://nyti.ms/3CZi078"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Untested German Defense Minister Has Allies Watching Closely</h3>
-<sub>By Erika Solomon</sub>
-<p>Boris Pistorius, the new defense minister, is seen as a skilled politician but, entering a world stage on which Ukraine is at war, he may pose a risk for Chancellor Olaf Scholz.  <a href="https://nyti.ms/3iM9C3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Statehouse Democrats Embrace an Unfamiliar Reality: Full Power</h3>
-<sub>By Mitch Smith</sub>
-<p>After taking control of four state governments in the midterms, including in politically mixed Michigan, Democrats have a long-sought chance to govern.  <a href="https://nyti.ms/3CU1CEE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel’s Supreme Court Blocks Appointment of Netanyahu Minister</h3>
+<sub>By Isabel Kershner</sub>
+<p>The court ruled that Aryeh Deri, a close ally of Benjamin Netanyahu who was convicted of tax fraud, should be removed from his posts, setting up a clash between the government and the  judiciary.  <a href="https://nyti.ms/3GRIys4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How ‘Extraordinary Measures’ Can Postpone a Debt Limit Disaster</h3>
 <sub>By Alan Rappeport</sub>
 <p>Treasury Secretary Janet L. Yellen will soon need to use accounting maneuvers to keep the United States from defaulting on its debt.  <a href="https://nyti.ms/3CUYlFj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Shows Early Signs of Tilting to the Hard Right</h3>
+<sub>By Michael Gold</sub>
+<p>Through his staff hires and his public appearances with members of the House Freedom Caucus, Representative George Santos has signaled a move away from the mainstream.  <a href="https://nyti.ms/3CSm60E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Clothes Make the Con Man</h3>
+<sub>By Vanessa Friedman</sub>
+<p>George Santos used fashion to flout the rules.  <a href="https://nyti.ms/3WeE0l3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Statehouse Democrats Embrace an Unfamiliar Reality: Full Power</h3>
+<sub>By Mitch Smith</sub>
+<p>After taking control of four state governments in the midterms, including in politically mixed Michigan, Democrats have a long-sought chance to govern.  <a href="https://nyti.ms/3CU1CEE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,40 +116,22 @@ There is a lot going on in the world right now. The US has sent arms stored in I
 <p>China struggled for years to curtail its rapid population growth. Now that its population is declining, economists and others fear serious implications for China and countries around the world.  <a href="https://nyti.ms/3J56ryO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Shows Early Signs of Tilting to the Hard Right</h3>
-<sub>By Michael Gold</sub>
-<p>Through his staff hires and his public appearances with members of the House Freedom Caucus, Representative George Santos has signaled a move away from the mainstream.  <a href="https://nyti.ms/3CSm60E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Can We Talk About How We Talk About the Weather?</h3>
+<sub>By Matt Richtel</sub>
+<p>When the barometer drops, the hyperbole rises, and meteorologists aren’t happy about it.  <a href="https://nyti.ms/3XIeGVT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Lands 2 House Committees: Small Business and Science</h3>
-<sub>By Michael Gold and Jonathan Swan</sub>
-<p>House Republican leadership placed Representative George Santos on two committees, even as some G.O.P. congressmen have called for his resignation.  <a href="https://nyti.ms/3ISz81V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Clothes Make the Con Man</h3>
-<sub>By Vanessa Friedman</sub>
-<p>George Santos used fashion to flout the rules.  <a href="https://nyti.ms/3WeE0l3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>‘Polar Vortex’ Got You Baffled? Try This Extreme-Weather Guide</h3>
+<sub>By Matt Richtel</sub>
+<p>A handy explanation of some of the newer climatological verbiage.  <a href="https://nyti.ms/3Wi686T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘I Don’t Want to Die’: Fighting Maternal Mortality Among Black Women</h3>
 <sub>By Erica L. Green</sub>
 <p>A St. Louis doula program, part of a nonprofit that received funding in the $1.7 trillion federal budget bill, looks for solutions in a benefit largely associated with affluent white women.  <a href="https://nyti.ms/3Wi2zOc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Cockfighting Is Illegal in the U.S. Why Does It Breed so Many Fighting Birds?</h3>
-<sub>By Oliver Whang and Andres Serrano</sub>
-<p>The long tradition of American game-fowl breeding has produced some of the world’s most coveted roosters.  <a href="https://nyti.ms/3Hg40bH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>No Visitors, No Drinking, Home by 9: Renting as a Single Woman in India</h3>
-<sub>By Damien Cave</sub>
-<p>India says it must do more to harness women’s economic potential. A good place to start, many say, would be the many obstacles they face outside the workplace.  <a href="https://nyti.ms/3HaFvMO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
