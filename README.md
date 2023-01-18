@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, January 17, Central Standard Time</p>
+<p>It is Wednesday, January 18, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, the Pentagon has sent arms stored in Israel to Ukraine, and in Washington, politicians are discussing the risks of not raising the debt ceiling. In Kyiv, Ukraine’s capital, there are Russian strikes and power outages and teachers and students continue to press on with resolve despite these conditions. There is also a man in New Mexico who cheered for Trump on January 6th and he has been accused of targeting his political rivals through shooting incidents. Internationally, Elon Musk and his Terlal self-driving software have been at the center of lawsuits that argue their product is dangerously overhyped. In Wisconsin, wildlife cameras are capturing interspecies encounters which may be a result of human activity.</p>
+Currently, the US is sending arms from Israel to Ukraine, and Germany has a new defense minister who could potentially cause issues. On the business front, Wall Street and Washington are trying to figure out what to do in response to the debt limit looming. The cryptocurrency exchange FTX has collapsed, leading lawyers to try to locate billions of dollars in assets as part of a hunt. In the US specifically, politicians have been accused of targeting political rivals, while Elon Musk is being sued for overhyping Tesla&#39;s self-driving software. On a slightly more positive note, Hamline University has walked back &quot;Islamophobic&quot; comments and wildlife cameras in Wisconsin are highlighting interspecies encounters made more likely by human activity. Finally Sanjay Gupta, the CNN correspondent, had an eventful experience building his family&#39;s house while he was traveling for work.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pentagon Sends U.S. Arms Stored in Israel to Ukraine</h3>
@@ -69,15 +69,9 @@ There is a lot going on in the world right now. In the US, the Pentagon has sent
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>School Is in Session, Power or Not</h3>
-<sub>By Megan Specia and Laura Boushnak</sub>
-<p>In Kyiv, Ukraine’s capital, Russian strikes and power outages are part of the school day. Teachers and students press on with resolve.  <a href="https://nyti.ms/3WmNgng"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At a Pivotal Moment in Ukraine, U.S. and Allies Will Decide on Sending Arms</h3>
-<sub>By Steven Erlanger</sub>
-<p>Ukraine has a narrow window of time to retake more territory ahead of an expected Russian spring offensive, but to do that it needs weapons like armored vehicles.  <a href="https://nyti.ms/3Xiytvd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Untested German Defense Minister Has Allies Watching Closely</h3>
+<sub>By Erika Solomon</sub>
+<p>Boris Pistorius, the new defense minister, is seen as a skilled politician but, entering a world stage on which Ukraine is at war, he may pose a risk for Chancellor Olaf Scholz.  <a href="https://nyti.ms/3iM9C3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,12 +104,6 @@ There is a lot going on in the world right now. In the US, the Pentagon has sent
 <p>House Republican leadership placed Representative George Santos on two committees, even as some G.O.P. congressmen have called for his resignation.  <a href="https://nyti.ms/3ISz81V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>The Father of the Abortion Pill</h3>
-<sub>By Pam Belluck</sub>
-<p>The 96-year-old scientist who came up with an idea for an “unpregnancy pill” decades ago has led an eventful life, from his teenage days in the French Resistance to his friendships with famous artists.  <a href="https://nyti.ms/3XyPVvg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>He Cheered Trump on Jan. 6. Now He’s Accused of Targeting Political Rivals.</h3>
 <sub>By Simon Romero and Alan Feuer</sub>
@@ -128,11 +116,23 @@ There is a lot going on in the world right now. In the US, the Pentagon has sent
 <p>A wave of lawsuits argue that Tesla’s self-driving software is dangerously overhyped. What can its blind spots teach us about the company’s erratic C.E.O.?  <a href="https://nyti.ms/3Xih7ym"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Lecturer Sues, Hamline University Walks Back Its ‘Islamophobic’ Comments</h3>
+<sub>By Vimal Patel</sub>
+<p>In an about-face, the school said that using the term was “flawed” and that respect for Muslim students should not have superseded academic freedom.  <a href="https://nyti.ms/3WfBYBb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Snarl, You’re on Candid Camera</h3>
 <sub>By Emily Anthes</sub>
 <p>Wildlife cameras in Wisconsin are capturing interspecies encounters — and providing evidence that human activity might make such meetings more likely.  <a href="https://nyti.ms/3ZBAqEy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Building a House Is Stressful, Even if You’re Sanjay Gupta</h3>
+<sub>By Joanne Kaufman</sub>
+<p>The CNN correspondent was traveling for work during construction of his family’s house, leaving the decision-making to his wife. (Yes, they’re still married.)  <a href="https://nyti.ms/3ZEBg3n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
