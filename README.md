@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 18, Central Standard Time</p>
 <p>
-Currently, the US is sending arms from Israel to Ukraine, and Germany has a new defense minister who could potentially cause issues. On the business front, Wall Street and Washington are trying to figure out what to do in response to the debt limit looming. The cryptocurrency exchange FTX has collapsed, leading lawyers to try to locate billions of dollars in assets as part of a hunt. In the US specifically, politicians have been accused of targeting political rivals, while Elon Musk is being sued for overhyping Tesla&#39;s self-driving software. On a slightly more positive note, Hamline University has walked back &quot;Islamophobic&quot; comments and wildlife cameras in Wisconsin are highlighting interspecies encounters made more likely by human activity. Finally Sanjay Gupta, the CNN correspondent, had an eventful experience building his family&#39;s house while he was traveling for work.</p>
+There is a lot going on in the world right now. The Pentagon has sent U.S. arms previously stored in Israel to Ukraine, and Germany has a new untested defense minister who some are wary of. In the business world, issues over the debt ceiling are causing alarm, and lawyers are searching for FTX assets to repay customers after its collapse. Back home, Congressman George Santos was placed on two House Committees and a former candidate for New Mexico lawmaker is being charged for shooting political rivals. Additionally, in India single women face unique rental restrictions that keep them from leading economic lives, while Tesla and its C.E.O., Elon Musk, have sparked heated controversy over the accuracy of their self-driving software. Finally, candid cameras in Wisconsin have revealed that human activity may oversaturate the area with wildlife activity.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pentagon Sends U.S. Arms Stored in Israel to Ukraine</h3>
@@ -104,6 +104,12 @@ Currently, the US is sending arms from Israel to Ukraine, and Germany has a new 
 <p>House Republican leadership placed Representative George Santos on two committees, even as some G.O.P. congressmen have called for his resignation.  <a href="https://nyti.ms/3ISz81V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>No Visitors, No Drinking, Home by 9: Renting as a Single Woman in India</h3>
+<sub>By Damien Cave</sub>
+<p>India says it must do more to harness women’s economic potential. A good place to start, many say, would be the many obstacles they face outside the workplace.  <a href="https://nyti.ms/3HaFvMO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>He Cheered Trump on Jan. 6. Now He’s Accused of Targeting Political Rivals.</h3>
 <sub>By Simon Romero and Alan Feuer</sub>
@@ -127,12 +133,6 @@ Currently, the US is sending arms from Israel to Ukraine, and Germany has a new 
 <sub>By Emily Anthes</sub>
 <p>Wildlife cameras in Wisconsin are capturing interspecies encounters — and providing evidence that human activity might make such meetings more likely.  <a href="https://nyti.ms/3ZBAqEy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Building a House Is Stressful, Even if You’re Sanjay Gupta</h3>
-<sub>By Joanne Kaufman</sub>
-<p>The CNN correspondent was traveling for work during construction of his family’s house, leaving the decision-making to his wife. (Yes, they’re still married.)  <a href="https://nyti.ms/3ZEBg3n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
