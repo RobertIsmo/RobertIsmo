@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 18, Central Standard Time</p>
 <p>
-There has been a lot going on in the world recently. In Ukraine, a minister recently died in a helicopter crash, and in Israel the Supreme Court ordered the removal of a minister close to the Prime Minister. Closer to home, Microsoft is laying off 10,000 workers as they look to cut costs, and Representative George Santos has been seen with far-right politicians, signaling his move away from mainstream politics. There are also environmental considerations, as California is still in drought despite recent rainstorms and studies show that Black residents could be disproportionately affected by major floods. Finally, California and other states are suing drug companies and pharmacy benefit managers for raising insulin prices.</p>
+There is a lot going on in the world currently. The U.S. is considering helping Ukraine to target Crimea, which was annexed by Russia in 2014. Ukrainian President Zelensky spoke out about his country&#39;s losses and asked for help at Davos last week. Microsoft will also be laying off about 10,000 workers due to cost cutting measures. In Israel, their Supreme Court ordered the removal of a close ally of Prime Minister Netanyahu who was convicted of tax fraud, creating tension between the government and judiciary. In New York, the State Senate has rejected Governor Kathy Hochul&#39;s choice of Justice Hector LaSalle to become the top judge resulting in a Democratic battle. A founder of an digital currency platform FTX was accused by cryptocurrency investors of illegally controlling prices to benefit his companies. There&#39;ve been movements to reject diet culture and rethink anti-diet movements that have been going on for decades, but are now becoming more popular and visible. George Santos, an American representative, is starting to move more towards the hard right. In addition, California has been swarmed by rain recently, but still remain in drought conditions despite it all. Los Angeles County&#39;s Black residents were found to be most at risk from floods and storms due to potential lack of resources and support from authorities. Lastly, Janet Yellen, the US Treasury Secretary may need extraordinary measures in order to prevent government from defaulting on debt.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Minister Killed in Helicopter Crash Oversaw Some Security Forces</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Denys Monastyrsky was the highest-ranking Ukrainian government official to die since Russia’s invasion began in February last year.  <a href="https://nyti.ms/3ZBMC8e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Warms to Helping Ukraine Target Crimea</h3>
+<sub>By Helene Cooper, Eric Schmitt and Julian E. Barnes</sub>
+<p>The Biden administration is considering the argument that Kyiv needs the power to strike at the Ukrainian peninsula annexed by Russia in 2014.  <a href="https://nyti.ms/3QS6xvW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At the crash site, an anguished mother waited for word on her child.</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>  <a href="https://nyti.ms/3QRnab6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘Tragedies are outpacing life’: In a video address at Davos, Zelensky mourns the dead and pleads for help.</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>At the start of his address, the Ukrainian president called for a minute of silence to honor the country’s minister of internal affairs.  <a href="https://nyti.ms/3IZQla0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -81,15 +81,27 @@ There has been a lot going on in the world recently. In Ukraine, a minister rece
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Supreme Court Orders Removal of Netanyahu Minister</h3>
+<h3>Israel’s Supreme Court Orders Removal of a Netanyahu Minister</h3>
 <sub>By Isabel Kershner</sub>
 <p>The court ruled that Aryeh Deri, a close ally of the prime minister who was convicted of tax fraud, should be removed from his posts, setting up a clash between the government and the judiciary.  <a href="https://nyti.ms/3GRIys4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>LaSalle Is Rejected by New York Senate Panel in a 10-9 Vote</h3>
+<sub>By Luis Ferré-Sadurní and Jesse McKinley</sub>
+<p>Gov. Kathy Hochul’s choice of Justice Hector LaSalle to become the state’s top judge caused an intraparty Democratic battle that divided a judicial hearing on Wednesday.  <a href="https://nyti.ms/3kjKYbb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How ‘Extraordinary Measures’ Can Postpone a Debt Limit Disaster</h3>
-<sub>By Alan Rappeport</sub>
-<p>Treasury Secretary Janet L. Yellen will soon need to use accounting maneuvers to keep the United States from defaulting on its debt.  <a href="https://nyti.ms/3CUYlFj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>FTX Founder Gamed Markets, Crypto Rivals Say</h3>
+<sub>By Emily Flitter and David Yaffe-Bellany</sub>
+<p>Sam Bankman-Fried found ways to control the prices of digital coins to benefit his companies, FTX and Alameda, according to cryptocurrency investors.  <a href="https://nyti.ms/3XhgcOO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>They Rejected Diet Culture 30 Years Ago. Then They Went Mainstream.</h3>
+<sub>By Michelle Ruiz</sub>
+<p>Once considered radical, Elyse Resch and Evelyn Tribole’s method of intuitive eating has become the cornerstone of the modern anti-diet movement.  <a href="https://nyti.ms/3XGwfFA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -104,12 +116,6 @@ There has been a lot going on in the world recently. In Ukraine, a minister rece
 <p>George Santos used fashion to flout the rules.  <a href="https://nyti.ms/3WeE0l3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>They Rejected Diet Culture 30 Years Ago. Then They Went Mainstream.</h3>
-<sub>By Michelle Ruiz</sub>
-<p>Once considered radical, Elyse Resch and Evelyn Tribole’s method of intuitive eating has become the cornerstone of the modern anti-diet movement.  <a href="https://nyti.ms/3XGwfFA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Despite Rain Storms, California Is Still in Drought</h3>
 <sub>By Elena Shao, Mira Rojanasakul and Nadja Popovich</sub>
@@ -122,16 +128,10 @@ There has been a lot going on in the world recently. In Ukraine, a minister rece
 <p>Southern California has so far escaped the worst impact of recent rainstorms, but a new study shows a 100-year-flood event would disproportionately impact Black residents.  <a href="https://nyti.ms/3GMZWhr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>LaSalle Defends Judicial Record Before a Skeptical N.Y. Senate Panel</h3>
-<sub>By Luis Ferré-Sadurní and Jesse McKinley</sub>
-<p>Gov. Kathy Hochul’s choice of Justice Hector LaSalle to become the state’s top judge has caused an intraparty Democratic battle that was on display at Wednesday’s judicial hearing.  <a href="https://nyti.ms/3kjKYbb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>California Joins Other States in Suing Companies Over Insulin Prices</h3>
-<sub>By Benjamin Ryan</sub>
-<p>The state is taking action against three major drug companies and the big pharmacy benefit managers in an effort to temper costs for people with diabetes.  <a href="https://nyti.ms/3koS9z4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How ‘Extraordinary Measures’ Can Postpone a Debt Limit Disaster</h3>
+<sub>By Alan Rappeport</sub>
+<p>Treasury Secretary Janet L. Yellen will soon need to use accounting maneuvers to keep the United States from defaulting on its debt.  <a href="https://nyti.ms/3CUYlFj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
