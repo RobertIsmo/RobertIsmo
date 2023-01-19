@@ -58,22 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, January 18, Central Standard Time</p>
+<p>It is Thursday, January 19, Central Standard Time</p>
 <p>
-1. Right-Wing Trump Allies have won seats on the US House&#39;s main investigative committee, which reflects the priorities of the Republican party. 
- 
-2. The US is warming to helping Ukraine target Crimea, which was annexed by Russia in 2014. 
- 
-3. At the World Economic Forum, European leaders are calling for unity while also celebrating the safety of their energy supply for the winter. 
-4. A helicopter crash in Kyiv killed Ukraine&#39;s Interior Minister, a top adviser to President Zelensky, as well as at least 14 other people. 
- 
-5. Microsoft is planning to lay off 10,000 workers in an effort to cut costs.
-6. In New York, a Senate panel rejected Governor Hochul&#39;s nomination of Justice LaSalle to become the state’s top judge. The battle is rooted in both judicial policy and politics, as progressive Democrats try to claim power. 
-7. New Zealand Prime Minister Jacinda Ardern has announced that she will be stepping down on Feb 7th. 
-8. The Israeli Supreme Court has ordered Netanyahu&#39;s minister be removed, as the government attempts to restrict court powers over a fight concerning the judiciary system. 
-9. Sam Bankman-Fried, founder of FTX and Alameda has been accused of gaming markets and crypto coin prices in order to benefit his companies.
-10. Intuitive eating, once considered radical, was popularized by Elyse Resch and Evelyn Tribole 30 years ago and it is now the cornerstone of modern anti-diet movements around the world.
-11. George Santos used fashion to flout societal rules and gain attention for himself as a con man.</p>
+In the US, right-wing Trump allies have been winning seats in a Congressional committee in order to reflect Republican priorities. Additionally, the Biden administration is considering aiding Ukraine in targeting Crimea, which was annexed by Russia back in 2014. 
+
+On a global scale, Europe is becoming more secure when it comes to energy supply due to the World Economic Forum. However, this was offset by a helicopter crash that killed the Interior Minister of Ukraine. This is seen as a blow to their leadership at this time of war. 
+
+Meanwhile, Microsoft is laying off 10,000 workers and there is political fighting within New York delaying important judicial appointments. In Israel, Aryeh Deri, a close ally of Prime Minister Netanyahu has been ordered removed from his post by the Supreme court as the government tries to limit court powers. 
+
+Also, Jacinda Ardern of New Zealand will be stepping down soon and there are allegations that FTX founder Sam Bankman-Fried has been gaming cryptocurrency markets for his own company&#39;s benefit. Finally, what was once considered radical - intuitive eating - has become increasingly more popular with Elyse Resch and Evelyn Tribole’s method now considered the cornerstone of modern anti-diet movement. Lastly, George Santos has been using clothing as a way to flaunt social rules.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Right-Wing Trump Allies Win Seats on Oversight, Reflecting G.O.P. Priorities</h3>
@@ -120,7 +113,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Jacinda Ardern, New Zealand’s Leader, Says She Will Step Down</h3>
 <sub>By Natasha Frost</sub>
-<p>Ms. Ardern, a global liberal icon who has faced rising political headwinds at home, will leave office on Feb. 7, she said.  <a href="https://nyti.ms/3XC3gTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ms. Ardern, a global liberal icon who has faced rising political headwinds at home, will leave office by Feb. 7, she said.  <a href="https://nyti.ms/3XC3gTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
