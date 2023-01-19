@@ -60,7 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 18, Central Standard Time</p>
 <p>
-Right now, a lot of news is coming out of the US. There are some Trump allies who won seats in Oversight, and the US is getting more serious about helping Ukraine target Crimea. Meanwhile, in Europe, there was a World Economic Forum about wartime unity with Germany&#39;s chancellor giving an optimistic outlook for energy supplies. In Ukraine, there was a helicopter crash that killed the interior minister and other people close to their president. Microsoft announced it will be cutting 10,000 employees to cut costs. In New York politics, Governor Hochul nominated Justice Hector LaSalle to become top judge, but it caused an intraparty battle in the Senate so it wasn&#39;t successful. In New Zealand, Prime Minister Jacinda Ardern announced she won&#39;t be seeking re-election soon. In Israel, the High Court ordered Netanyahu&#39;s minister of interior to be removed due to fraud conviction. In the cryptocurrency world, one CEO allegedly manipulated prices of digital coins to favor his company and investors are not happy. Lastly in terms of health, two people rejecting diet culture 30 years ago have made intuitive eating mainstream recently.</p>
+1. Right-Wing Trump Allies have won seats on the US House&#39;s main investigative committee, which reflects the priorities of the Republican party. 
+ 
+2. The US is warming to helping Ukraine target Crimea, which was annexed by Russia in 2014. 
+ 
+3. At the World Economic Forum, European leaders are calling for unity while also celebrating the safety of their energy supply for the winter. 
+4. A helicopter crash in Kyiv killed Ukraine&#39;s Interior Minister, a top adviser to President Zelensky, as well as at least 14 other people. 
+ 
+5. Microsoft is planning to lay off 10,000 workers in an effort to cut costs.
+6. In New York, a Senate panel rejected Governor Hochul&#39;s nomination of Justice LaSalle to become the state’s top judge. The battle is rooted in both judicial policy and politics, as progressive Democrats try to claim power. 
+7. New Zealand Prime Minister Jacinda Ardern has announced that she will be stepping down on Feb 7th. 
+8. The Israeli Supreme Court has ordered Netanyahu&#39;s minister be removed, as the government attempts to restrict court powers over a fight concerning the judiciary system. 
+9. Sam Bankman-Fried, founder of FTX and Alameda has been accused of gaming markets and crypto coin prices in order to benefit his companies.
+10. Intuitive eating, once considered radical, was popularized by Elyse Resch and Evelyn Tribole 30 years ago and it is now the cornerstone of modern anti-diet movements around the world.
+11. George Santos used fashion to flout societal rules and gain attention for himself as a con man.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Right-Wing Trump Allies Win Seats on Oversight, Reflecting G.O.P. Priorities</h3>
@@ -105,9 +118,9 @@ Right now, a lot of news is coming out of the US. There are some Trump allies wh
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Jacinda Ardern, New Zealand’s Leader, Won’t Seek Re-election, She Says</h3>
+<h3>Jacinda Ardern, New Zealand’s Leader, Says She Will Step Down</h3>
 <sub>By Natasha Frost</sub>
-<p>The prime minister said she would step down on Feb. 7.  <a href="https://nyti.ms/3XC3gTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ms. Ardern, a global liberal icon who has faced rising political headwinds at home, will leave office on Feb. 7, she said.  <a href="https://nyti.ms/3XC3gTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
