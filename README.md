@@ -60,16 +60,58 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 19, Central Standard Time</p>
 <p>
-Right now, it looks like the country is getting in a bit of a financial pickle! The US has hit its debt limit, and the Treasury department is doing some fancy accounting moves to stop us from breaching it. People are trying to figure out what this might mean: is there an economic crash on the horizon? 
+Hey friend,
 
-Elsewhere, Alec Baldwin is going through a legal trouble – someone died when a gun was used as a film prop on his movie set and he&#39;s been charged with involuntary manslaughter. And there’s also a case on its way to the Supreme Court that could change how social media platforms operate.
+I&#39;ve seen some interesting news lately. There&#39;s a Supreme Court case involving the leak of a draft abortion opinion that was published by Politico in May. On the 50th anniversary of Roe v. Wade, anti-abortion activists are debating what comes next. Evangelical leaders are wavering on whether or not to support Donald Trump in 2024. John Eastman is facing legal repercussions for his role in the effort to reverse Trump&#39;s election loss. Alec Baldwin will be charged with involuntary manslaughter for a gun that went off and killed a cinematographer on set, and the prosecutors are saying he had an &#39;absolute duty&#39; to check it. The US has hit its debt limit, so now Congress needs to lift or suspend it or else the US might run out of cash. With all this going on, Harvard also reversed its decision to grant a fellowship to an international human rights advocate who had criticized Israel, raising questions about donor influence and academic freedom. Finally, the pandemic has created some difficult divisions and tarnished the reputation of liberal leader Jacinda Ardern.
 
-On a different note, there&#39;s a big divide between Evangelicals and former US President Donald Trump - he seems to blame them for the Republicans&#39; regrets after the midterm elections and they don&#39;t seem too pleased about it. Plus, it&#39;s being 50 years since Roe v Wade was overturned and abortion activists are discussing what happens next. Kamala Harris will be speaking in Florida soon about abortion access and contraception rights.</p>
+Hope all is good with you!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>America Hit Its Debt Limit, Raising Economic Fears</h3>
+<h3>Supreme Court Says It Hasn’t Identified Person Who Leaked Draft Abortion Opinion</h3>
+<sub>By Charlie Savage and Adam Liptak</sub>
+<p>The leak of the draft opinion overturning Roe v. Wade, published by Politico in May, was an extraordinary breach of the court’s usual secrecy.  <a href="https://nyti.ms/3GTPKDX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Will We Keep Marching?’ On Roe’s 50th Anniversary, Abortion Opponents Reach a Crossroads</h3>
+<sub>By Ruth Graham</sub>
+<p>The March for Life, held each year for a half-century, should be a celebration now that Roe v. Wade has fallen. Instead, anti-abortion activists are split over what comes next.  <a href="https://nyti.ms/3GUAO8r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Can Trump Count on Evangelicals in 2024? Some Leaders Are Wavering.</h3>
+<sub>By Maggie Haberman and Michael C. Bender</sub>
+<p>The former president, who relied on evangelical voters in 2016, has accused Christian leaders of “disloyalty” and blamed them for Republicans’ disappointing midterm performance.  <a href="https://nyti.ms/3XoBZnS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>John Eastman Is Unbowed as Investigations Proliferate</h3>
+<sub>By Danny Hakim and Michael S. Schmidt</sub>
+<p>A legal reckoning awaits a chief architect of Donald Trump’s effort to reverse his election loss. But in Mr. Eastman’s telling, he was far from a criminal.  <a href="https://nyti.ms/3D1qmuN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Alec Baldwin Will Be Charged With Involuntary Manslaughter in ‘Rust’ Killing</h3>
+<sub>By Julia Jacobs and Graham Bowley</sub>
+<p>A gun that Mr. Baldwin was rehearsing with went off, killing the film’s cinematographer. The armorer responsible for weapons on set also faces manslaughter charges.  <a href="https://nyti.ms/3iQdz7M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Prosecutors Say Alec Baldwin Had ‘Absolute Duty’ to Check the Gun</h3>
+<sub>By Julia Jacobs and Graham Bowley</sub>
+<p>The officials who decided to bring involuntary manslaughter charges against the actor say he should have ensured the gun was safe to handle. Mr. Baldwin says that others were responsible.  <a href="https://nyti.ms/3CZZ6Nq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>A Call of ‘Cold Gun!’ A Live Round. And Death on a Film Set.</h3>
+<sub>By Simon Romero, Graham Bowley and Julia Jacobs</sub>
+<p>A reconstruction of the events leading up to the fatal shooting of the cinematographer of “Rust,” the Alec Baldwin western, reveals a troubled production and a series of errors.  <a href="https://nyti.ms/3BzV1fq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>America Hit Its Debt Limit, Setting Up Bitter Fiscal Fight</h3>
 <sub>By Jim Tankersley and Alan Rappeport</sub>
-<p>The Treasury Department said it would begin a series of accounting moves to keep the United States from breaching its borrowing cap.  <a href="https://nyti.ms/3XFoOOX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Treasury Department said it would begin a series of accounting moves to keep the U.S. from breaching its borrowing cap and asked Congress to raise or suspend the limit.  <a href="https://nyti.ms/3XFoOOX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -85,57 +127,15 @@ On a different note, there&#39;s a big divide between Evangelicals and former US
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Alec Baldwin Will Be Charged With Involuntary Manslaughter in ‘Rust’ Killing</h3>
-<sub>By Julia Jacobs and Graham Bowley</sub>
-<p>A gun that Mr. Baldwin was rehearsing with went off, killing the film’s cinematographer. The armorer responsible for weapons on set also faces manslaughter charges.  <a href="https://nyti.ms/3iQdz7M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>What We Know About Charges in the Fatal Shooting on Alec Baldwin’s ‘Rust’ Movie Set</h3>
-<sub>By The New York Times</sub>
-<p>The gun was being used as a prop on the set of a Western being filmed in October 2021, when the cinematographer Halyna Hutchins was fatally shot. Here’s what we know.  <a href="https://nyti.ms/3ngjLnE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>A Call of ‘Cold Gun!’ A Live Round. And Death on a Film Set.</h3>
-<sub>By Simon Romero, Graham Bowley and Julia Jacobs</sub>
-<p>A reconstruction of the events leading up to the fatal shooting of the cinematographer of “Rust,” the Alec Baldwin western, reveals a troubled production and a series of errors.  <a href="https://nyti.ms/3BzV1fq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can Trump Count on Evangelicals in 2024? Some Leaders Are Wavering.</h3>
-<sub>By Maggie Haberman and Michael C. Bender</sub>
-<p>The former president, who relied on evangelical voters in 2016, has accused Christian leaders of “disloyalty” and blamed them for Republicans’ disappointing midterm performance.  <a href="https://nyti.ms/3XoBZnS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>John Eastman Is Unbowed as Investigations Proliferate</h3>
-<sub>By Danny Hakim and Michael S. Schmidt</sub>
-<p>A legal reckoning awaits a chief architect of Donald Trump’s effort to reverse his election loss. But in Mr. Eastman’s telling, he was far from a criminal.  <a href="https://nyti.ms/3D1qmuN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Harvard Reverses Course on Human Rights Advocate Who Criticized Israel</h3>
 <sub>By Jennifer Schuessler and Marc Tracy</sub>
 <p>News that the university had blocked a fellowship for the former head of Human Rights Watch stirred debate over academic freedom and donor influence.  <a href="https://nyti.ms/3ZOZLLq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Will We Keep Marching?’ On Roe’s 50th Anniversary, Abortion Opponents Reach a Crossroads</h3>
-<sub>By Ruth Graham</sub>
-<p>The March for Life, held each year for a half-century, should be a celebration now that Roe v. Wade has fallen. Instead, anti-abortion activists are split over what comes next.  <a href="https://nyti.ms/3GUAO8r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kamala Harris to Speak in Florida on 50th Anniversary of Roe v. Wade</h3>
-<sub>By Katie Rogers</sub>
-<p>She will contrast the Biden administration’s efforts with Republicans across the country who have tried to curtail access to abortion and some forms of contraception since the ruling was overturned.  <a href="https://nyti.ms/3D0aOaJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Supreme Court Poised to Reconsider Key Tenets of Online Speech</h3>
-<sub>By David McCabe</sub>
-<p>The cases could significantly affect the power and responsibilities of social media platforms.  <a href="https://nyti.ms/3WoyNr5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Covid’s Bitter Divisions Tarnished a Liberal Icon</h3>
+<sub>By Damien Cave</sub>
+<p>In a part of the world where coronavirus restrictions lingered, Jacinda Ardern struggled to get beyond her association with pandemic policy.  <a href="https://nyti.ms/3CYCLQ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
