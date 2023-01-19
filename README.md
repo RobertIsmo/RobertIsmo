@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 19, Central Standard Time</p>
 <p>
-In the US, right-wing Trump allies have been winning seats in a Congressional committee in order to reflect Republican priorities. Additionally, the Biden administration is considering aiding Ukraine in targeting Crimea, which was annexed by Russia back in 2014. 
-
-On a global scale, Europe is becoming more secure when it comes to energy supply due to the World Economic Forum. However, this was offset by a helicopter crash that killed the Interior Minister of Ukraine. This is seen as a blow to their leadership at this time of war. 
-
-Meanwhile, Microsoft is laying off 10,000 workers and there is political fighting within New York delaying important judicial appointments. In Israel, Aryeh Deri, a close ally of Prime Minister Netanyahu has been ordered removed from his post by the Supreme court as the government tries to limit court powers. 
-
-Also, Jacinda Ardern of New Zealand will be stepping down soon and there are allegations that FTX founder Sam Bankman-Fried has been gaming cryptocurrency markets for his own company&#39;s benefit. Finally, what was once considered radical - intuitive eating - has become increasingly more popular with Elyse Resch and Evelyn Tribole’s method now considered the cornerstone of modern anti-diet movement. Lastly, George Santos has been using clothing as a way to flaunt social rules.</p>
+There&#39;s a lot happening in the world right now! In the US, some of Trump&#39;s former allies have become part of a major oversight committee in the House, while the Biden administration is looking into helping Ukraine in dealing with Crimea. Internationally, there are talks of European unity at the World Economic Forum following tense times, while New Zealand&#39;s leader Jacinda Ardern is stepping down. There have been job cuts at Microsoft and an intraparty battle for a Chief Judge nominee in New York. In Israel, the Supreme Court has ordered Prime Minister Netanyahu&#39;s minister to be removed from his posts. There are also concerns about market gaming from a cryptocurrency founder and the growth of anti-diet movements. Finally, there&#39;s been an investigation about whether George Santos&#39; mother was present during the 9&#x2F;11 attacks in New York.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Right-Wing Trump Allies Win Seats on Oversight, Reflecting G.O.P. Priorities</h3>
@@ -84,12 +78,6 @@ Also, Jacinda Ardern of New Zealand will be stepping down soon and there are all
 <h3>At Wartime Davos Forum, Calls for European Unity Are Eased by Relief</h3>
 <sub>By Mark Landler and Eshe Nelson</sub>
 <p>“Our energy supply for this winter is secure,” Germany’s chancellor declared as government and business leaders gathered at the World Economic Forum.  <a href="https://nyti.ms/3ZDIswC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Helicopter Crash Kills Ukrainian Minister in Blow to Wartime Leadership</h3>
-<sub>By Andrew E. Kramer and Megan Specia</sub>
-<p>The crash in a suburb of Kyiv killed at least 14 people, officials said, including the interior minister, a top adviser to President Volodymyr Zelensky, who oversaw Ukraine’s domestic security.  <a href="https://nyti.ms/3J2ZdLQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -139,6 +127,12 @@ Also, Jacinda Ardern of New Zealand will be stepping down soon and there are all
 <sub>By Vanessa Friedman</sub>
 <p>George Santos used fashion to flout the rules.  <a href="https://nyti.ms/3WeE0l3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos’s Mother Was Not in New York on 9&#x2F;11, Records Show</h3>
+<sub>By Michael Gold</sub>
+<p>Mr. Santos, who has come under intense criticism for fabricating large portions of his life story, had claimed she had been in the South Tower when it was struck.  <a href="https://nyti.ms/3ZDGMTQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
