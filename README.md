@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 19, Central Standard Time</p>
 <p>
-Right now, there are a lot of important things happening around the world. In the US, the Treasury Department has announced that it will be taking accounting steps to avoid breaching its federal debt limit. US Republicans have also won important seats on an oversight committee, where they will be able to influence the country’s direction. At the same time, there is a lot of discussion about abortion rights and what comes next for pro-life activists as Roe V Wade turns 50. 
+Right now, it looks like the country is getting in a bit of a financial pickle! The US has hit its debt limit, and the Treasury department is doing some fancy accounting moves to stop us from breaching it. People are trying to figure out what this might mean: is there an economic crash on the horizon? 
 
-On a global level, New Zealand&#39;s Prime Minister Jacinda Ardern has announced that she will be stepping down soon. She became known worldwide for her efforts to handle the Covid pandemic in her country. 
+Elsewhere, Alec Baldwin is going through a legal trouble – someone died when a gun was used as a film prop on his movie set and he&#39;s been charged with involuntary manslaughter. And there’s also a case on its way to the Supreme Court that could change how social media platforms operate.
 
-Finally, with regards to domestic affairs in the US and especially New York, many businesses are suffering due to the “tripledemic” (financial recession + pandemic + holiday fatigue).  For example, bars and restaurants have been hit hard due to dry January and people cutting back on drinking.</p>
+On a different note, there&#39;s a big divide between Evangelicals and former US President Donald Trump - he seems to blame them for the Republicans&#39; regrets after the midterm elections and they don&#39;t seem too pleased about it. Plus, it&#39;s being 50 years since Roe v Wade was overturned and abortion activists are discussing what happens next. Kamala Harris will be speaking in Florida soon about abortion access and contraception rights.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>America Hit Its Debt Limit, Raising Economic Fears</h3>
@@ -73,22 +73,52 @@ Finally, with regards to domestic affairs in the US and especially New York, man
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The U.S. Hit the Debt Ceiling. How Bad Will It Be?</h3>
+<sub>By Alan Rappeport</sub>
+<p>The United States has a cap on the amount of money it can borrow. That means it can run out of cash if the limit isn’t lifted.  <a href="https://nyti.ms/3IQea3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How to Invest as a Debt Ceiling Crisis Looms</h3>
 <sub>By Jeff Sommer</sub>
 <p>The risk of a federal debt ceiling breach later this year has increased. Steel yourself for trouble, our columnist writes. But remember: This, too, shall pass.  <a href="https://nyti.ms/3wf6Sit"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Supreme Court Poised to Reconsider Key Tenets of Online Speech</h3>
-<sub>By David McCabe</sub>
-<p>The cases could significantly affect the power and responsibilities of social media platforms.  <a href="https://nyti.ms/3WoyNr5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Alec Baldwin Will Be Charged With Involuntary Manslaughter in ‘Rust’ Killing</h3>
+<sub>By Julia Jacobs and Graham Bowley</sub>
+<p>A gun that Mr. Baldwin was rehearsing with went off, killing the film’s cinematographer. The armorer responsible for weapons on set also faces manslaughter charges.  <a href="https://nyti.ms/3iQdz7M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>What We Know About Charges in the Fatal Shooting on Alec Baldwin’s ‘Rust’ Movie Set</h3>
+<sub>By The New York Times</sub>
+<p>The gun was being used as a prop on the set of a Western being filmed in October 2021, when the cinematographer Halyna Hutchins was fatally shot. Here’s what we know.  <a href="https://nyti.ms/3ngjLnE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>A Call of ‘Cold Gun!’ A Live Round. And Death on a Film Set.</h3>
+<sub>By Simon Romero, Graham Bowley and Julia Jacobs</sub>
+<p>A reconstruction of the events leading up to the fatal shooting of the cinematographer of “Rust,” the Alec Baldwin western, reveals a troubled production and a series of errors.  <a href="https://nyti.ms/3BzV1fq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Can Trump Count on Evangelicals in 2024? Some Leaders Are Wavering.</h3>
+<sub>By Maggie Haberman and Michael C. Bender</sub>
+<p>The former president, who relied on evangelical voters in 2016, has accused Christian leaders of “disloyalty” and blamed them for Republicans’ disappointing midterm performance.  <a href="https://nyti.ms/3XoBZnS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Right-Wing Trump Allies Win Seats on Oversight, Reflecting G.O.P. Priorities</h3>
-<sub>By Annie Karni</sub>
-<p>Some of the former president’s most outspoken defenders will sit on the House’s main investigative committee, underscoring their high-profile roles in the new Republican majority.  <a href="https://nyti.ms/3GRqdvh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<h3>John Eastman Is Unbowed as Investigations Proliferate</h3>
+<sub>By Danny Hakim and Michael S. Schmidt</sub>
+<p>A legal reckoning awaits a chief architect of Donald Trump’s effort to reverse his election loss. But in Mr. Eastman’s telling, he was far from a criminal.  <a href="https://nyti.ms/3D1qmuN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Harvard Reverses Course on Human Rights Advocate Who Criticized Israel</h3>
+<sub>By Jennifer Schuessler and Marc Tracy</sub>
+<p>News that the university had blocked a fellowship for the former head of Human Rights Watch stirred debate over academic freedom and donor influence.  <a href="https://nyti.ms/3ZOZLLq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Will We Keep Marching?’ On Roe’s 50th Anniversary, Abortion Opponents Reach a Crossroads</h3>
@@ -102,41 +132,11 @@ Finally, with regards to domestic affairs in the US and especially New York, man
 <p>She will contrast the Biden administration’s efforts with Republicans across the country who have tried to curtail access to abortion and some forms of contraception since the ruling was overturned.  <a href="https://nyti.ms/3D0aOaJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Covid’s Bitter Divisions Tarnished a Liberal Icon</h3>
-<sub>By Damien Cave</sub>
-<p>In a part of the world where coronavirus restrictions lingered, Jacinda Ardern struggled to get beyond her association with pandemic policy.  <a href="https://nyti.ms/3CYCLQ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Supreme Court Poised to Reconsider Key Tenets of Online Speech</h3>
+<sub>By David McCabe</sub>
+<p>The cases could significantly affect the power and responsibilities of social media platforms.  <a href="https://nyti.ms/3WoyNr5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Jacinda Ardern, New Zealand’s Leader, Says She Will Step Down</h3>
-<sub>By Natasha Frost</sub>
-<p>Ms. Ardern, a global liberal icon who has faced rising political headwinds at home, will leave office by Feb. 7, she said.  <a href="https://nyti.ms/3XC3gTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Why the U.S. Is Sending More Powerful Weapons to Ukraine</h3>
-<sub>By Sabrina Tavernise, Rachel Quester, Michael Simon Johnson, Luke Vander Ploeg, Rachelle Bonja, Lexie Diao, Paige Cowett and Marion Lozano</sub>
-<p>Efforts to arm Kyiv have stepped up in the past few weeks as the war enters a critical phase.  <a href="https://nyti.ms/3Wl1XqX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Administration Invites Ordinary Americans to Help Settle Refugees</h3>
-<sub>By Miriam Jordan</sub>
-<p>The program to speed up refugee arrivals will allow private citizens to sponsor families in their communities after raising funds and undergoing training.  <a href="https://nyti.ms/3kgkDuz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>It’s Dry January. Pour One Out for the Bar Owners.</h3>
-<sub>By Alyson Krueger</sub>
-<p>Between the “tripledemic,” the economy, holiday fatigue and the temporarily sober, businesses are suffering.  <a href="https://nyti.ms/3IZWRxq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Drinking Again? Maybe the Problem Is Dry January.</h3>
-<sub>By Remy Tumin</sub>
-<p>The annual sobriety challenge is more popular than ever, but like many New Year’s resolutions, it can end early in failure. But there are still benefits to trying, experts say.  <a href="https://nyti.ms/3ZMhenB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
