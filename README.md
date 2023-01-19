@@ -60,42 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 19, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now! In the US, some of Trump&#39;s former allies have become part of a major oversight committee in the House, while the Biden administration is looking into helping Ukraine in dealing with Crimea. Internationally, there are talks of European unity at the World Economic Forum following tense times, while New Zealand&#39;s leader Jacinda Ardern is stepping down. There have been job cuts at Microsoft and an intraparty battle for a Chief Judge nominee in New York. In Israel, the Supreme Court has ordered Prime Minister Netanyahu&#39;s minister to be removed from his posts. There are also concerns about market gaming from a cryptocurrency founder and the growth of anti-diet movements. Finally, there&#39;s been an investigation about whether George Santos&#39; mother was present during the 9&#x2F;11 attacks in New York.</p>
+Right now, a lot of big things are happening around the world. For starters, in the US, the government is quickly approaching its borrowing limit and that has investors concerned about what this could mean for the economy. There&#39;s also a Supreme Court case with potentially major implications for online speech that&#39;s set to come down soon. In politics, allies of former President Trump have recently been appointed to key oversight positions in the House of Representatives, reflecting Republican priorities. Turning over seas to New Zealand, Prime Minister Jacinda Ardern is stepping down after facing some domestic headwinds but global praise for her leadership throughout the pandemic. She will be remembered for her charisma and frank, compassionate approach. In another global event, there was a helicopter crash in Kyiv that killed at least 14 people—including a top adviser and interior minister]—as Ukraine&#39;s war hit a critical phase. Closer to home, Covid restrictions have made life difficult for bar owners and many people have taken up ‘Dry January’ as an annual challenge but there may be more benefits to trying it than just abstaining from drinking—even small amounts of alcohol can have serious health consequences according to new Canadian guidelines.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>America Set to Hit Its Borrowing Limit Today, Raising Economic Fears</h3>
+<sub>By Jim Tankersley and Alan Rappeport</sub>
+<p>The milestone will not immediately affect markets or growth, but it sets the stage for months of entrenched partisan warfare.  <a href="https://nyti.ms/3XFoOOX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How to Invest as a Debt Ceiling Crisis Looms</h3>
+<sub>By Jeff Sommer</sub>
+<p>The risk of a federal debt ceiling breach later this year has increased. Steel yourself for trouble, our columnist writes. But remember: This, too, shall pass.  <a href="https://nyti.ms/3wf6Sit"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Supreme Court Poised to Reconsider Key Tenets of Online Speech</h3>
+<sub>By David McCabe</sub>
+<p>The cases could significantly affect the power and responsibilities of social media platforms.  <a href="https://nyti.ms/3WoyNr5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Right-Wing Trump Allies Win Seats on Oversight, Reflecting G.O.P. Priorities</h3>
 <sub>By Annie Karni</sub>
 <p>Some of the former president’s most outspoken defenders will sit on the House’s main investigative committee, underscoring their high-profile roles in the new Republican majority.  <a href="https://nyti.ms/3GRqdvh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Warms to Helping Ukraine Target Crimea</h3>
-<sub>By Helene Cooper, Eric Schmitt and Julian E. Barnes</sub>
-<p>The Biden administration is considering the argument that Kyiv needs the power to strike at the Ukrainian peninsula annexed by Russia in 2014.  <a href="https://nyti.ms/3QS6xvW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Wartime Davos Forum, Calls for European Unity Are Eased by Relief</h3>
-<sub>By Mark Landler and Eshe Nelson</sub>
-<p>“Our energy supply for this winter is secure,” Germany’s chancellor declared as government and business leaders gathered at the World Economic Forum.  <a href="https://nyti.ms/3ZDIswC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Microsoft to Lay Off 10,000 Workers as It Looks to Trim Costs</h3>
-<sub>By Karen Weise</sub>
-<p>The job cuts, which amount to less than 5 percent of the company’s work force, are its largest in roughly eight years.  <a href="https://nyti.ms/3CZi078"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>LaSalle Is Rejected by New York Senate Panel in a 10-9 Vote</h3>
-<sub>By Luis Ferré-Sadurní and Jesse McKinley</sub>
-<p>Gov. Kathy Hochul’s choice of Justice Hector LaSalle to become the state’s top judge caused an intraparty Democratic battle that divided a judicial hearing on Wednesday.  <a href="https://nyti.ms/3kjKYbb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Inside the Political Fight That May Have Doomed a Chief Judge Nominee</h3>
-<sub>By Jesse McKinley and Luis Ferré-Sadurní</sub>
-<p>A battle over the nomination of Justice Hector LaSalle was rooted in both judicial policy and politics, as progressive Democrats in New York showed their strength.  <a href="https://nyti.ms/3CY5XXG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -105,33 +93,45 @@ There&#39;s a lot happening in the world right now! In the US, some of Trump&#39
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid Fight Over Judiciary, Israeli High Court Orders Netanyahu Minister Removed</h3>
-<sub>By Isabel Kershner</sub>
-<p>The Supreme Court ruled that Aryeh Deri, a close ally of the prime minister who was convicted of tax fraud, should be removed from his posts, as the government tries to restrict the courts’ powers.  <a href="https://nyti.ms/3GRIys4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<h3>How Covid’s Bitter Divisions Tarnished a Liberal Icon</h3>
+<sub>By Damien Cave</sub>
+<p>In a part of the world where coronavirus restrictions lingered, Jacinda Ardern struggled to get beyond her association with pandemic policy.  <a href="https://nyti.ms/3CYCLQ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>FTX Founder Gamed Markets, Crypto Rivals Say</h3>
-<sub>By Emily Flitter and David Yaffe-Bellany</sub>
-<p>Sam Bankman-Fried found ways to control the prices of digital coins to benefit his companies, FTX and Alameda, according to cryptocurrency investors.  <a href="https://nyti.ms/3XhgcOO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Key Moments in Jacinda Ardern’s Political Career</h3>
+<sub>By Yan Zhuang</sub>
+<p>New Zealand’s outgoing prime minister won global fame with youthful charisma and a frank, compassionate leadership style that carried her through crisis.  <a href="https://nyti.ms/3XHUiUJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>They Rejected Diet Culture 30 Years Ago. Then They Went Mainstream.</h3>
-<sub>By Michelle Ruiz</sub>
-<p>Once considered radical, Elyse Resch and Evelyn Tribole’s method of intuitive eating has become the cornerstone of the modern anti-diet movement.  <a href="https://nyti.ms/3XGwfFA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Why the U.S. Is Sending More Powerful Weapons to Ukraine</h3>
+<sub>By Sabrina Tavernise, Rachel Quester, Michael Simon Johnson, Luke Vander Ploeg, Rachelle Bonja, Lexie Diao, Paige Cowett and Marion Lozano</sub>
+<p>Efforts to arm Kyiv have stepped up in the past few weeks as the war enters a critical phase.  <a href="https://nyti.ms/3Wl1XqX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Clothes Make the Con Man</h3>
-<sub>By Vanessa Friedman</sub>
-<p>George Santos used fashion to flout the rules.  <a href="https://nyti.ms/3WeE0l3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Helicopter Crash Kills Ukrainian Minister in Blow to Wartime Leadership</h3>
+<sub>By Andrew E. Kramer and Megan Specia</sub>
+<p>The crash in a suburb of Kyiv killed at least 14 people, officials said, including the interior minister, a top adviser to President Volodymyr Zelensky, who oversaw Ukraine’s domestic security.  <a href="https://nyti.ms/3J2ZdLQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos’s Mother Was Not in New York on 9&#x2F;11, Records Show</h3>
-<sub>By Michael Gold</sub>
-<p>Mr. Santos, who has come under intense criticism for fabricating large portions of his life story, had claimed she had been in the South Tower when it was struck.  <a href="https://nyti.ms/3ZDGMTQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>It’s Dry January. Pour One Out for the Bar Owners.</h3>
+<sub>By Alyson Krueger</sub>
+<p>Between the “tripledemic,” the economy, holiday fatigue and the temporarily sober, businesses are suffering.  <a href="https://nyti.ms/3IZWRxq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Drinking Again? Maybe the Problem Is Dry January.</h3>
+<sub>By Remy Tumin</sub>
+<p>The annual sobriety challenge is more popular than ever, but like many New Year’s resolutions, it can end early in failure. But there are still benefits to trying, experts say.  <a href="https://nyti.ms/3ZMhenB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Canada’s New Guidelines for Alcohol Say ‘No Amount’ Is Healthy</h3>
+<sub>By Michael Levenson</sub>
+<p>The guidance builds on growing evidence, after decades of sometimes conflicting research, that even small amounts of alcohol can have serious health consequences.  <a href="https://nyti.ms/3WljS0K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
