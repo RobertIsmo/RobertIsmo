@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 18, Central Standard Time</p>
 <p>
-There is a lot going on in the world currently. The U.S. is considering helping Ukraine to target Crimea, which was annexed by Russia in 2014. Ukrainian President Zelensky spoke out about his country&#39;s losses and asked for help at Davos last week. Microsoft will also be laying off about 10,000 workers due to cost cutting measures. In Israel, their Supreme Court ordered the removal of a close ally of Prime Minister Netanyahu who was convicted of tax fraud, creating tension between the government and judiciary. In New York, the State Senate has rejected Governor Kathy Hochul&#39;s choice of Justice Hector LaSalle to become the top judge resulting in a Democratic battle. A founder of an digital currency platform FTX was accused by cryptocurrency investors of illegally controlling prices to benefit his companies. There&#39;ve been movements to reject diet culture and rethink anti-diet movements that have been going on for decades, but are now becoming more popular and visible. George Santos, an American representative, is starting to move more towards the hard right. In addition, California has been swarmed by rain recently, but still remain in drought conditions despite it all. Los Angeles County&#39;s Black residents were found to be most at risk from floods and storms due to potential lack of resources and support from authorities. Lastly, Janet Yellen, the US Treasury Secretary may need extraordinary measures in order to prevent government from defaulting on debt.</p>
+Right now, a lot of news is coming out of the US. There are some Trump allies who won seats in Oversight, and the US is getting more serious about helping Ukraine target Crimea. Meanwhile, in Europe, there was a World Economic Forum about wartime unity with Germany&#39;s chancellor giving an optimistic outlook for energy supplies. In Ukraine, there was a helicopter crash that killed the interior minister and other people close to their president. Microsoft announced it will be cutting 10,000 employees to cut costs. In New York politics, Governor Hochul nominated Justice Hector LaSalle to become top judge, but it caused an intraparty battle in the Senate so it wasn&#39;t successful. In New Zealand, Prime Minister Jacinda Ardern announced she won&#39;t be seeking re-election soon. In Israel, the High Court ordered Netanyahu&#39;s minister of interior to be removed due to fraud conviction. In the cryptocurrency world, one CEO allegedly manipulated prices of digital coins to favor his company and investors are not happy. Lastly in terms of health, two people rejecting diet culture 30 years ago have made intuitive eating mainstream recently.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Right-Wing Trump Allies Win Seats on Oversight, Reflecting G.O.P. Priorities</h3>
+<sub>By Annie Karni</sub>
+<p>Some of the former president’s most outspoken defenders will sit on the House’s main investigative committee, underscoring their high-profile roles in the new Republican majority.  <a href="https://nyti.ms/3GRqdvh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Warms to Helping Ukraine Target Crimea</h3>
 <sub>By Helene Cooper, Eric Schmitt and Julian E. Barnes</sub>
@@ -69,9 +75,15 @@ There is a lot going on in the world currently. The U.S. is considering helping 
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Tragedies are outpacing life’: In a video address at Davos, Zelensky mourns the dead and pleads for help.</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>At the start of his address, the Ukrainian president called for a minute of silence to honor the country’s minister of internal affairs.  <a href="https://nyti.ms/3IZQla0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>At Wartime Davos Forum, Calls for European Unity Are Eased by Relief</h3>
+<sub>By Mark Landler and Eshe Nelson</sub>
+<p>“Our energy supply for this winter is secure,” Germany’s chancellor declared as government and business leaders gathered at the World Economic Forum.  <a href="https://nyti.ms/3ZDIswC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Helicopter Crash Kills Ukrainian Minister in Blow to Wartime Leadership</h3>
+<sub>By Andrew E. Kramer and Megan Specia</sub>
+<p>The crash in a suburb of Kyiv killed at least 14 people, officials said, including the interior minister, a top adviser to President Volodymyr Zelensky, who oversaw Ukraine’s domestic security.  <a href="https://nyti.ms/3J2ZdLQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -80,16 +92,28 @@ There is a lot going on in the world currently. The U.S. is considering helping 
 <p>The job cuts, which amount to less than 5 percent of the company’s work force, are its largest in roughly eight years.  <a href="https://nyti.ms/3CZi078"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Supreme Court Orders Removal of a Netanyahu Minister</h3>
-<sub>By Isabel Kershner</sub>
-<p>The court ruled that Aryeh Deri, a close ally of the prime minister who was convicted of tax fraud, should be removed from his posts, setting up a clash between the government and the judiciary.  <a href="https://nyti.ms/3GRIys4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>LaSalle Is Rejected by New York Senate Panel in a 10-9 Vote</h3>
 <sub>By Luis Ferré-Sadurní and Jesse McKinley</sub>
 <p>Gov. Kathy Hochul’s choice of Justice Hector LaSalle to become the state’s top judge caused an intraparty Democratic battle that divided a judicial hearing on Wednesday.  <a href="https://nyti.ms/3kjKYbb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Inside the Political Fight That May Have Doomed a Chief Judge Nominee</h3>
+<sub>By Jesse McKinley and Luis Ferré-Sadurní</sub>
+<p>A battle over the nomination of Justice Hector LaSalle was rooted in both judicial policy and politics, as progressive Democrats in New York showed their strength.  <a href="https://nyti.ms/3CY5XXG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Jacinda Ardern, New Zealand’s Leader, Won’t Seek Re-election, She Says</h3>
+<sub>By Natasha Frost</sub>
+<p>The prime minister said she would step down on Feb. 7.  <a href="https://nyti.ms/3XC3gTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Amid Fight Over Judiciary, Israeli High Court Orders Netanyahu Minister Removed</h3>
+<sub>By Isabel Kershner</sub>
+<p>The Supreme Court ruled that Aryeh Deri, a close ally of the prime minister who was convicted of tax fraud, should be removed from his posts, as the government tries to restrict the courts’ powers.  <a href="https://nyti.ms/3GRIys4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,35 +128,11 @@ There is a lot going on in the world currently. The U.S. is considering helping 
 <p>Once considered radical, Elyse Resch and Evelyn Tribole’s method of intuitive eating has become the cornerstone of the modern anti-diet movement.  <a href="https://nyti.ms/3XGwfFA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Shows Early Signs of Tilting to the Hard Right</h3>
-<sub>By Michael Gold</sub>
-<p>Through his staff hires and his public appearances with members of the House Freedom Caucus, Representative George Santos has signaled a move away from the mainstream.  <a href="https://nyti.ms/3CSm60E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Clothes Make the Con Man</h3>
 <sub>By Vanessa Friedman</sub>
 <p>George Santos used fashion to flout the rules.  <a href="https://nyti.ms/3WeE0l3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Despite Rain Storms, California Is Still in Drought</h3>
-<sub>By Elena Shao, Mira Rojanasakul and Nadja Popovich</sub>
-<p>Multiple atmospheric rivers brought extreme rain and snow to California, but the recent deluge hasn’t made up for years of ongoing drought.  <a href="https://nyti.ms/3WtoEcM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Los Angeles County’s Black Residents Are Most at Risk in Major Floods</h3>
-<sub>By Audra D. S. Burch and Eileen Guo</sub>
-<p>Southern California has so far escaped the worst impact of recent rainstorms, but a new study shows a 100-year-flood event would disproportionately impact Black residents.  <a href="https://nyti.ms/3GMZWhr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How ‘Extraordinary Measures’ Can Postpone a Debt Limit Disaster</h3>
-<sub>By Alan Rappeport</sub>
-<p>Treasury Secretary Janet L. Yellen will soon need to use accounting maneuvers to keep the United States from defaulting on its debt.  <a href="https://nyti.ms/3CUYlFj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
