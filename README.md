@@ -60,12 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 19, Central Standard Time</p>
 <p>
-Right now, a lot of big things are happening around the world. For starters, in the US, the government is quickly approaching its borrowing limit and that has investors concerned about what this could mean for the economy. There&#39;s also a Supreme Court case with potentially major implications for online speech that&#39;s set to come down soon. In politics, allies of former President Trump have recently been appointed to key oversight positions in the House of Representatives, reflecting Republican priorities. Turning over seas to New Zealand, Prime Minister Jacinda Ardern is stepping down after facing some domestic headwinds but global praise for her leadership throughout the pandemic. She will be remembered for her charisma and frank, compassionate approach. In another global event, there was a helicopter crash in Kyiv that killed at least 14 people—including a top adviser and interior minister]—as Ukraine&#39;s war hit a critical phase. Closer to home, Covid restrictions have made life difficult for bar owners and many people have taken up ‘Dry January’ as an annual challenge but there may be more benefits to trying it than just abstaining from drinking—even small amounts of alcohol can have serious health consequences according to new Canadian guidelines.</p>
+Right now, there are a lot of important things happening around the world. In the US, the Treasury Department has announced that it will be taking accounting steps to avoid breaching its federal debt limit. US Republicans have also won important seats on an oversight committee, where they will be able to influence the country’s direction. At the same time, there is a lot of discussion about abortion rights and what comes next for pro-life activists as Roe V Wade turns 50. 
+
+On a global level, New Zealand&#39;s Prime Minister Jacinda Ardern has announced that she will be stepping down soon. She became known worldwide for her efforts to handle the Covid pandemic in her country. 
+
+Finally, with regards to domestic affairs in the US and especially New York, many businesses are suffering due to the “tripledemic” (financial recession + pandemic + holiday fatigue).  For example, bars and restaurants have been hit hard due to dry January and people cutting back on drinking.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>America Set to Hit Its Borrowing Limit Today, Raising Economic Fears</h3>
+<h3>America Hit Its Debt Limit, Raising Economic Fears</h3>
 <sub>By Jim Tankersley and Alan Rappeport</sub>
-<p>The milestone will not immediately affect markets or growth, but it sets the stage for months of entrenched partisan warfare.  <a href="https://nyti.ms/3XFoOOX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Treasury Department said it would begin a series of accounting moves to keep the United States from breaching its borrowing cap.  <a href="https://nyti.ms/3XFoOOX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -86,10 +90,16 @@ Right now, a lot of big things are happening around the world. For starters, in 
 <p>Some of the former president’s most outspoken defenders will sit on the House’s main investigative committee, underscoring their high-profile roles in the new Republican majority.  <a href="https://nyti.ms/3GRqdvh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Jacinda Ardern, New Zealand’s Leader, Says She Will Step Down</h3>
-<sub>By Natasha Frost</sub>
-<p>Ms. Ardern, a global liberal icon who has faced rising political headwinds at home, will leave office by Feb. 7, she said.  <a href="https://nyti.ms/3XC3gTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Will We Keep Marching?’ On Roe’s 50th Anniversary, Abortion Opponents Reach a Crossroads</h3>
+<sub>By Ruth Graham</sub>
+<p>The March for Life, held each year for a half-century, should be a celebration now that Roe v. Wade has fallen. Instead, anti-abortion activists are split over what comes next.  <a href="https://nyti.ms/3GUAO8r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Kamala Harris to Speak in Florida on 50th Anniversary of Roe v. Wade</h3>
+<sub>By Katie Rogers</sub>
+<p>She will contrast the Biden administration’s efforts with Republicans across the country who have tried to curtail access to abortion and some forms of contraception since the ruling was overturned.  <a href="https://nyti.ms/3D0aOaJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,10 +109,10 @@ Right now, a lot of big things are happening around the world. For starters, in 
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Key Moments in Jacinda Ardern’s Political Career</h3>
-<sub>By Yan Zhuang</sub>
-<p>New Zealand’s outgoing prime minister won global fame with youthful charisma and a frank, compassionate leadership style that carried her through crisis.  <a href="https://nyti.ms/3XHUiUJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<h3>Jacinda Ardern, New Zealand’s Leader, Says She Will Step Down</h3>
+<sub>By Natasha Frost</sub>
+<p>Ms. Ardern, a global liberal icon who has faced rising political headwinds at home, will leave office by Feb. 7, she said.  <a href="https://nyti.ms/3XC3gTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Why the U.S. Is Sending More Powerful Weapons to Ukraine</h3>
@@ -110,11 +120,11 @@ Right now, a lot of big things are happening around the world. For starters, in 
 <p>Efforts to arm Kyiv have stepped up in the past few weeks as the war enters a critical phase.  <a href="https://nyti.ms/3Wl1XqX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Helicopter Crash Kills Ukrainian Minister in Blow to Wartime Leadership</h3>
-<sub>By Andrew E. Kramer and Megan Specia</sub>
-<p>The crash in a suburb of Kyiv killed at least 14 people, officials said, including the interior minister, a top adviser to President Volodymyr Zelensky, who oversaw Ukraine’s domestic security.  <a href="https://nyti.ms/3J2ZdLQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Administration Invites Ordinary Americans to Help Settle Refugees</h3>
+<sub>By Miriam Jordan</sub>
+<p>The program to speed up refugee arrivals will allow private citizens to sponsor families in their communities after raising funds and undergoing training.  <a href="https://nyti.ms/3kgkDuz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>It’s Dry January. Pour One Out for the Bar Owners.</h3>
@@ -126,12 +136,6 @@ Right now, a lot of big things are happening around the world. For starters, in 
 <h3>Drinking Again? Maybe the Problem Is Dry January.</h3>
 <sub>By Remy Tumin</sub>
 <p>The annual sobriety challenge is more popular than ever, but like many New Year’s resolutions, it can end early in failure. But there are still benefits to trying, experts say.  <a href="https://nyti.ms/3ZMhenB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Canada’s New Guidelines for Alcohol Say ‘No Amount’ Is Healthy</h3>
-<sub>By Michael Levenson</sub>
-<p>The guidance builds on growing evidence, after decades of sometimes conflicting research, that even small amounts of alcohol can have serious health consequences.  <a href="https://nyti.ms/3WljS0K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
