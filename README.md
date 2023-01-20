@@ -60,18 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 20, Central Standard Time</p>
 <p>
-It looks like things have been pretty busy lately! In the US, people are debating abortion rights while politicians worry about turning off swing voters. There have also been some changes to voting laws being proposed that could have a big impact on future elections. A lot of tech giants like Google have had to lay off some workers due to the pandemic, but Google has called in its founders for help with an AI issue. A few days ago, there was an airline debacle caused by a Federal Aviation Administration system outage which put their Secretary of Transportation in trouble. There&#39;s also been new guidance from the American Academy of Pediatrics on how to handle childhood obesity, and an Alec Baldwin movie has hit some snags because of charges against him. Finally, there&#39;s news about a tank made in Germany that could be used for defense purposes in Ukraine. That about covers everything!</p>
+There&#39;s a lot going on in the world right now. In tech, a lot of companies are having to make layoffs, particularly affecting young workers. Google&#39;s parent company Alphabet is cutting 12,000 jobs globally. On the lighter side, Google just got help from its founders Larry Page and Sergey Brin to boost its artificial intelligence development.
+
+In other news, the potential arms trade between Germany and Ukraine is getting attention since the latter wants to use Leopard 2 tanks in its military efforts. Closer to home, issues around abortion have Republican politicians debating what restrictive measures should be taken. In Haiti, a mother has taken extraordinary measures to try and save her daughter trapped by violence. And speaking of extreme steps, President Biden&#39;s White House had to stay quiet for 68 days about a classified information scandal. 
+
+Finally, there&#39;s been some goodbye news recently - New Zealander Prime Minister Jacinda Ardern is stepping down after making it through countless national crises; and musician David Crosby has passed away, leaving behind 15 essential songs that spanned generations.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Dobbs, Republicans Wrestle With What It Means to Be Anti-Abortion</h3>
-<sub>By Lisa Lerer and Katie Glueck</sub>
-<p>Activists are pushing for tougher abortion restrictions, while politicians fear turning off swing voters who don’t support strict limits like a national ban.  <a href="https://nyti.ms/3Jk1ORZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>States Push for New Voting Laws With an Eye Toward 2024</h3>
-<sub>By Neil Vigdor</sub>
-<p>Republicans are focused on voter ID rules and making it harder to cast mail ballots, while Democrats are seeking to expand access through automatic voter registration.  <a href="https://nyti.ms/3wf97Cw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Tech Layoffs Shock Young Workers. The Older People? Not So Much.</h3>
+<sub>By Tripp Mickle</sub>
+<p>The industry’s recent job cuts have been an awakening for a generation of workers who have never experienced a cyclical crash.  <a href="https://nyti.ms/3iVYZeX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -86,52 +84,58 @@ It looks like things have been pretty busy lately! In the US, people are debatin
 <p>A rival chatbot has shaken Google out of its routine, with the founders who left three years ago re-engaging and more than 20 A.I. projects in the works.  <a href="https://nyti.ms/3wh2NKJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>68 Days of Silence: Why the White House Stayed Mum on Classified Documents</h3>
-<sub>By Michael D. Shear, Peter Baker and Katie Rogers</sub>
-<p>Advisers to President Biden calculated that the Justice Department would view possession of the documents as little more than a good-faith mistake.  <a href="https://nyti.ms/3wiabWk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What is the Leopard 2 tank, and how could it help Ukraine?</h3>
 <sub>By Matthew Mpoke Bigg</sub>
 <p>One of the world’s leading battle tanks, the German-made Leopard 2 has sophisticated targeting capabilities, even in rough terrain.  <a href="https://nyti.ms/3Wi9S8s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Selling False Hope in India’s Cram City</h3>
-<sub>By Zishaan a Latif and Mansi Choksi</sub>
-<p>In Kota, students from across the country pay steep fees to be tutored for elite-college admissions exams — which most of them will fail.  <a href="https://nyti.ms/3J0jmlW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Dobbs, Republicans Wrestle With What It Means to Be Anti-Abortion</h3>
+<sub>By Lisa Lerer and Katie Glueck</sub>
+<p>Activists are pushing for tougher abortion restrictions, while politicians fear turning off swing voters who don’t support strict limits like a national ban.  <a href="https://nyti.ms/3Jk1ORZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>David Crosby, Folk-Rock Voice of the 1960s Whose Influence Spanned Decades, Dies at 81</h3>
-<sub>By Jim Farber</sub>
-<p>He was an original member of the Byrds and a founder of Crosby, Stills &amp; Nash. But he was almost as well known for his troubled personal life as for his music.  <a href="https://nyti.ms/3D2gnpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>New Guidelines Underscore How Complicated Childhood Obesity Is for Patients and Providers</h3>
-<sub>By Catherine Pearson</sub>
-<p>The A.A.P. is recommending early and intensive interventions. Can that happen without furthering stigma?  <a href="https://nyti.ms/3XHAv7L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘I Lost My Heart.’ A Haitian Mother’s Fight for Her Child</h3>
+<sub>By Natalie Kitroeff, Andre Paultre and Adriana Zehbrauskas</sub>
+<p>Trapped by unending violence in the country’s largest slum, a mother makes a desperate attempt to save her teenage daughter.  <a href="https://nyti.ms/3ZTV82v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Air Travel Debacles Put a Star of Biden’s Cabinet in the Hot Seat</h3>
-<sub>By Mark Walker</sub>
-<p>Pete Buttigieg, the transportation secretary, is facing scrutiny after a meltdown by Southwest Airlines and a Federal Aviation Administration system outage wreaked havoc on flights.  <a href="https://nyti.ms/3WrW4Iq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>68 Days of Silence: Why the White House Stayed Mum on Classified Documents</h3>
+<sub>By Michael D. Shear, Peter Baker and Katie Rogers</sub>
+<p>Advisers to President Biden calculated that the Justice Department would view possession of the documents as little more than a good-faith mistake.  <a href="https://nyti.ms/3wiabWk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>F.A.A. Says Outage Was Mistakenly Caused by Contractors</h3>
-<sub>By Eduardo Medina</sub>
-<p>The workers “unintentionally deleted files” on the alert system for pilots, causing thousands of flights to be delayed on Jan. 11, just weeks after another nationwide air travel failure.  <a href="https://nyti.ms/3J1oFBr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Chatbots Can’t Outsmart You. Yet.</h3>
+<sub>By Cade Metz</sub>
+<p>The Turing test used to be the gold standard for proving machine intelligence. This generation of bots is racing past it. We need to stay calm — and develop a new test.  <a href="https://nyti.ms/3XAKOL0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Jacinda Ardern Says No to Burnout</h3>
+<sub>By Amanda Taub</sub>
+<p>The New Zealand prime minister made a surprise announcement that she would step down as the country’s leader.  <a href="https://nyti.ms/3ktLDXG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Jacinda Ardern Will Be Gone Soon but New Zealand’s Economic Troubles Are Here to Stay</h3>
+<sub>By Natasha Frost</sub>
+<p>Ms. Ardern maneuvered through one crisis after another but had less success confronting persistent challenges that have hobbled successive governments.  <a href="https://nyti.ms/3QSjkOF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Should You Quit Your Job?</h3>
+<sub>By Christina Caron</sub>
+<p>Jacinda Ardern stepped away from her role because she no longer has “enough in the tank” to do it. If you relate, here’s what to consider.  <a href="https://nyti.ms/3XngxPT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Alec Baldwin Charges Complicate Efforts to Finish Troubled ‘Rust’ Movie</h3>
-<sub>By Julia Jacobs and Graham Bowley</sub>
-<p>A settlement with the family of the cinematographer who was slain on the set called for resuming production, with her widower serving as an executive producer.  <a href="https://nyti.ms/3XMk5eG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>David Crosby’s 15 Essential Songs</h3>
+<sub>By Jon Pareles</sub>
+<p>The singer and songwriter, who died this week, created music that helped define an era and stretched across generations. Listen to six decades of tracks that tell the story of his career.  <a href="https://nyti.ms/3HjVh8b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
