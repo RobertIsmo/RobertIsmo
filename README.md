@@ -60,10 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 20, Central Standard Time</p>
 <p>
-There are a lot of changes happening in the US right now. Republicans are pushing for tougher abortion restrictions and new voting laws, while Democrats are trying to expand access to ballots. On top of that, tech giants like Google are laying off thousands of employees, and air travel has been increasingly malfunctioning due to FAA system outages. Additionally, culture-specific issues such as overcrowding in cram schools in India and changes to housing developments in cities across America are raising concerns over their lost charm.</p>
+It looks like things have been pretty busy lately! In the US, people are debating abortion rights while politicians worry about turning off swing voters. There have also been some changes to voting laws being proposed that could have a big impact on future elections. A lot of tech giants like Google have had to lay off some workers due to the pandemic, but Google has called in its founders for help with an AI issue. A few days ago, there was an airline debacle caused by a Federal Aviation Administration system outage which put their Secretary of Transportation in trouble. There&#39;s also been new guidance from the American Academy of Pediatrics on how to handle childhood obesity, and an Alec Baldwin movie has hit some snags because of charges against him. Finally, there&#39;s news about a tank made in Germany that could be used for defense purposes in Ukraine. That about covers everything!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Roe, Republicans Wrestle With What It Means to Be ‘Pro-Life’</h3>
+<h3>After Dobbs, Republicans Wrestle With What It Means to Be Anti-Abortion</h3>
 <sub>By Lisa Lerer and Katie Glueck</sub>
 <p>Activists are pushing for tougher abortion restrictions, while politicians fear turning off swing voters who don’t support strict limits like a national ban.  <a href="https://nyti.ms/3Jk1ORZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
@@ -110,6 +110,12 @@ There are a lot of changes happening in the US right now. Republicans are pushin
 <p>He was an original member of the Byrds and a founder of Crosby, Stills &amp; Nash. But he was almost as well known for his troubled personal life as for his music.  <a href="https://nyti.ms/3D2gnpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>New Guidelines Underscore How Complicated Childhood Obesity Is for Patients and Providers</h3>
+<sub>By Catherine Pearson</sub>
+<p>The A.A.P. is recommending early and intensive interventions. Can that happen without furthering stigma?  <a href="https://nyti.ms/3XHAv7L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Air Travel Debacles Put a Star of Biden’s Cabinet in the Hot Seat</h3>
 <sub>By Mark Walker</sub>
@@ -126,12 +132,6 @@ There are a lot of changes happening in the US right now. Republicans are pushin
 <h3>Alec Baldwin Charges Complicate Efforts to Finish Troubled ‘Rust’ Movie</h3>
 <sub>By Julia Jacobs and Graham Bowley</sub>
 <p>A settlement with the family of the cinematographer who was slain on the set called for resuming production, with her widower serving as an executive producer.  <a href="https://nyti.ms/3XMk5eG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>America, the Bland</h3>
-<sub>By Anna Kodé</sub>
-<p>Across the country, new developments are starting to look the same, raising fears that cities are losing their unique charm. But in the current housing crisis, does that matter?  <a href="https://nyti.ms/3XFD4r6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
