@@ -58,9 +58,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, January 19, Central Standard Time</p>
+<p>It is Friday, January 20, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, the Supreme Court has been looking into who leaked a draft opinion overturning Roe v. Wade and how to handle it, and people are debating if Donald Trump can count on evangelical voters for a 2024 election. Overseas, Ukraine&#39;s allies are gathering in Germany to devise a plan for a major military aid infusion and provide support against Russian aggression. Meanwhile, CIA director William Burns just visited Kyiv to meet with their President Zelensky. On the cultural side, we recently said goodbye to legendary folk-rocker David Crosby, who died at 81. However, his music still lives on, recently releasing an album titled &#39;Lighthouse.&#39; There were also controversial criminal charges against actor Alec Baldwin for involuntary manslaughter of a cinematographer on his film set due to gun-related incidents. Additionally, we saw Harvard reverse its course on blocking a fellowship for a human rights advocate over criticism of Israel, while Florida rejected an AP African American Studies class saying that it lacked educational value. Lastly, within the business world we have Netflix’s Reed Hastings switching roles and becoming executive chairman while two other executives join him as co-chiefs. Lastly, in India there is still movie love story playing in theaters after 27 years!</p>
+Right now, there is a lot happening in the world. In the US, the Supreme Court is trying to identify who leaked a draft opinion related to abortion and Christian leaders are showing uncertainty at President Trump&#39;s bid for re-election in 2024. In Ukraine, allies are pledging to send major military aid amid a war-planning meeting in Germany. The CIA Director also recently visited Kyiv for a meeting with the president. 
+In terms of the arts, musician David Crosby, who was known for his influence on folk-rock in the 1960s has recently passed away at 81 and actor Alec Baldwin will be facing involuntary manslaughter charges for a shooting that occurred on set. Meanwhile, Harvard has reversed its decision to not offer a fellowship to a human rights advocate who criticized Israel, and in Florida an AP African American Studies course was rejected due to lack of educational value. Business-wise, Netflix CEO Reed Hastings is giving up his co-chief executive role and there is an increasing trend in men wearing more pink fashionably.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Says It Hasn’t Identified Person Who Leaked Draft Abortion Opinion</h3>
@@ -128,10 +129,10 @@ There is a lot going on in the world right now. In the US, the Supreme Court has
 <p>Mr. Hastings will become the streaming giant’s executive chairman. Greg Peters will join Ted Sarandos as a co-chief executive.  <a href="https://nyti.ms/3GM2jB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>India’s Love Story With a Movie Still on the Big Screen After 27 Years</h3>
-<sub>By Mujib Mashal, Suhasini Raj and Atul Loke</sub>
-<p>‘D.D.L.J.,’ which a Mumbai theater has shown nearly every day since 1995, encapsulates a society in churn, with the choices afforded by economic opportunity clashing with tradition.  <a href="https://nyti.ms/3wfoUkI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Men Should Wear More Pink</h3>
+<sub>By Simbarashe Cha</sub>
+<p>And if you ask this Styles photographer, more flowers, too!  <a href="https://nyti.ms/3ZPQLFC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
