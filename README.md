@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 19, Central Standard Time</p>
 <p>
-Hey friend,
+There have been some newsworthy events unfolding in the US and around the world over the past few weeks. In the US, the Supreme Court has not identified who leaked a draft abortion opinion confirming Roe vs. Wade, and anti-abortion activists are debating what comes next now that Roe vs. Wade is no longer in effect. Trump&#39;s evangelical supporters are wavering too ahead of the 2024 elections, and one of his chief lawyers, John Eastman, is facing various investigations for his role in reversing Trump&#39;s election loss. 
 
-I&#39;ve seen some interesting news lately. There&#39;s a Supreme Court case involving the leak of a draft abortion opinion that was published by Politico in May. On the 50th anniversary of Roe v. Wade, anti-abortion activists are debating what comes next. Evangelical leaders are wavering on whether or not to support Donald Trump in 2024. John Eastman is facing legal repercussions for his role in the effort to reverse Trump&#39;s election loss. Alec Baldwin will be charged with involuntary manslaughter for a gun that went off and killed a cinematographer on set, and the prosecutors are saying he had an &#39;absolute duty&#39; to check it. The US has hit its debt limit, so now Congress needs to lift or suspend it or else the US might run out of cash. With all this going on, Harvard also reversed its decision to grant a fellowship to an international human rights advocate who had criticized Israel, raising questions about donor influence and academic freedom. Finally, the pandemic has created some difficult divisions and tarnished the reputation of liberal leader Jacinda Ardern.
+In arts news, Alec Baldwin is facing criminal charges for involuntary manslaughter in a film shooting incident, spurring debate around responsibility for guns on set. Legendary musician David Crosby passed away at 81, with his troubled personal life almost as well known as his music. Harvard University then reversed its stance on a Human Rights Advocate who criticized Israel and their decision began to spark headlines questioning academic freedom and donor influence.
 
-Hope all is good with you!</p>
+Finally, in international news, there&#39;s an ongoing discussion about why tanks are currently tripping up western nations in Ukraine, while the CIA director paid a visit to Kyiv to meet with President Zelensky. South Africa is also planning naval drills with Russia and China while Ukraine is are still involved in warfare.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Says It Hasn’t Identified Person Who Leaked Draft Abortion Opinion</h3>
@@ -97,34 +97,22 @@ Hope all is good with you!</p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Prosecutors Say Alec Baldwin Had ‘Absolute Duty’ to Check the Gun</h3>
+<h3>Alec Baldwin Charges Spur Debate on Responsibility for Guns on Set</h3>
 <sub>By Julia Jacobs and Graham Bowley</sub>
-<p>The officials who decided to bring involuntary manslaughter charges against the actor say he should have ensured the gun was safe to handle. Mr. Baldwin says that others were responsible.  <a href="https://nyti.ms/3CZZ6Nq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The prosecutors who decided to bring criminal charges in the fatal shooting of a cinematographer said Mr. Baldwin should have ensured his gun was safe. Some armorers questioned that.  <a href="https://nyti.ms/3CZZ6Nq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>A Call of ‘Cold Gun!’ A Live Round. And Death on a Film Set.</h3>
-<sub>By Simon Romero, Graham Bowley and Julia Jacobs</sub>
-<p>A reconstruction of the events leading up to the fatal shooting of the cinematographer of “Rust,” the Alec Baldwin western, reveals a troubled production and a series of errors.  <a href="https://nyti.ms/3BzV1fq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>America Hit Its Debt Limit, Setting Up Bitter Fiscal Fight</h3>
-<sub>By Jim Tankersley and Alan Rappeport</sub>
-<p>The Treasury Department said it would begin a series of accounting moves to keep the U.S. from breaching its borrowing cap and asked Congress to raise or suspend the limit.  <a href="https://nyti.ms/3XFoOOX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>David Crosby, Mainstay of Two Classic Rock Bands, Dies at 81</h3>
+<sub>By Jim Farber</sub>
+<p>He was an original member of the Byrds and a founder of Crosby, Stills &amp; Nash. But he was almost as well known for his troubled personal life as for his music.  <a href="https://nyti.ms/3D2gnpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The U.S. Hit the Debt Ceiling. How Bad Will It Be?</h3>
-<sub>By Alan Rappeport</sub>
-<p>The United States has a cap on the amount of money it can borrow. That means it can run out of cash if the limit isn’t lifted.  <a href="https://nyti.ms/3IQea3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How to Invest as a Debt Ceiling Crisis Looms</h3>
-<sub>By Jeff Sommer</sub>
-<p>The risk of a federal debt ceiling breach later this year has increased. Steel yourself for trouble, our columnist writes. But remember: This, too, shall pass.  <a href="https://nyti.ms/3wf6Sit"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>David Crosby on Politics, Culture, Aging and a New Album</h3>
+<sub>By Nate Chinen</sub>
+<p>“I can’t explain how I even have a voice, after all the bad things I did to it,” says Mr. Crosby, whose “Lighthouse” will be released in October.  <a href="https://nyti.ms/2bgb5rd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Harvard Reverses Course on Human Rights Advocate Who Criticized Israel</h3>
@@ -133,9 +121,21 @@ Hope all is good with you!</p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Covid’s Bitter Divisions Tarnished a Liberal Icon</h3>
-<sub>By Damien Cave</sub>
-<p>In a part of the world where coronavirus restrictions lingered, Jacinda Ardern struggled to get beyond her association with pandemic policy.  <a href="https://nyti.ms/3CYCLQ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Why Tanks Are Tripping Up the West</h3>
+<sub>By Lara Jakes and Erika Solomon</sub>
+<p>Western nations are amping up offensive military power for Ukraine in almost every category except the one Kyiv says it needs the most. Here’s why.  <a href="https://nyti.ms/3iMpmUG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>C.I.A. Director Visited Kyiv for Meeting With Zelensky</h3>
+<sub>By Julian E. Barnes</sub>
+<p>The director, William J. Burns, has made periodic visits to Ukraine to meet with intelligence officials and to exchange information to the country’s president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>South Africa to Hold Naval Drill With Russia and China Amid Ukraine War</h3>
+<sub>By Lynsey Chutel and John Eligon</sub>
+<p>The 10-day naval exercises are a show of diplomatic independence for South Africa, which is part of an alliance with Brazil, Russia, India and China — known as BRICS.  <a href="https://nyti.ms/3kvESEU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
