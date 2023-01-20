@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 19, Central Standard Time</p>
 <p>
-There have been some newsworthy events unfolding in the US and around the world over the past few weeks. In the US, the Supreme Court has not identified who leaked a draft abortion opinion confirming Roe vs. Wade, and anti-abortion activists are debating what comes next now that Roe vs. Wade is no longer in effect. Trump&#39;s evangelical supporters are wavering too ahead of the 2024 elections, and one of his chief lawyers, John Eastman, is facing various investigations for his role in reversing Trump&#39;s election loss. 
-
-In arts news, Alec Baldwin is facing criminal charges for involuntary manslaughter in a film shooting incident, spurring debate around responsibility for guns on set. Legendary musician David Crosby passed away at 81, with his troubled personal life almost as well known as his music. Harvard University then reversed its stance on a Human Rights Advocate who criticized Israel and their decision began to spark headlines questioning academic freedom and donor influence.
-
-Finally, in international news, there&#39;s an ongoing discussion about why tanks are currently tripping up western nations in Ukraine, while the CIA director paid a visit to Kyiv to meet with President Zelensky. South Africa is also planning naval drills with Russia and China while Ukraine is are still involved in warfare.</p>
+There is a lot going on in the world right now. In the US, the Supreme Court has been looking into who leaked a draft opinion overturning Roe v. Wade and how to handle it, and people are debating if Donald Trump can count on evangelical voters for a 2024 election. Overseas, Ukraine&#39;s allies are gathering in Germany to devise a plan for a major military aid infusion and provide support against Russian aggression. Meanwhile, CIA director William Burns just visited Kyiv to meet with their President Zelensky. On the cultural side, we recently said goodbye to legendary folk-rocker David Crosby, who died at 81. However, his music still lives on, recently releasing an album titled &#39;Lighthouse.&#39; There were also controversial criminal charges against actor Alec Baldwin for involuntary manslaughter of a cinematographer on his film set due to gun-related incidents. Additionally, we saw Harvard reverse its course on blocking a fellowship for a human rights advocate over criticism of Israel, while Florida rejected an AP African American Studies class saying that it lacked educational value. Lastly, within the business world we have Netflix’s Reed Hastings switching roles and becoming executive chairman while two other executives join him as co-chiefs. Lastly, in India there is still movie love story playing in theaters after 27 years!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Says It Hasn’t Identified Person Who Leaked Draft Abortion Opinion</h3>
@@ -73,22 +69,34 @@ Finally, in international news, there&#39;s an ongoing discussion about why tank
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Will We Keep Marching?’ On Roe’s 50th Anniversary, Abortion Opponents Reach a Crossroads</h3>
-<sub>By Ruth Graham</sub>
-<p>The March for Life, held each year for a half-century, should be a celebration now that Roe v. Wade has fallen. Instead, anti-abortion activists are split over what comes next.  <a href="https://nyti.ms/3GUAO8r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Can Trump Count on Evangelicals in 2024? Some Leaders Are Wavering.</h3>
 <sub>By Maggie Haberman and Michael C. Bender</sub>
 <p>The former president, who relied on evangelical voters in 2016, has accused Christian leaders of “disloyalty” and blamed them for Republicans’ disappointing midterm performance.  <a href="https://nyti.ms/3XoBZnS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>John Eastman Is Unbowed as Investigations Proliferate</h3>
-<sub>By Danny Hakim and Michael S. Schmidt</sub>
-<p>A legal reckoning awaits a chief architect of Donald Trump’s effort to reverse his election loss. But in Mr. Eastman’s telling, he was far from a criminal.  <a href="https://nyti.ms/3D1qmuN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine’s Allies Pledge to Send Major Infusion of Military Aid</h3>
+<sub>By Steven Erlanger, Eric Schmitt, Lara Jakes and Erika Solomon</sub>
+<p>As representatives from dozens of countries prepared to attend a war-planning meeting in Germany, the talk was of missiles, air defense and — above all — tanks.  <a href="https://nyti.ms/3iUeOCT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>C.I.A. Director Visited Kyiv for Meeting With Zelensky</h3>
+<sub>By Julian E. Barnes</sub>
+<p>The director, William J. Burns, has made periodic visits to Ukraine to meet with intelligence officials and to exchange information with the country’s president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>David Crosby, Folk-Rock Voice of the 1960s Whose Influence Spanned Decades, Dies at 81</h3>
+<sub>By Jim Farber</sub>
+<p>He was an original member of the Byrds and a founder of Crosby, Stills &amp; Nash. But he was almost as well known for his troubled personal life as for his music.  <a href="https://nyti.ms/3D2gnpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>David Crosby on Politics, Culture, Aging and a New Album</h3>
+<sub>By Nate Chinen</sub>
+<p>“I can’t explain how I even have a voice, after all the bad things I did to it,” says Mr. Crosby, whose “Lighthouse” will be released in October.  <a href="https://nyti.ms/2bgb5rd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, August 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Alec Baldwin Will Be Charged With Involuntary Manslaughter in ‘Rust’ Killing</h3>
@@ -103,39 +111,27 @@ Finally, in international news, there&#39;s an ongoing discussion about why tank
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>David Crosby, Mainstay of Two Classic Rock Bands, Dies at 81</h3>
-<sub>By Jim Farber</sub>
-<p>He was an original member of the Byrds and a founder of Crosby, Stills &amp; Nash. But he was almost as well known for his troubled personal life as for his music.  <a href="https://nyti.ms/3D2gnpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>David Crosby on Politics, Culture, Aging and a New Album</h3>
-<sub>By Nate Chinen</sub>
-<p>“I can’t explain how I even have a voice, after all the bad things I did to it,” says Mr. Crosby, whose “Lighthouse” will be released in October.  <a href="https://nyti.ms/2bgb5rd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Harvard Reverses Course on Human Rights Advocate Who Criticized Israel</h3>
 <sub>By Jennifer Schuessler and Marc Tracy</sub>
 <p>News that the university had blocked a fellowship for the former head of Human Rights Watch stirred debate over academic freedom and donor influence.  <a href="https://nyti.ms/3ZOZLLq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why Tanks Are Tripping Up the West</h3>
-<sub>By Lara Jakes and Erika Solomon</sub>
-<p>Western nations are amping up offensive military power for Ukraine in almost every category except the one Kyiv says it needs the most. Here’s why.  <a href="https://nyti.ms/3iMpmUG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Florida Rejects A.P. African American Studies Class</h3>
+<sub>By Patricia Mazzei and Anemona Hartocollis</sub>
+<p>The state’s Department of Education said in a letter that the course content was “inexplicably contrary to Florida law and significantly lacks educational value.”  <a href="https://nyti.ms/3CVKChh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Netflix’s Reed Hastings Will Cede Co-Chief Executive Role</h3>
+<sub>By Benjamin Mullin and Nicole Sperling</sub>
+<p>Mr. Hastings will become the streaming giant’s executive chairman. Greg Peters will join Ted Sarandos as a co-chief executive.  <a href="https://nyti.ms/3GM2jB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>C.I.A. Director Visited Kyiv for Meeting With Zelensky</h3>
-<sub>By Julian E. Barnes</sub>
-<p>The director, William J. Burns, has made periodic visits to Ukraine to meet with intelligence officials and to exchange information to the country’s president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>South Africa to Hold Naval Drill With Russia and China Amid Ukraine War</h3>
-<sub>By Lynsey Chutel and John Eligon</sub>
-<p>The 10-day naval exercises are a show of diplomatic independence for South Africa, which is part of an alliance with Brazil, Russia, India and China — known as BRICS.  <a href="https://nyti.ms/3kvESEU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>India’s Love Story With a Movie Still on the Big Screen After 27 Years</h3>
+<sub>By Mujib Mashal, Suhasini Raj and Atul Loke</sub>
+<p>‘D.D.L.J.,’ which a Mumbai theater has shown nearly every day since 1995, encapsulates a society in churn, with the choices afforded by economic opportunity clashing with tradition.  <a href="https://nyti.ms/3wfoUkI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
