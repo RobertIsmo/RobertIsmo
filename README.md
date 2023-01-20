@@ -60,31 +60,49 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 20, Central Standard Time</p>
 <p>
-In the US, the Supreme Court is trying to identify the person who leaked a draft opinion on abortion rights and some evangelical leaders are reconsidering their support of former President Trump in 2024. Internationally, Ukraine is getting a major infusion of military aid while the CIA director visited Kyiv for a meeting with the Ukraine president. In the arts, folk-rock musician David Crosby has recently passed away and Alec Baldwin is being charged with involuntary manslaughter for a gun accident on set. Additionally, Harvard had reversed course on one of their fellowships that was blocked due to criticism of Israel and Florida rejected an African American Studies class taught by the AP poll. On the business side, Netflix&#39;s CEO will be ceding his role as Co-CEO and in style it&#39;s being suggested that men incorporate more pink into their wardrobe.</p>
+There are a lot of changes happening in the US right now. Republicans are pushing for tougher abortion restrictions and new voting laws, while Democrats are trying to expand access to ballots. On top of that, tech giants like Google are laying off thousands of employees, and air travel has been increasingly malfunctioning due to FAA system outages. Additionally, culture-specific issues such as overcrowding in cram schools in India and changes to housing developments in cities across America are raising concerns over their lost charm.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Says It Hasn’t Identified Person Who Leaked Draft Abortion Opinion</h3>
-<sub>By Charlie Savage and Adam Liptak</sub>
-<p>The leak of the draft opinion overturning Roe v. Wade, published by Politico in May, was an extraordinary breach of the court’s usual secrecy.  <a href="https://nyti.ms/3GTPKDX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<h3>After Roe, Republicans Wrestle With What It Means to Be ‘Pro-Life’</h3>
+<sub>By Lisa Lerer and Katie Glueck</sub>
+<p>Activists are pushing for tougher abortion restrictions, while politicians fear turning off swing voters who don’t support strict limits like a national ban.  <a href="https://nyti.ms/3Jk1ORZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can Trump Count on Evangelicals in 2024? Some Leaders Are Wavering.</h3>
-<sub>By Maggie Haberman and Michael C. Bender</sub>
-<p>The former president, who relied on evangelical voters in 2016, has accused Christian leaders of “disloyalty” and blamed them for Republicans’ disappointing midterm performance.  <a href="https://nyti.ms/3XoBZnS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<h3>States Push for New Voting Laws With an Eye Toward 2024</h3>
+<sub>By Neil Vigdor</sub>
+<p>Republicans are focused on voter ID rules and making it harder to cast mail ballots, while Democrats are seeking to expand access through automatic voter registration.  <a href="https://nyti.ms/3wf97Cw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Google Parent Alphabet to Cut 12,000 Jobs</h3>
+<sub>By Adam Satariano</sub>
+<p>The layoffs amount to about 6 percent of the global work force at the company, the latest tech giant to make cuts after a pandemic hiring spree.  <a href="https://nyti.ms/3iTCoiY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google Calls In Help From Larry Page and Sergey Brin for A.I. Fight</h3>
+<sub>By Nico Grant</sub>
+<p>A rival chatbot has shaken Google out of its routine, with the founders who left three years ago re-engaging and more than 20 A.I. projects in the works.  <a href="https://nyti.ms/3wh2NKJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>68 Days of Silence: Why the White House Stayed Mum on Classified Documents</h3>
+<sub>By Michael D. Shear, Peter Baker and Katie Rogers</sub>
+<p>Advisers to President Biden calculated that the Justice Department would view possession of the documents as little more than a good-faith mistake.  <a href="https://nyti.ms/3wiabWk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine’s Allies Pledge to Send Major Infusion of Military Aid</h3>
-<sub>By Steven Erlanger, Eric Schmitt, Lara Jakes and Erika Solomon</sub>
-<p>As representatives from dozens of countries prepared to attend a war-planning meeting in Germany, the talk was of missiles, air defense and — above all — tanks.  <a href="https://nyti.ms/3iUeOCT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What is the Leopard 2 tank, and how could it help Ukraine?</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>One of the world’s leading battle tanks, the German-made Leopard 2 has sophisticated targeting capabilities, even in rough terrain.  <a href="https://nyti.ms/3Wi9S8s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>C.I.A. Director Visited Kyiv for Meeting With Zelensky</h3>
-<sub>By Julian E. Barnes</sub>
-<p>The director, William J. Burns, has made periodic visits to Ukraine to meet with intelligence officials and to exchange information with the country’s president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Selling False Hope in India’s Cram City</h3>
+<sub>By Zishaan a Latif and Mansi Choksi</sub>
+<p>In Kota, students from across the country pay steep fees to be tutored for elite-college admissions exams — which most of them will fail.  <a href="https://nyti.ms/3J0jmlW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>David Crosby, Folk-Rock Voice of the 1960s Whose Influence Spanned Decades, Dies at 81</h3>
@@ -92,47 +110,29 @@ In the US, the Supreme Court is trying to identify the person who leaked a draft
 <p>He was an original member of the Byrds and a founder of Crosby, Stills &amp; Nash. But he was almost as well known for his troubled personal life as for his music.  <a href="https://nyti.ms/3D2gnpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>David Crosby on Politics, Culture, Aging and a New Album</h3>
-<sub>By Nate Chinen</sub>
-<p>“I can’t explain how I even have a voice, after all the bad things I did to it,” says Mr. Crosby, whose “Lighthouse” will be released in October.  <a href="https://nyti.ms/2bgb5rd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, August 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Alec Baldwin Will Be Charged With Involuntary Manslaughter in ‘Rust’ Killing</h3>
-<sub>By Julia Jacobs and Graham Bowley</sub>
-<p>A gun that Mr. Baldwin was rehearsing with went off, killing the film’s cinematographer. The armorer responsible for weapons on set also faces manslaughter charges.  <a href="https://nyti.ms/3iQdz7M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Alec Baldwin Charges Spur Debate on Responsibility for Guns on Set</h3>
-<sub>By Julia Jacobs and Graham Bowley</sub>
-<p>The prosecutors who decided to bring criminal charges in the fatal shooting of a cinematographer said Mr. Baldwin should have ensured his gun was safe. Some armorers questioned that.  <a href="https://nyti.ms/3CZZ6Nq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Harvard Reverses Course on Human Rights Advocate Who Criticized Israel</h3>
-<sub>By Jennifer Schuessler and Marc Tracy</sub>
-<p>News that the university had blocked a fellowship for the former head of Human Rights Watch stirred debate over academic freedom and donor influence.  <a href="https://nyti.ms/3ZOZLLq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Rejects A.P. African American Studies Class</h3>
-<sub>By Patricia Mazzei and Anemona Hartocollis</sub>
-<p>The state’s Department of Education said in a letter that the course content was “inexplicably contrary to Florida law and significantly lacks educational value.”  <a href="https://nyti.ms/3CVKChh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Air Travel Debacles Put a Star of Biden’s Cabinet in the Hot Seat</h3>
+<sub>By Mark Walker</sub>
+<p>Pete Buttigieg, the transportation secretary, is facing scrutiny after a meltdown by Southwest Airlines and a Federal Aviation Administration system outage wreaked havoc on flights.  <a href="https://nyti.ms/3WrW4Iq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>F.A.A. Says Outage Was Mistakenly Caused by Contractors</h3>
+<sub>By Eduardo Medina</sub>
+<p>The workers “unintentionally deleted files” on the alert system for pilots, causing thousands of flights to be delayed on Jan. 11, just weeks after another nationwide air travel failure.  <a href="https://nyti.ms/3J1oFBr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Netflix’s Reed Hastings Will Cede Co-Chief Executive Role</h3>
-<sub>By Benjamin Mullin and Nicole Sperling</sub>
-<p>Mr. Hastings will become the streaming giant’s executive chairman. Greg Peters will join Ted Sarandos as a co-chief executive.  <a href="https://nyti.ms/3GM2jB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Alec Baldwin Charges Complicate Efforts to Finish Troubled ‘Rust’ Movie</h3>
+<sub>By Julia Jacobs and Graham Bowley</sub>
+<p>A settlement with the family of the cinematographer who was slain on the set called for resuming production, with her widower serving as an executive producer.  <a href="https://nyti.ms/3XMk5eG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Men Should Wear More Pink</h3>
-<sub>By Simbarashe Cha</sub>
-<p>And if you ask this Styles photographer, more flowers, too!  <a href="https://nyti.ms/3ZPQLFC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>America, the Bland</h3>
+<sub>By Anna Kodé</sub>
+<p>Across the country, new developments are starting to look the same, raising fears that cities are losing their unique charm. But in the current housing crisis, does that matter?  <a href="https://nyti.ms/3XFD4r6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
