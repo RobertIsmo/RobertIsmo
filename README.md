@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 21, Central Standard Time</p>
 <p>
-Right now, there are a lot of heated political debates going on in the US around abortion and Roe v. Wade, which has resulted in many states implementing new abortion bans with very few exceptions granted. In Ukraine, tensions are escalating as NATO is pushing for certain strategies while they also try to protect Ukraine from a major expected offensive from their enemies this spring. Elsewhere in Europe, there is a hit French novel out that has sparked some controversy for its sympathetic portrayal of Russian leader Vladimir Putin. Germany is facing criticism for hesitating to send tanks to Ukraine despite the risky situation that country is in. 
-
-On the business front, there&#39;s a young founder who has been fooling JPMorgan with his college financial aid process pitch. Meanwhile, many East Asian immigrants are relying on their children to foot the bill for their retirement instead of saving up themselves due to cultural expectations. In New Mexico, a Republican-backed candidate that had a lot of red flags was just arrested and charged with organizing attacks against four Democratic officials. 
-
-In Omaha, Warren Buffett is trying to put an end to streetcar projects. And then there was the tragic story of Rebecca Lorch, who died recently after finding purpose in competitive weight lifting and became known as America&#39;s strongest woman. Finally, the charges Alec Baldwin faces after a fatal on-set shooting have raised concerns over gun safety in films and spurred some actors to take action by reassuring people that they aren&#39;t &quot;actual cowboys.&quot; Tennis has been making some changes too — it recently got its own Netflix series and lots of new young stars which has investors excited about the sport&#39;s prospects.</p>
+Right now, there is a lot of tension and uncertainty in the United States around abortion rights following decisions from the Supreme Court. People are protesting in Washington DC as part of the March for Life rally to stand up for their beliefs. Across the world in Europe, particularly Ukraine, there is a conflict between NATO and Russia over the future of the region. A lot of people are frustrated with Germany&#39;s response in particular as they look to protect their own interests. Another issue on many people&#39;s minds is aging populations and how countries and businesses need to adjust to provide greater access to older workers. In Omaha, Nebraska billionaire Warren Buffett is pushing back against a proposed streetcar that many hope will boost the city. And finally, Netflix is releasing a series about Tennis which has caused investors to pour money into the sport, setting up what could be a transformative moment for its future.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Most Abortion Bans Include Exceptions. In Practice, Few Are Granted.</h3>
@@ -91,9 +87,9 @@ In Omaha, Warren Buffett is trying to put an end to streetcar projects. And then
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Despite German Reluctance, Ukraine Expresses Optimism About Receiving Tanks</h3>
+<h3>Amid Mounting Frustration With Germany, Ukraine Holds Out Hope It Will Get Tanks</h3>
 <sub>By Cassandra Vinograd</sub>
-<p>Even as frustration mounts over what some see as Germany’s indecision on sending Leopard 2s to Ukraine, a Kyiv official says his country’s soldiers will begin training on them.  <a href="https://nyti.ms/3R3mJdF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>While Germany has not yet made a decision on whether to send Leopard 2s to Ukraine, a Kyiv official said his country’s soldiers would begin training on them.  <a href="https://nyti.ms/3R3mJdF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -106,6 +102,12 @@ In Omaha, Warren Buffett is trying to put an end to streetcar projects. And then
 <h3>Their Children Are Their Retirement Plans</h3>
 <sub>By Mike Dang</sub>
 <p>The offspring of many East Asian immigrants are raised to support their elders in their later years. That gives a segment of Americans challenges others don’t face.  <a href="https://nyti.ms/3ZQAUa0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Who wants to live forever?</h3>
+<sub>By Bernhard Warner</sub>
+<p>Countries and companies are facing an aging crisis, and experts say policymakers and business leaders need to rethink how they deal with older workers.  <a href="https://nyti.ms/3iViRik"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,16 +128,10 @@ In Omaha, Warren Buffett is trying to put an end to streetcar projects. And then
 <p>America is in the middle of a streetcar boom. The billionaire would prefer that his hometown not get onboard.  <a href="https://nyti.ms/3woBU7y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Lights, Camera, Weapons Check? Actors Worry After Baldwin Charges.</h3>
-<sub>By Graham Bowley, Julia Jacobs and Marc Tracy</sub>
-<p>The manslaughter charges Alec Baldwin faces after a fatal on-set shooting revived questions about who’s responsible for gun safety on film productions. “We are not actual cowboys,” an actor noted.  <a href="https://nyti.ms/3J7HoeD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Inside the Battle to Control, and Fix, Tennis</h3>
 <sub>By Matthew Futterman and Lauren Hirsch</sub>
-<p>Tennis’ hit Netflix series and rising collection of young stars has investors bullish on the sport, which is poised for a once-in-a-generation moment of disruption.  <a href="https://nyti.ms/3XIUXoW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The sport’s hit Netflix series and rising collection of young stars has investors bullish on tennis, which is poised for a once-in-a-generation moment of disruption.  <a href="https://nyti.ms/3XIUXoW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
