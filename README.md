@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 20, Central Standard Time</p>
 <p>
-There have been a lot of changes in the world lately—especially in the tech industry. Tech companies have been cutting jobs at an alarming rate, with even Google&#39;s parent company Alphabet trimming their workforce by 6 percent. On the other side of things, Google&#39;s two founders have been coming out of retirement to lead an Artificial Intelligence project with over 20 projects in the works. 
-
-In politics, the US just announced that it&#39;s labeling a mercenary group called Wagner as a transnational criminal organization which will make it much more difficult for them to do business. On top of that, there is a growing movement against abortion rights and people are pushing for stricter regulations in this area. 
-
-Worldwide, New Zealand&#39;s Prime Minister Jacinda Ardern just stepped down because she said she no longer had &#39;enough in the tank&#39; to do the job properly. This news came just after Ardern maneuvered through one crisis after another but had less success confronting persistent challenges that were hobbled by previous governments. It&#39;s definitely not an easy time for many countries so we should try to lend our support as best we can.</p>
+Many world news stories are happening right now. In Europe, alliances are struggling to agree on sending tanks to Ukraine, but NATO is standing firm against Russia&#39;s actions in the region. In the tech industry, there were layoffs after a pandemic hiring spree, which has been an awakening for young workers. In the U.S., Republicans are facing criticism after backing a man now charged with shootings, and the March for Life had their annual rite of protesting Roe v. Wade this year with new ideas. There have also been questions arising over gun safety in film productions after actor Alec Baldwin faces manslaughter charges. Robots are getting smarter, as they pass the Turing test used to measure AI capacities. A ringleader of a sex cult at Sarah Lawrence College was sentenced to 60 years in prison. New Zealand Prime Minister Jacinda Ardern is stepping down, and Health Minister Chris Hipkins is poised to take her place as leader of the country&#39;s Labour Party.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Allies Fail to Agree on Sending Tanks to Ukraine</h3>
+<sub>By Erika Solomon</sub>
+<p>Officials tried to play down the rift. But Germany is still insisting it will not be the country to take the first step alone, for fear of incurring Moscow’s wrath.  <a href="https://nyti.ms/3Xv9jd0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The NATO Alliance Is Holding Strong on Ukraine. But Fractures Are Emerging.</h3>
+<sub>By David E. Sanger and Eric Schmitt</sub>
+<p>The allies differ on strategy for the coming year and the more immediate question of what Ukraine needs ahead of a major offensive in the spring.  <a href="https://nyti.ms/3Wql2Z0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Tech Layoffs Shock Young Workers. The Older People? Not So Much.</h3>
 <sub>By Tripp Mickle</sub>
@@ -74,44 +82,44 @@ Worldwide, New Zealand&#39;s Prime Minister Jacinda Ardern just stepped down bec
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Google Parent Alphabet to Cut 12,000 Jobs</h3>
-<sub>By Adam Satariano</sub>
+<sub>By Adam Satariano and Nico Grant</sub>
 <p>The layoffs amount to about 6 percent of the global work force at the company, the latest tech giant to make cuts after a pandemic hiring spree.  <a href="https://nyti.ms/3iTCoiY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google Calls In Help From Larry Page and Sergey Brin for A.I. Fight</h3>
-<sub>By Nico Grant</sub>
-<p>A rival chatbot has shaken Google out of its routine, with the founders who left three years ago re-engaging and more than 20 A.I. projects in the works.  <a href="https://nyti.ms/3wh2NKJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The U.S. will name the Wagner mercenary group a transnational criminal organization.</h3>
-<sub>By Katie Rogers</sub>
-<p>The move, which goes into effect next week, expands the number of nations and institutions that can be prevented from doing business with Wagner.  <a href="https://nyti.ms/3GQtNWm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Mother’s Desperate Fight to Save a Child From Haiti’s Gang Wars</h3>
-<sub>By Natalie Kitroeff, Andre Paultre and Adriana Zehbrauskas</sub>
-<p>Trapped by unending violence in the country’s largest slum, a mother makes a desperate attempt to save her teenage daughter.  <a href="https://nyti.ms/3ZTV82v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Despite Red Flags, G.O.P. Backed Candidate Now Charged in Shootings</h3>
+<sub>By Simon Romero and Maggie Astor</sub>
+<p>“We could have picked apart this guy,” one Republican leader in New Mexico said of Solomon Peña, who is accused of organizing attacks on the homes of four Democratic officials.  <a href="https://nyti.ms/3wlPBV8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>March for Life Kicks Off in Washington, Setting the Stage for New Ideas</h3>
-<sub>By Ava Sasani and Ruth Graham</sub>
-<p>The annual anti-abortion gathering to protest Roe v. Wade is the first since the U.S. Supreme Court overturned the right to abortion.  <a href="https://nyti.ms/3QSydAw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Ruth Graham and Ava Sasani</sub>
+<p>The annual anti-abortion gathering to protest Roe v. Wade is the first since the Supreme Court overturned the right to abortion.  <a href="https://nyti.ms/3QSydAw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Dobbs, Republicans Wrestle With What It Means to Be Anti-Abortion</h3>
-<sub>By Lisa Lerer and Katie Glueck</sub>
-<p>Activists are pushing for tougher abortion restrictions, while politicians fear turning off swing voters who don’t support strict limits like a national ban.  <a href="https://nyti.ms/3Jk1ORZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Supreme Court’s Inquiry Into Leak Included Interviews With Justices</h3>
+<sub>By Charlie Savage</sub>
+<p>But the justices were not asked to sign sworn affidavits, unlike law clerks and other employees, the court’s marshal said.  <a href="https://nyti.ms/3iPktu2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Lights, Camera, Weapons Check? Actors Worry After Baldwin Charges.</h3>
+<sub>By Graham Bowley, Julia Jacobs and Marc Tracy</sub>
+<p>The manslaughter charges Alec Baldwin faces after a fatal on-set shooting revived questions about who’s responsible for gun safety on film productions. “We are not actual cowboys,” an actor noted.  <a href="https://nyti.ms/3J7HoeD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>How Smart Are the Robots Getting?</h3>
 <sub>By Cade Metz</sub>
 <p>The Turing test used to be the gold standard for proving machine intelligence. This generation of bots is racing past it.  <a href="https://nyti.ms/3XAKOL0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Ringleader of Sex Cult at Sarah Lawrence College Gets 60-Year Sentence</h3>
+<sub>By Colin Moynihan</sub>
+<p>Lawrence Ray was convicted of extortion, sex trafficking, racketeering conspiracy and other charges.  <a href="https://nyti.ms/3wg7419"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -121,21 +129,9 @@ Worldwide, New Zealand&#39;s Prime Minister Jacinda Ardern just stepped down bec
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Jacinda Ardern Will Be Gone Soon but New Zealand’s Economic Troubles Are Here to Stay</h3>
+<h3>Chris Hipkins Poised to Replace Jacinda Ardern as New Zealand’s Leader</h3>
 <sub>By Natasha Frost</sub>
-<p>Ms. Ardern maneuvered through one crisis after another but had less success confronting persistent challenges that have hobbled successive governments.  <a href="https://nyti.ms/3QSjkOF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Should You Quit Your Job?</h3>
-<sub>By Christina Caron</sub>
-<p>Jacinda Ardern stepped away from her role because she no longer has “enough in the tank” to do it. If you relate, here’s what to consider.  <a href="https://nyti.ms/3XngxPT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Ringleader of Sex Cult at Sarah Lawrence College Gets 60-Year Sentence</h3>
-<sub>By Colin Moynihan</sub>
-<p>Lawrence Ray was convicted of extortion, sex trafficking, racketeering conspiracy and other charges.  <a href="https://nyti.ms/3wg7419"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mr. Hipkins, a household name in New Zealand for his role overseeing the country’s response to the pandemic, was nominated to succeed Jacinda Ardern as leader of the governing Labour Party.  <a href="https://nyti.ms/3QRsV8F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
