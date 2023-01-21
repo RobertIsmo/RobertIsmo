@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 20, Central Standard Time</p>
 <p>
-Many world news stories are happening right now. In Europe, alliances are struggling to agree on sending tanks to Ukraine, but NATO is standing firm against Russia&#39;s actions in the region. In the tech industry, there were layoffs after a pandemic hiring spree, which has been an awakening for young workers. In the U.S., Republicans are facing criticism after backing a man now charged with shootings, and the March for Life had their annual rite of protesting Roe v. Wade this year with new ideas. There have also been questions arising over gun safety in film productions after actor Alec Baldwin faces manslaughter charges. Robots are getting smarter, as they pass the Turing test used to measure AI capacities. A ringleader of a sex cult at Sarah Lawrence College was sentenced to 60 years in prison. New Zealand Prime Minister Jacinda Ardern is stepping down, and Health Minister Chris Hipkins is poised to take her place as leader of the country&#39;s Labour Party.</p>
+Right now, there&#39;s some tension among allies over sending military equipment to Ukraine, and the NATO alliance is feeling some fractures. There have been a lot of layoffs in the tech world recently, which has been hard for younger workers who have never experienced it before. Also in the US, there was a man charged with shooting four Democratic officials who had warning signs that the Republican party didn&#39;t pick up on. The annual anti-abortion march in Washington happened recently, which also has caused some waves in terms of getting people engaged to fight against a Supreme Court ruling on abortion. Some actors worry about gun safety after Alec Baldwin was charged with manslaughter for an on-set shooting. Robots are getting smarter and smarter and even passing the Turing test. There was a ringleader of a sex cult convicted at Sarah Lawrence College who received a 60-year sentence for his crimes. In New Zealand, Prime Minister Jacinda Ardern has declared she is stepping down and Chris Hipkins is taking her place as leader of the Labour Party. Leaders do resign in parliamentary systems like New Zealand&#39;s more often than other political systems because it can help serve their party better electorally.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Allies Fail to Agree on Sending Tanks to Ukraine</h3>
@@ -78,12 +78,6 @@ Many world news stories are happening right now. In Europe, alliances are strugg
 <h3>Tech Layoffs Shock Young Workers. The Older People? Not So Much.</h3>
 <sub>By Tripp Mickle</sub>
 <p>The industry’s recent job cuts have been an awakening for a generation of workers who have never experienced a cyclical crash.  <a href="https://nyti.ms/3iVYZeX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Google Parent Alphabet to Cut 12,000 Jobs</h3>
-<sub>By Adam Satariano and Nico Grant</sub>
-<p>The layoffs amount to about 6 percent of the global work force at the company, the latest tech giant to make cuts after a pandemic hiring spree.  <a href="https://nyti.ms/3iTCoiY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ Many world news stories are happening right now. In Europe, alliances are strugg
 <h3>Chris Hipkins Poised to Replace Jacinda Ardern as New Zealand’s Leader</h3>
 <sub>By Natasha Frost</sub>
 <p>Mr. Hipkins, a household name in New Zealand for his role overseeing the country’s response to the pandemic, was nominated to succeed Jacinda Ardern as leader of the governing Labour Party.  <a href="https://nyti.ms/3QRsV8F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Which Leaders Resign, Like Jacinda Ardern? Often, the System Decides.</h3>
+<sub>By Max Fisher</sub>
+<p>In parliamentary systems like New Zealand’s, it is the norm for leaders to step down when doing so may serve their party’s electoral prospects. In other political systems, leaving office early is rare.  <a href="https://nyti.ms/3Xybywc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
