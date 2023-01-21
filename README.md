@@ -60,39 +60,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 21, Central Standard Time</p>
 <p>
-There has been a lot of tension in the world lately. Allies are at odds over how to address the situation in Ukraine, and the NATO alliance is having to manage fractures on strategy. On a more personal level, people have been shocked by recent tech layoffs and their lack of preparation for this kind of event. In the US, there was a Republican-backed candidate charged with shootings even after red flags had been raised, reigniting debates over gun safety. On the other hand, there has been a march for life in Washington to rally against Roe v. Wade overturning right to abortion. Also, the Supreme Court recently investigated a leak concerning their employees. 
+Right now, there are a lot of heated political debates going on in the US around abortion and Roe v. Wade, which has resulted in many states implementing new abortion bans with very few exceptions granted. In Ukraine, tensions are escalating as NATO is pushing for certain strategies while they also try to protect Ukraine from a major expected offensive from their enemies this spring. Elsewhere in Europe, there is a hit French novel out that has sparked some controversy for its sympathetic portrayal of Russian leader Vladimir Putin. Germany is facing criticism for hesitating to send tanks to Ukraine despite the risky situation that country is in. 
 
-Another topic in the news is Lawrence Ray, the ringleader of a sex cult at Sarah Lawrence College who was just sentenced to sixty years in jail. To honor David Crosby who passed away this week, many outlets put together lists of his fifteen essential songs and highlighted his Twitter presence. Meanwhile, technology is leaping forward with bots pushing past Turing test as artificial intelligence becomes smarter and more advanced.</p>
+On the business front, there&#39;s a young founder who has been fooling JPMorgan with his college financial aid process pitch. Meanwhile, many East Asian immigrants are relying on their children to foot the bill for their retirement instead of saving up themselves due to cultural expectations. In New Mexico, a Republican-backed candidate that had a lot of red flags was just arrested and charged with organizing attacks against four Democratic officials. 
+
+In Omaha, Warren Buffett is trying to put an end to streetcar projects. And then there was the tragic story of Rebecca Lorch, who died recently after finding purpose in competitive weight lifting and became known as America&#39;s strongest woman. Finally, the charges Alec Baldwin faces after a fatal on-set shooting have raised concerns over gun safety in films and spurred some actors to take action by reassuring people that they aren&#39;t &quot;actual cowboys.&quot; Tennis has been making some changes too — it recently got its own Netflix series and lots of new young stars which has investors excited about the sport&#39;s prospects.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Allies Fail to Agree on Sending Tanks to Ukraine</h3>
-<sub>By Erika Solomon</sub>
-<p>Officials tried to play down the rift. But Germany is still insisting it will not be the country to take the first step alone, for fear of incurring Moscow’s wrath.  <a href="https://nyti.ms/3Xv9jd0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>One Saturday in Dnipro, When a Russian Missile Shattered Lives</h3>
-<sub>By Michael Schwirtz</sub>
-<p>Despite the ever-present danger of war, life in Ukraine proceeds almost normally at times. Then, suddenly, it all changes, as it did in Dnipro after a missile struck an apartment complex.  <a href="https://nyti.ms/3ZPjudV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Most Abortion Bans Include Exceptions. In Practice, Few Are Granted.</h3>
+<sub>By Amy Schoenfeld Walker</sub>
+<p>Rape victims and patients with complicated pregnancies are confronting the limits of state abortion laws.  <a href="https://nyti.ms/3kvhU0w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The NATO Alliance Is Holding Strong on Ukraine. But Fractures Are Emerging.</h3>
-<sub>By David E. Sanger and Eric Schmitt</sub>
-<p>The allies differ on strategy for the coming year and the more immediate question of what Ukraine needs ahead of a major offensive in the spring.  <a href="https://nyti.ms/3Wql2Z0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Tech Layoffs Shock Young Workers. The Older People? Not So Much.</h3>
-<sub>By Tripp Mickle</sub>
-<p>The industry’s recent job cuts have been an awakening for a generation of workers who have never experienced a cyclical crash.  <a href="https://nyti.ms/3iVYZeX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Despite Red Flags, G.O.P. Backed Candidate Now Charged in Shootings</h3>
-<sub>By Simon Romero and Maggie Astor</sub>
-<p>“We could have picked apart this guy,” one Republican leader in New Mexico said of Solomon Peña, who is accused of organizing attacks on the homes of four Democratic officials.  <a href="https://nyti.ms/3wlPBV8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>March for Life Kicks Off in Washington, Setting the Stage for New Ideas</h3>
@@ -101,10 +79,52 @@ Another topic in the news is Lawrence Ray, the ringleader of a sex cult at Sarah
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court’s Inquiry Into Leak Included Interviews With Justices</h3>
-<sub>By Charlie Savage</sub>
-<p>But the justices were not asked to sign sworn affidavits, unlike law clerks and other employees, the court’s marshal said.  <a href="https://nyti.ms/3iPktu2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The NATO Alliance Is Holding Strong on Ukraine. But Fractures Are Emerging.</h3>
+<sub>By David E. Sanger and Eric Schmitt</sub>
+<p>The allies differ on strategy for the coming year and the more immediate question of what Ukraine needs ahead of a major offensive in the spring.  <a href="https://nyti.ms/3Wql2Z0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Hit French Novel Tries to Explain Putin. Too Well, Some Critics Say.</h3>
+<sub>By Constant Méheut</sub>
+<p>A popular novel, “The Wizard of the Kremlin,” presents a sympathetic portrait of the Russian leader, critics say, raising concerns that it might influence national policy toward the Ukraine war.  <a href="https://nyti.ms/3wq1qJD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Despite German Reluctance, Ukraine Expresses Optimism About Receiving Tanks</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>Even as frustration mounts over what some see as Germany’s indecision on sending Leopard 2s to Ukraine, a Kyiv official says his country’s soldiers will begin training on them.  <a href="https://nyti.ms/3R3mJdF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Young Founder Who Fooled JPMorgan, According to JPMorgan</h3>
+<sub>By Ron Lieber</sub>
+<p>Charlie Javice promised to simplify the college financial aid process. It was a compelling pitch. Especially, as now seems likely, to those with little firsthand knowledge of financial aid.  <a href="https://nyti.ms/3ZM9AK9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Their Children Are Their Retirement Plans</h3>
+<sub>By Mike Dang</sub>
+<p>The offspring of many East Asian immigrants are raised to support their elders in their later years. That gives a segment of Americans challenges others don’t face.  <a href="https://nyti.ms/3ZQAUa0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Despite Red Flags, G.O.P. Backed Candidate Now Charged in Shootings</h3>
+<sub>By Simon Romero and Maggie Astor</sub>
+<p>“We could have picked apart this guy,” one Republican leader in New Mexico said of Solomon Peña, who is accused of organizing attacks on the homes of four Democratic officials.  <a href="https://nyti.ms/3wlPBV8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Fierce Life and Sudden Death of America’s Strongest Woman</h3>
+<sub>By John Leland</sub>
+<p>Rebecca Lorch found purpose in brutal workouts and competitive weight lifting. In the end, it was not enough.  <a href="https://nyti.ms/3klngv8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Omaha, a Streetcar Named Undesirable by Warren Buffett</h3>
+<sub>By Julie Bosman</sub>
+<p>America is in the middle of a streetcar boom. The billionaire would prefer that his hometown not get onboard.  <a href="https://nyti.ms/3woBU7y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Lights, Camera, Weapons Check? Actors Worry After Baldwin Charges.</h3>
@@ -112,29 +132,11 @@ Another topic in the news is Lawrence Ray, the ringleader of a sex cult at Sarah
 <p>The manslaughter charges Alec Baldwin faces after a fatal on-set shooting revived questions about who’s responsible for gun safety on film productions. “We are not actual cowboys,” an actor noted.  <a href="https://nyti.ms/3J7HoeD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Smart Are the Robots Getting?</h3>
-<sub>By Cade Metz</sub>
-<p>The Turing test used to be the gold standard for proving machine intelligence. This generation of bots is racing past it.  <a href="https://nyti.ms/3XAKOL0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Ringleader of Sex Cult at Sarah Lawrence College Gets 60-Year Sentence</h3>
-<sub>By Colin Moynihan</sub>
-<p>Lawrence Ray was convicted of extortion, sex trafficking, racketeering conspiracy and other charges.  <a href="https://nyti.ms/3wg7419"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>David Crosby’s 15 Essential Songs</h3>
-<sub>By Jon Pareles</sub>
-<p>The singer and songwriter, who died this week, created music that helped define an era and stretched across generations. Listen to six decades of tracks that tell the story of his career.  <a href="https://nyti.ms/3HjVh8b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>David Crosby, a King of Twitter</h3>
-<sub>By Jeremy Gordon</sub>
-<p>The musician relished sharing opinions big and small, sparring with fans and dispelling myths, often in sharp, hilarious quips. The vibe on the platform changed, but he posted until the end.  <a href="https://nyti.ms/3GVOYq3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Inside the Battle to Control, and Fix, Tennis</h3>
+<sub>By Matthew Futterman and Lauren Hirsch</sub>
+<p>Tennis’ hit Netflix series and rising collection of young stars has investors bullish on the sport, which is poised for a once-in-a-generation moment of disruption.  <a href="https://nyti.ms/3XIUXoW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
