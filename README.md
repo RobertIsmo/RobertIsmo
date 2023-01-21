@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 21, Central Standard Time</p>
 <p>
-The Supreme Court is currently conducting an investigation into a possible abortion opinion leak which has added to the institution&#39;s slide in public confidence. Meanwhile, most abortion bans do include exceptions, although they are rarely granted. Across the world, a French novel is gaining popularity and receiving criticism for its sympathetic portrait of Russian president Vladimir Putin. In response to the Russian invasion of Ukraine last February, US troops have been extended in Romania at Ukraine’s doorstep. Ukraine is currently hopeful that they will receive tanks from Germany while also mounting frustration with Germany over the decision. In business news, JPMorgan paid $175 million to a young founder who claimed to simplify the college financial aid process and many East Asian immigrants are raising their children to support them in their later years. Lastly, an accused shooter in New Mexico had been supported by the Republican party despite several red flags. There was also then sudden death of America&#39;s strongest woman and billionaire Warren Buffett does not want Omaha to join the streetcar boom currently happening in America. Lastly, Netflix recently released series about tennis which has led to investors becoming bullish about the sport being on the brink of disruption. Additionally, Djokovic managed to pull off a win at Australian Open while Murray went kicking and screaming due to playing hurt.</p>
+Right now, it looks like there are a lot of tensions rising in the US and around the world. In the US, the Supreme Court is conducting an inquiry into an abortion opinion leak and there is limited access to abortions even with protected rights, paired with restrictions on care for individuals facing difficult pregnancies. There&#39;s also a tense buildup of American troops to respond to Russia&#39;s invasion of Ukraine last February. Over in Europe, Germany is facing mounting frustration from Ukraine who desperately hopes they will receive tanks. On a different note, a popular French novel has generated concern as it paints Putin in a sympathetic light and could influence national policy. Closer to home, JPMorgan recently had to pay out $175 million after making a compelling pitch to people who had little firsthand knowledge of college financial aid. And sadly, Rebecca Lorch recently died - she was an incredible woman dedicated to weightlifting and her death shows how fragile life can be. Plus, football games are in full swing with people searching for ways to stay warm without getting burned. Meanwhile, Giants defense is seeing unbelievable success from their assistant coach’s frank honesty and play calling.  Lastly, many Asian immigrants rely on their children for financial support into their later years - something that many Americans don&#39;t have to worry about.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the Supreme Court Inquiry: Seized Phones, Affidavits and Distrust</h3>
@@ -93,28 +93,16 @@ The Supreme Court is currently conducting an investigation into a possible abort
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Charlie Javice Got JPMorgan to Pay $175 Million for … What Exactly</h3>
+<h3>How Charlie Javice Got JPMorgan to Pay $175 Million for … What Exactly?</h3>
 <sub>By Ron Lieber</sub>
 <p>A young founder promised to simplify the college financial aid process. It was a compelling pitch. Especially, as now seems likely, to those with little firsthand knowledge of financial aid.  <a href="https://nyti.ms/3ZM9AK9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Their Children Are Their Retirement Plans</h3>
-<sub>By Mike Dang</sub>
-<p>The offspring of many East Asian immigrants are raised to support their elders in their later years. That gives a segment of Americans challenges others don’t face.  <a href="https://nyti.ms/3ZQAUa0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Despite Red Flags, G.O.P. Backed Candidate Now Charged in Shootings</h3>
-<sub>By Simon Romero and Maggie Astor</sub>
-<p>“We could have picked apart this guy,” one Republican leader in New Mexico said of Solomon Peña, who is accused of organizing attacks on the homes of four Democratic officials.  <a href="https://nyti.ms/3wlPBV8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Fierce Life and Sudden Death of America’s Strongest Woman</h3>
-<sub>By John Leland</sub>
-<p>Rebecca Lorch found purpose in brutal workouts and competitive weight lifting. In the end, it was not enough.  <a href="https://nyti.ms/3klngv8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<h3>Ron Klain Expected to Step Down as Biden’s White House Chief of Staff</h3>
+<sub>By Peter Baker and Katie Rogers</sub>
+<p>Mr. Klain’s departure would mark a rare moment of high-level turnover in an administration that has been remarkably stable through two years of crises and political battles.  <a href="https://nyti.ms/3HmINgf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Omaha, a Streetcar Named Undesirable by Warren Buffett</h3>
@@ -122,17 +110,29 @@ The Supreme Court is currently conducting an investigation into a possible abort
 <p>America is in the middle of a streetcar boom. The billionaire would prefer that his hometown not get onboard.  <a href="https://nyti.ms/3woBU7y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Inside the Battle to Control, and Fix, Tennis</h3>
-<sub>By Matthew Futterman and Lauren Hirsch</sub>
-<p>The sport’s hit Netflix series and rising collection of young stars has investors bullish on tennis, which is poised for a once-in-a-generation moment of disruption.  <a href="https://nyti.ms/3XIUXoW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Fierce Life and Sudden Death of America’s Strongest Woman</h3>
+<sub>By John Leland</sub>
+<p>Rebecca Lorch found purpose in brutal workouts and competitive weight lifting. In the end, it was not enough.  <a href="https://nyti.ms/3klngv8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Their Children Are Their Retirement Plans</h3>
+<sub>By Mike Dang</sub>
+<p>The offspring of many East Asian immigrants are raised to support their elders in their later years. That gives a segment of Americans challenges others don’t face.  <a href="https://nyti.ms/3ZQAUa0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Limping and Creaking, Djokovic Pulls Off a Win. Murray Goes Kicking and Screaming.</h3>
-<sub>By Matthew Futterman</sub>
-<p>The aging stars were both playing hurt at the Australian Open. Only Djokovic managed to move on, beating Grigor Dimitrov in straight sets.  <a href="https://nyti.ms/3XMdnVT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<h3>A Cold-Weather N.F.L. Warning: Don’t Get Burned Staying Warm</h3>
+<sub>By Kris Rhim</sub>
+<p>When the temperature drops at football games, out come the big jackets and the hand warmers. Sometimes, things can get too hot too fast.  <a href="https://nyti.ms/3QU6u2p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Giants Defense Thrives on Blunt Feedback. And Sneaker Talk.</h3>
+<sub>By Emmanuel Morgan</sub>
+<p>Don “Wink” Martindale’s frank honesty and aggressive play calling have turned around the Giants’ defense. Players say their bond with the assistant coach has helped, too.  <a href="https://nyti.ms/3ZUCec6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
