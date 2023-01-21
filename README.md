@@ -60,13 +60,21 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 21, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. Allies have failed to agree on sending tanks to Ukraine, and tensions among NATO countries have risen. People in the tech industry have experienced shocking layoffs, and some Republicans have been accused of backing a candidate now charged with shootings. There&#39;s an anti-abortion March for Life in Washington D.C., and the Supreme Court is investigating a leak by conducting interviews with justices. Alec Baldwin is facing manslaughter charges after an on-set shooting, and David Crosby has passed away leaving behind fifteen essential songs and his presence on Twitter. Lastly, there&#39;s an investor who could be speaking to the S.E.C. about a company they&#39;re accusing of being involved in a Ponzi scheme.</p>
+There has been a lot of tension in the world lately. Allies are at odds over how to address the situation in Ukraine, and the NATO alliance is having to manage fractures on strategy. On a more personal level, people have been shocked by recent tech layoffs and their lack of preparation for this kind of event. In the US, there was a Republican-backed candidate charged with shootings even after red flags had been raised, reigniting debates over gun safety. On the other hand, there has been a march for life in Washington to rally against Roe v. Wade overturning right to abortion. Also, the Supreme Court recently investigated a leak concerning their employees. 
+
+Another topic in the news is Lawrence Ray, the ringleader of a sex cult at Sarah Lawrence College who was just sentenced to sixty years in jail. To honor David Crosby who passed away this week, many outlets put together lists of his fifteen essential songs and highlighted his Twitter presence. Meanwhile, technology is leaping forward with bots pushing past Turing test as artificial intelligence becomes smarter and more advanced.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Allies Fail to Agree on Sending Tanks to Ukraine</h3>
 <sub>By Erika Solomon</sub>
 <p>Officials tried to play down the rift. But Germany is still insisting it will not be the country to take the first step alone, for fear of incurring Moscow’s wrath.  <a href="https://nyti.ms/3Xv9jd0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>One Saturday in Dnipro, When a Russian Missile Shattered Lives</h3>
+<sub>By Michael Schwirtz</sub>
+<p>Despite the ever-present danger of war, life in Ukraine proceeds almost normally at times. Then, suddenly, it all changes, as it did in Dnipro after a missile struck an apartment complex.  <a href="https://nyti.ms/3ZPjudV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The NATO Alliance Is Holding Strong on Ukraine. But Fractures Are Emerging.</h3>
@@ -127,12 +135,6 @@ Right now, there&#39;s a lot going on in the world. Allies have failed to agree 
 <sub>By Jeremy Gordon</sub>
 <p>The musician relished sharing opinions big and small, sparring with fans and dispelling myths, often in sharp, hilarious quips. The vibe on the platform changed, but he posted until the end.  <a href="https://nyti.ms/3GVOYq3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How an Investor Lost $625,000 and His Faith in George Santos</h3>
-<sub>By Grace Ashford, Alexandra Berzon and Michael Gold</sub>
-<p>Andrew Intrater, a wealthy businessman, has been in touch with the S.E.C. about Mr. Santos’s dealings on behalf of a company accused in a Ponzi scheme.  <a href="https://nyti.ms/3HhUe8M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
