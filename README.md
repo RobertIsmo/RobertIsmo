@@ -60,30 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 21, Central Standard Time</p>
 <p>
-Right now, there is a lot of tension and uncertainty in the United States around abortion rights following decisions from the Supreme Court. People are protesting in Washington DC as part of the March for Life rally to stand up for their beliefs. Across the world in Europe, particularly Ukraine, there is a conflict between NATO and Russia over the future of the region. A lot of people are frustrated with Germany&#39;s response in particular as they look to protect their own interests. Another issue on many people&#39;s minds is aging populations and how countries and businesses need to adjust to provide greater access to older workers. In Omaha, Nebraska billionaire Warren Buffett is pushing back against a proposed streetcar that many hope will boost the city. And finally, Netflix is releasing a series about Tennis which has caused investors to pour money into the sport, setting up what could be a transformative moment for its future.</p>
+The Supreme Court is currently conducting an investigation into a possible abortion opinion leak which has added to the institution&#39;s slide in public confidence. Meanwhile, most abortion bans do include exceptions, although they are rarely granted. Across the world, a French novel is gaining popularity and receiving criticism for its sympathetic portrait of Russian president Vladimir Putin. In response to the Russian invasion of Ukraine last February, US troops have been extended in Romania at Ukraine’s doorstep. Ukraine is currently hopeful that they will receive tanks from Germany while also mounting frustration with Germany over the decision. In business news, JPMorgan paid $175 million to a young founder who claimed to simplify the college financial aid process and many East Asian immigrants are raising their children to support them in their later years. Lastly, an accused shooter in New Mexico had been supported by the Republican party despite several red flags. There was also then sudden death of America&#39;s strongest woman and billionaire Warren Buffett does not want Omaha to join the streetcar boom currently happening in America. Lastly, Netflix recently released series about tennis which has led to investors becoming bullish about the sport being on the brink of disruption. Additionally, Djokovic managed to pull off a win at Australian Open while Murray went kicking and screaming due to playing hurt.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Supreme Court Inquiry: Seized Phones, Affidavits and Distrust</h3>
+<sub>By Jodi Kantor</sub>
+<p>An investigation of the abortion opinion leak was meant to right the institution amid a slide in public confidence. Instead, employees say, it deepened suspicions and caused disillusionment.  <a href="https://nyti.ms/3QY9niE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Most Abortion Bans Include Exceptions. In Practice, Few Are Granted.</h3>
 <sub>By Amy Schoenfeld Walker</sub>
 <p>Rape victims and patients with complicated pregnancies are confronting the limits of state abortion laws.  <a href="https://nyti.ms/3kvhU0w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>March for Life Kicks Off in Washington, Setting the Stage for New Ideas</h3>
-<sub>By Ruth Graham and Ava Sasani</sub>
-<p>The annual anti-abortion gathering to protest Roe v. Wade is the first since the Supreme Court overturned the right to abortion.  <a href="https://nyti.ms/3QSydAw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The NATO Alliance Is Holding Strong on Ukraine. But Fractures Are Emerging.</h3>
-<sub>By David E. Sanger and Eric Schmitt</sub>
-<p>The allies differ on strategy for the coming year and the more immediate question of what Ukraine needs ahead of a major offensive in the spring.  <a href="https://nyti.ms/3Wql2Z0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Hit French Novel Tries to Explain Putin. Too Well, Some Critics Say.</h3>
 <sub>By Constant Méheut</sub>
 <p>A popular novel, “The Wizard of the Kremlin,” presents a sympathetic portrait of the Russian leader, critics say, raising concerns that it might influence national policy toward the Ukraine war.  <a href="https://nyti.ms/3wq1qJD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Extends Troop Deployment in Romania, at Ukraine War’s Doorstep</h3>
+<sub>By Lara Jakes</sub>
+<p>The buildup is part of President Biden’s commitment to increase American forces in Europe in response to the Russian invasion last February.  <a href="https://nyti.ms/3wlABGG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -93,21 +93,15 @@ Right now, there is a lot of tension and uncertainty in the United States around
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Young Founder Who Fooled JPMorgan, According to JPMorgan</h3>
+<h3>How Charlie Javice Got JPMorgan to Pay $175 Million for … What Exactly</h3>
 <sub>By Ron Lieber</sub>
-<p>Charlie Javice promised to simplify the college financial aid process. It was a compelling pitch. Especially, as now seems likely, to those with little firsthand knowledge of financial aid.  <a href="https://nyti.ms/3ZM9AK9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A young founder promised to simplify the college financial aid process. It was a compelling pitch. Especially, as now seems likely, to those with little firsthand knowledge of financial aid.  <a href="https://nyti.ms/3ZM9AK9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Their Children Are Their Retirement Plans</h3>
 <sub>By Mike Dang</sub>
 <p>The offspring of many East Asian immigrants are raised to support their elders in their later years. That gives a segment of Americans challenges others don’t face.  <a href="https://nyti.ms/3ZQAUa0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Who wants to live forever?</h3>
-<sub>By Bernhard Warner</sub>
-<p>Countries and companies are facing an aging crisis, and experts say policymakers and business leaders need to rethink how they deal with older workers.  <a href="https://nyti.ms/3iViRik"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ Right now, there is a lot of tension and uncertainty in the United States around
 <h3>Inside the Battle to Control, and Fix, Tennis</h3>
 <sub>By Matthew Futterman and Lauren Hirsch</sub>
 <p>The sport’s hit Netflix series and rising collection of young stars has investors bullish on tennis, which is poised for a once-in-a-generation moment of disruption.  <a href="https://nyti.ms/3XIUXoW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Limping and Creaking, Djokovic Pulls Off a Win. Murray Goes Kicking and Screaming.</h3>
+<sub>By Matthew Futterman</sub>
+<p>The aging stars were both playing hurt at the Australian Open. Only Djokovic managed to move on, beating Grigor Dimitrov in straight sets.  <a href="https://nyti.ms/3XMdnVT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
