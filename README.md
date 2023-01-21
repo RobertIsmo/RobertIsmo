@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, January 20, Central Standard Time</p>
+<p>It is Saturday, January 21, Central Standard Time</p>
 <p>
-Right now, there&#39;s some tension among allies over sending military equipment to Ukraine, and the NATO alliance is feeling some fractures. There have been a lot of layoffs in the tech world recently, which has been hard for younger workers who have never experienced it before. Also in the US, there was a man charged with shooting four Democratic officials who had warning signs that the Republican party didn&#39;t pick up on. The annual anti-abortion march in Washington happened recently, which also has caused some waves in terms of getting people engaged to fight against a Supreme Court ruling on abortion. Some actors worry about gun safety after Alec Baldwin was charged with manslaughter for an on-set shooting. Robots are getting smarter and smarter and even passing the Turing test. There was a ringleader of a sex cult convicted at Sarah Lawrence College who received a 60-year sentence for his crimes. In New Zealand, Prime Minister Jacinda Ardern has declared she is stepping down and Chris Hipkins is taking her place as leader of the Labour Party. Leaders do resign in parliamentary systems like New Zealand&#39;s more often than other political systems because it can help serve their party better electorally.</p>
+Right now, there&#39;s a lot going on in the world. Allies have failed to agree on sending tanks to Ukraine, and tensions among NATO countries have risen. People in the tech industry have experienced shocking layoffs, and some Republicans have been accused of backing a candidate now charged with shootings. There&#39;s an anti-abortion March for Life in Washington D.C., and the Supreme Court is investigating a leak by conducting interviews with justices. Alec Baldwin is facing manslaughter charges after an on-set shooting, and David Crosby has passed away leaving behind fifteen essential songs and his presence on Twitter. Lastly, there&#39;s an investor who could be speaking to the S.E.C. about a company they&#39;re accusing of being involved in a Ponzi scheme.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Allies Fail to Agree on Sending Tanks to Ukraine</h3>
@@ -116,23 +116,23 @@ Right now, there&#39;s some tension among allies over sending military equipment
 <p>Lawrence Ray was convicted of extortion, sex trafficking, racketeering conspiracy and other charges.  <a href="https://nyti.ms/3wg7419"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Jacinda Ardern Says No to Burnout</h3>
-<sub>By Amanda Taub</sub>
-<p>The New Zealand prime minister made a surprise announcement that she would step down as the country’s leader.  <a href="https://nyti.ms/3ktLDXG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>David Crosby’s 15 Essential Songs</h3>
+<sub>By Jon Pareles</sub>
+<p>The singer and songwriter, who died this week, created music that helped define an era and stretched across generations. Listen to six decades of tracks that tell the story of his career.  <a href="https://nyti.ms/3HjVh8b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Chris Hipkins Poised to Replace Jacinda Ardern as New Zealand’s Leader</h3>
-<sub>By Natasha Frost</sub>
-<p>Mr. Hipkins, a household name in New Zealand for his role overseeing the country’s response to the pandemic, was nominated to succeed Jacinda Ardern as leader of the governing Labour Party.  <a href="https://nyti.ms/3QRsV8F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>David Crosby, a King of Twitter</h3>
+<sub>By Jeremy Gordon</sub>
+<p>The musician relished sharing opinions big and small, sparring with fans and dispelling myths, often in sharp, hilarious quips. The vibe on the platform changed, but he posted until the end.  <a href="https://nyti.ms/3GVOYq3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Which Leaders Resign, Like Jacinda Ardern? Often, the System Decides.</h3>
-<sub>By Max Fisher</sub>
-<p>In parliamentary systems like New Zealand’s, it is the norm for leaders to step down when doing so may serve their party’s electoral prospects. In other political systems, leaving office early is rare.  <a href="https://nyti.ms/3Xybywc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How an Investor Lost $625,000 and His Faith in George Santos</h3>
+<sub>By Grace Ashford, Alexandra Berzon and Michael Gold</sub>
+<p>Andrew Intrater, a wealthy businessman, has been in touch with the S.E.C. about Mr. Santos’s dealings on behalf of a company accused in a Ponzi scheme.  <a href="https://nyti.ms/3HhUe8M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
