@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 22, Central Standard Time</p>
 <p>
-There have been a series of mass shootings in the United States recently, with the most recent one being in Monterey Park, California. There is also some tension over whether educators should tell parents when students change gender identity at school. The Justice Department has seized classified documents from President Biden&#39;s home. More details are emerging about the case involving those documents. Overseas, there is a conflict between Russia and Ukraine, with U.S. officials suspecting that Russian agents directed a far-right group to mail bombs in Spain. In the United States, our government has accumulated $31 trillion in debt due to tax cuts and other spending measures. There is also legislation that has been passed concerning mental health, drugs, pandemic preparedness, new Medicare benefits and Medicaid expansion. On Sunday, the annual Women’s March 3 will be held to commemorate the 50th anniversary of Roe versus Wade. Additionally, there is a story about Hollywood’s most reviled reporter and her legacy. Lastly, there is an article about the hospital where Buffalo Bills player Damar Hamlin had life-saving trauma care for cardiac arrest</p>
+There&#39;s a lot going on right now in the US and around the world. In the US, there have been a lot of mass shootings recently, and many parents don&#39;t know how to respond when their children change gender identity. There were also investigators who seized classified documents from President Biden&#39;s home, and we&#39;re still getting updates on that. Meanwhile, overseas, people are living with the threat of war in Ukraine, while in Germany there&#39;s backlash over tanks being used for militarization. In another incident, Russian agents may have been involved with mailing bombs in Spain. Here at home, the government has accumulated almost $31 trillion in debt due to various tax cuts and spending increases. Also contained in the omnibus bill for December was hidden health care legislation, which covers lots of important topics like mental health and pandemic preparedness. On a different note, there was an article about the life and times of Hollywood&#39;s most hated reporter Nikki Finke who passed away recently. Lastly, here in New York City there was a trial under state laws from 9&#x2F;11 with a man accused of sowing terror overseas. And sadly, a program providing free school meals has abruptly ended as food prices increase - putting extra strain on families who were relying on it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The list of U.S. mass shootings continues to grow.</h3>
@@ -116,22 +116,22 @@ There have been a series of mass shootings in the United States recently, with t
 <p>Congress passed legislation on mental health, drugs, pandemic preparedness, new Medicare benefits and Medicaid expansion — all before the arrival of the new House.  <a href="https://nyti.ms/3kAEZyK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Women’s March Plans Nationwide Rallies on Sunday for 50th Anniversary of Roe</h3>
-<sub>By Jenna Russell and Ava Sasani</sub>
-<p>The annual march, which was started in 2017 as a reaction to the election of former President Donald J. Trump, this year is focused on abortion rights.  <a href="https://nyti.ms/3XvGWv1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>The Last Days of Hollywood’s Most Reviled Reporter</h3>
 <sub>By Jacob Bernstein</sub>
 <p>Was Nikki Finke a genius or a monster? Friends and colleagues try to make sense of the entertainment industry’s brashest chronicler.  <a href="https://nyti.ms/3HiPJef"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Inside the Hospital Where Damar Hamlin’s Life Was Saved</h3>
-<sub>By Gina Kolata</sub>
-<p>The trauma care of the Buffalo Bills player highlighted what is done to overcome cardiac arrest, a leading cause of death in the United States.  <a href="https://nyti.ms/3D1vdMr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>He Was Accused of Sowing Terror Overseas. He Was Caught by the N.Y.P.D.</h3>
+<sub>By Colin Moynihan</sub>
+<p>Abdullah el-Faisal is the first person to face trial under state laws passed after Sept. 11. But he was not in the city when the offenses he is accused of took place.  <a href="https://nyti.ms/3QTvh6Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Families Struggle as Pandemic Program Offering Free School Meals Ends</h3>
+<sub>By Linda Qiu</sub>
+<p>A federal benefit guaranteeing free school meals to millions more students has expired as food prices have risen. Many families are feeling the pinch.  <a href="https://nyti.ms/3D5wySI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
