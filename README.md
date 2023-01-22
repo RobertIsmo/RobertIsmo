@@ -60,8 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 22, Central Standard Time</p>
 <p>
-There have been a lot of interesting news stories recently. In the US, investigators seized classified documents from President Biden&#39;s home, the Supreme Court is looking into a leak about an abortion opinion, and the White House chief of staff is expected to step down soon. In the world, people in Ukraine experienced the reality of war when a missile strike hit an apartment complex. Also in the US, most states have abortion bans with exceptions, although few people actually receive those exceptions. On the business side, JPMorgan paid $175 million to a startup founder who promised to simplify college financial aid. In New York, we learned about Rebecca Lorch, a competitive weightlifter who passed away recently. In Brazil, there&#39;s an activist photographer who is still working hard at 91 years old to protect the Amazon rainforest. And on the sports side, there are some cold weather warnings for NFL teams and both the Giants and Chiefs had games that were full of surprises!</p>
+In the US, there&#39;s an ongoing debate about when educators should tell parents when students socially transition at school. Investigators from the Justice Department recently raided President Biden’s Wilmington home and seized documents near him. There were two major health-related bills passed before the new House arrived — one related to mental health funding and one related to drugs and pandemic preparedness. The annual Women&#39;s March is planned for this Sunday to focus on abortion rights. In Germany, there&#39;s an aversion to war due its history and politics. In Ukraine, there was a missile attack on an apartment complex which caused a lot of destruction. The US government has been amassing more debt in recent decades due to tax cuts, recession responses and bipartisan spending. 
+
+On the sports side of things, the Giants had an unexpectedly successful season but ultimately lost against the Philadelphia Eagles in a playoff matchup. Meanwhile, Kansas City Chiefs quarterback Patrick Mahomes sustained a leg injury but managed to make his way back in time to help his team win their game against Jacksonville.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>When Students Change Gender Identity, and Parents Don’t Know</h3>
+<sub>By Katie J. M. Baker</sub>
+<p>Educators are facing wrenching new tensions over whether they should tell parents when students socially transition at school.  <a href="https://nyti.ms/3kAyw79"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Investigators Seize More Classified Documents From Biden’s Home</h3>
 <sub>By Michael D. Shear and Katie Rogers</sub>
@@ -74,11 +82,11 @@ There have been a lot of interesting news stories recently. In the US, investiga
 <p>More details have emerged about the discovery of classified files associated with President Biden.  <a href="https://nyti.ms/3vWs251"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Supreme Court Inquiry: Seized Phones, Affidavits and Distrust</h3>
-<sub>By Jodi Kantor</sub>
-<p>An investigation of the abortion opinion leak was meant to right the institution amid a slide in public confidence. Instead, employees say, it deepened suspicions and caused disillusionment.  <a href="https://nyti.ms/3QY9niE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Germany’s Reluctance on Tanks Stems From Its History and Its Politics</h3>
+<sub>By Steven Erlanger and Erika Solomon</sub>
+<p>A post-Nazi aversion to war and a commitment to promoting peace through engagement combines with an old fixation on Russia and a deep aversion to leading militarily.  <a href="https://nyti.ms/3iXnOXK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>One Saturday in Dnipro, When a Russian Missile Shattered Lives</h3>
@@ -86,41 +94,35 @@ There have been a lot of interesting news stories recently. In the US, investiga
 <p>Despite the ever-present danger of war, life in Ukraine proceeds almost normally at times. Then, suddenly, it all changes, as it did in Dnipro after a missile struck an apartment complex.  <a href="https://nyti.ms/3ZPjudV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Most Abortion Bans Include Exceptions. In Practice, Few Are Granted.</h3>
-<sub>By Amy Schoenfeld Walker</sub>
-<p>Rape victims and patients with complicated pregnancies are confronting the limits of state abortion laws.  <a href="https://nyti.ms/3kvhU0w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Charlie Javice Got JPMorgan to Pay $175 Million for … What Exactly?</h3>
-<sub>By Ron Lieber</sub>
-<p>A young founder promised to simplify the college financial aid process. It was a compelling pitch. Especially, as now seems likely, to those with little firsthand knowledge of financial aid.  <a href="https://nyti.ms/3ZM9AK9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<h3>How the U.S. Government Amassed $31 Trillion in Debt</h3>
+<sub>By Jim Tankersley</sub>
+<p>Two decades of tax cuts, recession responses and bipartisan spending fueled more borrowing — contributing $25 trillion to the total and setting the stage for another federal showdown.  <a href="https://nyti.ms/3R42lt2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The December Omnibus Bill’s Little Secret: It Was Also a Giant Health Bill</h3>
+<sub>By Margot Sanger-Katz</sub>
+<p>Congress passed legislation on mental health, drugs, pandemic preparedness, new Medicare benefits and Medicaid expansion — all before the arrival of the new House.  <a href="https://nyti.ms/3kAEZyK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ron Klain Expected to Step Down as Biden’s White House Chief of Staff</h3>
-<sub>By Peter Baker and Katie Rogers</sub>
-<p>Mr. Klain’s departure would mark a rare moment of high-level turnover in an administration that has been remarkably stable through two years of crises and political battles.  <a href="https://nyti.ms/3HmINgf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Women’s March Plans Nationwide Rallies on Sunday for 50th Anniversary of Roe</h3>
+<sub>By Jenna Russell and Ava Sasani</sub>
+<p>The annual march, which was started in 2017 as a reaction to the election of former President Donald J. Trump, this year is focused on abortion rights.  <a href="https://nyti.ms/3J5UDfT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Last Days of Hollywood’s Most Reviled Reporter</h3>
+<sub>By Jacob Bernstein</sub>
+<p>Was Nikki Finke a genius or a monster? Friends and colleagues try to make sense of the entertainment industry’s brashest chronicler.  <a href="https://nyti.ms/3HiPJef"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Fierce Life and Sudden Death of America’s Strongest Woman</h3>
-<sub>By John Leland</sub>
-<p>Rebecca Lorch found purpose in brutal workouts and competitive weight lifting. In the end, it was not enough.  <a href="https://nyti.ms/3klngv8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Brazil’s Defender of the Indigenous Brings Their Fight to the Shed</h3>
-<sub>By Jill Langlois</sub>
-<p>Claudia Andujar has photographed the Yanomami in the Amazon during a lifetime of activism. At 91, she is still helping protect their rainforest homeland.  <a href="https://nyti.ms/3kjc3v5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Cold-Weather N.F.L. Warning: Don’t Get Burned Staying Warm</h3>
-<sub>By Kris Rhim</sub>
-<p>When the temperature drops at football games, out come the big jackets and the hand warmers. Sometimes, things can get too hot too fast.  <a href="https://nyti.ms/3QU6u2p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Inside the Hospital Where Damar Hamlin’s Life Was Saved</h3>
+<sub>By Gina Kolata</sub>
+<p>The trauma care of the Buffalo Bills player highlighted what is done to overcome cardiac arrest, a leading cause of death in the United States.  <a href="https://nyti.ms/3D1vdMr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Giants’ Surprising Season Ends With a Dominant Eagles Win</h3>
