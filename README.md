@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 22, Central Standard Time</p>
 <p>
-In the US, there&#39;s an ongoing debate about when educators should tell parents when students socially transition at school. Investigators from the Justice Department recently raided President Biden’s Wilmington home and seized documents near him. There were two major health-related bills passed before the new House arrived — one related to mental health funding and one related to drugs and pandemic preparedness. The annual Women&#39;s March is planned for this Sunday to focus on abortion rights. In Germany, there&#39;s an aversion to war due its history and politics. In Ukraine, there was a missile attack on an apartment complex which caused a lot of destruction. The US government has been amassing more debt in recent decades due to tax cuts, recession responses and bipartisan spending. 
-
-On the sports side of things, the Giants had an unexpectedly successful season but ultimately lost against the Philadelphia Eagles in a playoff matchup. Meanwhile, Kansas City Chiefs quarterback Patrick Mahomes sustained a leg injury but managed to make his way back in time to help his team win their game against Jacksonville.</p>
+There&#39;s a lot going on in the world right now. Here in the US, there&#39;s news about students and gender identity, with teachers facing tensions around whether to tell parents when social transitions occur at school. There are also investigations into classified documents related to President Biden and questions around the US government amassing more debt due to tax cuts and bipartisan spending. Meanwhile, overseas, there&#39;s a story unfolding of how an apartment complex in Ukraine was destroyed by a Russian missile and what that tells us about the ever-present danger of war and how life sometimes changes suddenly as a result. In Germany, there&#39;s discussion of its reluctance on tanks stemming from its history and politics. Women&#39;s Marches have been announced for Sunday to promote abortion rights for the 50th anniversary of Roe v Wade. A Hollywood reporter has received varying reactions from friends and colleagues for her career as an entertainment industry chronicler. And finally, there&#39;s some news on health outcomes including the trauma care for a Buffalo Bills player and NFL matchups with both the Giants and Kansas City Chiefs making headlines.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>When Students Change Gender Identity, and Parents Don’t Know</h3>
@@ -83,16 +81,16 @@ On the sports side of things, the Giants had an unexpectedly successful season b
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Germany’s Reluctance on Tanks Stems From Its History and Its Politics</h3>
-<sub>By Steven Erlanger and Erika Solomon</sub>
-<p>A post-Nazi aversion to war and a commitment to promoting peace through engagement combines with an old fixation on Russia and a deep aversion to leading militarily.  <a href="https://nyti.ms/3iXnOXK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>One Saturday in Dnipro, When a Russian Missile Shattered Lives</h3>
 <sub>By Michael Schwirtz</sub>
 <p>Despite the ever-present danger of war, life in Ukraine proceeds almost normally at times. Then, suddenly, it all changes, as it did in Dnipro after a missile struck an apartment complex.  <a href="https://nyti.ms/3ZPjudV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Germany’s Reluctance on Tanks Stems From Its History and Its Politics</h3>
+<sub>By Steven Erlanger and Erika Solomon</sub>
+<p>A post-Nazi aversion to war and a commitment to promoting peace through engagement combines with an old fixation on Russia and a deep aversion to leading militarily.  <a href="https://nyti.ms/3iXnOXK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How the U.S. Government Amassed $31 Trillion in Debt</h3>
