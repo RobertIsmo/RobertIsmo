@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 21, Central Standard Time</p>
 <p>
-Right now, it looks like there are a lot of tensions rising in the US and around the world. In the US, the Supreme Court is conducting an inquiry into an abortion opinion leak and there is limited access to abortions even with protected rights, paired with restrictions on care for individuals facing difficult pregnancies. There&#39;s also a tense buildup of American troops to respond to Russia&#39;s invasion of Ukraine last February. Over in Europe, Germany is facing mounting frustration from Ukraine who desperately hopes they will receive tanks. On a different note, a popular French novel has generated concern as it paints Putin in a sympathetic light and could influence national policy. Closer to home, JPMorgan recently had to pay out $175 million after making a compelling pitch to people who had little firsthand knowledge of college financial aid. And sadly, Rebecca Lorch recently died - she was an incredible woman dedicated to weightlifting and her death shows how fragile life can be. Plus, football games are in full swing with people searching for ways to stay warm without getting burned. Meanwhile, Giants defense is seeing unbelievable success from their assistant coach’s frank honesty and play calling.  Lastly, many Asian immigrants rely on their children for financial support into their later years - something that many Americans don&#39;t have to worry about.</p>
+Currently, there&#39;s a lot happening in the world! In the United States, there&#39;s an investigation into the Supreme Court on abortion inquiry and a seized important documents from President Biden&#39;s home by DOJ. In Ukraine, a missile strike signified the ever-present danger of war. There are also controversial discussions on exceptions of abortion bans and complex college finance aid processes. Another interesting news is about Taiwan representative being involved in a diplomatic struggle with China which can potentially lead to war. Brazil is protecting its indigenous people with the help of 91 year old photographer. NFL issued safety warning while Giants&#39; defense is enjoying sneaker talks and company of assistant coach Wink Martindale. Lastly, The Weekender shared 27 New Yorkers sharing their salaries and some fun activities to do at home.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the Supreme Court Inquiry: Seized Phones, Affidavits and Distrust</h3>
@@ -69,27 +69,21 @@ Right now, it looks like there are a lot of tensions rising in the US and around
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Most Abortion Bans Include Exceptions. In Practice, Few Are Granted.</h3>
-<sub>By Amy Schoenfeld Walker</sub>
-<p>Rape victims and patients with complicated pregnancies are confronting the limits of state abortion laws.  <a href="https://nyti.ms/3kvhU0w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Investigators Seize More Classified Documents From Biden’s Home</h3>
+<sub>By Michael D. Shear and Katie Rogers</sub>
+<p>A team from the Department of Justice conducted a 13-hour search of the president’s Wilmington residence on Friday.  <a href="https://nyti.ms/3GVofdf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Hit French Novel Tries to Explain Putin. Too Well, Some Critics Say.</h3>
-<sub>By Constant Méheut</sub>
-<p>A popular novel, “The Wizard of the Kremlin,” presents a sympathetic portrait of the Russian leader, critics say, raising concerns that it might influence national policy toward the Ukraine war.  <a href="https://nyti.ms/3wq1qJD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>One Saturday in Dnipro, When a Russian Missile Shattered Lives</h3>
+<sub>By Michael Schwirtz</sub>
+<p>Despite the ever-present danger of war, life in Ukraine proceeds almost normally at times. Then, suddenly, it all changes, as it did in Dnipro after a missile struck an apartment complex.  <a href="https://nyti.ms/3ZPjudV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Extends Troop Deployment in Romania, at Ukraine War’s Doorstep</h3>
-<sub>By Lara Jakes</sub>
-<p>The buildup is part of President Biden’s commitment to increase American forces in Europe in response to the Russian invasion last February.  <a href="https://nyti.ms/3wlABGG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid Mounting Frustration With Germany, Ukraine Holds Out Hope It Will Get Tanks</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>While Germany has not yet made a decision on whether to send Leopard 2s to Ukraine, a Kyiv official said his country’s soldiers would begin training on them.  <a href="https://nyti.ms/3R3mJdF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Most Abortion Bans Include Exceptions. In Practice, Few Are Granted.</h3>
+<sub>By Amy Schoenfeld Walker</sub>
+<p>Rape victims and patients with complicated pregnancies are confronting the limits of state abortion laws.  <a href="https://nyti.ms/3kvhU0w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,23 +98,23 @@ Right now, it looks like there are a lot of tensions rising in the US and around
 <p>Mr. Klain’s departure would mark a rare moment of high-level turnover in an administration that has been remarkably stable through two years of crises and political battles.  <a href="https://nyti.ms/3HmINgf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Omaha, a Streetcar Named Undesirable by Warren Buffett</h3>
-<sub>By Julie Bosman</sub>
-<p>America is in the middle of a streetcar boom. The billionaire would prefer that his hometown not get onboard.  <a href="https://nyti.ms/3woBU7y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Fierce Life and Sudden Death of America’s Strongest Woman</h3>
 <sub>By John Leland</sub>
 <p>Rebecca Lorch found purpose in brutal workouts and competitive weight lifting. In the end, it was not enough.  <a href="https://nyti.ms/3klngv8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Their Children Are Their Retirement Plans</h3>
-<sub>By Mike Dang</sub>
-<p>The offspring of many East Asian immigrants are raised to support their elders in their later years. That gives a segment of Americans challenges others don’t face.  <a href="https://nyti.ms/3ZQAUa0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>One of the Most Influential Ambassadors in Washington Isn’t One</h3>
+<sub>By Michael Crowley</sub>
+<p>Taiwan’s representative, Bi-khim Hsiao, calls herself a “cat warrior” walking a delicate diplomatic line. China calls her a troublemaker who could trigger a war.  <a href="https://nyti.ms/3XtKFJu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Brazil’s Defender of the Indigenous Brings Their Fight to the Shed</h3>
+<sub>By Jill Langlois</sub>
+<p>Claudia Andujar has photographed the Yanomami in the Amazon during a lifetime of activism. At 91, she is still helping protect their rainforest homeland.  <a href="https://nyti.ms/3kjc3v5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>A Cold-Weather N.F.L. Warning: Don’t Get Burned Staying Warm</h3>
@@ -132,6 +126,12 @@ Right now, it looks like there are a lot of tensions rising in the US and around
 <h3>Giants Defense Thrives on Blunt Feedback. And Sneaker Talk.</h3>
 <sub>By Emmanuel Morgan</sub>
 <p>Don “Wink” Martindale’s frank honesty and aggressive play calling have turned around the Giants’ defense. Players say their bond with the assistant coach has helped, too.  <a href="https://nyti.ms/3ZUCec6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Christine Chun</sub>
+<p>27 New Yorkers share how much they make. Also in this edition: dancing with the stairs, and truffle wars in Italy.  <a href="https://nyti.ms/3R1Qrjm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
