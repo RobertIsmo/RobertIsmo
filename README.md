@@ -60,18 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 21, Central Standard Time</p>
 <p>
-Currently, there&#39;s a lot happening in the world! In the United States, there&#39;s an investigation into the Supreme Court on abortion inquiry and a seized important documents from President Biden&#39;s home by DOJ. In Ukraine, a missile strike signified the ever-present danger of war. There are also controversial discussions on exceptions of abortion bans and complex college finance aid processes. Another interesting news is about Taiwan representative being involved in a diplomatic struggle with China which can potentially lead to war. Brazil is protecting its indigenous people with the help of 91 year old photographer. NFL issued safety warning while Giants&#39; defense is enjoying sneaker talks and company of assistant coach Wink Martindale. Lastly, The Weekender shared 27 New Yorkers sharing their salaries and some fun activities to do at home.</p>
+Right now, there is a lot of news happening in the US. Investigators have recently seized classified documents from President Biden&#39;s home in Wilmington. There has also been a Supreme Court inquiry that includes affidavits and suspicion, and abortion bans have been a topic of discussion with exceptions rarely granted in practice. On top of this, Charlie Javice was able to get JPMorgan to pay $175 million for something that isn&#39;t quite clear yet and President Biden&#39;s White House Chief of Staff is expected to step down. 
+
+Outside the US, there was an incident in Ukraine where a Russian missile struck an apartment complex and caused destruction. In Brazil, 91-year-old Claudia Andujar is still fighting for indigenous rights by protecting their rainforest homeland, and cold-weather NFL football games bring out the big jackets and hand warmers (but watch out for getting burned). Finally, Kansas City managed to pull out a win against Jacksonville despite quarterback Patrick Mahomes&#39; leg injury.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Investigators Seize More Classified Documents From Biden’s Home</h3>
+<sub>By Michael D. Shear and Katie Rogers</sub>
+<p>A team from the Justice Department conducted a 13-hour search of the president’s Wilmington residence on Friday.  <a href="https://nyti.ms/3GVofdf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Timeline of the Biden Documents Case: What We Know So Far</h3>
+<sub>By Ben Shpigel</sub>
+<p>Attorney General Merrick Garland and the White House have provided more details about the discovery of classified files associated with President Biden.  <a href="https://nyti.ms/3vWs251"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the Supreme Court Inquiry: Seized Phones, Affidavits and Distrust</h3>
 <sub>By Jodi Kantor</sub>
 <p>An investigation of the abortion opinion leak was meant to right the institution amid a slide in public confidence. Instead, employees say, it deepened suspicions and caused disillusionment.  <a href="https://nyti.ms/3QY9niE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Investigators Seize More Classified Documents From Biden’s Home</h3>
-<sub>By Michael D. Shear and Katie Rogers</sub>
-<p>A team from the Department of Justice conducted a 13-hour search of the president’s Wilmington residence on Friday.  <a href="https://nyti.ms/3GVofdf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -123,16 +131,10 @@ Currently, there&#39;s a lot happening in the world! In the United States, there
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Giants Defense Thrives on Blunt Feedback. And Sneaker Talk.</h3>
-<sub>By Emmanuel Morgan</sub>
-<p>Don “Wink” Martindale’s frank honesty and aggressive play calling have turned around the Giants’ defense. Players say their bond with the assistant coach has helped, too.  <a href="https://nyti.ms/3ZUCec6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Christine Chun</sub>
-<p>27 New Yorkers share how much they make. Also in this edition: dancing with the stairs, and truffle wars in Italy.  <a href="https://nyti.ms/3R1Qrjm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<h3>Despite Mahomes Injury, Kansas City Holds Off Jacksonville</h3>
+<sub>By Joe Drape</sub>
+<p>Quarterback Patrick Mahomes went down with a leg injury in the first half; after backup Chad Henne led a touchdown drive, Mahomes returned in the second to seal the game.  <a href="https://nyti.ms/3XwTMcG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
