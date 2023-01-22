@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 22, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. Here in the US, there&#39;s news about students and gender identity, with teachers facing tensions around whether to tell parents when social transitions occur at school. There are also investigations into classified documents related to President Biden and questions around the US government amassing more debt due to tax cuts and bipartisan spending. Meanwhile, overseas, there&#39;s a story unfolding of how an apartment complex in Ukraine was destroyed by a Russian missile and what that tells us about the ever-present danger of war and how life sometimes changes suddenly as a result. In Germany, there&#39;s discussion of its reluctance on tanks stemming from its history and politics. Women&#39;s Marches have been announced for Sunday to promote abortion rights for the 50th anniversary of Roe v Wade. A Hollywood reporter has received varying reactions from friends and colleagues for her career as an entertainment industry chronicler. And finally, there&#39;s some news on health outcomes including the trauma care for a Buffalo Bills player and NFL matchups with both the Giants and Kansas City Chiefs making headlines.</p>
+There have been a series of mass shootings in the United States recently, with the most recent one being in Monterey Park, California. There is also some tension over whether educators should tell parents when students change gender identity at school. The Justice Department has seized classified documents from President Biden&#39;s home. More details are emerging about the case involving those documents. Overseas, there is a conflict between Russia and Ukraine, with U.S. officials suspecting that Russian agents directed a far-right group to mail bombs in Spain. In the United States, our government has accumulated $31 trillion in debt due to tax cuts and other spending measures. There is also legislation that has been passed concerning mental health, drugs, pandemic preparedness, new Medicare benefits and Medicaid expansion. On Sunday, the annual Women’s March 3 will be held to commemorate the 50th anniversary of Roe versus Wade. Additionally, there is a story about Hollywood’s most reviled reporter and her legacy. Lastly, there is an article about the hospital where Buffalo Bills player Damar Hamlin had life-saving trauma care for cardiac arrest</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The list of U.S. mass shootings continues to grow.</h3>
+<sub>By The New York Times</sub>
+<p>The shooting in Monterey Park, Calif., is the deadliest in the United States since the Uvalde massacre last year.  <a href="https://nyti.ms/3GYBeuK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>When Students Change Gender Identity, and Parents Don’t Know</h3>
 <sub>By Katie J. M. Baker</sub>
@@ -81,15 +87,21 @@ There&#39;s a lot going on in the world right now. Here in the US, there&#39;s n
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>One Saturday in Dnipro, When a Russian Missile Shattered Lives</h3>
+<h3>Safe at Home in Dnipro, Until a Russian Missile Struck</h3>
 <sub>By Michael Schwirtz</sub>
-<p>Despite the ever-present danger of war, life in Ukraine proceeds almost normally at times. Then, suddenly, it all changes, as it did in Dnipro after a missile struck an apartment complex.  <a href="https://nyti.ms/3ZPjudV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Despite the ever-present danger of war, life in Ukraine proceeds almost normally at times. Then, suddenly, it all changes, as it did in Dnipro last weekend after a missile struck an apartment complex.  <a href="https://nyti.ms/3ZPjudV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Germany’s Reluctance on Tanks Stems From Its History and Its Politics</h3>
 <sub>By Steven Erlanger and Erika Solomon</sub>
 <p>A post-Nazi aversion to war and a commitment to promoting peace through engagement combines with an old fixation on Russia and a deep aversion to leading militarily.  <a href="https://nyti.ms/3iXnOXK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Russian Agents Suspected of Directing Far-Right Group to Mail Bombs in Spain</h3>
+<sub>By Edward Wong, Julian E. Barnes and Eric Schmitt</sub>
+<p>U.S. officials say the operation may be a signal by Russia that the country and its proxies could carry out more terrorist actions in Europe if nations continue supporting Ukraine.  <a href="https://nyti.ms/3iTAbUX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -107,7 +119,7 @@ There&#39;s a lot going on in the world right now. Here in the US, there&#39;s n
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Women’s March Plans Nationwide Rallies on Sunday for 50th Anniversary of Roe</h3>
 <sub>By Jenna Russell and Ava Sasani</sub>
-<p>The annual march, which was started in 2017 as a reaction to the election of former President Donald J. Trump, this year is focused on abortion rights.  <a href="https://nyti.ms/3J5UDfT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The annual march, which was started in 2017 as a reaction to the election of former President Donald J. Trump, this year is focused on abortion rights.  <a href="https://nyti.ms/3XvGWv1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -121,18 +133,6 @@ There&#39;s a lot going on in the world right now. Here in the US, there&#39;s n
 <sub>By Gina Kolata</sub>
 <p>The trauma care of the Buffalo Bills player highlighted what is done to overcome cardiac arrest, a leading cause of death in the United States.  <a href="https://nyti.ms/3D1vdMr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Giants’ Surprising Season Ends With a Dominant Eagles Win</h3>
-<sub>By Emmanuel Morgan</sub>
-<p>The Giants, who had been expected to rebuild this season, couldn’t recover from Philadelphia’s explosive start in their divisional-round matchup.  <a href="https://nyti.ms/3wjgmt0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Despite Mahomes Injury, Kansas City Holds Off Jacksonville</h3>
-<sub>By Joe Drape</sub>
-<p>Quarterback Patrick Mahomes went down with a leg injury in the first half; after backup Chad Henne led a touchdown drive, Mahomes returned in the second to seal the game.  <a href="https://nyti.ms/405X0FN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
