@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, January 21, Central Standard Time</p>
+<p>It is Sunday, January 22, Central Standard Time</p>
 <p>
-Right now, there is a lot of news happening in the US. Investigators have recently seized classified documents from President Biden&#39;s home in Wilmington. There has also been a Supreme Court inquiry that includes affidavits and suspicion, and abortion bans have been a topic of discussion with exceptions rarely granted in practice. On top of this, Charlie Javice was able to get JPMorgan to pay $175 million for something that isn&#39;t quite clear yet and President Biden&#39;s White House Chief of Staff is expected to step down. 
-
-Outside the US, there was an incident in Ukraine where a Russian missile struck an apartment complex and caused destruction. In Brazil, 91-year-old Claudia Andujar is still fighting for indigenous rights by protecting their rainforest homeland, and cold-weather NFL football games bring out the big jackets and hand warmers (but watch out for getting burned). Finally, Kansas City managed to pull out a win against Jacksonville despite quarterback Patrick Mahomes&#39; leg injury.</p>
+It looks like there have been some interesting developments around the world recently. First off, investigators have seized classified documents from President Biden&#39;s home in Wilmington, which seems to be part of a larger case involving documents associated with him. Over in Ukraine, a Russian missile was fired into an apartment complex on one Saturday, leading to some tragic losses of life. Additionally, states seem to be putting tighter restrictions on abortion laws, and providing fewer exceptions than what&#39;s advertised. In other news, JPMorgan recently paid out a large sum to a young founder who promised to simplify the college financial aid process. Ron Klain is apparently going to step down as Biden’s White House Chief of Staff pretty soon, and we may see some high-level turnover soon. On a more positive note, there have been stories of a 91 year old activist who has dedicated her life to protecting the Amazon rainforest. Lastly, the NFL playoffs have been full of surprises - even with Patrick Mahomes&#39; injury - with unexpected teams making it through and big wins being scored.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Investigators Seize More Classified Documents From Biden’s Home</h3>
@@ -73,7 +71,7 @@ Outside the US, there was an incident in Ukraine where a Russian missile struck 
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Timeline of the Biden Documents Case: What We Know So Far</h3>
 <sub>By Ben Shpigel</sub>
-<p>Attorney General Merrick Garland and the White House have provided more details about the discovery of classified files associated with President Biden.  <a href="https://nyti.ms/3vWs251"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>More details have emerged about the discovery of classified files associated with President Biden.  <a href="https://nyti.ms/3vWs251"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -112,12 +110,6 @@ Outside the US, there was an incident in Ukraine where a Russian missile struck 
 <p>Rebecca Lorch found purpose in brutal workouts and competitive weight lifting. In the end, it was not enough.  <a href="https://nyti.ms/3klngv8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>One of the Most Influential Ambassadors in Washington Isn’t One</h3>
-<sub>By Michael Crowley</sub>
-<p>Taiwan’s representative, Bi-khim Hsiao, calls herself a “cat warrior” walking a delicate diplomatic line. China calls her a troublemaker who could trigger a war.  <a href="https://nyti.ms/3XtKFJu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Brazil’s Defender of the Indigenous Brings Their Fight to the Shed</h3>
 <sub>By Jill Langlois</sub>
@@ -131,9 +123,15 @@ Outside the US, there was an incident in Ukraine where a Russian missile struck 
 <sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Giants’ Surprising Season Ends With a Dominant Eagles Win</h3>
+<sub>By Emmanuel Morgan</sub>
+<p>The Giants, who had been expected to rebuild this season, couldn’t recover from Philadelphia’s explosive start in their divisional-round matchup.  <a href="https://nyti.ms/3wjgmt0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Despite Mahomes Injury, Kansas City Holds Off Jacksonville</h3>
 <sub>By Joe Drape</sub>
-<p>Quarterback Patrick Mahomes went down with a leg injury in the first half; after backup Chad Henne led a touchdown drive, Mahomes returned in the second to seal the game.  <a href="https://nyti.ms/3XwTMcG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Quarterback Patrick Mahomes went down with a leg injury in the first half; after backup Chad Henne led a touchdown drive, Mahomes returned in the second to seal the game.  <a href="https://nyti.ms/405X0FN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
