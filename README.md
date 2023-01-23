@@ -60,18 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 23, Central Standard Time</p>
 <p>
-Right now, it looks like a lot of things are happening in the world - from people risking their lives to prevent further violence or protect others like Brandon Tsay did, to countries struggling with the economic effects of inflation. In the US, the new Republican majority and former President Trump&#39;s influence continues to loom over politics, while Arizona is setting up for a Democratic senatorial run. Other places around the world are dealing with violent conflicts, like Russia and Ukraine. Even the simple act of providing meals to employees during work has changed as buildings remain empty. Technology companies are also being hit hard by the economy, leading even giants like Spotify and Microsoft to have layoffs and invest heavily in new projects.</p>
+It looks like the world is in some pretty tumultuous times. The EPA is still suffering from the effects of an exodus of experts and policy makers under Trump&#39;s rule, which will continue to have an effect on climate change regulation. There was also a gunman who was luckily disarmed by a coder, and then four members of a far-right militia were convicted of sedition. We don&#39;t know yet what will happen with Trump with regards to criminal charges in Georgia, while another man who posed in Nancy Pelosi&#39;s office is facing jury convictions. Vaccines are being proposed to help keep Covid cases down, while the economy is adjusting to cooler inflation rates and tech companies are beginning to feel the squeeze of lower interest rates. Finally, readers got to unite in person with their favorite author Elin Hilderbrand on Nantucket Island.</p>
 <ol>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Depleted Under Trump, a ‘Traumatized’ E.P.A. Struggles With Its Mission</h3>
+<sub>By Lisa Friedman</sub>
+<p>Despite an injection of funding, the agency still has not recovered from an exodus of scientists and policy experts, both insiders and critics say.  <a href="https://nyti.ms/3j2rW91"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Coder Wrested a Pistol From the Gunman’s Hands, Preventing Greater Tragedy</h3>
 <sub>By Victoria Kim</sub>
 <p>Brandon Tsay, 26, is being credited with preventing further violence by subduing the gunman before he could kill more people.  <a href="https://nyti.ms/3wo6UEW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Four More Oath Keepers Members Convicted of Sedition in Second Trial</h3>
+<sub>By Zach Montague</sub>
+<p>The four members of the far-right militia were found guilty of seditious conspiracy nearly two months after the group’s leader, Stewart Rhodes, was convicted of the same charge in a separate proceeding.  <a href="https://nyti.ms/3iZqZhQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Central Question as Georgia Inquiry Wraps: Will Trump Face Criminal Charges?</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>The House Jan. 6 committee report offered fresh evidence that former President Donald J. Trump was at the center of efforts to overturn election results in Georgia.  <a href="https://nyti.ms/3H4wDY5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jury Convicts Man Who Posed With Boot on Desk in Pelosi’s Office</h3>
+<sub>By Michael Levenson</sub>
+<p>Richard Barnett became one of the highest-profile defendants charged in the Jan. 6 storming of the Capitol after he was photographed with his boot on a desk in Speaker Nancy Pelosi’s office.  <a href="https://nyti.ms/3XuK6iT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>F.D.A. Outlines a Plan for Annual Covid Boosters</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>In advance of a scientific meeting on Thursday, officials proposed offering new shots to Americans each fall, a strategy long employed against the flu.  <a href="https://nyti.ms/3HqKvgD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Inflation Is Cooling, Leaving America Asking: What Comes Next?</h3>
 <sub>By Jeanna Smialek</sub>
 <p>After six months of declines, inflation seems to be turning a corner. But the road back to normal is an uncertain one.  <a href="https://nyti.ms/3wmEQlj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Moscow, a Quiet Antiwar Protest With Flowers and Plush Toys</h3>
+<sub>By Valerie Hopkins and Nanna Heitmann</sub>
+<p>Amid Russia’s crackdown on resistance to the war in Ukraine, some have dared to lay bouquets and other offerings at a statue of a Ukrainian poet, protesting the recent Russian strike on civilians in Dnipro.  <a href="https://nyti.ms/3iYm4h2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,18 +122,6 @@ Right now, it looks like a lot of things are happening in the world - from peopl
 <p>Representative Ruben Gallego of Phoenix is set to challenge Ms. Sinema from the left, after she resigned from the Democratic Party.  <a href="https://nyti.ms/3J7Nko7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Central Question as Georgia Inquiry Wraps: Will Trump Face Criminal Charges?</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>The House Jan. 6 committee report offered fresh evidence that former President Donald J. Trump was at the center of efforts to overturn election results in Georgia.  <a href="https://nyti.ms/3H4wDY5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Moscow, a Quiet Antiwar Protest With Flowers and Plush Toys</h3>
-<sub>By Valerie Hopkins and Nanna Heitmann</sub>
-<p>Amid Russia’s crackdown on resistance to the war in Ukraine, some have dared to lay bouquets and other offerings at a statue of a Ukrainian poet, protesting the recent Russian strike on civilians in Dnipro.  <a href="https://nyti.ms/3iYm4h2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>Hilderbabes Take Nantucket</h3>
 <sub>By Elisabeth Egan</sub>
@@ -108,30 +132,6 @@ Right now, it looks like a lot of things are happening in the world - from peopl
 <h3>For Tech Companies, Years of Easy Money Yield to Hard Times</h3>
 <sub>By David Streitfeld</sub>
 <p>Rock-bottom rates were the secret engine fueling $1 billion start-ups and virtual attempts to conquer the physical world. But in 2023, reality bites.  <a href="https://nyti.ms/3JpEp1x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Spotify to Lay Off 6% of Its Work Force</h3>
-<sub>By Isabella Simonetti</sub>
-<p>The audio streaming platform becomes the latest big technology company to cut costs over worries about the economy.  <a href="https://nyti.ms/3kz5ftu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT</h3>
-<sub>By Cade Metz and Karen Weise</sub>
-<p>The tech giant aims to remain at the forefront of generative artificial intelligence with its partnership with OpenAI.  <a href="https://nyti.ms/3kD5HXw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Deadly Epidural, Delivered by a Doctor With a History of Mistakes</h3>
-<sub>By Joseph Goldstein</sub>
-<p>Inspectors found that an anesthesiologist at a Brooklyn hospital made numerous errors in administering epidurals. Some were life-threatening. One was fatal.  <a href="https://nyti.ms/3wlte1V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The Corporate Cafeteria Is Broken. So How to Feed Workers?</h3>
-<sub>By Kim Severson</sub>
-<p>Even as the sprawling dining halls of old struggle with emptier workplaces, food is still important to employees, particularly the young. Many companies are reinventing the company meal.  <a href="https://nyti.ms/3j1qkMP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
