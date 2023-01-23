@@ -60,19 +60,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 23, Central Standard Time</p>
 <p>
-There&#39;s been some tragic violence over the past few days. A 26-year-old hero disarmed a mass shooter in the US, but unfortunately one couple on the dance floor was affected by the attack. In Ukraine, their leader is urging all Ukrainians to stay unified, and in Spain, reports show Russian agents may have directed a far-right group to carry out mail bombs. China has also been expanding its power in the Solomon Islands, which has been met with some resentment. On a lighter note, Lisa Marie Presley was given a royal tribute at Graceland and an accused terrorist was apprehended by the NYPD in New York. Joe Biden&#39;s lawyers made a mistake in assuming official files would be kept in a think tank, and a reporter whose tenacity often earned her scorn from Hollywood bigwigs was remembered by those who knew her best. Finally, football fans watched Damar Hamlin, who had collapsed during the team&#39;s last meeting, come together with his teammates for their divisional round game.</p>
+Recently, there have been a few troubling news stories. In the US, there was a 26-year-old coder who wrested an assault pistol from the hands of a gunman, potentially preventing much greater tragedy. People had been practicing a popular dance when the shooter carried out his rampage, and no one dared to flee. The city of Monterey Park has also been transforming the experience of Chinese Americans. 
+
+At the same time, people have been examining how Kevin McCarthy has formed an ironclad bond with Marjorie Taylor Greene, and abroad in the Solomon Islands, China&#39;s mad dash into a strategic island nation is breeding resentment. Also in America, inflation is cooling, leaving many uncertain as to what comes next. Tragically, in New York Region an anesthesiologist made numerous life-threatening errors resulting in death; and so the IRS is attempting to bolster customer service as tax season starts. 
+
+Finally, the Supreme Court is set to review bathroom bans for transgender youths; educators are struggling on how to handle students transitioning gender identity at school without informing parents; and Biden lawyers mistakenly thought classified files went to a think tank instead of his own garage. Lastly, Alex Murdaugh&#39;s trial will begin on Monday over murder of wife and son.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A 26-year-old coder wrested an assault pistol from the gunman’s hands, preventing a greater tragedy.</h3>
 <sub>By Victoria Kim</sub>
-<p>Brandon Tsay is being credited with preventing further violence by subduing the mass shooter before he could kill more people.  <a href="https://nyti.ms/3wo6UEW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Brandon Tsay is being credited with preventing further violence by subduing the gunman before he could kill more people.  <a href="https://nyti.ms/3wo6UEW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A celebration turned into a nightmare for one couple on the dance floor.</h3>
-<sub>By Edgar Sandoval</sub>
-<p>A night of celebration turned into a night of horror. Jeff Liu saw a man storm in with a gun and open fire. Mr. Liu saw his wife collapse and has not seen her since.  <a href="https://nyti.ms/3iSVlma"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘No one dared to flee’ as the shooter carried out his rampage.</h3>
@@ -81,22 +79,16 @@ There&#39;s been some tragic violence over the past few days. A 26-year-old hero
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When Students Change Gender Identity, and Parents Don’t Know</h3>
-<sub>By Katie J. M. Baker</sub>
-<p>Educators are facing wrenching new tensions over whether they should tell parents when students socially transition at school.  <a href="https://nyti.ms/3kAyw79"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Urges Ukrainians to Remain Unified</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>On a day meant to mark the unification of Ukraine in 1919, the country’s leader said it was vital for Ukrainians of all regions to bind together.  <a href="https://nyti.ms/3XwgQbg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<h3>Monterey Park transformed the Chinese American experience.</h3>
+<sub>By David Pierson</sub>
+<p>Known as the first suburban Chinatown, the city would spearhead massive demographic changes across Southern California.  <a href="https://nyti.ms/3wln6qi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Russian Agents Suspected of Directing Far-Right Group to Mail Bombs in Spain</h3>
-<sub>By Edward Wong, Julian E. Barnes and Eric Schmitt</sub>
-<p>U.S. officials say the operation may be a signal by Russia that the country and its proxies could carry out more terrorist actions in Europe if nations continue supporting Ukraine.  <a href="https://nyti.ms/3iTAbUX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<h3>How Kevin McCarthy Forged an Ironclad Bond With Marjorie Taylor Greene</h3>
+<sub>By Jonathan Swan and Catie Edmondson</sub>
+<p>The close alliance that has developed between the speaker and the hard-right Georgia Republican explains his rise, how he might govern and the heavy influence of the extremes on the new House G.O.P. majority.  <a href="https://nyti.ms/3XRStVw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China’s Mad Dash Into a Strategic Island Nation Breeds Resentment</h3>
@@ -104,16 +96,34 @@ There&#39;s been some tragic violence over the past few days. A 26-year-old hero
 <p>For years, Beijing has thrown its wealth and weight across the globe. But its experience in the Solomon Islands calls into question its approach to expanding its power.  <a href="https://nyti.ms/3R0blzg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Daughter of a King, and a Legacy of Tears</h3>
-<sub>By Richard Fausset</sub>
-<p>At Graceland, family and friends gave a royal tribute to Lisa Marie Presley, whose life at times seemed to personify the dark streak of her father’s music.  <a href="https://nyti.ms/3ky2XuD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inflation Is Cooling, Leaving America Asking: What Comes Next?</h3>
+<sub>By Jeanna Smialek</sub>
+<p>After six months of declines, inflation seems to be turning a corner. But the road back to normal is an uncertain one.  <a href="https://nyti.ms/3wmEQlj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>He Was Accused of Sowing Terror Overseas. He Was Caught by the N.Y.P.D.</h3>
-<sub>By Colin Moynihan</sub>
-<p>Abdullah el-Faisal is the first person to face trial under state laws passed after Sept. 11. But he was not in the city when the offenses he is accused of took place.  <a href="https://nyti.ms/3QTvh6Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Deadly Epidural, Delivered by a Doctor With a History of Mistakes</h3>
+<sub>By Joseph Goldstein</sub>
+<p>Inspectors found that an anesthesiologist at a Brooklyn hospital made numerous errors in administering epidurals. Some were life-threatening. One was fatal.  <a href="https://nyti.ms/3wlte1V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As Tax Season Starts, a Beleaguered I.R.S. Looks to Bolster Customer Service</h3>
+<sub>By Alan Rappeport</sub>
+<p>The Biden administration is focusing on making the agency more responsive amid concerns that a funding increase will result in more audits.  <a href="https://nyti.ms/3J2pFp0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Bathroom Bans for Transgender Youths Are Poised for Supreme Court Review</h3>
+<sub>By Adam Liptak</sub>
+<p>A recent ruling created a split among federal appeals courts on whether schools can forbid transgender students to use restrooms matching their gender identities.  <a href="https://nyti.ms/3wrQhYM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>When Students Change Gender Identity, and Parents Don’t Know</h3>
+<sub>By Katie J. M. Baker</sub>
+<p>Educators are facing wrenching new tensions over whether they should tell parents when students socially transition at school.  <a href="https://nyti.ms/3kAyw79"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,17 +132,11 @@ There&#39;s been some tragic violence over the past few days. A 26-year-old hero
 <p>The mistaken premise helps explain why nearly two months elapsed before Mr. Biden’s lawyers searched the garage of his Delaware home for classified records.  <a href="https://nyti.ms/3ZX8LxW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Last Days of Hollywood’s Most Reviled Reporter</h3>
-<sub>By Jacob Bernstein</sub>
-<p>Was Nikki Finke a genius or a monster? Friends and colleagues try to make sense of the entertainment industry’s brashest chronicler.  <a href="https://nyti.ms/3HiPJef"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Bengals End Bills’ Season With Damar Hamlin in Attendance</h3>
-<sub>By Jenny Vrentas</sub>
-<p>Hamlin, the Bills safety who collapsed during the two teams’ previous meeting, was on hand to support his teammates in the A.F.C. divisional round game.  <a href="https://nyti.ms/3GXTzbq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Murdaugh Set to Face Trial Over Murder of Wife and Son</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>The trial of Alex Murdaugh begins on Monday, the centerpiece of a twisted tale of two fatal shootings and the downfall of a South Carolina legal dynasty.  <a href="https://nyti.ms/3iTlUaS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
