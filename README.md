@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 22, Central Standard Time</p>
 <p>
-There&#39;s a lot going on right now in the US and around the world. In the US, there have been a lot of mass shootings recently, and many parents don&#39;t know how to respond when their children change gender identity. There were also investigators who seized classified documents from President Biden&#39;s home, and we&#39;re still getting updates on that. Meanwhile, overseas, people are living with the threat of war in Ukraine, while in Germany there&#39;s backlash over tanks being used for militarization. In another incident, Russian agents may have been involved with mailing bombs in Spain. Here at home, the government has accumulated almost $31 trillion in debt due to various tax cuts and spending increases. Also contained in the omnibus bill for December was hidden health care legislation, which covers lots of important topics like mental health and pandemic preparedness. On a different note, there was an article about the life and times of Hollywood&#39;s most hated reporter Nikki Finke who passed away recently. Lastly, here in New York City there was a trial under state laws from 9&#x2F;11 with a man accused of sowing terror overseas. And sadly, a program providing free school meals has abruptly ended as food prices increase - putting extra strain on families who were relying on it.</p>
+In the U.S., there have been a number of mass shootings recently and the issue of gender identity in schools is top of mind. In the world, Ukraine held a holiday to celebrate their unity while Germany is contending with political issues around military tanks and a post-war aversion to war. Additionally, in Europe there is suspicion of Russian agents directing a far-right group to mail bombs. On the local level, here in the U.S., we had a tribute for Lisa Marie Presley, a Women&#39;s March advocating for abortion rights, families struggling as free school meal programs end due to the pandemic, and finally a giant health bill was passed before the new House took effect that covers mental health, drugs, and pandemic preparedness.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The list of U.S. mass shootings continues to grow.</h3>
@@ -74,23 +74,11 @@ There&#39;s a lot going on right now in the US and around the world. In the US, 
 <p>Educators are facing wrenching new tensions over whether they should tell parents when students socially transition at school.  <a href="https://nyti.ms/3kAyw79"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Investigators Seize More Classified Documents From Biden’s Home</h3>
-<sub>By Michael D. Shear and Katie Rogers</sub>
-<p>A team from the Justice Department conducted a 13-hour search of the president’s Wilmington residence on Friday.  <a href="https://nyti.ms/3GVofdf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Timeline of the Biden Documents Case: What We Know So Far</h3>
-<sub>By Ben Shpigel</sub>
-<p>More details have emerged about the discovery of classified files associated with President Biden.  <a href="https://nyti.ms/3vWs251"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Safe at Home in Dnipro, Until a Russian Missile Struck</h3>
-<sub>By Michael Schwirtz</sub>
-<p>Despite the ever-present danger of war, life in Ukraine proceeds almost normally at times. Then, suddenly, it all changes, as it did in Dnipro last weekend after a missile struck an apartment complex.  <a href="https://nyti.ms/3ZPjudV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<h3>Zelensky Urges Ukrainians to Remain Unified</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>On a day meant to mark the unification of Ukraine in 1919, the country’s leader said it was vital for Ukrainians of all regions to bind together.  <a href="https://nyti.ms/3XwgQbg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Germany’s Reluctance on Tanks Stems From Its History and Its Politics</h3>
@@ -104,6 +92,36 @@ There&#39;s a lot going on right now in the US and around the world. In the US, 
 <p>U.S. officials say the operation may be a signal by Russia that the country and its proxies could carry out more terrorist actions in Europe if nations continue supporting Ukraine.  <a href="https://nyti.ms/3iTAbUX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>He Was Accused of Sowing Terror Overseas. He Was Caught by the N.Y.P.D.</h3>
+<sub>By Colin Moynihan</sub>
+<p>Abdullah el-Faisal is the first person to face trial under state laws passed after Sept. 11. But he was not in the city when the offenses he is accused of took place.  <a href="https://nyti.ms/3QTvh6Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Friends and Family Mourn Lisa Marie Presley at Graceland</h3>
+<sub>By Grayson Haver Currin and Emily Schmall</sub>
+<p>In a memorial service on Sunday, the singer was praised for her perseverance in a life filled with loss.  <a href="https://nyti.ms/3J4U85E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Women’s March Holds Nationwide Rallies on 50th Anniversary of Roe</h3>
+<sub>By Jenna Russell and Ava Sasani</sub>
+<p>The annual march, which was started in 2017 as a reaction to the election of President Donald J. Trump, this year focused on abortion rights.  <a href="https://nyti.ms/3XvGWv1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘We Are on the Right Side of History,’ Harris Says on Roe’s 50th Anniversary</h3>
+<sub>By Katie Rogers</sub>
+<p>The vice president said the Biden administration was “fighting back” against reproductive health restrictions by directing several federal agencies to explore how to support access to the abortion pill.  <a href="https://nyti.ms/3XsrlMJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Families Struggle as Pandemic Program Offering Free School Meals Ends</h3>
+<sub>By Linda Qiu</sub>
+<p>A federal benefit guaranteeing free school meals to millions more students has expired as food prices have risen. Many families are feeling the pinch.  <a href="https://nyti.ms/3D5wySI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How the U.S. Government Amassed $31 Trillion in Debt</h3>
 <sub>By Jim Tankersley</sub>
@@ -114,24 +132,6 @@ There&#39;s a lot going on right now in the US and around the world. In the US, 
 <h3>The December Omnibus Bill’s Little Secret: It Was Also a Giant Health Bill</h3>
 <sub>By Margot Sanger-Katz</sub>
 <p>Congress passed legislation on mental health, drugs, pandemic preparedness, new Medicare benefits and Medicaid expansion — all before the arrival of the new House.  <a href="https://nyti.ms/3kAEZyK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Last Days of Hollywood’s Most Reviled Reporter</h3>
-<sub>By Jacob Bernstein</sub>
-<p>Was Nikki Finke a genius or a monster? Friends and colleagues try to make sense of the entertainment industry’s brashest chronicler.  <a href="https://nyti.ms/3HiPJef"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>He Was Accused of Sowing Terror Overseas. He Was Caught by the N.Y.P.D.</h3>
-<sub>By Colin Moynihan</sub>
-<p>Abdullah el-Faisal is the first person to face trial under state laws passed after Sept. 11. But he was not in the city when the offenses he is accused of took place.  <a href="https://nyti.ms/3QTvh6Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Families Struggle as Pandemic Program Offering Free School Meals Ends</h3>
-<sub>By Linda Qiu</sub>
-<p>A federal benefit guaranteeing free school meals to millions more students has expired as food prices have risen. Many families are feeling the pinch.  <a href="https://nyti.ms/3D5wySI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
