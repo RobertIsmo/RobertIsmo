@@ -58,10 +58,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, January 22, Central Standard Time</p>
+<p>It is Monday, January 23, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, there is a venue in the ballroom dancing community that is drawing large crowds and posts their schedule online in Chinese and English. There are also many schools are facing tensions with parents when their students socially transition. On an international level, Ukrainian citizens have been urged by their leader to remain unified, and US officials believe Russia or it&#39;s proxies carried out terrorist actions in Europe. Additionally, there has been a royal tribute to Lisa Marie Presley, who is the daughter of Elvis Presley, and former Vice President Biden&#39;s lawyers told the Justice Dept. that they believed official files went to a think tank, which explained the delay of searching his Delaware home for classified records. Lastly, there has been an end to a pandemic program offering free school meals for millions of students, meaning families are struggling.</p>
+There are a lot of things going on in the world right now. In the US, something tragic recently happened at a celebration - a man stormed in with a gun and opened fire and one person was killed and another is missing. In Ukraine, their leader is calling for all of the country&#39;s different regions to remain unified. In Spain, some Russian agents are suspected of directing a far-right group to mail bombs. Elsewhere in the US, educators are facing tough decisions as transgender students change gender identity and parents don&#39;t know. Closer to home, an accused terrorist is being put on trial in New York City, but he wasn&#39;t even in the city when he committed the alleged offenses. Meanwhile, the Biden administration made a mistake when they thought official files had gone to a think tank only - turns out they were still in Biden&#39;s house. Finally, millions of families are struggling as pandemic programs offering free school meals end, while food prices rise. Oh, and there was also this story about Hollywood&#39;s most reviled reporter - kind of off-topic but fascinating! And finally in sports, we saw an amazing moment when the Bengals ended the Bills&#39; season with Damar Hamlin (the Bills safety who collapsed during their previous meeting) in attendance to support his teammates.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A celebration turned into a nightmare for one couple on the dance floor.</h3>
+<sub>By Edgar Sandoval</sub>
+<p>A night of celebration turned into a night of horror. Jeff Liu saw a man storm in with a gun and open fire. Mr. Liu saw his wife collapse and has not seen her since.  <a href="https://nyti.ms/3iSVlma"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘No one dared to flee’ as the shooter carried out his rampage.</h3>
+<sub>By Victoria Kim and Ang Li</sub>
+<p>Many had been facing the hall’s wall-length mirror when the shooting occurred. They were practicing guangchang wu, a dance popular among middle-aged and older Chinese patrons.  <a href="https://nyti.ms/3GSGxvu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The venue, a gathering place for ballroom dancers, drew big crowds on Saturday nights.</h3>
 <sub>By Vik Jolly, Isabella Kwai, Shawn Hubler and Jill Cowan</sub>
@@ -99,7 +111,7 @@ There is a lot happening in the world right now. In the US, there is a venue in 
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Lawyers Told Justice Dept. They Thought Official Files Went to Think Tank Only</h3>
+<h3>Biden Lawyers Initially Thought Official Files Went to Think Tank Only</h3>
 <sub>By Charlie Savage</sub>
 <p>The mistaken premise helps explain why nearly two months elapsed before Mr. Biden’s lawyers searched the garage of his Delaware home for classified records.  <a href="https://nyti.ms/3ZX8LxW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
@@ -121,18 +133,6 @@ There is a lot happening in the world right now. In the US, there is a venue in 
 <sub>By Jenny Vrentas</sub>
 <p>Hamlin, the Bills safety who collapsed during the two teams’ previous meeting, was on hand to support his teammates in the A.F.C. divisional round game.  <a href="https://nyti.ms/3GXTzbq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The Many Lessons of Kouign-Amann</h3>
-<sub>By Yewande Komolafe</sub>
-<p>I made this Breton-style cake at least half a dozen times to perfect it. Here’s what it taught me about grief.  <a href="https://nyti.ms/3J3sOok"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Nancy Pelosi, Liberated and Loving It</h3>
-<sub>By Maureen Dowd</sub>
-<p>Madam Speaker is thrilled at what comes next: her grandkids and influence without the headaches of power.  <a href="https://nyti.ms/3J9O8c9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
