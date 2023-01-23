@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 23, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now: A coder is being credited with preventing a mass shooting, Chinese people were in the middle of a traditional dance when the shooting occurred, inflation may be cooling and the effects of uncertain, an agreement has been made between an extremist Republican and current House speaker, an Arizona Democrat is set to challenge his senator from the left, China is facing backlash for its actions toward an island nation, citizens in Moscow are holding quiet protests against war in Ukraine, tech companies which relied on low interest rates are being forced to lay off employees, Microsoft is extending its deal with a generative AI start-up and there was a fatal error involving epidurals administered by an anesthesiologist at a Brooklyn hospital. It&#39;s certainly been a chaotic time.</p>
+Right now, it looks like a lot of things are happening in the world - from people risking their lives to prevent further violence or protect others like Brandon Tsay did, to countries struggling with the economic effects of inflation. In the US, the new Republican majority and former President Trump&#39;s influence continues to loom over politics, while Arizona is setting up for a Democratic senatorial run. Other places around the world are dealing with violent conflicts, like Russia and Ukraine. Even the simple act of providing meals to employees during work has changed as buildings remain empty. Technology companies are also being hit hard by the economy, leading even giants like Spotify and Microsoft to have layoffs and invest heavily in new projects.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Coder Wrested a Pistol From the Gunman’s Hands, Preventing Greater Tragedy</h3>
 <sub>By Victoria Kim</sub>
 <p>Brandon Tsay, 26, is being credited with preventing further violence by subduing the gunman before he could kill more people.  <a href="https://nyti.ms/3wo6UEW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘No one dared to flee’ as the shooter carried out his rampage.</h3>
-<sub>By Victoria Kim and Ang Li</sub>
-<p>Many had been facing the hall’s wall-length mirror when the shooting occurred. They were practicing guangchang wu, a dance popular among middle-aged and older Chinese patrons.  <a href="https://nyti.ms/3GSGxvu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The suspect’s age stands out among mass shooters.</h3>
-<sub>By Jin Yu Young</sub>
-<p>The median age of gunmen in mass shootings in the U.S. over the past six decades is 32, according to the Violence Project. As of 2020, there has only been one other mass shooter over the age of 70.  <a href="https://nyti.ms/3D8pBAp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -98,16 +86,22 @@ There is a lot going on in the world right now: A coder is being credited with p
 <p>Representative Ruben Gallego of Phoenix is set to challenge Ms. Sinema from the left, after she resigned from the Democratic Party.  <a href="https://nyti.ms/3J7Nko7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Mad Dash Into a Strategic Island Nation Breeds Resentment</h3>
-<sub>By Damien Cave and Matthew Abbott</sub>
-<p>For years, Beijing has thrown its wealth and weight across the globe. But its experience in the Solomon Islands calls into question its approach to expanding its power.  <a href="https://nyti.ms/3R0blzg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Central Question as Georgia Inquiry Wraps: Will Trump Face Criminal Charges?</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>The House Jan. 6 committee report offered fresh evidence that former President Donald J. Trump was at the center of efforts to overturn election results in Georgia.  <a href="https://nyti.ms/3H4wDY5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Moscow, a Quiet Antiwar Protest With Flowers and Plush Toys</h3>
 <sub>By Valerie Hopkins and Nanna Heitmann</sub>
 <p>Amid Russia’s crackdown on resistance to the war in Ukraine, some have dared to lay bouquets and other offerings at a statue of a Ukrainian poet, protesting the recent Russian strike on civilians in Dnipro.  <a href="https://nyti.ms/3iYm4h2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Hilderbabes Take Nantucket</h3>
+<sub>By Elisabeth Egan</sub>
+<p>This month, hundreds of Elin Hilderbrand’s fans flocked to her freezing cold island to dance, shop, do yoga and drink espresso martinis with their favorite author. Why?  <a href="https://nyti.ms/3wteq17"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -123,15 +117,21 @@ There is a lot going on in the world right now: A coder is being credited with p
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Microsoft Extends Multibillion-Dollar Deal With Creator of ChatGPT</h3>
+<h3>Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT</h3>
 <sub>By Cade Metz and Karen Weise</sub>
-<p>The tech giant aims to to remain at the forefront of generative artificial intelligence with its partnership with OpenAI.  <a href="https://nyti.ms/3kD5HXw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The tech giant aims to remain at the forefront of generative artificial intelligence with its partnership with OpenAI.  <a href="https://nyti.ms/3kD5HXw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A Deadly Epidural, Delivered by a Doctor With a History of Mistakes</h3>
 <sub>By Joseph Goldstein</sub>
 <p>Inspectors found that an anesthesiologist at a Brooklyn hospital made numerous errors in administering epidurals. Some were life-threatening. One was fatal.  <a href="https://nyti.ms/3wlte1V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The Corporate Cafeteria Is Broken. So How to Feed Workers?</h3>
+<sub>By Kim Severson</sub>
+<p>Even as the sprawling dining halls of old struggle with emptier workplaces, food is still important to employees, particularly the young. Many companies are reinventing the company meal.  <a href="https://nyti.ms/3j1qkMP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
