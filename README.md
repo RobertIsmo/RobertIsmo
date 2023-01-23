@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 22, Central Standard Time</p>
 <p>
-In the U.S., there have been a number of mass shootings recently and the issue of gender identity in schools is top of mind. In the world, Ukraine held a holiday to celebrate their unity while Germany is contending with political issues around military tanks and a post-war aversion to war. Additionally, in Europe there is suspicion of Russian agents directing a far-right group to mail bombs. On the local level, here in the U.S., we had a tribute for Lisa Marie Presley, a Women&#39;s March advocating for abortion rights, families struggling as free school meal programs end due to the pandemic, and finally a giant health bill was passed before the new House took effect that covers mental health, drugs, and pandemic preparedness.</p>
+There is a lot happening in the world right now. In the US, there is a venue in the ballroom dancing community that is drawing large crowds and posts their schedule online in Chinese and English. There are also many schools are facing tensions with parents when their students socially transition. On an international level, Ukrainian citizens have been urged by their leader to remain unified, and US officials believe Russia or it&#39;s proxies carried out terrorist actions in Europe. Additionally, there has been a royal tribute to Lisa Marie Presley, who is the daughter of Elvis Presley, and former Vice President Biden&#39;s lawyers told the Justice Dept. that they believed official files went to a think tank, which explained the delay of searching his Delaware home for classified records. Lastly, there has been an end to a pandemic program offering free school meals for millions of students, meaning families are struggling.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The list of U.S. mass shootings continues to grow.</h3>
-<sub>By The New York Times</sub>
-<p>The shooting in Monterey Park, Calif., is the deadliest in the United States since the Uvalde massacre last year.  <a href="https://nyti.ms/3GYBeuK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The venue, a gathering place for ballroom dancers, drew big crowds on Saturday nights.</h3>
+<sub>By Vik Jolly, Isabella Kwai, Shawn Hubler and Jill Cowan</sub>
+<p>The playlists often included songs in Chinese. The venue posts its schedule online in English and Chinese.  <a href="https://nyti.ms/3WtmZUf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,16 +80,16 @@ In the U.S., there have been a number of mass shootings recently and the issue o
 <p>On a day meant to mark the unification of Ukraine in 1919, the country’s leader said it was vital for Ukrainians of all regions to bind together.  <a href="https://nyti.ms/3XwgQbg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Germany’s Reluctance on Tanks Stems From Its History and Its Politics</h3>
-<sub>By Steven Erlanger and Erika Solomon</sub>
-<p>A post-Nazi aversion to war and a commitment to promoting peace through engagement combines with an old fixation on Russia and a deep aversion to leading militarily.  <a href="https://nyti.ms/3iXnOXK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Russian Agents Suspected of Directing Far-Right Group to Mail Bombs in Spain</h3>
 <sub>By Edward Wong, Julian E. Barnes and Eric Schmitt</sub>
 <p>U.S. officials say the operation may be a signal by Russia that the country and its proxies could carry out more terrorist actions in Europe if nations continue supporting Ukraine.  <a href="https://nyti.ms/3iTAbUX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Daughter of a King, and a Legacy of Tears</h3>
+<sub>By Richard Fausset</sub>
+<p>At Graceland, family and friends gave a royal tribute to Lisa Marie Presley, whose life at times seemed to personify the dark streak of her father’s music.  <a href="https://nyti.ms/3ky2XuD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -99,21 +99,9 @@ In the U.S., there have been a number of mass shootings recently and the issue o
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Friends and Family Mourn Lisa Marie Presley at Graceland</h3>
-<sub>By Grayson Haver Currin and Emily Schmall</sub>
-<p>In a memorial service on Sunday, the singer was praised for her perseverance in a life filled with loss.  <a href="https://nyti.ms/3J4U85E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Women’s March Holds Nationwide Rallies on 50th Anniversary of Roe</h3>
-<sub>By Jenna Russell and Ava Sasani</sub>
-<p>The annual march, which was started in 2017 as a reaction to the election of President Donald J. Trump, this year focused on abortion rights.  <a href="https://nyti.ms/3XvGWv1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘We Are on the Right Side of History,’ Harris Says on Roe’s 50th Anniversary</h3>
-<sub>By Katie Rogers</sub>
-<p>The vice president said the Biden administration was “fighting back” against reproductive health restrictions by directing several federal agencies to explore how to support access to the abortion pill.  <a href="https://nyti.ms/3XsrlMJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Lawyers Told Justice Dept. They Thought Official Files Went to Think Tank Only</h3>
+<sub>By Charlie Savage</sub>
+<p>The mistaken premise helps explain why nearly two months elapsed before Mr. Biden’s lawyers searched the garage of his Delaware home for classified records.  <a href="https://nyti.ms/3ZX8LxW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,17 +110,29 @@ In the U.S., there have been a number of mass shootings recently and the issue o
 <p>A federal benefit guaranteeing free school meals to millions more students has expired as food prices have risen. Many families are feeling the pinch.  <a href="https://nyti.ms/3D5wySI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How the U.S. Government Amassed $31 Trillion in Debt</h3>
-<sub>By Jim Tankersley</sub>
-<p>Two decades of tax cuts, recession responses and bipartisan spending fueled more borrowing — contributing $25 trillion to the total and setting the stage for another federal showdown.  <a href="https://nyti.ms/3R42lt2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Last Days of Hollywood’s Most Reviled Reporter</h3>
+<sub>By Jacob Bernstein</sub>
+<p>Was Nikki Finke a genius or a monster? Friends and colleagues try to make sense of the entertainment industry’s brashest chronicler.  <a href="https://nyti.ms/3HiPJef"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Bengals End Bills’ Season With Damar Hamlin in Attendance</h3>
+<sub>By Jenny Vrentas</sub>
+<p>Hamlin, the Bills safety who collapsed during the two teams’ previous meeting, was on hand to support his teammates in the A.F.C. divisional round game.  <a href="https://nyti.ms/3GXTzbq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The December Omnibus Bill’s Little Secret: It Was Also a Giant Health Bill</h3>
-<sub>By Margot Sanger-Katz</sub>
-<p>Congress passed legislation on mental health, drugs, pandemic preparedness, new Medicare benefits and Medicaid expansion — all before the arrival of the new House.  <a href="https://nyti.ms/3kAEZyK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The Many Lessons of Kouign-Amann</h3>
+<sub>By Yewande Komolafe</sub>
+<p>I made this Breton-style cake at least half a dozen times to perfect it. Here’s what it taught me about grief.  <a href="https://nyti.ms/3J3sOok"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Nancy Pelosi, Liberated and Loving It</h3>
+<sub>By Maureen Dowd</sub>
+<p>Madam Speaker is thrilled at what comes next: her grandkids and influence without the headaches of power.  <a href="https://nyti.ms/3J9O8c9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
