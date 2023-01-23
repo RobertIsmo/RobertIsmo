@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 23, Central Standard Time</p>
 <p>
-There are a lot of things going on in the world right now. In the US, something tragic recently happened at a celebration - a man stormed in with a gun and opened fire and one person was killed and another is missing. In Ukraine, their leader is calling for all of the country&#39;s different regions to remain unified. In Spain, some Russian agents are suspected of directing a far-right group to mail bombs. Elsewhere in the US, educators are facing tough decisions as transgender students change gender identity and parents don&#39;t know. Closer to home, an accused terrorist is being put on trial in New York City, but he wasn&#39;t even in the city when he committed the alleged offenses. Meanwhile, the Biden administration made a mistake when they thought official files had gone to a think tank only - turns out they were still in Biden&#39;s house. Finally, millions of families are struggling as pandemic programs offering free school meals end, while food prices rise. Oh, and there was also this story about Hollywood&#39;s most reviled reporter - kind of off-topic but fascinating! And finally in sports, we saw an amazing moment when the Bengals ended the Bills&#39; season with Damar Hamlin (the Bills safety who collapsed during their previous meeting) in attendance to support his teammates.</p>
+There&#39;s been some tragic violence over the past few days. A 26-year-old hero disarmed a mass shooter in the US, but unfortunately one couple on the dance floor was affected by the attack. In Ukraine, their leader is urging all Ukrainians to stay unified, and in Spain, reports show Russian agents may have directed a far-right group to carry out mail bombs. China has also been expanding its power in the Solomon Islands, which has been met with some resentment. On a lighter note, Lisa Marie Presley was given a royal tribute at Graceland and an accused terrorist was apprehended by the NYPD in New York. Joe Biden&#39;s lawyers made a mistake in assuming official files would be kept in a think tank, and a reporter whose tenacity often earned her scorn from Hollywood bigwigs was remembered by those who knew her best. Finally, football fans watched Damar Hamlin, who had collapsed during the team&#39;s last meeting, come together with his teammates for their divisional round game.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A 26-year-old coder wrested an assault pistol from the gunman’s hands, preventing a greater tragedy.</h3>
+<sub>By Victoria Kim</sub>
+<p>Brandon Tsay is being credited with preventing further violence by subduing the mass shooter before he could kill more people.  <a href="https://nyti.ms/3wo6UEW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A celebration turned into a nightmare for one couple on the dance floor.</h3>
 <sub>By Edgar Sandoval</sub>
@@ -72,12 +78,6 @@ There are a lot of things going on in the world right now. In the US, something 
 <h3>‘No one dared to flee’ as the shooter carried out his rampage.</h3>
 <sub>By Victoria Kim and Ang Li</sub>
 <p>Many had been facing the hall’s wall-length mirror when the shooting occurred. They were practicing guangchang wu, a dance popular among middle-aged and older Chinese patrons.  <a href="https://nyti.ms/3GSGxvu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The venue, a gathering place for ballroom dancers, drew big crowds on Saturday nights.</h3>
-<sub>By Vik Jolly, Isabella Kwai, Shawn Hubler and Jill Cowan</sub>
-<p>The playlists often included songs in Chinese. The venue posts its schedule online in English and Chinese.  <a href="https://nyti.ms/3WtmZUf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,6 +98,12 @@ There are a lot of things going on in the world right now. In the US, something 
 <p>U.S. officials say the operation may be a signal by Russia that the country and its proxies could carry out more terrorist actions in Europe if nations continue supporting Ukraine.  <a href="https://nyti.ms/3iTAbUX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Mad Dash Into a Strategic Island Nation Breeds Resentment</h3>
+<sub>By Damien Cave and Matthew Abbott</sub>
+<p>For years, Beijing has thrown its wealth and weight across the globe. But its experience in the Solomon Islands calls into question its approach to expanding its power.  <a href="https://nyti.ms/3R0blzg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Daughter of a King, and a Legacy of Tears</h3>
 <sub>By Richard Fausset</sub>
@@ -114,12 +120,6 @@ There are a lot of things going on in the world right now. In the US, something 
 <h3>Biden Lawyers Initially Thought Official Files Went to Think Tank Only</h3>
 <sub>By Charlie Savage</sub>
 <p>The mistaken premise helps explain why nearly two months elapsed before Mr. Biden’s lawyers searched the garage of his Delaware home for classified records.  <a href="https://nyti.ms/3ZX8LxW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Families Struggle as Pandemic Program Offering Free School Meals Ends</h3>
-<sub>By Linda Qiu</sub>
-<p>A federal benefit guaranteeing free school meals to millions more students has expired as food prices have risen. Many families are feeling the pinch.  <a href="https://nyti.ms/3D5wySI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
