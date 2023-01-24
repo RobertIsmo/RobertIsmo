@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 23, Central Standard Time</p>
 <p>
-Right now, climate change is becoming an increasingly pressing issue. Trump’s time in office led to an exodus of environmental policy experts, leaving the Environmental Protection Agency (EPA) “traumatized” and struggling to fulfill its mission. Meanwhile, police officers in Torrance, California recently encountered a fugitive who pulled off the road and took his own life. Closer to home, a trial involving members of a far-right militia ended with four of them convicted of sedition. Down in Georgia, the House Jan 6 committee reported that former President Donald J Trump was at the center of efforts to overturn results of the election there. Elsewhere, a jury convicted a man who posed with his boot on Speaker Nancy Pelosi’s desk during the Jan 6 Capitol riots. To help prevent future widespread infections from happening again, the Food and Drug Administration (FDA) proposed offering new shots of Covid-19 vaccines each fall. In Moscow, some people risked criminal charges to protest Russia&#39;s bombing campaigns in Ukraine by leaving flower bouquets and plush toys at a statue commemorating a Ukrainian poet. Meanwhile, Elin Hilderbrand fans were able to meet up for fun activities like dancing and drinking espresso martinis on Nantucket Island. Moving onto tech companies- years of easy money pumped billions into start-ups and experimenting with physical realities have come to an end this year when reality hit hard in 2023. Closer to home, regulators concluded that an anesthesiologist made several potentially life-threatening mistakes when administering epidurals that resulted in one deadly incident. And lastly, as workspaces slowly open up again after such a long lockdown period, many employers are trying to figure out ways they can provide meals for their employees without having to open large corporate cafeterias.</p>
+There have been a lot of tragic news in the US over the past few weeks. A gunman attacked a ballroom in California, 11 people were killed at a Los Angeles dance club, and there has been a far-right militia guilty of seditious conspiracy. Former President Donald J. Trump was also at the center of efforts to overturn election results in Georgia, and four members of his cabinet have been convicted of sedition. Additionally, a man who posed with a boot on Speaker Nancy Pelosi’s desk during the storming of the Capitol was jury-convicted. 
+
+In health news, the FDA has released plans for Americans to get new Covid shots each autumn, and worldwide protests against war are slowly gaining traction even amid crackdowns by Russia. Elsewhere, book author Elin Hilderbrand brought hundreds of her fans to cold Nantucket for a weekend getaway, and technology companies may face more difficult times now that interest rates are back to normal levels.</p>
 <ol>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Depleted Under Trump, a ‘Traumatized’ E.P.A. Struggles With Its Mission</h3>
-<sub>By Lisa Friedman</sub>
-<p>Despite an injection of funding, the agency still has not recovered from an exodus of scientists and policy experts, both insiders and critics say.  <a href="https://nyti.ms/3j2rW91"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Authorities Ask Why Gunman Attacked California Ballroom He Once Enjoyed</h3>
+<sub>By Tim Arango and Jill Cowan</sub>
+<p>The authorities did not specify a motive in attack that killed 11, but investigators were focusing on the theory that the gunman was driven by personal grievances.  <a href="https://nyti.ms/3ZYXFbW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Dreamy Place of Refuge Turns Into Another Spasm of American Violence</h3>
+<sub>By Shawn Hubler, Corina Knoll and Livia Albeck-Ripka</sub>
+<p>Officials are still releasing the names of the 11 people killed at a Los Angeles dance club.  <a href="https://nyti.ms/3HswXkO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,10 +82,10 @@ Right now, climate change is becoming an increasingly pressing issue. Trump’s 
 <p>  <a href="https://nyti.ms/3HrsOxm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here’s what we know about the suspected gunman.</h3>
-<sub>By Tim Arango</sub>
-<p>He was 72, divorced and a naturalized U.S. citizen, according to information from the police and legal documents.  <a href="https://nyti.ms/3ZYXFbW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Depleted Under Trump, a ‘Traumatized’ E.P.A. Struggles With Its Mission</h3>
+<sub>By Lisa Friedman</sub>
+<p>Despite an injection of funding, the agency still has not recovered from an exodus of scientists and policy experts, both insiders and critics say.  <a href="https://nyti.ms/3j2rW91"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,6 +112,12 @@ Right now, climate change is becoming an increasingly pressing issue. Trump’s 
 <p>In advance of a scientific meeting on Thursday, officials proposed offering new shots to Americans each fall, a strategy long employed against the flu.  <a href="https://nyti.ms/3HqKvgD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About Tyre Nichols’s Lethal Encounter With Memphis Police</h3>
+<sub>By Rick Rojas</sub>
+<p>Lawyers for Mr. Nichols’s family said he was beaten by officers for three minutes, according to video footage that has yet to be publicly released.  <a href="https://nyti.ms/3Xw5Ive"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Moscow, a Quiet Antiwar Protest With Flowers and Plush Toys</h3>
 <sub>By Valerie Hopkins and Nanna Heitmann</sub>
@@ -120,18 +134,6 @@ Right now, climate change is becoming an increasingly pressing issue. Trump’s 
 <h3>For Tech Companies, Years of Easy Money Yield to Hard Times</h3>
 <sub>By David Streitfeld</sub>
 <p>Rock-bottom rates were the secret engine fueling $1 billion start-ups and virtual attempts to conquer the physical world. But in 2023, reality bites.  <a href="https://nyti.ms/3JpEp1x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Deadly Epidural, Delivered by a Doctor With a History of Mistakes</h3>
-<sub>By Joseph Goldstein</sub>
-<p>Inspectors found that an anesthesiologist at a Brooklyn hospital made numerous errors in administering epidurals. Some were life-threatening. One was fatal.  <a href="https://nyti.ms/3wlte1V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The Corporate Cafeteria Is Broken. So How to Feed Workers?</h3>
-<sub>By Kim Severson</sub>
-<p>Even as the sprawling dining halls of old struggle with emptier workplaces, food is still important to employees, particularly the young. Many companies are reinventing the company meal.  <a href="https://nyti.ms/3j1qkMP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
