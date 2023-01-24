@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 24, Central Standard Time</p>
 <p>
-Right now, it&#39;s a complicated world. In the US, there have been several mass shootings recently and the police arrested a 67-year-old suspect for one of them. People are mourning the victims and trying to figure out what can be done to stop the violence. On top of that, there&#39;s a resurgence of the Cold War, with Russia&#39;s war breathing new life into a Cold War symbol. Meanwhile in Germany, some are asking if it should become a great military power again, considering recent aggression from Russia.
-
-In addition, governments around the world are struggling with how to pay for extremely costly medical treatments. And closer to home, people are back in lines - but they aren&#39;t waiting for Covid tests this time. Instead they&#39;re waiting for Sondheim plays and croissants and brunch! And in Pennsylvania there&#39;s a big power struggle between three factions of the Republican party who all claim to be in charge.
-
-On the health side of things, Covid is still a major presence. An analysis in New York showed that 71% of people with long Covid needed continuing medical care or were unable to work for six months or more. The FDA has proposed that Americans get Covid booster shots each fall, similar to the yearly flu shots many people get.</p>
+Right now, there are a lot of complex international geopolitical tensions that have been ongoing for some time, particularly in Europe and the surrounding areas. For example, Russia is trying to reestablish itself as a Cold War symbol, while Ukraine is asking for military support from Germany and other countries. There have been several mass shooting incidents in the US recently, prompting discussions around gun control and banning certain weapons. On the economic front, lots of people have invested their savings into homes that are yet to be built; this has caused people to question a lot of government policies around investments. Additionally, many countries are struggling to pay for expensive medical treatments due to limited funds.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia’s War Breathes New Life Into a Cold War Symbol</h3>
+<sub>By Matina Stevis-Gridneff</sub>
+<p>Radio Free Europe&#x2F;Radio Liberty, a news network originally set up as a C.I.A. operation early in the Cold War, is experiencing a renaissance and making a case for its independence.  <a href="https://nyti.ms/3HoIGAC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A decision on sending tanks to Ukraine will come soon, the German defense minister says.</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Kyiv has been pleading for months for hundreds of modern battle tanks to reinforce its battered Soviet-era fleet.  <a href="https://nyti.ms/3wr63DC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>7 Killed in Half Moon Bay as California Mourns Earlier Mass Shooting</h3>
 <sub>By Holly Secon, John Yoon and Jin Yu Young</sub>
@@ -75,7 +83,7 @@ On the health side of things, Covid is still a major presence. An analysis in Ne
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Tragedy Upon Tragedy’: January Brings Dozens of Mass Shootings So Far</h3>
 <sub>By J. David Goodman, Amy Harmon and Adeel Hassan</sub>
-<p>In the first three weeks of 2023, at least 67 people have been killed in mass shootings across the country, including two within days of each other in California.  <a href="https://nyti.ms/3JfXIdz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In the first few weeks of 2023, at least 69 people have been killed in mass shootings across the country, including two shootings within days of each other in California.  <a href="https://nyti.ms/3JfXIdz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -84,11 +92,11 @@ On the health side of things, Covid is still a major presence. An analysis in Ne
 <p>Officials are still releasing the names of the 11 people killed at a Los Angeles dance club.  <a href="https://nyti.ms/3HswXkO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s War Breathes New Life Into a Cold War Symbol</h3>
-<sub>By Matina Stevis-Gridneff</sub>
-<p>Radio Free Europe&#x2F;Radio Liberty, a news network originally set up as a C.I.A. operation early in the Cold War, is experiencing a renaissance and making a case for its independence.  <a href="https://nyti.ms/3HoIGAC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Shootings revive push for an assault weapons ban.</h3>
+<sub>By John Yoon</sub>
+<p>The 1994 ban blocked the sale of 19 specific weapons that have the features of guns used by the military. It expired in 2004 and any new proposals are unlikely to pass a divided Senate.  <a href="https://nyti.ms/3ZZMhww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Can Germany Be a Great Military Power Again?</h3>
@@ -96,16 +104,22 @@ On the health side of things, Covid is still a major presence. An analysis in Ne
 <p>Leery of Russian aggression, Europe’s economic giant is making a historic attempt to revitalize its armed forces. It has a long way to go.  <a href="https://nyti.ms/3kD3StT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Oscars 2023 Nominee List</h3>
+<sub>By Gabe Cohn</sub>
+<p>The complete list of Academy Award nominees for 2023.  <a href="https://nyti.ms/3WBDtKd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Will the Real G.O.P. Please Stand Up? A National Power Struggle Goes Local.</h3>
+<sub>By Charles Homans</sub>
+<p>In one deep-red pocket of rural Pennsylvania, three warring factions each claim to represent the Republican Party. Tensions boiled over in a scuffle over a booth at a farm show.  <a href="https://nyti.ms/3DaCEBi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>A Dilemma for Governments: How to Pay for Million-Dollar Therapies</h3>
 <sub>By Rebecca Robbins, Stephanie Nolen and Dado Galdieri</sub>
 <p>A wave of transformative but hugely expensive treatments is challenging the budgets of health systems in wealthy nations. Now countries with far fewer resources are wrestling with how to cover the therapies.  <a href="https://nyti.ms/3kyg8M5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What Are People in New York Lining Up for Now?</h3>
-<sub>By Dodai Stewart</sub>
-<p>Stressful Covid lines are out, and happy lines are back, with New Yorkers and visitors queuing up for Sondheim, croissants and brunch.  <a href="https://nyti.ms/3Hrk62d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -119,24 +133,6 @@ On the health side of things, Covid is still a major presence. An analysis in Ne
 <sub>By Isabelle Qian and Agnes Chang</sub>
 <p>What is it like to pour your life savings into apartments that might never get built?  <a href="https://nyti.ms/3DaF9TX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Will the Real G.O.P. Please Stand Up? A National Power Struggle Goes Local.</h3>
-<sub>By Charles Homans</sub>
-<p>In one deep-red pocket of rural Pennsylvania, three warring factions each claim to represent the Republican Party. Tensions boiled over in a scuffle over a booth at a farm show.  <a href="https://nyti.ms/3DaCEBi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Long Covid Is Keeping Significant Numbers of People Out of Work, Study Finds</h3>
-<sub>By Pam Belluck</sub>
-<p>An analysis of workers’ compensation claims in New York found that 71 percent of claimants with long Covid needed continuing medical treatment or were unable to work for six months or more.  <a href="https://nyti.ms/3wqUgFe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>F.D.A. Outlines a Plan for Annual Covid Boosters</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>In advance of a scientific meeting on Thursday, officials proposed offering new shots to Americans each fall, a strategy long employed against the flu.  <a href="https://nyti.ms/3HqKvgD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
