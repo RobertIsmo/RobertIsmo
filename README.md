@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 24, Central Standard Time</p>
 <p>
-It&#39;s a pretty rough picture out there right now. We&#39;ve had dozens of mass shootings across the US in the first few weeks of 2023, killing over sixty people. The Pentagon is increasing artillery production for Ukraine, and there&#39;s some controversy around classified documents found at former Vice President Pence&#39;s home in Indiana. On the tech front, Google is facing an antitrust lawsuit from the US Department of Justice. Taylor Swift fans are watching the Ticketmaster hearing, and this year&#39;s Oscars nominations have caused quite a stir with several surprises and snubs. The Republican Party is facing internal polarization in Pennsylvania. College athletes are making big money through sponsorships, but with uncertain consequences for others. In other places, people have put their savings into homes that were never built, and New Yorkers are lining up for entertainment and food again. Finally, Native Americans may finally get recognition for safeguarding a sacred site near Las Vegas.</p>
+There has recently been a huge influx of people around the world investing their life savings into purchasing homes, only to find that the developers are taking their money and not actually building the homes. In some cases, the developers are even trying to scam people by taking their money without any plans of building anything at all. This has affected people in many countries, leaving them out of pocket and feeling betrayed.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Tragedy Upon Tragedy’: January Brings Dozens of Mass Shootings So Far</h3>
-<sub>By J. David Goodman, Amy Harmon and Adeel Hassan</sub>
-<p>In the first few weeks of 2023, at least 69 people have been killed in mass shootings across the country, including two shootings within days of each other in California.  <a href="https://nyti.ms/3JfXIdz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden’s Handling of Secret Documents Complicates the Case Against Trump</h3>
+<sub>By Peter Baker</sub>
+<p>The cases are markedly different in their particulars. But they are similar enough that as a practical matter, Democrats will have a hard time using the issue against former President Donald J. Trump.  <a href="https://nyti.ms/3wpCu5l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Classified Documents Found at Pence’s Home in Indiana</h3>
+<sub>By Maggie Haberman</sub>
+<p>The documents were “inadvertently boxed and transported” to the former vice president’s home at the end of the Trump administration, Mr. Pence’s representative wrote in a letter to the National Archives.  <a href="https://nyti.ms/3JeplUa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,21 +81,15 @@ It&#39;s a pretty rough picture out there right now. We&#39;ve had dozens of mas
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Classified Documents Found at Pence’s Home in Indiana</h3>
-<sub>By Maggie Haberman</sub>
-<p>The documents were “inadvertently boxed and transported” to the former vice president’s home at the end of the Trump administration, Mr. Pence’s representative wrote in a letter to the National Archives.  <a href="https://nyti.ms/3JeplUa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>All of the victims of the Monterey Park shooting have now been identified.</h3>
+<sub>By Victoria Kim</sub>
+<p>The 11 people killed on Saturday night at Star Ballroom Dance Studio were six women and five men who ranged in age from 57 to 76.  <a href="https://nyti.ms/40d51c3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>U.S. Accuses Google of Abusing Monopoly in Ad Technology</h3>
 <sub>By David McCabe and Nico Grant</sub>
-<p>The Justice Department’s antitrust lawsuit, which a group of states joined, was the fifth against the company since 2020.  <a href="https://nyti.ms/3kuC4rq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Closely watching the Ticketmaster hearing today: Swifties.</h3>
-<sub>By Anushka Patil and Aishvarya Kavi</sub>
-<p>Taylor Swift’s fans, fueled by Ticketmaster’s botched sales for her upcoming Eras Tour, kept close tabs on the Senate Judiciary Committee’s proceedings on Tuesday morning.  <a href="https://nyti.ms/3XW3qFi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Justice Department’s antitrust lawsuit, which a group of states joined, was the fifth by U.S. officials against the company since 2020.  <a href="https://nyti.ms/3kuC4rq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -102,6 +102,18 @@ It&#39;s a pretty rough picture out there right now. We&#39;ve had dozens of mas
 <h3>Oscars 2023 Nominee List</h3>
 <sub>By Gabe Cohn</sub>
 <p>The complete list of Academy Award nominees for 2023.  <a href="https://nyti.ms/3WBDtKd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Where to Stream ‘The Banshees of Inisherin,’ ‘Elvis’ and More 2023 Oscar Nominees</h3>
+<sub>By Scott Tobias</sub>
+<p>Many of the top contenders can be watched at home. Here’s a guide to help you get a jump on the field.  <a href="https://nyti.ms/3XBRPeO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>4 Takeaways from the Senate’s hearing on Ticketmaster, Taylor Swift and competition.</h3>
+<sub>By Ben Sisario</sub>
+<p>  <a href="https://nyti.ms/3GXPzHC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,18 +132,6 @@ It&#39;s a pretty rough picture out there right now. We&#39;ve had dozens of mas
 <h3>They Poured Their Savings Into Homes That Were Never Built</h3>
 <sub>By Isabelle Qian and Agnes Chang</sub>
 <p>What is it like to pour your life savings into apartments that might never get built?  <a href="https://nyti.ms/3DaF9TX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What Are People in New York Lining Up for Now?</h3>
-<sub>By Dodai Stewart</sub>
-<p>Stressful Covid lines are out, and happy lines are back, with New Yorkers and visitors queuing up for Sondheim, croissants and brunch.  <a href="https://nyti.ms/3Hrk62d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>‘The Place Where Shamans Dream’: Safeguarding Spirit Mountain</h3>
-<sub>By Alex Schechter</sub>
-<p>Less than two hours from Las Vegas, the sacred creation site for Yuman-speaking Native Americans may soon become a national monument. It’s been a long time coming.  <a href="https://nyti.ms/3XxZ47r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
