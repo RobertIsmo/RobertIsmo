@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, January 23, Central Standard Time</p>
+<p>It is Tuesday, January 24, Central Standard Time</p>
 <p>
-There have been a lot of tragic news in the US over the past few weeks. A gunman attacked a ballroom in California, 11 people were killed at a Los Angeles dance club, and there has been a far-right militia guilty of seditious conspiracy. Former President Donald J. Trump was also at the center of efforts to overturn election results in Georgia, and four members of his cabinet have been convicted of sedition. Additionally, a man who posed with a boot on Speaker Nancy Pelosi’s desk during the storming of the Capitol was jury-convicted. 
-
-In health news, the FDA has released plans for Americans to get new Covid shots each autumn, and worldwide protests against war are slowly gaining traction even amid crackdowns by Russia. Elsewhere, book author Elin Hilderbrand brought hundreds of her fans to cold Nantucket for a weekend getaway, and technology companies may face more difficult times now that interest rates are back to normal levels.</p>
+There have been a number of tragic events in recent news. In California, authorities are trying to understand why a gunman attacked a ballroom he used to enjoy, resulting in 11 deaths. In Torrance, police were following another suspect who later killed himself. In Georgia, there is an inquiry as to whether former President Trump will face criminal charges after new evidence surfaced. An Oath Keepers militia group was convicted of sedition in two separate cases, and the F.D.A. is considering an annual Covid booster shot for Americans each fall. Additionally, there have been reports of police brutality against unarmed individuals. There is also trouble within the tech industry after years of easy access to funds, which are now tapering off. On the upbeat side, New Zealand has stunning views, vineyards and sashimi restaurants to explore if you&#39;re ready for a road trip.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Authorities Ask Why Gunman Attacked California Ballroom He Once Enjoyed</h3>
@@ -80,6 +78,12 @@ In health news, the FDA has released plans for Americans to get new Covid shots 
 <h3>Police officers in Torrance were following the suspect when he pulled off the road and killed himself.</h3>
 <sub>By Kellen Browning</sub>
 <p>  <a href="https://nyti.ms/3HrsOxm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia’s War Breathes New Life Into a Cold War Symbol</h3>
+<sub>By Matina Stevis-Gridneff</sub>
+<p>Radio Free Europe&#x2F;Radio Liberty, a news network originally set up as a C.I.A. operation early in the Cold War, is experiencing a renaissance and making a case for its independence.  <a href="https://nyti.ms/3HoIGAC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -118,22 +122,16 @@ In health news, the FDA has released plans for Americans to get new Covid shots 
 <p>Lawyers for Mr. Nichols’s family said he was beaten by officers for three minutes, according to video footage that has yet to be publicly released.  <a href="https://nyti.ms/3Xw5Ive"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Moscow, a Quiet Antiwar Protest With Flowers and Plush Toys</h3>
-<sub>By Valerie Hopkins and Nanna Heitmann</sub>
-<p>Amid Russia’s crackdown on resistance to the war in Ukraine, some have dared to lay bouquets and other offerings at a statue of a Ukrainian poet, protesting the recent Russian strike on civilians in Dnipro.  <a href="https://nyti.ms/3iYm4h2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Hilderbabes Take Nantucket</h3>
-<sub>By Elisabeth Egan</sub>
-<p>This month, hundreds of Elin Hilderbrand’s fans flocked to her freezing cold island to dance, shop, do yoga and drink espresso martinis with their favorite author. Why?  <a href="https://nyti.ms/3wteq17"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>For Tech Companies, Years of Easy Money Yield to Hard Times</h3>
 <sub>By David Streitfeld</sub>
 <p>Rock-bottom rates were the secret engine fueling $1 billion start-ups and virtual attempts to conquer the physical world. But in 2023, reality bites.  <a href="https://nyti.ms/3JpEp1x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>In New Zealand, Sauvignon Wishes and Sashimi Dreams</h3>
+<sub>By Tom Downey</sub>
+<p>A road trip on the country’s South Island offered perfect wines, stunning views, intimate restaurants and the chance to make a pilgrimage to a salmon Shangri-La.  <a href="https://nyti.ms/3J4rB03"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
