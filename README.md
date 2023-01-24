@@ -60,26 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 24, Central Standard Time</p>
 <p>
-Right now, there are a lot of complex international geopolitical tensions that have been ongoing for some time, particularly in Europe and the surrounding areas. For example, Russia is trying to reestablish itself as a Cold War symbol, while Ukraine is asking for military support from Germany and other countries. There have been several mass shooting incidents in the US recently, prompting discussions around gun control and banning certain weapons. On the economic front, lots of people have invested their savings into homes that are yet to be built; this has caused people to question a lot of government policies around investments. Additionally, many countries are struggling to pay for expensive medical treatments due to limited funds.</p>
+It&#39;s a pretty rough picture out there right now. We&#39;ve had dozens of mass shootings across the US in the first few weeks of 2023, killing over sixty people. The Pentagon is increasing artillery production for Ukraine, and there&#39;s some controversy around classified documents found at former Vice President Pence&#39;s home in Indiana. On the tech front, Google is facing an antitrust lawsuit from the US Department of Justice. Taylor Swift fans are watching the Ticketmaster hearing, and this year&#39;s Oscars nominations have caused quite a stir with several surprises and snubs. The Republican Party is facing internal polarization in Pennsylvania. College athletes are making big money through sponsorships, but with uncertain consequences for others. In other places, people have put their savings into homes that were never built, and New Yorkers are lining up for entertainment and food again. Finally, Native Americans may finally get recognition for safeguarding a sacred site near Las Vegas.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s War Breathes New Life Into a Cold War Symbol</h3>
-<sub>By Matina Stevis-Gridneff</sub>
-<p>Radio Free Europe&#x2F;Radio Liberty, a news network originally set up as a C.I.A. operation early in the Cold War, is experiencing a renaissance and making a case for its independence.  <a href="https://nyti.ms/3HoIGAC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A decision on sending tanks to Ukraine will come soon, the German defense minister says.</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Kyiv has been pleading for months for hundreds of modern battle tanks to reinforce its battered Soviet-era fleet.  <a href="https://nyti.ms/3wr63DC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>7 Killed in Half Moon Bay as California Mourns Earlier Mass Shooting</h3>
-<sub>By Holly Secon, John Yoon and Jin Yu Young</sub>
-<p>The police arrested a 67-year-old suspect, who the county sheriff said was “fully cooperating.”  <a href="https://nyti.ms/3HpD612"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Tragedy Upon Tragedy’: January Brings Dozens of Mass Shootings So Far</h3>
 <sub>By J. David Goodman, Amy Harmon and Adeel Hassan</sub>
@@ -87,21 +69,33 @@ Right now, there are a lot of complex international geopolitical tensions that h
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Dreamy Place of Refuge Turns Into Another Spasm of American Violence</h3>
-<sub>By Shawn Hubler, Corina Knoll and Livia Albeck-Ripka</sub>
-<p>Officials are still releasing the names of the 11 people killed at a Los Angeles dance club.  <a href="https://nyti.ms/3HswXkO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Shootings revive push for an assault weapons ban.</h3>
-<sub>By John Yoon</sub>
-<p>The 1994 ban blocked the sale of 19 specific weapons that have the features of guns used by the military. It expired in 2004 and any new proposals are unlikely to pass a divided Senate.  <a href="https://nyti.ms/3ZZMhww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Pentagon Will Increase Artillery Production Sixfold for Ukraine</h3>
+<sub>By John Ismay and Eric Lipton</sub>
+<p>The Army’s top acquisition official says production of the 155-millimeter shells badly needed by Kyiv will rise to 90,000 a month in two years.  <a href="https://nyti.ms/3JecNwc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Can Germany Be a Great Military Power Again?</h3>
-<sub>By James Angelos</sub>
-<p>Leery of Russian aggression, Europe’s economic giant is making a historic attempt to revitalize its armed forces. It has a long way to go.  <a href="https://nyti.ms/3kD3StT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Classified Documents Found at Pence’s Home in Indiana</h3>
+<sub>By Maggie Haberman</sub>
+<p>The documents were “inadvertently boxed and transported” to the former vice president’s home at the end of the Trump administration, Mr. Pence’s representative wrote in a letter to the National Archives.  <a href="https://nyti.ms/3JeplUa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>U.S. Accuses Google of Abusing Monopoly in Ad Technology</h3>
+<sub>By David McCabe and Nico Grant</sub>
+<p>The Justice Department’s antitrust lawsuit, which a group of states joined, was the fifth against the company since 2020.  <a href="https://nyti.ms/3kuC4rq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Closely watching the Ticketmaster hearing today: Swifties.</h3>
+<sub>By Anushka Patil and Aishvarya Kavi</sub>
+<p>Taylor Swift’s fans, fueled by Ticketmaster’s botched sales for her upcoming Eras Tour, kept close tabs on the Senate Judiciary Committee’s proceedings on Tuesday morning.  <a href="https://nyti.ms/3XW3qFi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>2023 Oscar Nominations: Snubs and Surprises</h3>
+<sub>By Kyle Buchanan</sub>
+<p>It’s a record-setting year for performers of Asian descent. In the actress race, there’s room for Andrea Riseborough but not Viola Davis or Danielle Deadwyler.  <a href="https://nyti.ms/3H7OYn7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -116,22 +110,28 @@ Right now, there are a lot of complex international geopolitical tensions that h
 <p>In one deep-red pocket of rural Pennsylvania, three warring factions each claim to represent the Republican Party. Tensions boiled over in a scuffle over a booth at a farm show.  <a href="https://nyti.ms/3DaCEBi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>A Dilemma for Governments: How to Pay for Million-Dollar Therapies</h3>
-<sub>By Rebecca Robbins, Stephanie Nolen and Dado Galdieri</sub>
-<p>A wave of transformative but hugely expensive treatments is challenging the budgets of health systems in wealthy nations. Now countries with far fewer resources are wrestling with how to cover the therapies.  <a href="https://nyti.ms/3kyg8M5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Unknown Hedge Fund That Got $400 Million From Sam Bankman-Fried</h3>
-<sub>By David Yaffe-Bellany, Matthew Goldstein and Royston Jones Jr.</sub>
-<p>After the collapse of FTX, prosecutors and lawyers have scrutinized its discredited founder’s huge investment in Modulo Capital.  <a href="https://nyti.ms/3kun5xE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Student. 						Athlete. 															Mogul?</h3>
+<sub>By Bruce Schoenfeld</sub>
+<p>Now that college players are allowed to cut sponsorship deals, some of them are raking in the money — but at what cost to the rest?  <a href="https://nyti.ms/3Xx6MyM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>They Poured Their Savings Into Homes That Were Never Built</h3>
 <sub>By Isabelle Qian and Agnes Chang</sub>
 <p>What is it like to pour your life savings into apartments that might never get built?  <a href="https://nyti.ms/3DaF9TX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What Are People in New York Lining Up for Now?</h3>
+<sub>By Dodai Stewart</sub>
+<p>Stressful Covid lines are out, and happy lines are back, with New Yorkers and visitors queuing up for Sondheim, croissants and brunch.  <a href="https://nyti.ms/3Hrk62d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>‘The Place Where Shamans Dream’: Safeguarding Spirit Mountain</h3>
+<sub>By Alex Schechter</sub>
+<p>Less than two hours from Las Vegas, the sacred creation site for Yuman-speaking Native Americans may soon become a national monument. It’s been a long time coming.  <a href="https://nyti.ms/3XxZ47r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
