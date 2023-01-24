@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 23, Central Standard Time</p>
 <p>
-It looks like the world is in some pretty tumultuous times. The EPA is still suffering from the effects of an exodus of experts and policy makers under Trump&#39;s rule, which will continue to have an effect on climate change regulation. There was also a gunman who was luckily disarmed by a coder, and then four members of a far-right militia were convicted of sedition. We don&#39;t know yet what will happen with Trump with regards to criminal charges in Georgia, while another man who posed in Nancy Pelosi&#39;s office is facing jury convictions. Vaccines are being proposed to help keep Covid cases down, while the economy is adjusting to cooler inflation rates and tech companies are beginning to feel the squeeze of lower interest rates. Finally, readers got to unite in person with their favorite author Elin Hilderbrand on Nantucket Island.</p>
+Right now, climate change is becoming an increasingly pressing issue. Trump’s time in office led to an exodus of environmental policy experts, leaving the Environmental Protection Agency (EPA) “traumatized” and struggling to fulfill its mission. Meanwhile, police officers in Torrance, California recently encountered a fugitive who pulled off the road and took his own life. Closer to home, a trial involving members of a far-right militia ended with four of them convicted of sedition. Down in Georgia, the House Jan 6 committee reported that former President Donald J Trump was at the center of efforts to overturn results of the election there. Elsewhere, a jury convicted a man who posed with his boot on Speaker Nancy Pelosi’s desk during the Jan 6 Capitol riots. To help prevent future widespread infections from happening again, the Food and Drug Administration (FDA) proposed offering new shots of Covid-19 vaccines each fall. In Moscow, some people risked criminal charges to protest Russia&#39;s bombing campaigns in Ukraine by leaving flower bouquets and plush toys at a statue commemorating a Ukrainian poet. Meanwhile, Elin Hilderbrand fans were able to meet up for fun activities like dancing and drinking espresso martinis on Nantucket Island. Moving onto tech companies- years of easy money pumped billions into start-ups and experimenting with physical realities have come to an end this year when reality hit hard in 2023. Closer to home, regulators concluded that an anesthesiologist made several potentially life-threatening mistakes when administering epidurals that resulted in one deadly incident. And lastly, as workspaces slowly open up again after such a long lockdown period, many employers are trying to figure out ways they can provide meals for their employees without having to open large corporate cafeterias.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Depleted Under Trump, a ‘Traumatized’ E.P.A. Struggles With Its Mission</h3>
@@ -69,9 +69,15 @@ It looks like the world is in some pretty tumultuous times. The EPA is still suf
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Coder Wrested a Pistol From the Gunman’s Hands, Preventing Greater Tragedy</h3>
-<sub>By Victoria Kim</sub>
-<p>Brandon Tsay, 26, is being credited with preventing further violence by subduing the gunman before he could kill more people.  <a href="https://nyti.ms/3wo6UEW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Police officers in Torrance were following the suspect when he pulled off the road and killed himself.</h3>
+<sub>By Kellen Browning</sub>
+<p>  <a href="https://nyti.ms/3HrsOxm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here’s what we know about the suspected gunman.</h3>
+<sub>By Tim Arango</sub>
+<p>He was 72, divorced and a naturalized U.S. citizen, according to information from the police and legal documents.  <a href="https://nyti.ms/3ZYXFbW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,28 +104,10 @@ It looks like the world is in some pretty tumultuous times. The EPA is still suf
 <p>In advance of a scientific meeting on Thursday, officials proposed offering new shots to Americans each fall, a strategy long employed against the flu.  <a href="https://nyti.ms/3HqKvgD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Is Cooling, Leaving America Asking: What Comes Next?</h3>
-<sub>By Jeanna Smialek</sub>
-<p>After six months of declines, inflation seems to be turning a corner. But the road back to normal is an uncertain one.  <a href="https://nyti.ms/3wmEQlj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Moscow, a Quiet Antiwar Protest With Flowers and Plush Toys</h3>
 <sub>By Valerie Hopkins and Nanna Heitmann</sub>
 <p>Amid Russia’s crackdown on resistance to the war in Ukraine, some have dared to lay bouquets and other offerings at a statue of a Ukrainian poet, protesting the recent Russian strike on civilians in Dnipro.  <a href="https://nyti.ms/3iYm4h2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Kevin McCarthy Forged an Ironclad Bond With Marjorie Taylor Greene</h3>
-<sub>By Jonathan Swan and Catie Edmondson</sub>
-<p>The close alliance that has developed between the speaker and the hard-right Georgia Republican explains his rise, how he might govern and the heavy influence of the extremes on the new House G.O.P. majority.  <a href="https://nyti.ms/3XRStVw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrat in Arizona Will Seek Kyrsten Sinema’s Senate Seat</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>Representative Ruben Gallego of Phoenix is set to challenge Ms. Sinema from the left, after she resigned from the Democratic Party.  <a href="https://nyti.ms/3J7Nko7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -132,6 +120,18 @@ It looks like the world is in some pretty tumultuous times. The EPA is still suf
 <h3>For Tech Companies, Years of Easy Money Yield to Hard Times</h3>
 <sub>By David Streitfeld</sub>
 <p>Rock-bottom rates were the secret engine fueling $1 billion start-ups and virtual attempts to conquer the physical world. But in 2023, reality bites.  <a href="https://nyti.ms/3JpEp1x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Deadly Epidural, Delivered by a Doctor With a History of Mistakes</h3>
+<sub>By Joseph Goldstein</sub>
+<p>Inspectors found that an anesthesiologist at a Brooklyn hospital made numerous errors in administering epidurals. Some were life-threatening. One was fatal.  <a href="https://nyti.ms/3wlte1V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The Corporate Cafeteria Is Broken. So How to Feed Workers?</h3>
+<sub>By Kim Severson</sub>
+<p>Even as the sprawling dining halls of old struggle with emptier workplaces, food is still important to employees, particularly the young. Many companies are reinventing the company meal.  <a href="https://nyti.ms/3j1qkMP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
