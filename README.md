@@ -60,24 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 24, Central Standard Time</p>
 <p>
-It looks like there is a lot happening in the world right now! In the US, authorities are trying to figure out why a gunman attacked a California ballroom and killed 11 people. Also in the US, four members of the far-right Oath Keepers were convicted of seditious conspiracy, and a jury convicted a man who posed with his boot on Speaker Nancy Pelosi&#39;s desk during the Jan 6 Capitol storming. The FDA proposed offering new Covid boosters each fall, and there have been reports that Memphis police beat a man for three minutes prior to his death. On the international front, Russia is experiencing renewed attention with Radio Free Europe&#x2F;Radio Liberty seeing a resurgence and in New Zealand they have stunning views, perfect wines and amazing restaurants. Finally, tech companies are adapting to a more difficult funding climate as rock-bottom interest rates come to an end.</p>
+Right now, it&#39;s a complicated world. In the US, there have been several mass shootings recently and the police arrested a 67-year-old suspect for one of them. People are mourning the victims and trying to figure out what can be done to stop the violence. On top of that, there&#39;s a resurgence of the Cold War, with Russia&#39;s war breathing new life into a Cold War symbol. Meanwhile in Germany, some are asking if it should become a great military power again, considering recent aggression from Russia.
+
+In addition, governments around the world are struggling with how to pay for extremely costly medical treatments. And closer to home, people are back in lines - but they aren&#39;t waiting for Covid tests this time. Instead they&#39;re waiting for Sondheim plays and croissants and brunch! And in Pennsylvania there&#39;s a big power struggle between three factions of the Republican party who all claim to be in charge.
+
+On the health side of things, Covid is still a major presence. An analysis in New York showed that 71% of people with long Covid needed continuing medical care or were unable to work for six months or more. The FDA has proposed that Americans get Covid booster shots each fall, similar to the yearly flu shots many people get.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Authorities Ask Why Gunman Attacked California Ballroom He Once Enjoyed</h3>
-<sub>By Tim Arango and Jill Cowan</sub>
-<p>The authorities did not specify a motive in attack that killed 11, but investigators were focusing on the theory that the gunman was driven by personal grievances.  <a href="https://nyti.ms/3ZYXFbW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<h3>7 Killed in Half Moon Bay as California Mourns Earlier Mass Shooting</h3>
+<sub>By Holly Secon, John Yoon and Jin Yu Young</sub>
+<p>The police arrested a 67-year-old suspect, who the county sheriff said was “fully cooperating.”  <a href="https://nyti.ms/3HpD612"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Tragedy Upon Tragedy’: January Brings Dozens of Mass Shootings So Far</h3>
+<sub>By J. David Goodman, Amy Harmon and Adeel Hassan</sub>
+<p>In the first three weeks of 2023, at least 67 people have been killed in mass shootings across the country, including two within days of each other in California.  <a href="https://nyti.ms/3JfXIdz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Dreamy Place of Refuge Turns Into Another Spasm of American Violence</h3>
 <sub>By Shawn Hubler, Corina Knoll and Livia Albeck-Ripka</sub>
 <p>Officials are still releasing the names of the 11 people killed at a Los Angeles dance club.  <a href="https://nyti.ms/3HswXkO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Police officers in Torrance were following the suspect when he pulled off the road and killed himself.</h3>
-<sub>By Kellen Browning</sub>
-<p>  <a href="https://nyti.ms/3HrsOxm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,52 +90,52 @@ It looks like there is a lot happening in the world right now! In the US, author
 <p>Radio Free Europe&#x2F;Radio Liberty, a news network originally set up as a C.I.A. operation early in the Cold War, is experiencing a renaissance and making a case for its independence.  <a href="https://nyti.ms/3HoIGAC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Depleted Under Trump, a ‘Traumatized’ E.P.A. Struggles With Its Mission</h3>
-<sub>By Lisa Friedman</sub>
-<p>Despite an injection of funding, the agency still has not recovered from an exodus of scientists and policy experts, both insiders and critics say.  <a href="https://nyti.ms/3j2rW91"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Can Germany Be a Great Military Power Again?</h3>
+<sub>By James Angelos</sub>
+<p>Leery of Russian aggression, Europe’s economic giant is making a historic attempt to revitalize its armed forces. It has a long way to go.  <a href="https://nyti.ms/3kD3StT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>A Dilemma for Governments: How to Pay for Million-Dollar Therapies</h3>
+<sub>By Rebecca Robbins, Stephanie Nolen and Dado Galdieri</sub>
+<p>A wave of transformative but hugely expensive treatments is challenging the budgets of health systems in wealthy nations. Now countries with far fewer resources are wrestling with how to cover the therapies.  <a href="https://nyti.ms/3kyg8M5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What Are People in New York Lining Up for Now?</h3>
+<sub>By Dodai Stewart</sub>
+<p>Stressful Covid lines are out, and happy lines are back, with New Yorkers and visitors queuing up for Sondheim, croissants and brunch.  <a href="https://nyti.ms/3Hrk62d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Unknown Hedge Fund That Got $400 Million From Sam Bankman-Fried</h3>
+<sub>By David Yaffe-Bellany, Matthew Goldstein and Royston Jones Jr.</sub>
+<p>After the collapse of FTX, prosecutors and lawyers have scrutinized its discredited founder’s huge investment in Modulo Capital.  <a href="https://nyti.ms/3kun5xE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>They Poured Their Savings Into Homes That Were Never Built</h3>
+<sub>By Isabelle Qian and Agnes Chang</sub>
+<p>What is it like to pour your life savings into apartments that might never get built?  <a href="https://nyti.ms/3DaF9TX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Four More Oath Keepers Members Convicted of Sedition in Second Trial</h3>
-<sub>By Zach Montague</sub>
-<p>The four members of the far-right militia were found guilty of seditious conspiracy nearly two months after the group’s leader, Stewart Rhodes, was convicted of the same charge in a separate proceeding.  <a href="https://nyti.ms/3iZqZhQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<h3>Will the Real G.O.P. Please Stand Up? A National Power Struggle Goes Local.</h3>
+<sub>By Charles Homans</sub>
+<p>In one deep-red pocket of rural Pennsylvania, three warring factions each claim to represent the Republican Party. Tensions boiled over in a scuffle over a booth at a farm show.  <a href="https://nyti.ms/3DaCEBi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Central Question as Georgia Inquiry Wraps: Will Trump Face Criminal Charges?</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>The House Jan. 6 committee report offered fresh evidence that former President Donald J. Trump was at the center of efforts to overturn election results in Georgia.  <a href="https://nyti.ms/3H4wDY5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jury Convicts Man Who Posed With Boot on Desk in Pelosi’s Office</h3>
-<sub>By Michael Levenson</sub>
-<p>Richard Barnett became one of the highest-profile defendants charged in the Jan. 6 storming of the Capitol after he was photographed with his boot on a desk in Speaker Nancy Pelosi’s office.  <a href="https://nyti.ms/3XuK6iT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Long Covid Is Keeping Significant Numbers of People Out of Work, Study Finds</h3>
+<sub>By Pam Belluck</sub>
+<p>An analysis of workers’ compensation claims in New York found that 71 percent of claimants with long Covid needed continuing medical treatment or were unable to work for six months or more.  <a href="https://nyti.ms/3wqUgFe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>F.D.A. Outlines a Plan for Annual Covid Boosters</h3>
 <sub>By Apoorva Mandavilli</sub>
 <p>In advance of a scientific meeting on Thursday, officials proposed offering new shots to Americans each fall, a strategy long employed against the flu.  <a href="https://nyti.ms/3HqKvgD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About Tyre Nichols’s Lethal Encounter With Memphis Police</h3>
-<sub>By Rick Rojas</sub>
-<p>Lawyers for Mr. Nichols’s family said he was beaten by officers for three minutes, according to video footage that has yet to be publicly released.  <a href="https://nyti.ms/3Xw5Ive"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>For Tech Companies, Years of Easy Money Yield to Hard Times</h3>
-<sub>By David Streitfeld</sub>
-<p>Rock-bottom rates were the secret engine fueling $1 billion start-ups and virtual attempts to conquer the physical world. But in 2023, reality bites.  <a href="https://nyti.ms/3JpEp1x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>In New Zealand, Sauvignon Wishes and Sashimi Dreams</h3>
-<sub>By Tom Downey</sub>
-<p>A road trip on the country’s South Island offered perfect wines, stunning views, intimate restaurants and the chance to make a pilgrimage to a salmon Shangri-La.  <a href="https://nyti.ms/3J4rB03"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
