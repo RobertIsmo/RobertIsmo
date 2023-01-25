@@ -60,37 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 25, Central Standard Time</p>
 <p>
-There are a lot of things happening in the world right now. The U.S. is sending tanks to Ukraine, which other countries, including Germany, are watching closely. Satellite imagery and video footage have revealed a cemetery for Russian mercenaries, while Ukraine is firing officials amid a corruption scandal. In the U.S., Biden&#39;s handling of secret documents has complicated the case against Trump, and classified documents were found at Pence&#39;s home in Indiana. America is also facing an escalating gun violence crisis and just recently set records for Oscar nominations for actors&#x2F;actresses of Asian descent. On the business side, China is suffering from natural gas shortages and the US Justice Department is accusing Google of abusing its monopoly with ad technology.</p>
+Right now, around the world, people are dealing with a range of issues. In Ukraine, satellite imagery and video footage show how a cemetery for Russian mercenaries has been expanding due to combat fatalities. In the US, mass shootings have become increasingly common as gangs have paired up with violent Mexican cartels. Following some of these shootings, bystanders even put their bodies on the line in an attempt to stop them. Meanwhile in Wisconsin, a supreme court seat is being contested in an election with huge stakes for the state. In China, temperatures have plummeted and natural gas shortages have caused chaos in local governments. Many companies are also laying off employees remotely which is causing extra chaos for those affected. On a lighter note, tourists have been flocking to a decommissioned nuclear fallout shelter in Canada due to renewed tensions with Russia. Regarding climate change, countries are just beginning to explore solutions that will likely lead to more trade fights coming down the road. Furthermore, more and more people are becoming aware of how much information companies can acquire from things like email addresses and how to limit this data collection. And finally, scientists continue to be fascinated by research into what non-verbal communication great apes may be able to understand.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Plans to Send Abrams Tanks to Ukraine, Officials Say</h3>
-<sub>By Helene Cooper and Eric Schmitt</sub>
-<p>The Biden administration had resisted sending tanks, which Ukraine says it needs, but the move is seen as likely to push Germany to approve the transfer of its own tanks.  <a href="https://nyti.ms/3H5BvvV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Imagery Shows How a Cemetery for Russian Mercenaries Is Expanding</h3>
 <sub>By Christiaan Triebert and Dmitriy Khavin</sub>
 <p>Recent satellite imagery and video footage offer a rare look at combat fatalities sustained by the Wagner mercenary group in Ukraine.  <a href="https://nyti.ms/3WCeciX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Fires Officials Amid Corruption Scandal, as Allies Watch Closely</h3>
-<sub>By Michael Schwirtz and Maria Varenikova</sub>
-<p>As it fights Russia’s invasion, Ukraine depends for its survival on aid from Western nations, which have concerns about endemic graft and how the money is used.  <a href="https://nyti.ms/3ZYcfjL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Amid a Plague of Shootings, Bystanders Become Heroes</h3>
+<sub>By Julie Bosman, Mitch Smith, Eliza Fawcett and Serge F. Kovaleski</sub>
+<p>Civilians, armed or not, have put their bodies on the line to end mass shootings. But in a nation trained to “Run, Hide, Fight,” many say it should never have come to that.  <a href="https://nyti.ms/3XYoueC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Handling of Secret Documents Complicates the Case Against Trump</h3>
-<sub>By Peter Baker</sub>
-<p>The cases are markedly different in their particulars. But they are similar enough that as a practical matter, Democrats will have a hard time using the issue against former President Donald J. Trump.  <a href="https://nyti.ms/3wpCu5l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Classified Documents Found at Pence’s Home in Indiana</h3>
-<sub>By Maggie Haberman</sub>
-<p>The documents were “inadvertently boxed and transported” to the former vice president’s home at the end of the Trump administration, Mr. Pence’s representative wrote in a letter to the National Archives.  <a href="https://nyti.ms/3JeplUa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<h3>A Mass Shooting in California Targeted an Entire Family</h3>
+<sub>By Miriam Jordan</sub>
+<p>Amid an escalation in gang violence in small California towns, families have usually been spared. But gangs there are increasingly working with violent Mexican cartels.  <a href="https://nyti.ms/3WwINOR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Only in America’: California Grapples With a Mounting Toll of Gun Violence</h3>
@@ -99,10 +87,16 @@ There are a lot of things happening in the world right now. The U.S. is sending 
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Wen Tau Yu was studying to become a pharmacist before the Monterey Park shooting.</h3>
-<sub>By Isabelle Qian, Ang Li, Victoria Kim and John Yoon</sub>
-<p>Mr. Yu and Yu Lun Kao were killed on Saturday along with 9 other people at the Star Ballroom Dance Studio in the California city.  <a href="https://nyti.ms/3XD2UfC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<h3>2023’s Biggest, Most Unusual Race Centers on Abortion and Democracy</h3>
+<sub>By Reid J. Epstein</sub>
+<p>The election for a swing seat on Wisconsin’s Supreme Court has huge policy stakes for the battleground state. Cash is pouring in, and some of the candidates have shed any pretense of judicial neutrality.  <a href="https://nyti.ms/3H89SlM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Cold War Nuclear Bunker Lures Tourists Worried About New Threats</h3>
+<sub>By Ian Austen</sub>
+<p>Amid renewed tensions with Russia, tourists are flocking to a decommissioned nuclear fallout shelter that Canada built to preserve its government during a nuclear war.  <a href="https://nyti.ms/3XDku38"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Natural Gas Shortages Hit China as Temperatures Plunge</h3>
@@ -110,28 +104,34 @@ There are a lot of things happening in the world right now. The U.S. is sending 
 <p>Local governments starved for cash after enormous spending on costly “zero Covid” measures cannot afford to keep up adequate supplies of gas.  <a href="https://nyti.ms/3wrrJiL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Laid Off in Your Living Room: The Chaos of Remote Job Cuts</h3>
+<sub>By Emma Goldberg</sub>
+<p>Angst rippled across laptop screens this month, with dozens of companies announcing layoffs and finding ways to breed extra chaos in the process.  <a href="https://nyti.ms/3WDb32D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>A New View of the Most Explosive Moon in the Solar System</h3>
+<sub>By Oliver Whang</sub>
+<p>Recent strange activity around Jupiter’s volcanic moon, Io, confused and excited scientists.  <a href="https://nyti.ms/3Ha1JgZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Climate Change May Usher in a New Era of Trade Wars</h3>
+<sub>By Ana Swanson</sub>
+<p>Countries are pursuing new solutions to try to mitigate climate change. More trade fights are likely to come hand in hand.  <a href="https://nyti.ms/3WDZMie"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>U.S. Accuses Google of Abusing Monopoly in Ad Technology</h3>
-<sub>By David McCabe and Nico Grant</sub>
-<p>The Justice Department’s antitrust lawsuit, which a group of states joined, was the fifth by U.S. officials against the company since 2020.  <a href="https://nyti.ms/3kuC4rq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<h3>Everyone Wants Your Email Address. Think Twice Before Sharing It.</h3>
+<sub>By Brian X. Chen</sub>
+<p>Your email address has become a digital bread crumb for companies to link your activity across sites. Here’s how you can limit this.  <a href="https://nyti.ms/3XTDQRf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>2023 Oscar Nominations: Snubs and Surprises</h3>
-<sub>By Kyle Buchanan</sub>
-<p>It’s a record-setting year for performers of Asian descent. In the actress race, there’s room for Andrea Riseborough but not Viola Davis or Danielle Deadwyler.  <a href="https://nyti.ms/3H7OYn7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Where to Stream ‘The Banshees of Inisherin,’ ‘Elvis’ and More 2023 Oscar Nominees</h3>
-<sub>By Scott Tobias</sub>
-<p>Many of the top contenders can be watched at home. Here’s a guide to help you get a jump on the field.  <a href="https://nyti.ms/3XBRPeO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York State Convicted Him. Now It’s Made Him a Weed Pioneer.</h3>
-<sub>By Ashley Southall</sub>
-<p>Roland Conner became the first person with a criminal conviction to open a licensed cannabis dispensary in New York with the state’s help.  <a href="https://nyti.ms/3XSX2ii"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>What Are These Apes Trying to Say? Take This Quick Quiz.</h3>
+<sub>By Darren Incorvaia</sub>
+<p>The great apes do not have spoken language, but they share many gestures. Can humans like you understand those gestures too?  <a href="https://nyti.ms/3j0uhBk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
