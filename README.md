@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 25, Central Standard Time</p>
 <p>
-Right now, around the world, people are dealing with a range of issues. In Ukraine, satellite imagery and video footage show how a cemetery for Russian mercenaries has been expanding due to combat fatalities. In the US, mass shootings have become increasingly common as gangs have paired up with violent Mexican cartels. Following some of these shootings, bystanders even put their bodies on the line in an attempt to stop them. Meanwhile in Wisconsin, a supreme court seat is being contested in an election with huge stakes for the state. In China, temperatures have plummeted and natural gas shortages have caused chaos in local governments. Many companies are also laying off employees remotely which is causing extra chaos for those affected. On a lighter note, tourists have been flocking to a decommissioned nuclear fallout shelter in Canada due to renewed tensions with Russia. Regarding climate change, countries are just beginning to explore solutions that will likely lead to more trade fights coming down the road. Furthermore, more and more people are becoming aware of how much information companies can acquire from things like email addresses and how to limit this data collection. And finally, scientists continue to be fascinated by research into what non-verbal communication great apes may be able to understand.</p>
+There have been a lot of news stories recently about violence and tension around the world. In Ukraine, there is a military battle going on between Russian forces and Ukrainian forces which has left many casualties. In the US, there have been a few mass shootings in California and Wisconsin that have left people feeling frightened and uncertain. In addition, there are natural gas shortages in China due to cold temperatures straining supplies of resources. Closer to home, many companies are laying off workers due to Covid-19, while email addresses are increasingly becoming targets for companies to track our activities online.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Imagery Shows How a Cemetery for Russian Mercenaries Is Expanding</h3>
@@ -68,10 +68,16 @@ Right now, around the world, people are dealing with a range of issues. In Ukrai
 <p>Recent satellite imagery and video footage offer a rare look at combat fatalities sustained by the Wagner mercenary group in Ukraine.  <a href="https://nyti.ms/3WCeciX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine says that its forces have retreated from Soledar after an intense battle.</h3>
+<sub>By Matthew Mpoke Bigg and Michael Schwirtz</sub>
+<p>Ukraine’s military acknowledged a gain for Russian forces that brings them closer to encircling the strategic eastern city of Bakhmut.  <a href="https://nyti.ms/3WD0FaT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Amid a Plague of Shootings, Bystanders Become Heroes</h3>
 <sub>By Julie Bosman, Mitch Smith, Eliza Fawcett and Serge F. Kovaleski</sub>
-<p>Civilians, armed or not, have put their bodies on the line to end mass shootings. But in a nation trained to “Run, Hide, Fight,” many say it should never have come to that.  <a href="https://nyti.ms/3XYoueC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Civilians, armed or not, have put their bodies on the line to stop gunmen. But in a nation trained to “Run, Hide, Fight,” many say it should never have come to that.  <a href="https://nyti.ms/3XYoueC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,6 +98,12 @@ Right now, around the world, people are dealing with a range of issues. In Ukrai
 <p>The election for a swing seat on Wisconsin’s Supreme Court has huge policy stakes for the battleground state. Cash is pouring in, and some of the candidates have shed any pretense of judicial neutrality.  <a href="https://nyti.ms/3H89SlM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Laid Off in Your Living Room: The Chaos of Remote Job Cuts</h3>
+<sub>By Emma Goldberg</sub>
+<p>Angst rippled across laptop screens this month, with dozens of companies announcing layoffs and finding ways to breed extra chaos in the process.  <a href="https://nyti.ms/3WDb32D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Cold War Nuclear Bunker Lures Tourists Worried About New Threats</h3>
 <sub>By Ian Austen</sub>
@@ -104,22 +116,16 @@ Right now, around the world, people are dealing with a range of issues. In Ukrai
 <p>Local governments starved for cash after enormous spending on costly “zero Covid” measures cannot afford to keep up adequate supplies of gas.  <a href="https://nyti.ms/3wrrJiL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Laid Off in Your Living Room: The Chaos of Remote Job Cuts</h3>
-<sub>By Emma Goldberg</sub>
-<p>Angst rippled across laptop screens this month, with dozens of companies announcing layoffs and finding ways to breed extra chaos in the process.  <a href="https://nyti.ms/3WDb32D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>A New View of the Most Explosive Moon in the Solar System</h3>
 <sub>By Oliver Whang</sub>
 <p>Recent strange activity around Jupiter’s volcanic moon, Io, confused and excited scientists.  <a href="https://nyti.ms/3Ha1JgZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Climate Change May Usher in a New Era of Trade Wars</h3>
-<sub>By Ana Swanson</sub>
-<p>Countries are pursuing new solutions to try to mitigate climate change. More trade fights are likely to come hand in hand.  <a href="https://nyti.ms/3WDZMie"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Leery of Involvement in Potential Plea Deal in Sept. 11 Case</h3>
+<sub>By Charlie Savage and Carol Rosenberg</sub>
+<p>A proposal to end a decade-long attempt to seek the death penalty before a military tribunal carries political risks, but the Trump administration also decided the system failed.  <a href="https://nyti.ms/3WK6ELm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -127,12 +133,6 @@ Right now, around the world, people are dealing with a range of issues. In Ukrai
 <sub>By Brian X. Chen</sub>
 <p>Your email address has become a digital bread crumb for companies to link your activity across sites. Here’s how you can limit this.  <a href="https://nyti.ms/3XTDQRf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>What Are These Apes Trying to Say? Take This Quick Quiz.</h3>
-<sub>By Darren Incorvaia</sub>
-<p>The great apes do not have spoken language, but they share many gestures. Can humans like you understand those gestures too?  <a href="https://nyti.ms/3j0uhBk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
