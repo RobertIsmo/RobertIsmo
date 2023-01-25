@@ -58,14 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, January 24, Central Standard Time</p>
+<p>It is Wednesday, January 25, Central Standard Time</p>
 <p>
-Right now, tensions between Ukraine and Russia are escalating over the Russian invasion of eastern Ukraine. The Biden administration is preparing to send Abrams tanks to Ukraine, which the government says it needs in order to push back against Russian aggression. As the US stands by Ukraine, other Western nations have expressed concerns about rampant corruption in the government and worries over how their aid money is being used. In other news, the US Justice Department has accused Google of abusing its monopoly in advertising technology, while Taylor Swift fans are frustrated at Ticketmaster after a bungled sale of her concert tickets was traced back to a lack of competition in the industry. Additionally, people who&#39;ve invested their savings in homes that were never built are feeling let down, and a baseball player with an impressive all-around career was inducted into the Baseball Hall of Fame.</p>
+Right now, it looks like the Biden administration is planning to send Abrams tanks to Ukraine in order to encourage Germany to transfer some of its own tanks. Meanwhile, there&#39;s new evidence showing fatalities from Russian mercenaries in Ukraine, and Ukrainian officials are being fired amid a corruption scandal. Over in the US, many people are talking about Biden&#39;s handling of secret documents and other similar cases against Trump. Classified documents were even found at Pence&#39;s house. Gun violence is on the rise in California with multiple mass shootings claiming 19 lives, and this has sparked intense debates among Americans. China is also facing natural gas shortages due to rising temperatures and a lack of funding. In the world of tech, Google is being accused by the US government with an antitrust lawsuit. When it comes to movies, a lot of Asian performers have been nominated for several awards and people can now stream films from some of the top contenders from home. Finally, in New York State prison inmates are getting a second chance - Roland Conner just became the first person with a criminal conviction to open a licensed cannabis dispensary with help from the state.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Plans to Send Abrams Tanks to Ukraine, Officials Say</h3>
 <sub>By Helene Cooper and Eric Schmitt</sub>
 <p>The Biden administration had resisted sending tanks, which Ukraine says it needs, but the move is seen as likely to push Germany to approve the transfer of its own tanks.  <a href="https://nyti.ms/3H5BvvV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Imagery Shows How a Cemetery for Russian Mercenaries Is Expanding</h3>
+<sub>By Christiaan Triebert and Dmitriy Khavin</sub>
+<p>Recent satellite imagery and video footage offer a rare look at combat fatalities sustained by the Wagner mercenary group in Ukraine.  <a href="https://nyti.ms/3WCeciX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -84,6 +90,24 @@ Right now, tensions between Ukraine and Russia are escalating over the Russian i
 <h3>Classified Documents Found at Pence’s Home in Indiana</h3>
 <sub>By Maggie Haberman</sub>
 <p>The documents were “inadvertently boxed and transported” to the former vice president’s home at the end of the Trump administration, Mr. Pence’s representative wrote in a letter to the National Archives.  <a href="https://nyti.ms/3JeplUa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Only in America’: California Grapples With a Mounting Toll of Gun Violence</h3>
+<sub>By Holly Secon, Shawn Hubler, David W. Chen and Soumya Karlamangla</sub>
+<p>With at least 19 people killed in mass shootings in the state in less than three days, the attacks posed another challenge for beleaguered Californians.  <a href="https://nyti.ms/3Jde3Qb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Wen Tau Yu was studying to become a pharmacist before the Monterey Park shooting.</h3>
+<sub>By Isabelle Qian, Ang Li, Victoria Kim and John Yoon</sub>
+<p>Mr. Yu and Yu Lun Kao were killed on Saturday along with 9 other people at the Star Ballroom Dance Studio in the California city.  <a href="https://nyti.ms/3XD2UfC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Natural Gas Shortages Hit China as Temperatures Plunge</h3>
+<sub>By Keith Bradsher</sub>
+<p>Local governments starved for cash after enormous spending on costly “zero Covid” measures cannot afford to keep up adequate supplies of gas.  <a href="https://nyti.ms/3wrrJiL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -108,30 +132,6 @@ Right now, tensions between Ukraine and Russia are escalating over the Russian i
 <h3>New York State Convicted Him. Now It’s Made Him a Weed Pioneer.</h3>
 <sub>By Ashley Southall</sub>
 <p>Roland Conner became the first person with a criminal conviction to open a licensed cannabis dispensary in New York with the state’s help.  <a href="https://nyti.ms/3XSX2ii"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Student. Athlete. Mogul?</h3>
-<sub>By Bruce Schoenfeld</sub>
-<p>Now that college players are allowed to cut sponsorship deals, some of them are raking in the money — but at what cost to the rest?  <a href="https://nyti.ms/3Xx6MyM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Ticketmaster Cast as a Powerful ‘Monopoly’ at Senate Hearing</h3>
-<sub>By Ben Sisario and Matt Stevens</sub>
-<p>The Judiciary Committee, responding to the bungled sale of Taylor Swift concert tickets, heard the company apologize and its critics trace the problem to the industry’s lack of competition.  <a href="https://nyti.ms/3R82efR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Hall of Famer With All the ‘Ingredients’ for Third Base</h3>
-<sub>By Tyler Kepner</sub>
-<p>Scott Rolen, an all-around star, was elected to the Baseball Hall of Fame on his sixth try. Todd Helton, Billy Wagner and the other finalists will continue to wait.  <a href="https://nyti.ms/3kI9bby"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Poured Their Savings Into Homes That Were Never Built</h3>
-<sub>By Isabelle Qian and Agnes Chang</sub>
-<p>What is it like to pour your life savings into apartments that might never get built?  <a href="https://nyti.ms/3DaF9TX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
