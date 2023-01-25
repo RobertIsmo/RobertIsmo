@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 25, Central Standard Time</p>
 <p>
-There have been a lot of news stories recently about violence and tension around the world. In Ukraine, there is a military battle going on between Russian forces and Ukrainian forces which has left many casualties. In the US, there have been a few mass shootings in California and Wisconsin that have left people feeling frightened and uncertain. In addition, there are natural gas shortages in China due to cold temperatures straining supplies of resources. Closer to home, many companies are laying off workers due to Covid-19, while email addresses are increasingly becoming targets for companies to track our activities online.</p>
+There is a lot happening in the world right now. The US is sending their M1 Abrams battle tank to Ukraine as Russian forces gain control in the Eastern region of the country. Meanwhile states in the US are being met with an escalation of shootings, with civilians sometimes putting their bodies on the line to protect one another. There is also an upcoming big and unusual election for a Supreme Court seat in Wisconsin with big policy stakes for the state. On the health front, there are legal challenges to state bans on abortion pills and in other parts of the world, people are struggling to feed their children due to rising inflation. Technology has also become a bigger issue as companies try to access more of your personal information through your email address. Lastly, scientists are seeing strange activity around Jupiter&#39;s volcanic moon Io and fake online reviews have become a huge issue for people traveling.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Imagery Shows How a Cemetery for Russian Mercenaries Is Expanding</h3>
-<sub>By Christiaan Triebert and Dmitriy Khavin</sub>
-<p>Recent satellite imagery and video footage offer a rare look at combat fatalities sustained by the Wagner mercenary group in Ukraine.  <a href="https://nyti.ms/3WCeciX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<h3>The M1 Abrams, headed to Ukraine, is the main U.S. battle tank.</h3>
+<sub>By John Ismay</sub>
+<p>  <a href="https://nyti.ms/3Wx8Cyo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine says that its forces have retreated from Soledar after an intense battle.</h3>
@@ -87,34 +87,40 @@ There have been a lot of news stories recently about violence and tension around
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Only in America’: California Grapples With a Mounting Toll of Gun Violence</h3>
-<sub>By Holly Secon, Shawn Hubler, David W. Chen and Soumya Karlamangla</sub>
-<p>With at least 19 people killed in mass shootings in the state in less than three days, the attacks posed another challenge for beleaguered Californians.  <a href="https://nyti.ms/3Jde3Qb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>2023’s Biggest, Most Unusual Race Centers on Abortion and Democracy</h3>
 <sub>By Reid J. Epstein</sub>
 <p>The election for a swing seat on Wisconsin’s Supreme Court has huge policy stakes for the battleground state. Cash is pouring in, and some of the candidates have shed any pretense of judicial neutrality.  <a href="https://nyti.ms/3H89SlM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Laid Off in Your Living Room: The Chaos of Remote Job Cuts</h3>
-<sub>By Emma Goldberg</sub>
-<p>Angst rippled across laptop screens this month, with dozens of companies announcing layoffs and finding ways to breed extra chaos in the process.  <a href="https://nyti.ms/3WDb32D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>New Lawsuit Challenges State Bans on Abortion Pills</h3>
+<sub>By Pam Belluck</sub>
+<p>The case, brought by GenBioPro, a company that makes one of two abortion drugs, argues that it is unconstitutional for a state to bar access to a medication approved by the federal government.  <a href="https://nyti.ms/3kKhJ1l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Cold War Nuclear Bunker Lures Tourists Worried About New Threats</h3>
-<sub>By Ian Austen</sub>
-<p>Amid renewed tensions with Russia, tourists are flocking to a decommissioned nuclear fallout shelter that Canada built to preserve its government during a nuclear war.  <a href="https://nyti.ms/3XDku38"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In U.K. Cost-of-Living Crisis, Some Workers Struggle to Feed Children</h3>
+<sub>By Emma Bubola</sub>
+<p>As inflation hits the pockets of families who already had little to spare, food banks say they are getting much busier and seeing more people with jobs.  <a href="https://nyti.ms/3kGfnka"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Natural Gas Shortages Hit China as Temperatures Plunge</h3>
-<sub>By Keith Bradsher</sub>
-<p>Local governments starved for cash after enormous spending on costly “zero Covid” measures cannot afford to keep up adequate supplies of gas.  <a href="https://nyti.ms/3wrrJiL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>In ‘Shrinking,’ Jason Segel Does the Work</h3>
+<sub>By Alexis Soloski</sub>
+<p>The actor is a star, writer and executive producer of this new series about a therapist crushed by grief and trying to put himself back together. It’s a comedy.  <a href="https://nyti.ms/3j0dNJE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Newport News School Was Warned 3 Times That 6-Year-Old Had a Gun, Lawyer Says</h3>
+<sub>By Paul Bibeau and Sarah Mervosh</sub>
+<p>Another child saw the gun at recess, a teacher warned that the boy had a gun in his pocket and an administrator dismissed the threat, according to the lawyer for a teacher who was shot.  <a href="https://nyti.ms/3DeDrRQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Everyone Wants Your Email Address. Think Twice Before Sharing It.</h3>
+<sub>By Brian X. Chen</sub>
+<p>Your email address has become a digital bread crumb for companies to link your activity across sites. Here’s how you can limit this.  <a href="https://nyti.ms/3XTDQRf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>A New View of the Most Explosive Moon in the Solar System</h3>
@@ -122,16 +128,10 @@ There have been a lot of news stories recently about violence and tension around
 <p>Recent strange activity around Jupiter’s volcanic moon, Io, confused and excited scientists.  <a href="https://nyti.ms/3Ha1JgZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Leery of Involvement in Potential Plea Deal in Sept. 11 Case</h3>
-<sub>By Charlie Savage and Carol Rosenberg</sub>
-<p>A proposal to end a decade-long attempt to seek the death penalty before a military tribunal carries political risks, but the Trump administration also decided the system failed.  <a href="https://nyti.ms/3WK6ELm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Everyone Wants Your Email Address. Think Twice Before Sharing It.</h3>
-<sub>By Brian X. Chen</sub>
-<p>Your email address has become a digital bread crumb for companies to link your activity across sites. Here’s how you can limit this.  <a href="https://nyti.ms/3XTDQRf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Five Stars, Zero Clue: Fighting the ‘Scourge’ of Fake Online Reviews</h3>
+<sub>By Maria Cramer</sub>
+<p>Third parties pay writers for posts praising or panning hotels, restaurants and other places they never visited. How review sites like Yelp and Tripadvisor are trying to stop the flood.  <a href="https://nyti.ms/3H13T2e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
