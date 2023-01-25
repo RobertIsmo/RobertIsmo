@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 25, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. The US is sending their M1 Abrams battle tank to Ukraine as Russian forces gain control in the Eastern region of the country. Meanwhile states in the US are being met with an escalation of shootings, with civilians sometimes putting their bodies on the line to protect one another. There is also an upcoming big and unusual election for a Supreme Court seat in Wisconsin with big policy stakes for the state. On the health front, there are legal challenges to state bans on abortion pills and in other parts of the world, people are struggling to feed their children due to rising inflation. Technology has also become a bigger issue as companies try to access more of your personal information through your email address. Lastly, scientists are seeing strange activity around Jupiter&#39;s volcanic moon Io and fake online reviews have become a huge issue for people traveling.</p>
+The world seems to be facing a lot of unrest right now. In the UK, there&#39;s a cost-of-living crisis with families struggling to even feed their children. The US is grappling with gun violence, especially mass shootings and gangs targeting entire families. Ukraine is facing an intense battle and the potential encirclement of one of its cities. Meanwhile, people are fighting against fake reviews online and discussing whether members of the royal family should be expected to bear such immense scrutiny.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In U.K. Cost-of-Living Crisis, Some Workers Struggle to Feed Children</h3>
+<sub>By Emma Bubola</sub>
+<p>As inflation hits the pockets of families who already had little to spare, food banks say they are getting much busier and seeing more people with jobs.  <a href="https://nyti.ms/3kGfnka"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The M1 Abrams, headed to Ukraine, is the main U.S. battle tank.</h3>
 <sub>By John Ismay</sub>
@@ -86,24 +92,6 @@ There is a lot happening in the world right now. The US is sending their M1 Abra
 <p>Amid an escalation in gang violence in small California towns, families have usually been spared. But gangs there are increasingly working with violent Mexican cartels.  <a href="https://nyti.ms/3WwINOR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>2023’s Biggest, Most Unusual Race Centers on Abortion and Democracy</h3>
-<sub>By Reid J. Epstein</sub>
-<p>The election for a swing seat on Wisconsin’s Supreme Court has huge policy stakes for the battleground state. Cash is pouring in, and some of the candidates have shed any pretense of judicial neutrality.  <a href="https://nyti.ms/3H89SlM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>New Lawsuit Challenges State Bans on Abortion Pills</h3>
-<sub>By Pam Belluck</sub>
-<p>The case, brought by GenBioPro, a company that makes one of two abortion drugs, argues that it is unconstitutional for a state to bar access to a medication approved by the federal government.  <a href="https://nyti.ms/3kKhJ1l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In U.K. Cost-of-Living Crisis, Some Workers Struggle to Feed Children</h3>
-<sub>By Emma Bubola</sub>
-<p>As inflation hits the pockets of families who already had little to spare, food banks say they are getting much busier and seeing more people with jobs.  <a href="https://nyti.ms/3kGfnka"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>In ‘Shrinking,’ Jason Segel Does the Work</h3>
 <sub>By Alexis Soloski</sub>
@@ -111,9 +99,15 @@ There is a lot happening in the world right now. The US is sending their M1 Abra
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>G.O.P. State Lawmakers Push a Growing Wave of Anti-Transgender Bills</h3>
+<sub>By Maggie Astor</sub>
+<p>Four states could ban transition care into young adulthood. Lawmakers in several others want to restrict drag shows in ways that could affect transgender performers broadly. It’s part of a long-term plan.  <a href="https://nyti.ms/3j8XJVR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Newport News School Was Warned 3 Times That 6-Year-Old Had a Gun, Lawyer Says</h3>
 <sub>By Paul Bibeau and Sarah Mervosh</sub>
-<p>Another child saw the gun at recess, a teacher warned that the boy had a gun in his pocket and an administrator dismissed the threat, according to the lawyer for a teacher who was shot.  <a href="https://nyti.ms/3DeDrRQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Another child saw the weapon at recess, and a teacher warned that the boy might have a gun in his pocket. Yet an administrator dismissed the threat, according to the lawyer for a teacher who was shot.  <a href="https://nyti.ms/3DeDrRQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -122,16 +116,22 @@ There is a lot happening in the world right now. The US is sending their M1 Abra
 <p>Your email address has become a digital bread crumb for companies to link your activity across sites. Here’s how you can limit this.  <a href="https://nyti.ms/3XTDQRf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>A New View of the Most Explosive Moon in the Solar System</h3>
-<sub>By Oliver Whang</sub>
-<p>Recent strange activity around Jupiter’s volcanic moon, Io, confused and excited scientists.  <a href="https://nyti.ms/3Ha1JgZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How George Santos Made Baruch Volleyball Famous</h3>
+<sub>By Billy Witz and Corey Kilgannon</sub>
+<p>The Baruch Bearcats played their home opener on Tuesday under a new spotlight after George Santos’s lie about having played for the team resurfaced.  <a href="https://nyti.ms/3Dhqk1Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
 <h3>Five Stars, Zero Clue: Fighting the ‘Scourge’ of Fake Online Reviews</h3>
 <sub>By Maria Cramer</sub>
 <p>Third parties pay writers for posts praising or panning hotels, restaurants and other places they never visited. How review sites like Yelp and Tripadvisor are trying to stop the flood.  <a href="https://nyti.ms/3H13T2e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Prince Harry Is Right, and It’s Not Just a Matter of Royal Gossip</h3>
+<sub>By Zeynep Tufekci</sub>
+<p>Britain’s most revered institution plays ball with one of its most revolting institutions, even if family members are hurt.  <a href="https://nyti.ms/3kJDlLi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
