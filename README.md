@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 24, Central Standard Time</p>
 <p>
-There has recently been a huge influx of people around the world investing their life savings into purchasing homes, only to find that the developers are taking their money and not actually building the homes. In some cases, the developers are even trying to scam people by taking their money without any plans of building anything at all. This has affected people in many countries, leaving them out of pocket and feeling betrayed.</p>
+There has been a lot of news recently concerning national and international events. The Pentagon is increasing artillery production for Ukraine six fold, President Biden&#39;s handling of secret documents is complicating the case against Trump, classified documents were found at Pence&#39;s home in Indiana, 11 people were killed in a mass shooting in Monterey Park, there is gridlock in Congress over gun control, the U.S. Justice Department has filed an antitrust lawsuit against Google, the 2023 Oscar nominations had some surprises and snubs, Ticketmaster was cast as a powerful monopoly at a Senate hearing, there is a power struggle among Republican factions in Pennsylvania, college athletes are now allowed to cut sponsorship deals, and Scott Rolen made it into the Hall of Fame.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pentagon Will Increase Artillery Production Sixfold for Ukraine</h3>
+<sub>By John Ismay and Eric Lipton</sub>
+<p>The Army’s top acquisition official says production of the 155-millimeter shells badly needed by Kyiv will rise to 90,000 a month in two years.  <a href="https://nyti.ms/3JecNwc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden’s Handling of Secret Documents Complicates the Case Against Trump</h3>
 <sub>By Peter Baker</sub>
@@ -75,15 +81,15 @@ There has recently been a huge influx of people around the world investing their
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon Will Increase Artillery Production Sixfold for Ukraine</h3>
-<sub>By John Ismay and Eric Lipton</sub>
-<p>The Army’s top acquisition official says production of the 155-millimeter shells badly needed by Kyiv will rise to 90,000 a month in two years.  <a href="https://nyti.ms/3JecNwc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>All of the victims of the Monterey Park shooting have now been identified.</h3>
 <sub>By Victoria Kim</sub>
 <p>The 11 people killed on Saturday night at Star Ballroom Dance Studio were six women and five men who ranged in age from 57 to 76.  <a href="https://nyti.ms/40d51c3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Mass Shootings Continue, Gridlock on Guns Returns to Washington</h3>
+<sub>By Annie Karni</sub>
+<p>After enactment of a compromise bill last year, Congress is once again stalemated on gun control, with Republicans seeking to protect the free flow of guns and Democrats calling for more limits.  <a href="https://nyti.ms/404eOB8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -99,21 +105,15 @@ There has recently been a huge influx of people around the world investing their
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Oscars 2023 Nominee List</h3>
-<sub>By Gabe Cohn</sub>
-<p>The complete list of Academy Award nominees for 2023.  <a href="https://nyti.ms/3WBDtKd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>Where to Stream ‘The Banshees of Inisherin,’ ‘Elvis’ and More 2023 Oscar Nominees</h3>
 <sub>By Scott Tobias</sub>
 <p>Many of the top contenders can be watched at home. Here’s a guide to help you get a jump on the field.  <a href="https://nyti.ms/3XBRPeO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>4 Takeaways from the Senate’s hearing on Ticketmaster, Taylor Swift and competition.</h3>
-<sub>By Ben Sisario</sub>
-<p>  <a href="https://nyti.ms/3GXPzHC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ticketmaster Cast as a Powerful ‘Monopoly’ at Senate Hearing</h3>
+<sub>By Ben Sisario and Matt Stevens</sub>
+<p>The Judiciary Committee, responding to the bungled sale of Taylor Swift concert tickets, heard the company apologize and its critics trace the problem to the industry’s lack of competition.  <a href="https://nyti.ms/3R82efR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -123,15 +123,15 @@ There has recently been a huge influx of people around the world investing their
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Student. 						Athlete. 															Mogul?</h3>
+<h3>Student. Athlete. Mogul?</h3>
 <sub>By Bruce Schoenfeld</sub>
 <p>Now that college players are allowed to cut sponsorship deals, some of them are raking in the money — but at what cost to the rest?  <a href="https://nyti.ms/3Xx6MyM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Poured Their Savings Into Homes That Were Never Built</h3>
-<sub>By Isabelle Qian and Agnes Chang</sub>
-<p>What is it like to pour your life savings into apartments that might never get built?  <a href="https://nyti.ms/3DaF9TX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Scott Rolen, a Slick-Fielding Third Baseman, Makes Hall of Fame</h3>
+<sub>By Benjamin Hoffman</sub>
+<p>Rolen was elected on his sixth appearance on the writers’ ballot. Todd Helton, Billy Wagner and the other finalists will continue to wait.  <a href="https://nyti.ms/3kI9bby"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
