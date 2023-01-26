@@ -60,37 +60,55 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 25, Central Standard Time</p>
 <p>
-The world seems to be facing a lot of unrest right now. In the UK, there&#39;s a cost-of-living crisis with families struggling to even feed their children. The US is grappling with gun violence, especially mass shootings and gangs targeting entire families. Ukraine is facing an intense battle and the potential encirclement of one of its cities. Meanwhile, people are fighting against fake reviews online and discussing whether members of the royal family should be expected to bear such immense scrutiny.</p>
+There is a lot happening in the world right now. The US and allies such as Germany have agreed to send battle tanks to Ukraine, a country embroiled in conflict with Russia. Along with this, some scientists from Ukraine have been given a funding lifeline from abroad. Additionally, there was a mass shooting of farmworkers in Half Moon Bay, California, which has caused an uproar. Meta is working to reinstate Donald Trump&#39;s social media accounts, and there is an ongoing murder trial for Alex Murdaugh in South Carolina who is accused of murdering his wife and son. Republican state legislators are pushing a wave of anti-transgender bills that may restrict the rights of transgender people in certain areas, and there has been recent controversy surrounding classified documents released by the Biden administration.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In U.K. Cost-of-Living Crisis, Some Workers Struggle to Feed Children</h3>
-<sub>By Emma Bubola</sub>
-<p>As inflation hits the pockets of families who already had little to spare, food banks say they are getting much busier and seeing more people with jobs.  <a href="https://nyti.ms/3kGfnka"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Biden Reluctantly Agreed to Send Tanks to Ukraine</h3>
+<sub>By David E. Sanger, Eric Schmitt and Helene Cooper</sub>
+<p>The decision unlocked a flow of heavy arms from Europe and inched the United States and its NATO allies closer to direct conflict with Russia.  <a href="https://nyti.ms/3R5xH2q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The M1 Abrams, headed to Ukraine, is the main U.S. battle tank.</h3>
-<sub>By John Ismay</sub>
-<p>  <a href="https://nyti.ms/3Wx8Cyo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Germany and U.S., Dropping Resistance, Will Send Battle Tanks to Ukraine</h3>
+<sub>By Erika Solomon, Peter Baker and Eric Nagourney</sub>
+<p>Although welcomed by Kyiv as a critical weapon to expel Russia’s invasion, the Leopard 2 tanks from Germany and Abrams tanks from the United States are unlikely to arrive soon.  <a href="https://nyti.ms/3kHq8Tl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine says that its forces have retreated from Soledar after an intense battle.</h3>
-<sub>By Matthew Mpoke Bigg and Michael Schwirtz</sub>
-<p>Ukraine’s military acknowledged a gain for Russian forces that brings them closer to encircling the strategic eastern city of Bakhmut.  <a href="https://nyti.ms/3WD0FaT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Western Tanks Are Coming to Ukraine, but Will They Be Enough?</h3>
+<sub>By Lara Jakes and Thomas Gibbons-Neff</sub>
+<p>Western allies have pledged to send at least 105 tanks, far less than Ukraine says it needs, and it may be months before they join the battle.  <a href="https://nyti.ms/3R4XcRe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Ukraine’s Scientists Receive a Funding Lifeline From Abroad</h3>
+<sub>By William J. Broad</sub>
+<p>The Simons Foundation in New York is providing annual grants to the country’s chemists, biologists, physicists and mathematicians.  <a href="https://nyti.ms/3Hz5pu5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Amid a Plague of Shootings, Bystanders Become Heroes</h3>
-<sub>By Julie Bosman, Mitch Smith, Eliza Fawcett and Serge F. Kovaleski</sub>
-<p>Civilians, armed or not, have put their bodies on the line to stop gunmen. But in a nation trained to “Run, Hide, Fight,” many say it should never have come to that.  <a href="https://nyti.ms/3XYoueC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Half Moon Bay Immigrant Community Reels From Mass Shooting of Farmworkers</h3>
+<sub>By David W. Chen, Tim Arango, Edgar Sandoval and Soumya Karlamangla</sub>
+<p>A 66-year-old man is facing seven counts of murder and one count of attempted murder.  <a href="https://nyti.ms/3j9kVmX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Meta to Reinstate Trump’s Facebook and Instagram Accounts</h3>
+<sub>By Sheera Frenkel and Mike Isaac</sub>
+<p>Meta said the suspensions of Donald Trump’s accounts would be lifted “in the coming weeks,” with measures in place to discourage repeat offenses. Twitter reinstated Mr. Trump last year.  <a href="https://nyti.ms/40eAdrk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Mass Shooting in California Targeted an Entire Family</h3>
-<sub>By Miriam Jordan</sub>
-<p>Amid an escalation in gang violence in small California towns, families have usually been spared. But gangs there are increasingly working with violent Mexican cartels.  <a href="https://nyti.ms/3WwINOR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>New Evidence Revealed in Dramatic Start to Murdaugh Murder Trial</h3>
+<sub>By Nicholas Bogel-Burroughs and Jacey Fortin</sub>
+<p>The trial of Alex Murdaugh, a former lawyer charged with murdering his wife and son, began with fireworks as prosecutors revealed new evidence, including a raincoat with gunshot residue.  <a href="https://nyti.ms/3WDyJno"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The ‘Murdaugh Murders’: What to Know About the Trial in South Carolina</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>Alex Murdaugh, once a prominent lawyer, is on trial for murder, charged with killing his wife and son as his finances and legal career fell into ruin.  <a href="https://nyti.ms/3n0HjwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>In ‘Shrinking,’ Jason Segel Does the Work</h3>
@@ -107,31 +125,13 @@ The world seems to be facing a lot of unrest right now. In the UK, there&#39;s a
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Newport News School Was Warned 3 Times That 6-Year-Old Had a Gun, Lawyer Says</h3>
 <sub>By Paul Bibeau and Sarah Mervosh</sub>
-<p>Another child saw the weapon at recess, and a teacher warned that the boy might have a gun in his pocket. Yet an administrator dismissed the threat, according to the lawyer for a teacher who was shot.  <a href="https://nyti.ms/3DeDrRQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Under pressure, the school board voted to end the superintendent’s contract. Other administrators have also left the elementary school.  <a href="https://nyti.ms/3DeDrRQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Everyone Wants Your Email Address. Think Twice Before Sharing It.</h3>
-<sub>By Brian X. Chen</sub>
-<p>Your email address has become a digital bread crumb for companies to link your activity across sites. Here’s how you can limit this.  <a href="https://nyti.ms/3XTDQRf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How George Santos Made Baruch Volleyball Famous</h3>
-<sub>By Billy Witz and Corey Kilgannon</sub>
-<p>The Baruch Bearcats played their home opener on Tuesday under a new spotlight after George Santos’s lie about having played for the team resurfaced.  <a href="https://nyti.ms/3Dhqk1Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Five Stars, Zero Clue: Fighting the ‘Scourge’ of Fake Online Reviews</h3>
-<sub>By Maria Cramer</sub>
-<p>Third parties pay writers for posts praising or panning hotels, restaurants and other places they never visited. How review sites like Yelp and Tripadvisor are trying to stop the flood.  <a href="https://nyti.ms/3H13T2e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Prince Harry Is Right, and It’s Not Just a Matter of Royal Gossip</h3>
-<sub>By Zeynep Tufekci</sub>
-<p>Britain’s most revered institution plays ball with one of its most revolting institutions, even if family members are hurt.  <a href="https://nyti.ms/3kJDlLi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Faces Blowback From Democrats on Classified Documents</h3>
+<sub>By Zolan Kanno-Youngs, Katie Glueck and Annie Karni</sub>
+<p>The discovery of classified documents has thrust President Biden into an uncomfortable position after he started the new year with plans to do a victory lap of sorts.  <a href="https://nyti.ms/3WIbRmC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
