@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 26, Central Standard Time</p>
 <p>
-It looks like things are a bit tumultuous in the world right now. Retailers are making layoffs due to customer spending slowdowns and the Republican National Committee is moving away from President Trump&#39;s 2024 campaign. The Ukrainian war is escalating tensions in Europe and Biden agreed to send in tanks even though he was reluctant to do so. Over in America, immigrants are reeling from violence after a mass shooting of farmworkers in Half Moon Bay and a police beating has left people in Memphis worried and awaiting video footage. In New York City, there&#39;s a plan to expand composting citywide to target trash and rats, while Oslo is refashioning itself into a cultural hub with new museums and restaurants. Oh, and did I mention that there&#39;s been some insanely weird weather around? You can check out the winter snow reports for yourself!</p>
+There is a lot happening in the world right now. In China, there is a crackdown on protesters who openly rebelled against the government for their &#39;zero Covid&#39; policies. In the US, President Biden is criticizing House Republicans for their views on economics which have sharpened a potential re-election message from the president. Businesses that hired more people and ramped up technology are now cutting back due to customers spending less money. The Republican National Committee is distancing itself from Trump&#39;s 2024 campaign but is still standing behind him in other ways such as helping Ukrainian soldiers fight back with pierogies and artillery shells. A golfer named Anthony Kim caused a stir when he decided to walk away from a career with no explanation, baffling sports experts who thought he would go far in golf. Winter weather this season has been mild compared to years before, and there was a mass shooting of farm workers in Half Moon Bay. The film industry has taken great strides to make more films with female leads, while three friends pooled their finances and bought a house together in Queens. And finally, there was an uproar from the literary community over controversial book publishing practices, and it highlighted the rising number of &#39;deaths of despair&#39;.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In China’s Crackdown on Protesters, a Familiar Effort to Blame Foreign Powers</h3>
+<sub>By Vivian Wang and Zixu Wang</sub>
+<p>The protests against “zero Covid” were a rare rebuke of Xi Jinping’s rule, and Beijing apparently seeks to deter those who might have been emboldened by them.  <a href="https://nyti.ms/3R90lzC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Set to Hammer House Republicans on the Economy</h3>
+<sub>By Jim Tankersley</sub>
+<p>The president has found a welcome foil in a new conservative House majority and its tax and spending plans, sharpening a potential re-election message.  <a href="https://nyti.ms/3H87ZFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>With Layoffs, Retailers Aim to Be Safe Rather Than Sorry (Again)</h3>
 <sub>By Jordyn Holman</sub>
@@ -74,28 +86,22 @@ It looks like things are a bit tumultuous in the world right now. Retailers are 
 <p>Interviews with more than a third of the Republican National Committee’s members point to a desire for an alternative presidential nominee to emerge from a competitive primary.  <a href="https://nyti.ms/3Y0oOJK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine War Accelerates Shift of Power in Europe to the East</h3>
-<sub>By Steven Erlanger</sub>
-<p>The war has raised the influence of Central and Eastern European countries with negative views of Russia, amplified calls to expand the E.U. and NATO, and dimmed the power of France and Germany.  <a href="https://nyti.ms/3JiWKx0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Biden Reluctantly Agreed to Send Tanks to Ukraine</h3>
-<sub>By David E. Sanger, Eric Schmitt and Helene Cooper</sub>
-<p>The decision unlocked a flow of heavy arms from Europe and inched the United States and its NATO allies closer to direct conflict with Russia.  <a href="https://nyti.ms/3R5xH2q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Pierogies and Artillery Shells, Scranton Fights Back in Ukraine</h3>
 <sub>By John Ismay and Natalie Keyssar</sub>
 <p>On a chilly Sunday morning, a Ukrainian Catholic Church holds a bake sale to buy winter coats and other supplies for soldiers, while ammunition is forged at a nearby factory.  <a href="https://nyti.ms/3HHXfzH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>For the First Time Ever, I’m Optimistic About Women in the Movie World</h3>
-<sub>By Manohla Dargis</sub>
-<p>It’s not just the volume and range of films centered on female characters. It’s also a shift in consciousness that has made feminist concerns mainstream.  <a href="https://nyti.ms/3j8Pf0Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>He Was Compared to Tiger Woods. So Why Did He Walk Away From Golf?</h3>
+<sub>By Andrew Keh</sub>
+<p>Is it OK for an athlete — or anyone, really — to have an extraordinary gift and not use it? The golfer Anthony Kim apparently decided, emphatically, that it is.  <a href="https://nyti.ms/3H9wmTB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>You Call That Snow?! See How This Winter Stacks Up.</h3>
+<sub>By Francesca Paris</sub>
+<p>Compare the totals in your city with those of the past.  <a href="https://nyti.ms/3WGBbto"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,34 +110,28 @@ It looks like things are a bit tumultuous in the world right now. Retailers are 
 <p>A 66-year-old man is facing seven counts of murder and one count of attempted murder.  <a href="https://nyti.ms/3j9kVmX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>You Call That Snow?! See How This Winter Stacks Up.</h3>
-<sub>By Francesca Paris</sub>
-<p>Compare the totals in your city with those of the past.  <a href="https://nyti.ms/3WGBbto"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>For the First Time Ever, I’m Optimistic About Women in the Movie World</h3>
+<sub>By Manohla Dargis</sub>
+<p>It’s not just the volume and range of films centered on female characters. It’s also a shift in consciousness that has made feminist concerns mainstream.  <a href="https://nyti.ms/3j8Pf0Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Hospital Makes a House Call</h3>
-<sub>By Helen Ouyang</sub>
-<p>In a time of strained capacity, the “hospital at home” movement is figuring out how to create an inpatient level of care anywhere.  <a href="https://nyti.ms/3Ji3ds3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Three Friends Pooled Their Finances and Bought a Queens House Together. Which One Did They Choose?</h3>
+<sub>By Debra Kamin</sub>
+<p>Unable to afford the homes they wanted on their own, a couple and their friend combined resources and bought a multifamily house. Here’s what they found in western Queens.  <a href="https://nyti.ms/3je5SIx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Memphis Awaits Video of a Deadly Police Beating</h3>
-<sub>By Rick Rojas, Jessica Jaglois and Laura Faith Kebede</sub>
-<p>After Tyre Nichols’s death, footage of what the police have called a “confrontation” could clarify what happened, as the city braces for anguish and outrage.  <a href="https://nyti.ms/3JepPJR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The Long Shadow of ‘American Dirt’</h3>
+<sub>By Pamela Paul</sub>
+<p>How a literary world uproar changed book publishing.   <a href="https://nyti.ms/3Y2dXPx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York to Expand Composting Citywide, Targeting Trash and Rats</h3>
-<sub>By Dana Rubinstein and Emma G. Fitzsimmons</sub>
-<p>Mayor Eric Adams will announce the program at his State of the City address as part of his efforts to improve trash collection and fix New York’s rodent problem.  <a href="https://nyti.ms/3HaPHUh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>36 Hours in Oslo</h3>
-<sub>By Lisa Abend</sub>
-<p>The Norwegian capital is refashioning itself into a major cultural destination, with new museums, daring architecture, intriguing restaurants and myriad ways to celebrate the outdoors – even in the heart of winter.  <a href="https://nyti.ms/3Hh9vWq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>We Profiled the ‘Signs of Crisis’ in 50 Years of Mass Shootings. This Is What We Found.</h3>
+<sub>By Jillian Peterson and James Densley</sub>
+<p>The killings are a symptom of a deeper societal problem: the continued rise of “deaths of despair.”  <a href="https://nyti.ms/3H275uw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
