@@ -60,43 +60,41 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 26, Central Standard Time</p>
 <p>
-The world is in a tumultuous state right now - in Europe, Ukraine is locked in a conflict with Russia, and NATO is getting increasingly involved. In the US, President Biden is facing pressure from Democrats over some controversial decisions. In Turkey, President Erdogan is trying to win re-election by spending heavily, whilst immigrants are being targeted in mass shootings in California. In New York City, Mayor Eric Adams is tackling a rat problem as well as improving trash collection. You need to be careful about protecting your privacy online too - companies are using your email address to link up your activity across various websites.</p>
+There appears to be a lot happening around the world right now. In Europe, the war in Ukraine has caused an eastward shift in power and has made Central and Eastern European countries more influential. This conflict also saw the United States and its NATO allies inch closer to a possible confrontation with Russia. To help support Ukrainian soldiers, churches are holding bake sales and making winter clothing from donations. 
+
+On another note, amongst the Republican National Committee there appears to be a desire for a new candidate to emerge during the presidential primary elections coming up. Additionally, for the first time ever we’re seeing more films with female characters and feminist concerns become mainstream. In Turkey, President Erdogan is trying to win re-election by offering spending plans for citizens despite low inflation rates. 
+
+Closer to home, a mass shooting of farmworkers in California has undermined the local immigrant community. Meanwhile, New York City is rolling out composting citywide as part of efforts to control trash and rat infestations. Lastly, Oslo is becoming a major cultural destination boasting incredible architecture, restaurants, museums and outdoor activities that you can enjoy even in winter!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Biden Reluctantly Agreed to Send Tanks to Ukraine</h3>
-<sub>By David E. Sanger, Eric Schmitt and Helene Cooper</sub>
-<p>The decision unlocked a flow of heavy arms from Europe and inched the United States and its NATO allies closer to direct conflict with Russia.  <a href="https://nyti.ms/3R5xH2q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine War Accelerates Shift of Power in Europe to the East</h3>
 <sub>By Steven Erlanger</sub>
 <p>The war has raised the influence of Central and Eastern European countries with negative views of Russia, amplified calls to expand the E.U. and NATO, and dimmed the power of France and Germany.  <a href="https://nyti.ms/3JiWKx0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Western Tanks Are Coming to Ukraine, but Will They Be Enough?</h3>
-<sub>By Lara Jakes and Thomas Gibbons-Neff</sub>
-<p>Western allies have pledged to send at least 105 tanks, far less than Ukraine says it needs, and it may be months before they join the battle.  <a href="https://nyti.ms/3R4XcRe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Biden Reluctantly Agreed to Send Tanks to Ukraine</h3>
+<sub>By David E. Sanger, Eric Schmitt and Helene Cooper</sub>
+<p>The decision unlocked a flow of heavy arms from Europe and inched the United States and its NATO allies closer to direct conflict with Russia.  <a href="https://nyti.ms/3R5xH2q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Half Moon Bay Immigrant Community Reels From Mass Shooting of Farmworkers</h3>
-<sub>By David W. Chen, Tim Arango, Edgar Sandoval and Soumya Karlamangla</sub>
-<p>A 66-year-old man is facing seven counts of murder and one count of attempted murder.  <a href="https://nyti.ms/3j9kVmX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Meta to Reinstate Trump’s Facebook and Instagram Accounts</h3>
-<sub>By Sheera Frenkel and Mike Isaac</sub>
-<p>Meta said the suspensions of Donald Trump’s accounts would be lifted “in the coming weeks,” with measures in place to discourage repeat offenses. Twitter reinstated Mr. Trump last year.  <a href="https://nyti.ms/40eAdrk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<h3>With Pierogies and Artillery Shells, Scranton Fights Back in Ukraine</h3>
+<sub>By John Ismay and Natalie Keyssar</sub>
+<p>On a chilly Sunday morning, a Ukrainian Catholic Church holds a bake sale to buy winter coats and other supplies for soldiers, while ammunition is forged at a nearby factory.  <a href="https://nyti.ms/3HHXfzH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New Evidence Revealed in Dramatic Start to Murdaugh Murder Trial</h3>
-<sub>By Nicholas Bogel-Burroughs and Jacey Fortin</sub>
-<p>The trial of Alex Murdaugh, a former lawyer charged with murdering his wife and son, began with fireworks as prosecutors revealed new evidence, including a raincoat with gunshot residue.  <a href="https://nyti.ms/3WDyJno"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<h3>An R.N.C. Remade by Trump Backs Away From His 2024 Campaign</h3>
+<sub>By Reid J. Epstein and Lisa Lerer</sub>
+<p>Interviews with more than a third of the Republican National Committee’s members point to a desire for an alternative presidential nominee to emerge from a competitive primary.  <a href="https://nyti.ms/3Y0oOJK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>For the First Time Ever, I’m Optimistic About Women in the Movie World</h3>
+<sub>By Manohla Dargis</sub>
+<p>It’s not just the volume and range of films centered on female characters. It’s also a shift in consciousness that has made feminist concerns mainstream.  <a href="https://nyti.ms/3j8Pf0Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Tough Elections Loom in Turkey, Erdogan Is Spending for Victory</h3>
@@ -104,23 +102,29 @@ The world is in a tumultuous state right now - in Europe, Ukraine is locked in a
 <p>President Recep Tayyip Erdogan is trying to soften the blow of inflation on the population and using legal threats to bolster his position ahead of a vote that could reshape his country.  <a href="https://nyti.ms/3WFGlG1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. State Lawmakers Push a Growing Wave of Anti-Transgender Bills</h3>
-<sub>By Maggie Astor</sub>
-<p>Four states could ban transition care into young adulthood. Lawmakers in several others want to restrict drag shows in ways that could affect transgender performers broadly. It’s part of a long-term plan.  <a href="https://nyti.ms/3j8XJVR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Hospital Makes a House Call</h3>
+<sub>By Helen Ouyang</sub>
+<p>In a time of strained capacity, the “hospital at home” movement is figuring out how to create an inpatient level of care anywhere.  <a href="https://nyti.ms/3Ji3ds3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Newport News School Was Warned 3 Times That 6-Year-Old Had a Gun, Lawyer Says</h3>
-<sub>By Paul Bibeau and Sarah Mervosh</sub>
-<p>Under pressure, the school board voted to end the superintendent’s contract. Other administrators have also left the elementary school.  <a href="https://nyti.ms/3DeDrRQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Half Moon Bay Immigrant Community Reels From Mass Shooting of Farmworkers</h3>
+<sub>By David W. Chen, Tim Arango, Edgar Sandoval and Soumya Karlamangla</sub>
+<p>A 66-year-old man is facing seven counts of murder and one count of attempted murder.  <a href="https://nyti.ms/3j9kVmX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Faces Blowback From Democrats on Classified Documents</h3>
-<sub>By Zolan Kanno-Youngs, Katie Glueck and Annie Karni</sub>
-<p>The discovery of classified documents has thrust President Biden into an uncomfortable position after he started the new year with plans to do a victory lap of sorts.  <a href="https://nyti.ms/3WIbRmC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>You Call That Snow?! See How This Winter Stacks Up.</h3>
+<sub>By Francesca Paris</sub>
+<p>Compare the totals in your city with those of the past.  <a href="https://nyti.ms/3WGBbto"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>TikTok’s New Defense in Washington: Going on the Offense</h3>
+<sub>By Cecilia Kang, Sapna Maheshwari and David McCabe</sub>
+<p>Keeping its head down has not paid off for the company, which now faces regulatory pressure on many fronts. So it is starting to speak out.  <a href="https://nyti.ms/3DcidUz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>New York to Expand Composting Citywide, Targeting Trash and Rats</h3>
@@ -128,11 +132,11 @@ The world is in a tumultuous state right now - in Europe, Ukraine is locked in a
 <p>Mayor Eric Adams will announce the program at his State of the City address as part of his efforts to improve trash collection and fix New York’s rodent problem.  <a href="https://nyti.ms/3HaPHUh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Everyone Wants Your Email Address. Think Twice Before Sharing It.</h3>
-<sub>By Brian X. Chen</sub>
-<p>Your email address has become a digital bread crumb for companies to link your activity across sites. Here’s how you can limit this.  <a href="https://nyti.ms/3XTDQRf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>36 Hours in Oslo</h3>
+<sub>By Lisa Abend</sub>
+<p>The Norwegian capital is refashioning itself into a major cultural destination, with new museums, daring architecture, intriguing restaurants and myriad ways to celebrate the outdoors – even in the heart of winter.  <a href="https://nyti.ms/3Hh9vWq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
