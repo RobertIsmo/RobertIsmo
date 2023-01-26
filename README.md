@@ -60,48 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 26, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In China, there is a crackdown on protesters who openly rebelled against the government for their &#39;zero Covid&#39; policies. In the US, President Biden is criticizing House Republicans for their views on economics which have sharpened a potential re-election message from the president. Businesses that hired more people and ramped up technology are now cutting back due to customers spending less money. The Republican National Committee is distancing itself from Trump&#39;s 2024 campaign but is still standing behind him in other ways such as helping Ukrainian soldiers fight back with pierogies and artillery shells. A golfer named Anthony Kim caused a stir when he decided to walk away from a career with no explanation, baffling sports experts who thought he would go far in golf. Winter weather this season has been mild compared to years before, and there was a mass shooting of farm workers in Half Moon Bay. The film industry has taken great strides to make more films with female leads, while three friends pooled their finances and bought a house together in Queens. And finally, there was an uproar from the literary community over controversial book publishing practices, and it highlighted the rising number of &#39;deaths of despair&#39;.</p>
+There&#39;s a lot going on in the world right now. In the United States, five police officers are facing the same set of charges, and President Biden is hammering Republicans on the economy in anticipation of 2024 elections. There has also been a mass shooting of farmworkers in Half Moon Bay California, which has shaken the immigrant community there, and John Durham was tasked with finding flaws in the Russia investigation. Meanwhile, the U.S. economy showed momentum at year&#39;s end defying recession fears, while Anthony Kim decided to walk away from golf despite having been compared to Tiger Woods. Other major news includes a man being convicted in a terror attack that killed 8 on a Manhattan bike path and China cracking down on protesters with efforts to blame foreign powers. Finally, there have never been as many official areas for skateboarding as there are today in New York City, but skaters still love and resist skateboard parks.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In China’s Crackdown on Protesters, a Familiar Effort to Blame Foreign Powers</h3>
-<sub>By Vivian Wang and Zixu Wang</sub>
-<p>The protests against “zero Covid” were a rare rebuke of Xi Jinping’s rule, and Beijing apparently seeks to deter those who might have been emboldened by them.  <a href="https://nyti.ms/3R90lzC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who was Tyre Nichols?</h3>
+<sub>By Rick Rojas</sub>
+<p>Mr. Nichols had a 4-year-old son and a tattoo of his mother’s name on his arm, his family said.  <a href="https://nyti.ms/3WGFc0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Set to Hammer House Republicans on the Economy</h3>
-<sub>By Jim Tankersley</sub>
-<p>The president has found a welcome foil in a new conservative House majority and its tax and spending plans, sharpening a potential re-election message.  <a href="https://nyti.ms/3H87ZFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>With Layoffs, Retailers Aim to Be Safe Rather Than Sorry (Again)</h3>
-<sub>By Jordyn Holman</sub>
-<p>Companies that ramped up hiring in areas like technology over the past few years are cutting back as customers slow their spending.  <a href="https://nyti.ms/3Hwq7uw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>All five officers face the same set of charges. Here is what they mean.</h3>
+<sub>By Patrick J. Lyons</sub>
+<p>  <a href="https://nyti.ms/3XYg7j5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An R.N.C. Remade by Trump Backs Away From His 2024 Campaign</h3>
-<sub>By Reid J. Epstein and Lisa Lerer</sub>
-<p>Interviews with more than a third of the Republican National Committee’s members point to a desire for an alternative presidential nominee to emerge from a competitive primary.  <a href="https://nyti.ms/3Y0oOJK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Pierogies and Artillery Shells, Scranton Fights Back in Ukraine</h3>
-<sub>By John Ismay and Natalie Keyssar</sub>
-<p>On a chilly Sunday morning, a Ukrainian Catholic Church holds a bake sale to buy winter coats and other supplies for soldiers, while ammunition is forged at a nearby factory.  <a href="https://nyti.ms/3HHXfzH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>He Was Compared to Tiger Woods. So Why Did He Walk Away From Golf?</h3>
-<sub>By Andrew Keh</sub>
-<p>Is it OK for an athlete — or anyone, really — to have an extraordinary gift and not use it? The golfer Anthony Kim apparently decided, emphatically, that it is.  <a href="https://nyti.ms/3H9wmTB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>You Call That Snow?! See How This Winter Stacks Up.</h3>
-<sub>By Francesca Paris</sub>
-<p>Compare the totals in your city with those of the past.  <a href="https://nyti.ms/3WGBbto"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Barr Pressed Durham to Find Flaws in the Russia Investigation. It Didn’t Go Well.</h3>
+<sub>By Charlie Savage, Adam Goldman and Katie Benner</sub>
+<p>The review by John Durham at one point veered into a criminal investigation related to Donald Trump himself, even as it failed to find wrongdoing in the origins of the Russia inquiry.  <a href="https://nyti.ms/3XEpJ2x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,28 +86,52 @@ There is a lot happening in the world right now. In China, there is a crackdown 
 <p>A 66-year-old man is facing seven counts of murder and one count of attempted murder.  <a href="https://nyti.ms/3j9kVmX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>For the First Time Ever, I’m Optimistic About Women in the Movie World</h3>
-<sub>By Manohla Dargis</sub>
-<p>It’s not just the volume and range of films centered on female characters. It’s also a shift in consciousness that has made feminist concerns mainstream.  <a href="https://nyti.ms/3j8Pf0Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Economy Showed Momentum at Year’s End, Defying Recession Fears</h3>
+<sub>By Ben Casselman</sub>
+<p>The continued growth in the fourth quarter showed the resilience of consumers and businesses in the face of rising inflation and interest rates.  <a href="https://nyti.ms/3HzxhOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Three Friends Pooled Their Finances and Bought a Queens House Together. Which One Did They Choose?</h3>
-<sub>By Debra Kamin</sub>
-<p>Unable to afford the homes they wanted on their own, a couple and their friend combined resources and bought a multifamily house. Here’s what they found in western Queens.  <a href="https://nyti.ms/3je5SIx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Hammers Republicans on the Economy, With Eye on 2024</h3>
+<sub>By Jim Tankersley</sub>
+<p>The president has found a welcome foil in a new conservative House majority and its tax and spending plans, sharpening a potential re-election message.  <a href="https://nyti.ms/3H87ZFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The Long Shadow of ‘American Dirt’</h3>
-<sub>By Pamela Paul</sub>
-<p>How a literary world uproar changed book publishing.   <a href="https://nyti.ms/3Y2dXPx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>He Was Compared to Tiger Woods. So Why Did He Walk Away From Golf?</h3>
+<sub>By Andrew Keh</sub>
+<p>Is it OK for an athlete — or anyone, really — to have an extraordinary gift and not use it? The golfer Anthony Kim apparently decided, emphatically, that it is.  <a href="https://nyti.ms/3H9wmTB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>We Profiled the ‘Signs of Crisis’ in 50 Years of Mass Shootings. This Is What We Found.</h3>
-<sub>By Jillian Peterson and James Densley</sub>
-<p>The killings are a symptom of a deeper societal problem: the continued rise of “deaths of despair.”  <a href="https://nyti.ms/3H275uw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Man Convicted in Terror Attack That Killed 8 on a Manhattan Bike Path</h3>
+<sub>By Benjamin Weiser and Lola Fadulu</sub>
+<p>Sayfullo Saipov could face the death penalty in the federal case. He said he was inspired to carry out the attack by Islamic State videos.  <a href="https://nyti.ms/3kNu0Cn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In China’s Crackdown on Protesters, a Familiar Effort to Blame Foreign Powers</h3>
+<sub>By Vivian Wang and Zixu Wang</sub>
+<p>The protests against “zero Covid” were a rare rebuke of Xi Jinping’s rule, and Beijing apparently seeks to deter those who might have been emboldened by them.  <a href="https://nyti.ms/3R90lzC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>You Call That Snow?! See How This Winter Stacks Up.</h3>
+<sub>By Francesca Paris</sub>
+<p>Compare the totals in your city with those of the past.  <a href="https://nyti.ms/3WGBbto"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Mecca of New York Skateboarding, Back From the Dead?</h3>
+<sub>By Winnie Hu</sub>
+<p>Decades ago, a gritty and dangerous spot under the Brooklyn Bridge was the nerve center for city skateboarders. Mayor Eric Adams just announced plans that could fix it up.  <a href="https://nyti.ms/3DjPZr0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Why Skaters Love and Resist Skateboard Parks</h3>
+<sub>By Cole Louison</sub>
+<p>There have never been as many official places to skate in New York City as there are today. But there’s just something about an empty plaza and a distracted security guard.  <a href="https://nyti.ms/3Xy0fE5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
