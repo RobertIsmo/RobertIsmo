@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 26, Central Standard Time</p>
 <p>
-There has been a lot of international news lately. In Europe, the war in Ukraine is continuing and causing a shift of power to countries with negative views of Russia. NATO and the US have agreed to send tanks to Ukraine as part of their defense, but it&#39;s unclear if they will arrive at the right time. Meanwhile, there has been tragedy on US soil. There was a mass shooting of farmworkers in Half Moon Bay and a prominent lawyer is on trial for allegedly murdering his wife and son. Also, G.O.P. State lawmakers are introducing a growing wave of anti-transgender bills. On top of that, New York is trying to expand composting citywide to reduce trash and rodent problems. It&#39;s been an interesting start to 2021!</p>
+The world is in a tumultuous state right now - in Europe, Ukraine is locked in a conflict with Russia, and NATO is getting increasingly involved. In the US, President Biden is facing pressure from Democrats over some controversial decisions. In Turkey, President Erdogan is trying to win re-election by spending heavily, whilst immigrants are being targeted in mass shootings in California. In New York City, Mayor Eric Adams is tackling a rat problem as well as improving trash collection. You need to be careful about protecting your privacy online too - companies are using your email address to link up your activity across various websites.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Biden Reluctantly Agreed to Send Tanks to Ukraine</h3>
@@ -72,12 +72,6 @@ There has been a lot of international news lately. In Europe, the war in Ukraine
 <h3>Ukraine War Accelerates Shift of Power in Europe to the East</h3>
 <sub>By Steven Erlanger</sub>
 <p>The war has raised the influence of Central and Eastern European countries with negative views of Russia, amplified calls to expand the E.U. and NATO, and dimmed the power of France and Germany.  <a href="https://nyti.ms/3JiWKx0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Germany and U.S., Dropping Resistance, Will Send Battle Tanks to Ukraine</h3>
-<sub>By Erika Solomon, Peter Baker and Eric Nagourney</sub>
-<p>Although welcomed by Kyiv as a critical weapon to expel Russia’s invasion, the Leopard 2 tanks from Germany and Abrams tanks from the United States are unlikely to arrive soon.  <a href="https://nyti.ms/3kHq8Tl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,11 +98,11 @@ There has been a lot of international news lately. In Europe, the war in Ukraine
 <p>The trial of Alex Murdaugh, a former lawyer charged with murdering his wife and son, began with fireworks as prosecutors revealed new evidence, including a raincoat with gunshot residue.  <a href="https://nyti.ms/3WDyJno"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The ‘Murdaugh Murders’: What to Know About the Trial in South Carolina</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>Alex Murdaugh, once a prominent lawyer, is on trial for murder, charged with killing his wife and son as his finances and legal career fell into ruin.  <a href="https://nyti.ms/3n0HjwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Tough Elections Loom in Turkey, Erdogan Is Spending for Victory</h3>
+<sub>By Ben Hubbard</sub>
+<p>President Recep Tayyip Erdogan is trying to soften the blow of inflation on the population and using legal threats to bolster his position ahead of a vote that could reshape his country.  <a href="https://nyti.ms/3WFGlG1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. State Lawmakers Push a Growing Wave of Anti-Transgender Bills</h3>
@@ -132,6 +126,12 @@ There has been a lot of international news lately. In Europe, the war in Ukraine
 <h3>New York to Expand Composting Citywide, Targeting Trash and Rats</h3>
 <sub>By Dana Rubinstein and Emma G. Fitzsimmons</sub>
 <p>Mayor Eric Adams will announce the program at his State of the City address as part of his efforts to improve trash collection and fix New York’s rodent problem.  <a href="https://nyti.ms/3HaPHUh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Everyone Wants Your Email Address. Think Twice Before Sharing It.</h3>
+<sub>By Brian X. Chen</sub>
+<p>Your email address has become a digital bread crumb for companies to link your activity across sites. Here’s how you can limit this.  <a href="https://nyti.ms/3XTDQRf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
