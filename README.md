@@ -58,14 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, January 25, Central Standard Time</p>
+<p>It is Thursday, January 26, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. The US and allies such as Germany have agreed to send battle tanks to Ukraine, a country embroiled in conflict with Russia. Along with this, some scientists from Ukraine have been given a funding lifeline from abroad. Additionally, there was a mass shooting of farmworkers in Half Moon Bay, California, which has caused an uproar. Meta is working to reinstate Donald Trump&#39;s social media accounts, and there is an ongoing murder trial for Alex Murdaugh in South Carolina who is accused of murdering his wife and son. Republican state legislators are pushing a wave of anti-transgender bills that may restrict the rights of transgender people in certain areas, and there has been recent controversy surrounding classified documents released by the Biden administration.</p>
+There has been a lot of international news lately. In Europe, the war in Ukraine is continuing and causing a shift of power to countries with negative views of Russia. NATO and the US have agreed to send tanks to Ukraine as part of their defense, but it&#39;s unclear if they will arrive at the right time. Meanwhile, there has been tragedy on US soil. There was a mass shooting of farmworkers in Half Moon Bay and a prominent lawyer is on trial for allegedly murdering his wife and son. Also, G.O.P. State lawmakers are introducing a growing wave of anti-transgender bills. On top of that, New York is trying to expand composting citywide to reduce trash and rodent problems. It&#39;s been an interesting start to 2021!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Biden Reluctantly Agreed to Send Tanks to Ukraine</h3>
 <sub>By David E. Sanger, Eric Schmitt and Helene Cooper</sub>
 <p>The decision unlocked a flow of heavy arms from Europe and inched the United States and its NATO allies closer to direct conflict with Russia.  <a href="https://nyti.ms/3R5xH2q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine War Accelerates Shift of Power in Europe to the East</h3>
+<sub>By Steven Erlanger</sub>
+<p>The war has raised the influence of Central and Eastern European countries with negative views of Russia, amplified calls to expand the E.U. and NATO, and dimmed the power of France and Germany.  <a href="https://nyti.ms/3JiWKx0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -78,12 +84,6 @@ There is a lot happening in the world right now. The US and allies such as Germa
 <h3>Western Tanks Are Coming to Ukraine, but Will They Be Enough?</h3>
 <sub>By Lara Jakes and Thomas Gibbons-Neff</sub>
 <p>Western allies have pledged to send at least 105 tanks, far less than Ukraine says it needs, and it may be months before they join the battle.  <a href="https://nyti.ms/3R4XcRe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Ukraine’s Scientists Receive a Funding Lifeline From Abroad</h3>
-<sub>By William J. Broad</sub>
-<p>The Simons Foundation in New York is providing annual grants to the country’s chemists, biologists, physicists and mathematicians.  <a href="https://nyti.ms/3Hz5pu5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,12 +110,6 @@ There is a lot happening in the world right now. The US and allies such as Germa
 <p>Alex Murdaugh, once a prominent lawyer, is on trial for murder, charged with killing his wife and son as his finances and legal career fell into ruin.  <a href="https://nyti.ms/3n0HjwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, September 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>In ‘Shrinking,’ Jason Segel Does the Work</h3>
-<sub>By Alexis Soloski</sub>
-<p>The actor is a star, writer and executive producer of this new series about a therapist crushed by grief and trying to put himself back together. It’s a comedy.  <a href="https://nyti.ms/3j0dNJE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. State Lawmakers Push a Growing Wave of Anti-Transgender Bills</h3>
 <sub>By Maggie Astor</sub>
@@ -132,6 +126,12 @@ There is a lot happening in the world right now. The US and allies such as Germa
 <h3>Biden Faces Blowback From Democrats on Classified Documents</h3>
 <sub>By Zolan Kanno-Youngs, Katie Glueck and Annie Karni</sub>
 <p>The discovery of classified documents has thrust President Biden into an uncomfortable position after he started the new year with plans to do a victory lap of sorts.  <a href="https://nyti.ms/3WIbRmC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York to Expand Composting Citywide, Targeting Trash and Rats</h3>
+<sub>By Dana Rubinstein and Emma G. Fitzsimmons</sub>
+<p>Mayor Eric Adams will announce the program at his State of the City address as part of his efforts to improve trash collection and fix New York’s rodent problem.  <a href="https://nyti.ms/3HaPHUh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
