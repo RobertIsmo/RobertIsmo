@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 26, Central Standard Time</p>
 <p>
-There appears to be a lot happening around the world right now. In Europe, the war in Ukraine has caused an eastward shift in power and has made Central and Eastern European countries more influential. This conflict also saw the United States and its NATO allies inch closer to a possible confrontation with Russia. To help support Ukrainian soldiers, churches are holding bake sales and making winter clothing from donations. 
-
-On another note, amongst the Republican National Committee there appears to be a desire for a new candidate to emerge during the presidential primary elections coming up. Additionally, for the first time ever we’re seeing more films with female characters and feminist concerns become mainstream. In Turkey, President Erdogan is trying to win re-election by offering spending plans for citizens despite low inflation rates. 
-
-Closer to home, a mass shooting of farmworkers in California has undermined the local immigrant community. Meanwhile, New York City is rolling out composting citywide as part of efforts to control trash and rat infestations. Lastly, Oslo is becoming a major cultural destination boasting incredible architecture, restaurants, museums and outdoor activities that you can enjoy even in winter!</p>
+It looks like things are a bit tumultuous in the world right now. Retailers are making layoffs due to customer spending slowdowns and the Republican National Committee is moving away from President Trump&#39;s 2024 campaign. The Ukrainian war is escalating tensions in Europe and Biden agreed to send in tanks even though he was reluctant to do so. Over in America, immigrants are reeling from violence after a mass shooting of farmworkers in Half Moon Bay and a police beating has left people in Memphis worried and awaiting video footage. In New York City, there&#39;s a plan to expand composting citywide to target trash and rats, while Oslo is refashioning itself into a cultural hub with new museums and restaurants. Oh, and did I mention that there&#39;s been some insanely weird weather around? You can check out the winter snow reports for yourself!</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>With Layoffs, Retailers Aim to Be Safe Rather Than Sorry (Again)</h3>
+<sub>By Jordyn Holman</sub>
+<p>Companies that ramped up hiring in areas like technology over the past few years are cutting back as customers slow their spending.  <a href="https://nyti.ms/3Hwq7uw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An R.N.C. Remade by Trump Backs Away From His 2024 Campaign</h3>
+<sub>By Reid J. Epstein and Lisa Lerer</sub>
+<p>Interviews with more than a third of the Republican National Committee’s members point to a desire for an alternative presidential nominee to emerge from a competitive primary.  <a href="https://nyti.ms/3Y0oOJK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine War Accelerates Shift of Power in Europe to the East</h3>
 <sub>By Steven Erlanger</sub>
@@ -84,28 +92,10 @@ Closer to home, a mass shooting of farmworkers in California has undermined the 
 <p>On a chilly Sunday morning, a Ukrainian Catholic Church holds a bake sale to buy winter coats and other supplies for soldiers, while ammunition is forged at a nearby factory.  <a href="https://nyti.ms/3HHXfzH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An R.N.C. Remade by Trump Backs Away From His 2024 Campaign</h3>
-<sub>By Reid J. Epstein and Lisa Lerer</sub>
-<p>Interviews with more than a third of the Republican National Committee’s members point to a desire for an alternative presidential nominee to emerge from a competitive primary.  <a href="https://nyti.ms/3Y0oOJK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>For the First Time Ever, I’m Optimistic About Women in the Movie World</h3>
 <sub>By Manohla Dargis</sub>
 <p>It’s not just the volume and range of films centered on female characters. It’s also a shift in consciousness that has made feminist concerns mainstream.  <a href="https://nyti.ms/3j8Pf0Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Tough Elections Loom in Turkey, Erdogan Is Spending for Victory</h3>
-<sub>By Ben Hubbard</sub>
-<p>President Recep Tayyip Erdogan is trying to soften the blow of inflation on the population and using legal threats to bolster his position ahead of a vote that could reshape his country.  <a href="https://nyti.ms/3WFGlG1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Hospital Makes a House Call</h3>
-<sub>By Helen Ouyang</sub>
-<p>In a time of strained capacity, the “hospital at home” movement is figuring out how to create an inpatient level of care anywhere.  <a href="https://nyti.ms/3Ji3ds3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,10 +110,16 @@ Closer to home, a mass shooting of farmworkers in California has undermined the 
 <p>Compare the totals in your city with those of the past.  <a href="https://nyti.ms/3WGBbto"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>TikTok’s New Defense in Washington: Going on the Offense</h3>
-<sub>By Cecilia Kang, Sapna Maheshwari and David McCabe</sub>
-<p>Keeping its head down has not paid off for the company, which now faces regulatory pressure on many fronts. So it is starting to speak out.  <a href="https://nyti.ms/3DcidUz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Hospital Makes a House Call</h3>
+<sub>By Helen Ouyang</sub>
+<p>In a time of strained capacity, the “hospital at home” movement is figuring out how to create an inpatient level of care anywhere.  <a href="https://nyti.ms/3Ji3ds3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Memphis Awaits Video of a Deadly Police Beating</h3>
+<sub>By Rick Rojas, Jessica Jaglois and Laura Faith Kebede</sub>
+<p>After Tyre Nichols’s death, footage of what the police have called a “confrontation” could clarify what happened, as the city braces for anguish and outrage.  <a href="https://nyti.ms/3JepPJR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
