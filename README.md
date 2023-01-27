@@ -60,8 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 26, Central Standard Time</p>
 <p>
-There is a lot happening right now in the world. In the US, there has been an ongoing civil rights case concerning the death of Tyre Nichols, who was killed by police in Memphis earlier this year. In California, a 66-year-old man has been arrested and charged with murder after a mass shooting that left 8 farmworkers dead. There have also been positive economic developments in the US, even in spite of rising inflation and interest rates. On the global front, UNESCO has formally recognized Odesa as a World Heritage Site, and China is cracking down on protesters who have voiced their opposition to their government&#39;s handling of the COVID pandemic. Finally, there has been a discussion about mass shootings in America and what might be contributing to this issue.</p>
+Currently, a lot is happening around the world. In the US, five police officers have been charged with murder in the death of 29-year old Tyre Nichols, whose last encounter with police authorities was caught on video footage that is reported to be &#39;absolutely appalling&#39;. Additionally, President Trump&#39;s Justice Department&#39;s quest to find flaws in the Russia inquiry unraveled, while a farmworker in Half Moon Bay described coming face to face with a gunman who shot his co-worker dead alongside two other farmworkers.
+
+In New York, a man was convicted for carrying out a terror attack which killed 8 people on a Manhattan bike path. There is also good news for the US economy as it gained momentum at the end of the year, despite recession fears.
+
+Meanwhile in the worldwide sports scene, American golfer Anthony Kim decided to walk away from golf despite being compared to Tiger Woods. Russia has also conducted airstrikes in Ukraine killing 12 people, while UNESCO is attempting to preserve Odesa, designating it as a world heritage site after shelling by Russia. Finally, back in the US, the New York Public Library recently acquired Joan Didion&#39;s papers and China is cracking down on protesters engaging in rare rebuke of Xi Jinping&#39;s rule and hoping to discourage others from being emboldened by them.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Five Officers Charged With Murder in Memphis Police Killing</h3>
+<sub>By Rick Rojas and Jessica Jaglois</sub>
+<p>As the city awaits video of the fatal encounter with Tyre Nichols, a 29-year-old Black man, a law enforcement official described the footage as “absolutely appalling.”  <a href="https://nyti.ms/3kFMQLv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Who was Tyre Nichols?</h3>
 <sub>By Rick Rojas</sub>
@@ -81,10 +91,10 @@ There is a lot happening right now in the world. In the US, there has been an on
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Half Moon Bay Immigrant Community Reels From Mass Shooting of Farmworkers</h3>
-<sub>By David W. Chen, Tim Arango, Edgar Sandoval and Soumya Karlamangla</sub>
-<p>A 66-year-old man is facing seven counts of murder and one count of attempted murder.  <a href="https://nyti.ms/3j9kVmX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<h3>Farmworker Describes Coming Face to Face With Half Moon Bay Gunman</h3>
+<sub>By David W. Chen and Irene Benedicto</sub>
+<p>A man walked in and fatally shot Marciano Martinez, but spared his co-worker. Two other farmworkers, a husband and wife, were also found dead at Concord Farms.  <a href="https://nyti.ms/3kCSk9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Man Convicted in Terror Attack That Killed 8 on a Manhattan Bike Path</h3>
@@ -95,13 +105,25 @@ There is a lot happening right now in the world. In the US, there has been an on
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. Economy Showed Momentum at Year’s End, Defying Recession Fears</h3>
 <sub>By Ben Casselman</sub>
-<p>The continued growth in the fourth quarter showed the resilience of consumers and businesses in the face of rising inflation and interest rates.  <a href="https://nyti.ms/3HzxhOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The continued growth in the fourth quarter showed the resilience of consumers and businesses in the face of inflation and rising interest rates.  <a href="https://nyti.ms/3HzxhOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>He Was Compared to Tiger Woods. So Why Did He Walk Away From Golf?</h3>
 <sub>By Andrew Keh</sub>
 <p>Is it OK for an athlete — or anyone, really — to have an extraordinary gift and not use it? The golfer Anthony Kim apparently decided, emphatically, that it is.  <a href="https://nyti.ms/3H9wmTB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Wave of Strikes, Russian Missiles Kill 12 Across Ukraine</h3>
+<sub>By Michael Schwirtz and Alan Yuhas</sub>
+<p>Russia’s forces once again pounded energy infrastructure and other civilian sites, a day after the United States and Germany pledged to send dozens of tanks to Ukraine.  <a href="https://nyti.ms/400mbJL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>UNESCO Moves to Protect Odesa, Designating the City a World Heritage Site</h3>
+<sub>By Lauren McCarthy</sub>
+<p>The Black Sea port has been battered by Russian shelling for months.  <a href="https://nyti.ms/3Ri1kNZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -111,27 +133,9 @@ There is a lot happening right now in the world. In the US, there has been an on
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>UNESCO Moves to Protect Odesa, Designating the City a World Heritage Site</h3>
-<sub>By Lauren McCarthy</sub>
-<p>The Black Sea port has been battered by Russian shelling for months.  <a href="https://nyti.ms/3Ri1kNZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In China’s Crackdown on Protesters, a Familiar Effort to Blame Foreign Powers</h3>
 <sub>By Vivian Wang and Zixu Wang</sub>
 <p>The protests against “zero Covid” were a rare rebuke of Xi Jinping’s rule, and Beijing apparently seeks to deter those who might have been emboldened by them.  <a href="https://nyti.ms/3R90lzC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Disney’s Splash Mountain Closed. Now Superfans Are Selling the Water.</h3>
-<sub>By Remy Tumin</sub>
-<p>Jars and bags of what sellers claim is water from the popular Florida attraction are being offered for sale online. The odd farewell comes as Disney takes steps to erase the ride’s racist back story.  <a href="https://nyti.ms/3kMeO8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>We Profiled the ‘Signs of Crisis’ in 50 Years of Mass Shootings. This Is What We Found.</h3>
-<sub>By Jillian Peterson and James Densley</sub>
-<p>The killings are a symptom of a deeper societal problem: the continued rise of “deaths of despair.”  <a href="https://nyti.ms/3H275uw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
