@@ -60,25 +60,21 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 27, Central Standard Time</p>
 <p>
-There has been a lot of news in the US recently. In Memphis, five police officers have been charged with the murder of Tyre Nichols, a 29-year-old Black man. Also in the US, there has been an ongoing corruption scandal in Ukraine and a rift between some big cities and rural-dominated state legislatures that appears to be getting worse. Donald Trump also launched his own social media platform called Truth Social, which is struggling to attract large brands. On the economic front, consumer spending decreased in December and the personal consumption expenditures price index was slower than the month before. Finally, New York City banned foie gras in 2019, but the debate about it continues and in the UK there is an escalating battle over a gender bill that could bolster independence movements.</p>
+There&#39;s a lot going on around the world right now. In the US, Memphis police officers have been charged with murder in connection with the death of Tyre Nichols. Cities across the country are bracing for protests after graphic video of the incident is released. Also in the US, Republicans are considering replacing their leader at the Republican National Committee after a string of losses in 2022 elections. Over in Ukraine, there&#39;s a corruption scandal raising concerns about US aid to the region. 
+
+Meanwhile, in New York City, there&#39;s an ongoing battle to ban foie gras from restaurants. On the health front, experts are urging faster treatments for children with obesity and new guidelines by the American Academy of Pediatrics underscore how complicated childhood obesity is for patients and providers. Lastly, scuba divers sparked a &quot;bone rush&quot; after a podcast guest claimed that tons of prehistoric remains were dumped decades ago into East River.</p>
 <ol>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>As the Colorado River Shrinks, Washington Prepares to Spread the Pain</h3>
-<sub>By Christopher Flavelle and Mira Rojanasakul</sub>
-<p>The seven states that rely on the river for water are not expected to reach a deal on cuts. It appears the Biden administration will have to impose reductions.  <a href="https://nyti.ms/3XYZrb9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Memphis Police SCORPION Unit Was Supposed to Stop Violence</h3>
+<sub>By Mike Baker</sub>
+<p>The SCORPION unit’s officers are now accused in the murder of Tyre Nichols.  <a href="https://nyti.ms/405yh4e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Five Officers Charged With Murder in Memphis Police Killing</h3>
-<sub>By Rick Rojas and Jessica Jaglois</sub>
-<p>As the city awaits video of the fatal encounter with Tyre Nichols, a 29-year-old Black man, a law enforcement official described the footage as “absolutely appalling.”  <a href="https://nyti.ms/3kFMQLv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Cities across the U.S. are bracing for protests once the police video is released.</h3>
+<sub>By Karen Zraick</sub>
+<p>The footage is gruesome and distressing, officials say. The family of Tyre Nichols, who was killed, and Memphis civic leaders have asked people to protest peacefully.  <a href="https://nyti.ms/3HkAbpg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About Tyre Nichols’s Lethal Encounter With Memphis Police</h3>
-<sub>By Rick Rojas</sub>
-<p>Five officers were charged with second-degree murder, as the city braced for the release of video footage.  <a href="https://nyti.ms/3Xw5Ive"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Here is a timeline of events in the death of Tyre Nichols.</h3>
@@ -86,16 +82,16 @@ There has been a lot of news in the US recently. In Memphis, five police officer
 <p>Mr. Nichols was pulled over by the Memphis police on the evening of Jan. 7 and died three days later. Five officers were charged with murder on Thursday.  <a href="https://nyti.ms/3wyJugk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine Corruption Scandal Stokes Longstanding Aid Concerns in U.S.</h3>
-<sub>By Michael Crowley and Edward Wong</sub>
-<p>A top State Department official said the ouster of several Ukrainian officials this week after corruption charges “sends a very strong signal.”  <a href="https://nyti.ms/3XYZlQP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>As the Colorado River Shrinks, Washington Prepares to Spread the Pain</h3>
+<sub>By Christopher Flavelle and Mira Rojanasakul</sub>
+<p>The seven states that rely on the river for water are not expected to reach a deal on cuts. It appears the Biden administration will have to impose reductions.  <a href="https://nyti.ms/3XYZrb9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In State Legislatures, Old Rivalries Are Reheated by National Politics</h3>
-<sub>By Michael Wines</sub>
-<p>The relationships between big cities and rural-dominated legislatures have often been hostile. But a rift between Nashville and the Tennessee Legislature suggests the nation’s partisan divide is making things worse.  <a href="https://nyti.ms/3kQYB24"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Mammoth Tusks in the East River? How Joe Rogan Started a ‘Bone Rush.’</h3>
+<sub>By Michael Wilson</sub>
+<p>After a podcast guest claimed that tons of prehistoric remains were dumped decades ago, scuba divers suited up. But the truth is as murky as the water.  <a href="https://nyti.ms/40aZQt5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -105,21 +101,15 @@ There has been a lot of news in the US recently. In Memphis, five police officer
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Barr’s Quest to Find Flaws in the Russia Inquiry Unraveled</h3>
-<sub>By Charlie Savage, Adam Goldman and Katie Benner</sub>
-<p>The review by John Durham at one point veered into a criminal investigation related to Donald Trump himself, even as it failed to find wrongdoing in the origins of the Russia inquiry.  <a href="https://nyti.ms/3XEpJ2x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Consumer Spending Slid Again in December</h3>
-<sub>By Ben Casselman and Jeanna Smialek</sub>
-<p>Fresh data offered more detail on how shoppers retrenched at the end of 2022.  <a href="https://nyti.ms/3XGkMGp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Republicans Weigh Potential R.N.C. Shake-Up After a Disappointing 2022</h3>
+<sub>By Lisa Lerer and Jonathan Weisman</sub>
+<p>The leader of the Republican National Committee, Ronna McDaniel, who was handpicked by Donald Trump in 2017, is facing a challenge from insurgent conservatives who say new blood is needed.  <a href="https://nyti.ms/3HaJRSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Closely Watched Measure of Inflation Slowed in December</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Personal Consumption Expenditures price index climbed 5 percent from a year earlier, slower than the reading last month.  <a href="https://nyti.ms/3HgbVEs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ukraine Corruption Scandal Stokes Longstanding Aid Concerns in U.S.</h3>
+<sub>By Michael Crowley and Edward Wong</sub>
+<p>A top State Department official said the ouster of several Ukrainian officials this week after corruption charges “sends a very strong signal.”  <a href="https://nyti.ms/3XYZlQP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -128,11 +118,23 @@ There has been a lot of news in the US recently. In Memphis, five police officer
 <p>The yearslong battle to ban the delicacy in New York City rages on, with duck farmers, animal rights activists, two mayors and France all taking sides.  <a href="https://nyti.ms/3R9LzZg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Will U.K. Rejection of Scottish Gender Bill Bolster Independence Movement?</h3>
-<sub>By Stephen Castle</sub>
-<p>The intervention from London angered Scottish politicians, but it’s not clear that backers of independence can use the issue to their advantage.  <a href="https://nyti.ms/3Dj9kZ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Gun Used in the Monterey Park Shooting</h3>
+<sub>By Jeremy White and K.K. Rebecca Lai</sub>
+<p>Images of the weapon used in the attack on the Star Ballroom Dance Studio showed modifications the authorities said the gunman most likely made himself.  <a href="https://nyti.ms/3XH4GMZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Why Experts Are Urging Swifter Treatment for Children With Obesity</h3>
+<sub>By Gina Kolata</sub>
+<p>Growing research has shown that intensive interventions are needed, scientists say. Here is why their advice is changing.  <a href="https://nyti.ms/3HDPH0N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>New Guidelines Underscore How Complicated Childhood Obesity Is for Patients and Providers</h3>
+<sub>By Catherine Pearson</sub>
+<p>The A.A.P. is recommending early and intensive interventions. Can that happen without furthering stigma?  <a href="https://nyti.ms/3XHAv7L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
