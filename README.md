@@ -58,13 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, January 26, Central Standard Time</p>
+<p>It is Friday, January 27, Central Standard Time</p>
 <p>
-Currently, a lot is happening around the world. In the US, five police officers have been charged with murder in the death of 29-year old Tyre Nichols, whose last encounter with police authorities was caught on video footage that is reported to be &#39;absolutely appalling&#39;. Additionally, President Trump&#39;s Justice Department&#39;s quest to find flaws in the Russia inquiry unraveled, while a farmworker in Half Moon Bay described coming face to face with a gunman who shot his co-worker dead alongside two other farmworkers.
-
-In New York, a man was convicted for carrying out a terror attack which killed 8 people on a Manhattan bike path. There is also good news for the US economy as it gained momentum at the end of the year, despite recession fears.
-
-Meanwhile in the worldwide sports scene, American golfer Anthony Kim decided to walk away from golf despite being compared to Tiger Woods. Russia has also conducted airstrikes in Ukraine killing 12 people, while UNESCO is attempting to preserve Odesa, designating it as a world heritage site after shelling by Russia. Finally, back in the US, the New York Public Library recently acquired Joan Didion&#39;s papers and China is cracking down on protesters engaging in rare rebuke of Xi Jinping&#39;s rule and hoping to discourage others from being emboldened by them.</p>
+There have been a lot of things happening in the world lately. In Memphis, five police officers have been charged with murder following the death of a 29-year-old black man named Tyre Nichols. In New York, a man was convicted in an attack that killed 8 people on a bike path and he could face the death penalty. Things look a little rosier for the US economy which showed surprising momentum at the end of the year, despite recession fears. On the international front, Russia has been carrying out strikes and shelling civilian sites in Ukraine and China is cracking down on protesters by blaming foreign powers. Finally, Disney&#39;s Splash Mountain ride is being closed forever, which has sparked all sorts of online sales of supposed water from it. Things definitely seem turbulent right now!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Five Officers Charged With Murder in Memphis Police Killing</h3>
@@ -108,12 +104,6 @@ Meanwhile in the worldwide sports scene, American golfer Anthony Kim decided to 
 <p>The continued growth in the fourth quarter showed the resilience of consumers and businesses in the face of inflation and rising interest rates.  <a href="https://nyti.ms/3HzxhOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>He Was Compared to Tiger Woods. So Why Did He Walk Away From Golf?</h3>
-<sub>By Andrew Keh</sub>
-<p>Is it OK for an athlete — or anyone, really — to have an extraordinary gift and not use it? The golfer Anthony Kim apparently decided, emphatically, that it is.  <a href="https://nyti.ms/3H9wmTB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Wave of Strikes, Russian Missiles Kill 12 Across Ukraine</h3>
 <sub>By Michael Schwirtz and Alan Yuhas</sub>
@@ -136,6 +126,12 @@ Meanwhile in the worldwide sports scene, American golfer Anthony Kim decided to 
 <h3>In China’s Crackdown on Protesters, a Familiar Effort to Blame Foreign Powers</h3>
 <sub>By Vivian Wang and Zixu Wang</sub>
 <p>The protests against “zero Covid” were a rare rebuke of Xi Jinping’s rule, and Beijing apparently seeks to deter those who might have been emboldened by them.  <a href="https://nyti.ms/3R90lzC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Disney’s Splash Mountain Closed. Now Superfans Are Selling the Water.</h3>
+<sub>By Remy Tumin</sub>
+<p>Jars and bags of what sellers claim is water from the popular Florida attraction are being offered for sale online. The odd farewell comes as Disney takes steps to erase the ride’s racist back story.  <a href="https://nyti.ms/3kMeO8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
