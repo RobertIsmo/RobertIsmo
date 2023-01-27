@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 27, Central Standard Time</p>
 <p>
-Right now, the world is going through some major changes. In the US, five officers have been charged with murder in a police killing of a black man in Memphis, and in Nashville there&#39;s a rift between the city and state legislature as partisan divides become more evident. There&#39;s also been a scandal regarding Ukrainian corruption that has sparked concerns of foreign aid over here. Closer to home, a gunman attacked a dance studio in Monterey Park and we now know more details about the weapon he used. 
-
-Meanwhile there are issues globally, too. The Colorado River is running dry which has seven states in an uproar over how to saddle the pain of reduced water usage, and the UK government is rejecting Scottish gender bills which could bolster independence movements. 
-
-Overall, the news looks pretty bleak right now – but some small sources of light remain with inspiring stories like the farmworker who came face to face with the Half Moon Bay gunman but was spared or Joan Didion&#39;s papers being acquired by the New York Public Library!</p>
+There has been a lot of news in the US recently. In Memphis, five police officers have been charged with the murder of Tyre Nichols, a 29-year-old Black man. Also in the US, there has been an ongoing corruption scandal in Ukraine and a rift between some big cities and rural-dominated state legislatures that appears to be getting worse. Donald Trump also launched his own social media platform called Truth Social, which is struggling to attract large brands. On the economic front, consumer spending decreased in December and the personal consumption expenditures price index was slower than the month before. Finally, New York City banned foie gras in 2019, but the debate about it continues and in the UK there is an escalating battle over a gender bill that could bolster independence movements.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>As the Colorado River Shrinks, Washington Prepares to Spread the Pain</h3>
@@ -83,6 +79,12 @@ Overall, the news looks pretty bleak right now – but some small sources of lig
 <sub>By Rick Rojas</sub>
 <p>Five officers were charged with second-degree murder, as the city braced for the release of video footage.  <a href="https://nyti.ms/3Xw5Ive"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here is a timeline of events in the death of Tyre Nichols.</h3>
+<sub>By Anushka Patil</sub>
+<p>Mr. Nichols was pulled over by the Memphis police on the evening of Jan. 7 and died three days later. Five officers were charged with murder on Thursday.  <a href="https://nyti.ms/3wyJugk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ukraine Corruption Scandal Stokes Longstanding Aid Concerns in U.S.</h3>
@@ -108,6 +110,18 @@ Overall, the news looks pretty bleak right now – but some small sources of lig
 <p>The review by John Durham at one point veered into a criminal investigation related to Donald Trump himself, even as it failed to find wrongdoing in the origins of the Russia inquiry.  <a href="https://nyti.ms/3XEpJ2x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Consumer Spending Slid Again in December</h3>
+<sub>By Ben Casselman and Jeanna Smialek</sub>
+<p>Fresh data offered more detail on how shoppers retrenched at the end of 2022.  <a href="https://nyti.ms/3XGkMGp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Closely Watched Measure of Inflation Slowed in December</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Personal Consumption Expenditures price index climbed 5 percent from a year earlier, slower than the reading last month.  <a href="https://nyti.ms/3HgbVEs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>New York City Banned Foie Gras in 2019. Tell That to the Ducks.</h3>
 <sub>By Kimiko de Freytas-Tamura</sub>
@@ -119,24 +133,6 @@ Overall, the news looks pretty bleak right now – but some small sources of lig
 <sub>By Stephen Castle</sub>
 <p>The intervention from London angered Scottish politicians, but it’s not clear that backers of independence can use the issue to their advantage.  <a href="https://nyti.ms/3Dj9kZ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>New York Public Library Acquires Joan Didion’s Papers</h3>
-<sub>By Jennifer Schuessler</sub>
-<p>The joint archive of Didion and her husband, John Gregory Dunne, includes manuscripts, photographs, letters, dinner party guest lists and other personal items.  <a href="https://nyti.ms/405k1IC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Farmworker Describes Coming Face to Face With Half Moon Bay Gunman</h3>
-<sub>By David W. Chen and Irene Benedicto</sub>
-<p>A man walked in and fatally shot Marciano Martinez, but spared his co-worker. Two other farmworkers, a husband and wife, were also found dead at Concord Farms.  <a href="https://nyti.ms/3kCSk9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Gun Used in the Monterey Park Shooting</h3>
-<sub>By Jeremy White and K.K. Rebecca Lai</sub>
-<p>Images of the weapon used in the attack on the Star Ballroom Dance Studio showed modifications the authorities said the gunman most likely made himself.  <a href="https://nyti.ms/3XH4GMZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
