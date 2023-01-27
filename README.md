@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 27, Central Standard Time</p>
 <p>
-There have been a lot of things happening in the world lately. In Memphis, five police officers have been charged with murder following the death of a 29-year-old black man named Tyre Nichols. In New York, a man was convicted in an attack that killed 8 people on a bike path and he could face the death penalty. Things look a little rosier for the US economy which showed surprising momentum at the end of the year, despite recession fears. On the international front, Russia has been carrying out strikes and shelling civilian sites in Ukraine and China is cracking down on protesters by blaming foreign powers. Finally, Disney&#39;s Splash Mountain ride is being closed forever, which has sparked all sorts of online sales of supposed water from it. Things definitely seem turbulent right now!</p>
+There are some really interesting things happening in the world right now. In the US, five police officers have been charged with murder in connection with the death of an unarmed Black man in Memphis. Over in Ukraine, Russian forces have been attacking civilian infrastructure, leading to the death of 12 people. Meanwhile, back in the US there is bright economic news as we end the year: Consumer and business spending has remained strong despite rising inflation and interest rates. Not so positive news has come from the UK, where opposition to a proposed Scottish gender bill appears to be bolstering calls for independence. Lastly, China&#39;s government is cracking down on protesters who have spoken out against their Covid-19 policies, and they are attempting to blame outside forces for stirring up unrest.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Five Officers Charged With Murder in Memphis Police Killing</h3>
@@ -116,6 +116,12 @@ There have been a lot of things happening in the world lately. In Memphis, five 
 <p>The Black Sea port has been battered by Russian shelling for months.  <a href="https://nyti.ms/3Ri1kNZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Will U.K. Rejection of Scottish Gender Bill Bolster Independence Movement?</h3>
+<sub>By Stephen Castle</sub>
+<p>The decision left Scottish politicians angered by what they saw as London’s thwarting the will of their Parliament, possibly handing independence backers a potent weapon.  <a href="https://nyti.ms/3Dj9kZ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>New York Public Library Acquires Joan Didion’s Papers</h3>
 <sub>By Jennifer Schuessler</sub>
@@ -126,12 +132,6 @@ There have been a lot of things happening in the world lately. In Memphis, five 
 <h3>In China’s Crackdown on Protesters, a Familiar Effort to Blame Foreign Powers</h3>
 <sub>By Vivian Wang and Zixu Wang</sub>
 <p>The protests against “zero Covid” were a rare rebuke of Xi Jinping’s rule, and Beijing apparently seeks to deter those who might have been emboldened by them.  <a href="https://nyti.ms/3R90lzC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Disney’s Splash Mountain Closed. Now Superfans Are Selling the Water.</h3>
-<sub>By Remy Tumin</sub>
-<p>Jars and bags of what sellers claim is water from the popular Florida attraction are being offered for sale online. The odd farewell comes as Disney takes steps to erase the ride’s racist back story.  <a href="https://nyti.ms/3kMeO8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
