@@ -60,8 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 27, Central Standard Time</p>
 <p>
-There are some really interesting things happening in the world right now. In the US, five police officers have been charged with murder in connection with the death of an unarmed Black man in Memphis. Over in Ukraine, Russian forces have been attacking civilian infrastructure, leading to the death of 12 people. Meanwhile, back in the US there is bright economic news as we end the year: Consumer and business spending has remained strong despite rising inflation and interest rates. Not so positive news has come from the UK, where opposition to a proposed Scottish gender bill appears to be bolstering calls for independence. Lastly, China&#39;s government is cracking down on protesters who have spoken out against their Covid-19 policies, and they are attempting to blame outside forces for stirring up unrest.</p>
+Right now, the world is going through some major changes. In the US, five officers have been charged with murder in a police killing of a black man in Memphis, and in Nashville there&#39;s a rift between the city and state legislature as partisan divides become more evident. There&#39;s also been a scandal regarding Ukrainian corruption that has sparked concerns of foreign aid over here. Closer to home, a gunman attacked a dance studio in Monterey Park and we now know more details about the weapon he used. 
+
+Meanwhile there are issues globally, too. The Colorado River is running dry which has seven states in an uproar over how to saddle the pain of reduced water usage, and the UK government is rejecting Scottish gender bills which could bolster independence movements. 
+
+Overall, the news looks pretty bleak right now – but some small sources of light remain with inspiring stories like the farmworker who came face to face with the Half Moon Bay gunman but was spared or Joan Didion&#39;s papers being acquired by the New York Public Library!</p>
 <ol>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>As the Colorado River Shrinks, Washington Prepares to Spread the Pain</h3>
+<sub>By Christopher Flavelle and Mira Rojanasakul</sub>
+<p>The seven states that rely on the river for water are not expected to reach a deal on cuts. It appears the Biden administration will have to impose reductions.  <a href="https://nyti.ms/3XYZrb9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Five Officers Charged With Murder in Memphis Police Killing</h3>
 <sub>By Rick Rojas and Jessica Jaglois</sub>
@@ -69,16 +79,28 @@ There are some really interesting things happening in the world right now. In th
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who was Tyre Nichols?</h3>
+<h3>What We Know About Tyre Nichols’s Lethal Encounter With Memphis Police</h3>
 <sub>By Rick Rojas</sub>
-<p>Mr. Nichols had a 4-year-old son and a tattoo of his mother’s name on his arm, his family said.  <a href="https://nyti.ms/3WGFc0I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<p>Five officers were charged with second-degree murder, as the city braced for the release of video footage.  <a href="https://nyti.ms/3Xw5Ive"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here is a timeline of events in the death of Tyre Nichols.</h3>
-<sub>By Anushka Patil</sub>
-<p>Mr. Nichols was pulled over by the Memphis police on the evening of Jan. 7 and died three days later. Five officers were charged with murder on Thursday.  <a href="https://nyti.ms/3wyJugk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<h3>Ukraine Corruption Scandal Stokes Longstanding Aid Concerns in U.S.</h3>
+<sub>By Michael Crowley and Edward Wong</sub>
+<p>A top State Department official said the ouster of several Ukrainian officials this week after corruption charges “sends a very strong signal.”  <a href="https://nyti.ms/3XYZlQP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In State Legislatures, Old Rivalries Are Reheated by National Politics</h3>
+<sub>By Michael Wines</sub>
+<p>The relationships between big cities and rural-dominated legislatures have often been hostile. But a rift between Nashville and the Tennessee Legislature suggests the nation’s partisan divide is making things worse.  <a href="https://nyti.ms/3kQYB24"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>On Trump’s Social Network: Ads for Miracle Cures, Scams and Fake Merchandise</h3>
+<sub>By Stuart A. Thompson</sub>
+<p>Truth Social, the social network started by former President Donald J. Trump, has struggled to attract large brands.  <a href="https://nyti.ms/3wAQyJ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Barr’s Quest to Find Flaws in the Russia Inquiry Unraveled</h3>
@@ -86,40 +108,16 @@ There are some really interesting things happening in the world right now. In th
 <p>The review by John Durham at one point veered into a criminal investigation related to Donald Trump himself, even as it failed to find wrongdoing in the origins of the Russia inquiry.  <a href="https://nyti.ms/3XEpJ2x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Farmworker Describes Coming Face to Face With Half Moon Bay Gunman</h3>
-<sub>By David W. Chen and Irene Benedicto</sub>
-<p>A man walked in and fatally shot Marciano Martinez, but spared his co-worker. Two other farmworkers, a husband and wife, were also found dead at Concord Farms.  <a href="https://nyti.ms/3kCSk9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Man Convicted in Terror Attack That Killed 8 on a Manhattan Bike Path</h3>
-<sub>By Benjamin Weiser and Lola Fadulu</sub>
-<p>Sayfullo Saipov could face the death penalty in the federal case. He said he was inspired to carry out the attack by Islamic State videos.  <a href="https://nyti.ms/3kNu0Cn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Economy Showed Momentum at Year’s End, Defying Recession Fears</h3>
-<sub>By Ben Casselman</sub>
-<p>The continued growth in the fourth quarter showed the resilience of consumers and businesses in the face of inflation and rising interest rates.  <a href="https://nyti.ms/3HzxhOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Wave of Strikes, Russian Missiles Kill 12 Across Ukraine</h3>
-<sub>By Michael Schwirtz and Alan Yuhas</sub>
-<p>Russia’s forces once again pounded energy infrastructure and other civilian sites, a day after the United States and Germany pledged to send dozens of tanks to Ukraine.  <a href="https://nyti.ms/400mbJL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>UNESCO Moves to Protect Odesa, Designating the City a World Heritage Site</h3>
-<sub>By Lauren McCarthy</sub>
-<p>The Black Sea port has been battered by Russian shelling for months.  <a href="https://nyti.ms/3Ri1kNZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<h3>New York City Banned Foie Gras in 2019. Tell That to the Ducks.</h3>
+<sub>By Kimiko de Freytas-Tamura</sub>
+<p>The yearslong battle to ban the delicacy in New York City rages on, with duck farmers, animal rights activists, two mayors and France all taking sides.  <a href="https://nyti.ms/3R9LzZg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Will U.K. Rejection of Scottish Gender Bill Bolster Independence Movement?</h3>
 <sub>By Stephen Castle</sub>
-<p>The decision left Scottish politicians angered by what they saw as London’s thwarting the will of their Parliament, possibly handing independence backers a potent weapon.  <a href="https://nyti.ms/3Dj9kZ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The intervention from London angered Scottish politicians, but it’s not clear that backers of independence can use the issue to their advantage.  <a href="https://nyti.ms/3Dj9kZ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -128,10 +126,16 @@ There are some really interesting things happening in the world right now. In th
 <p>The joint archive of Didion and her husband, John Gregory Dunne, includes manuscripts, photographs, letters, dinner party guest lists and other personal items.  <a href="https://nyti.ms/405k1IC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In China’s Crackdown on Protesters, a Familiar Effort to Blame Foreign Powers</h3>
-<sub>By Vivian Wang and Zixu Wang</sub>
-<p>The protests against “zero Covid” were a rare rebuke of Xi Jinping’s rule, and Beijing apparently seeks to deter those who might have been emboldened by them.  <a href="https://nyti.ms/3R90lzC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Farmworker Describes Coming Face to Face With Half Moon Bay Gunman</h3>
+<sub>By David W. Chen and Irene Benedicto</sub>
+<p>A man walked in and fatally shot Marciano Martinez, but spared his co-worker. Two other farmworkers, a husband and wife, were also found dead at Concord Farms.  <a href="https://nyti.ms/3kCSk9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Gun Used in the Monterey Park Shooting</h3>
+<sub>By Jeremy White and K.K. Rebecca Lai</sub>
+<p>Images of the weapon used in the attack on the Star Ballroom Dance Studio showed modifications the authorities said the gunman most likely made himself.  <a href="https://nyti.ms/3XH4GMZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
