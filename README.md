@@ -60,14 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 27, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world right now. In the US, Memphis police officers have been charged with murder in connection with the death of Tyre Nichols. Cities across the country are bracing for protests after graphic video of the incident is released. Also in the US, Republicans are considering replacing their leader at the Republican National Committee after a string of losses in 2022 elections. Over in Ukraine, there&#39;s a corruption scandal raising concerns about US aid to the region. 
-
-Meanwhile, in New York City, there&#39;s an ongoing battle to ban foie gras from restaurants. On the health front, experts are urging faster treatments for children with obesity and new guidelines by the American Academy of Pediatrics underscore how complicated childhood obesity is for patients and providers. Lastly, scuba divers sparked a &quot;bone rush&quot; after a podcast guest claimed that tons of prehistoric remains were dumped decades ago into East River.</p>
+There&#39;s a lot going on in the world right now. In the US, there&#39;s been an ongoing investigation into the police killing of an African American man, Tyre Nichols, which has sparked protests in cities across the country. Surveillance footage shows an intruder breaking into the house of former Speaker Nancy Pelosi and a 911 call reveals Paul Pelosi trying to summon help without angering the intruder. Meanwhile, Republicans re-elected the chairwoman of the Republican National Committee, Ronna McDaniel despite poor midterm results and on former President Donald Trump’s social media platform, Truth Social, there have been reports of scams and fake merchandise. In Jerusalem, at least seven people were killed in an attack on a synagogue and Ukrainian leaders&#39; efforts to combat corruption have come under scrutiny from US officials overseeing aid. Experts are also urging swifter treatment for children with obesity.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Memphis Police SCORPION Unit Was Supposed to Stop Violence</h3>
 <sub>By Mike Baker</sub>
-<p>The SCORPION unit’s officers are now accused in the murder of Tyre Nichols.  <a href="https://nyti.ms/405yh4e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Officers from the SCORPION unit are now accused in the murder of Tyre Nichols.  <a href="https://nyti.ms/405yh4e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -82,6 +80,18 @@ Meanwhile, in New York City, there&#39;s an ongoing battle to ban foie gras from
 <p>Mr. Nichols was pulled over by the Memphis police on the evening of Jan. 7 and died three days later. Five officers were charged with murder on Thursday.  <a href="https://nyti.ms/3wyJugk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Surveillance footage shows the attacker breaking into the Pelosis’ home.</h3>
+<sub>By The New York Times</sub>
+<p>Capitol Police video from outside former Speaker Nancy Pelosi’s home in San Francisco, released publicly on Friday, shows the man who attacked her husband in October breaking in.  <a href="https://nyti.ms/3Y0KghJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In a 911 call, Paul Pelosi tries to summon help without angering the intruder.</h3>
+<sub>By The New York Times</sub>
+<p>In the audio released on Friday, Mr. Pelosi’s voice is calm and his words carefully chosen as he tries to convey the danger he is in without angering the intruder, who would go on to brutally attack him.  <a href="https://nyti.ms/3kOakOO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>As the Colorado River Shrinks, Washington Prepares to Spread the Pain</h3>
 <sub>By Christopher Flavelle and Mira Rojanasakul</sub>
@@ -94,47 +104,35 @@ Meanwhile, in New York City, there&#39;s an ongoing battle to ban foie gras from
 <p>After a podcast guest claimed that tons of prehistoric remains were dumped decades ago, scuba divers suited up. But the truth is as murky as the water.  <a href="https://nyti.ms/40aZQt5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Re-elect Head of the R.N.C. After a Heated Challenge</h3>
+<sub>By Lisa Lerer and Jonathan Weisman</sub>
+<p>Ronna McDaniel won a fourth two-year term to lead the Republican National Committee, fending off a fierce challenge after the party’s poor midterm showing.  <a href="https://nyti.ms/3HaJRSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>On Trump’s Social Network: Ads for Miracle Cures, Scams and Fake Merchandise</h3>
 <sub>By Stuart A. Thompson</sub>
 <p>Truth Social, the social network started by former President Donald J. Trump, has struggled to attract large brands.  <a href="https://nyti.ms/3wAQyJ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Weigh Potential R.N.C. Shake-Up After a Disappointing 2022</h3>
-<sub>By Lisa Lerer and Jonathan Weisman</sub>
-<p>The leader of the Republican National Committee, Ronna McDaniel, who was handpicked by Donald Trump in 2017, is facing a challenge from insurgent conservatives who say new blood is needed.  <a href="https://nyti.ms/3HaJRSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Least 7 Killed in Attack in East Jerusalem</h3>
+<sub>By Patrick Kingsley and Jonathan Rosen</sub>
+<p>The police said a gunman killed the people at a small synagogue, before being killed himself by police fire.  <a href="https://nyti.ms/3wAWl1p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine Corruption Scandal Stokes Longstanding Aid Concerns in U.S.</h3>
+<h3>U.S. Officials Overseeing Aid Say Ukrainian Leaders Are Tackling Corruption</h3>
 <sub>By Michael Crowley and Edward Wong</sub>
-<p>A top State Department official said the ouster of several Ukrainian officials this week after corruption charges “sends a very strong signal.”  <a href="https://nyti.ms/3XYZlQP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The ouster of several officials has renewed questions about how the Zelensky government is addressing concerns about aid.  <a href="https://nyti.ms/3XYZlQP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York City Banned Foie Gras in 2019. Tell That to the Ducks.</h3>
-<sub>By Kimiko de Freytas-Tamura</sub>
-<p>The yearslong battle to ban the delicacy in New York City rages on, with duck farmers, animal rights activists, two mayors and France all taking sides.  <a href="https://nyti.ms/3R9LzZg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Gun Used in the Monterey Park Shooting</h3>
-<sub>By Jeremy White and K.K. Rebecca Lai</sub>
-<p>Images of the weapon used in the attack on the Star Ballroom Dance Studio showed modifications the authorities said the gunman most likely made himself.  <a href="https://nyti.ms/3XH4GMZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Why Experts Are Urging Swifter Treatment for Children With Obesity</h3>
 <sub>By Gina Kolata</sub>
 <p>Growing research has shown that intensive interventions are needed, scientists say. Here is why their advice is changing.  <a href="https://nyti.ms/3HDPH0N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>New Guidelines Underscore How Complicated Childhood Obesity Is for Patients and Providers</h3>
-<sub>By Catherine Pearson</sub>
-<p>The A.A.P. is recommending early and intensive interventions. Can that happen without furthering stigma?  <a href="https://nyti.ms/3XHAv7L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
