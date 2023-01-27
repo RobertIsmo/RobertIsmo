@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 26, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the United States, five police officers are facing the same set of charges, and President Biden is hammering Republicans on the economy in anticipation of 2024 elections. There has also been a mass shooting of farmworkers in Half Moon Bay California, which has shaken the immigrant community there, and John Durham was tasked with finding flaws in the Russia investigation. Meanwhile, the U.S. economy showed momentum at year&#39;s end defying recession fears, while Anthony Kim decided to walk away from golf despite having been compared to Tiger Woods. Other major news includes a man being convicted in a terror attack that killed 8 on a Manhattan bike path and China cracking down on protesters with efforts to blame foreign powers. Finally, there have never been as many official areas for skateboarding as there are today in New York City, but skaters still love and resist skateboard parks.</p>
+There is a lot happening right now in the world. In the US, there has been an ongoing civil rights case concerning the death of Tyre Nichols, who was killed by police in Memphis earlier this year. In California, a 66-year-old man has been arrested and charged with murder after a mass shooting that left 8 farmworkers dead. There have also been positive economic developments in the US, even in spite of rising inflation and interest rates. On the global front, UNESCO has formally recognized Odesa as a World Heritage Site, and China is cracking down on protesters who have voiced their opposition to their government&#39;s handling of the COVID pandemic. Finally, there has been a discussion about mass shootings in America and what might be contributing to this issue.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Who was Tyre Nichols?</h3>
@@ -69,13 +69,13 @@ There&#39;s a lot going on in the world right now. In the United States, five po
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>All five officers face the same set of charges. Here is what they mean.</h3>
-<sub>By Patrick J. Lyons</sub>
-<p>  <a href="https://nyti.ms/3XYg7j5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here is a timeline of events in the death of Tyre Nichols.</h3>
+<sub>By Anushka Patil</sub>
+<p>Mr. Nichols was pulled over by the Memphis police on the evening of Jan. 7 and died three days later. Five officers were charged with murder on Thursday.  <a href="https://nyti.ms/3wyJugk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Barr Pressed Durham to Find Flaws in the Russia Investigation. It Didn’t Go Well.</h3>
+<h3>How Barr’s Quest to Find Flaws in the Russia Inquiry Unraveled</h3>
 <sub>By Charlie Savage, Adam Goldman and Katie Benner</sub>
 <p>The review by John Durham at one point veered into a criminal investigation related to Donald Trump himself, even as it failed to find wrongdoing in the origins of the Russia inquiry.  <a href="https://nyti.ms/3XEpJ2x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
@@ -86,16 +86,16 @@ There&#39;s a lot going on in the world right now. In the United States, five po
 <p>A 66-year-old man is facing seven counts of murder and one count of attempted murder.  <a href="https://nyti.ms/3j9kVmX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Man Convicted in Terror Attack That Killed 8 on a Manhattan Bike Path</h3>
+<sub>By Benjamin Weiser and Lola Fadulu</sub>
+<p>Sayfullo Saipov could face the death penalty in the federal case. He said he was inspired to carry out the attack by Islamic State videos.  <a href="https://nyti.ms/3kNu0Cn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. Economy Showed Momentum at Year’s End, Defying Recession Fears</h3>
 <sub>By Ben Casselman</sub>
 <p>The continued growth in the fourth quarter showed the resilience of consumers and businesses in the face of rising inflation and interest rates.  <a href="https://nyti.ms/3HzxhOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Hammers Republicans on the Economy, With Eye on 2024</h3>
-<sub>By Jim Tankersley</sub>
-<p>The president has found a welcome foil in a new conservative House majority and its tax and spending plans, sharpening a potential re-election message.  <a href="https://nyti.ms/3H87ZFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -104,10 +104,16 @@ There&#39;s a lot going on in the world right now. In the United States, five po
 <p>Is it OK for an athlete — or anyone, really — to have an extraordinary gift and not use it? The golfer Anthony Kim apparently decided, emphatically, that it is.  <a href="https://nyti.ms/3H9wmTB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Man Convicted in Terror Attack That Killed 8 on a Manhattan Bike Path</h3>
-<sub>By Benjamin Weiser and Lola Fadulu</sub>
-<p>Sayfullo Saipov could face the death penalty in the federal case. He said he was inspired to carry out the attack by Islamic State videos.  <a href="https://nyti.ms/3kNu0Cn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>New York Public Library Acquires Joan Didion’s Papers</h3>
+<sub>By Jennifer Schuessler</sub>
+<p>The joint archive of Didion and her husband, John Gregory Dunne, includes manuscripts, photographs, letters, dinner party guest lists and other personal items.  <a href="https://nyti.ms/405k1IC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>UNESCO Moves to Protect Odesa, Designating the City a World Heritage Site</h3>
+<sub>By Lauren McCarthy</sub>
+<p>The Black Sea port has been battered by Russian shelling for months.  <a href="https://nyti.ms/3Ri1kNZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,22 +122,16 @@ There&#39;s a lot going on in the world right now. In the United States, five po
 <p>The protests against “zero Covid” were a rare rebuke of Xi Jinping’s rule, and Beijing apparently seeks to deter those who might have been emboldened by them.  <a href="https://nyti.ms/3R90lzC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>You Call That Snow?! See How This Winter Stacks Up.</h3>
-<sub>By Francesca Paris</sub>
-<p>Compare the totals in your city with those of the past.  <a href="https://nyti.ms/3WGBbto"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Disney’s Splash Mountain Closed. Now Superfans Are Selling the Water.</h3>
+<sub>By Remy Tumin</sub>
+<p>Jars and bags of what sellers claim is water from the popular Florida attraction are being offered for sale online. The odd farewell comes as Disney takes steps to erase the ride’s racist back story.  <a href="https://nyti.ms/3kMeO8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Mecca of New York Skateboarding, Back From the Dead?</h3>
-<sub>By Winnie Hu</sub>
-<p>Decades ago, a gritty and dangerous spot under the Brooklyn Bridge was the nerve center for city skateboarders. Mayor Eric Adams just announced plans that could fix it up.  <a href="https://nyti.ms/3DjPZr0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why Skaters Love and Resist Skateboard Parks</h3>
-<sub>By Cole Louison</sub>
-<p>There have never been as many official places to skate in New York City as there are today. But there’s just something about an empty plaza and a distracted security guard.  <a href="https://nyti.ms/3Xy0fE5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>We Profiled the ‘Signs of Crisis’ in 50 Years of Mass Shootings. This Is What We Found.</h3>
+<sub>By Jillian Peterson and James Densley</sub>
+<p>The killings are a symptom of a deeper societal problem: the continued rise of “deaths of despair.”  <a href="https://nyti.ms/3H275uw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
