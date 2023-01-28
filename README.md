@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 28, Central Standard Time</p>
 <p>
-There is a lot of news coming out of the US right now. There&#39;s a story of police officers abusing their power when they used violence against a man in Memphis, and another story on the murder of an East Jerusalem resident. In business news, a drug company is under fire for profiting from manipulating the US patent system. There has also been some political unrest in Ukraine, as Russia keeps changing leadership in the region. Meanwhile, back in the US, people are being faced with earthquakes related to oil production and Donald Trump is trying to get more supporters for his presidential campaign. On top of that, China saw its first decline in oil and gas demand for years due to the pandemic.</p>
+There is a lot going on in the world at the moment. In the US, there is a shocking video that has been released showing a police encounter that ended fatally for 29-year-old Tyre Nichols who was beaten and pepper-sprayed by officers. Experts have condemned it as a case of excessive force. There was also a shooting in East Jerusalem where at least 7 people were killed, and another shooting in which 2 people were injured. In Ukraine, Russia has once again replaced the commander there due to an ongoing conflict with the West. And back in the US, there is a case of wrongful conviction which has led to a Florida judge resigning in order to help free the wrongfully convicted. Finally, Donald Trump is struggling to maintain support for his reelection campaign and has taken to more traditional campaigning tactics.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tyre Nichols Cried in Anguish. Memphis Officers Kept Hitting.</h3>
@@ -74,16 +74,34 @@ There is a lot of news coming out of the US right now. There&#39;s a story of po
 <p>Video footage released by the City of Memphis on Friday shows how Tyre Nichols suffered a severe beating after a traffic stop.  <a href="https://nyti.ms/3XL8qNh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Least 7 Killed in Attack in Jewish Area of East Jerusalem</h3>
-<sub>By Patrick Kingsley and Jonathan Rosen</sub>
-<p>The police said a 21-year-old man with a handgun shot people on the street at close range, then fled and was killed himself by police gunfire.  <a href="https://nyti.ms/3wAWl1p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>From Sacramento to Memphis, Tyre Nichols Cut His Own Path</h3>
+<sub>By Richard Fausset</sub>
+<p>Social media posts show that Mr. Nichols harbored a mistrust of prevailing government and economic systems, yet, a friend says, he also considered trying to change policing from the inside.  <a href="https://nyti.ms/3RaGEaL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘The definition of excessive force’: Policing experts assess the beating of Tyre Nichols.</h3>
+<sub>By Neelam Bohra</sub>
+<p>“This person was not treated as a human being,” one expert said.  <a href="https://nyti.ms/3kQTKhi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How a Drug Company Made $114 Billion by Gaming the U.S. Patent System</h3>
 <sub>By Rebecca Robbins</sub>
 <p>AbbVie for years delayed competition for its blockbuster drug Humira, at the expense of patients and taxpayers. The monopoly is about to end.  <a href="https://nyti.ms/3WM0H0n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Least 7 Killed in Attack in Jewish Area of East Jerusalem</h3>
+<sub>By Patrick Kingsley and Jonathan Rosen</sub>
+<p>The police said a 21-year-old man with a handgun shot people on the street at close range, then fled and was killed himself by police gunfire.  <a href="https://nyti.ms/3wAWl1p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>2 Injured in Jerusalem Attack, Hours After a Nearby Mass Shooting</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Two Israelis were shot and injured on Saturday in East Jerusalem, the day after an attack outside a synagogue elsewhere in the city killed seven people.  <a href="https://nyti.ms/3Do22Ue"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,16 +116,16 @@ There is a lot of news coming out of the US right now. There&#39;s a story of po
 <p>For the past four months, residents have slowly trickled back into the reclaimed city. But signs of the conflict — and the chance that it might return — are everywhere.  <a href="https://nyti.ms/3Rc3iiS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Outlaws a News Site and a Rights Group, Stifling Critical Voices</h3>
-<sub>By Alan Yuhas</sub>
-<p>The Kremlin stepped up efforts to banish independent sources of news. Prosecutors labeled Meduza, a popular news site, “undesirable,” so anyone who aids or promotes it can be prosecuted.  <a href="https://nyti.ms/3HfXvUO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Aryna Sabalenka Wins the Australian Open Women’s Singles Title</h3>
 <sub>By Matthew Futterman</sub>
 <p>The 24-year-old Belarusian player pushed Elena Rybakina of Kazakhstan to three sets to capture her first Grand Slam singles title.  <a href="https://nyti.ms/3JniiJ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Florida Judge Finds a New Job: Defending an Inmate</h3>
+<sub>By David Segal</sub>
+<p>In a coda to the wrongful-conviction podcast “Bone Valley,” Judge Scott Cupp says he’ll step down to spring a man serving a life sentence for murder.  <a href="https://nyti.ms/3jfU74r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -115,24 +133,6 @@ There is a lot of news coming out of the US right now. There&#39;s a story of po
 <sub>By Michael C. Bender</sub>
 <p>At two events on Saturday, Donald J. Trump is embracing more traditional campaigning as he struggles to maintain support for his third White House bid.  <a href="https://nyti.ms/3RhjteL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Court Releases Video of Paul Pelosi Hammer Attack, Adding Chilling Details</h3>
-<sub>By Annie Karni and Tim Arango</sub>
-<p>Police body camera footage, along with surveillance video, an interview with the suspect and audio from Mr. Pelosi’s 911 call, disproved but could not stop right-wing conspiracy theories about the attack.  <a href="https://nyti.ms/3wClEjK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Texas Oil Country, an Unfamiliar Threat: Earthquakes</h3>
-<sub>By J. David Goodman</sub>
-<p>A pair of recent strong earthquakes were part of a surge in seismic activity in the state related to oil and gas production.  <a href="https://nyti.ms/3DnQTTo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Oil and Gas Use Fell in 2022 for First Time in Decades</h3>
-<sub>By Clifford Krauss</sub>
-<p>Pandemic lockdowns curbed Chinese energy demand, but the International Energy Agency expects a rebound this year.  <a href="https://nyti.ms/3RdUYz1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
