@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 28, Central Standard Time</p>
 <p>
-My friend, there is a lot going on right now. From Sacramento to Memphis, Tyre Nichols cut his own path and had a mistrust of prevailing government and economic systems. There was a hammer attack with Paul Pelosi and video being released that disproved right-wing conspiracy theories, but it still happened. At least 7 people were killed in Jewish area of East Jerusalem after a 21-year-old man went on shooting rampage. Republicans just re-elected their head of the RNC which seems to be a response to the poor midterm showing, like we&#39;re standing firm despite losses. There was also a man who shot pepper spray at an officer during the Jan. 6 U.S Capitol riot, who just got sentenced to nearly 7 years in prison. Even further, Ukraine is getting military assistance from the US with tanks and training so they can use them effectively, plus Russia outlawed a news site and rights group which is an effort to stifle critical voices. Congress is also asking questions about why the executive branch is not careful about protecting classified information as they are required to be on Capitol Hill. Last but not least, we&#39;re in a moment where there&#39;s future cringe - one day we&#39;ll look back on this moment in time and won&#39;t know what we were thinking!</p>
+There is a lot of news coming out of the US right now. There&#39;s a story of police officers abusing their power when they used violence against a man in Memphis, and another story on the murder of an East Jerusalem resident. In business news, a drug company is under fire for profiting from manipulating the US patent system. There has also been some political unrest in Ukraine, as Russia keeps changing leadership in the region. Meanwhile, back in the US, people are being faced with earthquakes related to oil production and Donald Trump is trying to get more supporters for his presidential campaign. On top of that, China saw its first decline in oil and gas demand for years due to the pandemic.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>From Sacramento to Memphis, Tyre Nichols Cut His Own Path</h3>
-<sub>By Richard Fausset</sub>
-<p>Social media posts show that Mr. Nichols harbored a mistrust of prevailing government and economic systems, yet, a friend says, he also considered trying to change policing from the inside.  <a href="https://nyti.ms/3RaGEaL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tyre Nichols Cried in Anguish. Memphis Officers Kept Hitting.</h3>
+<sub>By Rick Rojas</sub>
+<p>Video footage of the fatal encounter included critical moments in which police officers kicked, punched and pepper-sprayed Mr. Nichols, 29, while he screamed.  <a href="https://nyti.ms/408Azzy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Court Releases Video of Paul Pelosi Hammer Attack, Adding Chilling Details</h3>
-<sub>By Annie Karni and Tim Arango</sub>
-<p>Police body camera footage, along with surveillance video, an interview with the suspect and audio from Mr. Pelosi’s 911 call, disproved but could not stop right-wing conspiracy theories about the attack.  <a href="https://nyti.ms/3wClEjK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Timeline of Tyre Nichols’s Lethal Police Encounter</h3>
+<sub>By Alexander Cardia, Jason Kao, Christoph Koettl, Eleanor Lutz, Anjali Singhvi and Robin Stein</sub>
+<p>Video footage released by the City of Memphis on Friday shows how Tyre Nichols suffered a severe beating after a traffic stop.  <a href="https://nyti.ms/3XL8qNh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,23 +80,23 @@ My friend, there is a lot going on right now. From Sacramento to Memphis, Tyre N
 <p>The police said a 21-year-old man with a handgun shot people on the street at close range, then fled and was killed himself by police gunfire.  <a href="https://nyti.ms/3wAWl1p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Re-elect Head of the R.N.C. After a Heated Challenge</h3>
-<sub>By Lisa Lerer and Jonathan Weisman</sub>
-<p>Ronna McDaniel won a fourth two-year term to lead the Republican National Committee, fending off a fierce challenge after the party’s poor midterm showing.  <a href="https://nyti.ms/3HaJRSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How a Drug Company Made $114 Billion by Gaming the U.S. Patent System</h3>
+<sub>By Rebecca Robbins</sub>
+<p>AbbVie for years delayed competition for its blockbuster drug Humira, at the expense of patients and taxpayers. The monopoly is about to end.  <a href="https://nyti.ms/3WM0H0n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Who Shot Pepper Spray at Officer on Jan. 6 Gets Nearly 7 Years in Prison</h3>
-<sub>By Alan Feuer and Zach Montague</sub>
-<p>Officer Brian D. Sicknick died a day after the Capitol riot. Another man initially charged in the assault was sentenced to time served.  <a href="https://nyti.ms/3XZmbs9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<h3>To Fix Its Problems in Ukraine, Russia Turns to the Architect of the War</h3>
+<sub>By Helene Cooper, Julian E. Barnes and Eric Schmitt</sub>
+<p>President Vladimir V. Putin is on his third overall commander in Ukraine. But his military’s fundamental issues have not been addressed, Western officials say.  <a href="https://nyti.ms/3DnG1oB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tanks Alone Won’t Turn the Tide of the War in Ukraine</h3>
-<sub>By Julian E. Barnes and Eric Schmitt</sub>
-<p>The United States will have to step up its training program to ensure the Ukrainian military can use all the Western-provided equipment effectively.  <a href="https://nyti.ms/3WE4FYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Kharkiv Got Some Breathing Space, but Still Doesn’t Breathe Easily</h3>
+<sub>By Michael Schwirtz and Lynsey Addario</sub>
+<p>For the past four months, residents have slowly trickled back into the reclaimed city. But signs of the conflict — and the chance that it might return — are everywhere.  <a href="https://nyti.ms/3Rc3iiS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Outlaws a News Site and a Rights Group, Stifling Critical Voices</h3>
@@ -104,34 +104,34 @@ My friend, there is a lot going on right now. From Sacramento to Memphis, Tyre N
 <p>The Kremlin stepped up efforts to banish independent sources of news. Prosecutors labeled Meduza, a popular news site, “undesirable,” so anyone who aids or promotes it can be prosecuted.  <a href="https://nyti.ms/3HfXvUO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Archives Leans on Ex-Presidents, Its Only Weapon Is ‘Please’</h3>
-<sub>By Michael D. Shear</sub>
-<p>The National Archives does not have any independent ability to enforce its request that former presidents and vice presidents scour their files for classified documents.  <a href="https://nyti.ms/40aPOrS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Aryna Sabalenka Wins the Australian Open Women’s Singles Title</h3>
+<sub>By Matthew Futterman</sub>
+<p>The 24-year-old Belarusian player pushed Elena Rybakina of Kazakhstan to three sets to capture her first Grand Slam singles title.  <a href="https://nyti.ms/3JniiJ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mishandling of Classified Information Has Congress Asking Questions</h3>
-<sub>By Carl Hulse</sub>
-<p>Lawmakers are seeking answers on why the executive branch is not as careful about protecting classified information as they are required to be on Capitol Hill.  <a href="https://nyti.ms/3kF4pvc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Tries a New Campaign Tack: Small-Scale</h3>
+<sub>By Michael C. Bender</sub>
+<p>At two events on Saturday, Donald J. Trump is embracing more traditional campaigning as he struggles to maintain support for his third White House bid.  <a href="https://nyti.ms/3RhjteL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Court Releases Video of Paul Pelosi Hammer Attack, Adding Chilling Details</h3>
+<sub>By Annie Karni and Tim Arango</sub>
+<p>Police body camera footage, along with surveillance video, an interview with the suspect and audio from Mr. Pelosi’s 911 call, disproved but could not stop right-wing conspiracy theories about the attack.  <a href="https://nyti.ms/3wClEjK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Future Cringe</h3>
-<sub>By George Gurley</sub>
-<p>One day we’ll look back on this moment and wonder: What were we thinking?  <a href="https://nyti.ms/3kMfquG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Texas Oil Country, an Unfamiliar Threat: Earthquakes</h3>
+<sub>By J. David Goodman</sub>
+<p>A pair of recent strong earthquakes were part of a surge in seismic activity in the state related to oil and gas production.  <a href="https://nyti.ms/3DnQTTo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The M&amp;M’s Aren’t Done With Us Yet</h3>
-<sub>By Eve Peyser</sub>
-<p>Was the company’s recent decision to sideline its spokescandies a response to cultural backlash, or just an elaborate stunt leading up to the Super Bowl?  <a href="https://nyti.ms/3XYPRFP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Tyre Nichols’s Death Is America’s Shame</h3>
-<sub>By Charles M. Blow</sub>
-<p>He is now a marquee victim of a predacious system that America has lost its willingness to confront.  <a href="https://nyti.ms/3JlLtfi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Oil and Gas Use Fell in 2022 for First Time in Decades</h3>
+<sub>By Clifford Krauss</sub>
+<p>Pandemic lockdowns curbed Chinese energy demand, but the International Energy Agency expects a rebound this year.  <a href="https://nyti.ms/3RdUYz1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
