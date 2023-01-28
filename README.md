@@ -60,16 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 28, Central Standard Time</p>
 <p>
-To close friend, 
+Recently, there has been a lot of news about police violence and protests against it. For example, in Memphis, officials are starting to take action after video footage surfaced of officers beating Tyre Nichols. People are also questioning their responsibilities as citizens in these situations. In addition, people around the world have become increasingly aware of how drug companies can gain large profits at the expense of taxpayers and patients. 
 
-The world is going through a lot right now. Police violence has been a very prominent topic in the news and people are speaking out against it. There&#39;s been a video of Memphis police beating Tyre Nichols that has caused widespread horror. Protests have been sparked across the country in response to the incident. 
+In Israel, a far-right government has risen and is pushing the country towards potential escalation in violence. Moreover, the fighting in eastern Ukraine over supply routes is still intense and escalating. 
 
-In terms of international news, Israel is facing a spasm of violence due to the government&#39;s far-right views, which have raised the risk of an escalation. At least 7 people have been killed in an attack in East Jerusalem. 
-
-Pharmaceutical companies have been pushing up prices and monopolizing products, taking advantage of patent systems in the US and costing us all dearly. And we&#39;re also getting more updates from Ukraine - Russian forces are escalating their assaults on strategic towns and Donald Trump is posting more extreme views on social media platforms again as he tries to get support for a potential third White House run. 
-
-It&#39;s been quite a turbulent period - let me know if you need to talk about anything. 
-Take care!</p>
+At the same time, Former President Trump is actively trying to gain support again for his third White House bid while focusing on more small-scale campaigning. There is also a gin boom happening in India right now that is challenging traditional attitudes toward alcohol along with bureaucracy. Lastly, there have been some suspicions regarding if an oligarch had recruited the FBI agent investigating him.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Tyre Nichols Death, Officials’ Moves Reflect a Shift in Handling Police Violence</h3>
@@ -107,18 +102,6 @@ Take care!</p>
 <p>Israel and the West Bank were gripped by violence this week. Its roots predate Israel’s new far-right government, but the government’s ministers and goals are fueling tensions.  <a href="https://nyti.ms/3kOCedo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Least 7 Killed in Attack in Jewish Area of East Jerusalem</h3>
-<sub>By Patrick Kingsley and Jonathan Rosen</sub>
-<p>The police said a 21-year-old man with a handgun shot people on the street at close range, then fled and was killed himself by police gunfire.  <a href="https://nyti.ms/3wAWl1p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>2 Injured in Jerusalem Attack, Hours After a Nearby Mass Shooting</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Two Israelis were shot and injured on Saturday in East Jerusalem, the day after an attack outside a synagogue elsewhere in the city killed seven people.  <a href="https://nyti.ms/3Do22Ue"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>To Fix Its Problems in Ukraine, Russia Turns to the Architect of the War</h3>
 <sub>By Helene Cooper, Julian E. Barnes and Eric Schmitt</sub>
@@ -139,8 +122,20 @@ Take care!</p>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Tries a New Campaign Tack: Small-Scale</h3>
-<sub>By Michael C. Bender</sub>
+<sub>By Michael C. Bender and Mei-Ling McNamara</sub>
 <p>At two events on Saturday, Donald J. Trump is embracing more traditional campaigning as he struggles to maintain support for his third White House bid.  <a href="https://nyti.ms/3RhjteL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Gin Boom Trying to Change India, One Distillery at a Time</h3>
+<sub>By Damien Cave</sub>
+<p>Local concoctions are challenging the country’s conservative attitude toward alcohol, along with the country’s often stultifying bureaucracy.  <a href="https://nyti.ms/3H7xl6M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How an Oligarch May Have Recruited the F.B.I. Agent Who Investigated Him</h3>
+<sub>By Rebecca Davis O’Brien</sub>
+<p>The bureau tried to court Oleg Deripaska, a Russian aluminum magnate, as an informant. Instead, one of its own top agents may have ended up working for him.  <a href="https://nyti.ms/3j59a0Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
