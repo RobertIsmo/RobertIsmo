@@ -60,19 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 28, Central Standard Time</p>
 <p>
-There is a lot going on in the world at the moment. In the US, there is a shocking video that has been released showing a police encounter that ended fatally for 29-year-old Tyre Nichols who was beaten and pepper-sprayed by officers. Experts have condemned it as a case of excessive force. There was also a shooting in East Jerusalem where at least 7 people were killed, and another shooting in which 2 people were injured. In Ukraine, Russia has once again replaced the commander there due to an ongoing conflict with the West. And back in the US, there is a case of wrongful conviction which has led to a Florida judge resigning in order to help free the wrongfully convicted. Finally, Donald Trump is struggling to maintain support for his reelection campaign and has taken to more traditional campaigning tactics.</p>
+To close friend, 
+
+The world is going through a lot right now. Police violence has been a very prominent topic in the news and people are speaking out against it. There&#39;s been a video of Memphis police beating Tyre Nichols that has caused widespread horror. Protests have been sparked across the country in response to the incident. 
+
+In terms of international news, Israel is facing a spasm of violence due to the government&#39;s far-right views, which have raised the risk of an escalation. At least 7 people have been killed in an attack in East Jerusalem. 
+
+Pharmaceutical companies have been pushing up prices and monopolizing products, taking advantage of patent systems in the US and costing us all dearly. And we&#39;re also getting more updates from Ukraine - Russian forces are escalating their assaults on strategic towns and Donald Trump is posting more extreme views on social media platforms again as he tries to get support for a potential third White House run. 
+
+It&#39;s been quite a turbulent period - let me know if you need to talk about anything. 
+Take care!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tyre Nichols Cried in Anguish. Memphis Officers Kept Hitting.</h3>
-<sub>By Rick Rojas</sub>
-<p>Video footage of the fatal encounter included critical moments in which police officers kicked, punched and pepper-sprayed Mr. Nichols, 29, while he screamed.  <a href="https://nyti.ms/408Azzy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<h3>After Tyre Nichols Death, Officials’ Moves Reflect a Shift in Handling Police Violence</h3>
+<sub>By Mitch Smith, Julie Bosman and Chelsia Rose Marcius</sub>
+<p>With cameras nearly everywhere, and residents wary, the authorities are moving faster and speaking critically when officers are accused of beatings.  <a href="https://nyti.ms/3wBYgmh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The Responsibility of Watching</h3>
+<sub>By A.O. Scott</sub>
+<p>The video of Memphis police beating Tyre Nichols challenges public complacency — and complicity. What are our duties as citizens and as human beings?  <a href="https://nyti.ms/3XMsgYB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Timeline of Tyre Nichols’s Lethal Police Encounter</h3>
-<sub>By Alexander Cardia, Jason Kao, Christoph Koettl, Eleanor Lutz, Anjali Singhvi and Robin Stein</sub>
-<p>Video footage released by the City of Memphis on Friday shows how Tyre Nichols suffered a severe beating after a traffic stop.  <a href="https://nyti.ms/3XL8qNh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<h3>Video of Memphis Officers Beating Tyre Nichols Elicits Widespread Horror</h3>
+<sub>By Rick Rojas</sub>
+<p>As public officials and others condemned the actions they viewed, initial reactions from protesters around the country were largely peaceful.  <a href="https://nyti.ms/3RglojL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From Sacramento to Memphis, Tyre Nichols Cut His Own Path</h3>
@@ -80,16 +95,16 @@ There is a lot going on in the world at the moment. In the US, there is a shocki
 <p>Social media posts show that Mr. Nichols harbored a mistrust of prevailing government and economic systems, yet, a friend says, he also considered trying to change policing from the inside.  <a href="https://nyti.ms/3RaGEaL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘The definition of excessive force’: Policing experts assess the beating of Tyre Nichols.</h3>
-<sub>By Neelam Bohra</sub>
-<p>“This person was not treated as a human being,” one expert said.  <a href="https://nyti.ms/3kQTKhi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How a Drug Company Made $114 Billion by Gaming the U.S. Patent System</h3>
 <sub>By Rebecca Robbins</sub>
 <p>AbbVie for years delayed competition for its blockbuster drug Humira, at the expense of patients and taxpayers. The monopoly is about to end.  <a href="https://nyti.ms/3WM0H0n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Amid Spasm of Violence, Israel’s Far-Right Government Raises Risk of Escalation</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Israel and the West Bank were gripped by violence this week. Its roots predate Israel’s new far-right government, but the government’s ministers and goals are fueling tensions.  <a href="https://nyti.ms/3kOCedo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -111,21 +126,15 @@ There is a lot going on in the world at the moment. In the US, there is a shocki
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kharkiv Got Some Breathing Space, but Still Doesn’t Breathe Easily</h3>
-<sub>By Michael Schwirtz and Lynsey Addario</sub>
-<p>For the past four months, residents have slowly trickled back into the reclaimed city. But signs of the conflict — and the chance that it might return — are everywhere.  <a href="https://nyti.ms/3Rc3iiS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Fighting Rages in Eastern Ukraine Over Critical Supply Routes</h3>
+<sub>By Marc Santora and Michael Schwirtz</sub>
+<p>While the heaviest fighting is still around the city of Bakhmut, in recent days Russian forces have stepped up assaults on a strategic town farther to the south.  <a href="https://nyti.ms/40c6f7i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Aryna Sabalenka Wins the Australian Open Women’s Singles Title</h3>
-<sub>By Matthew Futterman</sub>
-<p>The 24-year-old Belarusian player pushed Elena Rybakina of Kazakhstan to three sets to capture her first Grand Slam singles title.  <a href="https://nyti.ms/3JniiJ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Florida Judge Finds a New Job: Defending an Inmate</h3>
-<sub>By David Segal</sub>
-<p>In a coda to the wrongful-conviction podcast “Bone Valley,” Judge Scott Cupp says he’ll step down to spring a man serving a life sentence for murder.  <a href="https://nyti.ms/3jfU74r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Evolution in Social-Media Exile: More QAnon, More Extremes</h3>
+<sub>By Ken Bensinger and Maggie Haberman</sub>
+<p>The former president, now free to post again on Facebook and Twitter, has increasingly amplified far-right accounts on Truth Social. Experts on extremism worry that he will bring this approach to a far wider audience.  <a href="https://nyti.ms/3XIW1cF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
