@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, January 27, Central Standard Time</p>
+<p>It is Saturday, January 28, Central Standard Time</p>
 <p>
-There&#39;s been a lot going on in the world lately! In the US, there&#39;s been a series of protests and debates over policing and racial injustice that have been resulting in sometimes violent clashes between police and demonstrators. In East Jerusalem, there was an attack in a Jewish area that left 7 people dead. And in Washington DC, Paul Pelosi--the husband of House Speaker Nancy Pelosi--was recently attacked with a hammer, and the court has since released shocking videos of the incident. Meanwhile, Republicans have re-elected the head of their party despite a shaky mid-term showing. There have also been increases in data security concerns due to mishandling of classified information by government officials. Lastly, Russia has outlawed two critical media sources in an effort to silence independent voices.</p>
+There are a lot of things going on in the world right now. In the US, there is a heated race to become the leader of the RNC and Republicans have re-elected their current leader. Meanwhile, a man who shot pepper spray at a police officer was sentenced to nearly 7 years in prison and the mishandling of classified information is being questioned by Congress. On the world stage, there was an attack in an East Jerusalem Jewish area that killed at least 7 people and Russia has banned a news site and rights group. Closer to home, we recently lost Tyre Nichols, whose journey from Sacramento to Memphis showed us his mistrust of government and economic systems but also his willingness to change from within.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From Sacramento to Memphis, Tyre Nichols Cut His Own Path</h3>
@@ -69,33 +69,15 @@ There&#39;s been a lot going on in the world lately! In the US, there&#39;s been
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Memphis Had Avoided Most Volatile Eruptions Over Policing. Until Now.</h3>
-<sub>By Joseph Goldstein and Matthew Rosenberg</sub>
-<p>Despite a series of conflicts, the Memphis police force had not been in the center of the recent national debates over policing. The death of Tyre Nichols changed that.  <a href="https://nyti.ms/3HEpNtu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Court Releases Video of Paul Pelosi Hammer Attack, Adding Chilling Details</h3>
 <sub>By Annie Karni and Tim Arango</sub>
 <p>Police body camera footage, along with surveillance video, an interview with the suspect and audio from Mr. Pelosi’s 911 call, disproved but could not stop right-wing conspiracy theories about the attack.  <a href="https://nyti.ms/3wClEjK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In a 911 call, Paul Pelosi tries to summon help without angering the intruder.</h3>
-<sub>By The New York Times</sub>
-<p>In the audio released on Friday, Mr. Pelosi’s voice is calm and his words carefully chosen as he tries to convey the danger he is in without angering the intruder, who would go on to brutally attack him.  <a href="https://nyti.ms/3kOakOO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>At Least 7 Killed in Attack in Jewish Area of East Jerusalem</h3>
 <sub>By Patrick Kingsley and Jonathan Rosen</sub>
 <p>The police said a 21-year-old man with a handgun shot people on the street at close range, then fled and was killed himself by police gunfire.  <a href="https://nyti.ms/3wAWl1p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Mammoth Tusks in the East River? How Joe Rogan Started a ‘Bone Rush.’</h3>
-<sub>By Michael Wilson</sub>
-<p>After a podcast guest claimed that tons of prehistoric remains were dumped decades ago, scuba divers suited up. But the truth is as murky as the water.  <a href="https://nyti.ms/40aZQt5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +114,24 @@ There&#39;s been a lot going on in the world lately! In the US, there&#39;s been
 <h3>Mishandling of Classified Information Has Congress Asking Questions</h3>
 <sub>By Carl Hulse</sub>
 <p>Lawmakers are seeking answers on why the executive branch is not as careful about protecting classified information as they are required to be on Capitol Hill.  <a href="https://nyti.ms/3kF4pvc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Future Cringe</h3>
+<sub>By George Gurley</sub>
+<p>One day we’ll look back on this moment and wonder: What were we thinking?  <a href="https://nyti.ms/3kMfquG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The M&amp;M’s Aren’t Done With Us Yet</h3>
+<sub>By Eve Peyser</sub>
+<p>Was the company’s recent decision to sideline its spokescandies a response to cultural backlash, or just an elaborate stunt leading up to the Super Bowl?  <a href="https://nyti.ms/3XYPRFP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Tyre Nichols’s Death Is America’s Shame</h3>
+<sub>By Charles M. Blow</sub>
+<p>He is now a marquee victim of a predacious system that America has lost its willingness to confront.  <a href="https://nyti.ms/3JlLtfi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
