@@ -60,30 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 27, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, there&#39;s been an ongoing investigation into the police killing of an African American man, Tyre Nichols, which has sparked protests in cities across the country. Surveillance footage shows an intruder breaking into the house of former Speaker Nancy Pelosi and a 911 call reveals Paul Pelosi trying to summon help without angering the intruder. Meanwhile, Republicans re-elected the chairwoman of the Republican National Committee, Ronna McDaniel despite poor midterm results and on former President Donald Trump’s social media platform, Truth Social, there have been reports of scams and fake merchandise. In Jerusalem, at least seven people were killed in an attack on a synagogue and Ukrainian leaders&#39; efforts to combat corruption have come under scrutiny from US officials overseeing aid. Experts are also urging swifter treatment for children with obesity.</p>
+It seems that there is a lot of social unrest and turmoil happening in the United States right now. There has been a challenge to the leader of the Republican National Committee after the party&#39;s poor midterm performance, and a man was sentenced to nearly 7 years in prison for firing pepper spray at an officer during the Capitol riot. In Memphis, there have been protests over the death of Tyre Nichols, who had a mistrust of government systems according to social media posts. A suspect recently admitted and showed no remorse after an attack on Paul Pelosi in which a hammer was used. There was also an attack in an East Jerusalem Jewish area that killed 7 people. Additionally, there is a &quot;bone rush&quot; where scuba divers are searching for mammoth tusks that might be in the East River. Lastly, Congress wants answers from the executive branch on why they are not as careful with classified information as everyone is supposed to be.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Memphis Police SCORPION Unit Was Supposed to Stop Violence</h3>
-<sub>By Mike Baker</sub>
-<p>Officers from the SCORPION unit are now accused in the murder of Tyre Nichols.  <a href="https://nyti.ms/405yh4e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>From Sacramento to Memphis, Tyre Nichols Cut His Own Path</h3>
+<sub>By Richard Fausset</sub>
+<p>Social media posts show that Mr. Nichols harbored a mistrust of prevailing government and economic systems, yet, a friend says, he also considered trying to change policing from the inside.  <a href="https://nyti.ms/3RaGEaL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Cities across the U.S. are bracing for protests once the police video is released.</h3>
-<sub>By Karen Zraick</sub>
-<p>The footage is gruesome and distressing, officials say. The family of Tyre Nichols, who was killed, and Memphis civic leaders have asked people to protest peacefully.  <a href="https://nyti.ms/3HkAbpg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
+<h3>Memphis Had Avoided Most Volatile Eruptions Over Policing. Until Now.</h3>
+<sub>By Joseph Goldstein and Matthew Rosenberg</sub>
+<p>Despite a series of conflicts, the Memphis police force had not been in the center of the recent national debates over policing. The death of Tyre Nichols changed that.  <a href="https://nyti.ms/3HEpNtu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here is a timeline of events in the death of Tyre Nichols.</h3>
-<sub>By Anushka Patil</sub>
-<p>Mr. Nichols was pulled over by the Memphis police on the evening of Jan. 7 and died three days later. Five officers were charged with murder on Thursday.  <a href="https://nyti.ms/3wyJugk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Surveillance footage shows the attacker breaking into the Pelosis’ home.</h3>
-<sub>By The New York Times</sub>
-<p>Capitol Police video from outside former Speaker Nancy Pelosi’s home in San Francisco, released publicly on Friday, shows the man who attacked her husband in October breaking in.  <a href="https://nyti.ms/3Y0KghJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Court Releases Video of Paul Pelosi Hammer Attack, Adding Chilling Details</h3>
+<sub>By Annie Karni and Tim Arango</sub>
+<p>Police body camera footage, along with surveillance video, an interview with the suspect and audio from Mr. Pelosi’s 911 call, disproved but could not stop right-wing conspiracy theories about the attack.  <a href="https://nyti.ms/3wClEjK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,10 +86,16 @@ There&#39;s a lot going on in the world right now. In the US, there&#39;s been a
 <p>In the audio released on Friday, Mr. Pelosi’s voice is calm and his words carefully chosen as he tries to convey the danger he is in without angering the intruder, who would go on to brutally attack him.  <a href="https://nyti.ms/3kOakOO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>As the Colorado River Shrinks, Washington Prepares to Spread the Pain</h3>
-<sub>By Christopher Flavelle and Mira Rojanasakul</sub>
-<p>The seven states that rely on the river for water are not expected to reach a deal on cuts. It appears the Biden administration will have to impose reductions.  <a href="https://nyti.ms/3XYZrb9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In a police interview, DePape admitted everything and showed no remorse.</h3>
+<sub>By Maggie Astor</sub>
+<p>  <a href="https://nyti.ms/3HcOwDW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Least 7 Killed in Attack in Jewish Area of East Jerusalem</h3>
+<sub>By Patrick Kingsley and Jonathan Rosen</sub>
+<p>The police said a 21-year-old man with a handgun shot people on the street at close range, then fled and was killed himself by police gunfire.  <a href="https://nyti.ms/3wAWl1p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -110,28 +110,28 @@ There&#39;s a lot going on in the world right now. In the US, there&#39;s been a
 <p>Ronna McDaniel won a fourth two-year term to lead the Republican National Committee, fending off a fierce challenge after the party’s poor midterm showing.  <a href="https://nyti.ms/3HaJRSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>On Trump’s Social Network: Ads for Miracle Cures, Scams and Fake Merchandise</h3>
-<sub>By Stuart A. Thompson</sub>
-<p>Truth Social, the social network started by former President Donald J. Trump, has struggled to attract large brands.  <a href="https://nyti.ms/3wAQyJ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Least 7 Killed in Attack in East Jerusalem</h3>
-<sub>By Patrick Kingsley and Jonathan Rosen</sub>
-<p>The police said a gunman killed the people at a small synagogue, before being killed himself by police fire.  <a href="https://nyti.ms/3wAWl1p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Who Shot Pepper Spray at Officer on Jan. 6 Gets Nearly 7 Years in Prison</h3>
+<sub>By Alan Feuer and Zach Montague</sub>
+<p>Officer Brian D. Sicknick died a day after the Capitol riot. Another man initially charged in the assault was sentenced to time served.  <a href="https://nyti.ms/3XZmbs9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Officials Overseeing Aid Say Ukrainian Leaders Are Tackling Corruption</h3>
-<sub>By Michael Crowley and Edward Wong</sub>
-<p>The ouster of several officials has renewed questions about how the Zelensky government is addressing concerns about aid.  <a href="https://nyti.ms/3XYZlQP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tanks Alone Won’t Turn the Tide of the War in Ukraine</h3>
+<sub>By Julian E. Barnes and Eric Schmitt</sub>
+<p>The United States will have to step up its training program to ensure the Ukrainian military can use all the Western-provided equipment effectively.  <a href="https://nyti.ms/3WE4FYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Why Experts Are Urging Swifter Treatment for Children With Obesity</h3>
-<sub>By Gina Kolata</sub>
-<p>Growing research has shown that intensive interventions are needed, scientists say. Here is why their advice is changing.  <a href="https://nyti.ms/3HDPH0N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Archives Leans on Ex-Presidents, Its Only Weapon Is ‘Please’</h3>
+<sub>By Michael D. Shear</sub>
+<p>The National Archives does not have any independent ability to enforce its request that former presidents and vice presidents scour their files for classified documents.  <a href="https://nyti.ms/40aPOrS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Mishandling of Classified Information Has Congress Asking Questions</h3>
+<sub>By Carl Hulse</sub>
+<p>Lawmakers are seeking answers on why the executive branch is not as careful about protecting classified information as they are required to be on Capitol Hill.  <a href="https://nyti.ms/3kF4pvc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
