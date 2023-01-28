@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 27, Central Standard Time</p>
 <p>
-It seems that there is a lot of social unrest and turmoil happening in the United States right now. There has been a challenge to the leader of the Republican National Committee after the party&#39;s poor midterm performance, and a man was sentenced to nearly 7 years in prison for firing pepper spray at an officer during the Capitol riot. In Memphis, there have been protests over the death of Tyre Nichols, who had a mistrust of government systems according to social media posts. A suspect recently admitted and showed no remorse after an attack on Paul Pelosi in which a hammer was used. There was also an attack in an East Jerusalem Jewish area that killed 7 people. Additionally, there is a &quot;bone rush&quot; where scuba divers are searching for mammoth tusks that might be in the East River. Lastly, Congress wants answers from the executive branch on why they are not as careful with classified information as everyone is supposed to be.</p>
+There&#39;s been a lot going on in the world lately! In the US, there&#39;s been a series of protests and debates over policing and racial injustice that have been resulting in sometimes violent clashes between police and demonstrators. In East Jerusalem, there was an attack in a Jewish area that left 7 people dead. And in Washington DC, Paul Pelosi--the husband of House Speaker Nancy Pelosi--was recently attacked with a hammer, and the court has since released shocking videos of the incident. Meanwhile, Republicans have re-elected the head of their party despite a shaky mid-term showing. There have also been increases in data security concerns due to mishandling of classified information by government officials. Lastly, Russia has outlawed two critical media sources in an effort to silence independent voices.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From Sacramento to Memphis, Tyre Nichols Cut His Own Path</h3>
@@ -84,12 +84,6 @@ It seems that there is a lot of social unrest and turmoil happening in the Unite
 <h3>In a 911 call, Paul Pelosi tries to summon help without angering the intruder.</h3>
 <sub>By The New York Times</sub>
 <p>In the audio released on Friday, Mr. Pelosi’s voice is calm and his words carefully chosen as he tries to convey the danger he is in without angering the intruder, who would go on to brutally attack him.  <a href="https://nyti.ms/3kOakOO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In a police interview, DePape admitted everything and showed no remorse.</h3>
-<sub>By Maggie Astor</sub>
-<p>  <a href="https://nyti.ms/3HcOwDW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -120,6 +114,12 @@ It seems that there is a lot of social unrest and turmoil happening in the Unite
 <h3>Tanks Alone Won’t Turn the Tide of the War in Ukraine</h3>
 <sub>By Julian E. Barnes and Eric Schmitt</sub>
 <p>The United States will have to step up its training program to ensure the Ukrainian military can use all the Western-provided equipment effectively.  <a href="https://nyti.ms/3WE4FYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Outlaws a News Site and a Rights Group, Stifling Critical Voices</h3>
+<sub>By Alan Yuhas</sub>
+<p>The Kremlin stepped up efforts to banish independent sources of news. Prosecutors labeled Meduza, a popular news site, “undesirable,” so anyone who aids or promotes it can be prosecuted.  <a href="https://nyti.ms/3HfXvUO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
