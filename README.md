@@ -60,35 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 28, Central Standard Time</p>
 <p>
-Recently, there has been a lot of news about police violence and protests against it. For example, in Memphis, officials are starting to take action after video footage surfaced of officers beating Tyre Nichols. People are also questioning their responsibilities as citizens in these situations. In addition, people around the world have become increasingly aware of how drug companies can gain large profits at the expense of taxpayers and patients. 
-
-In Israel, a far-right government has risen and is pushing the country towards potential escalation in violence. Moreover, the fighting in eastern Ukraine over supply routes is still intense and escalating. 
-
-At the same time, Former President Trump is actively trying to gain support again for his third White House bid while focusing on more small-scale campaigning. There is also a gin boom happening in India right now that is challenging traditional attitudes toward alcohol along with bureaucracy. Lastly, there have been some suspicions regarding if an oligarch had recruited the FBI agent investigating him.</p>
+There is currently a lot of upheaval and unrest happening around the world right now. In the US, a police unit in Memphis has been disbanded after officers were charged with the death of a young Black man named Tyre Nichols. This has provoked a heated conversation around race and policing in America. Elsewhere, pharmaceutical companies have been exploiting US patent laws to make massive amounts of money from taxpayers. In Israel, a new far-right government has recently taken power, raising tensions and the risk of harassment for some residents. Meanwhile, Russian forces in Ukraine have been attacking strategic locations and Donald Trump is trying to gain support for his third White House bid by focussing on smaller-scale events. In other news, an FBI agent who was investigating a Russian aluminum magnate may have ended up working for him instead! Finally, tennis players at the Australian Open are now allowed to be coached from the stands and Belarusian Aryna Sabalenka won her first Grand Slam title over the weekend - a huge moment amidst the backdrop of war in Ukraine.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Memphis Police Disbands Unit Whose Officers Were Charged in Tyre Nichols’s Death</h3>
+<sub>By Rick Rojas</sub>
+<p>Mr. Nichols’s family and activists had demanded the scuttling of the group, the Scorpion unit, which patrolled high-crime areas of the city.  <a href="https://nyti.ms/3XMkbTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tyre Nichols Beating Opens a Complex Conversation on Race and Policing</h3>
+<sub>By Clyde McGrady</sub>
+<p>The five officers charged with the murder of the young Black man are also Black, complicating the anguish and efforts at police reform.  <a href="https://nyti.ms/3XHemqG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Tyre Nichols Death, Officials’ Moves Reflect a Shift in Handling Police Violence</h3>
 <sub>By Mitch Smith, Julie Bosman and Chelsia Rose Marcius</sub>
 <p>With cameras nearly everywhere, and residents wary, the authorities are moving faster and speaking critically when officers are accused of beatings.  <a href="https://nyti.ms/3wBYgmh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Responsibility of Watching</h3>
-<sub>By A.O. Scott</sub>
-<p>The video of Memphis police beating Tyre Nichols challenges public complacency — and complicity. What are our duties as citizens and as human beings?  <a href="https://nyti.ms/3XMsgYB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Video of Memphis Officers Beating Tyre Nichols Elicits Widespread Horror</h3>
-<sub>By Rick Rojas</sub>
-<p>As public officials and others condemned the actions they viewed, initial reactions from protesters around the country were largely peaceful.  <a href="https://nyti.ms/3RglojL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>From Sacramento to Memphis, Tyre Nichols Cut His Own Path</h3>
-<sub>By Richard Fausset</sub>
-<p>Social media posts show that Mr. Nichols harbored a mistrust of prevailing government and economic systems, yet, a friend says, he also considered trying to change policing from the inside.  <a href="https://nyti.ms/3RaGEaL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How a Drug Company Made $114 Billion by Gaming the U.S. Patent System</h3>
@@ -123,19 +113,25 @@ At the same time, Former President Trump is actively trying to gain support agai
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Tries a New Campaign Tack: Small-Scale</h3>
 <sub>By Michael C. Bender and Mei-Ling McNamara</sub>
-<p>At two events on Saturday, Donald J. Trump is embracing more traditional campaigning as he struggles to maintain support for his third White House bid.  <a href="https://nyti.ms/3RhjteL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Gin Boom Trying to Change India, One Distillery at a Time</h3>
-<sub>By Damien Cave</sub>
-<p>Local concoctions are challenging the country’s conservative attitude toward alcohol, along with the country’s often stultifying bureaucracy.  <a href="https://nyti.ms/3H7xl6M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>At two events on Saturday, Donald J. Trump embraced more traditional campaigning as he struggles to maintain support for his third White House bid.  <a href="https://nyti.ms/3RhjteL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>How an Oligarch May Have Recruited the F.B.I. Agent Who Investigated Him</h3>
 <sub>By Rebecca Davis O’Brien</sub>
 <p>The bureau tried to court Oleg Deripaska, a Russian aluminum magnate, as an informant. Instead, one of its own top agents may have ended up working for him.  <a href="https://nyti.ms/3j59a0Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Quiet Coaching Revolution in Tennis That Can Feel Like ‘Cheating’</h3>
+<sub>By Christopher Clarey</sub>
+<p>In-match coaching has always happened on the sly, but this year is the first time the Australian Open has allowed players to be coached from the stands.  <a href="https://nyti.ms/3WFqZBm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Big Risks and Big Rewards for Aryna Sabalenka at the Australian Open</h3>
+<sub>By Christopher Clarey</sub>
+<p>The Belarusian, who beat Elena Rybakina to win her first Grand Slam title on Saturday, held the trophy in triumph while the war in Ukraine remained a brutal reality.  <a href="https://nyti.ms/3WLyDKx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
