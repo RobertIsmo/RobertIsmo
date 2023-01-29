@@ -60,10 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 28, Central Standard Time</p>
 <p>
-There is currently a lot of upheaval and unrest happening around the world right now. In the US, a police unit in Memphis has been disbanded after officers were charged with the death of a young Black man named Tyre Nichols. This has provoked a heated conversation around race and policing in America. Elsewhere, pharmaceutical companies have been exploiting US patent laws to make massive amounts of money from taxpayers. In Israel, a new far-right government has recently taken power, raising tensions and the risk of harassment for some residents. Meanwhile, Russian forces in Ukraine have been attacking strategic locations and Donald Trump is trying to gain support for his third White House bid by focussing on smaller-scale events. In other news, an FBI agent who was investigating a Russian aluminum magnate may have ended up working for him instead! Finally, tennis players at the Australian Open are now allowed to be coached from the stands and Belarusian Aryna Sabalenka won her first Grand Slam title over the weekend - a huge moment amidst the backdrop of war in Ukraine.</p>
+There is a lot happening in the world right now, from protests and political turmoil to pandemics and crime. In the US, there has been news recently about police brutality, with five officers being charged with the murder of a young Black man, Tyre Nichols. This has sparked complex conversations about race and policing. On top of this, US officials are now moving faster after accusations of beatings and speaking critically about police violence due to cameras everywhere and wary citizens. 
+
+At the same time, a drug company was found making billions by gaming the US patent systems, creating monopolies at the expense of patients and taxpayers. Overseas, there is a lot of unrest in Israel due to its far-right government raising tensions, as well as aggressive attacks on strategic supply routes in Eastern Ukraine. In the former president&#39;s case, he&#39;s trying out more extreme rhetoric via social media with QAnon accounts and small-scale traditional campaign tactics for his White House bid. And while we’re still dealing with possible manipulation by an oligarch who could have recruited an FBI agent to investigate him, there is also some good news – like films projects at Sundance showing complex relationships and inspiring documentaries about artists.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Memphis Police Disbands Unit Whose Officers Were Charged in Tyre Nichols’s Death</h3>
+<h3>Memphis Police Disband Unit Whose Officers Were Charged in Tyre Nichols’s Death</h3>
 <sub>By Rick Rojas</sub>
 <p>Mr. Nichols’s family and activists had demanded the scuttling of the group, the Scorpion unit, which patrolled high-crime areas of the city.  <a href="https://nyti.ms/3XMkbTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
@@ -116,22 +118,22 @@ There is currently a lot of upheaval and unrest happening around the world right
 <p>At two events on Saturday, Donald J. Trump embraced more traditional campaigning as he struggles to maintain support for his third White House bid.  <a href="https://nyti.ms/3RhjteL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>How a Football Superfan in a Wolf Costume Ended Up in a Cage</h3>
+<sub>By Kevin Draper</sub>
+<p>Kansas City football fans worried when one of their team’s most recognizable supporters didn’t show up for a game. When he turned up in jail in Tulsa, they wondered if they’d known him at all.  <a href="https://nyti.ms/3Rbjf99"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>At Last Back at Sundance, Filled With Rocky Relationships and Glorious Writers</h3>
+<sub>By Manohla Dargis</sub>
+<p>Dramas about couples (“Cat Person”) and families (“A Thousand and One”) tackle complex lives; documentaries on Judy Blume and Nikki Giovanni entertain.  <a href="https://nyti.ms/3XKPYV7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>How an Oligarch May Have Recruited the F.B.I. Agent Who Investigated Him</h3>
 <sub>By Rebecca Davis O’Brien</sub>
 <p>The bureau tried to court Oleg Deripaska, a Russian aluminum magnate, as an informant. Instead, one of its own top agents may have ended up working for him.  <a href="https://nyti.ms/3j59a0Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Quiet Coaching Revolution in Tennis That Can Feel Like ‘Cheating’</h3>
-<sub>By Christopher Clarey</sub>
-<p>In-match coaching has always happened on the sly, but this year is the first time the Australian Open has allowed players to be coached from the stands.  <a href="https://nyti.ms/3WFqZBm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Big Risks and Big Rewards for Aryna Sabalenka at the Australian Open</h3>
-<sub>By Christopher Clarey</sub>
-<p>The Belarusian, who beat Elena Rybakina to win her first Grand Slam title on Saturday, held the trophy in triumph while the war in Ukraine remained a brutal reality.  <a href="https://nyti.ms/3WLyDKx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
