@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 29, Central Standard Time</p>
 <p>
-There is a lot of unrest in the world right now. In the US, legal arguments are being made to challenge abortion bans and conversations about race, policing, and police reform are taking place. In Israel, violence has erupted between Israeli forces and Palestinians in the wake of an Israeli military raid. Meanwhile there are tensions and battles occurring between Russia and Ukraine over control of villages, particularly near the key city of Bakhmut. And survivors of conflict are trickling back into reclaimed cities in Ukraine but still with signs that conflict might return. On top of that, Serbia&#39;s Novak Djokovic won his 10th Australian Open Men&#39;s Singles title. On the business side, private equity is now making moves to acquire toddler gyms. As for NFL players, the injury to Damar Hamlin has highlighted their precarious position in the league and Howie Roseman from the Eagles has managed to rebuild his team to championship aspirations in five short seasons. Lastly, a football super fan celebrated for dressing up in a wolf costume ended up unexpectedly in a Tulsa jail which sent Kansas City fans into confusion.</p>
+There is a lot happening in the world right now. In the US, there are arguments over abortion rights, controversies in policing and racial justice and Memphis police have disbanded a unit after an incident. On the international front, Russia and Ukraine are locked in a battle for control of villages near a key city and Palestinian man was fatally shot due to conflicts with Israeli forces. Sports fans are concerned about Damar Hamlin, a young NFL player who collapsed on the field. Private equity is coming for toddler gyms and senior housing is gaining traction in many parts of the country. Finally, Novak Djokovic won his 22nd Grand Slam title at the Australian Open.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Do Abortion Rights Hang On State Constitutions?</h3>
@@ -81,12 +81,6 @@ There is a lot of unrest in the world right now. In the US, legal arguments are 
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Palestinian Man Fatally Shot as Violence Continues With Israeli Forces</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>Tensions and violence have gripped the Israeli-occupied West Bank and Jerusalem for days after an Israeli military raid on Thursday killed nine people.  <a href="https://nyti.ms/3XJayoQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia and Ukraine Battle for Control of Villages Near the Key City of Bakhmut</h3>
 <sub>By Matthew Mpoke Bigg</sub>
 <p>The area is a flash point in an offensive that Moscow views as crucial for its goal of seizing the Donbas region of eastern Ukraine.  <a href="https://nyti.ms/3JrUTWH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -98,17 +92,11 @@ There is a lot of unrest in the world right now. In the US, legal arguments are 
 <p>For the past four months, residents have slowly trickled back into the reclaimed city. But signs of the conflict — and the chance that it might return — are everywhere.  <a href="https://nyti.ms/3Rc3iiS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Novak Djokovic Captures His 10th Australian Open Men’s Singles Title</h3>
-<sub>By Matthew Futterman</sub>
-<p>After missing last year’s tournament when he was deported for being unvaccinated for Covid-19, the Serbian star beat Stefanos Tsitsipas of Greece in straight sets to win his 22nd Grand Slam title.  <a href="https://nyti.ms/3WKNS6y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Palestinian Man Fatally Shot as Violence Continues With Israeli Forces</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>Tensions and violence have gripped the Israeli-occupied West Bank and Jerusalem for days after an Israeli military raid on Thursday killed 10 people.  <a href="https://nyti.ms/3XJayoQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>When Private Equity Came for the Toddler Gyms</h3>
-<sub>By Lydia DePillis and Michael Corkery</sub>
-<p>The same playbook that has notched high returns acquiring things like foreclosed homes and highway rest stops is being tested by a family-oriented franchise.  <a href="https://nyti.ms/3RdtDgw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Hamlin’s Injury Highlights Precarious Position of Many Young N.F.L. Players</h3>
@@ -117,22 +105,34 @@ There is a lot of unrest in the world right now. In the US, legal arguments are 
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Damar Hamlin Speaks in a Video for the First Time Since His Collapse</h3>
-<sub>By Jonathan Ellis</sub>
-<p>The Buffalo Bills defensive back said he was thankful that his near-death medical emergency had provided him with an opportunity to give back.  <a href="https://nyti.ms/3DjdAYD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>To Rebuild the Eagles, the Team’s G.M. Worked His ‘Magic’</h3>
-<sub>By Kris Rhim</sub>
-<p>The Eagles are again aiming for a championship just five seasons after winning it all thanks in large part to General Manager Howie Roseman, who led a uniquely fast rebuild through a series of bold moves.  <a href="https://nyti.ms/407i8eG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>How a Football Superfan in a Wolf Costume Ended Up in a Cage</h3>
 <sub>By Kevin Draper</sub>
 <p>Kansas City fans worried when one of their team’s most recognizable supporters didn’t show up for a game. When he turned up in a Tulsa jail, they wondered if they’d known him at all.  <a href="https://nyti.ms/3Rbjf99"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>When Private Equity Came for the Toddler Gyms</h3>
+<sub>By Lydia DePillis and Michael Corkery</sub>
+<p>The same playbook that has notched high returns acquiring things like foreclosed homes and highway rest stops is being tested by a family-oriented franchise.  <a href="https://nyti.ms/3RdtDgw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Senior Housing That Seniors Actually Like</h3>
+<sub>By Paula Span</sub>
+<p>“Granny flats” are popping up in backyards across the country, affording Americans a new housing option. Some communities are not happy about it.  <a href="https://nyti.ms/3wBv66L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>In the Fight Over Gas Stoves, Meet the Industry’s Go-To Scientist</h3>
+<sub>By Hiroko Tabuchi</sub>
+<p>Longstanding research shows the health dangers of gas-burning ranges. Utilities are turning to Julie Goodman, a toxicologist with a firm whose work raises questions about the science.  <a href="https://nyti.ms/3XLzeNH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Novak Djokovic Captures His 10th Australian Open Men’s Singles Title</h3>
+<sub>By Matthew Futterman</sub>
+<p>After missing last year’s tournament when he was deported for being unvaccinated for Covid-19, the Serb beat Stefanos Tsitsipas of Greece in straight sets to win his 22nd Grand Slam title.  <a href="https://nyti.ms/3WKNS6y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
