@@ -60,12 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 29, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, there are arguments over abortion rights, controversies in policing and racial justice and Memphis police have disbanded a unit after an incident. On the international front, Russia and Ukraine are locked in a battle for control of villages near a key city and Palestinian man was fatally shot due to conflicts with Israeli forces. Sports fans are concerned about Damar Hamlin, a young NFL player who collapsed on the field. Private equity is coming for toddler gyms and senior housing is gaining traction in many parts of the country. Finally, Novak Djokovic won his 22nd Grand Slam title at the Australian Open.</p>
+It&#39;s been a hectic few weeks in the news! In the US, there are questions around the medical response to the beating of Tyre Nichols and how it connects to race and policing. Meanwhile, some states are arguing their abortion bans on constitutional grounds. In Russia and Ukraine, a battle is taking place for control of villages near the key city of Bakhmut. Kharkiv has regained some stability, but residents are still feeling the effects of the conflict. 
+In sports news, there&#39;s a blossoming rivalry between Kansas City and Cincinnati to look out for in the A.F.C. Championship Game. On the health front, senior housing is becoming increasingly popular with Americans, while private equity companies are now targeting toddler gyms. Elsewhere in the world, Palestinian man was fatally shot amid ongoing violence with Israeli forces. Lastly, Novak Djokovic came full circle at the Australian Open, winning his 22nd major title.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Do Abortion Rights Hang On State Constitutions?</h3>
-<sub>By Kate Zernike</sub>
-<p>Many of the legal arguments seeking to overturn abortion bans rely on rights provided by the states, and how they are interpreted by state supreme courts.  <a href="https://nyti.ms/3WLafZs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Video of Tyre Nichols Beating Raises Questions About Medical Response</h3>
+<sub>By Nicholas Bogel-Burroughs, Gina Kolata and Mark Walker</sub>
+<p>Two emergency medical technicians who first evaluated Mr. Nichols have been suspended until an investigation is complete.  <a href="https://nyti.ms/3X1Mwo9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,10 +76,10 @@ There is a lot happening in the world right now. In the US, there are arguments 
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Memphis Police Disband Unit Whose Officers Were Charged in Tyre Nichols’s Death</h3>
-<sub>By Rick Rojas</sub>
-<p>Mr. Nichols’s family and activists had demanded the scuttling of the group, the Scorpion unit, which patrolled high-crime areas of the city.  <a href="https://nyti.ms/3XMkbTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<h3>A Volatile Tool Emerges in the Abortion Battle: State Constitutions</h3>
+<sub>By Kate Zernike</sub>
+<p>Many of the legal arguments seeking to overturn abortion bans rely on rights provided by the states, and how they are interpreted by state supreme courts.  <a href="https://nyti.ms/3WLafZs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia and Ukraine Battle for Control of Villages Near the Key City of Bakhmut</h3>
@@ -92,28 +93,10 @@ There is a lot happening in the world right now. In the US, there are arguments 
 <p>For the past four months, residents have slowly trickled back into the reclaimed city. But signs of the conflict — and the chance that it might return — are everywhere.  <a href="https://nyti.ms/3Rc3iiS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Palestinian Man Fatally Shot as Violence Continues With Israeli Forces</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>Tensions and violence have gripped the Israeli-occupied West Bank and Jerusalem for days after an Israeli military raid on Thursday killed 10 people.  <a href="https://nyti.ms/3XJayoQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Hamlin’s Injury Highlights Precarious Position of Many Young N.F.L. Players</h3>
-<sub>By Ken Belson and Jenny Vrentas</sub>
-<p>The injury to Damar Hamlin of the Buffalo Bills, who collapsed on the field in cardiac arrest, has drawn attention to players who have been hurt early in their careers and now struggle to get help.  <a href="https://nyti.ms/3RdwPJ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How a Football Superfan in a Wolf Costume Ended Up in a Cage</h3>
-<sub>By Kevin Draper</sub>
-<p>Kansas City fans worried when one of their team’s most recognizable supporters didn’t show up for a game. When he turned up in a Tulsa jail, they wondered if they’d known him at all.  <a href="https://nyti.ms/3Rbjf99"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>When Private Equity Came for the Toddler Gyms</h3>
-<sub>By Lydia DePillis and Michael Corkery</sub>
-<p>The same playbook that has notched high returns acquiring things like foreclosed homes and highway rest stops is being tested by a family-oriented franchise.  <a href="https://nyti.ms/3RdtDgw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What to Watch For in the A.F.C. Championship Game</h3>
+<sub>By Kris Rhim</sub>
+<p>A blossoming rivalry between Kansas City and Cincinnati could add some spice on and off the field.  <a href="https://nyti.ms/3JntaGP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -122,6 +105,18 @@ There is a lot happening in the world right now. In the US, there are arguments 
 <p>“Granny flats” are popping up in backyards across the country, affording Americans a new housing option. Some communities are not happy about it.  <a href="https://nyti.ms/3wBv66L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Palestinian Man Fatally Shot as Violence Continues With Israeli Forces</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>Tensions and violence have gripped the Israeli-occupied West Bank and Jerusalem for days after an Israeli military raid on Thursday killed 10 people.  <a href="https://nyti.ms/3XJayoQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>When Private Equity Came for the Toddler Gyms</h3>
+<sub>By Lydia DePillis and Michael Corkery</sub>
+<p>The same playbook that has notched high returns acquiring things like foreclosed homes and highway rest stops is being tested by a family-oriented franchise.  <a href="https://nyti.ms/3RdtDgw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>In the Fight Over Gas Stoves, Meet the Industry’s Go-To Scientist</h3>
 <sub>By Hiroko Tabuchi</sub>
@@ -129,10 +124,16 @@ There is a lot happening in the world right now. In the US, there are arguments 
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Novak Djokovic Captures His 10th Australian Open Men’s Singles Title</h3>
-<sub>By Matthew Futterman</sub>
-<p>After missing last year’s tournament when he was deported for being unvaccinated for Covid-19, the Serb beat Stefanos Tsitsipas of Greece in straight sets to win his 22nd Grand Slam title.  <a href="https://nyti.ms/3WKNS6y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Novak Djokovic Comes Full Circle at the Australian Open</h3>
+<sub>By Christopher Clarey</sub>
+<p>Deported a year ago and unable to play in 2022’s first Grand Slam tournament, Djokovic deeply felt this major title, his 22nd, calling it “a huge relief.”  <a href="https://nyti.ms/3wDwaal"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jillian Rayfield</sub>
+<p>The sudden death of America’s strongest woman. Also in this edition: the chaos of remote job cuts, and a book’s rosier view of Roald Dahl.  <a href="https://nyti.ms/3R8aMUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
