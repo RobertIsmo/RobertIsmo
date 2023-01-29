@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 29, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, there&#39;s conversation around police violence and reform, sparked by the death of Tyre Nichols at the hands of five police officers. In business, a drug company was able to make billions of dollars by exploiting loopholes in the patent system. In Israel, tensions are rising due to a far-right government and the complex conflict between Israelis and Palestinians. In Ukraine, Russia is turning to an architect of the war to try and fix their problems. Plus, Donald Trump has been very active lately as he runs for president again - he&#39;s been holding events, amplifying far-right accounts on social media, and embracing more traditional campaign tactics. Sports fans have been worried about one of their team&#39;s most well known supporters who went missing before a game - only to turn up in jail in Tulsa. And some exciting stories are coming out of Sundance this year - with lots of great dramas and documentaries being presented.</p>
+There is a lot of tension and violence in the Middle East between Israel and Palestine, as well as in Ukraine near the Russian border. In the US, there are currently legal arguments seeking to overturn abortion bans, and clashes between police reform activists and law enforcement after a young Black man was killed. On a lighter side of news, Novak Djokovic has just won his 10th Australian Open Men&#39;s Singles title and Howie Roseman has led a fast rebuild for the Philadelphia Eagles.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Memphis Police Disband Unit Whose Officers Were Charged in Tyre Nichols’s Death</h3>
-<sub>By Rick Rojas</sub>
-<p>Mr. Nichols’s family and activists had demanded the scuttling of the group, the Scorpion unit, which patrolled high-crime areas of the city.  <a href="https://nyti.ms/3XMkbTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<h3>Do Abortion Rights Hang On State Constitutions?</h3>
+<sub>By Kate Zernike</sub>
+<p>Many of the legal arguments seeking to overturn abortion bans rely on rights provided by the states, and how they are interpreted by state supreme courts.  <a href="https://nyti.ms/3WLafZs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tyre Nichols Beating Opens a Complex Conversation on Race and Policing</h3>
@@ -75,27 +75,21 @@ There&#39;s a lot going on in the world right now. In the US, there&#39;s conver
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Tyre Nichols Death, Officials’ Moves Reflect a Shift in Handling Police Violence</h3>
-<sub>By Mitch Smith, Julie Bosman and Chelsia Rose Marcius</sub>
-<p>With cameras nearly everywhere, and residents wary, the authorities are moving faster and speaking critically when officers are accused of beatings.  <a href="https://nyti.ms/3wBYgmh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Drug Company Made $114 Billion by Gaming the U.S. Patent System</h3>
-<sub>By Rebecca Robbins</sub>
-<p>AbbVie for years delayed competition for its blockbuster drug Humira, at the expense of patients and taxpayers. The monopoly is about to end.  <a href="https://nyti.ms/3WM0H0n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Memphis Police Disband Unit Whose Officers Were Charged in Tyre Nichols’s Death</h3>
+<sub>By Rick Rojas</sub>
+<p>Mr. Nichols’s family and activists had demanded the scuttling of the group, the Scorpion unit, which patrolled high-crime areas of the city.  <a href="https://nyti.ms/3XMkbTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid Spasm of Violence, Israel’s Far-Right Government Raises Risk of Escalation</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Israel and the West Bank were gripped by violence this week. Its roots predate Israel’s new far-right government, but the government’s ministers and goals are fueling tensions.  <a href="https://nyti.ms/3kOCedo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<h3>Palestinian Man Fatally Shot as Violence Continues With Israel Forces</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>Tensions and violence have gripped the Israeli-occupied West Bank and Jerusalem for days after an Israeli military raid on Thursday killed nine people.  <a href="https://nyti.ms/3XJayoQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>To Fix Its Problems in Ukraine, Russia Turns to the Architect of the War</h3>
-<sub>By Helene Cooper, Julian E. Barnes and Eric Schmitt</sub>
-<p>President Vladimir V. Putin is on his third overall commander in Ukraine. But his military’s fundamental issues have not been addressed, Western officials say.  <a href="https://nyti.ms/3DnG1oB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Kharkiv Got Some Breathing Space, but Still Doesn’t Breathe Easily</h3>
+<sub>By Michael Schwirtz and Lynsey Addario</sub>
+<p>For the past four months, residents have slowly trickled back into the reclaimed city. But signs of the conflict — and the chance that it might return — are everywhere.  <a href="https://nyti.ms/3Rc3iiS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,34 +98,40 @@ There&#39;s a lot going on in the world right now. In the US, there&#39;s conver
 <p>While the heaviest fighting is still around the city of Bakhmut, in recent days Russian forces have stepped up assaults on a strategic town farther to the south.  <a href="https://nyti.ms/40c6f7i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Evolution in Social-Media Exile: More QAnon, More Extremes</h3>
-<sub>By Ken Bensinger and Maggie Haberman</sub>
-<p>The former president, now free to post again on Facebook and Twitter, has increasingly amplified far-right accounts on Truth Social. Experts on extremism worry that he will bring this approach to a far wider audience.  <a href="https://nyti.ms/3XIW1cF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Novak Djokovic Captures His 10th Australian Open Men’s Singles Title</h3>
+<sub>By Matthew Futterman</sub>
+<p>After missing last year’s tournament when he was deported for being unvaccinated for Covid-19, the Serbian star beat Stefanos Tsitsipas of Greece in straight sets to win his 22nd Grand Slam title.  <a href="https://nyti.ms/3WKNS6y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>When Private Equity Came for the Toddler Gyms</h3>
+<sub>By Lydia DePillis and Michael Corkery</sub>
+<p>The same playbook that has notched high returns acquiring things like foreclosed homes and highway rest stops is being tested by a family-oriented franchise.  <a href="https://nyti.ms/3RdtDgw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Tries a New Campaign Tack: Small-Scale</h3>
-<sub>By Michael C. Bender and Mei-Ling McNamara</sub>
-<p>At two events on Saturday, Donald J. Trump embraced more traditional campaigning as he struggles to maintain support for his third White House bid.  <a href="https://nyti.ms/3RhjteL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Hamlin’s Injury Highlights Precarious Position of Many Young N.F.L. Players</h3>
+<sub>By Ken Belson and Jenny Vrentas</sub>
+<p>The injury to Damar Hamlin of the Buffalo Bills, who collapsed on the field in cardiac arrest, has drawn attention to players who have been hurt early in their careers and now struggle to get help.  <a href="https://nyti.ms/3wIlK9e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Damar Hamlin Speaks in a Video for the First Time Since His Collapse</h3>
+<sub>By Jonathan Ellis</sub>
+<p>The Buffalo Bills defensive back said he was thankful that his near-death medical emergency had provided him with an opportunity to give back.  <a href="https://nyti.ms/3DjdAYD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>To Rebuild the Eagles, the Team’s G.M. Worked His ‘Magic’</h3>
+<sub>By Kris Rhim</sub>
+<p>The Eagles are again aiming for a championship just five seasons after winning it all thanks in large part to General Manager Howie Roseman, who led a uniquely fast rebuild through a series of bold moves.  <a href="https://nyti.ms/407i8eG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>How a Football Superfan in a Wolf Costume Ended Up in a Cage</h3>
 <sub>By Kevin Draper</sub>
 <p>Kansas City fans worried when one of their team’s most recognizable supporters didn’t show up for a game. When he turned up in a Tulsa jail, they wondered if they’d known him at all.  <a href="https://nyti.ms/3Rbjf99"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>At Last Back at Sundance, Filled With Rocky Relationships and Glorious Writers</h3>
-<sub>By Manohla Dargis</sub>
-<p>Dramas about couples (“Cat Person”) and families (“A Thousand and One”) tackle complex lives; documentaries on Judy Blume and Nikki Giovanni entertain.  <a href="https://nyti.ms/3XKPYV7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Quiet Coaching Revolution in Tennis That Can Feel Like ‘Cheating’</h3>
-<sub>By Christopher Clarey</sub>
-<p>In-match coaching has always happened on the sly, but this year is the first time the Australian Open has allowed players to be coached from the stands.  <a href="https://nyti.ms/3WFqZBm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
