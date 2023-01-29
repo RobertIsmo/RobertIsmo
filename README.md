@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 29, Central Standard Time</p>
 <p>
-There is a lot of tension and violence in the Middle East between Israel and Palestine, as well as in Ukraine near the Russian border. In the US, there are currently legal arguments seeking to overturn abortion bans, and clashes between police reform activists and law enforcement after a young Black man was killed. On a lighter side of news, Novak Djokovic has just won his 10th Australian Open Men&#39;s Singles title and Howie Roseman has led a fast rebuild for the Philadelphia Eagles.</p>
+There is a lot of unrest in the world right now. In the US, legal arguments are being made to challenge abortion bans and conversations about race, policing, and police reform are taking place. In Israel, violence has erupted between Israeli forces and Palestinians in the wake of an Israeli military raid. Meanwhile there are tensions and battles occurring between Russia and Ukraine over control of villages, particularly near the key city of Bakhmut. And survivors of conflict are trickling back into reclaimed cities in Ukraine but still with signs that conflict might return. On top of that, Serbia&#39;s Novak Djokovic won his 10th Australian Open Men&#39;s Singles title. On the business side, private equity is now making moves to acquire toddler gyms. As for NFL players, the injury to Damar Hamlin has highlighted their precarious position in the league and Howie Roseman from the Eagles has managed to rebuild his team to championship aspirations in five short seasons. Lastly, a football super fan celebrated for dressing up in a wolf costume ended up unexpectedly in a Tulsa jail which sent Kansas City fans into confusion.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Do Abortion Rights Hang On State Constitutions?</h3>
@@ -81,21 +81,21 @@ There is a lot of tension and violence in the Middle East between Israel and Pal
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Palestinian Man Fatally Shot as Violence Continues With Israel Forces</h3>
+<h3>Palestinian Man Fatally Shot as Violence Continues With Israeli Forces</h3>
 <sub>By Raja Abdulrahim</sub>
 <p>Tensions and violence have gripped the Israeli-occupied West Bank and Jerusalem for days after an Israeli military raid on Thursday killed nine people.  <a href="https://nyti.ms/3XJayoQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia and Ukraine Battle for Control of Villages Near the Key City of Bakhmut</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The area is a flash point in an offensive that Moscow views as crucial for its goal of seizing the Donbas region of eastern Ukraine.  <a href="https://nyti.ms/3JrUTWH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Kharkiv Got Some Breathing Space, but Still Doesn’t Breathe Easily</h3>
 <sub>By Michael Schwirtz and Lynsey Addario</sub>
 <p>For the past four months, residents have slowly trickled back into the reclaimed city. But signs of the conflict — and the chance that it might return — are everywhere.  <a href="https://nyti.ms/3Rc3iiS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fighting Rages in Eastern Ukraine Over Critical Supply Routes</h3>
-<sub>By Marc Santora and Michael Schwirtz</sub>
-<p>While the heaviest fighting is still around the city of Bakhmut, in recent days Russian forces have stepped up assaults on a strategic town farther to the south.  <a href="https://nyti.ms/40c6f7i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -113,7 +113,7 @@ There is a lot of tension and violence in the Middle East between Israel and Pal
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Hamlin’s Injury Highlights Precarious Position of Many Young N.F.L. Players</h3>
 <sub>By Ken Belson and Jenny Vrentas</sub>
-<p>The injury to Damar Hamlin of the Buffalo Bills, who collapsed on the field in cardiac arrest, has drawn attention to players who have been hurt early in their careers and now struggle to get help.  <a href="https://nyti.ms/3wIlK9e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The injury to Damar Hamlin of the Buffalo Bills, who collapsed on the field in cardiac arrest, has drawn attention to players who have been hurt early in their careers and now struggle to get help.  <a href="https://nyti.ms/3RdwPJ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
