@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, January 29, Central Standard Time</p>
+<p>It is Monday, January 30, Central Standard Time</p>
 <p>
-Right now there is a lot happening in the world. In the US, there is an investigation into a &#39;Scorpion Unit&#39; in Memphis that was previously praised by city leaders for fighting crime, but may have been flawed from the start. There is also a case involving Tyre Nichols where officers gave him 71 commands in 13 minutes which proved to be impossible orders and major questions arise on whether his death was preventable and the consequences of his beating. In response to the influx of gun violence in California, lawmakers are calling for more regulations. In international news, Israel launched a drone attack on an Iranian facility and Russians and Ukrainians are fighting for control of villages near a key city. Additionally, there have been developments in senior housing and travel with granny flats popping up across countries and China dropping restrictions on overseas journeys. Finally, there is discussion on the health dangers of gas-burning ranges as industry scientist Julie Goodman&#39;s toxicology work raises questions about the science behind them.</p>
+Right now, there&#39;s a lot of unrest in the world. In the US, police techniques are being questioned after a series of violent incidents, including a Black man being beaten to death by officers. At the same time, California is struggling with gun laws after two mass shootings recently. On the international stage, Israel has launched a drone attack on an Iranian facility while Russia and Ukraine are fighting for control of villages near a key city. Finally, after two Palestinians shot seven Israelis to death over the weekend, some Palestinians are expressing both pride and fear about what&#39;s next.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Scorpion Unit Emerged as Memphis Pursued Get-Tough Strategy</h3>
@@ -105,9 +105,21 @@ Right now there is a lot happening in the world. In the US, there is an investig
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Eagles Return to the Super Bowl as the 49ers Break Down</h3>
+<h3>How Patrick Mahomes Led Kansas City Back to the Super Bowl</h3>
+<sub>By Ken Belson</sub>
+<p>Cincinnati had beaten Kansas City the previous three matchups, all in comebacks. Mahomes made sure it wouldn’t happen again.  <a href="https://nyti.ms/3XTWdpW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>How the Eagles’ Defense Took Them Past the Hobbled 49ers</h3>
 <sub>By Emmanuel Morgan</sub>
-<p>Five years after winning it all, Philadelphia beat San Francisco, 31-7, to claim the N.F.C. championship.  <a href="https://nyti.ms/3JlvrlK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Five years after winning the Super Bowl, Philadelphia beat San Francisco, 31-7, to claim the N.F.C. championship.  <a href="https://nyti.ms/3JlvrlK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>What We Learned from the N.F.L.’s Conference Championship Games</h3>
+<sub>By Derrik Klassen</sub>
+<p>The Eagles did not need to be flashy to beat the 49ers, and Patrick Mahomes knew when to pick his spots while playing on an injured ankle against Cincinnati.  <a href="https://nyti.ms/3Y5Pbhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -120,18 +132,6 @@ Right now there is a lot happening in the world. In the US, there is an investig
 <h3>As Israelis Grieve, Some Palestinians Exult, and Some Fear What’s Next</h3>
 <sub>By Patrick Kingsley</sub>
 <p>Two Palestinians shot a dozen Israelis, seven fatally, over the weekend. In the aftermath, the attackers’ relatives expressed a mixture of pride and dread.  <a href="https://nyti.ms/3XMPMEW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Senior Housing That Seniors Actually Like</h3>
-<sub>By Paula Span</sub>
-<p>“Granny flats” are popping up in backyards across the country, affording Americans a new housing option. Some communities are not happy about it.  <a href="https://nyti.ms/3wBv66L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>In the Fight Over Gas Stoves, Meet the Industry’s Go-To Scientist</h3>
-<sub>By Hiroko Tabuchi</sub>
-<p>Longstanding research shows the health dangers of gas-burning ranges. Utilities are turning to Julie Goodman, a toxicologist with a firm whose work raises questions about the science.  <a href="https://nyti.ms/3XLzeNH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
