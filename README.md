@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 30, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of unrest in the world. In the US, police techniques are being questioned after a series of violent incidents, including a Black man being beaten to death by officers. At the same time, California is struggling with gun laws after two mass shootings recently. On the international stage, Israel has launched a drone attack on an Iranian facility while Russia and Ukraine are fighting for control of villages near a key city. Finally, after two Palestinians shot seven Israelis to death over the weekend, some Palestinians are expressing both pride and fear about what&#39;s next.</p>
+There have been a lot of concerning developments happening in the world lately. A group of Russia&#39;s convicts have returned from Ukraine, formerly fighting with the Kremlin&#39;s forces. In Memphis, an investigation has begun into an anti-crime unit that had been praised by city leaders. In Arkansas, a young black man died after officers gave him 71 contradictory orders in 13 minutes during his arrest. In California, lawmakers have called for new gun regulations following back-to-back mass shootings there. Israel recently launched a drone attack against Iran. China has lifted its international travel restrictions, while Israelis and Palestinians grapple with the aftermath of a deadly shooting over the weekend. Lastly, the NFL Championship games shook out with Philadelphia beating San Francisco and Kansas City defeating Cincinnati.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Very Dangerous People’: Russia’s Convict Fighters Are Heading Home</h3>
+<sub>By Anatoly Kurmanaev, Alina Lobzina and Ekaterina Bodyagina</sub>
+<p>Tens of thousands of inmates have joined a mercenary group fighting with the Kremlin’s decimated forces in Ukraine. Some of them are returning to civilian life with military training and, in many cases, battlefield traumas.  <a href="https://nyti.ms/3RdnyAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Scorpion Unit Emerged as Memphis Pursued Get-Tough Strategy</h3>
 <sub>By Jesus Jiménez, Mark Walker, Steve Eder, Joseph Goldstein and Mike Baker</sub>
@@ -120,12 +126,6 @@ Right now, there&#39;s a lot of unrest in the world. In the US, police technique
 <h3>What We Learned from the N.F.L.’s Conference Championship Games</h3>
 <sub>By Derrik Klassen</sub>
 <p>The Eagles did not need to be flashy to beat the 49ers, and Patrick Mahomes knew when to pick his spots while playing on an injured ankle against Cincinnati.  <a href="https://nyti.ms/3Y5Pbhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia and Ukraine Battle for Control of Villages Near the Key City of Bakhmut</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>The area is a flash point in an offensive that Moscow views as crucial for its goal of seizing the Donbas region of eastern Ukraine.  <a href="https://nyti.ms/3JrUTWH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
