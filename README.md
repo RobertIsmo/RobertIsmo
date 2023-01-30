@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 30, Central Standard Time</p>
 <p>
-Several things are happening in the world right now. In the US, a murder case involving five officers of the Memphis police force has escalated, with another officer being suspended in the investigation. The drama then shifts to international news, as the Secretary of State will meet Israeli Prime Minister Netanyahu at a turbulent moment for Israel; Israel subsequently conducted a drone attack on an Iranian facility, and two men attempted to escape from Russia via boat in hopes of seeking asylum in the US. On top of this, a pandemic used-car boom is coming to an end and the Federal Reserve is likely to raise interest rates in light of cooling inflation. Finally, Hockey Hall of Famer Bobby Hull has died at 84.</p>
+There has been a lot going on in the world recently. On Wall Street, investors are worried about what may happen if the debt limit is breached. In politics, the Republican party is divided over issues related to the debt ceiling and the Tea Party movement is on its way out. There&#39;s been an escalation of a criminal investigation against former president Donald Trump by prosecutors in Manhattan, and criminal charges could come soon. Former Congresswoman Gabrielle Giffords is making progress advocating for gun safety laws, and six Memphis police officers have been suspended in connection with Tyre Nichols&#39; death as more details come out about commands that Nichols was given before his death. In Russia, prison inmates are being released to fight in a war in Ukraine, and two men tried to escape to asylum in the U.S. by boat recently. There has also been a suicide bombing in Pakistan at a mosque that killed dozens of people. On a more positive note, you don&#39;t have to be complicit in today&#39;s culture of destruction if you are mindful of how you live your life according to Robin Wall Kimmerer&#39;s book &#39;Braiding Sweetgrass&#39;. Lastly, there is an opinion piece looking at how Donald Trump isn&#39;t the only one to blame for the Capitol Hill riot and how it can be used as an example to protect our democracy from future attacks.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Wall Street Is Counting on a Debt Limit Trick That Could Entail Trouble</h3>
@@ -77,13 +77,19 @@ Several things are happening in the world right now. In the US, a murder case in
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Manhattan Prosecutors Will Begin Presenting Trump Case to Grand Jury</h3>
 <sub>By William K. Rashbaum, Ben Protess and Jonah E. Bromwich</sub>
-<p>The Manhattan district attorney’s decision represents a dramatic escalation of the inquiry, and sets the case on a path toward criminal charges against the former president.  <a href="https://nyti.ms/40i5nhA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Manhattan district attorney’s decision represents a dramatic escalation of the inquiry, and potentially sets the case on a path toward criminal charges against the former president.  <a href="https://nyti.ms/40i5nhA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Giffords, Progress on Gun Safety Is Like Her Recovery: ‘Inch by Inch’</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>A 2011 mass shooting left Gabrielle Giffords, then a Democratic congresswoman, partly paralyzed and unable to speak fluently. She has since built a powerful advocacy group.  <a href="https://nyti.ms/3Hiykkv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>6th Memphis Police Officer Suspended in Tyre Nichols Death</h3>
 <sub>By Jessica Jaglois</sub>
-<p>It was not immediately clear what role the officer, Preston Hemphill, had played in the incident that led to murder charges against five fellow officers fired from the police force.  <a href="https://nyti.ms/3XMFyo8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The officer, Preston Hemphill, deployed a Taser that hit Mr. Nichols in the torso, according to a police report of the incident.  <a href="https://nyti.ms/3XMFyo8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,22 +99,10 @@ Several things are happening in the world right now. In the US, a murder case in
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Very Dangerous People’: Russia’s Convict Fighters Are Heading Home</h3>
+<h3>Russia Freed Prisoners to Fight Its War. Here’s How Some Fared.</h3>
 <sub>By Anatoly Kurmanaev, Alina Lobzina and Ekaterina Bodyagina</sub>
 <p>Tens of thousands of inmates have joined a mercenary group fighting with the Kremlin’s decimated forces in Ukraine. Some of them are returning to civilian life with military training and, in many cases, battlefield traumas.  <a href="https://nyti.ms/3RdnyAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken to Meet Netanyahu at Turbulent Moment for Israel</h3>
-<sub>By Michael Crowley</sub>
-<p>The secretary of state will sit down with the Israeli prime minister as violence and mass protests rattle his country.  <a href="https://nyti.ms/3wDe8ov"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Launched Drone Attack on Iranian Facility, Officials Say</h3>
-<sub>By Ronen Bergman, David E. Sanger and Farnaz Fassihi</sub>
-<p>While the target’s purpose is unclear, the city of Isfahan is a major center of Iranian missile production, research and development.  <a href="https://nyti.ms/3XLd9i1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Small Boat, a Vast Sea and a Desperate Escape From Russia</h3>
@@ -116,22 +110,28 @@ Several things are happening in the world right now. In the US, a murder case in
 <p>In September, two men set out from Russia, hoping a boat could carry them to asylum on U.S. soil. Their quest for freedom did not go as planned.  <a href="https://nyti.ms/3Rf3v4U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Pandemic Used-Car Boom Is Coming to an Abrupt End</h3>
-<sub>By Neal E. Boudette</sub>
-<p>Dealerships are seeing sales and prices drop as consumers tighten their belts, putting financial pressure on companies like Carvana that grew fast in recent years.  <a href="https://nyti.ms/3wGJScy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Suicide Bombing Tears Through Pakistan Mosque, Killing Dozens</h3>
+<sub>By Salman Masood</sub>
+<p>The country’s worst attack in months struck the northwest, where the police and military have been targeted, especially in areas straddling the border with Afghanistan.  <a href="https://nyti.ms/3WMl5OH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Smaller Rate Increase by Federal Reserve Likely as Inflation Cools</h3>
-<sub>By Jeanna Smialek</sub>
-<p>America’s central bank is expected to raise rates by a quarter point on Wednesday. The question now is what comes next.  <a href="https://nyti.ms/3Dp95vK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>The Sneaky Allure of a Detox</h3>
+<sub>By Dani Blum</sub>
+<p>A cleanse might make you feel better, but not for the reasons you may think.  <a href="https://nyti.ms/3XSZKEL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Bobby Hull, Hockey Hall of Famer, Is Dead at 84</h3>
-<sub>By Richard Sandomir</sub>
-<p>The third player in N.H.L. history to score at least 50 goals in a season, he spent 15 seasons with the Chicago Blackhawks.  <a href="https://nyti.ms/3wDRwob"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>You Don’t Have to Be Complicit in Our Culture of Destruction</h3>
+<sub>By David Marchese</sub>
+<p>Robin Wall Kimmerer, author of “Braiding Sweetgrass,” argues for a new way of living.  <a href="https://nyti.ms/3wFimfq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Donald Trump Isn’t the Only One to Blame for the Capitol Riot. I’d Know.</h3>
+<sub>By James Sasso</sub>
+<p>Only by understanding how the rioters lost faith in government can we figure out how to protect our democracy from future attacks.  <a href="https://nyti.ms/3Dr1Fs5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
