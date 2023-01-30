@@ -60,13 +60,27 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 30, Central Standard Time</p>
 <p>
-There have been a lot of concerning developments happening in the world lately. A group of Russia&#39;s convicts have returned from Ukraine, formerly fighting with the Kremlin&#39;s forces. In Memphis, an investigation has begun into an anti-crime unit that had been praised by city leaders. In Arkansas, a young black man died after officers gave him 71 contradictory orders in 13 minutes during his arrest. In California, lawmakers have called for new gun regulations following back-to-back mass shootings there. Israel recently launched a drone attack against Iran. China has lifted its international travel restrictions, while Israelis and Palestinians grapple with the aftermath of a deadly shooting over the weekend. Lastly, the NFL Championship games shook out with Philadelphia beating San Francisco and Kansas City defeating Cincinnati.</p>
+There&#39;s a lot of news happening around the world right now. To start, Russian convicts are returning to civilian life with military training after joining a mercenary group fighting in Ukraine. In Israel, there was a drone attack on an Iranian facility in Isfahan, which is known for its missile production and R&amp;D. Meanwhile, in Memphis, TN a police unit was established to fight crime but is now being assessed for any flaws despite approval from city leaders. Also, the Federal Reserve is predicted to raise interest rates by a quarter point this Wednesday.
+
+In California, lawmakers are calling for more gun regulations after two mass shootings left at least 19 people dead. On the sports front, there&#39;s going to be an unprecedented Super Bowl between Kansas City and Philadelphia with two Black quarterbacks as well as two brothers opposing one another. People are also investing in climate change start-ups which seem to be recession resilient in the midst of a tech downturn. Lastly, world leaders are reflecting on Mohandas Gandhi&#39;s legacy 75 years after his assassination due to his history of non-violent resistance which has inspired many political movements.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Very Dangerous People’: Russia’s Convict Fighters Are Heading Home</h3>
 <sub>By Anatoly Kurmanaev, Alina Lobzina and Ekaterina Bodyagina</sub>
 <p>Tens of thousands of inmates have joined a mercenary group fighting with the Kremlin’s decimated forces in Ukraine. Some of them are returning to civilian life with military training and, in many cases, battlefield traumas.  <a href="https://nyti.ms/3RdnyAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Matt Gaetz, Political Arsonist, Has New Powers. What Will He Do With Them?</h3>
+<sub>By Robert Draper</sub>
+<p>“I am not some ‘Lord of the Flies’ nihilist,” said the far-right congressman and chief tormentor of Speaker Kevin McCarthy.  <a href="https://nyti.ms/3HF1POQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Launched Drone Attack on Iranian Facility, Officials Say</h3>
+<sub>By Ronen Bergman, David E. Sanger and Farnaz Fassihi</sub>
+<p>While the target’s purpose is unclear, the city of Isfahan is a major center of Iranian missile production, research and development.  <a href="https://nyti.ms/3XLd9i1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Scorpion Unit Emerged as Memphis Pursued Get-Tough Strategy</h3>
@@ -80,17 +94,11 @@ There have been a lot of concerning developments happening in the world lately. 
 <p>A Times analysis found that officers gave dozens of contradictory and unachievable orders to Mr. Nichols. The punishment was severe — and eventually fatal.  <a href="https://nyti.ms/3XXSGq6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Video of Tyre Nichols Beating Raises Questions About Medical Response</h3>
-<sub>By Nicholas Bogel-Burroughs, Gina Kolata and Mark Walker</sub>
-<p>Two emergency medical technicians who first evaluated Mr. Nichols have been suspended until an investigation is complete.  <a href="https://nyti.ms/3X1Mwo9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tyre Nichols Beating Opens a Complex Conversation on Race and Policing</h3>
-<sub>By Clyde McGrady</sub>
-<p>The five officers charged with the murder of the young Black man are also Black, complicating the anguish and efforts at police reform.  <a href="https://nyti.ms/3XHemqG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Smaller Rate Increase by Federal Reserve Likely as Inflation Cools</h3>
+<sub>By Jeanna Smialek</sub>
+<p>America’s central bank is expected to raise rates by a quarter point on Wednesday. The question now is what comes next.  <a href="https://nyti.ms/3Dp95vK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>California Has More Than 100 Gun Laws. Why Don’t They Stop More Mass Shootings?</h3>
@@ -98,16 +106,10 @@ There have been a lot of concerning developments happening in the world lately. 
 <p>The state is still reeling from back-to-back attacks that left at least 19 people dead. The killings have spurred lawmakers to call for more regulations.  <a href="https://nyti.ms/3WLqsOj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Launched Drone Attack on Iranian Facility, Officials Say</h3>
-<sub>By Ronen Bergman, David E. Sanger and Farnaz Fassihi</sub>
-<p>While the target’s purpose is unclear, the city of Isfahan is a major center of Iranian missile production, research and development.  <a href="https://nyti.ms/3XLd9i1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Chinese Travel Is Set to Return. The Question Is, When?</h3>
-<sub>By Ceylan Yeginsu and Patrick Scott</sub>
-<p>The country has dropped restrictions on overseas journeys for its citizens, but once-popular destinations are still waiting for the flood of vacationers to arrive.  <a href="https://nyti.ms/3kQ1GiH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A Too-Early Look at the Super Bowl Matchup</h3>
+<sub>By Jenny Vrentas</sub>
+<p>The first Super Bowl with two Black quarterbacks. The first set of brothers to vie for a title. The Andy Reid Bowl. A championship game between Kansas City and Philadelphia will be noteworthy.  <a href="https://nyti.ms/3wJGw8s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -122,17 +124,17 @@ There have been a lot of concerning developments happening in the world lately. 
 <p>Five years after winning the Super Bowl, Philadelphia beat San Francisco, 31-7, to claim the N.F.C. championship.  <a href="https://nyti.ms/3JlvrlK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>What We Learned from the N.F.L.’s Conference Championship Games</h3>
-<sub>By Derrik Klassen</sub>
-<p>The Eagles did not need to be flashy to beat the 49ers, and Patrick Mahomes knew when to pick his spots while playing on an injured ankle against Cincinnati.  <a href="https://nyti.ms/3Y5Pbhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Recession Resilient’ Climate Start-Ups Shine in Tech Downturn</h3>
+<sub>By Erin Griffith</sub>
+<p>Tech workers and investors are flocking to start-ups that aim to combat climate change.  <a href="https://nyti.ms/3WVOjuU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Israelis Grieve, Some Palestinians Exult, and Some Fear What’s Next</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Two Palestinians shot a dozen Israelis, seven fatally, over the weekend. In the aftermath, the attackers’ relatives expressed a mixture of pride and dread.  <a href="https://nyti.ms/3XMPMEW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<h3>Gandhi’s Life in Photos, 75 Years After His Assassination</h3>
+<sub>By Alex Travelli and Matej Leskovsek</sub>
+<p>Known as the father of Indian independence, his concept of nonviolent resistance to fight injustice has inspired political movements around the world.  <a href="https://nyti.ms/3kUwj6u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
