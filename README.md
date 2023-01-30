@@ -60,8 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 29, Central Standard Time</p>
 <p>
-It&#39;s been a hectic few weeks in the news! In the US, there are questions around the medical response to the beating of Tyre Nichols and how it connects to race and policing. Meanwhile, some states are arguing their abortion bans on constitutional grounds. In Russia and Ukraine, a battle is taking place for control of villages near the key city of Bakhmut. Kharkiv has regained some stability, but residents are still feeling the effects of the conflict. 
-In sports news, there&#39;s a blossoming rivalry between Kansas City and Cincinnati to look out for in the A.F.C. Championship Game. On the health front, senior housing is becoming increasingly popular with Americans, while private equity companies are now targeting toddler gyms. Elsewhere in the world, Palestinian man was fatally shot amid ongoing violence with Israeli forces. Lastly, Novak Djokovic came full circle at the Australian Open, winning his 22nd major title.</p>
+There have been some really concerning incidents happening in the US lately. There was a video of police officers brutally beating a man, and even though an investigation was launched some of them are still suspended and the outcome is unknown. There have also been mass shootings in California, which has sparked further discussions of gun control regulation laws.
+
+On the international scale, Russia and Ukraine are in talks around the Donbas region in Eastern Ukraine. Israelis and Palestinians are also highly divided in the aftermath of two shootings over the weekend, which caused numberous fatalities on both sides. 
+
+In a more positive light, people may be able to travel abroad out of China soon. There&#39;s also been some innovative housing solutions popping up in the US that&#39;s taking into consideration senior citizens&#39; needs. To cap off, Novak Djokovic won the Australian Open this week amid unusual circumstances due to Covid, while Tom Verlaine passed away at 73; he was a songwriter whose music influenced generations.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Video of Tyre Nichols Beating Raises Questions About Medical Response</h3>
@@ -70,15 +73,33 @@ In sports news, there&#39;s a blossoming rivalry between Kansas City and Cincinn
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tyre Nichols Beating Opens a Complex Conversation on Race and Policing</h3>
-<sub>By Clyde McGrady</sub>
-<p>The five officers charged with the murder of the young Black man are also Black, complicating the anguish and efforts at police reform.  <a href="https://nyti.ms/3XHemqG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<h3>71 Commands in 13 Minutes: Officers Gave Tyre Nichols Impossible Orders</h3>
+<sub>By Robin Stein, Alexander Cardia and Natalie Reneau</sub>
+<p>A Times analysis found that officers gave dozens of contradictory and unachievable orders to Mr. Nichols. The punishment was severe — and eventually fatal.  <a href="https://nyti.ms/3XXSGq6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Volatile Tool Emerges in the Abortion Battle: State Constitutions</h3>
-<sub>By Kate Zernike</sub>
-<p>Many of the legal arguments seeking to overturn abortion bans rely on rights provided by the states, and how they are interpreted by state supreme courts.  <a href="https://nyti.ms/3WLafZs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>California Has More Than 100 Gun Laws. Why Don’t They Stop More Mass Shootings?</h3>
+<sub>By Shawn Hubler and Amy Harmon</sub>
+<p>The state is still reeling from back-to-back attacks that left at least 19 people dead. The killings have spurred lawmakers to call for more regulations.  <a href="https://nyti.ms/3WLqsOj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Chinese Travel Is Set to Return. The Question Is, When?</h3>
+<sub>By Ceylan Yeginsu and Patrick Scott</sub>
+<p>The country has dropped restrictions on overseas journeys for its citizens, but once-popular destinations are still waiting for the flood of vacationers to arrive.  <a href="https://nyti.ms/3kQ1GiH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Israelis Grieve, Some Palestinians Exult, and Some Fear What’s Next</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Two Palestinians shot a dozen Israelis, seven fatally, over the weekend. In the aftermath, the attackers’ relatives expressed a mixture of pride and dread.  <a href="https://nyti.ms/3XMPMEW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Eagles Return to the Super Bowl as the 49ers Break Down</h3>
+<sub>By Emmanuel Morgan</sub>
+<p>Five years after winning it all, Philadelphia beat San Francisco, 31-7, to claim the N.F.C. championship.  <a href="https://nyti.ms/3JlvrlK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -87,28 +108,10 @@ In sports news, there&#39;s a blossoming rivalry between Kansas City and Cincinn
 <p>The area is a flash point in an offensive that Moscow views as crucial for its goal of seizing the Donbas region of eastern Ukraine.  <a href="https://nyti.ms/3JrUTWH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kharkiv Got Some Breathing Space, but Still Doesn’t Breathe Easily</h3>
-<sub>By Michael Schwirtz and Lynsey Addario</sub>
-<p>For the past four months, residents have slowly trickled back into the reclaimed city. But signs of the conflict — and the chance that it might return — are everywhere.  <a href="https://nyti.ms/3Rc3iiS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>What to Watch For in the A.F.C. Championship Game</h3>
-<sub>By Kris Rhim</sub>
-<p>A blossoming rivalry between Kansas City and Cincinnati could add some spice on and off the field.  <a href="https://nyti.ms/3JntaGP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Senior Housing That Seniors Actually Like</h3>
 <sub>By Paula Span</sub>
 <p>“Granny flats” are popping up in backyards across the country, affording Americans a new housing option. Some communities are not happy about it.  <a href="https://nyti.ms/3wBv66L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Palestinian Man Fatally Shot as Violence Continues With Israeli Forces</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>Tensions and violence have gripped the Israeli-occupied West Bank and Jerusalem for days after an Israeli military raid on Thursday killed 10 people.  <a href="https://nyti.ms/3XJayoQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -129,11 +132,11 @@ In sports news, there&#39;s a blossoming rivalry between Kansas City and Cincinn
 <p>Deported a year ago and unable to play in 2022’s first Grand Slam tournament, Djokovic deeply felt this major title, his 22nd, calling it “a huge relief.”  <a href="https://nyti.ms/3wDwaal"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jillian Rayfield</sub>
-<p>The sudden death of America’s strongest woman. Also in this edition: the chaos of remote job cuts, and a book’s rosier view of Roald Dahl.  <a href="https://nyti.ms/3R8aMUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Tom Verlaine’s 15 Essential Songs</h3>
+<sub>By Jon Pareles</sub>
+<p>From Television through his solo career, the songwriter created enigmatic tidings and cat’s-cradle guitar structures. He died on Saturday at 73.  <a href="https://nyti.ms/3HhmuqT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
