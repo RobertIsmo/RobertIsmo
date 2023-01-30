@@ -60,16 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 29, Central Standard Time</p>
 <p>
-There have been some really concerning incidents happening in the US lately. There was a video of police officers brutally beating a man, and even though an investigation was launched some of them are still suspended and the outcome is unknown. There have also been mass shootings in California, which has sparked further discussions of gun control regulation laws.
-
-On the international scale, Russia and Ukraine are in talks around the Donbas region in Eastern Ukraine. Israelis and Palestinians are also highly divided in the aftermath of two shootings over the weekend, which caused numberous fatalities on both sides. 
-
-In a more positive light, people may be able to travel abroad out of China soon. There&#39;s also been some innovative housing solutions popping up in the US that&#39;s taking into consideration senior citizens&#39; needs. To cap off, Novak Djokovic won the Australian Open this week amid unusual circumstances due to Covid, while Tom Verlaine passed away at 73; he was a songwriter whose music influenced generations.</p>
+Right now there is a lot happening in the world. In the US, there is an investigation into a &#39;Scorpion Unit&#39; in Memphis that was previously praised by city leaders for fighting crime, but may have been flawed from the start. There is also a case involving Tyre Nichols where officers gave him 71 commands in 13 minutes which proved to be impossible orders and major questions arise on whether his death was preventable and the consequences of his beating. In response to the influx of gun violence in California, lawmakers are calling for more regulations. In international news, Israel launched a drone attack on an Iranian facility and Russians and Ukrainians are fighting for control of villages near a key city. Additionally, there have been developments in senior housing and travel with granny flats popping up across countries and China dropping restrictions on overseas journeys. Finally, there is discussion on the health dangers of gas-burning ranges as industry scientist Julie Goodman&#39;s toxicology work raises questions about the science behind them.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Video of Tyre Nichols Beating Raises Questions About Medical Response</h3>
-<sub>By Nicholas Bogel-Burroughs, Gina Kolata and Mark Walker</sub>
-<p>Two emergency medical technicians who first evaluated Mr. Nichols have been suspended until an investigation is complete.  <a href="https://nyti.ms/3X1Mwo9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Scorpion Unit Emerged as Memphis Pursued Get-Tough Strategy</h3>
+<sub>By Jesus Jiménez, Mark Walker, Steve Eder, Joseph Goldstein and Mike Baker</sub>
+<p>City leaders had praised the new group as a key strategy for fighting crime. Now they are trying to assess whether it was flawed from the start.  <a href="https://nyti.ms/3XOvv1C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -79,21 +75,33 @@ In a more positive light, people may be able to travel abroad out of China soon.
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Video of Tyre Nichols Beating Raises Questions About Medical Response</h3>
+<sub>By Nicholas Bogel-Burroughs, Gina Kolata and Mark Walker</sub>
+<p>Two emergency medical technicians who first evaluated Mr. Nichols have been suspended until an investigation is complete.  <a href="https://nyti.ms/3X1Mwo9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tyre Nichols Beating Opens a Complex Conversation on Race and Policing</h3>
+<sub>By Clyde McGrady</sub>
+<p>The five officers charged with the murder of the young Black man are also Black, complicating the anguish and efforts at police reform.  <a href="https://nyti.ms/3XHemqG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>California Has More Than 100 Gun Laws. Why Don’t They Stop More Mass Shootings?</h3>
 <sub>By Shawn Hubler and Amy Harmon</sub>
 <p>The state is still reeling from back-to-back attacks that left at least 19 people dead. The killings have spurred lawmakers to call for more regulations.  <a href="https://nyti.ms/3WLqsOj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Launched Drone Attack on Iranian Facility, Officials Say</h3>
+<sub>By Ronen Bergman, David E. Sanger and Farnaz Fassihi</sub>
+<p>While the target’s purpose is unclear, the city of Isfahan is a major center of Iranian missile production, research and development.  <a href="https://nyti.ms/3XLd9i1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
 <h3>Chinese Travel Is Set to Return. The Question Is, When?</h3>
 <sub>By Ceylan Yeginsu and Patrick Scott</sub>
 <p>The country has dropped restrictions on overseas journeys for its citizens, but once-popular destinations are still waiting for the flood of vacationers to arrive.  <a href="https://nyti.ms/3kQ1GiH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Israelis Grieve, Some Palestinians Exult, and Some Fear What’s Next</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Two Palestinians shot a dozen Israelis, seven fatally, over the weekend. In the aftermath, the attackers’ relatives expressed a mixture of pride and dread.  <a href="https://nyti.ms/3XMPMEW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -108,34 +116,22 @@ In a more positive light, people may be able to travel abroad out of China soon.
 <p>The area is a flash point in an offensive that Moscow views as crucial for its goal of seizing the Donbas region of eastern Ukraine.  <a href="https://nyti.ms/3JrUTWH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Israelis Grieve, Some Palestinians Exult, and Some Fear What’s Next</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Two Palestinians shot a dozen Israelis, seven fatally, over the weekend. In the aftermath, the attackers’ relatives expressed a mixture of pride and dread.  <a href="https://nyti.ms/3XMPMEW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Senior Housing That Seniors Actually Like</h3>
 <sub>By Paula Span</sub>
 <p>“Granny flats” are popping up in backyards across the country, affording Americans a new housing option. Some communities are not happy about it.  <a href="https://nyti.ms/3wBv66L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>When Private Equity Came for the Toddler Gyms</h3>
-<sub>By Lydia DePillis and Michael Corkery</sub>
-<p>The same playbook that has notched high returns acquiring things like foreclosed homes and highway rest stops is being tested by a family-oriented franchise.  <a href="https://nyti.ms/3RdtDgw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>In the Fight Over Gas Stoves, Meet the Industry’s Go-To Scientist</h3>
 <sub>By Hiroko Tabuchi</sub>
 <p>Longstanding research shows the health dangers of gas-burning ranges. Utilities are turning to Julie Goodman, a toxicologist with a firm whose work raises questions about the science.  <a href="https://nyti.ms/3XLzeNH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Novak Djokovic Comes Full Circle at the Australian Open</h3>
-<sub>By Christopher Clarey</sub>
-<p>Deported a year ago and unable to play in 2022’s first Grand Slam tournament, Djokovic deeply felt this major title, his 22nd, calling it “a huge relief.”  <a href="https://nyti.ms/3wDwaal"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Tom Verlaine’s 15 Essential Songs</h3>
-<sub>By Jon Pareles</sub>
-<p>From Television through his solo career, the songwriter created enigmatic tidings and cat’s-cradle guitar structures. He died on Saturday at 73.  <a href="https://nyti.ms/3HhmuqT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
