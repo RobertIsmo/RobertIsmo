@@ -60,25 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 30, Central Standard Time</p>
 <p>
-There has been a lot of news related to international relations and geopolitics this week. Russia has a group of convict fighters who are returning home with military training and possible trauma from the battlefield in Ukraine. One of the former British prime ministers has accused Vladimir Putin of threatening to fire a missile at him, though the Kremlin is calling it a lie. The US Secretary of State is going to meet with Israeli Prime Minister Netanyahu at a turbulent moment for Israel, where there have been violence and mass protests. The Israeli government recently launched a drone attack on an Iranian facility in Isfahan, a major center of missile production for Iran. There has also been some news about police departments in the US; there is one police unit in Memphis that has earned criticism after implementing a get-tough strategy. And, the Federal Reserve is likely to have a smaller rate increase this Wednesday due to cooling inflation, while the used-car boom due to the pandemic is starting to slow down. Sports fans may be interested to know that there will be two Black quarterbacks facing off against each other in the Super Bowl, and we just had the NF Conference Championship games, where Philadelphia won against San Francisco and Kansas City beat Cincinnati. To add insult to injury for New Yorkers, the Empire State Building was lit up green for Philadelphia as they advanced towards the Super Bowl. Not quite sure how Giants fans felt about that!</p>
+Several things are happening in the world right now. In the US, a murder case involving five officers of the Memphis police force has escalated, with another officer being suspended in the investigation. The drama then shifts to international news, as the Secretary of State will meet Israeli Prime Minister Netanyahu at a turbulent moment for Israel; Israel subsequently conducted a drone attack on an Iranian facility, and two men attempted to escape from Russia via boat in hopes of seeking asylum in the US. On top of this, a pandemic used-car boom is coming to an end and the Federal Reserve is likely to raise interest rates in light of cooling inflation. Finally, Hockey Hall of Famer Bobby Hull has died at 84.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Wall Street Is Counting on a Debt Limit Trick That Could Entail Trouble</h3>
+<sub>By Jeanna Smialek, Jim Tankersley and Joe Rennison</sub>
+<p>If the debt limit is breached, investors expect Treasury to put bond payments first. It’d be politically and practically fraught.  <a href="https://nyti.ms/3WJzDP7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>To Understand Why Republicans Are Divided on the Debt Ceiling, Consider Dr. Seuss</h3>
+<sub>By Nate Cohn</sub>
+<p>The Tea Party is over. Cultural issues seem to animate G.O.P. voters.  <a href="https://nyti.ms/3wDdcAv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Manhattan Prosecutors Will Begin Presenting Trump Case to Grand Jury</h3>
+<sub>By William K. Rashbaum, Ben Protess and Jonah E. Bromwich</sub>
+<p>The Manhattan district attorney’s decision represents a dramatic escalation of the inquiry, and sets the case on a path toward criminal charges against the former president.  <a href="https://nyti.ms/40i5nhA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>6th Memphis Police Officer Suspended in Tyre Nichols Death</h3>
+<sub>By Jessica Jaglois</sub>
+<p>It was not immediately clear what role the officer, Preston Hemphill, had played in the incident that led to murder charges against five fellow officers fired from the police force.  <a href="https://nyti.ms/3XMFyo8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>71 Commands in 13 Minutes: Officers Gave Tyre Nichols Impossible Orders</h3>
+<sub>By Robin Stein, Alexander Cardia and Natalie Reneau</sub>
+<p>A Times analysis found that officers gave dozens of contradictory and unachievable orders to Mr. Nichols. The punishment was severe — and eventually fatal.  <a href="https://nyti.ms/3XXSGq6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Very Dangerous People’: Russia’s Convict Fighters Are Heading Home</h3>
 <sub>By Anatoly Kurmanaev, Alina Lobzina and Ekaterina Bodyagina</sub>
 <p>Tens of thousands of inmates have joined a mercenary group fighting with the Kremlin’s decimated forces in Ukraine. Some of them are returning to civilian life with military training and, in many cases, battlefield traumas.  <a href="https://nyti.ms/3RdnyAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Boris Johnson says that Vladimir Putin threatened to fire a missile at him. The Kremlin calls it ‘a lie.’</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>The former British prime minister said the Russian leader made the remark during a phone call in the weeks before Putin’s forces invaded Ukraine.  <a href="https://nyti.ms/3Ych73f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Matt Gaetz, Political Arsonist, Has New Powers. What Will He Do With Them?</h3>
-<sub>By Robert Draper</sub>
-<p>“I am not some ‘Lord of the Flies’ nihilist,” said the far-right congressman and chief tormentor of Speaker Kevin McCarthy.  <a href="https://nyti.ms/3HF1POQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Blinken to Meet Netanyahu at Turbulent Moment for Israel</h3>
@@ -93,22 +111,10 @@ There has been a lot of news related to international relations and geopolitics 
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Scorpion Unit Emerged as Memphis Police Pursued Get-Tough Strategy</h3>
-<sub>By Jesus Jiménez, Mark Walker, Steve Eder, Joseph Goldstein and Mike Baker</sub>
-<p>City leaders had praised the new  group as a key strategy for fighting crime. Now they are trying to assess whether it was flawed from the start.  <a href="https://nyti.ms/3XOvv1C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Small Boat, a Vast Sea and a Desperate Escape From Russia</h3>
+<sub>By Mike Baker</sub>
+<p>In September, two men set out from Russia, hoping a boat could carry them to asylum on U.S. soil. Their quest for freedom did not go as planned.  <a href="https://nyti.ms/3Rf3v4U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>71 Commands in 13 Minutes: Officers Gave Tyre Nichols Impossible Orders</h3>
-<sub>By Robin Stein, Alexander Cardia and Natalie Reneau</sub>
-<p>A Times analysis found that officers gave dozens of contradictory and unachievable orders to Mr. Nichols. The punishment was severe — and eventually fatal.  <a href="https://nyti.ms/3XXSGq6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Smaller Rate Increase by Federal Reserve Likely as Inflation Cools</h3>
-<sub>By Jeanna Smialek</sub>
-<p>America’s central bank is expected to raise rates by a quarter point on Wednesday. The question now is what comes next.  <a href="https://nyti.ms/3Dp95vK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Pandemic Used-Car Boom Is Coming to an Abrupt End</h3>
@@ -116,22 +122,16 @@ There has been a lot of news related to international relations and geopolitics 
 <p>Dealerships are seeing sales and prices drop as consumers tighten their belts, putting financial pressure on companies like Carvana that grew fast in recent years.  <a href="https://nyti.ms/3wGJScy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Too-Early Look at the Super Bowl Matchup</h3>
-<sub>By Jenny Vrentas</sub>
-<p>The first Super Bowl with two Black quarterbacks. The first set of brothers to vie for a title. The Andy Reid Bowl. A championship game between Kansas City and Philadelphia will be noteworthy.  <a href="https://nyti.ms/3wJGw8s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Smaller Rate Increase by Federal Reserve Likely as Inflation Cools</h3>
+<sub>By Jeanna Smialek</sub>
+<p>America’s central bank is expected to raise rates by a quarter point on Wednesday. The question now is what comes next.  <a href="https://nyti.ms/3Dp95vK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>What We Learned from the N.F.L.’s Conference Championship Games</h3>
-<sub>By Derrik Klassen</sub>
-<p>The Eagles did not need to be flashy to beat the 49ers, and Patrick Mahomes knew when to pick his spots while playing on an injured ankle against Cincinnati.  <a href="https://nyti.ms/3Y5Pbhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Empire State Building Lit Up in Eagles Green. Giants Fans Weren’t Thrilled.</h3>
-<sub>By Daniel Victor</sub>
-<p>One week after Philadelphia knocked New York out of the playoffs, the building paid tribute to the Giants’ rivals as they advanced to the Super Bowl. Many were in no mood to see it.  <a href="https://nyti.ms/3HGgCZD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Bobby Hull, Hockey Hall of Famer, Is Dead at 84</h3>
+<sub>By Richard Sandomir</sub>
+<p>The third player in N.H.L. history to score at least 50 goals in a season, he spent 15 seasons with the Chicago Blackhawks.  <a href="https://nyti.ms/3wDRwob"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
