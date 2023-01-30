@@ -60,14 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 30, Central Standard Time</p>
 <p>
-There&#39;s a lot of news happening around the world right now. To start, Russian convicts are returning to civilian life with military training after joining a mercenary group fighting in Ukraine. In Israel, there was a drone attack on an Iranian facility in Isfahan, which is known for its missile production and R&amp;D. Meanwhile, in Memphis, TN a police unit was established to fight crime but is now being assessed for any flaws despite approval from city leaders. Also, the Federal Reserve is predicted to raise interest rates by a quarter point this Wednesday.
-
-In California, lawmakers are calling for more gun regulations after two mass shootings left at least 19 people dead. On the sports front, there&#39;s going to be an unprecedented Super Bowl between Kansas City and Philadelphia with two Black quarterbacks as well as two brothers opposing one another. People are also investing in climate change start-ups which seem to be recession resilient in the midst of a tech downturn. Lastly, world leaders are reflecting on Mohandas Gandhi&#39;s legacy 75 years after his assassination due to his history of non-violent resistance which has inspired many political movements.</p>
+There has been a lot of news related to international relations and geopolitics this week. Russia has a group of convict fighters who are returning home with military training and possible trauma from the battlefield in Ukraine. One of the former British prime ministers has accused Vladimir Putin of threatening to fire a missile at him, though the Kremlin is calling it a lie. The US Secretary of State is going to meet with Israeli Prime Minister Netanyahu at a turbulent moment for Israel, where there have been violence and mass protests. The Israeli government recently launched a drone attack on an Iranian facility in Isfahan, a major center of missile production for Iran. There has also been some news about police departments in the US; there is one police unit in Memphis that has earned criticism after implementing a get-tough strategy. And, the Federal Reserve is likely to have a smaller rate increase this Wednesday due to cooling inflation, while the used-car boom due to the pandemic is starting to slow down. Sports fans may be interested to know that there will be two Black quarterbacks facing off against each other in the Super Bowl, and we just had the NF Conference Championship games, where Philadelphia won against San Francisco and Kansas City beat Cincinnati. To add insult to injury for New Yorkers, the Empire State Building was lit up green for Philadelphia as they advanced towards the Super Bowl. Not quite sure how Giants fans felt about that!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Very Dangerous People’: Russia’s Convict Fighters Are Heading Home</h3>
 <sub>By Anatoly Kurmanaev, Alina Lobzina and Ekaterina Bodyagina</sub>
 <p>Tens of thousands of inmates have joined a mercenary group fighting with the Kremlin’s decimated forces in Ukraine. Some of them are returning to civilian life with military training and, in many cases, battlefield traumas.  <a href="https://nyti.ms/3RdnyAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Boris Johnson says that Vladimir Putin threatened to fire a missile at him. The Kremlin calls it ‘a lie.’</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The former British prime minister said the Russian leader made the remark during a phone call in the weeks before Putin’s forces invaded Ukraine.  <a href="https://nyti.ms/3Ych73f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -77,15 +81,21 @@ In California, lawmakers are calling for more gun regulations after two mass sho
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Blinken to Meet Netanyahu at Turbulent Moment for Israel</h3>
+<sub>By Michael Crowley</sub>
+<p>The secretary of state will sit down with the Israeli prime minister as violence and mass protests rattle his country.  <a href="https://nyti.ms/3wDe8ov"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Launched Drone Attack on Iranian Facility, Officials Say</h3>
 <sub>By Ronen Bergman, David E. Sanger and Farnaz Fassihi</sub>
 <p>While the target’s purpose is unclear, the city of Isfahan is a major center of Iranian missile production, research and development.  <a href="https://nyti.ms/3XLd9i1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Scorpion Unit Emerged as Memphis Pursued Get-Tough Strategy</h3>
+<h3>Scorpion Unit Emerged as Memphis Police Pursued Get-Tough Strategy</h3>
 <sub>By Jesus Jiménez, Mark Walker, Steve Eder, Joseph Goldstein and Mike Baker</sub>
-<p>City leaders had praised the new group as a key strategy for fighting crime. Now they are trying to assess whether it was flawed from the start.  <a href="https://nyti.ms/3XOvv1C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>City leaders had praised the new  group as a key strategy for fighting crime. Now they are trying to assess whether it was flawed from the start.  <a href="https://nyti.ms/3XOvv1C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -100,11 +110,11 @@ In California, lawmakers are calling for more gun regulations after two mass sho
 <p>America’s central bank is expected to raise rates by a quarter point on Wednesday. The question now is what comes next.  <a href="https://nyti.ms/3Dp95vK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Has More Than 100 Gun Laws. Why Don’t They Stop More Mass Shootings?</h3>
-<sub>By Shawn Hubler and Amy Harmon</sub>
-<p>The state is still reeling from back-to-back attacks that left at least 19 people dead. The killings have spurred lawmakers to call for more regulations.  <a href="https://nyti.ms/3WLqsOj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Pandemic Used-Car Boom Is Coming to an Abrupt End</h3>
+<sub>By Neal E. Boudette</sub>
+<p>Dealerships are seeing sales and prices drop as consumers tighten their belts, putting financial pressure on companies like Carvana that grew fast in recent years.  <a href="https://nyti.ms/3wGJScy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>A Too-Early Look at the Super Bowl Matchup</h3>
@@ -113,27 +123,15 @@ In California, lawmakers are calling for more gun regulations after two mass sho
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How Patrick Mahomes Led Kansas City Back to the Super Bowl</h3>
-<sub>By Ken Belson</sub>
-<p>Cincinnati had beaten Kansas City the previous three matchups, all in comebacks. Mahomes made sure it wouldn’t happen again.  <a href="https://nyti.ms/3XTWdpW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What We Learned from the N.F.L.’s Conference Championship Games</h3>
+<sub>By Derrik Klassen</sub>
+<p>The Eagles did not need to be flashy to beat the 49ers, and Patrick Mahomes knew when to pick his spots while playing on an injured ankle against Cincinnati.  <a href="https://nyti.ms/3Y5Pbhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How the Eagles’ Defense Took Them Past the Hobbled 49ers</h3>
-<sub>By Emmanuel Morgan</sub>
-<p>Five years after winning the Super Bowl, Philadelphia beat San Francisco, 31-7, to claim the N.F.C. championship.  <a href="https://nyti.ms/3JlvrlK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Recession Resilient’ Climate Start-Ups Shine in Tech Downturn</h3>
-<sub>By Erin Griffith</sub>
-<p>Tech workers and investors are flocking to start-ups that aim to combat climate change.  <a href="https://nyti.ms/3WVOjuU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gandhi’s Life in Photos, 75 Years After His Assassination</h3>
-<sub>By Alex Travelli and Matej Leskovsek</sub>
-<p>Known as the father of Indian independence, his concept of nonviolent resistance to fight injustice has inspired political movements around the world.  <a href="https://nyti.ms/3kUwj6u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Empire State Building Lit Up in Eagles Green. Giants Fans Weren’t Thrilled.</h3>
+<sub>By Daniel Victor</sub>
+<p>One week after Philadelphia knocked New York out of the playoffs, the building paid tribute to the Giants’ rivals as they advanced to the Super Bowl. Many were in no mood to see it.  <a href="https://nyti.ms/3HGgCZD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
