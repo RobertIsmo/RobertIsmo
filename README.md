@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 31, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. The US is in a debt limit fight with the Republicans not willing to say what spending cuts they want. Vice President Biden is demanding more details on budget cuts from GOP Leader Kevin McCarthy and Senator Joe Manchin is trying to broker a compromise to raise the debt ceiling. Meanwhile, Russia has been sidestepping Western punishments by getting help from their allies, and Iran and Russia are linking their banking systems. On top of that, a study revealed that black Americans are far more likely to be audited by the IRS, leading to discussions around the agency&#39;s funding. Additionally, the high cost of living in NYC has caused many black families to leave the city and Representative George Santos is facing multiple investigations due to falsifying his résumé. In better news, scientists are studying navy dolphins to better understand aging and Biden is offering millions for a rail tunnel project in NYC as a part of his infrastructure bill. Finally, there&#39;s been an interesting discovery of 7,000 year old bog bodies with an often violent final ritual.</p>
+There is a lot of political turmoil in the US right now. The Republicans and Democrats are in a debt stand-off, with the Republicans refusing to say what specific spending cuts they want made. And now Joe Biden has gone one step further and is demanding details on budget cuts from Republican leader McCarthy. On top of this, West Virginia Democrat Joe Manchin is trying to broker a compromise to raise the debt ceiling.
+
+Outside politics, it&#39;s not looking much better. In Ukraine, international tensions have resulted in more dangerous conditions for people who work in the sex trade, and Black Americans are more likely to face tax audits from the IRS due to discrimination. There is also a trend of Black families leaving New York City due to rising living costs.
+
+On a brighter note, there are some fascinating scientific breakthroughs: like how dolphins that worked as mine-hunters in their youth are at the forefront of marine mammal medicine, and how a new survey reveals an often violent final ritual done by ancient bog bodies.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Debt Limit Fight, Republicans Won’t Say What Spending Cuts They Want</h3>
@@ -80,22 +84,16 @@ Right now, there&#39;s a lot going on in the world. The US is in a debt limit fi
 <p>The centrist West Virginia Democrat, who faces re-election in 2024, has made it clear he believes he can help broker a compromise to raise the debt ceiling.  <a href="https://nyti.ms/3DtWrfb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Russia Sidesteps Western Punishments, With Help From Friends</h3>
-<sub>By Ana Swanson</sub>
-<p>A surge in trade by Russia’s neighbors and allies hints at one reason its economy remains so resilient after sweeping sanctions.  <a href="https://nyti.ms/3YcaCx8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Says Russia Fails to Comply With Nuclear Arms Control Treaty</h3>
+<sub>By Edward Wong</sub>
+<p>The United States says Russia is not allowing American inspectors access to its arsenal to ensure compliance with the New START agreement, which the two nations renewed in 2021.  <a href="https://nyti.ms/3RluhIU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Risky Trade in Ukraine Grows Riskier Amid the War</h3>
 <sub>By Maria Varenikova and Lynsey Addario</sub>
 <p>Russia’s invasion has disrupted the social services that help reduce harm to the women and men who sell sex, threatening public health.  <a href="https://nyti.ms/3WYsY40"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Iran and Russia move toward linking their banking systems, helping both withstand Western sanctions.</h3>
-<sub>By Cora Engelbrecht</sub>
-<p>President Vladimir V. Putin of Russia had long been cautious  about deepening ties to Iran, but his calculus has changed during the course of the war.  <a href="https://nyti.ms/3kWg0q2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,10 +114,22 @@ Right now, there&#39;s a lot going on in the world. The US is in a debt limit fi
 <p>The decision was the first concession by Representative George Santos, Republican of New York, who has admitted to faking parts of his résumé and is facing multiple investigations.  <a href="https://nyti.ms/3YdKAKe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>F.B.I. Searched Biden’s Former Think Tank Office in November</h3>
+<sub>By Glenn Thrush</sub>
+<p>It is not clear if the search, which was done with the cooperation and knowledge of Mr. Biden’s legal team, uncovered any additional classified files.  <a href="https://nyti.ms/3XQde4j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>The Navy’s Dolphins Have a Few Things to Tell Us About Aging</h3>
 <sub>By Emily Anthes and Gabriella Angotti-Jones</sub>
 <p>In her youth, Blue was a standout mine-hunter for the U.S. military. She and her colleagues are now at the vanguard of geriatric marine mammal medicine.  <a href="https://nyti.ms/407TE4S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At the Supreme Court, Ethics Questions Over a Spouse’s Business Ties</h3>
+<sub>By Steve Eder</sub>
+<p>The chief justice’s wife, Jane Sullivan Roberts, has made millions in her career recruiting lawyers to prominent law firms, some of which have business before the court. Now, a letter sent to Congress claims that may present a conflict of interest.  <a href="https://nyti.ms/3jej1BD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -127,12 +137,6 @@ Right now, there&#39;s a lot going on in the world. The US is in a debt limit fi
 <sub>By Franz Lidz</sub>
 <p>The first comprehensive survey of a 7,000-year-old burial tradition reveals an often violent final ritual.  <a href="https://nyti.ms/3Dq9fmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Offers Millions for New York Rail Tunnel, Courtesy of His Infrastructure Bill</h3>
-<sub>By Zolan Kanno-Youngs and Patrick McGeehan</sub>
-<p>President Biden’s visit to New York City comes as Republicans have accused him of supporting reckless spending that fueled inflation.  <a href="https://nyti.ms/3YgqD5v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
