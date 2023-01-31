@@ -60,10 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 30, Central Standard Time</p>
 <p>
-There has been a lot going on in the world recently. On Wall Street, investors are worried about what may happen if the debt limit is breached. In politics, the Republican party is divided over issues related to the debt ceiling and the Tea Party movement is on its way out. There&#39;s been an escalation of a criminal investigation against former president Donald Trump by prosecutors in Manhattan, and criminal charges could come soon. Former Congresswoman Gabrielle Giffords is making progress advocating for gun safety laws, and six Memphis police officers have been suspended in connection with Tyre Nichols&#39; death as more details come out about commands that Nichols was given before his death. In Russia, prison inmates are being released to fight in a war in Ukraine, and two men tried to escape to asylum in the U.S. by boat recently. There has also been a suicide bombing in Pakistan at a mosque that killed dozens of people. On a more positive note, you don&#39;t have to be complicit in today&#39;s culture of destruction if you are mindful of how you live your life according to Robin Wall Kimmerer&#39;s book &#39;Braiding Sweetgrass&#39;. Lastly, there is an opinion piece looking at how Donald Trump isn&#39;t the only one to blame for the Capitol Hill riot and how it can be used as an example to protect our democracy from future attacks.</p>
+There is a lot going on in the world right now. Police violence in the US has come into sharp focus after videos contradicted initial reports regarding the arrest of Tyre Nichols. Two Memphis police officers were suspended in response. On the international stage, Secretary of State Blinken recently met with Israeli Prime Minister Netanyahu to address deepening rifts between their countries. Meanwhile, the US government is planning to end public health emergency standards due to Covid in May, and Wall Street is figuring out logical solutions to looming debt limit issues. To top it off, prosecutors in NYC have started presenting their case against former President Trump to a grand jury, while Gabrielle Giffords — a Congresswoman severely injured at a mass shooting — continues to lobby for gun safety legislation. Russia&#39;s mercenary army is being composed from prisoners who are getting sent back home with traumatic experiences and training from war. There were also two men who tried to escape Russia by boat in September, and the White House is operating with stringent protocols for handling classified documents and everyday records. Lastly, there&#39;s a lot of talk about detoxing but not necessarily a lot of truth behind it.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Initial Police Report on Tyre Nichols Arrest Is Contradicted by Videos</h3>
+<sub>By Jessica Jaglois, Nicholas Bogel-Burroughs and Mitch Smith</sub>
+<p>The police report was the latest instance in which video evidence offered a starkly different account of police violence than what officers had reported themselves.  <a href="https://nyti.ms/3Jm5PVU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Two More Memphis Police Officers Are Suspended in Tyre Nichols’s Death</h3>
+<sub>By Jessica Jaglois and Rick Rojas</sub>
+<p>One officer, Preston Hemphill, used a stun gun that hit Mr. Nichols in the torso, according to a police report on the incident.  <a href="https://nyti.ms/3XMFyo8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Blinken Meets Netanyahu at Turbulent Moment for Israel</h3>
+<sub>By Michael Crowley</sub>
+<p>The secretary of state and the Israeli leader had a ‘candid’ conversation amid deepening rifts over the Palestinians, Ukraine and a rightward shift by Benjamin Netanyahu’s government.  <a href="https://nyti.ms/3wDe8ov"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Plans to End Public Health Emergency for Covid in May</h3>
+<sub>By Sharon LaFraniere and Noah Weiland</sub>
+<p>The end of the emergency will bring about a complex set of policy changes, and it signals a new chapter in the government’s pandemic response.  <a href="https://nyti.ms/3Jsm8jZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wall Street Is Counting on a Debt Limit Trick That Could Entail Trouble</h3>
+<h3>Wall St. Is Counting on a Debt Limit Trick That Could Entail Trouble</h3>
 <sub>By Jeanna Smialek, Jim Tankersley and Joe Rennison</sub>
 <p>If the debt limit is breached, investors expect Treasury to put bond payments first. It’d be politically and practically fraught.  <a href="https://nyti.ms/3WJzDP7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
@@ -75,8 +99,8 @@ There has been a lot going on in the world recently. On Wall Street, investors a
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Manhattan Prosecutors Will Begin Presenting Trump Case to Grand Jury</h3>
-<sub>By William K. Rashbaum, Ben Protess and Jonah E. Bromwich</sub>
+<h3>Manhattan Prosecutors Begin Presenting Trump Case to Grand Jury</h3>
+<sub>By William K. Rashbaum, Ben Protess, Jonah E. Bromwich and Hurubie Meko</sub>
 <p>The Manhattan district attorney’s decision represents a dramatic escalation of the inquiry, and potentially sets the case on a path toward criminal charges against the former president.  <a href="https://nyti.ms/40i5nhA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
@@ -85,18 +109,6 @@ There has been a lot going on in the world recently. On Wall Street, investors a
 <sub>By Sheryl Gay Stolberg</sub>
 <p>A 2011 mass shooting left Gabrielle Giffords, then a Democratic congresswoman, partly paralyzed and unable to speak fluently. She has since built a powerful advocacy group.  <a href="https://nyti.ms/3Hiykkv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>6th Memphis Police Officer Suspended in Tyre Nichols Death</h3>
-<sub>By Jessica Jaglois</sub>
-<p>The officer, Preston Hemphill, deployed a Taser that hit Mr. Nichols in the torso, according to a police report of the incident.  <a href="https://nyti.ms/3XMFyo8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>71 Commands in 13 Minutes: Officers Gave Tyre Nichols Impossible Orders</h3>
-<sub>By Robin Stein, Alexander Cardia and Natalie Reneau</sub>
-<p>A Times analysis found that officers gave dozens of contradictory and unachievable orders to Mr. Nichols. The punishment was severe — and eventually fatal.  <a href="https://nyti.ms/3XXSGq6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Freed Prisoners to Fight Its War. Here’s How Some Fared.</h3>
@@ -110,28 +122,16 @@ There has been a lot going on in the world recently. On Wall Street, investors a
 <p>In September, two men set out from Russia, hoping a boat could carry them to asylum on U.S. soil. Their quest for freedom did not go as planned.  <a href="https://nyti.ms/3Rf3v4U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Suicide Bombing Tears Through Pakistan Mosque, Killing Dozens</h3>
-<sub>By Salman Masood</sub>
-<p>The country’s worst attack in months struck the northwest, where the police and military have been targeted, especially in areas straddling the border with Afghanistan.  <a href="https://nyti.ms/3WMl5OH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Burn Bags and Tracking Numbers: How the White House Handles Classified Files</h3>
+<sub>By Michael D. Shear</sub>
+<p>Officials who have worked with Democratic and Republican presidents describe an elaborate system for classified documents but a more casual one for everyday records.  <a href="https://nyti.ms/3WR1MEa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>The Sneaky Allure of a Detox</h3>
 <sub>By Dani Blum</sub>
 <p>A cleanse might make you feel better, but not for the reasons you may think.  <a href="https://nyti.ms/3XSZKEL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>You Don’t Have to Be Complicit in Our Culture of Destruction</h3>
-<sub>By David Marchese</sub>
-<p>Robin Wall Kimmerer, author of “Braiding Sweetgrass,” argues for a new way of living.  <a href="https://nyti.ms/3wFimfq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Donald Trump Isn’t the Only One to Blame for the Capitol Riot. I’d Know.</h3>
-<sub>By James Sasso</sub>
-<p>Only by understanding how the rioters lost faith in government can we figure out how to protect our democracy from future attacks.  <a href="https://nyti.ms/3Dr1Fs5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
