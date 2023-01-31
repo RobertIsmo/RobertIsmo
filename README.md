@@ -60,31 +60,55 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 31, Central Standard Time</p>
 <p>
-There are a lot of things going on in the world right now. In the US, there&#39;s been a lot of controversy surrounding the police and their use of force. There were two police officers who were suspended in connection with the death of Tyre Nichols, and his parents were invited to attend the State of the Union address. On a global scale, there is a conflict brewing between Israel and Palestine, with Secretary of State Antony Blinken currently visiting the region. The IMF has upgraded its economic outlook as inflation eases, and meanwhile Ukraine is asking for help in arming itself against an expected Russian offensive. Italy is seeing a shrinking population as birthrates decline while Hong Kong is facing a dispute over whether to prioritize golf courses or public housing developments. Finally, US President Biden has implemented an elaborate system for handling classified files but more officially records are more casually managed. As for sports news, Philadelphia fans are eagerly waiting the outcome of their Eagles meeting Kansas City in the Super Bowl. And on the arts side of things, fans are looking to emulate their favorite artists by dressing up like them - known as &quot;becoming their avatars.&quot;</p>
+There is a lot of tension in the world right now. In Ukraine, there is an ongoing war that is disrupting social services and impacting public health. In the Middle East, US Secretary of State Blinken is visiting Israel and Palestine due to a recent rise in violence. Over in Italy, its population is swiftly declining due to a birthrate slump. Economically speaking, Russia is side-stepping western punishments through help from its allies, Europe’s economy is edging higher and the IMF is upgrading its global outlook as inflation decreases. Finally here in the US, President Biden plans to end the public health emergency for COVID-19 next month and Tyre Nichols&#39; parents will be attending the State of the Union address.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Initial Police Report on Tyre Nichols Arrest Is Contradicted by Videos</h3>
-<sub>By Jessica Jaglois, Nicholas Bogel-Burroughs and Mitch Smith</sub>
-<p>The police report was the latest instance in which video evidence offered a starkly different account of police violence than what officers had reported themselves.  <a href="https://nyti.ms/3Jm5PVU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Russia Sidesteps Western Punishments, With Help From Friends</h3>
+<sub>By Ana Swanson</sub>
+<p>A surge in trade by Russia’s neighbors and allies hints at one reason its economy remains so resilient after sweeping sanctions.  <a href="https://nyti.ms/3YcaCx8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Two More Memphis Police Officers Are Suspended in Tyre Nichols’s Death</h3>
-<sub>By Jessica Jaglois and Rick Rojas</sub>
-<p>One officer, Preston Hemphill, used a stun gun that hit Mr. Nichols in the torso, according to a police report on the incident.  <a href="https://nyti.ms/3XMFyo8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Risky Trade in Ukraine Grows Riskier Amid the War</h3>
+<sub>By Maria Varenikova and Lynsey Addario</sub>
+<p>Russia’s invasion has disrupted the social services that help reduce harm to the women and men who sell sex, threatening public health.  <a href="https://nyti.ms/3WYsY40"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tyre Nichols’s Parents to Attend State of the Union Address</h3>
-<sub>By Mark Walker</sub>
-<p>“It’s important for them to be here in the gallery that night to listen to the president,” said the chairman of the Congressional Black Caucus, who invited them.  <a href="https://nyti.ms/40de4cN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Why Black Families Are Leaving New York, and What It Means for the City</h3>
+<sub>By Troy Closson and Nicole Hong</sub>
+<p>Black children in particular are disappearing from the city, and many families point to one reason: Raising children here has become too expensive.  <a href="https://nyti.ms/3HIZHG1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Europe’s Economy Edges Higher, Heading Off Forecasts of Recession</h3>
+<sub>By Eshe Nelson</sub>
+<p>The eurozone economy grew 0.1 percent late last year, a reflection of modestly rising optimism as energy prices have eased, but risks remain.  <a href="https://nyti.ms/3HmDR9H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Sri Lanka Is Calm Again. That Doesn’t Mean Things Are Any Better.</h3>
+<sub>By Mujib Mashal and Skandha Gunasekara</sub>
+<p>After an economic collapse and political upheaval, Sri Lankans have become resigned to leaner meals and reduced horizons.  <a href="https://nyti.ms/3Yd4Dse"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>I.M.F. Upgrades Global Outlook as Inflation Eases</h3>
 <sub>By Alan Rappeport</sub>
 <p>The International Monetary Fund said the world economy was poised for a rebound as inflation eases.  <a href="https://nyti.ms/3XPHDzA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Last Boeing 747 Leaves the Factory</h3>
+<sub>By Niraj Chokshi, Meron Tekie Menghistab, Jovelle Tamayo and Lindsey Wasson</sub>
+<p>The plane known as “Queen of the Skies” helped make air travel more affordable, but it has been supplanted by smaller, more efficient aircraft.  <a href="https://nyti.ms/3HdR0BS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Blinken Heads to West Bank After Surge in Violence</h3>
+<sub>By Michael Crowley and Patrick Kingsley</sub>
+<p>After meeting Israeli officials in Jerusalem, the U.S. secretary of state will meet the Palestinian leadership in Ramallah amid a sharp rise in tensions in the region.  <a href="https://nyti.ms/3XRG9Vl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Plans to End Public Health Emergency for Covid in May</h3>
@@ -93,45 +117,21 @@ There are a lot of things going on in the world right now. In the US, there&#39;
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken Heads to West Bank After Surge in Violence</h3>
-<sub>By Michael Crowley and Patrick Kingsley</sub>
-<p>After meeting Israeli officials in Jerusalem, the U.S. secretary of state will meet the Palestinian leadership in Ramallah amid a sharp rise in tensions in the region.  <a href="https://nyti.ms/3HjFwNm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Urges Allies to Speed Up Delivery of Weaponry</h3>
-<sub>By Lara Jakes, Alan Yuhas and Thomas Gibbons-Neff</sub>
-<p>“We have to make time our weapon,” President Volodymyr Zelensky declared as Ukrainians girded for an expected Russian offensive.  <a href="https://nyti.ms/3Dr58qv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Double Whammy Making Italy the West’s Fastest Shrinking Nation</h3>
+<h3>The Double Whammy Making Italy the West’s Fastest-Shrinking Nation</h3>
 <sub>By Jason Horowitz</sub>
 <p>Italy’s population of elder Italians is soaring as its birthrate plummets, putting the country at the forefront of a global demographic trend that experts call the “silver tsunami.”  <a href="https://nyti.ms/3jiaLjO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Golf Course or Housing? A Patch of Green Divides Hong Kong</h3>
-<sub>By Joy Dong</sub>
-<p>The dispute over one of the city’s golf clubs exposes rare political friction for the elite in the new Hong Kong, where the establishment is torn between defending wealth and following Beijing’s wishes.  <a href="https://nyti.ms/3jk5KHB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Initial Police Report on Tyre Nichols Arrest Is Contradicted by Videos</h3>
+<sub>By Jessica Jaglois, Nicholas Bogel-Burroughs and Mitch Smith</sub>
+<p>The police report was the latest instance in which video evidence offered a starkly different account of police violence than what officers had reported themselves.  <a href="https://nyti.ms/3Jm5PVU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Burn Bags and Tracking Numbers: How the White House Handles Classified Files</h3>
-<sub>By Michael D. Shear</sub>
-<p>Officials who have worked with Democratic and Republican presidents describe an elaborate system for classified documents but a more casual one for everyday records.  <a href="https://nyti.ms/3WR1MEa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Lasting Sense of Doom, and Lately Excitement: It’s a Philly Thing</h3>
-<sub>By Jeré Longman</sub>
-<p>Philadelphia fans are hoping the city’s inglorious sporting history won’t haunt them when the Eagles meet Kansas City in the Super Bowl.  <a href="https://nyti.ms/40gVXCC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Being Edward Hopper</h3>
-<sub>By Blake Gopnik</sub>
-<p>It’s no longer enough to like our favorite artists’ works. By putting on Hopper’s fedora, Picasso’s striped shirt, Warhol’s wig or Kahlo’s colorful couture, we want to become their avatars.  <a href="https://nyti.ms/3HjkBdh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tyre Nichols’s Parents to Attend State of the Union Address</h3>
+<sub>By Mark Walker</sub>
+<p>“It’s important for them to be here in the gallery that night to listen to the president,” said the chairman of the Congressional Black Caucus, who invited them.  <a href="https://nyti.ms/40de4cN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
