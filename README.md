@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 31, Central Standard Time</p>
 <p>
-There&#39;s a lot of news happening all around the world right now. In the US, there is the ongoing case of Tyre Nichols - the police report on his arrest was contradicted by videos and two more Memphis police officers have been suspended in relation to his death. Meanwhile, the US government plans to end the public health emergency for Covid in May and Gabrielle Giffords is advocating for gun safety legislation. 
-
-In international news, Secretary of State Blinken has met with Israeli Prime Minister Netanyahu at a turbulent moment for Israel. Ukraine is urging allies to speed up deliveries of weaponry amid fears of an expected Russian offensive. There is also a controversial golf course project in Hong Kong that has provoked debate and friction among different groups in the city. 
-
-Sports fans from Philadelphia are gearing up for this year&#39;s Super Bowl, hoping that their team won&#39;t be let down. And finally, people around the world are getting increasingly into being like modern artists, from Edward Hopper to Frida Kahlo - wearing similar clothes or wigs as them in order to immerse themselves further into their artworks.</p>
+There are a lot of things going on in the world right now. In the US, there&#39;s been a lot of controversy surrounding the police and their use of force. There were two police officers who were suspended in connection with the death of Tyre Nichols, and his parents were invited to attend the State of the Union address. On a global scale, there is a conflict brewing between Israel and Palestine, with Secretary of State Antony Blinken currently visiting the region. The IMF has upgraded its economic outlook as inflation eases, and meanwhile Ukraine is asking for help in arming itself against an expected Russian offensive. Italy is seeing a shrinking population as birthrates decline while Hong Kong is facing a dispute over whether to prioritize golf courses or public housing developments. Finally, US President Biden has implemented an elaborate system for handling classified files but more officially records are more casually managed. As for sports news, Philadelphia fans are eagerly waiting the outcome of their Eagles meeting Kansas City in the Super Bowl. And on the arts side of things, fans are looking to emulate their favorite artists by dressing up like them - known as &quot;becoming their avatars.&quot;</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Initial Police Report on Tyre Nichols Arrest Is Contradicted by Videos</h3>
@@ -97,10 +93,10 @@ Sports fans from Philadelphia are gearing up for this year&#39;s Super Bowl, hop
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken Meets Netanyahu at Turbulent Moment for Israel</h3>
-<sub>By Michael Crowley</sub>
-<p>The secretary of state and the Israeli leader had a ‘candid’ conversation amid deepening rifts over the Palestinians, Ukraine and a rightward shift by Benjamin Netanyahu’s government.  <a href="https://nyti.ms/3wDe8ov"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<h3>Blinken Heads to West Bank After Surge in Violence</h3>
+<sub>By Michael Crowley and Patrick Kingsley</sub>
+<p>After meeting Israeli officials in Jerusalem, the U.S. secretary of state will meet the Palestinian leadership in Ramallah amid a sharp rise in tensions in the region.  <a href="https://nyti.ms/3HjFwNm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Urges Allies to Speed Up Delivery of Weaponry</h3>
@@ -109,15 +105,15 @@ Sports fans from Philadelphia are gearing up for this year&#39;s Super Bowl, hop
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Double Whammy Making Italy the West’s Fastest Shrinking Nation</h3>
+<sub>By Jason Horowitz</sub>
+<p>Italy’s population of elder Italians is soaring as its birthrate plummets, putting the country at the forefront of a global demographic trend that experts call the “silver tsunami.”  <a href="https://nyti.ms/3jiaLjO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Golf Course or Housing? A Patch of Green Divides Hong Kong</h3>
 <sub>By Joy Dong</sub>
 <p>The dispute over one of the city’s golf clubs exposes rare political friction for the elite in the new Hong Kong, where the establishment is torn between defending wealth and following Beijing’s wishes.  <a href="https://nyti.ms/3jk5KHB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Giffords, Progress on Gun Safety Is Like Her Recovery: ‘Inch by Inch’</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>A 2011 mass shooting left Gabrielle Giffords, then a Democratic congresswoman, partly paralyzed and unable to speak fluently. She has since built a powerful advocacy group.  <a href="https://nyti.ms/3Hiykkv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
