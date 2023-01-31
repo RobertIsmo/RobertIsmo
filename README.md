@@ -58,9 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, January 30, Central Standard Time</p>
+<p>It is Tuesday, January 31, Central Standard Time</p>
 <p>
-It looks like a lot is happening in the world right now. In the US, there&#39;s a controversial case involving police violence that is being questioned after video evidence revealed a different story than what officers initially reported. In response, two more Memphis police officers have been suspended and Tyre Nichols&#39;s parents have been invited to attend the State of the Union address. Internationally, the world economy is looking up with inflation easing and the IMF upgrading its global outlook. We&#39;re also seeing progress on Covid 19 with the US plan to end public health emergency in May, but conflict continues in Ukraine where they are asking allies to speed up delivery of weaponry amid government forces being geared for a Russian offensive. Lastly, there&#39;s some intense international political drama between Secretary of State Blinken and Israeli Prime Minister Netanyahu. Finally, closer to home some our usual sports stars in Philly are playing in the Super Bowl and hopefully their win will break the inglorious history of past losses!</p>
+There&#39;s a lot of news happening all around the world right now. In the US, there is the ongoing case of Tyre Nichols - the police report on his arrest was contradicted by videos and two more Memphis police officers have been suspended in relation to his death. Meanwhile, the US government plans to end the public health emergency for Covid in May and Gabrielle Giffords is advocating for gun safety legislation. 
+
+In international news, Secretary of State Blinken has met with Israeli Prime Minister Netanyahu at a turbulent moment for Israel. Ukraine is urging allies to speed up deliveries of weaponry amid fears of an expected Russian offensive. There is also a controversial golf course project in Hong Kong that has provoked debate and friction among different groups in the city. 
+
+Sports fans from Philadelphia are gearing up for this year&#39;s Super Bowl, hoping that their team won&#39;t be let down. And finally, people around the world are getting increasingly into being like modern artists, from Edward Hopper to Frida Kahlo - wearing similar clothes or wigs as them in order to immerse themselves further into their artworks.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Initial Police Report on Tyre Nichols Arrest Is Contradicted by Videos</h3>
@@ -117,12 +121,6 @@ It looks like a lot is happening in the world right now. In the US, there&#39;s 
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Small Boat, a Vast Sea and a Desperate Escape From Russia</h3>
-<sub>By Mike Baker</sub>
-<p>In September, two men set out from Russia, hoping a boat could carry them to asylum on U.S. soil. Their quest for freedom did not go as planned.  <a href="https://nyti.ms/3Rf3v4U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Burn Bags and Tracking Numbers: How the White House Handles Classified Files</h3>
 <sub>By Michael D. Shear</sub>
 <p>Officials who have worked with Democratic and Republican presidents describe an elaborate system for classified documents but a more casual one for everyday records.  <a href="https://nyti.ms/3WR1MEa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -132,6 +130,12 @@ It looks like a lot is happening in the world right now. In the US, there&#39;s 
 <h3>A Lasting Sense of Doom, and Lately Excitement: It’s a Philly Thing</h3>
 <sub>By Jeré Longman</sub>
 <p>Philadelphia fans are hoping the city’s inglorious sporting history won’t haunt them when the Eagles meet Kansas City in the Super Bowl.  <a href="https://nyti.ms/40gVXCC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Being Edward Hopper</h3>
+<sub>By Blake Gopnik</sub>
+<p>It’s no longer enough to like our favorite artists’ works. By putting on Hopper’s fedora, Picasso’s striped shirt, Warhol’s wig or Kahlo’s colorful couture, we want to become their avatars.  <a href="https://nyti.ms/3HjkBdh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
