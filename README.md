@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 31, Central Standard Time</p>
 <p>
-There is currently a lot of news involving international politics. Russia is apparently finding ways to work around Western sanctions, while in Ukraine there has been a disruption in social services that help reduce harm to people selling sex. In New York, Black families are leaving because the city has become too expensive to raise children. On the US political side, Biden is demanding details on budget cuts from the Republicans and West Virginia Democrat Joe Manchin is trying to broker a debt deal to raise the debt ceiling. There are global events too: China&#39;s Covid crisis is finally slowing down and Europe&#39;s economy is growing. Meanwhile, in Sri Lanka there has been an economic collapse and the last Boeing 747 airplane left its factory. Lastly, U.S Secretary of State Antony J Blinken just met with Palestinian leaders following a surge in violence in the region.</p>
+Right now, there&#39;s a lot going on in the world. The US is in a debt limit fight with the Republicans not willing to say what spending cuts they want. Vice President Biden is demanding more details on budget cuts from GOP Leader Kevin McCarthy and Senator Joe Manchin is trying to broker a compromise to raise the debt ceiling. Meanwhile, Russia has been sidestepping Western punishments by getting help from their allies, and Iran and Russia are linking their banking systems. On top of that, a study revealed that black Americans are far more likely to be audited by the IRS, leading to discussions around the agency&#39;s funding. Additionally, the high cost of living in NYC has caused many black families to leave the city and Representative George Santos is facing multiple investigations due to falsifying his résumé. In better news, scientists are studying navy dolphins to better understand aging and Biden is offering millions for a rail tunnel project in NYC as a part of his infrastructure bill. Finally, there&#39;s been an interesting discovery of 7,000 year old bog bodies with an often violent final ritual.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Russia Sidesteps Western Punishments, With Help From Friends</h3>
-<sub>By Ana Swanson</sub>
-<p>A surge in trade by Russia’s neighbors and allies hints at one reason its economy remains so resilient after sweeping sanctions.  <a href="https://nyti.ms/3YcaCx8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Risky Trade in Ukraine Grows Riskier Amid the War</h3>
-<sub>By Maria Varenikova and Lynsey Addario</sub>
-<p>Russia’s invasion has disrupted the social services that help reduce harm to the women and men who sell sex, threatening public health.  <a href="https://nyti.ms/3WYsY40"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why Black Families Are Leaving New York, and What It Means for the City</h3>
-<sub>By Troy Closson and Nicole Hong</sub>
-<p>Black children in particular are disappearing from the city, and many families point to one reason: Raising children here has become too expensive.  <a href="https://nyti.ms/3HIZHG1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Debt Limit Fight, Republicans Won’t Say What Spending Cuts They Want</h3>
+<sub>By Alan Rappeport</sub>
+<p>A renewed focus on fiscal restraint in the debt limit standoff with Democrats poses its own political risks.  <a href="https://nyti.ms/3WQWwjR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,46 +80,58 @@ There is currently a lot of news involving international politics. Russia is app
 <p>The centrist West Virginia Democrat, who faces re-election in 2024, has made it clear he believes he can help broker a compromise to raise the debt ceiling.  <a href="https://nyti.ms/3DtWrfb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Russia Sidesteps Western Punishments, With Help From Friends</h3>
+<sub>By Ana Swanson</sub>
+<p>A surge in trade by Russia’s neighbors and allies hints at one reason its economy remains so resilient after sweeping sanctions.  <a href="https://nyti.ms/3YcaCx8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Covid Tsunami Recedes, Bringing Relief, Grief and Anxiety</h3>
-<sub>By Chris Buckley and Amy Chang Chien</sub>
-<p>Officials say an onslaught of infections has slowed, and many people seem eager to move on. But fresh flare-ups could bring more illness and deaths.  <a href="https://nyti.ms/3YbSCmF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Risky Trade in Ukraine Grows Riskier Amid the War</h3>
+<sub>By Maria Varenikova and Lynsey Addario</sub>
+<p>Russia’s invasion has disrupted the social services that help reduce harm to the women and men who sell sex, threatening public health.  <a href="https://nyti.ms/3WYsY40"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Iran and Russia move toward linking their banking systems, helping both withstand Western sanctions.</h3>
+<sub>By Cora Engelbrecht</sub>
+<p>President Vladimir V. Putin of Russia had long been cautious  about deepening ties to Iran, but his calculus has changed during the course of the war.  <a href="https://nyti.ms/3kWg0q2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Plans to End Public Health Emergency for Covid in May</h3>
-<sub>By Sharon LaFraniere and Noah Weiland</sub>
-<p>The end of the emergency, planned for May 11, will bring about a complex set of policy changes and signals a new chapter in the government’s pandemic response.  <a href="https://nyti.ms/3Jsm8jZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Black Americans Are Much More Likely to Face Tax Audits, Study Finds</h3>
+<sub>By Jim Tankersley</sub>
+<p>A new report documents systemic discrimination in how the I.R.S. selects taxpayers to be audited, with implications for a debate on the agency’s funding.  <a href="https://nyti.ms/3HKNTmz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Why Black Families Are Leaving New York, and What It Means for the City</h3>
+<sub>By Troy Closson and Nicole Hong</sub>
+<p>Black children in particular are disappearing from the city, and many families point to one reason: Raising children here has become too expensive.  <a href="https://nyti.ms/3HIZHG1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Santos Temporarily Steps Aside From House Committees Amid Calls to Resign</h3>
+<sub>By Annie Karni and Karoun Demirjian</sub>
+<p>The decision was the first concession by Representative George Santos, Republican of New York, who has admitted to faking parts of his résumé and is facing multiple investigations.  <a href="https://nyti.ms/3YdKAKe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>The Navy’s Dolphins Have a Few Things to Tell Us About Aging</h3>
+<sub>By Emily Anthes and Gabriella Angotti-Jones</sub>
+<p>In her youth, Blue was a standout mine-hunter for the U.S. military. She and her colleagues are now at the vanguard of geriatric marine mammal medicine.  <a href="https://nyti.ms/407TE4S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>What the Ancient Bog Bodies Knew</h3>
+<sub>By Franz Lidz</sub>
+<p>The first comprehensive survey of a 7,000-year-old burial tradition reveals an often violent final ritual.  <a href="https://nyti.ms/3Dq9fmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Europe’s Economy Edges Higher, Heading Off Forecasts of Recession</h3>
-<sub>By Eshe Nelson</sub>
-<p>The eurozone economy grew 0.1 percent late last year, a reflection of modestly rising optimism as energy prices have eased, but risks remain.  <a href="https://nyti.ms/3HmDR9H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Key Measure of Wages Showed Moderation at the End of 2022</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Employment Cost Index, which Federal Reserve officials watch closely as a gauge of pay trends, is picking up more slowly.  <a href="https://nyti.ms/3jbs5Hu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Sri Lanka Is Calm Again. That Doesn’t Mean Things Are Any Better.</h3>
-<sub>By Mujib Mashal and Skandha Gunasekara</sub>
-<p>After an economic collapse and political upheaval, Sri Lankans have become resigned to leaner meals and reduced horizons.  <a href="https://nyti.ms/3Yd4Dse"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Last Boeing 747 Leaves the Factory</h3>
-<sub>By Niraj Chokshi, Meron Tekie Menghistab, Jovelle Tamayo and Lindsey Wasson</sub>
-<p>The plane known as “Queen of the Skies” helped make air travel more affordable, but it has been supplanted by smaller, more efficient aircraft.  <a href="https://nyti.ms/3HdR0BS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken Meets With Palestinian Leader After Surge in Violence</h3>
-<sub>By Michael Crowley and Patrick Kingsley</sub>
-<p>Following talks with Israeli officials in Jerusalem, the U.S. secretary of state, Antony J. Blinken, met the Palestinian leadership in the occupied West Bank city of Ramallah amid a sharp rise in tensions in the region.  <a href="https://nyti.ms/3XRG9Vl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Offers Millions for New York Rail Tunnel, Courtesy of His Infrastructure Bill</h3>
+<sub>By Zolan Kanno-Youngs and Patrick McGeehan</sub>
+<p>President Biden’s visit to New York City comes as Republicans have accused him of supporting reckless spending that fueled inflation.  <a href="https://nyti.ms/3YgqD5v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
