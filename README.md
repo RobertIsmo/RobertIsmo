@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 30, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. Police violence in the US has come into sharp focus after videos contradicted initial reports regarding the arrest of Tyre Nichols. Two Memphis police officers were suspended in response. On the international stage, Secretary of State Blinken recently met with Israeli Prime Minister Netanyahu to address deepening rifts between their countries. Meanwhile, the US government is planning to end public health emergency standards due to Covid in May, and Wall Street is figuring out logical solutions to looming debt limit issues. To top it off, prosecutors in NYC have started presenting their case against former President Trump to a grand jury, while Gabrielle Giffords — a Congresswoman severely injured at a mass shooting — continues to lobby for gun safety legislation. Russia&#39;s mercenary army is being composed from prisoners who are getting sent back home with traumatic experiences and training from war. There were also two men who tried to escape Russia by boat in September, and the White House is operating with stringent protocols for handling classified documents and everyday records. Lastly, there&#39;s a lot of talk about detoxing but not necessarily a lot of truth behind it.</p>
+It looks like a lot is happening in the world right now. In the US, there&#39;s a controversial case involving police violence that is being questioned after video evidence revealed a different story than what officers initially reported. In response, two more Memphis police officers have been suspended and Tyre Nichols&#39;s parents have been invited to attend the State of the Union address. Internationally, the world economy is looking up with inflation easing and the IMF upgrading its global outlook. We&#39;re also seeing progress on Covid 19 with the US plan to end public health emergency in May, but conflict continues in Ukraine where they are asking allies to speed up delivery of weaponry amid government forces being geared for a Russian offensive. Lastly, there&#39;s some intense international political drama between Secretary of State Blinken and Israeli Prime Minister Netanyahu. Finally, closer to home some our usual sports stars in Philly are playing in the Super Bowl and hopefully their win will break the inglorious history of past losses!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Initial Police Report on Tyre Nichols Arrest Is Contradicted by Videos</h3>
@@ -74,46 +74,46 @@ There is a lot going on in the world right now. Police violence in the US has co
 <p>One officer, Preston Hemphill, used a stun gun that hit Mr. Nichols in the torso, according to a police report on the incident.  <a href="https://nyti.ms/3XMFyo8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tyre Nichols’s Parents to Attend State of the Union Address</h3>
+<sub>By Mark Walker</sub>
+<p>“It’s important for them to be here in the gallery that night to listen to the president,” said the chairman of the Congressional Black Caucus, who invited them.  <a href="https://nyti.ms/40de4cN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>I.M.F. Upgrades Global Outlook as Inflation Eases</h3>
+<sub>By Alan Rappeport</sub>
+<p>The International Monetary Fund said the world economy was poised for a rebound as inflation eases.  <a href="https://nyti.ms/3XPHDzA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Plans to End Public Health Emergency for Covid in May</h3>
+<sub>By Sharon LaFraniere and Noah Weiland</sub>
+<p>The end of the emergency, planned for May 11, will bring about a complex set of policy changes and signals a new chapter in the government’s pandemic response.  <a href="https://nyti.ms/3Jsm8jZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Blinken Meets Netanyahu at Turbulent Moment for Israel</h3>
 <sub>By Michael Crowley</sub>
 <p>The secretary of state and the Israeli leader had a ‘candid’ conversation amid deepening rifts over the Palestinians, Ukraine and a rightward shift by Benjamin Netanyahu’s government.  <a href="https://nyti.ms/3wDe8ov"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Plans to End Public Health Emergency for Covid in May</h3>
-<sub>By Sharon LaFraniere and Noah Weiland</sub>
-<p>The end of the emergency will bring about a complex set of policy changes, and it signals a new chapter in the government’s pandemic response.  <a href="https://nyti.ms/3Jsm8jZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Urges Allies to Speed Up Delivery of Weaponry</h3>
+<sub>By Lara Jakes, Alan Yuhas and Thomas Gibbons-Neff</sub>
+<p>“We have to make time our weapon,” President Volodymyr Zelensky declared as Ukrainians girded for an expected Russian offensive.  <a href="https://nyti.ms/3Dr58qv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wall St. Is Counting on a Debt Limit Trick That Could Entail Trouble</h3>
-<sub>By Jeanna Smialek, Jim Tankersley and Joe Rennison</sub>
-<p>If the debt limit is breached, investors expect Treasury to put bond payments first. It’d be politically and practically fraught.  <a href="https://nyti.ms/3WJzDP7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>To Understand Why Republicans Are Divided on the Debt Ceiling, Consider Dr. Seuss</h3>
-<sub>By Nate Cohn</sub>
-<p>The Tea Party is over. Cultural issues seem to animate G.O.P. voters.  <a href="https://nyti.ms/3wDdcAv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Manhattan Prosecutors Begin Presenting Trump Case to Grand Jury</h3>
-<sub>By William K. Rashbaum, Ben Protess, Jonah E. Bromwich and Hurubie Meko</sub>
-<p>The Manhattan district attorney’s decision represents a dramatic escalation of the inquiry, and potentially sets the case on a path toward criminal charges against the former president.  <a href="https://nyti.ms/40i5nhA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Golf Course or Housing? A Patch of Green Divides Hong Kong</h3>
+<sub>By Joy Dong</sub>
+<p>The dispute over one of the city’s golf clubs exposes rare political friction for the elite in the new Hong Kong, where the establishment is torn between defending wealth and following Beijing’s wishes.  <a href="https://nyti.ms/3jk5KHB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Giffords, Progress on Gun Safety Is Like Her Recovery: ‘Inch by Inch’</h3>
 <sub>By Sheryl Gay Stolberg</sub>
 <p>A 2011 mass shooting left Gabrielle Giffords, then a Democratic congresswoman, partly paralyzed and unable to speak fluently. She has since built a powerful advocacy group.  <a href="https://nyti.ms/3Hiykkv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Freed Prisoners to Fight Its War. Here’s How Some Fared.</h3>
-<sub>By Anatoly Kurmanaev, Alina Lobzina and Ekaterina Bodyagina</sub>
-<p>Tens of thousands of inmates have joined a mercenary group fighting with the Kremlin’s decimated forces in Ukraine. Some of them are returning to civilian life with military training and, in many cases, battlefield traumas.  <a href="https://nyti.ms/3RdnyAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +128,10 @@ There is a lot going on in the world right now. Police violence in the US has co
 <p>Officials who have worked with Democratic and Republican presidents describe an elaborate system for classified documents but a more casual one for everyday records.  <a href="https://nyti.ms/3WR1MEa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>The Sneaky Allure of a Detox</h3>
-<sub>By Dani Blum</sub>
-<p>A cleanse might make you feel better, but not for the reasons you may think.  <a href="https://nyti.ms/3XSZKEL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A Lasting Sense of Doom, and Lately Excitement: It’s a Philly Thing</h3>
+<sub>By Jeré Longman</sub>
+<p>Philadelphia fans are hoping the city’s inglorious sporting history won’t haunt them when the Eagles meet Kansas City in the Super Bowl.  <a href="https://nyti.ms/40gVXCC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
