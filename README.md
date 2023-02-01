@@ -60,81 +60,83 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 1, Central Standard Time</p>
 <p>
-There seems to be a renewed wave of tension around the world. In Pakistan, an attack killed over 100 people, raising fears of terrorism from the Pakistani Taliban. In the US, Republicans and Democrats are in a standoff over debt limit and spending cuts, while Florida&#39;s governor is proposing a controversial overhaul of higher education. In New York, a botched prosecution has caused an ex-detective to walk free, while thecampaign finances of another politician have attracted law enforcement attention.
+It looks like the economy is heating up! The Fed is meeting for the first time this year and looks to be raising interest rates, which could affect the stock market and investors. Meanwhile, eurozone inflation has dropped in recent months, but isn&#39;t showing any sign of stopping altogether yet.
 
-Meanwhile in Europe, Brexit has entered its third year without any sign of resolution on the horizon, creating further economic uncertainty for the UK. France meanwhile is facing a mass protest over its plan to raise retirement age. In Alaska, the Trump Administration is expected to endorsed limited drilling at om eth Willow project, despite environmental concerns. Lastly, studies have been made into ancient bog bodies which suggest they underwent violent final rituals.</p>
+At home, it&#39;s been a tough week. A video surfaced of police officers beating a man in Memphis, Tyre Nichols; he later died from his injuries and his funeral will be held soon. President Biden recently met with Kevin McCarthy from the House to discuss the debt limit and both sides still seem to be far apart.
+
+In terms of health, vaccine makers have been keeping billions of dollars in prepayments for canceled COVID shots, while scientists are suggesting that women consider removing their fallopian tubes as a cancer prevention measure - something that doesn&#39;t come without risks. Lastly, oil giants have seen a surge in profits but don&#39;t want to commit to overspending due to economic and military uncertainty in the world.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Terrorism Has Returned’: Pakistan Grapples With Attack That Left 101 Dead</h3>
-<sub>By Christina Goldbaum, Salman Masood and Zia ur-Rehman</sub>
-<p>The attack raised fears of a new wave of militancy from the Pakistani Taliban and sparked a heated debate over the government’s ability to meet that threat amid an economic and political crisis.  <a href="https://nyti.ms/3WQZTar"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Debt Limit Fight, Republicans Won’t Say What Spending Cuts They Want</h3>
-<sub>By Alan Rappeport</sub>
-<p>A renewed focus on fiscal restraint in the standoff with Democrats poses its own political risks.  <a href="https://nyti.ms/3WQWwjR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Takes On the Education Establishment, and Builds His Brand</h3>
-<sub>By Stephanie Saul, Patricia Mazzei and Trip Gabriel</sub>
-<p>A proposal by Gov. Ron DeSantis of Florida to overhaul higher education would mandate courses in Western civilization, eliminate diversity programs and reduce the protections of tenure.  <a href="https://nyti.ms/40hzhSO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Botched Prosecution Lets Notorious Ex-Detective Walk Free</h3>
-<sub>By Jonah E. Bromwich and Maria Cramer</sub>
-<p>The deputy chief of the Manhattan district attorney’s Police Accountability Unit was removed after the case against Joseph Franco was dismissed.  <a href="https://nyti.ms/3RmRM4n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Seeing a Prize, Russia Inundates a Ukraine City With Troops</h3>
-<sub>By Matthew Mpoke Bigg and Thomas Gibbons-Neff</sub>
-<p>The battle in the eastern Ukraine city of Bakhmut is growing in importance, as both sides pour forces into the battle.  <a href="https://nyti.ms/3JDJRO2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Santos Temporarily Steps Aside From House Committees Amid Calls to Resign</h3>
-<sub>By Annie Karni and Karoun Demirjian</sub>
-<p>The decision was the first concession by Representative George Santos, Republican of New York, who has admitted to faking parts of his résumé and is facing multiple investigations.  <a href="https://nyti.ms/3YdKAKe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos’s Treasurer Has Resigned, Leaving a Trail of Questions</h3>
-<sub>By Grace Ashford and Michael Gold</sub>
-<p>Nancy Marks’s resignation puts further pressure on Mr. Santos, whose campaign finances have already attracted attention from law enforcement agencies.  <a href="https://nyti.ms/3JDlCj0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What to Watch at the Fed’s First Meeting of 2023</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The central bank is expected to lift interest rates and offer signals about what might come next.  <a href="https://nyti.ms/3DvIayA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As Parisians March to Fight Pension Changes, Shopkeepers Nod and Agree</h3>
-<sub>By Liz Alderman</sub>
-<p>Angry protests over a plan to raise France’s retirement age pile uncertainty on small businesses, but most are siding with the demonstrators.  <a href="https://nyti.ms/3Rl6fO4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<h3>Wall Street’s Newfound Optimism Faces a Test as the Fed Meets</h3>
+<sub>By Joe Rennison</sub>
+<p>Recent stock gains have been driven by hope that a rate-raising cycle is close to ending. If investors decide they were wrong about this, a drop could follow.  <a href="https://nyti.ms/3HpIU9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Brexit Turns 3. Why Is No One Wearing a Party Hat?</h3>
-<sub>By Mark Landler</sub>
-<p>The divorce between Britain and the European Union has become the dark thread that, to many, explains why Britain is suffering more than its neighbors.  <a href="https://nyti.ms/409Weay"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Eurozone Inflation Slows Sharply as Energy Costs Continue to Ease</h3>
+<sub>By Liz Alderman</sub>
+<p>Prices rose at an annual rate of 8.5 percent last month, down from 9.2 percent in December, but signs of persistent cost increases remain.  <a href="https://nyti.ms/3l14Ksr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At the Supreme Court, Ethics Questions Over a Spouse’s Business Ties</h3>
-<sub>By Steve Eder</sub>
-<p>The chief justice’s wife, Jane Sullivan Roberts, has made millions in her career recruiting lawyers to prominent law firms, some of which have business before the court. Now, a letter sent to Congress claims that may present a conflict of interest.  <a href="https://nyti.ms/3jej1BD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Officers Beat Tyre Nichols, a Crime-Prevention Camera Watched Over Them</h3>
+<sub>By Rick Rojas and Jesus Jiménez</sub>
+<p>A SkyCop camera in Memphis provided overhead footage that was instrumental in shaping the public’s understanding of what unfolded.  <a href="https://nyti.ms/3YvUBmb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Memphis to Gather in Grief at Tyre Nichols’s Funeral</h3>
+<sub>By Rick Rojas</sub>
+<p>His death after he was beaten by the police inspired anger and sorrow across the country. His family remembers him as a “beautiful soul.”  <a href="https://nyti.ms/40idSJm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Vaccine Makers Kept $1.4 Billion in Prepayments for Canceled Covid Shots for the World’s Poor</h3>
+<sub>By Stephanie Nolen and Rebecca Robbins</sub>
+<p>Separately, Johnson &amp; Johnson is demanding additional payment for unwanted shots, confidential documents show.  <a href="https://nyti.ms/3HPoWqh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden and McCarthy Are Set to Discuss Debt Limit as Both Sides Trade Barbs</h3>
+<sub>By Jim Tankersley and Catie Edmondson</sub>
+<p>The hours leading up to the meeting have highlighted the differences between the White House and the Republicans who now control the House.  <a href="https://nyti.ms/3HqhMqO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Dissecting Elon Musk’s Tweets: Memes, Rants, Private Parts and Echo Chamber</h3>
+<sub>By Sheera Frenkel, Martín González Gómez and Ella Koeze</sub>
+<p>As he fights for free speech online and promotes his companies, the new owner of Twitter spends a lot of time replying to his fans.  <a href="https://nyti.ms/3Duj5UL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Administration Expected to Endorse Limited Drilling in Alaska Project</h3>
-<sub>By Lisa Friedman</sub>
-<p>An environmental review expected soon would effectively signal that the Willow project proceed, according to people familiar with the report.  <a href="https://nyti.ms/3RqEzHU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Women Have Been Misled About Menopause</h3>
+<sub>By Susan Dominus</sub>
+<p>Hot flashes, sleeplessness, pain during sex: For some of menopause’s worst symptoms, there’s an established treatment. Why aren’t more women offered it?  <a href="https://nyti.ms/3wIGZIj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>What the Ancient Bog Bodies Knew</h3>
-<sub>By Franz Lidz</sub>
-<p>The first comprehensive survey of a 7,000-year-old burial tradition reveals an often violent final ritual.  <a href="https://nyti.ms/3Dq9fmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>What to Know About Menopause and Hormone Therapy</h3>
+<sub>By The New York Times</sub>
+<p>There has long been an effective, F.D.A.-approved treatment for some menopausal symptoms, but too few women have a clear picture of its risks and benefits.  <a href="https://nyti.ms/3DvzurU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>To Prevent Cancer, More Women Should Consider Removing Fallopian Tubes, Experts Say</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>A top research group is urging even women without genetic risks to have their fallopian tubes removed under certain circumstances.  <a href="https://nyti.ms/3HrLH1M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Oil Giants, After Surge in Profits, Are Wary About Spending</h3>
+<sub>By Clifford Krauss</sub>
+<p>Economic and military uncertainty clouds the outlook for Exxon, Chevron and other energy companies, whose bonanza from high prices is already fading.  <a href="https://nyti.ms/3Y4VmlQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
