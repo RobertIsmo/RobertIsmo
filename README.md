@@ -58,13 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, January 31, Central Standard Time</p>
+<p>It is Wednesday, February 1, Central Standard Time</p>
 <p>
-I wanted to catch up with you and let you know what&#39;s going on in the world. It&#39;s all very scary. In Pakistan, there was an attack that killed 101 people, raising worries about a new wave of terrorism from the Pakistani Taliban. In the US, Republicans are refusing to say what spending cuts they want while trying to impose fiscal restraint in a standoff with Democrats. Meanwhile, Governor Ron DeSantis of Florida is proposing to overhaul higher education, eliminating diversity programs and creating mandatory courses in Western civilization at universities.
-
-There&#39;s also been a botched prosecution leading to a notorious former detective walking free in New York. In Ukraine, Russia is sending more troops to fight over control of a city, and in the US George Santos, a Republican representative from New York, has stepped aside from House committees after admitting to falsifying parts of his résumé. There is also an investigation into his treasurer who has since resigned.
-
-On the health front, Navy dolphins are helping us learn some things about aging, while the US House voted to end Covid-19 precautions as Republican politicians use it for political attacks. Finally, there are ethics questions at the Supreme Court about Chief Justice Roberts&#39; wife and her business ties to law firms with cases before the court. It&#39;s all very concerning!</p>
+There have been a lot of big issues in the news lately. In Pakistan, there was a massive terrorist attack that left over 100 people dead and raised fears of a potential new wave of militancy. Closer to home, Republicans in Congress seem to be using the pandemic as a political weapon while they refuse to provide details on what spending cuts they want. In Florida, Governor Ron DeSantis is promoting an education proposal that will mandate courses in Western civilization and reduce tenure. Meanwhile, in New York, there are investigations into an ex-detective&#39;s botched prosecution and Representative George Santos&#39;s campaign finances. In France, small businesses are concerned about pension changes being proposed by their government. In Alaska, the administration is expected to endorse limited drilling for a project which could have major environmental consequences. And finally, at the Supreme Court there are ethics questions around Chief Justice John Roberts&#39;s wife and her business ties that may present a conflict of interest with her husband&#39;s position.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Terrorism Has Returned’: Pakistan Grapples With Attack That Left 101 Dead</h3>
@@ -103,15 +99,15 @@ On the health front, Navy dolphins are helping us learn some things about aging,
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos’s Treasurer Has Resigned. So Who’s Handling the Money?</h3>
+<h3>George Santos’s Treasurer Has Resigned, Leaving a Trail of Questions</h3>
 <sub>By Grace Ashford and Michael Gold</sub>
-<p>Nancy Marks’s resignation effectively leaves the Santos campaign unable to raise or spend money and in seeming violation of federal rules.  <a href="https://nyti.ms/3JDlCj0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Nancy Marks’s resignation puts further pressure on Mr. Santos, whose campaign finances have already attracted attention from law enforcement agencies.  <a href="https://nyti.ms/3JDlCj0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>The Navy’s Dolphins Have a Few Things to Tell Us About Aging</h3>
-<sub>By Emily Anthes and Gabriella Angotti-Jones</sub>
-<p>In her youth, Blue was a standout mine-hunter for the U.S. military. She and her colleagues are now at the vanguard of geriatric marine mammal medicine.  <a href="https://nyti.ms/407TE4S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As Parisians March to Fight Pension Changes, Shopkeepers Nod and Agree</h3>
+<sub>By Liz Alderman</sub>
+<p>Angry protests over a plan to raise France’s retirement age pile uncertainty on small businesses, but most are siding with the demonstrators.  <a href="https://nyti.ms/3Rl6fO4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,10 +128,10 @@ On the health front, Navy dolphins are helping us learn some things about aging,
 <p>The chief justice’s wife, Jane Sullivan Roberts, has made millions in her career recruiting lawyers to prominent law firms, some of which have business before the court. Now, a letter sent to Congress claims that may present a conflict of interest.  <a href="https://nyti.ms/3jej1BD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Charges Four in Connection With the Assassination of Haiti’s President</h3>
-<sub>By Chris Cameron</sub>
-<p>The decision to charge the men, considered to be ringleaders in the assassination plot, in the United States is an indication of the chronic dysfunction of the Haitian justice system.  <a href="https://nyti.ms/3HmGNmL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Administration Expected to Endorse Limited Drilling in Alaska Project</h3>
+<sub>By Lisa Friedman</sub>
+<p>An environmental review expected soon would effectively signal that the Willow project proceed, according to people familiar with the report.  <a href="https://nyti.ms/3RqEzHU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
