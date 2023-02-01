@@ -60,16 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 31, Central Standard Time</p>
 <p>
-There is a lot of political turmoil in the US right now. The Republicans and Democrats are in a debt stand-off, with the Republicans refusing to say what specific spending cuts they want made. And now Joe Biden has gone one step further and is demanding details on budget cuts from Republican leader McCarthy. On top of this, West Virginia Democrat Joe Manchin is trying to broker a compromise to raise the debt ceiling.
-
-Outside politics, it&#39;s not looking much better. In Ukraine, international tensions have resulted in more dangerous conditions for people who work in the sex trade, and Black Americans are more likely to face tax audits from the IRS due to discrimination. There is also a trend of Black families leaving New York City due to rising living costs.
-
-On a brighter note, there are some fascinating scientific breakthroughs: like how dolphins that worked as mine-hunters in their youth are at the forefront of marine mammal medicine, and how a new survey reveals an often violent final ritual done by ancient bog bodies.</p>
+Right now, the US is in a political standoff between Republicans and Democrats over fiscal restraint, and Biden is pushing for details on budget cuts from the Republicans. On the international front, the United States has accused Russia of failing to comply with an arms control treaty, and are facing a violent surge from the Pakistani Taliban and tension between Israel and its neighbors. Meanwhile, there are many court cases in front of the Supreme Court, including accusations of conflict of interest due to Chief Justice John Roberts&#39;s wife&#39;s business ties. Lastly, there are some serious private matters that involve US Representatives that were found to have faked parts of their resumes.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Debt Limit Fight, Republicans Won’t Say What Spending Cuts They Want</h3>
 <sub>By Alan Rappeport</sub>
-<p>A renewed focus on fiscal restraint in the debt limit standoff with Democrats poses its own political risks.  <a href="https://nyti.ms/3WQWwjR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A renewed focus on fiscal restraint in the standoff with Democrats poses its own political risks.  <a href="https://nyti.ms/3WQWwjR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -79,33 +75,21 @@ On a brighter note, there are some fascinating scientific breakthroughs: like ho
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can Joe Manchin Broker a Debt Deal as Republicans Try to Unseat Him?</h3>
-<sub>By Luke Broadwater</sub>
-<p>The centrist West Virginia Democrat, who faces re-election in 2024, has made it clear he believes he can help broker a compromise to raise the debt ceiling.  <a href="https://nyti.ms/3DtWrfb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Says Russia Fails to Comply With Nuclear Arms Control Treaty</h3>
 <sub>By Edward Wong</sub>
 <p>The United States says Russia is not allowing American inspectors access to its arsenal to ensure compliance with the New START agreement, which the two nations renewed in 2021.  <a href="https://nyti.ms/3RluhIU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Risky Trade in Ukraine Grows Riskier Amid the War</h3>
-<sub>By Maria Varenikova and Lynsey Addario</sub>
-<p>Russia’s invasion has disrupted the social services that help reduce harm to the women and men who sell sex, threatening public health.  <a href="https://nyti.ms/3WYsY40"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘Terrorism Has Returned’: Pakistan Grapples With Attack That Left 101 Dead</h3>
+<sub>By Christina Goldbaum, Salman Masood and Zia ur-Rehman</sub>
+<p>The attack raised fears of a new wave of militancy from the Pakistani Taliban and sparked a heated debate over the government’s ability to meet that threat amid an economic and political crisis.  <a href="https://nyti.ms/3WQZTar"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Black Americans Are Much More Likely to Face Tax Audits, Study Finds</h3>
-<sub>By Jim Tankersley</sub>
-<p>A new report documents systemic discrimination in how the I.R.S. selects taxpayers to be audited, with implications for a debate on the agency’s funding.  <a href="https://nyti.ms/3HKNTmz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why Black Families Are Leaving New York, and What It Means for the City</h3>
-<sub>By Troy Closson and Nicole Hong</sub>
-<p>Black children in particular are disappearing from the city, and many families point to one reason: Raising children here has become too expensive.  <a href="https://nyti.ms/3HIZHG1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Takes On the Education Establishment, and Builds His Brand</h3>
+<sub>By Stephanie Saul, Patricia Mazzei and Trip Gabriel</sub>
+<p>A proposal by Gov. Ron DeSantis of Florida to overhaul higher education would mandate courses in Western civilization, eliminate diversity programs and reduce the protections of tenure.  <a href="https://nyti.ms/40hzhSO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,10 +98,10 @@ On a brighter note, there are some fascinating scientific breakthroughs: like ho
 <p>The decision was the first concession by Representative George Santos, Republican of New York, who has admitted to faking parts of his résumé and is facing multiple investigations.  <a href="https://nyti.ms/3YdKAKe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>F.B.I. Searched Biden’s Former Think Tank Office in November</h3>
-<sub>By Glenn Thrush</sub>
-<p>It is not clear if the search, which was done with the cooperation and knowledge of Mr. Biden’s legal team, uncovered any additional classified files.  <a href="https://nyti.ms/3XQde4j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos’s Treasurer Has Resigned. So Who’s Handling the Money?</h3>
+<sub>By Grace Ashford and Michael Gold</sub>
+<p>Nancy Marks’s resignation effectively leaves the Santos campaign unable to raise or spend money and in seeming violation of federal rules.  <a href="https://nyti.ms/3JDlCj0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -127,16 +111,28 @@ On a brighter note, there are some fascinating scientific breakthroughs: like ho
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Votes to End Covid Precautions as G.O.P. Uses Pandemic in Political Attacks</h3>
+<sub>By Jonathan Swan and Luke Broadwater</sub>
+<p>Republicans in Congress are seeking to capitalize on discontent about the federal coronavirus response while the party’s presidential contenders are vying to be the biggest foe of restrictions.  <a href="https://nyti.ms/3Hv1SMa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At the Supreme Court, Ethics Questions Over a Spouse’s Business Ties</h3>
 <sub>By Steve Eder</sub>
 <p>The chief justice’s wife, Jane Sullivan Roberts, has made millions in her career recruiting lawyers to prominent law firms, some of which have business before the court. Now, a letter sent to Congress claims that may present a conflict of interest.  <a href="https://nyti.ms/3jej1BD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>What the Ancient Bog Bodies Knew</h3>
-<sub>By Franz Lidz</sub>
-<p>The first comprehensive survey of a 7,000-year-old burial tradition reveals an often violent final ritual.  <a href="https://nyti.ms/3Dq9fmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Charges Four in Connection With the Assassination of Haiti’s President</h3>
+<sub>By Chris Cameron</sub>
+<p>The decision to charge the men, considered to be ringleaders in the assassination plot, in the United States is an indication of the chronic dysfunction of the Haitian justice system.  <a href="https://nyti.ms/3HmGNmL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Amid Violent Surge, Netanyahu Juggles Competing Goals. But for How Long?</h3>
+<sub>By Patrick Kingsley</sub>
+<p>After a deadly week, Benjamin Netanyahu faces domestic calls for a harsh crackdown, and international pressure to moderate. It’s a familiar balancing act — but with one major difference.  <a href="https://nyti.ms/3Dui4fh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
