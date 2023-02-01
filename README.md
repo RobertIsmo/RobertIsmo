@@ -60,30 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 1, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The College Board has made changes to its A.P. curriculum for African American Studies, while Florida Governor Ron DeSantis is attempting to overhaul higher education and mandate courses in Western civilization. Meanwhile, there have been some interesting legal developments; the FBI is searching President Biden&#39;s vacation home in Delaware and Johnson &amp; Johnson is holding back payments from vaccine makers for canceled Covid shots for the World&#39;s poor. Biden and House Speaker Kevin McCarthy are also set to discuss the debt limit. Finally, sports icon Tom Brady announced his retirement after 23 seasons and seven Super Bowl wins.</p>
+There are a lot of important things happening in the world right now. The US Federal Reserve recently increased interest rates, which affects mortgages and credit cards. Wall Street is watching to see how that impacts the stock market. In education, the College Board changed its A.P. curriculum for African American Studies after criticism from Florida&#39;s Governor DeSantis. Technology is playing a role in law enforcement with cameras watching over officers on duty. There has been a focus on Congress as the spending limit is discussed by influential women like Nancy Pelosi and the White House budget official. Women are being misled about menopause which could have life-altering implications. There have been some troubling cases involving lost homes due to rising taxes, FBI searches at Joe Biden&#39;s home and Kathy Hochul&#39;s $227 billion budget plan for New York City&#39;s subway system and migrant crisis. Finally, legendary NFL quarterback Tom Brady is retiring after 23 seasons of remarkable play.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The College Board Strips Down Its A.P. Curriculum for African American Studies</h3>
-<sub>By Anemona Hartocollis and Eliza Fawcett</sub>
-<p>After criticism from Gov. Ron DeSantis of Florida, the official course looks different: No more critical race theory, and the study of contemporary topics — like Black Lives Matter — is optional.  <a href="https://nyti.ms/3wOL2D0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Takes On the Education Establishment, and Builds His Brand</h3>
-<sub>By Stephanie Saul, Patricia Mazzei and Trip Gabriel</sub>
-<p>A proposal by Gov. Ron DeSantis of Florida to overhaul higher education would mandate courses in Western civilization, eliminate diversity programs and reduce the protections of tenure.  <a href="https://nyti.ms/40hzhSO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>F.B.I. Is Searching Biden’s Vacation Home in Delaware</h3>
-<sub>By Glenn Thrush, Maggie Haberman, Adam Goldman and Michael D. Shear</sub>
-<p>The search is the latest revelation that President Biden kept materials that should have been returned to the National Archives after he left office in January 2017.  <a href="https://nyti.ms/3RnriQ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to Watch at the Fed’s First Meeting of 2023</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The central bank is expected to lift interest rates and offer signals about what might come next.  <a href="https://nyti.ms/3DvIayA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What Fed Rate Increases Mean for Mortgages, Credit Cards and More</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>Savers will benefit and borrowers can expect to pay more on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3kTFBzH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -92,28 +74,22 @@ There is a lot going on in the world right now. The College Board has made chang
 <p>Recent stock gains have been driven by hope that a rate-raising cycle is close to ending. If investors decide they were wrong about this, a drop could follow.  <a href="https://nyti.ms/3HpIU9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Eurozone Inflation Slows Sharply as Energy Costs Continue to Ease</h3>
-<sub>By Liz Alderman</sub>
-<p>Prices rose at an annual rate of 8.5 percent last month, down from 9.2 percent in December, but signs of persistent cost increases remain.  <a href="https://nyti.ms/3l14Ksr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The College Board Strips Down Its A.P. Curriculum for African American Studies</h3>
+<sub>By Anemona Hartocollis and Eliza Fawcett</sub>
+<p>After criticism from Gov. Ron DeSantis of Florida, the official course looks different: No more critical race theory, and the study of contemporary topics — like Black Lives Matter — is optional.  <a href="https://nyti.ms/3wOL2D0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Officers Beat Tyre Nichols, a Crime-Prevention Camera Watched Over Them</h3>
+<h3>As Officers Beat Tyre Nichols, a Crime-Fighting Camera Watched Over Them</h3>
 <sub>By Rick Rojas and Jesus Jiménez</sub>
 <p>A SkyCop camera in Memphis provided overhead footage that was instrumental in shaping the public’s understanding of what unfolded.  <a href="https://nyti.ms/3YvUBmb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Memphis to Gather in Grief at Tyre Nichols’s Funeral</h3>
-<sub>By Rick Rojas</sub>
-<p>His death after he was beaten by the police inspired anger and sorrow across the country. His family remembers him as a “beautiful soul.”  <a href="https://nyti.ms/40idSJm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Vaccine Makers Kept $1.4 Billion in Prepayments for Canceled Covid Shots for the World’s Poor</h3>
-<sub>By Stephanie Nolen and Rebecca Robbins</sub>
-<p>Separately, Johnson &amp; Johnson is demanding additional payment for unwanted shots, confidential documents show.  <a href="https://nyti.ms/3HPoWqh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Meet the Women Trying to Avoid a Spending Train Wreck in Congress</h3>
+<sub>By Emily Cochrane</sub>
+<p>For the first time, the leaders of the House and Senate Appropriations Committees are all women, as is the top White House budget official. Can they avert a fiscal disaster? They’re determined to try.  <a href="https://nyti.ms/3HQt2yp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +98,40 @@ There is a lot going on in the world right now. The College Board has made chang
 <p>The hours leading up to the meeting have highlighted the differences between the White House and the Republicans who now control the House.  <a href="https://nyti.ms/3HqhMqO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Happens Next in the Debt Limit Debate?</h3>
-<sub>By Alan Rappeport and Emily Cochrane</sub>
-<p>President Biden and House Speaker Kevin McCarthy are meeting to discuss the debt ceiling, kicking off what’s expected to be a long and potentially damaging fight.  <a href="https://nyti.ms/3J4eNa6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Women Have Been Misled About Menopause</h3>
+<sub>By Susan Dominus</sub>
+<p>Hot flashes, sleeplessness, pain during sex: For some of menopause’s worst symptoms, there’s an established treatment. Why aren’t more women offered it?  <a href="https://nyti.ms/3wIGZIj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>She Lost Her Childhood Home Over Taxes. Then It Erupted in Flames.</h3>
+<sub>By Tracey Tully</sub>
+<p>For years, Eve Morawski waged an epic battle against real estate investors who bought her tax debt and ultimately seized her Maplewood, N.J., home.  <a href="https://nyti.ms/3wJMSVx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>F.B.I. Search of Biden’s Home Turned Up No Classified Documents</h3>
+<sub>By Glenn Thrush and Michael D. Shear</sub>
+<p>The search, like at least two others conducted at locations associated with President Biden, was undertaken with the cooperation of the president and his legal team.  <a href="https://nyti.ms/3RnriQ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Hochul’s $227 Billion Budget Plan Targets New York City’s Urgent Needs</h3>
+<sub>By Luis Ferré-Sadurní</sub>
+<p>Gov. Kathy Hochul’s budget proposal included a multiyear plan to help bail out the city’s ailing subway system and address the migrant crisis.  <a href="https://nyti.ms/3HoDaNo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Tom Brady Says He’s Retiring, for Good This Time</h3>
 <sub>By Emmanuel Morgan</sub>
 <p>Brady, whose career spanned 23 seasons and seven Super Bowl wins, announced his retirement in a social media post.  <a href="https://nyti.ms/3jtwHsi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Tom Brady: Answering the Questions You Didn’t Know You Had</h3>
+<sub>By Victor Mather</sub>
+<p>All about Super Bowls, crypto, deflated footballs and Gisele Bündchen. And 23 seasons piling up the stats.  <a href="https://nyti.ms/3kQFWmK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
