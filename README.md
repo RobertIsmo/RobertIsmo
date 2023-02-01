@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 1, Central Standard Time</p>
 <p>
-There have been a lot of big issues in the news lately. In Pakistan, there was a massive terrorist attack that left over 100 people dead and raised fears of a potential new wave of militancy. Closer to home, Republicans in Congress seem to be using the pandemic as a political weapon while they refuse to provide details on what spending cuts they want. In Florida, Governor Ron DeSantis is promoting an education proposal that will mandate courses in Western civilization and reduce tenure. Meanwhile, in New York, there are investigations into an ex-detective&#39;s botched prosecution and Representative George Santos&#39;s campaign finances. In France, small businesses are concerned about pension changes being proposed by their government. In Alaska, the administration is expected to endorse limited drilling for a project which could have major environmental consequences. And finally, at the Supreme Court there are ethics questions around Chief Justice John Roberts&#39;s wife and her business ties that may present a conflict of interest with her husband&#39;s position.</p>
+There seems to be a renewed wave of tension around the world. In Pakistan, an attack killed over 100 people, raising fears of terrorism from the Pakistani Taliban. In the US, Republicans and Democrats are in a standoff over debt limit and spending cuts, while Florida&#39;s governor is proposing a controversial overhaul of higher education. In New York, a botched prosecution has caused an ex-detective to walk free, while thecampaign finances of another politician have attracted law enforcement attention.
+
+Meanwhile in Europe, Brexit has entered its third year without any sign of resolution on the horizon, creating further economic uncertainty for the UK. France meanwhile is facing a mass protest over its plan to raise retirement age. In Alaska, the Trump Administration is expected to endorsed limited drilling at om eth Willow project, despite environmental concerns. Lastly, studies have been made into ancient bog bodies which suggest they underwent violent final rituals.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Terrorism Has Returned’: Pakistan Grapples With Attack That Left 101 Dead</h3>
@@ -110,16 +112,10 @@ There have been a lot of big issues in the news lately. In Pakistan, there was a
 <p>Angry protests over a plan to raise France’s retirement age pile uncertainty on small businesses, but most are siding with the demonstrators.  <a href="https://nyti.ms/3Rl6fO4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Votes to End Covid Precautions as G.O.P. Uses Pandemic in Political Attacks</h3>
-<sub>By Jonathan Swan and Luke Broadwater</sub>
-<p>Republicans in Congress are seeking to capitalize on discontent about the federal coronavirus response while the party’s presidential contenders are vying to be the biggest foe of restrictions.  <a href="https://nyti.ms/3Hv1SMa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Assail Vaccine and Mandates With Misleading Claims</h3>
-<sub>By Linda Qiu</sub>
-<p>The House debated for hours on Tuesday before voting for measures that would end a public health emergency and a vaccine mandate for some health care workers.  <a href="https://nyti.ms/3DuUCyu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Brexit Turns 3. Why Is No One Wearing a Party Hat?</h3>
+<sub>By Mark Landler</sub>
+<p>The divorce between Britain and the European Union has become the dark thread that, to many, explains why Britain is suffering more than its neighbors.  <a href="https://nyti.ms/409Weay"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -133,6 +129,12 @@ There have been a lot of big issues in the news lately. In Pakistan, there was a
 <sub>By Lisa Friedman</sub>
 <p>An environmental review expected soon would effectively signal that the Willow project proceed, according to people familiar with the report.  <a href="https://nyti.ms/3RqEzHU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>What the Ancient Bog Bodies Knew</h3>
+<sub>By Franz Lidz</sub>
+<p>The first comprehensive survey of a 7,000-year-old burial tradition reveals an often violent final ritual.  <a href="https://nyti.ms/3Dq9fmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
