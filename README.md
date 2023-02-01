@@ -60,26 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 31, Central Standard Time</p>
 <p>
-Right now, the US is in a political standoff between Republicans and Democrats over fiscal restraint, and Biden is pushing for details on budget cuts from the Republicans. On the international front, the United States has accused Russia of failing to comply with an arms control treaty, and are facing a violent surge from the Pakistani Taliban and tension between Israel and its neighbors. Meanwhile, there are many court cases in front of the Supreme Court, including accusations of conflict of interest due to Chief Justice John Roberts&#39;s wife&#39;s business ties. Lastly, there are some serious private matters that involve US Representatives that were found to have faked parts of their resumes.</p>
+I wanted to catch up with you and let you know what&#39;s going on in the world. It&#39;s all very scary. In Pakistan, there was an attack that killed 101 people, raising worries about a new wave of terrorism from the Pakistani Taliban. In the US, Republicans are refusing to say what spending cuts they want while trying to impose fiscal restraint in a standoff with Democrats. Meanwhile, Governor Ron DeSantis of Florida is proposing to overhaul higher education, eliminating diversity programs and creating mandatory courses in Western civilization at universities.
+
+There&#39;s also been a botched prosecution leading to a notorious former detective walking free in New York. In Ukraine, Russia is sending more troops to fight over control of a city, and in the US George Santos, a Republican representative from New York, has stepped aside from House committees after admitting to falsifying parts of his résumé. There is also an investigation into his treasurer who has since resigned.
+
+On the health front, Navy dolphins are helping us learn some things about aging, while the US House voted to end Covid-19 precautions as Republican politicians use it for political attacks. Finally, there are ethics questions at the Supreme Court about Chief Justice Roberts&#39; wife and her business ties to law firms with cases before the court. It&#39;s all very concerning!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Debt Limit Fight, Republicans Won’t Say What Spending Cuts They Want</h3>
-<sub>By Alan Rappeport</sub>
-<p>A renewed focus on fiscal restraint in the standoff with Democrats poses its own political risks.  <a href="https://nyti.ms/3WQWwjR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Demands Details on Budget Cuts From McCarthy</h3>
-<sub>By Jim Tankersley</sub>
-<p>Ahead of a meeting at the White House on Wednesday, administration officials demanded that Republicans commit to avoiding a default on federal debt.  <a href="https://nyti.ms/3wF3m1g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Says Russia Fails to Comply With Nuclear Arms Control Treaty</h3>
-<sub>By Edward Wong</sub>
-<p>The United States says Russia is not allowing American inspectors access to its arsenal to ensure compliance with the New START agreement, which the two nations renewed in 2021.  <a href="https://nyti.ms/3RluhIU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Terrorism Has Returned’: Pakistan Grapples With Attack That Left 101 Dead</h3>
 <sub>By Christina Goldbaum, Salman Masood and Zia ur-Rehman</sub>
@@ -87,9 +73,27 @@ Right now, the US is in a political standoff between Republicans and Democrats o
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Debt Limit Fight, Republicans Won’t Say What Spending Cuts They Want</h3>
+<sub>By Alan Rappeport</sub>
+<p>A renewed focus on fiscal restraint in the standoff with Democrats poses its own political risks.  <a href="https://nyti.ms/3WQWwjR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Takes On the Education Establishment, and Builds His Brand</h3>
 <sub>By Stephanie Saul, Patricia Mazzei and Trip Gabriel</sub>
 <p>A proposal by Gov. Ron DeSantis of Florida to overhaul higher education would mandate courses in Western civilization, eliminate diversity programs and reduce the protections of tenure.  <a href="https://nyti.ms/40hzhSO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Botched Prosecution Lets Notorious Ex-Detective Walk Free</h3>
+<sub>By Jonah E. Bromwich and Maria Cramer</sub>
+<p>The deputy chief of the Manhattan district attorney’s Police Accountability Unit was removed after the case against Joseph Franco was dismissed.  <a href="https://nyti.ms/3RmRM4n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Seeing a Prize, Russia Inundates a Ukraine City With Troops</h3>
+<sub>By Matthew Mpoke Bigg and Thomas Gibbons-Neff</sub>
+<p>The battle in the eastern Ukraine city of Bakhmut is growing in importance, as both sides pour forces into the battle.  <a href="https://nyti.ms/3JDJRO2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,6 +121,12 @@ Right now, the US is in a political standoff between Republicans and Democrats o
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Assail Vaccine and Mandates With Misleading Claims</h3>
+<sub>By Linda Qiu</sub>
+<p>The House debated for hours on Tuesday before voting for measures that would end a public health emergency and a vaccine mandate for some health care workers.  <a href="https://nyti.ms/3DuUCyu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At the Supreme Court, Ethics Questions Over a Spouse’s Business Ties</h3>
 <sub>By Steve Eder</sub>
 <p>The chief justice’s wife, Jane Sullivan Roberts, has made millions in her career recruiting lawyers to prominent law firms, some of which have business before the court. Now, a letter sent to Congress claims that may present a conflict of interest.  <a href="https://nyti.ms/3jej1BD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -126,12 +136,6 @@ Right now, the US is in a political standoff between Republicans and Democrats o
 <h3>U.S. Charges Four in Connection With the Assassination of Haiti’s President</h3>
 <sub>By Chris Cameron</sub>
 <p>The decision to charge the men, considered to be ringleaders in the assassination plot, in the United States is an indication of the chronic dysfunction of the Haitian justice system.  <a href="https://nyti.ms/3HmGNmL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid Violent Surge, Netanyahu Juggles Competing Goals. But for How Long?</h3>
-<sub>By Patrick Kingsley</sub>
-<p>After a deadly week, Benjamin Netanyahu faces domestic calls for a harsh crackdown, and international pressure to moderate. It’s a familiar balancing act — but with one major difference.  <a href="https://nyti.ms/3Dui4fh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
