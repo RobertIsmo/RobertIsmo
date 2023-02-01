@@ -60,12 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 1, Central Standard Time</p>
 <p>
-It looks like the economy is heating up! The Fed is meeting for the first time this year and looks to be raising interest rates, which could affect the stock market and investors. Meanwhile, eurozone inflation has dropped in recent months, but isn&#39;t showing any sign of stopping altogether yet.
-
-At home, it&#39;s been a tough week. A video surfaced of police officers beating a man in Memphis, Tyre Nichols; he later died from his injuries and his funeral will be held soon. President Biden recently met with Kevin McCarthy from the House to discuss the debt limit and both sides still seem to be far apart.
-
-In terms of health, vaccine makers have been keeping billions of dollars in prepayments for canceled COVID shots, while scientists are suggesting that women consider removing their fallopian tubes as a cancer prevention measure - something that doesn&#39;t come without risks. Lastly, oil giants have seen a surge in profits but don&#39;t want to commit to overspending due to economic and military uncertainty in the world.</p>
+There is a lot going on in the world right now. The College Board has made changes to its A.P. curriculum for African American Studies, while Florida Governor Ron DeSantis is attempting to overhaul higher education and mandate courses in Western civilization. Meanwhile, there have been some interesting legal developments; the FBI is searching President Biden&#39;s vacation home in Delaware and Johnson &amp; Johnson is holding back payments from vaccine makers for canceled Covid shots for the World&#39;s poor. Biden and House Speaker Kevin McCarthy are also set to discuss the debt limit. Finally, sports icon Tom Brady announced his retirement after 23 seasons and seven Super Bowl wins.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The College Board Strips Down Its A.P. Curriculum for African American Studies</h3>
+<sub>By Anemona Hartocollis and Eliza Fawcett</sub>
+<p>After criticism from Gov. Ron DeSantis of Florida, the official course looks different: No more critical race theory, and the study of contemporary topics — like Black Lives Matter — is optional.  <a href="https://nyti.ms/3wOL2D0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Takes On the Education Establishment, and Builds His Brand</h3>
+<sub>By Stephanie Saul, Patricia Mazzei and Trip Gabriel</sub>
+<p>A proposal by Gov. Ron DeSantis of Florida to overhaul higher education would mandate courses in Western civilization, eliminate diversity programs and reduce the protections of tenure.  <a href="https://nyti.ms/40hzhSO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>F.B.I. Is Searching Biden’s Vacation Home in Delaware</h3>
+<sub>By Glenn Thrush, Maggie Haberman, Adam Goldman and Michael D. Shear</sub>
+<p>The search is the latest revelation that President Biden kept materials that should have been returned to the National Archives after he left office in January 2017.  <a href="https://nyti.ms/3RnriQ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What to Watch at the Fed’s First Meeting of 2023</h3>
 <sub>By Jeanna Smialek</sub>
@@ -108,34 +122,16 @@ In terms of health, vaccine makers have been keeping billions of dollars in prep
 <p>The hours leading up to the meeting have highlighted the differences between the White House and the Republicans who now control the House.  <a href="https://nyti.ms/3HqhMqO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Dissecting Elon Musk’s Tweets: Memes, Rants, Private Parts and Echo Chamber</h3>
-<sub>By Sheera Frenkel, Martín González Gómez and Ella Koeze</sub>
-<p>As he fights for free speech online and promotes his companies, the new owner of Twitter spends a lot of time replying to his fans.  <a href="https://nyti.ms/3Duj5UL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Women Have Been Misled About Menopause</h3>
-<sub>By Susan Dominus</sub>
-<p>Hot flashes, sleeplessness, pain during sex: For some of menopause’s worst symptoms, there’s an established treatment. Why aren’t more women offered it?  <a href="https://nyti.ms/3wIGZIj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>What to Know About Menopause and Hormone Therapy</h3>
-<sub>By The New York Times</sub>
-<p>There has long been an effective, F.D.A.-approved treatment for some menopausal symptoms, but too few women have a clear picture of its risks and benefits.  <a href="https://nyti.ms/3DvzurU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>To Prevent Cancer, More Women Should Consider Removing Fallopian Tubes, Experts Say</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>A top research group is urging even women without genetic risks to have their fallopian tubes removed under certain circumstances.  <a href="https://nyti.ms/3HrLH1M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Oil Giants, After Surge in Profits, Are Wary About Spending</h3>
-<sub>By Clifford Krauss</sub>
-<p>Economic and military uncertainty clouds the outlook for Exxon, Chevron and other energy companies, whose bonanza from high prices is already fading.  <a href="https://nyti.ms/3Y4VmlQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What Happens Next in the Debt Limit Debate?</h3>
+<sub>By Alan Rappeport and Emily Cochrane</sub>
+<p>President Biden and House Speaker Kevin McCarthy are meeting to discuss the debt ceiling, kicking off what’s expected to be a long and potentially damaging fight.  <a href="https://nyti.ms/3J4eNa6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Tom Brady Says He’s Retiring, for Good This Time</h3>
+<sub>By Emmanuel Morgan</sub>
+<p>Brady, whose career spanned 23 seasons and seven Super Bowl wins, announced his retirement in a social media post.  <a href="https://nyti.ms/3jtwHsi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
