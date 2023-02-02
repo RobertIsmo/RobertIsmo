@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 2, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. The US and Ukraine are working together to forge shells for Ukraine&#39;s artillery and Russia has banned exports of refined oil products to Europe, causing strain in energy markets. Meanwhile, the US and the Philippines have agreed to give the American military access to four new locations in Thailand amidst rising tensions with China. China is also trying to gain influence in Indonesia by wooing its vast resources for strategic control. With mortgage rates falling, more buyers are returning back to the market but the overall economic state remains uncertain. On a lighter note, people are buying chickens as an alternative due to egg inflation! Lastly, many banks are raising interest rates with Bank of England raising it up to 4%, while Shell&#39;s profits soared last year.</p>
+There are some interesting developments happening around the world. In the US, firms have been producing and supplying shells for artillery to help Ukraine in their efforts of defending themselves against Russian aggression. Meanwhile, Washington and Manila are working together to establish a stronger presence for the US in the Philippines, there are discussions of raising the nation’s debt ceiling, and house representatives recently ousted Ilhan Omar from a foreign affairs panel. 
+
+In the business world, mortgage rates have hit five month lows which is encouraging home buyers to return to the market, people are buying chickens instead of puppies due to an uptick in egg prices, and a tech company is soaring by adding an additional $100 billion in value. 
+
+On an international level, Brazil is planning to sink a decommissioned navy vessel rather than dismantle it due to asbestos concerns, sturgeon populations are under threat in North American rivers which is shaking up traditional conservation efforts, and Pope Francis has been invoking enthusiasm with his trip around Africa. While all that&#39;s happening, Beyoncé may make Grammy history this weekend with her new album “Lemonade”.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How to Forge Shells for Ukraine&#39;s Artillery</h3>
@@ -68,34 +72,22 @@ There is a lot happening around the world right now. The US and Ukraine are work
 <p>At factories in Pennsylvania and Iowa, steel shells are formed in 2,000-degree furnaces and filled with explosives — offering Kyiv a lifeline of ammunition.  <a href="https://nyti.ms/3Hs6O4m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Russian Diesel Is Europe’s New Embargo Target</h3>
-<sub>By Stanley Reed</sub>
-<p>The coming ban on Russian exports of refined oil products could strain energy markets and crimp Russia’s output.  <a href="https://nyti.ms/3X23iTU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.S. to Boost Military Role in the Philippines in Push to Counter China</h3>
 <sub>By Sui-Lee Wee</sub>
 <p>Washington and Manila announced a plan to give the American military access to four new locations in the Southeast Asian country, a growing strategic partner in the region.  <a href="https://nyti.ms/3JzMy3s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Primer on U.S.-Philippine Military Ties</h3>
-<sub>By Mike Ives</sub>
-<p>The United States and the Philippines have announced a plan to broaden American military access. The alliance is complicated by colonial history and rising tensions over Taiwan.  <a href="https://nyti.ms/3RnUir3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Ousts Ilhan Omar From Foreign Affairs Panel as G.O.P. Exacts Revenge</h3>
+<sub>By Karoun Demirjian</sub>
+<p>In a highly politicized vote, the Republican-led chamber criticized Ms. Omar’s statements about Israel, exacting retribution for the removal of G.O.P. members when Democrats held the majority.  <a href="https://nyti.ms/3JxTiyN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China and the U.S. Are Wooing Indonesia, and Beijing Has the Edge</h3>
-<sub>By Jane Perlez, Eric Schmitt and Sui-Lee Wee</sub>
-<p>The resource-laden nation of nearly 300 million is a big prize in the strategic battle between the United States and China for influence in Asia.  <a href="https://nyti.ms/3kWsHB3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Falling Mortgage Rates Bring Some Home Buyers Back to Market</h3>
 <sub>By Gregory Schmidt</sub>
-<p>Buyers are returning after being sidelined by a jump in borrowing costs, but experts say that the uncertain state of the economy is what will drive the market’s next moves.  <a href="https://nyti.ms/3wOoqlX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The average rate on a 30-year fixed-rate mortgage fell to 6.09 percent this week, the lowest in five months. Buyers are returning, but experts say that the state of the economy will drive the market’s next moves.  <a href="https://nyti.ms/3wOoqlX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,29 +102,41 @@ There is a lot happening around the world right now. The US and Ukraine are work
 <p>The latest standoff over raising the nation’s debt ceiling is giving new life to an old theory about how to avoid a default.  <a href="https://nyti.ms/40ynRKO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bank of England Raises Rates to 4 Percent, Its 10th Straight Increase</h3>
-<sub>By Eshe Nelson</sub>
-<p>The bank raised rates by half a point to the highest since 2008, but softened its tone on future rate increases.  <a href="https://nyti.ms/3Rsfxrz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Proud Ship Turned Into a Giant Recycling Problem. So Brazil Plans to Sink It.</h3>
+<sub>By Manuela Andreoni</sub>
+<p>The old aircraft carrier, once the navy’s flagship, is packed with asbestos. No country, including Brazil, will let it dock to be dismantled.  <a href="https://nyti.ms/3DzXZEv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>European Central Bank Raises Rates Again as Eurozone Inflation Persists</h3>
-<sub>By Eshe Nelson and Melissa Eddy</sub>
-<p>Another half-point increase pushed rates to the highest levels since 2008, and the bank said it “expects to raise them further.”  <a href="https://nyti.ms/3Hwr04U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>They Outlasted the Dinosaurs. Can They Survive Us?</h3>
+<sub>By Andrew S. Lewis</sub>
+<p>Sturgeon are disappearing from North American rivers where they thrived for millions of years. And the quest to save them is exposing the limits of the Endangered Species Act.  <a href="https://nyti.ms/3wMaybZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Shell’s Profit Soared to $42 Billion Last Year</h3>
-<sub>By Stanley Reed</sub>
-<p>The record haul, pushed by high energy prices and a hunger for liquefied natural gas, came as a new chief signaled a more “balanced approach” to renewable energy.  <a href="https://nyti.ms/3HSmpvx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Meta Soars by Most in Decade, Adding $100 Billion in Value</h3>
+<sub>By Isabella Simonetti and Mike Isaac</sub>
+<p>Mark Zuckerberg’s company recorded its biggest daily market gain in nearly a decade, as the mood brightens among tech investors.  <a href="https://nyti.ms/3Y67gMQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the College Board’s Revised African American Studies Curriculum</h3>
-<sub>By Dana Goldstein</sub>
-<p>A guide to some changes in the curriculum, and how the new course differs from standard treatments of Black history in American high schools.  <a href="https://nyti.ms/3JAXmya"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A U.S. Ambassador Finds Himself on Hostile Ground in Hungary</h3>
+<sub>By Andrew Higgins</sub>
+<p>David Pressman, a gay human rights lawyer, has been accused by pro-government media in Hungary of undermining traditional values, violating diplomatic conventions and meddling in the judiciary.  <a href="https://nyti.ms/3YbI4nw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Congo, a Pope and a Nation Revitalize One Another</h3>
+<sub>By Jason Horowitz</sub>
+<p>Francis has been slowed by age. But his enthusiastic welcome in Africa has proved a shot in the arm and provided a reminder of the papacy’s global reach.  <a href="https://nyti.ms/3DC5RW5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>It’s Beyoncé’s Time to Shine at the Grammys … Right?</h3>
+<sub>By Ben Sisario and Joe Coscarelli</sub>
+<p>With a dominant new album, “Renaissance,” and the chance to become the most awarded artist in Grammy history, all eyes are on the pop superstar ahead of Sunday’s show. What could go wrong?  <a href="https://nyti.ms/3YfrMKo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
