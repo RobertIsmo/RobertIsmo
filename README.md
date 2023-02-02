@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 2, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. The U.S. and Philippines are increasing their military presence, due to growing tensions over Taiwan. China is vying for influence in Indonesia, and military tensions are high between Russia and Ukraine. Meanwhile, the U.S. has put off giving fighter jets to Ukraine, and the Fed is raising interest rates. In Congress, it&#39;s mostly women trying to stop a spending crisis from happening, though neither Democratic nor Republican parties have taken sole responsibility for it. Finally, President Biden and House Republican McCarthy recently met to discuss the debt ceiling issue.</p>
+There is a lot going on in the world right now. The U.S. is boosting their military role in the Philippines to counter China&#39;s influence, and Europe has banned Russian diesel exports as an embargo. Meanwhile, mortgage rates have decreased which has led to some home buyers returning to the market. At the same time, many are buying chickens due to egg inflation and there are discussions around a trillion-dollar coin to avoid debt-ceiling issues. The Bank of England just raised its rates to 4% and Shell reported enormous profits of $42 billion last year. Lastly, U.S. Ambassador David Pressman is facing opposition in Hungary while young women are carving out a space of their own with a skateboarding collective in Nigeria.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. to Boost Military Role in the Philippines as Fears Over Taiwan Grow</h3>
+<h3>U.S. to Boost Military Role in the Philippines in Push to Counter China</h3>
 <sub>By Sui-Lee Wee</sub>
-<p>Washington and Manila announced a plan to give the American military access on four new locations in the Southeast Asian country, a strategic partner in the region.  <a href="https://nyti.ms/3JzMy3s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Washington and Manila announced a plan to give the American military access to four new locations in the Southeast Asian country, a growing strategic partner in the region.  <a href="https://nyti.ms/3JzMy3s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Primer on U.S.-Philippine Military Ties</h3>
+<sub>By Mike Ives</sub>
+<p>The United States and the Philippines have announced a plan to broaden American military access. The alliance is complicated by colonial history and rising tensions over Taiwan.  <a href="https://nyti.ms/3RnUir3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China and the U.S. Are Wooing Indonesia, and Beijing Has the Edge</h3>
@@ -74,64 +80,58 @@ There is a lot happening in the world right now. The U.S. and Philippines are in
 <p>The resource-laden nation of nearly 300 million is a big prize in the strategic battle between the United States and China for influence in Asia.  <a href="https://nyti.ms/3kWsHB3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Fears New Offensive Is Underway as Russia Masses Troops</h3>
-<sub>By Marc Santora and Michael Schwirtz</sub>
-<p>Russia is massing hundreds of thousands of troops and stepping up its bombardment, perhaps signaling the biggest assault since the start of the war. “I think it has started,” Ukraine’s leader says.  <a href="https://nyti.ms/3WV0sjA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hard Drinking and Murky Finances: How an American Veterans Group Imploded in Ukraine</h3>
-<sub>By Jeffrey Gettleman</sub>
-<p>The Mozart Group was training Ukrainian soldiers and evacuating frontline residents until the money ran out. Its collapse sheds light on the stresses faced by such groups.  <a href="https://nyti.ms/40n570M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What ‘No’ on F-16 Fighter Jets Might Mean for Ukraine</h3>
-<sub>By Helene Cooper and Eric Schmitt</sub>
-<p>If the usual script plays out, the Biden administration’s reluctance to provide the planes could be temporary, officials say.  <a href="https://nyti.ms/3YeDt3Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<h3>How to Forge Shells for Ukraine&#39;s Artillery</h3>
+<sub>By John Ismay, Natalie Keyssar, Lyndon French, Marisa Schwartz Taylor and Rebecca Lieberman</sub>
+<p>At factories in Pennsylvania and Iowa, steel shells are formed in 2,000-degree furnaces and filled with explosives — offering Kyiv a lifeline of ammunition.  <a href="https://nyti.ms/3Hs6O4m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Memphis Gathers in Grief at Tyre Nichols’s Funeral</h3>
-<sub>By Rick Rojas</sub>
-<p>His death after he was beaten by the police inspired anger and sorrow across the country. His family remembers him as a “beautiful soul.”  <a href="https://nyti.ms/40idSJm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Russian Diesel Is Europe’s New Embargo Target</h3>
+<sub>By Stanley Reed</sub>
+<p>The coming ban on Russian exports of refined oil products could strain energy markets and crimp Russia’s output.  <a href="https://nyti.ms/3X23iTU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Fed Raises Rates a Quarter Point and Signals More Ahead</h3>
-<sub>By Jeanna Smialek and Isabella Simonetti</sub>
-<p>America’s central bank has shifted into a new phase, raising rates more slowly as inflation shows signs of moderating.  <a href="https://nyti.ms/3DyCZhi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<h3>Falling Mortgage Rates Bring Some Home Buyers Back to Market</h3>
+<sub>By Gregory Schmidt</sub>
+<p>Buyers are returning after being sidelined by a jump in borrowing costs, but experts say that the uncertain state of the economy is what will drive the market’s next moves.  <a href="https://nyti.ms/3wOoqlX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The College Board Strips Down Its A.P. Curriculum for African American Studies</h3>
-<sub>By Anemona Hartocollis and Eliza Fawcett</sub>
-<p>The official course looks different from a previous draft: No more critical race theory, and the study of contemporary topics — like Black Lives Matter — is optional.  <a href="https://nyti.ms/3wOL2D0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Forget Pandemic Puppies. Meet the Inflation Chicken.</h3>
+<sub>By Jeanna Smialek and Ana Swanson</sub>
+<p>People are snapping up chickens that are “heavy layers” in response to egg inflation. The chick situation holds lessons about the broader economy.  <a href="https://nyti.ms/3Y2SIgL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the College Board’s Revised African American Studies Curriculum</h3>
-<sub>By Dana Goldstein</sub>
-<p>A guide to some changes in the curriculum, and how the new course differs from standard treatments of Black history in American high schools.  <a href="https://nyti.ms/3JAXmya"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Trillion-Dollar Question: Could a Coin Save the Day?</h3>
+<sub>By Alan Rappeport</sub>
+<p>The latest standoff over raising the nation’s debt ceiling is giving new life to an old theory about how to avoid a default.  <a href="https://nyti.ms/40ynRKO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Meet the Women Trying to Avoid a Spending Train Wreck in Congress</h3>
-<sub>By Emily Cochrane</sub>
-<p>For the first time, the leaders of the House and Senate Appropriations Committees are all women, as is the top White House budget official. Can they avert a fiscal disaster? They’re determined to try.  <a href="https://nyti.ms/3HQt2yp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Bank of England Raises Rates to 4 Percent</h3>
+<sub>By Eshe Nelson</sub>
+<p>The bank raised rates by half a point to the highest since 2008, but softened its tone on future rate increases.  <a href="https://nyti.ms/3Rsfxrz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Assessing Political Spin in the Debt Ceiling Fight</h3>
-<sub>By Linda Qiu</sub>
-<p>Republicans have wrongly suggested that President Biden and his party are solely responsible for the situation, while Democrats have overstated former President Donald J. Trump’s role.  <a href="https://nyti.ms/3HOKfIk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Shell’s Profit Soared to $42 Billion Last Year</h3>
+<sub>By Stanley Reed</sub>
+<p>The record haul, pushed by high energy prices and a hunger for liquefied natural gas, came as a new chief signaled a more “balanced approach” to renewable energy.  <a href="https://nyti.ms/3HSmpvx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and McCarthy Discuss Debt Limit as Financial Crisis Looms</h3>
-<sub>By Jim Tankersley, Catie Edmondson and Zolan Kanno-Youngs</sub>
-<p>The meeting, which did not appear to yield a breakthrough, highlighted the differences between the White House and the Republicans who now control the House.  <a href="https://nyti.ms/3HqhMqO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A U.S. Ambassador Finds Himself on Hostile Ground in Hungary</h3>
+<sub>By Andrew Higgins</sub>
+<p>David Pressman, a gay human rights lawyer, has been accused by pro-government media in Hungary of undermining traditional values, violating diplomatic conventions and meddling in the judiciary.  <a href="https://nyti.ms/3YbI4nw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>In This Nigerian Market, Young Women Find a Place of Their Own</h3>
+<sub>By Stephen Tayo and Charlie Brinkhurst-Cuff</sub>
+<p>The members of the female and L.G.B.T.Q. skateboarding collective Dencity have carved out a space of freedom, safety and community in Lagos.  <a href="https://nyti.ms/3Rpbe0e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
