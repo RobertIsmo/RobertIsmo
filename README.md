@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 2, Central Standard Time</p>
 <p>
-There are some interesting developments happening around the world. In the US, firms have been producing and supplying shells for artillery to help Ukraine in their efforts of defending themselves against Russian aggression. Meanwhile, Washington and Manila are working together to establish a stronger presence for the US in the Philippines, there are discussions of raising the nation’s debt ceiling, and house representatives recently ousted Ilhan Omar from a foreign affairs panel. 
-
-In the business world, mortgage rates have hit five month lows which is encouraging home buyers to return to the market, people are buying chickens instead of puppies due to an uptick in egg prices, and a tech company is soaring by adding an additional $100 billion in value. 
-
-On an international level, Brazil is planning to sink a decommissioned navy vessel rather than dismantle it due to asbestos concerns, sturgeon populations are under threat in North American rivers which is shaking up traditional conservation efforts, and Pope Francis has been invoking enthusiasm with his trip around Africa. While all that&#39;s happening, Beyoncé may make Grammy history this weekend with her new album “Lemonade”.</p>
+The U.S. is increasing their military presence in the Philippines to counter Chinese actions, and at factories in Pennsylvania and Iowa steel shells are being forged for Ukraine&#39;s artillery. Meanwhile, mortgage rates have been decreasing, which is bringing some buyers back to the housing market, but people are also buying chickens as a response to egg inflation. There is a debate popping up on how to avoid US default by potentially minting coins, while Brazil is dealing with an aircraft carrier full of asbestos that they cannot find a dock suitable to dismantle. On top of that, there is controversy over US ambassador David Pressman&#39;s postings in Hungary, sturgeon are disappearing from North American rivers, Meta stocks are soaring adding over $100 billion in value, and Grammy award-winning artist Beyoncé is predicted to make history if all goes well at this weekend&#39;s ceremony.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How to Forge Shells for Ukraine&#39;s Artillery</h3>
@@ -87,7 +83,7 @@ On an international level, Brazil is planning to sink a decommissioned navy vess
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Falling Mortgage Rates Bring Some Home Buyers Back to Market</h3>
 <sub>By Gregory Schmidt</sub>
-<p>The average rate on a 30-year fixed-rate mortgage fell to 6.09 percent this week, the lowest in five months. Buyers are returning, but experts say that the state of the economy will drive the market’s next moves.  <a href="https://nyti.ms/3wOoqlX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The average rate on a 30-year fixed-rate mortgage fell to 6.09 percent this week, the lowest in five months. Buyers are returning, but experts say the state of the economy will drive the market’s next moves.  <a href="https://nyti.ms/3wOoqlX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
