@@ -60,24 +60,48 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 1, Central Standard Time</p>
 <p>
-Right now, there is a lot happening around the world – both good and bad. The Federal Reserve just raised interest rates for the first time in a while and signaled more upcoming increases, so borrowers can likely expect to pay more on credit cards, student loans and other forms of debt, while savers will benefit. On the other hand, Russia has been massing hundreds of thousands of troops at Ukraine’s border, possibly signalling a new assault. Closer to home, American Veterans Group imploded in Ukraine due to hard drinking and murky finances. Also the College Board has stripped down its AP curriculum for African American studies and made studying topics like Black Lives Matter optional; while in Congress women are trying to avoid a spending train wreck by taking up leadership roles. And here in New York, an ex-NYPD detective&#39;s faked-evidence case crumbled after the prosecutor failed to timely turn over information to defense attorneys.</p>
+There is a lot happening in the world right now. In Ukraine, Russia has been building up its troops in what could potentially be a new assault since the start of the war. In the US there is still tension about police brutality and their use of force, as seen in the recent tragic death of Tyre Nichols, who was brutally beaten by the police. Additionally, the US Federal Reserve has raised interest rates and the College Board has overhauled its Advanced Placement (AP) African American Studies curriculum. Meanwhile, there is also an ongoing discussion between President Biden and House Minority Leader Kevin McCarthy regarding the debt limit, while some women in Congress are attempting to prevent an upcoming fiscal disaster. Finally, there is also an interesting article about how women have been misled about menopause and treatments that could help with symptoms.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Troop Buildup May Signal New Assault, Ukraine Says</h3>
+<sub>By Marc Santora and Michael Schwirtz</sub>
+<p>Russia is massing hundreds of thousands of troops and stepping up its bombardment, perhaps signaling the biggest assault since the start of the war. “I think it has started,” Ukraine’s leader says.  <a href="https://nyti.ms/3WV0sjA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hard Drinking and Murky Finances: How an American Veterans Group Imploded in Ukraine</h3>
+<sub>By Jeffrey Gettleman</sub>
+<p>The Mozart Group was training Ukrainian soldiers and evacuating frontline residents until the money ran out. Its collapse sheds light on the stresses faced by such groups.  <a href="https://nyti.ms/40n570M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What ‘No’ on F-16 Fighter Jets Might Mean for Ukraine</h3>
+<sub>By Helene Cooper and Eric Schmitt</sub>
+<p>If the usual script plays out, the Biden administration’s reluctance to provide the planes could be temporary, officials say.  <a href="https://nyti.ms/3YeDt3Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Memphis Gathers in Grief at Tyre Nichols’s Funeral</h3>
+<sub>By Rick Rojas</sub>
+<p>His death after he was beaten by the police inspired anger and sorrow across the country. His family remembers him as a “beautiful soul.”  <a href="https://nyti.ms/40idSJm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Fed Raises Rates a Quarter Point and Signals More Ahead</h3>
 <sub>By Jeanna Smialek and Isabella Simonetti</sub>
 <p>America’s central bank has shifted into a new phase, raising rates more slowly as inflation shows signs of moderating.  <a href="https://nyti.ms/3DyCZhi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Fed Rate Increases Mean for Mortgages, Credit Cards and More</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>Savers will benefit and borrowers can expect to pay more on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3kTFBzH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The College Board Strips Down Its A.P. Curriculum for African American Studies</h3>
 <sub>By Anemona Hartocollis and Eliza Fawcett</sub>
 <p>The official course looks different from a previous draft: No more critical race theory, and the study of contemporary topics — like Black Lives Matter — is optional.  <a href="https://nyti.ms/3wOL2D0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the College Board’s Revised African American Studies Curriculum</h3>
+<sub>By Dana Goldstein</sub>
+<p>A guide to some changes in the curriculum, and how the new course differs from standard treatments of Black history in American high schools.  <a href="https://nyti.ms/3JAXmya"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,18 +122,6 @@ Right now, there is a lot happening around the world – both good and bad. The 
 <p>The meeting, which did not appear to yield a breakthrough, highlighted the differences between the White House and the Republicans who now control the House.  <a href="https://nyti.ms/3HqhMqO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Troop Buildup May Signal New Assault, Ukraine Says</h3>
-<sub>By Marc Santora and Michael Schwirtz</sub>
-<p>Russia is massing hundreds of thousands of troops and stepping up its bombardment, perhaps signaling the biggest assault since the start of the war. “I think it has started,” Ukraine’s leader says.  <a href="https://nyti.ms/3WV0sjA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hard Drinking and Murky Finances: How an American Veterans Group Imploded in Ukraine</h3>
-<sub>By Jeffrey Gettleman</sub>
-<p>The Mozart Group was training Ukrainian soldiers and evacuating frontline residents until the money ran out. Its collapse sheds light on the stresses faced by such groups.  <a href="https://nyti.ms/40n570M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Women Have Been Misled About Menopause</h3>
 <sub>By Susan Dominus</sub>
@@ -120,18 +132,6 @@ Right now, there is a lot happening around the world – both good and bad. The 
 <h3>She Lost Her Childhood Home Over Taxes. Then It Erupted in Flames.</h3>
 <sub>By Tracey Tully</sub>
 <p>For years, Eve Morawski waged an epic battle against real estate investors who bought her tax debt and ultimately seized her Maplewood, N.J., home.  <a href="https://nyti.ms/3wJMSVx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Eager to Challenge Trump, Republicans Aren’t So Eager to Be the First</h3>
-<sub>By Maggie Haberman, Michael C. Bender and Reid J. Epstein</sub>
-<p>Nikki Haley is expected to join the 2024 race this month, but other G.O.P. contenders are taking a wait-and-see approach. Some anti-Trump Republicans worry that too much dithering could be costly.  <a href="https://nyti.ms/3X1vbvb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How a Faked-Evidence Case Against an Ex-N.Y.P.D. Detective Crumbled</h3>
-<sub>By Jonah E. Bromwich and Maria Cramer</sub>
-<p>The prosecutor in charge repeatedly failed to turn over information to defense attorneys, infuriating a judge, who called the delayed handoff “outrageous.”  <a href="https://nyti.ms/3RnCvjI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
