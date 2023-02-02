@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 1, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. The Federal Reserve has recently increased rates, meaning people with credit cards and loans should expect to pay more, while savers will get somewhat of a break. School curriculum is being adjusted in some places, as issues of racism and how they&#39;re addressed in education become more prominent topics of discussion. Also, there are powerful women at the helm of important Congressional and White House fiscal roles working to try and prevent an impending fiscal disaster. In other news, Russia has been building up military forces near its border with Ukraine, possibly signaling an imminent military invasions. Meanwhile, back at home, complex issues such as taxation and the migrant crisis are being faced head-on by politicians in New York, as well as elsewhere. On a more personal level, individuals dealing with menopause or ruminating thoughts have been given new advice on treatment and strategies for getting relief. And finally, there is the election season looming ahead with lots of debate about who Democrats should be voting for . . .</p>
+Right now, there is a lot happening around the world – both good and bad. The Federal Reserve just raised interest rates for the first time in a while and signaled more upcoming increases, so borrowers can likely expect to pay more on credit cards, student loans and other forms of debt, while savers will benefit. On the other hand, Russia has been massing hundreds of thousands of troops at Ukraine’s border, possibly signalling a new assault. Closer to home, American Veterans Group imploded in Ukraine due to hard drinking and murky finances. Also the College Board has stripped down its AP curriculum for African American studies and made studying topics like Black Lives Matter optional; while in Congress women are trying to avoid a spending train wreck by taking up leadership roles. And here in New York, an ex-NYPD detective&#39;s faked-evidence case crumbled after the prosecutor failed to timely turn over information to defense attorneys.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Fed Raises Rates a Quarter Point and Signals More Ahead</h3>
+<sub>By Jeanna Smialek and Isabella Simonetti</sub>
+<p>America’s central bank has shifted into a new phase, raising rates more slowly as inflation shows signs of moderating.  <a href="https://nyti.ms/3DyCZhi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Fed Rate Increases Mean for Mortgages, Credit Cards and More</h3>
 <sub>By Tara Siegel Bernard</sub>
@@ -71,7 +77,7 @@ There is a lot happening in the world right now. The Federal Reserve has recentl
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The College Board Strips Down Its A.P. Curriculum for African American Studies</h3>
 <sub>By Anemona Hartocollis and Eliza Fawcett</sub>
-<p>After criticism from Gov. Ron DeSantis of Florida, the official course looks different: No more critical race theory, and the study of contemporary topics — like Black Lives Matter — is optional.  <a href="https://nyti.ms/3wOL2D0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The official course looks different from a previous draft: No more critical race theory, and the study of contemporary topics — like Black Lives Matter — is optional.  <a href="https://nyti.ms/3wOL2D0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,9 +87,15 @@ There is a lot happening in the world right now. The Federal Reserve has recentl
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and McCarthy Meet to Discuss Debt Limit as Both Sides Trade Barbs</h3>
-<sub>By Jim Tankersley and Catie Edmondson</sub>
-<p>The hours leading up to the meeting have highlighted the differences between the White House and the Republicans who now control the House.  <a href="https://nyti.ms/3HqhMqO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Assessing Political Spin in the Debt Ceiling Fight</h3>
+<sub>By Linda Qiu</sub>
+<p>Republicans have wrongly suggested that President Biden and his party are solely responsible for the situation, while Democrats have overstated former President Donald J. Trump’s role.  <a href="https://nyti.ms/3HOKfIk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden and McCarthy Discuss Debt Limit as Financial Crisis Looms</h3>
+<sub>By Jim Tankersley, Catie Edmondson and Zolan Kanno-Youngs</sub>
+<p>The meeting, which did not appear to yield a breakthrough, highlighted the differences between the White House and the Republicans who now control the House.  <a href="https://nyti.ms/3HqhMqO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -93,9 +105,9 @@ There is a lot happening in the world right now. The Federal Reserve has recentl
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An ailing Navalny describes a prison move that will extend his isolation.</h3>
-<sub>By Anushka Patil</sub>
-<p>“Even maniacs and serial killers serving life sentences have the right to receive a visit, but I don’t,” the Russian opposition leader wrote on Twitter.  <a href="https://nyti.ms/3wJcH8l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Hard Drinking and Murky Finances: How an American Veterans Group Imploded in Ukraine</h3>
+<sub>By Jeffrey Gettleman</sub>
+<p>The Mozart Group was training Ukrainian soldiers and evacuating frontline residents until the money ran out. Its collapse sheds light on the stresses faced by such groups.  <a href="https://nyti.ms/40n570M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -110,28 +122,16 @@ There is a lot happening in the world right now. The Federal Reserve has recentl
 <p>For years, Eve Morawski waged an epic battle against real estate investors who bought her tax debt and ultimately seized her Maplewood, N.J., home.  <a href="https://nyti.ms/3wJMSVx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Eager to Challenge Trump, Republicans Aren’t So Eager to Be the First</h3>
+<sub>By Maggie Haberman, Michael C. Bender and Reid J. Epstein</sub>
+<p>Nikki Haley is expected to join the 2024 race this month, but other G.O.P. contenders are taking a wait-and-see approach. Some anti-Trump Republicans worry that too much dithering could be costly.  <a href="https://nyti.ms/3X1vbvb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Hochul’s $227 Billion Budget Plan Targets New York City’s Urgent Needs</h3>
-<sub>By Luis Ferré-Sadurní</sub>
-<p>Gov. Kathy Hochul’s budget proposal included a multiyear plan to help bail out the city’s ailing subway system and address the migrant crisis.  <a href="https://nyti.ms/3HoDaNo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Tom Brady’s Retirement Is the Best Thing for Football</h3>
-<sub>By Kurt Streeter</sub>
-<p>Give Brady his due but let Patrick Mahomes and all of the other young, exciting quarterbacks take it from here.  <a href="https://nyti.ms/3HOdkUa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>How to Stop Ruminating</h3>
-<sub>By Hannah Seo</sub>
-<p>Stuck in a mental loop of worries and problems that seem to have no end? Here’s what you can do.  <a href="https://nyti.ms/3DvIugM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>How Much Longer Can ‘Vote Blue No Matter Who!’ Last?</h3>
-<sub>By Thomas B. Edsall</sub>
-<p>“It’s important not to overstate the damage that some perceive liberalism as having done to the Democrats’ electoral fortunes,” one scholar says.  <a href="https://nyti.ms/3HOwxW6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How a Faked-Evidence Case Against an Ex-N.Y.P.D. Detective Crumbled</h3>
+<sub>By Jonah E. Bromwich and Maria Cramer</sub>
+<p>The prosecutor in charge repeatedly failed to turn over information to defense attorneys, infuriating a judge, who called the delayed handoff “outrageous.”  <a href="https://nyti.ms/3RnCvjI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
