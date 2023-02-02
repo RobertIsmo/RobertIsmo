@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 2, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The U.S. is boosting their military role in the Philippines to counter China&#39;s influence, and Europe has banned Russian diesel exports as an embargo. Meanwhile, mortgage rates have decreased which has led to some home buyers returning to the market. At the same time, many are buying chickens due to egg inflation and there are discussions around a trillion-dollar coin to avoid debt-ceiling issues. The Bank of England just raised its rates to 4% and Shell reported enormous profits of $42 billion last year. Lastly, U.S. Ambassador David Pressman is facing opposition in Hungary while young women are carving out a space of their own with a skateboarding collective in Nigeria.</p>
+There is a lot happening around the world right now. The US and Ukraine are working together to forge shells for Ukraine&#39;s artillery and Russia has banned exports of refined oil products to Europe, causing strain in energy markets. Meanwhile, the US and the Philippines have agreed to give the American military access to four new locations in Thailand amidst rising tensions with China. China is also trying to gain influence in Indonesia by wooing its vast resources for strategic control. With mortgage rates falling, more buyers are returning back to the market but the overall economic state remains uncertain. On a lighter note, people are buying chickens as an alternative due to egg inflation! Lastly, many banks are raising interest rates with Bank of England raising it up to 4%, while Shell&#39;s profits soared last year.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How to Forge Shells for Ukraine&#39;s Artillery</h3>
+<sub>By John Ismay, Natalie Keyssar, Lyndon French, Marisa Schwartz Taylor and Rebecca Lieberman</sub>
+<p>At factories in Pennsylvania and Iowa, steel shells are formed in 2,000-degree furnaces and filled with explosives — offering Kyiv a lifeline of ammunition.  <a href="https://nyti.ms/3Hs6O4m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Russian Diesel Is Europe’s New Embargo Target</h3>
+<sub>By Stanley Reed</sub>
+<p>The coming ban on Russian exports of refined oil products could strain energy markets and crimp Russia’s output.  <a href="https://nyti.ms/3X23iTU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.S. to Boost Military Role in the Philippines in Push to Counter China</h3>
 <sub>By Sui-Lee Wee</sub>
@@ -78,18 +90,6 @@ There is a lot going on in the world right now. The U.S. is boosting their milit
 <h3>China and the U.S. Are Wooing Indonesia, and Beijing Has the Edge</h3>
 <sub>By Jane Perlez, Eric Schmitt and Sui-Lee Wee</sub>
 <p>The resource-laden nation of nearly 300 million is a big prize in the strategic battle between the United States and China for influence in Asia.  <a href="https://nyti.ms/3kWsHB3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Forge Shells for Ukraine&#39;s Artillery</h3>
-<sub>By John Ismay, Natalie Keyssar, Lyndon French, Marisa Schwartz Taylor and Rebecca Lieberman</sub>
-<p>At factories in Pennsylvania and Iowa, steel shells are formed in 2,000-degree furnaces and filled with explosives — offering Kyiv a lifeline of ammunition.  <a href="https://nyti.ms/3Hs6O4m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Russian Diesel Is Europe’s New Embargo Target</h3>
-<sub>By Stanley Reed</sub>
-<p>The coming ban on Russian exports of refined oil products could strain energy markets and crimp Russia’s output.  <a href="https://nyti.ms/3X23iTU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -111,9 +111,15 @@ There is a lot going on in the world right now. The U.S. is boosting their milit
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bank of England Raises Rates to 4 Percent</h3>
+<h3>Bank of England Raises Rates to 4 Percent, Its 10th Straight Increase</h3>
 <sub>By Eshe Nelson</sub>
 <p>The bank raised rates by half a point to the highest since 2008, but softened its tone on future rate increases.  <a href="https://nyti.ms/3Rsfxrz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>European Central Bank Raises Rates Again as Eurozone Inflation Persists</h3>
+<sub>By Eshe Nelson and Melissa Eddy</sub>
+<p>Another half-point increase pushed rates to the highest levels since 2008, and the bank said it “expects to raise them further.”  <a href="https://nyti.ms/3Hwr04U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -122,16 +128,10 @@ There is a lot going on in the world right now. The U.S. is boosting their milit
 <p>The record haul, pushed by high energy prices and a hunger for liquefied natural gas, came as a new chief signaled a more “balanced approach” to renewable energy.  <a href="https://nyti.ms/3HSmpvx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A U.S. Ambassador Finds Himself on Hostile Ground in Hungary</h3>
-<sub>By Andrew Higgins</sub>
-<p>David Pressman, a gay human rights lawyer, has been accused by pro-government media in Hungary of undermining traditional values, violating diplomatic conventions and meddling in the judiciary.  <a href="https://nyti.ms/3YbI4nw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>In This Nigerian Market, Young Women Find a Place of Their Own</h3>
-<sub>By Stephen Tayo and Charlie Brinkhurst-Cuff</sub>
-<p>The members of the female and L.G.B.T.Q. skateboarding collective Dencity have carved out a space of freedom, safety and community in Lagos.  <a href="https://nyti.ms/3Rpbe0e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the College Board’s Revised African American Studies Curriculum</h3>
+<sub>By Dana Goldstein</sub>
+<p>A guide to some changes in the curriculum, and how the new course differs from standard treatments of Black history in American high schools.  <a href="https://nyti.ms/3JAXmya"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
