@@ -58,12 +58,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, February 1, Central Standard Time</p>
+<p>It is Thursday, February 2, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Ukraine, Russia has been building up its troops in what could potentially be a new assault since the start of the war. In the US there is still tension about police brutality and their use of force, as seen in the recent tragic death of Tyre Nichols, who was brutally beaten by the police. Additionally, the US Federal Reserve has raised interest rates and the College Board has overhauled its Advanced Placement (AP) African American Studies curriculum. Meanwhile, there is also an ongoing discussion between President Biden and House Minority Leader Kevin McCarthy regarding the debt limit, while some women in Congress are attempting to prevent an upcoming fiscal disaster. Finally, there is also an interesting article about how women have been misled about menopause and treatments that could help with symptoms.</p>
+Currently, there is a lot going on abroad in multiple regions of the world. In the Philippines, US troops are set to have increased access on four new bases as part of a strategic partnership in the region. Further, China and the US are both vying for influence in Indonesia which is resource-rich and home to nearly 300 million people. Additionally, tensions between Russia and Ukraine are growing as Russia is massing hundreds of thousands of troops by the Ukrainian border. On our home-front, the Federal Reserve recently raised rates due to moderating inflation. The College Board also recently revised its Advanced Placement curriculum for African American Studies and shifted away from critical race theory. Finally, President Biden and House Minority Leader Kevin McCarthy were just discussing the potential debt limit as a financial crisis seems eminent.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Troop Buildup May Signal New Assault, Ukraine Says</h3>
+<h3>U.S. to Boost Military Role in the Philippines as Fears Over Taiwan Grow</h3>
+<sub>By Sui-Lee Wee</sub>
+<p>Washington and Manila announced a plan to increase American military access on four new bases in the Southeast Asian country, a strategic partner in the region.  <a href="https://nyti.ms/3JzMy3s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China and the U.S. Are Wooing Indonesia, and Beijing Has the Edge</h3>
+<sub>By Jane Perlez, Eric Schmitt and Sui-Lee Wee</sub>
+<p>The resource-laden nation of nearly 300 million is a big prize in the strategic battle between the United States and China for influence in Asia.  <a href="https://nyti.ms/3kWsHB3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Fears New Offensive Is Underway as Russia Masses Troops</h3>
 <sub>By Marc Santora and Michael Schwirtz</sub>
 <p>Russia is massing hundreds of thousands of troops and stepping up its bombardment, perhaps signaling the biggest assault since the start of the war. “I think it has started,” Ukraine’s leader says.  <a href="https://nyti.ms/3WV0sjA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
@@ -120,18 +132,6 @@ There is a lot happening in the world right now. In Ukraine, Russia has been bui
 <h3>Biden and McCarthy Discuss Debt Limit as Financial Crisis Looms</h3>
 <sub>By Jim Tankersley, Catie Edmondson and Zolan Kanno-Youngs</sub>
 <p>The meeting, which did not appear to yield a breakthrough, highlighted the differences between the White House and the Republicans who now control the House.  <a href="https://nyti.ms/3HqhMqO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Women Have Been Misled About Menopause</h3>
-<sub>By Susan Dominus</sub>
-<p>Hot flashes, sleeplessness, pain during sex: For some of menopause’s worst symptoms, there’s an established treatment. Why aren’t more women offered it?  <a href="https://nyti.ms/3wIGZIj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>She Lost Her Childhood Home Over Taxes. Then It Erupted in Flames.</h3>
-<sub>By Tracey Tully</sub>
-<p>For years, Eve Morawski waged an epic battle against real estate investors who bought her tax debt and ultimately seized her Maplewood, N.J., home.  <a href="https://nyti.ms/3wJMSVx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
