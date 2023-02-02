@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 2, Central Standard Time</p>
 <p>
-Currently, there is a lot going on abroad in multiple regions of the world. In the Philippines, US troops are set to have increased access on four new bases as part of a strategic partnership in the region. Further, China and the US are both vying for influence in Indonesia which is resource-rich and home to nearly 300 million people. Additionally, tensions between Russia and Ukraine are growing as Russia is massing hundreds of thousands of troops by the Ukrainian border. On our home-front, the Federal Reserve recently raised rates due to moderating inflation. The College Board also recently revised its Advanced Placement curriculum for African American Studies and shifted away from critical race theory. Finally, President Biden and House Minority Leader Kevin McCarthy were just discussing the potential debt limit as a financial crisis seems eminent.</p>
+There is a lot happening in the world right now. The U.S. and Philippines are increasing their military presence, due to growing tensions over Taiwan. China is vying for influence in Indonesia, and military tensions are high between Russia and Ukraine. Meanwhile, the U.S. has put off giving fighter jets to Ukraine, and the Fed is raising interest rates. In Congress, it&#39;s mostly women trying to stop a spending crisis from happening, though neither Democratic nor Republican parties have taken sole responsibility for it. Finally, President Biden and House Republican McCarthy recently met to discuss the debt ceiling issue.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.S. to Boost Military Role in the Philippines as Fears Over Taiwan Grow</h3>
 <sub>By Sui-Lee Wee</sub>
-<p>Washington and Manila announced a plan to increase American military access on four new bases in the Southeast Asian country, a strategic partner in the region.  <a href="https://nyti.ms/3JzMy3s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Washington and Manila announced a plan to give the American military access on four new locations in the Southeast Asian country, a strategic partner in the region.  <a href="https://nyti.ms/3JzMy3s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
