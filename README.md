@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 3, Central Standard Time</p>
 <p>
-It seems like the world has been going through a lot lately! There are signs that the US economy is picking up, but wages remain sluggish. Markets have reacted negatively to hot jobs numbers. In China, government officials say that a suspected spy balloon was actually just a civilian airship that had strayed off course. Meanwhile, Chinese companies are investing billions in Mexico due to shipping chaos. Ukraine&#39;s sports minister is threatening to boycott the upcoming Olympics if Russian and Belarusian athletes are allowed to compete. In Africa, South Sudan is struggling with humanitarian issues, and Pope Francis has gone to help draw attention to the situation. Closer to home, powerful lobbyists are behind some of Washington&#39;s top politicians and term limits are being discussed again by Republicans. As if all of this isn&#39;t enough, apparently now Apple watches are sending false 911 alerts! And as if it couldn&#39;t get any worse, parts of the northeast US will be experiencing record cold temperatures over the next few days. A lot going on in the world!</p>
+There is a lot going on in the world right now! Secretary of State Blinken has postponed his trip to China after an intelligence-gathering balloon appeared over Montana. Chinese companies are investing billions in Mexico to keep their US sales up. In the US, the Fed is tracking incoming labor figures as the leisure and hospitality industry recovers from pandemic lockdowns. Fears of Russian nuclear weapons use have decreased but could get worse again. Meanwhile, Apple devices are sending false emergency signals to dispatchers due to a glitch. Jeff Miller is House Speaker Kevin McCarthy&#39;s top fundraiser drawing scrutiny from Washington. Polls on Trump approval are conflicting, but higher-quality surveys indicate he&#39;s way down. There has been a rise of literary criticism about culture wars too. In Memphis, trauma continues with Tyre Nichols&#39; fatal beating. Across the Northeast, officials are warning people to brace for an Arctic blast and intense cold weather due to rapidly changing climate in the Arctic Circle.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Strong hiring hints at more work ahead for the Fed, but wages cool.</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Fed is tracking incoming labor figures as it decides how high interest rates need to go and how long they should stay elevated.  <a href="https://nyti.ms/3X6zipY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Markets flinch at hot jobs numbers.</h3>
-<sub>By Isabella Simonetti</sub>
-<p>  <a href="https://nyti.ms/40ovy6a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Says Suspected Spy Balloon Is a ‘Civilian Airship’ That Strayed Off Course</h3>
-<sub>By Chris Buckley</sub>
-<p>Beijing said the object, which had been seen flying over Montana, was used mainly for weather research. It was not immediately clear whether the explanation would satisfy the U.S.  <a href="https://nyti.ms/3HU9yc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Blinken Postpones Trip to China After Balloon Is Detected Over U.S.</h3>
+<sub>By Edward Wong and Chris Buckley</sub>
+<p>Beijing said the object, which had been seen flying over Montana, was used mainly for weather research and had strayed off course. The Pentagon described it as an “intelligence-gathering balloon.”  <a href="https://nyti.ms/3HU9yc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -86,22 +74,28 @@ It seems like the world has been going through a lot lately! There are signs tha
 <p>Alarmed by shipping chaos and geopolitical fractures, exporters from China are setting up factories in Mexico to preserve their sales to the United States.  <a href="https://nyti.ms/3YkPZz3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Ukraine Renews Threat to Boycott Olympics if Russians Compete</h3>
-<sub>By Tariq Panja</sub>
-<p>Ukraine’s sports minister said his country was marshaling allies to press the International Olympic Committee to bar Russian and Belarusian athletes.  <a href="https://nyti.ms/40ooEOe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Strong hiring hints at more work ahead for the Fed, but wages cool.</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Fed is tracking incoming labor figures as it decides how high interest rates need to go and how long they should stay elevated.  <a href="https://nyti.ms/3X6zipY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Leisure and hospitality employers led the outsized January gains.</h3>
+<sub>By Lydia DePillis</sub>
+<p>The industry has been rebuilding after the pandemic lockdowns. Professional and business services and government employers also hired briskly.  <a href="https://nyti.ms/3HwKzdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Soaring Death Toll Gives Grim Insight Into Russian Tactics</h3>
-<sub>By Helene Cooper, Eric Schmitt and Thomas Gibbons-Neff</sub>
-<p>Moscow is sending poorly trained recruits, including convicts, to the front lines in eastern Ukraine to pave the way for more seasoned fighters, U.S. and allied officials say.  <a href="https://nyti.ms/3HUWd3p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<h3>Fears of Russian Nuclear Weapons Use Have Diminished, but Could Re-emerge</h3>
+<sub>By Julian E. Barnes and David E. Sanger</sub>
+<p>Nearly a year into the war in Ukraine, U.S. policymakers and intelligence analysts have more confidence that they understand at least some of President Vladimir V. Putin’s red lines.  <a href="https://nyti.ms/3Y3Q8XK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The World’s Newest Country Is Broken and Forgotten. Enter Pope Francis.</h3>
-<sub>By Declan Walsh and Jim Huylebroek</sub>
-<p>The soaring hopes at South Sudan’s creation in 2011 have been cruelly dashed. Pope Francis arrived there with other religious leaders on Friday to highlight its plight.  <a href="https://nyti.ms/3Yg6VXe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>‘My Watch Thinks I’m Dead’</h3>
+<sub>By Matt Richtel</sub>
+<p>Dispatchers for 911 are being inundated with false, automated distress calls from Apple devices owned by skiers who are very much alive.  <a href="https://nyti.ms/3jtCPky"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,23 +110,29 @@ It seems like the world has been going through a lot lately! There are signs tha
 <p>The polls are surprisingly divided, but higher-quality surveys point to an answer.  <a href="https://nyti.ms/3JDlqQZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Revive a Debate on Term Limits</h3>
-<sub>By Carl Hulse</sub>
-<p>Similar proposals to restrict lawmakers’ tenures that the party pushed in the 1990s went nowhere. In this new Congress, the result is likely to be the same.  <a href="https://nyti.ms/3YjUQAn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>‘My Watch Thinks I’m Dead’</h3>
-<sub>By Matt Richtel</sub>
-<p>Dispatchers for 911 are being inundated with false, automated distress calls from Apple devices owned by skiers who are very much alive.  <a href="https://nyti.ms/3jtCPky"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>What Is Literary Criticism For?</h3>
+<sub>By Jennifer Schuessler</sub>
+<p>John Guillory’s “Cultural Capital,” published amid the 1990s canon wars, became a classic. In a follow-up, “Professing Criticism,” he takes on his field’s deep funk.  <a href="https://nyti.ms/3YhSy4U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Northeast Braces for the Worst Wind Chill in Decades</h3>
-<sub>By Judson Jones and Jenna Russell</sub>
-<p>Forecasters say “a once-in-a-generation cold” could grip parts of the region on Friday and into Saturday.  <a href="https://nyti.ms/3wNR3zP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<h3>‘We Are in Trauma’: Memphis Reels From the Latest of Many Blows</h3>
+<sub>By Richard Fausset</sub>
+<p>Tyre Nichols’s fatal beating took its place on a roster of traumatic events that have helped shape the story of Memphis as much as its world-famous musical innovations.  <a href="https://nyti.ms/3l5BtNd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Across the Northeast, Officials Warn of a Dangerous Arctic Blast</h3>
+<sub>By Lola Fadulu, Judson Jones and Jenna Russell</sub>
+<p>Cold temperatures and fierce winds are expected to intensify throughout Friday and into Saturday.  <a href="https://nyti.ms/3WX0Vlr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>What Is the Polar Vortex? And Other Cold-Weather Climate Questions.</h3>
+<sub>By Henry Fountain</sub>
+<p>The Northeast is plunging into a deep freeze. Here’s what scientists know, and don’t know, about the role of rapid Arctic warming.  <a href="https://nyti.ms/3Wk4jr1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
