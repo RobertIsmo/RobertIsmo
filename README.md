@@ -60,42 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 2, Central Standard Time</p>
 <p>
-The U.S. is increasing their military presence in the Philippines to counter Chinese actions, and at factories in Pennsylvania and Iowa steel shells are being forged for Ukraine&#39;s artillery. Meanwhile, mortgage rates have been decreasing, which is bringing some buyers back to the housing market, but people are also buying chickens as a response to egg inflation. There is a debate popping up on how to avoid US default by potentially minting coins, while Brazil is dealing with an aircraft carrier full of asbestos that they cannot find a dock suitable to dismantle. On top of that, there is controversy over US ambassador David Pressman&#39;s postings in Hungary, sturgeon are disappearing from North American rivers, Meta stocks are soaring adding over $100 billion in value, and Grammy award-winning artist Beyoncé is predicted to make history if all goes well at this weekend&#39;s ceremony.</p>
+The world is in a state of flux right now. In Russia, there have been reports that the government is sending low-level recruits and convicts to fight in eastern Ukraine, and President Putin has used the 80th anniversary of victory at Stalingrad to effectively justify the invasion. Meanwhile, Ukrainian President Zelensky has been cracking down on corruption - possibly in preparation for E.U. accession talks - as China engages in suspicious activities like sending balloons over the northwest U.S., and the U.S. is attempting to deter China with a larger military presence in the Philippines. There&#39;s also some big news in tech; after years of expansion and generous spending, tech giants are now scaling back, and Meta has seen a huge surge in its market value, adding $100 billion to its worth. Lastly, climate change continues to be an issue, as Brazil plans to sink an old asbestos-filled aircraft carrier to prevent it from docking elsewhere. And back home, we&#39;re bracing for extreme wintry temperatures and thousands of people in Texas are facing extended power outages due to a deadly ice storm. Oh, and former Trump executive Allen Weisselberg might be facing fraud charges soon, too!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Forge Shells for Ukraine&#39;s Artillery</h3>
-<sub>By John Ismay, Natalie Keyssar, Lyndon French, Marisa Schwartz Taylor and Rebecca Lieberman</sub>
-<p>At factories in Pennsylvania and Iowa, steel shells are formed in 2,000-degree furnaces and filled with explosives — offering Kyiv a lifeline of ammunition.  <a href="https://nyti.ms/3Hs6O4m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Soaring Death Toll Gives Grim Insight Into Russian Tactics</h3>
+<sub>By Helene Cooper, Eric Schmitt and Thomas Gibbons-Neff</sub>
+<p>Moscow is sending poorly trained recruits, including convicts, to the front lines in eastern Ukraine to pave the way for more seasoned fighters, U.S. and allied officials say.  <a href="https://nyti.ms/3HUWd3p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. to Boost Military Role in the Philippines in Push to Counter China</h3>
-<sub>By Sui-Lee Wee</sub>
-<p>Washington and Manila announced a plan to give the American military access to four new locations in the Southeast Asian country, a growing strategic partner in the region.  <a href="https://nyti.ms/3JzMy3s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<h3>As Russia Strikes Ukrainian Civilians, Putin Tells His People the War Is Just</h3>
+<sub>By Michael Schwirtz and Anton Troianovski</sub>
+<p>Invoking World War II on the 80th anniversary of victory at Stalingrad, Mr. Putin repeated his false justifications for an invasion that has taken a staggering toll.  <a href="https://nyti.ms/3kVvASE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In High-Profile Raids, Zelensky Showcases Will to Tackle Corruption</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>President Volodymyr Zelensky is eager to highlight his crackdown on corruption, ahead of E.U. accession talks and possible Western investigations of war aid.  <a href="https://nyti.ms/3HQuRLw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Ousts Ilhan Omar From Foreign Affairs Panel as G.O.P. Exacts Revenge</h3>
-<sub>By Karoun Demirjian</sub>
-<p>In a highly politicized vote, the Republican-led chamber criticized Ms. Omar’s statements about Israel, exacting retribution for the removal of G.O.P. members when Democrats held the majority.  <a href="https://nyti.ms/3JxTiyN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Pentagon Discovers Suspected China Spy Balloon Over Northwest United States</h3>
+<sub>By Helene Cooper</sub>
+<p>The revelation comes days before Secretary of State Antony Blinken’s visit to Beijing, where he is expected to meet with President Xi Jinping.  <a href="https://nyti.ms/3wULsb0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Falling Mortgage Rates Bring Some Home Buyers Back to Market</h3>
-<sub>By Gregory Schmidt</sub>
-<p>The average rate on a 30-year fixed-rate mortgage fell to 6.09 percent this week, the lowest in five months. Buyers are returning, but experts say the state of the economy will drive the market’s next moves.  <a href="https://nyti.ms/3wOoqlX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Forget Pandemic Puppies. Meet the Inflation Chicken.</h3>
-<sub>By Jeanna Smialek and Ana Swanson</sub>
-<p>People are snapping up chickens that are “heavy layers” in response to egg inflation. The chick situation holds lessons about the broader economy.  <a href="https://nyti.ms/3Y2SIgL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Trillion-Dollar Question: Could a Coin Save the Day?</h3>
-<sub>By Alan Rappeport</sub>
-<p>The latest standoff over raising the nation’s debt ceiling is giving new life to an old theory about how to avoid a default.  <a href="https://nyti.ms/40ynRKO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Aims to Deter China With Greater U.S. Military Presence in Philippines</h3>
+<sub>By Edward Wong and Eric Schmitt</sub>
+<p>U.S. officials say they are preparing to surge forces in the event of conflict with China, including over Taiwan, but do not intend to build up permanent bases.  <a href="https://nyti.ms/3JBsNbw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -104,10 +98,10 @@ The U.S. is increasing their military presence in the Philippines to counter Chi
 <p>The old aircraft carrier, once the navy’s flagship, is packed with asbestos. No country, including Brazil, will let it dock to be dismantled.  <a href="https://nyti.ms/3DzXZEv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>They Outlasted the Dinosaurs. Can They Survive Us?</h3>
-<sub>By Andrew S. Lewis</sub>
-<p>Sturgeon are disappearing from North American rivers where they thrived for millions of years. And the quest to save them is exposing the limits of the Endangered Species Act.  <a href="https://nyti.ms/3wMaybZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Tech’s Biggest Companies Discover Austerity, to the Relief of Investors</h3>
+<sub>By Tripp Mickle, Karen Weise and Nico Grant</sub>
+<p>After years of expansion and billions in profits, Big Tech is pulling back from its famously lavish spending as a long boom finally ends.  <a href="https://nyti.ms/3JCzvhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -116,22 +110,28 @@ The U.S. is increasing their military presence in the Philippines to counter Chi
 <p>Mark Zuckerberg’s company recorded its biggest daily market gain in nearly a decade, as the mood brightens among tech investors.  <a href="https://nyti.ms/3Y67gMQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A U.S. Ambassador Finds Himself on Hostile Ground in Hungary</h3>
-<sub>By Andrew Higgins</sub>
-<p>David Pressman, a gay human rights lawyer, has been accused by pro-government media in Hungary of undermining traditional values, violating diplomatic conventions and meddling in the judiciary.  <a href="https://nyti.ms/3YbI4nw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>They Outlasted the Dinosaurs. Can They Survive Us?</h3>
+<sub>By Andrew S. Lewis</sub>
+<p>Sturgeon are disappearing from North American rivers where they thrived for millions of years. And the quest to save them is exposing the limits of the Endangered Species Act.  <a href="https://nyti.ms/3wMaybZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Congo, a Pope and a Nation Revitalize One Another</h3>
-<sub>By Jason Horowitz</sub>
-<p>Francis has been slowed by age. But his enthusiastic welcome in Africa has proved a shot in the arm and provided a reminder of the papacy’s global reach.  <a href="https://nyti.ms/3DC5RW5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Northeast Braces for the Worst Windchill in Decades</h3>
+<sub>By Judson Jones and Jenna Russell</sub>
+<p>Forecasters say “a once-in-a-generation cold” could grip parts of the region on Friday and into Saturday.  <a href="https://nyti.ms/3wNR3zP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>It’s Beyoncé’s Time to Shine at the Grammys … Right?</h3>
-<sub>By Ben Sisario and Joe Coscarelli</sub>
-<p>With a dominant new album, “Renaissance,” and the chance to become the most awarded artist in Grammy history, all eyes are on the pop superstar ahead of Sunday’s show. What could go wrong?  <a href="https://nyti.ms/3YfrMKo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Power Outages Linger in Texas After Deadly Ice Storm</h3>
+<sub>By Derrick Bryson Taylor, Johnny Diaz and Jesus Jiménez</sub>
+<p>Wintry conditions led to the deaths of at least 10 people in the South. More than 300,000 customers in Texas were still without electricity on Thursday.  <a href="https://nyti.ms/3Yc7aCU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Former Trump Executive, Already Jailed, Could Face More Fraud Charges</h3>
+<sub>By Ben Protess, William K. Rashbaum and Jonah E. Bromwich</sub>
+<p>Manhattan prosecutors warned that they might charge Allen H. Weisselberg with insurance fraud to pressure him to cooperate in an investigation of the former president.  <a href="https://nyti.ms/3DEXBoe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
