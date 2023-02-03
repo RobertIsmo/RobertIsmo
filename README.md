@@ -60,30 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 3, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! Secretary of State Blinken has postponed his trip to China after an intelligence-gathering balloon appeared over Montana. Chinese companies are investing billions in Mexico to keep their US sales up. In the US, the Fed is tracking incoming labor figures as the leisure and hospitality industry recovers from pandemic lockdowns. Fears of Russian nuclear weapons use have decreased but could get worse again. Meanwhile, Apple devices are sending false emergency signals to dispatchers due to a glitch. Jeff Miller is House Speaker Kevin McCarthy&#39;s top fundraiser drawing scrutiny from Washington. Polls on Trump approval are conflicting, but higher-quality surveys indicate he&#39;s way down. There has been a rise of literary criticism about culture wars too. In Memphis, trauma continues with Tyre Nichols&#39; fatal beating. Across the Northeast, officials are warning people to brace for an Arctic blast and intense cold weather due to rapidly changing climate in the Arctic Circle.</p>
+Right now there is a lot of tension between the U.S. and China, with issues of spying and military confrontation at play. Secretary of State Blinken canceled his scheduled trip to China due to an intelligence-gathering balloon being seen over Montana, which the Pentagon identified as Chinese, though Beijing argued it was actually being used for weather research and had just strayed off course. There is also news about Russia and nuclear weapons use, as well as a new book by an ex-prosecutor that likens Trump to mob boss John Gotti. On the medical front, 911 dispatchers are being inundated with false alerts from Apple watches that are mistakenly thinking their owners are dead. Lastly, in the entertainment world there is the story of how a music label was tempted to sign a rapper despite his antisemitic lyrics.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Wall Street wavers as investors interpret surprising labor trends.</h3>
+<sub>By Isabella Simonetti</sub>
+<p>  <a href="https://nyti.ms/40ovy6a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken Postpones Trip to China After Balloon Is Detected Over U.S.</h3>
+<h3>Blinken Cancels Trip to China After Pentagon Says Spy Balloon Is Over U.S.</h3>
 <sub>By Edward Wong and Chris Buckley</sub>
-<p>Beijing said the object, which had been seen flying over Montana, was used mainly for weather research and had strayed off course. The Pentagon described it as an “intelligence-gathering balloon.”  <a href="https://nyti.ms/3HU9yc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Pentagon called the object, which had been seen flying over Montana, an “intelligence-gathering balloon.” Beijing said it was used mainly for weather research and had strayed off course.  <a href="https://nyti.ms/3HU9yc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Chinese Companies Are Investing Billions in Mexico</h3>
-<sub>By Peter S. Goodman</sub>
-<p>Alarmed by shipping chaos and geopolitical fractures, exporters from China are setting up factories in Mexico to preserve their sales to the United States.  <a href="https://nyti.ms/3YkPZz3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chinese Spy Balloon or ‘Civilian Device’?</h3>
+<sub>By Katie Rogers</sub>
+<p>Here is what we know about the balloon.  <a href="https://nyti.ms/3DE0Tbc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Strong hiring hints at more work ahead for the Fed, but wages cool.</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Fed is tracking incoming labor figures as it decides how high interest rates need to go and how long they should stay elevated.  <a href="https://nyti.ms/3X6zipY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Leisure and hospitality employers led the outsized January gains.</h3>
-<sub>By Lydia DePillis</sub>
-<p>The industry has been rebuilding after the pandemic lockdowns. Professional and business services and government employers also hired briskly.  <a href="https://nyti.ms/3HwKzdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Brief History of Spying With Balloons</h3>
+<sub>By Amanda Holpuch</sub>
+<p>A Chinese balloon seen floating over the northwestern United States this week was a reminder of how governments have used balloons for reconnaissance for more than a century.  <a href="https://nyti.ms/3HUZfEJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,15 +99,9 @@ There is a lot going on in the world right now! Secretary of State Blinken has p
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Powerful Lobbyist Behind Kevin McCarthy</h3>
-<sub>By Kenneth P. Vogel</sub>
-<p>Jeff Miller is the new House speaker’s top fund-raiser and closest confidant. He is also one of Washington’s most prominent corporate lobbyists, an arrangement that is drawing scrutiny.  <a href="https://nyti.ms/3JVh8or"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Is Trump Way Up or Way Down?</h3>
-<sub>By Nate Cohn</sub>
-<p>The polls are surprisingly divided, but higher-quality surveys point to an answer.  <a href="https://nyti.ms/3JDlqQZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Democrats, Seeing a Weaker Trump, Are Falling in Line Behind Biden</h3>
+<sub>By Lisa Lerer, Reid J. Epstein and Katie Glueck</sub>
+<p>Concerns about the president’s age are being overcome by enthusiasm about his record so far, optimism about the G.O.P. field — and the absence of better options.  <a href="https://nyti.ms/3l6klqO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -116,23 +110,29 @@ There is a lot going on in the world right now! Secretary of State Blinken has p
 <p>John Guillory’s “Cultural Capital,” published amid the 1990s canon wars, became a classic. In a follow-up, “Professing Criticism,” he takes on his field’s deep funk.  <a href="https://nyti.ms/3YhSy4U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Likened to Mob Boss John Gotti in Ex-Prosecutor’s New Book</h3>
+<sub>By William K. Rashbaum, Ben Protess and Jonah E. Bromwich</sub>
+<p>Mark F. Pomerantz, who resigned from the Manhattan district attorney’s office last year, wrote that he had pursued a racketeering case against the former president.  <a href="https://nyti.ms/3DF9PNp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Is Trump Way Up or Way Down?</h3>
+<sub>By Nate Cohn</sub>
+<p>The polls are surprisingly divided, but higher-quality surveys point to an answer.  <a href="https://nyti.ms/3JDlqQZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘We Are in Trauma’: Memphis Reels From the Latest of Many Blows</h3>
 <sub>By Richard Fausset</sub>
 <p>Tyre Nichols’s fatal beating took its place on a roster of traumatic events that have helped shape the story of Memphis as much as its world-famous musical innovations.  <a href="https://nyti.ms/3l5BtNd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Across the Northeast, Officials Warn of a Dangerous Arctic Blast</h3>
-<sub>By Lola Fadulu, Judson Jones and Jenna Russell</sub>
-<p>Cold temperatures and fierce winds are expected to intensify throughout Friday and into Saturday.  <a href="https://nyti.ms/3WX0Vlr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How BMG Secretly Signed a Rapper Dropped for Antisemitic Lyrics</h3>
+<sub>By Katherine Rosman, Ben Sisario and Constant Méheut</sub>
+<p>Though the music label ultimately backed out, the deal illustrates the temptations and risks faced by corporations seeking to capitalize on the notoriety of pop-culture figures.  <a href="https://nyti.ms/3wThAeV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>What Is the Polar Vortex? And Other Cold-Weather Climate Questions.</h3>
-<sub>By Henry Fountain</sub>
-<p>The Northeast is plunging into a deep freeze. Here’s what scientists know, and don’t know, about the role of rapid Arctic warming.  <a href="https://nyti.ms/3Wk4jr1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
