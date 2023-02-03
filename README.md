@@ -58,10 +58,23 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, February 2, Central Standard Time</p>
+<p>It is Friday, February 3, Central Standard Time</p>
 <p>
-It looks like there is some tense international relations bubbling up around the world. In Russia, the death toll has been rising in their conflict with Ukraine due to Russian tactics of sending poorly trained recruits--including convicts--to the front lines. Meanwhile, in China, there&#39;s a spy balloon hovering over Montana and the US is sending more military forces to the Philippines to deter Chinese presence. Closer at home, it looks like there will be an incredibly cold wind chill across the northeast in the days to come, and Texas is still dealing with power outages from an ice storm that killed at least 10 people in recent days. It also appears that sturgeon are on the brink of being wiped out from North American rivers, which is exposing limitations of the Endangered Species Act. Former Trump executive Allen Weisseberg might now be facing additional fraud charges, while US Ambassador David Pressman is experiencing hostility abroad in Hungary. Lastly, Beyoncé is trying to become the most awarded artist in Grammy history on Sunday night.</p>
+It looks like the U.S. is ramping up its military presence in the Philippines and has detected a Chinese spy balloon hovering over Montana while Secretary of State Antony Blinken visits Beijing to meet with President Xi Jinping. Sadly, in Russia there&#39;s a soaring death toll due to frontline troops being poorly trained recruits, including convicts. Putin is telling his people the war is just and using World War II on the 80th anniversary of victory at Stalingrad as a justification for an invasion that has taken a staggering toll. Meanwhile, tech&#39;s biggest companies seem to have finally reached the limits of growth and have instead embraced austerity after years of expansion and billions in profits. 
+In Brazil, they are planning to sink an old aircraft carrier because no country will let it dock to be dismantled even though it’s packed with asbestos. Here in the U.S., the Northeast is bracing for the worst wind chill in decades, while people in Texas are still without electricity after an ice storm took a deadly toll. Former Trump executive Allen H. Weisselberg may be facing more fraud charges after already facing jail time, while President Biden’s ambassador to Hungary David Pressman has been accused by pro-government media of undermining traditional values, violating diplomatic conventions and meddling in the judiciary. On a lighter note, Beyonce is set to become one of the most awarded artists in Grammy history this weekend if all goes according to plan and TikTok influencers have been popping up in unexpected places—like old-school watch dealers!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Aims to Deter China With Greater U.S. Military Presence in Philippines</h3>
+<sub>By Edward Wong and Eric Schmitt</sub>
+<p>U.S. officials say they are preparing to surge forces in the event of conflict with China, including over Taiwan, but do not intend to build up permanent bases.  <a href="https://nyti.ms/3JBsNbw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pentagon Says It Detected a Chinese Spy Balloon Hovering Over Montana</h3>
+<sub>By Helene Cooper</sub>
+<p>The revelation comes days before Secretary of State Antony Blinken’s visit to Beijing, where he is expected to meet with President Xi Jinping.  <a href="https://nyti.ms/3wULsb0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Soaring Death Toll Gives Grim Insight Into Russian Tactics</h3>
 <sub>By Helene Cooper, Eric Schmitt and Thomas Gibbons-Neff</sub>
@@ -72,18 +85,6 @@ It looks like there is some tense international relations bubbling up around the
 <h3>As Russia Strikes Ukrainian Civilians, Putin Tells His People the War Is Just</h3>
 <sub>By Michael Schwirtz and Anton Troianovski</sub>
 <p>Invoking World War II on the 80th anniversary of victory at Stalingrad, Mr. Putin repeated his false justifications for an invasion that has taken a staggering toll.  <a href="https://nyti.ms/3kVvASE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon Says It Detected a Chinese Spy Balloon Hovering Over Montana</h3>
-<sub>By Helene Cooper</sub>
-<p>The revelation comes days before Secretary of State Antony Blinken’s visit to Beijing, where he is expected to meet with President Xi Jinping.  <a href="https://nyti.ms/3wULsb0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Aims to Deter China With Greater U.S. Military Presence in Philippines</h3>
-<sub>By Edward Wong and Eric Schmitt</sub>
-<p>U.S. officials say they are preparing to surge forces in the event of conflict with China, including over Taiwan, but do not intend to build up permanent bases.  <a href="https://nyti.ms/3JBsNbw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -110,12 +111,6 @@ It looks like there is some tense international relations bubbling up around the
 <p>Wintry conditions led to the deaths of at least 10 people in the South. More than 300,000 customers in Texas were still without electricity on Thursday.  <a href="https://nyti.ms/3Yc7aCU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>They Outlasted the Dinosaurs. Can They Survive Us?</h3>
-<sub>By Andrew S. Lewis</sub>
-<p>Sturgeon are disappearing from North American rivers where they thrived for millions of years. And the quest to save them is exposing the limits of the Endangered Species Act.  <a href="https://nyti.ms/3wMaybZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Former Trump Executive, Already Jailed, Could Face More Fraud Charges</h3>
 <sub>By Ben Protess, William K. Rashbaum and Jonah E. Bromwich</sub>
@@ -133,6 +128,12 @@ It looks like there is some tense international relations bubbling up around the
 <sub>By Ben Sisario and Joe Coscarelli</sub>
 <p>With a dominant new album, “Renaissance,” and the chance to become the most awarded artist in Grammy history, all eyes are on the pop superstar ahead of Sunday’s show. What could go wrong?  <a href="https://nyti.ms/3YfrMKo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Unlikely New TikTok Influencers: Old-School Watch Dealers</h3>
+<sub>By Jasper Craven</sub>
+<p>Their rapid-fire haggling in Manhattan’s diamond district teases the fantasy of making a market, rather than just being subject to it.  <a href="https://nyti.ms/3kYCeHY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
