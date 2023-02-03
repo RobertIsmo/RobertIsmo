@@ -60,13 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 3, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Russia, there are reports of increased death tolls and poor training for many of the recruits in eastern Ukraine. Meanwhile, Chinese companies are investing billions of dollars in Mexico due to shipping troubles and geopolitical instability. The US recently discovered a Chinese spy balloon hovering over Montana ahead of Secretary of State Antony Blinken’s visit to Beijing to meet with President Xi Jinping. The US is also taking steps to deter China with greater military presence in the Philippines. Pope Francis is traveling to South Sudan, a new country plagued with brokenness and forgotten citizens. 911 dispatchers are also dealing with an avalanche of false automated distress calls from Apple device owners who aren&#39;t actually in danger. Back home, the US is facing debates on term limits and preparing for exceptionally cold weather. Finally, efforts are being made to accurately count the number of homeless people living in America.</p>
+It seems like the world has been going through a lot lately! There are signs that the US economy is picking up, but wages remain sluggish. Markets have reacted negatively to hot jobs numbers. In China, government officials say that a suspected spy balloon was actually just a civilian airship that had strayed off course. Meanwhile, Chinese companies are investing billions in Mexico due to shipping chaos. Ukraine&#39;s sports minister is threatening to boycott the upcoming Olympics if Russian and Belarusian athletes are allowed to compete. In Africa, South Sudan is struggling with humanitarian issues, and Pope Francis has gone to help draw attention to the situation. Closer to home, powerful lobbyists are behind some of Washington&#39;s top politicians and term limits are being discussed again by Republicans. As if all of this isn&#39;t enough, apparently now Apple watches are sending false 911 alerts! And as if it couldn&#39;t get any worse, parts of the northeast US will be experiencing record cold temperatures over the next few days. A lot going on in the world!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Soaring Death Toll Gives Grim Insight Into Russian Tactics</h3>
-<sub>By Helene Cooper, Eric Schmitt and Thomas Gibbons-Neff</sub>
-<p>Moscow is sending poorly trained recruits, including convicts, to the front lines in eastern Ukraine to pave the way for more seasoned fighters, U.S. and allied officials say.  <a href="https://nyti.ms/3HUWd3p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Strong hiring hints at more work ahead for the Fed, but wages cool.</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Fed is tracking incoming labor figures as it decides how high interest rates need to go and how long they should stay elevated.  <a href="https://nyti.ms/3X6zipY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Markets flinch at hot jobs numbers.</h3>
+<sub>By Isabella Simonetti</sub>
+<p>  <a href="https://nyti.ms/40ovy6a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Says Suspected Spy Balloon Is a ‘Civilian Airship’ That Strayed Off Course</h3>
+<sub>By Chris Buckley</sub>
+<p>Beijing said the object, which had been seen flying over Montana, was used mainly for weather research. It was not immediately clear whether the explanation would satisfy the U.S.  <a href="https://nyti.ms/3HU9yc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why Chinese Companies Are Investing Billions in Mexico</h3>
@@ -74,28 +86,22 @@ There is a lot going on in the world right now. In Russia, there are reports of 
 <p>Alarmed by shipping chaos and geopolitical fractures, exporters from China are setting up factories in Mexico to preserve their sales to the United States.  <a href="https://nyti.ms/3YkPZz3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon Says It Detected a Chinese Spy Balloon Hovering Over Montana</h3>
-<sub>By Helene Cooper</sub>
-<p>The revelation comes days before Secretary of State Antony Blinken’s visit to Beijing, where he is expected to meet with President Xi Jinping.  <a href="https://nyti.ms/3wULsb0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Ukraine Renews Threat to Boycott Olympics if Russians Compete</h3>
+<sub>By Tariq Panja</sub>
+<p>Ukraine’s sports minister said his country was marshaling allies to press the International Olympic Committee to bar Russian and Belarusian athletes.  <a href="https://nyti.ms/40ooEOe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Aims to Deter China With Greater U.S. Military Presence in Philippines</h3>
-<sub>By Edward Wong and Eric Schmitt</sub>
-<p>U.S. officials say they are preparing to surge forces in the event of conflict with China, including over Taiwan, but do not intend to build up permanent bases.  <a href="https://nyti.ms/3JBsNbw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Soaring Death Toll Gives Grim Insight Into Russian Tactics</h3>
+<sub>By Helene Cooper, Eric Schmitt and Thomas Gibbons-Neff</sub>
+<p>Moscow is sending poorly trained recruits, including convicts, to the front lines in eastern Ukraine to pave the way for more seasoned fighters, U.S. and allied officials say.  <a href="https://nyti.ms/3HUWd3p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The World’s Newest Country Is Broken and Forgotten. Enter Pope Francis.</h3>
 <sub>By Declan Walsh and Jim Huylebroek</sub>
-<p>The soaring hopes at South Sudan’s creation in 2011 have been cruelly dashed. Pope Francis arrives there with other religious leaders on Friday to highlight its plight.  <a href="https://nyti.ms/3Yg6VXe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>‘My Watch Thinks I’m Dead’</h3>
-<sub>By Matt Richtel</sub>
-<p>911 dispatchers are buried under an avalanche of false, automated distress calls from skiers and other Apple device owners who are very much alive.  <a href="https://nyti.ms/3jtCPky"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The soaring hopes at South Sudan’s creation in 2011 have been cruelly dashed. Pope Francis arrived there with other religious leaders on Friday to highlight its plight.  <a href="https://nyti.ms/3Yg6VXe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,23 +122,17 @@ There is a lot going on in the world right now. In Russia, there are reports of 
 <p>Similar proposals to restrict lawmakers’ tenures that the party pushed in the 1990s went nowhere. In this new Congress, the result is likely to be the same.  <a href="https://nyti.ms/3YjUQAn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>‘My Watch Thinks I’m Dead’</h3>
+<sub>By Matt Richtel</sub>
+<p>Dispatchers for 911 are being inundated with false, automated distress calls from Apple devices owned by skiers who are very much alive.  <a href="https://nyti.ms/3jtCPky"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Northeast Braces for the Worst Wind Chill in Decades</h3>
 <sub>By Judson Jones and Jenna Russell</sub>
 <p>Forecasters say “a once-in-a-generation cold” could grip parts of the region on Friday and into Saturday.  <a href="https://nyti.ms/3wNR3zP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Prepare Your House for Extreme Weather</h3>
-<sub>By Jenny Gross</sub>
-<p>Follow these steps to stay warm and to keep your energy bills down.  <a href="https://nyti.ms/3Wi0iDv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>This Is What It Looks Like to Try to Count America’s Homeless Population</h3>
-<sub></sub>
-<p>To fix a problem, you need to know its scope. To do that, you need sheriffs, social workers, volunteers, flashlights and 10 days in January.  <a href="https://nyti.ms/3HTnwuF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
