@@ -60,8 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 3, Central Standard Time</p>
 <p>
-It looks like the U.S. is ramping up its military presence in the Philippines and has detected a Chinese spy balloon hovering over Montana while Secretary of State Antony Blinken visits Beijing to meet with President Xi Jinping. Sadly, in Russia there&#39;s a soaring death toll due to frontline troops being poorly trained recruits, including convicts. Putin is telling his people the war is just and using World War II on the 80th anniversary of victory at Stalingrad as a justification for an invasion that has taken a staggering toll. Meanwhile, tech&#39;s biggest companies seem to have finally reached the limits of growth and have instead embraced austerity after years of expansion and billions in profits. 
-In Brazil, they are planning to sink an old aircraft carrier because no country will let it dock to be dismantled even though it’s packed with asbestos. Here in the U.S., the Northeast is bracing for the worst wind chill in decades, while people in Texas are still without electricity after an ice storm took a deadly toll. Former Trump executive Allen H. Weisselberg may be facing more fraud charges after already facing jail time, while President Biden’s ambassador to Hungary David Pressman has been accused by pro-government media of undermining traditional values, violating diplomatic conventions and meddling in the judiciary. On a lighter note, Beyonce is set to become one of the most awarded artists in Grammy history this weekend if all goes according to plan and TikTok influencers have been popping up in unexpected places—like old-school watch dealers!</p>
+Right now, there is a lot happening in the world that is causing tension. The U.S. is increasing its military presence in the Philippines with the aim of deterring China; meanwhile, it has been revealed that China has been hovering a spy balloon over Montana. Russia is striking civilians in Ukraine and, on the 80th anniversary of victory at Stalingrad, Putin is telling his people the war is justified. Tech&#39;s biggest companies are discovering austerity, while Brazil is planning to sink an old aircraft carrier packed with asbestos that can&#39;t be safely dismantled. The Northeast US is bracing for a rare cold snap this weekend and Texas has been left without power after an ice storm killed 10 people in the South. South Sudan is struggling since its creation nine years ago and Pope Francis is visiting to raise awareness of the country&#39;s plight. Finally, former Trump executive Allen Weisselberg could face more fraud charges while Beyoncé will take center stage Sunday as she&#39;s up for a record-breaking number of Grammy awards.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Aims to Deter China With Greater U.S. Military Presence in Philippines</h3>
@@ -100,7 +99,7 @@ In Brazil, they are planning to sink an old aircraft carrier because no country 
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Northeast Braces for the Worst Wind Chill in Decades</h3>
+<h3>Northeast Braces for the Worst Wind Chill in Decades</h3>
 <sub>By Judson Jones and Jenna Russell</sub>
 <p>Forecasters say “a once-in-a-generation cold” could grip parts of the region on Friday and into Saturday.  <a href="https://nyti.ms/3wNR3zP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
@@ -111,16 +110,16 @@ In Brazil, they are planning to sink an old aircraft carrier because no country 
 <p>Wintry conditions led to the deaths of at least 10 people in the South. More than 300,000 customers in Texas were still without electricity on Thursday.  <a href="https://nyti.ms/3Yc7aCU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The World’s Newest Country Is Broken and Forgotten. Enter Pope Francis.</h3>
+<sub>By Declan Walsh and Jim Huylebroek</sub>
+<p>The soaring hopes at South Sudan’s creation in 2011 have been cruelly dashed. Pope Francis arrives there with other religious leaders on Friday to highlight its plight.  <a href="https://nyti.ms/3Yg6VXe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Former Trump Executive, Already Jailed, Could Face More Fraud Charges</h3>
 <sub>By Ben Protess, William K. Rashbaum and Jonah E. Bromwich</sub>
 <p>Manhattan prosecutors warned that they might charge Allen H. Weisselberg with insurance fraud to pressure him to cooperate in an investigation of the former president.  <a href="https://nyti.ms/3DEXBoe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A U.S. Ambassador Finds Himself on Hostile Ground in Hungary</h3>
-<sub>By Andrew Higgins</sub>
-<p>David Pressman, a gay human rights lawyer, has been accused by pro-government media in Hungary of undermining traditional values, violating diplomatic conventions and meddling in the judiciary.  <a href="https://nyti.ms/3YbI4nw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
