@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 3, Central Standard Time</p>
 <p>
-Right now, there is a lot happening in the world that is causing tension. The U.S. is increasing its military presence in the Philippines with the aim of deterring China; meanwhile, it has been revealed that China has been hovering a spy balloon over Montana. Russia is striking civilians in Ukraine and, on the 80th anniversary of victory at Stalingrad, Putin is telling his people the war is justified. Tech&#39;s biggest companies are discovering austerity, while Brazil is planning to sink an old aircraft carrier packed with asbestos that can&#39;t be safely dismantled. The Northeast US is bracing for a rare cold snap this weekend and Texas has been left without power after an ice storm killed 10 people in the South. South Sudan is struggling since its creation nine years ago and Pope Francis is visiting to raise awareness of the country&#39;s plight. Finally, former Trump executive Allen Weisselberg could face more fraud charges while Beyoncé will take center stage Sunday as she&#39;s up for a record-breaking number of Grammy awards.</p>
+There is a lot going on in the world right now. In Russia, there are reports of increased death tolls and poor training for many of the recruits in eastern Ukraine. Meanwhile, Chinese companies are investing billions of dollars in Mexico due to shipping troubles and geopolitical instability. The US recently discovered a Chinese spy balloon hovering over Montana ahead of Secretary of State Antony Blinken’s visit to Beijing to meet with President Xi Jinping. The US is also taking steps to deter China with greater military presence in the Philippines. Pope Francis is traveling to South Sudan, a new country plagued with brokenness and forgotten citizens. 911 dispatchers are also dealing with an avalanche of false automated distress calls from Apple device owners who aren&#39;t actually in danger. Back home, the US is facing debates on term limits and preparing for exceptionally cold weather. Finally, efforts are being made to accurately count the number of homeless people living in America.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Aims to Deter China With Greater U.S. Military Presence in Philippines</h3>
-<sub>By Edward Wong and Eric Schmitt</sub>
-<p>U.S. officials say they are preparing to surge forces in the event of conflict with China, including over Taiwan, but do not intend to build up permanent bases.  <a href="https://nyti.ms/3JBsNbw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Soaring Death Toll Gives Grim Insight Into Russian Tactics</h3>
+<sub>By Helene Cooper, Eric Schmitt and Thomas Gibbons-Neff</sub>
+<p>Moscow is sending poorly trained recruits, including convicts, to the front lines in eastern Ukraine to pave the way for more seasoned fighters, U.S. and allied officials say.  <a href="https://nyti.ms/3HUWd3p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Chinese Companies Are Investing Billions in Mexico</h3>
+<sub>By Peter S. Goodman</sub>
+<p>Alarmed by shipping chaos and geopolitical fractures, exporters from China are setting up factories in Mexico to preserve their sales to the United States.  <a href="https://nyti.ms/3YkPZz3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pentagon Says It Detected a Chinese Spy Balloon Hovering Over Montana</h3>
@@ -75,28 +81,40 @@ Right now, there is a lot happening in the world that is causing tension. The U.
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Soaring Death Toll Gives Grim Insight Into Russian Tactics</h3>
-<sub>By Helene Cooper, Eric Schmitt and Thomas Gibbons-Neff</sub>
-<p>Moscow is sending poorly trained recruits, including convicts, to the front lines in eastern Ukraine to pave the way for more seasoned fighters, U.S. and allied officials say.  <a href="https://nyti.ms/3HUWd3p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Aims to Deter China With Greater U.S. Military Presence in Philippines</h3>
+<sub>By Edward Wong and Eric Schmitt</sub>
+<p>U.S. officials say they are preparing to surge forces in the event of conflict with China, including over Taiwan, but do not intend to build up permanent bases.  <a href="https://nyti.ms/3JBsNbw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Russia Strikes Ukrainian Civilians, Putin Tells His People the War Is Just</h3>
-<sub>By Michael Schwirtz and Anton Troianovski</sub>
-<p>Invoking World War II on the 80th anniversary of victory at Stalingrad, Mr. Putin repeated his false justifications for an invasion that has taken a staggering toll.  <a href="https://nyti.ms/3kVvASE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<h3>The World’s Newest Country Is Broken and Forgotten. Enter Pope Francis.</h3>
+<sub>By Declan Walsh and Jim Huylebroek</sub>
+<p>The soaring hopes at South Sudan’s creation in 2011 have been cruelly dashed. Pope Francis arrives there with other religious leaders on Friday to highlight its plight.  <a href="https://nyti.ms/3Yg6VXe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Tech’s Biggest Companies Discover Austerity, to the Relief of Investors</h3>
-<sub>By Tripp Mickle, Karen Weise and Nico Grant</sub>
-<p>After years of expansion and billions in profits, Big Tech is pulling back from its famously lavish spending as a long boom finally ends.  <a href="https://nyti.ms/3JCzvhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>‘My Watch Thinks I’m Dead’</h3>
+<sub>By Matt Richtel</sub>
+<p>911 dispatchers are buried under an avalanche of false, automated distress calls from skiers and other Apple device owners who are very much alive.  <a href="https://nyti.ms/3jtCPky"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Proud Ship Turned Into a Giant Recycling Problem. So Brazil Plans to Sink It.</h3>
-<sub>By Manuela Andreoni</sub>
-<p>The old aircraft carrier, once the navy’s flagship, is packed with asbestos. No country, including Brazil, will let it dock to be dismantled.  <a href="https://nyti.ms/3DzXZEv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Powerful Lobbyist Behind Kevin McCarthy</h3>
+<sub>By Kenneth P. Vogel</sub>
+<p>Jeff Miller is the new House speaker’s top fund-raiser and closest confidant. He is also one of Washington’s most prominent corporate lobbyists, an arrangement that is drawing scrutiny.  <a href="https://nyti.ms/3JVh8or"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Is Trump Way Up or Way Down?</h3>
+<sub>By Nate Cohn</sub>
+<p>The polls are surprisingly divided, but higher-quality surveys point to an answer.  <a href="https://nyti.ms/3JDlqQZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Revive a Debate on Term Limits</h3>
+<sub>By Carl Hulse</sub>
+<p>Similar proposals to restrict lawmakers’ tenures that the party pushed in the 1990s went nowhere. In this new Congress, the result is likely to be the same.  <a href="https://nyti.ms/3YjUQAn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Northeast Braces for the Worst Wind Chill in Decades</h3>
@@ -105,34 +123,16 @@ Right now, there is a lot happening in the world that is causing tension. The U.
 <sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Power Outages Linger in Texas After Deadly Ice Storm</h3>
-<sub>By Derrick Bryson Taylor, Johnny Diaz and Jesus Jiménez</sub>
-<p>Wintry conditions led to the deaths of at least 10 people in the South. More than 300,000 customers in Texas were still without electricity on Thursday.  <a href="https://nyti.ms/3Yc7aCU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<h3>How to Prepare Your House for Extreme Weather</h3>
+<sub>By Jenny Gross</sub>
+<p>Follow these steps to stay warm and to keep your energy bills down.  <a href="https://nyti.ms/3Wi0iDv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The World’s Newest Country Is Broken and Forgotten. Enter Pope Francis.</h3>
-<sub>By Declan Walsh and Jim Huylebroek</sub>
-<p>The soaring hopes at South Sudan’s creation in 2011 have been cruelly dashed. Pope Francis arrives there with other religious leaders on Friday to highlight its plight.  <a href="https://nyti.ms/3Yg6VXe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>This Is What It Looks Like to Try to Count America’s Homeless Population</h3>
+<sub></sub>
+<p>To fix a problem, you need to know its scope. To do that, you need sheriffs, social workers, volunteers, flashlights and 10 days in January.  <a href="https://nyti.ms/3HTnwuF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Former Trump Executive, Already Jailed, Could Face More Fraud Charges</h3>
-<sub>By Ben Protess, William K. Rashbaum and Jonah E. Bromwich</sub>
-<p>Manhattan prosecutors warned that they might charge Allen H. Weisselberg with insurance fraud to pressure him to cooperate in an investigation of the former president.  <a href="https://nyti.ms/3DEXBoe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>It’s Beyoncé’s Time to Shine at the Grammys … Right?</h3>
-<sub>By Ben Sisario and Joe Coscarelli</sub>
-<p>With a dominant new album, “Renaissance,” and the chance to become the most awarded artist in Grammy history, all eyes are on the pop superstar ahead of Sunday’s show. What could go wrong?  <a href="https://nyti.ms/3YfrMKo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Unlikely New TikTok Influencers: Old-School Watch Dealers</h3>
-<sub>By Jasper Craven</sub>
-<p>Their rapid-fire haggling in Manhattan’s diamond district teases the fantasy of making a market, rather than just being subject to it.  <a href="https://nyti.ms/3kYCeHY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
