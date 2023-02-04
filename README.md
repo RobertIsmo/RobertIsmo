@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 4, Central Standard Time</p>
 <p>
-There has been a lot going on lately in the world. In the US, residents in Memphis are dealing with an intimidating street crime unit that is being investigated for murder. Meanwhile, E.M.T.s in Tennessee have had their licenses suspended after they failed to provide medical care at one of these incidents. Furthermore, a Chinese balloon was seen surveilling US military sites, highlighting tensions between the US and China that can be felt across the world. In Europe, dependence on US leadership and intelligence is increasing despite Russian aggression against Ukraine. In Austria, beekeepers&#39; honey production is judged too dark and can lead to eradication. In terms of politics, Democrats are voting on overhauling the party&#39;s primary election calendar to make it more diversified and equitable. Business-wise, individual success stories have been unraveling — Gautam Adani&#39;s rise is crashing for India and Elon Musk&#39;s Twitter is being sued over unpaid services provided for its 2020 buyout.</p>
+There are a lot of serious issues happening around the world right now. In the US, there is a controversial story about police brutality when arresting Tyre Nichols and two emergency medical technicians being charged with failing to provide aid. In Europe, the US is pushing its partners to weed out illicit trade with Russia and there are growing tensions with China over a giant balloon appearing in the US that has raised a lot of questions for people. There is also lots of news about Austria, where the law favors light-colored local bees, and those honey producers judged “too dark” risk eradication. Finally, in India, one of the country’s tycoons, Gautam Adani, has seen his fortunes unraveling.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Muscle Cars, Balaclavas and Fists: How the Scorpions Rolled Through Memphis</h3>
@@ -92,16 +92,28 @@ There has been a lot going on lately in the world. In the US, residents in Memph
 <p>A Chinese balloon has been raising a lot of questions for people who live under its path. “I did see it, and it should have been shot,” said a barbecue chef in Billings, Mont.  <a href="https://nyti.ms/3JIQC1d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>How to Stay Safe in Extreme Cold Weather</h3>
-<sub>By Karen Zraick</sub>
-<p>Experts offer tips to protect against common health hazards as temperatures plummet.  <a href="https://nyti.ms/3HVNHkl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>With wind chills like these, frostbite happens in minutes.</h3>
+<sub>By Francesca Paris and Aatish Bhatia</sub>
+<p>  <a href="https://nyti.ms/3JGQbEM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>When It Comes to Building Its Own Defense, Europe Has Blinked</h3>
 <sub>By Steven Erlanger</sub>
 <p>Despite expectations that Russia’s invasion of Ukraine would force Europe to bolster its military strength, it has instead reinforced dependency on U.S. leadership, intelligence and might.  <a href="https://nyti.ms/3JL4oAF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Pushes to Take Ukrainian Town Near a Vital Supply Line</h3>
+<sub>By Marc Santora</sub>
+<p>The town of Vuhledar is just a few miles from a critical rail link. Its capture would enable Moscow to more easily transfer troops between the war’s southern and eastern fronts.  <a href="https://nyti.ms/3YqHp1x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Presses Partners to Weed Out Illicit Trade With Russia</h3>
+<sub>By Ben Hubbard</sub>
+<p>American officials worry that commercial activities in Turkey and the United Arab Emirates could be fueling Russia’s war machine and have threatened to punish those involved.  <a href="https://nyti.ms/3l7o1II"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -120,18 +132,6 @@ There has been a lot going on lately in the world. In the US, residents in Memph
 <h3>Gautam Adani’s Rise Was Intertwined With India’s. Now It’s Unraveling.</h3>
 <sub>By Alex Travelli</sub>
 <p>The tycoon often said the Adani Group’s goals were in lock step with India’s needs. Now, the company’s fortunes are crashing, a collapse whose pain will be felt across the country.  <a href="https://nyti.ms/3X8Sh33"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Jury Rules for Elon Musk and Tesla in Investor Lawsuit Over Tweets</h3>
-<sub>By Kalley Huang and Peter Eavis</sub>
-<p>The case centered on whether investors lost money because they believed Mr. Musk’s social media posts about taking Tesla private in 2018.  <a href="https://nyti.ms/3JFYbpA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Advisory Firm Sues Elon Musk’s Twitter, Saying It Hasn’t Been Paid</h3>
-<sub>By Lauren Hirsch and Kate Conger</sub>
-<p>Innisfree M&amp;A says Twitter, which Elon Musk bought last year, has not paid it $1.9 million for services it rendered for the deal.  <a href="https://nyti.ms/3DF4Nk7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
