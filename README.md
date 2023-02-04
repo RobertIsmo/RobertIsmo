@@ -60,13 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 4, Central Standard Time</p>
 <p>
-Right now, there is a bit of tension between the US and China caused by a discovery that a balloon flown from Montana to Kansas was labelled as an intelligence-gathering device by the Pentagon, although Beijing insists it was just a weather research balloon that had gotten off course. In the US, hiring has surged with January gaining 517,000 jobs. People are also talking about Elon Musk and his Twitter ownership which is facing two lawsuits from investors who were affected by some of his posts, and from another company which claims they rendered services for Musk’s purchase yet were never paid. Meanwhile in Memphis, Tennesee there’s outrage over an EMT service that provided no care for 19 minutes after an unarmed black man was beaten by police custody. In Europe, leaders met with Ukrainian President Volodymyr Zelensky to pledge more aid to help fight against Russian forces occupying some eastern cities. Lastly, people across the world are having problems with their Apple watches mistakenly sending false distress calls to 911 dispatchers. </p>
+There has been a lot going on lately in the world. In the US, residents in Memphis are dealing with an intimidating street crime unit that is being investigated for murder. Meanwhile, E.M.T.s in Tennessee have had their licenses suspended after they failed to provide medical care at one of these incidents. Furthermore, a Chinese balloon was seen surveilling US military sites, highlighting tensions between the US and China that can be felt across the world. In Europe, dependence on US leadership and intelligence is increasing despite Russian aggression against Ukraine. In Austria, beekeepers&#39; honey production is judged too dark and can lead to eradication. In terms of politics, Democrats are voting on overhauling the party&#39;s primary election calendar to make it more diversified and equitable. Business-wise, individual success stories have been unraveling — Gautam Adani&#39;s rise is crashing for India and Elon Musk&#39;s Twitter is being sued over unpaid services provided for its 2020 buyout.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Furor Over Chinese Spy Balloon Leads to a Diplomatic Crisis</h3>
-<sub>By Edward Wong, Helene Cooper and Chris Buckley</sub>
-<p>The Pentagon called the object, which has flown from Montana to Kansas, an “intelligence-gathering” balloon. Beijing said it was used mainly for weather research and had strayed off course.  <a href="https://nyti.ms/3HU9yc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Muscle Cars, Balaclavas and Fists: How the Scorpions Rolled Through Memphis</h3>
+<sub>By Steve Eder, Matthew Rosenberg, Joseph Goldstein, Mike Baker, Kassie Bracken and Mark Walker</sub>
+<p>Residents say the street crime unit has been an intimidating and sometimes violent presence in the city. Five Scorpion officers are charged with murdering Tyre Nichols during an arrest.  <a href="https://nyti.ms/3HXgjdi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>E.M.T.s Provided No Care for 19 Minutes After Police Beat Tyre Nichols</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>The board that regulates emergency medical technicians in Tennessee on Friday voted to suspend the licenses of the two E.M.T.s who arrived at the scene and failed to render aid.  <a href="https://nyti.ms/3RyIdiE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Classified U.S. Report Highlighted Foreign Power Surveillance With Advanced Technology</h3>
+<sub>By Julian E. Barnes and Edward Wong</sub>
+<p>Before a Chinese spy balloon was discovered in the United States, American officials said a rival power may have used advanced technology to surveil U.S. military sites.  <a href="https://nyti.ms/40s9O9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Balloon Incident Highlights Fragile State of U.S.-China Relationship</h3>
@@ -75,27 +87,39 @@ Right now, there is a bit of tension between the US and China caused by a discov
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chinese Spy Balloon or ‘Civilian Device’?</h3>
-<sub>By Katie Rogers</sub>
-<p>Here is what we know about the balloon.  <a href="https://nyti.ms/3DE0Tbc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Giant Balloon Floats Into Town, and It’s All Anyone Can Talk About</h3>
 <sub>By Jim Robbins</sub>
 <p>A Chinese balloon has been raising a lot of questions for people who live under its path. “I did see it, and it should have been shot,” said a barbecue chef in Billings, Mont.  <a href="https://nyti.ms/3JIQC1d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Hiring Surges With January Gain of 517,000 Jobs</h3>
-<sub>By Sydney Ember</sub>
-<p>The report defied expectations and underscored the challenges for the Federal Reserve, which is trying to cool the labor market to fight inflation.  <a href="https://nyti.ms/3X5usJw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>How to Stay Safe in Extreme Cold Weather</h3>
+<sub>By Karen Zraick</sub>
+<p>Experts offer tips to protect against common health hazards as temperatures plummet.  <a href="https://nyti.ms/3HVNHkl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>When It Comes to Building Its Own Defense, Europe Has Blinked</h3>
+<sub>By Steven Erlanger</sub>
+<p>Despite expectations that Russia’s invasion of Ukraine would force Europe to bolster its military strength, it has instead reinforced dependency on U.S. leadership, intelligence and might.  <a href="https://nyti.ms/3JL4oAF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What’s the Correct Color of Bees? In Austria, It’s a Toxic Topic.</h3>
+<sub>By Denise Hruby</sub>
+<p>In the Austrian state of Carinthia, where the law favors light-colored local bees, those honey producers judged “too dark” risk eradication.  <a href="https://nyti.ms/40Gwu6b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats Set to Vote on Overhauling Party’s Primary Calendar</h3>
+<sub>By Katie Glueck</sub>
+<p>The proposal would radically reshape the way the party picks its presidential nominees, putting more racially diverse states at the front of the line.  <a href="https://nyti.ms/3HZ7TCd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Job Growth Is a Boost for Biden as He Bets on a Lasting Turnaround</h3>
-<sub>By Zolan Kanno-Youngs and Michael D. Shear</sub>
-<p>President Biden has for months pointed to solid hiring trends as evidence that his agenda has rebuilt the economy after the pandemic shutdowns.  <a href="https://nyti.ms/3DAaWOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Gautam Adani’s Rise Was Intertwined With India’s. Now It’s Unraveling.</h3>
+<sub>By Alex Travelli</sub>
+<p>The tycoon often said the Adani Group’s goals were in lock step with India’s needs. Now, the company’s fortunes are crashing, a collapse whose pain will be felt across the country.  <a href="https://nyti.ms/3X8Sh33"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -108,30 +132,6 @@ Right now, there is a bit of tension between the US and China caused by a discov
 <h3>Advisory Firm Sues Elon Musk’s Twitter, Saying It Hasn’t Been Paid</h3>
 <sub>By Lauren Hirsch and Kate Conger</sub>
 <p>Innisfree M&amp;A says Twitter, which Elon Musk bought last year, has not paid it $1.9 million for services it rendered for the deal.  <a href="https://nyti.ms/3DF4Nk7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>E.M.T.s Provided No Care for 19 Minutes After Police Beat Tyre Nichols</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>The board that regulates emergency medical technicians in Tennessee on Friday voted to suspend the licenses of the two E.M.T.s who arrived at the scene and failed to render aid.  <a href="https://nyti.ms/3RyIdiE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘We Are in Trauma’: Memphis Reels From the Latest of Many Blows</h3>
-<sub>By Richard Fausset</sub>
-<p>Tyre Nichols’s fatal beating took its place on a roster of traumatic events that have helped shape the story of Memphis as much as its world-famous musical innovations.  <a href="https://nyti.ms/3l5BtNd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>‘My Watch Thinks I’m Dead’</h3>
-<sub>By Matt Richtel</sub>
-<p>Dispatchers for 911 are being inundated with false, automated distress calls from Apple devices owned by skiers who are very much alive.  <a href="https://nyti.ms/3jtCPky"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>E.U. Vows More Help for Ukraine but Tamps Down Membership Talk</h3>
-<sub>By Matina Stevis-Gridneff</sub>
-<p>European Union leaders met in Kyiv with President Volodymyr Zelensky, who said Ukraine would not give up on Bakhmut, the eastern city caught in a fierce battle with Russian forces.  <a href="https://nyti.ms/40tF9bH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
