@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 4, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. A Chinese balloon is sparking a diplomatic crisis after it flew from Montana to Kansas and was identified as an &#39;intelligence-gathering&#39; device. In the US, there has been some great news with job growth surging by 517,000 jobs in January and this being credited to President Biden&#39;s agenda helping rebuild the economy. Elon Musk has also been in the news as he won a lawsuit over some of his tweets and then his Twitter account was sued for not paying a firm who it had hired for a deal. In Memphis, Tennessee there was an incident of police brutality where EMTs didn&#39;t render aid to the victim for 19 minutes. In Ukraine, the EU has vowed more help but has dampened membership talk. And finally, in the US many Democrats are beginning to come around to Biden and are feeling optimistic about his record so far.</p>
+Right now, there is a bit of tension between the US and China caused by a discovery that a balloon flown from Montana to Kansas was labelled as an intelligence-gathering device by the Pentagon, although Beijing insists it was just a weather research balloon that had gotten off course. In the US, hiring has surged with January gaining 517,000 jobs. People are also talking about Elon Musk and his Twitter ownership which is facing two lawsuits from investors who were affected by some of his posts, and from another company which claims they rendered services for Musk’s purchase yet were never paid. Meanwhile in Memphis, Tennesee there’s outrage over an EMT service that provided no care for 19 minutes after an unarmed black man was beaten by police custody. In Europe, leaders met with Ukrainian President Volodymyr Zelensky to pledge more aid to help fight against Russian forces occupying some eastern cities. Lastly, people across the world are having problems with their Apple watches mistakenly sending false distress calls to 911 dispatchers. </p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Furor Over Chinese Spy Balloon Leads to a Diplomatic Crisis</h3>
@@ -68,16 +68,22 @@ There&#39;s a lot going on in the world right now. A Chinese balloon is sparking
 <p>The Pentagon called the object, which has flown from Montana to Kansas, an “intelligence-gathering” balloon. Beijing said it was used mainly for weather research and had strayed off course.  <a href="https://nyti.ms/3HU9yc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Giant Balloon Floats Into Town, and It’s All Anyone Can Talk About</h3>
-<sub>By Jim Robbins</sub>
-<p>A Chinese balloon has been raising a lot of questions for people who live under its path. “I did see it, and it should have been shot,” said a barbecue chef in Billings, Mont.  <a href="https://nyti.ms/3JIQC1d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Balloon Incident Highlights Fragile State of U.S.-China Relationship</h3>
+<sub>By David Pierson</sub>
+<p>Recent efforts by Beijing to mend ties with Washington were showing progress, but the balloon’s appearance over the United States illustrates lingering mistrust and growing tensions.  <a href="https://nyti.ms/40sobKU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chinese Spy Balloon or ‘Civilian Device’?</h3>
 <sub>By Katie Rogers</sub>
 <p>Here is what we know about the balloon.  <a href="https://nyti.ms/3DE0Tbc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Giant Balloon Floats Into Town, and It’s All Anyone Can Talk About</h3>
+<sub>By Jim Robbins</sub>
+<p>A Chinese balloon has been raising a lot of questions for people who live under its path. “I did see it, and it should have been shot,” said a barbecue chef in Billings, Mont.  <a href="https://nyti.ms/3JIQC1d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -126,12 +132,6 @@ There&#39;s a lot going on in the world right now. A Chinese balloon is sparking
 <h3>E.U. Vows More Help for Ukraine but Tamps Down Membership Talk</h3>
 <sub>By Matina Stevis-Gridneff</sub>
 <p>European Union leaders met in Kyiv with President Volodymyr Zelensky, who said Ukraine would not give up on Bakhmut, the eastern city caught in a fierce battle with Russian forces.  <a href="https://nyti.ms/40tF9bH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats, Seeing a Weaker Trump, Are Falling in Line Behind Biden</h3>
-<sub>By Lisa Lerer, Reid J. Epstein and Katie Glueck</sub>
-<p>Concerns about the president’s age are being overcome by enthusiasm about his record so far, optimism about the G.O.P. field — and the absence of better options.  <a href="https://nyti.ms/3l6klqO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
