@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 4, Central Standard Time</p>
 <p>
-There is a lot of violence in the world right now. In the US, there is a police street crime unit called the Scorpions that has been intimidating and violent, leading to five of its officers being charged with murder during an arrest. At the same time, two emergency medical technicians were suspended after they failed to provide any care to Tyre Nichols for 19 minutes following his beat by police. In the sky, there is a weird phenomenon - a Chinese spy balloon that has disrupted international diplomacy. There have even been reports about rival foreign powers using advanced technology to surveil U.S military sites. On a lighter note, Mount Washington recently set a record for coldest wind chill ever recorded at minus 108 degrees! Democrats have also overhauled their primary calendar system, reshaping how the party picks its presidential nominees and highlighting more diverse states first. Putin has been making aggressive moves in Ukraine, pushing to take over a strategic town near a vital supply line and dispelling hopes for peace in the region. Finally, there are some cool things happening too - Lhakpa Sherpa climbed Everest ten times, an impressive feat for any human, let alone woman. And LeBron James continues to capture peoples’ attentions with his commitment to both his career and personal goals. Lastly, Pope Francis just visited Africa with the goal of ending displacement and breaking away from neutrality towards pain caused by acts of injustice and violence.</p>
+It looks like there&#39;s a lot going on in the world right now. A Chinese spy balloon was discovered in the US, and American officials are saying a rival power may be using advanced technology to spy on US military sites. In northern Maine, it&#39;s so cold that they&#39;re getting &quot;frostquakes.&quot; Meanwhile, Democrats have decided to overhaul their primary calendar for the presidential elections and put more diverse states at the front of the line. In Russia, they&#39;re pushing to take control of a Ukrainian town that is near a very important supply line. Over in Big Sur, California, people have been dealing with heavy storms recently and some residents are cut off from the rest of the state. And finally, Pope Francis recently visited South Sudan and encouraged his clergy to not stay neutral about violent acts and injustice.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Muscle Cars, Balaclavas and Fists: How the Scorpions Rolled Through Memphis</h3>
-<sub>By Steve Eder, Matthew Rosenberg, Joseph Goldstein, Mike Baker, Kassie Bracken and Mark Walker</sub>
-<p>Residents say the street crime unit has been an intimidating and sometimes violent presence in the city. Five Scorpion officers are charged with murdering Tyre Nichols during an arrest.  <a href="https://nyti.ms/3HXgjdi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>E.M.T.s Provided No Care for 19 Minutes After Police Beat Tyre Nichols</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>The board that regulates emergency medical technicians in Tennessee on Friday voted to suspend the licenses of the two E.M.T.s who arrived at the scene and failed to render aid.  <a href="https://nyti.ms/3RyIdiE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Look! Up in the Sky! It’s a … Chinese Spy Balloon?</h3>
 <sub>By Katie Rogers</sub>
-<p>How the balloon — you know the one — went from a local sky oddity to an international diplomatic disrupter.  <a href="https://nyti.ms/3DHLIhg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>How the balloon went from a local sky oddity to an international diplomatic disrupter to “a shriveled Kleenex.”  <a href="https://nyti.ms/3DHLIhg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,10 +74,22 @@ There is a lot of violence in the world right now. In the US, there is a police 
 <p>Before a Chinese spy balloon was discovered in the United States, American officials said a rival power may have used advanced technology to surveil U.S. military sites.  <a href="https://nyti.ms/40s9O9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Muscle Cars, Balaclavas and Fists: How the Scorpions Rolled Through Memphis</h3>
+<sub>By Steve Eder, Matthew Rosenberg, Joseph Goldstein, Mike Baker, Kassie Bracken and Mark Walker</sub>
+<p>Residents say the street crime unit was an intimidating and sometimes violent presence in the city. Five Scorpion officers are charged with murdering Tyre Nichols during an arrest.  <a href="https://nyti.ms/3HXgjdi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Mount Washington set a record for coldest wind chill ever recorded at minus 108 degrees.</h3>
 <sub>By Lola Fadulu</sub>
 <p>The air temperatures at the region’s highest peak went as low as minus 47 degrees, according to the National Weather Service.  <a href="https://nyti.ms/3DFySQH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In northern Maine, it’s cold enough for ‘frostquakes.’</h3>
+<sub>By Polly Saltonstall</sub>
+<p>  <a href="https://nyti.ms/3Y2zQ1j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,6 +116,12 @@ There is a lot of violence in the world right now. In the US, there is a police 
 <p>Lhakpa Sherpa has climbed Mount Everest 10 times, the most ascents ever by a woman. She has no plans of slowing down.  <a href="https://nyti.ms/3wGOJKT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Big Sur, Living With Nature’s Beauty but Trapped by Its Fury</h3>
+<sub>By Victoria Kim and Ian C. Bates</sub>
+<p>The succession of storms last month that left some residents in that treasured region cut off from the rest of California is another reminder of the perils and adventure of Central Coast life.  <a href="https://nyti.ms/40wigV6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>LeBron James Keeps the World Watching</h3>
 <sub>By Tania Ganguli</sub>
@@ -127,12 +133,6 @@ There is a lot of violence in the world right now. In the US, there is a police 
 <sub>By Jason Horowitz and Declan Walsh</sub>
 <p>Pope Francis ended his trip to Africa on Saturday by meeting with displaced people and urging his clergy not to “remain neutral before the pain caused by acts of injustice and violence.”  <a href="https://nyti.ms/3X8m5Nk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jaclyn Reiss</sub>
-<p>What to do for 36 hours in Bangkok. Also, how Barnes &amp; Noble came back from near death, and senior housing that seniors actually like.  <a href="https://nyti.ms/3l9Heta"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
