@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 3, Central Standard Time</p>
 <p>
-Recently, there has been a lot of news that can affect the world as a whole. In the US, hiring has surged with January seeing a gain of 517,000 jobs. The Federal Reserve is closely tracking incoming labor figures and had to adjust their plans accordingly. Elsewhere in the world, U.S. Secretary of State Antony Blinken cancelled his trip to China after the Pentagon reported that a spy balloon was drifting over the US instead of being used mainly for weather research as China stated. On a lighter note, citizens of Billings, Montana were talking about an enormous Chinese balloon passing through - though some wanted to shoot it down. Additionally, Elon Musk and Tesla recently won a lawsuit against investors related to Mr Musk&#39;s tweets. Furthermore, European Union leaders are meeting with Ukraine&#39;s president and are pledging them more help as Ukraine battles Russian forces in German-occupied Ukrainian city Bakhmut. Lastly, EMTs in Tennessee had their licenses suspended after not providing aid to Tyre Nichols who was badly beaten by police officers in Memphis.</p>
+It looks like there&#39;s been a bit of a diplomatic crisis recently with a Chinese spy balloon flying from Montana to Kansas, which has everyone talking. On the job front, there&#39;s good news - U.S hiring is up with a January gain of 517,000 jobs, and President Biden is pointing to this as evidence that his agenda has rebuilt the economy. Separately, Elon Musk and Tesla just won an investor lawsuit over tweets which has been making headlines. There&#39;s also this terrible story in Memphis where EMTs failed to render aid following a police beating. And finally, Europe has promised more help for Ukraine in their ongoing struggle against Russian forces.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Hiring Surges With January Gain of 517,000 Jobs</h3>
-<sub>By Sydney Ember</sub>
-<p>The report defied expectations and underscored the challenges for the Federal Reserve, which is trying to cool the labor market to fight inflation.  <a href="https://nyti.ms/3X5usJw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>January Jobs Report Contained Hopeful and Worrying News for the Fed</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve is tracking incoming labor figures as it decides how high interest rates need to go and how long they should stay elevated.  <a href="https://nyti.ms/3X6zipY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken Cancels China Trip After Pentagon Says Spy Balloon Is Drifting Over U.S.</h3>
+<h3>Furor Over Chinese Spy Balloon Leads to a Diplomatic Crisis</h3>
 <sub>By Edward Wong, Helene Cooper and Chris Buckley</sub>
-<p>The Pentagon called the object, which has flown from Montana to Kansas, an “intelligence-gathering balloon.” Beijing said it was used mainly for weather research and had strayed off course.  <a href="https://nyti.ms/3HU9yc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Pentagon called the object, which has flown from Montana to Kansas, an “intelligence-gathering” balloon. Beijing said it was used mainly for weather research and had strayed off course.  <a href="https://nyti.ms/3HU9yc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,6 +81,18 @@ Recently, there has been a lot of news that can affect the world as a whole. In 
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Hiring Surges With January Gain of 517,000 Jobs</h3>
+<sub>By Sydney Ember</sub>
+<p>The report defied expectations and underscored the challenges for the Federal Reserve, which is trying to cool the labor market to fight inflation.  <a href="https://nyti.ms/3X5usJw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Job Growth Is a Boost for Biden as He Bets on a Lasting Turnaround</h3>
+<sub>By Zolan Kanno-Youngs and Michael D. Shear</sub>
+<p>President Biden has for months pointed to solid hiring trends as evidence that his agenda has rebuilt the economy after the pandemic shutdowns.  <a href="https://nyti.ms/3DAaWOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Jury Rules for Elon Musk and Tesla in Investor Lawsuit Over Tweets</h3>
 <sub>By Kalley Huang and Peter Eavis</sub>
 <p>The case centered on whether investors lost money because they believed Mr. Musk’s social media posts about taking Tesla private in 2018.  <a href="https://nyti.ms/3JFYbpA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -104,24 +104,6 @@ Recently, there has been a lot of news that can affect the world as a whole. In 
 <p>As he fights for free speech online and promotes his companies, the new owner of Twitter spends a lot of time replying to his fans.  <a href="https://nyti.ms/3Duj5UL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>E.U. Vows More Help for Ukraine but Tamps Down Membership Talk</h3>
-<sub>By Matina Stevis-Gridneff</sub>
-<p>European Union leaders met in Kyiv with President Volodymyr Zelensky, who said Ukraine would not give up on Bakhmut, the eastern city caught in a fierce battle with Russian forces.  <a href="https://nyti.ms/40tF9bH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Weapons Is Ukraine Getting, and Will They Arrive in Time?</h3>
-<sub>By Lara Jakes</sub>
-<p>Kyiv has been promised scores of tanks and other armor, and the longest range munitions yet. But with a looming Russian offensive, a race is on to get the matériel to the battlefield.  <a href="https://nyti.ms/3RsQVzf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>‘My Watch Thinks I’m Dead’</h3>
-<sub>By Matt Richtel</sub>
-<p>Dispatchers for 911 are being inundated with false, automated distress calls from Apple devices owned by skiers who are very much alive.  <a href="https://nyti.ms/3jtCPky"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>E.M.T.s Provided No Care for 19 Minutes After Police Beat Tyre Nichols</h3>
 <sub>By Nicholas Bogel-Burroughs</sub>
@@ -132,6 +114,24 @@ Recently, there has been a lot of news that can affect the world as a whole. In 
 <h3>‘We Are in Trauma’: Memphis Reels From the Latest of Many Blows</h3>
 <sub>By Richard Fausset</sub>
 <p>Tyre Nichols’s fatal beating took its place on a roster of traumatic events that have helped shape the story of Memphis as much as its world-famous musical innovations.  <a href="https://nyti.ms/3l5BtNd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>‘My Watch Thinks I’m Dead’</h3>
+<sub>By Matt Richtel</sub>
+<p>Dispatchers for 911 are being inundated with false, automated distress calls from Apple devices owned by skiers who are very much alive.  <a href="https://nyti.ms/3jtCPky"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>E.U. Vows More Help for Ukraine but Tamps Down Membership Talk</h3>
+<sub>By Matina Stevis-Gridneff</sub>
+<p>European Union leaders met in Kyiv with President Volodymyr Zelensky, who said Ukraine would not give up on Bakhmut, the eastern city caught in a fierce battle with Russian forces.  <a href="https://nyti.ms/40tF9bH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats, Seeing a Weaker Trump, Are Falling in Line Behind Biden</h3>
+<sub>By Lisa Lerer, Reid J. Epstein and Katie Glueck</sub>
+<p>Concerns about the president’s age are being overcome by enthusiasm about his record so far, optimism about the G.O.P. field — and the absence of better options.  <a href="https://nyti.ms/3l6klqO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
