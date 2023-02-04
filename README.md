@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, February 3, Central Standard Time</p>
+<p>It is Saturday, February 4, Central Standard Time</p>
 <p>
-It looks like there&#39;s been a bit of a diplomatic crisis recently with a Chinese spy balloon flying from Montana to Kansas, which has everyone talking. On the job front, there&#39;s good news - U.S hiring is up with a January gain of 517,000 jobs, and President Biden is pointing to this as evidence that his agenda has rebuilt the economy. Separately, Elon Musk and Tesla just won an investor lawsuit over tweets which has been making headlines. There&#39;s also this terrible story in Memphis where EMTs failed to render aid following a police beating. And finally, Europe has promised more help for Ukraine in their ongoing struggle against Russian forces.</p>
+There&#39;s a lot going on in the world right now. A Chinese balloon is sparking a diplomatic crisis after it flew from Montana to Kansas and was identified as an &#39;intelligence-gathering&#39; device. In the US, there has been some great news with job growth surging by 517,000 jobs in January and this being credited to President Biden&#39;s agenda helping rebuild the economy. Elon Musk has also been in the news as he won a lawsuit over some of his tweets and then his Twitter account was sued for not paying a firm who it had hired for a deal. In Memphis, Tennessee there was an incident of police brutality where EMTs didn&#39;t render aid to the victim for 19 minutes. In Ukraine, the EU has vowed more help but has dampened membership talk. And finally, in the US many Democrats are beginning to come around to Biden and are feeling optimistic about his record so far.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Furor Over Chinese Spy Balloon Leads to a Diplomatic Crisis</h3>
@@ -99,10 +99,10 @@ It looks like there&#39;s been a bit of a diplomatic crisis recently with a Chin
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Dissecting Elon Musk’s Tweets: Memes, Rants, Private Parts and an Echo Chamber</h3>
-<sub>By Sheera Frenkel, Martín González Gómez and Ella Koeze</sub>
-<p>As he fights for free speech online and promotes his companies, the new owner of Twitter spends a lot of time replying to his fans.  <a href="https://nyti.ms/3Duj5UL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<h3>Advisory Firm Sues Elon Musk’s Twitter, Saying It Hasn’t Been Paid</h3>
+<sub>By Lauren Hirsch and Kate Conger</sub>
+<p>Innisfree M&amp;A says Twitter, which Elon Musk bought last year, has not paid it $1.9 million for services it rendered for the deal.  <a href="https://nyti.ms/3DF4Nk7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>E.M.T.s Provided No Care for 19 Minutes After Police Beat Tyre Nichols</h3>
