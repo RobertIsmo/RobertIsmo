@@ -60,33 +60,27 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 5, Central Standard Time</p>
 <p>
-Right now, there is a lot going on around the world. In the United States, Congress has been facing an issue with a warship boondoggle, while the Navy is conducting recovery efforts to find debris from a Chinese spy balloon that was shot down by an F-22 fighter jet off the coast of South Carolina. The incident has caused a diplomatic crisis with China, and they have registered “strong discontent and protest” about it. 
+There is a lot going on in the world right now. In the US, newly elected President Biden is trying to call for bipartisan cooperation between Democrats and Republicans, but many don&#39;t expect it to happen. Meanwhile, a conservative donor network is stepping up to back GOP primary candidates with an aim to oust former President Trump. Elsewhere, the Navy and Coast Guard have been sent to recover debris from a Chinese spy balloon that drifted across the US for 7 days. In response, China has registered “strong discontent and protest” but ultimately may not be able to retaliate against this incident.
 
-In Pakistan, the former military ruler, Pervez Musharraf, recently passed away at the age of 79. His death comes after he resigned under threat of impeachment in 2008 due to ties with the U.S.
-
-Meanwhile, in Ukraine, citizens have been flocking to ski resorts in their highest mountain range to get some respite from the ongoing war against Russia. The battle currently raging in Bakhmut is growing more intense and Ukrainian troops are becoming increasingly pessimistic on its fate.
-
-And in China, officials have begun to slowly lift the “zero Covid” policy as consumer spending makes a cautious resurgence. However, due to the harsh pandemic restrictions imposed during that time, there are still scars present from it. Furthermore, dozens of obituaries of top academics have been published due to them succumbing to the virus, showing just how much of a huge toll it has taken on them in just a few weeks. 
-
-At last, a new wave of politics is washing across West Bank as violence has seen an increase which could potentially lead to another escalation between Israeli settlers and Palestinians. And here in the US, Republicans might be getting some help from conservative donors with an alliance that will back primary candidates aiming to replace Donald Trump in office.</p>
+In other news, violence in the occupied West Bank appears to be on the rise and Israeli settlers see this as an opportunity for their cause. And in China, there is still much uncertainty about the real death toll from Covid-19 as dozens of obituaries from China&#39;s top academics seem to suggest an enormous loss. Despite this, consumer spending has started to pick up in China after “zero Covid” restrictions were lifted and people are beginning to visit ski resorts in Ukraine for respite from the war.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Pentagon Saw a Warship Boondoggle. Congress Saw Jobs.</h3>
-<sub></sub>
-<p>After years of crippling problems and a changing mission, the Navy pushed to retire nine of its newest ships. Then the lobbying started.  <a href="https://nyti.ms/3jrvTEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Navy Divers Work to Recover Debris From Chinese Spy Balloon</h3>
-<sub>By Helene Cooper</sub>
-<p>The effort off the coast of South Carolina is expected to take days. Navy and Coast Guard ships have been sent to the scene.  <a href="https://nyti.ms/3HZdQPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Biden, a Chance for a Fresh Start in a New Era of Divided Government</h3>
+<sub>By Peter Baker</sub>
+<p>The president plans to use his first State of the Union address since Republicans took control of the House to call for bipartisan cooperation. Neither he nor many others expect that to happen.  <a href="https://nyti.ms/3RAfv0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Downing of Chinese Spy Balloon Ends Chapter in a Diplomatic Crisis</h3>
+<h3>Taking Aim at Trump, Koch Network Will Back G.O.P. Primary Candidates</h3>
+<sub>By Maggie Haberman, Jonathan Swan and Kenneth P. Vogel</sub>
+<p>The move by the alliance of conservative donors could provide an enormous boost to a Republican alternative to the former president.  <a href="https://nyti.ms/3jrn3Xr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Navy Divers Work to Recover Debris From Chinese Spy Balloon</h3>
 <sub>By Helene Cooper and Edward Wong</sub>
-<p>The balloon, spotted earlier this week over the western United States, was brought down when an F-22 fighter jet fired an air-to-air missile at it off the coast of South Carolina.  <a href="https://nyti.ms/3RFX76X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<p>The effort off the coast of South Carolina is expected to take days. Navy and Coast Guard ships have been sent to the scene.  <a href="https://nyti.ms/3HZdQPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China Finds Itself With Limited Options After U.S. Shoots Down Balloon</h3>
@@ -98,6 +92,12 @@ At last, a new wave of politics is washing across West Bank as violence has seen
 <h3>China’s spy balloon drifted for 7 days across the U.S.: A Timeline</h3>
 <sub>By Helene Cooper and Edward Wong</sub>
 <p>The balloon brought Americans out to squint at the sky, caused a diplomatic visit to be canceled and opened a political debate.  <a href="https://nyti.ms/3Y4oni1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Pentagon Saw a Warship Boondoggle. Congress Saw Jobs.</h3>
+<sub></sub>
+<p>After years of crippling problems and a changing mission, the Navy pushed to retire nine of its newest ships. Then the lobbying started.  <a href="https://nyti.ms/3jrvTEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -134,12 +134,6 @@ At last, a new wave of politics is washing across West Bank as violence has seen
 <h3>In West Bank, Settlers Sense Their Moment After Far Right’s Rise</h3>
 <sub>By Patrick Kingsley and Raja Abdulrahim</sub>
 <p>After a surge in violence, there are fears of a wider escalation in the occupied West Bank. Israeli settlers see an opportunity, and Palestinians fear what’s next.  <a href="https://nyti.ms/3RyxS6w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Taking Aim at Trump, Koch Network Will Back G.O.P. Primary Candidates</h3>
-<sub>By Maggie Haberman, Jonathan Swan and Kenneth P. Vogel</sub>
-<p>The move by the alliance of conservative donors could provide an enormous boost to a Republican alternative to the former president.  <a href="https://nyti.ms/3jrn3Xr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
