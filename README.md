@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 5, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The US military is facing problems with nine of their newest ships and Congress is now involved in trying to save jobs. China was involved in an aerial crisis when a US fighter jet downed one of their spy balloons off the coast of South Carolina. China doesn&#39;t have many options for retaliation, but Beijing has expressed &quot;strong discontent and protest.&quot; This incident comes shortly after Pervez Musharraf, the former military ruler of Pakistan, passed away at 79 years old. Ukrainians have flocked to ski resorts to get relief from war in their Carpathian Mountains, while Bakhmut in eastern Ukraine is currently under a fierce battle between Ukrainian and Russian forces. Meanwhile, China is still dealing with the aftermath of their pandemic and memorializing many top academics who have passed away in the midst of it all. In Israel, there has been an increased surge of violence between settlers and Palestinians which raises fears of further escalation. The Koch Network is now looking to &quot;turn the page&quot; on Trump by providing a Republican alternative during the upcoming primaries. Lastly, the Inflation Reduction Act will help consumers save money while also fighting climate change when they make certain purchases such as electric cars or home appliances.</p>
+There have been a lot of events happening in recent weeks. In the US, the Pentagon wanted to retire the nine newest warships, but Congress argued that it would cost too many jobs. Meanwhile, China had sent up a spy balloon which the US shot down off the coast of South Carolina. On the world stage, former Pakistani military ruler Pervez Musharraf passed away, and there have been clashes in Ukraine as well as an escalating conflict between Israelis and Palestinians in the West Bank. There are also worries over Covid-related deaths in China and economic pain that remains from strict pandemic restrictions. Fortunately, there is some good news with new options for those wanting to save money while fighting climate change. Finally, the Koch network announced that they will be playing a role in upcoming GOP primaries as they strive to move past Donald Trump.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Pentagon Saw a Warship Boondoggle. Congress Saw Jobs.</h3>
@@ -93,7 +93,7 @@ There is a lot going on in the world right now. The US military is facing proble
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Finding Relief, if Not an Escape, From War at Ukraine’s Ski Resorts</h3>
+<h3>‘Here, It’s Like Paradise’: Ukraine’s Ski Resorts Offer a Respite From the War</h3>
 <sub>By Megan Specia and Brendan Hoffman</sub>
 <p>Ukrainians have flocked to resorts nestled in the Carpathian Mountains, largely spared the worst of the war, for a respite. One soldier recuperating there explored what it means to heal.  <a href="https://nyti.ms/3X7BDAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
