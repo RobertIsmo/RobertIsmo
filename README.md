@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 5, Central Standard Time</p>
 <p>
-There is a diplomatic crisis between the United States and China after an F-22 fighter jet fired an air-to-air missile and shot down a Chinese spy balloon off the coast of South Carolina. China has expressed strong discontent but may not have many options to retaliate. In the US, there has been concern, jokes and political debates over the incident. Internationally, former Pakistani military ruler Pervez Musharraf died at 79 years old. He took power in a bloodless coup but resigned under threat of impeachment in 2008 due to his ties to Washington. Meanwhile, a brutal cold blast has passed through New York and New England, setting record temperatures, and a tree fell on a car in western Massachusetts killing an infant. On the political front, the US Democratic Party modified their system for nominating presidential candidates by giving more diverse states precedence. Europe has been reluctant to build its own defense even after Russia’s invasion of Ukraine, instead relying on US leadership intelligence, and might. Lastly, in sports news there&#39;s Lhakpa Sherpa who has climbed Mount Everest 10 times as well as LeBron James who is 36 points away from breaking Kareem Abdul-Jabbar’s career scoring record.</p>
+There is a lot going on in the world right now. The US military is facing problems with nine of their newest ships and Congress is now involved in trying to save jobs. China was involved in an aerial crisis when a US fighter jet downed one of their spy balloons off the coast of South Carolina. China doesn&#39;t have many options for retaliation, but Beijing has expressed &quot;strong discontent and protest.&quot; This incident comes shortly after Pervez Musharraf, the former military ruler of Pakistan, passed away at 79 years old. Ukrainians have flocked to ski resorts to get relief from war in their Carpathian Mountains, while Bakhmut in eastern Ukraine is currently under a fierce battle between Ukrainian and Russian forces. Meanwhile, China is still dealing with the aftermath of their pandemic and memorializing many top academics who have passed away in the midst of it all. In Israel, there has been an increased surge of violence between settlers and Palestinians which raises fears of further escalation. The Koch Network is now looking to &quot;turn the page&quot; on Trump by providing a Republican alternative during the upcoming primaries. Lastly, the Inflation Reduction Act will help consumers save money while also fighting climate change when they make certain purchases such as electric cars or home appliances.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Pentagon Saw a Warship Boondoggle. Congress Saw Jobs.</h3>
+<sub></sub>
+<p>After years of crippling problems and a changing mission, the Navy pushed to retire nine of its newest ships. Then the lobbying started.  <a href="https://nyti.ms/3jrvTEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Downing of Chinese Spy Balloon Ends Chapter in a Diplomatic Crisis</h3>
 <sub>By Helene Cooper and Edward Wong</sub>
@@ -75,9 +81,9 @@ There is a diplomatic crisis between the United States and China after an F-22 f
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Chinese spy balloon moved from Alaska to South Carolina, prompting fear, jokes and political debate.</h3>
-<sub>By Melina Delkic</sub>
-<p>  <a href="https://nyti.ms/3HAN1zD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China’s spy balloon drifted for 7 days across the U.S.: A Timeline</h3>
+<sub>By Helene Cooper and Edward Wong</sub>
+<p>The balloon brought Americans out to squint at the sky, caused a diplomatic visit to be canceled and opened a political debate.  <a href="https://nyti.ms/3Y4oni1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,53 +92,47 @@ There is a diplomatic crisis between the United States and China after an F-22 f
 <p>Mr. Musharraf took power in a bloodless coup in late 1999 but resigned under threat of impeachment in 2008. He drew fire for his ties to Washington.  <a href="https://nyti.ms/3YqlJTn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Muscle Cars, Balaclavas and Fists: How the Scorpions Rolled Through Memphis</h3>
-<sub>By Steve Eder, Matthew Rosenberg, Joseph Goldstein, Mike Baker, Kassie Bracken and Mark Walker</sub>
-<p>Residents say the street crime unit was an intimidating and sometimes violent presence in the city. Five Scorpion officers are charged with murdering Tyre Nichols during an arrest.  <a href="https://nyti.ms/3HXgjdi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>At Least 1 Is Killed in Brutal Cold Blast Across New York and New England</h3>
-<sub>By Jenna Russell</sub>
-<p>The wind chill atop Mount Washington in New Hampshire approached minus 110 degrees and an infant was killed when a tree fell on a car in western Massachusetts.  <a href="https://nyti.ms/3Ynuk9h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Here are some of the record temperatures set across the Northeast.</h3>
-<sub>By Anushka Patil</sub>
-<p>  <a href="https://nyti.ms/40vk5S7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Overhaul Party’s Primary Calendar, Upending a Political Tradition</h3>
-<sub>By Katie Glueck</sub>
-<p>The proposal radically reshapes the way the party picks its presidential nominees, putting more racially diverse states at the front of the line.  <a href="https://nyti.ms/3HZ7TCd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Finding Relief, if Not an Escape, From War at Ukraine’s Ski Resorts</h3>
+<sub>By Megan Specia and Brendan Hoffman</sub>
+<p>Ukrainians have flocked to resorts nestled in the Carpathian Mountains, largely spared the worst of the war, for a respite. One soldier recuperating there explored what it means to heal.  <a href="https://nyti.ms/3X7BDAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>When It Comes to Building Its Own Defense, Europe Has Blinked</h3>
-<sub>By Steven Erlanger</sub>
-<p>Despite expectations that Russia’s invasion of Ukraine would force Europe to bolster its military strength, it has instead reinforced dependency on U.S. leadership, intelligence and might.  <a href="https://nyti.ms/3JL4oAF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<h3>Fierce Battle Rages for ‘Every Stairwell’ in Bakhmut, Russian Paramilitary Leader Says</h3>
+<sub>By Shashank Bengali</sub>
+<p>Ukrainian troops are becoming increasingly pessimistic about the fate of the city in eastern Ukraine, as Russian forces push for their first significant victory in months.  <a href="https://nyti.ms/3lcDHKC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Queen of Everest Trains While Working at Whole Foods</h3>
-<sub>By Bhadra Sharma and Adam Skolnick</sub>
-<p>Lhakpa Sherpa has climbed Mount Everest 10 times, the most ascents ever by a woman. She has no plans of slowing down.  <a href="https://nyti.ms/3wGOJKT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In China’s Covid Fog, Deaths of Scholars Offer a Clue</h3>
+<sub>By Pablo Robles, Vivian Wang and Joy Dong</sub>
+<p>The toll of China’s epidemic is unclear. But dozens of obituaries of the country’s top academics show an enormous loss in just a few weeks.  <a href="https://nyti.ms/3Y5nOEy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>LeBron James Keeps the World Watching</h3>
-<sub>By Tania Ganguli</sub>
-<p>The Los Angeles Lakers star has embraced the often harsh spotlight of celebrity to further his career and personal goals. But he said it can be “challenging at times.”  <a href="https://nyti.ms/40sCejH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Flowers, Fresh Fish and Movies: China Is Spending Again, Cautiously</h3>
+<sub>By Keith Bradsher</sub>
+<p>The outlook for the world’s second largest economy is brighter as consumer spending picked up after “zero Covid” was lifted. But scars remain from the harsh pandemic restrictions.  <a href="https://nyti.ms/3DJ9b1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>LeBron James Scoring Tracker: How Close Is He to the N.B.A. Record?</h3>
-<sub>By Tania Ganguli</sub>
-<p>The Lakers star is 36 points away from breaking Kareem Abdul-Jabbar’s career scoring record, which was set before James was born.  <a href="https://nyti.ms/3Hwmswz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In West Bank, Settlers Sense Their Moment After Far Right’s Rise</h3>
+<sub>By Patrick Kingsley and Raja Abdulrahim</sub>
+<p>After a surge in violence, there are fears of a wider escalation in the occupied West Bank. Israeli settlers see an opportunity, and Palestinians fear what’s next.  <a href="https://nyti.ms/3RyxS6w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Koch Network, Aiming to ‘Turn the Page’ on Trump, Will Play in the G.O.P. Primaries</h3>
+<sub>By Maggie Haberman, Jonathan Swan and Kenneth P. Vogel</sub>
+<p>The move by the alliance of conservative donors could provide an enormous boost to a Republican alternative to the former president.  <a href="https://nyti.ms/3jrn3Xr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>This Guide Can Help You Save Money and Fight Climate Change</h3>
+<sub>By Nadja Popovich and Elena Shao</sub>
+<p>Whether you are renovating your home, upgrading appliances or buying an electric car, this guide can help you take advantage of savings from the Inflation Reduction Act.  <a href="https://nyti.ms/3DxCiVn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
