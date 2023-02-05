@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 5, Central Standard Time</p>
 <p>
-There have been some alarming diplomatic developments in the US recently - a Chinese spy balloon was spotted earlier this week and was brought down when an F-22 fighter jet fired an air-to-air missile at it off the coast of South Carolina. Meanwhile, temperatures across New York and New England have been incredibly cold, with some record lows being reached. On the political side, Democrats plan to overhaul their presidential primaries and put more racially diverse states at the front of the line, while Europe is seemingly reluctant to build its own defense against Russia&#39;s recent invasions.
-
-In more positive news, Lhakpa Sherpa has climbed Mount Everest 10 times - the most ascents ever by a woman - while working at Whole Foods! LeBron James is also in the headlines, as he tries to break Kareem Abdul-Jabbar&#39;s career scoring record with the Lakers. Plus, to tackle homelessness in America, sheriffs, social workers and volunteers are working hard during 10 days in January to count homeless people across the country. Finally, if you&#39;re looking for something fun to do over the weekend, you may want to check out what&#39;s happening in Bangkok or learn about how Barnes &amp; Noble recovered from near death!</p>
+There is a diplomatic crisis between the United States and China after an F-22 fighter jet fired an air-to-air missile and shot down a Chinese spy balloon off the coast of South Carolina. China has expressed strong discontent but may not have many options to retaliate. In the US, there has been concern, jokes and political debates over the incident. Internationally, former Pakistani military ruler Pervez Musharraf died at 79 years old. He took power in a bloodless coup but resigned under threat of impeachment in 2008 due to his ties to Washington. Meanwhile, a brutal cold blast has passed through New York and New England, setting record temperatures, and a tree fell on a car in western Massachusetts killing an infant. On the political front, the US Democratic Party modified their system for nominating presidential candidates by giving more diverse states precedence. Europe has been reluctant to build its own defense even after Russia’s invasion of Ukraine, instead relying on US leadership intelligence, and might. Lastly, in sports news there&#39;s Lhakpa Sherpa who has climbed Mount Everest 10 times as well as LeBron James who is 36 points away from breaking Kareem Abdul-Jabbar’s career scoring record.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Downing of Chinese Spy Balloon Ends Chapter in a Diplomatic Crisis</h3>
@@ -70,11 +68,23 @@ In more positive news, Lhakpa Sherpa has climbed Mount Everest 10 times - the mo
 <p>The balloon, spotted earlier this week over the western United States, was brought down when an F-22 fighter jet fired an air-to-air missile at it off the coast of South Carolina.  <a href="https://nyti.ms/3RFX76X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Finds Itself With Limited Options After U.S. Shoots Down Balloon</h3>
+<sub>By Chris Buckley</sub>
+<p>Beijing registered “strong discontent and protest.” But there may be little it can do to retaliate.  <a href="https://nyti.ms/3X3HbfR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Chinese spy balloon moved from Alaska to South Carolina, prompting fear, jokes and political debate.</h3>
 <sub>By Melina Delkic</sub>
 <p>  <a href="https://nyti.ms/3HAN1zD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pervez Musharraf, Former Military Ruler of Pakistan, Dies at 79</h3>
+<sub>By Alan Cowell and Stephen Kinzer</sub>
+<p>Mr. Musharraf took power in a bloodless coup in late 1999 but resigned under threat of impeachment in 2008. He drew fire for his ties to Washington.  <a href="https://nyti.ms/3YqlJTn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Muscle Cars, Balaclavas and Fists: How the Scorpions Rolled Through Memphis</h3>
@@ -123,18 +133,6 @@ In more positive news, Lhakpa Sherpa has climbed Mount Everest 10 times - the mo
 <sub>By Tania Ganguli</sub>
 <p>The Lakers star is 36 points away from breaking Kareem Abdul-Jabbar’s career scoring record, which was set before James was born.  <a href="https://nyti.ms/3Hwmswz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>582,462 and Counting</h3>
-<sub></sub>
-<p>To fix a problem like homelessness in America, you need to know its scope. To do that, you need sheriffs, social workers, volunteers, flashlights and 10 days in January.  <a href="https://nyti.ms/3HTnwuF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jaclyn Reiss</sub>
-<p>What to do for 36 hours in Bangkok. Also, how Barnes &amp; Noble came back from near death, and senior housing that seniors actually like.  <a href="https://nyti.ms/3l9Heta"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
