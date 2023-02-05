@@ -58,9 +58,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, February 4, Central Standard Time</p>
+<p>It is Sunday, February 5, Central Standard Time</p>
 <p>
-There have been some interesting events in the world lately. In the United States, an F-22 fighter jet fired an air-to-air missile at a Chinese spy balloon off the coast of South Carolina, which has caused a diplomatic crisis. In Memphis, there&#39;s a street crime unit that many residents find intimidating and violent. In the Northeast, there was an incredibly cold blast that killed an infant when a tree fell on a car. Texas is dealing with a massive power outage after an ice storm and the Democratic Party has revolutionized the way they pick their presidential nominees. On the international stage, Europe has not made progress towards building its own defense in response to Russia&#39;s invasion of Ukraine and continues to rely on U.S. leadership. Lastly, Lhakpa Sherpa made history by becoming the first woman to climb Mount Everest 10 times and Lebron James is 36 points away from breaking Kareem Abdul-Jabbar&#39;s career scoring record.</p>
+There have been some alarming diplomatic developments in the US recently - a Chinese spy balloon was spotted earlier this week and was brought down when an F-22 fighter jet fired an air-to-air missile at it off the coast of South Carolina. Meanwhile, temperatures across New York and New England have been incredibly cold, with some record lows being reached. On the political side, Democrats plan to overhaul their presidential primaries and put more racially diverse states at the front of the line, while Europe is seemingly reluctant to build its own defense against Russia&#39;s recent invasions.
+
+In more positive news, Lhakpa Sherpa has climbed Mount Everest 10 times - the most ascents ever by a woman - while working at Whole Foods! LeBron James is also in the headlines, as he tries to break Kareem Abdul-Jabbar&#39;s career scoring record with the Lakers. Plus, to tackle homelessness in America, sheriffs, social workers and volunteers are working hard during 10 days in January to count homeless people across the country. Finally, if you&#39;re looking for something fun to do over the weekend, you may want to check out what&#39;s happening in Bangkok or learn about how Barnes &amp; Noble recovered from near death!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Downing of Chinese Spy Balloon Ends Chapter in a Diplomatic Crisis</h3>
@@ -90,12 +92,6 @@ There have been some interesting events in the world lately. In the United State
 <h3>Here are some of the record temperatures set across the Northeast.</h3>
 <sub>By Anushka Patil</sub>
 <p>  <a href="https://nyti.ms/40vk5S7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Days after an ice storm, thousands in the capital of Texas are still without power.</h3>
-<sub>By David Montgomery</sub>
-<p>  <a href="https://nyti.ms/3HYfgtB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +128,12 @@ There have been some interesting events in the world lately. In the United State
 <h3>582,462 and Counting</h3>
 <sub></sub>
 <p>To fix a problem like homelessness in America, you need to know its scope. To do that, you need sheriffs, social workers, volunteers, flashlights and 10 days in January.  <a href="https://nyti.ms/3HTnwuF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jaclyn Reiss</sub>
+<p>What to do for 36 hours in Bangkok. Also, how Barnes &amp; Noble came back from near death, and senior housing that seniors actually like.  <a href="https://nyti.ms/3l9Heta"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
