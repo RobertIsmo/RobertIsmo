@@ -60,13 +60,27 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 5, Central Standard Time</p>
 <p>
-There have been a lot of events happening in recent weeks. In the US, the Pentagon wanted to retire the nine newest warships, but Congress argued that it would cost too many jobs. Meanwhile, China had sent up a spy balloon which the US shot down off the coast of South Carolina. On the world stage, former Pakistani military ruler Pervez Musharraf passed away, and there have been clashes in Ukraine as well as an escalating conflict between Israelis and Palestinians in the West Bank. There are also worries over Covid-related deaths in China and economic pain that remains from strict pandemic restrictions. Fortunately, there is some good news with new options for those wanting to save money while fighting climate change. Finally, the Koch network announced that they will be playing a role in upcoming GOP primaries as they strive to move past Donald Trump.</p>
+Right now, there is a lot going on around the world. In the United States, Congress has been facing an issue with a warship boondoggle, while the Navy is conducting recovery efforts to find debris from a Chinese spy balloon that was shot down by an F-22 fighter jet off the coast of South Carolina. The incident has caused a diplomatic crisis with China, and they have registered “strong discontent and protest” about it. 
+
+In Pakistan, the former military ruler, Pervez Musharraf, recently passed away at the age of 79. His death comes after he resigned under threat of impeachment in 2008 due to ties with the U.S.
+
+Meanwhile, in Ukraine, citizens have been flocking to ski resorts in their highest mountain range to get some respite from the ongoing war against Russia. The battle currently raging in Bakhmut is growing more intense and Ukrainian troops are becoming increasingly pessimistic on its fate.
+
+And in China, officials have begun to slowly lift the “zero Covid” policy as consumer spending makes a cautious resurgence. However, due to the harsh pandemic restrictions imposed during that time, there are still scars present from it. Furthermore, dozens of obituaries of top academics have been published due to them succumbing to the virus, showing just how much of a huge toll it has taken on them in just a few weeks. 
+
+At last, a new wave of politics is washing across West Bank as violence has seen an increase which could potentially lead to another escalation between Israeli settlers and Palestinians. And here in the US, Republicans might be getting some help from conservative donors with an alliance that will back primary candidates aiming to replace Donald Trump in office.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Pentagon Saw a Warship Boondoggle. Congress Saw Jobs.</h3>
 <sub></sub>
 <p>After years of crippling problems and a changing mission, the Navy pushed to retire nine of its newest ships. Then the lobbying started.  <a href="https://nyti.ms/3jrvTEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Navy Divers Work to Recover Debris From Chinese Spy Balloon</h3>
+<sub>By Helene Cooper</sub>
+<p>The effort off the coast of South Carolina is expected to take days. Navy and Coast Guard ships have been sent to the scene.  <a href="https://nyti.ms/3HZdQPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Downing of Chinese Spy Balloon Ends Chapter in a Diplomatic Crisis</h3>
@@ -100,8 +114,8 @@ There have been a lot of events happening in recent weeks. In the US, the Pentag
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Fierce Battle Rages for ‘Every Stairwell’ in Bakhmut, Russian Paramilitary Leader Says</h3>
-<sub>By Shashank Bengali</sub>
-<p>Ukrainian troops are becoming increasingly pessimistic about the fate of the city in eastern Ukraine, as Russian forces push for their first significant victory in months.  <a href="https://nyti.ms/3lcDHKC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Marc Santora and Shashank Bengali</sub>
+<p>Ukrainian troops are increasingly pessimistic about the fate of the eastern city, even as Ukraine’s defense minister said the situation on the battlefield was “under control.”  <a href="https://nyti.ms/3lcDHKC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -123,16 +137,10 @@ There have been a lot of events happening in recent weeks. In the US, the Pentag
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Koch Network, Aiming to ‘Turn the Page’ on Trump, Will Play in the G.O.P. Primaries</h3>
+<h3>Taking Aim at Trump, Koch Network Will Back G.O.P. Primary Candidates</h3>
 <sub>By Maggie Haberman, Jonathan Swan and Kenneth P. Vogel</sub>
 <p>The move by the alliance of conservative donors could provide an enormous boost to a Republican alternative to the former president.  <a href="https://nyti.ms/3jrn3Xr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>This Guide Can Help You Save Money and Fight Climate Change</h3>
-<sub>By Nadja Popovich and Elena Shao</sub>
-<p>Whether you are renovating your home, upgrading appliances or buying an electric car, this guide can help you take advantage of savings from the Inflation Reduction Act.  <a href="https://nyti.ms/3DxCiVn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
