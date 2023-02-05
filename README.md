@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 4, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot going on in the world right now. A Chinese spy balloon was discovered in the US, and American officials are saying a rival power may be using advanced technology to spy on US military sites. In northern Maine, it&#39;s so cold that they&#39;re getting &quot;frostquakes.&quot; Meanwhile, Democrats have decided to overhaul their primary calendar for the presidential elections and put more diverse states at the front of the line. In Russia, they&#39;re pushing to take control of a Ukrainian town that is near a very important supply line. Over in Big Sur, California, people have been dealing with heavy storms recently and some residents are cut off from the rest of the state. And finally, Pope Francis recently visited South Sudan and encouraged his clergy to not stay neutral about violent acts and injustice.</p>
+Right now, there is a lot happening in the world. In the US, the Democratic party has proposed a major overhaul of the primary calendar upending a long-standing political tradition. In Texas, days after an ice storm many are still without power in the capital. Meanwhile, in Memphis there has been a lot of tension over police brutality and five officers were recently charged with murdering someone during an arrest. Internationally, Europe has not taken action to bolster its military strength even after Russia invaded Ukraine. In South Sudan there is hope for peace pinned on a papal visit where he spoke out against injustice and violence. Finally, it looks like Lhakpa Sherpa is on track to break more records as she continues to climb Mount Everest while also training and working at Whole Foods.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Look! Up in the Sky! It’s a … Chinese Spy Balloon?</h3>
@@ -69,9 +69,9 @@ It looks like there&#39;s a lot going on in the world right now. A Chinese spy b
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Classified U.S. Report Highlights Foreign Power Aerial Spying With Advanced Tech</h3>
-<sub>By Julian E. Barnes and Edward Wong</sub>
-<p>Before a Chinese spy balloon was discovered in the United States, American officials said a rival power may have used advanced technology to surveil U.S. military sites.  <a href="https://nyti.ms/40s9O9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Chinese spy balloon moved from Alaska to South Carolina, prompting fear, jokes and political debate.</h3>
+<sub>By Melina Delkic</sub>
+<p>  <a href="https://nyti.ms/3HAN1zD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,15 +81,15 @@ It looks like there&#39;s a lot going on in the world right now. A Chinese spy b
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Mount Washington set a record for coldest wind chill ever recorded at minus 108 degrees.</h3>
-<sub>By Lola Fadulu</sub>
-<p>The air temperatures at the region’s highest peak went as low as minus 47 degrees, according to the National Weather Service.  <a href="https://nyti.ms/3DFySQH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here are some of the record temperatures set across the Northeast.</h3>
+<sub>By Anushka Patil</sub>
+<p>  <a href="https://nyti.ms/40vk5S7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In northern Maine, it’s cold enough for ‘frostquakes.’</h3>
-<sub>By Polly Saltonstall</sub>
-<p>  <a href="https://nyti.ms/3Y2zQ1j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Days after an ice storm, thousands in the capital of Texas are still without power.</h3>
+<sub>By David Montgomery</sub>
+<p>  <a href="https://nyti.ms/3HYfgtB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,23 +104,11 @@ It looks like there&#39;s a lot going on in the world right now. A Chinese spy b
 <p>Despite expectations that Russia’s invasion of Ukraine would force Europe to bolster its military strength, it has instead reinforced dependency on U.S. leadership, intelligence and might.  <a href="https://nyti.ms/3JL4oAF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Pushes to Take Ukrainian Town Near a Vital Supply Line</h3>
-<sub>By Marc Santora</sub>
-<p>Ukraine has used the strategic town of Vuhledar to launch attacks disrupting transit on a critical rail link between the war’s southern and eastern fronts.  <a href="https://nyti.ms/3Yl8seO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The Queen of Everest Trains While Working at Whole Foods</h3>
 <sub>By Bhadra Sharma and Adam Skolnick</sub>
 <p>Lhakpa Sherpa has climbed Mount Everest 10 times, the most ascents ever by a woman. She has no plans of slowing down.  <a href="https://nyti.ms/3wGOJKT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Big Sur, Living With Nature’s Beauty but Trapped by Its Fury</h3>
-<sub>By Victoria Kim and Ian C. Bates</sub>
-<p>The succession of storms last month that left some residents in that treasured region cut off from the rest of California is another reminder of the perils and adventure of Central Coast life.  <a href="https://nyti.ms/40wigV6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>LeBron James Keeps the World Watching</h3>
@@ -128,11 +116,23 @@ It looks like there&#39;s a lot going on in the world right now. A Chinese spy b
 <p>The Los Angeles Lakers star has embraced the often harsh spotlight of celebrity to further his career and personal goals. But he said it can be “challenging at times.”  <a href="https://nyti.ms/40sCejH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>582,462 and Counting</h3>
+<sub></sub>
+<p>To fix a problem like homelessness in America, you need to know its scope. To do that, you need sheriffs, social workers, volunteers, flashlights and 10 days in January.  <a href="https://nyti.ms/3HTnwuF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hopes for Peace in South Sudan Are Pinned on a Papal Visit</h3>
 <sub>By Jason Horowitz and Declan Walsh</sub>
 <p>Pope Francis ended his trip to Africa on Saturday by meeting with displaced people and urging his clergy not to “remain neutral before the pain caused by acts of injustice and violence.”  <a href="https://nyti.ms/3X8m5Nk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jaclyn Reiss</sub>
+<p>What to do for 36 hours in Bangkok. Also, how Barnes &amp; Noble came back from near death, and senior housing that seniors actually like.  <a href="https://nyti.ms/3l9Heta"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
