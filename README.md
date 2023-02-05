@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 4, Central Standard Time</p>
 <p>
-Right now, there is a lot happening in the world. In the US, the Democratic party has proposed a major overhaul of the primary calendar upending a long-standing political tradition. In Texas, days after an ice storm many are still without power in the capital. Meanwhile, in Memphis there has been a lot of tension over police brutality and five officers were recently charged with murdering someone during an arrest. Internationally, Europe has not taken action to bolster its military strength even after Russia invaded Ukraine. In South Sudan there is hope for peace pinned on a papal visit where he spoke out against injustice and violence. Finally, it looks like Lhakpa Sherpa is on track to break more records as she continues to climb Mount Everest while also training and working at Whole Foods.</p>
+There have been some interesting events in the world lately. In the United States, an F-22 fighter jet fired an air-to-air missile at a Chinese spy balloon off the coast of South Carolina, which has caused a diplomatic crisis. In Memphis, there&#39;s a street crime unit that many residents find intimidating and violent. In the Northeast, there was an incredibly cold blast that killed an infant when a tree fell on a car. Texas is dealing with a massive power outage after an ice storm and the Democratic Party has revolutionized the way they pick their presidential nominees. On the international stage, Europe has not made progress towards building its own defense in response to Russia&#39;s invasion of Ukraine and continues to rely on U.S. leadership. Lastly, Lhakpa Sherpa made history by becoming the first woman to climb Mount Everest 10 times and Lebron James is 36 points away from breaking Kareem Abdul-Jabbar&#39;s career scoring record.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Look! Up in the Sky! It’s a … Chinese Spy Balloon?</h3>
-<sub>By Katie Rogers</sub>
-<p>How the balloon went from a local sky oddity to an international diplomatic disrupter to “a shriveled Kleenex.”  <a href="https://nyti.ms/3DHLIhg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Downing of Chinese Spy Balloon Ends Chapter in a Diplomatic Crisis</h3>
+<sub>By Helene Cooper and Edward Wong</sub>
+<p>The balloon, spotted earlier this week over the western United States, was brought down when an F-22 fighter jet fired an air-to-air missile at it off the coast of South Carolina.  <a href="https://nyti.ms/3RFX76X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -78,6 +78,12 @@ Right now, there is a lot happening in the world. In the US, the Democratic part
 <h3>Muscle Cars, Balaclavas and Fists: How the Scorpions Rolled Through Memphis</h3>
 <sub>By Steve Eder, Matthew Rosenberg, Joseph Goldstein, Mike Baker, Kassie Bracken and Mark Walker</sub>
 <p>Residents say the street crime unit was an intimidating and sometimes violent presence in the city. Five Scorpion officers are charged with murdering Tyre Nichols during an arrest.  <a href="https://nyti.ms/3HXgjdi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>At Least 1 Is Killed in Brutal Cold Blast Across New York and New England</h3>
+<sub>By Jenna Russell</sub>
+<p>The wind chill atop Mount Washington in New Hampshire approached minus 110 degrees and an infant was killed when a tree fell on a car in western Massachusetts.  <a href="https://nyti.ms/3Ynuk9h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -116,22 +122,16 @@ Right now, there is a lot happening in the world. In the US, the Democratic part
 <p>The Los Angeles Lakers star has embraced the often harsh spotlight of celebrity to further his career and personal goals. But he said it can be “challenging at times.”  <a href="https://nyti.ms/40sCejH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>LeBron James Scoring Tracker: How Close Is He to the N.B.A. Record?</h3>
+<sub>By Tania Ganguli</sub>
+<p>The Lakers star is 36 points away from breaking Kareem Abdul-Jabbar’s career scoring record, which was set before James was born.  <a href="https://nyti.ms/3Hwmswz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>582,462 and Counting</h3>
 <sub></sub>
 <p>To fix a problem like homelessness in America, you need to know its scope. To do that, you need sheriffs, social workers, volunteers, flashlights and 10 days in January.  <a href="https://nyti.ms/3HTnwuF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hopes for Peace in South Sudan Are Pinned on a Papal Visit</h3>
-<sub>By Jason Horowitz and Declan Walsh</sub>
-<p>Pope Francis ended his trip to Africa on Saturday by meeting with displaced people and urging his clergy not to “remain neutral before the pain caused by acts of injustice and violence.”  <a href="https://nyti.ms/3X8m5Nk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jaclyn Reiss</sub>
-<p>What to do for 36 hours in Bangkok. Also, how Barnes &amp; Noble came back from near death, and senior housing that seniors actually like.  <a href="https://nyti.ms/3l9Heta"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
