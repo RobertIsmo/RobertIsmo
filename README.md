@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 6, Central Standard Time</p>
 <p>
-A lot is happening around the world right now. A powerful earthquake just struck Turkey, creating a lot of seismological activity. Meanwhile, the US and China are engaging in some kind of spy game, which appears to involve balloons. In Ukraine, the country is facing corruption scandals as well as a war, and some people are taking a respite from it by visiting ski resorts in the Carpathian Mountains. 
-
-The 65th annual Grammy Awards happened recently, with hip-hop taking center stage in a joyous performance. Joe Biden gave his State of Union address recently to call for cooperation between both parties, although this may not be likely. The Koch Network is getting involved in G.O.P. primary elections in order combat former President Trump&#39;s policies, and North Carolina&#39;s Supreme Court is re-examining Democratic rulings with their new Republican majority. 
-
-In sports news, the Brooklyn Nets traded Kyrie Irving to the Dallas Mavericks after his refusal to get vaccinated and other incidents. And finally, there&#39;s a guide that can help people save money while also fighting climate change by taking advantage of savings from the Inflation Reduction Act.</p>
+There has been a massive 7.8 magnitude earthquake that struck Turkey, Syria, Lebanon, and Israel, resulting in hundreds of buildings collapsing and many wounded. Following the quake, photos have emerged from the affected countries showing massive destruction. In the US, there has been an incident involving a Chinese spy balloon which has caused tensions to further increase between the two superpowers. The Grammys recently celebrated its 50th anniversary of hip-hop measures with a joyous performance curated by Questlove of the Roots. There were also several style highlights at this year&#39;s ceremony as winners were announced for the 65th annual Grammys. President Biden is using his first State of the Union address since Republicans took control of the House to call for bipartisanship and in light of this, the Koch Network will back Republican primary candidates in an effort to counter President Trump&#39;s agenda. Meanwhile, in North Carolina&#39;s Supreme Court, G.O.P Justices are attempting to reconsider Democratic rulings raising debates over partisan influences on state courts. Lastly, basketball star Kyrie Irving has requested a trade from his team, the Nets, and has been transferred to play alongside fellow superstar Luka Doncic at Dallas Mavericks after posting a link to an antisemitic film.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Map: 7.8-Magnitude Earthquake Strikes Turkey, Syria, Lebanon and Israel</h3>
+<sub>By Pablo Robles</sub>
+<p>Hundreds of buildings collapsed and millions of people in Turkey, Syria, Lebanon and Israel felt the earth shake.  <a href="https://nyti.ms/3RyOb34"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After the Quake: Photos from Turkey and Syria</h3>
+<sub>By Vivek Shankar</sub>
+<p>The deadly earthquake was felt in at least four countries, with most of the casualties and the heaviest damage reported in Turkey and Syria.  <a href="https://nyti.ms/40HVB8C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Monday’s earthquake was as powerful as the strongest recorded in Turkey in 1939.</h3>
 <sub>By John Yoon</sub>
@@ -84,18 +92,6 @@ In sports news, the Brooklyn Nets traded Kyrie Irving to the Dallas Mavericks af
 <p>The effort off the coast of South Carolina is expected to take days, and Navy and Coast Guard ships have been sent to the scene. U.S. officials are watching for retaliation from China.  <a href="https://nyti.ms/3HZdQPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky’s Party Says It Will Move to Replace Defense Minister</h3>
-<sub>By Marc Santora, Shashank Bengali and Cassandra Vinograd</sub>
-<p>The expected move against Oleksii Reznikov comes amid a widening corruption scandal, although he was not implicated in wrongdoing.  <a href="https://nyti.ms/3lcDHKC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Here, It’s Like Paradise’: Ukraine’s Ski Resorts Offer a Respite From the War</h3>
-<sub>By Megan Specia and Brendan Hoffman</sub>
-<p>Ukrainians have flocked to resorts nestled in the Carpathian Mountains, largely spared the worst of the war, for a respite. One soldier recuperating there explored what it means to heal.  <a href="https://nyti.ms/3X7BDAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>The Grammys Celebrate 50 Years of Hip-Hop in a Joyous Performance</h3>
 <sub>By Joe Coscarelli</sub>
@@ -107,6 +103,12 @@ In sports news, the Brooklyn Nets traded Kyrie Irving to the Dallas Mavericks af
 <sub>By The New York Times</sub>
 <p>Here are the winners of the 65th annual Grammy Awards.  <a href="https://nyti.ms/40nOlOS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>17 Outfits That Did the Most at the Grammys</h3>
+<sub>By The Styles Desk</sub>
+<p>On the red carpet, even some of the bad looks were good.  <a href="https://nyti.ms/3DEZTDG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Biden, a Chance for a Fresh Start in a New Era of Divided Government</h3>
@@ -131,12 +133,6 @@ In sports news, the Brooklyn Nets traded Kyrie Irving to the Dallas Mavericks af
 <sub>By Tania Ganguli</sub>
 <p>Irving’s tenure with the Nets was marred by his refusal to be vaccinated for the coronavirus and his posting of a link to an antisemitic film. In Dallas, he will join the superstar Luka Doncic.  <a href="https://nyti.ms/3Y2cgBU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>This Guide Can Help You Save Money and Fight Climate Change</h3>
-<sub>By Nadja Popovich and Elena Shao</sub>
-<p>Whether you are renovating your home, upgrading appliances or buying an electric car, this guide can help you take advantage of savings from the Inflation Reduction Act.  <a href="https://nyti.ms/3DxCiVn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
