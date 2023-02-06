@@ -60,10 +60,40 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 5, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, newly elected President Biden is trying to call for bipartisan cooperation between Democrats and Republicans, but many don&#39;t expect it to happen. Meanwhile, a conservative donor network is stepping up to back GOP primary candidates with an aim to oust former President Trump. Elsewhere, the Navy and Coast Guard have been sent to recover debris from a Chinese spy balloon that drifted across the US for 7 days. In response, China has registered “strong discontent and protest” but ultimately may not be able to retaliate against this incident.
+There are a lot of interesting things happening right now in the world. In Ukraine, President Zelensky&#39;s party is planning to replace the Defense Minister amidst a growing corruption scandal, but the Defense Minister himself has not been implicated in any wrong-doing. Ukrainians are escaping the war by going to ski resorts nestled in the Carpathian Mountains, allowing people to recuperate from their physical and emotional wounds. 
 
-In other news, violence in the occupied West Bank appears to be on the rise and Israeli settlers see this as an opportunity for their cause. And in China, there is still much uncertainty about the real death toll from Covid-19 as dozens of obituaries from China&#39;s top academics seem to suggest an enormous loss. Despite this, consumer spending has started to pick up in China after “zero Covid” restrictions were lifted and people are beginning to visit ski resorts in Ukraine for respite from the war.</p>
+In terms of US news, there is an incident involving a Chinese spy balloon that has revealed that competition between China and the US is intensifying. On that note, the US navy is currently recovering pieces of debris from the balloon off South Carolina and officials are expecting retaliation from China. President Biden is set to make his first State of the Union address since GOP took control of Congress where he will likely call for bipartisan cooperation, although many people don&#39;t expect this to actually happen. Finally, a network of conservative donors aligning with the Kochs have said that they will back GOP primary candidates—probably in reaction to former President Trump&#39;s loss in 2020. 
+
+The arts world is buzzing about Beyoncé&#39;s potential success at the Grammys this year since she has put out an amazing new album called &quot;Renaissance.&quot; 
+
+In sports news, the Brooklyn Nets have announced that they are trading Kyrie Irving to Dallas Mavericks after he requested to be moved. This move was unsurprisingly controversial given that he recently posted a link to an antisemetic film on his Instagram account. 
+
+On climate change front, there is a new program out there called the Inflation Reduction Act which can help you save money as well as fight against climate change if you make certain changes like renovating your home or buying an electric car. Lastly, Goldman C.E.O David Solomon&#39;s hobby as a DJ has come under scrutiny given that it may lead to potential conflict of interests in his professional life at Goldman Sachs.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky’s Party Says It Will Move to Replace Defense Minister</h3>
+<sub>By Marc Santora, Shashank Bengali and Cassandra Vinograd</sub>
+<p>The expected move against Oleksii Reznikov comes amid a widening corruption scandal, although he was not implicated in wrongdoing.  <a href="https://nyti.ms/3lcDHKC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Here, It’s Like Paradise’: Ukraine’s Ski Resorts Offer a Respite From the War</h3>
+<sub>By Megan Specia and Brendan Hoffman</sub>
+<p>Ukrainians have flocked to resorts nestled in the Carpathian Mountains, largely spared the worst of the war, for a respite. One soldier recuperating there explored what it means to heal.  <a href="https://nyti.ms/3X7BDAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Balloon Incident Reveals More Than Spying as Competition With China Intensifies</h3>
+<sub>By David E. Sanger</sub>
+<p>There is nothing new about superpowers spying on one another, even from balloons. But for pure gall, there was something different this time.  <a href="https://nyti.ms/3X7MURY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Navy Divers Work to Recover Debris From Chinese Spy Balloon as Diplomacy Dwindles</h3>
+<sub>By Helene Cooper and Edward Wong</sub>
+<p>The effort off the coast of South Carolina is expected to take days, and Navy and Coast Guard ships have been sent to the scene. U.S. officials are watching for retaliation from China.  <a href="https://nyti.ms/3HZdQPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Biden, a Chance for a Fresh Start in a New Era of Divided Government</h3>
 <sub>By Peter Baker</sub>
@@ -76,23 +106,17 @@ In other news, violence in the occupied West Bank appears to be on the rise and 
 <p>The move by the alliance of conservative donors could provide an enormous boost to a Republican alternative to the former president.  <a href="https://nyti.ms/3jrn3Xr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Navy Divers Work to Recover Debris From Chinese Spy Balloon</h3>
-<sub>By Helene Cooper and Edward Wong</sub>
-<p>The effort off the coast of South Carolina is expected to take days. Navy and Coast Guard ships have been sent to the scene.  <a href="https://nyti.ms/3HZdQPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>It’s Beyoncé’s Time to Shine at the Grammys … Right?</h3>
+<sub>By Ben Sisario and Joe Coscarelli</sub>
+<p>With a dominant new album, “Renaissance,” and the chance to become the most awarded artist in Grammy history, all eyes are on the pop superstar ahead of Sunday’s show. What could go wrong?  <a href="https://nyti.ms/3YfrMKo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Finds Itself With Limited Options After U.S. Shoots Down Balloon</h3>
-<sub>By Chris Buckley</sub>
-<p>Beijing registered “strong discontent and protest.” But there may be little it can do to retaliate.  <a href="https://nyti.ms/3X3HbfR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Grammys 2023: Winners List</h3>
+<sub>By The New York Times</sub>
+<p>Here are the winners of the 65th annual Grammy Awards.  <a href="https://nyti.ms/40nOlOS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>China’s spy balloon drifted for 7 days across the U.S.: A Timeline</h3>
-<sub>By Helene Cooper and Edward Wong</sub>
-<p>The balloon brought Americans out to squint at the sky, caused a diplomatic visit to be canceled and opened a political debate.  <a href="https://nyti.ms/3Y4oni1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Pentagon Saw a Warship Boondoggle. Congress Saw Jobs.</h3>
@@ -100,40 +124,22 @@ In other news, violence in the occupied West Bank appears to be on the rise and 
 <p>After years of crippling problems and a changing mission, the Navy pushed to retire nine of its newest ships. Then the lobbying started.  <a href="https://nyti.ms/3jrvTEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pervez Musharraf, Former Military Ruler of Pakistan, Dies at 79</h3>
-<sub>By Alan Cowell and Stephen Kinzer</sub>
-<p>Mr. Musharraf took power in a bloodless coup in late 1999 but resigned under threat of impeachment in 2008. He drew fire for his ties to Washington.  <a href="https://nyti.ms/3YqlJTn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Nets Trading Kyrie Irving to Dallas Mavericks After His Request to Leave</h3>
+<sub>By Tania Ganguli</sub>
+<p>Irving’s tenure with the Nets was marred by his refusal to be vaccinated for the coronavirus and his posting of a link to an antisemitic film. In Dallas, he will join the superstar Luka Doncic.  <a href="https://nyti.ms/3Y2cgBU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Here, It’s Like Paradise’: Ukraine’s Ski Resorts Offer a Respite From the War</h3>
-<sub>By Megan Specia and Brendan Hoffman</sub>
-<p>Ukrainians have flocked to resorts nestled in the Carpathian Mountains, largely spared the worst of the war, for a respite. One soldier recuperating there explored what it means to heal.  <a href="https://nyti.ms/3X7BDAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fierce Battle Rages for ‘Every Stairwell’ in Bakhmut, Russian Paramilitary Leader Says</h3>
-<sub>By Marc Santora and Shashank Bengali</sub>
-<p>Ukrainian troops are increasingly pessimistic about the fate of the eastern city, even as Ukraine’s defense minister said the situation on the battlefield was “under control.”  <a href="https://nyti.ms/3lcDHKC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In China’s Covid Fog, Deaths of Scholars Offer a Clue</h3>
-<sub>By Pablo Robles, Vivian Wang and Joy Dong</sub>
-<p>The toll of China’s epidemic is unclear. But dozens of obituaries of the country’s top academics show an enormous loss in just a few weeks.  <a href="https://nyti.ms/3Y5nOEy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>This Guide Can Help You Save Money and Fight Climate Change</h3>
+<sub>By Nadja Popovich and Elena Shao</sub>
+<p>Whether you are renovating your home, upgrading appliances or buying an electric car, this guide can help you take advantage of savings from the Inflation Reduction Act.  <a href="https://nyti.ms/3DxCiVn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Flowers, Fresh Fish and Movies: China Is Spending Again, Cautiously</h3>
-<sub>By Keith Bradsher</sub>
-<p>The outlook for the world’s second largest economy is brighter as consumer spending picked up after “zero Covid” was lifted. But scars remain from the harsh pandemic restrictions.  <a href="https://nyti.ms/3DJ9b1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In West Bank, Settlers Sense Their Moment After Far Right’s Rise</h3>
-<sub>By Patrick Kingsley and Raja Abdulrahim</sub>
-<p>After a surge in violence, there are fears of a wider escalation in the occupied West Bank. Israeli settlers see an opportunity, and Palestinians fear what’s next.  <a href="https://nyti.ms/3RyxS6w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Blurred Lines Between Goldman C.E.O.’s Day Job and His D.J. Gig</h3>
+<sub>By Emily Flitter and Katherine Rosman</sub>
+<p>David Solomon brushes off D.J.ing as a minor hobby that has little to do with his work at the bank, but his activities may pose potential conflicts of interest.  <a href="https://nyti.ms/3DJ9f1f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
