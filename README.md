@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 6, Central Standard Time</p>
 <p>
-There has been a devastating 7.8-magnitude earthquake in Turkey, Syria, Lebanon and Israel which is causing mass destruction and displacement to millions of people. To the east, China and the United States are engaged in a disagreement over surveillance operations which is raising justified concerns about their ability to remain peaceful during this time. In other news, Kamala Harris is still trying to define her vice presidency, Beyoncé made history at the Grammy awards with a record for the most career Grammys won by any artist and Tesla CEO Elon Musk is trying to cleanse Twitter from child abuse content with unfortunately limited success.</p>
+Things seem to be a bit of a mess right now in the world. Recently, there was a deadly earthquake that caused damage in Turkey and Syria, and governments like the United States and the European Union sent rescue teams to help. China is also in the news right now because they&#39;ve been sending balloons over Latin America and this has caused tension between them and the United States. Meanwhile, in Ukraine, there&#39;s been an intensifying conflict with Russia that&#39;s taking a toll on people&#39;s lives. Here in the United States, we&#39;ve seen an immigration rebound that&#39;s helping ease worker shortages, but there are still large visa backlogs. Lastly, the Grammys were just held and they had some great moments like Questlove assembling a crash course in hip-hop history and Beyoncé making her priorities known.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Map: 7.8-Magnitude Earthquake Strikes Turkey, Syria, Lebanon and Israel</h3>
-<sub>By Pablo Robles</sub>
-<p>Hundreds of buildings collapsed and millions of people in Turkey, Syria, Lebanon and Israel felt the earth shake.  <a href="https://nyti.ms/3RyOb34"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After the Quake: Photos From Turkey and Syria</h3>
 <sub>By Vivek Shankar</sub>
@@ -75,9 +69,15 @@ There has been a devastating 7.8-magnitude earthquake in Turkey, Syria, Lebanon 
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Gaziantep, the epicenter of the quake, news of the devastation spread by cellphone before dawn.</h3>
-<sub>By Murat Gures and John Yoon</sub>
-<p>People in the city in southern Turkey fled from their homes into the cold after the 7.8 magnitude earthquake.  <a href="https://nyti.ms/3wWWix1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Mapping the Damage From Earthquakes in Turkey and Syria</h3>
+<sub>By Pablo Robles, Agnes Chang, Josh Holder and Lauren Leatherby</sub>
+<p>See where the earthquakes caused major damage across dozens of cities.  <a href="https://nyti.ms/3RyOb34"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Governments Around the World Send Rescue Teams After Quake</h3>
+<sub>By The New York Times</sub>
+<p>European Union countries dispatched search and rescue teams, and the United States said it was “ready to provide any and all needed assistance” to Turkey.  <a href="https://nyti.ms/3Yna4Vq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,11 +92,11 @@ There has been a devastating 7.8-magnitude earthquake in Turkey, Syria, Lebanon 
 <p>There is nothing new about superpowers spying on one another, even from balloons. But for pure gall, there was something different this time.  <a href="https://nyti.ms/3X7MURY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Foreign Spy Craft. Superpowers on Edge. But It Was 1960, Not 2023.</h3>
-<sub>By Peter Baker</sub>
-<p>The Chinese balloon saga is reminiscent of the U-2 spy plane incident that provoked a tense confrontation between the United States and the Soviet Union.  <a href="https://nyti.ms/3DHXS9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Another Chinese Balloon Flew Over Latin America, China Confirms</h3>
+<sub>By Emma Bubola</sub>
+<p>The Chinese government said the balloon that Colombia spotted in its airspace on Friday was for civilian purposes and was being used for flight tests.  <a href="https://nyti.ms/3lf4tSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Kamala Harris Is Trying to Define Her Vice Presidency. Even Her Allies Are Tired of Waiting.</h3>
@@ -104,34 +104,34 @@ There has been a devastating 7.8-magnitude earthquake in Turkey, Syria, Lebanon 
 <p>Ms. Harris is struggling to carve out a lane for herself in what may be one of the most consequential periods in the vice presidency.  <a href="https://nyti.ms/3JJCsNp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Outnumbered and Worn Out, Ukrainians in East Brace for Russian Assault</h3>
+<sub>By Michael Schwirtz and Lynsey Addario</sub>
+<p>The war is intensifying in a string of villages on the eastern front, where doctors struggle to handle an influx of gruesome injuries and soldiers fret about a Russian army sending waves of new conscripts.  <a href="https://nyti.ms/3I0lqsY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Immigration Rebound Eases Shortage of Workers, Up to a Point</h3>
+<sub>By Lydia DePillis</sub>
+<p>While the Biden administration has accelerated processing after Trump-era restrictions and a pandemic slowdown, visa backlogs remain large.  <a href="https://nyti.ms/3YkrvGk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Beyoncé Makes History at a Star-Powered Grammy Ceremony</h3>
-<sub>By Ben Sisario</sub>
-<p>Beyoncé set a record for the most career Grammys won by any artist but was once again shut out of the biggest awards as the ceremony returned to a Los Angeles arena.  <a href="https://nyti.ms/3DIkhDZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<h3>How the Grammys Bring Rebels Into the Fold</h3>
+<sub>By Jon Caramanica</sub>
+<p>The awards show needs to build bridges between generations. That means convincing once-overlooked upstarts to show up as elders.  <a href="https://nyti.ms/3Yj4GTg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How Questlove Pulled Off the Grammys’ Crowd-Pleasing Hip-Hop Tribute</h3>
+<sub>By Joe Coscarelli</sub>
+<p>The Roots drummer and D.J. was tapped by the Recording Academy to fit 50 years of rap history into 15 minutes. For once, the awards show gave the genre a fitting spotlight.  <a href="https://nyti.ms/3HCDRTd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Best and Worst Moments From the 2023 Grammys</h3>
 <sub>By Jon Pareles, Joe Coscarelli and Lindsay Zoladz</sub>
 <p>Questlove assembled a crash course in hip-hop history, Beyoncé made her priorities known and Kim Petras spoke from the heart at the 65th annual awards.  <a href="https://nyti.ms/3DJP2bP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>17 Outfits That Did the Most at the Grammys</h3>
-<sub>By The Styles Desk</sub>
-<p>On the red carpet, even some of the bad looks were good.  <a href="https://nyti.ms/3DEZTDG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Grammys 2023: Winners List</h3>
-<sub>By The New York Times</sub>
-<p>Here are the winners of the 65th annual Grammy Awards.  <a href="https://nyti.ms/40nOlOS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Musk Pledged to Cleanse Twitter of Child Abuse Content. It’s Been Rough Going.</h3>
-<sub>By Michael H. Keller and Kate Conger</sub>
-<p>Child sexual abuse imagery spreads on Twitter even after the company is notified: One video drew 120,000 views. “Sewer rats,” as one regulator described bad actors, remain.  <a href="https://nyti.ms/3jupLLR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
