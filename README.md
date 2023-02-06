@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 6, Central Standard Time</p>
 <p>
-There has been a massive 7.8 magnitude earthquake that struck Turkey, Syria, Lebanon, and Israel, resulting in hundreds of buildings collapsing and many wounded. Following the quake, photos have emerged from the affected countries showing massive destruction. In the US, there has been an incident involving a Chinese spy balloon which has caused tensions to further increase between the two superpowers. The Grammys recently celebrated its 50th anniversary of hip-hop measures with a joyous performance curated by Questlove of the Roots. There were also several style highlights at this year&#39;s ceremony as winners were announced for the 65th annual Grammys. President Biden is using his first State of the Union address since Republicans took control of the House to call for bipartisanship and in light of this, the Koch Network will back Republican primary candidates in an effort to counter President Trump&#39;s agenda. Meanwhile, in North Carolina&#39;s Supreme Court, G.O.P Justices are attempting to reconsider Democratic rulings raising debates over partisan influences on state courts. Lastly, basketball star Kyrie Irving has requested a trade from his team, the Nets, and has been transferred to play alongside fellow superstar Luka Doncic at Dallas Mavericks after posting a link to an antisemitic film.</p>
+There has been a devastating 7.8-magnitude earthquake in Turkey, Syria, Lebanon and Israel which is causing mass destruction and displacement to millions of people. To the east, China and the United States are engaged in a disagreement over surveillance operations which is raising justified concerns about their ability to remain peaceful during this time. In other news, Kamala Harris is still trying to define her vice presidency, Beyoncé made history at the Grammy awards with a record for the most career Grammys won by any artist and Tesla CEO Elon Musk is trying to cleanse Twitter from child abuse content with unfortunately limited success.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Map: 7.8-Magnitude Earthquake Strikes Turkey, Syria, Lebanon and Israel</h3>
@@ -69,16 +69,22 @@ There has been a massive 7.8 magnitude earthquake that struck Turkey, Syria, Leb
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After the Quake: Photos from Turkey and Syria</h3>
+<h3>After the Quake: Photos From Turkey and Syria</h3>
 <sub>By Vivek Shankar</sub>
 <p>The deadly earthquake was felt in at least four countries, with most of the casualties and the heaviest damage reported in Turkey and Syria.  <a href="https://nyti.ms/40HVB8C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Monday’s earthquake was as powerful as the strongest recorded in Turkey in 1939.</h3>
-<sub>By John Yoon</sub>
-<p>Turkey, a hotbed of seismic activity, sits on the Anatolian Plate, which borders two major faults as it grinds northeast against Eurasia.  <a href="https://nyti.ms/3DF2YUs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<h3>In Gaziantep, the epicenter of the quake, news of the devastation spread by cellphone before dawn.</h3>
+<sub>By Murat Gures and John Yoon</sub>
+<p>People in the city in southern Turkey fled from their homes into the cold after the 7.8 magnitude earthquake.  <a href="https://nyti.ms/3wWWix1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Balloon Dispute Aims Attention at Xi’s Leadership</h3>
+<sub>By David Pierson</sub>
+<p>The flap with the United States raises concerns about how China wields its power in a climate where one wrong move could set off an accidental conflict.  <a href="https://nyti.ms/3RxLvCZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Balloon Incident Reveals More Than Spying as Competition With China Intensifies</h3>
@@ -87,22 +93,28 @@ There has been a massive 7.8 magnitude earthquake that struck Turkey, Syria, Leb
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Navy Divers Work to Recover Debris From Chinese Spy Balloon as Diplomacy Dwindles</h3>
-<sub>By Helene Cooper and Edward Wong</sub>
-<p>The effort off the coast of South Carolina is expected to take days, and Navy and Coast Guard ships have been sent to the scene. U.S. officials are watching for retaliation from China.  <a href="https://nyti.ms/3HZdQPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Foreign Spy Craft. Superpowers on Edge. But It Was 1960, Not 2023.</h3>
+<sub>By Peter Baker</sub>
+<p>The Chinese balloon saga is reminiscent of the U-2 spy plane incident that provoked a tense confrontation between the United States and the Soviet Union.  <a href="https://nyti.ms/3DHXS9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Kamala Harris Is Trying to Define Her Vice Presidency. Even Her Allies Are Tired of Waiting.</h3>
+<sub>By Zolan Kanno-Youngs, Katie Rogers and Peter Baker</sub>
+<p>Ms. Harris is struggling to carve out a lane for herself in what may be one of the most consequential periods in the vice presidency.  <a href="https://nyti.ms/3JJCsNp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Beyoncé Makes History at a Star-Powered Grammy Ceremony</h3>
+<sub>By Ben Sisario</sub>
+<p>Beyoncé set a record for the most career Grammys won by any artist but was once again shut out of the biggest awards as the ceremony returned to a Los Angeles arena.  <a href="https://nyti.ms/3DIkhDZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Grammys Celebrate 50 Years of Hip-Hop in a Joyous Performance</h3>
-<sub>By Joe Coscarelli</sub>
-<p>The medley, curated by Questlove of the Roots, featured a taste of some two dozen songs from across decades, regions and movements.  <a href="https://nyti.ms/3DIfL8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Grammys 2023: Winners List</h3>
-<sub>By The New York Times</sub>
-<p>Here are the winners of the 65th annual Grammy Awards.  <a href="https://nyti.ms/40nOlOS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<h3>Best and Worst Moments From the 2023 Grammys</h3>
+<sub>By Jon Pareles, Joe Coscarelli and Lindsay Zoladz</sub>
+<p>Questlove assembled a crash course in hip-hop history, Beyoncé made her priorities known and Kim Petras spoke from the heart at the 65th annual awards.  <a href="https://nyti.ms/3DJP2bP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>17 Outfits That Did the Most at the Grammys</h3>
@@ -110,29 +122,17 @@ There has been a massive 7.8 magnitude earthquake that struck Turkey, Syria, Leb
 <p>On the red carpet, even some of the bad looks were good.  <a href="https://nyti.ms/3DEZTDG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Biden, a Chance for a Fresh Start in a New Era of Divided Government</h3>
-<sub>By Peter Baker</sub>
-<p>The president plans to use his first State of the Union address since Republicans took control of the House to call for bipartisan cooperation. Neither he nor many others expect that to happen.  <a href="https://nyti.ms/3RAfv0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Grammys 2023: Winners List</h3>
+<sub>By The New York Times</sub>
+<p>Here are the winners of the 65th annual Grammy Awards.  <a href="https://nyti.ms/40nOlOS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Taking Aim at Trump, Koch Network Will Back G.O.P. Primary Candidates</h3>
-<sub>By Maggie Haberman, Jonathan Swan and Kenneth P. Vogel</sub>
-<p>The move by the alliance of conservative donors could provide an enormous boost to a Republican alternative to the former president.  <a href="https://nyti.ms/3jrn3Xr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>On North Carolina’s Supreme Court, G.O.P. Justices Move to Reconsider Democratic Rulings</h3>
-<sub>By Michael Wines</sub>
-<p>The court’s new majority will rehear two major voting rights cases decided two months ago. The rare move heightens the debate over partisan influences on state courts.  <a href="https://nyti.ms/3X5NsYv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Nets Trading Kyrie Irving to Dallas Mavericks After His Request to Leave</h3>
-<sub>By Tania Ganguli</sub>
-<p>Irving’s tenure with the Nets was marred by his refusal to be vaccinated for the coronavirus and his posting of a link to an antisemitic film. In Dallas, he will join the superstar Luka Doncic.  <a href="https://nyti.ms/3Y2cgBU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Musk Pledged to Cleanse Twitter of Child Abuse Content. It’s Been Rough Going.</h3>
+<sub>By Michael H. Keller and Kate Conger</sub>
+<p>Child sexual abuse imagery spreads on Twitter even after the company is notified: One video drew 120,000 views. “Sewer rats,” as one regulator described bad actors, remain.  <a href="https://nyti.ms/3jupLLR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
