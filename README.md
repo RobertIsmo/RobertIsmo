@@ -60,15 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 5, Central Standard Time</p>
 <p>
-There are a lot of interesting things happening right now in the world. In Ukraine, President Zelensky&#39;s party is planning to replace the Defense Minister amidst a growing corruption scandal, but the Defense Minister himself has not been implicated in any wrong-doing. Ukrainians are escaping the war by going to ski resorts nestled in the Carpathian Mountains, allowing people to recuperate from their physical and emotional wounds. 
-
-In terms of US news, there is an incident involving a Chinese spy balloon that has revealed that competition between China and the US is intensifying. On that note, the US navy is currently recovering pieces of debris from the balloon off South Carolina and officials are expecting retaliation from China. President Biden is set to make his first State of the Union address since GOP took control of Congress where he will likely call for bipartisan cooperation, although many people don&#39;t expect this to actually happen. Finally, a network of conservative donors aligning with the Kochs have said that they will back GOP primary candidates—probably in reaction to former President Trump&#39;s loss in 2020. 
-
-The arts world is buzzing about Beyoncé&#39;s potential success at the Grammys this year since she has put out an amazing new album called &quot;Renaissance.&quot; 
-
-In sports news, the Brooklyn Nets have announced that they are trading Kyrie Irving to Dallas Mavericks after he requested to be moved. This move was unsurprisingly controversial given that he recently posted a link to an antisemetic film on his Instagram account. 
-
-On climate change front, there is a new program out there called the Inflation Reduction Act which can help you save money as well as fight against climate change if you make certain changes like renovating your home or buying an electric car. Lastly, Goldman C.E.O David Solomon&#39;s hobby as a DJ has come under scrutiny given that it may lead to potential conflict of interests in his professional life at Goldman Sachs.</p>
+There is a lot going on in the world right now. In Ukraine, President Zelensky&#39;s party is trying to replace the defense minister amid a corruption scandal. Meanwhile, Ukrainians are taking ski trips to Carpathian Mountains for some respite from the war in their country. Here in the U.S., there is competition with China becoming more tense lately - with an incident involving a Chinese spy balloon even revealing itself recently, and the U.S. Navy attempting to recover it from the ocean off South Carolina. U.S. President Joe Biden is also giving his State of the Union address, calling for bipartisan cooperation while the Republican party has started backing G.O.P primary candidates instead of Donald Trump. This has caused North Carolina&#39;s Supreme Court to reconsider recent Democratic rulings. Among other topics, there&#39;s trading news in sports - with Kyrie Irving being traded from Brooklyn Nets to Dallas Mavericks as well as a guide on helping fight climate change while saving money simultaneously. As for business news, Goldman C.E.O David Solomon&#39;s D.J hobby is blurring lines between his day job and his evening job, and potential conflicts of interest may arise from this situation. Lastly, Grammys 2023 recently had its winners list declared and we can wait and watch who the actual winners would be!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky’s Party Says It Will Move to Replace Defense Minister</h3>
@@ -95,6 +87,18 @@ On climate change front, there is a new program out there called the Inflation R
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chinese Spy Balloon or ‘Civilian Device’?</h3>
+<sub>By Katie Rogers and Zolan Kanno-Youngs</sub>
+<p>Here is what we know about the balloon.  <a href="https://nyti.ms/3DE0Tbc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Grammys 2023: Winners List</h3>
+<sub>By The New York Times</sub>
+<p>Here are the winners of the 65th annual Grammy Awards.  <a href="https://nyti.ms/40nOlOS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Biden, a Chance for a Fresh Start in a New Era of Divided Government</h3>
 <sub>By Peter Baker</sub>
 <p>The president plans to use his first State of the Union address since Republicans took control of the House to call for bipartisan cooperation. Neither he nor many others expect that to happen.  <a href="https://nyti.ms/3RAfv0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -106,23 +110,11 @@ On climate change front, there is a new program out there called the Inflation R
 <p>The move by the alliance of conservative donors could provide an enormous boost to a Republican alternative to the former president.  <a href="https://nyti.ms/3jrn3Xr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>It’s Beyoncé’s Time to Shine at the Grammys … Right?</h3>
-<sub>By Ben Sisario and Joe Coscarelli</sub>
-<p>With a dominant new album, “Renaissance,” and the chance to become the most awarded artist in Grammy history, all eyes are on the pop superstar ahead of Sunday’s show. What could go wrong?  <a href="https://nyti.ms/3YfrMKo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Grammys 2023: Winners List</h3>
-<sub>By The New York Times</sub>
-<p>Here are the winners of the 65th annual Grammy Awards.  <a href="https://nyti.ms/40nOlOS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Pentagon Saw a Warship Boondoggle. Congress Saw Jobs.</h3>
-<sub></sub>
-<p>After years of crippling problems and a changing mission, the Navy pushed to retire nine of its newest ships. Then the lobbying started.  <a href="https://nyti.ms/3jrvTEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 4, Central Standard Time</sub></sub>
+<h3>On North Carolina’s Supreme Court, G.O.P. Justices Move to Reconsider Democratic Rulings</h3>
+<sub>By Michael Wines</sub>
+<p>The court’s new majority will rehear two major voting rights cases decided two months ago. The rare move heightens the debate over partisan influences on state courts.  <a href="https://nyti.ms/3X5NsYv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Nets Trading Kyrie Irving to Dallas Mavericks After His Request to Leave</h3>
