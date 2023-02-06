@@ -58,20 +58,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, February 5, Central Standard Time</p>
+<p>It is Monday, February 6, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Ukraine, President Zelensky&#39;s party is trying to replace the defense minister amid a corruption scandal. Meanwhile, Ukrainians are taking ski trips to Carpathian Mountains for some respite from the war in their country. Here in the U.S., there is competition with China becoming more tense lately - with an incident involving a Chinese spy balloon even revealing itself recently, and the U.S. Navy attempting to recover it from the ocean off South Carolina. U.S. President Joe Biden is also giving his State of the Union address, calling for bipartisan cooperation while the Republican party has started backing G.O.P primary candidates instead of Donald Trump. This has caused North Carolina&#39;s Supreme Court to reconsider recent Democratic rulings. Among other topics, there&#39;s trading news in sports - with Kyrie Irving being traded from Brooklyn Nets to Dallas Mavericks as well as a guide on helping fight climate change while saving money simultaneously. As for business news, Goldman C.E.O David Solomon&#39;s D.J hobby is blurring lines between his day job and his evening job, and potential conflicts of interest may arise from this situation. Lastly, Grammys 2023 recently had its winners list declared and we can wait and watch who the actual winners would be!</p>
+A lot is happening around the world right now. A powerful earthquake just struck Turkey, creating a lot of seismological activity. Meanwhile, the US and China are engaging in some kind of spy game, which appears to involve balloons. In Ukraine, the country is facing corruption scandals as well as a war, and some people are taking a respite from it by visiting ski resorts in the Carpathian Mountains. 
+
+The 65th annual Grammy Awards happened recently, with hip-hop taking center stage in a joyous performance. Joe Biden gave his State of Union address recently to call for cooperation between both parties, although this may not be likely. The Koch Network is getting involved in G.O.P. primary elections in order combat former President Trump&#39;s policies, and North Carolina&#39;s Supreme Court is re-examining Democratic rulings with their new Republican majority. 
+
+In sports news, the Brooklyn Nets traded Kyrie Irving to the Dallas Mavericks after his refusal to get vaccinated and other incidents. And finally, there&#39;s a guide that can help people save money while also fighting climate change by taking advantage of savings from the Inflation Reduction Act.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky’s Party Says It Will Move to Replace Defense Minister</h3>
-<sub>By Marc Santora, Shashank Bengali and Cassandra Vinograd</sub>
-<p>The expected move against Oleksii Reznikov comes amid a widening corruption scandal, although he was not implicated in wrongdoing.  <a href="https://nyti.ms/3lcDHKC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Here, It’s Like Paradise’: Ukraine’s Ski Resorts Offer a Respite From the War</h3>
-<sub>By Megan Specia and Brendan Hoffman</sub>
-<p>Ukrainians have flocked to resorts nestled in the Carpathian Mountains, largely spared the worst of the war, for a respite. One soldier recuperating there explored what it means to heal.  <a href="https://nyti.ms/3X7BDAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Monday’s earthquake was as powerful as the strongest recorded in Turkey in 1939.</h3>
+<sub>By John Yoon</sub>
+<p>Turkey, a hotbed of seismic activity, sits on the Anatolian Plate, which borders two major faults as it grinds northeast against Eurasia.  <a href="https://nyti.ms/3DF2YUs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,11 +84,23 @@ There is a lot going on in the world right now. In Ukraine, President Zelensky&#
 <p>The effort off the coast of South Carolina is expected to take days, and Navy and Coast Guard ships have been sent to the scene. U.S. officials are watching for retaliation from China.  <a href="https://nyti.ms/3HZdQPq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chinese Spy Balloon or ‘Civilian Device’?</h3>
-<sub>By Katie Rogers and Zolan Kanno-Youngs</sub>
-<p>Here is what we know about the balloon.  <a href="https://nyti.ms/3DE0Tbc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky’s Party Says It Will Move to Replace Defense Minister</h3>
+<sub>By Marc Santora, Shashank Bengali and Cassandra Vinograd</sub>
+<p>The expected move against Oleksii Reznikov comes amid a widening corruption scandal, although he was not implicated in wrongdoing.  <a href="https://nyti.ms/3lcDHKC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Here, It’s Like Paradise’: Ukraine’s Ski Resorts Offer a Respite From the War</h3>
+<sub>By Megan Specia and Brendan Hoffman</sub>
+<p>Ukrainians have flocked to resorts nestled in the Carpathian Mountains, largely spared the worst of the war, for a respite. One soldier recuperating there explored what it means to heal.  <a href="https://nyti.ms/3X7BDAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The Grammys Celebrate 50 Years of Hip-Hop in a Joyous Performance</h3>
+<sub>By Joe Coscarelli</sub>
+<p>The medley, curated by Questlove of the Roots, featured a taste of some two dozen songs from across decades, regions and movements.  <a href="https://nyti.ms/3DIfL8v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Grammys 2023: Winners List</h3>
@@ -127,12 +137,6 @@ There is a lot going on in the world right now. In Ukraine, President Zelensky&#
 <sub>By Nadja Popovich and Elena Shao</sub>
 <p>Whether you are renovating your home, upgrading appliances or buying an electric car, this guide can help you take advantage of savings from the Inflation Reduction Act.  <a href="https://nyti.ms/3DxCiVn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Blurred Lines Between Goldman C.E.O.’s Day Job and His D.J. Gig</h3>
-<sub>By Emily Flitter and Katherine Rosman</sub>
-<p>David Solomon brushes off D.J.ing as a minor hobby that has little to do with his work at the bank, but his activities may pose potential conflicts of interest.  <a href="https://nyti.ms/3DJ9f1f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
