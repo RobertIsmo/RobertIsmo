@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 6, Central Standard Time</p>
 <p>
-There has been a lot of news recently related to global events. In Syria, there was a devastating earthquake that exacerbated the already dire humanitarian crisis in the region. Turkey and Syria have both suffered major damage in the quake and people are trying to help out the victims. China has been making some waves - they&#39;ve had some incursions with balloons that initially went undetected, and recently another balloon flew over Latin America prompting some questions about how China wields its power. Ukraine has also been on edge because of Russian attacks in Eastern Ukraine, which show no signs of letting up soon. In the US, Biden is preparing for the State of The Union address and facing a number of challenges from critics, related to speech-making and language. Meanwhile across the US, cities are bringing back specialized crime-fighting teams due to rising crime, much to the concern of protesters who say these police teams lack necessary training.</p>
+There has been an earthquake in Syria and Turkey, bringing attention to the humanitarian crisis already happening in the region. China has also been sending balloons into other countries airspace, creating a tension between them and the US. Ukrainian soldiers are facing fatigue from fighting a prolonged war with Russia in the eastern part of their country. Finally, there is criticism of police brutality during protests in New York City.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Earthquake Strikes Syrian Region Already Mired in Humanitarian Crisis</h3>
