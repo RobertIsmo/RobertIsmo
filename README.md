@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 7, Central Standard Time</p>
 <p>
-There is seismic activity mainly in Turkey and Syria shaking up the region with devastating earthquakes. China and the United States have also been dealing with tensions related to land purchases, balloon incursions, and trade. In the United States, President Biden will be delivering his first State of the Union address since the GOP took control of the House, where he is expected to call for higher taxes on the wealthy and more social aid. Additionally, there is a push towards A.I.-generated personas being used for corporate training but it carries with it the risk of spreading misinformation and toxic content.</p>
+There are a lot of issues going on in the world right now. A border crossing for aid between Syria and Turkey is closed, leaving Syria unable to receive direct aid from many countries due to sanctions. Earthquakes have been happening in Turkey due to its Anatolian Fault System. There&#39;s a professional soccer player who was rescued from the rubble in Turkey only hours after scoring the winning goal for his team. In the U.S., there are tensions between China and America that could potentially affect housing purchases. Biden is giving his first State of the Union address since the G.O.P took over the House and will be asking for higher taxes and more social aid for those in need. George Santos invited a guest to the State of the Union and is trying to use it as an opportunity to raise awareness about 9&#x2F;11 rescue workers health issues. Conversation hearts for Valentine&#39;s Day are different this year as we &quot;speak volumes about the lives and loves&quot; during these difficult times. The Homeland Security Secretary is also under fire from Republicans over the US-Mexico border crisis. A.I.-generated personas have been detected in state-aligned information campaigns, opening a new chapter in online manipulation. There is an unsubstantiated case of Nazi loot somewhere inside a Swiss collector&#39;s massive collection, including 6,000 oils, some grenades and Napoleon’s toothbrush.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Time is running out to find survivors.</h3>
-<sub>By Mike Ives and Muktita Suhartono</sub>
-<p>Rescues typically happen within three days of an earthquake, an expert said. The logistics of finding survivors in Turkey and Syria are daunting.  <a href="https://nyti.ms/3X4PoR7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The only border crossing for aid between Syria and Turkey is closed.</h3>
+<sub>By Natasha Frost and Raja Abdulrahim</sub>
+<p>Syria is not able to receive direct aid from many countries because of sanctions, so the border crossing has been a lifeline.  <a href="https://nyti.ms/40xDQJ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,28 +75,16 @@ There is seismic activity mainly in Turkey and Syria shaking up the region with 
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After the Quake: Scenes From Turkey and Syria</h3>
-<sub>By The New York Times</sub>
-<p>The deadly earthquake was felt in at least four countries, with most of the casualties and the heaviest damage reported in Turkey and Syria.  <a href="https://nyti.ms/40HVB8C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<h3>A professional soccer player is among those who are rescued from the rubble in Turkey.</h3>
+<sub>By Jenny Gross and Gulsin Harman</sub>
+<p>Just hours before Christian Atsu was trapped, he had scored the winning goal for the Turkish soccer club Hatayspor.  <a href="https://nyti.ms/3Yttw2M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How U.S.-China Tensions Could Affect Who Buys the House Next Door</h3>
 <sub>By J. David Goodman</sub>
 <p>States are pursuing bills to bar Chinese citizens and companies from purchasing land. In Texas, legislation backed by Gov. Greg Abbott brought opposition from Democrats in the state’s growing cities and suburbs.  <a href="https://nyti.ms/3JNilOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Tries to Play Down Balloon Dispute With Censorship and Memes</h3>
-<sub>By Vivian Wang and Joy Dong</sub>
-<p>Chinese propaganda also appears to be walking a fine line: looking tough for the crowd at home, without further derailing relations with the United States.  <a href="https://nyti.ms/3DNlmdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Previous Chinese Balloon Incursions Initially Went Undetected</h3>
-<sub>By Julian E. Barnes, Helene Cooper and Edward Wong</sub>
-<p>Some earlier incidents had been classified as unexplained phenomena and handed over to a Pentagon task force charged with investigating U.F.O.s.  <a href="https://nyti.ms/3HCLfhl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden to Lay Down Economic Challenge to House Republicans</h3>
@@ -116,10 +104,22 @@ There is seismic activity mainly in Turkey and Syria shaking up the region with 
 <p>Michael Weinstock, a Democrat who once ran for Mr. Santos’s district, said he wanted to raise attention to health issues of 9&#x2F;11 rescue workers like himself.  <a href="https://nyti.ms/3jH7z1k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>From ‘Be Mine’ to ‘Youda Best,’ the Candy Conversation Evolves</h3>
+<sub>By Kim Severson</sub>
+<p>The sweet messages on those valentine hearts require careful planning and editing from year to year. And they speak volumes about the state of our lives and loves.  <a href="https://nyti.ms/3I2uv4x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Caught in G.O.P.’s Cross Hairs, Mayorkas Faces Political Showdown Over Border Crisis</h3>
 <sub>By Eileen Sullivan and Zolan Kanno-Youngs</sub>
 <p>The homeland security secretary has become the face of the intractable problem at the border, particularly for Republicans who see immigration attacks as a winning political strategy.  <a href="https://nyti.ms/40E8Ozk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The People Onscreen Are Fake. The Disinformation Is Real.</h3>
+<sub>By Adam Satariano and Paul Mozur</sub>
+<p>For the first time, A.I.-generated personas, often used for corporate trainings, were detected in a state-aligned information campaign — opening a new chapter in online manipulation.  <a href="https://nyti.ms/3YsmQ58"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -128,10 +128,10 @@ There is seismic activity mainly in Turkey and Syria shaking up the region with 
 <p>It has long had technology to rival chatbots like ChatGPT, but can’t afford to back artificial intelligence that can spread misinformation and toxic content.  <a href="https://nyti.ms/3YrmueW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The People Onscreen Are Fake. The Disinformation Is Real.</h3>
-<sub>By Adam Satariano and Paul Mozur</sub>
-<p>For the first time, A.I.-generated personas, often used for corporate trainings, were detected in a state-aligned information campaign — opening a new chapter in online manipulation.  <a href="https://nyti.ms/3YsmQ58"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Is Nazi Loot Amid His 6,000 Oils, Some Grenades and Napoleon’s Toothbrush?</h3>
+<sub>By Catherine Hickley</sub>
+<p>The daughter of an eccentric Swiss collector has asked an independent panel to review whether items in his massive collection were stolen from Jews during World War II.  <a href="https://nyti.ms/3jA1bsV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
