@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 7, Central Standard Time</p>
 <p>
-There has been a major earthquake in the Middle East region centred around Syria and Turkey which has caused a humanitarian crisis. Efforts are being made to help the victims of this disaster. In addition, tensions have been reignited between the US and China as there have been recent incursions in foreign airspace with Chinese balloons. In Russia and Ukraine, the war is intensifying as Russia deploys more troops to probe for vulnerabilities. There has also been a tightening grip on oil revenue in Russia. Meanwhile, President Biden is preparing for his State of the Union address, avoiding any Washington-speak. Lastly, elite crime teams have been reinstated in some cities due to a recent increase in crime.</p>
+Right now there is a lot of chaos in many parts of the world. In Turkey and Syria, there has been a devastating earthquake that is making it difficult to rescue survivors. There is also conflict in Ukraine between the government and Russian forces that are sending waves of new conscripts. In addition, the U.S. and China are facing a balloon dispute which raises concerns about how China wields its power and could potentially lead to an accidental conflict. There are many ways people can help aid the rescue and recovery efforts in Turkey and Syria. Lastly, in the U.S., police teams have been disbanded due to violence during protests which shows a lack of training amongst N.Y.P.D officers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Earthquake Strikes Syrian Region Already Mired in Humanitarian Crisis</h3>
-<sub>By Vivian Yee, Raja Abdulrahim and Hwaida Saad</sub>
-<p>One of the hardest hit areas was northwestern Syria, where nearly three million people displaced by the country’s decade-long civil war were already living in precarious conditions.  <a href="https://nyti.ms/3x213oY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<h3>Time is running out to find survivors.</h3>
+<sub>By Mike Ives and Muktita Suhartono</sub>
+<p>Rescues typically happen within three days of an earthquake, an expert said. The logistics of finding survivors in Turkey and Syria are daunting.  <a href="https://nyti.ms/3X4PoR7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Mapping the Damage From the Earthquake in Turkey and Syria</h3>
@@ -104,12 +104,6 @@ There has been a major earthquake in the Middle East region centred around Syria
 <p>The war is intensifying in a string of villages on the eastern front, where doctors struggle to handle an influx of gruesome injuries and soldiers fret about a Russian army sending waves of new conscripts.  <a href="https://nyti.ms/3I0lqsY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Attacks Intensify in Eastern Ukraine Ahead of Expected Offensive</h3>
-<sub>By Marc Santora</sub>
-<p>Russia is deploying hundreds of thousands of newly mobilized soldiers, in small groups, to probe for vulnerabilities in Ukrainian defensive lines.  <a href="https://nyti.ms/3Y8e3Wb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How Russia Is Surviving the Tightening Grip on Its Oil Revenue</h3>
 <sub>By Anatoly Kurmanaev and Stanley Reed</sub>
@@ -132,6 +126,12 @@ There has been a major earthquake in the Middle East region centred around Syria
 <h3>Amid Criticism, Elite Crime Teams Dwindled. Then Cities Brought Them Back.</h3>
 <sub>By Tim Arango and Ellen Gabler</sub>
 <p>The Scorpion police team whose officers are charged in the death of Tyre Nichols has been disbanded. But Memphis wasn’t the only city to turn again to specialized teams to fight a new surge in crime.  <a href="https://nyti.ms/3judFCs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Police Review Board Says Violence During Protests Shows Lack of Training</h3>
+<sub>By Chelsia Rose Marcius</sub>
+<p>In 2020, N.Y.P.D. officers and demonstrators clashed for days, leading to hundreds of complaints that prompted investigations by the Civilian Complaint Review Board, which released its assessment on Monday.  <a href="https://nyti.ms/40zv6BX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
