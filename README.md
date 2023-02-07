@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 7, Central Standard Time</p>
 <p>
-There are a lot of issues going on in the world right now. A border crossing for aid between Syria and Turkey is closed, leaving Syria unable to receive direct aid from many countries due to sanctions. Earthquakes have been happening in Turkey due to its Anatolian Fault System. There&#39;s a professional soccer player who was rescued from the rubble in Turkey only hours after scoring the winning goal for his team. In the U.S., there are tensions between China and America that could potentially affect housing purchases. Biden is giving his first State of the Union address since the G.O.P took over the House and will be asking for higher taxes and more social aid for those in need. George Santos invited a guest to the State of the Union and is trying to use it as an opportunity to raise awareness about 9&#x2F;11 rescue workers health issues. Conversation hearts for Valentine&#39;s Day are different this year as we &quot;speak volumes about the lives and loves&quot; during these difficult times. The Homeland Security Secretary is also under fire from Republicans over the US-Mexico border crisis. A.I.-generated personas have been detected in state-aligned information campaigns, opening a new chapter in online manipulation. There is an unsubstantiated case of Nazi loot somewhere inside a Swiss collector&#39;s massive collection, including 6,000 oils, some grenades and Napoleon’s toothbrush.</p>
+In the world, there is a lot happening. The only border crossing for aid between Syria and Turkey is closed, causing difficulty in the delivery of aid to Syria. In Turkey, earthquakes are a common occurrence due to the Anatolian Fault System. A professional soccer player in Turkey was recently rescued from the rubble of an earthquake. In terms of US politics, Joe Biden&#39;s approval ratings have been low due to a struggling economy and high gas prices. He is giving a State of the Union speech soon. On the business front, Federal Reserve chair Jerome Powell struck a wary note about Biden&#39;s celebratory embrace of an economic recovery. The US&#39;s deficit continues to surge towards a trillion dollars as well. In arts news, Gustavo Dudamel, a superstar conductor, is taking over the podium for the New York Philharmonic in 2026. On the technology front, Microsoft is having a coming out party for artificial intelligence. Lastly, candy hearts are looking smarter and more timely than ever with the messages they carry about our lives and loves.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The only border crossing for aid between Syria and Turkey is closed.</h3>
@@ -81,57 +81,57 @@ There are a lot of issues going on in the world right now. A border crossing for
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How U.S.-China Tensions Could Affect Who Buys the House Next Door</h3>
-<sub>By J. David Goodman</sub>
-<p>States are pursuing bills to bar Chinese citizens and companies from purchasing land. In Texas, legislation backed by Gov. Greg Abbott brought opposition from Democrats in the state’s growing cities and suburbs.  <a href="https://nyti.ms/3JNilOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden’s approval ratings last year were some of the worst for a second-year president.</h3>
+<sub>By Ruth Igielnik</sub>
+<p>The economy has helped drag down the president’s numbers, with a low point coming amid record high gas prices.  <a href="https://nyti.ms/3Xfvp2b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Lay Down Economic Challenge to House Republicans</h3>
-<sub>By Peter Baker</sub>
-<p>In his first State of the Union address since the G.O.P. took the lower chamber, the president will call for higher taxes on the wealthy and more social aid to the needy.  <a href="https://nyti.ms/3DM2Q5s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here’s how to watch Biden’s State of the Union speech.</h3>
+<sub>By Aishvarya Kavi</sub>
+<p>The president is scheduled to speak at 9 p.m. Eastern from the Capitol.  <a href="https://nyti.ms/3jFmkSy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s State of the Union Prep: No Acronyms and Tricks to Conquer a Stutter</h3>
-<sub>By Katie Rogers</sub>
-<p>Aides describe a process in which the president spends weeks reading drafts aloud, rejecting anything that smacks of Washington-speak.  <a href="https://nyti.ms/3YkkKUO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fed Chair Strikes a Wary Tone as Biden Prepares to Tout Economy</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The White House has embraced signs that the economy is strong. For the Fed, that strength could prolong its fight against inflation.  <a href="https://nyti.ms/3HJbYZL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Invited a Guest to the State of the Union. He Said Yes.</h3>
-<sub>By Michael Gold</sub>
-<p>Michael Weinstock, a Democrat who once ran for Mr. Santos’s district, said he wanted to raise attention to health issues of 9&#x2F;11 rescue workers like himself.  <a href="https://nyti.ms/3jH7z1k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>America’s Trade Deficit Surged in 2022, Nearing $1 Trillion</h3>
+<sub>By Ana Swanson</sub>
+<p>The gap between what the United States imports and what it exports hit a record as more foreign goods came into the country.  <a href="https://nyti.ms/3YugcuX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Gustavo Dudamel, Star Maestro, to Leave L.A. for New York Philharmonic</h3>
+<sub>By Javier C. Hernández</sub>
+<p>Dudamel, a charismatic 42-year-old conductor, will take up the Philharmonic’s podium in 2026, in a major coup for the orchestra.  <a href="https://nyti.ms/3RGoD49"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Will Gustavo Dudamel Be New York’s New Bernstein?</h3>
+<sub>By Zachary Woolfe</sub>
+<p>The superstar conductor’s hiring is the New York Philharmonic’s attempt to recapture the populist glamour it enjoyed under Leonard Bernstein in the 1960s.  <a href="https://nyti.ms/3RDOkm4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Gustavo Dudamel: An Introduction in 10 Recordings</h3>
+<sub>By Joshua Barone</sub>
+<p>Dudamel, the New York Philharmonic’s next music director, has a varied catalog of classics and contemporary works, as well as film scores.  <a href="https://nyti.ms/3YsCSvy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>From ‘Be Mine’ to ‘Youda Best,’ the Candy Conversation Evolves</h3>
+<h3>What Do Candy Hearts Tell Us? Be Clever. Be Current. Be Mine.</h3>
 <sub>By Kim Severson</sub>
 <p>The sweet messages on those valentine hearts require careful planning and editing from year to year. And they speak volumes about the state of our lives and loves.  <a href="https://nyti.ms/3I2uv4x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Caught in G.O.P.’s Cross Hairs, Mayorkas Faces Political Showdown Over Border Crisis</h3>
-<sub>By Eileen Sullivan and Zolan Kanno-Youngs</sub>
-<p>The homeland security secretary has become the face of the intractable problem at the border, particularly for Republicans who see immigration attacks as a winning political strategy.  <a href="https://nyti.ms/40E8Ozk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The People Onscreen Are Fake. The Disinformation Is Real.</h3>
-<sub>By Adam Satariano and Paul Mozur</sub>
-<p>For the first time, A.I.-generated personas, often used for corporate trainings, were detected in a state-aligned information campaign — opening a new chapter in online manipulation.  <a href="https://nyti.ms/3YsmQ58"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Meta, Long an A.I. Leader, Tries Not to Be Left Out of the Boom</h3>
-<sub>By Cade Metz and Mike Isaac</sub>
-<p>It has long had technology to rival chatbots like ChatGPT, but can’t afford to back artificial intelligence that can spread misinformation and toxic content.  <a href="https://nyti.ms/3YrmueW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Is Nazi Loot Amid His 6,000 Oils, Some Grenades and Napoleon’s Toothbrush?</h3>
-<sub>By Catherine Hickley</sub>
-<p>The daughter of an eccentric Swiss collector has asked an independent panel to review whether items in his massive collection were stolen from Jews during World War II.  <a href="https://nyti.ms/3jA1bsV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Microsoft Throws a Coming-Out Party for A.I.</h3>
+<sub>By Cade Metz and Karen Weise</sub>
+<p>Amid the tech industry’s worst slump in decades, industry leaders are predicting an era built on new chatbots and other types of artificial intelligence.  <a href="https://nyti.ms/3HA7y7u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
