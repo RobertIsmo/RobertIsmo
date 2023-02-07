@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 7, Central Standard Time</p>
 <p>
-Right now there is a lot of chaos in many parts of the world. In Turkey and Syria, there has been a devastating earthquake that is making it difficult to rescue survivors. There is also conflict in Ukraine between the government and Russian forces that are sending waves of new conscripts. In addition, the U.S. and China are facing a balloon dispute which raises concerns about how China wields its power and could potentially lead to an accidental conflict. There are many ways people can help aid the rescue and recovery efforts in Turkey and Syria. Lastly, in the U.S., police teams have been disbanded due to violence during protests which shows a lack of training amongst N.Y.P.D officers.</p>
+There has been a devastating earthquake recently in Turkey and Syria. Meanwhile, the US is stepping up its efforts to restrict Chinese citizens and companies from purchasing land. Tensions between US and China are also rising due to incidents involving balloons, which were initially dismissed as unexplained phenomena. Back in the US, Joe Biden is preparing to deliver his first State of the Union address since they GOP took over the House - he&#39;ll focus on raising taxes on the wealthy and providing more social aid to those in need. On the technology front, A.I.-generated personas are being used for a state-aligned information campaign – exploring new ways of spreading disinformation and toxic content.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Time is running out to find survivors.</h3>
@@ -69,16 +69,28 @@ Right now there is a lot of chaos in many parts of the world. In Turkey and Syri
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mapping the Damage From the Earthquake in Turkey and Syria</h3>
-<sub>By Pablo Robles, Agnes Chang, Josh Holder, Lauren Leatherby, Scott Reinhard and Ashley Wu</sub>
-<p>See where the earthquake caused major damage across dozens of cities.  <a href="https://nyti.ms/3RyOb34"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Turkey’s Anatolian Fault System Causes Devastating Earthquakes</h3>
+<sub>By Leanne Abraham, Henry Fountain and K.K. Rebecca Lai</sub>
+<p>See the fault zones where more than a century of the deadliest earthquakes have occurred.  <a href="https://nyti.ms/3RBwpfA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here’s how to help victims of the earthquake.</h3>
-<sub>By Ben Shpigel</sub>
-<p>Here’s how to contribute to organizations that are aiding the rescue and recovery efforts in Turkey and Syria.  <a href="https://nyti.ms/3YaSO61"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After the Quake: Scenes From Turkey and Syria</h3>
+<sub>By The New York Times</sub>
+<p>The deadly earthquake was felt in at least four countries, with most of the casualties and the heaviest damage reported in Turkey and Syria.  <a href="https://nyti.ms/40HVB8C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How U.S.-China Tensions Could Affect Who Buys the House Next Door</h3>
+<sub>By J. David Goodman</sub>
+<p>States are pursuing bills to bar Chinese citizens and companies from purchasing land. In Texas, legislation backed by Gov. Greg Abbott brought opposition from Democrats in the state’s growing cities and suburbs.  <a href="https://nyti.ms/3JNilOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Tries to Play Down Balloon Dispute With Censorship and Memes</h3>
+<sub>By Vivian Wang and Joy Dong</sub>
+<p>Chinese propaganda also appears to be walking a fine line: looking tough for the crowd at home, without further derailing relations with the United States.  <a href="https://nyti.ms/3DNlmdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Previous Chinese Balloon Incursions Initially Went Undetected</h3>
@@ -86,29 +98,17 @@ Right now there is a lot of chaos in many parts of the world. In Turkey and Syri
 <p>Some earlier incidents had been classified as unexplained phenomena and handed over to a Pentagon task force charged with investigating U.F.O.s.  <a href="https://nyti.ms/3HCLfhl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Balloon Dispute Aims Attention at Xi’s Leadership</h3>
-<sub>By David Pierson</sub>
-<p>The flap with the United States raises concerns about how China wields its power in a climate where one wrong move could set off an accidental conflict.  <a href="https://nyti.ms/3RxLvCZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Caught in G.O.P.’s Cross Hairs, Mayorkas Faces Political Showdown Over Border Crisis</h3>
+<sub>By Eileen Sullivan and Zolan Kanno-Youngs</sub>
+<p>The homeland security secretary has become the face of the intractable problem at the border, particularly for Republicans who see immigration attacks as a winning political strategy.  <a href="https://nyti.ms/40E8Ozk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Another Chinese Balloon Flew Over Latin America, China Confirms</h3>
-<sub>By Emma Bubola</sub>
-<p>The Chinese government said the balloon that Colombia spotted in its airspace on Friday was for civilian purposes and was being used for flight tests.  <a href="https://nyti.ms/3lf4tSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Outnumbered and Worn Out, Ukrainians in East Brace for Russian Assault</h3>
-<sub>By Michael Schwirtz and Lynsey Addario</sub>
-<p>The war is intensifying in a string of villages on the eastern front, where doctors struggle to handle an influx of gruesome injuries and soldiers fret about a Russian army sending waves of new conscripts.  <a href="https://nyti.ms/3I0lqsY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Russia Is Surviving the Tightening Grip on Its Oil Revenue</h3>
-<sub>By Anatoly Kurmanaev and Stanley Reed</sub>
-<p>Europe’s and America’s gradual restrictions on Russian oil trade are raising the stakes in a protracted economic standoff that is reshaping the global energy market.  <a href="https://nyti.ms/3HHK5RE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden to Lay Down Economic Challenge to House Republicans</h3>
+<sub>By Peter Baker</sub>
+<p>In his first State of the Union address since the G.O.P. took the lower chamber, the president will call for higher taxes on the wealthy and more social aid to the needy.  <a href="https://nyti.ms/3DM2Q5s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden’s State of the Union Prep: No Acronyms and Tricks to Conquer a Stutter</h3>
@@ -122,17 +122,17 @@ Right now there is a lot of chaos in many parts of the world. In Turkey and Syri
 <p>Michael Weinstock, a Democrat who once ran for Mr. Santos’s district, said he wanted to raise attention to health issues of 9&#x2F;11 rescue workers like himself.  <a href="https://nyti.ms/3jH7z1k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Amid Criticism, Elite Crime Teams Dwindled. Then Cities Brought Them Back.</h3>
-<sub>By Tim Arango and Ellen Gabler</sub>
-<p>The Scorpion police team whose officers are charged in the death of Tyre Nichols has been disbanded. But Memphis wasn’t the only city to turn again to specialized teams to fight a new surge in crime.  <a href="https://nyti.ms/3judFCs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Meta, Long an A.I. Leader, Tries Not to Be Left Out of the Boom</h3>
+<sub>By Cade Metz and Mike Isaac</sub>
+<p>It has long had technology to rival chatbots like ChatGPT, but can’t afford to back artificial intelligence that can spread misinformation and toxic content.  <a href="https://nyti.ms/3YrmueW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Police Review Board Says Violence During Protests Shows Lack of Training</h3>
-<sub>By Chelsia Rose Marcius</sub>
-<p>In 2020, N.Y.P.D. officers and demonstrators clashed for days, leading to hundreds of complaints that prompted investigations by the Civilian Complaint Review Board, which released its assessment on Monday.  <a href="https://nyti.ms/40zv6BX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The People Onscreen Are Fake. The Disinformation Is Real.</h3>
+<sub>By Adam Satariano and Paul Mozur</sub>
+<p>For the first time, A.I.-generated personas, often used for corporate trainings, were detected in a state-aligned information campaign — opening a new chapter in online manipulation.  <a href="https://nyti.ms/3YsmQ58"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
