@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 7, Central Standard Time</p>
 <p>
-There has been a devastating earthquake recently in Turkey and Syria. Meanwhile, the US is stepping up its efforts to restrict Chinese citizens and companies from purchasing land. Tensions between US and China are also rising due to incidents involving balloons, which were initially dismissed as unexplained phenomena. Back in the US, Joe Biden is preparing to deliver his first State of the Union address since they GOP took over the House - he&#39;ll focus on raising taxes on the wealthy and providing more social aid to those in need. On the technology front, A.I.-generated personas are being used for a state-aligned information campaign – exploring new ways of spreading disinformation and toxic content.</p>
+There is seismic activity mainly in Turkey and Syria shaking up the region with devastating earthquakes. China and the United States have also been dealing with tensions related to land purchases, balloon incursions, and trade. In the United States, President Biden will be delivering his first State of the Union address since the GOP took control of the House, where he is expected to call for higher taxes on the wealthy and more social aid. Additionally, there is a push towards A.I.-generated personas being used for corporate training but it carries with it the risk of spreading misinformation and toxic content.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Time is running out to find survivors.</h3>
@@ -99,12 +99,6 @@ There has been a devastating earthquake recently in Turkey and Syria. Meanwhile,
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Caught in G.O.P.’s Cross Hairs, Mayorkas Faces Political Showdown Over Border Crisis</h3>
-<sub>By Eileen Sullivan and Zolan Kanno-Youngs</sub>
-<p>The homeland security secretary has become the face of the intractable problem at the border, particularly for Republicans who see immigration attacks as a winning political strategy.  <a href="https://nyti.ms/40E8Ozk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden to Lay Down Economic Challenge to House Republicans</h3>
 <sub>By Peter Baker</sub>
 <p>In his first State of the Union address since the G.O.P. took the lower chamber, the president will call for higher taxes on the wealthy and more social aid to the needy.  <a href="https://nyti.ms/3DM2Q5s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -121,6 +115,12 @@ There has been a devastating earthquake recently in Turkey and Syria. Meanwhile,
 <sub>By Michael Gold</sub>
 <p>Michael Weinstock, a Democrat who once ran for Mr. Santos’s district, said he wanted to raise attention to health issues of 9&#x2F;11 rescue workers like himself.  <a href="https://nyti.ms/3jH7z1k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Caught in G.O.P.’s Cross Hairs, Mayorkas Faces Political Showdown Over Border Crisis</h3>
+<sub>By Eileen Sullivan and Zolan Kanno-Youngs</sub>
+<p>The homeland security secretary has become the face of the intractable problem at the border, particularly for Republicans who see immigration attacks as a winning political strategy.  <a href="https://nyti.ms/40E8Ozk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Meta, Long an A.I. Leader, Tries Not to Be Left Out of the Boom</h3>
