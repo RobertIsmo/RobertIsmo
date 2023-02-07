@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, February 6, Central Standard Time</p>
+<p>It is Tuesday, February 7, Central Standard Time</p>
 <p>
-There has been an earthquake in Syria and Turkey, bringing attention to the humanitarian crisis already happening in the region. China has also been sending balloons into other countries airspace, creating a tension between them and the US. Ukrainian soldiers are facing fatigue from fighting a prolonged war with Russia in the eastern part of their country. Finally, there is criticism of police brutality during protests in New York City.</p>
+There has been a major earthquake in the Middle East region centred around Syria and Turkey which has caused a humanitarian crisis. Efforts are being made to help the victims of this disaster. In addition, tensions have been reignited between the US and China as there have been recent incursions in foreign airspace with Chinese balloons. In Russia and Ukraine, the war is intensifying as Russia deploys more troops to probe for vulnerabilities. There has also been a tightening grip on oil revenue in Russia. Meanwhile, President Biden is preparing for his State of the Union address, avoiding any Washington-speak. Lastly, elite crime teams have been reinstated in some cities due to a recent increase in crime.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Earthquake Strikes Syrian Region Already Mired in Humanitarian Crisis</h3>
@@ -69,9 +69,9 @@ There has been an earthquake in Syria and Turkey, bringing attention to the huma
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mapping the Damage From Earthquakes in Turkey and Syria</h3>
-<sub>By Pablo Robles, Agnes Chang, Josh Holder and Lauren Leatherby</sub>
-<p>See where the earthquakes caused major damage across dozens of cities.  <a href="https://nyti.ms/3RyOb34"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Mapping the Damage From the Earthquake in Turkey and Syria</h3>
+<sub>By Pablo Robles, Agnes Chang, Josh Holder, Lauren Leatherby, Scott Reinhard and Ashley Wu</sub>
+<p>See where the earthquake caused major damage across dozens of cities.  <a href="https://nyti.ms/3RyOb34"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,6 +110,12 @@ There has been an earthquake in Syria and Turkey, bringing attention to the huma
 <p>Russia is deploying hundreds of thousands of newly mobilized soldiers, in small groups, to probe for vulnerabilities in Ukrainian defensive lines.  <a href="https://nyti.ms/3Y8e3Wb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Russia Is Surviving the Tightening Grip on Its Oil Revenue</h3>
+<sub>By Anatoly Kurmanaev and Stanley Reed</sub>
+<p>Europe’s and America’s gradual restrictions on Russian oil trade are raising the stakes in a protracted economic standoff that is reshaping the global energy market.  <a href="https://nyti.ms/3HHK5RE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden’s State of the Union Prep: No Acronyms and Tricks to Conquer a Stutter</h3>
 <sub>By Katie Rogers</sub>
@@ -125,13 +131,7 @@ There has been an earthquake in Syria and Turkey, bringing attention to the huma
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Amid Criticism, Elite Crime Teams Dwindled. Then Cities Brought Them Back.</h3>
 <sub>By Tim Arango and Ellen Gabler</sub>
-<p>The Scorpion police team whose officers are charged in the death of Tyre Nichols has been disbanded. But Memphis wasn’t the only city to turn again to specialized teams to fight a new surge in crime.  <a href="https://nyti.ms/3RAx0OE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Police Review Board Says Violence During Protests Shows Lack of Training</h3>
-<sub>By Chelsia Rose Marcius</sub>
-<p>In 2020, N.Y.P.D. officers and demonstrators clashed for days, leading to hundreds of complaints that prompted investigations by the Civilian Complaint Review Board, which released its assessment on Monday.  <a href="https://nyti.ms/40zv6BX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Scorpion police team whose officers are charged in the death of Tyre Nichols has been disbanded. But Memphis wasn’t the only city to turn again to specialized teams to fight a new surge in crime.  <a href="https://nyti.ms/3judFCs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
