@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 6, Central Standard Time</p>
 <p>
-There is a lot of unrest happening around the world right now, especially in Syria and Turkey where a deadly earthquake has caused major damage across dozens of cities. In Ukraine, the war is intensifying with gruesome injuries reported on the eastern front and an influx of new Russian soldiers. Meanwhile, there&#39;s a balloon dispute between the United States and China that is raising concerns about how China is wielding its power in a climate where one wrong move could set off an accidental conflict. Meanwhile, Vice President Kamala Harris has announced funding to address root causes of migration crisis due to shortages in workers caused by Trump-era restrictions and the pandemic. On a lighter note, the annual Grammys are expected to bring rebels into the fold this year by attempting to bridge different generations.</p>
+There has been a lot of news recently related to global events. In Syria, there was a devastating earthquake that exacerbated the already dire humanitarian crisis in the region. Turkey and Syria have both suffered major damage in the quake and people are trying to help out the victims. China has been making some waves - they&#39;ve had some incursions with balloons that initially went undetected, and recently another balloon flew over Latin America prompting some questions about how China wields its power. Ukraine has also been on edge because of Russian attacks in Eastern Ukraine, which show no signs of letting up soon. In the US, Biden is preparing for the State of The Union address and facing a number of challenges from critics, related to speech-making and language. Meanwhile across the US, cities are bringing back specialized crime-fighting teams due to rising crime, much to the concern of protesters who say these police teams lack necessary training.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Earthquake Strikes Syrian Region Already Mired in Humanitarian Crisis</h3>
@@ -75,9 +75,15 @@ There is a lot of unrest happening around the world right now, especially in Syr
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After the Quake: Scenes From Turkey and Syria</h3>
-<sub>By The New York Times</sub>
-<p>The deadly earthquake was felt in at least four countries, with most of the casualties and the heaviest damage reported in Turkey and Syria.  <a href="https://nyti.ms/40HVB8C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here’s how to help victims of the earthquake.</h3>
+<sub>By Ben Shpigel</sub>
+<p>Here’s how to contribute to organizations that are aiding the rescue and recovery efforts in Turkey and Syria.  <a href="https://nyti.ms/3YaSO61"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Previous Chinese Balloon Incursions Initially Went Undetected</h3>
+<sub>By Julian E. Barnes, Helene Cooper and Edward Wong</sub>
+<p>Some earlier incidents had been classified as unexplained phenomena and handed over to a Pentagon task force charged with investigating U.F.O.s.  <a href="https://nyti.ms/3HCLfhl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -85,12 +91,6 @@ There is a lot of unrest happening around the world right now, especially in Syr
 <sub>By David Pierson</sub>
 <p>The flap with the United States raises concerns about how China wields its power in a climate where one wrong move could set off an accidental conflict.  <a href="https://nyti.ms/3RxLvCZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Balloon Incident Reveals More Than Spying as Competition With China Intensifies</h3>
-<sub>By David E. Sanger</sub>
-<p>There is nothing new about superpowers spying on one another, even from balloons. But for pure gall, there was something different this time.  <a href="https://nyti.ms/3X7MURY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Another Chinese Balloon Flew Over Latin America, China Confirms</h3>
@@ -104,34 +104,34 @@ There is a lot of unrest happening around the world right now, especially in Syr
 <p>The war is intensifying in a string of villages on the eastern front, where doctors struggle to handle an influx of gruesome injuries and soldiers fret about a Russian army sending waves of new conscripts.  <a href="https://nyti.ms/3I0lqsY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Education Issues Vault to Top of the G.O.P.’s Presidential Race</h3>
-<sub>By Trip Gabriel</sub>
-<p>Donald Trump and possible rivals, like Gov. Ron DeSantis, are making appeals to conservative voters on race and gender issues, but such messages had a mixed record in November’s midterm elections.  <a href="https://nyti.ms/3RD5hNh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Attacks Intensify in Eastern Ukraine Ahead of Expected Offensive</h3>
+<sub>By Marc Santora</sub>
+<p>Russia is deploying hundreds of thousands of newly mobilized soldiers, in small groups, to probe for vulnerabilities in Ukrainian defensive lines.  <a href="https://nyti.ms/3Y8e3Wb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kamala Harris Is Trying to Define Her Vice Presidency. Even Her Allies Are Tired of Waiting.</h3>
-<sub>By Zolan Kanno-Youngs, Katie Rogers and Peter Baker</sub>
-<p>Ms. Harris is struggling to carve out a lane for herself in what may be one of the most consequential periods in the vice presidency.  <a href="https://nyti.ms/3JJCsNp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden’s State of the Union Prep: No Acronyms and Tricks to Conquer a Stutter</h3>
+<sub>By Katie Rogers</sub>
+<p>Aides describe a process in which the president spends weeks reading drafts aloud, rejecting anything that smacks of Washington-speak.  <a href="https://nyti.ms/3YkkKUO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Immigration Rebound Eases Shortage of Workers, Up to a Point</h3>
-<sub>By Lydia DePillis</sub>
-<p>While the Biden administration has accelerated processing after Trump-era restrictions and a pandemic slowdown, visa backlogs remain large.  <a href="https://nyti.ms/3YkrvGk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Invited a Guest to the State of the Union. He Said Yes.</h3>
+<sub>By Michael Gold</sub>
+<p>Michael Weinstock, a Democrat who once ran for Mr. Santos’s district, said he wanted to raise attention to health issues of 9&#x2F;11 rescue workers like himself.  <a href="https://nyti.ms/3jH7z1k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harris Announces Funding to Address Root Causes of Migration Crisis</h3>
-<sub>By Michael D. Shear</sub>
-<p>The vice president said private companies had pledged almost $1 billion to support communities in Central America.  <a href="https://nyti.ms/3I2SjFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Amid Criticism, Elite Crime Teams Dwindled. Then Cities Brought Them Back.</h3>
+<sub>By Tim Arango and Ellen Gabler</sub>
+<p>The Scorpion police team whose officers are charged in the death of Tyre Nichols has been disbanded. But Memphis wasn’t the only city to turn again to specialized teams to fight a new surge in crime.  <a href="https://nyti.ms/3RAx0OE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How the Grammys Bring Rebels Into the Fold</h3>
-<sub>By Jon Caramanica</sub>
-<p>The awards show needs to build bridges between generations. That means convincing once-overlooked upstarts to show up as elders.  <a href="https://nyti.ms/3Yj4GTg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Police Review Board Says Violence During Protests Shows Lack of Training</h3>
+<sub>By Chelsia Rose Marcius</sub>
+<p>In 2020, N.Y.P.D. officers and demonstrators clashed for days, leading to hundreds of complaints that prompted investigations by the Civilian Complaint Review Board, which released its assessment on Monday.  <a href="https://nyti.ms/40zv6BX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
