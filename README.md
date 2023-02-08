@@ -60,30 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 7, Central Standard Time</p>
 <p>
-Things have been turbulent lately, both in the US and abroad. In the US, President Biden&#39;s approval ratings are lower than average for a second-year president, largely due to a struggling economy. We saw this most recently with some record high gas prices. On top of that, we saw Sarah Huckabee Sanders, the newly elected governor of Arkansas, plan a Republican response that focused on younger leaders to likely draw attention to President Biden&#39;s age (he&#39;s 80.)
+There have been some big events happening around the world lately. In Turkey and Syria, rescue teams are working tirelessly to save people affected by the devastating earthquake that killed over 7,700 people. In addition, amazing rescue stories have emerged from the wreckage, such as a baby born in the rubble and a trapped teenager. Meanwhile in the United States, Memphis police documents are being released related to the death of Tyre Nichols which show that officers manhandled and beat him before his death. 
 
-Abroad, there was a major earthquake in Turkey and Syria that caused immense destruction. Rescue teams had to shovel through snow and rubble to save people, with many of the victims being children. The quake was so powerful that it was felt hundreds of miles away.
-
-In technology, Microsoft is adding A.I. to their search engine as the industry struggles against one of its worst slumps in decades. Meanwhile, fake personas are now being used in state-aligned information campaigns, which means more online manipulation.
-
-Lastly, Gustavo Dudamel will be leaving his post as the star maestro in Los Angeles and taking up the podium at New York Philharmonic in 2026 which will be a major coup for them.</p>
+On a lighter note, tech leaders are predicting an era built on new chatbots and other types of artificial intelligence as a way to spur industry growth during this decade&#39;s slump. And Gustavo Dudamel was just named the leader of the New York Philharmonic to everyone&#39;s excitement. Finally, we can&#39;t forget about candy hearts and their unique messages - which symbolize the state of our lives and loves!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden’s approval ratings last year were some of the worst for a second-year president.</h3>
 <sub>By Ruth Igielnik</sub>
 <p>The economy has helped drag down the president’s numbers, with a low point coming amid record high gas prices.  <a href="https://nyti.ms/3Xfvp2b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The State of the Union can be a trial for some Supreme Court justices.</h3>
-<sub>By Adam Liptak</sub>
-<p>  <a href="https://nyti.ms/3XdeZHx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Sarah Huckabee Sanders plans a Republican response that pushes for younger leaders.</h3>
-<sub>By Michael C. Bender</sub>
-<p>Ms. Sanders, 40, the newly elected governor of Arkansas, is expected to highlight the age difference between her and President Biden, 80.  <a href="https://nyti.ms/3HLENF1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -97,12 +81,6 @@ Lastly, Gustavo Dudamel will be leaving his post as the star maestro in Los Ange
 <sub>By Ben Hubbard and Safak Timur</sub>
 <p>In the hard-hit Turkish city of Gaziantep, a collapsed apartment building spared few of its residents. But one man heard his brother’s voice from beneath the debris.  <a href="https://nyti.ms/3jHGWtk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Turkey’s Anatolian Fault System Causes Devastating Earthquakes</h3>
-<sub>By Leanne Abraham, Henry Fountain and K.K. Rebecca Lai</sub>
-<p>See the fault zones where more than a century of the deadliest earthquakes have occurred.  <a href="https://nyti.ms/3RBwpfA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>From a baby born in the rubble to a trapped teenager, many earthquake victims are children.</h3>
@@ -138,6 +116,24 @@ Lastly, Gustavo Dudamel will be leaving his post as the star maestro in Los Ange
 <h3>Gustavo Dudamel, Star Maestro, to Leave L.A. for New York Philharmonic</h3>
 <sub>By Javier C. Hernández</sub>
 <p>Dudamel, a charismatic 42-year-old conductor, will take up the Philharmonic’s podium in 2026, in a major coup for the orchestra.  <a href="https://nyti.ms/3RGoD49"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York Hails Maestro as a ‘Monstro’ and a Boon to Young Musicians</h3>
+<sub>By Ed Shanahan and Wesley Parnell</sub>
+<p>The naming of Gustavo Dudamel to lead the New York Philharmonic elicited national pride among Venezuelans and excitement among those who provide music training to children.  <a href="https://nyti.ms/3jNc2Q9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>What Do Candy Hearts Tell Us? Be Clever. Be Current. Be Mine.</h3>
+<sub>By Kim Severson</sub>
+<p>The sweet messages on those valentine hearts require careful planning and editing from year to year. And they speak volumes about the state of our lives and loves.  <a href="https://nyti.ms/3I2uv4x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Pays a Bloody Price for Small Gains on Eastern Front</h3>
+<sub>By Marc Santora, Matina Stevis-Gridneff and Shashank Bengali</sub>
+<p>Russia is relying on masses of troops to overrun Ukrainian positions, producing heavy casualties and incremental gains.  <a href="https://nyti.ms/3lfvSEa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
