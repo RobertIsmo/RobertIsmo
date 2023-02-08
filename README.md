@@ -60,20 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 8, Central Standard Time</p>
 <p>
-Right now, a lot is happening in the world. President Biden is calling on Republicans to help him &quot;finish the job&quot; and build the economy. In Turkey, people are desperately searching for survivors near the epicenter of a deadly earthquake. There was one remarkable but bittersweet rescue story of a man in Gaziantep hearing his brother&#39;s voice from beneath debris after a building collapsed. Meanwhile, the Turkish diaspora is rallying together in grief.
-
-In the US, revelations have come to light that an officer texted a photo of Tyre Nichols after he was beaten. The Times tracked each officers&#39; role in their handling and beating of Nichols, which resulted in six officers being fired and charged with murder.
-
-In sports news, LeBron James recently broke Kareem Abdul-Jabbar’s N.B.A. scoring record and there are lots of stories about how he got there and his legacy.
-
-Finally, there is news coming out of Russia on the Eastern Front - they have incurred heavy casualties as they rely on masses of troops to overrun Ukrainian positions for small gains.
-
-In tech news, Microsoft is turning to artificial intelligence to create new chatbots and other types of A.I., which is one bright spot amid an industry-wide slump.</p>
+Hi Friend! There&#39;s a lot happening in the world right now. President Biden recently gave the State of the Union address and made appeals to work with Republicans on expanding the economy. In Turkey, video footage shows rescue operations after a deadly earthquake at the epicenter near Hatay Province. In Ukraine, there&#39;s a mobile clinic providing healthcare services to rural areas that were once occupied by Russian forces as fighting continues nearby. In Memphis, TN, six officers have been fired and charged with murder in relation to a man they manhandled and beat, Tyre Nichols. And in sports news, LeBron James recently became the all-time career scoring leader in NBA history! Lastly, singer SZA is facing success with her new music and Lindsay Clancy is due in court for charges relating to the murder of her young children.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Calls on Republicans to Help Him ‘Finish the Job’ and Build the Economy</h3>
 <sub>By Peter Baker</sub>
 <p>President Biden was heckled during the State of the Union address when he spoke about fentanyl and when he accused Republicans of threatening Social Security and Medicare.  <a href="https://nyti.ms/3DM2Q5s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>7 Takeaways From Biden’s State of the Union Address</h3>
+<sub>By Michael D. Shear, Jim Tankersley and Zolan Kanno-Youngs</sub>
+<p>The president’s speech presented no big new proposals, but he offered to work with Republicans even as he parried hecklers and sought to allay Democratic concerns about his vigor heading into 2024.  <a href="https://nyti.ms/3I6Jf2k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-video-blue" alt="">
@@ -83,27 +81,21 @@ In tech news, Microsoft is turning to artificial intelligence to create new chat
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid the Quake’s Frosty Wreckage, a Remarkable but Bittersweet Rescue</h3>
-<sub>By Ben Hubbard and Safak Timur</sub>
-<p>In the hard-hit Turkish city of Gaziantep, a collapsed apartment building spared few of its residents. But one man heard his brother’s voice from beneath the debris.  <a href="https://nyti.ms/3jHGWtk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A grieving Turkish diaspora rallies together.</h3>
-<sub>By Natasha Frost</sub>
-<p>  <a href="https://nyti.ms/3jKqvwj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Rural Ukraine, Medicine and Hope Roll In on a Truck</h3>
+<sub>By Michael Schwirtz and Lynsey Addario</sub>
+<p>A mobile clinic is trying to restore medical services to villages once occupied by Russian forces as fighting rages nearby. “They’ll never beat our people,” a specialist with the team said.  <a href="https://nyti.ms/3ljfyCp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Memphis Officer Texted Photo of Tyre Nichols After Beating, New Documents Show</h3>
-<sub>By Jessica Jaglois, Nicholas Bogel-Burroughs and Mitch Smith</sub>
-<p>The revelation came in Memphis police documents related to the firing of five officers who have been charged with murder in Mr. Nichols’s death.  <a href="https://nyti.ms/3HHsnxJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Officers Manhandled and Beat Tyre Nichols. We Tracked Each One’s Role.</h3>
 <sub>By Alexander Cardia, Ishaan Jhaveri, Eleanor Lutz, Natalie Reneau, Anjali Singhvi and Robin Stein</sub>
 <p>The Times found that each of the six officers we tracked immediately used physical force, escalating even as Nichols became increasingly incapacitated and incoherent.  <a href="https://nyti.ms/3x5dfFz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Memphis Officer Texted Photo of Tyre Nichols After Beating, New Documents Show</h3>
+<sub>By Jessica Jaglois, Nicholas Bogel-Burroughs and Mitch Smith</sub>
+<p>The revelation came in Memphis police documents related to the firing of five officers who have been charged with murder in Mr. Nichols’s death.  <a href="https://nyti.ms/3HHsnxJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -130,17 +122,17 @@ In tech news, Microsoft is turning to artificial intelligence to create new chat
 <p>His N.B.A. career scoring record has been broken, but his legacy of activism and his expansion of Black athlete identity endure.  <a href="https://nyti.ms/3JRmelA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Pays a Bloody Price for Small Gains on Eastern Front</h3>
-<sub>By Marc Santora, Matina Stevis-Gridneff and Shashank Bengali</sub>
-<p>Russia is relying on masses of troops to overrun Ukrainian positions, producing heavy casualties and incremental gains.  <a href="https://nyti.ms/3lfvSEa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>SZA’s View From the Top</h3>
+<sub>By Danyel Smith</sub>
+<p>Her moody, enigmatic music made her a megastar. Can she learn to live with success?  <a href="https://nyti.ms/3llWELe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A Tech Race Begins as Microsoft Adds A.I. to Its Search Engine</h3>
-<sub>By Cade Metz and Karen Weise</sub>
-<p>Amid the tech industry’s worst slump in decades, industry leaders are predicting an era built on new chatbots and other types of artificial intelligence.  <a href="https://nyti.ms/3HA7y7u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>A Troubled Mother Faces Murder Charges in Her Young Children’s Deaths</h3>
+<sub>By Ellen Barry</sub>
+<p>Chilling details emerged at an arraignment of Lindsay Clancy, accused of strangling her three children. Her lawyer argued she was mentally ill, but prosecutors outlined methodical planning leading to the deaths.  <a href="https://nyti.ms/3lgpAnM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
