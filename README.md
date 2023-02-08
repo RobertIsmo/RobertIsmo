@@ -60,14 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 8, Central Standard Time</p>
 <p>
-There&#39;s some big news happening around the world, from the US to China to Europe. In the US, President Biden is touting an ambitious agenda focused on big-government policies, and is looking to win back support from white working class voters. Meanwhile, in China, reports indicate they are launching spy balloons to surveil military sites around the world. In Europe, investigators suggest that Russian President Vladimir Putin was likely involved in the crash of flight MH17.
-
-Aside from that, there are some exciting developments in technology. Microsoft just made their search engine, Bing, even more powerful and useful with A.I. technology integration. But there&#39;s growing alarm surrounding the use of AI chatbots which can spread dubious information quickly.
-
-In Japan, a softball team comprised mostly of former mobsters is getting attention as they try to dodge trouble and enjoy retirement. The sports world has also been buzzing over NBA great LeBron James&#39; latest accomplishments - breaking Kareem Abdul-Jabbar&#39;s scoring record - and looking at all the ways he can still score despite his age.
-
-Finally, in music, singer SZA is reflecting on fame and success and we&#39;re learning chilling details about a mother who faces murder charges for killing her young children. Scientists are also uncovering impressive fossils that belonged to a giant bird which lived in New Zealand many years ago - the biggest penguin ever!</p>
+There is a lot happening in the world right now. In Syria, many refugees who died in an earthquake have been returned home to their families so they can be buried among them. In the US, President Biden is trying to win back white working-class voters with wallets, while at the same time pursuing a big-government agenda and pushing for police reform. Meanwhile, China is reportedly sending spy balloons all over the world, and investigators believe Putin likely approved a missile system that brought down Flight MH17. In the technology sector, search engine Bing just made some serious improvements with A.I., but there are also concerns about A.I. chatbots spreading disinformation. In Japan, retired mobsters are finding a new purpose in joining a softball team. Across the pond in LA, Gustavo Dudamel&#39;s influence goes beyond the concert hall as he leaves for New York. Finally, New York City is busing migrants hoping to find asylum in Canada up north.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Syrian Refugees Who Died in Earthquake Are Returned Home</h3>
+<sub>By Raja Abdulrahim and Muhammad Haj Kadour</sub>
+<p>Millions fled the war in Syria for the safety of neighboring Turkey. “We want them to be buried among their family,” said a man waiting for the body of a young relative coming from Turkey.  <a href="https://nyti.ms/3jEWrlI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Aims to Win Back White Working-Class Voters Through Their Wallets</h3>
+<sub>By Jonathan Weisman</sub>
+<p>In his State of the Union address, the president signaled the opening of a yearslong push to persuade white working-class voters to return to the Democratic fold. Winning them over on cultural issues may be more difficult.  <a href="https://nyti.ms/3DPZkXC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>President Biden Is Not Backing Off His Big-Government Agenda</h3>
 <sub>By Jim Tankersley</sub>
@@ -75,10 +81,16 @@ Finally, in music, singer SZA is reflecting on fame and success and we&#39;re le
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Breaks Ground on a Huge Project: Winning Back the White Working Class</h3>
-<sub>By Jonathan Weisman</sub>
-<p>In a State of the Union address that focused heavily on job creation, the president signaled the opening of a yearslong push to persuade white working-class voters to return to the Democratic fold.  <a href="https://nyti.ms/3DPZkXC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Many of Biden’s Goals on Police Reform Are Still Incomplete</h3>
+<sub>By Zolan Kanno-Youngs and Luke Broadwater</sub>
+<p>President Biden said in his annual address to Congress that it was time to “finish the job” on police reform, even as many of his most ambitious goals are stalled.  <a href="https://nyti.ms/3XgmwVW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Shouts of ‘Liar’ and Worse, Biden Takes on His Detractors in Real Time</h3>
+<sub>By Katie Rogers</sub>
+<p>His State of the Union address was not exactly a celebration of a unity agenda. But the president seemed to relish the scrimmage.  <a href="https://nyti.ms/3HC9KLy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>China Sends Spy Balloons Over Military Sites Worldwide, U.S. Officials Say</h3>
@@ -89,7 +101,7 @@ Finally, in music, singer SZA is reflecting on fame and success and we&#39;re le
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Investigators say Putin likely approved the supply of the missile system that brought down Flight MH17.</h3>
 <sub>By Constant Méheut</sub>
-<p>A Dutch-led team said it had suspended its investigation because of insufficient evidence and rules that prevent new prosecutions.  <a href="https://nyti.ms/3YhzNPk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A Dutch-led team made the assessment, but said it had suspended its investigation because of insufficient evidence and rules that prevent new prosecutions.  <a href="https://nyti.ms/3YhzNPk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -110,34 +122,16 @@ Finally, in music, singer SZA is reflecting on fame and success and we&#39;re le
 <p>The members of the Ryuyukai have done nearly 100 years of hard time. Now they’re just looking to stay out of trouble.  <a href="https://nyti.ms/3jD6sA2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Many Ways LeBron James Can Score</h3>
-<sub>By Sean Catangui and Leo Dominguez</sub>
-<p>The Los Angeles Lakers star’s game has evolved over the past 20 years, making him a threat from all over the court — no matter how old he gets.  <a href="https://nyti.ms/3YzTaDa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How LeBron James Outscored Kareem Abdul-Jabbar and All the N.B.A. Greats</h3>
-<sub>By Sopan Deb, K.K. Rebecca Lai and Eve Washington</sub>
-<p>LeBron James now has the N.B.A.’s career scoring record. See how he got there, and how he overtook the other great scorers in league history.  <a href="https://nyti.ms/3HGPMzn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>SZA’s View From the Top</h3>
-<sub>By Danyel Smith</sub>
-<p>Her moody, enigmatic music made her a megastar. Can she learn to live with success?  <a href="https://nyti.ms/3llWELe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>In L.A., Dudamel’s Influence Extends Beyond the Concert Hall</h3>
+<sub>By Adam Nagourney and Javier C. Hernández</sub>
+<p>The news that Gustavo Dudamel is leaving the Los Angeles Philharmonic for New York was a blow to a city where he has been much more than a conductor.  <a href="https://nyti.ms/3JOEvzT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>A Troubled Mother Faces Murder Charges in Her Young Children’s Deaths</h3>
-<sub>By Ellen Barry</sub>
-<p>Chilling details emerged at an arraignment of Lindsay Clancy, accused of strangling her three children. Her lawyer argued she was mentally ill, but prosecutors outlined methodical planning leading to the deaths.  <a href="https://nyti.ms/3lgpAnM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>The Biggest Penguin That Ever Existed Was a ‘Monster Bird’</h3>
-<sub>By Jack Tamisiea</sub>
-<p>Fossils found in New Zealand highlight an era after the dinosaurs when giant flightless birds prowled the seas for prey.  <a href="https://nyti.ms/40Dh7Lz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Texas Bused Migrants North. Then New York Did the Same.</h3>
+<sub>By Kimiko de Freytas-Tamura and José A. Alvarado Jr.</sub>
+<p>New York City is buying bus tickets for migrants who want to seek asylum in Canada, where they hope to have an easier time getting work permits and health insurance.  <a href="https://nyti.ms/3JSXr09"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
