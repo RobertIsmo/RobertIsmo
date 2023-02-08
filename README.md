@@ -60,7 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 8, Central Standard Time</p>
 <p>
-Hi Friend! There&#39;s a lot happening in the world right now. President Biden recently gave the State of the Union address and made appeals to work with Republicans on expanding the economy. In Turkey, video footage shows rescue operations after a deadly earthquake at the epicenter near Hatay Province. In Ukraine, there&#39;s a mobile clinic providing healthcare services to rural areas that were once occupied by Russian forces as fighting continues nearby. In Memphis, TN, six officers have been fired and charged with murder in relation to a man they manhandled and beat, Tyre Nichols. And in sports news, LeBron James recently became the all-time career scoring leader in NBA history! Lastly, singer SZA is facing success with her new music and Lindsay Clancy is due in court for charges relating to the murder of her young children.</p>
+Right now, in the US, President Biden is asking Republicans to work with him in order to build a stronger economy. During his State of the Union Addres, he spoke about fentanyl and accused the Republicans of threatening Social Security and Medicare. It looks like he&#39;ll be working towards bipartisanship despite the hecklers that followed.
+
+In rural Ukraine, as fighting continues there&#39;s a mobile clinic trying to help restore medical services to villages once occupied by Russian forces. In Memphis, it&#39;s being revealed that officers used excessive physical force against Tyre Nichols leading to his death and one of them even texted a picture of him after the beating. 
+
+On the sports front, LeBron James made history by breaking Kareem Abdul-Jabbar&#39;s N.B.A scoring record and continues to be a threat no matter how old he gets with his evolved game. 
+
+In the magazine section, singer SZA is exploring success and what it means for her while bestselling novelist Walter Mosley believes that America is getting dumber due to some people not having basic writing or thinking skills. 
+
+Finally in terms of health news, there&#39;s been a murder charge for Lindsay Clancy; accused of strangling her three children and investigators looking into an avian influenza outbreak on mink farms which has highlighted the need for better surveillance going forward.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Calls on Republicans to Help Him ‘Finish the Job’ and Build the Economy</h3>
@@ -72,12 +80,6 @@ Hi Friend! There&#39;s a lot happening in the world right now. President Biden r
 <h3>7 Takeaways From Biden’s State of the Union Address</h3>
 <sub>By Michael D. Shear, Jim Tankersley and Zolan Kanno-Youngs</sub>
 <p>The president’s speech presented no big new proposals, but he offered to work with Republicans even as he parried hecklers and sought to allay Democratic concerns about his vigor heading into 2024.  <a href="https://nyti.ms/3I6Jf2k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-video-blue" alt="">
-<h3>Videos Show Desperate Search for Survivors Near Quake’s Epicenter</h3>
-<sub>By Tolga Ildun, Sarah Kerr, Axel Boada and Vivian Yee</sub>
-<p>Hatay Province had Turkey’s highest-known death toll from Monday’s earthquake.  <a href="https://nyti.ms/3JU1DNh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -105,21 +107,15 @@ Hi Friend! There&#39;s a lot happening in the world right now. President Biden r
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Story of LeBron James’s 38,390 Points, by Those Who Were There</h3>
-<sub>By Sopan Deb</sub>
-<p>Teammates. Competitors. Victims of his memes. They each have a story about James’s road to breaking the N.B.A. career scoring record.  <a href="https://nyti.ms/3HJ1SrN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Many Ways LeBron James Can Score</h3>
+<sub>By Sean Catangui and Leo Dominguez</sub>
+<p>The Los Angeles Lakers star’s game has evolved over the past 20 years, making him a threat from all over the court — no matter how old he gets.  <a href="https://nyti.ms/3YzTaDa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>How LeBron James Outscored Kareem Abdul-Jabbar and All the N.B.A. Greats</h3>
 <sub>By Sopan Deb, K.K. Rebecca Lai and Eve Washington</sub>
 <p>LeBron James now has the N.B.A.’s career scoring record. See how he got there, and how he overtook the other great scorers in league history.  <a href="https://nyti.ms/3HGPMzn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Kareem Abdul-Jabbar Is Greater Than Any Basketball Record</h3>
-<sub>By Kurt Streeter</sub>
-<p>His N.B.A. career scoring record has been broken, but his legacy of activism and his expansion of Black athlete identity endure.  <a href="https://nyti.ms/3JRmelA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -133,6 +129,18 @@ Hi Friend! There&#39;s a lot happening in the world right now. President Biden r
 <sub>By Ellen Barry</sub>
 <p>Chilling details emerged at an arraignment of Lindsay Clancy, accused of strangling her three children. Her lawyer argued she was mentally ill, but prosecutors outlined methodical planning leading to the deaths.  <a href="https://nyti.ms/3lgpAnM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Bird Flu Outbreak Puts Mink Farms Back in the Spotlight</h3>
+<sub>By Emily Anthes</sub>
+<p>A new variant of avian influenza appears capable of spreading among mammals, highlighting the need for more proactive surveillance, experts said.  <a href="https://nyti.ms/3Yrwkh6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Walter Mosley Thinks America Is Getting Dumber</h3>
+<sub>By David Marchese</sub>
+<p>“There are people who don’t know how to spell, they don’t know how to think,” says the bestselling novelist.  <a href="https://nyti.ms/3HWgc1r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
