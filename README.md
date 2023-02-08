@@ -60,51 +60,55 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 8, Central Standard Time</p>
 <p>
-Right now, in the US, President Biden is asking Republicans to work with him in order to build a stronger economy. During his State of the Union Addres, he spoke about fentanyl and accused the Republicans of threatening Social Security and Medicare. It looks like he&#39;ll be working towards bipartisanship despite the hecklers that followed.
+There&#39;s some big news happening around the world, from the US to China to Europe. In the US, President Biden is touting an ambitious agenda focused on big-government policies, and is looking to win back support from white working class voters. Meanwhile, in China, reports indicate they are launching spy balloons to surveil military sites around the world. In Europe, investigators suggest that Russian President Vladimir Putin was likely involved in the crash of flight MH17.
 
-In rural Ukraine, as fighting continues there&#39;s a mobile clinic trying to help restore medical services to villages once occupied by Russian forces. In Memphis, it&#39;s being revealed that officers used excessive physical force against Tyre Nichols leading to his death and one of them even texted a picture of him after the beating. 
+Aside from that, there are some exciting developments in technology. Microsoft just made their search engine, Bing, even more powerful and useful with A.I. technology integration. But there&#39;s growing alarm surrounding the use of AI chatbots which can spread dubious information quickly.
 
-On the sports front, LeBron James made history by breaking Kareem Abdul-Jabbar&#39;s N.B.A scoring record and continues to be a threat no matter how old he gets with his evolved game. 
+In Japan, a softball team comprised mostly of former mobsters is getting attention as they try to dodge trouble and enjoy retirement. The sports world has also been buzzing over NBA great LeBron James&#39; latest accomplishments - breaking Kareem Abdul-Jabbar&#39;s scoring record - and looking at all the ways he can still score despite his age.
 
-In the magazine section, singer SZA is exploring success and what it means for her while bestselling novelist Walter Mosley believes that America is getting dumber due to some people not having basic writing or thinking skills. 
-
-Finally in terms of health news, there&#39;s been a murder charge for Lindsay Clancy; accused of strangling her three children and investigators looking into an avian influenza outbreak on mink farms which has highlighted the need for better surveillance going forward.</p>
+Finally, in music, singer SZA is reflecting on fame and success and we&#39;re learning chilling details about a mother who faces murder charges for killing her young children. Scientists are also uncovering impressive fossils that belonged to a giant bird which lived in New Zealand many years ago - the biggest penguin ever!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Calls on Republicans to Help Him ‘Finish the Job’ and Build the Economy</h3>
-<sub>By Peter Baker</sub>
-<p>President Biden was heckled during the State of the Union address when he spoke about fentanyl and when he accused Republicans of threatening Social Security and Medicare.  <a href="https://nyti.ms/3DM2Q5s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>7 Takeaways From Biden’s State of the Union Address</h3>
-<sub>By Michael D. Shear, Jim Tankersley and Zolan Kanno-Youngs</sub>
-<p>The president’s speech presented no big new proposals, but he offered to work with Republicans even as he parried hecklers and sought to allay Democratic concerns about his vigor heading into 2024.  <a href="https://nyti.ms/3I6Jf2k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Rural Ukraine, Medicine and Hope Roll In on a Truck</h3>
-<sub>By Michael Schwirtz and Lynsey Addario</sub>
-<p>A mobile clinic is trying to restore medical services to villages once occupied by Russian forces as fighting rages nearby. “They’ll never beat our people,” a specialist with the team said.  <a href="https://nyti.ms/3ljfyCp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>President Biden Is Not Backing Off His Big-Government Agenda</h3>
+<sub>By Jim Tankersley</sub>
+<p>In his first appearance before a Republican House, the president renewed calls for large new economic programs and offered no concessions on federal spending.  <a href="https://nyti.ms/3loNpJZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Officers Manhandled and Beat Tyre Nichols. We Tracked Each One’s Role.</h3>
-<sub>By Alexander Cardia, Ishaan Jhaveri, Eleanor Lutz, Natalie Reneau, Anjali Singhvi and Robin Stein</sub>
-<p>The Times found that each of the six officers we tracked immediately used physical force, escalating even as Nichols became increasingly incapacitated and incoherent.  <a href="https://nyti.ms/3x5dfFz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<h3>Biden Breaks Ground on a Huge Project: Winning Back the White Working Class</h3>
+<sub>By Jonathan Weisman</sub>
+<p>In a State of the Union address that focused heavily on job creation, the president signaled the opening of a yearslong push to persuade white working-class voters to return to the Democratic fold.  <a href="https://nyti.ms/3DPZkXC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Memphis Officer Texted Photo of Tyre Nichols After Beating, New Documents Show</h3>
-<sub>By Jessica Jaglois, Nicholas Bogel-Burroughs and Mitch Smith</sub>
-<p>The revelation came in Memphis police documents related to the firing of five officers who have been charged with murder in Mr. Nichols’s death.  <a href="https://nyti.ms/3HHsnxJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<h3>China Sends Spy Balloons Over Military Sites Worldwide, U.S. Officials Say</h3>
+<sub>By Julian E. Barnes, Edward Wong and Helene Cooper</sub>
+<p>The balloons have some advantages over the satellites that orbit the earth in regular patterns. They fly closer to earth and can evade radar.  <a href="https://nyti.ms/3DQLcxv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>LeBron James Breaks Kareem Abdul-Jabbar’s N.B.A. Scoring Record</h3>
-<sub>By Sopan Deb and Tania Ganguli</sub>
-<p>James, the Los Angeles Lakers star, scored the record-breaking 38,388th point that had eluded generations of superstars.  <a href="https://nyti.ms/3I496qL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Investigators say Putin likely approved the supply of the missile system that brought down Flight MH17.</h3>
+<sub>By Constant Méheut</sub>
+<p>A Dutch-led team said it had suspended its investigation because of insufficient evidence and rules that prevent new prosecutions.  <a href="https://nyti.ms/3YhzNPk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Bing (Yes, Bing) Just Made Search Interesting Again</h3>
+<sub>By Kevin Roose</sub>
+<p>Google has stiff competition now, after Microsoft integrated powerful A.I. technology into its search engine.  <a href="https://nyti.ms/3YjIIQo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Disinformation Researchers Raise Alarms About A.I. Chatbots</h3>
+<sub>By Tiffany Hsu and Stuart A. Thompson</sub>
+<p>Researchers used ChatGPT to produce clean, convincing text that repeated conspiracy theories and misleading narratives.  <a href="https://nyti.ms/3YhOySh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What’s a Japanese Mobster to Do in Retirement? Join a Softball Team.</h3>
+<sub>By Ben Dooley, Hisako Ueno and Shiho Fukada</sub>
+<p>The members of the Ryuyukai have done nearly 100 years of hard time. Now they’re just looking to stay out of trouble.  <a href="https://nyti.ms/3jD6sA2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The Many Ways LeBron James Can Score</h3>
@@ -130,17 +134,11 @@ Finally in terms of health news, there&#39;s been a murder charge for Lindsay Cl
 <p>Chilling details emerged at an arraignment of Lindsay Clancy, accused of strangling her three children. Her lawyer argued she was mentally ill, but prosecutors outlined methodical planning leading to the deaths.  <a href="https://nyti.ms/3lgpAnM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Bird Flu Outbreak Puts Mink Farms Back in the Spotlight</h3>
-<sub>By Emily Anthes</sub>
-<p>A new variant of avian influenza appears capable of spreading among mammals, highlighting the need for more proactive surveillance, experts said.  <a href="https://nyti.ms/3Yrwkh6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>The Biggest Penguin That Ever Existed Was a ‘Monster Bird’</h3>
+<sub>By Jack Tamisiea</sub>
+<p>Fossils found in New Zealand highlight an era after the dinosaurs when giant flightless birds prowled the seas for prey.  <a href="https://nyti.ms/40Dh7Lz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Walter Mosley Thinks America Is Getting Dumber</h3>
-<sub>By David Marchese</sub>
-<p>“There are people who don’t know how to spell, they don’t know how to think,” says the bestselling novelist.  <a href="https://nyti.ms/3HWgc1r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
