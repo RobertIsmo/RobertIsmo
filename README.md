@@ -60,12 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 7, Central Standard Time</p>
 <p>
-In the world, there is a lot happening. The only border crossing for aid between Syria and Turkey is closed, causing difficulty in the delivery of aid to Syria. In Turkey, earthquakes are a common occurrence due to the Anatolian Fault System. A professional soccer player in Turkey was recently rescued from the rubble of an earthquake. In terms of US politics, Joe Biden&#39;s approval ratings have been low due to a struggling economy and high gas prices. He is giving a State of the Union speech soon. On the business front, Federal Reserve chair Jerome Powell struck a wary note about Biden&#39;s celebratory embrace of an economic recovery. The US&#39;s deficit continues to surge towards a trillion dollars as well. In arts news, Gustavo Dudamel, a superstar conductor, is taking over the podium for the New York Philharmonic in 2026. On the technology front, Microsoft is having a coming out party for artificial intelligence. Lastly, candy hearts are looking smarter and more timely than ever with the messages they carry about our lives and loves.</p>
+Things have been turbulent lately, both in the US and abroad. In the US, President Biden&#39;s approval ratings are lower than average for a second-year president, largely due to a struggling economy. We saw this most recently with some record high gas prices. On top of that, we saw Sarah Huckabee Sanders, the newly elected governor of Arkansas, plan a Republican response that focused on younger leaders to likely draw attention to President Biden&#39;s age (he&#39;s 80.)
+
+Abroad, there was a major earthquake in Turkey and Syria that caused immense destruction. Rescue teams had to shovel through snow and rubble to save people, with many of the victims being children. The quake was so powerful that it was felt hundreds of miles away.
+
+In technology, Microsoft is adding A.I. to their search engine as the industry struggles against one of its worst slumps in decades. Meanwhile, fake personas are now being used in state-aligned information campaigns, which means more online manipulation.
+
+Lastly, Gustavo Dudamel will be leaving his post as the star maestro in Los Angeles and taking up the podium at New York Philharmonic in 2026 which will be a major coup for them.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s approval ratings last year were some of the worst for a second-year president.</h3>
+<sub>By Ruth Igielnik</sub>
+<p>The economy has helped drag down the president’s numbers, with a low point coming amid record high gas prices.  <a href="https://nyti.ms/3Xfvp2b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The State of the Union can be a trial for some Supreme Court justices.</h3>
+<sub>By Adam Liptak</sub>
+<p>  <a href="https://nyti.ms/3XdeZHx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Sarah Huckabee Sanders plans a Republican response that pushes for younger leaders.</h3>
+<sub>By Michael C. Bender</sub>
+<p>Ms. Sanders, 40, the newly elected governor of Arkansas, is expected to highlight the age difference between her and President Biden, 80.  <a href="https://nyti.ms/3HLENF1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The only border crossing for aid between Syria and Turkey is closed.</h3>
-<sub>By Natasha Frost and Raja Abdulrahim</sub>
-<p>Syria is not able to receive direct aid from many countries because of sanctions, so the border crossing has been a lifeline.  <a href="https://nyti.ms/40xDQJ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Rescue Teams Fight ‘Weather and the Earthquake’ as Toll Surpasses 7,700 Dead</h3>
+<sub>By Safak Timur, Ben Hubbard and Gulsin Harman</sub>
+<p>Shoveling snow and rubble, emergency crews worked across hundreds of miles in Turkey and Syria to save people in the aftermath of the most powerful quake in the region in decades.  <a href="https://nyti.ms/3HM9OIM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Amid the Quake’s Frosty Wreckage, a Remarkable but Bittersweet Rescue</h3>
+<sub>By Ben Hubbard and Safak Timur</sub>
+<p>In the hard-hit Turkish city of Gaziantep, a collapsed apartment building spared few of its residents. But one man heard his brother’s voice from beneath the debris.  <a href="https://nyti.ms/3jHGWtk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,63 +105,39 @@ In the world, there is a lot happening. The only border crossing for aid between
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A professional soccer player is among those who are rescued from the rubble in Turkey.</h3>
-<sub>By Jenny Gross and Gulsin Harman</sub>
-<p>Just hours before Christian Atsu was trapped, he had scored the winning goal for the Turkish soccer club Hatayspor.  <a href="https://nyti.ms/3Yttw2M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>From a baby born in the rubble to a trapped teenager, many earthquake victims are children.</h3>
+<sub>By Farnaz Fassihi and Hwaida Saad</sub>
+<p>Harrowing images have emerged of some of the millions of children caught in the catastrophic earthquake in Turkey and Syria.  <a href="https://nyti.ms/3YzYS7Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s approval ratings last year were some of the worst for a second-year president.</h3>
-<sub>By Ruth Igielnik</sub>
-<p>The economy has helped drag down the president’s numbers, with a low point coming amid record high gas prices.  <a href="https://nyti.ms/3Xfvp2b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Memphis Officer Texted Photo of Tyre Nichols After Beating, New Documents Show</h3>
+<sub>By Jessica Jaglois, Nicholas Bogel-Burroughs and Mitch Smith</sub>
+<p>The revelation came in Memphis police documents related to the firing of five officers who have been charged with murder in Mr. Nichols’s death.  <a href="https://nyti.ms/3HHsnxJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here’s how to watch Biden’s State of the Union speech.</h3>
-<sub>By Aishvarya Kavi</sub>
-<p>The president is scheduled to speak at 9 p.m. Eastern from the Capitol.  <a href="https://nyti.ms/3jFmkSy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Officers Manhandled and Beat Tyre Nichols. We Tracked Each One’s Role.</h3>
+<sub>By Alexander Cardia, Ishaan Jhaveri, Eleanor Lutz, Natalie Reneau, Anjali Singhvi and Robin Stein</sub>
+<p>The Times found that each of the six officers we tracked immediately used physical force, escalating even as Nichols became increasingly incapacitated and incoherent.  <a href="https://nyti.ms/3x5dfFz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Chair Strikes a Wary Tone as Biden Prepares to Tout Economy</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The White House has embraced signs that the economy is strong. For the Fed, that strength could prolong its fight against inflation.  <a href="https://nyti.ms/3HJbYZL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A Tech Race Begins as Microsoft Adds A.I. to Its Search Engine</h3>
+<sub>By Cade Metz and Karen Weise</sub>
+<p>Amid the tech industry’s worst slump in decades, industry leaders are predicting an era built on new chatbots and other types of artificial intelligence.  <a href="https://nyti.ms/3HA7y7u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>America’s Trade Deficit Surged in 2022, Nearing $1 Trillion</h3>
-<sub>By Ana Swanson</sub>
-<p>The gap between what the United States imports and what it exports hit a record as more foreign goods came into the country.  <a href="https://nyti.ms/3YugcuX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The People Onscreen Are Fake. The Disinformation Is Real.</h3>
+<sub>By Adam Satariano and Paul Mozur</sub>
+<p>For the first time, A.I.-generated personas, often used for corporate trainings, were detected in a state-aligned information campaign — opening a new chapter in online manipulation.  <a href="https://nyti.ms/3YsmQ58"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Gustavo Dudamel, Star Maestro, to Leave L.A. for New York Philharmonic</h3>
 <sub>By Javier C. Hernández</sub>
 <p>Dudamel, a charismatic 42-year-old conductor, will take up the Philharmonic’s podium in 2026, in a major coup for the orchestra.  <a href="https://nyti.ms/3RGoD49"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Will Gustavo Dudamel Be New York’s New Bernstein?</h3>
-<sub>By Zachary Woolfe</sub>
-<p>The superstar conductor’s hiring is the New York Philharmonic’s attempt to recapture the populist glamour it enjoyed under Leonard Bernstein in the 1960s.  <a href="https://nyti.ms/3RDOkm4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Gustavo Dudamel: An Introduction in 10 Recordings</h3>
-<sub>By Joshua Barone</sub>
-<p>Dudamel, the New York Philharmonic’s next music director, has a varied catalog of classics and contemporary works, as well as film scores.  <a href="https://nyti.ms/3YsCSvy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>What Do Candy Hearts Tell Us? Be Clever. Be Current. Be Mine.</h3>
-<sub>By Kim Severson</sub>
-<p>The sweet messages on those valentine hearts require careful planning and editing from year to year. And they speak volumes about the state of our lives and loves.  <a href="https://nyti.ms/3I2uv4x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Microsoft Throws a Coming-Out Party for A.I.</h3>
-<sub>By Cade Metz and Karen Weise</sub>
-<p>Amid the tech industry’s worst slump in decades, industry leaders are predicting an era built on new chatbots and other types of artificial intelligence.  <a href="https://nyti.ms/3HA7y7u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
