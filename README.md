@@ -58,22 +58,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, February 7, Central Standard Time</p>
+<p>It is Wednesday, February 8, Central Standard Time</p>
 <p>
-There have been some big events happening around the world lately. In Turkey and Syria, rescue teams are working tirelessly to save people affected by the devastating earthquake that killed over 7,700 people. In addition, amazing rescue stories have emerged from the wreckage, such as a baby born in the rubble and a trapped teenager. Meanwhile in the United States, Memphis police documents are being released related to the death of Tyre Nichols which show that officers manhandled and beat him before his death. 
+Right now, a lot is happening in the world. President Biden is calling on Republicans to help him &quot;finish the job&quot; and build the economy. In Turkey, people are desperately searching for survivors near the epicenter of a deadly earthquake. There was one remarkable but bittersweet rescue story of a man in Gaziantep hearing his brother&#39;s voice from beneath debris after a building collapsed. Meanwhile, the Turkish diaspora is rallying together in grief.
 
-On a lighter note, tech leaders are predicting an era built on new chatbots and other types of artificial intelligence as a way to spur industry growth during this decade&#39;s slump. And Gustavo Dudamel was just named the leader of the New York Philharmonic to everyone&#39;s excitement. Finally, we can&#39;t forget about candy hearts and their unique messages - which symbolize the state of our lives and loves!</p>
+In the US, revelations have come to light that an officer texted a photo of Tyre Nichols after he was beaten. The Times tracked each officers&#39; role in their handling and beating of Nichols, which resulted in six officers being fired and charged with murder.
+
+In sports news, LeBron James recently broke Kareem Abdul-Jabbar’s N.B.A. scoring record and there are lots of stories about how he got there and his legacy.
+
+Finally, there is news coming out of Russia on the Eastern Front - they have incurred heavy casualties as they rely on masses of troops to overrun Ukrainian positions for small gains.
+
+In tech news, Microsoft is turning to artificial intelligence to create new chatbots and other types of A.I., which is one bright spot amid an industry-wide slump.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s approval ratings last year were some of the worst for a second-year president.</h3>
-<sub>By Ruth Igielnik</sub>
-<p>The economy has helped drag down the president’s numbers, with a low point coming amid record high gas prices.  <a href="https://nyti.ms/3Xfvp2b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Calls on Republicans to Help Him ‘Finish the Job’ and Build the Economy</h3>
+<sub>By Peter Baker</sub>
+<p>President Biden was heckled during the State of the Union address when he spoke about fentanyl and when he accused Republicans of threatening Social Security and Medicare.  <a href="https://nyti.ms/3DM2Q5s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rescue Teams Fight ‘Weather and the Earthquake’ as Toll Surpasses 7,700 Dead</h3>
-<sub>By Safak Timur, Ben Hubbard and Gulsin Harman</sub>
-<p>Shoveling snow and rubble, emergency crews worked across hundreds of miles in Turkey and Syria to save people in the aftermath of the most powerful quake in the region in decades.  <a href="https://nyti.ms/3HM9OIM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-video-blue" alt="">
+<h3>Videos Show Desperate Search for Survivors Near Quake’s Epicenter</h3>
+<sub>By Tolga Ildun, Sarah Kerr, Axel Boada and Vivian Yee</sub>
+<p>Hatay Province had Turkey’s highest-known death toll from Monday’s earthquake.  <a href="https://nyti.ms/3JU1DNh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -83,10 +89,10 @@ On a lighter note, tech leaders are predicting an era built on new chatbots and 
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>From a baby born in the rubble to a trapped teenager, many earthquake victims are children.</h3>
-<sub>By Farnaz Fassihi and Hwaida Saad</sub>
-<p>Harrowing images have emerged of some of the millions of children caught in the catastrophic earthquake in Turkey and Syria.  <a href="https://nyti.ms/3YzYS7Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<h3>A grieving Turkish diaspora rallies together.</h3>
+<sub>By Natasha Frost</sub>
+<p>  <a href="https://nyti.ms/3jKqvwj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Memphis Officer Texted Photo of Tyre Nichols After Beating, New Documents Show</h3>
@@ -100,40 +106,40 @@ On a lighter note, tech leaders are predicting an era built on new chatbots and 
 <p>The Times found that each of the six officers we tracked immediately used physical force, escalating even as Nichols became increasingly incapacitated and incoherent.  <a href="https://nyti.ms/3x5dfFz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A Tech Race Begins as Microsoft Adds A.I. to Its Search Engine</h3>
-<sub>By Cade Metz and Karen Weise</sub>
-<p>Amid the tech industry’s worst slump in decades, industry leaders are predicting an era built on new chatbots and other types of artificial intelligence.  <a href="https://nyti.ms/3HA7y7u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>LeBron James Breaks Kareem Abdul-Jabbar’s N.B.A. Scoring Record</h3>
+<sub>By Sopan Deb and Tania Ganguli</sub>
+<p>James, the Los Angeles Lakers star, scored the record-breaking 38,388th point that had eluded generations of superstars.  <a href="https://nyti.ms/3I496qL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The People Onscreen Are Fake. The Disinformation Is Real.</h3>
-<sub>By Adam Satariano and Paul Mozur</sub>
-<p>For the first time, A.I.-generated personas, often used for corporate trainings, were detected in a state-aligned information campaign — opening a new chapter in online manipulation.  <a href="https://nyti.ms/3YsmQ58"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Story of LeBron James’s 38,390 Points, by Those Who Were There</h3>
+<sub>By Sopan Deb</sub>
+<p>Teammates. Competitors. Victims of his memes. They each have a story about James’s road to breaking the N.B.A. career scoring record.  <a href="https://nyti.ms/3HJ1SrN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Gustavo Dudamel, Star Maestro, to Leave L.A. for New York Philharmonic</h3>
-<sub>By Javier C. Hernández</sub>
-<p>Dudamel, a charismatic 42-year-old conductor, will take up the Philharmonic’s podium in 2026, in a major coup for the orchestra.  <a href="https://nyti.ms/3RGoD49"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>How LeBron James Outscored Kareem Abdul-Jabbar and All the N.B.A. Greats</h3>
+<sub>By Sopan Deb, K.K. Rebecca Lai and Eve Washington</sub>
+<p>LeBron James now has the N.B.A.’s career scoring record. See how he got there, and how he overtook the other great scorers in league history.  <a href="https://nyti.ms/3HGPMzn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York Hails Maestro as a ‘Monstro’ and a Boon to Young Musicians</h3>
-<sub>By Ed Shanahan and Wesley Parnell</sub>
-<p>The naming of Gustavo Dudamel to lead the New York Philharmonic elicited national pride among Venezuelans and excitement among those who provide music training to children.  <a href="https://nyti.ms/3jNc2Q9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>What Do Candy Hearts Tell Us? Be Clever. Be Current. Be Mine.</h3>
-<sub>By Kim Severson</sub>
-<p>The sweet messages on those valentine hearts require careful planning and editing from year to year. And they speak volumes about the state of our lives and loves.  <a href="https://nyti.ms/3I2uv4x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Kareem Abdul-Jabbar Is Greater Than Any Basketball Record</h3>
+<sub>By Kurt Streeter</sub>
+<p>His N.B.A. career scoring record has been broken, but his legacy of activism and his expansion of Black athlete identity endure.  <a href="https://nyti.ms/3JRmelA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Pays a Bloody Price for Small Gains on Eastern Front</h3>
 <sub>By Marc Santora, Matina Stevis-Gridneff and Shashank Bengali</sub>
 <p>Russia is relying on masses of troops to overrun Ukrainian positions, producing heavy casualties and incremental gains.  <a href="https://nyti.ms/3lfvSEa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A Tech Race Begins as Microsoft Adds A.I. to Its Search Engine</h3>
+<sub>By Cade Metz and Karen Weise</sub>
+<p>Amid the tech industry’s worst slump in decades, industry leaders are predicting an era built on new chatbots and other types of artificial intelligence.  <a href="https://nyti.ms/3HA7y7u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
