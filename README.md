@@ -60,19 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 9, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. China has been using balloons to spy on military sites all around the world, which the US is monitoring closely. In Syria, a hospital is filled with tragedy caused by a huge earthquake. There&#39;s also conflict in Ukraine where police are using drones to protect citizens from ongoing bombardments. In the US, President Biden is campaigning in Florida against proposed cuts to programs like Medicare and Social Security, and alongside him some Republican representatives have been using coarse tactics like heckling during his State of the Union address. Meanwhile, Abortion Rights Supporters are speaking out about their views and free speech versus disinformation is coming to a head in a federal court case. Lastly, there&#39;s discussion around how China can reverse its population decline, taking cues from Sweden which has been trying to boost its birthrates for years with varying results.</p>
+There is a lot of news from around the world right now. Economists are predicting a growth rebound in spite of rising interest rates, and many large companies are increasing prices without much resistance from shoppers. The US government has accused the Chinese military of using surveillance balloons to collect communications signals, and in response, is preparing new rules to restrict investments in China. In Syria, an underground hospital filled with earthquake victims is facing tragedy but in Russia, the government has stopped recruiting prisoners to fight in Ukraine. On a more positive note, music legend Burt Bacharach passed away at 94 and George Toma, the groundskeeper for all 57 Super Bowls will be honored on Sunday. Lastly, President Biden is currently visiting Florida and sending a message to House Republicans about cutting Medicare and Social Security.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Recession? Some Economists See Chances of a Growth Rebound.</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Federal Reserve has raised rates rapidly. But instead of cracking, some data point to an economy that’s thriving.  <a href="https://nyti.ms/3IcdGUZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Big Brands Keep Raising Prices, With Limited Shopper Resistance</h3>
+<sub>By Isabella Simonetti</sub>
+<p>Consumers continue to absorb significant price increases by PepsiCo, Unilever and others. The companies say that prices will remain high in the months to come.  <a href="https://nyti.ms/3RPssV2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chinese Balloon Had Tools to Collect Communications Signals, U.S. Says</h3>
+<sub>By Edward Wong</sub>
+<p>China’s surveillance balloons have flown over more than 40 countries and are directed by the Chinese military, the State Department said.  <a href="https://nyti.ms/3YV4Twn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Its Push for an Intelligence Edge, China’s Military Turned to Balloons</h3>
 <sub>By Chris Buckley and Amy Chang Chien</sub>
 <p>Chinese military scientists have been looking for ways to make them more durable, harder to detect and even to serve as platforms that fire advanced weapons.  <a href="https://nyti.ms/3ROLE5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Aims to Curtail Technology Investment in China</h3>
+<sub>By Ana Swanson and Lauren Hirsch</sub>
+<p>The Biden administration is preparing new rules that would restrict U.S. dollars from flowing to China.  <a href="https://nyti.ms/3I8GOwo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>China Sends Spy Balloons Over Military Sites Worldwide, U.S. Officials Say</h3>
-<sub>By Julian E. Barnes, Edward Wong, Helene Cooper and Chris Buckley</sub>
-<p>The balloons have some advantages over the satellites that orbit the earth in regular patterns. They fly closer to earth and can evade radar.  <a href="https://nyti.ms/3DQLcxv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<h3>House Votes Unanimously to Condemn China Over Balloon</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The resounding bipartisan vote came after Republican leaders rebuffed a right-wing effort to formally rebuke President Biden for the episode, part of an effort to keep partisanship out of China policy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Syria, a Hospital ‘Filled With Tragedy’</h3>
@@ -81,9 +105,21 @@ There&#39;s a lot going on in the world right now. China has been using balloons
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Life on the Beat for Ukraine’s Cops: The Drunk, the Disorderly and Drones</h3>
-<sub>By Marc Santora</sub>
-<p>In cities dealing with bombardment and blackouts, the Patrol Police have taken a lead in trying to retain a sense of security for a traumatized public.  <a href="https://nyti.ms/3RSEFZ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Wagner, the Russian mercenary group, says it has stopped recruiting prisoners.</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>Thousands of released convicts have been killed, many soon after arriving on the battlefield in Ukraine, Russian rights advocates and Ukrainian officials say.  <a href="https://nyti.ms/3x9U8u1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Burt Bacharach, Whose Buoyant Pop Confections Lifted the ’60s, Dies at 94</h3>
+<sub>By Stephen Holden</sub>
+<p>His collaborations with the lyricist Hal David — “The Look of Love,” “Walk On By,” “Alfie” and many more hits — evoked a sleek era of airy romance.  <a href="https://nyti.ms/3Xr6DfG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>All Hail the ‘God of Sod,’ Groundskeeper for All 57 Super Bowls</h3>
+<sub>By Ken Belson and Jenny Vrentas</sub>
+<p>On Sunday, George Toma’s perfectionism will be on display for hundreds of millions of people who will have no idea who he is or how he suffers for his work.  <a href="https://nyti.ms/3I8jAGG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -97,42 +133,6 @@ There&#39;s a lot going on in the world right now. China has been using balloons
 <sub>By Karoun Demirjian</sub>
 <p>The repeated outbursts that interrupted the State of the Union address encapsulated the ethos of the new Republican majority, which styles itself after former President Donald J. Trump.  <a href="https://nyti.ms/3I9AaWJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortion Rights Supporters See Biden Address as Missed Opportunity</h3>
-<sub>By Lisa Lerer</sub>
-<p>While praising the administration’s actions so far, activists say the State of the Union speech could have done more to address what they view as a national health crisis.  <a href="https://nyti.ms/3I8GOMU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Magic of Your First Car</h3>
-<sub>By Adali Schell and Remy Tumin</sub>
-<p>For these young people in Los Angeles, a car is a portal to possibilities, a means to escape monotony and a gathering space where they can let it all go.  <a href="https://nyti.ms/3IaylbQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Educators Secretly Remove Students With Disabilities From School</h3>
-<sub>By Erica L. Green</sub>
-<p>Known as informal removals, the tactics are “off-the-book” suspensions often in violation of federal civil rights protections for those with disabilities.  <a href="https://nyti.ms/3JU0MMr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Steve Bannon’s Podcast Is Top Misinformation Spreader, Study Says</h3>
-<sub>By Stuart A. Thompson</sub>
-<p>A large podcast study found that Mr. Bannon’s “War Room” had more falsehoods and unsubstantiated claims than other political talk shows.  <a href="https://nyti.ms/3IcATpS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Free Speech vs. Disinformation Comes to a Head</h3>
-<sub>By Steven Lee Myers</sub>
-<p>The outcome of a case in federal court could help decide whether the First Amendment is a barrier to virtually any government efforts to stifle disinformation.  <a href="https://nyti.ms/3x5vkU9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Can China Reverse Its Population Decline? Just Ask Sweden.</h3>
-<sub>By Andrew Jacobs and Francesca Paris</sub>
-<p>Wealthy countries have been trying to boost their birthrates for decades. The results have been pretty similar.  <a href="https://nyti.ms/3IauPhK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
