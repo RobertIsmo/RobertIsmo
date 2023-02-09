@@ -60,12 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 8, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Syria, many refugees who died in an earthquake have been returned home to their families so they can be buried among them. In the US, President Biden is trying to win back white working-class voters with wallets, while at the same time pursuing a big-government agenda and pushing for police reform. Meanwhile, China is reportedly sending spy balloons all over the world, and investigators believe Putin likely approved a missile system that brought down Flight MH17. In the technology sector, search engine Bing just made some serious improvements with A.I., but there are also concerns about A.I. chatbots spreading disinformation. In Japan, retired mobsters are finding a new purpose in joining a softball team. Across the pond in LA, Gustavo Dudamel&#39;s influence goes beyond the concert hall as he leaves for New York. Finally, New York City is busing migrants hoping to find asylum in Canada up north.</p>
+The world is a bit of a chaotic place right now. In China, officials say that spy balloons are being sent to military sites worldwide. Meanwhile, Syrian refugees who died in an earthquake were recently returned home. Unfortunately, the U.N. reports that very little aid is reaching Syria at this time. 
+Within the U.S., President Biden has been trying to win back white working-class voters through their wallets, while a confrontation between the Senator from Utah and a congressman from New York reflects a larger clash within the Republican party. After shouts of &quot;liar&quot; and worse at his State of the Union address, Biden took on his detractors in real time. 
+Investigators also recently found evidence that suggests Putin likely approved the supply of the missile system that brought down Flight MH17, though new prosecutions cannot be made due to a lack of evidence. In terms of technology, there&#39;s competition between Google and Bing when it comes to search now, but Twitter faced some technical glitches on Wednesday as key features failed. Lastly, the House G.O.P had a hearing with former Twitter executives over accusations of censorship, while in Japan retired mobsters have joined a softball team to stay out of trouble. Additionally, there is a promising Covid drug with all variants being quashed - but unfortunately it&#39;s unlikely to reach U.S markets anytime soon due to regulatory and funding hurdles.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>China Sends Spy Balloons Over Military Sites Worldwide, U.S. Officials Say</h3>
+<sub>By Julian E. Barnes, Edward Wong, Helene Cooper and Chris Buckley</sub>
+<p>The balloons have some advantages over the satellites that orbit the earth in regular patterns. They fly closer to earth and can evade radar.  <a href="https://nyti.ms/3DQLcxv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Syrian Refugees Who Died in Earthquake Are Returned Home</h3>
 <sub>By Raja Abdulrahim and Muhammad Haj Kadour</sub>
 <p>Millions fled the war in Syria for the safety of neighboring Turkey. “We want them to be buried among their family,” said a man waiting for the body of a young relative coming from Turkey.  <a href="https://nyti.ms/3jEWrlI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Little aid is reaching Syria, the U.N. says.</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>  <a href="https://nyti.ms/3jBZlb7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,15 +89,9 @@ There is a lot happening in the world right now. In Syria, many refugees who die
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>President Biden Is Not Backing Off His Big-Government Agenda</h3>
-<sub>By Jim Tankersley</sub>
-<p>In his first appearance before a Republican House, the president renewed calls for large new economic programs and offered no concessions on federal spending.  <a href="https://nyti.ms/3loNpJZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Many of Biden’s Goals on Police Reform Are Still Incomplete</h3>
-<sub>By Zolan Kanno-Youngs and Luke Broadwater</sub>
-<p>President Biden said in his annual address to Congress that it was time to “finish the job” on police reform, even as many of his most ambitious goals are stalled.  <a href="https://nyti.ms/3XgmwVW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Romney-Santos Confrontation Reflects a Broader Clash Within the G.O.P.</h3>
+<sub>By Annie Karni</sub>
+<p>The run-in between the senator from Utah, an institutionalist who prizes decorum, and the newly elected, embattled congressman from New York encapsulated the tension inside the Republican Party.  <a href="https://nyti.ms/3JTBqyw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -91,12 +99,6 @@ There is a lot happening in the world right now. In Syria, many refugees who die
 <sub>By Katie Rogers</sub>
 <p>His State of the Union address was not exactly a celebration of a unity agenda. But the president seemed to relish the scrimmage.  <a href="https://nyti.ms/3HC9KLy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>China Sends Spy Balloons Over Military Sites Worldwide, U.S. Officials Say</h3>
-<sub>By Julian E. Barnes, Edward Wong and Helene Cooper</sub>
-<p>The balloons have some advantages over the satellites that orbit the earth in regular patterns. They fly closer to earth and can evade radar.  <a href="https://nyti.ms/3DQLcxv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Investigators say Putin likely approved the supply of the missile system that brought down Flight MH17.</h3>
@@ -111,9 +113,15 @@ There is a lot happening in the world right now. In Syria, many refugees who die
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Disinformation Researchers Raise Alarms About A.I. Chatbots</h3>
-<sub>By Tiffany Hsu and Stuart A. Thompson</sub>
-<p>Researchers used ChatGPT to produce clean, convincing text that repeated conspiracy theories and misleading narratives.  <a href="https://nyti.ms/3YhOySh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Twitter Glitches Pile Up as Key Features Fail</h3>
+<sub>By Ryan Mac and Kate Conger</sub>
+<p>Many users said they could not post tweets or message one another on Wednesday as the #TwitterDown hashtag began trending.  <a href="https://nyti.ms/3YDCR87"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Five Takeaways From the House G.O.P. Hearing With Former Twitter Executives</h3>
+<sub>By Luke Broadwater and Kate Conger</sub>
+<p>The Oversight Committee called the session to scrutinize whether the social media platform has censored the right, but it yielded new revelations about the company’s permissive approach.  <a href="https://nyti.ms/3HNSkMk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,16 +130,10 @@ There is a lot happening in the world right now. In Syria, many refugees who die
 <p>The members of the Ryuyukai have done nearly 100 years of hard time. Now they’re just looking to stay out of trouble.  <a href="https://nyti.ms/3jD6sA2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>In L.A., Dudamel’s Influence Extends Beyond the Concert Hall</h3>
-<sub>By Adam Nagourney and Javier C. Hernández</sub>
-<p>The news that Gustavo Dudamel is leaving the Los Angeles Philharmonic for New York was a blow to a city where he has been much more than a conductor.  <a href="https://nyti.ms/3JOEvzT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Texas Bused Migrants North. Then New York Did the Same.</h3>
-<sub>By Kimiko de Freytas-Tamura and José A. Alvarado Jr.</sub>
-<p>New York City is buying bus tickets for migrants who want to seek asylum in Canada, where they hope to have an easier time getting work permits and health insurance.  <a href="https://nyti.ms/3JSXr09"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Why the Odds Are Stacked Against a Promising New Covid Drug</h3>
+<sub>By Benjamin Mueller</sub>
+<p>A new drug quashes all coronavirus variants. But regulatory hurdles and a lack of funding make it unlikely to reach the U.S. market anytime soon.  <a href="https://nyti.ms/3YktNp6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
