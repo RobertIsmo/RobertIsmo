@@ -58,11 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, February 8, Central Standard Time</p>
+<p>It is Thursday, February 9, Central Standard Time</p>
 <p>
-The world is a bit of a chaotic place right now. In China, officials say that spy balloons are being sent to military sites worldwide. Meanwhile, Syrian refugees who died in an earthquake were recently returned home. Unfortunately, the U.N. reports that very little aid is reaching Syria at this time. 
-Within the U.S., President Biden has been trying to win back white working-class voters through their wallets, while a confrontation between the Senator from Utah and a congressman from New York reflects a larger clash within the Republican party. After shouts of &quot;liar&quot; and worse at his State of the Union address, Biden took on his detractors in real time. 
-Investigators also recently found evidence that suggests Putin likely approved the supply of the missile system that brought down Flight MH17, though new prosecutions cannot be made due to a lack of evidence. In terms of technology, there&#39;s competition between Google and Bing when it comes to search now, but Twitter faced some technical glitches on Wednesday as key features failed. Lastly, the House G.O.P had a hearing with former Twitter executives over accusations of censorship, while in Japan retired mobsters have joined a softball team to stay out of trouble. Additionally, there is a promising Covid drug with all variants being quashed - but unfortunately it&#39;s unlikely to reach U.S markets anytime soon due to regulatory and funding hurdles.</p>
+Right now, there is a lot of unrest around the world. In Syria, millions have suffered from a catastrophic earthquake, with thousands dead and many left homeless. Aid has been slow to reach survivors of the disaster, and there is a subterranean hospital in the region filled with tragedy: both alive victims and those who have died. China is also causing unease by sending spy balloons over military sites worldwide.
+
+In the US, several topics are making headlines. At one hearing, former Twitter executives were questioned about whether the social media platform has been censoring the right. The run-in between Republican Senator Mitt Romney and newly elected Congressman Carlos Santos reflected the tension inside the party. Meanwhile, President Biden is attempting to win back support from white working-class voters through their wallets by offering economic relief in his State of Union address, but viewership has declined for it instead. 
+
+Elsewhere, Ukraine&#39;s president Volodymyr Zelensky traveled to Britain to ask for fighter planes he said would represent &quot;wings of freedom.&quot; A lot is also happening in the tech world. With Microsoft&#39;s addition of A.I. technology into its search engine, Bing may finally offer some competition to Google. Unfortunately for tweeters though, Twitter recently went down with many users unable to post or message one another on Wednesday.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>China Sends Spy Balloons Over Military Sites Worldwide, U.S. Officials Say</h3>
@@ -71,39 +73,21 @@ Investigators also recently found evidence that suggests Putin likely approved t
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Syrian Refugees Who Died in Earthquake Are Returned Home</h3>
-<sub>By Raja Abdulrahim and Muhammad Haj Kadour</sub>
-<p>Millions fled the war in Syria for the safety of neighboring Turkey. “We want them to be buried among their family,” said a man waiting for the body of a young relative coming from Turkey.  <a href="https://nyti.ms/3jEWrlI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Millions Suffer Cold and Grief After Catastrophic Quake, Awaiting Help</h3>
+<sub>By Ben Hubbard, Safak Timur, Vivian Yee and Gulsin Harman</sub>
+<p>With thousands dead and many more left homeless in Turkey and Syria, people struggling to unearth victims, bury the dead and provide for millions of survivors are pleading for more aid.  <a href="https://nyti.ms/3IbsKSX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Syria, a Hospital ‘Filled With Tragedy’</h3>
+<sub>By Cora Engelbrecht</sub>
+<p>A subterranean hospital known as the Cave and long the destination for war wounded is now filled with casualties of the earthquake — both alive and dead.  <a href="https://nyti.ms/3HLVNei"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Little aid is reaching Syria, the U.N. says.</h3>
 <sub>By Farnaz Fassihi</sub>
 <p>  <a href="https://nyti.ms/3jBZlb7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Aims to Win Back White Working-Class Voters Through Their Wallets</h3>
-<sub>By Jonathan Weisman</sub>
-<p>In his State of the Union address, the president signaled the opening of a yearslong push to persuade white working-class voters to return to the Democratic fold. Winning them over on cultural issues may be more difficult.  <a href="https://nyti.ms/3DPZkXC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Romney-Santos Confrontation Reflects a Broader Clash Within the G.O.P.</h3>
-<sub>By Annie Karni</sub>
-<p>The run-in between the senator from Utah, an institutionalist who prizes decorum, and the newly elected, embattled congressman from New York encapsulated the tension inside the Republican Party.  <a href="https://nyti.ms/3JTBqyw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Shouts of ‘Liar’ and Worse, Biden Takes on His Detractors in Real Time</h3>
-<sub>By Katie Rogers</sub>
-<p>His State of the Union address was not exactly a celebration of a unity agenda. But the president seemed to relish the scrimmage.  <a href="https://nyti.ms/3HC9KLy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Investigators say Putin likely approved the supply of the missile system that brought down Flight MH17.</h3>
-<sub>By Constant Méheut</sub>
-<p>A Dutch-led team made the assessment, but said it had suspended its investigation because of insufficient evidence and rules that prevent new prosecutions.  <a href="https://nyti.ms/3YhzNPk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -124,16 +108,34 @@ Investigators also recently found evidence that suggests Putin likely approved t
 <p>The Oversight Committee called the session to scrutinize whether the social media platform has censored the right, but it yielded new revelations about the company’s permissive approach.  <a href="https://nyti.ms/3HNSkMk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What’s a Japanese Mobster to Do in Retirement? Join a Softball Team.</h3>
-<sub>By Ben Dooley, Hisako Ueno and Shiho Fukada</sub>
-<p>The members of the Ryuyukai have done nearly 100 years of hard time. Now they’re just looking to stay out of trouble.  <a href="https://nyti.ms/3jD6sA2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Aims to Win Back White Working-Class Voters Through Their Wallets</h3>
+<sub>By Jonathan Weisman</sub>
+<p>In his State of the Union address, the president signaled the opening of a yearslong push to persuade white working-class voters to return to the Democratic fold. Winning them over on cultural issues may be more difficult.  <a href="https://nyti.ms/3DPZkXC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Why the Odds Are Stacked Against a Promising New Covid Drug</h3>
-<sub>By Benjamin Mueller</sub>
-<p>A new drug quashes all coronavirus variants. But regulatory hurdles and a lack of funding make it unlikely to reach the U.S. market anytime soon.  <a href="https://nyti.ms/3YktNp6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Romney-Santos Confrontation Reflects a Broader Clash Within the G.O.P.</h3>
+<sub>By Annie Karni</sub>
+<p>The run-in between the senator from Utah, an institutionalist who prizes decorum, and the newly elected, embattled congressman from New York encapsulated the tension inside the Republican Party.  <a href="https://nyti.ms/3JTBqyw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Does ‘Lots of Luck in Your Senior Year’ Actually Mean? An Investigation.</h3>
+<sub>By Katie Rogers</sub>
+<p>In the daily Rorschach test that is modern politics, everyone saw what they wanted in the Bidenism du jour.  <a href="https://nyti.ms/3DUAdmN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>TV Viewership Declines for Biden’s State of the Union Speech</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>Fox News attracted the biggest audience of the night, while CNN’s viewership fell by half from a year ago.  <a href="https://nyti.ms/40DZ6Nc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky Brings a Shopping List to Britain, With Fighter Planes at the Top</h3>
+<sub>By Mark Landler</sub>
+<p>In a surprise visit that started a two-day blitz of Western allies, the Ukrainian president implored Britain to provide planes he said would represent “wings of freedom.’’  <a href="https://nyti.ms/3x98QBC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
