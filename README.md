@@ -60,22 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 9, Central Standard Time</p>
 <p>
-Right now, there is a lot of unrest around the world. In Syria, millions have suffered from a catastrophic earthquake, with thousands dead and many left homeless. Aid has been slow to reach survivors of the disaster, and there is a subterranean hospital in the region filled with tragedy: both alive victims and those who have died. China is also causing unease by sending spy balloons over military sites worldwide.
-
-In the US, several topics are making headlines. At one hearing, former Twitter executives were questioned about whether the social media platform has been censoring the right. The run-in between Republican Senator Mitt Romney and newly elected Congressman Carlos Santos reflected the tension inside the party. Meanwhile, President Biden is attempting to win back support from white working-class voters through their wallets by offering economic relief in his State of Union address, but viewership has declined for it instead. 
-
-Elsewhere, Ukraine&#39;s president Volodymyr Zelensky traveled to Britain to ask for fighter planes he said would represent &quot;wings of freedom.&quot; A lot is also happening in the tech world. With Microsoft&#39;s addition of A.I. technology into its search engine, Bing may finally offer some competition to Google. Unfortunately for tweeters though, Twitter recently went down with many users unable to post or message one another on Wednesday.</p>
+There&#39;s a lot going on in the world right now. China has been using balloons to spy on military sites all around the world, which the US is monitoring closely. In Syria, a hospital is filled with tragedy caused by a huge earthquake. There&#39;s also conflict in Ukraine where police are using drones to protect citizens from ongoing bombardments. In the US, President Biden is campaigning in Florida against proposed cuts to programs like Medicare and Social Security, and alongside him some Republican representatives have been using coarse tactics like heckling during his State of the Union address. Meanwhile, Abortion Rights Supporters are speaking out about their views and free speech versus disinformation is coming to a head in a federal court case. Lastly, there&#39;s discussion around how China can reverse its population decline, taking cues from Sweden which has been trying to boost its birthrates for years with varying results.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Its Push for an Intelligence Edge, China’s Military Turned to Balloons</h3>
+<sub>By Chris Buckley and Amy Chang Chien</sub>
+<p>Chinese military scientists have been looking for ways to make them more durable, harder to detect and even to serve as platforms that fire advanced weapons.  <a href="https://nyti.ms/3ROLE5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>China Sends Spy Balloons Over Military Sites Worldwide, U.S. Officials Say</h3>
 <sub>By Julian E. Barnes, Edward Wong, Helene Cooper and Chris Buckley</sub>
 <p>The balloons have some advantages over the satellites that orbit the earth in regular patterns. They fly closer to earth and can evade radar.  <a href="https://nyti.ms/3DQLcxv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Millions Suffer Cold and Grief After Catastrophic Quake, Awaiting Help</h3>
-<sub>By Ben Hubbard, Safak Timur, Vivian Yee and Gulsin Harman</sub>
-<p>With thousands dead and many more left homeless in Turkey and Syria, people struggling to unearth victims, bury the dead and provide for millions of survivors are pleading for more aid.  <a href="https://nyti.ms/3IbsKSX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -85,58 +81,58 @@ Elsewhere, Ukraine&#39;s president Volodymyr Zelensky traveled to Britain to ask
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Little aid is reaching Syria, the U.N. says.</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>  <a href="https://nyti.ms/3jBZlb7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Life on the Beat for Ukraine’s Cops: The Drunk, the Disorderly and Drones</h3>
+<sub>By Marc Santora</sub>
+<p>In cities dealing with bombardment and blackouts, the Patrol Police have taken a lead in trying to retain a sense of security for a traumatized public.  <a href="https://nyti.ms/3RSEFZ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Heads to Florida With a Fresh Political Foil in House Republicans</h3>
+<sub>By Michael D. Shear</sub>
+<p>President Biden plans to use his visit to the University of Tampa to warn about what he says are Republican proposals to cut Medicare and Social Security.  <a href="https://nyti.ms/3JSMwUe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Heckling of Biden Reflects a New, Coarser Normal for House G.O.P.</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The repeated outbursts that interrupted the State of the Union address encapsulated the ethos of the new Republican majority, which styles itself after former President Donald J. Trump.  <a href="https://nyti.ms/3I9AaWJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Abortion Rights Supporters See Biden Address as Missed Opportunity</h3>
+<sub>By Lisa Lerer</sub>
+<p>While praising the administration’s actions so far, activists say the State of the Union speech could have done more to address what they view as a national health crisis.  <a href="https://nyti.ms/3I8GOMU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Magic of Your First Car</h3>
+<sub>By Adali Schell and Remy Tumin</sub>
+<p>For these young people in Los Angeles, a car is a portal to possibilities, a means to escape monotony and a gathering space where they can let it all go.  <a href="https://nyti.ms/3IaylbQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Educators Secretly Remove Students With Disabilities From School</h3>
+<sub>By Erica L. Green</sub>
+<p>Known as informal removals, the tactics are “off-the-book” suspensions often in violation of federal civil rights protections for those with disabilities.  <a href="https://nyti.ms/3JU0MMr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Bing (Yes, Bing) Just Made Search Interesting Again</h3>
-<sub>By Kevin Roose</sub>
-<p>Google has stiff competition now, after Microsoft integrated powerful A.I. technology into its search engine.  <a href="https://nyti.ms/3YjIIQo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Twitter Glitches Pile Up as Key Features Fail</h3>
-<sub>By Ryan Mac and Kate Conger</sub>
-<p>Many users said they could not post tweets or message one another on Wednesday as the #TwitterDown hashtag began trending.  <a href="https://nyti.ms/3YDCR87"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Five Takeaways From the House G.O.P. Hearing With Former Twitter Executives</h3>
-<sub>By Luke Broadwater and Kate Conger</sub>
-<p>The Oversight Committee called the session to scrutinize whether the social media platform has censored the right, but it yielded new revelations about the company’s permissive approach.  <a href="https://nyti.ms/3HNSkMk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Aims to Win Back White Working-Class Voters Through Their Wallets</h3>
-<sub>By Jonathan Weisman</sub>
-<p>In his State of the Union address, the president signaled the opening of a yearslong push to persuade white working-class voters to return to the Democratic fold. Winning them over on cultural issues may be more difficult.  <a href="https://nyti.ms/3DPZkXC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Romney-Santos Confrontation Reflects a Broader Clash Within the G.O.P.</h3>
-<sub>By Annie Karni</sub>
-<p>The run-in between the senator from Utah, an institutionalist who prizes decorum, and the newly elected, embattled congressman from New York encapsulated the tension inside the Republican Party.  <a href="https://nyti.ms/3JTBqyw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Does ‘Lots of Luck in Your Senior Year’ Actually Mean? An Investigation.</h3>
-<sub>By Katie Rogers</sub>
-<p>In the daily Rorschach test that is modern politics, everyone saw what they wanted in the Bidenism du jour.  <a href="https://nyti.ms/3DUAdmN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<h3>Steve Bannon’s Podcast Is Top Misinformation Spreader, Study Says</h3>
+<sub>By Stuart A. Thompson</sub>
+<p>A large podcast study found that Mr. Bannon’s “War Room” had more falsehoods and unsubstantiated claims than other political talk shows.  <a href="https://nyti.ms/3IcATpS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>TV Viewership Declines for Biden’s State of the Union Speech</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>Fox News attracted the biggest audience of the night, while CNN’s viewership fell by half from a year ago.  <a href="https://nyti.ms/40DZ6Nc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<h3>Free Speech vs. Disinformation Comes to a Head</h3>
+<sub>By Steven Lee Myers</sub>
+<p>The outcome of a case in federal court could help decide whether the First Amendment is a barrier to virtually any government efforts to stifle disinformation.  <a href="https://nyti.ms/3x5vkU9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Brings a Shopping List to Britain, With Fighter Planes at the Top</h3>
-<sub>By Mark Landler</sub>
-<p>In a surprise visit that started a two-day blitz of Western allies, the Ukrainian president implored Britain to provide planes he said would represent “wings of freedom.’’  <a href="https://nyti.ms/3x98QBC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Can China Reverse Its Population Decline? Just Ask Sweden.</h3>
+<sub>By Andrew Jacobs and Francesca Paris</sub>
+<p>Wealthy countries have been trying to boost their birthrates for decades. The results have been pretty similar.  <a href="https://nyti.ms/3IauPhK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
