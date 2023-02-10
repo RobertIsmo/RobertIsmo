@@ -60,8 +60,68 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 9, Central Standard Time</p>
 <p>
-There is a lot of news from around the world right now. Economists are predicting a growth rebound in spite of rising interest rates, and many large companies are increasing prices without much resistance from shoppers. The US government has accused the Chinese military of using surveillance balloons to collect communications signals, and in response, is preparing new rules to restrict investments in China. In Syria, an underground hospital filled with earthquake victims is facing tragedy but in Russia, the government has stopped recruiting prisoners to fight in Ukraine. On a more positive note, music legend Burt Bacharach passed away at 94 and George Toma, the groundskeeper for all 57 Super Bowls will be honored on Sunday. Lastly, President Biden is currently visiting Florida and sending a message to House Republicans about cutting Medicare and Social Security.</p>
+Right now, there’s rising tension between the U.S. and China amid news that Chinese balloons are trailing more than 40 countries in surveillance missions and directed by the military. In Turks, an earthquake has wiped out a city and its civilization, and some aid is trickling into Syria but not enough for many. On a brighter note, some economists think the U.S. economy could be headed for a growth rebound, and many big brands are raising prices without much shopper resistance.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chinese Balloon Had Tools to Collect Electronic Communications, U.S. Says</h3>
+<sub>By Edward Wong and Julian E. Barnes</sub>
+<p>China’s surveillance balloons have flown over more than 40 countries and are directed by the Chinese military, the State Department said. The F.B.I. is studying debris.  <a href="https://nyti.ms/3YV4Twn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Not Just a Silly Balloon’: Dismay and Fear Over Another U.S.-China Clash</h3>
+<sub>By Damien Cave</sub>
+<p>A big white orb has pushed the rival superpowers back to diplomatic distance, showing that peace may be frighteningly fragile.  <a href="https://nyti.ms/3RMlYWF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Was the Chinese Spy Balloon Trying to Collect?</h3>
+<sub>By Julian E. Barnes</sub>
+<p>Here is what we know about the balloon.  <a href="https://nyti.ms/3YbGOBj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pence Gets Subpoena From Special Counsel in Jan. 6 Investigation</h3>
+<sub>By Maggie Haberman and Glenn Thrush</sub>
+<p>The move by Jack Smith, the special counsel, is one of the most aggressive in his investigation of Donald Trump’s efforts to stay in power and is likely to lead to a battle over executive privilege.  <a href="https://nyti.ms/3XlJdbx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘No More Antakya’: Turks Say Quake Wiped Out a City, and a Civilization</h3>
+<sub>By Vivian Yee and Nimet Kirac</sub>
+<p>Amid scenes of utter devastation and widespread suffering in the bitter cold, residents mourned the loss of family, friends and memories.  <a href="https://nyti.ms/3IcnYUX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-video-blue" alt="">
+<h3>In Southern Turkey, a Parking Lot Becomes an Open-Air Morgue</h3>
+<sub>By Tolga Ildun, Yousur Al-Hlou and Mark Boyer</sub>
+<p>Hundreds of families searched for deceased relatives at a makeshift morgue outside a hospital in Turkey’s hardest-hit region.  <a href="https://nyti.ms/40GrwGm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Aid Trickles Into Syria, Residents Say Too Little, Too Late</h3>
+<sub>By Cora Engelbrecht, Hwaida Saad and Raja Abdulrahim</sub>
+<p>“Some people under ruins are sharing their wills with the team,” said one rescue worker. “They share names of their loved ones, then they die.”  <a href="https://nyti.ms/3jMddPW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Florida Officials Had Repeated Contact With College Board Over African American Studies</h3>
+<sub>By Dana Goldstein, Stephanie Saul and Anemona Hartocollis</sub>
+<p>A letter from state officials is likely to fuel controversy over the College Board, which has been accused of stripping or minimizing concepts to please conservatives.  <a href="https://nyti.ms/3Ie4Xlk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Speech to E.U. Leaders, Zelensky Links Europe to Ukraine’s Fate</h3>
+<sub>By Matina Stevis-Gridneff and Marc Santora</sub>
+<p>President Volodymyr Zelensky, in only his second trip outside Ukraine since the conflict began, told European lawmakers that his country’s war against Russia was a defense of all Europe.  <a href="https://nyti.ms/3RPHA4o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Influence Networks in Russia Misled European Users, TikTok Says</h3>
+<sub>By Tiffany Hsu</sub>
+<p>The covert and coordinated campaign was disclosed in a new report that also addressed misinformation, fake accounts and moderation struggles.  <a href="https://nyti.ms/3jJhSlC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Recession? Some Economists See Chances of a Growth Rebound.</h3>
 <sub>By Jeanna Smialek</sub>
@@ -71,68 +131,8 @@ There is a lot of news from around the world right now. Economists are predictin
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Big Brands Keep Raising Prices, With Limited Shopper Resistance</h3>
 <sub>By Isabella Simonetti</sub>
-<p>Consumers continue to absorb significant price increases by PepsiCo, Unilever and others. The companies say that prices will remain high in the months to come.  <a href="https://nyti.ms/3RPssV2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Consumers continue to absorb significant price increases by PepsiCo, Unilever and others. The companies say prices will remain high in the months to come.  <a href="https://nyti.ms/3RPssV2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chinese Balloon Had Tools to Collect Communications Signals, U.S. Says</h3>
-<sub>By Edward Wong</sub>
-<p>China’s surveillance balloons have flown over more than 40 countries and are directed by the Chinese military, the State Department said.  <a href="https://nyti.ms/3YV4Twn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Its Push for an Intelligence Edge, China’s Military Turned to Balloons</h3>
-<sub>By Chris Buckley and Amy Chang Chien</sub>
-<p>Chinese military scientists have been looking for ways to make them more durable, harder to detect and even to serve as platforms that fire advanced weapons.  <a href="https://nyti.ms/3ROLE5i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Aims to Curtail Technology Investment in China</h3>
-<sub>By Ana Swanson and Lauren Hirsch</sub>
-<p>The Biden administration is preparing new rules that would restrict U.S. dollars from flowing to China.  <a href="https://nyti.ms/3I8GOwo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Votes Unanimously to Condemn China Over Balloon</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The resounding bipartisan vote came after Republican leaders rebuffed a right-wing effort to formally rebuke President Biden for the episode, part of an effort to keep partisanship out of China policy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Syria, a Hospital ‘Filled With Tragedy’</h3>
-<sub>By Cora Engelbrecht</sub>
-<p>A subterranean hospital known as the Cave and long the destination for war wounded is now filled with casualties of the earthquake — both alive and dead.  <a href="https://nyti.ms/3HLVNei"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wagner, the Russian mercenary group, says it has stopped recruiting prisoners.</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>Thousands of released convicts have been killed, many soon after arriving on the battlefield in Ukraine, Russian rights advocates and Ukrainian officials say.  <a href="https://nyti.ms/3x9U8u1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Burt Bacharach, Whose Buoyant Pop Confections Lifted the ’60s, Dies at 94</h3>
-<sub>By Stephen Holden</sub>
-<p>His collaborations with the lyricist Hal David — “The Look of Love,” “Walk On By,” “Alfie” and many more hits — evoked a sleek era of airy romance.  <a href="https://nyti.ms/3Xr6DfG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>All Hail the ‘God of Sod,’ Groundskeeper for All 57 Super Bowls</h3>
-<sub>By Ken Belson and Jenny Vrentas</sub>
-<p>On Sunday, George Toma’s perfectionism will be on display for hundreds of millions of people who will have no idea who he is or how he suffers for his work.  <a href="https://nyti.ms/3I8jAGG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Heads to Florida With a Fresh Political Foil in House Republicans</h3>
-<sub>By Michael D. Shear</sub>
-<p>President Biden plans to use his visit to the University of Tampa to warn about what he says are Republican proposals to cut Medicare and Social Security.  <a href="https://nyti.ms/3JSMwUe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Heckling of Biden Reflects a New, Coarser Normal for House G.O.P.</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The repeated outbursts that interrupted the State of the Union address encapsulated the ethos of the new Republican majority, which styles itself after former President Donald J. Trump.  <a href="https://nyti.ms/3I9AaWJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
