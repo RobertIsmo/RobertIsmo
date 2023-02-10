@@ -58,16 +58,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, February 9, Central Standard Time</p>
+<p>It is Friday, February 10, Central Standard Time</p>
 <p>
-There are a lot of interesting events happening right now that have been in the news. In the US, Vice President Pence has been subpoenaed by a special counsel as they investigate Donald Trump’s attempts to stay in power after his presidency ended. Also, the US State Department reported Chinese surveillance balloons collecting electronic communications over 40 countries. In Europe, President Zelensky of Ukraine gave a speech to European leaders about how their fate is tied to successes in Ukraine against Russia. There have also been economic trends here at home: some economists see a potential for growth rebound despite rising interest rates, and large companies are continuing to raise prices with minimal resistance from customers. Finally, Burt Bacharach, an iconic composer from the 60s, passed away at 94.</p>
+There&#39;s a lot of international news at the moment! The US has accused the Chinese military of using surveillance balloons to collect electronic communications over more than 40 countries. This is leading to tension between the two superpowers. In the US, Mike Pence has been subpoenaed as part of an investigation into the attack on the Capitol on January 6th, and there&#39;s controversy around the College Board&#39;s African American Studies course. Meanwhile, there&#39;s been a devastating earthquake in Turkey that has killed more than 20,000 people and destroyed much of the area. Finally, composer Burt Bacharach recently passed away at 94 years old; he is remembered for his collaborations with Hal David in creating some of the most iconic songs of the 1960s.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Gets Subpoena From Special Counsel in Jan. 6 Investigation</h3>
-<sub>By Maggie Haberman and Glenn Thrush</sub>
-<p>The move by Jack Smith, the special counsel, is one of the most aggressive in his investigation of Donald Trump’s efforts to stay in power and is likely to lead to a battle over executive privilege.  <a href="https://nyti.ms/3XlJdbx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chinese Balloon Had Tools to Collect Electronic Communications, U.S. Says</h3>
 <sub>By Edward Wong and Julian E. Barnes</sub>
@@ -86,6 +80,12 @@ There are a lot of interesting events happening right now that have been in the 
 <p>Here is what we know about the balloon.  <a href="https://nyti.ms/3YbGOBj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pence Gets Subpoena From Special Counsel in Jan. 6 Investigation</h3>
+<sub>By Maggie Haberman and Glenn Thrush</sub>
+<p>The move by Jack Smith, the special counsel, is one of the most aggressive in his investigation of Donald Trump’s efforts to stay in power and is likely to lead to a battle over executive privilege.  <a href="https://nyti.ms/3XlJdbx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘No More Antakya’: Turks Say Quake Wiped Out a City, and a Civilization</h3>
 <sub>By Vivian Yee and Nimet Kirac</sub>
@@ -93,15 +93,15 @@ There are a lot of interesting events happening right now that have been in the 
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After fleeing civil war at home, a Syrian family is displaced yet again.</h3>
-<sub>By Tolga Ildun</sub>
-<p>  <a href="https://nyti.ms/3HShsRQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>With So Many Dead in Turkey, Families Forced to Rush Funeral Rites</h3>
+<sub>By Ben Hubbard and Safak Timur</sub>
+<p>The earthquake that hit in southern Turkey has killed more than 17,500 people there, overwhelming the traditional funeral process and accelerating how families say goodbye.  <a href="https://nyti.ms/40JmxVm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Officials Had Repeated Contact With College Board Over African American Studies</h3>
-<sub>By Dana Goldstein, Stephanie Saul and Anemona Hartocollis</sub>
-<p>A letter from state officials is likely to fuel controversy over the College Board, which has been accused of stripping or minimizing concepts to please conservatives.  <a href="https://nyti.ms/3Ie4Xlk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.N. Aid Chief Heads to Earthquake Zone as Death Toll Passes 20,000</h3>
+<sub>By Mike Ives, Raja Abdulrahim, Farnaz Fassihi and Anushka Patil</sub>
+<p>Martin Griffiths, the United Nations humanitarian chief, said he was on his way to visit parts of Turkey and Syria affected by an earthquake that has killed more than 20,000 people.  <a href="https://nyti.ms/3HSPoxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,28 +110,28 @@ There are a lot of interesting events happening right now that have been in the 
 <p>President Volodymyr Zelensky, in only his second trip outside Ukraine since the conflict began, told European lawmakers that his country’s war against Russia was a defense of all Europe.  <a href="https://nyti.ms/3RPHA4o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Influence Networks in Russia Misled European Users, TikTok Says</h3>
-<sub>By Tiffany Hsu</sub>
-<p>The covert and coordinated campaign was disclosed in a new report that also addressed misinformation, fake accounts and moderation struggles.  <a href="https://nyti.ms/3jJhSlC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘They’re Hunting Me.’ Life as a Ukrainian Mayor on the Front Line</h3>
+<sub>By Jeffrey Gettleman and Ivor Prickett</sub>
+<p>Being the leader of Kherson may feel more like a curse than an honor. But one woman isn’t giving up, even though the Russians are sitting just across the river and shelling her city nearly every hour.  <a href="https://nyti.ms/3xcgcEk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Recession? Some Economists See Chances of a Growth Rebound.</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve has raised rates rapidly. But instead of cracking, some data point to an economy that’s thriving.  <a href="https://nyti.ms/3IcdGUZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Big Brands Keep Raising Prices, With Limited Shopper Resistance</h3>
-<sub>By Isabella Simonetti</sub>
-<p>Consumers continue to absorb significant price increases by PepsiCo, Unilever and others. The companies say prices will remain high in the months to come.  <a href="https://nyti.ms/3RPssV2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Florida Officials Had Repeated Contact With College Board Over African American Studies</h3>
+<sub>By Dana Goldstein, Stephanie Saul and Anemona Hartocollis</sub>
+<p>A letter from state officials is likely to fuel controversy over the College Board, which has been accused of stripping or minimizing concepts to please conservatives.  <a href="https://nyti.ms/3Ie4Xlk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Burt Bacharach, Composer Who Added a High Gloss to the ’60s, Dies at 94</h3>
 <sub>By Stephen Holden</sub>
 <p>His sophisticated collaborations with the lyricist Hal David — “The Look of Love,” “Walk On By,” “Alfie” and many more hits — evoked a sleek era of airy romance.  <a href="https://nyti.ms/3Xr6DfG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Court Cases Now in Limbo in Wake of Memphis Police Abuses</h3>
+<sub>By Jessica Jaglois and Emily Cochrane</sub>
+<p>The Shelby County District Attorney’s Office will review cases involving the five officers charged in the death of Tyre Nichols and could look back at hundreds of others involving its now-disbanded Scorpion unit.  <a href="https://nyti.ms/3jO4pZU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
