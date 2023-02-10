@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 9, Central Standard Time</p>
 <p>
-Right now, there’s rising tension between the U.S. and China amid news that Chinese balloons are trailing more than 40 countries in surveillance missions and directed by the military. In Turks, an earthquake has wiped out a city and its civilization, and some aid is trickling into Syria but not enough for many. On a brighter note, some economists think the U.S. economy could be headed for a growth rebound, and many big brands are raising prices without much shopper resistance.</p>
+There are a lot of interesting events happening right now that have been in the news. In the US, Vice President Pence has been subpoenaed by a special counsel as they investigate Donald Trump’s attempts to stay in power after his presidency ended. Also, the US State Department reported Chinese surveillance balloons collecting electronic communications over 40 countries. In Europe, President Zelensky of Ukraine gave a speech to European leaders about how their fate is tied to successes in Ukraine against Russia. There have also been economic trends here at home: some economists see a potential for growth rebound despite rising interest rates, and large companies are continuing to raise prices with minimal resistance from customers. Finally, Burt Bacharach, an iconic composer from the 60s, passed away at 94.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pence Gets Subpoena From Special Counsel in Jan. 6 Investigation</h3>
+<sub>By Maggie Haberman and Glenn Thrush</sub>
+<p>The move by Jack Smith, the special counsel, is one of the most aggressive in his investigation of Donald Trump’s efforts to stay in power and is likely to lead to a battle over executive privilege.  <a href="https://nyti.ms/3XlJdbx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chinese Balloon Had Tools to Collect Electronic Communications, U.S. Says</h3>
 <sub>By Edward Wong and Julian E. Barnes</sub>
@@ -80,28 +86,16 @@ Right now, there’s rising tension between the U.S. and China amid news that Ch
 <p>Here is what we know about the balloon.  <a href="https://nyti.ms/3YbGOBj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Gets Subpoena From Special Counsel in Jan. 6 Investigation</h3>
-<sub>By Maggie Haberman and Glenn Thrush</sub>
-<p>The move by Jack Smith, the special counsel, is one of the most aggressive in his investigation of Donald Trump’s efforts to stay in power and is likely to lead to a battle over executive privilege.  <a href="https://nyti.ms/3XlJdbx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘No More Antakya’: Turks Say Quake Wiped Out a City, and a Civilization</h3>
 <sub>By Vivian Yee and Nimet Kirac</sub>
 <p>Amid scenes of utter devastation and widespread suffering in the bitter cold, residents mourned the loss of family, friends and memories.  <a href="https://nyti.ms/3IcnYUX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-video-blue" alt="">
-<h3>In Southern Turkey, a Parking Lot Becomes an Open-Air Morgue</h3>
-<sub>By Tolga Ildun, Yousur Al-Hlou and Mark Boyer</sub>
-<p>Hundreds of families searched for deceased relatives at a makeshift morgue outside a hospital in Turkey’s hardest-hit region.  <a href="https://nyti.ms/40GrwGm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Aid Trickles Into Syria, Residents Say Too Little, Too Late</h3>
-<sub>By Cora Engelbrecht, Hwaida Saad and Raja Abdulrahim</sub>
-<p>“Some people under ruins are sharing their wills with the team,” said one rescue worker. “They share names of their loved ones, then they die.”  <a href="https://nyti.ms/3jMddPW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After fleeing civil war at home, a Syrian family is displaced yet again.</h3>
+<sub>By Tolga Ildun</sub>
+<p>  <a href="https://nyti.ms/3HShsRQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ Right now, there’s rising tension between the U.S. and China amid news that Ch
 <h3>Big Brands Keep Raising Prices, With Limited Shopper Resistance</h3>
 <sub>By Isabella Simonetti</sub>
 <p>Consumers continue to absorb significant price increases by PepsiCo, Unilever and others. The companies say prices will remain high in the months to come.  <a href="https://nyti.ms/3RPssV2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Burt Bacharach, Composer Who Added a High Gloss to the ’60s, Dies at 94</h3>
+<sub>By Stephen Holden</sub>
+<p>His sophisticated collaborations with the lyricist Hal David — “The Look of Love,” “Walk On By,” “Alfie” and many more hits — evoked a sleek era of airy romance.  <a href="https://nyti.ms/3Xr6DfG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
