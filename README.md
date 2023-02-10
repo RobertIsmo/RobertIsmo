@@ -60,25 +60,29 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 10, Central Standard Time</p>
 <p>
-It looks like there&#39;s been some turmoil in the world lately. In Russia, they&#39;re talking about reducing their oil production by 5% due to Western sanctions. Ukraine is also claiming that two Russian missiles crossed into their airspace from Romania. In Turkey, there was an earthquake that damaged or destroyed nearly 200 buildings and killed around 22,000 people. The government is struggling to bring relief aid because of zones of control the years of war have left behind. Many Turkish families are being forced to rush funeral rites due to the high death toll. Here in the US, former President Donald Trump is being investigated by a special counsel and Vice President Mike Pence is being subpoenaed in connection to the January 6th Capitol riots. Finally, at the Super Bowl this year we saw two Black quarterbacks - Jalen Hurts and Patrick Mahomes - face off against each other. It&#39;s looking like our odds are likely with Kansas City at this point, but it&#39;s hard to tell with the teams so equally matched.</p>
+Recently, there has been a lot of unrest in Ukraine as both sides prepare to attack after months of slowly escalating fighting. Russia has responded by cutting oil output in response to Western sanctions, which has caused the price of oil to go up. To add to the instability, the prime minister of Moldova, a neighbor of Ukraine that is also affected by the war, recently stepped down.
+
+In Turkey, an earthquake caused massive destruction and the death toll surpasses 22,000 amidst a struggle to provide aid to the victims. Closer to home, the FBI is searching VP Mike Pence&#39;s home in Indiana. Additionally, Jinger Duggar Vuolo revisited her religious upbringing and became a powerful voice for young adults re-examining their conservative Christian childhoods.
+
+Congressman Fetterman is recovering from a near-fatal stroke and adapting to life in the Senate as legislature adapts to accommodate him. Meanwhile, some conservatives have embraced a new kind of welfare policy that pushes Republicans away from Reagan-era family policy and towards providing direct cash support for families. Other Republicans have targeted press freedom by aiming to roll back Supreme Court decisions that protect journalists from defamation accusations. Lastly, electric vehicles are becoming more affordable this year thanks to competition and government incentives.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The War’s Violent Next Stage</h3>
+<sub>By Marc Santora, Josh Holder, Marco Hernandez and Andrew E. Kramer</sub>
+<p>Both sides are preparing to attack after months of slow-moving fighting. Russia is moving first. Here’s how each side is trying to shape the critical next few months in Ukraine.  <a href="https://nyti.ms/3HQooiv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Oil Prices Rise on Talk of Russian Output Cut</h3>
+<h3>Russia to Cut Oil Output in Response to Western Sanctions</h3>
 <sub>By Stanley Reed</sub>
-<p>Russia’s deputy prime minister said the country would reduce its oil production by about 5 percent to counter Western sanctions.  <a href="https://nyti.ms/3ltfL5S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Russia’s deputy prime minister said the country would reduce its oil production by about 5 percent, an announcement that sent the price of oil higher.  <a href="https://nyti.ms/3ltfL5S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Romania says a Russian missile didn’t enter its airspace, countering a Ukrainian claim.</h3>
-<sub>By Marc Santora and Monika Pronczuk</sub>
-<p>Ukraine’s top military commander had earlier said that two Russian missiles crossed into the airspace of Moldova and Romania before entering Ukraine  <a href="https://nyti.ms/3IdzejT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The prime minister of Moldova, a Ukrainian neighbor rattled by the war, steps down.</h3>
+<sub>By Andrew Higgins</sub>
+<p>Natalia Gavrilita had been prime minister since 2021, when she took charge of the government after elections gave a strong majority in Parliament to pro-Western politicians.  <a href="https://nyti.ms/3XglMjP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘They’re Hunting Me.’ Life as a Ukrainian Mayor on the Front Line</h3>
-<sub>By Jeffrey Gettleman and Ivor Prickett</sub>
-<p>Being the leader of Kherson may feel more like a curse than an honor. But one woman isn’t giving up, even though the Russians are sitting just across the river and shelling her city nearly every hour.  <a href="https://nyti.ms/3xcgcEk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What the Earthquake Destroyed in the Heart of One Turkish City</h3>
@@ -87,33 +91,21 @@ It looks like there&#39;s been some turmoil in the world lately. In Russia, they
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Quake Death Toll Surpasses 22,000 Amid Struggle to Get Aid to Syria</h3>
-<sub>By Cora Engelbrecht and Mike Ives</sub>
+<h3>Quake Death Toll Surpasses 22,000 Amid Struggle to Get Aid to Quake’s Victims</h3>
+<sub>By Cora Engelbrecht, Hwaida Saad and Raja Abdulrahim</sub>
 <p>Only a trickle of humanitarian aid has reached the devastated parts of Syria because years of war have carved the country into zones of control that impede deliveries.  <a href="https://nyti.ms/3HSPoxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With So Many Dead in Turkey, Families Forced to Rush Funeral Rites</h3>
-<sub>By Ben Hubbard and Safak Timur</sub>
-<p>The earthquake that hit in southern Turkey has killed more than 17,500 people there, overwhelming the traditional funeral process and accelerating how families say goodbye.  <a href="https://nyti.ms/40JmxVm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Gets Subpoena From Special Counsel in Jan. 6 Investigation</h3>
+<h3>F.B.I. Is Searching Pence’s Home in Indiana</h3>
 <sub>By Maggie Haberman and Glenn Thrush</sub>
-<p>The move by Jack Smith, the special counsel, is one of the most aggressive in his investigation of Donald Trump’s efforts to stay in power and is likely to lead to a battle over executive privilege.  <a href="https://nyti.ms/3XlJdbx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The New York City Mixtape</h3>
-<sub>By David Gonzalez and Photographs By Todd Heisler</sub>
-<p>From bars and clubs to parks and sidewalks, you can hear a global soundtrack, music brought by immigrants and remixed and remade, like the musicians themselves.  <a href="https://nyti.ms/3HMtr3r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<p>Aides to former Vice President Mike Pence agreed to the search after discussions with the Justice Department.  <a href="https://nyti.ms/3IbzL51"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Post-Roe World, These Conservatives Embrace a New Kind of Welfare</h3>
-<sub>By Dana Goldstein</sub>
-<p>Some conservative thinkers are pushing Republicans to move on from Reagan-era family policy and send cash to families. A few lawmakers are listening.  <a href="https://nyti.ms/3YJInGF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Duggar Revisits Her Religious Upbringing</h3>
+<sub>By Ruth Graham</sub>
+<p>Jinger Duggar Vuolo, who was one of 19 children on a popular reality show, becomes a powerful voice in a trend of young adults re-examining their own conservative Christian childhoods.  <a href="https://nyti.ms/3DXpyHI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,17 +114,29 @@ It looks like there&#39;s been some turmoil in the world lately. In Russia, they
 <p>The first-term Democrat is adapting to Congress while coping with the lasting effects of a near-fatal stroke, and the institution is adapting to accommodate him.  <a href="https://nyti.ms/3YkWmmp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Hurts and Mahomes Show There’s More Than One Way to a Super Bowl</h3>
-<sub>By Emmanuel Morgan and Kris Rhim</sub>
-<p>Philadelphia’s Jalen Hurts and Kansas City’s Patrick Mahomes played different styles successfully on the way to becoming the first two Black quarterbacks to face each other in a Super Bowl.  <a href="https://nyti.ms/3Ymv5Qn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Post-Roe World, These Conservatives Embrace a New Kind of Welfare</h3>
+<sub>By Dana Goldstein</sub>
+<p>Some conservative thinkers are pushing Republicans to move on from Reagan-era family policy and send cash to families. A few lawmakers are listening.  <a href="https://nyti.ms/3YJInGF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>2023 Super Bowl Prediction: Our Pick Against the Spread</h3>
-<sub>By David Hill</sub>
-<p>Philadelphia and Kansas City, both conference’s top seeds, are so evenly matched that injuries to Patrick Mahomes and his receivers, up against the Eagles’ turnover-forcing defense, may provide an edge.  <a href="https://nyti.ms/3loTc2a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis, Aiming at a Favorite Foil, Wants to Roll Back Press Freedom</h3>
+<sub>By Ken Bensinger</sub>
+<p>The Florida governor and possible presidential candidate is the latest in a string of Republicans to target the Supreme Court decision that has long protected journalists accused of defamation.  <a href="https://nyti.ms/3YmXN3N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Federal Cash Flows to Unions, Democrats Hope to Reap the Rewards</h3>
+<sub>By Jonathan Weisman</sub>
+<p>In places like West Virginia, money from three major laws passed by Congress is pouring into the alternative energy industry and other projects. “I think it’s a renaissance for the labor movement,” said one union official.  <a href="https://nyti.ms/3HStV8a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Electric Vehicles Could Match Gasoline Cars on Price This Year</h3>
+<sub>By Jack Ewing</sub>
+<p>Competition, government incentives and falling raw material prices are making battery-powered cars more affordable sooner than expected.  <a href="https://nyti.ms/3K36VGx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
