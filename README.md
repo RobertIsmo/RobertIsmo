@@ -60,30 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 10, Central Standard Time</p>
 <p>
-There&#39;s a lot of international news at the moment! The US has accused the Chinese military of using surveillance balloons to collect electronic communications over more than 40 countries. This is leading to tension between the two superpowers. In the US, Mike Pence has been subpoenaed as part of an investigation into the attack on the Capitol on January 6th, and there&#39;s controversy around the College Board&#39;s African American Studies course. Meanwhile, there&#39;s been a devastating earthquake in Turkey that has killed more than 20,000 people and destroyed much of the area. Finally, composer Burt Bacharach recently passed away at 94 years old; he is remembered for his collaborations with Hal David in creating some of the most iconic songs of the 1960s.</p>
+Well, there&#39;s been a devastating earthquake in southern Turkey that has killed over 21,000 people and damaged or destroyed around 200 buildings in the city of Kahramanmaras. In Romania, officials are denying that a Russian missile entered their airspace, which conflicts with a Ukrainian claim that it did. And in Kherson just across the river from Russia, life is dangerous for the mayor because the city is being shelled by the Russians nearly every hour.
+
+In the US news, the special counsel investigating events from January 6th has subpoenaed Vice President Pence. There&#39;s also an interesting debate about welfare policy in conservative circles; some think it&#39;s time to move away from Reagan-era policies and send cash directly to families in need. There are also a lot of workers who are fighting the opioid crisis but they&#39;re severely underfunded and struggling to stay afloat.
+
+Finally, it looks like we&#39;ll be seeing two different styles of QB play at the Super Bowl this year since Hurts and Mahomes face off as two of the first Black quarterbacks to go head to head in the big game.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chinese Balloon Had Tools to Collect Electronic Communications, U.S. Says</h3>
-<sub>By Edward Wong and Julian E. Barnes</sub>
-<p>China’s surveillance balloons have flown over more than 40 countries and are directed by the Chinese military, the State Department said. The F.B.I. is studying debris.  <a href="https://nyti.ms/3YV4Twn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Not Just a Silly Balloon’: Dismay and Fear Over Another U.S.-China Clash</h3>
-<sub>By Damien Cave</sub>
-<p>A big white orb has pushed the rival superpowers back to diplomatic distance, showing that peace may be frighteningly fragile.  <a href="https://nyti.ms/3RMlYWF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Was the Chinese Spy Balloon Trying to Collect?</h3>
-<sub>By Julian E. Barnes</sub>
-<p>Here is what we know about the balloon.  <a href="https://nyti.ms/3YbGOBj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Gets Subpoena From Special Counsel in Jan. 6 Investigation</h3>
-<sub>By Maggie Haberman and Glenn Thrush</sub>
-<p>The move by Jack Smith, the special counsel, is one of the most aggressive in his investigation of Donald Trump’s efforts to stay in power and is likely to lead to a battle over executive privilege.  <a href="https://nyti.ms/3XlJdbx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What the Earthquake Destroyed in the Heart of One Turkish City</h3>
+<sub>By Leanne Abraham, Agnes Chang, Lauren Leatherby, Scott Reinhard, Pablo Robles, Julie Shaver and Ashley Wu</sub>
+<p>The Times identified nearly 200 buildings, many of them eight or more stories tall, in central Kahramanmaras that were damaged or destroyed.  <a href="https://nyti.ms/3HRSVfJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,16 +85,22 @@ There&#39;s a lot of international news at the moment! The US has accused the Ch
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.N. Aid Chief Heads to Earthquake Zone as Death Toll Passes 20,000</h3>
+<h3>U.N. Aid Chief Heads to Earthquake Zone as Death Toll Passes 21,000</h3>
 <sub>By Mike Ives, Raja Abdulrahim, Farnaz Fassihi and Anushka Patil</sub>
-<p>Martin Griffiths, the United Nations humanitarian chief, said he was on his way to visit parts of Turkey and Syria affected by an earthquake that has killed more than 20,000 people.  <a href="https://nyti.ms/3HSPoxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Martin Griffiths will visit the cities of Aleppo and Damascus in Syria, and Gaziantep in Turkey. The number of victims continued to rise, making the quake one of the deadliest worldwide in decades.  <a href="https://nyti.ms/3HSPoxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pence Gets Subpoena From Special Counsel in Jan. 6 Investigation</h3>
+<sub>By Maggie Haberman and Glenn Thrush</sub>
+<p>The move by Jack Smith, the special counsel, is one of the most aggressive in his investigation of Donald Trump’s efforts to stay in power and is likely to lead to a battle over executive privilege.  <a href="https://nyti.ms/3XlJdbx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Speech to E.U. Leaders, Zelensky Links Europe to Ukraine’s Fate</h3>
-<sub>By Matina Stevis-Gridneff and Marc Santora</sub>
-<p>President Volodymyr Zelensky, in only his second trip outside Ukraine since the conflict began, told European lawmakers that his country’s war against Russia was a defense of all Europe.  <a href="https://nyti.ms/3RPHA4o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<h3>Romania says a Russian missile didn’t enter its airspace, countering a Ukrainian claim.</h3>
+<sub>By Marc Santora and Monika Pronczuk</sub>
+<p>Ukraine’s top military commander had earlier said that two Russian missiles crossed into the airspace of Moldova and Romania before entering Ukraine  <a href="https://nyti.ms/3IdzejT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘They’re Hunting Me.’ Life as a Ukrainian Mayor on the Front Line</h3>
@@ -116,23 +108,35 @@ There&#39;s a lot of international news at the moment! The US has accused the Ch
 <p>Being the leader of Kherson may feel more like a curse than an honor. But one woman isn’t giving up, even though the Russians are sitting just across the river and shelling her city nearly every hour.  <a href="https://nyti.ms/3xcgcEk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Officials Had Repeated Contact With College Board Over African American Studies</h3>
-<sub>By Dana Goldstein, Stephanie Saul and Anemona Hartocollis</sub>
-<p>A letter from state officials is likely to fuel controversy over the College Board, which has been accused of stripping or minimizing concepts to please conservatives.  <a href="https://nyti.ms/3Ie4Xlk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Burt Bacharach, Composer Who Added a High Gloss to the ’60s, Dies at 94</h3>
-<sub>By Stephen Holden</sub>
-<p>His sophisticated collaborations with the lyricist Hal David — “The Look of Love,” “Walk On By,” “Alfie” and many more hits — evoked a sleek era of airy romance.  <a href="https://nyti.ms/3Xr6DfG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The New York City Mixtape</h3>
+<sub>By David Gonzalez and Photographs By Todd Heisler</sub>
+<p>From bars and clubs to parks and sidewalks, you can hear a global soundtrack, music brought by immigrants and remixed and remade, like the musicians themselves.  <a href="https://nyti.ms/3HMtr3r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Court Cases Now in Limbo in Wake of Memphis Police Abuses</h3>
-<sub>By Jessica Jaglois and Emily Cochrane</sub>
-<p>The Shelby County District Attorney’s Office will review cases involving the five officers charged in the death of Tyre Nichols and could look back at hundreds of others involving its now-disbanded Scorpion unit.  <a href="https://nyti.ms/3jO4pZU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<h3>In Post-Roe World, These Conservatives Embrace a New Kind of Welfare</h3>
+<sub>By Dana Goldstein</sub>
+<p>Some conservative thinkers are pushing Republicans to move on from Reagan-era family policy and send cash to families. A few lawmakers are listening.  <a href="https://nyti.ms/3YJInGF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fetterman, Recovering After Stroke, Labors to Adjust to Life in the Senate</h3>
+<sub>By Annie Karni</sub>
+<p>The first-term Democrat is adapting to Congress while coping with the lasting effects of a near-fatal stroke, and the institution is adapting to accommodate him.  <a href="https://nyti.ms/3YkWmmp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Workers Fighting America’s Overdose Crisis Are ‘Hanging by a Thread’</h3>
+<sub>By Noah Weiland</sub>
+<p>President Biden has endorsed “harm reduction,” which aims to cut down on overdoses by encouraging safer drug use. But the organizations carrying out that strategy are severely underfunded.  <a href="https://nyti.ms/3IdcBw0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Hurts and Mahomes Show There’s More Than One Way to a Super Bowl</h3>
+<sub>By Emmanuel Morgan and Kris Rhim</sub>
+<p>Philadelphia’s Jalen Hurts and Kansas City’s Patrick Mahomes played different styles successfully on the way to becoming the first two Black quarterbacks to face each other in a Super Bowl.  <a href="https://nyti.ms/3Ymv5Qn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
