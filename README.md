@@ -60,41 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 10, Central Standard Time</p>
 <p>
-Well, there&#39;s been a devastating earthquake in southern Turkey that has killed over 21,000 people and damaged or destroyed around 200 buildings in the city of Kahramanmaras. In Romania, officials are denying that a Russian missile entered their airspace, which conflicts with a Ukrainian claim that it did. And in Kherson just across the river from Russia, life is dangerous for the mayor because the city is being shelled by the Russians nearly every hour.
-
-In the US news, the special counsel investigating events from January 6th has subpoenaed Vice President Pence. There&#39;s also an interesting debate about welfare policy in conservative circles; some think it&#39;s time to move away from Reagan-era policies and send cash directly to families in need. There are also a lot of workers who are fighting the opioid crisis but they&#39;re severely underfunded and struggling to stay afloat.
-
-Finally, it looks like we&#39;ll be seeing two different styles of QB play at the Super Bowl this year since Hurts and Mahomes face off as two of the first Black quarterbacks to go head to head in the big game.</p>
+It looks like there&#39;s been some turmoil in the world lately. In Russia, they&#39;re talking about reducing their oil production by 5% due to Western sanctions. Ukraine is also claiming that two Russian missiles crossed into their airspace from Romania. In Turkey, there was an earthquake that damaged or destroyed nearly 200 buildings and killed around 22,000 people. The government is struggling to bring relief aid because of zones of control the years of war have left behind. Many Turkish families are being forced to rush funeral rites due to the high death toll. Here in the US, former President Donald Trump is being investigated by a special counsel and Vice President Mike Pence is being subpoenaed in connection to the January 6th Capitol riots. Finally, at the Super Bowl this year we saw two Black quarterbacks - Jalen Hurts and Patrick Mahomes - face off against each other. It&#39;s looking like our odds are likely with Kansas City at this point, but it&#39;s hard to tell with the teams so equally matched.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What the Earthquake Destroyed in the Heart of One Turkish City</h3>
-<sub>By Leanne Abraham, Agnes Chang, Lauren Leatherby, Scott Reinhard, Pablo Robles, Julie Shaver and Ashley Wu</sub>
-<p>The Times identified nearly 200 buildings, many of them eight or more stories tall, in central Kahramanmaras that were damaged or destroyed.  <a href="https://nyti.ms/3HRSVfJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘No More Antakya’: Turks Say Quake Wiped Out a City, and a Civilization</h3>
-<sub>By Vivian Yee and Nimet Kirac</sub>
-<p>Amid scenes of utter devastation and widespread suffering in the bitter cold, residents mourned the loss of family, friends and memories.  <a href="https://nyti.ms/3IcnYUX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With So Many Dead in Turkey, Families Forced to Rush Funeral Rites</h3>
-<sub>By Ben Hubbard and Safak Timur</sub>
-<p>The earthquake that hit in southern Turkey has killed more than 17,500 people there, overwhelming the traditional funeral process and accelerating how families say goodbye.  <a href="https://nyti.ms/40JmxVm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.N. Aid Chief Heads to Earthquake Zone as Death Toll Passes 21,000</h3>
-<sub>By Mike Ives, Raja Abdulrahim, Farnaz Fassihi and Anushka Patil</sub>
-<p>Martin Griffiths will visit the cities of Aleppo and Damascus in Syria, and Gaziantep in Turkey. The number of victims continued to rise, making the quake one of the deadliest worldwide in decades.  <a href="https://nyti.ms/3HSPoxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Gets Subpoena From Special Counsel in Jan. 6 Investigation</h3>
-<sub>By Maggie Haberman and Glenn Thrush</sub>
-<p>The move by Jack Smith, the special counsel, is one of the most aggressive in his investigation of Donald Trump’s efforts to stay in power and is likely to lead to a battle over executive privilege.  <a href="https://nyti.ms/3XlJdbx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Oil Prices Rise on Talk of Russian Output Cut</h3>
+<sub>By Stanley Reed</sub>
+<p>Russia’s deputy prime minister said the country would reduce its oil production by about 5 percent to counter Western sanctions.  <a href="https://nyti.ms/3ltfL5S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Romania says a Russian missile didn’t enter its airspace, countering a Ukrainian claim.</h3>
@@ -106,6 +78,30 @@ Finally, it looks like we&#39;ll be seeing two different styles of QB play at th
 <h3>‘They’re Hunting Me.’ Life as a Ukrainian Mayor on the Front Line</h3>
 <sub>By Jeffrey Gettleman and Ivor Prickett</sub>
 <p>Being the leader of Kherson may feel more like a curse than an honor. But one woman isn’t giving up, even though the Russians are sitting just across the river and shelling her city nearly every hour.  <a href="https://nyti.ms/3xcgcEk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What the Earthquake Destroyed in the Heart of One Turkish City</h3>
+<sub>By Leanne Abraham, Agnes Chang, Lauren Leatherby, Scott Reinhard, Pablo Robles, Ashley Wu and Julie Walton Shaver</sub>
+<p>The Times identified nearly 200 buildings, many of them eight or more stories tall, in central Kahramanmaras that were damaged or destroyed.  <a href="https://nyti.ms/3HRSVfJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Quake Death Toll Surpasses 22,000 Amid Struggle to Get Aid to Syria</h3>
+<sub>By Cora Engelbrecht and Mike Ives</sub>
+<p>Only a trickle of humanitarian aid has reached the devastated parts of Syria because years of war have carved the country into zones of control that impede deliveries.  <a href="https://nyti.ms/3HSPoxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With So Many Dead in Turkey, Families Forced to Rush Funeral Rites</h3>
+<sub>By Ben Hubbard and Safak Timur</sub>
+<p>The earthquake that hit in southern Turkey has killed more than 17,500 people there, overwhelming the traditional funeral process and accelerating how families say goodbye.  <a href="https://nyti.ms/40JmxVm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pence Gets Subpoena From Special Counsel in Jan. 6 Investigation</h3>
+<sub>By Maggie Haberman and Glenn Thrush</sub>
+<p>The move by Jack Smith, the special counsel, is one of the most aggressive in his investigation of Donald Trump’s efforts to stay in power and is likely to lead to a battle over executive privilege.  <a href="https://nyti.ms/3XlJdbx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -126,17 +122,17 @@ Finally, it looks like we&#39;ll be seeing two different styles of QB play at th
 <p>The first-term Democrat is adapting to Congress while coping with the lasting effects of a near-fatal stroke, and the institution is adapting to accommodate him.  <a href="https://nyti.ms/3YkWmmp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Workers Fighting America’s Overdose Crisis Are ‘Hanging by a Thread’</h3>
-<sub>By Noah Weiland</sub>
-<p>President Biden has endorsed “harm reduction,” which aims to cut down on overdoses by encouraging safer drug use. But the organizations carrying out that strategy are severely underfunded.  <a href="https://nyti.ms/3IdcBw0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Hurts and Mahomes Show There’s More Than One Way to a Super Bowl</h3>
 <sub>By Emmanuel Morgan and Kris Rhim</sub>
 <p>Philadelphia’s Jalen Hurts and Kansas City’s Patrick Mahomes played different styles successfully on the way to becoming the first two Black quarterbacks to face each other in a Super Bowl.  <a href="https://nyti.ms/3Ymv5Qn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>2023 Super Bowl Prediction: Our Pick Against the Spread</h3>
+<sub>By David Hill</sub>
+<p>Philadelphia and Kansas City, both conference’s top seeds, are so evenly matched that injuries to Patrick Mahomes and his receivers, up against the Eagles’ turnover-forcing defense, may provide an edge.  <a href="https://nyti.ms/3loTc2a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
