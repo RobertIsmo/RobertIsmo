@@ -60,28 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 10, Central Standard Time</p>
 <p>
-Recently, there has been a lot of unrest in Ukraine as both sides prepare to attack after months of slowly escalating fighting. Russia has responded by cutting oil output in response to Western sanctions, which has caused the price of oil to go up. To add to the instability, the prime minister of Moldova, a neighbor of Ukraine that is also affected by the war, recently stepped down.
-
-In Turkey, an earthquake caused massive destruction and the death toll surpasses 22,000 amidst a struggle to provide aid to the victims. Closer to home, the FBI is searching VP Mike Pence&#39;s home in Indiana. Additionally, Jinger Duggar Vuolo revisited her religious upbringing and became a powerful voice for young adults re-examining their conservative Christian childhoods.
-
-Congressman Fetterman is recovering from a near-fatal stroke and adapting to life in the Senate as legislature adapts to accommodate him. Meanwhile, some conservatives have embraced a new kind of welfare policy that pushes Republicans away from Reagan-era family policy and towards providing direct cash support for families. Other Republicans have targeted press freedom by aiming to roll back Supreme Court decisions that protect journalists from defamation accusations. Lastly, electric vehicles are becoming more affordable this year thanks to competition and government incentives.</p>
+Things have been a bit tense around the world lately. The US recently shot down an object over Alaska, and there&#39;s been some tensions between the US and China after a US fighter jet shot down a Chinese spy balloon over the Atlantic. Meanwhile, in Ukraine, both sides are preparing to attack after months of slow-moving fighting while Russia is making its own move first. On an unrelated note, there was a huge earthquake in Turkey that destroyed many buildings in its central city, leaving thousands of people without much access to aid due to the country&#39;s war zones. And here in the US, former Vice President Mike Pence&#39;s home was searched by the FBI for classified documents and a special counsel inquiry has started looking into how classified documents appear to have been moved from the White House to a Biden think tank. Also, Jinger Duggar Vuolo has become quite the voice in examining conservative Christian childhoods as Senator Fetterman tries to adjust his life after suffering from a stroke. Finally, the Nets are making headlines for their team failure with Kyrie Irving and Kevin Durant at its center, while Governor DeSantis is gaining control over Disney World&#39;s tax board.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pentagon Shot Down Object Over Alaska, U.S. Officials Say</h3>
+<sub>By Helene Cooper, Julian E. Barnes and Edward Wong</sub>
+<p>The incident comes less than a week after a U.S. fighter jet shot down a Chinese spy balloon over the Atlantic.  <a href="https://nyti.ms/3YI3tFm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China, Still Trying to Play Down Balloon, Finds It’s Getting Harder to Do</h3>
+<sub>By Vivian Wang</sub>
+<p>Beijing has accused the United States of waging “information and public opinion warfare.” But analysts say a lack of credible messaging from China is not helping.  <a href="https://nyti.ms/3IfemsG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The War’s Violent Next Stage</h3>
 <sub>By Marc Santora, Josh Holder, Marco Hernandez and Andrew E. Kramer</sub>
 <p>Both sides are preparing to attack after months of slow-moving fighting. Russia is moving first. Here’s how each side is trying to shape the critical next few months in Ukraine.  <a href="https://nyti.ms/3HQooiv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Russia to Cut Oil Output in Response to Western Sanctions</h3>
-<sub>By Stanley Reed</sub>
-<p>Russia’s deputy prime minister said the country would reduce its oil production by about 5 percent, an announcement that sent the price of oil higher.  <a href="https://nyti.ms/3ltfL5S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The prime minister of Moldova, a Ukrainian neighbor rattled by the war, steps down.</h3>
-<sub>By Andrew Higgins</sub>
-<p>Natalia Gavrilita had been prime minister since 2021, when she took charge of the government after elections gave a strong majority in Parliament to pro-Western politicians.  <a href="https://nyti.ms/3XglMjP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden plans to visit Poland for the anniversary of the start of the war.</h3>
+<sub>By Michael D. Shear</sub>
+<p>The president will be in the region for three days, but the White House did not say if he would make a trip into Ukraine.  <a href="https://nyti.ms/3JZrKCz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -91,15 +93,21 @@ Congressman Fetterman is recovering from a near-fatal stroke and adapting to lif
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Quake Death Toll Surpasses 22,000 Amid Struggle to Get Aid to Quake’s Victims</h3>
+<h3>Quake Death Toll Surpasses 23,000 Amid Struggle to Get Aid to Quake’s Victims</h3>
 <sub>By Cora Engelbrecht, Hwaida Saad and Raja Abdulrahim</sub>
 <p>Only a trickle of humanitarian aid has reached the devastated parts of Syria because years of war have carved the country into zones of control that impede deliveries.  <a href="https://nyti.ms/3HSPoxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>F.B.I. Is Searching Pence’s Home in Indiana</h3>
+<h3>F.B.I. Found One Classified Document After Searching Pence’s Home</h3>
 <sub>By Maggie Haberman and Glenn Thrush</sub>
 <p>Aides to former Vice President Mike Pence agreed to the search after discussions with the Justice Department.  <a href="https://nyti.ms/3IbzL51"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How the Hasty Packing of Biden Papers Led to a Special Counsel Inquiry</h3>
+<sub>By Michael S. Schmidt</sub>
+<p>Two aides played pivotal roles in how the classified documents appear to have gotten from the White House to a Biden think tank, where they were discovered years later.  <a href="https://nyti.ms/3YJGJor"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,28 +122,16 @@ Congressman Fetterman is recovering from a near-fatal stroke and adapting to lif
 <p>The first-term Democrat is adapting to Congress while coping with the lasting effects of a near-fatal stroke, and the institution is adapting to accommodate him.  <a href="https://nyti.ms/3YkWmmp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Post-Roe World, These Conservatives Embrace a New Kind of Welfare</h3>
-<sub>By Dana Goldstein</sub>
-<p>Some conservative thinkers are pushing Republicans to move on from Reagan-era family policy and send cash to families. A few lawmakers are listening.  <a href="https://nyti.ms/3YJInGF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis, Aiming at a Favorite Foil, Wants to Roll Back Press Freedom</h3>
-<sub>By Ken Bensinger</sub>
-<p>The Florida governor and possible presidential candidate is the latest in a string of Republicans to target the Supreme Court decision that has long protected journalists accused of defamation.  <a href="https://nyti.ms/3YmXN3N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Federal Cash Flows to Unions, Democrats Hope to Reap the Rewards</h3>
-<sub>By Jonathan Weisman</sub>
-<p>In places like West Virginia, money from three major laws passed by Congress is pouring into the alternative energy industry and other projects. “I think it’s a renaissance for the labor movement,” said one union official.  <a href="https://nyti.ms/3HStV8a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Nets Fell Apart From the Top</h3>
+<sub>By Sopan Deb</sub>
+<p>Kyrie Irving and Kevin Durant have become the faces of their superteam’s failure, but the Nets leadership could have averted disaster several times, and didn’t.  <a href="https://nyti.ms/3Xs6w37"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Electric Vehicles Could Match Gasoline Cars on Price This Year</h3>
-<sub>By Jack Ewing</sub>
-<p>Competition, government incentives and falling raw material prices are making battery-powered cars more affordable sooner than expected.  <a href="https://nyti.ms/3K36VGx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Gains Control of Tax Board Overseeing Disney World</h3>
+<sub>By Brooks Barnes</sub>
+<p>The Florida governor had wanted to abolish the resort’s designation as a special tax district. That would have left two counties paying for services like policing.  <a href="https://nyti.ms/3ltYtpz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
