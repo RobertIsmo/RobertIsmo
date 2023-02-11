@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 10, Central Standard Time</p>
 <p>
-Things have been a bit tense around the world lately. The US recently shot down an object over Alaska, and there&#39;s been some tensions between the US and China after a US fighter jet shot down a Chinese spy balloon over the Atlantic. Meanwhile, in Ukraine, both sides are preparing to attack after months of slow-moving fighting while Russia is making its own move first. On an unrelated note, there was a huge earthquake in Turkey that destroyed many buildings in its central city, leaving thousands of people without much access to aid due to the country&#39;s war zones. And here in the US, former Vice President Mike Pence&#39;s home was searched by the FBI for classified documents and a special counsel inquiry has started looking into how classified documents appear to have been moved from the White House to a Biden think tank. Also, Jinger Duggar Vuolo has become quite the voice in examining conservative Christian childhoods as Senator Fetterman tries to adjust his life after suffering from a stroke. Finally, the Nets are making headlines for their team failure with Kyrie Irving and Kevin Durant at its center, while Governor DeSantis is gaining control over Disney World&#39;s tax board.</p>
+There is a lot going on in the world right now. In the US, we shot down a high-altitude object over Alaska and the FBI found one classified document after searching Vice President Mike Pence&#39;s home. On the global front, China is trying to play down a spy balloon incident and Russia is firing missile barrages at Ukraine as combat intensifies. In Turkey, rescue teams are responding to an earthquake and volunteers are piecing together a makeshift medical system in the disaster zone. Lastly, Senator Fetterman is recovering from a stroke and adapting to life in the Senate with help from Congress.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon Shot Down Object Over Alaska, U.S. Officials Say</h3>
+<h3>U.S. Shoots Down High-Altitude Object Over Alaska</h3>
 <sub>By Helene Cooper, Julian E. Barnes and Edward Wong</sub>
-<p>The incident comes less than a week after a U.S. fighter jet shot down a Chinese spy balloon over the Atlantic.  <a href="https://nyti.ms/3YI3tFm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The incident comes less than a week after a U.S. fighter jet brought down a Chinese spy balloon over the Atlantic during a diplomatic crisis.  <a href="https://nyti.ms/3YI3tFm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,29 +74,41 @@ Things have been a bit tense around the world lately. The US recently shot down 
 <p>Beijing has accused the United States of waging “information and public opinion warfare.” But analysts say a lack of credible messaging from China is not helping.  <a href="https://nyti.ms/3IfemsG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Blacklists 6 Chinese Entities Involved in Spy Balloon Programs</h3>
+<sub>By Ana Swanson</sub>
+<p>The action to cut off five Chinese companies and a research institute from American parts and technologies is part of the Biden administration’s response to the balloon it shot down last week.  <a href="https://nyti.ms/40JNCI2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Fires Major Missile Barrage at Ukraine as Combat Intensifies</h3>
+<sub>By Marc Santora</sub>
+<p>The first major aerial bombardment in weeks targeted cities across Ukraine, as President Volodymyr Zelensky returned home from a trip across Europe to press for more arms.  <a href="https://nyti.ms/3xfED3W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The War’s Violent Next Stage</h3>
 <sub>By Marc Santora, Josh Holder, Marco Hernandez and Andrew E. Kramer</sub>
 <p>Both sides are preparing to attack after months of slow-moving fighting. Russia is moving first. Here’s how each side is trying to shape the critical next few months in Ukraine.  <a href="https://nyti.ms/3HQooiv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden plans to visit Poland for the anniversary of the start of the war.</h3>
-<sub>By Michael D. Shear</sub>
-<p>The president will be in the region for three days, but the White House did not say if he would make a trip into Ukraine.  <a href="https://nyti.ms/3JZrKCz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>DeSantis Declares Victory, but Disney World Keeps Many Perks</h3>
+<sub>By Brooks Barnes</sub>
+<p>The Florida governor gained control of a board that oversees some services at the resort, while Disney maintained a special tax district.  <a href="https://nyti.ms/3ltYtpz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What the Earthquake Destroyed in the Heart of One Turkish City</h3>
-<sub>By Leanne Abraham, Agnes Chang, Lauren Leatherby, Scott Reinhard, Pablo Robles, Ashley Wu and Julie Walton Shaver</sub>
-<p>The Times identified nearly 200 buildings, many of them eight or more stories tall, in central Kahramanmaras that were damaged or destroyed.  <a href="https://nyti.ms/3HRSVfJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<h3>Volunteers Piece Together a Makeshift Medical System in Earthquake Zone</h3>
+<sub>By Vivian Yee and Nimet Kirac</sub>
+<p>In place of damaged or destroyed hospitals, a series of field clinics have sprung up in Turkey, with doctors and nurses from around the world.  <a href="https://nyti.ms/3liGQsq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Quake Death Toll Surpasses 23,000 Amid Struggle to Get Aid to Quake’s Victims</h3>
-<sub>By Cora Engelbrecht, Hwaida Saad and Raja Abdulrahim</sub>
-<p>Only a trickle of humanitarian aid has reached the devastated parts of Syria because years of war have carved the country into zones of control that impede deliveries.  <a href="https://nyti.ms/3HSPoxO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<h3>What We Know About the Earthquake in Turkey and Syria</h3>
+<sub>By The New York Times</sub>
+<p>As the death toll rises in the one of the deadliest quakes in decades, a global humanitarian aid effort faces deep challenges.  <a href="https://nyti.ms/3jV2Rgy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>F.B.I. Found One Classified Document After Searching Pence’s Home</h3>
@@ -119,19 +131,7 @@ Things have been a bit tense around the world lately. The US recently shot down 
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Fetterman, Recovering After Stroke, Labors to Adjust to Life in the Senate</h3>
 <sub>By Annie Karni</sub>
-<p>The first-term Democrat is adapting to Congress while coping with the lasting effects of a near-fatal stroke, and the institution is adapting to accommodate him.  <a href="https://nyti.ms/3YkWmmp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Nets Fell Apart From the Top</h3>
-<sub>By Sopan Deb</sub>
-<p>Kyrie Irving and Kevin Durant have become the faces of their superteam’s failure, but the Nets leadership could have averted disaster several times, and didn’t.  <a href="https://nyti.ms/3Xs6w37"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>DeSantis Gains Control of Tax Board Overseeing Disney World</h3>
-<sub>By Brooks Barnes</sub>
-<p>The Florida governor had wanted to abolish the resort’s designation as a special tax district. That would have left two counties paying for services like policing.  <a href="https://nyti.ms/3ltYtpz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The first-term Democrat, who was released Friday after two days in the hospital, is coping with the lasting effects of a near-fatal stroke last year, and Congress is adapting to accommodate him.  <a href="https://nyti.ms/3YkWmmp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
