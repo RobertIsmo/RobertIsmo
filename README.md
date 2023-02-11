@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 10, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, we shot down a high-altitude object over Alaska and the FBI found one classified document after searching Vice President Mike Pence&#39;s home. On the global front, China is trying to play down a spy balloon incident and Russia is firing missile barrages at Ukraine as combat intensifies. In Turkey, rescue teams are responding to an earthquake and volunteers are piecing together a makeshift medical system in the disaster zone. Lastly, Senator Fetterman is recovering from a stroke and adapting to life in the Senate with help from Congress.</p>
+There has been a lot going on in the world recently. In the U.S., two events have been grabbing headlines. First, the government shot down a high-altitude object over Alaska during a diplomatic crisis. Then, six Chinese entities were blacklisted for their involvement in spy balloon programs.
+
+Elsewhere, violence in Ukraine is escalating as Russia launches airstrikes across the country. Meanwhile, in Turkey and Syria, volunteers are rushing to help after a devastating earthquake left thousands dead or injured.
+
+Closer to home, Vice President Mike Pence has been in the news after the FBI searched his home for classified documents and a Justice Department investigation is underway following the discovery of classified documents at a Biden think tank. Finally, Pennsylvania Senator Fetterman is still recovering from a stroke he suffered last year and adjusting to life in Congress.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Shoots Down High-Altitude Object Over Alaska</h3>
