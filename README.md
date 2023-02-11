@@ -60,18 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 11, Central Standard Time</p>
 <p>
-There have been several international incidents recently. The United States shot down a high-altitude object over Alaska, and blacklisted 6 Chinese entities involved in spy balloon programs. In Russia, there has been an aerial bombardment in Ukraine and military fighting is intensifying. In Florida, Disney was stripped of some of their 56-year-old perks due to a dispute on teaching sexual orientation and gender identity. There has also been an earthquake in Turkey and Syria resulting in many dead and aid efforts being scrambled. Closer to home, the FBI found a classified document at Mike Pence&#39;s house after a search, and now his lawyer is before the Grand Jury in relation to Trump&#39;s handling of government documents. Lastly, Senator Fetterman is recovering from a stroke and lawmakers are trying to adjust to accommodate his needs.</p>
+There are a lot of international tensions at the moment. Russian forces unleashed missiles on Ukraine, and there&#39;s a tycoon with connections to the Kremlin who is dabbling in politics. Turkey and Syria were recently hit by a devastating earthquake, resulting in thousands of homeless people needing care. In the US, there was an incident involving a Chinese spy balloon, leading to the US blacklisting six Chinese entities that were involved in spy balloon programs. On top of all this, suicide rates have risen for some demographics and there&#39;s a chaotic political situation with the Republicans holding a razor-thin majority in the House. Lastly, sports betting has upended the economies of many Native American Tribes, and Patrick Mahomes is leading his team forward in the NFL.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Wagner Founder Has Putin’s Support, but the Kremlin’s Side-Eye</h3>
+<sub>By Anton Troianovski</sub>
+<p>Yevgeny V. Prigozhin, the once secretive tycoon, is confounding Moscow’s Kremlin-allied elite by starting to dabble in politics alongside waging war in Ukraine.  <a href="https://nyti.ms/3YMxzHP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Launches Wave of Attack Drones on Ukrainian Infrastructure</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>The overnight strikes with Iranian-made drones capped a day in which Russian forces unleashed a major barrage of missiles on critical sites around Ukraine.  <a href="https://nyti.ms/3Yry5LA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Anger Over Quake Response Challenges Erdogan Ahead of Election</h3>
+<sub>By Ben Hubbard</sub>
+<p>A furor is building among some survivors over the government’s handling of the crisis. “I have been voting for this government for 20 years, and I’m telling everyone about my anger,” said one. “I will never forgive them.”  <a href="https://nyti.ms/3liJvlW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Recovery Efforts Go Into Full Swing in Turkey’s Earthquake Zone</h3>
+<sub>By Ben Hubbard, Hwaida Saad and Steven Erlanger</sub>
+<p>As the death toll in Turkey and Syria neared 25,000, daunting challenges loomed to care for hundreds of thousands of homeless people amid the wreckage.  <a href="https://nyti.ms/40OqCrf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Rebuilding Quake-Stricken Cities in Turkey and Syria May Take Decade</h3>
+<sub>By Jin Yu Young</sub>
+<p>While intact buildings might look fine, their structural integrity might have been damaged. Some of these buildings will have to be torn down. This process alone could take years.  <a href="https://nyti.ms/3jKaTcc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Shoots Down High-Altitude Object Over Alaska</h3>
 <sub>By Helene Cooper, Julian E. Barnes and Edward Wong</sub>
 <p>The incident comes less than a week after a U.S. fighter jet brought down a Chinese spy balloon over the Atlantic during a diplomatic crisis.  <a href="https://nyti.ms/3YI3tFm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China, Still Trying to Play Down Balloon, Finds It’s Getting Harder to Do</h3>
-<sub>By Vivian Wang</sub>
-<p>Beijing has accused the United States of waging “information and public opinion warfare.” But analysts say a lack of credible messaging from China is not helping.  <a href="https://nyti.ms/3IfemsG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -80,58 +104,34 @@ There have been several international incidents recently. The United States shot
 <p>The action to cut off five Chinese companies and a research institute from American parts and technologies is part of the Biden administration’s response to the balloon it shot down last week.  <a href="https://nyti.ms/40JNCI2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Fires Major Missile Barrage at Ukraine as Combat Intensifies</h3>
-<sub>By Marc Santora</sub>
-<p>The first major aerial bombardment in weeks targeted cities across Ukraine, as President Volodymyr Zelensky returned home from a trip across Europe to press for more arms.  <a href="https://nyti.ms/3xfED3W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Why Are You Seeing So Many Bad Digital Ads Now?</h3>
+<sub>By Tiffany Hsu</sub>
+<p>Scrolling past ads has rarely been enjoyable. But in recent months, people say the experience seems so much worse.  <a href="https://nyti.ms/3liJG0A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The War’s Violent Next Stage</h3>
-<sub>By Marc Santora, Josh Holder, Marco Hernandez and Andrew E. Kramer</sub>
-<p>Both sides are preparing to attack after months of slow-moving fighting. Russia is moving first. Here’s how each side is trying to shape the critical next few months in Ukraine.  <a href="https://nyti.ms/3HQooiv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>DeSantis Declares Victory as Disney Is Stripped of Some 56-Year-Old Perks</h3>
-<sub>By Brooks Barnes</sub>
-<p>The Legislature approved a bill that restricts the autonomy of Florida’s largest private employer over a fight involving the teaching of sexual orientation and gender identity.  <a href="https://nyti.ms/3ltYtpz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Volunteers Piece Together a Makeshift Medical System in Earthquake Zone</h3>
-<sub>By Vivian Yee and Nimet Kirac</sub>
-<p>In place of damaged or destroyed hospitals, a series of field clinics have sprung up in Turkey, with doctors and nurses from around the world.  <a href="https://nyti.ms/3liGQsq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What We Know About the Earthquake in Turkey and Syria</h3>
-<sub>By The New York Times</sub>
-<p>As the death toll rises in the one of the deadliest quakes in decades, a global humanitarian aid effort faces deep challenges.  <a href="https://nyti.ms/3jV2Rgy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Following a Two-Year Decline, Suicide Rates Rose Again in 2021</h3>
+<sub>By Ellen Barry</sub>
+<p>Suicide increased among younger Black, Hispanic and Native American people, and declined among whites and older people, the C.D.C. reported.  <a href="https://nyti.ms/3xc6WA6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>F.B.I. Found One Classified Document After Searching Pence’s Home</h3>
-<sub>By Maggie Haberman and Glenn Thrush</sub>
-<p>Aides to former Vice President Mike Pence agreed to the search after discussions with the Justice Department.  <a href="https://nyti.ms/3IbzL51"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Close Look at the Chaotic House Republican Majority</h3>
+<sub>By Karen Yourish, Danielle Ivory and Charlie Smart</sub>
+<p>Take a look at the spectrum of Republicans, who have a razor-thin majority in the House.  <a href="https://nyti.ms/40OS7kq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Lawyer in Mar-a-Lago Search Appeared Before Grand Jury</h3>
-<sub>By Maggie Haberman and Ben Protess</sub>
-<p>It was not immediately clear under what circumstances the lawyer, M. Evan Corcoran, appeared, but he has had a key role in the case examining Mr. Trump’s handling of government documents.  <a href="https://nyti.ms/3YDfxIp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Patrick Mahomes Is Not a Kid Anymore. (He Just Plays Like One.)</h3>
+<sub>By Joe Drape</sub>
+<p>Mahomes, known for his sense of fun and improvisation on the field, has become a kind of elder statesman, settled in his family life, his business endeavors and his community.  <a href="https://nyti.ms/3XrKnlS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Adani’s $100 Billion Loss Hasn’t Tanked India’s Markets</h3>
-<sub>By Alex Travelli</sub>
-<p>The steadfastness of India’s economy attests to the size and seeming strength of the country’s broader business landscape.  <a href="https://nyti.ms/3JYUHhO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fetterman, Recovering After Stroke, Labors to Adjust to Life in the Senate</h3>
-<sub>By Annie Karni</sub>
-<p>The first-term Democrat, who was released Friday after two days in the hospital, is coping with the lasting effects of a near-fatal stroke last year, and Congress is adapting to accommodate him.  <a href="https://nyti.ms/3YkWmmp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>How Sports Betting Upended the Economies of Native American Tribes</h3>
+<sub>By David W. Chen, Mark Walker and Kenneth P. Vogel</sub>
+<p>Hard-fought deals for casinos gave many tribes a critical economic lifeline. When the doors opened to widespread sports betting, others wanted in on the gambling business.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
