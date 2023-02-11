@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 11, Central Standard Time</p>
 <p>
-There are a lot of intense developments happening around the world right now. In Russia, a once-secretive tycoon is starting to get involved in politics and waging war in Ukraine. In response to Russia&#39;s strikes in Ukraine, the US shot down a high-altitude object over Alaska. The Biden administration has blacklisted 6 Chinese entities that were involved in spy balloon programs due to the incident. Meanwhile, anger is growing among survivors of an earthquake in Turkey and Syria as people express frustration with the government response and actions are being taken against construction workers who used shoddy practices when building structures. In the US, there is a chaotic majority with House Republicans divided over issues. Finally, sports betting has upended Native American tribal economies, while Patrick Mahomes is becoming an elder statesman in football as he settles into his family life and business endeavors.</p>
+In the world right now, there is a lot of anger over responses to natural disasters. In Turkey and Syria, 25,000 people have died due to an earthquake, and Ankara is coming under fire for its slow response and lax building regulations. There is also a crisis happening in Ukraine as Russia is attacking with drones and missiles. Here in the US, a tribe in Wisconsin are blockading streets to assert their sovereignty over land dispute. Additionally, many older Americans are feeling left out of pandemic protocols and lack of support from the government. Finally, the Super Bowl is taking place in Phoenix this weekend and people are hoping it will bring some light during the dark times. Digital ads have also been especially bad lately since marketers have struggled to keep up with consumers’ ever-changing habits in the pandemic.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Anger Swells Over Quake, Turkey Detains Building Contractors</h3>
+<sub>By Ben Hubbard, Hwaida Saad, Raja Abdulrahim, Safak Timur, Steven Erlanger and Gulsin Harman</sub>
+<p>As the death toll in Turkey and Syria passed 25,000, Ankara was coming under growing criticism for its slow response and tolerance of shoddy construction.  <a href="https://nyti.ms/40OqCrf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Anger Over Quake Response Challenges Erdogan Ahead of Election</h3>
+<sub>By Ben Hubbard</sub>
+<p>A furor is building among some survivors over the government’s handling of the crisis. “I have been voting for this government for 20 years,” said one. “I will never forgive them.”  <a href="https://nyti.ms/3liJvlW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Here’s how to help victims of the earthquake.</h3>
+<sub>By Ben Shpigel</sub>
+<p>Here’s how to contribute to organizations that are aiding the rescue and recovery efforts in Turkey and Syria.  <a href="https://nyti.ms/3YaSO61"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Wagner Founder Has Putin’s Support, but the Kremlin’s Side-Eye</h3>
 <sub>By Anton Troianovski</sub>
@@ -74,46 +92,22 @@ There are a lot of intense developments happening around the world right now. In
 <p>Russia hit several regions with Iranian-made drones overnight, capping a day in which its forces unleashed a major barrage of missiles on critical sites around Ukraine.  <a href="https://nyti.ms/3Yry5LA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Anger Over Quake Response Challenges Erdogan Ahead of Election</h3>
-<sub>By Ben Hubbard</sub>
-<p>A furor is building among some survivors over the government’s handling of the crisis. “I have been voting for this government for 20 years,” said one. “I will never forgive them.”  <a href="https://nyti.ms/3liJvlW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Anger Swells Over Quake, Turkey Detains Building Constructors</h3>
-<sub>By Ben Hubbard, Hwaida Saad, Raja Abdulrahim, Safak Timur and Steven Erlanger</sub>
-<p>As the death toll in Turkey and Syria passed 25,000, Ankara was coming under growing criticism for its slow response and tolerance of shoddy construction.  <a href="https://nyti.ms/40OqCrf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here’s how to help victims of the earthquake.</h3>
-<sub>By Ben Shpigel</sub>
-<p>Here’s how to contribute to organizations that are aiding the rescue and recovery efforts in Turkey and Syria.  <a href="https://nyti.ms/3YaSO61"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Shoots Down High-Altitude Object Over Alaska</h3>
-<sub>By Helene Cooper, Julian E. Barnes and Edward Wong</sub>
-<p>The incident comes less than a week after a U.S. fighter jet brought down a Chinese spy balloon over the Atlantic during a diplomatic crisis.  <a href="https://nyti.ms/3YI3tFm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Blacklists 6 Chinese Entities Involved in Spy Balloon Programs</h3>
-<sub>By Ana Swanson</sub>
-<p>The action to cut off five Chinese companies and a research institute from American parts and technologies is part of the Biden administration’s response to the balloon it shot down last week.  <a href="https://nyti.ms/40JNCI2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Why Are You Seeing So Many Bad Digital Ads Now?</h3>
-<sub>By Tiffany Hsu</sub>
-<p>Scrolling past ads has rarely been enjoyable. But in recent months, people say the experience seems so much worse.  <a href="https://nyti.ms/3liJG0A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>For Older Americans, the Pandemic Is Not Over</h3>
 <sub>By Paula Span</sub>
 <p>Seniors are increasingly left to protect themselves as the rest of the country abandons precautions: “Americans do not agree about the duty to protect others.”  <a href="https://nyti.ms/3YFOZps"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-headway-blue" alt="">
+<h3>30 People Tell Us What Homelessness Is Really Like</h3>
+<sub>Interviews by Susan Shain and Aidan Gardiner</sub>
+<p>Packing groceries, bathing in fountains, finding comfort in an orange blanket. Explore people&#39;s stories and their answers to common questions.  <a href="https://nyti.ms/3xbW9WP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With a Land Dispute Deadlocked, a Wisconsin Tribe Blockades Streets</h3>
+<sub>By Mitch Smith</sub>
+<p>Tribal leaders in Lac du Flambeau said they were asserting sovereignty in demanding long overdue payment for roads used by non-Native residents, who are now unable to drive home.  <a href="https://nyti.ms/3DYXLXJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,11 +122,17 @@ There are a lot of intense developments happening around the world right now. In
 <p>Mahomes, known for his sense of fun and improvisation on the field, has become a kind of elder statesman, settled in his family life, his business endeavors and his community.  <a href="https://nyti.ms/3XrKnlS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How Sports Betting Upended the Economies of Native American Tribes</h3>
-<sub>By David W. Chen, Mark Walker and Kenneth P. Vogel</sub>
-<p>Hard-fought deals for casinos gave many tribes a critical economic lifeline. When the doors opened to widespread sports betting, others wanted in on the gambling business.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Super Bowl Fans Arrive, Phoenix Seeks to Present a New Face</h3>
+<sub>By James C. McKinley Jr.</sub>
+<p>The game puts a spotlight on the city’s efforts to remake its image through art, eco-friendly development and a revitalized downtown.  <a href="https://nyti.ms/3xej3g3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Why Are You Seeing So Many Bad Digital Ads Now?</h3>
+<sub>By Tiffany Hsu</sub>
+<p>Scrolling past ads has rarely been enjoyable. But in recent months, people say the experience seems so much worse.  <a href="https://nyti.ms/3liJG0A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
