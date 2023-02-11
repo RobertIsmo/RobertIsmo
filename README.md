@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 11, Central Standard Time</p>
 <p>
-There are a lot of international tensions at the moment. Russian forces unleashed missiles on Ukraine, and there&#39;s a tycoon with connections to the Kremlin who is dabbling in politics. Turkey and Syria were recently hit by a devastating earthquake, resulting in thousands of homeless people needing care. In the US, there was an incident involving a Chinese spy balloon, leading to the US blacklisting six Chinese entities that were involved in spy balloon programs. On top of all this, suicide rates have risen for some demographics and there&#39;s a chaotic political situation with the Republicans holding a razor-thin majority in the House. Lastly, sports betting has upended the economies of many Native American Tribes, and Patrick Mahomes is leading his team forward in the NFL.</p>
+There are a few major world news stories that I think you need to be aware of. In Russia, there&#39;s a secretive tycoon named Yevgeny V. Prigozhin who is trying to get involved in politics, and that has the Kremlin&#39;s elite feeling side-eyed. In Ukraine, Russia recently launched drone strikes on critical sites as part of an ongoing conflict. Meanwhile, in Turkey and Syria there was a massive earthquake that killed more than 25,000 people and hundreds of thousands of people are now homeless. The US has also shot down a high-altitude object over Alaska and blacklisted six Chinese entities for their involvement in spy balloon programs. Lastly, suicide rates rose again this year among younger Black, Hispanic and Native American people, and the House Republicans have a razor-thin majority at the moment.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Wagner Founder Has Putin’s Support, but the Kremlin’s Side-Eye</h3>
@@ -69,9 +69,9 @@ There are a lot of international tensions at the moment. Russian forces unleashe
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Launches Wave of Attack Drones on Ukrainian Infrastructure</h3>
+<h3>Ukraine Rushes to Repair After Wave of Russian Strikes</h3>
 <sub>By Cassandra Vinograd</sub>
-<p>The overnight strikes with Iranian-made drones capped a day in which Russian forces unleashed a major barrage of missiles on critical sites around Ukraine.  <a href="https://nyti.ms/3Yry5LA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Russia hit several regions with Iranian-made drones overnight, capping a day in which its forces unleashed a major barrage of missiles on critical sites around Ukraine.  <a href="https://nyti.ms/3Yry5LA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -87,10 +87,10 @@ There are a lot of international tensions at the moment. Russian forces unleashe
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rebuilding Quake-Stricken Cities in Turkey and Syria May Take Decade</h3>
-<sub>By Jin Yu Young</sub>
-<p>While intact buildings might look fine, their structural integrity might have been damaged. Some of these buildings will have to be torn down. This process alone could take years.  <a href="https://nyti.ms/3jKaTcc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<h3>Here’s how to help victims of the earthquake.</h3>
+<sub>By Ben Shpigel</sub>
+<p>Here’s how to contribute to organizations that are aiding the rescue and recovery efforts in Turkey and Syria.  <a href="https://nyti.ms/3YaSO61"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Shoots Down High-Altitude Object Over Alaska</h3>
