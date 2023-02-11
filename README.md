@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 11, Central Standard Time</p>
 <p>
-There are a few major world news stories that I think you need to be aware of. In Russia, there&#39;s a secretive tycoon named Yevgeny V. Prigozhin who is trying to get involved in politics, and that has the Kremlin&#39;s elite feeling side-eyed. In Ukraine, Russia recently launched drone strikes on critical sites as part of an ongoing conflict. Meanwhile, in Turkey and Syria there was a massive earthquake that killed more than 25,000 people and hundreds of thousands of people are now homeless. The US has also shot down a high-altitude object over Alaska and blacklisted six Chinese entities for their involvement in spy balloon programs. Lastly, suicide rates rose again this year among younger Black, Hispanic and Native American people, and the House Republicans have a razor-thin majority at the moment.</p>
+There are a lot of intense developments happening around the world right now. In Russia, a once-secretive tycoon is starting to get involved in politics and waging war in Ukraine. In response to Russia&#39;s strikes in Ukraine, the US shot down a high-altitude object over Alaska. The Biden administration has blacklisted 6 Chinese entities that were involved in spy balloon programs due to the incident. Meanwhile, anger is growing among survivors of an earthquake in Turkey and Syria as people express frustration with the government response and actions are being taken against construction workers who used shoddy practices when building structures. In the US, there is a chaotic majority with House Republicans divided over issues. Finally, sports betting has upended Native American tribal economies, while Patrick Mahomes is becoming an elder statesman in football as he settles into his family life and business endeavors.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Wagner Founder Has Putin’s Support, but the Kremlin’s Side-Eye</h3>
@@ -77,13 +77,13 @@ There are a few major world news stories that I think you need to be aware of. I
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Anger Over Quake Response Challenges Erdogan Ahead of Election</h3>
 <sub>By Ben Hubbard</sub>
-<p>A furor is building among some survivors over the government’s handling of the crisis. “I have been voting for this government for 20 years, and I’m telling everyone about my anger,” said one. “I will never forgive them.”  <a href="https://nyti.ms/3liJvlW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A furor is building among some survivors over the government’s handling of the crisis. “I have been voting for this government for 20 years,” said one. “I will never forgive them.”  <a href="https://nyti.ms/3liJvlW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Recovery Efforts Go Into Full Swing in Turkey’s Earthquake Zone</h3>
-<sub>By Ben Hubbard, Hwaida Saad and Steven Erlanger</sub>
-<p>As the death toll in Turkey and Syria neared 25,000, daunting challenges loomed to care for hundreds of thousands of homeless people amid the wreckage.  <a href="https://nyti.ms/40OqCrf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Anger Swells Over Quake, Turkey Detains Building Constructors</h3>
+<sub>By Ben Hubbard, Hwaida Saad, Raja Abdulrahim, Safak Timur and Steven Erlanger</sub>
+<p>As the death toll in Turkey and Syria passed 25,000, Ankara was coming under growing criticism for its slow response and tolerance of shoddy construction.  <a href="https://nyti.ms/40OqCrf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -111,9 +111,9 @@ There are a few major world news stories that I think you need to be aware of. I
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Following a Two-Year Decline, Suicide Rates Rose Again in 2021</h3>
-<sub>By Ellen Barry</sub>
-<p>Suicide increased among younger Black, Hispanic and Native American people, and declined among whites and older people, the C.D.C. reported.  <a href="https://nyti.ms/3xc6WA6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Older Americans, the Pandemic Is Not Over</h3>
+<sub>By Paula Span</sub>
+<p>Seniors are increasingly left to protect themselves as the rest of the country abandons precautions: “Americans do not agree about the duty to protect others.”  <a href="https://nyti.ms/3YFOZps"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
