@@ -58,13 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, February 10, Central Standard Time</p>
+<p>It is Saturday, February 11, Central Standard Time</p>
 <p>
-There has been a lot going on in the world recently. In the U.S., two events have been grabbing headlines. First, the government shot down a high-altitude object over Alaska during a diplomatic crisis. Then, six Chinese entities were blacklisted for their involvement in spy balloon programs.
-
-Elsewhere, violence in Ukraine is escalating as Russia launches airstrikes across the country. Meanwhile, in Turkey and Syria, volunteers are rushing to help after a devastating earthquake left thousands dead or injured.
-
-Closer to home, Vice President Mike Pence has been in the news after the FBI searched his home for classified documents and a Justice Department investigation is underway following the discovery of classified documents at a Biden think tank. Finally, Pennsylvania Senator Fetterman is still recovering from a stroke he suffered last year and adjusting to life in Congress.</p>
+Right now there are a few things happening around the world. In the U.S., there’s been a high-altitude object shot down over Alaska and the U.S. government has blacklisted 6 Chinese entities involved in spy balloon programs. In Russia, they’ve fired a major missile barrage at Ukraine as combat intensifies and both sides are preparing for an attack after months of slow-moving fighting. In Turkey and Syria, a deadly earthquake has occurred and volunteers have stepped in to create makeshift medical systems due to damaged or destroyed hospitals. Lastly, there’s been news of former Vice President Mike Pence’s home being searched by the FBI and Donald Trump’s lawyer appearing before a grand jury in Mar-a-Lago.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Shoots Down High-Altitude Object Over Alaska</h3>
@@ -97,9 +93,9 @@ Closer to home, Vice President Mike Pence has been in the news after the FBI sea
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>DeSantis Declares Victory, but Disney World Keeps Many Perks</h3>
+<h3>DeSantis Declares Victory as Disney Is Stripped of Some 56-Year-Old Perks</h3>
 <sub>By Brooks Barnes</sub>
-<p>The Florida governor gained control of a board that oversees some services at the resort, while Disney maintained a special tax district.  <a href="https://nyti.ms/3ltYtpz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Legislature approved a bill that restricts the autonomy of Florida’s largest private employer over a fight involving the teaching of sexual orientation and gender identity.  <a href="https://nyti.ms/3ltYtpz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -121,15 +117,15 @@ Closer to home, Vice President Mike Pence has been in the news after the FBI sea
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Hasty Packing of Biden Papers Led to a Special Counsel Inquiry</h3>
-<sub>By Michael S. Schmidt</sub>
-<p>Two aides played pivotal roles in how the classified documents appear to have gotten from the White House to a Biden think tank, where they were discovered years later.  <a href="https://nyti.ms/3YJGJor"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Lawyer in Mar-a-Lago Search Appeared Before Grand Jury</h3>
+<sub>By Maggie Haberman and Ben Protess</sub>
+<p>It was not immediately clear under what circumstances the lawyer, M. Evan Corcoran, appeared, but he has had a key role in the case examining Mr. Trump’s handling of government documents.  <a href="https://nyti.ms/3YDfxIp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Duggar Revisits Her Religious Upbringing</h3>
-<sub>By Ruth Graham</sub>
-<p>Jinger Duggar Vuolo, who was one of 19 children on a popular reality show, becomes a powerful voice in a trend of young adults re-examining their own conservative Christian childhoods.  <a href="https://nyti.ms/3DXpyHI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Adani’s $100 Billion Loss Hasn’t Tanked India’s Markets</h3>
+<sub>By Alex Travelli</sub>
+<p>The steadfastness of India’s economy attests to the size and seeming strength of the country’s broader business landscape.  <a href="https://nyti.ms/3JYUHhO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
