@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 11, Central Standard Time</p>
 <p>
-There are a few major things going on in the world right now. The US recently shot down an object that was invading Canadian airspace, while tensions have been rising in Turkey and Syria as survivors become angry with the government&#39;s slow response after a devastating earthquake. In the US, a Native American tribe is blockading roads to assert their sovereignty over a land dispute. Meanwhile, Patrick Mahomes has grown into an elder statesman in professional football while his team prepares to compete in the Super Bowl. There are also ways to help victims of the earthquake and many stories of those who experience homelessness in America.</p>
+Right now, there is a lot going on in the world. In the U.S., a jet shot down an object that was violating Canadian airspace, while in Turkey and Syria, thousands of people are dead following a major earthquake and the government is facing criticism for its poor response. In the U.S., there&#39;s been a lot of discussion about helping seniors during the pandemic, as well as conversations about homelessness and even Native American rights. On the sports front, Patrick Mahomes led the Kansas City Chiefs to the Super Bowl for the second year in a row and controversy around the tomahawk chop resurfaced. All in all, it&#39;s an interesting time!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Jet Shoots Down Flying Object Over Canada</h3>
 <sub>By Helene Cooper</sub>
-<p>Prime Minister Justin Trudeau said the object violating Canadian airspace was taken down on his orders, a day after another aerial object was shot down near Alaska.  <a href="https://nyti.ms/3YnecoU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Prime Minister Justin Trudeau said he and President Biden had ordered the object violating Canadian airspace to be taken down, a day after another object was shot out of the sky near Alaska.  <a href="https://nyti.ms/3YnecoU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -123,9 +123,9 @@ There are a few major things going on in the world right now. The US recently sh
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>As Kansas City Returns to Super Bowl, So Too Will Fans’ Chop</h3>
+<h3>As Kansas City Returns to the Super Bowl, So Too Will Fans’ Chop</h3>
 <sub>By Nicholas Bogel-Burroughs</sub>
-<p>The tomahawk chop has long been a feature of Chiefs games, but it has come under increased criticism from Native Americans.  <a href="https://nyti.ms/3x84ACr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The tomahawk chop has long been a feature of the team’s games, but it has come under increased criticism from Native Americans.  <a href="https://nyti.ms/3x84ACr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
