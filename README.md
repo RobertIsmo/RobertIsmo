@@ -60,14 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 12, Central Standard Time</p>
 <p>
-Right now there are a lot of issues in the world that don’t receive enough attention. For example, a recent study has found that having a baby is more dangerous for Black families, even if they’re affluent. Additionally, there are many people who have taken up arms against their own country in Russia and elsewhere, as well a US jet recently shooting down an object over Canada. In Turkey there is an investigation into contractors in the wake of an enormous earthquake that affected both Turkey and Syria, and aid efforts in Syria have so far been unsuccessful. 
-
-Another event happening recently is the Super Bowl, where two Black quarterbacks will be leading their respective teams - an event which reflects progress on race issues, though it shows how much further we have to go since for much of pro football history Black players have been steered away from the quarterback position due to racism. There&#39;s also ongoing activity regarding betting on this Super Bowl, with bets on specific outcomes such as how long the national anthem will be expected to account for half of the total wagers. 
-
-On a more local scale here in the United States, Manhattan is looking at potentially awarding its first death penalty in nearly 60 years - being carried out against Sayfullo Saipov who was convicted of fatally mowing down eight people during a bike path rampage back in 2017. Finally, Gustavo Dudamel is at a crossroads as he prepares to leave Los Angeles after 2026 to lead the New York Philharmonic. 
-
-All in all, there are definitely some things to be mindful of and stay updated on around the world!</p>
+It&#39;s a very busy world right now! In the US, a politician named Ron DeSantis is trying to figure out how to handle criticism from his predecessor, former President Donald Trump. Also in the US, Bernie Sanders is now head of the Senate health committee and has jurisdiction over issues he cares about. On a global level, there are ongoing conflicts between Russia and Ukraine and issues with aid distribution related to an earthquake in Syria. There are also issues related to healthcare inequality for Black families in the US. For Superbowl LVII this Sunday, both teams will be led by Black quarterbacks which is progress but also highlights how much further we have to go in terms of racial injustice. Lastly, New York City may be facing their first death penalty trial in 60 years after a 2017 bike-path rampage left 8 people dead. Lots going on!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis’s Challenge: When, and How, to Counterattack Trump</h3>
+<sub>By Michael C. Bender and Maggie Haberman</sub>
+<p>As the former president lobs insults and calls him “Ron DeSanctimonious,” Gov. Ron DeSantis is carefully avoiding conflict. But if he runs for president as expected, a clash is inevitable.  <a href="https://nyti.ms/3XoZg8b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Bernie Sanders Has a New Role. It Could Be His Final Act in Washington.</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>After two unsuccessful runs for the presidency, the Vermont senator now leads the Senate health committee, a job that gives him sweeping jurisdiction over issues he cares about.  <a href="https://nyti.ms/3YMcWLx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Childbirth Is Deadlier for Black Families Even When They’re Rich, Expansive Study Finds</h3>
 <sub></sub>
@@ -98,10 +104,10 @@ All in all, there are definitely some things to be mindful of and stay updated o
 <p>A top U.N. official said that aid efforts in neighboring Syria had “failed” so far. More than 33,000 people have died in the two countries.  <a href="https://nyti.ms/3IfLJvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Bernie Sanders Has a New Role. It Could Be His Final Act in Washington.</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>After two unsuccessful runs for the presidency, the Vermont senator now leads the Senate health committee, a job that gives him sweeping jurisdiction over issues he cares about.  <a href="https://nyti.ms/3YMcWLx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Lives of Syrian Refugees in Turkey Shatter a Second, or Third, Time</h3>
+<sub>By Raja Abdulrahim and Emily Garthwaite</sub>
+<p>Syrians have experienced relentless death and destruction during their country’s 12-year civil war. But some say the earthquake was worse than anything else they had endured.  <a href="https://nyti.ms/3Xsld6i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -116,29 +122,17 @@ All in all, there are definitely some things to be mindful of and stay updated o
 <p>When is the kickoff? What time will Rihanna perform? Who are the players to watch? Cheesesteak or barbecue? We have answers.  <a href="https://nyti.ms/40E1QKy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Looking for an Edge, and Some Fun, Bettors Favor Super Bowl Props</h3>
-<sub>By David Hill</sub>
-<p>Bets on specific outcomes, like the length of the national anthem, are expected to account for half of the $7 billion wagered on the Super Bowl in the United States.  <a href="https://nyti.ms/3JMlf5Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Maya Rudolph’s Super Bowl Challenge: Make M&amp;M’s Sweet Again</h3>
+<sub>By Tiffany Hsu</sub>
+<p>Unpopular companies and brands in trouble go with a strategy of hiring a likable celebrity and hoping for the best. But they might be better off with a puppy.  <a href="https://nyti.ms/3XkdyXW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Terror Trial Could Yield Manhattan’s First Death Penalty in 60 Years</h3>
 <sub>By Benjamin Weiser and Lola Fadulu</sub>
 <p>Sayfullo Saipov was convicted of fatally mowing down eight people in a 2017 bike-path rampage in New York. Will 12 jurors vote to execute him?  <a href="https://nyti.ms/3YnTCVq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Gustavo Dudamel: A Maestro at a Crossroads</h3>
-<sub>By Javier C. Hernández</sub>
-<p>“I’m not a young conductor anymore,” Dudamel said as he prepares to leave Los Angeles in 2026 to lead the New York Philharmonic.  <a href="https://nyti.ms/3S8kMgN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>When It’s Easy to Be a Landlord, No One Wants to Sell</h3>
-<sub>By Conor Dougherty and Ben Casselman</sub>
-<p>Locked in at historically low interest rates. Platforms that make managing rentals a breeze. Homeowners have little incentive to put a house on the market.  <a href="https://nyti.ms/3DYLgv4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
