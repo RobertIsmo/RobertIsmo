@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 11, Central Standard Time</p>
 <p>
-In the world right now, there is a lot of anger over responses to natural disasters. In Turkey and Syria, 25,000 people have died due to an earthquake, and Ankara is coming under fire for its slow response and lax building regulations. There is also a crisis happening in Ukraine as Russia is attacking with drones and missiles. Here in the US, a tribe in Wisconsin are blockading streets to assert their sovereignty over land dispute. Additionally, many older Americans are feeling left out of pandemic protocols and lack of support from the government. Finally, the Super Bowl is taking place in Phoenix this weekend and people are hoping it will bring some light during the dark times. Digital ads have also been especially bad lately since marketers have struggled to keep up with consumers’ ever-changing habits in the pandemic.</p>
+There are a few major things going on in the world right now. The US recently shot down an object that was invading Canadian airspace, while tensions have been rising in Turkey and Syria as survivors become angry with the government&#39;s slow response after a devastating earthquake. In the US, a Native American tribe is blockading roads to assert their sovereignty over a land dispute. Meanwhile, Patrick Mahomes has grown into an elder statesman in professional football while his team prepares to compete in the Super Bowl. There are also ways to help victims of the earthquake and many stories of those who experience homelessness in America.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Jet Shoots Down Flying Object Over Canada</h3>
+<sub>By Helene Cooper</sub>
+<p>Prime Minister Justin Trudeau said the object violating Canadian airspace was taken down on his orders, a day after another aerial object was shot down near Alaska.  <a href="https://nyti.ms/3YnecoU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Anger Swells Over Quake, Turkey Detains Building Contractors</h3>
 <sub>By Ben Hubbard, Hwaida Saad, Raja Abdulrahim, Safak Timur, Steven Erlanger and Gulsin Harman</sub>
-<p>As the death toll in Turkey and Syria passed 25,000, Ankara was coming under growing criticism for its slow response and tolerance of shoddy construction.  <a href="https://nyti.ms/40OqCrf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>As the death toll in Turkey and Syria passed 28,000, Ankara was coming under growing criticism for its slow response and tolerance of shoddy construction.  <a href="https://nyti.ms/40OqCrf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,12 +92,6 @@ In the world right now, there is a lot of anger over responses to natural disast
 <p>Yevgeny V. Prigozhin, the once secretive tycoon, is confounding Moscow’s Kremlin-allied elite by starting to dabble in politics alongside waging war in Ukraine.  <a href="https://nyti.ms/3YMxzHP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Rushes to Repair After Wave of Russian Strikes</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>Russia hit several regions with Iranian-made drones overnight, capping a day in which its forces unleashed a major barrage of missiles on critical sites around Ukraine.  <a href="https://nyti.ms/3Yry5LA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>For Older Americans, the Pandemic Is Not Over</h3>
 <sub>By Paula Span</sub>
@@ -104,17 +104,17 @@ In the world right now, there is a lot of anger over responses to natural disast
 <p>Packing groceries, bathing in fountains, finding comfort in an orange blanket. Explore people&#39;s stories and their answers to common questions.  <a href="https://nyti.ms/3xbW9WP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-headway-blue" alt="">
+<h3>What Don’t You Know About Homelessness?</h3>
+<sub>By Matthew Thompson and Abdul Kircher</sub>
+<p>Most experiences of homelessness are hidden by design, but they reveal much about how communities work, or don’t.  <a href="https://nyti.ms/3IcW0Zo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With a Land Dispute Deadlocked, a Wisconsin Tribe Blockades Streets</h3>
 <sub>By Mitch Smith</sub>
 <p>Tribal leaders in Lac du Flambeau said they were asserting sovereignty in demanding long overdue payment for roads used by non-Native residents, who are now unable to drive home.  <a href="https://nyti.ms/3DYXLXJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Close Look at the Chaotic House Republican Majority</h3>
-<sub>By Karen Yourish, Danielle Ivory and Charlie Smart</sub>
-<p>Take a look at the spectrum of Republicans, who have a razor-thin majority in the House.  <a href="https://nyti.ms/40OS7kq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Patrick Mahomes Is Not a Kid Anymore. (He Just Plays Like One.)</h3>
@@ -122,16 +122,16 @@ In the world right now, there is a lot of anger over responses to natural disast
 <p>Mahomes, known for his sense of fun and improvisation on the field, has become a kind of elder statesman, settled in his family life, his business endeavors and his community.  <a href="https://nyti.ms/3XrKnlS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Super Bowl Fans Arrive, Phoenix Seeks to Present a New Face</h3>
-<sub>By James C. McKinley Jr.</sub>
-<p>The game puts a spotlight on the city’s efforts to remake its image through art, eco-friendly development and a revitalized downtown.  <a href="https://nyti.ms/3xej3g3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>As Kansas City Returns to Super Bowl, So Too Will Fans’ Chop</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>The tomahawk chop has long been a feature of Chiefs games, but it has come under increased criticism from Native Americans.  <a href="https://nyti.ms/3x84ACr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Why Are You Seeing So Many Bad Digital Ads Now?</h3>
-<sub>By Tiffany Hsu</sub>
-<p>Scrolling past ads has rarely been enjoyable. But in recent months, people say the experience seems so much worse.  <a href="https://nyti.ms/3liJG0A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A Skeptic in Football Paradise</h3>
+<sub>By Kurt Streeter</sub>
+<p>The festivities leading up to the Super Bowl are full of fun and feel-good stories. But they obscure the harsh reality of the N.F.L.’s dangerous game.  <a href="https://nyti.ms/3YAa9Fo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
