@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 12, Central Standard Time</p>
 <p>
-In the world, Prime Minister Justin Trudeau and President Biden have ordered for a jet to shoot down an object that was violating Canadian airspace. There is also growing criticism of Turkey as the death toll in Turkey and Syria has passed 28,000 due to a quake while contractors were being detained. Yevgeny V. Prigozhin, a once secretive tycoon, is dabbling in politics in Russia while the pandemic continues to affect older Americans and there are reports of homelessness with people&#39;s stories heard. People are also looking forward to the Super Bowl with Kansas City returning and bringing along the tomahawk chop which has drawn criticism from Native Americans. In addition, therapy language has taken over dating and people are questioning their knowledge of modern dating terms.</p>
+Right now, there&#39;s a lot going on in the world. For starters, a new study has found that childbirth is deadlier for black families even when they&#39;re wealthy. There are also Russians fighting against their own homeland, and who are continuing a brutal campaign in their region. In addition, the US just shot down an object over Canada and there&#39;s an investigation into contractors underway in Turkey after its deadly earthquake. On the political side of things, Bernie Sanders is now leading the Senate Health Committee and Black quarterbacks are participating in the Super Bowl for the first time ever. There&#39;s also a trial about to happen in Manhattan over a 2017 bike-path rampage that could see the death penalty delivered for the first time in 60 years. Oh, and music fans will be interested to know that Gustavo Dudamel is preparing to leave Los Angeles and lead the New York Philharmonic soon. Finally, due to the historically low interest rates currently available, people aren&#39;t moving quite as much as they once did because it&#39;s simply more convenient to become a landlord now than to sell a house.</p>
 <ol>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>&lt;strong&gt;Childbirth Is Deadlier for Black Families Even When They’re Rich, Expansive Study Finds&lt;&#x2F;strong&gt;</h3>
+<sub></sub>
+<p>An analysis of two million births in California, the first research of its size to include both race and income, shows the best medical care for mothers and babies is not equally accessible to everyone.  <a href="https://nyti.ms/3lo5oQN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>They Are Russians Fighting Against Their Homeland. Here’s Why.</h3>
+<sub>By Michael Schwirtz</sub>
+<p>In the Free Russia Legion, soldiers repelled by Vladimir Putin’s invasion have taken arms against their home country, engaged in some of the most heated fighting in the war.  <a href="https://nyti.ms/3E35V1f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia’s Wagner Fighters Claim Advance Near Bakhmut</h3>
+<sub>By Shashank Bengali</sub>
+<p>The Wagner paramilitary group said its fighters had seized a village outside Bakhmut, as Moscow’s forces continue a brutal campaign that has nearly encircled the strategic eastern city.  <a href="https://nyti.ms/3XrCInx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Jet Shoots Down Flying Object Over Canada</h3>
 <sub>By Helene Cooper</sub>
@@ -69,70 +87,52 @@ In the world, Prime Minister Justin Trudeau and President Biden have ordered for
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Anger Swells Over Quake, Turkey Detains Building Contractors</h3>
-<sub>By Ben Hubbard, Hwaida Saad, Raja Abdulrahim, Safak Timur, Steven Erlanger and Gulsin Harman</sub>
-<p>As the death toll in Turkey and Syria passed 28,000, Ankara was coming under growing criticism for its slow response and tolerance of shoddy construction.  <a href="https://nyti.ms/40OqCrf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wagner Founder Has Putin’s Support, but the Kremlin’s Side-Eye</h3>
-<sub>By Anton Troianovski</sub>
-<p>Yevgeny V. Prigozhin, the once secretive tycoon, is confounding Moscow’s Kremlin-allied elite by starting to dabble in politics alongside waging war in Ukraine.  <a href="https://nyti.ms/3YMxzHP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>For Older Americans, the Pandemic Is Not Over</h3>
-<sub>By Paula Span</sub>
-<p>Seniors are increasingly left to protect themselves as the rest of the country abandons precautions: “Americans do not agree about the duty to protect others.”  <a href="https://nyti.ms/3YFOZps"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-headway-blue" alt="">
-<h3>30 People Tell Us What Homelessness Is Really Like</h3>
-<sub>Interviews by Susan Shain and Aidan Gardiner</sub>
-<p>Packing groceries, bathing in fountains, finding comfort in an orange blanket. Explore people&#39;s stories and their answers to common questions.  <a href="https://nyti.ms/3xbW9WP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-headway-blue" alt="">
-<h3>What Don’t You Know About Homelessness?</h3>
-<sub>By Matthew Thompson and Abdul Kircher</sub>
-<p>Most experiences of homelessness are hidden by design, but they reveal much about how communities work, or don’t.  <a href="https://nyti.ms/3IcW0Zo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<h3>Turkey Widens Investigation Into Contractors as Quake Toll Rises</h3>
+<sub>By Ben Hubbard, Safak Timur and Gulsin Harman</sub>
+<p>A top U.N. official said that aid efforts in neighboring Syria had “failed” so far. More than 28,000 people have died in the two countries.  <a href="https://nyti.ms/3IfLJvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With a Land Dispute Deadlocked, a Wisconsin Tribe Blockades Streets</h3>
-<sub>By Mitch Smith</sub>
-<p>Tribal leaders in Lac du Flambeau said they were asserting sovereignty in demanding long overdue payment for roads used by non-Native residents, who are now unable to drive home.  <a href="https://nyti.ms/3DYXLXJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Bernie Sanders Has a New Role. It Could Be His Final Act in Washington.</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>After two unsuccessful runs for the presidency, the Vermont senator now leads the Senate health committee, a job that gives him sweeping jurisdiction over issues he cares about.  <a href="https://nyti.ms/3YMcWLx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Black Quarterbacks in the Super Bowl Reflect Progress and Lost Opportunity</h3>
+<sub>By Jenny Vrentas</sub>
+<p>Black quarterbacks will lead both teams in Sunday’s Super Bowl. But for much of pro football history, Black players were steered away from the position because of racist assumptions.  <a href="https://nyti.ms/3XjZy0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Patrick Mahomes Is Not a Kid Anymore. (He Just Plays Like One.)</h3>
-<sub>By Joe Drape</sub>
-<p>Mahomes, known for his sense of fun and improvisation on the field, has become a kind of elder statesman, settled in his family life, his business endeavors and his community.  <a href="https://nyti.ms/3XrKnlS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<h3>It’s Time to Answer Your Questions About Super Bowl LVII</h3>
+<sub>By Ben Shpigel</sub>
+<p>When is the kickoff? What time will Rihanna perform? Who are the players to watch? Cheesesteak or barbecue? We have answers.  <a href="https://nyti.ms/40E1QKy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>As Kansas City Returns to the Super Bowl, So Too Will Fans’ Chop</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>The tomahawk chop has long been a feature of the team’s games, but it has come under increased criticism from Native Americans.  <a href="https://nyti.ms/3x84ACr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<h3>Looking for an Edge, and Some Fun, Bettors Favor Super Bowl Props</h3>
+<sub>By David Hill</sub>
+<p>Bets on specific outcomes, like the length of the national anthem, are expected to account for half of the $7 billion wagered on the Super Bowl in the United States.  <a href="https://nyti.ms/3JMlf5Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Skeptic in Football Paradise</h3>
-<sub>By Kurt Streeter</sub>
-<p>The festivities leading up to the Super Bowl are full of fun and feel-good stories. But they obscure the harsh reality of the N.F.L.’s dangerous game.  <a href="https://nyti.ms/3YAa9Fo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Terror Trial Could Yield Manhattan’s First Death Penalty in 60 Years</h3>
+<sub>By Benjamin Weiser and Lola Fadulu</sub>
+<p>Sayfullo Saipov was convicted of fatally mowing down eight people in a 2017 bike-path rampage in New York. Will 12 jurors vote to execute him?  <a href="https://nyti.ms/3YnTCVq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Gustavo Dudamel: A Maestro at a Crossroads</h3>
+<sub>By Javier C. Hernández</sub>
+<p>“I’m not a young conductor anymore,” Dudamel said as he prepares to leave Los Angeles in 2026 to lead the New York Philharmonic.  <a href="https://nyti.ms/3S8kMgN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>When It’s Easy to Be a Landlord, No One Wants to Sell</h3>
+<sub>By Conor Dougherty and Ben Casselman</sub>
+<p>Locked in at historically low interest rates. Platforms that make managing rentals a breeze. Homeowners have little incentive to put a house on the market.  <a href="https://nyti.ms/3DYLgv4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>How the Language of Therapy Took Over Dating</h3>
-<sub>By Dani Blum</sub>
-<p>In a time when emotional maturity is highly desirable, almost everyone is “doing the work.”  <a href="https://nyti.ms/3jUclIX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Quiz: How Well Do You Know Your Modern Dating Terms?</h3>
-<sub>By The New York Times</sub>
-<p>Test your knowledge of the latest relationship terminology.  <a href="https://nyti.ms/3lrHwfj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
