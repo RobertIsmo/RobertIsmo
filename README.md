@@ -60,10 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 12, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. For starters, a new study has found that childbirth is deadlier for black families even when they&#39;re wealthy. There are also Russians fighting against their own homeland, and who are continuing a brutal campaign in their region. In addition, the US just shot down an object over Canada and there&#39;s an investigation into contractors underway in Turkey after its deadly earthquake. On the political side of things, Bernie Sanders is now leading the Senate Health Committee and Black quarterbacks are participating in the Super Bowl for the first time ever. There&#39;s also a trial about to happen in Manhattan over a 2017 bike-path rampage that could see the death penalty delivered for the first time in 60 years. Oh, and music fans will be interested to know that Gustavo Dudamel is preparing to leave Los Angeles and lead the New York Philharmonic soon. Finally, due to the historically low interest rates currently available, people aren&#39;t moving quite as much as they once did because it&#39;s simply more convenient to become a landlord now than to sell a house.</p>
+Right now there are a lot of issues in the world that don’t receive enough attention. For example, a recent study has found that having a baby is more dangerous for Black families, even if they’re affluent. Additionally, there are many people who have taken up arms against their own country in Russia and elsewhere, as well a US jet recently shooting down an object over Canada. In Turkey there is an investigation into contractors in the wake of an enormous earthquake that affected both Turkey and Syria, and aid efforts in Syria have so far been unsuccessful. 
+
+Another event happening recently is the Super Bowl, where two Black quarterbacks will be leading their respective teams - an event which reflects progress on race issues, though it shows how much further we have to go since for much of pro football history Black players have been steered away from the quarterback position due to racism. There&#39;s also ongoing activity regarding betting on this Super Bowl, with bets on specific outcomes such as how long the national anthem will be expected to account for half of the total wagers. 
+
+On a more local scale here in the United States, Manhattan is looking at potentially awarding its first death penalty in nearly 60 years - being carried out against Sayfullo Saipov who was convicted of fatally mowing down eight people during a bike path rampage back in 2017. Finally, Gustavo Dudamel is at a crossroads as he prepares to leave Los Angeles after 2026 to lead the New York Philharmonic. 
+
+All in all, there are definitely some things to be mindful of and stay updated on around the world!</p>
 <ol>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>&lt;strong&gt;Childbirth Is Deadlier for Black Families Even When They’re Rich, Expansive Study Finds&lt;&#x2F;strong&gt;</h3>
+<h3>Childbirth Is Deadlier for Black Families Even When They’re Rich, Expansive Study Finds</h3>
 <sub></sub>
 <p>An analysis of two million births in California, the first research of its size to include both race and income, shows the best medical care for mothers and babies is not equally accessible to everyone.  <a href="https://nyti.ms/3lo5oQN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
@@ -89,7 +95,7 @@ Right now, there&#39;s a lot going on in the world. For starters, a new study ha
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Turkey Widens Investigation Into Contractors as Quake Toll Rises</h3>
 <sub>By Ben Hubbard, Safak Timur and Gulsin Harman</sub>
-<p>A top U.N. official said that aid efforts in neighboring Syria had “failed” so far. More than 28,000 people have died in the two countries.  <a href="https://nyti.ms/3IfLJvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A top U.N. official said that aid efforts in neighboring Syria had “failed” so far. More than 33,000 people have died in the two countries.  <a href="https://nyti.ms/3IfLJvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
