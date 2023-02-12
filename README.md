@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, February 11, Central Standard Time</p>
+<p>It is Sunday, February 12, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. In the U.S., a jet shot down an object that was violating Canadian airspace, while in Turkey and Syria, thousands of people are dead following a major earthquake and the government is facing criticism for its poor response. In the U.S., there&#39;s been a lot of discussion about helping seniors during the pandemic, as well as conversations about homelessness and even Native American rights. On the sports front, Patrick Mahomes led the Kansas City Chiefs to the Super Bowl for the second year in a row and controversy around the tomahawk chop resurfaced. All in all, it&#39;s an interesting time!</p>
+There is currently a lot of conflict happening around the world. In Turkey, 28 people have died due to an earthquake, and building contractors are being detained for negligent construction. In the US, a jet shot down an object over Canadian airspace and there is a land dispute between the Lac du Flambeau tribe and non-Native residents that has led to road blockades. On top of this, there is also increasing criticism of football&#39;s Tomahawk chop from Native Americans. Trends in dating have also been changing - it is becoming increasingly popular to use the language of therapy to discuss relationships.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Jet Shoots Down Flying Object Over Canada</h3>
@@ -73,18 +73,6 @@ Right now, there is a lot going on in the world. In the U.S., a jet shot down an
 <sub>By Ben Hubbard, Hwaida Saad, Raja Abdulrahim, Safak Timur, Steven Erlanger and Gulsin Harman</sub>
 <p>As the death toll in Turkey and Syria passed 28,000, Ankara was coming under growing criticism for its slow response and tolerance of shoddy construction.  <a href="https://nyti.ms/40OqCrf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Anger Over Quake Response Challenges Erdogan Ahead of Election</h3>
-<sub>By Ben Hubbard</sub>
-<p>A furor is building among some survivors over the government’s handling of the crisis. “I have been voting for this government for 20 years,” said one. “I will never forgive them.”  <a href="https://nyti.ms/3liJvlW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here’s how to help victims of the earthquake.</h3>
-<sub>By Ben Shpigel</sub>
-<p>Here’s how to contribute to organizations that are aiding the rescue and recovery efforts in Turkey and Syria.  <a href="https://nyti.ms/3YaSO61"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Wagner Founder Has Putin’s Support, but the Kremlin’s Side-Eye</h3>
@@ -133,6 +121,18 @@ Right now, there is a lot going on in the world. In the U.S., a jet shot down an
 <sub>By Kurt Streeter</sub>
 <p>The festivities leading up to the Super Bowl are full of fun and feel-good stories. But they obscure the harsh reality of the N.F.L.’s dangerous game.  <a href="https://nyti.ms/3YAa9Fo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>How the Language of Therapy Took Over Dating</h3>
+<sub>By Dani Blum</sub>
+<p>In a time when emotional maturity is highly desirable, almost everyone is “doing the work.”  <a href="https://nyti.ms/3jUclIX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Quiz: How Well Do You Know Your Modern Dating Terms?</h3>
+<sub>By The New York Times</sub>
+<p>Test your knowledge of the latest relationship terminology.  <a href="https://nyti.ms/3lrHwfj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
