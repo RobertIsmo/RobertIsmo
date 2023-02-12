@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 12, Central Standard Time</p>
 <p>
-It&#39;s a very busy world right now! In the US, a politician named Ron DeSantis is trying to figure out how to handle criticism from his predecessor, former President Donald Trump. Also in the US, Bernie Sanders is now head of the Senate health committee and has jurisdiction over issues he cares about. On a global level, there are ongoing conflicts between Russia and Ukraine and issues with aid distribution related to an earthquake in Syria. There are also issues related to healthcare inequality for Black families in the US. For Superbowl LVII this Sunday, both teams will be led by Black quarterbacks which is progress but also highlights how much further we have to go in terms of racial injustice. Lastly, New York City may be facing their first death penalty trial in 60 years after a 2017 bike-path rampage left 8 people dead. Lots going on!</p>
+There&#39;s been a lot of news regarding international politics lately. Russian fighters are battling against their own country in the Free Russia Legion, and Turkey recently completed an investigation into contractors after a devastating earthquake caused 33,000 deaths in Syria and Turkey. Closer to home, Governor Ron DeSantis is trying to avoid conflict with former President Trump after he launched insults at him and there&#39;s been military activity near Canada and Alaska as jets are shooting down flying objects violating the airspace. 
+
+On a lighter note, a street artist called Invader is putting art all over Paris and more progress is being made in sports. Two Black quarterbacks are representing both teams in the Super Bowl this year, reflecting both progress and lost opportunity due to racism. And if you really feel the need for adventure, you can join the “vanlife” ski communities in Oregon that accommodate RVs and vans for overnight stays at ski resorts.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis’s Challenge: When, and How, to Counterattack Trump</h3>
@@ -100,7 +102,7 @@ It&#39;s a very busy world right now! In the US, a politician named Ron DeSantis
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Turkey Widens Investigation Into Contractors as Quake Toll Rises</h3>
-<sub>By Ben Hubbard, Safak Timur and Gulsin Harman</sub>
+<sub>By Ben Hubbard, Gulsin Harman and Safak Timur</sub>
 <p>A top U.N. official said that aid efforts in neighboring Syria had “failed” so far. More than 33,000 people have died in the two countries.  <a href="https://nyti.ms/3IfLJvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
@@ -110,6 +112,12 @@ It&#39;s a very busy world right now! In the US, a politician named Ron DeSantis
 <p>Syrians have experienced relentless death and destruction during their country’s 12-year civil war. But some say the earthquake was worse than anything else they had endured.  <a href="https://nyti.ms/3Xsld6i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Across Paris, an Invader Unleashes His Art</h3>
+<sub>By Catherine Porter</sub>
+<p>Mosaics by a street artist, who calls himself “Invader,” have become part of the fabric of the city. They are everywhere — if you look for them.  <a href="https://nyti.ms/3Ys5k14"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Black Quarterbacks in the Super Bowl Reflect Progress and Lost Opportunity</h3>
 <sub>By Jenny Vrentas</sub>
@@ -117,22 +125,16 @@ It&#39;s a very busy world right now! In the US, a politician named Ron DeSantis
 <sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>It’s Time to Answer Your Questions About Super Bowl LVII</h3>
-<sub>By Ben Shpigel</sub>
-<p>When is the kickoff? What time will Rihanna perform? Who are the players to watch? Cheesesteak or barbecue? We have answers.  <a href="https://nyti.ms/40E1QKy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Maya Rudolph’s Super Bowl Challenge: Make M&amp;M’s Sweet Again</h3>
-<sub>By Tiffany Hsu</sub>
-<p>Unpopular companies and brands in trouble go with a strategy of hiring a likable celebrity and hoping for the best. But they might be better off with a puppy.  <a href="https://nyti.ms/3XkdyXW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Terror Trial Could Yield Manhattan’s First Death Penalty in 60 Years</h3>
-<sub>By Benjamin Weiser and Lola Fadulu</sub>
-<p>Sayfullo Saipov was convicted of fatally mowing down eight people in a 2017 bike-path rampage in New York. Will 12 jurors vote to execute him?  <a href="https://nyti.ms/3YnTCVq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Buddy, can you spare $2,900 … for a ticket?</h3>
+<sub>By Ken Belson</sub>
+<p>  <a href="https://nyti.ms/3YJ8KfF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Where #Vanlife Meets #Skibum</h3>
+<sub>By Heather Hansman</sub>
+<p>In the Pacific Northwest, ski resorts set aside spots in their parking lots for vans and R.V.s, creating overnight communities of skiers and riders. One writer toured three Oregon resorts to test the scene.  <a href="https://nyti.ms/3RKOqIv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
