@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 12, Central Standard Time</p>
 <p>
-There is currently a lot of conflict happening around the world. In Turkey, 28 people have died due to an earthquake, and building contractors are being detained for negligent construction. In the US, a jet shot down an object over Canadian airspace and there is a land dispute between the Lac du Flambeau tribe and non-Native residents that has led to road blockades. On top of this, there is also increasing criticism of football&#39;s Tomahawk chop from Native Americans. Trends in dating have also been changing - it is becoming increasingly popular to use the language of therapy to discuss relationships.</p>
+In the world, Prime Minister Justin Trudeau and President Biden have ordered for a jet to shoot down an object that was violating Canadian airspace. There is also growing criticism of Turkey as the death toll in Turkey and Syria has passed 28,000 due to a quake while contractors were being detained. Yevgeny V. Prigozhin, a once secretive tycoon, is dabbling in politics in Russia while the pandemic continues to affect older Americans and there are reports of homelessness with people&#39;s stories heard. People are also looking forward to the Super Bowl with Kansas City returning and bringing along the tomahawk chop which has drawn criticism from Native Americans. In addition, therapy language has taken over dating and people are questioning their knowledge of modern dating terms.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Jet Shoots Down Flying Object Over Canada</h3>
