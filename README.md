@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 12, Central Standard Time</p>
 <p>
-It looks like a lot is happening around the world right now. The US and Canada are investigating unidentified flying objects that have been recently shot down in North America. In Florida, Governor Ron DeSantis is avoiding conflict with former President Donald Trump, but if he runs for president as expected, a clash may be inevitable. In Russia, soldiers are fighting against their own country to resist Vladimir Putin&#39;s invasion. The Free Russia Legion has been engaged in some of the most heated fighting of the war. Also, the death toll from an earthquake in Turkey and Syria has surpassed 33,000 people, and they are now blaming poor construction for exacerbating the damage caused by the quake. Paris has also been invaded, but this time by a street artist who&#39;s mosaics can be seen all across the city. Finally, Jack Smith has stepped up his investigations into Donald Trump&#39;s efforts to hold onto power and his handling of classified documents as special counsel for Trump inquiries.</p>
+There are some strange things going on in the world right now. The US and Canada recently shot down three unidentified flying objects over North America and they&#39;re trying to figure out what those objects are. Meanwhile, Florida&#39;s governor Ron DeSantis is carefully avoiding conflict with former President Trump, who recently called him &#39;Ron DeSanctimonious.&#39; In Syria, a massive earthquake has led to the death of 33,000 people and is being linked to lax construction regulations. On a lighter note, singer Rihanna returned to the Super Bowl stage while pregnant, and street artist &quot;Invader&quot; has spread his art all over Paris. For those looking for something more adventurous, here’s a unique opportunity: many ski resorts in the Pacific Northwest are offering spots for vans and R.V.s in their parking lots for ski and snowboarders, creating overnight communities for the outdoorsy folk.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What’s Going On Up There? Theories but No Answers in Shootdowns of Mystery Craft.</h3>
 <sub>By Julian E. Barnes, Helene Cooper and Edward Wong</sub>
 <p>The U.S. and Canada are investigating three unidentified flying objects shot down over North America in the past three days. Militaries have adjusted radars to try to spot more incursions.  <a href="https://nyti.ms/3HUWnGD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The U.S. and Canada Shot Down Objects, but What Were They?</h3>
+<sub>By Julian E. Barnes and Adam Goldman</sub>
+<p>Here is what we know about the objects as well as the spy balloon that was taken down earlier this month.  <a href="https://nyti.ms/3YbGOBj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis’s Challenge: When, and How, to Counterattack Trump</h3>
@@ -80,6 +86,12 @@ It looks like a lot is happening around the world right now. The US and Canada a
 <p>The Florida governor has gained control of the board that oversees development at Walt Disney World. Here is more on what that means and what led to that change.  <a href="https://nyti.ms/3vJp5Ec"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>After a Long Hiatus, a Pregnant Rihanna Returns on the Super Bowl Stage</h3>
+<sub>By Lindsay Zoladz</sub>
+<p>Rihanna did not bring any other artists to the stage, preferring to frame the set as a celebration of her dominant pop career. The performance also served as a pregnancy reveal.  <a href="https://nyti.ms/3YNiuFA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>They Are Russians Fighting Against Their Homeland. Here’s Why.</h3>
 <sub>By Michael Schwirtz</sub>
@@ -90,12 +102,6 @@ It looks like a lot is happening around the world right now. The US and Canada a
 <h3>Russia’s Wagner Fighters Claim Advance Near Bakhmut</h3>
 <sub>By Shashank Bengali</sub>
 <p>The Wagner paramilitary group said its fighters had seized a village outside Bakhmut, as Moscow’s forces continue a brutal campaign that has nearly encircled the strategic eastern city.  <a href="https://nyti.ms/3XrCInx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Rihanna explained why she said yes to performing at halftime after previously declining.</h3>
-<sub>By Lindsay Zoladz</sub>
-<p>  <a href="https://nyti.ms/3HThERa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -127,12 +133,6 @@ It looks like a lot is happening around the world right now. The US and Canada a
 <sub>By Heather Hansman</sub>
 <p>In the Pacific Northwest, ski resorts set aside spots in their parking lots for vans and R.V.s, creating overnight communities of skiers and riders. One writer toured three Oregon resorts to test the scene.  <a href="https://nyti.ms/3RKOqIv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jack Smith, Special Counsel for Trump Inquiries, Steps Up the Pace</h3>
-<sub>By Maggie Haberman, Glenn Thrush and Alan Feuer</sub>
-<p>Named less than three months ago to oversee investigations into Donald J. Trump’s efforts to hold onto power and his handling of classified documents, the special counsel is moving aggressively.  <a href="https://nyti.ms/3RQfHtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
