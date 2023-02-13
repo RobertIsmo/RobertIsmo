@@ -60,11 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 13, Central Standard Time</p>
 <p>
-Things around the world have been pretty eventful lately. In China, their top airship scientist was promoted for a program to watch the world from above, and it turns out some of the companies he has founded were targeted by Washington. On the other side of the world, North America has been investigating unidentified flying objects that were shot down over the last few days. China claims that the U.S. regularly sends balloons into its airspace, which could explain why there had been sightings of them. Meanwhile, in Florida, College Board&#39;s experts had to answer questions from Governor DeSantis&#39;s state officials to try and prove that they weren&#39;t trying to advance a &quot;Black Panther thinking&quot;. 
-In the sports world, Kansas City won the Super Bowl after an impressive comeback, with their quarterback Patrick Mahomes dazzling during the game. After seven years away from the stage Rihanna used halftime to perform her hits and also announced her pregnancy. 
-Lastly, there is a case of missing money involving George Santos&#39; campaign finances in New York region that has raised irregularities. 
-Overall, there is never a dull moment in today&#39;s news!</p>
+Currently, there is large-scale unrest in Israel as Prime Minister Benjamin Netanyahu pushes ahead with plans to limit judicial influence, which has sparked huge protests. In China, records and reports show that the country is developing an airship programs to watch the world from above. Meanwhile, the U.S. and Canada are investigating mysteriously shot down crafts in their airspaces. Additionally, Georgia Judge will release parts of a report on Trump&#39;s election inquiry and in Turkey, an earthquake posed danger to survivors due to shortage of shelter and medical supplies. Back in the states, college board has met with Governor DeSantis’s about the A.P Black Studies Course, NYC Representative George Santos is facing nationwide scrutiny for missing funds and Kansas City quarterback Patrick Mahomes dazzled with a Super Bowl win over Philadelphia.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Netanyahu’s Judicial Overhaul Sparks Huge Protests in Israel</h3>
+<sub>By Patrick Kingsley and Isabel Kershner</sub>
+<p>As Benjamin Netanyahu’s government pressed ahead with plans to limit judicial influence, Israelis thronged to unusually large rallies.  <a href="https://nyti.ms/3YL00Wt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China’s Top Airship Scientist Promoted Program to Watch the World From Above</h3>
 <sub>By Chris Buckley</sub>
@@ -84,12 +87,6 @@ Overall, there is never a dull moment in today&#39;s news!</p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Timeline of the U.F.O.s That Were Shot Down This Weekend</h3>
-<sub>By Derrick Bryson Taylor</sub>
-<p>After a Chinese spy balloon was brought down this month, the U.S. has shot down at least three unidentified flying objects over the past few days.  <a href="https://nyti.ms/3lvCiPH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The College Board’s Rocky Path, Through Florida, to the A.P. Black Studies Course</h3>
 <sub>By Anemona Hartocollis, Dana Goldstein and Stephanie Saul</sub>
 <p>The nonprofit met with Governor DeSantis’s state officials, who asked whether the course was “trying to advance Black Panther thinking.”  <a href="https://nyti.ms/40UJwwH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -101,10 +98,22 @@ Overall, there is never a dull moment in today&#39;s news!</p>
 <p>His support among Republicans at this early stage of the primary cycle puts him in rare company.  <a href="https://nyti.ms/3E4srXw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Georgia Judge Will Release Parts of Report on Trump Election Inquiry</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>Releasing the introduction and conclusion of a special grand jury report could shed light on the extent to which Mr. Trump and others might face legal jeopardy in the case.  <a href="https://nyti.ms/40Sim9H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Our Losses Were Gigantic’: Life in a Sacrificial Russian Assault Wave</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Poorly trained Russian soldiers captured by Ukraine describe being used as cannon fodder by commanders throwing waves of bodies into an assault.  <a href="https://nyti.ms/3E2jePx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>They Were Told Their Building Was Earthquake Safe. It Collapsed Anyway.</h3>
+<sub>By James Glanz and Ceylan Yeginsu</sub>
+<p>Some structures promoted as being built to modern seismic codes did not withstand the quake in Turkey. One upscale tower that fell may have had a design flaw, engineers said.  <a href="https://nyti.ms/3xCgYLj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Shortages of Shelter and Medical Supplies Pose Dangers to Quake Survivors</h3>
+<sub>By Gulsin Harman, Hwaida Saad and Jenny Gross</sub>
+<p>A week after a powerful quake struck Turkey and Syria, the combined death toll surpassed 35,000. With more than a million homeless in Turkey alone, there is a desperate need for temporary housing.  <a href="https://nyti.ms/3E5QfdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -124,18 +133,6 @@ Overall, there is never a dull moment in today&#39;s news!</p>
 <sub>By Weiyi Cai, Or Fleisher, Malika Khurana, Mark McKeague, Yuliya Parshina-Kottas, Pablo Robles, Bedel Saget and Jenny Vrentas</sub>
 <p>In the fourth quarter, Kadarius Toney of the Kansas City Chiefs returned a punt to Philadelphia’s 5-yard line, setting up Patrick Mahomes’s third touchdown pass of the game.  <a href="https://nyti.ms/3luZGNk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>10 Things You Might Have Missed During the Super Bowl</h3>
-<sub>By Mike Wilson</sub>
-<p>A coach wept. A tennis star hawked cognac and beer. Nobody tried to sell you cryptocurrency. Rihanna dropped in to sing and lived to tell about it. And Kansas City won a football game.  <a href="https://nyti.ms/3jXJtzx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>At the Super Bowl, Rihanna Returns to Music, Briefly</h3>
-<sub>By Jon Caramanica</sub>
-<p>After seven years largely away from the stage, the singer and mogul used the halftime show to perform a dozen hits, nod to her nonmusical business and announce that she’s pregnant.  <a href="https://nyti.ms/3lurame"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
