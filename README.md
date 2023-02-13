@@ -60,10 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 12, Central Standard Time</p>
 <p>
-There&#39;s been a lot of news regarding international politics lately. Russian fighters are battling against their own country in the Free Russia Legion, and Turkey recently completed an investigation into contractors after a devastating earthquake caused 33,000 deaths in Syria and Turkey. Closer to home, Governor Ron DeSantis is trying to avoid conflict with former President Trump after he launched insults at him and there&#39;s been military activity near Canada and Alaska as jets are shooting down flying objects violating the airspace. 
-
-On a lighter note, a street artist called Invader is putting art all over Paris and more progress is being made in sports. Two Black quarterbacks are representing both teams in the Super Bowl this year, reflecting both progress and lost opportunity due to racism. And if you really feel the need for adventure, you can join the “vanlife” ski communities in Oregon that accommodate RVs and vans for overnight stays at ski resorts.</p>
+It looks like a lot is happening around the world right now. The US and Canada are investigating unidentified flying objects that have been recently shot down in North America. In Florida, Governor Ron DeSantis is avoiding conflict with former President Donald Trump, but if he runs for president as expected, a clash may be inevitable. In Russia, soldiers are fighting against their own country to resist Vladimir Putin&#39;s invasion. The Free Russia Legion has been engaged in some of the most heated fighting of the war. Also, the death toll from an earthquake in Turkey and Syria has surpassed 33,000 people, and they are now blaming poor construction for exacerbating the damage caused by the quake. Paris has also been invaded, but this time by a street artist who&#39;s mosaics can be seen all across the city. Finally, Jack Smith has stepped up his investigations into Donald Trump&#39;s efforts to hold onto power and his handling of classified documents as special counsel for Trump inquiries.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What’s Going On Up There? Theories but No Answers in Shootdowns of Mystery Craft.</h3>
+<sub>By Julian E. Barnes, Helene Cooper and Edward Wong</sub>
+<p>The U.S. and Canada are investigating three unidentified flying objects shot down over North America in the past three days. Militaries have adjusted radars to try to spot more incursions.  <a href="https://nyti.ms/3HUWnGD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis’s Challenge: When, and How, to Counterattack Trump</h3>
 <sub>By Michael C. Bender and Maggie Haberman</sub>
@@ -71,16 +75,10 @@ On a lighter note, a street artist called Invader is putting art all over Paris 
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Bernie Sanders Has a New Role. It Could Be His Final Act in Washington.</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>After two unsuccessful runs for the presidency, the Vermont senator now leads the Senate health committee, a job that gives him sweeping jurisdiction over issues he cares about.  <a href="https://nyti.ms/3YMcWLx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Childbirth Is Deadlier for Black Families Even When They’re Rich, Expansive Study Finds</h3>
-<sub></sub>
-<p>An analysis of two million births in California, the first research of its size to include both race and income, shows the best medical care for mothers and babies is not equally accessible to everyone.  <a href="https://nyti.ms/3lo5oQN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<h3>What We Know About the DeSantis-Disney Rift</h3>
+<sub>By Jesus Jiménez and Giulia Heyward</sub>
+<p>The Florida governor has gained control of the board that oversees development at Walt Disney World. Here is more on what that means and what led to that change.  <a href="https://nyti.ms/3vJp5Ec"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>They Are Russians Fighting Against Their Homeland. Here’s Why.</h3>
@@ -94,16 +92,22 @@ On a lighter note, a street artist called Invader is putting art all over Paris 
 <p>The Wagner paramilitary group said its fighters had seized a village outside Bakhmut, as Moscow’s forces continue a brutal campaign that has nearly encircled the strategic eastern city.  <a href="https://nyti.ms/3XrCInx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Jet Shoots Down Flying Object Over Canada</h3>
-<sub>By Helene Cooper</sub>
-<p>Prime Minister Justin Trudeau said he and President Biden had ordered the object violating Canadian airspace to be taken down, a day after another object was shot out of the sky near Alaska.  <a href="https://nyti.ms/3YnecoU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Rihanna explained why she said yes to performing at halftime after previously declining.</h3>
+<sub>By Lindsay Zoladz</sub>
+<p>  <a href="https://nyti.ms/3HThERa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Childbirth Is Deadlier for Black Families Even When They’re Rich, Expansive Study Finds</h3>
+<sub></sub>
+<p>An analysis of two million births in California, the first research of its size to include both race and income, shows the best medical care for mothers and babies is not equally accessible to everyone.  <a href="https://nyti.ms/3lo5oQN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Turkey Widens Investigation Into Contractors as Quake Toll Rises</h3>
+<h3>Amnesty in Turkey for Construction Violations Is Scrutinized After Quake</h3>
 <sub>By Ben Hubbard, Gulsin Harman and Safak Timur</sub>
-<p>A top U.N. official said that aid efforts in neighboring Syria had “failed” so far. More than 33,000 people have died in the two countries.  <a href="https://nyti.ms/3IfLJvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Survivors and building experts say poor construction most likely exacerbated the scale of the earthquake’s destruction, as the death toll in Turkey and Syria surpassed 33,000 people.  <a href="https://nyti.ms/3IfLJvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -118,23 +122,17 @@ On a lighter note, a street artist called Invader is putting art all over Paris 
 <p>Mosaics by a street artist, who calls himself “Invader,” have become part of the fabric of the city. They are everywhere — if you look for them.  <a href="https://nyti.ms/3Ys5k14"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Black Quarterbacks in the Super Bowl Reflect Progress and Lost Opportunity</h3>
-<sub>By Jenny Vrentas</sub>
-<p>Black quarterbacks will lead both teams in Sunday’s Super Bowl. But for much of pro football history, Black players were steered away from the position because of racist assumptions.  <a href="https://nyti.ms/3XjZy0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Buddy, can you spare $2,900 … for a ticket?</h3>
-<sub>By Ken Belson</sub>
-<p>  <a href="https://nyti.ms/3YJ8KfF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
 <h3>Where #Vanlife Meets #Skibum</h3>
 <sub>By Heather Hansman</sub>
 <p>In the Pacific Northwest, ski resorts set aside spots in their parking lots for vans and R.V.s, creating overnight communities of skiers and riders. One writer toured three Oregon resorts to test the scene.  <a href="https://nyti.ms/3RKOqIv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jack Smith, Special Counsel for Trump Inquiries, Steps Up the Pace</h3>
+<sub>By Maggie Haberman, Glenn Thrush and Alan Feuer</sub>
+<p>Named less than three months ago to oversee investigations into Donald J. Trump’s efforts to hold onto power and his handling of classified documents, the special counsel is moving aggressively.  <a href="https://nyti.ms/3RQfHtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
