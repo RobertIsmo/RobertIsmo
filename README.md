@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, February 12, Central Standard Time</p>
+<p>It is Monday, February 13, Central Standard Time</p>
 <p>
-There are some strange things going on in the world right now. The US and Canada recently shot down three unidentified flying objects over North America and they&#39;re trying to figure out what those objects are. Meanwhile, Florida&#39;s governor Ron DeSantis is carefully avoiding conflict with former President Trump, who recently called him &#39;Ron DeSanctimonious.&#39; In Syria, a massive earthquake has led to the death of 33,000 people and is being linked to lax construction regulations. On a lighter note, singer Rihanna returned to the Super Bowl stage while pregnant, and street artist &quot;Invader&quot; has spread his art all over Paris. For those looking for something more adventurous, here’s a unique opportunity: many ski resorts in the Pacific Northwest are offering spots for vans and R.V.s in their parking lots for ski and snowboarders, creating overnight communities for the outdoorsy folk.</p>
+There are some completely mysterious objects being shot down over North America, but the U.S. and Canada aren&#39;t sure what they are. Ron DeSantis, the Florida governor, is trying to figure out a way to respond to attacks from Trump while also maintaining control of a board overseeing development at Walt Disney World. In sports news, Patrick Mahomes and the Kansas City Chiefs have just won the Super Bowl in an excellent game against the Philadelphia Eagles. On the arts side, Rihanna returned to music briefly during the halftime show and even announced that she&#39;s pregnant! Lastly, in world news there are Russian soldiers taking up arms against their home country in response to Vladimir Putin&#39;s invasion and a terrible earthquake has recently happened in Turkey and Syria that has so far resulted in 33,000 deaths.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What’s Going On Up There? Theories but No Answers in Shootdowns of Mystery Craft.</h3>
@@ -87,9 +87,21 @@ There are some strange things going on in the world right now. The US and Canada
 <sub><sub>Sunday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>After a Long Hiatus, a Pregnant Rihanna Returns on the Super Bowl Stage</h3>
-<sub>By Lindsay Zoladz</sub>
-<p>Rihanna did not bring any other artists to the stage, preferring to frame the set as a celebration of her dominant pop career. The performance also served as a pregnancy reveal.  <a href="https://nyti.ms/3YNiuFA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>With Another Super Bowl Comeback, Patrick Mahomes Brightens N.F.L.’s Future</h3>
+<sub>By Emmanuel Morgan</sub>
+<p>Capping a season plagued by shocking injuries and turnover among football’s most recognizable names, Mahomes, the Kansas City quarterback, dazzled in a Super Bowl win over Philadelphia.  <a href="https://nyti.ms/3lqzvHr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>At the Super Bowl, Rihanna Returns to Music, Briefly</h3>
+<sub>By Jon Caramanica</sub>
+<p>After seven years largely away from the stage, the singer and mogul used the halftime show to perform a dozen hits, nod to her nonmusical business and announce that she’s pregnant.  <a href="https://nyti.ms/3lurame"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Eagles Came as Close as Close Can Get</h3>
+<sub>By Ken Belson</sub>
+<p>Philadelphia quarterback Jalen Hurts scored four total touchdowns in a performance with only one blemish, but it was a big one: a fumble returned for a touchdown.  <a href="https://nyti.ms/3JZvXpV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -121,18 +133,6 @@ There are some strange things going on in the world right now. The US and Canada
 <sub>By Raja Abdulrahim and Emily Garthwaite</sub>
 <p>Syrians have experienced relentless death and destruction during their country’s 12-year civil war. But some say the earthquake was worse than anything else they had endured.  <a href="https://nyti.ms/3Xsld6i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Across Paris, an Invader Unleashes His Art</h3>
-<sub>By Catherine Porter</sub>
-<p>Mosaics by a street artist, who calls himself “Invader,” have become part of the fabric of the city. They are everywhere — if you look for them.  <a href="https://nyti.ms/3Ys5k14"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Where #Vanlife Meets #Skibum</h3>
-<sub>By Heather Hansman</sub>
-<p>In the Pacific Northwest, ski resorts set aside spots in their parking lots for vans and R.V.s, creating overnight communities of skiers and riders. One writer toured three Oregon resorts to test the scene.  <a href="https://nyti.ms/3RKOqIv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
