@@ -60,36 +60,66 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 13, Central Standard Time</p>
 <p>
-There are some completely mysterious objects being shot down over North America, but the U.S. and Canada aren&#39;t sure what they are. Ron DeSantis, the Florida governor, is trying to figure out a way to respond to attacks from Trump while also maintaining control of a board overseeing development at Walt Disney World. In sports news, Patrick Mahomes and the Kansas City Chiefs have just won the Super Bowl in an excellent game against the Philadelphia Eagles. On the arts side, Rihanna returned to music briefly during the halftime show and even announced that she&#39;s pregnant! Lastly, in world news there are Russian soldiers taking up arms against their home country in response to Vladimir Putin&#39;s invasion and a terrible earthquake has recently happened in Turkey and Syria that has so far resulted in 33,000 deaths.</p>
+It&#39;s been a busy week in world news. In China, the head of their airship program has announced that they sent one over North America in 2019, which has led to increased tensions with Washington. Meanwhile, there have been multiple shootdowns in North American airspace of mysterious craft, prompting investigations from both the US and Canada. China claims the US regularly sends experimental balloons into their airspace. Over in Russia, soldiers captured by Ukraine have recounted being used as cannon fodder by commanders during assaults. In Turkey, survivors and building experts are scrutinizing a construction amnesty after an earthquake that killed over 33,000 people.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Rocky Path to the College Board’s A.P. Black Studies Course</h3>
+<sub>By Anemona Hartocollis, Dana Goldstein and Stephanie Saul</sub>
+<p>Over a year, the nonprofit dropped concepts favored by academics, held a frustrating meeting with Florida officials and left educators in doubt about the process.  <a href="https://nyti.ms/40UJwwH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Top Airship Scientist Said He Sent One Over North America in 2019</h3>
+<sub>By Chris Buckley</sub>
+<p>Corporate records and media reports reveal an airship scientist at the center of China’s high-altitude balloon program. Companies he has founded were among those targeted by Washington.  <a href="https://nyti.ms/40Ts3Vq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What’s Going On Up There? Theories but No Answers in Shootdowns of Mystery Craft.</h3>
 <sub>By Julian E. Barnes, Helene Cooper and Edward Wong</sub>
 <p>The U.S. and Canada are investigating three unidentified flying objects shot down over North America in the past three days. Militaries have adjusted radars to try to spot more incursions.  <a href="https://nyti.ms/3HUWnGD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The U.S. and Canada Shot Down Objects, but What Were They?</h3>
-<sub>By Julian E. Barnes and Adam Goldman</sub>
-<p>Here is what we know about the objects as well as the spy balloon that was taken down earlier this month.  <a href="https://nyti.ms/3YbGOBj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Says U.S. Regularly Sends Balloons Into Its Airspace</h3>
+<sub>By Daisuke Wakabayashi and Claire Fu</sub>
+<p>The claim followed a weekend of aerial theatrics, with Washington and Beijing spotting unidentified flying objects in their airspaces.  <a href="https://nyti.ms/3Xsg6D6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis’s Challenge: When, and How, to Counterattack Trump</h3>
-<sub>By Michael C. Bender and Maggie Haberman</sub>
-<p>As the former president lobs insults and calls him “Ron DeSanctimonious,” Gov. Ron DeSantis is carefully avoiding conflict. But if he runs for president as expected, a clash is inevitable.  <a href="https://nyti.ms/3XoZg8b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<h3>A Timeline of the U.F.O.s That Were Shot Down This Weekend</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>After a Chinese spy balloon was brought down this month, the U.S. has shot down at least three unidentified flying objects over the past few days.  <a href="https://nyti.ms/3lvCiPH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the DeSantis-Disney Rift</h3>
-<sub>By Jesus Jiménez and Giulia Heyward</sub>
-<p>The Florida governor has gained control of the board that oversees development at Walt Disney World. Here is more on what that means and what led to that change.  <a href="https://nyti.ms/3vJp5Ec"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Our Losses Were Gigantic’: Life in a Sacrificial Russian Assault Wave</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Poorly trained Russian soldiers captured by Ukraine describe being used as cannon fodder by commanders throwing waves of bodies into an assault.  <a href="https://nyti.ms/3E2jePx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos and the Case of the Missing $365,000</h3>
+<sub>By Grace Ashford, Alexandra Berzon, Ken Bensinger and Alyce McFadden</sub>
+<p>Representative George Santos’s failure to account for hundreds of thousands of dollars in spending is part of a pattern of irregularities in the way his campaign handled its finances.  <a href="https://nyti.ms/3E3UfeJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>With Another Super Bowl Comeback, Patrick Mahomes Brightens N.F.L.’s Future</h3>
 <sub>By Emmanuel Morgan</sub>
 <p>Capping a season plagued by shocking injuries and turnover among football’s most recognizable names, Mahomes, the Kansas City quarterback, dazzled in a Super Bowl win over Philadelphia.  <a href="https://nyti.ms/3lqzvHr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>10 Things You Might Have Missed During the Super Bowl</h3>
+<sub>By Mike Wilson</sub>
+<p>A coach wept. A tennis star hawked cognac and beer. Nobody tried to sell you cryptocurrency. Rihanna dropped in to sing and lived to tell about it. And Kansas City won a football game.  <a href="https://nyti.ms/3jXJtzx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Eagles Came as Close as Close Can Get</h3>
+<sub>By Ken Belson</sub>
+<p>Philadelphia quarterback Jalen Hurts scored four total touchdowns in a performance with only one blemish, but it was a big one: a fumble returned for a touchdown.  <a href="https://nyti.ms/3JZvXpV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -98,40 +128,10 @@ There are some completely mysterious objects being shot down over North America,
 <p>After seven years largely away from the stage, the singer and mogul used the halftime show to perform a dozen hits, nod to her nonmusical business and announce that she’s pregnant.  <a href="https://nyti.ms/3lurame"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Eagles Came as Close as Close Can Get</h3>
-<sub>By Ken Belson</sub>
-<p>Philadelphia quarterback Jalen Hurts scored four total touchdowns in a performance with only one blemish, but it was a big one: a fumble returned for a touchdown.  <a href="https://nyti.ms/3JZvXpV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Are Russians Fighting Against Their Homeland. Here’s Why.</h3>
-<sub>By Michael Schwirtz</sub>
-<p>In the Free Russia Legion, soldiers repelled by Vladimir Putin’s invasion have taken arms against their home country, engaged in some of the most heated fighting in the war.  <a href="https://nyti.ms/3E35V1f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s Wagner Fighters Claim Advance Near Bakhmut</h3>
-<sub>By Shashank Bengali</sub>
-<p>The Wagner paramilitary group said its fighters had seized a village outside Bakhmut, as Moscow’s forces continue a brutal campaign that has nearly encircled the strategic eastern city.  <a href="https://nyti.ms/3XrCInx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Childbirth Is Deadlier for Black Families Even When They’re Rich, Expansive Study Finds</h3>
-<sub></sub>
-<p>An analysis of two million births in California, the first research of its size to include both race and income, shows the best medical care for mothers and babies is not equally accessible to everyone.  <a href="https://nyti.ms/3lo5oQN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Amnesty in Turkey for Construction Violations Is Scrutinized After Quake</h3>
 <sub>By Ben Hubbard, Gulsin Harman and Safak Timur</sub>
 <p>Survivors and building experts say poor construction most likely exacerbated the scale of the earthquake’s destruction, as the death toll in Turkey and Syria surpassed 33,000 people.  <a href="https://nyti.ms/3IfLJvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Lives of Syrian Refugees in Turkey Shatter a Second, or Third, Time</h3>
-<sub>By Raja Abdulrahim and Emily Garthwaite</sub>
-<p>Syrians have experienced relentless death and destruction during their country’s 12-year civil war. But some say the earthquake was worse than anything else they had endured.  <a href="https://nyti.ms/3Xsld6i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
