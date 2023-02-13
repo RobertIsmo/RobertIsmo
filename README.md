@@ -60,16 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 13, Central Standard Time</p>
 <p>
-It&#39;s been a busy week in world news. In China, the head of their airship program has announced that they sent one over North America in 2019, which has led to increased tensions with Washington. Meanwhile, there have been multiple shootdowns in North American airspace of mysterious craft, prompting investigations from both the US and Canada. China claims the US regularly sends experimental balloons into their airspace. Over in Russia, soldiers captured by Ukraine have recounted being used as cannon fodder by commanders during assaults. In Turkey, survivors and building experts are scrutinizing a construction amnesty after an earthquake that killed over 33,000 people.</p>
+Things around the world have been pretty eventful lately. In China, their top airship scientist was promoted for a program to watch the world from above, and it turns out some of the companies he has founded were targeted by Washington. On the other side of the world, North America has been investigating unidentified flying objects that were shot down over the last few days. China claims that the U.S. regularly sends balloons into its airspace, which could explain why there had been sightings of them. Meanwhile, in Florida, College Board&#39;s experts had to answer questions from Governor DeSantis&#39;s state officials to try and prove that they weren&#39;t trying to advance a &quot;Black Panther thinking&quot;. 
+In the sports world, Kansas City won the Super Bowl after an impressive comeback, with their quarterback Patrick Mahomes dazzling during the game. After seven years away from the stage Rihanna used halftime to perform her hits and also announced her pregnancy. 
+Lastly, there is a case of missing money involving George Santos&#39; campaign finances in New York region that has raised irregularities. 
+Overall, there is never a dull moment in today&#39;s news!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Rocky Path to the College Board’s A.P. Black Studies Course</h3>
-<sub>By Anemona Hartocollis, Dana Goldstein and Stephanie Saul</sub>
-<p>Over a year, the nonprofit dropped concepts favored by academics, held a frustrating meeting with Florida officials and left educators in doubt about the process.  <a href="https://nyti.ms/40UJwwH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Top Airship Scientist Said He Sent One Over North America in 2019</h3>
+<h3>China’s Top Airship Scientist Promoted Program to Watch the World From Above</h3>
 <sub>By Chris Buckley</sub>
 <p>Corporate records and media reports reveal an airship scientist at the center of China’s high-altitude balloon program. Companies he has founded were among those targeted by Washington.  <a href="https://nyti.ms/40Ts3Vq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
@@ -92,6 +89,18 @@ It&#39;s been a busy week in world news. In China, the head of their airship pro
 <p>After a Chinese spy balloon was brought down this month, the U.S. has shot down at least three unidentified flying objects over the past few days.  <a href="https://nyti.ms/3lvCiPH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The College Board’s Rocky Path, Through Florida, to the A.P. Black Studies Course</h3>
+<sub>By Anemona Hartocollis, Dana Goldstein and Stephanie Saul</sub>
+<p>The nonprofit met with Governor DeSantis’s state officials, who asked whether the course was “trying to advance Black Panther thinking.”  <a href="https://nyti.ms/40UJwwH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Ron DeSantis Is Not Scott Walker</h3>
+<sub>By Nate Cohn</sub>
+<p>His support among Republicans at this early stage of the primary cycle puts him in rare company.  <a href="https://nyti.ms/3E4srXw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Our Losses Were Gigantic’: Life in a Sacrificial Russian Assault Wave</h3>
 <sub>By Andrew E. Kramer</sub>
@@ -111,27 +120,21 @@ It&#39;s been a busy week in world news. In China, the head of their airship pro
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>See How Kansas City Secured Its Comeback With a 65-Yard Punt Return</h3>
+<sub>By Weiyi Cai, Or Fleisher, Malika Khurana, Mark McKeague, Yuliya Parshina-Kottas, Pablo Robles, Bedel Saget and Jenny Vrentas</sub>
+<p>In the fourth quarter, Kadarius Toney of the Kansas City Chiefs returned a punt to Philadelphia’s 5-yard line, setting up Patrick Mahomes’s third touchdown pass of the game.  <a href="https://nyti.ms/3luZGNk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>10 Things You Might Have Missed During the Super Bowl</h3>
 <sub>By Mike Wilson</sub>
 <p>A coach wept. A tennis star hawked cognac and beer. Nobody tried to sell you cryptocurrency. Rihanna dropped in to sing and lived to tell about it. And Kansas City won a football game.  <a href="https://nyti.ms/3jXJtzx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Eagles Came as Close as Close Can Get</h3>
-<sub>By Ken Belson</sub>
-<p>Philadelphia quarterback Jalen Hurts scored four total touchdowns in a performance with only one blemish, but it was a big one: a fumble returned for a touchdown.  <a href="https://nyti.ms/3JZvXpV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>At the Super Bowl, Rihanna Returns to Music, Briefly</h3>
 <sub>By Jon Caramanica</sub>
 <p>After seven years largely away from the stage, the singer and mogul used the halftime show to perform a dozen hits, nod to her nonmusical business and announce that she’s pregnant.  <a href="https://nyti.ms/3lurame"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amnesty in Turkey for Construction Violations Is Scrutinized After Quake</h3>
-<sub>By Ben Hubbard, Gulsin Harman and Safak Timur</sub>
-<p>Survivors and building experts say poor construction most likely exacerbated the scale of the earthquake’s destruction, as the death toll in Turkey and Syria surpassed 33,000 people.  <a href="https://nyti.ms/3IfLJvw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
