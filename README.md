@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 13, Central Standard Time</p>
 <p>
-Currently, there is large-scale unrest in Israel as Prime Minister Benjamin Netanyahu pushes ahead with plans to limit judicial influence, which has sparked huge protests. In China, records and reports show that the country is developing an airship programs to watch the world from above. Meanwhile, the U.S. and Canada are investigating mysteriously shot down crafts in their airspaces. Additionally, Georgia Judge will release parts of a report on Trump&#39;s election inquiry and in Turkey, an earthquake posed danger to survivors due to shortage of shelter and medical supplies. Back in the states, college board has met with Governor DeSantis’s about the A.P Black Studies Course, NYC Representative George Santos is facing nationwide scrutiny for missing funds and Kansas City quarterback Patrick Mahomes dazzled with a Super Bowl win over Philadelphia.</p>
+There are a lot of big developments happening around the world. In Israel, there have been huge protests over Benjamin Netanyahu&#39;s plans to limit judicial influence. In China, a scientist has been promoting a program to watch the world from above using airships. Here in the US, we&#39;ve had an inquiry into Donald Trump&#39;s election and a judge is about to release parts of the report on it. There was also a powerful earthquake in Turkey and Syria, leaving many people homeless, and in need of temporary housing. We&#39;ve had politicians here in America facing legal jeopardy due to campaign finance irregularities too. On top of all this, there was an interesting football game where a referee&#39;s call cost the Eagles a win, and set up an impressive 65-yard punt return that secured Kansas City&#39;s comeback. Finally, Russian soldiers captured by Ukraine have reported being used as cannon fodder by commanders throwing waves of bodies into an assault.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu’s Judicial Overhaul Sparks Huge Protests in Israel</h3>
@@ -75,15 +75,33 @@ Currently, there is large-scale unrest in Israel as Prime Minister Benjamin Neta
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What’s Going On Up There? Theories but No Answers in Shootdowns of Mystery Craft.</h3>
-<sub>By Julian E. Barnes, Helene Cooper and Edward Wong</sub>
-<p>The U.S. and Canada are investigating three unidentified flying objects shot down over North America in the past three days. Militaries have adjusted radars to try to spot more incursions.  <a href="https://nyti.ms/3HUWnGD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<h3>Why a U.S. Plane Shot Down an Object Over Canada</h3>
+<sub>By Maggie Astor</sub>
+<p>The plane was part of NORAD, a defense organization operated jointly by the U.S. and Canada.  <a href="https://nyti.ms/3K0FmgU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Georgia Judge Will Release Parts of Report on Trump Election Inquiry</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>Releasing the introduction and conclusion of a special grand jury report could shed light on the extent to which Mr. Trump and others might face legal jeopardy in the case.  <a href="https://nyti.ms/3XtlwxN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Says U.S. Regularly Sends Balloons Into Its Airspace</h3>
-<sub>By Daisuke Wakabayashi and Claire Fu</sub>
-<p>The claim followed a weekend of aerial theatrics, with Washington and Beijing spotting unidentified flying objects in their airspaces.  <a href="https://nyti.ms/3Xsg6D6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>They Were Told Their Building Was Earthquake Safe. It Collapsed Anyway.</h3>
+<sub>By James Glanz and Ceylan Yeginsu</sub>
+<p>Some structures promoted as being built to modern seismic codes did not withstand the quake in Turkey. One upscale tower that fell may have had a design flaw, engineers said.  <a href="https://nyti.ms/3xCgYLj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Shortages of Shelter and Medical Supplies Pose Dangers to Quake Survivors</h3>
+<sub>By Ben Hubbard, Gulsin Harman, Hwaida Saad and Jenny Gross</sub>
+<p>A week after a powerful quake struck Turkey and Syria, the combined death toll surpassed 35,000. With more than a million homeless in Turkey alone, there is a desperate need for temporary housing.  <a href="https://nyti.ms/3E3SEVX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos and the Case of the Missing $365,000</h3>
+<sub>By Grace Ashford, Alexandra Berzon, Ken Bensinger and Alyce McFadden</sub>
+<p>Representative George Santos’s failure to account for hundreds of thousands of dollars in spending is part of a pattern of irregularities in the way his campaign handled its finances.  <a href="https://nyti.ms/3E3UfeJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,40 +116,22 @@ Currently, there is large-scale unrest in Israel as Prime Minister Benjamin Neta
 <p>His support among Republicans at this early stage of the primary cycle puts him in rare company.  <a href="https://nyti.ms/3E4srXw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Judge Will Release Parts of Report on Trump Election Inquiry</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>Releasing the introduction and conclusion of a special grand jury report could shed light on the extent to which Mr. Trump and others might face legal jeopardy in the case.  <a href="https://nyti.ms/40Sim9H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Were Told Their Building Was Earthquake Safe. It Collapsed Anyway.</h3>
-<sub>By James Glanz and Ceylan Yeginsu</sub>
-<p>Some structures promoted as being built to modern seismic codes did not withstand the quake in Turkey. One upscale tower that fell may have had a design flaw, engineers said.  <a href="https://nyti.ms/3xCgYLj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Shortages of Shelter and Medical Supplies Pose Dangers to Quake Survivors</h3>
-<sub>By Gulsin Harman, Hwaida Saad and Jenny Gross</sub>
-<p>A week after a powerful quake struck Turkey and Syria, the combined death toll surpassed 35,000. With more than a million homeless in Turkey alone, there is a desperate need for temporary housing.  <a href="https://nyti.ms/3E5QfdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos and the Case of the Missing $365,000</h3>
-<sub>By Grace Ashford, Alexandra Berzon, Ken Bensinger and Alyce McFadden</sub>
-<p>Representative George Santos’s failure to account for hundreds of thousands of dollars in spending is part of a pattern of irregularities in the way his campaign handled its finances.  <a href="https://nyti.ms/3E3UfeJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>With Another Super Bowl Comeback, Patrick Mahomes Brightens N.F.L.’s Future</h3>
-<sub>By Emmanuel Morgan</sub>
-<p>Capping a season plagued by shocking injuries and turnover among football’s most recognizable names, Mahomes, the Kansas City quarterback, dazzled in a Super Bowl win over Philadelphia.  <a href="https://nyti.ms/3lqzvHr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 12, Central Standard Time</sub></sub>
+<h3>Did a Referee’s Call Unfairly Cost the Eagles a Super Bowl Win?</h3>
+<sub>By Victor Mather</sub>
+<p>Philadelphia cornerback James Bradberry admitted he tugged on the jersey of a Kansas City receiver. But was it really a penalty? The answer depends largely on what colors you wear.  <a href="https://nyti.ms/3IkvcWZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>See How Kansas City Secured Its Comeback With a 65-Yard Punt Return</h3>
 <sub>By Weiyi Cai, Or Fleisher, Malika Khurana, Mark McKeague, Yuliya Parshina-Kottas, Pablo Robles, Bedel Saget and Jenny Vrentas</sub>
 <p>In the fourth quarter, Kadarius Toney of the Kansas City Chiefs returned a punt to Philadelphia’s 5-yard line, setting up Patrick Mahomes’s third touchdown pass of the game.  <a href="https://nyti.ms/3luZGNk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Our Losses Were Gigantic’: Life in a Sacrificial Russian Assault Wave</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Poorly trained Russian soldiers captured by Ukraine describe being used as cannon fodder by commanders throwing waves of bodies into an assault.  <a href="https://nyti.ms/3E2jePx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
