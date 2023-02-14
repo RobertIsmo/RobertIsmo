@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 13, Central Standard Time</p>
 <p>
-At the moment, tensions are rising between the US and China over some surprising reports of UFOs and accusations of spy programs. On top of that, there have been huge protests in Israel surrounding Prime Minister Netanyahu&#39;s plans to limit judicial influence. Closer to home in the US, Republicans are facing party divisions preventing them from passing certain laws they had planned to, such as cracking down on unauthorized immigrants and providing law enforcement support. Additionally, a New York representative is being investigated for not accounting for hundreds of thousands of dollars of spending. Overseas, Syria recently experienced an earthquake and aid hasn&#39;t been able to reach one hard-hit region - however, there has been some progress in terms of President Assad opening up two more border crossings to help with relief efforts. There also appears to be a design flaw with certain buildings that were &quot;unexpectedly&quot; destroyed by the quake. Here in the US, a college board is having conflicts due to potential black panther associations when trying to introduce an AP Black Studies course. And finally, Florida&#39;s Governor DeSantis is gaining strong approval from Republicans which is putting him in a rare category at this stage of the primary cycle.</p>
+There’s been a lot of news recently concerning U.S. and world affairs. The Biden administration is looking into unidentified flying objects, and tensions are rising over espionage accusations against China. In Israel, massive protests have broken out over Benjamin Netanyahu&#39;s judicial overhaul. The G.O.P still faces internal party divisions that prevent them from pushing forward legislation to strengthen immigration enforcement and law enforcement. George Santos is being questioned for misusing hundreds of thousands of dollars from his campaign. On the humanitarian side, little aid has come to hard-hit Syria, but there appears to be some progress between President Bashar al-Assad and the opposition forces for cross-border delivery of aid. In Ukraine, troops have been barred from Bakhmut as Russia tightens its grip on the area. On a more positive note, Japan has seen an increase in tourists and economic growth as a result, while teens affected by &quot;TikTok Tics&quot; have recovered post-pandemic.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tensions Rise Over Spy Programs as U.S. Investigates Downed Craft</h3>
@@ -111,27 +111,27 @@ At the moment, tensions are rising between the US and China over some surprising
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Were Told Their Building Was Earthquake Safe. It Collapsed Anyway.</h3>
-<sub>By James Glanz and Ceylan Yeginsu</sub>
-<p>Some structures promoted as being built to modern seismic codes did not withstand the quake in Turkey. One upscale tower that fell may have had a design flaw, engineers said.  <a href="https://nyti.ms/3xCgYLj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Bars Aid Workers From Bakhmut as Russia Tightens Its Grip</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>With Moscow’s forces closing in, the besieged city is too dangerous for the volunteers, Ukrainian commanders said, in what could be a prelude to a Ukrainian withdrawal.  <a href="https://nyti.ms/3lBLaDd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Judge Will Release Parts of Report on Trump Election Inquiry</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>Releasing the introduction and conclusion of a special grand jury report could shed light on the extent to which Mr. Trump and others might face legal jeopardy in the case.  <a href="https://nyti.ms/3XtlwxN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainians Demonstrate Training on Leopard Tanks in Poland</h3>
+<sub>By Lara Jakes</sub>
+<p>Kyiv’s troops are getting a crash course in using the German-made tanks, less than three weeks after Berlin agreed, under pressure from Poland and others, to let them go to Ukraine.  <a href="https://nyti.ms/3In68Pu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The College Board’s Rocky Path, Through Florida, to the A.P. Black Studies Course</h3>
-<sub>By Anemona Hartocollis, Dana Goldstein and Stephanie Saul</sub>
-<p>The nonprofit met with Governor DeSantis’s state officials, who asked whether the course was “trying to advance Black Panther thinking.”  <a href="https://nyti.ms/40UJwwH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Packed With Tourists, Japan Returns to Economic Growth</h3>
+<sub>By Ben Dooley and Hisako Ueno</sub>
+<p>The modest expansion in the fourth quarter of 2022 was driven by a recovery in private consumption, as well as spending by visitors.  <a href="https://nyti.ms/3XIzIU1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Ron DeSantis Is Not Scott Walker</h3>
-<sub>By Nate Cohn</sub>
-<p>His support among Republicans at this early stage of the primary cycle puts him in rare company.  <a href="https://nyti.ms/3E4srXw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>How Teens Recovered From the ‘TikTok Tics’</h3>
+<sub>By Azeen Ghorayshi and Amber Bracken</sub>
+<p>A wave of teenagers who developed tics during the pandemic has receded, illustrating the powerful influence of stress on the body and the resilience of adolescents.  <a href="https://nyti.ms/3K3heu1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
