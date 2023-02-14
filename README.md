@@ -60,20 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 14, Central Standard Time</p>
 <p>
-There have been some earthquakes in Turkey that have caused destruction and left rural villages struggling to survive. In China, there was a controversy over what appeared to be spy balloons being shot down by the U.S. But it later turned out to be something harmless. There&#39;s also been an interesting discussion on the changing language of hearts online as new technology emerges.
-
-In the US, former Vice President Pence is opposing a subpoena seeking his testimony into the events surrounding the Jan. 6th attack on the Capitol. Additionally, three Americans were just arrested in connection with the assassination of Haiti&#39;s President from earlier this year. There are also rumors that Nikki Haley may be running for President against Donald Trump, and Governor Ron DeSantis is about to make a major change at a small college in Florida which has students and faculty reeling.</p>
+The world seems to be going through a tough time right now. In Turkey, rescuers are still finding people alive and well under the rubble even though a 7.8-magnitude earthquake recently devastated the region. In the US, Senator Dianne Feinstein announced her retirement and Nikki Haley has declared she will run for President next year. China is accusing the US of spying by flying balloons in their airspace, which the US claims are harmless, but neither side is backing down. Inflation has cooled slightly but there are still worrying details. There have also been shootings on college campuses in Michigan and other places, leaving multiple people dead or wounded. On a lighter note, podcast listeners can explore the history of candy hearts and Hayao Miyazaki fans can visit his namesake theme park in Japan!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Under the Rubble: Gasps of Air, Protein Powder and Miraculous Rescues</h3>
+<sub>By Jason Horowitz and Gulsin Harman</sub>
+<p>Nine people were rescued in Turkey over a week after a 7.8-magnitude earthquake devastated the region. The rescues were rare bright spots in one of the bleakest periods in memory for Turkey.  <a href="https://nyti.ms/3I0iF9Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Earthquakes Destroy. People Rebuild.</h3>
 <sub>By Michael Kimmelman</sub>
 <p>Cities are a form of life and they need constant care to stay strong. They didn’t get that care in Turkey.  <a href="https://nyti.ms/3E6vFtw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>On Their Own: Isolation, and Resignation, in Villages Devastated by Quake</h3>
-<sub>By Vivian Yee, Nimet Kirac and Sergey Ponomarev</sub>
-<p>In rural southern Turkey, some villages were cut off from aid for days, and locals were left to fend for themselves.  <a href="https://nyti.ms/3RURLF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inflation Cooled Just Slightly, With Worrying Details</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Consumer Price Index inflation has been slowing compared with a year ago, but evidence is mounting that it could be a long road back to normal.  <a href="https://nyti.ms/3YPfNUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Michigan State Shooting Victims</h3>
+<sub>By Anushka Patil and Amanda Holpuch</sub>
+<p>Three students were killed in the shooting at the university’s campus on Monday night and five others were wounded.  <a href="https://nyti.ms/3K46rzT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senator Dianne Feinstein to Retire at the End of Her Term</h3>
+<sub>By Annie Karni</sub>
+<p>The senator from California, who was first elected in 1992, plans to serve out her term but will not run for re-election in 2024.  <a href="https://nyti.ms/40XcwEg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nikki Haley Is Running for President, the First G.O.P. Rival to Take On Trump</h3>
+<sub>By Trip Gabriel</sub>
+<p>Ms. Haley, 51, a former South Carolina governor and a United Nations ambassador in the Trump administration, called for “generational change” in the party.  <a href="https://nyti.ms/3K64pPt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -85,7 +107,7 @@ In the US, former Vice President Pence is opposing a subpoena seeking his testim
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Flying Objects Could Turn Out to Be Harmless, U.S. Says</h3>
 <sub>By Michael D. Shear and Karoun Demirjian</sub>
-<p>Investigators have not yet found any evidence that the three objects shot down in recent days were connected to China’s program of balloon surveillance.  <a href="https://nyti.ms/3E8IrYt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Investigators have not yet found evidence that the three objects shot down in recent days were connected to China’s program of balloon surveillance.  <a href="https://nyti.ms/3E8IrYt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
@@ -94,10 +116,10 @@ In the US, former Vice President Pence is opposing a subpoena seeking his testim
 <p>There is magic in the moment when you realize you’ve found a friend like no other. What if we celebrated that kind of connection more?  <a href="https://nyti.ms/40PbJFr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Changing Online Language of Hearts</h3>
-<sub>By Sheera Frenkel</sub>
-<p>How to show a heart — the universal symbol of love — has shifted on the internet over the years, driven by new technology.  <a href="https://nyti.ms/3RZhkop"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>The Sweet and Surprising History of Candy Hearts</h3>
+<sub>By Tina Antolini, Wendy Dorr, Lynn Levy and Kim Severson</sub>
+<p>The messages on those little valentine hearts tell a history of American love, from “Fax Me” to “Text Me” to “DM Me.”  <a href="https://nyti.ms/3E8qqtv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -110,30 +132,6 @@ In the US, former Vice President Pence is opposing a subpoena seeking his testim
 <h3>Pence to Oppose Subpoena Seeking Testimony in Jan. 6 Inquiry</h3>
 <sub>By Maggie Haberman and Glenn Thrush</sub>
 <p>The former vice president is said to be planning to invoke the Constitution’s “speech or debate” clause, saying his role as president of the Senate should insulate him from grand jury questions.  <a href="https://nyti.ms/3Xw6Kq3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Guided Missile Killed U.S. Aid Worker in Ukraine, Video Shows</h3>
-<sub>By Thomas Gibbons-Neff and Malachy Browne</sub>
-<p>A Times analysis suggests that an intentional strike, not an indiscriminate attack, most likely killed Pete Reed. It is unclear whether the attackers knew he was with a group of aid workers.  <a href="https://nyti.ms/3YJPgbr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Arrests Three Americans in the Assassination of Haiti’s President</h3>
-<sub>By Maria Abi-Habib and Natalie Kitroeff</sub>
-<p>Antonio Intriago, a Venezuelan American businessman, and Arcángel Pretel, a Colombian American citizen, are the owners of a Florida-based security company that has been tied to the 2021 killing.  <a href="https://nyti.ms/3HSP1TS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley Is Running for President, the First G.O.P. Rival to Take On Trump</h3>
-<sub>By Trip Gabriel</sub>
-<p>Ms. Haley, 51, a former South Carolina governor and a United Nations ambassador in the Trump administration, called for “generational change” in the party.  <a href="https://nyti.ms/3K64pPt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis’s Latest Target: A Small College of ‘Free Thinkers’</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Gov. Ron DeSantis’s plan to transform New College of Florida into a beacon of conservatism has left students and faculty members at the tight-knit, progressive school reeling.  <a href="https://nyti.ms/3jYVuoE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
