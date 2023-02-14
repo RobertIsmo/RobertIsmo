@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, February 13, Central Standard Time</p>
+<p>It is Tuesday, February 14, Central Standard Time</p>
 <p>
-There’s been a lot of news recently concerning U.S. and world affairs. The Biden administration is looking into unidentified flying objects, and tensions are rising over espionage accusations against China. In Israel, massive protests have broken out over Benjamin Netanyahu&#39;s judicial overhaul. The G.O.P still faces internal party divisions that prevent them from pushing forward legislation to strengthen immigration enforcement and law enforcement. George Santos is being questioned for misusing hundreds of thousands of dollars from his campaign. On the humanitarian side, little aid has come to hard-hit Syria, but there appears to be some progress between President Bashar al-Assad and the opposition forces for cross-border delivery of aid. In Ukraine, troops have been barred from Bakhmut as Russia tightens its grip on the area. On a more positive note, Japan has seen an increase in tourists and economic growth as a result, while teens affected by &quot;TikTok Tics&quot; have recovered post-pandemic.</p>
+There has been a lot of international news lately. In the U.S., tensions are rising over spy programs as the Biden administration investigates a recent aircraft incident. In the Middle East, protests in Israel are growing in response to Prime Minister Netanyahu&#39;s proposed judicial overhaul. In Syria, international aid is slowly coming in after an earthquake hit the northwest of the country, while Russia is continuing its grip on its neighbor Ukraine. Meanwhile, Japan is seeing huge increases in tourism that have led to economic growth and an important appointment at their Bank of Japan.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tensions Rise Over Spy Programs as U.S. Investigates Downed Craft</h3>
@@ -79,12 +79,6 @@ There’s been a lot of news recently concerning U.S. and world affairs. The Bid
 <sub>By Julian E. Barnes, Adam Goldman and Chris Cameron</sub>
 <p>Here is what we know about the objects as well as the Chinese spy balloon that were taken down this month.  <a href="https://nyti.ms/40M6xSF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu’s Judicial Overhaul Sparks Huge Protests in Israel</h3>
-<sub>By Patrick Kingsley and Isabel Kershner</sub>
-<p>As Benjamin Netanyahu’s government pressed ahead with plans to limit judicial influence, Israelis thronged to unusually large rallies.  <a href="https://nyti.ms/3YL00Wt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Legislative Agenda Hits Snags Amid Party Divisions</h3>
@@ -111,15 +105,15 @@ There’s been a lot of news recently concerning U.S. and world affairs. The Bid
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Bars Aid Workers From Bakhmut as Russia Tightens Its Grip</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>With Moscow’s forces closing in, the besieged city is too dangerous for the volunteers, Ukrainian commanders said, in what could be a prelude to a Ukrainian withdrawal.  <a href="https://nyti.ms/3lBLaDd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Secretive Network Rescues Russia’s Antiwar Dissidents in Nick of Time</h3>
+<sub>By Neil MacFarquhar and Alina Lobzina</sub>
+<p>Hundreds of people facing long prison sentences are being spirited out of the country by groups that arrange daring escapes, with one trip using six different cars over more than 4,000 miles.  <a href="https://nyti.ms/3YOZHdm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainians Demonstrate Training on Leopard Tanks in Poland</h3>
-<sub>By Lara Jakes</sub>
-<p>Kyiv’s troops are getting a crash course in using the German-made tanks, less than three weeks after Berlin agreed, under pressure from Poland and others, to let them go to Ukraine.  <a href="https://nyti.ms/3In68Pu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Bars Aid Workers From Bakhmut as Russia Tightens Its Grip</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>With Moscow’s forces closing in, the besieged city is too dangerous for the volunteers, Ukrainian commanders said, in what could be a prelude to a Ukrainian withdrawal.  <a href="https://nyti.ms/3lBLaDd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -128,10 +122,16 @@ There’s been a lot of news recently concerning U.S. and world affairs. The Bid
 <p>The modest expansion in the fourth quarter of 2022 was driven by a recovery in private consumption, as well as spending by visitors.  <a href="https://nyti.ms/3XIzIU1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>How Teens Recovered From the ‘TikTok Tics’</h3>
-<sub>By Azeen Ghorayshi and Amber Bracken</sub>
-<p>A wave of teenagers who developed tics during the pandemic has receded, illustrating the powerful influence of stress on the body and the resilience of adolescents.  <a href="https://nyti.ms/3K3heu1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Surprise Pick to Lead the Bank of Japan Faces a Wrenching Choice</h3>
+<sub>By Ben Dooley and Hisako Ueno</sub>
+<p>Kazuo Ueda is set to replace the longtime governor who helped put the country on an unorthodox monetary path. Will he change course?  <a href="https://nyti.ms/3E5bAE0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Netanyahu’s Judicial Overhaul Sparks Huge Protests in Israel</h3>
+<sub>By Patrick Kingsley and Isabel Kershner</sub>
+<p>As Benjamin Netanyahu’s government pressed ahead with plans to limit judicial influence, Israelis thronged to unusually large rallies.  <a href="https://nyti.ms/3YL00Wt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
