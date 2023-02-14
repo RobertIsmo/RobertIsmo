@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 14, Central Standard Time</p>
 <p>
-The world is seeing a lot of interesting economic and political developments. In Japan, for example, the economy is recovering through a surge in tourism and private consumption. Meanwhile, in Russia a secretive network is rescuing antiwar dissidents and smuggling them out of the country. In the US, tension between the Biden administration and China has increased due to accusations of widespread espionage. Even more concerningly, the US air force has been shooting down unidentified objects over its territory. Closer to home, NYC subway riders were asked how they felt about love ahead of Valentine&#39;s Day, while social media giants are struggling to combat false information online as they shed jobs. All in all, it looks like an exciting and sometimes worrying time around the world!</p>
+There&#39;s a lot going on in the world right now. Food prices are rising, putting strain on seniors and their savings. Meanwhile, President Biden has picked Fed official Lael Brainard to be his top economic advisor, and Jared Bernstein will be in charge of the Council of Economic Advisers. There&#39;s also been some recent tragedy, like the killing of an American aid worker in Ukraine by a guided missile. In Russia, there&#39;s a secretive network of activists smuggling dissidents out of the country who are facing long prison sentences. 
+
+On the political front, former US ambassador Nikki Haley is running for president, while Democrats are meddling again in a Republican primary race in Wisconsin. In other news overseas, Chinese officials are portraying objections over a U.S.-launched spy balloon as a sign of America&#39;s decline. Online language around expressions of love is rapidly changing too, as well as people&#39;s awareness that balloons aren&#39;t just toys anymore--they can also contain spying devices. Valentine&#39;s Day is coming up so New Yorkers are asking if they&#39;re feeling the love. Social media sites have been taking it on the chin with layoffs and glitches adversely affecting Chinese activists who have recently been using Twitter to express their grievances.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Food Prices Weigh on Seniors’ Savings, Health and Even Social Ties</h3>
@@ -69,10 +71,10 @@ The world is seeing a lot of interesting economic and political developments. In
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Packed With Tourists, Japan Returns to Economic Growth</h3>
-<sub>By Ben Dooley and Hisako Ueno</sub>
-<p>The modest expansion in the fourth quarter of 2022 was driven by a recovery in private consumption, as well as spending by visitors.  <a href="https://nyti.ms/3XIzIU1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<h3>Biden Picks Fed Official to Lead National Economic Council</h3>
+<sub>By Jim Tankersley and Jeanna Smialek</sub>
+<p>Lael Brainard, the Fed’s vice chair, will become a top economic adviser along with Jared Bernstein, who will head the Council of Economic Advisers.  <a href="https://nyti.ms/40WZvdG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Guided Missile Killed U.S. Aid Worker in Ukraine, Video Shows</h3>
@@ -87,22 +89,16 @@ The world is seeing a lot of interesting economic and political developments. In
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Michigan State University Shooting</h3>
-<sub>By Derrick Bryson Taylor</sub>
-<p>A gunman opened fire Monday night in two university buildings, killing three people and wounding five others. He was found dead of a self-inflicted gunshot wound, the authorities said.  <a href="https://nyti.ms/3XsKIVo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Nikki Haley Is Running for President, the First G.O.P. Rival to Take On Trump</h3>
 <sub>By Trip Gabriel</sub>
-<p>Ms. Haley, 51, a former South Carolina governor and a U.N. ambassador in the Trump administration, has spoken recently of the need for “generational change.”  <a href="https://nyti.ms/3K64pPt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ms. Haley, 51, a former South Carolina governor and a U.N. ambassador in the Trump administration, called for  “generational change” in the party.  <a href="https://nyti.ms/3K64pPt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tensions Rise Over Spy Programs as U.S. Investigates Downed Craft</h3>
-<sub>By Edward Wong, David E. Sanger, Julian E. Barnes and Eric Schmitt</sub>
-<p>The Biden administration is looking into mysterious U.F.O. encounters and pushing back against China over accusations of widespread espionage.  <a href="https://nyti.ms/3xmbh3I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<h3>Democrats Meddle Again in a G.O.P. Primary, This Time Down-Ballot</h3>
+<sub>By Reid J. Epstein</sub>
+<p>In a race for a State Senate seat in Wisconsin, Democrats are replicating their midterm strategy of elevating far-right Republicans in hopes of beating them in the general election.  <a href="https://nyti.ms/3jTamVx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China Tries to Depict Furor Over Spy Balloon as Sign of U.S. Decline</h3>
@@ -132,6 +128,12 @@ The world is seeing a lot of interesting economic and political developments. In
 <h3>Combating Disinformation Wanes at Social Media Giants</h3>
 <sub>By Steven Lee Myers and Nico Grant</sub>
 <p>As the companies have shed jobs recently, many teams assigned to combat false and misleading information have taken a hit.  <a href="https://nyti.ms/3IkiE26"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Toll That Twitter’s Glitches Is Taking on Chinese Activists</h3>
+<sub>By Chang Che and Paul Mozur</sub>
+<p>As the Elon Musk-owned social media service encounters interruptions and bugs, Chinese dissidents and activists said they feared they were being muzzled.  <a href="https://nyti.ms/3jW4eMe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
