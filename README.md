@@ -60,20 +60,56 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 14, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. Food prices are rising, putting strain on seniors and their savings. Meanwhile, President Biden has picked Fed official Lael Brainard to be his top economic advisor, and Jared Bernstein will be in charge of the Council of Economic Advisers. There&#39;s also been some recent tragedy, like the killing of an American aid worker in Ukraine by a guided missile. In Russia, there&#39;s a secretive network of activists smuggling dissidents out of the country who are facing long prison sentences. 
+There have been some earthquakes in Turkey that have caused destruction and left rural villages struggling to survive. In China, there was a controversy over what appeared to be spy balloons being shot down by the U.S. But it later turned out to be something harmless. There&#39;s also been an interesting discussion on the changing language of hearts online as new technology emerges.
 
-On the political front, former US ambassador Nikki Haley is running for president, while Democrats are meddling again in a Republican primary race in Wisconsin. In other news overseas, Chinese officials are portraying objections over a U.S.-launched spy balloon as a sign of America&#39;s decline. Online language around expressions of love is rapidly changing too, as well as people&#39;s awareness that balloons aren&#39;t just toys anymore--they can also contain spying devices. Valentine&#39;s Day is coming up so New Yorkers are asking if they&#39;re feeling the love. Social media sites have been taking it on the chin with layoffs and glitches adversely affecting Chinese activists who have recently been using Twitter to express their grievances.</p>
+In the US, former Vice President Pence is opposing a subpoena seeking his testimony into the events surrounding the Jan. 6th attack on the Capitol. Additionally, three Americans were just arrested in connection with the assassination of Haiti&#39;s President from earlier this year. There are also rumors that Nikki Haley may be running for President against Donald Trump, and Governor Ron DeSantis is about to make a major change at a small college in Florida which has students and faculty reeling.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Food Prices Weigh on Seniors’ Savings, Health and Even Social Ties</h3>
-<sub>By Julie Creswell and Isabella Simonetti</sub>
-<p>As costs rise, many older Americans have changed the way they shop and eat out. For some, it could affect their health or leave them feeling isolated.  <a href="https://nyti.ms/3Iwmqpj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Earthquakes Destroy. People Rebuild.</h3>
+<sub>By Michael Kimmelman</sub>
+<p>Cities are a form of life and they need constant care to stay strong. They didn’t get that care in Turkey.  <a href="https://nyti.ms/3E6vFtw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Biden Picks Fed Official to Lead National Economic Council</h3>
-<sub>By Jim Tankersley and Jeanna Smialek</sub>
-<p>Lael Brainard, the Fed’s vice chair, will become a top economic adviser along with Jared Bernstein, who will head the Council of Economic Advisers.  <a href="https://nyti.ms/40WZvdG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>On Their Own: Isolation, and Resignation, in Villages Devastated by Quake</h3>
+<sub>By Vivian Yee, Nimet Kirac and Sergey Ponomarev</sub>
+<p>In rural southern Turkey, some villages were cut off from aid for days, and locals were left to fend for themselves.  <a href="https://nyti.ms/3RURLF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Tries to Depict Furor Over Spy Balloon as Sign of U.S. Decline</h3>
+<sub>By David Pierson</sub>
+<p>Ignoring charges of spying, Beijing says Washington’s “overreaction” is a symptom of the country’s broken politics.  <a href="https://nyti.ms/3loWbru"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Flying Objects Could Turn Out to Be Harmless, U.S. Says</h3>
+<sub>By Michael D. Shear and Karoun Demirjian</sub>
+<p>Investigators have not yet found any evidence that the three objects shot down in recent days were connected to China’s program of balloon surveillance.  <a href="https://nyti.ms/3E8IrYt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>The Unsung Joy of Falling in Big, Deep Platonic Love</h3>
+<sub>By Catherine Pearson</sub>
+<p>There is magic in the moment when you realize you’ve found a friend like no other. What if we celebrated that kind of connection more?  <a href="https://nyti.ms/40PbJFr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Changing Online Language of Hearts</h3>
+<sub>By Sheera Frenkel</sub>
+<p>How to show a heart — the universal symbol of love — has shifted on the internet over the years, driven by new technology.  <a href="https://nyti.ms/3RZhkop"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Spirited Away to Miyazaki Land</h3>
+<sub>By Sam Anderson</sub>
+<p>What happens when the surreal imagination of the world’s greatest living animator, Hayao Miyazaki, is turned into a theme park?  <a href="https://nyti.ms/3RXhXyQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pence to Oppose Subpoena Seeking Testimony in Jan. 6 Inquiry</h3>
+<sub>By Maggie Haberman and Glenn Thrush</sub>
+<p>The former vice president is said to be planning to invoke the Constitution’s “speech or debate” clause, saying his role as president of the Senate should insulate him from grand jury questions.  <a href="https://nyti.ms/3Xw6Kq3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -83,57 +119,21 @@ On the political front, former US ambassador Nikki Haley is running for presiden
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Secretive Network Rescues Russia’s Antiwar Dissidents in Nick of Time</h3>
-<sub>By Neil MacFarquhar and Alina Lobzina</sub>
-<p>Hundreds of people facing long prison sentences are being spirited out of the country by groups that arrange daring escapes, with one trip using six different cars over more than 4,000 miles.  <a href="https://nyti.ms/3YOZHdm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<h3>U.S. Arrests Three Americans in the Assassination of Haiti’s President</h3>
+<sub>By Maria Abi-Habib and Natalie Kitroeff</sub>
+<p>Antonio Intriago, a Venezuelan American businessman, and Arcángel Pretel, a Colombian American citizen, are the owners of a Florida-based security company that has been tied to the 2021 killing.  <a href="https://nyti.ms/3HSP1TS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Nikki Haley Is Running for President, the First G.O.P. Rival to Take On Trump</h3>
 <sub>By Trip Gabriel</sub>
-<p>Ms. Haley, 51, a former South Carolina governor and a U.N. ambassador in the Trump administration, called for  “generational change” in the party.  <a href="https://nyti.ms/3K64pPt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ms. Haley, 51, a former South Carolina governor and a United Nations ambassador in the Trump administration, called for “generational change” in the party.  <a href="https://nyti.ms/3K64pPt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Meddle Again in a G.O.P. Primary, This Time Down-Ballot</h3>
-<sub>By Reid J. Epstein</sub>
-<p>In a race for a State Senate seat in Wisconsin, Democrats are replicating their midterm strategy of elevating far-right Republicans in hopes of beating them in the general election.  <a href="https://nyti.ms/3jTamVx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Tries to Depict Furor Over Spy Balloon as Sign of U.S. Decline</h3>
-<sub>By David Pierson</sub>
-<p>Ignoring charges of spying, Beijing says Washington’s “overreaction” is a symptom of the country’s broken politics.  <a href="https://nyti.ms/3loWbru"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>A Rising Awareness That Balloons Are Everywhere in Our Skies</h3>
-<sub>By William J. Broad</sub>
-<p>As more unidentified objects were shot down by the U.S. Air Force in recent days, experts warned that there were an “endless” array of potential targets.  <a href="https://nyti.ms/3IoZ70x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Changing Online Language of Hearts</h3>
-<sub>By Sheera Frenkel</sub>
-<p>How to show a heart — the universal symbol of love — has shifted on the internet over the years, driven by new technology.  <a href="https://nyti.ms/3RZhkop"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Are New Yorkers Feeling the Love?</h3>
-<sub>By Nadav Gavrielov and Ali Cherkis</sub>
-<p>We rode the subway to take the pulse on affection in the city ahead of Valentine’s Day.  <a href="https://nyti.ms/3YNK1Xz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Combating Disinformation Wanes at Social Media Giants</h3>
-<sub>By Steven Lee Myers and Nico Grant</sub>
-<p>As the companies have shed jobs recently, many teams assigned to combat false and misleading information have taken a hit.  <a href="https://nyti.ms/3IkiE26"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Toll That Twitter’s Glitches Is Taking on Chinese Activists</h3>
-<sub>By Chang Che and Paul Mozur</sub>
-<p>As the Elon Musk-owned social media service encounters interruptions and bugs, Chinese dissidents and activists said they feared they were being muzzled.  <a href="https://nyti.ms/3jW4eMe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis’s Latest Target: A Small College of ‘Free Thinkers’</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Gov. Ron DeSantis’s plan to transform New College of Florida into a beacon of conservatism has left students and faculty members at the tight-knit, progressive school reeling.  <a href="https://nyti.ms/3jYVuoE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
