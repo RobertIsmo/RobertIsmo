@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 14, Central Standard Time</p>
 <p>
-There has been a lot of international news lately. In the U.S., tensions are rising over spy programs as the Biden administration investigates a recent aircraft incident. In the Middle East, protests in Israel are growing in response to Prime Minister Netanyahu&#39;s proposed judicial overhaul. In Syria, international aid is slowly coming in after an earthquake hit the northwest of the country, while Russia is continuing its grip on its neighbor Ukraine. Meanwhile, Japan is seeing huge increases in tourism that have led to economic growth and an important appointment at their Bank of Japan.</p>
+There is a lot of tension in the world right now. In the US, there has been a lot of worrying news lately: A gunman caused chaos on a college campus in Michigan and there have been planes shooting down mysterious objects from the sky. At the same time, Republicans are facing internal divisions that are making it hard for them to pass legislation.
+
+In Syria, a huge earthquake has devastated the northwest region of the country, but very little international aid has been sent there due to it being controlled by opposition forces. The Syrian president recently agreed to open two border crossings in order to get aid to the people who need it.
+
+Meanwhile, in Russia, an underground network is helping dissidents escape long prison sentences. But closer to home, Ukraine is blocking aid workers from entering one of its cities to deliver supplies as Moscow’s forces close in.
+
+Finally, on the business side of things, tourism has helped push Japan back into economic growth after a period of recession. They also have a new leader for their central bank, who will have to make some tough decisions about financial policy going forward.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fear Gripped Michigan State University as Gunman Roamed Campus</h3>
+<sub>By Sophia Lada, Mike Ives and John Yoon</sub>
+<p>Students and nearby residents waited anxiously for hours as the police searched for the 43-year-old gunman. He later died of a self-inflicted gunshot wound.  <a href="https://nyti.ms/40Xplyb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tensions Rise Over Spy Programs as U.S. Investigates Downed Craft</h3>
 <sub>By Edward Wong, David E. Sanger, Julian E. Barnes and Eric Schmitt</sub>
@@ -126,12 +138,6 @@ There has been a lot of international news lately. In the U.S., tensions are ris
 <h3>A Surprise Pick to Lead the Bank of Japan Faces a Wrenching Choice</h3>
 <sub>By Ben Dooley and Hisako Ueno</sub>
 <p>Kazuo Ueda is set to replace the longtime governor who helped put the country on an unorthodox monetary path. Will he change course?  <a href="https://nyti.ms/3E5bAE0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu’s Judicial Overhaul Sparks Huge Protests in Israel</h3>
-<sub>By Patrick Kingsley and Isabel Kershner</sub>
-<p>As Benjamin Netanyahu’s government pressed ahead with plans to limit judicial influence, Israelis thronged to unusually large rallies.  <a href="https://nyti.ms/3YL00Wt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
