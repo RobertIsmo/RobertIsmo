@@ -60,18 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 14, Central Standard Time</p>
 <p>
-There is a lot of tension in the world right now. In the US, there has been a lot of worrying news lately: A gunman caused chaos on a college campus in Michigan and there have been planes shooting down mysterious objects from the sky. At the same time, Republicans are facing internal divisions that are making it hard for them to pass legislation.
-
-In Syria, a huge earthquake has devastated the northwest region of the country, but very little international aid has been sent there due to it being controlled by opposition forces. The Syrian president recently agreed to open two border crossings in order to get aid to the people who need it.
-
-Meanwhile, in Russia, an underground network is helping dissidents escape long prison sentences. But closer to home, Ukraine is blocking aid workers from entering one of its cities to deliver supplies as Moscow’s forces close in.
-
-Finally, on the business side of things, tourism has helped push Japan back into economic growth after a period of recession. They also have a new leader for their central bank, who will have to make some tough decisions about financial policy going forward.</p>
+The world is seeing a lot of interesting economic and political developments. In Japan, for example, the economy is recovering through a surge in tourism and private consumption. Meanwhile, in Russia a secretive network is rescuing antiwar dissidents and smuggling them out of the country. In the US, tension between the Biden administration and China has increased due to accusations of widespread espionage. Even more concerningly, the US air force has been shooting down unidentified objects over its territory. Closer to home, NYC subway riders were asked how they felt about love ahead of Valentine&#39;s Day, while social media giants are struggling to combat false information online as they shed jobs. All in all, it looks like an exciting and sometimes worrying time around the world!</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Food Prices Weigh on Seniors’ Savings, Health and Even Social Ties</h3>
+<sub>By Julie Creswell and Isabella Simonetti</sub>
+<p>As costs rise, many older Americans have changed the way they shop and eat out. For some, it could affect their health or leave them feeling isolated.  <a href="https://nyti.ms/3Iwmqpj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Packed With Tourists, Japan Returns to Economic Growth</h3>
+<sub>By Ben Dooley and Hisako Ueno</sub>
+<p>The modest expansion in the fourth quarter of 2022 was driven by a recovery in private consumption, as well as spending by visitors.  <a href="https://nyti.ms/3XIzIU1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Guided Missile Killed U.S. Aid Worker in Ukraine, Video Shows</h3>
+<sub>By Thomas Gibbons-Neff and Malachy Browne</sub>
+<p>A Times analysis suggests that an intentional strike, not an indiscriminate attack, most likely killed Pete Reed. It is unclear whether the attackers knew he was with a group of aid workers.  <a href="https://nyti.ms/3YJPgbr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Secretive Network Rescues Russia’s Antiwar Dissidents in Nick of Time</h3>
+<sub>By Neil MacFarquhar and Alina Lobzina</sub>
+<p>Hundreds of people facing long prison sentences are being spirited out of the country by groups that arrange daring escapes, with one trip using six different cars over more than 4,000 miles.  <a href="https://nyti.ms/3YOZHdm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fear Gripped Michigan State University as Gunman Roamed Campus</h3>
-<sub>By Sophia Lada, Mike Ives and John Yoon</sub>
-<p>Students and nearby residents waited anxiously for hours as the police searched for the 43-year-old gunman. He later died of a self-inflicted gunshot wound.  <a href="https://nyti.ms/40Xplyb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What We Know About the Michigan State University Shooting</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>A gunman opened fire Monday night in two university buildings, killing three people and wounding five others. He was found dead of a self-inflicted gunshot wound, the authorities said.  <a href="https://nyti.ms/3XsKIVo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nikki Haley Is Running for President, the First G.O.P. Rival to Take On Trump</h3>
+<sub>By Trip Gabriel</sub>
+<p>Ms. Haley, 51, a former South Carolina governor and a U.N. ambassador in the Trump administration, has spoken recently of the need for “generational change.”  <a href="https://nyti.ms/3K64pPt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,65 +104,35 @@ Finally, on the business side of things, tourism has helped push Japan back into
 <p>The Biden administration is looking into mysterious U.F.O. encounters and pushing back against China over accusations of widespread espionage.  <a href="https://nyti.ms/3xmbh3I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why a U.S. Plane Shot Down an Object Over Canada</h3>
-<sub>By Maggie Astor</sub>
-<p>The plane was part of NORAD, a defense organization operated jointly by the U.S. and Canada.  <a href="https://nyti.ms/3K0FmgU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Tries to Depict Furor Over Spy Balloon as Sign of U.S. Decline</h3>
+<sub>By David Pierson</sub>
+<p>Ignoring charges of spying, Beijing says Washington’s “overreaction” is a symptom of the country’s broken politics.  <a href="https://nyti.ms/3loWbru"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Were Those Flying Objects? Not Aliens, the White House Says.</h3>
-<sub>By Julian E. Barnes, Adam Goldman and Chris Cameron</sub>
-<p>Here is what we know about the objects as well as the Chinese spy balloon that were taken down this month.  <a href="https://nyti.ms/40M6xSF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>A Rising Awareness That Balloons Are Everywhere in Our Skies</h3>
+<sub>By William J. Broad</sub>
+<p>As more unidentified objects were shot down by the U.S. Air Force in recent days, experts warned that there were an “endless” array of potential targets.  <a href="https://nyti.ms/3IoZ70x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Legislative Agenda Hits Snags Amid Party Divisions</h3>
-<sub>By Catie Edmondson and Annie Karni</sub>
-<p>Republicans have pulled back on legislation to crack down on unauthorized immigrants and support law enforcement as internal disputes conspire with a tiny majority to freeze them in place.  <a href="https://nyti.ms/3KdbkX8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Changing Online Language of Hearts</h3>
+<sub>By Sheera Frenkel</sub>
+<p>How to show a heart — the universal symbol of love — has shifted on the internet over the years, driven by new technology.  <a href="https://nyti.ms/3RZhkop"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos and the Case of the Missing $365,000</h3>
-<sub>By Grace Ashford, Alexandra Berzon, Ken Bensinger and Alyce McFadden</sub>
-<p>Representative George Santos’s failure to account for hundreds of thousands of dollars in spending is part of a pattern of irregularities in the way his campaign handled its finances.  <a href="https://nyti.ms/3E3UfeJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<h3>Are New Yorkers Feeling the Love?</h3>
+<sub>By Nadav Gavrielov and Ali Cherkis</sub>
+<p>We rode the subway to take the pulse on affection in the city ahead of Valentine’s Day.  <a href="https://nyti.ms/3YNK1Xz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Feeling Abandoned by the World in a Stricken Corner of Syria</h3>
-<sub>By Raja Abdulrahim and Emily Garthwaite</sub>
-<p>Since a disastrous earthquake a week ago, little international aid has come to the hard-hit northwest of Syria, which is under the control of opposition forces.  <a href="https://nyti.ms/3Imfkn2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Syria’s President Agrees to 2 More Border Crossings for Quake Aid</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>The decision is the first time that President Bashar al-Assad has agreed to the cross-border delivery of humanitarian aid to opposition-held territory since the civil war began.  <a href="https://nyti.ms/3Xu2mI0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Secretive Network Rescues Russia’s Antiwar Dissidents in Nick of Time</h3>
-<sub>By Neil MacFarquhar and Alina Lobzina</sub>
-<p>Hundreds of people facing long prison sentences are being spirited out of the country by groups that arrange daring escapes, with one trip using six different cars over more than 4,000 miles.  <a href="https://nyti.ms/3YOZHdm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Bars Aid Workers From Bakhmut as Russia Tightens Its Grip</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>With Moscow’s forces closing in, the besieged city is too dangerous for the volunteers, Ukrainian commanders said, in what could be a prelude to a Ukrainian withdrawal.  <a href="https://nyti.ms/3lBLaDd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Packed With Tourists, Japan Returns to Economic Growth</h3>
-<sub>By Ben Dooley and Hisako Ueno</sub>
-<p>The modest expansion in the fourth quarter of 2022 was driven by a recovery in private consumption, as well as spending by visitors.  <a href="https://nyti.ms/3XIzIU1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Surprise Pick to Lead the Bank of Japan Faces a Wrenching Choice</h3>
-<sub>By Ben Dooley and Hisako Ueno</sub>
-<p>Kazuo Ueda is set to replace the longtime governor who helped put the country on an unorthodox monetary path. Will he change course?  <a href="https://nyti.ms/3E5bAE0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Combating Disinformation Wanes at Social Media Giants</h3>
+<sub>By Steven Lee Myers and Nico Grant</sub>
+<p>As the companies have shed jobs recently, many teams assigned to combat false and misleading information have taken a hit.  <a href="https://nyti.ms/3IkiE26"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
