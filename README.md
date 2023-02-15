@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 15, Central Standard Time</p>
 <p>
-To catch them up on what&#39;s been happening in the world recently, I&#39;d tell them that lawmakers in the US are sparring over Social Security, as its costs are rising fast due to an aging population. Retail sales have spiked recently, and prices have increased too. That could have effects on inflation which the Federal Reserve is trying to combat. In Russia, a growing number of soldiers from a mercenary force are being buried in a cemetery near the Black Sea, indicating the huge losses Russia is suffering in its invasion of another country. Kabul&#39;s green zone, which was once made of ruins, has reemerged now that the Taliban has adopted it as their own. Tragically, yet another mass shooting occurred at Michigan State University and three students died, while five were critically injured. Estimates suggest that close to 1.5 million people have died since China ended their Zero Covid strategy, far more than the official count that&#39;s been reported. As for soccer news, Manchester City is facing potential consequences for using misleading accounting and secret deals to try and get around financial rules. There&#39;s also a lot going on politically in the US with defenses of the Biden administration&#39;s overhaul of the IRS and former President Trump&#39;s lawyer being called to testify and prosecutors suggesting evidence of crime on his behalf. Plus Senator Dianne Feinstein has retired from politics after being active for decades and having led San Francisco after political assassinations as well as playing huge roles in CIA accountability, Supreme Court nominations and more.</p>
+Things are pretty hectic worldwide right now. U.S. lawmakers are having a tough time coming to an agreement on social security, and Joe Biden&#39;s IRS nominee is going to be grilled about a $80 billion overhaul. In Russia, a cemetery near the Black Sea is quickly filling up with soldiers from Wagner mercenary forces due to the huge casualties of their invasion. That invasion is making heavy losses for Russia and Ukraine. Over in Scotland, there’s speculation over who could succeed Nicola Sturgeon as first minister, and in China, rough estimates show that between 1 and 1.5 million people may have died due to COVID-19 – way more than the official count. In Buffalo, a gunman has been sentenced to life in prison after a relative of one of the victims tried to lunge at them during a hearing. On brighter notes, Antarctic scientists have gained more insight into melting ice shelves which will help forecast its effect on global sea level, and New Orleans chefs are rewriting history by exploring how their celebrated food owes as much to West African and Caribbean cuisines as to Creole cooking. Finally, in the U.S., there’s some heated politicking ahead of the Senate race in California, along with conversations about President Trump – who his Republican rivals seem reluctant to criticize – and a Monterey Park community of ballroom dancers who recently had to deal with a devastating mass shooting.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Lawmakers Spar Over Social Security, Its Costs Are Rising Fast</h3>
 <sub>By Jim Tankersley</sub>
 <p>New budget projections are expected to show that the program’s spending is outpacing tax revenues as an aging population claims benefits.  <a href="https://nyti.ms/3lCM2Ys"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Retail Sales Surge as Prices Rise and Shoppers Keep Buying</h3>
-<sub>By Jordyn Holman and Jeanna Smialek</sub>
-<p>Consumer spending jumped in January, which was good news for retailers but could weigh on the Federal Reserve’s efforts to tame rapid inflation.  <a href="https://nyti.ms/3S3Z8u4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -87,22 +81,16 @@ To catch them up on what&#39;s been happening in the world recently, I&#39;d tel
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Taliban Settle In, Kabul’s Green Zone Comes Back to Life</h3>
-<sub>By Christina Goldbaum</sub>
-<p>Walking down its streets a year ago was like wandering into the modern ruins of another empire come and gone from Afghanistan. Now, the Taliban have adopted the former diplomatic enclave as their own.  <a href="https://nyti.ms/3KazkdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<h3>Heavy Losses Renew Questions About Russia Sustaining Its Offensive</h3>
+<sub>By Marc Santora</sub>
+<p>The fighting has also come at a cost for Ukraine, which is expending vast amounts of ammunition to repel Russia’s growing numbers of ground troops,  <a href="https://nyti.ms/3EwTwD5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Elementary School. High School. Now College. Michigan State Students Are No Strangers to Mass Shootings.</h3>
-<sub>By Julie Bosman, Sophia Lada, Tracey Tully and Patricia Mazzei</sub>
-<p>The gunfire on Monday night left three dead and five critically injured. For some students, the familiar rituals of sorrow, anger and disbelief were playing out again.  <a href="https://nyti.ms/3KgNEkG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Michigan State University Shooting</h3>
-<sub>By Derrick Bryson Taylor</sub>
-<p>A gunman killed three students and injured five others. He was found off campus and died of a self-inflicted gunshot wound, the authorities said.  <a href="https://nyti.ms/3XsKIVo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Who Could Succeed Nicola Sturgeon as Scotland’s First Minister?</h3>
+<sub>By Megan Specia</sub>
+<p>Ms. Sturgeon’s party, the Scottish National Party, is expected to hold an election to choose her successor in the coming weeks.  <a href="https://nyti.ms/3k0fwyY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Deadly Was China’s Covid Wave?</h3>
@@ -110,29 +98,41 @@ To catch them up on what&#39;s been happening in the world recently, I&#39;d tel
 <p>Rough estimates suggest that between 1 and 1.5 million people have died since China ended “zero Covid” — far more than the official count.  <a href="https://nyti.ms/3E8p0iv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Manchester City and the Bruising Battle to Avoid Losing It All</h3>
-<sub>By Tariq Panja</sub>
-<p>The Premier League has accused its serial champion of using misleading accounting, secret deals and legal obstruction to sidestep financial rules. The club is digging in for its biggest fight yet.  <a href="https://nyti.ms/3XxSnlf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Buffalo Gunman Sentenced to Life in Emotional and Dramatic Hearing</h3>
+<sub>By Jesse McKinley and Dan Higgins</sub>
+<p>During a statement from a victim’s relative, a member of the court audience had to be restrained after lunging at the gunman.  <a href="https://nyti.ms/3In3Way"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Scientists Get a Close-Up Look Beneath a Troubling Ice Shelf in Antarctica</h3>
+<sub>By Henry Fountain</sub>
+<p>A robot lowered through the ice reveals how the Thwaites shelf is melting, which will help forecast its effect on global sea level.  <a href="https://nyti.ms/3KdwN2j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>In Majority-Black New Orleans, Chefs Are Rewriting ‘Whitewashed’ History</h3>
+<sub>By Brett Anderson and Rita Harper</sub>
+<p>A new generation is exploring how the city’s celebrated food owes as much to West African and Caribbean cuisines as to Creole cooking.  <a href="https://nyti.ms/3HV8GCV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Before the Gunfire, It Was Their Glittering ‘Dancing Star’</h3>
+<sub>By Corina Knoll, Isabelle Qian, Li Qiang and Mark Abramson</sub>
+<p>The mass shooting in Monterey Park threatened a community of ballroom dancers who share a rich history. They hope to find a way to carry on.  <a href="https://nyti.ms/3E9z9v8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Seek Trump Lawyer’s Testimony, Suggesting Evidence of Crime</h3>
-<sub>By Alan Feuer, Maggie Haberman and Ben Protess</sub>
-<p>The Justice Department cited the crime-fraud exception to attorney-client privilege in demanding testimony from a lawyer representing former President Donald Trump in his documents case.  <a href="https://nyti.ms/3ImvTzk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<h3>They’re Trying to Topple Trump. But They Barely Utter His Name.</h3>
+<sub>By Jonathan Weisman and Maggie Haberman</sub>
+<p>The former president’s Republican rivals appear highly reluctant to criticize him, and Nikki Haley didn’t even mention him as she jumped into the race this week.  <a href="https://nyti.ms/3lDVBX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Senate Race in California Reflects Fight for Democrats’ Future</h3>
 <sub>By Jazmine Ulloa</sub>
 <p>With Senator Dianne Feinstein’s retirement, the party is gearing up for a clash on issues including gender, race, ideology and even geography.  <a href="https://nyti.ms/3IrW0Fa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>From Harvey Milk’s Side to the Senate: 9 Key Moments in Dianne Feinstein’s Career</h3>
-<sub>By Shawn Hubler</sub>
-<p>In her decades-long political career, Ms. Feinstein has led San Francisco in the wake of political assassinations, kept the C.I.A. accountable for torture and held sway over Supreme Court nominations.  <a href="https://nyti.ms/3IqFo08"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
