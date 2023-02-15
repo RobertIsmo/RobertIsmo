@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 14, Central Standard Time</p>
 <p>
-The world seems to be going through a tough time right now. In Turkey, rescuers are still finding people alive and well under the rubble even though a 7.8-magnitude earthquake recently devastated the region. In the US, Senator Dianne Feinstein announced her retirement and Nikki Haley has declared she will run for President next year. China is accusing the US of spying by flying balloons in their airspace, which the US claims are harmless, but neither side is backing down. Inflation has cooled slightly but there are still worrying details. There have also been shootings on college campuses in Michigan and other places, leaving multiple people dead or wounded. On a lighter note, podcast listeners can explore the history of candy hearts and Hayao Miyazaki fans can visit his namesake theme park in Japan!</p>
+There has been a devastating earthquake in Turkey recently, which has left many people injured and homeless. In the US, prosecutors are seeking former President Donald Trump&#39;s lawyer&#39;s testimony, suggesting there is evidence of a crime. There have also been several shootings in the US, most recently at a Michigan State University campus. In terms of business, inflation is slowing compared to last year and Senator Dianne Feinstein has announced her retirement at the end of her term. On the international climate front, a new skyscraper has been built to be an environmental marvel but is rapidly becoming outdated. Finally, there have also been unexplained flying objects detected which may or may not be connected to China’s balloon surveillance program.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Under the Rubble: Gasps of Air, Protein Powder and Miraculous Rescues</h3>
@@ -72,6 +72,18 @@ The world seems to be going through a tough time right now. In Turkey, rescuers 
 <h3>Earthquakes Destroy. People Rebuild.</h3>
 <sub>By Michael Kimmelman</sub>
 <p>Cities are a form of life and they need constant care to stay strong. They didn’t get that care in Turkey.  <a href="https://nyti.ms/3E6vFtw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors Seek Trump Lawyer’s Testimony, Suggesting Evidence of Crime</h3>
+<sub>By Alan Feuer, Maggie Haberman and Ben Protess</sub>
+<p>The Justice Department cited the crime-fraud exception to attorney-client privilege in demanding testimony from a lawyer representing former President Donald Trump in his documents case.  <a href="https://nyti.ms/3ImvTzk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Administration to Brief ‘Gang of Eight’ on Mishandled Classified Files</h3>
+<sub>By Charlie Savage</sub>
+<p>The disclosure won’t include sharing the specific documents that improperly accompanied top officials when they left office, which lawmakers of both parties have demanded to see.  <a href="https://nyti.ms/3K7CqiH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -93,33 +105,15 @@ The world seems to be going through a tough time right now. In Turkey, rescuers 
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley Is Running for President, the First G.O.P. Rival to Take On Trump</h3>
-<sub>By Trip Gabriel</sub>
-<p>Ms. Haley, 51, a former South Carolina governor and a United Nations ambassador in the Trump administration, called for “generational change” in the party.  <a href="https://nyti.ms/3K64pPt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Tries to Depict Furor Over Spy Balloon as Sign of U.S. Decline</h3>
-<sub>By David Pierson</sub>
-<p>Ignoring charges of spying, Beijing says Washington’s “overreaction” is a symptom of the country’s broken politics.  <a href="https://nyti.ms/3loWbru"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>From Harvey Milk’s Side to the Senate: 9 Key Moments in Dianne Feinstein’s Career</h3>
+<sub>By Shawn Hubler</sub>
+<p>In her decades-long political career, Ms. Feinstein has led San Francisco in the wake of political assassinations, kept the C.I.A. accountable for torture and held sway over Supreme Court nominations.  <a href="https://nyti.ms/3IqFo08"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Flying Objects Could Turn Out to Be Harmless, U.S. Says</h3>
 <sub>By Michael D. Shear and Karoun Demirjian</sub>
 <p>Investigators have not yet found evidence that the three objects shot down in recent days were connected to China’s program of balloon surveillance.  <a href="https://nyti.ms/3E8IrYt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>The Unsung Joy of Falling in Big, Deep Platonic Love</h3>
-<sub>By Catherine Pearson</sub>
-<p>There is magic in the moment when you realize you’ve found a friend like no other. What if we celebrated that kind of connection more?  <a href="https://nyti.ms/40PbJFr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>The Sweet and Surprising History of Candy Hearts</h3>
-<sub>By Tina Antolini, Wendy Dorr, Lynn Levy and Kim Severson</sub>
-<p>The messages on those little valentine hearts tell a history of American love, from “Fax Me” to “Text Me” to “DM Me.”  <a href="https://nyti.ms/3E8qqtv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -132,6 +126,12 @@ The world seems to be going through a tough time right now. In Turkey, rescuers 
 <h3>Pence to Oppose Subpoena Seeking Testimony in Jan. 6 Inquiry</h3>
 <sub>By Maggie Haberman and Glenn Thrush</sub>
 <p>The former vice president is said to be planning to invoke the Constitution’s “speech or debate” clause, saying his role as president of the Senate should insulate him from grand jury questions.  <a href="https://nyti.ms/3Xw6Kq3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>New Skyscraper, Built to Be an Environmental Marvel, Is Already Dated</h3>
+<sub>By Ben Ryder Howe</sub>
+<p>One Vanderbilt, in the heart of New York City, is built to be especially climate friendly. But the design landscape and city rules have changed quickly.  <a href="https://nyti.ms/3InigzW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
