@@ -58,9 +58,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, February 14, Central Standard Time</p>
+<p>It is Wednesday, February 15, Central Standard Time</p>
 <p>
-Recently, a shooting occurred at Michigan State University and three students were killed and five were injured. The Department of Justice is asking for a former President Trump&#39;s lawyer to testify, suggesting evidence of a crime. On the foreign front, there was an earthquake in Turkey that left nine survivors of the rubble after a 7.8-magnitude quake struck the region. Inflation in the US cooled slightly and the government found no evidence of balloon surveillance linked to China. There is also news that Dianne Feinstein is retiring from her term as Senator from California and an environmental marvel skyscraper in New York City has been built, although regulations have changed quickly. Finally, a theme park inspired by Hayao Miyazaki has opened, showcasing his unique imagination.</p>
+There is a lot happening around the world right now. In the US, there has recently been a mass shooting at Michigan State University that left three students dead and five others critically injured. Meanwhile, prosecutors are investigating potential criminal activity. On top of that, the Biden administration is briefing Congress on mishandled classified files. In Afghanistan, the Taliban have re-occupied the once diplomatic enclave in Kabul, while nine people were miraculously rescued from a huge earthquake in Turkey. 
+In terms of politics, Dianne Feinstein has decided to retire from her post at the end of her term while Harvey Milk&#39;s side is still being remembered in her career. Economically speaking, inflation rates have cooled slightly but are still concerning, and New York City&#39;s new skyscraper has already become outdated despite its intended environment marvel status. Lastly, Ukraine&#39;s allies are gathering to plan arms supplies for their upcoming battles as they desperately need more artillery rounds to fight off Russian invasion.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Elementary School. High School. Now College. Michigan State Students Are No Strangers to Mass Shootings.</h3>
@@ -87,15 +88,15 @@ Recently, a shooting occurred at Michigan State University and three students we
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Under the Rubble: Gasps of Air, Protein Powder and Miraculous Rescues</h3>
-<sub>By Jason Horowitz and Gulsin Harman</sub>
-<p>Nine people were rescued in Turkey over a week after a 7.8-magnitude earthquake devastated the region. The rescues were rare bright spots in one of the bleakest periods in memory for Turkey.  <a href="https://nyti.ms/3I0iF9Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Taliban Settle In, Kabul’s Green Zone Comes Back to Life</h3>
+<sub>By Christina Goldbaum</sub>
+<p>Walking down its streets a year ago was like wandering into the modern ruins of another empire come and gone from Afghanistan. Now, the Taliban have adopted the former diplomatic enclave as their own.  <a href="https://nyti.ms/3KazkdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Earthquakes Destroy. People Rebuild.</h3>
-<sub>By Michael Kimmelman</sub>
-<p>Cities are a form of life and they need constant care to stay strong. They didn’t get that care in Turkey.  <a href="https://nyti.ms/3E6vFtw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Under the Rubble: Gasps of Air, Protein Powder and Miraculous Rescues</h3>
+<sub>By Jason Horowitz and Gulsin Harman</sub>
+<p>Nine people were rescued in Turkey over a week after a 7.8-magnitude earthquake devastated the region. The rescues were rare bright spots in one of the bleakest periods in memory for Turkey.  <a href="https://nyti.ms/3I0iF9Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +123,16 @@ Recently, a shooting occurred at Michigan State University and three students we
 <p>Investigators have not yet found evidence that the three objects shot down in recent days were connected to China’s program of balloon surveillance.  <a href="https://nyti.ms/3E8IrYt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Spirited Away to Miyazaki Land</h3>
-<sub>By Sam Anderson</sub>
-<p>What happens when the surreal imagination of the world’s greatest living animator, Hayao Miyazaki, is turned into a theme park?  <a href="https://nyti.ms/3RXhXyQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>New Skyscraper, Built to Be an Environmental Marvel, Is Already Dated</h3>
 <sub>By Ben Ryder Howe</sub>
 <p>One Vanderbilt, in the heart of New York City, is built to be especially climate friendly. But the design landscape and city rules have changed quickly.  <a href="https://nyti.ms/3InigzW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With Battles Looming, Ukraine’s Allies Meet to Plan Arms Supply</h3>
+<sub>By Steven Erlanger and Matthew Mpoke Bigg</sub>
+<p>One of Ukraine’s biggest problems in fighting the Russian invasion is a basic one: It is firing artillery rounds much faster than its Western backers are producing them.  <a href="https://nyti.ms/3RY7KC6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
