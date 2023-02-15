@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 15, Central Standard Time</p>
 <p>
-As Social Security costs rise and lawmakers argue over what to do, the IRS is trying to push through an $80 billion overhaul. Meanwhile in Kabul, the former diplomatic-enclave is back to life as the Taliban settle in. In Scotland, Nicola Sturgeon is now the longest-serving first minister. In Michigan, a school shooting left 3 dead and 5 injured, and here in the US prosecutors are suggesting that Donald Trump&#39;s lawyer may have evidence of crimes. Lastly, Dianne Feinstein is stepping down after a long career leading San Francisco, flying the C.I.A. accountable for torture and much more.</p>
+To catch them up on what&#39;s been happening in the world recently, I&#39;d tell them that lawmakers in the US are sparring over Social Security, as its costs are rising fast due to an aging population. Retail sales have spiked recently, and prices have increased too. That could have effects on inflation which the Federal Reserve is trying to combat. In Russia, a growing number of soldiers from a mercenary force are being buried in a cemetery near the Black Sea, indicating the huge losses Russia is suffering in its invasion of another country. Kabul&#39;s green zone, which was once made of ruins, has reemerged now that the Taliban has adopted it as their own. Tragically, yet another mass shooting occurred at Michigan State University and three students died, while five were critically injured. Estimates suggest that close to 1.5 million people have died since China ended their Zero Covid strategy, far more than the official count that&#39;s been reported. As for soccer news, Manchester City is facing potential consequences for using misleading accounting and secret deals to try and get around financial rules. There&#39;s also a lot going on politically in the US with defenses of the Biden administration&#39;s overhaul of the IRS and former President Trump&#39;s lawyer being called to testify and prosecutors suggesting evidence of crime on his behalf. Plus Senator Dianne Feinstein has retired from politics after being active for decades and having led San Francisco after political assassinations as well as playing huge roles in CIA accountability, Supreme Court nominations and more.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Lawmakers Spar Over Social Security, Its Costs Are Rising Fast</h3>
 <sub>By Jim Tankersley</sub>
 <p>New budget projections are expected to show that the program’s spending is outpacing tax revenues as an aging population claims benefits.  <a href="https://nyti.ms/3lCM2Ys"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Retail Sales Surge as Prices Rise and Shoppers Keep Buying</h3>
+<sub>By Jordyn Holman and Jeanna Smialek</sub>
+<p>Consumer spending jumped in January, which was good news for retailers but could weigh on the Federal Reserve’s efforts to tame rapid inflation.  <a href="https://nyti.ms/3S3Z8u4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -75,16 +81,16 @@ As Social Security costs rise and lawmakers argue over what to do, the IRS is tr
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Bleak Russian Cemetery, Sea of Crosses Signals War’s True Toll</h3>
+<sub>By Valerie Hopkins and Nanna Heitmann</sub>
+<p>A dismal, snowy plot near the Black Sea is the final resting place for more and more soldiers from the Wagner mercenary forces, a testament to the huge casualties Russia is suffering in its invasion.  <a href="https://nyti.ms/3E3ZafB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Taliban Settle In, Kabul’s Green Zone Comes Back to Life</h3>
 <sub>By Christina Goldbaum</sub>
 <p>Walking down its streets a year ago was like wandering into the modern ruins of another empire come and gone from Afghanistan. Now, the Taliban have adopted the former diplomatic enclave as their own.  <a href="https://nyti.ms/3KazkdE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Nicola Sturgeon Is Scotland’s Longest-Serving First Minister</h3>
-<sub>By Megan Specia</sub>
-<p>Nicola Sturgeon, a powerful voice for Scottish independence, rose through her party’s ranks to become the most prominent figure in Scottish politics.  <a href="https://nyti.ms/3ImliEp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Elementary School. High School. Now College. Michigan State Students Are No Strangers to Mass Shootings.</h3>
@@ -108,12 +114,6 @@ As Social Security costs rise and lawmakers argue over what to do, the IRS is tr
 <h3>Manchester City and the Bruising Battle to Avoid Losing It All</h3>
 <sub>By Tariq Panja</sub>
 <p>The Premier League has accused its serial champion of using misleading accounting, secret deals and legal obstruction to sidestep financial rules. The club is digging in for its biggest fight yet.  <a href="https://nyti.ms/3XxSnlf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Bleak Russian Cemetery, Sea of Crosses Signals War’s True Toll</h3>
-<sub>By Valerie Hopkins and Nanna Heitmann</sub>
-<p>A dismal, snowy plot near the Black Sea is the final resting place for more and more soldiers from the Wagner mercenary forces, a testament to the huge casualties Russia is suffering in its invasion.  <a href="https://nyti.ms/3E3ZafB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
