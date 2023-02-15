@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 14, Central Standard Time</p>
 <p>
-There has been a devastating earthquake in Turkey recently, which has left many people injured and homeless. In the US, prosecutors are seeking former President Donald Trump&#39;s lawyer&#39;s testimony, suggesting there is evidence of a crime. There have also been several shootings in the US, most recently at a Michigan State University campus. In terms of business, inflation is slowing compared to last year and Senator Dianne Feinstein has announced her retirement at the end of her term. On the international climate front, a new skyscraper has been built to be an environmental marvel but is rapidly becoming outdated. Finally, there have also been unexplained flying objects detected which may or may not be connected to China’s balloon surveillance program.</p>
+Recently, a shooting occurred at Michigan State University and three students were killed and five were injured. The Department of Justice is asking for a former President Trump&#39;s lawyer to testify, suggesting evidence of a crime. On the foreign front, there was an earthquake in Turkey that left nine survivors of the rubble after a 7.8-magnitude quake struck the region. Inflation in the US cooled slightly and the government found no evidence of balloon surveillance linked to China. There is also news that Dianne Feinstein is retiring from her term as Senator from California and an environmental marvel skyscraper in New York City has been built, although regulations have changed quickly. Finally, a theme park inspired by Hayao Miyazaki has opened, showcasing his unique imagination.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Under the Rubble: Gasps of Air, Protein Powder and Miraculous Rescues</h3>
-<sub>By Jason Horowitz and Gulsin Harman</sub>
-<p>Nine people were rescued in Turkey over a week after a 7.8-magnitude earthquake devastated the region. The rescues were rare bright spots in one of the bleakest periods in memory for Turkey.  <a href="https://nyti.ms/3I0iF9Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Elementary School. High School. Now College. Michigan State Students Are No Strangers to Mass Shootings.</h3>
+<sub>By Julie Bosman, Sophia Lada, Tracey Tully and Patricia Mazzei</sub>
+<p>The gunfire on Monday night left three dead and five critically injured. For some students, the familiar rituals of sorrow, anger and disbelief were playing out again.  <a href="https://nyti.ms/3KgNEkG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Earthquakes Destroy. People Rebuild.</h3>
-<sub>By Michael Kimmelman</sub>
-<p>Cities are a form of life and they need constant care to stay strong. They didn’t get that care in Turkey.  <a href="https://nyti.ms/3E6vFtw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Michigan State Shooting Victims</h3>
+<sub>By Anushka Patil and Amanda Holpuch</sub>
+<p>Three students were killed in the shooting at the university’s campus on Monday night and five others were wounded.  <a href="https://nyti.ms/3K46rzT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,16 +86,16 @@ There has been a devastating earthquake in Turkey recently, which has left many 
 <p>The disclosure won’t include sharing the specific documents that improperly accompanied top officials when they left office, which lawmakers of both parties have demanded to see.  <a href="https://nyti.ms/3K7CqiH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Cooled Just Slightly, With Worrying Details</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Consumer Price Index inflation has been slowing compared with a year ago, but evidence is mounting that it could be a long road back to normal.  <a href="https://nyti.ms/3YPfNUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Under the Rubble: Gasps of Air, Protein Powder and Miraculous Rescues</h3>
+<sub>By Jason Horowitz and Gulsin Harman</sub>
+<p>Nine people were rescued in Turkey over a week after a 7.8-magnitude earthquake devastated the region. The rescues were rare bright spots in one of the bleakest periods in memory for Turkey.  <a href="https://nyti.ms/3I0iF9Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Michigan State Shooting Victims</h3>
-<sub>By Anushka Patil and Amanda Holpuch</sub>
-<p>Three students were killed in the shooting at the university’s campus on Monday night and five others were wounded.  <a href="https://nyti.ms/3K46rzT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Earthquakes Destroy. People Rebuild.</h3>
+<sub>By Michael Kimmelman</sub>
+<p>Cities are a form of life and they need constant care to stay strong. They didn’t get that care in Turkey.  <a href="https://nyti.ms/3E6vFtw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,6 +110,12 @@ There has been a devastating earthquake in Turkey recently, which has left many 
 <p>In her decades-long political career, Ms. Feinstein has led San Francisco in the wake of political assassinations, kept the C.I.A. accountable for torture and held sway over Supreme Court nominations.  <a href="https://nyti.ms/3IqFo08"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inflation Cooled Just Slightly, With Worrying Details</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Consumer Price Index inflation has been slowing compared with a year ago, but evidence is mounting that it could be a long road back to normal.  <a href="https://nyti.ms/3YPfNUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Flying Objects Could Turn Out to Be Harmless, U.S. Says</h3>
 <sub>By Michael D. Shear and Karoun Demirjian</sub>
@@ -120,12 +126,6 @@ There has been a devastating earthquake in Turkey recently, which has left many 
 <h3>Spirited Away to Miyazaki Land</h3>
 <sub>By Sam Anderson</sub>
 <p>What happens when the surreal imagination of the world’s greatest living animator, Hayao Miyazaki, is turned into a theme park?  <a href="https://nyti.ms/3RXhXyQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence to Oppose Subpoena Seeking Testimony in Jan. 6 Inquiry</h3>
-<sub>By Maggie Haberman and Glenn Thrush</sub>
-<p>The former vice president is said to be planning to invoke the Constitution’s “speech or debate” clause, saying his role as president of the Senate should insulate him from grand jury questions.  <a href="https://nyti.ms/3Xw6Kq3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
