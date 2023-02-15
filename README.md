@@ -60,33 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 15, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, there was a shooting at Michigan State University that left three people dead and five wounded. The justice department is requesting testimony from former President Donald Trump&#39;s lawyer, suggesting the existence of evidence of crime. The Biden Administration is also briefing Congress on mishandled classified files. 
-
-Globally, there has been an earthquake in Turkey that caused nine people to be rescued from beneath the rubble. The Taliban are settling in Kabul&#39;s green zone and Senator Dianne Feinstein has announced she will not be running for re-election in 2024 in the US. Additionally, inflation has cooled off slightly but still remains high across the UK and US. Lastly, the US does not have evidence yet connecting a flying object to China’s balloon surveillance technology.</p>
+As Social Security costs rise and lawmakers argue over what to do, the IRS is trying to push through an $80 billion overhaul. Meanwhile in Kabul, the former diplomatic-enclave is back to life as the Taliban settle in. In Scotland, Nicola Sturgeon is now the longest-serving first minister. In Michigan, a school shooting left 3 dead and 5 injured, and here in the US prosecutors are suggesting that Donald Trump&#39;s lawyer may have evidence of crimes. Lastly, Dianne Feinstein is stepping down after a long career leading San Francisco, flying the C.I.A. accountable for torture and much more.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Elementary School. High School. Now College. Michigan State Students Are No Strangers to Mass Shootings.</h3>
-<sub>By Julie Bosman, Sophia Lada, Tracey Tully and Patricia Mazzei</sub>
-<p>The gunfire on Monday night left three dead and five critically injured. For some students, the familiar rituals of sorrow, anger and disbelief were playing out again.  <a href="https://nyti.ms/3KgNEkG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<h3>As Lawmakers Spar Over Social Security, Its Costs Are Rising Fast</h3>
+<sub>By Jim Tankersley</sub>
+<p>New budget projections are expected to show that the program’s spending is outpacing tax revenues as an aging population claims benefits.  <a href="https://nyti.ms/3lCM2Ys"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Michigan State Shooting Victims</h3>
-<sub>By Anushka Patil and Amanda Holpuch</sub>
-<p>Three students were killed in the shooting at the university’s campus on Monday night and five others were wounded.  <a href="https://nyti.ms/3K46rzT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Seek Trump Lawyer’s Testimony, Suggesting Evidence of Crime</h3>
-<sub>By Alan Feuer, Maggie Haberman and Ben Protess</sub>
-<p>The Justice Department cited the crime-fraud exception to attorney-client privilege in demanding testimony from a lawyer representing former President Donald Trump in his documents case.  <a href="https://nyti.ms/3ImvTzk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Administration to Brief ‘Gang of Eight’ on Mishandled Classified Files</h3>
-<sub>By Charlie Savage</sub>
-<p>The disclosure won’t include sharing the specific documents that improperly accompanied top officials when they left office, which lawmakers of both parties have demanded to see.  <a href="https://nyti.ms/3K7CqiH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Biden’s I.R.S. Nominee Will Be Grilled About $80 Billion Overhaul</h3>
+<sub>By Alan Rappeport</sub>
+<p>Daniel Werfel is expected to defend the administration’s plan to modernize the agency at his confirmation hearing on Wednesday.  <a href="https://nyti.ms/40VNCoo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Taliban Settle In, Kabul’s Green Zone Comes Back to Life</h3>
@@ -95,46 +81,58 @@ Globally, there has been an earthquake in Turkey that caused nine people to be r
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Under the Rubble: Gasps of Air, Protein Powder and Miraculous Rescues</h3>
-<sub>By Jason Horowitz and Gulsin Harman</sub>
-<p>Nine people were rescued in Turkey over a week after a 7.8-magnitude earthquake devastated the region. The rescues were rare bright spots in one of the bleakest periods in memory for Turkey.  <a href="https://nyti.ms/3I0iF9Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Nicola Sturgeon Is Scotland’s Longest-Serving First Minister</h3>
+<sub>By Megan Specia</sub>
+<p>Nicola Sturgeon, a powerful voice for Scottish independence, rose through her party’s ranks to become the most prominent figure in Scottish politics.  <a href="https://nyti.ms/3ImliEp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Elementary School. High School. Now College. Michigan State Students Are No Strangers to Mass Shootings.</h3>
+<sub>By Julie Bosman, Sophia Lada, Tracey Tully and Patricia Mazzei</sub>
+<p>The gunfire on Monday night left three dead and five critically injured. For some students, the familiar rituals of sorrow, anger and disbelief were playing out again.  <a href="https://nyti.ms/3KgNEkG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senator Dianne Feinstein to Retire at the End of Her Term</h3>
-<sub>By Annie Karni</sub>
-<p>The senator from California, who was first elected in 1992, plans to serve out her term but will not run for re-election in 2024.  <a href="https://nyti.ms/40XcwEg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What We Know About the Michigan State University Shooting</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>A gunman killed three students and injured five others. He was found off campus and died of a self-inflicted gunshot wound, the authorities said.  <a href="https://nyti.ms/3XsKIVo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Deadly Was China’s Covid Wave?</h3>
+<sub>By James Glanz, Mara Hvistendahl and Agnes Chang</sub>
+<p>Rough estimates suggest that between 1 and 1.5 million people have died since China ended “zero Covid” — far more than the official count.  <a href="https://nyti.ms/3E8p0iv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Manchester City and the Bruising Battle to Avoid Losing It All</h3>
+<sub>By Tariq Panja</sub>
+<p>The Premier League has accused its serial champion of using misleading accounting, secret deals and legal obstruction to sidestep financial rules. The club is digging in for its biggest fight yet.  <a href="https://nyti.ms/3XxSnlf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Bleak Russian Cemetery, Sea of Crosses Signals War’s True Toll</h3>
+<sub>By Valerie Hopkins and Nanna Heitmann</sub>
+<p>A dismal, snowy plot near the Black Sea is the final resting place for more and more soldiers from the Wagner mercenary forces, a testament to the huge casualties Russia is suffering in its invasion.  <a href="https://nyti.ms/3E3ZafB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors Seek Trump Lawyer’s Testimony, Suggesting Evidence of Crime</h3>
+<sub>By Alan Feuer, Maggie Haberman and Ben Protess</sub>
+<p>The Justice Department cited the crime-fraud exception to attorney-client privilege in demanding testimony from a lawyer representing former President Donald Trump in his documents case.  <a href="https://nyti.ms/3ImvTzk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senate Race in California Reflects Fight for Democrats’ Future</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>With Senator Dianne Feinstein’s retirement, the party is gearing up for a clash on issues including gender, race, ideology and even geography.  <a href="https://nyti.ms/3IrW0Fa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From Harvey Milk’s Side to the Senate: 9 Key Moments in Dianne Feinstein’s Career</h3>
 <sub>By Shawn Hubler</sub>
 <p>In her decades-long political career, Ms. Feinstein has led San Francisco in the wake of political assassinations, kept the C.I.A. accountable for torture and held sway over Supreme Court nominations.  <a href="https://nyti.ms/3IqFo08"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Cooled Just Slightly, With Worrying Details</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Consumer Price Index inflation has been slowing compared with a year ago, but evidence is mounting that it could be a long road back to normal.  <a href="https://nyti.ms/3YPfNUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.K. Inflation Eases to 10.1 Percent, but Food Prices Push Higher</h3>
-<sub>By Eshe Nelson</sub>
-<p>January was the third month of declines in the inflation rate, but the double-digit increase shows Britain’s cost-of-living crisis persisting.  <a href="https://nyti.ms/3lDLscX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Flying Objects Could Turn Out to Be Harmless, U.S. Says</h3>
-<sub>By Michael D. Shear and Karoun Demirjian</sub>
-<p>Investigators have not yet found evidence that the three objects shot down in recent days were connected to China’s program of balloon surveillance.  <a href="https://nyti.ms/3E8IrYt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
-<h3>The 25 Essential Dishes to Eat in Paris</h3>
-<sub>By Kurt Soller, Sara Lieberman, Katherine McGrath, Zoey Poll, Lindsey Tramuta and Thibault Montamat</sub>
-<p>We asked five chefs and culinary experts to determine the most delicious and memorable plates in the food-obsessed French capital. Here are the results.  <a href="https://nyti.ms/3E4VH0d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
