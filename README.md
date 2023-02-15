@@ -60,18 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 15, Central Standard Time</p>
 <p>
-Things are pretty hectic worldwide right now. U.S. lawmakers are having a tough time coming to an agreement on social security, and Joe Biden&#39;s IRS nominee is going to be grilled about a $80 billion overhaul. In Russia, a cemetery near the Black Sea is quickly filling up with soldiers from Wagner mercenary forces due to the huge casualties of their invasion. That invasion is making heavy losses for Russia and Ukraine. Over in Scotland, there’s speculation over who could succeed Nicola Sturgeon as first minister, and in China, rough estimates show that between 1 and 1.5 million people may have died due to COVID-19 – way more than the official count. In Buffalo, a gunman has been sentenced to life in prison after a relative of one of the victims tried to lunge at them during a hearing. On brighter notes, Antarctic scientists have gained more insight into melting ice shelves which will help forecast its effect on global sea level, and New Orleans chefs are rewriting history by exploring how their celebrated food owes as much to West African and Caribbean cuisines as to Creole cooking. Finally, in the U.S., there’s some heated politicking ahead of the Senate race in California, along with conversations about President Trump – who his Republican rivals seem reluctant to criticize – and a Monterey Park community of ballroom dancers who recently had to deal with a devastating mass shooting.</p>
+There is a lot happening right now in the world, especially in the US. The Congressional Budget Office released a report saying that the US is projected to add $19 trillion in debt over the next 10 years. There&#39;s been a big partisan fight over how to manage US fiscal policy. The nonpartisan budget office also warned of a possible default between July and September if tax receipts come up short and Congress fails to act on the debt limit.
+
+Social Security spending is rising fast, as an aging population starts claiming benefits. Joe Biden&#39;s nominee for IRS commissioner was recently grilled about his $80 billion plan for modernizing the agency. In Russia, there&#39;s a growing number of casualties from the Wagner mercenary forces - showing the huge losses that are being suffered in its invasion. This has raised questions about whether Russia can sustain its offensive. 
+
+Closer to home, there was an emotional hearing where a gunman from Buffalo was sentenced to life in prison. Scientists also got a close-up look beneath an Antarctic ice shelf which will help with forecasting how sea levels could be impacted by melting ice. 
+
+On the lighter side, silver-screen sex symbol Raquel Welch recently passed away at age 82 and chefs in New Orleans are exploring how West African and Caribbean cuisines have had as much influence on Creole cooking as previously thought.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. on Track to Add $19 Trillion in New Debt Over 10 Years</h3>
+<sub>By Jim Tankersley and Alan Rappeport</sub>
+<p>Congressional Budget Office projections released on Wednesday suggested rising interest rates and bipartisan spending bills are adding to deficits, amid a partisan fight on fiscal policy.  <a href="https://nyti.ms/3YPTldB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>C.B.O. Warns of Possible Default Between July and September</h3>
+<sub>By Alan Rappeport</sub>
+<p>The nonpartisan budget office also said that if tax receipts fall short of projections, and Congress fails to act on the debt limit, the U.S. could run out of cash before July.  <a href="https://nyti.ms/40XeEM8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Lawmakers Spar Over Social Security, Its Costs Are Rising Fast</h3>
 <sub>By Jim Tankersley</sub>
-<p>New budget projections are expected to show that the program’s spending is outpacing tax revenues as an aging population claims benefits.  <a href="https://nyti.ms/3lCM2Ys"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>New budget projections show that the program’s spending is outpacing tax revenues as an aging population claims benefits.  <a href="https://nyti.ms/3lCM2Ys"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Biden’s I.R.S. Nominee Will Be Grilled About $80 Billion Overhaul</h3>
+<h3>Biden’s I.R.S. Nominee Is Grilled About $80 Billion Overhaul</h3>
 <sub>By Alan Rappeport</sub>
-<p>Daniel Werfel is expected to defend the administration’s plan to modernize the agency at his confirmation hearing on Wednesday.  <a href="https://nyti.ms/40VNCoo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Daniel Werfel defended the administration’s plan to modernize the agency during his confirmation hearing.  <a href="https://nyti.ms/40VNCoo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,16 +104,16 @@ Things are pretty hectic worldwide right now. U.S. lawmakers are having a tough 
 <p>The fighting has also come at a cost for Ukraine, which is expending vast amounts of ammunition to repel Russia’s growing numbers of ground troops,  <a href="https://nyti.ms/3EwTwD5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Who Could Succeed Nicola Sturgeon as Scotland’s First Minister?</h3>
-<sub>By Megan Specia</sub>
-<p>Ms. Sturgeon’s party, the Scottish National Party, is expected to hold an election to choose her successor in the coming weeks.  <a href="https://nyti.ms/3k0fwyY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Dept. Won’t Bring Charges Against Gaetz in Sex-Trafficking Inquiry, Lawyers Say</h3>
+<sub>By Glenn Thrush</sub>
+<p>An investigation had examined whether Representative Matt Gaetz broke federal laws, focusing on his relationships with women recruited online, and whether he had sex with a 17-year-old girl.  <a href="https://nyti.ms/40YLTi1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Deadly Was China’s Covid Wave?</h3>
-<sub>By James Glanz, Mara Hvistendahl and Agnes Chang</sub>
-<p>Rough estimates suggest that between 1 and 1.5 million people have died since China ended “zero Covid” — far more than the official count.  <a href="https://nyti.ms/3E8p0iv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>State Senate Rejects Nominee for Chief Judge in Defeat for Hochul</h3>
+<sub>By Luis Ferré-Sadurní</sub>
+<p>Justice Hector LaSalle, Gov. Kathy Hochul’s divisive nominee, failed to overcome opposition from the Democrats who control the State Senate.  <a href="https://nyti.ms/3RYu2nu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -110,29 +128,17 @@ Things are pretty hectic worldwide right now. U.S. lawmakers are having a tough 
 <p>A robot lowered through the ice reveals how the Thwaites shelf is melting, which will help forecast its effect on global sea level.  <a href="https://nyti.ms/3KdwN2j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Raquel Welch, Actress and ’60s Sex Symbol, Is Dead at 82</h3>
+<sub>By Anita Gates</sub>
+<p>Beginning with a doeskin bikini in “One Million Years B.C.,” she built a celebrated show business career around sex appeal and, sometimes, a comic touch.  <a href="https://nyti.ms/3k0zGZD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
 <h3>In Majority-Black New Orleans, Chefs Are Rewriting ‘Whitewashed’ History</h3>
 <sub>By Brett Anderson and Rita Harper</sub>
 <p>A new generation is exploring how the city’s celebrated food owes as much to West African and Caribbean cuisines as to Creole cooking.  <a href="https://nyti.ms/3HV8GCV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Before the Gunfire, It Was Their Glittering ‘Dancing Star’</h3>
-<sub>By Corina Knoll, Isabelle Qian, Li Qiang and Mark Abramson</sub>
-<p>The mass shooting in Monterey Park threatened a community of ballroom dancers who share a rich history. They hope to find a way to carry on.  <a href="https://nyti.ms/3E9z9v8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>They’re Trying to Topple Trump. But They Barely Utter His Name.</h3>
-<sub>By Jonathan Weisman and Maggie Haberman</sub>
-<p>The former president’s Republican rivals appear highly reluctant to criticize him, and Nikki Haley didn’t even mention him as she jumped into the race this week.  <a href="https://nyti.ms/3lDVBX5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Race in California Reflects Fight for Democrats’ Future</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>With Senator Dianne Feinstein’s retirement, the party is gearing up for a clash on issues including gender, race, ideology and even geography.  <a href="https://nyti.ms/3IrW0Fa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
