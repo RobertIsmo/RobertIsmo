@@ -60,8 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 15, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. In the US, there has recently been a mass shooting at Michigan State University that left three students dead and five others critically injured. Meanwhile, prosecutors are investigating potential criminal activity. On top of that, the Biden administration is briefing Congress on mishandled classified files. In Afghanistan, the Taliban have re-occupied the once diplomatic enclave in Kabul, while nine people were miraculously rescued from a huge earthquake in Turkey. 
-In terms of politics, Dianne Feinstein has decided to retire from her post at the end of her term while Harvey Milk&#39;s side is still being remembered in her career. Economically speaking, inflation rates have cooled slightly but are still concerning, and New York City&#39;s new skyscraper has already become outdated despite its intended environment marvel status. Lastly, Ukraine&#39;s allies are gathering to plan arms supplies for their upcoming battles as they desperately need more artillery rounds to fight off Russian invasion.</p>
+There is a lot going on in the world right now. In the US, there was a shooting at Michigan State University that left three people dead and five wounded. The justice department is requesting testimony from former President Donald Trump&#39;s lawyer, suggesting the existence of evidence of crime. The Biden Administration is also briefing Congress on mishandled classified files. 
+
+Globally, there has been an earthquake in Turkey that caused nine people to be rescued from beneath the rubble. The Taliban are settling in Kabul&#39;s green zone and Senator Dianne Feinstein has announced she will not be running for re-election in 2024 in the US. Additionally, inflation has cooled off slightly but still remains high across the UK and US. Lastly, the US does not have evidence yet connecting a flying object to China’s balloon surveillance technology.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Elementary School. High School. Now College. Michigan State Students Are No Strangers to Mass Shootings.</h3>
@@ -117,23 +118,23 @@ In terms of politics, Dianne Feinstein has decided to retire from her post at th
 <p>Consumer Price Index inflation has been slowing compared with a year ago, but evidence is mounting that it could be a long road back to normal.  <a href="https://nyti.ms/3YPfNUd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.K. Inflation Eases to 10.1 Percent, but Food Prices Push Higher</h3>
+<sub>By Eshe Nelson</sub>
+<p>January was the third month of declines in the inflation rate, but the double-digit increase shows Britain’s cost-of-living crisis persisting.  <a href="https://nyti.ms/3lDLscX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Flying Objects Could Turn Out to Be Harmless, U.S. Says</h3>
 <sub>By Michael D. Shear and Karoun Demirjian</sub>
 <p>Investigators have not yet found evidence that the three objects shot down in recent days were connected to China’s program of balloon surveillance.  <a href="https://nyti.ms/3E8IrYt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>New Skyscraper, Built to Be an Environmental Marvel, Is Already Dated</h3>
-<sub>By Ben Ryder Howe</sub>
-<p>One Vanderbilt, in the heart of New York City, is built to be especially climate friendly. But the design landscape and city rules have changed quickly.  <a href="https://nyti.ms/3InigzW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Battles Looming, Ukraine’s Allies Meet to Plan Arms Supply</h3>
-<sub>By Steven Erlanger and Matthew Mpoke Bigg</sub>
-<p>One of Ukraine’s biggest problems in fighting the Russian invasion is a basic one: It is firing artillery rounds much faster than its Western backers are producing them.  <a href="https://nyti.ms/3RY7KC6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
+<h3>The 25 Essential Dishes to Eat in Paris</h3>
+<sub>By Kurt Soller, Sara Lieberman, Katherine McGrath, Zoey Poll, Lindsey Tramuta and Thibault Montamat</sub>
+<p>We asked five chefs and culinary experts to determine the most delicious and memorable plates in the food-obsessed French capital. Here are the results.  <a href="https://nyti.ms/3E4VH0d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
