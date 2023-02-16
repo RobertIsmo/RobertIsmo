@@ -60,32 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 16, Central Standard Time</p>
 <p>
-There is currently a diplomatic crisis between the US and China due to the US suspecting that a balloon sent by China was used for surveillance. The Senate and the House have unanimously condemned China for the episode. In the US, there is expected to be $19 trillion in new debt over the next 10 years according to Congressional Budget Office projections, and there are warnings of possible default between July and September if tax receipts fall short of projections. Overseas, there is doubt about Moscow&#39;s ability to sustain a military ground assault after a failed battle with Ukraine, while countries are competing to rebuild Ukraine in what could be a multibillion-dollar effort. Meanwhile, locals in Ohio are frustrated by confused messaging from government officials following a train derailment in East Palestine, Ohio. Michigan state is also exploring ways to balance freedom and safety on college campuses amidst ongoing gun violence concerns. Lastly, there has been an investigation looking into whether renowned Chilean poet Pablo Neruda was murdered by Chile&#39;s military dictatorship, which has not yet revealed their findings.</p>
+There&#39;s a lot happening in the world right now. In Moscow, a failed battle has raised questions about the military capabilities of the city. Companies from around the world are competing for the opportunity to help rebuild Ukraine after the wars. The United States and China have had diplomatic issues due to U.S. suspicions that China sent a spy balloon and other unmanned objects into their airspace, which has both recently been unanimously condemned by Congress. Also, Microsoft&#39;s Bing search engine recently featured an AI chatbot that had uncanny human-like responses. Furthermore, residents in Ohio are pressing for answers regarding a train derailment in the area, while in Georgia a judge is set to release Grand Jury findings related to Trump&#39;s election inquiry. Lastly, there are some heart-warming stories like a Mexican restaurant in which everyone feels like family, or an expanded Sabbath experience for observant Jews in Brooklyn who can now take their children out in strollers.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Fog of Questions Over a Spy Balloon and U.F.O.s Fed a Diplomatic Crisis</h3>
-<sub>By Edward Wong, Julian E. Barnes and Adam Entous</sub>
-<p>U.S. officials now suspect that the balloon was sent to spy on bases in Guam and Hawaii and that other downed objects were not surveillance machines. Washington’s evolving view reflects U.S. and Chinese difficulties in discerning each other’s intentions.  <a href="https://nyti.ms/3HY5y9g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Unanimously Condemns China for Spy Balloon, Joining the House</h3>
-<sub>By Karoun Demirjian</sub>
-<p>With the Senate’s bipartisan action on Wednesday night, both chambers of Congress have officially taken China to task for the episode amid questions about the Biden administration’s response.  <a href="https://nyti.ms/3S4P5or"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. on Track to Add $19 Trillion in New Debt Over 10 Years</h3>
-<sub>By Jim Tankersley and Alan Rappeport</sub>
-<p>Congressional Budget Office projections released on Wednesday suggested rising interest rates and bipartisan spending bills are adding to deficits.  <a href="https://nyti.ms/3YPTldB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>C.B.O. Warns of Possible Default Between July and September</h3>
-<sub>By Alan Rappeport</sub>
-<p>The nonpartisan budget office also said that if tax receipts fall short of projections, and Congress fails to act on the debt limit, the U.S. could run out of cash before July.  <a href="https://nyti.ms/40XeEM8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Moscow’s Military Capabilities Are in Question After Failed Battle for Ukrainian City</h3>
 <sub>By Marc Santora</sub>
@@ -97,6 +73,36 @@ There is currently a diplomatic crisis between the US and China due to the US su
 <sub>By Patricia Cohen and Liz Alderman</sub>
 <p>As the country’s leaders lay postwar plans, companies from around the world are jockeying for advantage in what could be a multibillion-dollar effort, although one loaded with risk.  <a href="https://nyti.ms/3I7zakH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a Fog of Questions Over a Spy Balloon and U.F.O.s Fed a Diplomatic Crisis</h3>
+<sub>By Edward Wong, Julian E. Barnes and Adam Entous</sub>
+<p>U.S. officials now suspect that the balloon was sent to spy on bases in Guam and Hawaii and that other downed objects were not surveillance machines. Washington’s evolving view reflects U.S. and Chinese difficulties in discerning each other’s intentions.  <a href="https://nyti.ms/3HY5y9g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Spy Balloons. U.F.O.s. What Else Is Up There?</h3>
+<sub>By Eleanor Lutz</sub>
+<p>From the mysterious to the commonplace, here are some of the objects in the sky.  <a href="https://nyti.ms/3YBnIVl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senate Unanimously Condemns China for Spy Balloon, Joining the House</h3>
+<sub>By Karoun Demirjian</sub>
+<p>With the Senate’s bipartisan action on Wednesday night, both chambers of Congress have officially taken China to task for the episode amid questions about the Biden administration’s response.  <a href="https://nyti.ms/3S4P5or"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Help, Bing Won’t Stop Declaring Its Love for Me</h3>
+<sub>By Kevin Roose</sub>
+<p>A very strange conversation with the chatbot built into Microsoft’s search engine left me deeply unsettled. Even frightened.  <a href="https://nyti.ms/3I85UdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Bing’s A.I. Chat Reveals Its Feelings: ‘I Want to Be Alive. 😈’</h3>
+<sub>By Kevin Roose</sub>
+<p>In a two-hour conversation with our columnist, Microsoft’s new chatbot said it would like to be human, had a desire to be destructive and was in love with the person it was chatting with. Here’s the transcript.  <a href="https://nyti.ms/3xpsk5d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘We’re Scared, Too’: Ohio Residents Press for Answers on Train Derailment at Meeting</h3>
@@ -111,28 +117,22 @@ There is currently a diplomatic crisis between the US and China due to the US su
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In the Wake of Tragedy, Balancing Freedom and Safety at Michigan State</h3>
-<sub>By Julie Bosman, Jesus Jiménez and James C. McKinley Jr.</sub>
-<p>While elementary, middle and high schools have adopted new safety technology to try to deter gun violence, the same changes have not come to the more open campuses of colleges and universities.  <a href="https://nyti.ms/3XBih7J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<h3>Georgia Judge to Release Grand Jury Findings in Trump Election Inquiry</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>The judge ordered the report’s introduction and conclusion to be made public, along with a section detailing the special grand jury’s concerns about witnesses lying under oath.  <a href="https://nyti.ms/3KcSQq6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Was Pablo Neruda Murdered?</h3>
-<sub>By Jack Nicas</sub>
-<p>There has long been suspicion that Chile’s military dictatorship poisoned the nation’s most famous poet. A decade-long investigation has produced tantalizing clues, but nothing more.  <a href="https://nyti.ms/3KbFR7V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>At This Mexican Restaurant, Everyone is Family</h3>
+<sub>By Adrian Martinez Chavez and Melissa Guerrero</sub>
+<p>Sarapes isn’t just a place to be physically fed. It’s an emotional and spiritual hub that brings a community together.  <a href="https://nyti.ms/3S2442m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Who Was Pablo Neruda and Why Is His Death a Mystery?</h3>
-<sub>By Flávia Milhorance</sub>
-<p>After a decade-long investigation, a team of forensic experts issued their final report on the exhumed remains of the acclaimed Chilean poet. Here’s why there are so many questions around his death.  <a href="https://nyti.ms/3YQrXMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Raquel Welch, Actress and ’60s Sex Symbol, Is Dead at 82</h3>
-<sub>By Anita Gates</sub>
-<p>Beginning with a doeskin bikini in “One Million Years B.C.,” she built a celebrated show business career around sex appeal and, sometimes, a comic touch.  <a href="https://nyti.ms/3k0zGZD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>For Observant Jews in Brooklyn, the Sabbath Expands</h3>
+<sub>By Joseph Berger</sub>
+<p>For the first time, an exception to the prohibition against “carrying” on the day of rest includes most of the borough, allowing, among other things, children to be pushed in strollers.  <a href="https://nyti.ms/3xoJkIL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
