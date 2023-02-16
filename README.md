@@ -58,12 +58,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, February 15, Central Standard Time</p>
+<p>It is Thursday, February 16, Central Standard Time</p>
 <p>
-There&#39;s a lot of interesting news happening in the world right now. In the US, a nonpartisan budget office has warned of possible default between July and September if taxes come up short without Congress taking any action on the debt limit. In another US story, residents of a town in Ohio are pressing for answers on a train derailment after they got confusing messages from government officials. In the world news, Russian balloons were shot down over Kyiv, leading to speculation that Russia is using them for reconnaissance and air defense, and Moscow&#39;s military capabilities have come into question following a failed battle for a Ukrainian city. Finally, there&#39;s ongoing mystery around the death of Chilean poet Pablo Neruda- was he murdered? 
-
-On the lighter side, Raquel Welch, who became a &#39;60s sex symbol after donning a bikini as cavewoman in One Million Years B.C., passed away last week at 82.</p>
+There have been a lot of interesting developments around the world recently. In the US, there is a diplomatic crisis over questions about whether a mysterious balloon sent by China was for surveillance and an effort to pass a bipartisan bill to condemn China for it. On top of that, the US is on track to add nearly $19 trillion in new debt in just 10 years, and the Congressional Budget Office warned there could be a government default as soon as July unless taxes come in. Over in Russia, there was a failed battle for the Ukraine city of Vuhledar that casts doubts on Moscow&#39;s military capabilities. Ukraine itself is preparing for massive rebuilding efforts and trying to move forward after tragedy. As far as news related to culture, we recently lost Raquel Welch, who was an actress and sex symbol in the 60s known mainly for her iconic bikini look in &quot;One Million Years B.C.&quot; Lastly, worldwide interest has been piqued over long held suspicions that Chilean poet Pablo Neruda might have been murdered by Chile&#39;s military dictatorship.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a Fog of Questions Over a Spy Balloon and U.F.O.s Fed a Diplomatic Crisis</h3>
+<sub>By Edward Wong, Julian E. Barnes and Adam Entous</sub>
+<p>U.S. officials now suspect that the balloon was sent to spy on bases in Guam and Hawaii and that other downed objects were not surveillance machines. Washington’s evolving view reflects U.S. and Chinese difficulties in discerning each other’s intentions.  <a href="https://nyti.ms/3HY5y9g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senate Unanimously Condemns China for Spy Balloon, Joining the House</h3>
+<sub>By Karoun Demirjian</sub>
+<p>With the Senate’s bipartisan action on Wednesday night, both chambers of Congress have officially taken China to task for the episode amid questions about the Biden administration’s response.  <a href="https://nyti.ms/3S4P5or"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. on Track to Add $19 Trillion in New Debt Over 10 Years</h3>
 <sub>By Jim Tankersley and Alan Rappeport</sub>
@@ -76,22 +86,16 @@ On the lighter side, Raquel Welch, who became a &#39;60s sex symbol after donnin
 <p>The nonpartisan budget office also said that if tax receipts fall short of projections, and Congress fails to act on the debt limit, the U.S. could run out of cash before July.  <a href="https://nyti.ms/40XeEM8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Fog of Questions Over a Spy Balloon and U.F.O.s Fed a Diplomatic Crisis</h3>
-<sub>By Edward Wong, Julian E. Barnes and Adam Entous</sub>
-<p>U.S. officials now suspect that the balloon was sent to spy on bases in Guam and Hawaii and that other downed objects were not surveillance machines. Washington’s evolving view reflects U.S. and Chinese difficulties in discerning each other’s intentions.  <a href="https://nyti.ms/3HY5y9g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian balloons floating over Kyiv were shot down, city officials say.</h3>
-<sub>By Neil MacFarquhar and Marc Santora</sub>
-<p>Russia “uses such flying objects for reconnaissance or to confuse air defense systems,” the spokesman for the Ukrainian air force said.  <a href="https://nyti.ms/3IBI0Zz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Moscow’s Military Capabilities Are in Question After Failed Battle for Ukrainian City</h3>
 <sub>By Marc Santora</sub>
 <p>A disastrous Russian assault on Vuhledar, viewed as an opening move in an expected spring offensive, has renewed doubts about Moscow’s ability to sustain a large-scale ground assault.  <a href="https://nyti.ms/3Eb1lhf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘The World’s Largest Construction Site’: The Race Is On to Rebuild Ukraine</h3>
+<sub>By Patricia Cohen and Liz Alderman</sub>
+<p>As the country’s leaders lay postwar plans, companies from around the world are jockeying for advantage in what could be a multibillion-dollar effort, although one loaded with risk.  <a href="https://nyti.ms/3I7zakH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -103,7 +107,7 @@ On the lighter side, Raquel Welch, who became a &#39;60s sex symbol after donnin
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘We’re Scared, Too’: Ohio Residents Press for Answers on Train Derailment at Meeting</h3>
 <sub>By Campbell Robertson and Emily Cochrane</sub>
-<p>Officials for the railroad company pulled out of the town hall hours before it was scheduled to start, further infuriating residents who had planned to press the company on the derailment and its fallout.  <a href="https://nyti.ms/3S4b3Yv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Officials for the railroad company pulled out hours earlier, infuriating some residents who said they wanted answers from the company.  <a href="https://nyti.ms/3S4b3Yv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,12 +132,6 @@ On the lighter side, Raquel Welch, who became a &#39;60s sex symbol after donnin
 <h3>Raquel Welch, Actress and ’60s Sex Symbol, Is Dead at 82</h3>
 <sub>By Anita Gates</sub>
 <p>Beginning with a doeskin bikini in “One Million Years B.C.,” she built a celebrated show business career around sex appeal and, sometimes, a comic touch.  <a href="https://nyti.ms/3k0zGZD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Raquel Welch, a Lifetime of Looks</h3>
-<sub>By Jim Windolf</sub>
-<p>From cave woman to “Woman of the Year,” Ms. Welch defied expectations.  <a href="https://nyti.ms/3YVwwVO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
