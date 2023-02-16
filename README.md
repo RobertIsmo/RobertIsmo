@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 15, Central Standard Time</p>
 <p>
-There is a lot happening right now in the world, especially in the US. The Congressional Budget Office released a report saying that the US is projected to add $19 trillion in debt over the next 10 years. There&#39;s been a big partisan fight over how to manage US fiscal policy. The nonpartisan budget office also warned of a possible default between July and September if tax receipts come up short and Congress fails to act on the debt limit.
-
-Social Security spending is rising fast, as an aging population starts claiming benefits. Joe Biden&#39;s nominee for IRS commissioner was recently grilled about his $80 billion plan for modernizing the agency. In Russia, there&#39;s a growing number of casualties from the Wagner mercenary forces - showing the huge losses that are being suffered in its invasion. This has raised questions about whether Russia can sustain its offensive. 
-
-Closer to home, there was an emotional hearing where a gunman from Buffalo was sentenced to life in prison. Scientists also got a close-up look beneath an Antarctic ice shelf which will help with forecasting how sea levels could be impacted by melting ice. 
-
-On the lighter side, silver-screen sex symbol Raquel Welch recently passed away at age 82 and chefs in New Orleans are exploring how West African and Caribbean cuisines have had as much influence on Creole cooking as previously thought.</p>
+There&#39;s a lot going on in the world right now! The US is on track to add $19 trillion in new debt over the next 10 years, and the Congressional Budget Office has warned that this could lead to default in July if Congress doesn&#39;t take action. Meanwhile, there has been rising diplomatic tension between the US and China over accusations of spying balloon flights, and in Ohio local residents are feeling uneasy after a train carrying toxic chemicals derailed. In other news, Russia&#39;s heavy losses have sparked questions regarding their ability to sustain offensive maneuvers, while emotions ran especially high at a Buffalo hearing where the gunman was sentenced to life. On a more somber note, the investigation into Pablo Neruda&#39;s death has finally concluded 10 years after his passing, revealing possible clues as to how he died. And last but not least, Hollywood icon Raquel Welch passed away at 82.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. on Track to Add $19 Trillion in New Debt Over 10 Years</h3>
 <sub>By Jim Tankersley and Alan Rappeport</sub>
-<p>Congressional Budget Office projections released on Wednesday suggested rising interest rates and bipartisan spending bills are adding to deficits, amid a partisan fight on fiscal policy.  <a href="https://nyti.ms/3YPTldB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Congressional Budget Office projections released on Wednesday suggested rising interest rates and bipartisan spending bills are adding to deficits.  <a href="https://nyti.ms/3YPTldB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,21 +75,27 @@ On the lighter side, silver-screen sex symbol Raquel Welch recently passed away 
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Lawmakers Spar Over Social Security, Its Costs Are Rising Fast</h3>
-<sub>By Jim Tankersley</sub>
-<p>New budget projections show that the program’s spending is outpacing tax revenues as an aging population claims benefits.  <a href="https://nyti.ms/3lCM2Ys"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Biden’s I.R.S. Nominee Is Grilled About $80 Billion Overhaul</h3>
-<sub>By Alan Rappeport</sub>
-<p>Daniel Werfel defended the administration’s plan to modernize the agency during his confirmation hearing.  <a href="https://nyti.ms/40VNCoo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How a Fog of Questions Over a Spy Balloon and U.F.O.s Fed a Diplomatic Crisis</h3>
+<sub>By Edward Wong, Julian E. Barnes and Adam Entous</sub>
+<p>U.S. officials now suspect that the balloon was sent to spy on bases in Guam and Hawaii and that other downed objects were not surveillance machines. Washington’s evolving view reflects U.S. and Chinese difficulties in discerning each other’s intentions.  <a href="https://nyti.ms/3HY5y9g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Bleak Russian Cemetery, Sea of Crosses Signals War’s True Toll</h3>
-<sub>By Valerie Hopkins and Nanna Heitmann</sub>
-<p>A dismal, snowy plot near the Black Sea is the final resting place for more and more soldiers from the Wagner mercenary forces, a testament to the huge casualties Russia is suffering in its invasion.  <a href="https://nyti.ms/3E3ZafB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China Accuses U.S. of Flying Balloons Over Xinjiang and Tibet</h3>
+<sub>By David Pierson</sub>
+<p>The accusation came days after Beijing claimed that the United States had sent airships over China multiple times, ramping up tensions between the two superpowers.  <a href="https://nyti.ms/3I22lFQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Ohio Town Where Train Derailed, Anxiety and Distrust Are Running Deep</h3>
+<sub>By Campbell Robertson and Emily Cochrane</sub>
+<p>Nearly two weeks after a train carrying toxic chemicals derailed in East Palestine, Ohio, confusing messages from government officials have frayed locals’ trust.  <a href="https://nyti.ms/3k0XAnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>What Toxic Chemicals Were Aboard the Derailed Train in Ohio?</h3>
+<sub>By Raymond Zhong</sub>
+<p>The train was carrying industrial materials used in plastics, paint thinners and other products, according to information provided to the federal government.  <a href="https://nyti.ms/3YVbW7U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -105,15 +105,9 @@ On the lighter side, silver-screen sex symbol Raquel Welch recently passed away 
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Won’t Bring Charges Against Gaetz in Sex-Trafficking Inquiry, Lawyers Say</h3>
+<h3>Justice Dept. Won’t Bring Charges Against Gaetz in Sex-Trafficking Inquiry</h3>
 <sub>By Glenn Thrush</sub>
 <p>An investigation had examined whether Representative Matt Gaetz broke federal laws, focusing on his relationships with women recruited online, and whether he had sex with a 17-year-old girl.  <a href="https://nyti.ms/40YLTi1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>State Senate Rejects Nominee for Chief Judge in Defeat for Hochul</h3>
-<sub>By Luis Ferré-Sadurní</sub>
-<p>Justice Hector LaSalle, Gov. Kathy Hochul’s divisive nominee, failed to overcome opposition from the Democrats who control the State Senate.  <a href="https://nyti.ms/3RYu2nu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -122,10 +116,16 @@ On the lighter side, silver-screen sex symbol Raquel Welch recently passed away 
 <p>During a statement from a victim’s relative, a member of the court audience had to be restrained after lunging at the gunman.  <a href="https://nyti.ms/3In3Way"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Scientists Get a Close-Up Look Beneath a Troubling Ice Shelf in Antarctica</h3>
-<sub>By Henry Fountain</sub>
-<p>A robot lowered through the ice reveals how the Thwaites shelf is melting, which will help forecast its effect on global sea level.  <a href="https://nyti.ms/3KdwN2j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Was Pablo Neruda Murdered?</h3>
+<sub>By Jack Nicas</sub>
+<p>There has long been suspicion that Chile’s military dictatorship poisoned the nation’s most famous poet. A decade-long investigation has produced tantalizing clues, but nothing more.  <a href="https://nyti.ms/3KbFR7V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Who Was Pablo Neruda and Why Is His Death a Mystery?</h3>
+<sub>By Flávia Milhorance</sub>
+<p>After a decade-long investigation, a team of forensic experts issued their final report on the exhumed remains of the acclaimed Chilean poet. Here’s why there are so many questions around his death.  <a href="https://nyti.ms/3YQrXMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -133,12 +133,6 @@ On the lighter side, silver-screen sex symbol Raquel Welch recently passed away 
 <sub>By Anita Gates</sub>
 <p>Beginning with a doeskin bikini in “One Million Years B.C.,” she built a celebrated show business career around sex appeal and, sometimes, a comic touch.  <a href="https://nyti.ms/3k0zGZD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>In Majority-Black New Orleans, Chefs Are Rewriting ‘Whitewashed’ History</h3>
-<sub>By Brett Anderson and Rita Harper</sub>
-<p>A new generation is exploring how the city’s celebrated food owes as much to West African and Caribbean cuisines as to Creole cooking.  <a href="https://nyti.ms/3HV8GCV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
