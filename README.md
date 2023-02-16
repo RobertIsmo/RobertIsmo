@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 15, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! The US is on track to add $19 trillion in new debt over the next 10 years, and the Congressional Budget Office has warned that this could lead to default in July if Congress doesn&#39;t take action. Meanwhile, there has been rising diplomatic tension between the US and China over accusations of spying balloon flights, and in Ohio local residents are feeling uneasy after a train carrying toxic chemicals derailed. In other news, Russia&#39;s heavy losses have sparked questions regarding their ability to sustain offensive maneuvers, while emotions ran especially high at a Buffalo hearing where the gunman was sentenced to life. On a more somber note, the investigation into Pablo Neruda&#39;s death has finally concluded 10 years after his passing, revealing possible clues as to how he died. And last but not least, Hollywood icon Raquel Welch passed away at 82.</p>
+There&#39;s a lot of interesting news happening in the world right now. In the US, a nonpartisan budget office has warned of possible default between July and September if taxes come up short without Congress taking any action on the debt limit. In another US story, residents of a town in Ohio are pressing for answers on a train derailment after they got confusing messages from government officials. In the world news, Russian balloons were shot down over Kyiv, leading to speculation that Russia is using them for reconnaissance and air defense, and Moscow&#39;s military capabilities have come into question following a failed battle for a Ukrainian city. Finally, there&#39;s ongoing mystery around the death of Chilean poet Pablo Neruda- was he murdered? 
+
+On the lighter side, Raquel Welch, who became a &#39;60s sex symbol after donning a bikini as cavewoman in One Million Years B.C., passed away last week at 82.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. on Track to Add $19 Trillion in New Debt Over 10 Years</h3>
@@ -81,9 +83,15 @@ There&#39;s a lot going on in the world right now! The US is on track to add $19
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Accuses U.S. of Flying Balloons Over Xinjiang and Tibet</h3>
-<sub>By David Pierson</sub>
-<p>The accusation came days after Beijing claimed that the United States had sent airships over China multiple times, ramping up tensions between the two superpowers.  <a href="https://nyti.ms/3I22lFQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russian balloons floating over Kyiv were shot down, city officials say.</h3>
+<sub>By Neil MacFarquhar and Marc Santora</sub>
+<p>Russia “uses such flying objects for reconnaissance or to confuse air defense systems,” the spokesman for the Ukrainian air force said.  <a href="https://nyti.ms/3IBI0Zz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Moscow’s Military Capabilities Are in Question After Failed Battle for Ukrainian City</h3>
+<sub>By Marc Santora</sub>
+<p>A disastrous Russian assault on Vuhledar, viewed as an opening move in an expected spring offensive, has renewed doubts about Moscow’s ability to sustain a large-scale ground assault.  <a href="https://nyti.ms/3Eb1lhf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,28 +100,16 @@ There&#39;s a lot going on in the world right now! The US is on track to add $19
 <p>Nearly two weeks after a train carrying toxic chemicals derailed in East Palestine, Ohio, confusing messages from government officials have frayed locals’ trust.  <a href="https://nyti.ms/3k0XAnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>What Toxic Chemicals Were Aboard the Derailed Train in Ohio?</h3>
-<sub>By Raymond Zhong</sub>
-<p>The train was carrying industrial materials used in plastics, paint thinners and other products, according to information provided to the federal government.  <a href="https://nyti.ms/3YVbW7U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Heavy Losses Renew Questions About Russia Sustaining Its Offensive</h3>
-<sub>By Marc Santora</sub>
-<p>The fighting has also come at a cost for Ukraine, which is expending vast amounts of ammunition to repel Russia’s growing numbers of ground troops,  <a href="https://nyti.ms/3EwTwD5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘We’re Scared, Too’: Ohio Residents Press for Answers on Train Derailment at Meeting</h3>
+<sub>By Campbell Robertson and Emily Cochrane</sub>
+<p>Officials for the railroad company pulled out of the town hall hours before it was scheduled to start, further infuriating residents who had planned to press the company on the derailment and its fallout.  <a href="https://nyti.ms/3S4b3Yv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Won’t Bring Charges Against Gaetz in Sex-Trafficking Inquiry</h3>
-<sub>By Glenn Thrush</sub>
-<p>An investigation had examined whether Representative Matt Gaetz broke federal laws, focusing on his relationships with women recruited online, and whether he had sex with a 17-year-old girl.  <a href="https://nyti.ms/40YLTi1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Buffalo Gunman Sentenced to Life in Emotional and Dramatic Hearing</h3>
-<sub>By Jesse McKinley and Dan Higgins</sub>
-<p>During a statement from a victim’s relative, a member of the court audience had to be restrained after lunging at the gunman.  <a href="https://nyti.ms/3In3Way"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In the Wake of Tragedy, Balancing Freedom and Safety at Michigan State</h3>
+<sub>By Julie Bosman, Jesus Jiménez and James C. McKinley Jr.</sub>
+<p>While elementary, middle and high schools have adopted new safety technology to try to deter gun violence, the same changes have not come to the more open campuses of colleges and universities.  <a href="https://nyti.ms/3XBih7J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +128,12 @@ There&#39;s a lot going on in the world right now! The US is on track to add $19
 <h3>Raquel Welch, Actress and ’60s Sex Symbol, Is Dead at 82</h3>
 <sub>By Anita Gates</sub>
 <p>Beginning with a doeskin bikini in “One Million Years B.C.,” she built a celebrated show business career around sex appeal and, sometimes, a comic touch.  <a href="https://nyti.ms/3k0zGZD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Raquel Welch, a Lifetime of Looks</h3>
+<sub>By Jim Windolf</sub>
+<p>From cave woman to “Woman of the Year,” Ms. Welch defied expectations.  <a href="https://nyti.ms/3YVwwVO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
