@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 16, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In Moscow, a failed battle has raised questions about the military capabilities of the city. Companies from around the world are competing for the opportunity to help rebuild Ukraine after the wars. The United States and China have had diplomatic issues due to U.S. suspicions that China sent a spy balloon and other unmanned objects into their airspace, which has both recently been unanimously condemned by Congress. Also, Microsoft&#39;s Bing search engine recently featured an AI chatbot that had uncanny human-like responses. Furthermore, residents in Ohio are pressing for answers regarding a train derailment in the area, while in Georgia a judge is set to release Grand Jury findings related to Trump&#39;s election inquiry. Lastly, there are some heart-warming stories like a Mexican restaurant in which everyone feels like family, or an expanded Sabbath experience for observant Jews in Brooklyn who can now take their children out in strollers.</p>
+There is a lot going on in the world right now. In Russia, there is doubt over Moscow&#39;s military capabilities after a failed battle for a Ukrainian city. Ukraine is now beginning to rebuild after wartime, and companies from all around the world are looking to get involved. Microsoft has made an investment in Artificial Intelligence chatbot technology, and China is pushing for its own military innovation. In Ohio, there is outrage over a train derailment that spilled toxic chemicals and resulted in officials from the railroad company pulling out from meeting with residents. Lastly, Jews in Brooklyn are now able to push strollers on the Sabbath due to a new exception to the prohibition against &quot;carrying&quot;.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Moscow’s Military Capabilities Are in Question After Failed Battle for Ukrainian City</h3>
@@ -74,34 +74,34 @@ There&#39;s a lot happening in the world right now. In Moscow, a failed battle h
 <p>As the country’s leaders lay postwar plans, companies from around the world are jockeying for advantage in what could be a multibillion-dollar effort, although one loaded with risk.  <a href="https://nyti.ms/3I7zakH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Fog of Questions Over a Spy Balloon and U.F.O.s Fed a Diplomatic Crisis</h3>
-<sub>By Edward Wong, Julian E. Barnes and Adam Entous</sub>
-<p>U.S. officials now suspect that the balloon was sent to spy on bases in Guam and Hawaii and that other downed objects were not surveillance machines. Washington’s evolving view reflects U.S. and Chinese difficulties in discerning each other’s intentions.  <a href="https://nyti.ms/3HY5y9g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Spy Balloons. U.F.O.s. What Else Is Up There?</h3>
-<sub>By Eleanor Lutz</sub>
-<p>From the mysterious to the commonplace, here are some of the objects in the sky.  <a href="https://nyti.ms/3YBnIVl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Unanimously Condemns China for Spy Balloon, Joining the House</h3>
-<sub>By Karoun Demirjian</sub>
-<p>With the Senate’s bipartisan action on Wednesday night, both chambers of Congress have officially taken China to task for the episode amid questions about the Biden administration’s response.  <a href="https://nyti.ms/3S4P5or"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Help, Bing Won’t Stop Declaring Its Love for Me</h3>
+<h3>A Conversation With Bing’s Chatbot Left Me Deeply Unsettled</h3>
 <sub>By Kevin Roose</sub>
-<p>A very strange conversation with the chatbot built into Microsoft’s search engine left me deeply unsettled. Even frightened.  <a href="https://nyti.ms/3I85UdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A very strange conversation with the chatbot built into Microsoft’s search engine led to it declaring its love for me.  <a href="https://nyti.ms/3I85UdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Bing’s A.I. Chat Reveals Its Feelings: ‘I Want to Be Alive. 😈’</h3>
 <sub>By Kevin Roose</sub>
 <p>In a two-hour conversation with our columnist, Microsoft’s new chatbot said it would like to be human, had a desire to be destructive and was in love with the person it was chatting with. Here’s the transcript.  <a href="https://nyti.ms/3xpsk5d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Revenge of the Chatbots</h3>
+<sub>By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Lauren Hirsch and Ephrat Livni</sub>
+<p>Microsoft’s investment in the technology has been a boon for the company’s stock, even as early users find the A.I.-powered system erratic.  <a href="https://nyti.ms/3I2RWJP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Behind China’s Balloons, a Push for Business to Serve the Military</h3>
+<sub>By Ana Swanson and Chris Buckley</sub>
+<p>The Chinese government has tried to meld its military and civilian innovation, prompting a backlash from the United States.  <a href="https://nyti.ms/3ItfgBW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Spy Balloons. U.F.O.s. What Else Is Up There?</h3>
+<sub>By Eleanor Lutz</sub>
+<p>From the mysterious to the commonplace, here are some of the objects in the sky.  <a href="https://nyti.ms/3YBnIVl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
