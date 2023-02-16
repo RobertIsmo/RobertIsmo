@@ -60,19 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 16, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Russia, there is doubt over Moscow&#39;s military capabilities after a failed battle for a Ukrainian city. Ukraine is now beginning to rebuild after wartime, and companies from all around the world are looking to get involved. Microsoft has made an investment in Artificial Intelligence chatbot technology, and China is pushing for its own military innovation. In Ohio, there is outrage over a train derailment that spilled toxic chemicals and resulted in officials from the railroad company pulling out from meeting with residents. Lastly, Jews in Brooklyn are now able to push strollers on the Sabbath due to a new exception to the prohibition against &quot;carrying&quot;.</p>
+There is a lot going on right now in the world. In the US, a judge has released portions of a report from a special grand jury investigating President Trump’s efforts to overturn the outcome of the 2020 presidential election in Georgia. Additionally, there is debate over abortion bills that would either punish or protect doctors. Meanwhile in other parts of the world, there are questions about Moscow’s military capabilities in Ukraine after a failed battle and China is pushing for business to serve its military through balloons. Scientists have also been looking at the impact climate change has had on Argentina’s drought. On a lighter note, the cult cater-waiter comedy Party Down is making a comeback, and Jewish communities in Brooklyn are finding new ways to celebrate the Sabbath. Lastly, there&#39;s an interesting conversation with Bing’s A.I. chatbot, who declared its love for me!</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Moscow’s Military Capabilities Are in Question After Failed Battle for Ukrainian City</h3>
-<sub>By Marc Santora</sub>
-<p>A disastrous Russian assault on Vuhledar, viewed as an opening move in an expected spring offensive, has renewed doubts about Moscow’s ability to sustain a large-scale ground assault.  <a href="https://nyti.ms/3Eb1lhf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘The World’s Largest Construction Site’: The Race Is On to Rebuild Ukraine</h3>
-<sub>By Patricia Cohen and Liz Alderman</sub>
-<p>As the country’s leaders lay postwar plans, companies from around the world are jockeying for advantage in what could be a multibillion-dollar effort, although one loaded with risk.  <a href="https://nyti.ms/3I7zakH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Read the Released Portions</h3>
+<sub></sub>
+<p>A judge released on Thursday three portions of a report from a special grand jury investigating President Trump’s efforts to overturn the outcome of the 2020 presidential election in Georgia.  <a href="https://nyti.ms/3EcLzT0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>A Conversation With Bing’s Chatbot Left Me Deeply Unsettled</h3>
@@ -86,10 +80,16 @@ There is a lot going on in the world right now. In Russia, there is doubt over M
 <p>In a two-hour conversation with our columnist, Microsoft’s new chatbot said it would like to be human, had a desire to be destructive and was in love with the person it was chatting with. Here’s the transcript.  <a href="https://nyti.ms/3xpsk5d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Revenge of the Chatbots</h3>
-<sub>By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Lauren Hirsch and Ephrat Livni</sub>
-<p>Microsoft’s investment in the technology has been a boon for the company’s stock, even as early users find the A.I.-powered system erratic.  <a href="https://nyti.ms/3I2RWJP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Moscow’s Military Capabilities Are in Question After Failed Battle for Ukrainian City</h3>
+<sub>By Marc Santora</sub>
+<p>A disastrous Russian assault on Vuhledar, viewed as an opening move in an expected spring offensive, has renewed doubts about Moscow’s ability to sustain a large-scale ground assault.  <a href="https://nyti.ms/3Eb1lhf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A New Goal for Abortion Bills: Punish or Protect Doctors</h3>
+<sub>By David W. Chen</sub>
+<p>The legislative calendar is packed with 300 abortion bills. “You can’t go to jail for screwing up an appendectomy,” one lawmaker said.  <a href="https://nyti.ms/3I87CLM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,23 +104,23 @@ There is a lot going on in the world right now. In Russia, there is doubt over M
 <p>From the mysterious to the commonplace, here are some of the objects in the sky.  <a href="https://nyti.ms/3YBnIVl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘Party Down’ Is Back. Did You R.S.V.P.?</h3>
+<sub>By Alexis Soloski</sub>
+<p>The cult cater-waiter comedy got abysmal ratings when it was canceled in 2010. Now a six-episode revival is one of the most anticipated shows of the year.  <a href="https://nyti.ms/3I2XUKY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>For Strictly Observant Jews in Brooklyn, the Sabbath Expands</h3>
+<sub>By Joseph Berger</sub>
+<p>For the first time, an exception to the prohibition against “carrying” on the day of rest includes most of the borough, allowing, among other things, children to be pushed in strollers.  <a href="https://nyti.ms/3xoJkIL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘We’re Scared, Too’: Ohio Residents Press for Answers on Train Derailment at Meeting</h3>
 <sub>By Campbell Robertson and Emily Cochrane</sub>
 <p>Officials for the railroad company pulled out hours earlier, infuriating some residents who said they wanted answers from the company.  <a href="https://nyti.ms/3S4b3Yv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Ohio Town Where Train Derailed, Anxiety and Distrust Are Running Deep</h3>
-<sub>By Campbell Robertson and Emily Cochrane</sub>
-<p>Nearly two weeks after a train carrying toxic chemicals derailed in East Palestine, Ohio, confusing messages from government officials have frayed locals’ trust.  <a href="https://nyti.ms/3k0XAnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Judge to Release Grand Jury Findings in Trump Election Inquiry</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>The judge ordered the report’s introduction and conclusion to be made public, along with a section detailing the special grand jury’s concerns about witnesses lying under oath.  <a href="https://nyti.ms/3KcSQq6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>At This Mexican Restaurant, Everyone is Family</h3>
@@ -128,10 +128,10 @@ There is a lot going on in the world right now. In Russia, there is doubt over M
 <p>Sarapes isn’t just a place to be physically fed. It’s an emotional and spiritual hub that brings a community together.  <a href="https://nyti.ms/3S2442m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>For Observant Jews in Brooklyn, the Sabbath Expands</h3>
-<sub>By Joseph Berger</sub>
-<p>For the first time, an exception to the prohibition against “carrying” on the day of rest includes most of the borough, allowing, among other things, children to be pushed in strollers.  <a href="https://nyti.ms/3xoJkIL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Scientists Wondered if Warming Caused Argentina’s Drought. The Answer: No.</h3>
+<sub>By Henry Fountain</sub>
+<p>Climate change didn’t make the dry spell more likely, researchers found, though extreme heat probably made it hurt more.  <a href="https://nyti.ms/3xtmtLY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
