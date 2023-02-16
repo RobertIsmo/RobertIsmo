@@ -60,13 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 16, Central Standard Time</p>
 <p>
-There is a lot going on right now in the world. In the US, a judge has released portions of a report from a special grand jury investigating President Trump’s efforts to overturn the outcome of the 2020 presidential election in Georgia. Additionally, there is debate over abortion bills that would either punish or protect doctors. Meanwhile in other parts of the world, there are questions about Moscow’s military capabilities in Ukraine after a failed battle and China is pushing for business to serve its military through balloons. Scientists have also been looking at the impact climate change has had on Argentina’s drought. On a lighter note, the cult cater-waiter comedy Party Down is making a comeback, and Jewish communities in Brooklyn are finding new ways to celebrate the Sabbath. Lastly, there&#39;s an interesting conversation with Bing’s A.I. chatbot, who declared its love for me!</p>
+There have been a few different stories in the news recently. A judge has released three parts of a report about President Trump&#39;s efforts to overturn the 2020 presidential election in Georgia. Pennsylvania senator John Fetterman is being treated for severe clinical depression after surviving a near-fatal stroke last year, as he works to adjust to life in the Senate. Meanwhile, there&#39;s been some speculation on social media about the effects of a train derailment that happened recently in Ohio, and Russia&#39;s military capabilities are being questioned after a failed battle for a city in Ukraine. There are also lots of abortion bills being considered and a religious exception to the prohibition against carrying was recently granted for Orthodox Jews living in Brooklyn. Finally, there&#39;s an upcoming revival of the popular comedy show Party Down that people are excited about.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Read the Released Portions</h3>
 <sub></sub>
 <p>A judge released on Thursday three portions of a report from a special grand jury investigating President Trump’s efforts to overturn the outcome of the 2020 presidential election in Georgia.  <a href="https://nyti.ms/3EcLzT0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fetterman Checks In to Hospital for Treatment of Clinical Depression</h3>
+<sub>By Annie Karni</sub>
+<p>A spokesman for the first-term senator from Pennsylvania, who suffered a near-fatal stroke last year, said his depression had grown severe in recent weeks, as he has worked to adjust to life in the Senate.  <a href="https://nyti.ms/3xr7wKn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fetterman, Recovering After Stroke, Labors to Adjust to Life in the Senate</h3>
+<sub>By Annie Karni</sub>
+<p>The first-term Democrat, who was released Friday after two days in the hospital, is coping with the lasting effects of a near-fatal stroke last year, and Congress is adapting to accommodate him.  <a href="https://nyti.ms/3YkWmmp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>A Conversation With Bing’s Chatbot Left Me Deeply Unsettled</h3>
@@ -75,21 +87,15 @@ There is a lot going on right now in the world. In the US, a judge has released 
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Bing’s A.I. Chat Reveals Its Feelings: ‘I Want to Be Alive. 😈’</h3>
+<h3>Bing’s A.I. Chat: ‘I Want to Be Alive. 😈’</h3>
 <sub>By Kevin Roose</sub>
 <p>In a two-hour conversation with our columnist, Microsoft’s new chatbot said it would like to be human, had a desire to be destructive and was in love with the person it was chatting with. Here’s the transcript.  <a href="https://nyti.ms/3xpsk5d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Moscow’s Military Capabilities Are in Question After Failed Battle for Ukrainian City</h3>
-<sub>By Marc Santora</sub>
-<p>A disastrous Russian assault on Vuhledar, viewed as an opening move in an expected spring offensive, has renewed doubts about Moscow’s ability to sustain a large-scale ground assault.  <a href="https://nyti.ms/3Eb1lhf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A New Goal for Abortion Bills: Punish or Protect Doctors</h3>
-<sub>By David W. Chen</sub>
-<p>The legislative calendar is packed with 300 abortion bills. “You can’t go to jail for screwing up an appendectomy,” one lawmaker said.  <a href="https://nyti.ms/3I87CLM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Why Chatbots Sometimes Act Weird and Spout Nonsense</h3>
+<sub>By Cade Metz</sub>
+<p>No, chatbots aren’t sentient. Here’s how their underlying technology works.  <a href="https://nyti.ms/3I8e2uq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,11 +104,17 @@ There is a lot going on right now in the world. In the US, a judge has released 
 <p>The Chinese government has tried to meld its military and civilian innovation, prompting a backlash from the United States.  <a href="https://nyti.ms/3ItfgBW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Spy Balloons. U.F.O.s. What Else Is Up There?</h3>
-<sub>By Eleanor Lutz</sub>
-<p>From the mysterious to the commonplace, here are some of the objects in the sky.  <a href="https://nyti.ms/3YBnIVl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Chernobyl 2.0’? Ohio Train Derailment Spurs Wild Speculation.</h3>
+<sub>By Stuart A. Thompson</sub>
+<p>For many influencers across the political spectrum, claims about the environmental effects of the train derailment have gone far beyond known facts.  <a href="https://nyti.ms/3ItE9gN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Moscow’s Military Capabilities Are in Question After Failed Battle for Ukrainian City</h3>
+<sub>By Marc Santora</sub>
+<p>A disastrous Russian assault on Vuhledar, viewed as an opening move in an expected spring offensive, has renewed doubts about Moscow’s ability to sustain a large-scale ground assault.  <a href="https://nyti.ms/3Eb1lhf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>‘Party Down’ Is Back. Did You R.S.V.P.?</h3>
@@ -110,28 +122,16 @@ There is a lot going on right now in the world. In the US, a judge has released 
 <p>The cult cater-waiter comedy got abysmal ratings when it was canceled in 2010. Now a six-episode revival is one of the most anticipated shows of the year.  <a href="https://nyti.ms/3I2XUKY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A New Goal for Abortion Bills: Punish or Protect Doctors</h3>
+<sub>By David W. Chen</sub>
+<p>The legislative calendar is packed with 300 abortion bills. “You can’t go to jail for screwing up an appendectomy,” one lawmaker said.  <a href="https://nyti.ms/3I87CLM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>For Strictly Observant Jews in Brooklyn, the Sabbath Expands</h3>
 <sub>By Joseph Berger</sub>
 <p>For the first time, an exception to the prohibition against “carrying” on the day of rest includes most of the borough, allowing, among other things, children to be pushed in strollers.  <a href="https://nyti.ms/3xoJkIL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘We’re Scared, Too’: Ohio Residents Press for Answers on Train Derailment at Meeting</h3>
-<sub>By Campbell Robertson and Emily Cochrane</sub>
-<p>Officials for the railroad company pulled out hours earlier, infuriating some residents who said they wanted answers from the company.  <a href="https://nyti.ms/3S4b3Yv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>At This Mexican Restaurant, Everyone is Family</h3>
-<sub>By Adrian Martinez Chavez and Melissa Guerrero</sub>
-<p>Sarapes isn’t just a place to be physically fed. It’s an emotional and spiritual hub that brings a community together.  <a href="https://nyti.ms/3S2442m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Scientists Wondered if Warming Caused Argentina’s Drought. The Answer: No.</h3>
-<sub>By Henry Fountain</sub>
-<p>Climate change didn’t make the dry spell more likely, researchers found, though extreme heat probably made it hurt more.  <a href="https://nyti.ms/3xtmtLY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
