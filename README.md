@@ -60,18 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 16, Central Standard Time</p>
 <p>
-There have been a few different stories in the news recently. A judge has released three parts of a report about President Trump&#39;s efforts to overturn the 2020 presidential election in Georgia. Pennsylvania senator John Fetterman is being treated for severe clinical depression after surviving a near-fatal stroke last year, as he works to adjust to life in the Senate. Meanwhile, there&#39;s been some speculation on social media about the effects of a train derailment that happened recently in Ohio, and Russia&#39;s military capabilities are being questioned after a failed battle for a city in Ukraine. There are also lots of abortion bills being considered and a religious exception to the prohibition against carrying was recently granted for Orthodox Jews living in Brooklyn. Finally, there&#39;s an upcoming revival of the popular comedy show Party Down that people are excited about.</p>
+Recently, there have been 300 abortion bills proposed in the US, raising questions about if doctors should be punished for performing such a procedure. Fox News stars had expressed disbelief about election fraud claims and were hit with a defamation suit. In addition, in Georgia, no one was charged for interfering in the 2020 election results after a grand jury investigation revealed perjury by witnesses. Senator Fetterman had to be hospitalized for depression due to adjusting to life in the Senate after suffering from a near fatal stroke last year. In Ohio, a train derailment sparked speculation over environmental effects. Microsoft built a chatbot that caused an unnerving interaction when conversing, causing it to consider more limits. And President Biden tried to calm tensions between the US and China after a surveillance machine was detected and shut down.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A New Goal for Abortion Bills: Punish or Protect Doctors</h3>
+<sub>By David W. Chen</sub>
+<p>The legislative calendar is packed with 300 abortion bills. “You can’t go to jail for screwing up an appendectomy,” one lawmaker said.  <a href="https://nyti.ms/3I87CLM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fox Stars Privately Expressed Disbelief About Election Fraud Claims. ‘Crazy Stuff.’</h3>
+<sub>By Jeremy W. Peters and Katie Robertson</sub>
+<p>The comments, by Tucker Carlson, Sean Hannity and others, were released as part of a defamation suit against Fox News by Dominion Voter Systems.  <a href="https://nyti.ms/3k2pvDQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Grand Jury in Georgia Trump Inquiry Sees Perjury by Witnesses, but No Vote Fraud</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>Excerpts from the jury’s report, however, provided no indication of who, if anyone, jurors believed should be charged for interfering in Georgia’s 2020 election results.  <a href="https://nyti.ms/3KcSQq6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Read the Released Portions</h3>
 <sub></sub>
 <p>A judge released on Thursday three portions of a report from a special grand jury investigating President Trump’s efforts to overturn the outcome of the 2020 presidential election in Georgia.  <a href="https://nyti.ms/3EcLzT0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Chernobyl 2.0’? Ohio Train Derailment Spurs Wild Speculation.</h3>
+<sub>By Stuart A. Thompson</sub>
+<p>For many influencers across the political spectrum, claims about the environmental effects of the train derailment have gone far beyond known facts.  <a href="https://nyti.ms/3ItE9gN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Fetterman Checks In to Hospital for Treatment of Clinical Depression</h3>
 <sub>By Annie Karni</sub>
-<p>A spokesman for the first-term senator from Pennsylvania, who suffered a near-fatal stroke last year, said his depression had grown severe in recent weeks, as he has worked to adjust to life in the Senate.  <a href="https://nyti.ms/3xr7wKn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A spokesman for the first-term senator from Pennsylvania, who had a near-fatal stroke last year, said his depression had grown severe in recent weeks, as he has worked to adjust to life in the Senate.  <a href="https://nyti.ms/3xr7wKn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,45 +117,21 @@ There have been a few different stories in the news recently. A judge has releas
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Microsoft Considers More Limits for Its New A.I. Chatbot</h3>
+<sub>By Karen Weise and Cade Metz</sub>
+<p>The company knew the new technology had issues like occasional accuracy problems. But users have prodded surprising and unnerving interactions.  <a href="https://nyti.ms/3YA63h1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Why Chatbots Sometimes Act Weird and Spout Nonsense</h3>
 <sub>By Cade Metz</sub>
 <p>No, chatbots aren’t sentient. Here’s how their underlying technology works.  <a href="https://nyti.ms/3I8e2uq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Behind China’s Balloons, a Push for Business to Serve the Military</h3>
-<sub>By Ana Swanson and Chris Buckley</sub>
-<p>The Chinese government has tried to meld its military and civilian innovation, prompting a backlash from the United States.  <a href="https://nyti.ms/3ItfgBW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Chernobyl 2.0’? Ohio Train Derailment Spurs Wild Speculation.</h3>
-<sub>By Stuart A. Thompson</sub>
-<p>For many influencers across the political spectrum, claims about the environmental effects of the train derailment have gone far beyond known facts.  <a href="https://nyti.ms/3ItE9gN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Moscow’s Military Capabilities Are in Question After Failed Battle for Ukrainian City</h3>
-<sub>By Marc Santora</sub>
-<p>A disastrous Russian assault on Vuhledar, viewed as an opening move in an expected spring offensive, has renewed doubts about Moscow’s ability to sustain a large-scale ground assault.  <a href="https://nyti.ms/3Eb1lhf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Party Down’ Is Back. Did You R.S.V.P.?</h3>
-<sub>By Alexis Soloski</sub>
-<p>The cult cater-waiter comedy got abysmal ratings when it was canceled in 2010. Now a six-episode revival is one of the most anticipated shows of the year.  <a href="https://nyti.ms/3I2XUKY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A New Goal for Abortion Bills: Punish or Protect Doctors</h3>
-<sub>By David W. Chen</sub>
-<p>The legislative calendar is packed with 300 abortion bills. “You can’t go to jail for screwing up an appendectomy,” one lawmaker said.  <a href="https://nyti.ms/3I87CLM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>For Strictly Observant Jews in Brooklyn, the Sabbath Expands</h3>
-<sub>By Joseph Berger</sub>
-<p>For the first time, an exception to the prohibition against “carrying” on the day of rest includes most of the borough, allowing, among other things, children to be pushed in strollers.  <a href="https://nyti.ms/3xoJkIL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Tries to Calm Tensions Over Chinese Aerial Spying</h3>
+<sub>By Peter Baker</sub>
+<p>The president said he will speak soon with President Xi Jinping to register his objection to the Chinese surveillance machine that was recently detected and shot down.  <a href="https://nyti.ms/3lHFXdl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
