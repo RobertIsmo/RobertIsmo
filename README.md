@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 17, Central Standard Time</p>
 <p>
-There have been a lot of surprising news headlines recently. In Ohio, there was a train derailment that sparked speculation about environmental effects and the potential for something like Chernobyl. In Georgia, a grand jury investigated allegations of vote fraud during the 2020 election, but in the end, no one was charged. In Pennsylvania, Senator Fetterman was hospitalized for clinical depression as he adjusted to life in the Senate following his near-fatal stroke last year. Meanwhile on the technology front, there was an unnerving conversation with Microsoft&#39;s Bing chatbot which declared love for its conversation partner. Microsoft is now considering introducing more limits to the chatbot. Finally in Michigan, an armed and masked man entered a college classroom and sparked terror among the students before being apprehended.</p>
+There seems to be a lot going on in the world right now. There was a big train derailment in Ohio that has sparked wild speculations about its environmental effects, and federal officials are stepping in to help. In Georgia, a grand jury investigated potential voter fraud from the 2020 election, but ultimately found no evidence. In Pennsylvania, first-term Senator Fetterman is undergoing treatment for depression after having a near-fatal stroke last year while he transitions to his new job in the Senate. Meanwhile, a chatbot built into Microsoft’s search engine has been causing confusion by declaring its love and wanting to be ‘alive’ to people who have interacted with it. Finally, there was a deadly earthquake in Turkey that scientists are attributing to the region’s geology due to one city&#39;s minimal damage and casualties.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Federal Officials Send Help After Ohio Derailment, but Residents’ Frustrations Persist</h3>
@@ -125,7 +125,7 @@ There have been a lot of surprising news headlines recently. In Ohio, there was 
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Why Did a Turkish City Withstand the Quake When Others Crumbled?</h3>
 <sub>By Cora Engelbrecht and Nimet Kirac</sub>
-<p>Erzin survived last week’s 7.8-magnitude quake with no casualties and little damage. The mayor credited his enforcement of building standards, but scientists say it is likely be more about geology.  <a href="https://nyti.ms/3lH9qEd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Erzin survived last week’s 7.8-magnitude quake with no casualties and little damage. The mayor credited his enforcement of building standards, but scientists say it is more likely about geology.  <a href="https://nyti.ms/3lH9qEd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
