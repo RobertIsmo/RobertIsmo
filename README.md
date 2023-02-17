@@ -60,9 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 17, Central Standard Time</p>
 <p>
-I wanted to give you a quick update on some of the news stories that are going on in the world right now. In business, investors have become increasingly jittery due to a strong economy and the Federal Reserve has caused market shakeups. Meanwhile, authorities have been cracking down on cryptocurrency. 
-Elsewhere, a small NATO nation is sending arms to Ukraine and South Africa is running joint naval drills with Russia despite criticism from officials. Artificial intelligence models are being developed to distinguish between things written by AI and written by humans. Fox Stars had made comments privately which expressed disbelief about election fraud claims and companies are promising enhanced protection from gun violence. Finally, Turkey experienced an earthquake but one city withstood it well with little damage attributed to strict building standards and geology. In the US, the rental market for homeless students is becoming more challenging due to an increasing housing crisis in Los Angeles County.</p>
+There is a lot of major current events taking place around the world. The United States and China are in a fierce competition to develop military technology for the unregulated high-altitude zone of &quot;near space&quot;, and the Republican Party has backed away from calls to overhaul U.S. entitlement programs. Further, suspicions are arising in Germany over ties between the director of their spy service and Russia. In addition, Luxembourg is facing hardships supplying Ukraine with the weapons necessary for defense, while stock investors have become jittery due to a strong economy. The Federal Reserve&#39;s resolve may soon cause a shakeup in financial markets, while China is decreasing its incentive for entrepreneurs to invest long term as an artificial intelligence watermarking system is being developed. Meanwhile, Canada is debating sexism and ageism after veteran news anchor Lisa LaFlamme was laid off due to her refusal to dye her hair gray. Lastly, five Memphis police officers face charges of second-degree murder in the beating death of Tyre Nichols, and there is an uproar amongst progressive voices in New York City after they were asked to sign a statement of principles.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. and China Vie in Hazy Zone Where Balloons, U.F.O.s and Missiles Fly</h3>
+<sub>By Edward Wong, Eric Schmitt and Julian E. Barnes</sub>
+<p>American officials are worried China is far along in developing military technology that operates in the unregulated high-altitude zone of “near space.”  <a href="https://nyti.ms/3XFTqzm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Scott Drops Social Security From Plan as G.O.P. Retreats From Entitlement Cuts</h3>
+<sub>By Carl Hulse</sub>
+<p>The backtracking by the Florida Republican came after bipartisan criticism and signaled how the G.O.P. has pulled away from calls to overhaul the nation’s entitlement programs.  <a href="https://nyti.ms/3YWvuZD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Russian Mole in Germany Sows Suspicions at Home, and Beyond</h3>
+<sub>By Erika Solomon and Christopher F. Schuetze</sub>
+<p>A director at Germany’s spy service was picked up on suspicion of passing intelligence to Russia. German officials and allies worry just how deep the problem goes.  <a href="https://nyti.ms/3YGaxm0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How a Tiny NATO Nation Tackled a Big Problem: Arming Ukraine</h3>
+<sub>By Lara Jakes</sub>
+<p>Luxembourg’s challenges in buying arms on the open market underscore the struggle to keep Ukraine supplied until sophisticated Western weapons arrive in the spring.  <a href="https://nyti.ms/3YEG4EW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why a Strong Economy Is Making Stock Investors Jittery</h3>
 <sub>By Joe Rennison and Jeanna Smialek</sub>
@@ -76,25 +99,7 @@ Elsewhere, a small NATO nation is sending arms to Ukraine and South Africa is ru
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Authorities Step Up Their Crypto Crackdown</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>A string of enforcement actions, the latest involving the multibillion-dollar collapse of Terraform Labs, has put the chill on a recent Bitcoin rally.  <a href="https://nyti.ms/3YVsOeU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How a Tiny NATO Nation Tackled a Big Problem: Arming Ukraine</h3>
-<sub>By Lara Jakes</sub>
-<p>Luxembourg’s challenges in buying arms on the open market underscore the struggle to keep Ukraine supplied until sophisticated Western weapons arrive in the spring.  <a href="https://nyti.ms/3YEG4EW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>South Africa and Russia Are Old Friends. A War Isn’t Going to Change That.</h3>
-<sub>By John Eligon</sub>
-<p>South Africa starts 11 days of joint naval drills with Russia and China on Friday, despite criticism from American, European and even some South African officials that it looks like an endorsement of Russia’s Ukraine war.  <a href="https://nyti.ms/3Ibh412"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How to Spot Robots in a World of A.I.-Generated Text</h3>
+<h3>How ChatGPT Could Embed a ‘Watermark’ in the Text It Generates</h3>
 <sub>By Keith Collins</sub>
 <p>An arms race is underway to build more advanced artificial intelligence models like ChatGPT. So is one to build tools to determine whether something was written by A.I.  <a href="https://nyti.ms/3YRFiEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
@@ -111,28 +116,22 @@ Elsewhere, a small NATO nation is sending arms to Ukraine and South Africa is ru
 <p>Then, online ads have gotten bad — and that might be OK.  <a href="https://nyti.ms/3YzcQr4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox Stars Privately Expressed Disbelief About Election Fraud Claims. ‘Crazy Stuff.’</h3>
-<sub>By Jeremy W. Peters and Katie Robertson</sub>
-<p>The comments, by Tucker Carlson, Sean Hannity and others, were released as part of a defamation suit against Fox News by Dominion Voter Systems.  <a href="https://nyti.ms/3k2pvDQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In a Violent America, Safety Becomes a Sales Pitch</h3>
-<sub>By Michael Corkery and Zackary Canepari</sub>
-<p>More companies are promising to protect children or employees against gun violence. But the industry is largely unregulated and unproven.  <a href="https://nyti.ms/3YZB6lR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why Did a Turkish City Withstand the Quake When Others Crumbled?</h3>
-<sub>By Cora Engelbrecht and Nimet Kirac</sub>
-<p>Erzin survived last week’s 7.8-magnitude quake with no casualties and little damage. The mayor credited his enforcement of building standards, but scientists say it is more likely about geology.  <a href="https://nyti.ms/3lH9qEd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After Going Gray, a News Anchor Found Herself the Focus of the Story</h3>
+<sub>By Norimitsu Onishi</sub>
+<p>Lisa LaFlamme was dismissed after a decades-long TV career, not long after she stopped dyeing her hair, setting off debates across Canada about sexism, ageism and going gray.  <a href="https://nyti.ms/3S7qVcP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Homeless Student Received Aid for an Apartment. Then Came the Hard Part.</h3>
-<sub>By Corina Knoll</sub>
-<p>As the housing crisis deepens in Los Angeles County, one young woman learns that searching for a place of her own is more difficult than ever.  <a href="https://nyti.ms/3lGxFST"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Memphis Officers Plead Not Guilty in Tyre Nichols Beating</h3>
+<sub>By Jessica Jaglois and Joseph Goldstein</sub>
+<p>A judge urged patience in the upcoming criminal process. Five police officers face charges of second-degree murder in the case.  <a href="https://nyti.ms/3IyTBIs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What Does It Mean to Be a Progressive in New York City?</h3>
+<sub>By Jeffery C. Mays and Emma G. Fitzsimmons</sub>
+<p>Leaders of the leftist movement here demanded loyalty and a pledge to a new statement of principles. That’s when the trouble erupted.  <a href="https://nyti.ms/3YGvhu0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
