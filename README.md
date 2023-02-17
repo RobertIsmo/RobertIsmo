@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 17, Central Standard Time</p>
 <p>
-There is a lot of major current events taking place around the world. The United States and China are in a fierce competition to develop military technology for the unregulated high-altitude zone of &quot;near space&quot;, and the Republican Party has backed away from calls to overhaul U.S. entitlement programs. Further, suspicions are arising in Germany over ties between the director of their spy service and Russia. In addition, Luxembourg is facing hardships supplying Ukraine with the weapons necessary for defense, while stock investors have become jittery due to a strong economy. The Federal Reserve&#39;s resolve may soon cause a shakeup in financial markets, while China is decreasing its incentive for entrepreneurs to invest long term as an artificial intelligence watermarking system is being developed. Meanwhile, Canada is debating sexism and ageism after veteran news anchor Lisa LaFlamme was laid off due to her refusal to dye her hair gray. Lastly, five Memphis police officers face charges of second-degree murder in the beating death of Tyre Nichols, and there is an uproar amongst progressive voices in New York City after they were asked to sign a statement of principles.</p>
+There&#39;s a lot happening in the world recently that is drawing attention from world leaders and citizens alike. In the US, there has been increased tensions between the US and China, as both countries are vying for control over high-altitude areas where balloons, U.F.O.s, and missiles can be found. Meanwhile, Republican Senator Tim Scott is exploring a potential 2024 presidential run, while selling unity to a party that may be trending towards more of a Trump-esque &quot;us versus them&quot; framing. 
+
+Further abroad, in Germany, an employee of the German spy service was apprehended on suspicion of passing intelligence to Russia. Meanwhile, Iran has been working on upgrading its Air Force fleet with advanced Russian jets.
+
+Aside from international developments, there has been some debate in Canada about sexism and ageism in regards to Lisa LaFlamme, a longtime news anchor who was let go after she went gray. Here in the US, stock investors are becoming nervous as strong economic data shows that the economy is still running hot. In New York City specifically, progressive leaders have come out with a statement of principles which has caused some strife within the left-wing movement in the city. Additionally, a prominent lawyer in South Carolina&#39;s murder trial has evoked great interest amongst witnesses to explore what led up to his wife and son&#39;s deaths. Finally, the hit martial arts movie &#39;Crouching Tiger Hidden Dragon&#39; has returned to theaters with its restored version amplifying the ways it was groundbreaking during its release nearly 20 years ago.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. and China Vie in Hazy Zone Where Balloons, U.F.O.s and Missiles Fly</h3>
@@ -69,9 +73,21 @@ There is a lot of major current events taking place around the world. The United
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Navy Divers Complete Recovery of Chinese Spy Balloon Debris</h3>
+<sub>By Zach Montague</sub>
+<p>The salvaged material was sent to the F.B.I. for further analysis.  <a href="https://nyti.ms/3XNfPew"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Scott Drops Social Security From Plan as G.O.P. Retreats From Entitlement Cuts</h3>
 <sub>By Carl Hulse</sub>
 <p>The backtracking by the Florida Republican came after bipartisan criticism and signaled how the G.O.P. has pulled away from calls to overhaul the nation’s entitlement programs.  <a href="https://nyti.ms/3YWvuZD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tim Scott Weighs 2024 Run, Selling Unity to a Party Eager for a Fight</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Mr. Scott, the only Black Republican senator, has many political assets. What he lacks is an obvious ability to win over voters who have embraced a Trumpian brand of us-versus-them divisiveness.  <a href="https://nyti.ms/3SafTDy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -81,39 +97,9 @@ There is a lot of major current events taking place around the world. The United
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How a Tiny NATO Nation Tackled a Big Problem: Arming Ukraine</h3>
-<sub>By Lara Jakes</sub>
-<p>Luxembourg’s challenges in buying arms on the open market underscore the struggle to keep Ukraine supplied until sophisticated Western weapons arrive in the spring.  <a href="https://nyti.ms/3YEG4EW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why a Strong Economy Is Making Stock Investors Jittery</h3>
-<sub>By Joe Rennison and Jeanna Smialek</sub>
-<p>After stocks jumped more than 6 percent in January, the tone shifted markedly this week as a steady flow of data showed the economy continued to run hot.  <a href="https://nyti.ms/3EiFtRd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Uneasy Dance Between the Markets and the Fed</h3>
-<sub>By Jeff Sommer</sub>
-<p>Exuberance in financial markets is likely to only strengthen the Federal Reserve’s resolve and shake up those very markets, our columnist says.  <a href="https://nyti.ms/3lH5MKD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How ChatGPT Could Embed a ‘Watermark’ in the Text It Generates</h3>
-<sub>By Keith Collins</sub>
-<p>An arms race is underway to build more advanced artificial intelligence models like ChatGPT. So is one to build tools to determine whether something was written by A.I.  <a href="https://nyti.ms/3YRFiEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why China Didn’t Invent ChatGPT</h3>
-<sub>By Li Yuan</sub>
-<p>The state’s hardening censorship and heavier hand have held back its tech industry; so has entrepreneurs’ reluctance to invest for the long term. It wasn’t always that way.  <a href="https://nyti.ms/3lGxJlB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>The Bing Who Loved Me, and Elon Rewrites the Algorithm</h3>
-<sub>By Kevin Roose, Casey Newton, Davis Land, Jen Poyant, Alyssa Moxley, Dan Powell, Elisheba Ittoop and Marion Lozano</sub>
-<p>Then, online ads have gotten bad — and that might be OK.  <a href="https://nyti.ms/3YzcQr4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Satellite Images and Video, Hidden Clues About an Iranian Air Force Upgrade</h3>
+<sub>By Christoph Koettl and Alexander Cardia</sub>
+<p>In early February, Iranian state media aired a video about an underground Air Force base. Details in the footage and satellite images point toward the possible arrival of advanced Russian jets.  <a href="https://nyti.ms/3YWUNL7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,16 +108,34 @@ There is a lot of major current events taking place around the world. The United
 <p>Lisa LaFlamme was dismissed after a decades-long TV career, not long after she stopped dyeing her hair, setting off debates across Canada about sexism, ageism and going gray.  <a href="https://nyti.ms/3S7qVcP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Memphis Officers Plead Not Guilty in Tyre Nichols Beating</h3>
-<sub>By Jessica Jaglois and Joseph Goldstein</sub>
-<p>A judge urged patience in the upcoming criminal process. Five police officers face charges of second-degree murder in the case.  <a href="https://nyti.ms/3IyTBIs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why a Strong Economy Is Making Stock Investors Jittery</h3>
+<sub>By Joe Rennison and Jeanna Smialek</sub>
+<p>After stocks jumped more than 6 percent in January, the tone shifted markedly this week as a steady flow of data showed the economy continued to run hot.  <a href="https://nyti.ms/3EiFtRd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>What Does It Mean to Be a Progressive in New York City?</h3>
 <sub>By Jeffery C. Mays and Emma G. Fitzsimmons</sub>
 <p>Leaders of the leftist movement here demanded loyalty and a pledge to a new statement of principles. That’s when the trouble erupted.  <a href="https://nyti.ms/3YGvhu0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘We Have to Talk’: Murdaugh’s Wife and Son Found Pill Stash Before Murders</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>Prosecutors were expected to rest their case after questioning more than 60 witnesses at the murder trial of Alex Murdaugh, a prominent South Carolina lawyer.  <a href="https://nyti.ms/3YGWCMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Memphis Officers Plead Not Guilty in Tyre Nichols Beating</h3>
+<sub>By Jessica Jaglois and Joseph Goldstein</sub>
+<p>A judge urged patience in the upcoming criminal process. Five police officers face charges of second-degree murder in the case.  <a href="https://nyti.ms/3IyTBIs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Crouching Tiger, Hidden Dragon’ Still Flies High</h3>
+<sub>By Brandon Yu</sub>
+<p>A restored version of the film, which has returned to theaters, amplifies the ways in which it was groundbreaking.  <a href="https://nyti.ms/3XzOZX7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
