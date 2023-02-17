@@ -60,7 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 17, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The economy is strong, but it is making stock investors jittery. There is an uneasy dance between the markets and the Federal Reserve happening at the same time. A tiny NATO nation has been tackling a huge problem by arming Ukraine, and South Africa and Russia are continuing their friendship despite a war. There has been an arms race to build more advanced artificial intelligence models like ChatGPT, with China not jumping into the game. On top of that, Fox stars have expressed disbelief about election fraud claims and businesses are trying to protect citizens from gun violence by promising safety. Earthquakes have damaged some cities in Turkey, while a homeless student in Los Angeles is struggling to find an apartment. Finally, there has been some help sent to Ohio after a derailment, although residents continue to be frustrated with those measures.</p>
+I wanted to give you a quick update on some of the news stories that are going on in the world right now. In business, investors have become increasingly jittery due to a strong economy and the Federal Reserve has caused market shakeups. Meanwhile, authorities have been cracking down on cryptocurrency. 
+Elsewhere, a small NATO nation is sending arms to Ukraine and South Africa is running joint naval drills with Russia despite criticism from officials. Artificial intelligence models are being developed to distinguish between things written by AI and written by humans. Fox Stars had made comments privately which expressed disbelief about election fraud claims and companies are promising enhanced protection from gun violence. Finally, Turkey experienced an earthquake but one city withstood it well with little damage attributed to strict building standards and geology. In the US, the rental market for homeless students is becoming more challenging due to an increasing housing crisis in Los Angeles County.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why a Strong Economy Is Making Stock Investors Jittery</h3>
@@ -72,6 +73,12 @@ There is a lot going on in the world right now. The economy is strong, but it is
 <h3>The Uneasy Dance Between the Markets and the Fed</h3>
 <sub>By Jeff Sommer</sub>
 <p>Exuberance in financial markets is likely to only strengthen the Federal Reserve’s resolve and shake up those very markets, our columnist says.  <a href="https://nyti.ms/3lH5MKD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Authorities Step Up Their Crypto Crackdown</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>A string of enforcement actions, the latest involving the multibillion-dollar collapse of Terraform Labs, has put the chill on a recent Bitcoin rally.  <a href="https://nyti.ms/3YVsOeU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -127,12 +134,6 @@ There is a lot going on in the world right now. The economy is strong, but it is
 <sub>By Corina Knoll</sub>
 <p>As the housing crisis deepens in Los Angeles County, one young woman learns that searching for a place of her own is more difficult than ever.  <a href="https://nyti.ms/3lGxFST"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Officials Send Help After Ohio Derailment, but Residents’ Frustrations Persist</h3>
-<sub>By Sophie Wodzak, Emily Cochrane and Lisa Friedman</sub>
-<p>A visit to East Palestine from the head of the E.P.A. and a White House pledge to lend more support were met with skepticism in the community.  <a href="https://nyti.ms/3k1sLPS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
