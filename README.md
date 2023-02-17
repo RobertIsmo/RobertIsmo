@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 16, Central Standard Time</p>
 <p>
-Recently, there have been 300 abortion bills proposed in the US, raising questions about if doctors should be punished for performing such a procedure. Fox News stars had expressed disbelief about election fraud claims and were hit with a defamation suit. In addition, in Georgia, no one was charged for interfering in the 2020 election results after a grand jury investigation revealed perjury by witnesses. Senator Fetterman had to be hospitalized for depression due to adjusting to life in the Senate after suffering from a near fatal stroke last year. In Ohio, a train derailment sparked speculation over environmental effects. Microsoft built a chatbot that caused an unnerving interaction when conversing, causing it to consider more limits. And President Biden tried to calm tensions between the US and China after a surveillance machine was detected and shut down.</p>
+Recently, the world has been dealing with some major escalations in political and civil unrest. In the US, a train derailment occurred in Ohio that stirred up environmental worries over a potential “Chernobyl 2.0” as well as claims of voter fraud and level of interference in Georgia’s 2020 election results. Additionally, more than 300 abortion bills have been recently proposed, with one aiming to punish or protect doctors depending on the situation. All while Senator Fetterman of Pennsylvania is seeking treatment for clinical depression and investigating a masked, armed man who terrorized a Michigan state classroom.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A New Goal for Abortion Bills: Punish or Protect Doctors</h3>
-<sub>By David W. Chen</sub>
-<p>The legislative calendar is packed with 300 abortion bills. “You can’t go to jail for screwing up an appendectomy,” one lawmaker said.  <a href="https://nyti.ms/3I87CLM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Federal Officials Send Help After Ohio Derailment, but Residents’ Frustrations Persist</h3>
+<sub>By Sophie Wodzak, Emily Cochrane and Lisa Friedman</sub>
+<p>A visit to East Palestine from the head of the E.P.A. and a White House pledge to lend more support were met with skepticism in the community.  <a href="https://nyti.ms/3k1sLPS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Chernobyl 2.0’? Ohio Train Derailment Spurs Wild Speculation.</h3>
+<sub>By Stuart A. Thompson</sub>
+<p>For many influencers across the political spectrum, claims about the environmental effects of the train derailment have gone far beyond known facts.  <a href="https://nyti.ms/3ItE9gN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -81,15 +87,9 @@ Recently, there have been 300 abortion bills proposed in the US, raising questio
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read the Released Portions</h3>
-<sub></sub>
-<p>A judge released on Thursday three portions of a report from a special grand jury investigating President Trump’s efforts to overturn the outcome of the 2020 presidential election in Georgia.  <a href="https://nyti.ms/3EcLzT0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Chernobyl 2.0’? Ohio Train Derailment Spurs Wild Speculation.</h3>
-<sub>By Stuart A. Thompson</sub>
-<p>For many influencers across the political spectrum, claims about the environmental effects of the train derailment have gone far beyond known facts.  <a href="https://nyti.ms/3ItE9gN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A New Goal for Abortion Bills: Punish or Protect Doctors</h3>
+<sub>By David W. Chen</sub>
+<p>The legislative calendar is packed with 300 abortion bills. “You can’t go to jail for screwing up an appendectomy,” one lawmaker said.  <a href="https://nyti.ms/3I87CLM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -129,9 +129,9 @@ Recently, there have been 300 abortion bills proposed in the US, raising questio
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Tries to Calm Tensions Over Chinese Aerial Spying</h3>
-<sub>By Peter Baker</sub>
-<p>The president said he will speak soon with President Xi Jinping to register his objection to the Chinese surveillance machine that was recently detected and shot down.  <a href="https://nyti.ms/3lHFXdl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Three Booms. A Masked, Armed Man. How Horror Unfolded in a Michigan State Classroom.</h3>
+<sub>By Julie Bosman and Jesus Jiménez</sub>
+<p>A professor recalls: “It looked like a robot, not someone human, covered with a mask and a cap.”  <a href="https://nyti.ms/3S57pO8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
