@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 17, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In business news, Norfolk Southern profits and accident rates are up but safety experts say their focus on financial returns may be causing more derailments and accidents. A US Senator from Pennsylvania recently disclosed his struggle with depression, signaling more acceptance of mental health challenges. The US and China are competing in the so-called &quot;near space&quot; zone where balloons, UFOS, and missiles fly. And a Pentagon official believes Chinese leader Xi Jinping was unaware of a Chinese spy balloon that crossed the US until it caused an uproar.
-
-Politically, Rick Scott dropped social security cuts from his plan after backlash from both Republicans and Democrats. Meanwhile Western leaders have pledged to support Ukraine for as long as necessary against Russia&#39;s invasion. There is also suspicion that Russia has placed a mole in Germany&#39;s spy service. 
-
-Canadian news anchors are being scrutinized after one stopped dyeing her hair gray, sparking debates about sexism and ageism in Canada. Financially, Lyft has been struggling since the pandemic began to take shape, falling behind Uber and not making as many ambitious investments to distinguish itself from its competitor. And finally, CNN anchor Don Lemon is receiving backlash after he claimed a presidential candidate is no longer &quot;in her prime&quot;.</p>
+There&#39;s a lot going on in the world right now. The US and China are competing against each other in an unregulated high-altitude zone called &quot;near space&quot;. Rick Scott, a Florida Republican, has backed away from calls to overhaul the nation&#39;s entitlement programs. In addition, Western leaders have pledged support for Ukraine as Russia continues its invasion. On the business front, Norfolk Southern&#39;s profits and accident rates have increased recently, but safety experts are pointing blame at their focus on financial results. Lastly, CNN is facing an uproar after their anchor Don Lemon made some insensitive comments about women.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Norfolk Southern’s Profits and Accident Rates Rose in Recent Years</h3>
@@ -79,15 +75,15 @@ Canadian news anchors are being scrutinized after one stopped dyeing her hair gr
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. and China Vie in Hazy Zone Where Balloons, U.F.O.s and Missiles Fly</h3>
-<sub>By Edward Wong, Eric Schmitt and Julian E. Barnes</sub>
-<p>American officials are worried China is far along in developing military technology that operates in the unregulated high-altitude zone of “near space.”  <a href="https://nyti.ms/3XFTqzm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Calls Off Search for Unidentified Objects It Shot Down</h3>
+<sub>By Katie Rogers</sub>
+<p>The end of the search for objects downed over Alaska and Lake Huron raises the possibility that the devices will never be collected and analyzed.  <a href="https://nyti.ms/3IAn6dg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Balloon Crisis Highlighted a Split in China’s Leadership, Pentagon Official Says</h3>
-<sub>By Eric Schmitt and Zach Montague</sub>
-<p>A top U.S. military official said he believed that Xi Jinping, China’s leader, was likely unaware of the Chinese spy balloon that traversed the United States until the controversy erupted.  <a href="https://nyti.ms/3XNfPew"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. and China Vie in Hazy Zone Where Balloons, U.F.O.s and Missiles Fly</h3>
+<sub>By Edward Wong, Eric Schmitt and Julian E. Barnes</sub>
+<p>American officials are worried China is far along in developing military technology that operates in the unregulated high-altitude zone of “near space.”  <a href="https://nyti.ms/3XFTqzm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -109,9 +105,9 @@ Canadian news anchors are being scrutinized after one stopped dyeing her hair gr
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Russian Mole in Germany Sows Suspicions at Home, and Beyond</h3>
-<sub>By Erika Solomon, Christopher F. Schuetze and Julian E. Barnes</sub>
-<p>A director at Germany’s spy service was picked up on suspicion of passing intelligence to Russia. German officials and allies worry just how deep the problem goes.  <a href="https://nyti.ms/3YGaxm0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Macron Calls for Intensified Support for Ukraine but Eyes Peace Talks</h3>
+<sub>By Roger Cohen</sub>
+<p>His support for Ukraine and condemnation of Russia have hardened, but France’s president still stands out among Western leaders in insisting that compromise will be needed to end the war.  <a href="https://nyti.ms/3k936EU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
