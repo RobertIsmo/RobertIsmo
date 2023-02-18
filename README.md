@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 18, Central Standard Time</p>
 <p>
-The world is facing a lot of issues right now. In the US, debate is heating up over how to reform Social Security and Medicare. Meanwhile, in Ukraine, the ongoing conflict reaches a new level as a top Chinese official calls out the US&#39; &quot;hysterical&quot; response. In Nigeria, Africa&#39;s most populous nation, their upcoming presidential election is wide open and young voters are charged up to oust the old guard. Climate change is also having an impact across multiple countries - cotton farmers in Texas have been particularly hard-hit due to rising temperatures and drought. Finally, the people of Turkey are in dire need of housing after a devastating earthquake leaves thousands homeless.</p>
+Recently, world events have been disjointed and complex. In Ukraine, a teacher was handed a rifle and bullets to fight against the Russian invasion, while in the US, 98-year-old president Jimmy Carter decided to switch to hospice care. Climate change as well is heavily affecting our world – it&#39;s causing cotton farmers in Texas to suffer losses due to heat and drought, as well as making products like tampons more expensive due to global warming. In Washington DC, the Coast Guard runs one of the most challenging water-rescue training programs in the world. Politically, both Republicans and Democrats have radically different approaches for repairing Social Security and Medicare that would affect both young workers and retirees. As for electric vehicles, although they are usually climate-friendly, their benefits begin to shrink as they bulk up. Finally, cannabis is creating new jobs in New York City related to retail and hospitality with an estimated 63,000 jobs by 2025.</p>
 <ol>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Climate Change Is Making Tampons (and Lots of Other Stuff) More Expensive</h3>
-<sub>By Coral Davenport</sub>
-<p>Cotton farmers in Texas suffered record losses amid heat and drought last year, new data shows. It’s an example of how global warming is a “secret driver of inflation.”  <a href="https://nyti.ms/3Z3daxY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The sense of a fractured world permeates Munich.</h3>
+<sub>By Roger Cohen</sub>
+<p>  <a href="https://nyti.ms/3IbGFXN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,22 +74,16 @@ The world is facing a lot of issues right now. In the US, debate is heating up o
 <p>When Russia invaded, recruiting officers asked no questions of the Ukrainian teacher. They handed her a rifle and 120 bullets, and assigned her to a unit expecting to fight in urban combat if the Russian Army broke into Kyiv.  <a href="https://nyti.ms/3Z2Ylfc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A top Chinese official calls the U.S. balloon response ‘hysterical’ and says the war in Ukraine must not continue.</h3>
-<sub>By Michael Crowley</sub>
-<p>Wang Yi spoke at the Munich Security Conference as suspense mounted over whether he might meet on the sidelines with Secretary of State Antony J. Blinken.  <a href="https://nyti.ms/4171SKZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jimmy Carter, 98, Opts for Hospice Care</h3>
+<sub>By Peter Baker</sub>
+<p>The 39th president has decided to forgo further medical treatment and will “spend his remaining time at home with his family,” the Carter Center announced.  <a href="https://nyti.ms/3ICjE1L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Caves, Tents and Shipping Containers: Quake Survivors’ Desperate Hunt for Shelter</h3>
-<sub>By Cora Engelbrecht and Nimet Kirac</sub>
-<p>For now, the Turkish government is relying on short-term solutions to house an estimated one million who are crowding into gyms, hotels and dormitories. A cruise ship is set to arrive to house thousands.  <a href="https://nyti.ms/3IzClTx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Christian Atsu, Professional Soccer Player, Is Found Dead in Turkey After Quake</h3>
-<sub>By Euan Ward</sub>
-<p>Mr. Atsu, a Ghanaian national who played for the Turkish club Hatayspor, had been among the thousands of people missing. He was 31.  <a href="https://nyti.ms/3YIF8zr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Climate Change Is Making Tampons (and Lots of Other Stuff) More Expensive</h3>
+<sub>By Coral Davenport</sub>
+<p>Cotton farmers in Texas suffered record losses amid heat and drought last year, new data shows. It’s an example of how global warming is a “secret driver of inflation.”  <a href="https://nyti.ms/3Z3daxY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,10 +110,10 @@ The world is facing a lot of issues right now. In the US, debate is heating up o
 <p>In the time-honored tradition of small-time schemes everywhere, the operator of a Jersey Shore game of chance is found guilty of deception.  <a href="https://nyti.ms/3xyUHhg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>He’s Energized Nigeria’s Young Voters. Will They Turn Out for Him?</h3>
-<sub>By Ruth Maclean</sub>
-<p>The race is wide open in the presidential election in Nigeria, Africa’s most populous nation and a struggling economic powerhouse. Youth looking to evict the old guard are cheering on Peter Obi, a surprise third-party candidate.  <a href="https://nyti.ms/417120T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Looking for a Job? The Cannabis Industry Is Hiring in New York.</h3>
+<sub>By Ashley Southall</sub>
+<p>The industry estimates that there could be 63,000 jobs in weed across the state by 2025, many of them in retail and hospitality.  <a href="https://nyti.ms/3lEP7Hj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
@@ -133,6 +127,12 @@ The world is facing a lot of issues right now. In the US, debate is heating up o
 <sub></sub>
 <p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3xwZWhA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>To Patients, Herpes Can Be Devastating. To Many Doctors, It’s Not a Priority.</h3>
+<sub>By Dani Blum</sub>
+<p>Billions of people live with the infection, but there has been scant progress for treatments and tests.  <a href="https://nyti.ms/3xvCl0L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
