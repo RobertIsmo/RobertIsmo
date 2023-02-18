@@ -60,14 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 18, Central Standard Time</p>
 <p>
-There are a few stories of international conflict happening right now. In Ukraine, a teacher was recruited by Russian forces to fight with a rifle if they break into the capital, Kyiv. In response, a top Chinese official snapped at the US for its &#39;hysterical&#39; balloon response to the war in Ukraine. 
-
-The US is also dealing with some drama of its own. They have called off their search for unidentified objects that they shot down. Meanwhile, there have been tremors in Turkey which left survivors searching desperately for shelter, while one professional soccer player was found dead after the quake. 
-
-In Washington, the Coast Guard is running one of the toughest water-rescue training programs in the world on one of the most treacherous corners of the river Columbia. And Senator Fetterman from Pennsylvania has disclosed his depression, signaling a growing openness about mental health issues. 
-
-Some are questioning how green electric pickup trucks really are and government agencies have been taking action to crack down on crypto practices. Finally, Nigeria has elections coming up soon with an unexpected third-party candidate who has a lot of young voters energized behind him.</p>
+The world is facing a lot of issues right now. In the US, debate is heating up over how to reform Social Security and Medicare. Meanwhile, in Ukraine, the ongoing conflict reaches a new level as a top Chinese official calls out the US&#39; &quot;hysterical&quot; response. In Nigeria, Africa&#39;s most populous nation, their upcoming presidential election is wide open and young voters are charged up to oust the old guard. Climate change is also having an impact across multiple countries - cotton farmers in Texas have been particularly hard-hit due to rising temperatures and drought. Finally, the people of Turkey are in dire need of housing after a devastating earthquake leaves thousands homeless.</p>
 <ol>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Climate Change Is Making Tampons (and Lots of Other Stuff) More Expensive</h3>
+<sub>By Coral Davenport</sub>
+<p>Cotton farmers in Texas suffered record losses amid heat and drought last year, new data shows. It’s an example of how global warming is a “secret driver of inflation.”  <a href="https://nyti.ms/3Z3daxY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Trading Books for a Rifle: The Teacher Who Volunteered in Ukraine</h3>
 <sub>By Lynsey Addario and Andrew E. Kramer</sub>
@@ -79,12 +79,6 @@ Some are questioning how green electric pickup trucks really are and government 
 <sub>By Michael Crowley</sub>
 <p>Wang Yi spoke at the Munich Security Conference as suspense mounted over whether he might meet on the sidelines with Secretary of State Antony J. Blinken.  <a href="https://nyti.ms/4171SKZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Calls Off Search for Unidentified Objects It Shot Down</h3>
-<sub>By Katie Rogers</sub>
-<p>The end of the search for objects downed over Alaska and Lake Huron raises the possibility that the devices will never be collected and analyzed.  <a href="https://nyti.ms/3IAn6dg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Caves, Tents and Shipping Containers: Quake Survivors’ Desperate Hunt for Shelter</h3>
@@ -104,11 +98,11 @@ Some are questioning how green electric pickup trucks really are and government 
 <p>One of the most challenging water-rescue training programs in the world is run by the Coast Guard on the Columbia River when the conditions are at their roughest.  <a href="https://nyti.ms/3Z1D857"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fetterman’s Disclosure of Depression Signals New Openness on Mental Health</h3>
-<sub>By Sheryl Gay Stolberg and Ellen Barry</sub>
-<p>The Democratic senator from Pennsylvania is the latest public figure to disclose his mental health struggles, an indication of growing acceptance, though some stigma remains.  <a href="https://nyti.ms/3IA9wXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fixing Social Security and Medicare: Where the Parties Stand</h3>
+<sub>By Mark Miller</sub>
+<p>Republicans and Democrats have sharply divergent approaches to repairing the programs. Any solutions will affect younger workers as much as retirees.  <a href="https://nyti.ms/3EiVO8r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Just How Good for the Planet Is That Big Electric Pickup Truck?</h3>
@@ -116,10 +110,10 @@ Some are questioning how green electric pickup trucks really are and government 
 <p>E.V.s are usually a more climate-friendly option. But as they bulk up, their emissions savings, and other environmental and safety benefits, begin to diminish.  <a href="https://nyti.ms/3lMnHQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Government Cracks Down on Crypto Industry With Flurry of Actions</h3>
-<sub>By David Yaffe-Bellany</sub>
-<p>State and federal agencies have levied fines, brought new cases and issued policy statements to rein in freewheeling practices in recent weeks.  <a href="https://nyti.ms/3Sho1Cr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Boardwalk Basketball Grift Conjured Out of Thin Air</h3>
+<sub>By Dan Barry</sub>
+<p>In the time-honored tradition of small-time schemes everywhere, the operator of a Jersey Shore game of chance is found guilty of deception.  <a href="https://nyti.ms/3xyUHhg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -128,16 +122,16 @@ Some are questioning how green electric pickup trucks really are and government 
 <p>The race is wide open in the presidential election in Nigeria, Africa’s most populous nation and a struggling economic powerhouse. Youth looking to evict the old guard are cheering on Peter Obi, a surprise third-party candidate.  <a href="https://nyti.ms/417120T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Nigerian Election 2023: What to Know</h3>
-<sub>By Ruth Maclean</sub>
-<p>The presidential election this month in Africa’s most populous country is completely unpredictable. An unexpected third candidate with a huge youth following may upend decades of traditional politics.  <a href="https://nyti.ms/3lBX7ZX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Weekender</h3>
 <sub>By Jillian Rayfield</sub>
 <p>The 25 essential dishes to eat in Paris. Also in this edition: the return of “Party Down,” and an unsettling conversation with Bing’s chatbot.  <a href="https://nyti.ms/3Kd5Cof"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, February 17, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3xwZWhA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
