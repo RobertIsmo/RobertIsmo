@@ -58,20 +58,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, February 17, Central Standard Time</p>
+<p>It is Saturday, February 18, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. The US and China are competing against each other in an unregulated high-altitude zone called &quot;near space&quot;. Rick Scott, a Florida Republican, has backed away from calls to overhaul the nation&#39;s entitlement programs. In addition, Western leaders have pledged support for Ukraine as Russia continues its invasion. On the business front, Norfolk Southern&#39;s profits and accident rates have increased recently, but safety experts are pointing blame at their focus on financial results. Lastly, CNN is facing an uproar after their anchor Don Lemon made some insensitive comments about women.</p>
+There are some concerning developments happening around the world. In Iran, there have been hints of an upgrade to its Air Force that could suggest the arrival of advanced Russian jets. The U.S. has called off its search for objects it shot down and is faced with competition from China over technology in &quot;near space&quot; which could prove crucial in military conflicts. Mental health is a growing part of the public discourse as U.S. Senator Fetterman has opened up about his own struggles with depression. Meanwhile, many are concerned over profits trumping safety issues on the railroads in U.S., and the West continues their support for Ukraine who is currently stuck in a war with Russia that shows no end in sight. Closer to home, CNN recently became embroiled in controversy after one of its anchors made remarks about women, and a man killed 6 people, including his ex-wife, in Mississippi.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Norfolk Southern’s Profits and Accident Rates Rose in Recent Years</h3>
-<sub>By Peter Eavis and Mark Walker</sub>
-<p>Safety experts say a focus on financial returns may be partly to blame for derailments and accidents like the one in Ohio.  <a href="https://nyti.ms/3lFppT7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fetterman’s Disclosure of Depression Signals New Openness on Mental Health</h3>
-<sub>By Sheryl Gay Stolberg and Ellen Barry</sub>
-<p>The Democratic senator from Pennsylvania is the latest public figure to disclose his mental health struggles, an indication of growing acceptance, though some stigma remains.  <a href="https://nyti.ms/3IA9wXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Satellite Images and Video, Hidden Clues About an Iranian Air Force Upgrade</h3>
+<sub>By Christoph Koettl and Alexander Cardia</sub>
+<p>In early February, Iranian state media aired a video about an underground Air Force base. Details in the footage and satellite images point toward the possible arrival of advanced Russian jets.  <a href="https://nyti.ms/3YWUNL7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,15 +81,21 @@ There&#39;s a lot going on in the world right now. The US and China are competin
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fetterman’s Disclosure of Depression Signals New Openness on Mental Health</h3>
+<sub>By Sheryl Gay Stolberg and Ellen Barry</sub>
+<p>The Democratic senator from Pennsylvania is the latest public figure to disclose his mental health struggles, an indication of growing acceptance, though some stigma remains.  <a href="https://nyti.ms/3IA9wXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Norfolk Southern’s Profits and Accident Rates Rose in Recent Years</h3>
+<sub>By Peter Eavis and Mark Walker</sub>
+<p>Safety experts say a focus on financial returns may be partly to blame for derailments and accidents like the one in Ohio.  <a href="https://nyti.ms/3lFppT7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Rick Scott Drops Social Security From Plan as G.O.P. Retreats From Entitlement Cuts</h3>
 <sub>By Carl Hulse</sub>
 <p>The backtracking by the Florida Republican came after bipartisan criticism and signaled how completely the G.O.P. has pulled away from calls to overhaul the nation’s entitlement programs.  <a href="https://nyti.ms/3YWvuZD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Satellite Images and Video, Hidden Clues About an Iranian Air Force Upgrade</h3>
-<sub>By Christoph Koettl and Alexander Cardia</sub>
-<p>In early February, Iranian state media aired a video about an underground Air Force base. Details in the footage and satellite images point toward the possible arrival of advanced Russian jets.  <a href="https://nyti.ms/3YWUNL7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -109,12 +109,6 @@ There&#39;s a lot going on in the world right now. The US and China are competin
 <sub>By Roger Cohen</sub>
 <p>His support for Ukraine and condemnation of Russia have hardened, but France’s president still stands out among Western leaders in insisting that compromise will be needed to end the war.  <a href="https://nyti.ms/3k936EU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Going Gray, a News Anchor Found Herself the Focus of the Story</h3>
-<sub>By Norimitsu Onishi</sub>
-<p>Lisa LaFlamme was dismissed after a decades-long TV career, not long after she stopped dyeing her hair, setting off debates across Canada about sexism, ageism and going gray.  <a href="https://nyti.ms/3S7qVcP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Financial Woes Thrust Lyft, Long in Uber’s Shadow, Into the Spotlight</h3>
@@ -132,6 +126,12 @@ There&#39;s a lot going on in the world right now. The US and China are competin
 <h3>Uproar Hits CNN as Don Lemon Is Rebuked for Comments About Women</h3>
 <sub>By Michael M. Grynbaum and John Koblin</sub>
 <p>Mr. Lemon’s assertion that the presidential candidate Nikki Haley is not “in her prime” roiled the network and put a harsh spotlight on its struggling morning show.  <a href="https://nyti.ms/3YGtBk6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Kills 6, Including Ex-Wife, in Rampage in Mississippi, Officials Say</h3>
+<sub>By Eduardo Medina and McKenna Oxenden</sub>
+<p>Arkabutla, a community of less than 300 in Tate County, hadn’t seen such mass violence in more than two decades, the sheriff said.  <a href="https://nyti.ms/3lFpnL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
