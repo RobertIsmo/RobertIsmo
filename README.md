@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 18, Central Standard Time</p>
 <p>
-There are some concerning developments happening around the world. In Iran, there have been hints of an upgrade to its Air Force that could suggest the arrival of advanced Russian jets. The U.S. has called off its search for objects it shot down and is faced with competition from China over technology in &quot;near space&quot; which could prove crucial in military conflicts. Mental health is a growing part of the public discourse as U.S. Senator Fetterman has opened up about his own struggles with depression. Meanwhile, many are concerned over profits trumping safety issues on the railroads in U.S., and the West continues their support for Ukraine who is currently stuck in a war with Russia that shows no end in sight. Closer to home, CNN recently became embroiled in controversy after one of its anchors made remarks about women, and a man killed 6 people, including his ex-wife, in Mississippi.</p>
+It looks like there&#39;s some big news in the world right now. In Iran, satellite images and video has revealed clues about upgrades they&#39;re making to their Air Force base. Meanwhile, here in the US the government called off a search for unidentified objects they shot down, and there&#39;s a competition between the US and China over military technology that operates in near space. 
+
+On top of that, leaders from the West are pledging support for Ukraine amid Russia&#39;s invasion and French president Macron is insisting that peace talks will be needed to end the war. Here in the US businesses have been affected by pandemic restrictions, impeachment trials are gaining pace and a South Carolina lawyer is on trial for murder.
+
+So yeah – not exactly the usual news cycle!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Satellite Images and Video, Hidden Clues About an Iranian Air Force Upgrade</h3>
@@ -86,18 +90,6 @@ There are some concerning developments happening around the world. In Iran, ther
 <p>The Democratic senator from Pennsylvania is the latest public figure to disclose his mental health struggles, an indication of growing acceptance, though some stigma remains.  <a href="https://nyti.ms/3IA9wXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Norfolk Southern’s Profits and Accident Rates Rose in Recent Years</h3>
-<sub>By Peter Eavis and Mark Walker</sub>
-<p>Safety experts say a focus on financial returns may be partly to blame for derailments and accidents like the one in Ohio.  <a href="https://nyti.ms/3lFppT7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rick Scott Drops Social Security From Plan as G.O.P. Retreats From Entitlement Cuts</h3>
-<sub>By Carl Hulse</sub>
-<p>The backtracking by the Florida Republican came after bipartisan criticism and signaled how completely the G.O.P. has pulled away from calls to overhaul the nation’s entitlement programs.  <a href="https://nyti.ms/3YWvuZD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Western Leaders Pledge Support for Ukraine ‘as Long as Necessary’</h3>
 <sub>By Michael Crowley, Roger Cohen, Steven Erlanger and Erika Solomon</sub>
@@ -108,6 +100,18 @@ There are some concerning developments happening around the world. In Iran, ther
 <h3>Macron Calls for Intensified Support for Ukraine but Eyes Peace Talks</h3>
 <sub>By Roger Cohen</sub>
 <p>His support for Ukraine and condemnation of Russia have hardened, but France’s president still stands out among Western leaders in insisting that compromise will be needed to end the war.  <a href="https://nyti.ms/3k936EU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Norfolk Southern’s Profits and Accident Rates Rose in Recent Years</h3>
+<sub>By Peter Eavis and Mark Walker</sub>
+<p>Safety experts say a focus on financial returns may be partly to blame for derailments and accidents like the one in Ohio.  <a href="https://nyti.ms/3lFppT7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Rick Scott Drops Social Security From Plan as G.O.P. Retreats From Entitlement Cuts</h3>
+<sub>By Carl Hulse</sub>
+<p>The backtracking by the Florida Republican came after bipartisan criticism and signaled how completely the G.O.P. has pulled away from calls to overhaul the nation’s entitlement programs.  <a href="https://nyti.ms/3YWvuZD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
