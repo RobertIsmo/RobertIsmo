@@ -60,17 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 18, Central Standard Time</p>
 <p>
-It looks like there&#39;s some big news in the world right now. In Iran, satellite images and video has revealed clues about upgrades they&#39;re making to their Air Force base. Meanwhile, here in the US the government called off a search for unidentified objects they shot down, and there&#39;s a competition between the US and China over military technology that operates in near space. 
-
-On top of that, leaders from the West are pledging support for Ukraine amid Russia&#39;s invasion and French president Macron is insisting that peace talks will be needed to end the war. Here in the US businesses have been affected by pandemic restrictions, impeachment trials are gaining pace and a South Carolina lawyer is on trial for murder.
-
-So yeah – not exactly the usual news cycle!</p>
+Currently, the world is facing many issues such as a resurgence of conflict between Russia and Ukraine, earthquakes in Turkey, a U.S. military search for unidentified objects, climate change, rising mental health stigma, the crackdown on crypto currency laws, and a recently opened presidential election in Nigeria and other countries.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Satellite Images and Video, Hidden Clues About an Iranian Air Force Upgrade</h3>
-<sub>By Christoph Koettl and Alexander Cardia</sub>
-<p>In early February, Iranian state media aired a video about an underground Air Force base. Details in the footage and satellite images point toward the possible arrival of advanced Russian jets.  <a href="https://nyti.ms/3YWUNL7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<h3>Trading Books for a Rifle: The Teacher Who Volunteered in Ukraine</h3>
+<sub>By Lynsey Addario and Andrew E. Kramer</sub>
+<p>When Russia invaded, recruiting officers asked no questions of the Ukrainian teacher. They handed her a rifle and 120 bullets, and assigned her to a unit expecting to fight in urban combat if the Russian Army broke into Kyiv.  <a href="https://nyti.ms/3Z2Ylfc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A top Chinese official calls the U.S. balloon response ‘hysterical’ and says the war in Ukraine must not continue.</h3>
+<sub>By Michael Crowley</sub>
+<p>Wang Yi spoke at the Munich Security Conference as suspense mounted over whether he might meet on the sidelines with Secretary of State Antony J. Blinken.  <a href="https://nyti.ms/4171SKZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Calls Off Search for Unidentified Objects It Shot Down</h3>
@@ -78,11 +80,23 @@ So yeah – not exactly the usual news cycle!</p>
 <p>The end of the search for objects downed over Alaska and Lake Huron raises the possibility that the devices will never be collected and analyzed.  <a href="https://nyti.ms/3IAn6dg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Caves, Tents and Shipping Containers: Quake Survivors’ Desperate Hunt for Shelter</h3>
+<sub>By Cora Engelbrecht and Nimet Kirac</sub>
+<p>For now, the Turkish government is relying on short-term solutions to house an estimated one million who are crowding into gyms, hotels and dormitories. A cruise ship is set to arrive to house thousands.  <a href="https://nyti.ms/3IzClTx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. and China Vie in Hazy Zone Where Balloons, U.F.O.s and Missiles Fly</h3>
-<sub>By Edward Wong, Eric Schmitt and Julian E. Barnes</sub>
-<p>American officials are worried China is far along in developing military technology that operates in the unregulated high-altitude zone of “near space.”  <a href="https://nyti.ms/3XFTqzm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<h3>In a Treacherous Corner of Washington, a Classroom With 40-Foot Waves</h3>
+<sub>By Kirk Johnson and Ruth Fremson</sub>
+<p>One of the most challenging water-rescue training programs in the world is run by the Coast Guard on the Columbia River when the conditions are at their roughest.  <a href="https://nyti.ms/3Z1D857"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Just How Good for the Planet Is That Big Electric Pickup Truck?</h3>
+<sub>By Elena Shao</sub>
+<p>E.V.s are usually a more climate-friendly option. But as they bulk up, their emissions savings, and other environmental and safety benefits, begin to diminish.  <a href="https://nyti.ms/3lMnHQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Fetterman’s Disclosure of Depression Signals New Openness on Mental Health</h3>
@@ -90,52 +104,34 @@ So yeah – not exactly the usual news cycle!</p>
 <p>The Democratic senator from Pennsylvania is the latest public figure to disclose his mental health struggles, an indication of growing acceptance, though some stigma remains.  <a href="https://nyti.ms/3IA9wXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Western Leaders Pledge Support for Ukraine ‘as Long as Necessary’</h3>
-<sub>By Michael Crowley, Roger Cohen, Steven Erlanger and Erika Solomon</sub>
-<p>As Russia’s invasion approaches its second year with no end in sight, Ukraine’s supporters faced lingering questions at the Munich Security Conference about how long their resolve will last.  <a href="https://nyti.ms/3xuqwI0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Macron Calls for Intensified Support for Ukraine but Eyes Peace Talks</h3>
-<sub>By Roger Cohen</sub>
-<p>His support for Ukraine and condemnation of Russia have hardened, but France’s president still stands out among Western leaders in insisting that compromise will be needed to end the war.  <a href="https://nyti.ms/3k936EU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Norfolk Southern’s Profits and Accident Rates Rose in Recent Years</h3>
-<sub>By Peter Eavis and Mark Walker</sub>
-<p>Safety experts say a focus on financial returns may be partly to blame for derailments and accidents like the one in Ohio.  <a href="https://nyti.ms/3lFppT7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Government Cracks Down on Crypto Industry With Flurry of Actions</h3>
+<sub>By David Yaffe-Bellany</sub>
+<p>State and federal agencies have levied fines, brought new cases and issued policy statements to rein in freewheeling practices in recent weeks.  <a href="https://nyti.ms/3Sho1Cr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>He’s Energized Nigeria’s Young Voters. Will They Turn Out for Him?</h3>
+<sub>By Ruth Maclean</sub>
+<p>The race is wide open in the presidential election in Nigeria, Africa’s most populous nation and a struggling economic powerhouse. Youth looking to evict the old guard are cheering on Peter Obi, a surprise third-party candidate.  <a href="https://nyti.ms/417120T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Nigerian Election 2023: What to Know</h3>
+<sub>By Ruth Maclean</sub>
+<p>The presidential election this month in Africa’s most populous country is completely unpredictable. An unexpected third candidate with a huge youth following may upend decades of traditional politics.  <a href="https://nyti.ms/3lBX7ZX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jillian Rayfield</sub>
+<p>The 25 essential dishes to eat in Paris. Also in this edition: the return of “Party Down,” and an unsettling conversation with Bing’s chatbot.  <a href="https://nyti.ms/3Kd5Cof"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rick Scott Drops Social Security From Plan as G.O.P. Retreats From Entitlement Cuts</h3>
-<sub>By Carl Hulse</sub>
-<p>The backtracking by the Florida Republican came after bipartisan criticism and signaled how completely the G.O.P. has pulled away from calls to overhaul the nation’s entitlement programs.  <a href="https://nyti.ms/3YWvuZD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Financial Woes Thrust Lyft, Long in Uber’s Shadow, Into the Spotlight</h3>
-<sub>By Kellen Browning</sub>
-<p>Lyft recovered from pandemic restrictions slower than Uber, and critics said it lacked the kind of ambitious investments that could distinguish itself from its rival.  <a href="https://nyti.ms/3k0A62i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘We Have to Talk’: Murdaugh’s Wife Found Pill Stash Before Murders</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>Prosecutors rested their case after questioning more than 60 witnesses at the murder trial of Alex Murdaugh, a prominent South Carolina lawyer.  <a href="https://nyti.ms/3YGWCMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Uproar Hits CNN as Don Lemon Is Rebuked for Comments About Women</h3>
-<sub>By Michael M. Grynbaum and John Koblin</sub>
-<p>Mr. Lemon’s assertion that the presidential candidate Nikki Haley is not “in her prime” roiled the network and put a harsh spotlight on its struggling morning show.  <a href="https://nyti.ms/3YGtBk6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Kills 6, Including Ex-Wife, in Rampage in Mississippi, Officials Say</h3>
-<sub>By Eduardo Medina and McKenna Oxenden</sub>
-<p>Arkabutla, a community of less than 300 in Tate County, hadn’t seen such mass violence in more than two decades, the sheriff said.  <a href="https://nyti.ms/3lFpnL3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, February 17, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3xwZWhA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
