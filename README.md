@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 18, Central Standard Time</p>
 <p>
-Currently, the world is facing many issues such as a resurgence of conflict between Russia and Ukraine, earthquakes in Turkey, a U.S. military search for unidentified objects, climate change, rising mental health stigma, the crackdown on crypto currency laws, and a recently opened presidential election in Nigeria and other countries.</p>
+There are a few stories of international conflict happening right now. In Ukraine, a teacher was recruited by Russian forces to fight with a rifle if they break into the capital, Kyiv. In response, a top Chinese official snapped at the US for its &#39;hysterical&#39; balloon response to the war in Ukraine. 
+
+The US is also dealing with some drama of its own. They have called off their search for unidentified objects that they shot down. Meanwhile, there have been tremors in Turkey which left survivors searching desperately for shelter, while one professional soccer player was found dead after the quake. 
+
+In Washington, the Coast Guard is running one of the toughest water-rescue training programs in the world on one of the most treacherous corners of the river Columbia. And Senator Fetterman from Pennsylvania has disclosed his depression, signaling a growing openness about mental health issues. 
+
+Some are questioning how green electric pickup trucks really are and government agencies have been taking action to crack down on crypto practices. Finally, Nigeria has elections coming up soon with an unexpected third-party candidate who has a lot of young voters energized behind him.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Trading Books for a Rifle: The Teacher Who Volunteered in Ukraine</h3>
@@ -86,16 +92,16 @@ Currently, the world is facing many issues such as a resurgence of conflict betw
 <p>For now, the Turkish government is relying on short-term solutions to house an estimated one million who are crowding into gyms, hotels and dormitories. A cruise ship is set to arrive to house thousands.  <a href="https://nyti.ms/3IzClTx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Christian Atsu, Professional Soccer Player, Is Found Dead in Turkey After Quake</h3>
+<sub>By Euan Ward</sub>
+<p>Mr. Atsu, a Ghanaian national who played for the Turkish club Hatayspor, had been among the thousands of people missing. He was 31.  <a href="https://nyti.ms/3YIF8zr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In a Treacherous Corner of Washington, a Classroom With 40-Foot Waves</h3>
 <sub>By Kirk Johnson and Ruth Fremson</sub>
 <p>One of the most challenging water-rescue training programs in the world is run by the Coast Guard on the Columbia River when the conditions are at their roughest.  <a href="https://nyti.ms/3Z1D857"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Just How Good for the Planet Is That Big Electric Pickup Truck?</h3>
-<sub>By Elena Shao</sub>
-<p>E.V.s are usually a more climate-friendly option. But as they bulk up, their emissions savings, and other environmental and safety benefits, begin to diminish.  <a href="https://nyti.ms/3lMnHQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -103,6 +109,12 @@ Currently, the world is facing many issues such as a resurgence of conflict betw
 <sub>By Sheryl Gay Stolberg and Ellen Barry</sub>
 <p>The Democratic senator from Pennsylvania is the latest public figure to disclose his mental health struggles, an indication of growing acceptance, though some stigma remains.  <a href="https://nyti.ms/3IA9wXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Just How Good for the Planet Is That Big Electric Pickup Truck?</h3>
+<sub>By Elena Shao</sub>
+<p>E.V.s are usually a more climate-friendly option. But as they bulk up, their emissions savings, and other environmental and safety benefits, begin to diminish.  <a href="https://nyti.ms/3lMnHQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Government Cracks Down on Crypto Industry With Flurry of Actions</h3>
@@ -126,12 +138,6 @@ Currently, the world is facing many issues such as a resurgence of conflict betw
 <h3>The Weekender</h3>
 <sub>By Jillian Rayfield</sub>
 <p>The 25 essential dishes to eat in Paris. Also in this edition: the return of “Party Down,” and an unsettling conversation with Bing’s chatbot.  <a href="https://nyti.ms/3Kd5Cof"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, February 17, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3xwZWhA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
