@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 17, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world recently that is drawing attention from world leaders and citizens alike. In the US, there has been increased tensions between the US and China, as both countries are vying for control over high-altitude areas where balloons, U.F.O.s, and missiles can be found. Meanwhile, Republican Senator Tim Scott is exploring a potential 2024 presidential run, while selling unity to a party that may be trending towards more of a Trump-esque &quot;us versus them&quot; framing. 
+There&#39;s a lot going on in the world right now. In business news, Norfolk Southern profits and accident rates are up but safety experts say their focus on financial returns may be causing more derailments and accidents. A US Senator from Pennsylvania recently disclosed his struggle with depression, signaling more acceptance of mental health challenges. The US and China are competing in the so-called &quot;near space&quot; zone where balloons, UFOS, and missiles fly. And a Pentagon official believes Chinese leader Xi Jinping was unaware of a Chinese spy balloon that crossed the US until it caused an uproar.
 
-Further abroad, in Germany, an employee of the German spy service was apprehended on suspicion of passing intelligence to Russia. Meanwhile, Iran has been working on upgrading its Air Force fleet with advanced Russian jets.
+Politically, Rick Scott dropped social security cuts from his plan after backlash from both Republicans and Democrats. Meanwhile Western leaders have pledged to support Ukraine for as long as necessary against Russia&#39;s invasion. There is also suspicion that Russia has placed a mole in Germany&#39;s spy service. 
 
-Aside from international developments, there has been some debate in Canada about sexism and ageism in regards to Lisa LaFlamme, a longtime news anchor who was let go after she went gray. Here in the US, stock investors are becoming nervous as strong economic data shows that the economy is still running hot. In New York City specifically, progressive leaders have come out with a statement of principles which has caused some strife within the left-wing movement in the city. Additionally, a prominent lawyer in South Carolina&#39;s murder trial has evoked great interest amongst witnesses to explore what led up to his wife and son&#39;s deaths. Finally, the hit martial arts movie &#39;Crouching Tiger Hidden Dragon&#39; has returned to theaters with its restored version amplifying the ways it was groundbreaking during its release nearly 20 years ago.</p>
+Canadian news anchors are being scrutinized after one stopped dyeing her hair gray, sparking debates about sexism and ageism in Canada. Financially, Lyft has been struggling since the pandemic began to take shape, falling behind Uber and not making as many ambitious investments to distinguish itself from its competitor. And finally, CNN anchor Don Lemon is receiving backlash after he claimed a presidential candidate is no longer &quot;in her prime&quot;.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Norfolk Southern’s Profits and Accident Rates Rose in Recent Years</h3>
+<sub>By Peter Eavis and Mark Walker</sub>
+<p>Safety experts say a focus on financial returns may be partly to blame for derailments and accidents like the one in Ohio.  <a href="https://nyti.ms/3lFppT7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fetterman’s Disclosure of Depression Signals New Openness on Mental Health</h3>
+<sub>By Sheryl Gay Stolberg and Ellen Barry</sub>
+<p>The Democratic senator from Pennsylvania is the latest public figure to disclose his mental health struggles, an indication of growing acceptance, though some stigma remains.  <a href="https://nyti.ms/3IA9wXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. and China Vie in Hazy Zone Where Balloons, U.F.O.s and Missiles Fly</h3>
 <sub>By Edward Wong, Eric Schmitt and Julian E. Barnes</sub>
@@ -73,27 +85,15 @@ Aside from international developments, there has been some debate in Canada abou
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Navy Divers Complete Recovery of Chinese Spy Balloon Debris</h3>
-<sub>By Zach Montague</sub>
-<p>The salvaged material was sent to the F.B.I. for further analysis.  <a href="https://nyti.ms/3XNfPew"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Balloon Crisis Highlighted a Split in China’s Leadership, Pentagon Official Says</h3>
+<sub>By Eric Schmitt and Zach Montague</sub>
+<p>A top U.S. military official said he believed that Xi Jinping, China’s leader, was likely unaware of the Chinese spy balloon that traversed the United States until the controversy erupted.  <a href="https://nyti.ms/3XNfPew"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Scott Drops Social Security From Plan as G.O.P. Retreats From Entitlement Cuts</h3>
+<h3>Rick Scott Drops Social Security From Plan as G.O.P. Retreats From Entitlement Cuts</h3>
 <sub>By Carl Hulse</sub>
-<p>The backtracking by the Florida Republican came after bipartisan criticism and signaled how the G.O.P. has pulled away from calls to overhaul the nation’s entitlement programs.  <a href="https://nyti.ms/3YWvuZD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tim Scott Weighs 2024 Run, Selling Unity to a Party Eager for a Fight</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Mr. Scott, the only Black Republican senator, has many political assets. What he lacks is an obvious ability to win over voters who have embraced a Trumpian brand of us-versus-them divisiveness.  <a href="https://nyti.ms/3SafTDy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Russian Mole in Germany Sows Suspicions at Home, and Beyond</h3>
-<sub>By Erika Solomon and Christopher F. Schuetze</sub>
-<p>A director at Germany’s spy service was picked up on suspicion of passing intelligence to Russia. German officials and allies worry just how deep the problem goes.  <a href="https://nyti.ms/3YGaxm0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The backtracking by the Florida Republican came after bipartisan criticism and signaled how completely the G.O.P. has pulled away from calls to overhaul the nation’s entitlement programs.  <a href="https://nyti.ms/3YWvuZD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -103,39 +103,39 @@ Aside from international developments, there has been some debate in Canada abou
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Western Leaders Pledge Support for Ukraine ‘as Long as Necessary’</h3>
+<sub>By Michael Crowley, Roger Cohen, Steven Erlanger and Erika Solomon</sub>
+<p>As Russia’s invasion approaches its second year with no end in sight, Ukraine’s supporters faced lingering questions at the Munich Security Conference about how long their resolve will last.  <a href="https://nyti.ms/3xuqwI0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Russian Mole in Germany Sows Suspicions at Home, and Beyond</h3>
+<sub>By Erika Solomon, Christopher F. Schuetze and Julian E. Barnes</sub>
+<p>A director at Germany’s spy service was picked up on suspicion of passing intelligence to Russia. German officials and allies worry just how deep the problem goes.  <a href="https://nyti.ms/3YGaxm0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Going Gray, a News Anchor Found Herself the Focus of the Story</h3>
 <sub>By Norimitsu Onishi</sub>
 <p>Lisa LaFlamme was dismissed after a decades-long TV career, not long after she stopped dyeing her hair, setting off debates across Canada about sexism, ageism and going gray.  <a href="https://nyti.ms/3S7qVcP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why a Strong Economy Is Making Stock Investors Jittery</h3>
-<sub>By Joe Rennison and Jeanna Smialek</sub>
-<p>After stocks jumped more than 6 percent in January, the tone shifted markedly this week as a steady flow of data showed the economy continued to run hot.  <a href="https://nyti.ms/3EiFtRd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What Does It Mean to Be a Progressive in New York City?</h3>
-<sub>By Jeffery C. Mays and Emma G. Fitzsimmons</sub>
-<p>Leaders of the leftist movement here demanded loyalty and a pledge to a new statement of principles. That’s when the trouble erupted.  <a href="https://nyti.ms/3YGvhu0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Financial Woes Thrust Lyft, Long in Uber’s Shadow, Into the Spotlight</h3>
+<sub>By Kellen Browning</sub>
+<p>Lyft recovered from pandemic restrictions slower than Uber, and critics said it lacked the kind of ambitious investments that could distinguish itself from its rival.  <a href="https://nyti.ms/3k0A62i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘We Have to Talk’: Murdaugh’s Wife and Son Found Pill Stash Before Murders</h3>
+<h3>‘We Have to Talk’: Murdaugh’s Wife Found Pill Stash Before Murders</h3>
 <sub>By Nicholas Bogel-Burroughs</sub>
-<p>Prosecutors were expected to rest their case after questioning more than 60 witnesses at the murder trial of Alex Murdaugh, a prominent South Carolina lawyer.  <a href="https://nyti.ms/3YGWCMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Prosecutors rested their case after questioning more than 60 witnesses at the murder trial of Alex Murdaugh, a prominent South Carolina lawyer.  <a href="https://nyti.ms/3YGWCMw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Memphis Officers Plead Not Guilty in Tyre Nichols Beating</h3>
-<sub>By Jessica Jaglois and Joseph Goldstein</sub>
-<p>A judge urged patience in the upcoming criminal process. Five police officers face charges of second-degree murder in the case.  <a href="https://nyti.ms/3IyTBIs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Crouching Tiger, Hidden Dragon’ Still Flies High</h3>
-<sub>By Brandon Yu</sub>
-<p>A restored version of the film, which has returned to theaters, amplifies the ways in which it was groundbreaking.  <a href="https://nyti.ms/3XzOZX7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Uproar Hits CNN as Don Lemon Is Rebuked for Comments About Women</h3>
+<sub>By Michael M. Grynbaum and John Koblin</sub>
+<p>Mr. Lemon’s assertion that the presidential candidate Nikki Haley is not “in her prime” roiled the network and put a harsh spotlight on its struggling morning show.  <a href="https://nyti.ms/3YGtBk6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
