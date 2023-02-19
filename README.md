@@ -60,49 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 19, Central Standard Time</p>
 <p>
-There is currently a lot of tension between the US and China due to a spy balloon dispute. In Munich, people have a feeling that the world is becoming more fractured. A Ukrainian teacher saw violence from Russia first hand and was given a rifle and bullets to help protect her home. Former president Jimmy Carter has chosen hospice care at 98 years old. Climate change is making things like tampons more expensive for consumers. The US Coast Guard is holding one of the most difficult rescue training programs in the world in Washington in choppy waters. Political parties are pushing to make changes to social security and Medicare programs in order to save them, and Michigan GOP has appointed an election denier leader. Mall owners are now trying to bring apartments into malls as part of their live-work-play model strategy. In New Jersey, there&#39;s a small time grift with a basketball game of chance happening on the boardwalks, and New York state has lots of jobs opening up in the cannabis industry. Lastly, the Weekender is offering 25 essential dishes to eat in Paris, alongside other entertainment.</p>
+There has been a lot of political upheaval over the past couple of weeks. In the US, Nikki Haley is running for president and Michigan just installed a Trump loyalist as the leader of their GOP party. In Europe, Russian President Putin is increasingly hostile towards Ukraine even as he attempts to craft a more idealized version of Russia. Meanwhile, there are tensions brewing between China and the United States over Chinese spy balloons. Finally, Albania is attempting to transform itself by revamping a despised dictator&#39;s shrine into something more modern and functional.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken Has Tense Meeting With Chinese Official Amid Spy Balloon Furor</h3>
-<sub>By Michael Crowley and David E. Sanger</sub>
-<p>The meeting resumed diplomatic contact between Washington and Beijing that had been frozen since the U.S. shot down a Chinese spy balloon.  <a href="https://nyti.ms/3k74g3N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The sense of a fractured world permeates Munich.</h3>
-<sub>By Roger Cohen</sub>
-<p>  <a href="https://nyti.ms/3IbGFXN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Trading Books for a Rifle: The Teacher Who Volunteered in Ukraine</h3>
-<sub>By Lynsey Addario and Andrew E. Kramer</sub>
-<p>When Russia invaded, recruiting officers asked no questions of the Ukrainian teacher. They handed her a rifle and 120 bullets, and assigned her to a unit expecting to fight in urban combat if the Russian Army broke into Kyiv.  <a href="https://nyti.ms/3Z2Ylfc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jimmy Carter, 98, Opts for Hospice Care</h3>
-<sub>By Peter Baker</sub>
-<p>The 39th president has decided to forgo further medical treatment and will “spend his remaining time at home with his family,” the Carter Center announced.  <a href="https://nyti.ms/3ICjE1L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Climate Change Is Making Tampons (and Lots of Other Stuff) More Expensive</h3>
-<sub>By Coral Davenport</sub>
-<p>Cotton farmers in Texas suffered record losses amid heat and drought last year, new data shows. It’s an example of how global warming is a “secret driver of inflation.”  <a href="https://nyti.ms/3Z3daxY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In a Treacherous Corner of Washington, a Classroom With 40-Foot Waves</h3>
-<sub>By Kirk Johnson and Ruth Fremson</sub>
-<p>One of the most challenging water-rescue training programs in the world is run by the Coast Guard on the Columbia River when the conditions are at their roughest.  <a href="https://nyti.ms/3Z1D857"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fixing Social Security and Medicare: Where the Parties Stand</h3>
-<sub>By Mark Miller</sub>
-<p>Republicans and Democrats have sharply divergent approaches to repairing the programs. Any solutions will affect younger workers as much as retirees.  <a href="https://nyti.ms/3EiVO8r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<h3>Haley Walks Treacherous Road for G.O.P. Women</h3>
+<sub>By Katie Glueck and Lisa Lerer</sub>
+<p>Nikki Haley’s presidential campaign is a major test of her party’s views on sexism and female leaders. Just don’t call it identity politics.  <a href="https://nyti.ms/3xzNA8s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Michigan G.O.P. Installs Kristina Karamo, an Election Denier, as Leader</h3>
@@ -110,28 +74,64 @@ There is currently a lot of tension between the US and China due to a spy balloo
 <p>The vote for Kristina Karamo, who resoundingly lost her bid for secretary of state last year, cements the party’s takeover by Trump loyalists.  <a href="https://nyti.ms/3Z1Ftgw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Police Radio Reveals Terror and Confusion in Hunt for Michigan State Gunman</h3>
+<sub>By Robin Stein, Natalie Reneau, Ishaan Jhaveri and Dmitriy Khavin</sub>
+<p>Law enforcement faced a deluge of 911 calls containing false alarms, adding chaos to the already difficult task of securing a campus with 400 buildings.  <a href="https://nyti.ms/3YTtBNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Blinken Has Tense Meeting With Chinese Official Amid Spy Balloon Furor</h3>
+<sub>By Michael Crowley and David E. Sanger</sub>
+<p>The meeting resumed diplomatic contact between Washington and Beijing that had been frozen since the U.S. shot down a Chinese spy balloon.  <a href="https://nyti.ms/3k74g3N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>One Year Into War, Putin Is Crafting the Russia He Craves</h3>
+<sub>By Anton Troianovski, Valerie Hopkins and Nanna Heitmann</sub>
+<p>In Ukraine, President Vladimir V. Putin’s invasion has met setback after setback. But its effect at home has been very different.  <a href="https://nyti.ms/3Z4IDzR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A High-Maintenance Relationship for 637 Years, but Milan’s Duomo Is Still Adored</h3>
+<sub>By Elisabetta Povoledo</sub>
+<p>The care for Milan’s cathedral has been nonstop since 1386, but despite the constant need for refurbishment, the beloved landmark’s hold on the city is unbreakable.  <a href="https://nyti.ms/3kagSqY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>By Adding Apartments, Malls Seek to Bring Shopping Closer to Home</h3>
-<sub>By Jordyn Holman</sub>
-<p>Facing an existential crisis over empty space, owners are trying to fill malls with residences, building on the live-work-play model sought by young adults.  <a href="https://nyti.ms/3jV3hUx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
+<h3>Turkey’s Reeling Economy Is an Added Challenge for Erdogan</h3>
+<sub>By Liz Alderman</sub>
+<p>The earthquake’s staggering reconstruction bill will join other economic woes as the country’s autocratic leader faces re-election.  <a href="https://nyti.ms/3I5CRqQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Boardwalk Basketball Grift Conjured Out of Thin Air</h3>
-<sub>By Dan Barry</sub>
-<p>In the time-honored tradition of small-time schemes everywhere, the operator of a Jersey Shore game of chance is found guilty of deception.  <a href="https://nyti.ms/3xyUHhg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Timothy J. Heaphy Led the House Jan. 6 Investigation. Here’s What He Learned.</h3>
+<sub>By Luke Broadwater</sub>
+<p>The top staff investigator for the House inquiry on the Capitol attack opened up about his biggest takeaways and why proving intent is the key to a criminal charge against former President Donald J. Trump.  <a href="https://nyti.ms/3xBjvoK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jimmy Carter, 98, Opts for Hospice Care</h3>
+<sub>By Peter Baker</sub>
+<p>The 39th president has decided to forgo further medical treatment and will “spend his remaining time at home with his family,” the Carter Center announced.  <a href="https://nyti.ms/3ICjE1L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Looking for a Job? The Cannabis Industry Is Hiring in New York.</h3>
-<sub>By Ashley Southall</sub>
-<p>The industry estimates that there could be 63,000 jobs in weed across the state by 2025, many of them in retail and hospitality.  <a href="https://nyti.ms/3lEP7Hj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Despised Dictator’s ‘Scary’ Shrine Becomes a Bet on Albania’s Future</h3>
+<sub>By Andrew Higgins</sub>
+<p>The enormous pyramid was long a reminder of both a brutal regime and the decades of disappointments that followed. Now, it’s a symbol of a city aspiring to be the high-tech “Tel Aviv of the Balkans.”  <a href="https://nyti.ms/3Ifa0QX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Weekender</h3>
 <sub>By Jillian Rayfield</sub>
 <p>The 25 essential dishes to eat in Paris. Also in this edition: the return of “Party Down,” and an unsettling conversation with Bing’s chatbot.  <a href="https://nyti.ms/3Kd5Cof"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, February 17, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3xwZWhA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
