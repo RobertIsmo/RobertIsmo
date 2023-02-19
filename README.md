@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 19, Central Standard Time</p>
 <p>
-At the moment, there are a number of issues dominating world news. In the United States, Nikki Haley is running for president and her candidacy is causing divisions among G.O.P. women. Meanwhile, Michigan&#39;s G.O.P has been taken over by Trump loyalists, led by Kristina Karamo, who lost her secretary of state bid last year. In Russia, President Vladimir V. Putin is celebrating a year since his invasion of Ukraine even when the campaign has met with setbacks. Turkey&#39;s economy is in trouble and President Erdogan is facing re-election in the midst of this crisis. In Albania, the legacy of a brutal dictatorship is still tangible in its capital city Tirana which is hoping to become a high-tech hub in the Balkans region. On a lighter note,Paris has twenty-five essential dishes to eat and the comedic show &quot;Party Down&quot; is making a return after nearly a decade off the air. </p>
+It looks like there&#39;s a lot going on in the world right now. In Russia, President Putin has been attempting to consolidate power and gain control of Ukraine, but he&#39;s faced several setbacks. Meanwhile, U.S. Secretary of State Blinken believes China is considering providing Russia with weapons, which would damage the already strained relationship between the two countries. 
+
+In the U.S., former South Carolina governor Nikki Haley is trying to make a bid for the Republican presidential nomination and will be facing tests about sexism and identity politics in her party. The Michigan GOP has also installed an election denier as their leader despite having lost their bid last year, showing an increasingly strong takeover by Trump loyalists. 
+
+On a lighter note, we&#39;ve seen some beautiful images come out of southern Carolina after a Chinese spy balloon was recovered there. An investigation into whether or not a painting was done by Charles Peale at the beginning of the Revolutionary War revealed some interesting art historical connections. 
+
+Finally, British schools seem to be grappling with sexism being spread by popular online personalities, while former President Jimmy Carter is opting for hospice care after reaching 98 years old.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>One Year Into War, Putin Is Crafting the Russia He Craves</h3>
+<sub>By Anton Troianovski, Valerie Hopkins and Nanna Heitmann</sub>
+<p>In Ukraine, President Vladimir V. Putin’s invasion has met setback after setback. But its effect at home has been very different.  <a href="https://nyti.ms/3Z4IDzR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Blinken Says U.S. Believes China Is Considering Giving Russia Weapons</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>The secretary of state said that if Beijing supplied Moscow with “lethal aid,” it would further damage a U.S.-China relationship already troubled since the spy balloon incident.  <a href="https://nyti.ms/3ScPFAn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Haley Walks Treacherous Road for G.O.P. Women</h3>
 <sub>By Katie Glueck and Lisa Lerer</sub>
@@ -81,18 +99,6 @@ At the moment, there are a number of issues dominating world news. In the United
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>One Year Into War, Putin Is Crafting the Russia He Craves</h3>
-<sub>By Anton Troianovski, Valerie Hopkins and Nanna Heitmann</sub>
-<p>In Ukraine, President Vladimir V. Putin’s invasion has met setback after setback. But its effect at home has been very different.  <a href="https://nyti.ms/3Z4IDzR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Turkey’s Reeling Economy Is an Added Challenge for Erdogan</h3>
-<sub>By Liz Alderman</sub>
-<p>The earthquake’s staggering reconstruction bill will join other economic woes as the country’s autocratic leader faces re-election.  <a href="https://nyti.ms/3I5CRqQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A High-Maintenance Relationship for 637 Years, but Milan’s Duomo Is Still Adored</h3>
 <sub>By Elisabetta Povoledo</sub>
 <p>The care for Milan’s cathedral has been nonstop since 1386, but despite the constant need for refurbishment, the beloved landmark’s hold on the city is unbreakable.  <a href="https://nyti.ms/3kagSqY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -104,10 +110,22 @@ At the moment, there are a number of issues dominating world news. In the United
 <p>The meeting resumed diplomatic contact between Washington and Beijing that had been frozen since the U.S. shot down a Chinese spy balloon.  <a href="https://nyti.ms/3k74g3N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Beauty in the Aftermath</h3>
+<sub>By Will Heinrich</sub>
+<p>Documenting the recovery of a Chinese spy balloon off South Carolina, a Navy photographer produced some spectacular images with surprising art-historical undercurrents.  <a href="https://nyti.ms/3XPwfTG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Timothy J. Heaphy Led the House Jan. 6 Investigation. Here’s What He Learned.</h3>
 <sub>By Luke Broadwater</sub>
 <p>The top staff investigator for the House inquiry on the Capitol attack opened up about his biggest takeaways and why proving intent is the key to a criminal charge against former President Donald J. Trump.  <a href="https://nyti.ms/3xBjvoK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Was This Washington Portrait Really by Charles Peale? Experts Took a Look.</h3>
+<sub>By Ralph Blumenthal</sub>
+<p>The authenticity of the painting, which was seized by the British Navy during the Revolutionary War, had been questioned because of overpainting and gaps in its provenance.  <a href="https://nyti.ms/3lDTWAG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,22 +135,10 @@ At the moment, there are a number of issues dominating world news. In the United
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Despised Dictator’s ‘Scary’ Shrine Becomes a Bet on Albania’s Future</h3>
-<sub>By Andrew Higgins</sub>
-<p>The enormous pyramid was long a reminder of both a brutal regime and the decades of disappointments that followed. Now, it’s a symbol of a city aspiring to be the high-tech “Tel Aviv of the Balkans.”  <a href="https://nyti.ms/3Ifa0QX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jillian Rayfield</sub>
-<p>The 25 essential dishes to eat in Paris. Also in this edition: the return of “Party Down,” and an unsettling conversation with Bing’s chatbot.  <a href="https://nyti.ms/3Kd5Cof"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, February 17, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3xwZWhA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
+<h3>‘Brainwashing a Generation’: British Schools Combat Andrew Tate’s Views</h3>
+<sub>By Emma Bubola and Isabella Kwai</sub>
+<p>Alarmed by an online personality’s popularity among their students, educators are mobilizing to combat the sexism he promotes.  <a href="https://nyti.ms/3ElCNSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
