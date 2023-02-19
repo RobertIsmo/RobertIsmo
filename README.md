@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 18, Central Standard Time</p>
 <p>
-Recently, world events have been disjointed and complex. In Ukraine, a teacher was handed a rifle and bullets to fight against the Russian invasion, while in the US, 98-year-old president Jimmy Carter decided to switch to hospice care. Climate change as well is heavily affecting our world – it&#39;s causing cotton farmers in Texas to suffer losses due to heat and drought, as well as making products like tampons more expensive due to global warming. In Washington DC, the Coast Guard runs one of the most challenging water-rescue training programs in the world. Politically, both Republicans and Democrats have radically different approaches for repairing Social Security and Medicare that would affect both young workers and retirees. As for electric vehicles, although they are usually climate-friendly, their benefits begin to shrink as they bulk up. Finally, cannabis is creating new jobs in New York City related to retail and hospitality with an estimated 63,000 jobs by 2025.</p>
+This week in the world, it seems like people are dealing with a lot of disruption. In Munich, an overall sense of fracture is being felt. Ukraine is offering guns to teachers as a Russian invasion looms. In the US, former President Jimmy Carter has chosen to enter hospice care as he nears 99 years old. Surprisingly, climate change is making everyday items like Tampons more expensive due to worsened conditions for cotton farmers in Texas. Also in the US, the Coast Guard runs one of the toughest water-rescue training courses in the world on the Columbia River. Politically, both Democrats and Republicans have very different plans for fixing Social Security and Medicare programs that will affect young and old workers alike. Additionally, electric pickup trucks are deceivingly not as eco-friendly as we thought— as they bulk up their emissions savings diminish. Meanwhile at the Jersey Shore, a boardwalk basketball game con man has been found guilty of deception. The cannabis industry in New York is in full swing and expects to have 63K jobs open by 2025. If you&#39;re looking for something fun to do, there&#39;s lots to explore! There&#39;s 25 essential dishes to eat in Paris, an all new &quot;Party Down,&quot; and a very unsettling chatbot! Or you can check out stunning shots taken by a Navy photographer documenting the aftermath of a crashed Chinese spy balloon off South Carolina&#39;s coast that was also full of art-historical flavors.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The sense of a fractured world permeates Munich.</h3>
@@ -128,10 +128,10 @@ Recently, world events have been disjointed and complex. In Ukraine, a teacher w
 <p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3xwZWhA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>To Patients, Herpes Can Be Devastating. To Many Doctors, It’s Not a Priority.</h3>
-<sub>By Dani Blum</sub>
-<p>Billions of people live with the infection, but there has been scant progress for treatments and tests.  <a href="https://nyti.ms/3xvCl0L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Beauty in the Aftermath</h3>
+<sub>By Will Heinrich</sub>
+<p>Documenting the recovery of a Chinese spy balloon off South Carolina, a Navy photographer produced some spectacular images with surprising art-historical undercurrents.  <a href="https://nyti.ms/3XPwfTG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
