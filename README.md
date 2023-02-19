@@ -59,9 +59,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 18, Central Standard Time</p>
-<p>
-This week in the world, it seems like people are dealing with a lot of disruption. In Munich, an overall sense of fracture is being felt. Ukraine is offering guns to teachers as a Russian invasion looms. In the US, former President Jimmy Carter has chosen to enter hospice care as he nears 99 years old. Surprisingly, climate change is making everyday items like Tampons more expensive due to worsened conditions for cotton farmers in Texas. Also in the US, the Coast Guard runs one of the toughest water-rescue training courses in the world on the Columbia River. Politically, both Democrats and Republicans have very different plans for fixing Social Security and Medicare programs that will affect young and old workers alike. Additionally, electric pickup trucks are deceivingly not as eco-friendly as we thought— as they bulk up their emissions savings diminish. Meanwhile at the Jersey Shore, a boardwalk basketball game con man has been found guilty of deception. The cannabis industry in New York is in full swing and expects to have 63K jobs open by 2025. If you&#39;re looking for something fun to do, there&#39;s lots to explore! There&#39;s 25 essential dishes to eat in Paris, an all new &quot;Party Down,&quot; and a very unsettling chatbot! Or you can check out stunning shots taken by a Navy photographer documenting the aftermath of a crashed Chinese spy balloon off South Carolina&#39;s coast that was also full of art-historical flavors.</p>
+<p> 
+It&#39;s a pretty wild news cycle around the world right now! U.S.-China relations have been strained since an American spy balloon was shot down recently, and now Secretary of State Blinken had a tense meeting with a Chinese official about it. In Munich there&#39;s a strong sense of a fractured world. In Ukraine, people are signing up to fight in the military to defend against a Russian invasion and Kyiv is bracing for urban combat if they enter the city. Closer to home, former President Jimmy Carter has decided to stop medical treatments and enter hospice care at 98-years-old. Climate change is making things like tampons more expensive due to heat and drought record losses in Texas that&#39;s affecting cotton farming. The Coast Guard is running one of the most challenging water-rescue programs in the world due to 40-foot waves on the Columbia River in Washington. Social Security and Medicare repairs include different approaches by both Republican and Democrats, while Michigan GOP is lead by election denier Kristina Karamo. Malls are adding apartments to try and bring shopping closer to home as millennials seek a certain lifestyle. In Jersey Shore there was a boardwalk basketball grift found out than ran fraud over time, but on the other side of that now New York is hiring for cannabis industry jobs by the thousands. Finally, The Weekender this week covers the essential dishes in Paris where you can go for a bite during your stay!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Blinken Has Tense Meeting With Chinese Official Amid Spy Balloon Furor</h3>
+<sub>By Michael Crowley and David E. Sanger</sub>
+<p>The meeting resumed diplomatic contact between Washington and Beijing that had been frozen since the U.S. shot down a Chinese spy balloon.  <a href="https://nyti.ms/3k74g3N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The sense of a fractured world permeates Munich.</h3>
 <sub>By Roger Cohen</sub>
@@ -98,11 +104,17 @@ This week in the world, it seems like people are dealing with a lot of disruptio
 <p>Republicans and Democrats have sharply divergent approaches to repairing the programs. Any solutions will affect younger workers as much as retirees.  <a href="https://nyti.ms/3EiVO8r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Just How Good for the Planet Is That Big Electric Pickup Truck?</h3>
-<sub>By Elena Shao</sub>
-<p>E.V.s are usually a more climate-friendly option. But as they bulk up, their emissions savings, and other environmental and safety benefits, begin to diminish.  <a href="https://nyti.ms/3lMnHQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Michigan G.O.P. Installs Kristina Karamo, an Election Denier, as Leader</h3>
+<sub>By Neil Vigdor</sub>
+<p>The vote for Kristina Karamo, who resoundingly lost her bid for secretary of state last year, cements the party’s takeover by Trump loyalists.  <a href="https://nyti.ms/3Z1Ftgw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>By Adding Apartments, Malls Seek to Bring Shopping Closer to Home</h3>
+<sub>By Jordyn Holman</sub>
+<p>Facing an existential crisis over empty space, owners are trying to fill malls with residences, building on the live-work-play model sought by young adults.  <a href="https://nyti.ms/3jV3hUx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A Boardwalk Basketball Grift Conjured Out of Thin Air</h3>
@@ -121,18 +133,6 @@ This week in the world, it seems like people are dealing with a lot of disruptio
 <sub>By Jillian Rayfield</sub>
 <p>The 25 essential dishes to eat in Paris. Also in this edition: the return of “Party Down,” and an unsettling conversation with Bing’s chatbot.  <a href="https://nyti.ms/3Kd5Cof"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, February 17, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3xwZWhA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Beauty in the Aftermath</h3>
-<sub>By Will Heinrich</sub>
-<p>Documenting the recovery of a Chinese spy balloon off South Carolina, a Navy photographer produced some spectacular images with surprising art-historical undercurrents.  <a href="https://nyti.ms/3XPwfTG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
