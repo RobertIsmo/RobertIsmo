@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 19, Central Standard Time</p>
 <p>
-There has been a lot of political upheaval over the past couple of weeks. In the US, Nikki Haley is running for president and Michigan just installed a Trump loyalist as the leader of their GOP party. In Europe, Russian President Putin is increasingly hostile towards Ukraine even as he attempts to craft a more idealized version of Russia. Meanwhile, there are tensions brewing between China and the United States over Chinese spy balloons. Finally, Albania is attempting to transform itself by revamping a despised dictator&#39;s shrine into something more modern and functional.</p>
+At the moment, there are a number of issues dominating world news. In the United States, Nikki Haley is running for president and her candidacy is causing divisions among G.O.P. women. Meanwhile, Michigan&#39;s G.O.P has been taken over by Trump loyalists, led by Kristina Karamo, who lost her secretary of state bid last year. In Russia, President Vladimir V. Putin is celebrating a year since his invasion of Ukraine even when the campaign has met with setbacks. Turkey&#39;s economy is in trouble and President Erdogan is facing re-election in the midst of this crisis. In Albania, the legacy of a brutal dictatorship is still tangible in its capital city Tirana which is hoping to become a high-tech hub in the Balkans region. On a lighter note,Paris has twenty-five essential dishes to eat and the comedic show &quot;Party Down&quot; is making a return after nearly a decade off the air. </p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Haley Walks Treacherous Road for G.O.P. Women</h3>
@@ -81,15 +81,15 @@ There has been a lot of political upheaval over the past couple of weeks. In the
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken Has Tense Meeting With Chinese Official Amid Spy Balloon Furor</h3>
-<sub>By Michael Crowley and David E. Sanger</sub>
-<p>The meeting resumed diplomatic contact between Washington and Beijing that had been frozen since the U.S. shot down a Chinese spy balloon.  <a href="https://nyti.ms/3k74g3N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>One Year Into War, Putin Is Crafting the Russia He Craves</h3>
 <sub>By Anton Troianovski, Valerie Hopkins and Nanna Heitmann</sub>
 <p>In Ukraine, President Vladimir V. Putin’s invasion has met setback after setback. But its effect at home has been very different.  <a href="https://nyti.ms/3Z4IDzR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Turkey’s Reeling Economy Is an Added Challenge for Erdogan</h3>
+<sub>By Liz Alderman</sub>
+<p>The earthquake’s staggering reconstruction bill will join other economic woes as the country’s autocratic leader faces re-election.  <a href="https://nyti.ms/3I5CRqQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,11 +98,11 @@ There has been a lot of political upheaval over the past couple of weeks. In the
 <p>The care for Milan’s cathedral has been nonstop since 1386, but despite the constant need for refurbishment, the beloved landmark’s hold on the city is unbreakable.  <a href="https://nyti.ms/3kagSqY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Turkey’s Reeling Economy Is an Added Challenge for Erdogan</h3>
-<sub>By Liz Alderman</sub>
-<p>The earthquake’s staggering reconstruction bill will join other economic woes as the country’s autocratic leader faces re-election.  <a href="https://nyti.ms/3I5CRqQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Blinken Has Tense Meeting With Chinese Official Amid Spy Balloon Furor</h3>
+<sub>By Michael Crowley and David E. Sanger</sub>
+<p>The meeting resumed diplomatic contact between Washington and Beijing that had been frozen since the U.S. shot down a Chinese spy balloon.  <a href="https://nyti.ms/3k74g3N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Timothy J. Heaphy Led the House Jan. 6 Investigation. Here’s What He Learned.</h3>
