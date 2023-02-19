@@ -60,13 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 19, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot going on in the world right now. In Russia, President Putin has been attempting to consolidate power and gain control of Ukraine, but he&#39;s faced several setbacks. Meanwhile, U.S. Secretary of State Blinken believes China is considering providing Russia with weapons, which would damage the already strained relationship between the two countries. 
+There&#39;s a lot going on around the world right now. In Russia, President Vladimir V. Putin is trying to craft a more powerful and influential Russia, despite setbacks in his invasion of Ukraine. Meanwhile, the United States believes that China might supply weapons to Russia, which could further damage already strained relations between the U.S. and China since the spy balloon incident. Back at home here in the U.S., Nikki Haley is facing a major test with her presidential campaign to see whether or not the Republican party is ready for female leadership - while in Michigan, police radio illustrates the terror and confusion felt by law enforcement during their hunt for a gunman on a college campus. 
 
-In the U.S., former South Carolina governor Nikki Haley is trying to make a bid for the Republican presidential nomination and will be facing tests about sexism and identity politics in her party. The Michigan GOP has also installed an election denier as their leader despite having lost their bid last year, showing an increasingly strong takeover by Trump loyalists. 
-
-On a lighter note, we&#39;ve seen some beautiful images come out of southern Carolina after a Chinese spy balloon was recovered there. An investigation into whether or not a painting was done by Charles Peale at the beginning of the Revolutionary War revealed some interesting art historical connections. 
-
-Finally, British schools seem to be grappling with sexism being spread by popular online personalities, while former President Jimmy Carter is opting for hospice care after reaching 98 years old.</p>
+On a more historical note, Milan&#39;s cathedral - one of Italy&#39;s beloved landmarks - is celebrating its 637th anniversary of care and refurbishment; but some tension arose this week when U.S. Secretary of State Blinken had a tense meeting with Chinese officials about the now-infamous spy balloon. We&#39;ve also been taking some time this week to reflect on two historical figures: George Washington, as we celebrated Presidents&#39; Day; and former President Jimmy Carter, who recently opted for hospice care at 98 years old.And finally, British schools are mobilizing to combat the sexism of an online influencer - looking to prevent any further &quot;brainwashing&quot; of young people!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>One Year Into War, Putin Is Crafting the Russia He Craves</h3>
@@ -85,12 +81,6 @@ Finally, British schools seem to be grappling with sexism being spread by popula
 <sub>By Katie Glueck and Lisa Lerer</sub>
 <p>Nikki Haley’s presidential campaign is a major test of her party’s views on sexism and female leaders. Just don’t call it identity politics.  <a href="https://nyti.ms/3xzNA8s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Michigan G.O.P. Installs Kristina Karamo, an Election Denier, as Leader</h3>
-<sub>By Neil Vigdor</sub>
-<p>The vote for Kristina Karamo, who resoundingly lost her bid for secretary of state last year, cements the party’s takeover by Trump loyalists.  <a href="https://nyti.ms/3Z1Ftgw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Police Radio Reveals Terror and Confusion in Hunt for Michigan State Gunman</h3>
@@ -127,6 +117,12 @@ Finally, British schools seem to be grappling with sexism being spread by popula
 <sub>By Ralph Blumenthal</sub>
 <p>The authenticity of the painting, which was seized by the British Navy during the Revolutionary War, had been questioned because of overpainting and gaps in its provenance.  <a href="https://nyti.ms/3lDTWAG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How One President’s Day Became Presidents’ Day</h3>
+<sub>By Remy Tumin</sub>
+<p>The United States began celebrating its first president when he was still a general. Nearly 300 years since George Washington’s birth, the holiday has morphed into a celebration of the presidency.  <a href="https://nyti.ms/3EcxftU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jimmy Carter, 98, Opts for Hospice Care</h3>
