@@ -60,19 +60,59 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 20, Central Standard Time</p>
 <p>
-There seem to be a lot of conflicts going on around the world right now. The US is warning China over giving military aid to Russia for the war in Ukraine and President Vladimir Putin is dealing with setbacks for his invasion in that country. Back in the US, President Biden is getting ready for the 2024 election by framing it as a contest between himself and a conspiracy-minded opposition. Nikki Haley is testing the views on sexism in her party with a presidential campaign, while people from East Palestine are testing their own toxic chemical exposure from a train derailment rather than trusting what the government offers. Additionally, there was recently a Parisian cathedral that&#39;s been around for more than 600 years and there several people out there such as Andrew Tate who are trying to “brainwash” generations by promoting sexist views online. Lastly, Facebook has started charging users for an account status while experts are trying to verify whether an American painting taken by British Navy during the Revolutionary War is authentic or not.</p>
+Right now, there&#39;s a lot going on around the world. In Ukraine, President Biden took a long train ride to show support for the country, which has been invaded by Russia for a year now. Sadly, two people who got married in Ukraine and then served in the war effort died together in a trench. 
+
+In finance, a hedge fund billionaire secured a big exit package when he retired last year. Meanwhile, the U.S. is trying to study unexplained flying objects, while also looking into whether they can legally regulate what people post online. Additionally, there is concern over people using a psychedelic-like drug at home to treat mental health conditions without enough evidence of its safety. 
+
+Locally, people in East Palestine are skeptical of official tests regarding toxic chemicals since a train derailment. There have also been reports of public funds being used to support private schools in a Hasidic village in NY. And the pandemic has caused increased burnout among healthcare workers leading them to rethink the job incentives for nurses.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Warnings to China on Arms Aid for Russia’s War Portend Global Rift</h3>
-<sub>By Edward Wong</sub>
-<p>Secretary of State Antony J. Blinken says Washington has indications that Beijing is strongly considering giving military aid to Moscow for the war in Ukraine.  <a href="https://nyti.ms/3k3RsLP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Visits Kyiv, Ukraine’s Embattled Capital, as Air-Raid Siren Sounds</h3>
+<sub>By Marc Santora, Peter Baker and Michael D. Shear</sub>
+<p>President Biden took a nearly 10-hour train ride from the border of Poland to show his administration’s “unwavering support” a year into Russia’s invasion of Ukraine.  <a href="https://nyti.ms/3XPhBeN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>One Year Into War, Putin Is Crafting the Russia He Craves</h3>
-<sub>By Anton Troianovski, Valerie Hopkins and Nanna Heitmann</sub>
-<p>In Ukraine, President Vladimir V. Putin’s invasion has met setback after setback. But its effect at home has been very different.  <a href="https://nyti.ms/3Z4IDzR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>They Were Married. They Shared a Trench. They Died in It Together.</h3>
+<sub>By Jeffrey Gettleman and Ivor Prickett</sub>
+<p>Taras and Olha Melster signed up to help the war effort. Like many other urban professionals in Ukraine, they never expected to be sent to the front line.  <a href="https://nyti.ms/3Z1dwp1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Hedge Fund Billionaire Extracts Billions More to Retire</h3>
+<sub>By Rob Copeland and Maureen Farrell</sub>
+<p>Bridgewater’s founder, Ray Dalio, retired last year after months of negotiations that guaranteed him a gigantic exit package.  <a href="https://nyti.ms/3KlgNez"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Hunt for U.F.O.s at the End of the World</h3>
+<sub>By Katie Rogers</sub>
+<p>As quickly as the national craziness over downed objects began, the United States called off the search, leaving answers encased in Arctic ice and under the whitecaps of Lake Huron.  <a href="https://nyti.ms/3YYmfZ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Fraught New Frontier in Telehealth: Ketamine</h3>
+<sub>By Chris Hamby</sub>
+<p>With loosened rules around remote prescriptions, a psychedelic-like drug has become a popular treatment for mental health conditions. But a boom in at-home use has outpaced evidence of safety.  <a href="https://nyti.ms/3Kmi59s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Many in East Palestine, Skeptical of Official Tests, Seek Out Their Own</h3>
+<sub>By Emily Cochrane</sub>
+<p>The moves reflect residents’ deep-seated mistrust of government screenings of toxic chemicals and fears of long-term effects from the train derailment.  <a href="https://nyti.ms/3ICW4BQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Supreme Court to Hear Case That Targets a Legal Shield of Tech Giants</h3>
+<sub>By David McCabe</sub>
+<p>The justices are set to hear a case challenging Section 230, a law that protects Google, Facebook and others from lawsuits over what their users post online.  <a href="https://nyti.ms/3YQwXRW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>When Do Creepy Facebook Messages Cross a Constitutional Line?</h3>
+<sub>By Adam Liptak</sub>
+<p>The Supreme Court will hear arguments in April on a question it once ducked: whether intent counts in criminal cases based on online threats.  <a href="https://nyti.ms/3Z3AjQZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Drawing Up a 2024 Playbook That Looks a Lot Like 2020’s</h3>
@@ -81,58 +121,22 @@ There seem to be a lot of conflicts going on around the world right now. The US 
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Haley Walks Treacherous Road for G.O.P. Women</h3>
-<sub>By Katie Glueck and Lisa Lerer</sub>
-<p>Nikki Haley’s presidential campaign is a major test of her party’s views on sexism and female leaders. Just don’t call it identity politics.  <a href="https://nyti.ms/3xzNA8s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Many in East Palestine, Skeptical of Official Tests, Seek Out Their Own</h3>
-<sub>By Emily Cochrane</sub>
-<p>The moves reflect residents’ deep-seated mistrust of government screenings of toxic chemicals and fears of long-term effects from the train derailment.  <a href="https://nyti.ms/3ICW4BQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Richard Belzer, Detective Munch on ‘Law &amp; Order: S.V.U.,’ Dies at 78</h3>
-<sub>By Alex Traub</sub>
-<p>A stand-up comic, he called his hard-boiled character on the long-running TV drama “Lenny Bruce with a badge.”  <a href="https://nyti.ms/3I8vQpo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As the Pandemic Swept America, Deaths in Prisons Rose Nearly 50 Percent</h3>
 <sub>By Jennifer Valentino-DeVries and Allie Pitchon</sub>
 <p>‌The first comprehensive data on prison fatalities in the Covid era sheds new light on where and why prisoners were especially vulnerable.  <a href="https://nyti.ms/3Z4yBPd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A High-Maintenance Relationship for 637 Years, but Milan’s Duomo Is Still Adored</h3>
-<sub>By Elisabetta Povoledo</sub>
-<p>The care for Milan’s cathedral has been nonstop since 1386, but despite the constant need for refurbishment, the beloved landmark’s hold on the city is unbreakable.  <a href="https://nyti.ms/3kagSqY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How Public Money Goes to Support a Hasidic Village’s Private Schools</h3>
+<sub>By Jay Root and Jonah Markowitz</sub>
+<p>Created for a New York Hasidic group in 1989, the Kiryas Joel Village Union Free School District has directed millions of dollars to the community’s network of private schools.  <a href="https://nyti.ms/41ajs0L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Timothy J. Heaphy Led the House Jan. 6 Investigation. Here’s What He Learned.</h3>
-<sub>By Luke Broadwater</sub>
-<p>The top staff investigator for the House inquiry on the Capitol attack opened up about his biggest takeaways and why proving intent is the key to a criminal charge against former President Donald J. Trump.  <a href="https://nyti.ms/3xBjvoK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Facebook Parent Plans to Sell ‘Meta Verified’ Accounts</h3>
-<sub>By Stacy Cowley</sub>
-<p>Meta announced that it would begin charging $11.99 a month for a blue badge on Facebook and Instagram.  <a href="https://nyti.ms/3IBseNX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Was This Washington Portrait Really by Charles Peale? Experts Took a Look.</h3>
-<sub>By Ralph Blumenthal</sub>
-<p>The authenticity of the painting, which was seized by the British Navy during the Revolutionary War, had been questioned because of overpainting and gaps in its provenance.  <a href="https://nyti.ms/3lDTWAG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Brainwashing a Generation’: British Schools Combat Andrew Tate’s Views</h3>
-<sub>By Emma Bubola and Isabella Kwai</sub>
-<p>Alarmed by an online personality’s popularity among their students, educators are mobilizing to combat the sexism he promotes.  <a href="https://nyti.ms/3ElCNSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Nurses Are Burned Out. Can Hospitals Change in Time to Keep Them?</h3>
+<sub>By Bradford Pearson</sub>
+<p>The pandemic has pushed already stressed nurses away from a demanding field. Does the job need to be rethought?  <a href="https://nyti.ms/3YJ64PL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
