@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 20, Central Standard Time</p>
 <p>
-Right now things are looking a bit turbulent both domestically and internationally. In the US, President Biden is preparing to visit Kyiv, Ukraine as he seeks to challenge Vladimir Putin’s presence in the region. Meanwhile, Bruce’s Beach in Los Angeles had just sold for $20 million, prompting debate about reparations for their seizure nearly a century ago. 
-
-On the business front, hedge fund billionaire Ray Dalio is retiring with a huge exit package. Ketamine is also becoming quite popular in telehealth for mental health conditions, even though there is still very limited evidence about its safety.
-
-Internationally, an earthquake has just struck southwest Turkey which adds to the devastation from the February quake that killed more than 46,000 people in Turkey and Syria. The Philippines has also been expanding its foreign policy due to worries over China’s aggression.
-
-And finally on a more interesting note, Alec Baldwin has had his manslaughter charges downgraded due to a technicality related to gun laws and Chris Sununu of New Hampshire is eyeing a run for the 2024 Republican presidential nomination. Oh and there&#39;s also some intriguing news about UFOs at the end of the world!</p>
+There&#39;s a lot going on around the world right now. President Biden recently paid an unannounced visit to Kyiv, Ukraine as a sign of resistance against President Vladimir Putin of Russia. Meanwhile, in California, members of a formerly-seized African American family have sold their land for $20 million, leading to more talks of reparations. U.S. Secretary of State Antony Blinken is currently visiting Turkey and promising to provide aid after a devastating earthquake while also attempting to diffuse tensions between the U.S. and Turkey. In Florida, Governor DeSantis visited New York on a tour meant to portray himself as tough on crime as rumors swirl about his possible presidential campaign. In Israel, protests are erupting against two bills that would reduce the power of the Supreme Court. Finally, telehealth technologies like ketamine are becoming increasingly popular treatments for mental health conditions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Biden’s Unannounced Visit to Kyiv, a Preview of an Increasingly Direct Contest With Putin</h3>
 <sub>By David E. Sanger and Anton Troianovski</sub>
 <p>The vastly different world views of President Biden and President Vladimir V. Putin of Russia will become vividly apparent in a rare split-screen moment on Tuesday.  <a href="https://nyti.ms/3Z0vGb3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Hedge Fund Billionaire Extracts Billions More to Retire</h3>
-<sub>By Rob Copeland and Maureen Farrell</sub>
-<p>Bridgewater’s founder, Ray Dalio, retired last year after months of negotiations that guaranteed him a gigantic exit package.  <a href="https://nyti.ms/3KlgNez"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,16 +74,22 @@ And finally on a more interesting note, Alec Baldwin has had his manslaughter ch
 <p>The Bruce family won the return of oceanfront land near Los Angeles seized nearly a century ago. Their decision to sell for $20 million set off a different debate about reparations.  <a href="https://nyti.ms/3IjT38m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>On Blinken Visit, Quake Relief Soothes U.S.-Turkey Tensions</h3>
+<sub>By Michael Crowley</sub>
+<p>Secretary of State Antony J. Blinken pledged to keep helping Turkey recover from a devastating earthquake, but there were few hints of progress on disputes over F-16 sales and NATO.  <a href="https://nyti.ms/3Sg7WNp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘Rust’ Prosecutors Downgrade Alec Baldwin’s Manslaughter Charges</h3>
+<sub>By Julia Jacobs</sub>
+<p>The actor’s lawyers had argued that a firearm law included by the prosecutors was not in effect at the time of the fatal shooting. It would have carried a mandatory five-year sentence.  <a href="https://nyti.ms/3XMr3Qm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Fraught New Frontier in Telehealth: Ketamine</h3>
 <sub>By Chris Hamby</sub>
 <p>With loosened rules around remote prescriptions, a psychedelic-like drug has become a popular treatment for mental health conditions. But a boom in at-home use has outpaced evidence of safety.  <a href="https://nyti.ms/3Kmi59s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Another Earthquake Strikes Southwest Turkey, Stirring Panic</h3>
-<sub>By Cora Engelbrecht and Ben Hubbard</sub>
-<p>The 6.3-magnitude quake struck near a town in hard-hit Hatay Province, one of the areas most devastated by the Feb. 6 quake that killed more than 46,000 people across Turkey and northwestern Syria.  <a href="https://nyti.ms/41cvEOq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,16 +104,22 @@ And finally on a more interesting note, Alec Baldwin has had his manslaughter ch
 <p>As quickly as the national craziness over downed objects began, the United States called off the search, leaving answers encased in Arctic ice and under the whitecaps of Lake Huron.  <a href="https://nyti.ms/3YYmfZ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Hedge Fund Billionaire Extracts Billions More to Retire</h3>
+<sub>By Rob Copeland and Maureen Farrell</sub>
+<p>Bridgewater’s founder, Ray Dalio, retired last year after months of negotiations that guaranteed him a gigantic exit package.  <a href="https://nyti.ms/3KlgNez"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chris Sununu Eyes the G.O.P.’s ‘Normal’ Lane in 2024. Does It Exist?</h3>
 <sub>By Matt Flegenheimer and Sophie Park</sub>
 <p>The New Hampshire governor’s flirtation with a presidential run is a test of abortion politics, Republican media strategy and the durability of the MAGA mentality. “I’m conservative,” he says. “I’m just not an extremist.”  <a href="https://nyti.ms/3lUi9CQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>How Biden Thinks</h3>
-<sub>By David Leonhardt</sub>
-<p>On Presidents’ Day, we go inside the West Wing to explain a crucial way that Biden is different from many Democrats.  <a href="https://nyti.ms/3IbTb9L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>DeSantis Visits New York on Tour Meant to Show He Is Tough on Crime</h3>
+<sub>By Emma G. Fitzsimmons</sub>
+<p>Speaking on Staten Island, the Florida governor appeared to position himself as the law-and-order candidate in a presidential campaign he has not announced.  <a href="https://nyti.ms/3EiZF5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,16 +128,10 @@ And finally on a more interesting note, Alec Baldwin has had his manslaughter ch
 <p>A plan by Republican lawmakers to set up a new court system served by a state-run police force for parts of mainly Black Jackson has become a flash point for racial and political divisions.  <a href="https://nyti.ms/3SfCX3O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Rust’ Prosecutors Downgrade Alec Baldwin’s Manslaughter Charges</h3>
-<sub>By Julia Jacobs</sub>
-<p>The actor’s lawyers had argued that a firearm law included by the prosecutors was not in effect at the time of the fatal shooting. It would have carried a mandatory five-year sentence.  <a href="https://nyti.ms/3XMr3Qm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Public Money Goes to Support a Hasidic Village’s Private Schools</h3>
-<sub>By Jay Root and Jonah Markowitz</sub>
-<p>Created for a New York Hasidic group in 1989, the Kiryas Joel Village Union Free School District has directed millions of dollars to the community’s network of private schools.  <a href="https://nyti.ms/41ajs0L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Protesters Rally in Jerusalem as Israel’s Leaders Look to Rein in Judges</h3>
+<sub>By Isabel Kershner</sub>
+<p>Two contentious bills were scheduled to come up for an initial vote in the country’s Parliament on Monday, including one that would reduce the power of the Supreme Court.  <a href="https://nyti.ms/3KlYd6d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
