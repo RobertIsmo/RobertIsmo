@@ -60,30 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 20, Central Standard Time</p>
 <p>
-Right now the world is experiencing a lot of global tensions. In Ukraine, there is an ongoing conflict with Russia and Biden recently visited Kyiv to show support. There are also warnings of a growing rift between the US and China due to possible arms aid for Russia. Back at home, wealthy hedge fund billionaire Ray Dalio extracted billions from his firm&#39;s profit before retiring. In response to Chinese aggression, Philippines president Ferdinand Marcos Jr.has adopted foreign policy closer to US interests. There is also a growing trend in telehealth involving the usage of psychedelic-like drugs with little known safety assurance. At the same time, the federal government announced they will end their investigation into strange unidentified flying objects without finding a concrete answer. But one thing that has been made clear is the disproportionate effect of Covid-19 in prison populations with death rates rising nearly 50%. Lastly, in New York, public money is being used to subsidize private religious school education for some residents.</p>
+Right now things are looking a bit turbulent both domestically and internationally. In the US, President Biden is preparing to visit Kyiv, Ukraine as he seeks to challenge Vladimir Putin’s presence in the region. Meanwhile, Bruce’s Beach in Los Angeles had just sold for $20 million, prompting debate about reparations for their seizure nearly a century ago. 
+
+On the business front, hedge fund billionaire Ray Dalio is retiring with a huge exit package. Ketamine is also becoming quite popular in telehealth for mental health conditions, even though there is still very limited evidence about its safety.
+
+Internationally, an earthquake has just struck southwest Turkey which adds to the devastation from the February quake that killed more than 46,000 people in Turkey and Syria. The Philippines has also been expanding its foreign policy due to worries over China’s aggression.
+
+And finally on a more interesting note, Alec Baldwin has had his manslaughter charges downgraded due to a technicality related to gun laws and Chris Sununu of New Hampshire is eyeing a run for the 2024 Republican presidential nomination. Oh and there&#39;s also some intriguing news about UFOs at the end of the world!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Visits Kyiv, Ukraine’s Embattled Capital, as Air-Raid Siren Sounds</h3>
-<sub>By Marc Santora, Peter Baker and Michael D. Shear</sub>
-<p>President Biden took a nearly 10-hour train ride from the border of Poland to show his administration’s “unwavering support” nearly a year into Russia’s invasion.  <a href="https://nyti.ms/3XPhBeN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Biden’s Unannounced Visit to Kyiv, a Preview of an Increasingly Direct Contest With Putin</h3>
+<sub>By David E. Sanger and Anton Troianovski</sub>
+<p>The vastly different world views of President Biden and President Vladimir V. Putin of Russia will become vividly apparent in a rare split-screen moment on Tuesday.  <a href="https://nyti.ms/3Z0vGb3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Warnings to China on Arms Aid for Russia’s War Portend Global Rift</h3>
-<sub>By Edward Wong</sub>
-<p>Secretary of State Antony J. Blinken says Washington has indications that Beijing is strongly considering giving military aid to Moscow for the war in Ukraine.  <a href="https://nyti.ms/3k3RsLP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>One Year Into War, Putin Is Crafting the Russia He Craves</h3>
-<sub>By Anton Troianovski, Valerie Hopkins and Nanna Heitmann</sub>
-<p>In Ukraine, President Vladimir V. Putin’s invasion has met setback after setback. But its effect at home has been very different.  <a href="https://nyti.ms/3Z4IDzR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Hedge Fund Billionaire Extracts Billions More to Retire</h3>
 <sub>By Rob Copeland and Maureen Farrell</sub>
 <p>Bridgewater’s founder, Ray Dalio, retired last year after months of negotiations that guaranteed him a gigantic exit package.  <a href="https://nyti.ms/3KlgNez"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Bruce’s Beach Was Hailed as a Reparations Model. Then the Family Sold It.</h3>
+<sub>By Clyde McGrady</sub>
+<p>The Bruce family won the return of oceanfront land near Los Angeles seized nearly a century ago. Their decision to sell for $20 million set off a different debate about reparations.  <a href="https://nyti.ms/3IjT38m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Fraught New Frontier in Telehealth: Ketamine</h3>
+<sub>By Chris Hamby</sub>
+<p>With loosened rules around remote prescriptions, a psychedelic-like drug has become a popular treatment for mental health conditions. But a boom in at-home use has outpaced evidence of safety.  <a href="https://nyti.ms/3Kmi59s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Another Earthquake Strikes Southwest Turkey, Stirring Panic</h3>
+<sub>By Cora Engelbrecht and Ben Hubbard</sub>
+<p>The 6.3-magnitude quake struck near a town in hard-hit Hatay Province, one of the areas most devastated by the Feb. 6 quake that killed more than 46,000 people across Turkey and northwestern Syria.  <a href="https://nyti.ms/41cvEOq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -93,40 +105,34 @@ Right now the world is experiencing a lot of global tensions. In Ukraine, there 
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Fraught New Frontier in Telehealth: Ketamine</h3>
-<sub>By Chris Hamby</sub>
-<p>With loosened rules around remote prescriptions, a psychedelic-like drug has become a popular treatment for mental health conditions. But a boom in at-home use has outpaced evidence of safety.  <a href="https://nyti.ms/3Kmi59s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the Hunt for U.F.O.s at the End of the World</h3>
 <sub>By Katie Rogers</sub>
 <p>As quickly as the national craziness over downed objects began, the United States called off the search, leaving answers encased in Arctic ice and under the whitecaps of Lake Huron.  <a href="https://nyti.ms/3YYmfZ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Many in East Palestine, Skeptical of Official Tests, Seek Out Their Own</h3>
-<sub>By Emily Cochrane</sub>
-<p>The moves reflect residents’ deep-seated mistrust of government screenings of toxic chemicals and fears of long-term effects from the train derailment.  <a href="https://nyti.ms/3ICW4BQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<h3>Chris Sununu Eyes the G.O.P.’s ‘Normal’ Lane in 2024. Does It Exist?</h3>
+<sub>By Matt Flegenheimer and Sophie Park</sub>
+<p>The New Hampshire governor’s flirtation with a presidential run is a test of abortion politics, Republican media strategy and the durability of the MAGA mentality. “I’m conservative,” he says. “I’m just not an extremist.”  <a href="https://nyti.ms/3lUi9CQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Supreme Court to Hear Case That Targets a Legal Shield of Tech Giants</h3>
-<sub>By David McCabe</sub>
-<p>The justices are set to hear a case challenging Section 230, a law that protects Google, Facebook and others from lawsuits over what their users post online.  <a href="https://nyti.ms/3YQwXRW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>How Biden Thinks</h3>
+<sub>By David Leonhardt</sub>
+<p>On Presidents’ Day, we go inside the West Wing to explain a crucial way that Biden is different from many Democrats.  <a href="https://nyti.ms/3IbTb9L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When Do Creepy Facebook Messages Cross a Constitutional Line?</h3>
-<sub>By Adam Liptak</sub>
-<p>The Supreme Court will hear arguments in April on a question it once ducked: whether intent counts in criminal cases based on online threats.  <a href="https://nyti.ms/3Z3AjQZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Mississippi’s Capital, Old Racial Divides Take New Forms</h3>
+<sub>By Michael Wines</sub>
+<p>A plan by Republican lawmakers to set up a new court system served by a state-run police force for parts of mainly Black Jackson has become a flash point for racial and political divisions.  <a href="https://nyti.ms/3SfCX3O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As the Pandemic Swept America, Deaths in Prisons Rose Nearly 50 Percent</h3>
-<sub>By Jennifer Valentino-DeVries and Allie Pitchon</sub>
-<p>‌The first comprehensive data on prison fatalities in the Covid era sheds new light on where and why prisoners were especially vulnerable.  <a href="https://nyti.ms/3Z4yBPd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘Rust’ Prosecutors Downgrade Alec Baldwin’s Manslaughter Charges</h3>
+<sub>By Julia Jacobs</sub>
+<p>The actor’s lawyers had argued that a firearm law included by the prosecutors was not in effect at the time of the fatal shooting. It would have carried a mandatory five-year sentence.  <a href="https://nyti.ms/3XMr3Qm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>How Public Money Goes to Support a Hasidic Village’s Private Schools</h3>
