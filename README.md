@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, February 19, Central Standard Time</p>
+<p>It is Monday, February 20, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. The U.S. has issued warnings to China regarding the supply of military aid to Russia for its war in Ukraine, and the implications of Chinese involvement could lead to a global rift. In Russia, President Vladimir Putin is on his fourth year in power and has been crafting the country he desires despite setbacks. Meanwhile in the U.S., President Biden&#39;s 2024 campaign agenda is shaping up similarly to his 2020 agenda, involving far-reaching contests among seasoned leaders and conspiracies-minded oppositions. It also comes with focus on sexism, as illustrated by Nikki Haley&#39;s bid for presidency and potential backlash from her party. East Palestine has their own issues to worry about following a train derailment, with many skeptical of government screenings and testing of toxic chemicals. Lastly, we have tributes for Richard Belzer, who played Detective Munch on Law &amp; Order: SVU for almost 20 years before his death at 78, as well as Timothy J. Heaphy who investigated former President Donald Trump&#39;s Capitol attack. Facebook&#39;s parent company is also jumping onto the bandwagon with a new &quot;Meta Verified&quot; accounts feature that charges $11.99 per month for blue badges on various platforms, with questions over an old Washington portrait authenticity also making headlines.</p>
+There seem to be a lot of conflicts going on around the world right now. The US is warning China over giving military aid to Russia for the war in Ukraine and President Vladimir Putin is dealing with setbacks for his invasion in that country. Back in the US, President Biden is getting ready for the 2024 election by framing it as a contest between himself and a conspiracy-minded opposition. Nikki Haley is testing the views on sexism in her party with a presidential campaign, while people from East Palestine are testing their own toxic chemical exposure from a train derailment rather than trusting what the government offers. Additionally, there was recently a Parisian cathedral that&#39;s been around for more than 600 years and there several people out there such as Andrew Tate who are trying to “brainwash” generations by promoting sexist views online. Lastly, Facebook has started charging users for an account status while experts are trying to verify whether an American painting taken by British Navy during the Revolutionary War is authentic or not.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.S. Warnings to China on Arms Aid for Russia’s War Portend Global Rift</h3>
@@ -95,13 +95,13 @@ There is a lot happening in the world right now. The U.S. has issued warnings to
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Richard Belzer, Detective Munch on ‘Law &amp; Order: S.V.U.,’ Dies at 78</h3>
 <sub>By Alex Traub</sub>
-<p>A stand-up comic, he called his hard-boiled character on the long-running TV drama “Lenny Bruce with a badge.”  <a href="https://nyti.ms/3EhdQYY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A stand-up comic, he called his hard-boiled character on the long-running TV drama “Lenny Bruce with a badge.”  <a href="https://nyti.ms/3I8vQpo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Police Radio Reveals Terror and Confusion in Hunt for Michigan State Gunman</h3>
-<sub>By Robin Stein, Natalie Reneau, Ishaan Jhaveri and Dmitriy Khavin</sub>
-<p>Law enforcement faced a deluge of 911 calls containing false alarms, adding chaos to the already difficult task of securing a campus with 400 buildings.  <a href="https://nyti.ms/3YTtBNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As the Pandemic Swept America, Deaths in Prisons Rose Nearly 50 Percent</h3>
+<sub>By Jennifer Valentino-DeVries and Allie Pitchon</sub>
+<p>‌The first comprehensive data on prison fatalities in the Covid era sheds new light on where and why prisoners were especially vulnerable.  <a href="https://nyti.ms/3Z4yBPd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
