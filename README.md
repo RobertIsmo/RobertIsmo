@@ -60,26 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 19, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world right now. In Russia, President Vladimir V. Putin is trying to craft a more powerful and influential Russia, despite setbacks in his invasion of Ukraine. Meanwhile, the United States believes that China might supply weapons to Russia, which could further damage already strained relations between the U.S. and China since the spy balloon incident. Back at home here in the U.S., Nikki Haley is facing a major test with her presidential campaign to see whether or not the Republican party is ready for female leadership - while in Michigan, police radio illustrates the terror and confusion felt by law enforcement during their hunt for a gunman on a college campus. 
-
-On a more historical note, Milan&#39;s cathedral - one of Italy&#39;s beloved landmarks - is celebrating its 637th anniversary of care and refurbishment; but some tension arose this week when U.S. Secretary of State Blinken had a tense meeting with Chinese officials about the now-infamous spy balloon. We&#39;ve also been taking some time this week to reflect on two historical figures: George Washington, as we celebrated Presidents&#39; Day; and former President Jimmy Carter, who recently opted for hospice care at 98 years old.And finally, British schools are mobilizing to combat the sexism of an online influencer - looking to prevent any further &quot;brainwashing&quot; of young people!</p>
+There is a lot happening in the world right now. The U.S. has issued warnings to China regarding the supply of military aid to Russia for its war in Ukraine, and the implications of Chinese involvement could lead to a global rift. In Russia, President Vladimir Putin is on his fourth year in power and has been crafting the country he desires despite setbacks. Meanwhile in the U.S., President Biden&#39;s 2024 campaign agenda is shaping up similarly to his 2020 agenda, involving far-reaching contests among seasoned leaders and conspiracies-minded oppositions. It also comes with focus on sexism, as illustrated by Nikki Haley&#39;s bid for presidency and potential backlash from her party. East Palestine has their own issues to worry about following a train derailment, with many skeptical of government screenings and testing of toxic chemicals. Lastly, we have tributes for Richard Belzer, who played Detective Munch on Law &amp; Order: SVU for almost 20 years before his death at 78, as well as Timothy J. Heaphy who investigated former President Donald Trump&#39;s Capitol attack. Facebook&#39;s parent company is also jumping onto the bandwagon with a new &quot;Meta Verified&quot; accounts feature that charges $11.99 per month for blue badges on various platforms, with questions over an old Washington portrait authenticity also making headlines.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Warnings to China on Arms Aid for Russia’s War Portend Global Rift</h3>
+<sub>By Edward Wong</sub>
+<p>Secretary of State Antony J. Blinken says Washington has indications that Beijing is strongly considering giving military aid to Moscow for the war in Ukraine.  <a href="https://nyti.ms/3k3RsLP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>One Year Into War, Putin Is Crafting the Russia He Craves</h3>
 <sub>By Anton Troianovski, Valerie Hopkins and Nanna Heitmann</sub>
 <p>In Ukraine, President Vladimir V. Putin’s invasion has met setback after setback. But its effect at home has been very different.  <a href="https://nyti.ms/3Z4IDzR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken Says U.S. Believes China Is Considering Giving Russia Weapons</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>The secretary of state said that if Beijing supplied Moscow with “lethal aid,” it would further damage a U.S.-China relationship already troubled since the spy balloon incident.  <a href="https://nyti.ms/3ScPFAn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Drawing Up a 2024 Playbook That Looks a Lot Like 2020’s</h3>
+<sub>By Peter Baker, Reid J. Epstein and Lisa Lerer</sub>
+<p>President Biden’s strategy is to frame the race as a contest between a seasoned leader and a conspiracy-minded opposition, while batting away concerns about his age.  <a href="https://nyti.ms/3Z2Un61"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Haley Walks Treacherous Road for G.O.P. Women</h3>
 <sub>By Katie Glueck and Lisa Lerer</sub>
 <p>Nikki Haley’s presidential campaign is a major test of her party’s views on sexism and female leaders. Just don’t call it identity politics.  <a href="https://nyti.ms/3xzNA8s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Many in East Palestine, Skeptical of Official Tests, Seek Out Their Own</h3>
+<sub>By Emily Cochrane</sub>
+<p>The moves reflect residents’ deep-seated mistrust of government screenings of toxic chemicals and fears of long-term effects from the train derailment.  <a href="https://nyti.ms/3ICW4BQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Richard Belzer, Detective Munch on ‘Law &amp; Order: S.V.U.,’ Dies at 78</h3>
+<sub>By Alex Traub</sub>
+<p>A stand-up comic, he called his hard-boiled character on the long-running TV drama “Lenny Bruce with a badge.”  <a href="https://nyti.ms/3EhdQYY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -94,22 +110,16 @@ On a more historical note, Milan&#39;s cathedral - one of Italy&#39;s beloved la
 <p>The care for Milan’s cathedral has been nonstop since 1386, but despite the constant need for refurbishment, the beloved landmark’s hold on the city is unbreakable.  <a href="https://nyti.ms/3kagSqY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken Has Tense Meeting With Chinese Official Amid Spy Balloon Furor</h3>
-<sub>By Michael Crowley and David E. Sanger</sub>
-<p>The meeting resumed diplomatic contact between Washington and Beijing that had been frozen since the U.S. shot down a Chinese spy balloon.  <a href="https://nyti.ms/3k74g3N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Beauty in the Aftermath</h3>
-<sub>By Will Heinrich</sub>
-<p>Documenting the recovery of a Chinese spy balloon off South Carolina, a Navy photographer produced some spectacular images with surprising art-historical undercurrents.  <a href="https://nyti.ms/3XPwfTG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Timothy J. Heaphy Led the House Jan. 6 Investigation. Here’s What He Learned.</h3>
 <sub>By Luke Broadwater</sub>
 <p>The top staff investigator for the House inquiry on the Capitol attack opened up about his biggest takeaways and why proving intent is the key to a criminal charge against former President Donald J. Trump.  <a href="https://nyti.ms/3xBjvoK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Facebook Parent Plans to Sell ‘Meta Verified’ Accounts</h3>
+<sub>By Stacy Cowley</sub>
+<p>Meta announced that it would begin charging $11.99 a month for a blue badge on Facebook and Instagram.  <a href="https://nyti.ms/3IBseNX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -117,18 +127,6 @@ On a more historical note, Milan&#39;s cathedral - one of Italy&#39;s beloved la
 <sub>By Ralph Blumenthal</sub>
 <p>The authenticity of the painting, which was seized by the British Navy during the Revolutionary War, had been questioned because of overpainting and gaps in its provenance.  <a href="https://nyti.ms/3lDTWAG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How One President’s Day Became Presidents’ Day</h3>
-<sub>By Remy Tumin</sub>
-<p>The United States began celebrating its first president when he was still a general. Nearly 300 years since George Washington’s birth, the holiday has morphed into a celebration of the presidency.  <a href="https://nyti.ms/3EcxftU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jimmy Carter, 98, Opts for Hospice Care</h3>
-<sub>By Peter Baker</sub>
-<p>The 39th president has decided to forgo further medical treatment and will “spend his remaining time at home with his family,” the Carter Center announced.  <a href="https://nyti.ms/3ICjE1L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Brainwashing a Generation’: British Schools Combat Andrew Tate’s Views</h3>
