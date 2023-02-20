@@ -60,23 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 20, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on around the world. In Ukraine, President Biden took a long train ride to show support for the country, which has been invaded by Russia for a year now. Sadly, two people who got married in Ukraine and then served in the war effort died together in a trench. 
-
-In finance, a hedge fund billionaire secured a big exit package when he retired last year. Meanwhile, the U.S. is trying to study unexplained flying objects, while also looking into whether they can legally regulate what people post online. Additionally, there is concern over people using a psychedelic-like drug at home to treat mental health conditions without enough evidence of its safety. 
-
-Locally, people in East Palestine are skeptical of official tests regarding toxic chemicals since a train derailment. There have also been reports of public funds being used to support private schools in a Hasidic village in NY. And the pandemic has caused increased burnout among healthcare workers leading them to rethink the job incentives for nurses.</p>
+Right now the world is experiencing a lot of global tensions. In Ukraine, there is an ongoing conflict with Russia and Biden recently visited Kyiv to show support. There are also warnings of a growing rift between the US and China due to possible arms aid for Russia. Back at home, wealthy hedge fund billionaire Ray Dalio extracted billions from his firm&#39;s profit before retiring. In response to Chinese aggression, Philippines president Ferdinand Marcos Jr.has adopted foreign policy closer to US interests. There is also a growing trend in telehealth involving the usage of psychedelic-like drugs with little known safety assurance. At the same time, the federal government announced they will end their investigation into strange unidentified flying objects without finding a concrete answer. But one thing that has been made clear is the disproportionate effect of Covid-19 in prison populations with death rates rising nearly 50%. Lastly, in New York, public money is being used to subsidize private religious school education for some residents.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Visits Kyiv, Ukraine’s Embattled Capital, as Air-Raid Siren Sounds</h3>
 <sub>By Marc Santora, Peter Baker and Michael D. Shear</sub>
-<p>President Biden took a nearly 10-hour train ride from the border of Poland to show his administration’s “unwavering support” a year into Russia’s invasion of Ukraine.  <a href="https://nyti.ms/3XPhBeN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Biden took a nearly 10-hour train ride from the border of Poland to show his administration’s “unwavering support” nearly a year into Russia’s invasion.  <a href="https://nyti.ms/3XPhBeN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Were Married. They Shared a Trench. They Died in It Together.</h3>
-<sub>By Jeffrey Gettleman and Ivor Prickett</sub>
-<p>Taras and Olha Melster signed up to help the war effort. Like many other urban professionals in Ukraine, they never expected to be sent to the front line.  <a href="https://nyti.ms/3Z1dwp1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<h3>U.S. Warnings to China on Arms Aid for Russia’s War Portend Global Rift</h3>
+<sub>By Edward Wong</sub>
+<p>Secretary of State Antony J. Blinken says Washington has indications that Beijing is strongly considering giving military aid to Moscow for the war in Ukraine.  <a href="https://nyti.ms/3k3RsLP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>One Year Into War, Putin Is Crafting the Russia He Craves</h3>
+<sub>By Anton Troianovski, Valerie Hopkins and Nanna Heitmann</sub>
+<p>In Ukraine, President Vladimir V. Putin’s invasion has met setback after setback. But its effect at home has been very different.  <a href="https://nyti.ms/3Z4IDzR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Hedge Fund Billionaire Extracts Billions More to Retire</h3>
@@ -84,16 +86,22 @@ Locally, people in East Palestine are skeptical of official tests regarding toxi
 <p>Bridgewater’s founder, Ray Dalio, retired last year after months of negotiations that guaranteed him a gigantic exit package.  <a href="https://nyti.ms/3KlgNez"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Hunt for U.F.O.s at the End of the World</h3>
-<sub>By Katie Rogers</sub>
-<p>As quickly as the national craziness over downed objects began, the United States called off the search, leaving answers encased in Arctic ice and under the whitecaps of Lake Huron.  <a href="https://nyti.ms/3YYmfZ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With an Eye on China, Philippines Moves Closer to U.S. Interests</h3>
+<sub>By Sui-Lee Wee and Camille Elemia</sub>
+<p>Driven by worry about China’s aggression, President Ferdinand Marcos Jr. has adopted the most muscular foreign policy approach that the Philippines has seen in close to a decade.  <a href="https://nyti.ms/3xzLHZ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Fraught New Frontier in Telehealth: Ketamine</h3>
 <sub>By Chris Hamby</sub>
 <p>With loosened rules around remote prescriptions, a psychedelic-like drug has become a popular treatment for mental health conditions. But a boom in at-home use has outpaced evidence of safety.  <a href="https://nyti.ms/3Kmi59s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Hunt for U.F.O.s at the End of the World</h3>
+<sub>By Katie Rogers</sub>
+<p>As quickly as the national craziness over downed objects began, the United States called off the search, leaving answers encased in Arctic ice and under the whitecaps of Lake Huron.  <a href="https://nyti.ms/3YYmfZ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -115,12 +123,6 @@ Locally, people in East Palestine are skeptical of official tests regarding toxi
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Drawing Up a 2024 Playbook That Looks a Lot Like 2020’s</h3>
-<sub>By Peter Baker, Reid J. Epstein and Lisa Lerer</sub>
-<p>President Biden’s strategy is to frame the race as a contest between a seasoned leader and a conspiracy-minded opposition, while batting away concerns about his age.  <a href="https://nyti.ms/3Z2Un61"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As the Pandemic Swept America, Deaths in Prisons Rose Nearly 50 Percent</h3>
 <sub>By Jennifer Valentino-DeVries and Allie Pitchon</sub>
 <p>‌The first comprehensive data on prison fatalities in the Covid era sheds new light on where and why prisoners were especially vulnerable.  <a href="https://nyti.ms/3Z4yBPd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -130,12 +132,6 @@ Locally, people in East Palestine are skeptical of official tests regarding toxi
 <h3>How Public Money Goes to Support a Hasidic Village’s Private Schools</h3>
 <sub>By Jay Root and Jonah Markowitz</sub>
 <p>Created for a New York Hasidic group in 1989, the Kiryas Joel Village Union Free School District has directed millions of dollars to the community’s network of private schools.  <a href="https://nyti.ms/41ajs0L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Nurses Are Burned Out. Can Hospitals Change in Time to Keep Them?</h3>
-<sub>By Bradford Pearson</sub>
-<p>The pandemic has pushed already stressed nurses away from a demanding field. Does the job need to be rethought?  <a href="https://nyti.ms/3YJ64PL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
