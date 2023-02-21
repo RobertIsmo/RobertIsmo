@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 20, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the U.S., President Biden paid a surprise visit to Kyiv in a move to challenge Vladimir Putin&#39;s Russia. Meanwhile, a prominent family sold beachfront land that had been previously seized nearly 100 years ago as part of reparations, gaining attention from many. Turkey has experienced deadly earthquakes recently, but Antony Blinken is helping to provide relief during his visit. In Mississippi&#39;s capital, racial divides are being challenged through suggestion of an unprecedented court system and state-run police force. Entertainment-wise, YouTube star Emma Chamberlain is transitioning away from the platform and into more creative works while Florida Governor DeSantis traveled to three states promoting a tougher stance on crime with an eye towards a future presidential run.</p>
+There is a lot happening around the world right now. President Biden recently made an unannounced trip to Kyiv, Ukraine in order to demonstrate American resolve against Russian forces who invaded there a year ago. Secretary of State Antony J. Blinken also visited affected areas in Turkey following a deadly earthquake, and pledged to help with the relief efforts. Meanwhile, Bruce&#39;s Beach in Los Angeles was repaid to its rightful family who then sold it again, spurring a debate about reparations. In the US, telehealth is becoming more popular, and features drugs like Ketamine for mental health conditions. There are also political developments happening both at home and abroad; Governor DeSantis took tours of other states in order to show he is tough on crime, while Governor Sununu of New Hampshire is considering entering the 2024 rankings with a candidacy emphasizing conservatism without extremism.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s Surreal and Secretive Journey Into a War Zone</h3>
+<sub>By Peter Baker and Michael D. Shear</sub>
+<p>President Biden traveled covertly to the besieged Ukrainian capital of Kyiv, hoping to demonstrate American resolve to help defeat the Russian forces that invaded a year ago this week.  <a href="https://nyti.ms/3EnB9QQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Biden’s Unannounced Visit to Kyiv, a Preview of an Increasingly Direct Contest With Putin</h3>
 <sub>By David E. Sanger and Anton Troianovski</sub>
 <p>The vastly different world views of President Biden and President Vladimir V. Putin of Russia will become vividly apparent in a rare split-screen moment on Tuesday.  <a href="https://nyti.ms/3Z0vGb3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Biden’s Kyiv Visit Lifts Spirits of War-Weary Ukrainians</h3>
+<sub>By Marc Santora</sub>
+<p>The American president was the most prominent Western leader to visit Ukraine since Russia invaded, and the capital was swept up in the excitement.  <a href="https://nyti.ms/3EmDWtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,12 +122,6 @@ There is a lot going on in the world right now. In the U.S., President Biden pai
 <p>Bridgewater’s founder, Ray Dalio, retired last year after months of negotiations that guaranteed him a gigantic exit package.  <a href="https://nyti.ms/3KlgNez"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chris Sununu Eyes the G.O.P.’s ‘Normal’ Lane in 2024. Does It Exist?</h3>
-<sub>By Matt Flegenheimer and Sophie Park</sub>
-<p>The New Hampshire governor’s flirtation with a presidential run is a test of abortion politics, Republican media strategy and the durability of the MAGA mentality. “I’m conservative,” he says. “I’m just not an extremist.”  <a href="https://nyti.ms/3lUi9CQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>DeSantis Visits 3 States on Tour Meant to Show He Is Tough on Crime</h3>
 <sub>By Jonathan Weisman and Emma G. Fitzsimmons</sub>
@@ -123,15 +129,9 @@ There is a lot going on in the world right now. In the U.S., President Biden pai
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Mississippi’s Capital, Old Racial Divides Take New Forms</h3>
-<sub>By Michael Wines</sub>
-<p>A plan by Republican lawmakers to set up a new court system served by a state-run police force for parts of mainly Black Jackson has become a flash point for racial and political divisions.  <a href="https://nyti.ms/3SfCX3O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>YouTube Made Emma Chamberlain a Star. Now She’s Leaving it Behind.</h3>
-<sub>By David Marchese</sub>
-<p>“I’m more interested in things being more creative rather than just pure entertainment — things that feel more beautiful.”  <a href="https://nyti.ms/3Z2JZez"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Chris Sununu Eyes the G.O.P.’s ‘Normal’ Lane in 2024. Does It Exist?</h3>
+<sub>By Matt Flegenheimer and Sophie Park</sub>
+<p>The New Hampshire governor’s flirtation with a presidential run is a test of abortion politics, Republican media strategy and the durability of the MAGA mentality. “I’m conservative,” he says. “I’m just not an extremist.”  <a href="https://nyti.ms/3lUi9CQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
