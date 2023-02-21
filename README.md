@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 21, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. Russian President Vladimir Putin is ending an agreement called New START that limits nuclear arms control between Russia and the United States. There has been shelling at a Kherson bus station in Ukraine that killed 6 people, and Biden recently visited Ukraine to show American support for their fight against Russian forces. Black Mayors of some of the largest cities in the US have been dealing with violent crime, homelessness and other similar challenges. In Saudi Arabia, citizens are being severely punished for criticizing the government, some with sentences ranging from 15 to 45 years. In Vermont, a school and artist are fighting over murals depicting slavery. Emergency workers in Turkey have been working around the clock to find survivors after a devastating earthquake that has complicated their work. The winter season has been unusually warm in New York City this year, while millions across the US brace for a coast-to-coast winter storm. The rising death toll due to opioids has become the &quot;new normal&quot; at the NYC medical examiner&#39;s office. Lastly, there was a Miami Grand Prix which provided an exciting glimpse of pure speed for diehards and newbies alike.</p>
+There are a lot of developments happening in the world right now. Putin has signaled an end to formal arms control with the US, and Russian shelling has killed at least six people in Kherson. Meanwhile, China is trying to mend relations with Europe but is being blocked by Russia. 
+
+In the US, a school and artist are fighting over murals of slavery in Vermont, as well as a coast-to-coast winter storm that&#39;s causing travel delays and power outages. In New York, this winter has been abnormally warm, so bad for ski slopes but good for sunbathers. Also in the US, there&#39;s been a surge in opioid deaths and medical practitioners are struggling to keep up with it. 
+
+On Wall Street, Ian Fishback was undone by his own mind and the health care system failed him miserably. There&#39;s a new trend of &quot;effective altruism&quot; that has led to a little-known Wall Street firm getting more recognition.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s Move on Nuclear Treaty May Signal End to Formal Arms Control</h3>
@@ -74,22 +78,10 @@ There is a lot going on in the world right now. Russian President Vladimir Putin
 <p>  <a href="https://nyti.ms/3Z2LUQA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Surreal and Secretive Journey Into a War Zone</h3>
-<sub>By Peter Baker and Michael D. Shear</sub>
-<p>President Biden traveled covertly to the besieged Ukrainian capital of Kyiv, hoping to demonstrate American resolve to help defeat the Russian forces that invaded a year ago this week.  <a href="https://nyti.ms/3EnB9QQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Black Mayors of 4 Biggest U.S. Cities Draw Strength From One Another</h3>
-<sub>By Emma G. Fitzsimmons and Jeffery C. Mays</sub>
-<p>The mayors of New York City, Los Angeles, Chicago and Houston have banded together as they confront violent crime, homelessness and other similar challenges.  <a href="https://nyti.ms/3Kophla"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Equality of Injustice for All’: Saudi Arabia Expands Crackdown on Dissent</h3>
-<sub>By Vivian Nereim</sub>
-<p>The kingdom’s courts are meting out harsher punishments than ever to citizens who criticize the government, with prosecutions built on Twitter posts ending in prison sentences of 15 to 45 years.  <a href="https://nyti.ms/3KxcxJ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China’s Courtship of European Powers Hits a Russian Wall</h3>
+<sub>By David Pierson</sub>
+<p>Beijing, in urgent need of reviving its economy, wants to mend ties with Europe but is struggling to create distance between itself and Moscow.  <a href="https://nyti.ms/3Z5tkqK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,10 +90,16 @@ There is a lot going on in the world right now. Russian President Vladimir Putin
 <p>Created to depict the brutality of enslavement, the works are seen by some as offensive. The school wants them permanently covered. The artist says they are historically important.  <a href="https://nyti.ms/3IiWwDX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Remembering the Lives Saved Drives Rescuers in Turkey to Push On</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>In the third week of a grueling effort, emergency workers battle exhaustion as the hope of finding more earthquake survivors dwindles. A powerful new quake has complicated their task.  <a href="https://nyti.ms/3IkmrLA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Parched California Misses a Chance to Store More Rain Underground</h3>
+<sub>By Raymond Zhong</sub>
+<p>Torrential rains could have helped to replenish depleted aquifers, but some say state bureaucracy, designed to distribute water fairly, has stood in the way.  <a href="https://nyti.ms/3ErQRKP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Millions Across U.S. Brace for Coast-to-Coast Winter Storm</h3>
+<sub>By Derrick Bryson Taylor and Judson Jones</sub>
+<p>The storm is expected to interrupt travel plans across the country and possibly bring down power lines, forecasters said.  <a href="https://nyti.ms/3IQ3Etb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -110,10 +108,22 @@ There is a lot going on in the world right now. Russian President Vladimir Putin
 <p>A wildly erratic season has been a blessing for haters of mittens and blizzards, but a potential disaster for businesses that rely on snow and ice.  <a href="https://nyti.ms/3kgH4QE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Millions Across U.S. Brace for Coast-to-Coast Winter Storm</h3>
-<sub>By Derrick Bryson Taylor and Judson Jones</sub>
-<p>The storm is expected to interrupt travel plans across the country and possibly bring down power lines, forecasters said.  <a href="https://nyti.ms/3IQ3Etb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Equality of Injustice for All’: Saudi Arabia Expands Crackdown on Dissent</h3>
+<sub>By Vivian Nereim</sub>
+<p>The kingdom’s courts are meting out harsher punishments than ever to citizens who criticize the government, with prosecutions built on Twitter posts ending in prison sentences of 15 to 45 years.  <a href="https://nyti.ms/3KxcxJ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Black Mayors of 4 Biggest U.S. Cities Draw Strength From One Another</h3>
+<sub>By Emma G. Fitzsimmons and Jeffery C. Mays</sub>
+<p>The mayors of New York City, Los Angeles, Chicago and Houston have banded together as they confront violent crime, homelessness and other similar challenges.  <a href="https://nyti.ms/3Kophla"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Ian Fishback’s American Nightmare</h3>
+<sub>By C.J. Chivers</sub>
+<p>He was a decorated soldier, a whistle-blower against torture. Then he was undone by his own mind — and a health care system that utterly failed him.  <a href="https://nyti.ms/3Z6TEAN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -126,12 +136,6 @@ There is a lot going on in the world right now. Russian President Vladimir Putin
 <h3>‘Effective Altruism’ Led Bankman-Fried to a Little-Known Wall St. Firm</h3>
 <sub>By Joe Rennison, David Yaffe-Bellany and Matthew Goldstein</sub>
 <p>The FTX founder joined Jane Street Capital not to learn about controlling risk, which is its focus, but because the tenets of a philanthropic movement drew him there.  <a href="https://nyti.ms/3YO07B2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Fast and the Curious at &lt;span&gt;Formula 1’s&lt;&#x2F;span&gt; Miami Grand Prix</h3>
-<sub>Text by Kent M. Wilhelm and Photographs by Scott Rossi</sub>
-<p>Last summer, diehards and newbies sweated it out in the hot sun for a brief glimpse of pure speed  <a href="https://nyti.ms/3lISddo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
