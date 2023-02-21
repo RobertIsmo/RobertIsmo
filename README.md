@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 21, Central Standard Time</p>
 <p>
-There is a lot of upheaval in the world right now. In Ukraine, Russian forces are shelling border areas to tie up Ukrainian troops that might defend against attacks to the south. At the same time, President Biden has traveled secretively to Kyiv to demonstrate American resolve in the fight against Russian forces. Meanwhile, Saudi Arabia has been cracking down on citizens who criticize their government, handing out prison sentences of up to 45 years for their comments on social media. The US is also experiencing extreme weather from coast to coast as a large winter storm approaches and is predicted to disrupt travel and cause power outages. Lastly, closer to home, New York City has seen a surge in opioid-related deaths since the pandemic began and the four biggest cities in the US have banded together in order to confront rising violent crime and homelessness rates.</p>
+There is a lot going on in the world right now. Russian President Vladimir Putin is ending an agreement called New START that limits nuclear arms control between Russia and the United States. There has been shelling at a Kherson bus station in Ukraine that killed 6 people, and Biden recently visited Ukraine to show American support for their fight against Russian forces. Black Mayors of some of the largest cities in the US have been dealing with violent crime, homelessness and other similar challenges. In Saudi Arabia, citizens are being severely punished for criticizing the government, some with sentences ranging from 15 to 45 years. In Vermont, a school and artist are fighting over murals depicting slavery. Emergency workers in Turkey have been working around the clock to find survivors after a devastating earthquake that has complicated their work. The winter season has been unusually warm in New York City this year, while millions across the US brace for a coast-to-coast winter storm. The rising death toll due to opioids has become the &quot;new normal&quot; at the NYC medical examiner&#39;s office. Lastly, there was a Miami Grand Prix which provided an exciting glimpse of pure speed for diehards and newbies alike.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden will be stating values, not jousting with Putin, a top adviser says.</h3>
-<sub>By Michael D. Shear</sub>
-<p>  <a href="https://nyti.ms/3xKfbU8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Putin’s Move on Nuclear Treaty May Signal End to Formal Arms Control</h3>
+<sub>By David E. Sanger</sub>
+<p>Mutual inspections have been suspended for years because of the pandemic. But New START, the last nuclear agreement between Russia and the United States, is dying.  <a href="https://nyti.ms/3xNU8jz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Northern Ukraine, a Different Sort of War Game</h3>
-<sub>By Andrew E. Kramer and Maria Varenikova</sub>
-<p>Russian forces are shelling border areas there to tie up thousands of Ukrainian troops that might otherwise defend against attacks farther south.  <a href="https://nyti.ms/41bEMD0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia’s shelling of a Kherson bus station kills at least six people, Ukrainian officials say.</h3>
+<sub>By Marc Santora and Natalia Yermak</sub>
+<p>  <a href="https://nyti.ms/3Z2LUQA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,6 +98,12 @@ There is a lot of upheaval in the world right now. In Ukraine, Russian forces ar
 <p>Created to depict the brutality of enslavement, the works are seen by some as offensive. The school wants them permanently covered. The artist says they are historically important.  <a href="https://nyti.ms/3IiWwDX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Remembering the Lives Saved Drives Rescuers in Turkey to Push On</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>In the third week of a grueling effort, emergency workers battle exhaustion as the hope of finding more earthquake survivors dwindles. A powerful new quake has complicated their task.  <a href="https://nyti.ms/3IkmrLA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>New York’s Record Warm Winter: Good for Sunbathing, Bad for Ski Slopes</h3>
 <sub>By Jesse McKinley</sub>
@@ -106,7 +112,7 @@ There is a lot of upheaval in the world right now. In Ukraine, Russian forces ar
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Millions Across U.S. Brace for Coast-to-Coast Winter Storm</h3>
-<sub>By Derrick Bryson Taylor</sub>
+<sub>By Derrick Bryson Taylor and Judson Jones</sub>
 <p>The storm is expected to interrupt travel plans across the country and possibly bring down power lines, forecasters said.  <a href="https://nyti.ms/3IQ3Etb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
@@ -126,12 +132,6 @@ There is a lot of upheaval in the world right now. In Ukraine, Russian forces ar
 <h3>The Fast and the Curious at &lt;span&gt;Formula 1’s&lt;&#x2F;span&gt; Miami Grand Prix</h3>
 <sub>Text by Kent M. Wilhelm and Photographs by Scott Rossi</sub>
 <p>Last summer, diehards and newbies sweated it out in the hot sun for a brief glimpse of pure speed  <a href="https://nyti.ms/3lISddo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Biden’s Promises on Social Security and Medicare Have No Basis in Reality</h3>
-<sub>By Brian Riedl</sub>
-<p>President Biden’s pledges in his State of the Union speech are almost certainly economically impossible.  <a href="https://nyti.ms/3k8s3Ra"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
