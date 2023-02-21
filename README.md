@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, February 20, Central Standard Time</p>
+<p>It is Tuesday, February 21, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. President Biden recently made an unannounced trip to Kyiv, Ukraine in order to demonstrate American resolve against Russian forces who invaded there a year ago. Secretary of State Antony J. Blinken also visited affected areas in Turkey following a deadly earthquake, and pledged to help with the relief efforts. Meanwhile, Bruce&#39;s Beach in Los Angeles was repaid to its rightful family who then sold it again, spurring a debate about reparations. In the US, telehealth is becoming more popular, and features drugs like Ketamine for mental health conditions. There are also political developments happening both at home and abroad; Governor DeSantis took tours of other states in order to show he is tough on crime, while Governor Sununu of New Hampshire is considering entering the 2024 rankings with a candidacy emphasizing conservatism without extremism.</p>
+Right now, there are a lot of events taking place around the world. In the US, President Biden recently traveled to Kyiv, Ukraine to show support for those fighting against Russian forces that invaded a year ago. In Turkey, there&#39;s been another devastating earthquake recently and US Secretary of State Antony J. Blinken has promised aid in relief efforts. Meanwhile, back in the US, actor Alec Baldwin has had his manslaughter charges downgraded and ketamine is becoming a popular treatment for mental health conditions through telehealth. There have also been geopolitical shifts in the Philippines and New York governor Chris Sununu is looking to set himself apart from other potential GOP presidential candidates in 2024. Lastly, YouTube star Emma Chamberlain is looking to move past the entertainment side of YouTube and focus on more creative projects.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden’s Surreal and Secretive Journey Into a War Zone</h3>
@@ -79,12 +79,6 @@ There is a lot happening around the world right now. President Biden recently ma
 <sub>By Marc Santora</sub>
 <p>The American president was the most prominent Western leader to visit Ukraine since Russia invaded, and the capital was swept up in the excitement.  <a href="https://nyti.ms/3EmDWtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Bruce’s Beach Was Hailed as a Reparations Model. Then the Family Sold It.</h3>
-<sub>By Clyde McGrady</sub>
-<p>The Bruce family won the return of oceanfront land near Los Angeles seized nearly a century ago. Their decision to sell for $20 million set off a different debate about reparations.  <a href="https://nyti.ms/3IjT38m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Another Deadly Quake Rocks an Already Ravaged Area of Turkey</h3>
@@ -132,6 +126,12 @@ There is a lot happening around the world right now. President Biden recently ma
 <h3>Chris Sununu Eyes the G.O.P.’s ‘Normal’ Lane in 2024. Does It Exist?</h3>
 <sub>By Matt Flegenheimer and Sophie Park</sub>
 <p>The New Hampshire governor’s flirtation with a presidential run is a test of abortion politics, Republican media strategy and the durability of the MAGA mentality. “I’m conservative,” he says. “I’m just not an extremist.”  <a href="https://nyti.ms/3lUi9CQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>YouTube Made Emma Chamberlain a Star. Now She’s Leaving it Behind.</h3>
+<sub>By David Marchese</sub>
+<p>“I’m more interested in things being more creative rather than just pure entertainment — things that feel more beautiful.”  <a href="https://nyti.ms/3Z2JZez"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
