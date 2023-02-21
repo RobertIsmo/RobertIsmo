@@ -60,16 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 21, Central Standard Time</p>
 <p>
-There are a lot of developments happening in the world right now. Putin has signaled an end to formal arms control with the US, and Russian shelling has killed at least six people in Kherson. Meanwhile, China is trying to mend relations with Europe but is being blocked by Russia. 
+There is a lot of political upheaval happening across the world right now. In China, tensions with Russia are interfering with Beijing&#39;s attempts to revive its economy. Meanwhile, Putin’s move on nuclear treaty and Russian shelling in Ukraine are calling into question the future of formal arms control. 
 
-In the US, a school and artist are fighting over murals of slavery in Vermont, as well as a coast-to-coast winter storm that&#39;s causing travel delays and power outages. In New York, this winter has been abnormally warm, so bad for ski slopes but good for sunbathers. Also in the US, there&#39;s been a surge in opioid deaths and medical practitioners are struggling to keep up with it. 
+Here in the US, the former president, Trump, has spent 10 million dollars from his PAC on legal bills while a school and artist fight over murals of slavery in Vermont. On top of that, a special grand jury in Georgia may be indicting Trump and a coast-to-coast winter storm is affecting millions across America. To top it all off, New York is experiencing record warm winter weather which has caused some snow businesses to suffer. 
 
-On Wall Street, Ian Fishback was undone by his own mind and the health care system failed him miserably. There&#39;s a new trend of &quot;effective altruism&quot; that has led to a little-known Wall Street firm getting more recognition.</p>
+Finally, there&#39;s an article about Ian Fishback, a decorated soldier who was whistle-blowing against torture but was eventually undone by his own mind and failed health care system. </p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Courtship of European Powers Hits a Russian Wall</h3>
+<sub>By David Pierson</sub>
+<p>Beijing, in urgent need of reviving its economy, wants to mend ties with Europe but is struggling to create distance between itself and Moscow.  <a href="https://nyti.ms/3Z5tkqK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s Move on Nuclear Treaty May Signal End to Formal Arms Control</h3>
 <sub>By David E. Sanger</sub>
-<p>Mutual inspections have been suspended for years because of the pandemic. But New START, the last nuclear agreement between Russia and the United States, is dying.  <a href="https://nyti.ms/3xNU8jz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mutual inspections were interrupted by the pandemic, then by the war in Ukraine. But now New START, the last nuclear agreement between Russia and the United States, is dying, and arms control may be, too.  <a href="https://nyti.ms/3xNU8jz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -78,16 +84,22 @@ On Wall Street, Ian Fishback was undone by his own mind and the health care syst
 <p>  <a href="https://nyti.ms/3Z2LUQA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Courtship of European Powers Hits a Russian Wall</h3>
-<sub>By David Pierson</sub>
-<p>Beijing, in urgent need of reviving its economy, wants to mend ties with Europe but is struggling to create distance between itself and Moscow.  <a href="https://nyti.ms/3Z5tkqK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Vermont, a School and Artist Fight Over Murals of Slavery</h3>
 <sub>By Jenna Russell</sub>
 <p>Created to depict the brutality of enslavement, the works are seen by some as offensive. The school wants them permanently covered. The artist says they are historically important.  <a href="https://nyti.ms/3IiWwDX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jury in Georgia Trump Inquiry Recommended Multiple Indictments, Forewoman Says</h3>
+<sub>By Danny Hakim</sub>
+<p>She would not discuss specific indictments in the special grand jury’s report but noted that its recommendations are “not going to be some giant plot twist.”  <a href="https://nyti.ms/41sf2me"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Spent $10 Million From His PAC on His Legal Bills Last Year</h3>
+<sub>By Maggie Haberman</sub>
+<p>Now that the former president is a declared candidate again, there are questions about whether he can continue using donor funds to pay his lawyers.  <a href="https://nyti.ms/3xLvQHb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -108,34 +120,22 @@ On Wall Street, Ian Fishback was undone by his own mind and the health care syst
 <p>A wildly erratic season has been a blessing for haters of mittens and blizzards, but a potential disaster for businesses that rely on snow and ice.  <a href="https://nyti.ms/3kgH4QE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Equality of Injustice for All’: Saudi Arabia Expands Crackdown on Dissent</h3>
-<sub>By Vivian Nereim</sub>
-<p>The kingdom’s courts are meting out harsher punishments than ever to citizens who criticize the government, with prosecutions built on Twitter posts ending in prison sentences of 15 to 45 years.  <a href="https://nyti.ms/3KxcxJ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Frustrated and Wary Over Legal Shield for Tech Companies</h3>
+<sub>By Adam Liptak</sub>
+<p>The case, concerning a law that gives websites immunity for suits based on their users’ posts, has the potential to alter the very structure of the internet.  <a href="https://nyti.ms/3IfD7no"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Black Mayors of 4 Biggest U.S. Cities Draw Strength From One Another</h3>
-<sub>By Emma G. Fitzsimmons and Jeffery C. Mays</sub>
-<p>The mayors of New York City, Los Angeles, Chicago and Houston have banded together as they confront violent crime, homelessness and other similar challenges.  <a href="https://nyti.ms/3Kophla"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>2 Teens’ Deaths Underscore Dangers of ‘Subway Surfing’</h3>
+<sub>By Joshua Needelman</sub>
+<p>In New York, incidents of people riding outside of train cars have more than quadrupled in one year. Two recent deaths show the dangers of a trend stoked by social media.  <a href="https://nyti.ms/3xFj9h5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Ian Fishback’s American Nightmare</h3>
 <sub>By C.J. Chivers</sub>
 <p>He was a decorated soldier, a whistle-blower against torture. Then he was undone by his own mind — and a health care system that utterly failed him.  <a href="https://nyti.ms/3Z6TEAN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Inside the Medical Examiner’s Office, Where Opioids Fuel Surge in Deaths</h3>
-<sub>By Sharon Otterman</sub>
-<p>The rising tide of death that began during the pandemic is now the “new normal” for the New York City medical examiner’s office.  <a href="https://nyti.ms/3IhoIH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘Effective Altruism’ Led Bankman-Fried to a Little-Known Wall St. Firm</h3>
-<sub>By Joe Rennison, David Yaffe-Bellany and Matthew Goldstein</sub>
-<p>The FTX founder joined Jane Street Capital not to learn about controlling risk, which is its focus, but because the tenets of a philanthropic movement drew him there.  <a href="https://nyti.ms/3YO07B2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
