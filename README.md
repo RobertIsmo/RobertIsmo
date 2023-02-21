@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 20, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world right now. President Biden recently paid an unannounced visit to Kyiv, Ukraine as a sign of resistance against President Vladimir Putin of Russia. Meanwhile, in California, members of a formerly-seized African American family have sold their land for $20 million, leading to more talks of reparations. U.S. Secretary of State Antony Blinken is currently visiting Turkey and promising to provide aid after a devastating earthquake while also attempting to diffuse tensions between the U.S. and Turkey. In Florida, Governor DeSantis visited New York on a tour meant to portray himself as tough on crime as rumors swirl about his possible presidential campaign. In Israel, protests are erupting against two bills that would reduce the power of the Supreme Court. Finally, telehealth technologies like ketamine are becoming increasingly popular treatments for mental health conditions.</p>
+There is a lot going on in the world right now. In the U.S., President Biden paid a surprise visit to Kyiv in a move to challenge Vladimir Putin&#39;s Russia. Meanwhile, a prominent family sold beachfront land that had been previously seized nearly 100 years ago as part of reparations, gaining attention from many. Turkey has experienced deadly earthquakes recently, but Antony Blinken is helping to provide relief during his visit. In Mississippi&#39;s capital, racial divides are being challenged through suggestion of an unprecedented court system and state-run police force. Entertainment-wise, YouTube star Emma Chamberlain is transitioning away from the platform and into more creative works while Florida Governor DeSantis traveled to three states promoting a tougher stance on crime with an eye towards a future presidential run.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Biden’s Unannounced Visit to Kyiv, a Preview of an Increasingly Direct Contest With Putin</h3>
@@ -73,6 +73,12 @@ There&#39;s a lot going on around the world right now. President Biden recently 
 <sub>By Clyde McGrady</sub>
 <p>The Bruce family won the return of oceanfront land near Los Angeles seized nearly a century ago. Their decision to sell for $20 million set off a different debate about reparations.  <a href="https://nyti.ms/3IjT38m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Another Deadly Quake Rocks an Already Ravaged Area of Turkey</h3>
+<sub>By Gulsin Harman, Safak Timur, Cora Engelbrecht and Ben Hubbard</sub>
+<p>Just two weeks after the deadliest earthquake in the country’s modern history, a powerful shock hit southern Turkey, where many people are still sleeping outdoors for fear of building collapses.  <a href="https://nyti.ms/3YSj2e8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>On Blinken Visit, Quake Relief Soothes U.S.-Turkey Tensions</h3>
@@ -98,12 +104,6 @@ There&#39;s a lot going on around the world right now. President Biden recently 
 <p>Driven by worry about China’s aggression, President Ferdinand Marcos Jr. has adopted the most muscular foreign policy approach that the Philippines has seen in close to a decade.  <a href="https://nyti.ms/3xzLHZ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Hunt for U.F.O.s at the End of the World</h3>
-<sub>By Katie Rogers</sub>
-<p>As quickly as the national craziness over downed objects began, the United States called off the search, leaving answers encased in Arctic ice and under the whitecaps of Lake Huron.  <a href="https://nyti.ms/3YYmfZ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Hedge Fund Billionaire Extracts Billions More to Retire</h3>
 <sub>By Rob Copeland and Maureen Farrell</sub>
@@ -117,9 +117,9 @@ There&#39;s a lot going on around the world right now. President Biden recently 
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>DeSantis Visits New York on Tour Meant to Show He Is Tough on Crime</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>Speaking on Staten Island, the Florida governor appeared to position himself as the law-and-order candidate in a presidential campaign he has not announced.  <a href="https://nyti.ms/3EiZF5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Visits 3 States on Tour Meant to Show He Is Tough on Crime</h3>
+<sub>By Jonathan Weisman and Emma G. Fitzsimmons</sub>
+<p>In stops in New York, Pennsylvania and Illinois, the Florida governor appeared to be positioning himself as the law-and-order candidate in a G.O.P. presidential race he has yet to enter.  <a href="https://nyti.ms/3EiZF5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +128,10 @@ There&#39;s a lot going on around the world right now. President Biden recently 
 <p>A plan by Republican lawmakers to set up a new court system served by a state-run police force for parts of mainly Black Jackson has become a flash point for racial and political divisions.  <a href="https://nyti.ms/3SfCX3O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Protesters Rally in Jerusalem as Israel’s Leaders Look to Rein in Judges</h3>
-<sub>By Isabel Kershner</sub>
-<p>Two contentious bills were scheduled to come up for an initial vote in the country’s Parliament on Monday, including one that would reduce the power of the Supreme Court.  <a href="https://nyti.ms/3KlYd6d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>YouTube Made Emma Chamberlain a Star. Now She’s Leaving it Behind.</h3>
+<sub>By David Marchese</sub>
+<p>“I’m more interested in things being more creative rather than just pure entertainment — things that feel more beautiful.”  <a href="https://nyti.ms/3Z2JZez"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
