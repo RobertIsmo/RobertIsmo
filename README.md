@@ -60,79 +60,79 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 21, Central Standard Time</p>
 <p>
-Right now, there are a lot of events taking place around the world. In the US, President Biden recently traveled to Kyiv, Ukraine to show support for those fighting against Russian forces that invaded a year ago. In Turkey, there&#39;s been another devastating earthquake recently and US Secretary of State Antony J. Blinken has promised aid in relief efforts. Meanwhile, back in the US, actor Alec Baldwin has had his manslaughter charges downgraded and ketamine is becoming a popular treatment for mental health conditions through telehealth. There have also been geopolitical shifts in the Philippines and New York governor Chris Sununu is looking to set himself apart from other potential GOP presidential candidates in 2024. Lastly, YouTube star Emma Chamberlain is looking to move past the entertainment side of YouTube and focus on more creative projects.</p>
+There is a lot of upheaval in the world right now. In Ukraine, Russian forces are shelling border areas to tie up Ukrainian troops that might defend against attacks to the south. At the same time, President Biden has traveled secretively to Kyiv to demonstrate American resolve in the fight against Russian forces. Meanwhile, Saudi Arabia has been cracking down on citizens who criticize their government, handing out prison sentences of up to 45 years for their comments on social media. The US is also experiencing extreme weather from coast to coast as a large winter storm approaches and is predicted to disrupt travel and cause power outages. Lastly, closer to home, New York City has seen a surge in opioid-related deaths since the pandemic began and the four biggest cities in the US have banded together in order to confront rising violent crime and homelessness rates.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Biden will be stating values, not jousting with Putin, a top adviser says.</h3>
+<sub>By Michael D. Shear</sub>
+<p>  <a href="https://nyti.ms/3xKfbU8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Northern Ukraine, a Different Sort of War Game</h3>
+<sub>By Andrew E. Kramer and Maria Varenikova</sub>
+<p>Russian forces are shelling border areas there to tie up thousands of Ukrainian troops that might otherwise defend against attacks farther south.  <a href="https://nyti.ms/41bEMD0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden’s Surreal and Secretive Journey Into a War Zone</h3>
 <sub>By Peter Baker and Michael D. Shear</sub>
 <p>President Biden traveled covertly to the besieged Ukrainian capital of Kyiv, hoping to demonstrate American resolve to help defeat the Russian forces that invaded a year ago this week.  <a href="https://nyti.ms/3EnB9QQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Biden’s Unannounced Visit to Kyiv, a Preview of an Increasingly Direct Contest With Putin</h3>
-<sub>By David E. Sanger and Anton Troianovski</sub>
-<p>The vastly different world views of President Biden and President Vladimir V. Putin of Russia will become vividly apparent in a rare split-screen moment on Tuesday.  <a href="https://nyti.ms/3Z0vGb3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Black Mayors of 4 Biggest U.S. Cities Draw Strength From One Another</h3>
+<sub>By Emma G. Fitzsimmons and Jeffery C. Mays</sub>
+<p>The mayors of New York City, Los Angeles, Chicago and Houston have banded together as they confront violent crime, homelessness and other similar challenges.  <a href="https://nyti.ms/3Kophla"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden’s Kyiv Visit Lifts Spirits of War-Weary Ukrainians</h3>
-<sub>By Marc Santora</sub>
-<p>The American president was the most prominent Western leader to visit Ukraine since Russia invaded, and the capital was swept up in the excitement.  <a href="https://nyti.ms/3EmDWtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Another Deadly Quake Rocks an Already Ravaged Area of Turkey</h3>
-<sub>By Gulsin Harman, Safak Timur, Cora Engelbrecht and Ben Hubbard</sub>
-<p>Just two weeks after the deadliest earthquake in the country’s modern history, a powerful shock hit southern Turkey, where many people are still sleeping outdoors for fear of building collapses.  <a href="https://nyti.ms/3YSj2e8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>On Blinken Visit, Quake Relief Soothes U.S.-Turkey Tensions</h3>
-<sub>By Michael Crowley</sub>
-<p>Secretary of State Antony J. Blinken pledged to keep helping Turkey recover from a devastating earthquake, but there were few hints of progress on disputes over F-16 sales and NATO.  <a href="https://nyti.ms/3Sg7WNp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Rust’ Prosecutors Downgrade Alec Baldwin’s Manslaughter Charges</h3>
-<sub>By Julia Jacobs</sub>
-<p>The actor’s lawyers had argued that a firearm law included by the prosecutors was not in effect at the time of the fatal shooting. It would have carried a mandatory five-year sentence.  <a href="https://nyti.ms/3XMr3Qm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<h3>‘Equality of Injustice for All’: Saudi Arabia Expands Crackdown on Dissent</h3>
+<sub>By Vivian Nereim</sub>
+<p>The kingdom’s courts are meting out harsher punishments than ever to citizens who criticize the government, with prosecutions built on Twitter posts ending in prison sentences of 15 to 45 years.  <a href="https://nyti.ms/3KxcxJ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Fraught New Frontier in Telehealth: Ketamine</h3>
-<sub>By Chris Hamby</sub>
-<p>With loosened rules around remote prescriptions, a psychedelic-like drug has become a popular treatment for mental health conditions. But a boom in at-home use has outpaced evidence of safety.  <a href="https://nyti.ms/3Kmi59s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<h3>In Vermont, a School and Artist Fight Over Murals of Slavery</h3>
+<sub>By Jenna Russell</sub>
+<p>Created to depict the brutality of enslavement, the works are seen by some as offensive. The school wants them permanently covered. The artist says they are historically important.  <a href="https://nyti.ms/3IiWwDX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With an Eye on China, Philippines Moves Closer to U.S. Interests</h3>
-<sub>By Sui-Lee Wee and Camille Elemia</sub>
-<p>Driven by worry about China’s aggression, President Ferdinand Marcos Jr. has adopted the most muscular foreign policy approach that the Philippines has seen in close to a decade.  <a href="https://nyti.ms/3xzLHZ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York’s Record Warm Winter: Good for Sunbathing, Bad for Ski Slopes</h3>
+<sub>By Jesse McKinley</sub>
+<p>A wildly erratic season has been a blessing for haters of mittens and blizzards, but a potential disaster for businesses that rely on snow and ice.  <a href="https://nyti.ms/3kgH4QE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Millions Across U.S. Brace for Coast-to-Coast Winter Storm</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>The storm is expected to interrupt travel plans across the country and possibly bring down power lines, forecasters said.  <a href="https://nyti.ms/3IQ3Etb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Inside the Medical Examiner’s Office, Where Opioids Fuel Surge in Deaths</h3>
+<sub>By Sharon Otterman</sub>
+<p>The rising tide of death that began during the pandemic is now the “new normal” for the New York City medical examiner’s office.  <a href="https://nyti.ms/3IhoIH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Hedge Fund Billionaire Extracts Billions More to Retire</h3>
-<sub>By Rob Copeland and Maureen Farrell</sub>
-<p>Bridgewater’s founder, Ray Dalio, retired last year after months of negotiations that guaranteed him a gigantic exit package.  <a href="https://nyti.ms/3KlgNez"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<h3>‘Effective Altruism’ Led Bankman-Fried to a Little-Known Wall St. Firm</h3>
+<sub>By Joe Rennison, David Yaffe-Bellany and Matthew Goldstein</sub>
+<p>The FTX founder joined Jane Street Capital not to learn about controlling risk, which is its focus, but because the tenets of a philanthropic movement drew him there.  <a href="https://nyti.ms/3YO07B2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>DeSantis Visits 3 States on Tour Meant to Show He Is Tough on Crime</h3>
-<sub>By Jonathan Weisman and Emma G. Fitzsimmons</sub>
-<p>In stops in New York, Pennsylvania and Illinois, the Florida governor appeared to be positioning himself as the law-and-order candidate in a G.O.P. presidential race he has yet to enter.  <a href="https://nyti.ms/3EiZF5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The Fast and the Curious at &lt;span&gt;Formula 1’s&lt;&#x2F;span&gt; Miami Grand Prix</h3>
+<sub>Text by Kent M. Wilhelm and Photographs by Scott Rossi</sub>
+<p>Last summer, diehards and newbies sweated it out in the hot sun for a brief glimpse of pure speed  <a href="https://nyti.ms/3lISddo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chris Sununu Eyes the G.O.P.’s ‘Normal’ Lane in 2024. Does It Exist?</h3>
-<sub>By Matt Flegenheimer and Sophie Park</sub>
-<p>The New Hampshire governor’s flirtation with a presidential run is a test of abortion politics, Republican media strategy and the durability of the MAGA mentality. “I’m conservative,” he says. “I’m just not an extremist.”  <a href="https://nyti.ms/3lUi9CQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>YouTube Made Emma Chamberlain a Star. Now She’s Leaving it Behind.</h3>
-<sub>By David Marchese</sub>
-<p>“I’m more interested in things being more creative rather than just pure entertainment — things that feel more beautiful.”  <a href="https://nyti.ms/3Z2JZez"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Biden’s Promises on Social Security and Medicare Have No Basis in Reality</h3>
+<sub>By Brian Riedl</sub>
+<p>President Biden’s pledges in his State of the Union speech are almost certainly economically impossible.  <a href="https://nyti.ms/3k8s3Ra"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
