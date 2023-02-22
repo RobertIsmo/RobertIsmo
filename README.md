@@ -60,19 +60,61 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 22, Central Standard Time</p>
 <p>
-There is a lot of conflict brewing in the world right now. Putin has made a move on limiting nuclear arms control between Russia and the United States, and President Biden is accusing him of atrocities and urging the world to rebuke him. On a different continent, Trump&#39;s legal team received recommendations for multiple indictments from a jury in Georgia, while the Supreme Court seems to be wary of limiting protections for social media platforms. In Vermont, a school and artist are fighting over murals depicting slavery. Meanwhile, California is missing a chance to replenish its aquifers due to state bureaucracy, and two recent deaths in New York have highlighted the dangers of a social media-fueled stunt called &quot;subway surfing.&quot; In Mexico, the former top security official was convicted of cartel bribery by a Brooklyn jury, while Israel is unlikely to extradite Mexico&#39;s ex-lawman who was wanted in connection with the mass abduction of 43 students. South Korea is making small steps towards equal rights for LGBT people, but they are being stalled by Christian conservatives.</p>
+There have been some interesting events happening around the world recently. In Poland, they’ve opened up to refugees from neighboring Ukraine, while China is giving economic support to Russia. Meanwhile, in Ukraine, explosions were heard in Kharkiv as the country braces for an imminent Russian onslaught. On the tech front, Taiwan Semiconductor Manufacturing Company is investing $40 billion in a factory in Arizona and the US government is responding by putting restrictions on shipments that could be used for both civilian and military purposes. Closer to home, there was a train derailment in Ohio that left farm owners with chemical burns and a lot of concern about how they can continue their livelihoods. Lastly, a special grand jury report in Georgia recommended multiple indictments against former President Trump but the details are still unclear.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin’s Move on Nuclear Treaty May Signal End to Formal Arms Control</h3>
-<sub>By David E. Sanger</sub>
-<p>Mutual inspections were interrupted by the pandemic, then by the war in Ukraine. But now New START, the last nuclear agreement between Russia and the United States, is dying, and arms control may be, too.  <a href="https://nyti.ms/3xNU8jz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<h3>How Poland, Long Leery of Foreigners, Opened Up to Ukrainians</h3>
+<sub>By Andrew Higgins</sub>
+<p>The country, once one of the world’s most ethnically and culturally homogeneous, has accommodated far more refugees from neighboring Ukraine than any other nation.  <a href="https://nyti.ms/3YQWv1e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>China’s Economic Support for Russia Could Elicit More Sanctions</h3>
+<sub>By Ana Swanson</sub>
+<p>U.S. officials pledged to crack down on shipments to Russia that can be used for both civilian and military purposes, but that has proved hard to police.  <a href="https://nyti.ms/3IkuFmN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden Accuses Putin of Atrocities and Urges World to Rebuke Him</h3>
-<sub>By David E. Sanger, Michael D. Shear and Anton Troianovski</sub>
-<p>In sharply opposed speeches, President Biden said Vladimir V. Putin bore sole responsibility for the war, while Mr. Putin said Russia had invaded in self-defense. But they agreed the war would not end soon.  <a href="https://nyti.ms/3SsG1Kb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Explosions boom in Kharkiv as Ukraine braces for a large Russian barrage for the war’s anniversary.</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>  <a href="https://nyti.ms/3EpcbAz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Inside Taiwanese Chip Giant, a U.S. Expansion Stokes Tensions</h3>
+<sub>By John Liu and Paul Mozur</sub>
+<p>Employee doubts are rising about Taiwan Semiconductor Manufacturing Company’s $40 billion investment in an Arizona factory.  <a href="https://nyti.ms/3m0lKzm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Arizona Is Positioning Itself for $52 Billion to the Chips Industry</h3>
+<sub>By Cecilia Kang</sub>
+<p>The state has become a hub for chip makers including Intel and TSMC, as the government prepares to release a gusher of funds for the strategic industry.  <a href="https://nyti.ms/3xKOI9c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Chemical Burn, Farm Owners Worry About a Cherished Way of Life</h3>
+<sub>By Emily Cochrane</sub>
+<p>The derailment of a train carrying toxic chemicals upended a region of Ohio where generations of families could afford to buy acres of land, raise livestock and plant gardens.  <a href="https://nyti.ms/3kimjnM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>Jessica Chastain Returns to the Stage With Nothing to Prove</h3>
+<sub>By Alexandra Alter</sub>
+<p>In a pared-down Broadway revival of “A Doll’s House,” the Oscar-winning actress doesn’t have props, period costumes or much of a set. To her surprise, she likes it.  <a href="https://nyti.ms/3xIcpPh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Administration Announces New Border Crackdown</h3>
+<sub>By Miriam Jordan</sub>
+<p>A tough new immigration measure could disqualify the vast majority of migrants from being able to seek asylum at the southern border.  <a href="https://nyti.ms/41gcVl8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York’s Wind Power Future Is Taking Shape. In Rhode Island.</h3>
+<sub>By Patrick McGeehan</sub>
+<p>Much of the initial work required to build the first ocean turbines that will deliver power to New Yorkers is being done elsewhere.  <a href="https://nyti.ms/3krnUYp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jury in Georgia Trump Inquiry Recommended Multiple Indictments, Forewoman Says</h3>
@@ -81,58 +123,16 @@ There is a lot of conflict brewing in the world right now. Putin has made a move
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Spent $10 Million From His PAC on His Legal Bills Last Year</h3>
-<sub>By Maggie Haberman</sub>
-<p>Now that the former president is a declared candidate again, there are questions about whether he can continue using donor funds to pay his lawyers.  <a href="https://nyti.ms/3xLvQHb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<h3>Justice Dept. Struggles to Enforce Early Release Program for Abused Inmates</h3>
+<sub>By Glenn Thrush</sub>
+<p>Prison officials and judges have been reluctant to support “compassionate releases” unless an inmate is ill, dying or incapacitated by age.  <a href="https://nyti.ms/3IUIbiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Seems Wary of Limiting Protections for Social Media Platforms</h3>
-<sub>By Adam Liptak</sub>
-<p>The case, concerning a law that gives websites immunity for suits based on their users’ posts, has the potential to alter the very structure of the internet.  <a href="https://nyti.ms/3IfD7no"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Vermont, a School and Artist Fight Over Murals of Slavery</h3>
-<sub>By Jenna Russell</sub>
-<p>Created to depict the brutality of enslavement, the works are seen by some as offensive. The school wants them permanently covered. The artist says they are historically important.  <a href="https://nyti.ms/3IiWwDX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Administration Announces New Border Crackdown</h3>
-<sub>By Miriam Jordan</sub>
-<p>A tough new immigration measure could disqualify the vast majority of migrants from being able to seek asylum at the southern border.  <a href="https://nyti.ms/41gcVl8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Parched California Misses a Chance to Store More Rain Underground</h3>
-<sub>By Raymond Zhong</sub>
-<p>Torrential rains could have helped to replenish depleted aquifers, but some say state bureaucracy, designed to distribute water fairly, has stood in the way.  <a href="https://nyti.ms/3ErQRKP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>2 Teens’ Deaths Underscore Dangers of ‘Subway Surfing’</h3>
-<sub>By Joshua Needelman</sub>
-<p>In New York, incidents of people riding outside of train cars have more than quadrupled in one year. Two recent deaths show the dangers of a trend stoked by social media.  <a href="https://nyti.ms/3xFj9h5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Mexico’s Ex-Top Security Official Is Convicted of Cartel Bribery</h3>
-<sub>By Alan Feuer and Nate Schweber</sub>
-<p>A Brooklyn jury found Genaro García Luna guilty of taking millions of dollars from the Sinaloa drug cartel when he was in charge of Mexico’s bloody war on organized crime.  <a href="https://nyti.ms/3EuRN0K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Unlikely to Extradite Mexican Ex-Lawman Wanted in Mass Abduction, Officials Say</h3>
-<sub>By Ronen Bergman and Natalie Kitroeff</sub>
-<p>The Mexican authorities say Tomás Zerón tortured witnesses and tampered with evidence in a crucial investigation into the 2014 disappearance of 43 students.  <a href="https://nyti.ms/3ZaujGh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>South Korea Inches Toward Same-Sex Equality, but Broader Bill Is Stalled</h3>
-<sub>By John Yoon</sub>
-<p>Christian conservatives in the country have campaigned tirelessly for decades to prevent legislation that would offer protections to L.G.B.T.Q. people.  <a href="https://nyti.ms/3KuRBTg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>‘The Democratic Party in New York Is a Disaster’</h3>
+<sub>By Ross Barkan</sub>
+<p>After losing crucial seats in the congressional midterms, a bitter civil war over the moribund state organization has spilled into the open.  <a href="https://nyti.ms/3IqIzns"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
