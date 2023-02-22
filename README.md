@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 22, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Poland, officials have opened up the borders to allow more Ukrainians to seek refuge from the conflict surrounding them. Meanwhile, China has been providing economic support for Russia, although it could result in sanctions from the U.S. In Israel and Palestine, there has been violence resulting in the death of at least 10 Palestinians, while here at home, a train derailment has adversely impacted residents of rural Ohio. There&#39;s also news about conflicts between Taiwan and the U.S., along with updates on wind power and winter weather. Finally, Jessica Chastain is on Broadway with a new production of &quot;A Doll&#39;s House&quot;.</p>
+There are a lot of events happening around the world right now. In Poland, foreign refugees from Ukraine are being accepted more and increasing their influence over NATO and the Ukraine policy. In Israel, a deadly gunfight has broken out between Israeli soldiers and Palestinian gunmen during an operation to arrest Palestinian fighters. Taiwan is experiencing tension over a proposed U.S. expansion for its semiconductor company. In Plains, Georgia, the hometown of former U.S. President Jimmy Carter is anticipating his death as he enters hospice care, and experts are explaining what that care entails. The Midwest has been hit with heavy snowfall and Los Angeles County is preparing for a rare blizzard, while Ohio is still suffering from a train derailment with toxic chemicals, which has put the lifestyle of many farm owners in jeopardy. Meanwhile, President Trump has gone to East Palestine in an attempt to draw a contrast with President Biden&#39;s administration and their handling of the train derailment disaster.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Poland, Long Leery of Foreigners, Opened Up to Ukrainians</h3>
@@ -68,11 +68,11 @@ There is a lot happening in the world right now. In Poland, officials have opene
 <p>The country, once one of the world’s most ethnically and culturally homogeneous, has accommodated far more refugees from neighboring Ukraine than any other nation.  <a href="https://nyti.ms/3YQWv1e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>China’s Economic Support for Russia Could Elicit More Sanctions</h3>
-<sub>By Ana Swanson</sub>
-<p>U.S. officials pledged to crack down on shipments to Russia that can be used for both civilian and military purposes, but that has proved hard to police.  <a href="https://nyti.ms/3IkuFmN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>No One in Europe Is Telling Poland to ‘Shut Up’ Now</h3>
+<sub>By Andrew Higgins</sub>
+<p>Having been proved right about Russia, Warsaw is savoring its newfound influence in NATO and on Ukraine policy.  <a href="https://nyti.ms/3SjqCvC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine appears to attack deep into Russian-occupied territory.</h3>
@@ -92,39 +92,27 @@ There is a lot happening in the world right now. In Poland, officials have opene
 <p>Employee doubts are rising about Taiwan Semiconductor Manufacturing Company’s $40 billion investment in an Arizona factory.  <a href="https://nyti.ms/3m0lKzm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Arizona Is Positioning Itself for $52 Billion to the Chips Industry</h3>
-<sub>By Cecilia Kang</sub>
-<p>The state has become a hub for chip makers including Intel and TSMC, as the government prepares to release a gusher of funds for the strategic industry.  <a href="https://nyti.ms/3xKOI9c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Hometown That Drew Jimmy Carter Back Keeps Vigil</h3>
+<sub>By Rick Rojas and Nicole Craine</sub>
+<p>Plains, Ga., is indelibly linked with the legacy of the 39th president. After he entered hospice care, the town has been gripped by a somber and sometimes strange wait.  <a href="https://nyti.ms/3KuOA56"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>How Does Hospice Care Work?</h3>
+<sub>By Dana G. Smith</sub>
+<p>Hospice offers crucial end-of-life care with a focus on the patient’s comfort and dignity. Experts explain who is eligible, what it entails and how to understand and navigate the process.  <a href="https://nyti.ms/3SlzJvM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>He Taught Americans to Cook Indian Food. Now He’s on His Final Chapter.</h3>
+<sub>By Kim Severson</sub>
+<p>Raghavan Iyer, whose books and spirited teaching spread the cuisine, is using his last days to get familiar comfort foods to patients like himself.  <a href="https://nyti.ms/3XRltw5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Chemical Burn, Farm Owners Worry About a Cherished Way of Life</h3>
-<sub>By Emily Cochrane</sub>
-<p>The derailment of a train carrying toxic chemicals upended a region of Ohio where generations of families could afford to buy acres of land, raise livestock and plant gardens.  <a href="https://nyti.ms/3kimjnM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>Jessica Chastain Returns to the Stage With Nothing to Prove</h3>
-<sub>By Alexandra Alter</sub>
-<p>In a pared-down Broadway revival of “A Doll’s House,” the Oscar-winning actress doesn’t have props, period costumes or much of a set. To her surprise, she likes it.  <a href="https://nyti.ms/3xIcpPh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York’s Wind Power Future Is Taking Shape. In Rhode Island.</h3>
-<sub>By Patrick McGeehan</sub>
-<p>Much of the initial work required to build the first ocean turbines that will deliver power to New Yorkers is being done elsewhere.  <a href="https://nyti.ms/3krnUYp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Struggles to Enforce Early Release Program for Abused Inmates</h3>
-<sub>By Glenn Thrush</sub>
-<p>Prison officials and judges have been reluctant to support “compassionate releases” unless an inmate is ill, dying or incapacitated by age.  <a href="https://nyti.ms/3IUIbiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Heavy Snow Hitting States From California to the Upper Midwest</h3>
-<sub>By Derrick Bryson Taylor</sub>
+<h3>Heavy Snow Hits the Midwest, and Los Angeles County Prepares for a Rare Blizzard</h3>
+<sub>By Judson Jones and Derrick Bryson Taylor</sub>
 <p>Nearly all of the United States is experiencing some form of notable weather this week — ice, snow or unseasonably warm temperatures.  <a href="https://nyti.ms/3YZa272"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
@@ -133,6 +121,18 @@ There is a lot happening in the world right now. In Poland, officials have opene
 <sub>By Aatish Bhatia, Josh Katz, Margot Sanger-Katz and Samuel Jacoby</sub>
 <p>Type in your community to see the full range of possibilities in the next few days.  <a href="https://nyti.ms/3hdEfL2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Chemical Burn, Farm Owners Worry About a Cherished Way of Life</h3>
+<sub>By Emily Cochrane</sub>
+<p>The derailment of a train carrying toxic chemicals upended a region of Ohio where generations of families could afford to buy acres of land, raise livestock and plant gardens.  <a href="https://nyti.ms/3kimjnM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Heads to East Palestine, Seeking to Draw Contrast With Biden</h3>
+<sub>By Jazmine Ulloa, Maggie Haberman and Mark Walker</sub>
+<p>The former president has attacked President Biden over his administration’s handling of the train derailment disaster, even as his own environmental policies while in office have been criticized.  <a href="https://nyti.ms/3lXLVH7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
