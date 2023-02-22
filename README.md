@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 21, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now.  In Russia, President Putin and U.S. President Biden are in conflict over who is at fault for the war in Ukraine, and Russia&#39;s top paramilitary chief is making accusations of treason against army command.  Northern Ukraine is being attacked with Russian forces shelling border areas to tie up thousands of Ukrainian troops.
+Right now, tensions are high between the United States and Russia, particularly when it comes to nuclear armament agreements. On the US side, President Biden is accusing Russia&#39;s leader Putin of atrocities over a war in Ukraine, as well as leading world powers to rebuke him. Meanwhile, Poland is enjoying newfound influence in NATO after being proven right about Russia. Additionally, there&#39;s beginning to be suspicion about how Russia&#39;s top paramilitary chief may be faring vis-à-vis his access to Putin. 
 
-Meanwhile, in the U.S., a jury in Georgia has recommended multiple indictments in connection to an inquiry on President Trump, and he spent millions from his personal PAC on legal bills last year. The Supreme Court is looking into legal shields for tech companies and there is a battle over murals of slavery in Vermont. The Biden Administration has announced stricter crackdowns on immigration at the southern border.
+In terms of domestic events, a special grand jury in Georgia is recommending multiple indictments over the Trump administration before his term ended. Separately, Trump spent $10 million from his PAC last year on legal bills. Meanwhile, the Supreme Court is troubled over tech companies&#39; legal shields and a school system in Vermont is conflicted over slavery murals. 
 
-In California, torrential rains missed their chance to replenish depleted aquifers due to state bureaucracy, while subway surfing incidents have quadrupled here in New York with two recent deaths underscoring the dangers of this trend. Lastly, Ian Fishback had a troublesome experience with the American healthcare system after serving as a decorated soldier and whistle-blower against torture.</p>
+As for immigration policy here in the US, the Biden administration is announcing a new border crackdown. Over on the West Coast in California there has been missed opportunity to store more rain underground due to state bureaucracy getting in the way. Closer to home here in New York City, there have been incidents of people &#39;subway surfing&#39; resulting in two teens&#39; deaths and highlighting the dangers of this trend fueled by social media. Lastly, there&#39;s an extremely heartbreaking story about a decorated soldier&#39;s journey towards mental illness and ultimately death amid an inadequate health care system.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s Move on Nuclear Treaty May Signal End to Formal Arms Control</h3>
@@ -73,21 +73,21 @@ In California, torrential rains missed their chance to replenish depleted aquife
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden and Putin Give Clashing Claims of Who Is to Blame on Ukraine</h3>
+<h3>Biden Accuses Putin of Atrocities and Urges World to Rebuke Him</h3>
 <sub>By David E. Sanger, Michael D. Shear and Anton Troianovski</sub>
-<p>In sharply opposed speeches, President Vladimir V. Putin said Russia invaded in self-defense, while President Biden said Mr. Putin bore sole responsibility. But they agreed the war would not end soon.  <a href="https://nyti.ms/3SsG1Kb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In sharply opposed speeches, President Biden said Vladimir V. Putin bore sole responsibility for the war, while Mr. Putin said Russia had invaded in self-defense. But they agreed the war would not end soon.  <a href="https://nyti.ms/3SsG1Kb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>No One in Europe Is Telling Poland to ‘Shut Up’ Now</h3>
+<sub>By Andrew Higgins</sub>
+<p>Having been proved right about Russia, Warsaw is savoring its newfound influence in NATO and on Ukraine policy.  <a href="https://nyti.ms/3SjqCvC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia’s Top Paramilitary Chief Accuses Army Command of Treason</h3>
 <sub>By Anatoly Kurmanaev</sub>
 <p>Caustic accusations by the head of the Wagner mercenary group, Yevgeny Prigozhin, suggest that his vaunted access to Vladimir Putin may be on the wane.  <a href="https://nyti.ms/3xI7OwA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Northern Ukraine, a Different Sort of War Game</h3>
-<sub>By Andrew E. Kramer and Maria Varenikova</sub>
-<p>Russian forces are shelling border areas there to tie up thousands of Ukrainian troops that might otherwise defend against attacks farther south.  <a href="https://nyti.ms/41bEMD0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
