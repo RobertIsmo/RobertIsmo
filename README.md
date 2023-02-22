@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 21, Central Standard Time</p>
 <p>
-There is a lot of political upheaval happening across the world right now. In China, tensions with Russia are interfering with Beijing&#39;s attempts to revive its economy. Meanwhile, Putin’s move on nuclear treaty and Russian shelling in Ukraine are calling into question the future of formal arms control. 
+There is a lot happening in the world right now.  In Russia, President Putin and U.S. President Biden are in conflict over who is at fault for the war in Ukraine, and Russia&#39;s top paramilitary chief is making accusations of treason against army command.  Northern Ukraine is being attacked with Russian forces shelling border areas to tie up thousands of Ukrainian troops.
 
-Here in the US, the former president, Trump, has spent 10 million dollars from his PAC on legal bills while a school and artist fight over murals of slavery in Vermont. On top of that, a special grand jury in Georgia may be indicting Trump and a coast-to-coast winter storm is affecting millions across America. To top it all off, New York is experiencing record warm winter weather which has caused some snow businesses to suffer. 
+Meanwhile, in the U.S., a jury in Georgia has recommended multiple indictments in connection to an inquiry on President Trump, and he spent millions from his personal PAC on legal bills last year. The Supreme Court is looking into legal shields for tech companies and there is a battle over murals of slavery in Vermont. The Biden Administration has announced stricter crackdowns on immigration at the southern border.
 
-Finally, there&#39;s an article about Ian Fishback, a decorated soldier who was whistle-blowing against torture but was eventually undone by his own mind and failed health care system. </p>
+In California, torrential rains missed their chance to replenish depleted aquifers due to state bureaucracy, while subway surfing incidents have quadrupled here in New York with two recent deaths underscoring the dangers of this trend. Lastly, Ian Fishback had a troublesome experience with the American healthcare system after serving as a decorated soldier and whistle-blower against torture.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Courtship of European Powers Hits a Russian Wall</h3>
-<sub>By David Pierson</sub>
-<p>Beijing, in urgent need of reviving its economy, wants to mend ties with Europe but is struggling to create distance between itself and Moscow.  <a href="https://nyti.ms/3Z5tkqK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s Move on Nuclear Treaty May Signal End to Formal Arms Control</h3>
 <sub>By David E. Sanger</sub>
@@ -79,9 +73,39 @@ Finally, there&#39;s an article about Ian Fishback, a decorated soldier who was 
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s shelling of a Kherson bus station kills at least six people, Ukrainian officials say.</h3>
-<sub>By Marc Santora and Natalia Yermak</sub>
-<p>  <a href="https://nyti.ms/3Z2LUQA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden and Putin Give Clashing Claims of Who Is to Blame on Ukraine</h3>
+<sub>By David E. Sanger, Michael D. Shear and Anton Troianovski</sub>
+<p>In sharply opposed speeches, President Vladimir V. Putin said Russia invaded in self-defense, while President Biden said Mr. Putin bore sole responsibility. But they agreed the war would not end soon.  <a href="https://nyti.ms/3SsG1Kb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia’s Top Paramilitary Chief Accuses Army Command of Treason</h3>
+<sub>By Anatoly Kurmanaev</sub>
+<p>Caustic accusations by the head of the Wagner mercenary group, Yevgeny Prigozhin, suggest that his vaunted access to Vladimir Putin may be on the wane.  <a href="https://nyti.ms/3xI7OwA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Northern Ukraine, a Different Sort of War Game</h3>
+<sub>By Andrew E. Kramer and Maria Varenikova</sub>
+<p>Russian forces are shelling border areas there to tie up thousands of Ukrainian troops that might otherwise defend against attacks farther south.  <a href="https://nyti.ms/41bEMD0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jury in Georgia Trump Inquiry Recommended Multiple Indictments, Forewoman Says</h3>
+<sub>By Danny Hakim</sub>
+<p>She would not discuss specific indictments in the special grand jury’s report but noted that its recommendations were “not going to be some giant plot twist.”  <a href="https://nyti.ms/41sf2me"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Spent $10 Million From His PAC on His Legal Bills Last Year</h3>
+<sub>By Maggie Haberman</sub>
+<p>Now that the former president is a declared candidate again, there are questions about whether he can continue using donor funds to pay his lawyers.  <a href="https://nyti.ms/3xLvQHb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Frustrated and Wary Over Legal Shield for Tech Companies</h3>
+<sub>By Adam Liptak</sub>
+<p>The case, concerning a law that gives websites immunity for suits based on their users’ posts, has the potential to alter the very structure of the internet.  <a href="https://nyti.ms/3IfD7no"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -91,39 +115,15 @@ Finally, there&#39;s an article about Ian Fishback, a decorated soldier who was 
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jury in Georgia Trump Inquiry Recommended Multiple Indictments, Forewoman Says</h3>
-<sub>By Danny Hakim</sub>
-<p>She would not discuss specific indictments in the special grand jury’s report but noted that its recommendations are “not going to be some giant plot twist.”  <a href="https://nyti.ms/41sf2me"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Spent $10 Million From His PAC on His Legal Bills Last Year</h3>
-<sub>By Maggie Haberman</sub>
-<p>Now that the former president is a declared candidate again, there are questions about whether he can continue using donor funds to pay his lawyers.  <a href="https://nyti.ms/3xLvQHb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Administration Announces New Border Crackdown</h3>
+<sub>By Miriam Jordan</sub>
+<p>A tough new immigration measure could disqualify the vast majority of migrants from being able to seek asylum at the southern border.  <a href="https://nyti.ms/41gcVl8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Parched California Misses a Chance to Store More Rain Underground</h3>
 <sub>By Raymond Zhong</sub>
 <p>Torrential rains could have helped to replenish depleted aquifers, but some say state bureaucracy, designed to distribute water fairly, has stood in the way.  <a href="https://nyti.ms/3ErQRKP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Millions Across U.S. Brace for Coast-to-Coast Winter Storm</h3>
-<sub>By Derrick Bryson Taylor and Judson Jones</sub>
-<p>The storm is expected to interrupt travel plans across the country and possibly bring down power lines, forecasters said.  <a href="https://nyti.ms/3IQ3Etb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York’s Record Warm Winter: Good for Sunbathing, Bad for Ski Slopes</h3>
-<sub>By Jesse McKinley</sub>
-<p>A wildly erratic season has been a blessing for haters of mittens and blizzards, but a potential disaster for businesses that rely on snow and ice.  <a href="https://nyti.ms/3kgH4QE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Frustrated and Wary Over Legal Shield for Tech Companies</h3>
-<sub>By Adam Liptak</sub>
-<p>The case, concerning a law that gives websites immunity for suits based on their users’ posts, has the potential to alter the very structure of the internet.  <a href="https://nyti.ms/3IfD7no"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
