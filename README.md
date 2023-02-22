@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 22, Central Standard Time</p>
 <p>
-There have been some interesting events happening around the world recently. In Poland, they’ve opened up to refugees from neighboring Ukraine, while China is giving economic support to Russia. Meanwhile, in Ukraine, explosions were heard in Kharkiv as the country braces for an imminent Russian onslaught. On the tech front, Taiwan Semiconductor Manufacturing Company is investing $40 billion in a factory in Arizona and the US government is responding by putting restrictions on shipments that could be used for both civilian and military purposes. Closer to home, there was a train derailment in Ohio that left farm owners with chemical burns and a lot of concern about how they can continue their livelihoods. Lastly, a special grand jury report in Georgia recommended multiple indictments against former President Trump but the details are still unclear.</p>
+There is a lot happening in the world right now. In Poland, officials have opened up the borders to allow more Ukrainians to seek refuge from the conflict surrounding them. Meanwhile, China has been providing economic support for Russia, although it could result in sanctions from the U.S. In Israel and Palestine, there has been violence resulting in the death of at least 10 Palestinians, while here at home, a train derailment has adversely impacted residents of rural Ohio. There&#39;s also news about conflicts between Taiwan and the U.S., along with updates on wind power and winter weather. Finally, Jessica Chastain is on Broadway with a new production of &quot;A Doll&#39;s House&quot;.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Poland, Long Leery of Foreigners, Opened Up to Ukrainians</h3>
@@ -75,9 +75,15 @@ There have been some interesting events happening around the world recently. In 
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Explosions boom in Kharkiv as Ukraine braces for a large Russian barrage for the war’s anniversary.</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>  <a href="https://nyti.ms/3EpcbAz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine appears to attack deep into Russian-occupied territory.</h3>
+<sub>By Marc Santora</sub>
+<p>  <a href="https://nyti.ms/3m10Vnp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Least 10 Palestinians Killed During Israeli Raid in West Bank</h3>
+<sub>By Patrick Kingsley</sub>
+<p>An hourslong gunfight broke out between Israeli soldiers and Palestinian gunmen during an Israeli operation to arrest Palestinian fighters. The violence left the region braced for further unrest.  <a href="https://nyti.ms/3krMacS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -104,12 +110,6 @@ There have been some interesting events happening around the world recently. In 
 <p>In a pared-down Broadway revival of “A Doll’s House,” the Oscar-winning actress doesn’t have props, period costumes or much of a set. To her surprise, she likes it.  <a href="https://nyti.ms/3xIcpPh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Administration Announces New Border Crackdown</h3>
-<sub>By Miriam Jordan</sub>
-<p>A tough new immigration measure could disqualify the vast majority of migrants from being able to seek asylum at the southern border.  <a href="https://nyti.ms/41gcVl8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>New York’s Wind Power Future Is Taking Shape. In Rhode Island.</h3>
 <sub>By Patrick McGeehan</sub>
@@ -117,22 +117,22 @@ There have been some interesting events happening around the world recently. In 
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jury in Georgia Trump Inquiry Recommended Multiple Indictments, Forewoman Says</h3>
-<sub>By Danny Hakim</sub>
-<p>She would not discuss specific indictments in the special grand jury’s report but noted that its recommendations were “not going to be some giant plot twist.”  <a href="https://nyti.ms/41sf2me"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Dept. Struggles to Enforce Early Release Program for Abused Inmates</h3>
 <sub>By Glenn Thrush</sub>
 <p>Prison officials and judges have been reluctant to support “compassionate releases” unless an inmate is ill, dying or incapacitated by age.  <a href="https://nyti.ms/3IUIbiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>‘The Democratic Party in New York Is a Disaster’</h3>
-<sub>By Ross Barkan</sub>
-<p>After losing crucial seats in the congressional midterms, a bitter civil war over the moribund state organization has spilled into the open.  <a href="https://nyti.ms/3IqIzns"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Heavy Snow Hitting States From California to the Upper Midwest</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>Nearly all of the United States is experiencing some form of notable weather this week — ice, snow or unseasonably warm temperatures.  <a href="https://nyti.ms/3YZa272"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>How Much Snow Will Fall Where You Live?</h3>
+<sub>By Aatish Bhatia, Josh Katz, Margot Sanger-Katz and Samuel Jacoby</sub>
+<p>Type in your community to see the full range of possibilities in the next few days.  <a href="https://nyti.ms/3hdEfL2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
