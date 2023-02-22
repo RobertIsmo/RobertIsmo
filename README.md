@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 22, Central Standard Time</p>
 <p>
-There are a lot of events happening around the world right now. In Poland, foreign refugees from Ukraine are being accepted more and increasing their influence over NATO and the Ukraine policy. In Israel, a deadly gunfight has broken out between Israeli soldiers and Palestinian gunmen during an operation to arrest Palestinian fighters. Taiwan is experiencing tension over a proposed U.S. expansion for its semiconductor company. In Plains, Georgia, the hometown of former U.S. President Jimmy Carter is anticipating his death as he enters hospice care, and experts are explaining what that care entails. The Midwest has been hit with heavy snowfall and Los Angeles County is preparing for a rare blizzard, while Ohio is still suffering from a train derailment with toxic chemicals, which has put the lifestyle of many farm owners in jeopardy. Meanwhile, President Trump has gone to East Palestine in an attempt to draw a contrast with President Biden&#39;s administration and their handling of the train derailment disaster.</p>
+There is a lot happening in the world right now. In Poland, which has previously been one of the most racially and culturally homogenous countries, it has begun to welcome refugees from Ukraine, who are fleeing their home country due to conflict. In the Middle East, there has been an Israeli raid on Palestinian fighters that resulted in numerous deaths, and tensions in the region are high. In the US, Jimmy Carter, a former President, is receiving hospice care right now and his hometown in Georgia is keeping vigil. Also in the US, heavy snowfall is hitting the Midwest and a train derailment spilled toxic chemicals near Ohio and has caused concerns about how that region&#39;s rural lifestyle could be threatened. Finally, former President Trump is traveling to East Palestine in an effort to draw a contrast between himself and current Prime Minister Biden.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Poland, Long Leery of Foreigners, Opened Up to Ukrainians</h3>
@@ -86,12 +86,6 @@ There are a lot of events happening around the world right now. In Poland, forei
 <p>An hourslong gunfight broke out between Israeli soldiers and Palestinian gunmen during an Israeli operation to arrest Palestinian fighters. The violence left the region braced for further unrest.  <a href="https://nyti.ms/3krMacS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Inside Taiwanese Chip Giant, a U.S. Expansion Stokes Tensions</h3>
-<sub>By John Liu and Paul Mozur</sub>
-<p>Employee doubts are rising about Taiwan Semiconductor Manufacturing Company’s $40 billion investment in an Arizona factory.  <a href="https://nyti.ms/3m0lKzm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Hometown That Drew Jimmy Carter Back Keeps Vigil</h3>
 <sub>By Rick Rojas and Nicole Craine</sub>
@@ -102,6 +96,12 @@ There are a lot of events happening around the world right now. In Poland, forei
 <h3>How Does Hospice Care Work?</h3>
 <sub>By Dana G. Smith</sub>
 <p>Hospice offers crucial end-of-life care with a focus on the patient’s comfort and dignity. Experts explain who is eligible, what it entails and how to understand and navigate the process.  <a href="https://nyti.ms/3SlzJvM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>The Wild World Inside Your Gut</h3>
+<sub>By Alice Callahan</sub>
+<p>Your trickiest digestive-health questions, answered by experts.  <a href="https://nyti.ms/3lPagyC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
