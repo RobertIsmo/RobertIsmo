@@ -58,13 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, February 21, Central Standard Time</p>
+<p>It is Wednesday, February 22, Central Standard Time</p>
 <p>
-Right now, tensions are high between the United States and Russia, particularly when it comes to nuclear armament agreements. On the US side, President Biden is accusing Russia&#39;s leader Putin of atrocities over a war in Ukraine, as well as leading world powers to rebuke him. Meanwhile, Poland is enjoying newfound influence in NATO after being proven right about Russia. Additionally, there&#39;s beginning to be suspicion about how Russia&#39;s top paramilitary chief may be faring vis-à-vis his access to Putin. 
-
-In terms of domestic events, a special grand jury in Georgia is recommending multiple indictments over the Trump administration before his term ended. Separately, Trump spent $10 million from his PAC last year on legal bills. Meanwhile, the Supreme Court is troubled over tech companies&#39; legal shields and a school system in Vermont is conflicted over slavery murals. 
-
-As for immigration policy here in the US, the Biden administration is announcing a new border crackdown. Over on the West Coast in California there has been missed opportunity to store more rain underground due to state bureaucracy getting in the way. Closer to home here in New York City, there have been incidents of people &#39;subway surfing&#39; resulting in two teens&#39; deaths and highlighting the dangers of this trend fueled by social media. Lastly, there&#39;s an extremely heartbreaking story about a decorated soldier&#39;s journey towards mental illness and ultimately death amid an inadequate health care system.</p>
+Right now, there are a number of major things happening around the world. In Russia, President Putin has taken action that signals an end to formal arms control and the last nuclear agreement between their country and the US. President Biden has spoken up against Putin and urged other nations to speak out against him as well. In the US, former president Trump has spent $10 million from his PAC on legal bills and the Supreme Court is reviewing a case that could affect social media platform protections. Additionally, there is a controversy in Vermont over murals of slavery at a school. The Biden Administration also announced a new border crackdown for asylum seekers. California is missing an opportunity to replenish its underground aquifers due to state bureaucracy. Sadly, two teens were killed in NYC due to subway surfing and Mexico&#39;s former top security official was convicted of cartel bribery. Finally, Israel is unlikely to extradite a Mexican ex-lawman wanted in connection with a mass abduction, while South Korea inches toward same-sex equality but the broader bill is stalled due to Christian conservatives.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin’s Move on Nuclear Treaty May Signal End to Formal Arms Control</h3>
@@ -76,18 +72,6 @@ As for immigration policy here in the US, the Biden administration is announcing
 <h3>Biden Accuses Putin of Atrocities and Urges World to Rebuke Him</h3>
 <sub>By David E. Sanger, Michael D. Shear and Anton Troianovski</sub>
 <p>In sharply opposed speeches, President Biden said Vladimir V. Putin bore sole responsibility for the war, while Mr. Putin said Russia had invaded in self-defense. But they agreed the war would not end soon.  <a href="https://nyti.ms/3SsG1Kb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>No One in Europe Is Telling Poland to ‘Shut Up’ Now</h3>
-<sub>By Andrew Higgins</sub>
-<p>Having been proved right about Russia, Warsaw is savoring its newfound influence in NATO and on Ukraine policy.  <a href="https://nyti.ms/3SjqCvC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s Top Paramilitary Chief Accuses Army Command of Treason</h3>
-<sub>By Anatoly Kurmanaev</sub>
-<p>Caustic accusations by the head of the Wagner mercenary group, Yevgeny Prigozhin, suggest that his vaunted access to Vladimir Putin may be on the wane.  <a href="https://nyti.ms/3xI7OwA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -103,7 +87,7 @@ As for immigration policy here in the US, the Biden administration is announcing
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Frustrated and Wary Over Legal Shield for Tech Companies</h3>
+<h3>Supreme Court Seems Wary of Limiting Protections for Social Media Platforms</h3>
 <sub>By Adam Liptak</sub>
 <p>The case, concerning a law that gives websites immunity for suits based on their users’ posts, has the potential to alter the very structure of the internet.  <a href="https://nyti.ms/3IfD7no"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
@@ -132,10 +116,22 @@ As for immigration policy here in the US, the Biden administration is announcing
 <p>In New York, incidents of people riding outside of train cars have more than quadrupled in one year. Two recent deaths show the dangers of a trend stoked by social media.  <a href="https://nyti.ms/3xFj9h5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Ian Fishback’s American Nightmare</h3>
-<sub>By C.J. Chivers</sub>
-<p>He was a decorated soldier, a whistle-blower against torture. Then he was undone by his own mind — and a health care system that utterly failed him.  <a href="https://nyti.ms/3Z6TEAN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Mexico’s Ex-Top Security Official Is Convicted of Cartel Bribery</h3>
+<sub>By Alan Feuer and Nate Schweber</sub>
+<p>A Brooklyn jury found Genaro García Luna guilty of taking millions of dollars from the Sinaloa drug cartel when he was in charge of Mexico’s bloody war on organized crime.  <a href="https://nyti.ms/3EuRN0K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Unlikely to Extradite Mexican Ex-Lawman Wanted in Mass Abduction, Officials Say</h3>
+<sub>By Ronen Bergman and Natalie Kitroeff</sub>
+<p>The Mexican authorities say Tomás Zerón tortured witnesses and tampered with evidence in a crucial investigation into the 2014 disappearance of 43 students.  <a href="https://nyti.ms/3ZaujGh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>South Korea Inches Toward Same-Sex Equality, but Broader Bill Is Stalled</h3>
+<sub>By John Yoon</sub>
+<p>Christian conservatives in the country have campaigned tirelessly for decades to prevent legislation that would offer protections to L.G.B.T.Q. people.  <a href="https://nyti.ms/3KuRBTg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
