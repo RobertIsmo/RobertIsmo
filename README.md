@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 23, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot happening in the world. The West is trying to isolate Russia, and Bulgaria is sending out secret task forces to hunt for Soviet arms. At the same time, Treasury Secretary Yellen is calling for more support for Ukraine and warning China against attempting to help Russia with U.S. sanctions. Closer to home, there&#39;s a trial underway in South Carolina of a former prominent lawyer accused of murdering his wife and son as his finances fell apart. There&#39;s also an investigation underway into a train derailment in East Palestine that showed an overheating wheel bearing had been set off by an alarm. 
-
-In terms of positive news, there&#39;s lots of government support for wind and solar projects, although getting these projects connected is taking much longer than expected. Meanwhile, R. Kelly has been sentenced to 20 years for child sex crimes, and Elizabeth Koch has launched a “Perception Box” venture which helps people self-investigate. 
-
-Finally, there&#39;s some extreme weather across the US too - firstly an Upper Midwest snowstorm which has knocked out power in Michigan, killing one firefighter, and now California is bracing itself for a rare blizzard as winter sets in.</p>
+Hey friend! It&#39;s been a really busy couple of weeks in the news. On the world stage, Russia is taking advantage of the fragmented West by not being isolated. There&#39;s also discord in Russia&#39;s military as the leader of Wagner disagrees with the senior command. Ukraine uses attack drones on occupied Mariupol to suggest they have longer range weapons than previously thought. In South Carolina, a prominent lawyer named Alex Murdaugh is on trial for murdering his wife and son. In Ohio, a preliminary report from an investigation into an Amtrak derailment suggests an alarm went off before it happened due to an overheating wheel bearing. There are billions of dollars for wind and solar projects in the U.S., but there aren&#39;t enough resources to plug them in. Singer R. Kelly was sentenced to 20 years for child sex crimes, and Elizabeth Koch (the daughter of Charles Koch) has a new venture called Perception Box. There have been tons of stories coming out since Covid started 3 years ago, but it feels like we still don&#39;t know how to talk about it. Heat pumps are becoming more popular which is leading to misunderstanding and misinformation. Finally, snowstorms have knocked out power for 900k customers and California is bracing for a rare blizzard this weekend. Wow! What a week!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The West Tried to Isolate Russia. It Didn’t Work.</h3>
@@ -73,15 +69,15 @@ Finally, there&#39;s some extreme weather across the US too - firstly an Upper M
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Bulgarian Factories and Secret Task Forces: How the West Hunts for Soviet Arms</h3>
-<sub>By Thomas Gibbons-Neff, Justin Scheck and Boryana Dzhambazova</sub>
-<p>Ukraine has long relied on Russian weapons for its armed forces. Now it is scrambling to get Soviet-era ammunition for those weapons, with the help of manufacturers even in rural corners of Eastern Europe.  <a href="https://nyti.ms/3XUrE2q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Prigozhin’s Feud With Russia’s Military Leaves Questions About Battlefield Results</h3>
+<sub>By Anatoly Kurmanaev</sub>
+<p>The leader of Wagner appears to have backed down from his latest criticism of Russia’s senior command. But his vitriolic remarks suggested more discord in Russia’s war effort.  <a href="https://nyti.ms/3xOr7nX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen Calls for More Ukraine Support and Warns China Against Helping Russia</h3>
-<sub>By Alan Rappeport</sub>
-<p>Ahead of a meeting of G20 finance ministers, the Treasury secretary offered a dark assessment of Russia’s economy and warned China of the consequences of helping Moscow skirt U.S. sanctions.  <a href="https://nyti.ms/3YUyNRL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine uses strikes on occupied Mariupol to suggest it now has longer-range weapons.</h3>
+<sub>By Marc Santora</sub>
+<p>Ukraine has used attack drones to hit relatively distant targets, but the new strikes paired with comments from a Ukrainian official stirred speculation that Kyiv may have acquired a new weapon.  <a href="https://nyti.ms/3xOEZyI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -109,9 +105,9 @@ Finally, there&#39;s some extreme weather across the US too - firstly an Upper M
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Elizabeth Koch Knows What You’re Thinking</h3>
+<h3>The Billionaire’s Daughter Knows What You’re Thinking</h3>
 <sub>By Brooks Barnes</sub>
-<p>The daughter of Charles Koch, the billionaire right-wing political force, has a new venture that is all about self-investigation. Two words: Perception Box.  <a href="https://nyti.ms/3YUVTHR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Elizabeth Koch, daughter of Charles Koch, the billionaire right-wing political force, has a new venture that is all about self-investigation. Two words: Perception Box.  <a href="https://nyti.ms/3YUVTHR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -127,9 +123,9 @@ Finally, there&#39;s some extreme weather across the US too - firstly an Upper M
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Snowstorm Knocks Out Power in the Upper Midwest</h3>
-<sub>By Derrick Bryson Taylor and Judson Jones</sub>
-<p>Most of the power outages were reported in Michigan, where a firefighter was killed.  <a href="https://nyti.ms/3ZdoGqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Snowstorm Knocks Out Power for More Than 900,000 Customers</h3>
+<sub>By Derrick Bryson Taylor, Judson Jones and Johnny Diaz</sub>
+<p>The power outages swept the Upper Midwest and New York State, and most were reported in Michigan, where a firefighter was killed.  <a href="https://nyti.ms/3ZdoGqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
