@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 23, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Eastern Europe, Bulgaria has been helping Ukraine search for old Soviet-era ammunition to arm their forces. Meanwhile, U.S. Treasury Secretary Janet Yellen is raising awareness on Russia and China&#39;s restricted relationships with them due to U.S. sanctions. In Ukraine, one business has managed to survive and even thrive despite a year of war in the region. In America, House Speaker McCarthy has come under fire for re-litigating the Jan. 6 Capitol attack with the help of a Fox News host. Additionally, former members of the far-right group the Proud Boys are testifying to their plans of an almost &quot;all-out revolution.&quot; Additionally, in Turkey and Mexico, citizens are questioning their government’s democratic institutions and elections due to issues such as safety standards and benefit changes&#x2F;neglect respectively. On a more personal, day-to-day level, people are struggling with how to talk about the COVID-19 pandemic which is still impacting many individuals. And finally, in India, a wrestling academy for young women has opened up for those looking for freedom and hope in their lives.</p>
+There seems to be a lot of tension and instability happening in the world right now. The US is facing off against Russia, and the West is trying to track down Soviet arms. There is also a lot of uncertainty regarding China and its role in helping Russia skirt US sanctions. Closer to home, there is still debate surrounding what really happened during the Jan. 6 Capitol riot. There have also been some armed conflicts that have happened in Turkey, and we are still trying to comprehend the toll of the COVID-19 pandemic. Lastly, there have been snowstorms, power outages, and a gunman in Florida who killed three people—including a child and a reporter.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The U.S. Tried to Isolate Russia. It Didn’t Work.</h3>
+<sub>By Josh Holder, Lauren Leatherby, Anton Troianovski and Weiyi Cai</sub>
+<p>The West never won over as much of the world as it initially seemed. Here’s how Russia is taking advantage of a fragmented world.  <a href="https://nyti.ms/41ni9vG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Bulgarian Factories and Secret Task Forces: How the West Hunts for Soviet Arms</h3>
 <sub>By Thomas Gibbons-Neff, Justin Scheck and Boryana Dzhambazova</sub>
@@ -74,17 +80,17 @@ There is a lot going on in the world right now. In Eastern Europe, Bulgaria has 
 <p>Ahead of a meeting of G20 finance ministers, the Treasury secretary offered a dark assessment of Russia’s economy and warned China of the consequences of helping Moscow skirt U.S. sanctions.  <a href="https://nyti.ms/3YUyNRL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How One Ukrainian Company Survived, and Thrived, Through a Year of War</h3>
-<sub>By Patricia Cohen</sub>
-<p>For Kormotech and its 1,300 employees, Russia’s invasion disrupted everything. After nimble decision-making and good fortune, sales are up, providing Ukraine with much-needed tax revenue.  <a href="https://nyti.ms/3Ss5EuO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Sharing Video With Fox Host, McCarthy Hits Rewind on Jan. 6</h3>
 <sub>By Luke Broadwater and Jonathan Swan</sub>
 <p>In granting exclusive access to Jan. 6 Capitol surveillance footage to a cable news host bent on rewriting the history of the attack, the speaker effectively outsourced a politically toxic re-litigation of the riot.  <a href="https://nyti.ms/3lPnE5S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Legal Team Assails Georgia Inquiry</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>The lawyers said public comments by the forewoman of the special grand jury that investigated election interference had “poisoned” the process. But they have yet to challenge anything in court.  <a href="https://nyti.ms/3YUOLez"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Former Proud Boy Says Group Prepared for ‘All-Out Revolution’ on Jan. 6</h3>
@@ -98,41 +104,35 @@ There is a lot going on in the world right now. In Eastern Europe, Bulgaria has 
 <p>More than 43,000 deaths in Turkey from an earthquake have raised painful and angry questions over whether some of those fatalities could have been avoided with better building standards.  <a href="https://nyti.ms/3ILeFf8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mexico Hobbles Election Agency That Helped End One-Party Rule</h3>
-<sub>By Natalie Kitroeff</sub>
-<p>The changes come ahead of a presidential election next year and are part of a pattern of challenges to democratic institutions across the Western Hemisphere.  <a href="https://nyti.ms/3KwKDgl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Three Years Into Covid, We Still Don’t Know How to Talk About It</h3>
 <sub>By Jon Mooallem and Photographs by Ashley Gilbertson</sub>
 <p>Most Americans think they know the story of the pandemic. But when a writer immersed himself in a Covid oral-history project, he realized how much we’re still missing.  <a href="https://nyti.ms/3XOeO5O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Cities Are Cutting Health Insurance, and People Are Angry</h3>
-<sub>By Keith Bradsher</sub>
-<p>Local governments, short on money after three years of “zero Covid” and faced with many more retirees, are raising costs and overhauling benefits.  <a href="https://nyti.ms/3kkoaIR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>As Heat Pumps Go Mainstream, a Big Question: Can They Handle Real Cold?</h3>
+<sub>By Elena Shao</sub>
+<p>The devices are increasingly the target of misconception and, at times, misinformation. We’ve got the facts.  <a href="https://nyti.ms/3KwULpr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Snowstorm Knocks Out Power in the Upper Midwest</h3>
+<sub>By Derrick Bryson Taylor and Judson Jones</sub>
+<p>Most of the power outages were reported in Michigan, where a firefighter was killed.  <a href="https://nyti.ms/3ZdoGqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Health Insurance Works in China, and How It’s Changing</h3>
-<sub>By Keith Bradsher</sub>
-<p>China is undertaking a far-reaching overhaul of its health care system as its cities reel from the financial pressure of three years of strict Covid policies.  <a href="https://nyti.ms/3SmegmD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>California Braces for Rare Blizzard Conditions</h3>
+<sub>By Judson Jones and Derrick Bryson Taylor</sub>
+<p>Officials have warned residents to prepare for dangerous weather through the weekend.  <a href="https://nyti.ms/3KBg8WD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Chip Makers Turn Cutthroat in Fight for Share of Federal Money</h3>
-<sub>By Ana Swanson and Don Clark</sub>
-<p>Semiconductor companies, which united to get the CHIPS Act approved, have set off a lobbying frenzy as they argue for more cash than their competitors.  <a href="https://nyti.ms/3m4z0Dq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>At This Indian Wrestling Academy, Young Women Find Freedom and Hope</h3>
-<sub>By Prarthna Singh and Snigdha Poonam</sub>
-<p>Since 2016, more and more families in the traditionally conservative Haryana region have been sending their daughters away to training programs in the hopes that they might return home a pehelwan: a professional competitive wrestler.  <a href="https://nyti.ms/3IooGxl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gunman in Florida Kills 3, Including Child and Reporter, Sheriff Says</h3>
+<sub>By Eduardo Medina and April Rubin</sub>
+<p>The suspect killed a woman near Orlando on Wednesday morning, then returned later in the day and killed a 9-year-old girl and a journalist who was covering the original shooting, the authorities said.  <a href="https://nyti.ms/3Z9rnto"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
