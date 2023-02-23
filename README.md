@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 23, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now, especially in the Western Hemisphere. In Mexico, the government is making changes to its election agency that could affect the presidential elections next year by potentially weakening the country&#39;s democratic institutions. Meanwhile, in Ukraine, a company has managed to survive and even thrive despite ongoing war in the region. In Russia, a concert and rally sought to normalize their alleged invasion of Ukraine while Ukraine retaliated with strikes deep behind enemy lines.
-
-In the US, Speaker of the House Nancy McCarthy stirred controversy by granting exclusive access to Capitol surveillance footage from the January 6th attack to a Fox News host that supports former president Trump. Furthermore, Jared Kushner and Ivanka Trump have been subpoenaed for testimonies related to the investigation into Trump&#39;s efforts to overturn his election defeat. Meanwhile investigators are looking into former Proud Boy leader Jeremy Bertino’s testimonies which suggest that the far-right group was ready for an all-out revolution before storming the Capitol. 
-
-Lastly, Chinese tech entrepreneur Bao Fan has mysteriously disappeared, causing people in China’s tech sector to worry about what his disappearance says about China’s heavy hand in business. Finally, experts are shedding light on digestive health problems that many of us face and offering advice on how to manage them.</p>
+There&#39;s a lot going on around the world right now. In Mexico, the government has restructured its election agency ahead of next year&#39;s presidential election, which has been met with criticism from some. In Ukraine, a company managed to stay afloat and even experience growth despite ongoing conflict between Russia and Ukraine. The United States is also undergoing several criminal investigations for events that happened during Donald Trump&#39;s presidency, such as the January 6th attack on the Capitol Building. And China is dealing with an unexpected disappearance of a tech entrepreneur which is causing a lack of business confidence in the country.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Mexico Hobbles Election Agency That Helped End One-Party Rule</h3>
@@ -84,17 +80,11 @@ Lastly, Chinese tech entrepreneur Bao Fan has mysteriously disappeared, causing 
 <p>For Kormotech and its 1,300 employees, Russia’s invasion disrupted everything. After nimble decision-making and good fortune, sales are up, providing Ukraine with much-needed tax revenue.  <a href="https://nyti.ms/3Ss5EuO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin and Biden Shore Up Alliances in Dueling Appearances</h3>
-<sub>By Michael D. Shear, David E. Sanger and Anton Troianovski</sub>
-<p>On the surface, it looked like a reversion to the Cold War era. The reality was even more complicated.  <a href="https://nyti.ms/3kmHWmY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Celebration of War, Moscow Displays, and Demands, Unity</h3>
-<sub>By Valerie Hopkins and Nanna Heitmann</sub>
-<p>A concert and rally in Russia’s largest stadium romanticized the invasion of Ukraine, as Vladimir V. Putin and his government seek to normalize the country’s war footing.  <a href="https://nyti.ms/3kjb924"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yellen Calls for More Ukraine Support as G20 Finance Ministers Gather</h3>
+<sub>By Alan Rappeport</sub>
+<p>The Treasury secretary offered a dark assessment of Russia’s economy but a more upbeat outlook for the global economic recovery.  <a href="https://nyti.ms/3YUyNRL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Hits Russian Positions Deep Behind Enemy Lines</h3>
@@ -136,6 +126,12 @@ Lastly, Chinese tech entrepreneur Bao Fan has mysteriously disappeared, causing 
 <h3>The Wild World Inside Your Gut</h3>
 <sub>By Alice Callahan</sub>
 <p>Your trickiest digestive-health questions, answered by experts.  <a href="https://nyti.ms/3lPagyC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Hometown That Drew Jimmy Carter Back Keeps Vigil</h3>
+<sub>By Rick Rojas and Nicole Craine</sub>
+<p>Plains, Ga., is indelibly linked with the legacy of the 39th president. After he entered hospice care, the town has been gripped by a somber and sometimes strange wait.  <a href="https://nyti.ms/3KuOA56"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
