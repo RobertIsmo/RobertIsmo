@@ -60,10 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 23, Central Standard Time</p>
 <p>
-There seems to be a lot of tension and instability happening in the world right now. The US is facing off against Russia, and the West is trying to track down Soviet arms. There is also a lot of uncertainty regarding China and its role in helping Russia skirt US sanctions. Closer to home, there is still debate surrounding what really happened during the Jan. 6 Capitol riot. There have also been some armed conflicts that have happened in Turkey, and we are still trying to comprehend the toll of the COVID-19 pandemic. Lastly, there have been snowstorms, power outages, and a gunman in Florida who killed three people—including a child and a reporter.</p>
+Right now, there&#39;s a lot happening in the world. The West is trying to isolate Russia, and Bulgaria is sending out secret task forces to hunt for Soviet arms. At the same time, Treasury Secretary Yellen is calling for more support for Ukraine and warning China against attempting to help Russia with U.S. sanctions. Closer to home, there&#39;s a trial underway in South Carolina of a former prominent lawyer accused of murdering his wife and son as his finances fell apart. There&#39;s also an investigation underway into a train derailment in East Palestine that showed an overheating wheel bearing had been set off by an alarm. 
+
+In terms of positive news, there&#39;s lots of government support for wind and solar projects, although getting these projects connected is taking much longer than expected. Meanwhile, R. Kelly has been sentenced to 20 years for child sex crimes, and Elizabeth Koch has launched a “Perception Box” venture which helps people self-investigate. 
+
+Finally, there&#39;s some extreme weather across the US too - firstly an Upper Midwest snowstorm which has knocked out power in Michigan, killing one firefighter, and now California is bracing itself for a rare blizzard as winter sets in.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The U.S. Tried to Isolate Russia. It Didn’t Work.</h3>
+<h3>The West Tried to Isolate Russia. It Didn’t Work.</h3>
 <sub>By Josh Holder, Lauren Leatherby, Anton Troianovski and Weiyi Cai</sub>
 <p>The West never won over as much of the world as it initially seemed. Here’s how Russia is taking advantage of a fragmented world.  <a href="https://nyti.ms/41ni9vG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
@@ -81,27 +85,33 @@ There seems to be a lot of tension and instability happening in the world right 
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Sharing Video With Fox Host, McCarthy Hits Rewind on Jan. 6</h3>
-<sub>By Luke Broadwater and Jonathan Swan</sub>
-<p>In granting exclusive access to Jan. 6 Capitol surveillance footage to a cable news host bent on rewriting the history of the attack, the speaker effectively outsourced a politically toxic re-litigation of the riot.  <a href="https://nyti.ms/3lPnE5S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<h3>The ‘Murdaugh Murders’: What to Know About the Trial in South Carolina</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>Alex Murdaugh, once a prominent lawyer, is on trial for murder, charged with killing his wife and son as his finances and legal career fell into ruin.  <a href="https://nyti.ms/3n0HjwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, September 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Legal Team Assails Georgia Inquiry</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>The lawyers said public comments by the forewoman of the special grand jury that investigated election interference had “poisoned” the process. But they have yet to challenge anything in court.  <a href="https://nyti.ms/3YUOLez"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Crew Tried to Stop Train Before Derailment in East Palestine, Investigators Say</h3>
+<sub>By Mark Walker and Emily Cochrane</sub>
+<p>An overheating wheel bearing set off an audible alarm on the train before it derailed this month, according to a preliminary report from the National Transportation Safety Board.  <a href="https://nyti.ms/3IoVEOk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Former Proud Boy Says Group Prepared for ‘All-Out Revolution’ on Jan. 6</h3>
-<sub>By Zach Montague and Alan Feuer</sub>
-<p>The two-day testimony of Jeremy Bertino, a former leader of the far-right group, shed new light on the Proud Boys’ growing desperation in the weeks before the riot.  <a href="https://nyti.ms/3KA1Q8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The U.S. Has Billions for Wind and Solar Projects. Good Luck Plugging Them In.</h3>
+<sub>By Brad Plumer</sub>
+<p>An explosion in proposed clean energy ventures has overwhelmed the system for connecting new power sources to homes and businesses.  <a href="https://nyti.ms/3ZbR90N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Turkish Builders Come Under Intense Scrutiny Over Shoddy Construction</h3>
-<sub>By Ben Hubbard, Elif Ince and Safak Timur</sub>
-<p>More than 43,000 deaths in Turkey from an earthquake have raised painful and angry questions over whether some of those fatalities could have been avoided with better building standards.  <a href="https://nyti.ms/3ILeFf8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>R. Kelly Sentenced to 20 Years for Child Sex Crimes</h3>
+<sub>By Robert Chiarito and Julia Jacobs</sub>
+<p>The singer will serve most of the sentence in federal prison at the same time as a 30-year term for racketeering and sex trafficking.  <a href="https://nyti.ms/3KyAxf6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Elizabeth Koch Knows What You’re Thinking</h3>
+<sub>By Brooks Barnes</sub>
+<p>The daughter of Charles Koch, the billionaire right-wing political force, has a new venture that is all about self-investigation. Two words: Perception Box.  <a href="https://nyti.ms/3YUVTHR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -127,12 +137,6 @@ There seems to be a lot of tension and instability happening in the world right 
 <sub>By Judson Jones and Derrick Bryson Taylor</sub>
 <p>Officials have warned residents to prepare for dangerous weather through the weekend.  <a href="https://nyti.ms/3KBg8WD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gunman in Florida Kills 3, Including Child and Reporter, Sheriff Says</h3>
-<sub>By Eduardo Medina and April Rubin</sub>
-<p>The suspect killed a woman near Orlando on Wednesday morning, then returned later in the day and killed a 9-year-old girl and a journalist who was covering the original shooting, the authorities said.  <a href="https://nyti.ms/3Z9rnto"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
