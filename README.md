@@ -60,9 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 22, Central Standard Time</p>
 <p>
-There are a lot of changes happening in the world right now. In Mexico, their election agency is being hobbled just ahead of the 2024 presidential election, which is part of a larger pattern of challenges to democratic institutions across the western hemisphere. Meanwhile, Vladimir Putin and President Biden made dueling appearances recently to shore up alliances - an act that had to do with the ongoing Cold War tensions between them. Speaking of Russia, there was a celebration of war and national unity in Moscow recently, while Ukraine has launched multiple strikes deep behind enemy lines in their port city of Mariupol amidst the ongoing conflict. Closer to home, Donald Trump&#39;s former right-wing supporters are now under subpoena for the Jan. 6 investigation and one former Proud Boy even stated the group was planning an &#39;all-out revolution.&#39; Even more concerning, Jared Kushner and Ivanka Trump have also been subpoenaed as part of this probe. 
+There are some major changes happening in the world right now. In Mexico, the government has made changes to its election agency ahead of next year&#39;s presidential election. This has been part of an ongoing pattern of challenges to democratic institutions in many parts of the Western Hemisphere. Meanwhile, Russia and the US have both shored up alliances through dueling appearances recently. Russia has even had a celebration of war in Moscow while Ukraine hit Russian positions deep behind enemy lines recently too.
 
-On top of all this, business confidence in China has taken a hit due to one tech rainmaker mysteriously vanishing and there are reports that within your gut exists an entire complex wild world full of mysteries that experts are just starting to delve into. Lastly, Plains, Georgia has been keeping vigil for their hometown hero and former President Jimmy Carter who recently entered hospice care.</p>
+Back home in the US, Donald Trump is under investigation for his role in the Capitol Riot on January 6th. His daughter Ivanka and son-in-law Jared Kushner have been subpoenaed as part of the investigation. Former Proud Boy members have testified that the group was preparing for &quot;all-out revolution&quot; on that day, and we&#39;re now seeing how four different criminal investigations into Trump could reach key decisions soon. 
+
+On a business note, tech mogul Bao Fan has suddenly gone missing in China, which has created a lot of uncertainty in Chinese tech circles. Lastly, we&#39;ve got new insights into your gut microbiome thanks to some expert research that sheds light on digestive health questions! 
+
+Finally, folks in Plains, Georgia - Jimmy Carter&#39;s hometown - are keeping vigil as he enters hospice care due to his advanced age. It&#39;s a somber but strangely special moment for those who are close to him there.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Mexico Hobbles Election Agency That Helped End One-Party Rule</h3>
@@ -95,7 +99,7 @@ On top of all this, business confidence in China has taken a hit due to one tech
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Giving Jan. 6 Tapes to Carlson, McCarthy Keeps a Promise to the Hard Right</h3>
+<h3>In Sharing Video With Fox Host, McCarthy Hits Rewind on Jan. 6</h3>
 <sub>By Luke Broadwater and Jonathan Swan</sub>
 <p>In granting exclusive access to Jan. 6 Capitol surveillance footage to a cable news host bent on rewriting the history of the attack, the speaker effectively outsourced a politically toxic re-litigation of the riot.  <a href="https://nyti.ms/3lPnE5S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
