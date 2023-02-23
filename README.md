@@ -60,36 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 23, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world right now. In Mexico, the government has restructured its election agency ahead of next year&#39;s presidential election, which has been met with criticism from some. In Ukraine, a company managed to stay afloat and even experience growth despite ongoing conflict between Russia and Ukraine. The United States is also undergoing several criminal investigations for events that happened during Donald Trump&#39;s presidency, such as the January 6th attack on the Capitol Building. And China is dealing with an unexpected disappearance of a tech entrepreneur which is causing a lack of business confidence in the country.</p>
+There is a lot going on in the world right now. In Eastern Europe, Bulgaria has been helping Ukraine search for old Soviet-era ammunition to arm their forces. Meanwhile, U.S. Treasury Secretary Janet Yellen is raising awareness on Russia and China&#39;s restricted relationships with them due to U.S. sanctions. In Ukraine, one business has managed to survive and even thrive despite a year of war in the region. In America, House Speaker McCarthy has come under fire for re-litigating the Jan. 6 Capitol attack with the help of a Fox News host. Additionally, former members of the far-right group the Proud Boys are testifying to their plans of an almost &quot;all-out revolution.&quot; Additionally, in Turkey and Mexico, citizens are questioning their government’s democratic institutions and elections due to issues such as safety standards and benefit changes&#x2F;neglect respectively. On a more personal, day-to-day level, people are struggling with how to talk about the COVID-19 pandemic which is still impacting many individuals. And finally, in India, a wrestling academy for young women has opened up for those looking for freedom and hope in their lives.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mexico Hobbles Election Agency That Helped End One-Party Rule</h3>
-<sub>By Natalie Kitroeff</sub>
-<p>The changes come ahead of a presidential election next year and are part of a pattern of challenges to democratic institutions across the Western Hemisphere.  <a href="https://nyti.ms/3KwKDgl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<h3>Bulgarian Factories and Secret Task Forces: How the West Hunts for Soviet Arms</h3>
+<sub>By Thomas Gibbons-Neff, Justin Scheck and Boryana Dzhambazova</sub>
+<p>Ukraine has long relied on Russian weapons for its armed forces. Now it is scrambling to get Soviet-era ammunition for those weapons, with the help of manufacturers even in rural corners of Eastern Europe.  <a href="https://nyti.ms/3XUrE2q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>México restringe a su instituto electoral, que contribuyó a acabar con el régimen de partido único</h3>
-<sub>By Natalie Kitroeff</sub>
-<p>Los cambios suceden en la antesala de los comicios presidenciales de 2024 y son parte de un patrón de desafíos a las instituciones democráticas en el hemisferio occidental.  <a href="https://nyti.ms/3Svx7eX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yellen Calls for More Ukraine Support and Warns China Against Helping Russia</h3>
+<sub>By Alan Rappeport</sub>
+<p>Ahead of a meeting of G20 finance ministers, the Treasury secretary offered a dark assessment of Russia’s economy and warned China of the consequences of helping Moscow skirt U.S. sanctions.  <a href="https://nyti.ms/3YUyNRL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How One Ukrainian Company Survived, and Thrived, Through a Year of War</h3>
 <sub>By Patricia Cohen</sub>
 <p>For Kormotech and its 1,300 employees, Russia’s invasion disrupted everything. After nimble decision-making and good fortune, sales are up, providing Ukraine with much-needed tax revenue.  <a href="https://nyti.ms/3Ss5EuO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen Calls for More Ukraine Support as G20 Finance Ministers Gather</h3>
-<sub>By Alan Rappeport</sub>
-<p>The Treasury secretary offered a dark assessment of Russia’s economy but a more upbeat outlook for the global economic recovery.  <a href="https://nyti.ms/3YUyNRL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Hits Russian Positions Deep Behind Enemy Lines</h3>
-<sub>By Marc Santora and Andrew E. Kramer</sub>
-<p>Nearly a dozen explosions rang out in the Russian-held Ukrainian port city of Mariupol, site of one of the best-known battles of the war.  <a href="https://nyti.ms/3m0rxoP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,40 +87,52 @@ There&#39;s a lot going on around the world right now. In Mexico, the government
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jared Kushner and Ivanka Trump Subpoenaed in Jan. 6 Investigation</h3>
-<sub>By Maggie Haberman and Michael S. Schmidt</sub>
-<p>The special counsel overseeing the inquiry into Donald Trump’s efforts to retain power after the 2020 election wants the former president’s daughter and son-in-law to testify to a grand jury.  <a href="https://nyti.ms/3IoeMvM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Former Proud Boy Says Group Prepared for ‘All-Out Revolution’ on Jan. 6</h3>
 <sub>By Zach Montague and Alan Feuer</sub>
 <p>The two-day testimony of Jeremy Bertino, a former leader of the far-right group, shed new light on the Proud Boys’ growing desperation in the weeks before the riot.  <a href="https://nyti.ms/3KA1Q8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Progress and Obstacles in 4 Criminal Inquiries Into Trump</h3>
-<sub>By Alan Feuer, Danny Hakim and Ben Protess</sub>
-<p>The revelations from grand jury proceedings in Georgia are the latest signs that federal and local inquiries into the former president could reach key decision points in coming months.  <a href="https://nyti.ms/3IMu7aI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Turkish Builders Come Under Intense Scrutiny Over Shoddy Construction</h3>
+<sub>By Ben Hubbard, Elif Ince and Safak Timur</sub>
+<p>More than 43,000 deaths in Turkey from an earthquake have raised painful and angry questions over whether some of those fatalities could have been avoided with better building standards.  <a href="https://nyti.ms/3ILeFf8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mexico Hobbles Election Agency That Helped End One-Party Rule</h3>
+<sub>By Natalie Kitroeff</sub>
+<p>The changes come ahead of a presidential election next year and are part of a pattern of challenges to democratic institutions across the Western Hemisphere.  <a href="https://nyti.ms/3KwKDgl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Three Years Into Covid, We Still Don’t Know How to Talk About It</h3>
+<sub>By Jon Mooallem and Photographs by Ashley Gilbertson</sub>
+<p>Most Americans think they know the story of the pandemic. But when a writer immersed himself in a Covid oral-history project, he realized how much we’re still missing.  <a href="https://nyti.ms/3XOeO5O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Tech Rainmaker Vanishes, and So Does Business Confidence</h3>
-<sub>By Li Yuan</sub>
-<p>Bao Fan’s firm says he’s unreachable, and others in the tech sector are worried for him and fear what his disappearance says about China’s heavy hand in business.  <a href="https://nyti.ms/3Skyyg4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<h3>China’s Cities Are Cutting Health Insurance, and People Are Angry</h3>
+<sub>By Keith Bradsher</sub>
+<p>Local governments, short on money after three years of “zero Covid” and faced with many more retirees, are raising costs and overhauling benefits.  <a href="https://nyti.ms/3kkoaIR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>The Wild World Inside Your Gut</h3>
-<sub>By Alice Callahan</sub>
-<p>Your trickiest digestive-health questions, answered by experts.  <a href="https://nyti.ms/3lPagyC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Health Insurance Works in China, and How It’s Changing</h3>
+<sub>By Keith Bradsher</sub>
+<p>China is undertaking a far-reaching overhaul of its health care system as its cities reel from the financial pressure of three years of strict Covid policies.  <a href="https://nyti.ms/3SmegmD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Hometown That Drew Jimmy Carter Back Keeps Vigil</h3>
-<sub>By Rick Rojas and Nicole Craine</sub>
-<p>Plains, Ga., is indelibly linked with the legacy of the 39th president. After he entered hospice care, the town has been gripped by a somber and sometimes strange wait.  <a href="https://nyti.ms/3KuOA56"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Chip Makers Turn Cutthroat in Fight for Share of Federal Money</h3>
+<sub>By Ana Swanson and Don Clark</sub>
+<p>Semiconductor companies, which united to get the CHIPS Act approved, have set off a lobbying frenzy as they argue for more cash than their competitors.  <a href="https://nyti.ms/3m4z0Dq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>At This Indian Wrestling Academy, Young Women Find Freedom and Hope</h3>
+<sub>By Prarthna Singh and Snigdha Poonam</sub>
+<p>Since 2016, more and more families in the traditionally conservative Haryana region have been sending their daughters away to training programs in the hopes that they might return home a pehelwan: a professional competitive wrestler.  <a href="https://nyti.ms/3IooGxl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
