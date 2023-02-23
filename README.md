@@ -58,15 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, February 22, Central Standard Time</p>
+<p>It is Thursday, February 23, Central Standard Time</p>
 <p>
-There are some major changes happening in the world right now. In Mexico, the government has made changes to its election agency ahead of next year&#39;s presidential election. This has been part of an ongoing pattern of challenges to democratic institutions in many parts of the Western Hemisphere. Meanwhile, Russia and the US have both shored up alliances through dueling appearances recently. Russia has even had a celebration of war in Moscow while Ukraine hit Russian positions deep behind enemy lines recently too.
+There is a lot happening in the world right now, especially in the Western Hemisphere. In Mexico, the government is making changes to its election agency that could affect the presidential elections next year by potentially weakening the country&#39;s democratic institutions. Meanwhile, in Ukraine, a company has managed to survive and even thrive despite ongoing war in the region. In Russia, a concert and rally sought to normalize their alleged invasion of Ukraine while Ukraine retaliated with strikes deep behind enemy lines.
 
-Back home in the US, Donald Trump is under investigation for his role in the Capitol Riot on January 6th. His daughter Ivanka and son-in-law Jared Kushner have been subpoenaed as part of the investigation. Former Proud Boy members have testified that the group was preparing for &quot;all-out revolution&quot; on that day, and we&#39;re now seeing how four different criminal investigations into Trump could reach key decisions soon. 
+In the US, Speaker of the House Nancy McCarthy stirred controversy by granting exclusive access to Capitol surveillance footage from the January 6th attack to a Fox News host that supports former president Trump. Furthermore, Jared Kushner and Ivanka Trump have been subpoenaed for testimonies related to the investigation into Trump&#39;s efforts to overturn his election defeat. Meanwhile investigators are looking into former Proud Boy leader Jeremy Bertino’s testimonies which suggest that the far-right group was ready for an all-out revolution before storming the Capitol. 
 
-On a business note, tech mogul Bao Fan has suddenly gone missing in China, which has created a lot of uncertainty in Chinese tech circles. Lastly, we&#39;ve got new insights into your gut microbiome thanks to some expert research that sheds light on digestive health questions! 
-
-Finally, folks in Plains, Georgia - Jimmy Carter&#39;s hometown - are keeping vigil as he enters hospice care due to his advanced age. It&#39;s a somber but strangely special moment for those who are close to him there.</p>
+Lastly, Chinese tech entrepreneur Bao Fan has mysteriously disappeared, causing people in China’s tech sector to worry about what his disappearance says about China’s heavy hand in business. Finally, experts are shedding light on digestive health problems that many of us face and offering advice on how to manage them.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Mexico Hobbles Election Agency That Helped End One-Party Rule</h3>
@@ -75,9 +73,15 @@ Finally, folks in Plains, Georgia - Jimmy Carter&#39;s hometown - are keeping vi
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>México restringe a su instituto electoral</h3>
+<h3>México restringe a su instituto electoral, que contribuyó a acabar con el régimen de partido único</h3>
 <sub>By Natalie Kitroeff</sub>
 <p>Los cambios suceden en la antesala de los comicios presidenciales de 2024 y son parte de un patrón de desafíos a las instituciones democráticas en el hemisferio occidental.  <a href="https://nyti.ms/3Svx7eX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How One Ukrainian Company Survived, and Thrived, Through a Year of War</h3>
+<sub>By Patricia Cohen</sub>
+<p>For Kormotech and its 1,300 employees, Russia’s invasion disrupted everything. After nimble decision-making and good fortune, sales are up, providing Ukraine with much-needed tax revenue.  <a href="https://nyti.ms/3Ss5EuO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -117,7 +121,7 @@ Finally, folks in Plains, Georgia - Jimmy Carter&#39;s hometown - are keeping vi
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here’s the Status of the Four Criminal Investigations Into Donald Trump</h3>
+<h3>The Progress and Obstacles in 4 Criminal Inquiries Into Trump</h3>
 <sub>By Alan Feuer, Danny Hakim and Ben Protess</sub>
 <p>The revelations from grand jury proceedings in Georgia are the latest signs that federal and local inquiries into the former president could reach key decision points in coming months.  <a href="https://nyti.ms/3IMu7aI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
@@ -132,12 +136,6 @@ Finally, folks in Plains, Georgia - Jimmy Carter&#39;s hometown - are keeping vi
 <h3>The Wild World Inside Your Gut</h3>
 <sub>By Alice Callahan</sub>
 <p>Your trickiest digestive-health questions, answered by experts.  <a href="https://nyti.ms/3lPagyC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Hometown That Drew Jimmy Carter Back Keeps Vigil</h3>
-<sub>By Rick Rojas and Nicole Craine</sub>
-<p>Plains, Ga., is indelibly linked with the legacy of the 39th president. After he entered hospice care, the town has been gripped by a somber and sometimes strange wait.  <a href="https://nyti.ms/3KuOA56"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
