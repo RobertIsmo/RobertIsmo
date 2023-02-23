@@ -60,42 +60,68 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, February 22, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Poland, which has previously been one of the most racially and culturally homogenous countries, it has begun to welcome refugees from Ukraine, who are fleeing their home country due to conflict. In the Middle East, there has been an Israeli raid on Palestinian fighters that resulted in numerous deaths, and tensions in the region are high. In the US, Jimmy Carter, a former President, is receiving hospice care right now and his hometown in Georgia is keeping vigil. Also in the US, heavy snowfall is hitting the Midwest and a train derailment spilled toxic chemicals near Ohio and has caused concerns about how that region&#39;s rural lifestyle could be threatened. Finally, former President Trump is traveling to East Palestine in an effort to draw a contrast between himself and current Prime Minister Biden.</p>
+There are a lot of changes happening in the world right now. In Mexico, their election agency is being hobbled just ahead of the 2024 presidential election, which is part of a larger pattern of challenges to democratic institutions across the western hemisphere. Meanwhile, Vladimir Putin and President Biden made dueling appearances recently to shore up alliances - an act that had to do with the ongoing Cold War tensions between them. Speaking of Russia, there was a celebration of war and national unity in Moscow recently, while Ukraine has launched multiple strikes deep behind enemy lines in their port city of Mariupol amidst the ongoing conflict. Closer to home, Donald Trump&#39;s former right-wing supporters are now under subpoena for the Jan. 6 investigation and one former Proud Boy even stated the group was planning an &#39;all-out revolution.&#39; Even more concerning, Jared Kushner and Ivanka Trump have also been subpoenaed as part of this probe. 
+
+On top of all this, business confidence in China has taken a hit due to one tech rainmaker mysteriously vanishing and there are reports that within your gut exists an entire complex wild world full of mysteries that experts are just starting to delve into. Lastly, Plains, Georgia has been keeping vigil for their hometown hero and former President Jimmy Carter who recently entered hospice care.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Poland, Long Leery of Foreigners, Opened Up to Ukrainians</h3>
-<sub>By Andrew Higgins</sub>
-<p>The country, once one of the world’s most ethnically and culturally homogeneous, has accommodated far more refugees from neighboring Ukraine than any other nation.  <a href="https://nyti.ms/3YQWv1e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Mexico Hobbles Election Agency That Helped End One-Party Rule</h3>
+<sub>By Natalie Kitroeff</sub>
+<p>The changes come ahead of a presidential election next year and are part of a pattern of challenges to democratic institutions across the Western Hemisphere.  <a href="https://nyti.ms/3KwKDgl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>México restringe a su instituto electoral</h3>
+<sub>By Natalie Kitroeff</sub>
+<p>Los cambios suceden en la antesala de los comicios presidenciales de 2024 y son parte de un patrón de desafíos a las instituciones democráticas en el hemisferio occidental.  <a href="https://nyti.ms/3Svx7eX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>No One in Europe Is Telling Poland to ‘Shut Up’ Now</h3>
-<sub>By Andrew Higgins</sub>
-<p>Having been proved right about Russia, Warsaw is savoring its newfound influence in NATO and on Ukraine policy.  <a href="https://nyti.ms/3SjqCvC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine appears to attack deep into Russian-occupied territory.</h3>
-<sub>By Marc Santora</sub>
-<p>  <a href="https://nyti.ms/3m10Vnp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Putin and Biden Shore Up Alliances in Dueling Appearances</h3>
+<sub>By Michael D. Shear, David E. Sanger and Anton Troianovski</sub>
+<p>On the surface, it looked like a reversion to the Cold War era. The reality was even more complicated.  <a href="https://nyti.ms/3kmHWmY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Least 10 Palestinians Killed During Israeli Raid in West Bank</h3>
-<sub>By Patrick Kingsley</sub>
-<p>An hourslong gunfight broke out between Israeli soldiers and Palestinian gunmen during an Israeli operation to arrest Palestinian fighters. The violence left the region braced for further unrest.  <a href="https://nyti.ms/3krMacS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In a Celebration of War, Moscow Displays, and Demands, Unity</h3>
+<sub>By Valerie Hopkins and Nanna Heitmann</sub>
+<p>A concert and rally in Russia’s largest stadium romanticized the invasion of Ukraine, as Vladimir V. Putin and his government seek to normalize the country’s war footing.  <a href="https://nyti.ms/3kjb924"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Hits Russian Positions Deep Behind Enemy Lines</h3>
+<sub>By Marc Santora and Andrew E. Kramer</sub>
+<p>Nearly a dozen explosions rang out in the Russian-held Ukrainian port city of Mariupol, site of one of the best-known battles of the war.  <a href="https://nyti.ms/3m0rxoP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Hometown That Drew Jimmy Carter Back Keeps Vigil</h3>
-<sub>By Rick Rojas and Nicole Craine</sub>
-<p>Plains, Ga., is indelibly linked with the legacy of the 39th president. After he entered hospice care, the town has been gripped by a somber and sometimes strange wait.  <a href="https://nyti.ms/3KuOA56"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Giving Jan. 6 Tapes to Carlson, McCarthy Keeps a Promise to the Hard Right</h3>
+<sub>By Luke Broadwater and Jonathan Swan</sub>
+<p>In granting exclusive access to Jan. 6 Capitol surveillance footage to a cable news host bent on rewriting the history of the attack, the speaker effectively outsourced a politically toxic re-litigation of the riot.  <a href="https://nyti.ms/3lPnE5S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>How Does Hospice Care Work?</h3>
-<sub>By Dana G. Smith</sub>
-<p>Hospice offers crucial end-of-life care with a focus on the patient’s comfort and dignity. Experts explain who is eligible, what it entails and how to understand and navigate the process.  <a href="https://nyti.ms/3SlzJvM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jared Kushner and Ivanka Trump Subpoenaed in Jan. 6 Investigation</h3>
+<sub>By Maggie Haberman and Michael S. Schmidt</sub>
+<p>The special counsel overseeing the inquiry into Donald Trump’s efforts to retain power after the 2020 election wants the former president’s daughter and son-in-law to testify to a grand jury.  <a href="https://nyti.ms/3IoeMvM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Former Proud Boy Says Group Prepared for ‘All-Out Revolution’ on Jan. 6</h3>
+<sub>By Zach Montague and Alan Feuer</sub>
+<p>The two-day testimony of Jeremy Bertino, a former leader of the far-right group, shed new light on the Proud Boys’ growing desperation in the weeks before the riot.  <a href="https://nyti.ms/3KA1Q8G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here’s the Status of the Four Criminal Investigations Into Donald Trump</h3>
+<sub>By Alan Feuer, Danny Hakim and Ben Protess</sub>
+<p>The revelations from grand jury proceedings in Georgia are the latest signs that federal and local inquiries into the former president could reach key decision points in coming months.  <a href="https://nyti.ms/3IMu7aI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Tech Rainmaker Vanishes, and So Does Business Confidence</h3>
+<sub>By Li Yuan</sub>
+<p>Bao Fan’s firm says he’s unreachable, and others in the tech sector are worried for him and fear what his disappearance says about China’s heavy hand in business.  <a href="https://nyti.ms/3Skyyg4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
@@ -104,34 +130,10 @@ There is a lot happening in the world right now. In Poland, which has previously
 <p>Your trickiest digestive-health questions, answered by experts.  <a href="https://nyti.ms/3lPagyC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>He Taught Americans to Cook Indian Food. Now He’s on His Final Chapter.</h3>
-<sub>By Kim Severson</sub>
-<p>Raghavan Iyer, whose books and spirited teaching spread the cuisine, is using his last days to get familiar comfort foods to patients like himself.  <a href="https://nyti.ms/3XRltw5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Heavy Snow Hits the Midwest, and Los Angeles County Prepares for a Rare Blizzard</h3>
-<sub>By Judson Jones and Derrick Bryson Taylor</sub>
-<p>Nearly all of the United States is experiencing some form of notable weather this week — ice, snow or unseasonably warm temperatures.  <a href="https://nyti.ms/3YZa272"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>How Much Snow Will Fall Where You Live?</h3>
-<sub>By Aatish Bhatia, Josh Katz, Margot Sanger-Katz and Samuel Jacoby</sub>
-<p>Type in your community to see the full range of possibilities in the next few days.  <a href="https://nyti.ms/3hdEfL2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Chemical Burn, Farm Owners Worry About a Cherished Way of Life</h3>
-<sub>By Emily Cochrane</sub>
-<p>The derailment of a train carrying toxic chemicals upended a region of Ohio where generations of families could afford to buy acres of land, raise livestock and plant gardens.  <a href="https://nyti.ms/3kimjnM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Heads to East Palestine, Seeking to Draw Contrast With Biden</h3>
-<sub>By Jazmine Ulloa, Maggie Haberman and Mark Walker</sub>
-<p>The former president has attacked President Biden over his administration’s handling of the train derailment disaster, even as his own environmental policies while in office have been criticized.  <a href="https://nyti.ms/3lXLVH7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Hometown That Drew Jimmy Carter Back Keeps Vigil</h3>
+<sub>By Rick Rojas and Nicole Craine</sub>
+<p>Plains, Ga., is indelibly linked with the legacy of the 39th president. After he entered hospice care, the town has been gripped by a somber and sometimes strange wait.  <a href="https://nyti.ms/3KuOA56"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
