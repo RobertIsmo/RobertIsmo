@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 23, Central Standard Time</p>
 <p>
-Hey friend! It&#39;s been a really busy couple of weeks in the news. On the world stage, Russia is taking advantage of the fragmented West by not being isolated. There&#39;s also discord in Russia&#39;s military as the leader of Wagner disagrees with the senior command. Ukraine uses attack drones on occupied Mariupol to suggest they have longer range weapons than previously thought. In South Carolina, a prominent lawyer named Alex Murdaugh is on trial for murdering his wife and son. In Ohio, a preliminary report from an investigation into an Amtrak derailment suggests an alarm went off before it happened due to an overheating wheel bearing. There are billions of dollars for wind and solar projects in the U.S., but there aren&#39;t enough resources to plug them in. Singer R. Kelly was sentenced to 20 years for child sex crimes, and Elizabeth Koch (the daughter of Charles Koch) has a new venture called Perception Box. There have been tons of stories coming out since Covid started 3 years ago, but it feels like we still don&#39;t know how to talk about it. Heat pumps are becoming more popular which is leading to misunderstanding and misinformation. Finally, snowstorms have knocked out power for 900k customers and California is bracing for a rare blizzard this weekend. Wow! What a week!</p>
+There is a lot going on in the world right now! Russia has been trying to expand its power by taking advantage of a divided world, even though the West has protested it. There&#39;s also a feud going on between Russia&#39;s military leaders and a private contractor called Wagner, which is causing some tension. In Ukraine, they recently used drones to strike some occupied targets, which may be signs of them acquiring some new weapons. Here in the US, there was an Alex Murdaugh trial and a Christian revival with thousands of people turning up – both Gen Z and older generations. We also had a train derailment in Ohio where the crew tried to slow down after an alarm went off but still ended up with 38 cars leaving the tracks. There&#39;s also a big issue with renewable energy projects in the US since we don&#39;t have enough ways to connect them to homes and businesses. We can&#39;t forget about the extreme weather that has also been hitting us – for example snowstorms are hitting places like Michigan where someone died and Portland got walloped too as California prepares for a rare blizzard. The most tragic event was at Orlando where two people were killed, including a journalist – making local newsrooms fear for their safety even more.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The West Tried to Isolate Russia. It Didn’t Work.</h3>
@@ -81,15 +81,27 @@ Hey friend! It&#39;s been a really busy couple of weeks in the news. On the worl
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The ‘Murdaugh Murders’: What to Know About the Trial in South Carolina</h3>
+<h3>Alex Murdaugh Admits Lying and Stealing, but Denies Murders</h3>
 <sub>By Nicholas Bogel-Burroughs</sub>
-<p>Alex Murdaugh, once a prominent lawyer, is on trial for murder, charged with killing his wife and son as his finances and legal career fell into ruin.  <a href="https://nyti.ms/3n0HjwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, September 19, Central Standard Time</sub></sub>
+<p>In choosing to testify on Thursday, Mr. Murdaugh took a gamble that could determine whether he is acquitted or sent to prison for life.  <a href="https://nyti.ms/3IpPw8q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Crew Tried to Stop Train Before Derailment in East Palestine, Investigators Say</h3>
+<h3>‘Woodstock’ for Christians: Revival Draws Thousands to Kentucky Town</h3>
+<sub>By Ruth Graham and Jesse Barber</sub>
+<p>Over two weeks, more than 50,000 people descended on a small campus chapel to experience the nation’s first major spiritual revival in decades — one driven by Gen Z.  <a href="https://nyti.ms/3EzcrNq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Fog of East Palestine’s Crisis, Politicians Write Their Own Stories</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The train derailment in Eastern Ohio has spawned conspiracy theories and contradictory narratives, with politicians from both parties parading through town to further their agendas.  <a href="https://nyti.ms/3xQh5CO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Crew Alerted to Problem Just Before Ohio Derailment, Investigators Say</h3>
 <sub>By Mark Walker and Emily Cochrane</sub>
-<p>An overheating wheel bearing set off an audible alarm on the train before it derailed this month, according to a preliminary report from the National Transportation Safety Board.  <a href="https://nyti.ms/3IoVEOk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The crew tried to slow down after an overheated wheel bearing set off an alarm, but 38 cars still ended up leaving the tracks, the National Transportation Safety Board said.  <a href="https://nyti.ms/3IoVEOk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -98,29 +110,17 @@ Hey friend! It&#39;s been a really busy couple of weeks in the news. On the worl
 <p>An explosion in proposed clean energy ventures has overwhelmed the system for connecting new power sources to homes and businesses.  <a href="https://nyti.ms/3ZbR90N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>R. Kelly Sentenced to 20 Years for Child Sex Crimes</h3>
-<sub>By Robert Chiarito and Julia Jacobs</sub>
-<p>The singer will serve most of the sentence in federal prison at the same time as a 30-year term for racketeering and sex trafficking.  <a href="https://nyti.ms/3KyAxf6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Billionaire’s Daughter Knows What You’re Thinking</h3>
 <sub>By Brooks Barnes</sub>
 <p>Elizabeth Koch, daughter of Charles Koch, the billionaire right-wing political force, has a new venture that is all about self-investigation. Two words: Perception Box.  <a href="https://nyti.ms/3YUVTHR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Three Years Into Covid, We Still Don’t Know How to Talk About It</h3>
-<sub>By Jon Mooallem and Photographs by Ashley Gilbertson</sub>
-<p>Most Americans think they know the story of the pandemic. But when a writer immersed himself in a Covid oral-history project, he realized how much we’re still missing.  <a href="https://nyti.ms/3XOeO5O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>As Heat Pumps Go Mainstream, a Big Question: Can They Handle Real Cold?</h3>
-<sub>By Elena Shao</sub>
-<p>The devices are increasingly the target of misconception and, at times, misinformation. We’ve got the facts.  <a href="https://nyti.ms/3KwULpr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Storm Wallops Portland as California Braces for Rare Blizzard</h3>
+<sub>By Judson Jones and Remy Tumin</sub>
+<p>After the West Coast storm battered parts of Oregon, officials warned California residents to prepare for dangerous weather through the weekend.  <a href="https://nyti.ms/3KBg8WD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Snowstorm Knocks Out Power for More Than 900,000 Customers</h3>
@@ -129,9 +129,9 @@ Hey friend! It&#39;s been a really busy couple of weeks in the news. On the worl
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Braces for Rare Blizzard Conditions</h3>
-<sub>By Judson Jones and Derrick Bryson Taylor</sub>
-<p>Officials have warned residents to prepare for dangerous weather through the weekend.  <a href="https://nyti.ms/3KBg8WD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Orlando Journalist Mourned as Local Newsrooms Face More Danger</h3>
+<sub>By Michael Levenson and Christine Chung</sub>
+<p>Journalism experts said it was a sign that covering local news was growing more dangerous. The gunman killed two other people, including a 9-year-old, and wounded two more, the authorities said.  <a href="https://nyti.ms/41lffHK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
