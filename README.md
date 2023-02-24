@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 24, Central Standard Time</p>
 <p>
-There’s a lot going on in the world right now. In Ukraine, President Biden and President Zelensky are working to maintain their wartime partnership. This is important for the future of our international order. Meanwhile, Treasury Secretary Janet Yellen confronted Russians at the G20 meeting, accusing them of being complicit in Putin’s atrocities. In response, the US has adopted a new intelligence playbook to expose Russia’s war plans. 
-
-In lighter news, there was a massive Christian revival attended by 50,000 people in Kentucky. Unfortunately, much of the world is facing more difficult times. In Turkey, hundreds of thousands of people are living in tents following a devastating earthquake. Here in the US, an explosion in proposed clean energy projects has overwhelmed the system for connecting power sources to homes and businesses. We’ve also had some tragedy here – an Ohio train derailment which spawned conspiracy theories and prompted politicians from both parties to flock to town. Then there was a snowstorm that knocked out power for almost 1 million customers across several states. Tragically, a firefighter was killed in Michigan as a result of it. Lastly, a journalist in Orlando was gunned down this week – a reminder that covering local news is becoming increasingly dangerous.</p>
+There&#39;s a lot happening around the world right now. In the U.S., Biden and Zelensky have forged a wartime partnership, and in Ohio, there was a train derailment that&#39;s affecting a freshman senator. Ukraine is experiencing the first hours of a war while Europe has weathered an energy crisis. In Nigeria, there is an upcoming presidential election amidst security threats and kidnappings. In New York, sea turtles are being nursed back to health at the only turtle rehabilitation center in the state. Furthermore, there was a winter storm that recently passed over Southern California and left Michigan with widespread power outages.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘It’s Complicated’: How Biden and Zelensky Forged a Wartime Partnership</h3>
@@ -71,27 +69,27 @@ In lighter news, there was a massive Christian revival attended by 50,000 people
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Yellen Confronts Russian Officials at G20 Meeting</h3>
-<sub>By Alan Rappeport</sub>
-<p>In a private session, Treasury Secretary Janet L. Yellen said the Russians were “complicit in Putin’s atrocities,” according to remarks shared by a U.S. official.  <a href="https://nyti.ms/3xPkr9q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Fear, Anger, Love: See Ukrainians’ Texts From the First Hours of War</h3>
+<sub>By Maria Varenikova and Gray Beltran</sub>
+<p>On Feb. 24, 2022, many people in Ukraine were awakened by explosions, and others by the pings of anxious or supportive messages. Their exchanges that morning are a snapshot of a turning point in modern history.  <a href="https://nyti.ms/3XYzIiw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Europe Has Weathered an Energy Crisis, for Now</h3>
+<sub>By Stanley Reed and Melissa Eddy</sub>
+<p>Worries about gas and oil supplies have greatly eased. But reverberations from the war in Ukraine continue to cloud longer-term forecasts.  <a href="https://nyti.ms/3ZcFjTm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the U.S. Adopted a New Intelligence Playbook to Expose Russia’s War Plans</h3>
-<sub>By Julian E. Barnes and Adam Entous</sub>
-<p>Bolder disclosures are part of a larger effort to stymie the Kremlin’s offensive in Ukraine and align support for Kyiv’s war effort in allied countries.  <a href="https://nyti.ms/41oIlpK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<h3>East Palestine Crisis Tests a Trump-Backed Senator</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>J.D. Vance, the freshman senator from Ohio, is in the spotlight for the first time in his tenure as he responds to the train derailment and its aftermath.  <a href="https://nyti.ms/3xQjcqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Alex Murdaugh Admits Lying and Stealing, but Denies Murders</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>In choosing to testify on Thursday, Mr. Murdaugh took a gamble that could determine whether he is acquitted or sent to prison for life.  <a href="https://nyti.ms/3IpPw8q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Woodstock’ for Christians: Revival Draws Thousands to Kentucky Town</h3>
-<sub>By Ruth Graham and Jesse Barber</sub>
-<p>Over two weeks, more than 50,000 people descended on a small campus chapel to experience the nation’s first major spiritual revival in decades — one driven by Gen Z.  <a href="https://nyti.ms/3EzcrNq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Fog of East Palestine’s Crisis, Politicians Write Their Own Stories</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The train derailment in Eastern Ohio has spawned conspiracy theories and contradictory narratives, with politicians from both parties parading through town to further their agendas.  <a href="https://nyti.ms/3xQh5CO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -100,41 +98,41 @@ In lighter news, there was a massive Christian revival attended by 50,000 people
 <p>Hundreds of thousands are sheltering in tents, breathing air thick with pollutants unleashed from tombs of rubble, fearful that a new disaster could strike at any moment.  <a href="https://nyti.ms/3Eumjbh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The U.S. Has Billions for Wind and Solar Projects. Good Luck Plugging Them In.</h3>
-<sub>By Brad Plumer</sub>
-<p>An explosion in proposed clean energy ventures has overwhelmed the system for connecting new power sources to homes and businesses.  <a href="https://nyti.ms/3ZbR90N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Forget About Jazz Hands, This Fosse Show Is About Dancin’</h3>
+<sub>By Gia Kourlas and Yael Malka</sub>
+<p>“Bob Fosse’s Dancin’,” revived by the director Wayne Cilento, is back on Broadway. Its stars? An eclectic cast of dancers who are anything but machines.  <a href="https://nyti.ms/3SnKkXj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>On Broadway, ‘Bad Cinderella’ Is a Rebel With a Brooklyn Accent</h3>
+<sub>By Sarah Bahr</sub>
+<p>Linedy Genao brings her whole Latina self to Andrew Lloyd Webber’s new musical, which also stars the stage veteran Carolee Carmello as her evil stepmother.  <a href="https://nyti.ms/3knPZQq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Fog of East Palestine’s Crisis, Politicians Write Their Own Stories</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The train derailment in Eastern Ohio has spawned conspiracy theories and contradictory narratives, with politicians from both parties parading through town to further their agendas.  <a href="https://nyti.ms/3xQh5CO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<h3>Winter Storm Sweeps Over Southern California After Battering Oregon</h3>
+<sub>By Derrick Bryson Taylor, Judson Jones and Remy Tumin</sub>
+<p>A rare blizzard warning was in effect for parts of California. “It’s not a weekend for the beach,” one Los Angeles County official said.  <a href="https://nyti.ms/3XYCkwQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Crew Alerted to Problem Just Before Ohio Derailment, Investigators Say</h3>
-<sub>By Mark Walker and Emily Cochrane</sub>
-<p>The crew tried to slow down after an overheated wheel bearing set off an alarm, but 38 cars still ended up leaving the tracks, the National Transportation Safety Board said.  <a href="https://nyti.ms/3IoVEOk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Storm Wallops Portland as California Braces for Rare Blizzard</h3>
-<sub>By Judson Jones and Remy Tumin</sub>
-<p>After the West Coast storm battered parts of Oregon, officials warned California residents to prepare for dangerous weather through the weekend.  <a href="https://nyti.ms/3KBg8WD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Snowstorm Knocks Out Power for More Than 900,000 Customers</h3>
+<h3>Widespread Power Outages Remain in Michigan After Winter Storm</h3>
 <sub>By Derrick Bryson Taylor, Judson Jones and Johnny Diaz</sub>
-<p>The power outages swept the Upper Midwest and New York State, and most were reported in Michigan, where a firefighter was killed.  <a href="https://nyti.ms/3ZdoGqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Hundreds of thousands of customers in the Upper Midwest were without electricity early Friday, after snow and ice hit the region earlier this week.  <a href="https://nyti.ms/3ZdoGqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Orlando Journalist Mourned as Local Newsrooms Face More Danger</h3>
-<sub>By Michael Levenson and Christine Chung</sub>
-<p>Journalism experts said it was a sign that covering local news was growing more dangerous. The gunman killed two other people, including a 9-year-old, and wounded two more, the authorities said.  <a href="https://nyti.ms/41lffHK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ahead of Crucial Election, Security Crises and Kidnappings Plague Nigeria</h3>
+<sub>By Elian Peltier</sub>
+<p>Nigerian voters say that insecurity is the most important issue in this week’s presidential election. One man who was kidnapped said, “You can only survive on your own in Nigeria.”  <a href="https://nyti.ms/3Z92VZg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Where New York’s Sick Sea Turtles Go for Rehab and Squid Snacks</h3>
+<sub>By Dodai Stewart and Anna Watts</sub>
+<p>At New York State’s only sea turtle rehabilitation center, workers are nursing a record number of sick patients back to health.  <a href="https://nyti.ms/3xNE2Xd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
