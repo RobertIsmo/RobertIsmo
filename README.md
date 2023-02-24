@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 24, Central Standard Time</p>
 <p>
-Right now, things seem to be a bit all over the place. Ukraine is in the middle of a major conflict, with people all over the country sending texts expressing fear, anger, and love amid explosions and other chaos. This has caused global ripple effects that have changed lives and upended economies all over the world. Meanwhile back in the United States, California is being hit by a rare blizzard with power outages impacting Michigan as well, while the Fed&#39;s inflation gauge is picking up speed and stock prices are sinking for the third straight week. In Ohio, Senator J.D. Vance is under pressure following a train derailment, and in New York City there&#39;s a nasty (but small) newspaper war going on - but at least there&#39;s also a sea turtle rehabilitation center where patients can enjoy squid snacks. And finally if you want some more positive news from the US, 2,000 Black skiers recently celebrated a milestone together out on the slopes of Vail!</p>
+There is a lot going on in the world right now. In Ukraine, China recently released a position paper that calls for an end to the fighting in the war, but avoids making any demands that could hurt its relationship with Russia. There have been many long-term ripple effects of the war, ranging from disrupted lives and economies to a shift in the global order. On the topic of natural disasters, California has been hit by a blizzard causing major traffic disruption. It was both damaging and surprisingly beautiful, leading some residents to come out and marvel at it. The Federal Reserve’s recent inflation readings have defied expectations and been staying power despite being down from their peak last summer. Another development in the US is Senator J.D. Vance of Ohio, who is facing a test as he responds to a train derailment and its aftermath in East Palestine. Closer to home, there&#39;s a fascinating war going down between two tiny New York City newspapers — complete with a crusty publisher and &quot;guerilla&quot; litigator! Finally, there&#39;s an interesting new reality show in Holland where amateur and professional artists are competing to recreate some of Vermeer&#39;s lost works coinciding with a big exhibition of his art. In terms of opinion, Marjorie Taylor Greene has proposed a “national divorce” plan that reveals her ambitions.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘It’s Complicated’: How Biden and Zelensky Forged a Wartime Partnership</h3>
-<sub>By Peter Baker and Andrew E. Kramer</sub>
-<p>The relationship between the two leaders has become critical to the future of the international order.  <a href="https://nyti.ms/3IqqUMU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fear, Anger, Love: See Ukrainians’ Texts From the First Hours of War</h3>
-<sub>By Maria Varenikova and Gray Beltran</sub>
-<p>On Feb. 24, 2022, many people in Ukraine were awakened by explosions, and others by the pings of anxious or supportive messages. Their exchanges that morning are a snapshot of a turning point in modern history.  <a href="https://nyti.ms/3XYzIiw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China Reprises Old Themes in Ukraine Plan, Casting Itself as Neutral</h3>
+<sub>By Chris Buckley, Steven Erlanger and Edward Wong</sub>
+<p>A year after Russia’s invasion, Beijing released a paper declaring its position on the war: It called for an end to the fighting but avoided demands that could hurt its ties with Russia.  <a href="https://nyti.ms/3IOYpJY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,23 +74,23 @@ Right now, things seem to be a bit all over the place. Ukraine is in the middle 
 <p>The ripple effects of Russia’s invasion have reordered lives and upended economies. Here are some of the consequences.  <a href="https://nyti.ms/3ECmod4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rare Blizzard Takes Aim at Southern California</h3>
-<sub>By Derrick Bryson Taylor, Judson Jones and Remy Tumin</sub>
-<p>A powerful storm has brought snow up and down the West Coast. “It’s not a weekend for the beach,” one Los Angeles County official said.  <a href="https://nyti.ms/3XYCkwQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>New York Times reporters reflect on the moments from the war that are seared in their minds.</h3>
+<sub>By Andrew E. Kramer, Marc Santora, Valerie Hopkins and Carlotta Gall</sub>
+<p>  <a href="https://nyti.ms/3IS5auz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking the California Blizzard</h3>
-<sub>By Zach Levitt and Judson Jones</sub>
-<p>A rare snowstorm could bring several feet of snow to mountains near Los Angeles.  <a href="https://nyti.ms/3YW8MBB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Heavy Wind and Snow Bring Blizzard Conditions to Southern California</h3>
+<sub>By Derrick Bryson Taylor, Judson Jones and Christine Hauser</sub>
+<p>A powerful storm has brought snow to the West Coast and snarled traffic throughout California — including in Los Angeles County.  <a href="https://nyti.ms/3XYCkwQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Widespread Power Outages Remain in Michigan After Winter Storm</h3>
-<sub>By Derrick Bryson Taylor, Judson Jones and Johnny Diaz</sub>
-<p>Hundreds of thousands of customers in the Upper Midwest were without electricity early Friday, after snow and ice hit the region earlier this week.  <a href="https://nyti.ms/3ZdoGqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<h3>Snow in California Surprises and Delights</h3>
+<sub>By The New York Times</sub>
+<p>Whiteout conditions shuttered roads in the mountains, while a dusting of snow on beaches brought residents out to marvel.  <a href="https://nyti.ms/3EwypAr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Fed’s Preferred Inflation Gauge Sped Back Up</h3>
@@ -123,15 +117,21 @@ Right now, things seem to be a bit all over the place. Ukraine is in the middle 
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Where New York’s Sick Sea Turtles Go for Rehab and Squid Snacks</h3>
-<sub>By Dodai Stewart and Anna Watts</sub>
-<p>At New York State’s only sea turtle rehabilitation center, workers are nursing a record number of sick patients back to health.  <a href="https://nyti.ms/3xNE2Xd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Prospect Park Gator Was Not the First. Here Are Other Urban Gators.</h3>
+<sub>By Hurubie Meko</sub>
+<p>A brief history of New York City alligators.  <a href="https://nyti.ms/41joVmd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>‘Magic’ on the Slopes: In Vail, 2,000 Black Skiers Celebrate a Milestone</h3>
-<sub>By Tariro Mzezewa</sub>
-<p>The National Brotherhood of Skiers recently observed 50 years of camaraderie on the slopes with parties, parades, s’mores and, of course, skiing and snowboarding.  <a href="https://nyti.ms/3kjhT05"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How Hard Is It to Paint Like Vermeer? TV Contestants Find Out.</h3>
+<sub>By Nina Siegal</sub>
+<p>Amateur and professional artists are competing to recreate some of the old master’s lost works in a Dutch reality show that coincides with a blockbuster Vermeer exhibition in Amsterdam.  <a href="https://nyti.ms/3klMeef"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Marjorie Taylor Greene Has a Dream</h3>
+<sub>By Jamelle Bouie</sub>
+<p>Her plans for a “national divorce” are very revealing.  <a href="https://nyti.ms/3KBBhQy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
