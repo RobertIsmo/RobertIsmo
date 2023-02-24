@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 24, Central Standard Time</p>
 <p>
-There&#39;s a lot happening around the world right now. In the U.S., Biden and Zelensky have forged a wartime partnership, and in Ohio, there was a train derailment that&#39;s affecting a freshman senator. Ukraine is experiencing the first hours of a war while Europe has weathered an energy crisis. In Nigeria, there is an upcoming presidential election amidst security threats and kidnappings. In New York, sea turtles are being nursed back to health at the only turtle rehabilitation center in the state. Furthermore, there was a winter storm that recently passed over Southern California and left Michigan with widespread power outages.</p>
+Right now, there is a lot going on around the world! In Ukraine, fear and tension has been heightened due to the beginning of an armed conflict over their territory. Europe is recovering from a brief energy crisis, though the aftermath from the Ukraine war continues to take its toll. In the US, a rare snowstorm has brought blizzard-like conditions to Southern California, while a winter storm in Michigan is resulting in widespread power outages. The Fed&#39;s inflation rate is continuing to remain steady and high, while in East Palestine, Ohio, an incident of train derailing has been used as fuel for political agendas. On brighter news, Bob Fosse&#39;s revival of his musical &quot;Dancin&#39;&quot; opened up on Broadway and Andrew Lloyd Webber&#39;s new musical &quot;Bad Cinderella&quot; starring Linedy Genao and Carolee Carmello also just premiered. Lastly, New York&#39;s sick sea turtles are being taken to a special rehabilitation center to get better.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘It’s Complicated’: How Biden and Zelensky Forged a Wartime Partnership</h3>
@@ -81,6 +81,30 @@ There&#39;s a lot happening around the world right now. In the U.S., Biden and Z
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Rare Blizzard Takes Aim at Southern California</h3>
+<sub>By Derrick Bryson Taylor, Judson Jones and Remy Tumin</sub>
+<p>A powerful storm has brought snow up and down the West Coast. “It’s not a weekend for the beach,” one Los Angeles County official said.  <a href="https://nyti.ms/3XYCkwQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tracking the California Blizzard</h3>
+<sub>By Zach Levitt and Judson Jones</sub>
+<p>A rare snowstorm could bring several feet of snow to mountains near Los Angeles.  <a href="https://nyti.ms/3YW8MBB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Widespread Power Outages Remain in Michigan After Winter Storm</h3>
+<sub>By Derrick Bryson Taylor, Judson Jones and Johnny Diaz</sub>
+<p>Hundreds of thousands of customers in the Upper Midwest were without electricity early Friday, after snow and ice hit the region earlier this week.  <a href="https://nyti.ms/3ZdoGqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Fed’s Preferred Inflation Gauge Sped Back Up</h3>
+<sub>By Jeanna Smialek and Ben Casselman</sub>
+<p>Inflation is down from its peak last summer, but recent readings have shown substantial and surprising staying power.  <a href="https://nyti.ms/3KFck6Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>East Palestine Crisis Tests a Trump-Backed Senator</h3>
 <sub>By Jazmine Ulloa</sub>
 <p>J.D. Vance, the freshman senator from Ohio, is in the spotlight for the first time in his tenure as he responds to the train derailment and its aftermath.  <a href="https://nyti.ms/3xQjcqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -90,12 +114,6 @@ There&#39;s a lot happening around the world right now. In the U.S., Biden and Z
 <h3>In Fog of East Palestine’s Crisis, Politicians Write Their Own Stories</h3>
 <sub>By Jonathan Weisman</sub>
 <p>The train derailment in Eastern Ohio has spawned conspiracy theories and contradictory narratives, with politicians from both parties parading through town to further their agendas.  <a href="https://nyti.ms/3xQh5CO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Shattered Homes and Lurking Disease: Quake Hardships Pile Up</h3>
-<sub>By Cora Engelbrecht and Nimet Kirac</sub>
-<p>Hundreds of thousands are sheltering in tents, breathing air thick with pollutants unleashed from tombs of rubble, fearful that a new disaster could strike at any moment.  <a href="https://nyti.ms/3Eumjbh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -108,24 +126,6 @@ There&#39;s a lot happening around the world right now. In the U.S., Biden and Z
 <h3>On Broadway, ‘Bad Cinderella’ Is a Rebel With a Brooklyn Accent</h3>
 <sub>By Sarah Bahr</sub>
 <p>Linedy Genao brings her whole Latina self to Andrew Lloyd Webber’s new musical, which also stars the stage veteran Carolee Carmello as her evil stepmother.  <a href="https://nyti.ms/3knPZQq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Winter Storm Sweeps Over Southern California After Battering Oregon</h3>
-<sub>By Derrick Bryson Taylor, Judson Jones and Remy Tumin</sub>
-<p>A rare blizzard warning was in effect for parts of California. “It’s not a weekend for the beach,” one Los Angeles County official said.  <a href="https://nyti.ms/3XYCkwQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Widespread Power Outages Remain in Michigan After Winter Storm</h3>
-<sub>By Derrick Bryson Taylor, Judson Jones and Johnny Diaz</sub>
-<p>Hundreds of thousands of customers in the Upper Midwest were without electricity early Friday, after snow and ice hit the region earlier this week.  <a href="https://nyti.ms/3ZdoGqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ahead of Crucial Election, Security Crises and Kidnappings Plague Nigeria</h3>
-<sub>By Elian Peltier</sub>
-<p>Nigerian voters say that insecurity is the most important issue in this week’s presidential election. One man who was kidnapped said, “You can only survive on your own in Nigeria.”  <a href="https://nyti.ms/3Z92VZg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
