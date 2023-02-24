@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, February 23, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! Russia has been trying to expand its power by taking advantage of a divided world, even though the West has protested it. There&#39;s also a feud going on between Russia&#39;s military leaders and a private contractor called Wagner, which is causing some tension. In Ukraine, they recently used drones to strike some occupied targets, which may be signs of them acquiring some new weapons. Here in the US, there was an Alex Murdaugh trial and a Christian revival with thousands of people turning up – both Gen Z and older generations. We also had a train derailment in Ohio where the crew tried to slow down after an alarm went off but still ended up with 38 cars leaving the tracks. There&#39;s also a big issue with renewable energy projects in the US since we don&#39;t have enough ways to connect them to homes and businesses. We can&#39;t forget about the extreme weather that has also been hitting us – for example snowstorms are hitting places like Michigan where someone died and Portland got walloped too as California prepares for a rare blizzard. The most tragic event was at Orlando where two people were killed, including a journalist – making local newsrooms fear for their safety even more.</p>
+There&#39;s a lot going on right now. The US has adopted a new intelligence playbook to expose Russia&#39;s war plans. In Ukraine, people are developing skills to judge which threats are deadly and which are tolerable. There are questions about Russia&#39;s war effort stemming from a feud between the leader of Wagner and the country&#39;s senior command. The West has tried to isolate Russia but it hasn&#39;t worked, and people like Elizabeth Koch, daughter of Charles Koch, are starting new ventures that use self-investigation.
+
+On the US home front, Alex Murdaugh has been accused of lying and stealing but denies murders, and tens of thousands attended a revival in Kentucky organized by younger generations. In eastern Ohio, politicians are spinning their own narratives around an unsolved train derailment in order to further their political agendas. Meanwhile, there is a vast network of proposed wind and solar power projects that isn&#39;t properly connected to homes and businesses yet, and a snowstorm that led to power outages all over the Midwest and New York has caused California residents to prepare for dangerous weather.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How the U.S. Adopted a New Intelligence Playbook to Expose Russia’s War Plans</h3>
+<sub>By Julian E. Barnes and Adam Entous</sub>
+<p>Bolder disclosures are part of a larger effort to stymie the Kremlin’s offensive in Ukraine and align support for Kyiv’s war effort in allied countries.  <a href="https://nyti.ms/41oIlpK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The West Tried to Isolate Russia. It Didn’t Work.</h3>
-<sub>By Josh Holder, Lauren Leatherby, Anton Troianovski and Weiyi Cai</sub>
-<p>The West never won over as much of the world as it initially seemed. Here’s how Russia is taking advantage of a fragmented world.  <a href="https://nyti.ms/41ni9vG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Lethal Threat or Tolerable Risk? Ukrainians Must Judge Constantly.</h3>
+<sub>By Marc Santora</sub>
+<p>After a year of war, people in Ukraine have become adept at telling which threats are probably not deadly, leaving room for a little enjoyment, and even hope.  <a href="https://nyti.ms/41kTGHl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,9 +83,9 @@ There is a lot going on in the world right now! Russia has been trying to expand
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine uses strikes on occupied Mariupol to suggest it now has longer-range weapons.</h3>
-<sub>By Marc Santora</sub>
-<p>Ukraine has used attack drones to hit relatively distant targets, but the new strikes paired with comments from a Ukrainian official stirred speculation that Kyiv may have acquired a new weapon.  <a href="https://nyti.ms/3xOEZyI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The West Tried to Isolate Russia. It Didn’t Work.</h3>
+<sub>By Josh Holder, Lauren Leatherby, Anton Troianovski and Weiyi Cai</sub>
+<p>The West never won over as much of the world as it initially seemed. Here’s how Russia is taking advantage of a fragmented world.  <a href="https://nyti.ms/41ni9vG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +134,6 @@ There is a lot going on in the world right now! Russia has been trying to expand
 <h3>Snowstorm Knocks Out Power for More Than 900,000 Customers</h3>
 <sub>By Derrick Bryson Taylor, Judson Jones and Johnny Diaz</sub>
 <p>The power outages swept the Upper Midwest and New York State, and most were reported in Michigan, where a firefighter was killed.  <a href="https://nyti.ms/3ZdoGqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Orlando Journalist Mourned as Local Newsrooms Face More Danger</h3>
-<sub>By Michael Levenson and Christine Chung</sub>
-<p>Journalism experts said it was a sign that covering local news was growing more dangerous. The gunman killed two other people, including a 9-year-old, and wounded two more, the authorities said.  <a href="https://nyti.ms/41lffHK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
