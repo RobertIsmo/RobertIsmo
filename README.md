@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, February 23, Central Standard Time</p>
+<p>It is Friday, February 24, Central Standard Time</p>
 <p>
-There&#39;s a lot going on right now. The US has adopted a new intelligence playbook to expose Russia&#39;s war plans. In Ukraine, people are developing skills to judge which threats are deadly and which are tolerable. There are questions about Russia&#39;s war effort stemming from a feud between the leader of Wagner and the country&#39;s senior command. The West has tried to isolate Russia but it hasn&#39;t worked, and people like Elizabeth Koch, daughter of Charles Koch, are starting new ventures that use self-investigation.
-
-On the US home front, Alex Murdaugh has been accused of lying and stealing but denies murders, and tens of thousands attended a revival in Kentucky organized by younger generations. In eastern Ohio, politicians are spinning their own narratives around an unsolved train derailment in order to further their political agendas. Meanwhile, there is a vast network of proposed wind and solar power projects that isn&#39;t properly connected to homes and businesses yet, and a snowstorm that led to power outages all over the Midwest and New York has caused California residents to prepare for dangerous weather.</p>
+There is a lot happening around the world right now. In the US, there are stories about how the government is adopting a new intelligence playbook to expose Russia&#39;s war plans and a criminal trial where someone has admitted to lying and stealing but denies murder. There&#39;s also a large Christian event in Kentucky with thousands of attendees. In Ukraine, people are having to constantly judge whether threats they encounter are lethal or tolerable, making it difficult to find enjoyment or hope. Globally, the earthquake in Indonesia has left many people sheltering in tents and breathing air polluted with debris from the rubble. Additionally, there is a surge of proposed clean energy initiatives but an inability to plug them in due to an overwhelmed power infrastructure. The US is also facing stormy weather this weekend across Oregon, California and Michigan that has already knocked out power for over 900,000 customers and killed a firefighter. And to top it all off, there&#39;s a story about the late journalist from Orlando who was killed while covering local news with two other men and a 9-year-old girl being injured, bringing to light the growing dangers of reporting on current events.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How the U.S. Adopted a New Intelligence Playbook to Expose Russia’s War Plans</h3>
@@ -74,18 +72,6 @@ On the US home front, Alex Murdaugh has been accused of lying and stealing but d
 <h3>Lethal Threat or Tolerable Risk? Ukrainians Must Judge Constantly.</h3>
 <sub>By Marc Santora</sub>
 <p>After a year of war, people in Ukraine have become adept at telling which threats are probably not deadly, leaving room for a little enjoyment, and even hope.  <a href="https://nyti.ms/41kTGHl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Prigozhin’s Feud With Russia’s Military Leaves Questions About Battlefield Results</h3>
-<sub>By Anatoly Kurmanaev</sub>
-<p>The leader of Wagner appears to have backed down from his latest criticism of Russia’s senior command. But his vitriolic remarks suggested more discord in Russia’s war effort.  <a href="https://nyti.ms/3xOr7nX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The West Tried to Isolate Russia. It Didn’t Work.</h3>
-<sub>By Josh Holder, Lauren Leatherby, Anton Troianovski and Weiyi Cai</sub>
-<p>The West never won over as much of the world as it initially seemed. Here’s how Russia is taking advantage of a fragmented world.  <a href="https://nyti.ms/41ni9vG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -100,6 +86,18 @@ On the US home front, Alex Murdaugh has been accused of lying and stealing but d
 <p>Over two weeks, more than 50,000 people descended on a small campus chapel to experience the nation’s first major spiritual revival in decades — one driven by Gen Z.  <a href="https://nyti.ms/3EzcrNq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Shattered Homes and Lurking Disease: Quake Hardships Pile Up</h3>
+<sub>By Cora Engelbrecht and Nimet Kirac</sub>
+<p>Hundreds of thousands are sheltering in tents, breathing air thick with pollutants unleashed from tombs of rubble, fearful that a new disaster could strike at any moment.  <a href="https://nyti.ms/3Eumjbh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The U.S. Has Billions for Wind and Solar Projects. Good Luck Plugging Them In.</h3>
+<sub>By Brad Plumer</sub>
+<p>An explosion in proposed clean energy ventures has overwhelmed the system for connecting new power sources to homes and businesses.  <a href="https://nyti.ms/3ZbR90N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Fog of East Palestine’s Crisis, Politicians Write Their Own Stories</h3>
 <sub>By Jonathan Weisman</sub>
@@ -112,18 +110,6 @@ On the US home front, Alex Murdaugh has been accused of lying and stealing but d
 <p>The crew tried to slow down after an overheated wheel bearing set off an alarm, but 38 cars still ended up leaving the tracks, the National Transportation Safety Board said.  <a href="https://nyti.ms/3IoVEOk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The U.S. Has Billions for Wind and Solar Projects. Good Luck Plugging Them In.</h3>
-<sub>By Brad Plumer</sub>
-<p>An explosion in proposed clean energy ventures has overwhelmed the system for connecting new power sources to homes and businesses.  <a href="https://nyti.ms/3ZbR90N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Billionaire’s Daughter Knows What You’re Thinking</h3>
-<sub>By Brooks Barnes</sub>
-<p>Elizabeth Koch, daughter of Charles Koch, the billionaire right-wing political force, has a new venture that is all about self-investigation. Two words: Perception Box.  <a href="https://nyti.ms/3YUVTHR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Storm Wallops Portland as California Braces for Rare Blizzard</h3>
 <sub>By Judson Jones and Remy Tumin</sub>
@@ -134,6 +120,18 @@ On the US home front, Alex Murdaugh has been accused of lying and stealing but d
 <h3>Snowstorm Knocks Out Power for More Than 900,000 Customers</h3>
 <sub>By Derrick Bryson Taylor, Judson Jones and Johnny Diaz</sub>
 <p>The power outages swept the Upper Midwest and New York State, and most were reported in Michigan, where a firefighter was killed.  <a href="https://nyti.ms/3ZdoGqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Orlando Journalist Mourned as Local Newsrooms Face More Danger</h3>
+<sub>By Michael Levenson and Christine Chung</sub>
+<p>Journalism experts said it was a sign that covering local news was growing more dangerous. The gunman killed two other people, including a 9-year-old, and wounded two more, the authorities said.  <a href="https://nyti.ms/41lffHK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Jessye Norman Rejected These Recordings. Should They Be Released?</h3>
+<sub>By Zachary Woolfe</sub>
+<p>The new collection “Jessye Norman: The Unreleased Masters” raises artistic and ethical questions.  <a href="https://nyti.ms/3xJ8Qsp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
