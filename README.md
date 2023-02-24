@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 24, Central Standard Time</p>
 <p>
-Right now, there is a lot going on around the world! In Ukraine, fear and tension has been heightened due to the beginning of an armed conflict over their territory. Europe is recovering from a brief energy crisis, though the aftermath from the Ukraine war continues to take its toll. In the US, a rare snowstorm has brought blizzard-like conditions to Southern California, while a winter storm in Michigan is resulting in widespread power outages. The Fed&#39;s inflation rate is continuing to remain steady and high, while in East Palestine, Ohio, an incident of train derailing has been used as fuel for political agendas. On brighter news, Bob Fosse&#39;s revival of his musical &quot;Dancin&#39;&quot; opened up on Broadway and Andrew Lloyd Webber&#39;s new musical &quot;Bad Cinderella&quot; starring Linedy Genao and Carolee Carmello also just premiered. Lastly, New York&#39;s sick sea turtles are being taken to a special rehabilitation center to get better.</p>
+Right now, things seem to be a bit all over the place. Ukraine is in the middle of a major conflict, with people all over the country sending texts expressing fear, anger, and love amid explosions and other chaos. This has caused global ripple effects that have changed lives and upended economies all over the world. Meanwhile back in the United States, California is being hit by a rare blizzard with power outages impacting Michigan as well, while the Fed&#39;s inflation gauge is picking up speed and stock prices are sinking for the third straight week. In Ohio, Senator J.D. Vance is under pressure following a train derailment, and in New York City there&#39;s a nasty (but small) newspaper war going on - but at least there&#39;s also a sea turtle rehabilitation center where patients can enjoy squid snacks. And finally if you want some more positive news from the US, 2,000 Black skiers recently celebrated a milestone together out on the slopes of Vail!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘It’s Complicated’: How Biden and Zelensky Forged a Wartime Partnership</h3>
@@ -74,11 +74,11 @@ Right now, there is a lot going on around the world! In Ukraine, fear and tensio
 <p>On Feb. 24, 2022, many people in Ukraine were awakened by explosions, and others by the pings of anxious or supportive messages. Their exchanges that morning are a snapshot of a turning point in modern history.  <a href="https://nyti.ms/3XYzIiw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Europe Has Weathered an Energy Crisis, for Now</h3>
-<sub>By Stanley Reed and Melissa Eddy</sub>
-<p>Worries about gas and oil supplies have greatly eased. But reverberations from the war in Ukraine continue to cloud longer-term forecasts.  <a href="https://nyti.ms/3ZcFjTm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Six ways the war changed the world.</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The ripple effects of Russia’s invasion have reordered lives and upended economies. Here are some of the consequences.  <a href="https://nyti.ms/3ECmod4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Rare Blizzard Takes Aim at Southern California</h3>
@@ -104,34 +104,34 @@ Right now, there is a lot going on around the world! In Ukraine, fear and tensio
 <p>Inflation is down from its peak last summer, but recent readings have shown substantial and surprising staying power.  <a href="https://nyti.ms/3KFck6Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Stocks Sink for Third Straight Week</h3>
+<sub>By Joe Rennison</sub>
+<p>A turn in the market has eroded the sharp rally at the start of the year, as investors have fretted about recent signals suggesting a resurgence in inflation.  <a href="https://nyti.ms/3Y1AUln"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>East Palestine Crisis Tests a Trump-Backed Senator</h3>
 <sub>By Jazmine Ulloa</sub>
 <p>J.D. Vance, the freshman senator from Ohio, is in the spotlight for the first time in his tenure as he responds to the train derailment and its aftermath.  <a href="https://nyti.ms/3xQjcqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Fog of East Palestine’s Crisis, Politicians Write Their Own Stories</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The train derailment in Eastern Ohio has spawned conspiracy theories and contradictory narratives, with politicians from both parties parading through town to further their agendas.  <a href="https://nyti.ms/3xQh5CO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Forget About Jazz Hands, This Fosse Show Is About Dancin’</h3>
-<sub>By Gia Kourlas and Yael Malka</sub>
-<p>“Bob Fosse’s Dancin’,” revived by the director Wayne Cilento, is back on Broadway. Its stars? An eclectic cast of dancers who are anything but machines.  <a href="https://nyti.ms/3SnKkXj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>On Broadway, ‘Bad Cinderella’ Is a Rebel With a Brooklyn Accent</h3>
-<sub>By Sarah Bahr</sub>
-<p>Linedy Genao brings her whole Latina self to Andrew Lloyd Webber’s new musical, which also stars the stage veteran Carolee Carmello as her evil stepmother.  <a href="https://nyti.ms/3knPZQq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Inside New York City’s Nastiest (and Smallest) Newspaper War</h3>
+<sub>By John Leland</sub>
+<p>A crusty publisher. A “guerilla” litigator. An ambitious caregiver. Has the news of Greenwich Village ever been more fun?  <a href="https://nyti.ms/3KzjHwH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Where New York’s Sick Sea Turtles Go for Rehab and Squid Snacks</h3>
 <sub>By Dodai Stewart and Anna Watts</sub>
 <p>At New York State’s only sea turtle rehabilitation center, workers are nursing a record number of sick patients back to health.  <a href="https://nyti.ms/3xNE2Xd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>‘Magic’ on the Slopes: In Vail, 2,000 Black Skiers Celebrate a Milestone</h3>
+<sub>By Tariro Mzezewa</sub>
+<p>The National Brotherhood of Skiers recently observed 50 years of camaraderie on the slopes with parties, parades, s’mores and, of course, skiing and snowboarding.  <a href="https://nyti.ms/3kjhT05"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
