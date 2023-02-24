@@ -60,18 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 24, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. In the US, there are stories about how the government is adopting a new intelligence playbook to expose Russia&#39;s war plans and a criminal trial where someone has admitted to lying and stealing but denies murder. There&#39;s also a large Christian event in Kentucky with thousands of attendees. In Ukraine, people are having to constantly judge whether threats they encounter are lethal or tolerable, making it difficult to find enjoyment or hope. Globally, the earthquake in Indonesia has left many people sheltering in tents and breathing air polluted with debris from the rubble. Additionally, there is a surge of proposed clean energy initiatives but an inability to plug them in due to an overwhelmed power infrastructure. The US is also facing stormy weather this weekend across Oregon, California and Michigan that has already knocked out power for over 900,000 customers and killed a firefighter. And to top it all off, there&#39;s a story about the late journalist from Orlando who was killed while covering local news with two other men and a 9-year-old girl being injured, bringing to light the growing dangers of reporting on current events.</p>
+There’s a lot going on in the world right now. In Ukraine, President Biden and President Zelensky are working to maintain their wartime partnership. This is important for the future of our international order. Meanwhile, Treasury Secretary Janet Yellen confronted Russians at the G20 meeting, accusing them of being complicit in Putin’s atrocities. In response, the US has adopted a new intelligence playbook to expose Russia’s war plans. 
+
+In lighter news, there was a massive Christian revival attended by 50,000 people in Kentucky. Unfortunately, much of the world is facing more difficult times. In Turkey, hundreds of thousands of people are living in tents following a devastating earthquake. Here in the US, an explosion in proposed clean energy projects has overwhelmed the system for connecting power sources to homes and businesses. We’ve also had some tragedy here – an Ohio train derailment which spawned conspiracy theories and prompted politicians from both parties to flock to town. Then there was a snowstorm that knocked out power for almost 1 million customers across several states. Tragically, a firefighter was killed in Michigan as a result of it. Lastly, a journalist in Orlando was gunned down this week – a reminder that covering local news is becoming increasingly dangerous.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘It’s Complicated’: How Biden and Zelensky Forged a Wartime Partnership</h3>
+<sub>By Peter Baker and Andrew E. Kramer</sub>
+<p>The relationship between the two leaders has become critical to the future of the international order.  <a href="https://nyti.ms/3IqqUMU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Yellen Confronts Russian Officials at G20 Meeting</h3>
+<sub>By Alan Rappeport</sub>
+<p>In a private session, Treasury Secretary Janet L. Yellen said the Russians were “complicit in Putin’s atrocities,” according to remarks shared by a U.S. official.  <a href="https://nyti.ms/3xPkr9q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How the U.S. Adopted a New Intelligence Playbook to Expose Russia’s War Plans</h3>
 <sub>By Julian E. Barnes and Adam Entous</sub>
 <p>Bolder disclosures are part of a larger effort to stymie the Kremlin’s offensive in Ukraine and align support for Kyiv’s war effort in allied countries.  <a href="https://nyti.ms/41oIlpK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Lethal Threat or Tolerable Risk? Ukrainians Must Judge Constantly.</h3>
-<sub>By Marc Santora</sub>
-<p>After a year of war, people in Ukraine have become adept at telling which threats are probably not deadly, leaving room for a little enjoyment, and even hope.  <a href="https://nyti.ms/41kTGHl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +134,6 @@ There is a lot happening around the world right now. In the US, there are storie
 <h3>Orlando Journalist Mourned as Local Newsrooms Face More Danger</h3>
 <sub>By Michael Levenson and Christine Chung</sub>
 <p>Journalism experts said it was a sign that covering local news was growing more dangerous. The gunman killed two other people, including a 9-year-old, and wounded two more, the authorities said.  <a href="https://nyti.ms/41lffHK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Jessye Norman Rejected These Recordings. Should They Be Released?</h3>
-<sub>By Zachary Woolfe</sub>
-<p>The new collection “Jessye Norman: The Unreleased Masters” raises artistic and ethical questions.  <a href="https://nyti.ms/3xJ8Qsp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
