@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 25, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of drama playing out between Russia and Ukraine. Russia invaded Ukraine last year, and both countries have been at odds since then. The West is supporting Ukraine in this conflict, and the Biden administration recently announced new measures targeting Moscow and its supporters. There are also other international stories unfolding that are worth paying attention to, like protests and demonstrations being held around the world, and even an intense legal battle taking place in Ohio over a train derailment. Closer to home, there have been some unexpected weather events like snowfall in Southern California and an elusive alligator spotted at Prospect Park in Brooklyn.</p>
+Right now, there is a lot of tension between Russia and Ukraine. It has been a year since the Russian invasion of Ukraine and both countries, as well as their allies in the West, are all still fighting. This conflict has become even more complex with the Biden administration&#39;s announcement of new measures to target supporters of President Vladimir V. Putin’s war. There have been numerous protests in defiance of Russia&#39;s actions throughout the year.
+
+Apart from the political turmoil in Europe, there have been some bizarre weather patterns in the US recently. Parts of California have seen intense rain, high winds, and even snow in places that rarely ever see it—making Californians giddy. This cold storm also caused flooding and blizzard conditions in Southern California which has made things dangerous for people in the area. Meanwhile, in East Palestine, Ohio, lawyers are signing up clients at rapid speeds due to a train derailment that led to a burn-off of toxic chemicals.
+
+Finally, there has recently been some urban alligators reported roaming freely in public places around New York City—including a famous gator found in Prospect Park. It may be strange to spot an alligator walking around these big cities but apparently it is not entirely unheard of!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia, Ukraine and the West Vow to Fight On, in a War With No End in Sight</h3>
@@ -87,9 +91,9 @@ Right now, there&#39;s a lot of drama playing out between Russia and Ukraine. Ru
 <sub><sub>Sunday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘This Is Definitely Rare’: Southern California Faces Blizzard Conditions</h3>
+<h3>Rare and Dangerous: Southern California Faces Floods and Blizzard Conditions</h3>
 <sub>By Eduardo Medina, Judson Jones and Vik Jolly</sub>
-<p>Rare snow, high winds and intense rain hit parts of the state Friday. Blizzard warnings were in effect until Saturday afternoon in the mountains of four California counties.  <a href="https://nyti.ms/3XYCkwQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Snow, high winds and intense rain hit parts of the state Friday. Blizzard warnings were in effect until Saturday afternoon in the mountains of four California counties.  <a href="https://nyti.ms/3XYCkwQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
