@@ -59,42 +59,44 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 25, Central Standard Time</p>
-<p>
-Right now, there is a lot of tension between Russia and Ukraine. It has been a year since the Russian invasion of Ukraine and both countries, as well as their allies in the West, are all still fighting. This conflict has become even more complex with the Biden administration&#39;s announcement of new measures to target supporters of President Vladimir V. Putin’s war. There have been numerous protests in defiance of Russia&#39;s actions throughout the year.
-
-Apart from the political turmoil in Europe, there have been some bizarre weather patterns in the US recently. Parts of California have seen intense rain, high winds, and even snow in places that rarely ever see it—making Californians giddy. This cold storm also caused flooding and blizzard conditions in Southern California which has made things dangerous for people in the area. Meanwhile, in East Palestine, Ohio, lawyers are signing up clients at rapid speeds due to a train derailment that led to a burn-off of toxic chemicals.
-
-Finally, there has recently been some urban alligators reported roaming freely in public places around New York City—including a famous gator found in Prospect Park. It may be strange to spot an alligator walking around these big cities but apparently it is not entirely unheard of!</p>
+<p> 
+This week there have been a lot of news stories about the suffering faced by migrant and refugee children in the United States, the deepening divide caused by the war in Ukraine and other economic difficulties around the world, controversy over voter fraud at Fox News, an increase in furniture sales caused by tech companies moving to remote work, an upcoming election in Nigeria with an unexpected third candidate on the ballot, Californians celebrating as snow falls in unusual places during a cold storm, intense rain and high winds causing flooding and blizzard conditions in Southern California, a murder trial of a man accused of killing his wife and son, and lawyers signing clients up for lawsuits against a company responsible for train derailments in Ohio.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia, Ukraine and the West Vow to Fight On, in a War With No End in Sight</h3>
-<sub>By Anton Troianovski, Steven Erlanger and Marc Santora</sub>
-<p>Moscow and Kyiv face daunting challenges in moving forward, with no clear sense of what an attainable victory might look like.  <a href="https://nyti.ms/3IRm0ts"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Protests and Defiance Mark a Year of Russia’s War on Ukraine</h3>
-<sub>By Marc Santora and Richard Pérez-Peña</sub>
-<p>On the anniversary of the invasion, Volodymyr Zelensky held a marathon news conference and vowed victory if Ukraine’s allies remained united like a fist.  <a href="https://nyti.ms/3xRewjW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Reaffirms Support for Ukraine Amid Concerns About Russia-Iran Ties</h3>
-<sub>By Michael D. Shear</sub>
-<p>The Biden administration announced new measures targeting Moscow and supporters of President Vladimir V. Putin’s war.  <a href="https://nyti.ms/3xU3PgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<h3>Alone and Exploited, Migrant Children Work Brutal Jobs Across the U.S.</h3>
+<sub>By Hannah Dreier and Photographs By Kirsten Luce</sub>
+<p>Arriving in record numbers, they’re ending up in dangerous jobs that violate child labor laws — including in factories that make some of the country’s best-known products.  <a href="https://nyti.ms/3IPNJd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>War in Ukraine Deepens Divide Among Major Economies at G20 Gathering</h3>
+<sub>By Alan Rappeport</sub>
+<p>Treasury Secretary Janet L. Yellen urged her counterparts at a summit in India to condemn Russia’s actions, and she defended the cost of supplying aid to Kyiv.  <a href="https://nyti.ms/3ECB2kw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Fox News Hosts Said Privately vs. Publicly About Voter Fraud</h3>
+<sub>By Stuart A. Thompson, Karen Yourish and Jeremy W. Peters</sub>
+<p>Dozens of private messages, released as part of a lawsuit against Fox, revealed what was said behind the scenes.  <a href="https://nyti.ms/3SBlfYT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Furniture Hustlers of Silicon Valley</h3>
+<sub>By Erin Griffith</sub>
+<p>As tech companies cut costs and move to remote work, their left-behind office furniture has become part of a booming trade.  <a href="https://nyti.ms/3m6WyYf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Year of War in Ukraine: The Roots of the Crisis</h3>
-<sub>By Eric Nagourney, Dan Bilefsky and Richard Pérez-Peña</sub>
-<p>On the first anniversary of the invasion, here’s a guide to how the biggest war in Europe since World War II came about, and what’s at stake for Russia and the world.  <a href="https://nyti.ms/3KEHhWk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 9, Central Standard Time</sub></sub>
+<h3>After 8 Lost Years, a Wide-Open Election in the Giant of Africa</h3>
+<sub>By Ruth Maclean</sub>
+<p>In Nigeria’s presidential election on Saturday, voters are desperate to elect a leader who can unleash their youthful country’s potential and chart a new course after years of dashed hopes.  <a href="https://nyti.ms/41r46Fh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rare and Dangerous: Southern California Faces Floods and Blizzard Conditions</h3>
-<sub>By Eduardo Medina, Judson Jones and Vik Jolly</sub>
-<p>Snow, high winds and intense rain hit parts of the state Friday. Blizzard warnings were in effect until Saturday afternoon in the mountains of four California counties.  <a href="https://nyti.ms/3XYCkwQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Nigerian Election 2023: What to Know and What Polling Shows</h3>
+<sub>By Ruth Maclean</sub>
+<p>The presidential election scheduled for Saturday in Africa’s most populous country is completely unpredictable. An unexpected third candidate with a huge youth following may upend decades of traditional politics.  <a href="https://nyti.ms/3lBX7ZX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Snow? Graupel? Whatever Is Falling, It’s Making Californians Giddy</h3>
@@ -103,21 +105,15 @@ Finally, there has recently been some urban alligators reported roaming freely i
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Rare and Dangerous: Southern California Faces Floods and Blizzard Conditions</h3>
+<sub>By Eduardo Medina, Mike Ives, Judson Jones and Vik Jolly</sub>
+<p>Snow, high winds and intense rain hit parts of the state Friday. Los Angeles was under a flash flood warning early Saturday, and blizzards were expected in nearby mountains.  <a href="https://nyti.ms/3XYCkwQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Murdaugh Hammered by Prosecutor Over Where He Was on Night of Killings</h3>
 <sub>By Nicholas Bogel-Burroughs</sub>
 <p>The intense cross-examination of Mr. Murdaugh, who is charged with killing his wife and son, came as he concluded his testimony in his own defense.  <a href="https://nyti.ms/3xSSgGm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>12 States Sue F.D.A., Seeking Removal of Special Restrictions on Abortion Pill</h3>
-<sub>By Pam Belluck</sub>
-<p>The suit argues that rules applying to mifepristone unnecessarily limit patients’ access to medication abortion.  <a href="https://nyti.ms/3m32aCS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Vice C.E.O.’s Departure Signals Fallen Hopes for Digital Media</h3>
-<sub>By Benjamin Mullin</sub>
-<p>Nancy Dubuc is leaving the media company, which is exploring a sale of some or all of the business, after nearly five years there.  <a href="https://nyti.ms/3IpFvrT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,16 +122,16 @@ Finally, there has recently been some urban alligators reported roaming freely i
 <p>Lawyers have poured into East Palestine, Ohio, since the derailment that led to a burn-off of toxic chemicals, filing more than a dozen lawsuits so far on behalf of local residents.  <a href="https://nyti.ms/3Y4KfbX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Canada Saw a Deadly Derailment. A Decade Later, Little Has Changed.</h3>
-<sub>By Ian Austen</sub>
-<p>When a runaway train loaded with oil jumped the tracks in Lac-Mégantic, Quebec, 47 people died in Canada’s worst rail disaster in nearly 150 years.  <a href="https://nyti.ms/3IRlcos"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jaclyn Reiss</sub>
+<p>  <a href="https://nyti.ms/3xOcYav"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Prospect Park Gator Was Not the First. Here Are Other Urban Gators.</h3>
-<sub>By Hurubie Meko</sub>
-<p>A brief history of New York City alligators.  <a href="https://nyti.ms/41joVmd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, February 24, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3XSIUFn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
