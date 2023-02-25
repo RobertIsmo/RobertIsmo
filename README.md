@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 25, Central Standard Time</p>
 <p>
-There is a lot going on in the world recently. In the US, migrant children from Central and South America are being exploited and put into dangerous jobs violating child labor laws. Southern California is facing both floods and blizzards due to a cold storm. An Ohio town was affected by a train derailment, leading lawyers to file a dozen lawsuits on behalf of residents. The G20 Summit also took place in India, during which U.S. Treasury Secretary Janet L. Yellen condemned Russia&#39;s actions and defended Ukraine aid. Fox News was also making headlines following messages released as part of a lawsuit that revealed what TV hosts said privately behind the scenes regarding voter fraud. Additionally, Silicon Valley furniture has become part of a booming market as tech companies cut costs and move to remote work. Finally, Nigeria is gearing up for its presidential election Saturday with three candidates vying for the position.</p>
+There have been a lot of stories in the news lately about social and political issues around the world. In the US, migrant children are being exploited for their labor, often in dangerous situations and sometimes making products for well-known brands. In Nigeria, voters are hoping for a leader who can restore their economy after many years of dashed hopes in the presidential election this weekend. Meanwhile, tensions between major economies rose at the G20 summit because of conflict in Ukraine. Tech companies are cutting back on office space with so many working remotely now, leading to a booming secondhand furniture market. And extreme weather is also causing damage in California - snow and flooding up high and down low. Plus, content creators who went viral are now having to figure out taxes due to their newfound success!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Alone and Exploited, Migrant Children Work Brutal Jobs Across the U.S.</h3>
 <sub>By Hannah Dreier and Photographs By Kirsten Luce</sub>
-<p>Arriving in record numbers, they’re ending up in dangerous jobs that violate child labor laws — including in factories that make some of the country’s best-known products.  <a href="https://nyti.ms/3IPNJd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Arriving in record numbers, they’re ending up in dangerous jobs that violate child labor laws — including in factories that make products for well-known brands like Cheetos and Fruit of the Loom.  <a href="https://nyti.ms/3IPNJd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-espanol-blue" alt="">
@@ -75,15 +75,21 @@ There is a lot going on in the world recently. In the US, migrant children from 
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>War in Ukraine Deepens Divide Among Major Economies at G20 Gathering</h3>
-<sub>By Alan Rappeport</sub>
-<p>Treasury Secretary Janet L. Yellen urged her counterparts at a summit in India to condemn Russia’s actions, and she defended the cost of supplying aid to Kyiv.  <a href="https://nyti.ms/3ECB2kw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Fox News Hosts Said Privately vs. Publicly About Voter Fraud</h3>
 <sub>By Stuart A. Thompson, Karen Yourish and Jeremy W. Peters</sub>
 <p>Dozens of private messages, released as part of a lawsuit against Fox, revealed what was said behind the scenes.  <a href="https://nyti.ms/3SBlfYT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Tempered in a Crucible of Violence, Zelensky Rises to the Moment</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>In much of the world, President Volodymyr Zelensky, once brushed off as a political lightweight, has become a household name, representing Ukraine’s tenacity and underdog victories against Russia.  <a href="https://nyti.ms/3m4Fxhd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>War in Ukraine Deepens Divide Among Major Economies at G20 Gathering</h3>
+<sub>By Alan Rappeport</sub>
+<p>Treasury Secretary Janet L. Yellen urged her counterparts at a summit in India to condemn Russia’s actions, and she defended the cost of supplying aid to Kyiv.  <a href="https://nyti.ms/3ECB2kw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -99,10 +105,22 @@ There is a lot going on in the world recently. In the US, migrant children from 
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Nigerian Election 2023: What to Know and What Polling Shows</h3>
+<h3>He’s Energized Nigeria’s Young Voters. Will They Turn Out for Him?</h3>
 <sub>By Ruth Maclean</sub>
-<p>The presidential election scheduled for Saturday in Africa’s most populous country is completely unpredictable. An unexpected third candidate with a huge youth following may upend decades of traditional politics.  <a href="https://nyti.ms/3lBX7ZX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 14, Central Standard Time</sub></sub>
+<p>The race is wide open in the presidential election in Nigeria, Africa’s most populous nation and a struggling economic powerhouse. Youth looking to evict the old guard are cheering on Peter Obi, a surprise third-party candidate.  <a href="https://nyti.ms/417120T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In the Los Angeles Area, Snow Up High, and Flooding Down Below</h3>
+<sub>By Douglas Morino, Vik Jolly and Neelam Bohra</sub>
+<p>Residents braced for more fallout on Saturday after heavy rains and wind caused damage at lower elevations overnight.  <a href="https://nyti.ms/41vhkAP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In a California Town, Farmworkers Start From Scratch After Surprise Flood</h3>
+<sub>By Soumya Karlamangla and Viviana Hinojos</sub>
+<p>Planada residents spent decades building their lives in the Central Valley community. A brutal series of storms destroyed what they had.  <a href="https://nyti.ms/3m6oQSE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Snow? Graupel? Whatever Is Falling, It’s Making Californians Giddy</h3>
@@ -110,29 +128,11 @@ There is a lot going on in the world recently. In the US, migrant children from 
 <p>A cold storm has created winter wonderlands in unusual California spots that almost never see snow.  <a href="https://nyti.ms/3IswNsY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rare and Dangerous: Southern California Faces Floods and Blizzard Conditions</h3>
-<sub>By Eduardo Medina, Mike Ives, Judson Jones and Vik Jolly</sub>
-<p>Snow, high winds and intense rain hit parts of the state Friday. Los Angeles was under a flash flood warning early Saturday, and blizzards were expected in nearby mountains.  <a href="https://nyti.ms/3XYCkwQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Murdaugh Hammered by Prosecutor Over Where He Was on Night of Killings</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>The intense cross-examination of Mr. Murdaugh, who is charged with killing his wife and son, came as he concluded his testimony in his own defense.  <a href="https://nyti.ms/3xSSgGm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Town Where Train Derailed, Lawyers Are Signing Up Clients in Droves</h3>
-<sub>By Campbell Robertson</sub>
-<p>Lawyers have poured into East Palestine, Ohio, since the derailment that led to a burn-off of toxic chemicals, filing more than a dozen lawsuits so far on behalf of local residents.  <a href="https://nyti.ms/3Y4KfbX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jaclyn Reiss</sub>
-<p>  <a href="https://nyti.ms/3xOcYav"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>They Went Viral and Made Money. Now They Owe Taxes.</h3>
+<sub>By Lora Kelley</sub>
+<p>Many content creators who earned money for the first time on platforms like TikTok, Instagram and YouTube are figuring out what a 1099 form is and what they can write off.  <a href="https://nyti.ms/3SqGrAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
