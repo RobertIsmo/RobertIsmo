@@ -60,7 +60,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 25, Central Standard Time</p>
 <p>
-There have been a lot of stories in the news lately about social and political issues around the world. In the US, migrant children are being exploited for their labor, often in dangerous situations and sometimes making products for well-known brands. In Nigeria, voters are hoping for a leader who can restore their economy after many years of dashed hopes in the presidential election this weekend. Meanwhile, tensions between major economies rose at the G20 summit because of conflict in Ukraine. Tech companies are cutting back on office space with so many working remotely now, leading to a booming secondhand furniture market. And extreme weather is also causing damage in California - snow and flooding up high and down low. Plus, content creators who went viral are now having to figure out taxes due to their newfound success!</p>
+Right now, there are some major events happening across the world. In the United States, there is a growing awareness of the exploitation of migrant children in dangerous labor jobs. There&#39;s also a controversy regarding Fox News hosts&#39; allegedly false claims about voter fraud before the 2020 election. 
+
+On the international stage, Ukrainian President Volodymyr Zelensky has become a household name after leading his nation through a grueling conflict with Russia. Meanwhile, Belarusian leader Aleksandr G. Lukashenko is being welcomed to China amidst US accusations that China is sending lethal aid to support Russia. 
+
+At a recent G20 summit India, U.S. Treasury Secretary Janet L. Yellen was urging countries to condemn Russian actions and defend Kyiv&#39;s aid package. 
+
+In Silicon Valley, tech companies cutting costs have left behind office furniture which is now part of a booming trade. 
+
+In Africa, Nigeria will elect a president on Saturday that could lead to the country taking a new course after years of dashed hope and economic stagnation. Peter Obi is one of the third-party candidates who has been gaining support from younger voters looking to oust the absentee government. 
+
+Finally, Southern California has received record-breaking amounts of snowfall and rain which has caused flooding and damage at lower elevations putting resident&#39;s lives on hold until restoration begins in Planada town and other California towns affected by last night’s storms.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Alone and Exploited, Migrant Children Work Brutal Jobs Across the U.S.</h3>
@@ -84,6 +94,12 @@ There have been a lot of stories in the news lately about social and political i
 <h3>Tempered in a Crucible of Violence, Zelensky Rises to the Moment</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>In much of the world, President Volodymyr Zelensky, once brushed off as a political lightweight, has become a household name, representing Ukraine’s tenacity and underdog victories against Russia.  <a href="https://nyti.ms/3m4Fxhd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China to Welcome Belarusian Leader, Raising Concerns Over Ukraine</h3>
+<sub>By Marc Santora and Chris Buckley</sub>
+<p>A state visit next week by Aleksandr G. Lukashenko of Belarus comes as the U.S. has accused China of preparing to send lethal aid to Russia.  <a href="https://nyti.ms/3IqsnTg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -127,12 +143,6 @@ There have been a lot of stories in the news lately about social and political i
 <sub>By Shawn Hubler</sub>
 <p>A cold storm has created winter wonderlands in unusual California spots that almost never see snow.  <a href="https://nyti.ms/3IswNsY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>They Went Viral and Made Money. Now They Owe Taxes.</h3>
-<sub>By Lora Kelley</sub>
-<p>Many content creators who earned money for the first time on platforms like TikTok, Instagram and YouTube are figuring out what a 1099 form is and what they can write off.  <a href="https://nyti.ms/3SqGrAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
