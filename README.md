@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 24, Central Standard Time</p>
 <p>
-Right now, the world is facing a lot of tension and conflict between nations. In particular, there is a long-running war between Russia and Ukraine, with both countries vowing to fight on despite no end in sight. To mark the anniversary of the invasion, Ukraine&#39;s president promised victory if allies remain united like a fist. Meanwhile, President Biden has expressed support for Ukraine while trying to counter any military involvement with Russia or Iran. 
-
-In other global news, people are looking back at the tragic train derailment disaster in Canada 10 years ago which left 47 people dead. And despite legal action, sadly nothing seems to have changed in Canada since then. 
-
-On the homefront, here in America we&#39;re seeing strong winds and snow bring blizzard conditions to Southern California and Portland, Ore., leading to the death of an infant. People are also marveling at rare snow on beaches across the state. And in Ohio&#39;s East Palestine town where a train derailed and toxic chemicals were burned off, lawyers have poured in to file over a dozen lawsuits against local residents. 
-
-Finally, in business news, Vice CEO Nancy Dubuc is leaving her role after 5 years as the media company reportedly explores sales of some parts of its business.</p>
+There is continuing unrest in East Europe due to the Russia-Ukraine War that began last year, with both sides vowing to continue fighting with no end in sight. Meanwhile, protests and demonstrations have continued to mark the anniversary of the invasion. In response, the Biden administration has taken measures to target supporters of Russian President Vladimir Putin and his war. In other news, California is still reeling from a massive winter snowstorm which has brought blizzard conditions and resulted in the death of an infant in Portland. A few states are challenging existing laws regulating access to abortion pills, whilst a digital media company is considering selling its assets or parts thereof. Across New York City, alligators have been spotted in suburban settings; meanwhile, lawyers have flocked to Ohio after a deadly train derailment there. Finally, Canada is reflecting on the 10th anniversary of its worst rail disaster since the 1800s when a runaway train carrying oil crashed, resulting in 47 deaths.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia, Ukraine and the West Vow to Fight On, in a War With No End in Sight</h3>
@@ -77,7 +71,7 @@ Finally, in business news, Vice CEO Nancy Dubuc is leaving her role after 5 year
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Protests and Defiance Mark a Year of Russia’s War on Ukraine</h3>
 <sub>By Marc Santora and Richard Pérez-Peña</sub>
-<p>On the anniversary of the invasion, Volodymyr Zelensky held a marathon news conference and vowed victory if Ukraine’s allies remained united “like a fist.”  <a href="https://nyti.ms/3xRewjW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>On the anniversary of the invasion, Volodymyr Zelensky held a marathon news conference and vowed victory if Ukraine’s allies remained united like a fist.  <a href="https://nyti.ms/3xRewjW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,33 +87,21 @@ Finally, in business news, Vice CEO Nancy Dubuc is leaving her role after 5 year
 <sub><sub>Sunday, January 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Murdaugh Hammered by Prosecutor Over Where He Was on Night of Killings</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>The intense cross-examination of Mr. Murdaugh, who is charged with killing his wife and son, came as he concluded his testimony in his own defense.  <a href="https://nyti.ms/3xSSgGm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Heavy Wind and Snow Bring Blizzard Conditions to Southern California</h3>
 <sub>By Eduardo Medina, Judson Jones and Vik Jolly</sub>
 <p>A storm continued to pound the West Coast on Friday, bringing blizzard conditions to the mountains of California. In Portland, Ore., the storm was blamed for an infant’s death.  <a href="https://nyti.ms/3XYCkwQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Snow in California Surprises and Delights</h3>
-<sub>By The New York Times</sub>
-<p>Whiteout conditions shuttered roads in the mountains, while a dusting of snow on beaches brought residents out to marvel.  <a href="https://nyti.ms/3EwypAr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Snow? Graupel? Whatever Is Falling, It’s Making Californians Giddy</h3>
+<sub>By Shawn Hubler</sub>
+<p>A cold storm has created winter wonderlands in unusual California spots that almost never see snow.  <a href="https://nyti.ms/3IswNsY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Town Where Train Derailed, Lawyers Are Signing Up Clients in Droves</h3>
-<sub>By Campbell Robertson</sub>
-<p>Lawyers have poured into East Palestine, Ohio, since the derailment that led to a burn-off of toxic chemicals, filing more than a dozen lawsuits so far on behalf of local residents.  <a href="https://nyti.ms/3Y4KfbX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Canada Saw a Deadly Derailment. A Decade Later, Little Has Changed.</h3>
-<sub>By Ian Austen</sub>
-<p>When a runaway train loaded with oil jumped the tracks in Lac-Mégantic, Quebec, 47 people died in Canada’s worst rail disaster in nearly 150 years.  <a href="https://nyti.ms/3IRlcos"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Murdaugh Hammered by Prosecutor Over Where He Was on Night of Killings</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>The intense cross-examination of Mr. Murdaugh, who is charged with killing his wife and son, came as he concluded his testimony in his own defense.  <a href="https://nyti.ms/3xSSgGm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -138,6 +120,18 @@ Finally, in business news, Vice CEO Nancy Dubuc is leaving her role after 5 year
 <h3>The Prospect Park Gator Was Not the First. Here Are Other Urban Gators.</h3>
 <sub>By Hurubie Meko</sub>
 <p>A brief history of New York City alligators.  <a href="https://nyti.ms/41joVmd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Town Where Train Derailed, Lawyers Are Signing Up Clients in Droves</h3>
+<sub>By Campbell Robertson</sub>
+<p>Lawyers have poured into East Palestine, Ohio, since the derailment that led to a burn-off of toxic chemicals, filing more than a dozen lawsuits so far on behalf of local residents.  <a href="https://nyti.ms/3Y4KfbX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Canada Saw a Deadly Derailment. A Decade Later, Little Has Changed.</h3>
+<sub>By Ian Austen</sub>
+<p>When a runaway train loaded with oil jumped the tracks in Lac-Mégantic, Quebec, 47 people died in Canada’s worst rail disaster in nearly 150 years.  <a href="https://nyti.ms/3IRlcos"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
