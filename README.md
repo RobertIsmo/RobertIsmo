@@ -59,13 +59,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 25, Central Standard Time</p>
-<p> 
-This week there have been a lot of news stories about the suffering faced by migrant and refugee children in the United States, the deepening divide caused by the war in Ukraine and other economic difficulties around the world, controversy over voter fraud at Fox News, an increase in furniture sales caused by tech companies moving to remote work, an upcoming election in Nigeria with an unexpected third candidate on the ballot, Californians celebrating as snow falls in unusual places during a cold storm, intense rain and high winds causing flooding and blizzard conditions in Southern California, a murder trial of a man accused of killing his wife and son, and lawyers signing clients up for lawsuits against a company responsible for train derailments in Ohio.</p>
+<p>
+There is a lot going on in the world recently. In the US, migrant children from Central and South America are being exploited and put into dangerous jobs violating child labor laws. Southern California is facing both floods and blizzards due to a cold storm. An Ohio town was affected by a train derailment, leading lawyers to file a dozen lawsuits on behalf of residents. The G20 Summit also took place in India, during which U.S. Treasury Secretary Janet L. Yellen condemned Russia&#39;s actions and defended Ukraine aid. Fox News was also making headlines following messages released as part of a lawsuit that revealed what TV hosts said privately behind the scenes regarding voter fraud. Additionally, Silicon Valley furniture has become part of a booming market as tech companies cut costs and move to remote work. Finally, Nigeria is gearing up for its presidential election Saturday with three candidates vying for the position.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Alone and Exploited, Migrant Children Work Brutal Jobs Across the U.S.</h3>
 <sub>By Hannah Dreier and Photographs By Kirsten Luce</sub>
 <p>Arriving in record numbers, they’re ending up in dangerous jobs that violate child labor laws — including in factories that make some of the country’s best-known products.  <a href="https://nyti.ms/3IPNJd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Solos y explotados, niños migrantes desempeñan trabajos crueles en EE. UU.</h3>
+<sub>By Hannah Dreier and Kirsten Luce</sub>
+<p>Llegan al país en cifras récord y acaban en labores peligrosas que violan las leyes de trabajo infantil, incluso en fábricas donde se hacen algunos de los productos más conocidos del país.  <a href="https://nyti.ms/3SrLUaC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -127,12 +133,6 @@ This week there have been a lot of news stories about the suffering faced by mig
 <sub>By Jaclyn Reiss</sub>
 <p>  <a href="https://nyti.ms/3xOcYav"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, February 24, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3XSIUFn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
