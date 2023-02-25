@@ -60,30 +60,48 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, February 24, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Ukraine, China recently released a position paper that calls for an end to the fighting in the war, but avoids making any demands that could hurt its relationship with Russia. There have been many long-term ripple effects of the war, ranging from disrupted lives and economies to a shift in the global order. On the topic of natural disasters, California has been hit by a blizzard causing major traffic disruption. It was both damaging and surprisingly beautiful, leading some residents to come out and marvel at it. The Federal Reserve’s recent inflation readings have defied expectations and been staying power despite being down from their peak last summer. Another development in the US is Senator J.D. Vance of Ohio, who is facing a test as he responds to a train derailment and its aftermath in East Palestine. Closer to home, there&#39;s a fascinating war going down between two tiny New York City newspapers — complete with a crusty publisher and &quot;guerilla&quot; litigator! Finally, there&#39;s an interesting new reality show in Holland where amateur and professional artists are competing to recreate some of Vermeer&#39;s lost works coinciding with a big exhibition of his art. In terms of opinion, Marjorie Taylor Greene has proposed a “national divorce” plan that reveals her ambitions.</p>
+Right now, the world is facing a lot of tension and conflict between nations. In particular, there is a long-running war between Russia and Ukraine, with both countries vowing to fight on despite no end in sight. To mark the anniversary of the invasion, Ukraine&#39;s president promised victory if allies remain united like a fist. Meanwhile, President Biden has expressed support for Ukraine while trying to counter any military involvement with Russia or Iran. 
+
+In other global news, people are looking back at the tragic train derailment disaster in Canada 10 years ago which left 47 people dead. And despite legal action, sadly nothing seems to have changed in Canada since then. 
+
+On the homefront, here in America we&#39;re seeing strong winds and snow bring blizzard conditions to Southern California and Portland, Ore., leading to the death of an infant. People are also marveling at rare snow on beaches across the state. And in Ohio&#39;s East Palestine town where a train derailed and toxic chemicals were burned off, lawyers have poured in to file over a dozen lawsuits against local residents. 
+
+Finally, in business news, Vice CEO Nancy Dubuc is leaving her role after 5 years as the media company reportedly explores sales of some parts of its business.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Reprises Old Themes in Ukraine Plan, Casting Itself as Neutral</h3>
-<sub>By Chris Buckley, Steven Erlanger and Edward Wong</sub>
-<p>A year after Russia’s invasion, Beijing released a paper declaring its position on the war: It called for an end to the fighting but avoided demands that could hurt its ties with Russia.  <a href="https://nyti.ms/3IOYpJY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia, Ukraine and the West Vow to Fight On, in a War With No End in Sight</h3>
+<sub>By Anton Troianovski, Steven Erlanger and Marc Santora</sub>
+<p>Moscow and Kyiv face daunting challenges in moving forward, with no clear sense of what an attainable victory might look like.  <a href="https://nyti.ms/3IRm0ts"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Six ways the war changed the world.</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>The ripple effects of Russia’s invasion have reordered lives and upended economies. Here are some of the consequences.  <a href="https://nyti.ms/3ECmod4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Protests and Defiance Mark a Year of Russia’s War on Ukraine</h3>
+<sub>By Marc Santora and Richard Pérez-Peña</sub>
+<p>On the anniversary of the invasion, Volodymyr Zelensky held a marathon news conference and vowed victory if Ukraine’s allies remained united “like a fist.”  <a href="https://nyti.ms/3xRewjW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Reaffirms Support for Ukraine Amid Concerns About Russia-Iran Ties</h3>
+<sub>By Michael D. Shear</sub>
+<p>The Biden administration announced new measures targeting Moscow and supporters of President Vladimir V. Putin’s war.  <a href="https://nyti.ms/3xU3PgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>New York Times reporters reflect on the moments from the war that are seared in their minds.</h3>
-<sub>By Andrew E. Kramer, Marc Santora, Valerie Hopkins and Carlotta Gall</sub>
-<p>  <a href="https://nyti.ms/3IS5auz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Year of War in Ukraine: The Roots of the Crisis</h3>
+<sub>By Eric Nagourney, Dan Bilefsky and Richard Pérez-Peña</sub>
+<p>On the first anniversary of the invasion, here’s a guide to how the biggest war in Europe since World War II came about, and what’s at stake for Russia and the world.  <a href="https://nyti.ms/3KEHhWk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Murdaugh Hammered by Prosecutor Over Where He Was on Night of Killings</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>The intense cross-examination of Mr. Murdaugh, who is charged with killing his wife and son, came as he concluded his testimony in his own defense.  <a href="https://nyti.ms/3xSSgGm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Heavy Wind and Snow Bring Blizzard Conditions to Southern California</h3>
-<sub>By Derrick Bryson Taylor, Judson Jones and Christine Hauser</sub>
-<p>A powerful storm has brought snow to the West Coast and snarled traffic throughout California — including in Los Angeles County.  <a href="https://nyti.ms/3XYCkwQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Eduardo Medina, Judson Jones and Vik Jolly</sub>
+<p>A storm continued to pound the West Coast on Friday, bringing blizzard conditions to the mountains of California. In Portland, Ore., the storm was blamed for an infant’s death.  <a href="https://nyti.ms/3XYCkwQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,46 +110,34 @@ There is a lot going on in the world right now. In Ukraine, China recently relea
 <p>Whiteout conditions shuttered roads in the mountains, while a dusting of snow on beaches brought residents out to marvel.  <a href="https://nyti.ms/3EwypAr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Fed’s Preferred Inflation Gauge Sped Back Up</h3>
-<sub>By Jeanna Smialek and Ben Casselman</sub>
-<p>Inflation is down from its peak last summer, but recent readings have shown substantial and surprising staying power.  <a href="https://nyti.ms/3KFck6Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Stocks Sink for Third Straight Week</h3>
-<sub>By Joe Rennison</sub>
-<p>A turn in the market has eroded the sharp rally at the start of the year, as investors have fretted about recent signals suggesting a resurgence in inflation.  <a href="https://nyti.ms/3Y1AUln"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>East Palestine Crisis Tests a Trump-Backed Senator</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>J.D. Vance, the freshman senator from Ohio, is in the spotlight for the first time in his tenure as he responds to the train derailment and its aftermath.  <a href="https://nyti.ms/3xQjcqm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Town Where Train Derailed, Lawyers Are Signing Up Clients in Droves</h3>
+<sub>By Campbell Robertson</sub>
+<p>Lawyers have poured into East Palestine, Ohio, since the derailment that led to a burn-off of toxic chemicals, filing more than a dozen lawsuits so far on behalf of local residents.  <a href="https://nyti.ms/3Y4KfbX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Inside New York City’s Nastiest (and Smallest) Newspaper War</h3>
-<sub>By John Leland</sub>
-<p>A crusty publisher. A “guerilla” litigator. An ambitious caregiver. Has the news of Greenwich Village ever been more fun?  <a href="https://nyti.ms/3KzjHwH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Canada Saw a Deadly Derailment. A Decade Later, Little Has Changed.</h3>
+<sub>By Ian Austen</sub>
+<p>When a runaway train loaded with oil jumped the tracks in Lac-Mégantic, Quebec, 47 people died in Canada’s worst rail disaster in nearly 150 years.  <a href="https://nyti.ms/3IRlcos"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>12 States Sue F.D.A., Seeking Removal of Special Restrictions on Abortion Pill</h3>
+<sub>By Pam Belluck</sub>
+<p>The suit argues that rules applying to mifepristone unnecessarily limit patients’ access to medication abortion.  <a href="https://nyti.ms/3m32aCS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Vice C.E.O.’s Departure Signals Fallen Hopes for Digital Media</h3>
+<sub>By Benjamin Mullin</sub>
+<p>Nancy Dubuc is leaving the media company, which is exploring a sale of some or all of the business, after nearly five years there.  <a href="https://nyti.ms/3IpFvrT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Prospect Park Gator Was Not the First. Here Are Other Urban Gators.</h3>
 <sub>By Hurubie Meko</sub>
 <p>A brief history of New York City alligators.  <a href="https://nyti.ms/41joVmd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How Hard Is It to Paint Like Vermeer? TV Contestants Find Out.</h3>
-<sub>By Nina Siegal</sub>
-<p>Amateur and professional artists are competing to recreate some of the old master’s lost works in a Dutch reality show that coincides with a blockbuster Vermeer exhibition in Amsterdam.  <a href="https://nyti.ms/3klMeef"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Marjorie Taylor Greene Has a Dream</h3>
-<sub>By Jamelle Bouie</sub>
-<p>Her plans for a “national divorce” are very revealing.  <a href="https://nyti.ms/3KBBhQy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, February 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
