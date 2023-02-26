@@ -60,18 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 25, Central Standard Time</p>
 <p>
-Right now, there are some major events happening across the world. In the United States, there is a growing awareness of the exploitation of migrant children in dangerous labor jobs. There&#39;s also a controversy regarding Fox News hosts&#39; allegedly false claims about voter fraud before the 2020 election. 
-
-On the international stage, Ukrainian President Volodymyr Zelensky has become a household name after leading his nation through a grueling conflict with Russia. Meanwhile, Belarusian leader Aleksandr G. Lukashenko is being welcomed to China amidst US accusations that China is sending lethal aid to support Russia. 
-
-At a recent G20 summit India, U.S. Treasury Secretary Janet L. Yellen was urging countries to condemn Russian actions and defend Kyiv&#39;s aid package. 
-
-In Silicon Valley, tech companies cutting costs have left behind office furniture which is now part of a booming trade. 
-
-In Africa, Nigeria will elect a president on Saturday that could lead to the country taking a new course after years of dashed hope and economic stagnation. Peter Obi is one of the third-party candidates who has been gaining support from younger voters looking to oust the absentee government. 
-
-Finally, Southern California has received record-breaking amounts of snowfall and rain which has caused flooding and damage at lower elevations putting resident&#39;s lives on hold until restoration begins in Planada town and other California towns affected by last night’s storms.</p>
+There is a lot going on in the world that is worth talking about. In Iran, women are defying mandatory hijab laws by growing their hair and wearing it in ponytails. Meanwhile, migrant children are at risk of exploitation, as they work in dangerous jobs in the US that violate child labor laws. China is also set to welcome the Belarusian leader, amid concerns that they could be sending lethal aid to Russia. Closer to home, California has seen snow up high and flooding down low due to record rainfall. Farmworkers have been left starting from scratch after the surprise floods destroyed what they had spent decades building. In Michigan, people have gone through their fourth day without power after an ice storm caused power failures across the state for some of them for the second time in months. To top it all off, there&#39;s a new water crisis at the Salton Sea in California, as drought and an ever drier Colorado River threatens its water supply. This is just a selection of everything that is happening in the world right now!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Their Hair Long and Flowing or in Ponytails, Women in Iran Flaunt Their Locks</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>Defiant resistance to Iran’s mandatory hijab law has exploded across the country after nationwide protests that erupted last year.  <a href="https://nyti.ms/41sD8Nq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Alone and Exploited, Migrant Children Work Brutal Jobs Across the U.S.</h3>
 <sub>By Hannah Dreier and Photographs By Kirsten Luce</sub>
@@ -90,6 +86,12 @@ Finally, Southern California has received record-breaking amounts of snowfall an
 <p>Dozens of private messages, released as part of a lawsuit against Fox, revealed what was said behind the scenes.  <a href="https://nyti.ms/3SBlfYT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Furniture Hustlers of Silicon Valley</h3>
+<sub>By Erin Griffith</sub>
+<p>As tech companies cut costs and move to remote work, their left-behind office furniture has become part of a booming trade.  <a href="https://nyti.ms/3m6WyYf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Tempered in a Crucible of Violence, Zelensky Rises to the Moment</h3>
 <sub>By Andrew E. Kramer</sub>
@@ -102,34 +104,10 @@ Finally, Southern California has received record-breaking amounts of snowfall an
 <p>A state visit next week by Aleksandr G. Lukashenko of Belarus comes as the U.S. has accused China of preparing to send lethal aid to Russia.  <a href="https://nyti.ms/3IqsnTg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>War in Ukraine Deepens Divide Among Major Economies at G20 Gathering</h3>
-<sub>By Alan Rappeport</sub>
-<p>Treasury Secretary Janet L. Yellen urged her counterparts at a summit in India to condemn Russia’s actions, and she defended the cost of supplying aid to Kyiv.  <a href="https://nyti.ms/3ECB2kw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Furniture Hustlers of Silicon Valley</h3>
-<sub>By Erin Griffith</sub>
-<p>As tech companies cut costs and move to remote work, their left-behind office furniture has become part of a booming trade.  <a href="https://nyti.ms/3m6WyYf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After 8 Lost Years, a Wide-Open Election in the Giant of Africa</h3>
-<sub>By Ruth Maclean</sub>
-<p>In Nigeria’s presidential election on Saturday, voters are desperate to elect a leader who can unleash their youthful country’s potential and chart a new course after years of dashed hopes.  <a href="https://nyti.ms/41r46Fh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>He’s Energized Nigeria’s Young Voters. Will They Turn Out for Him?</h3>
-<sub>By Ruth Maclean</sub>
-<p>The race is wide open in the presidential election in Nigeria, Africa’s most populous nation and a struggling economic powerhouse. Youth looking to evict the old guard are cheering on Peter Obi, a surprise third-party candidate.  <a href="https://nyti.ms/417120T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In the Los Angeles Area, Snow Up High, and Flooding Down Below</h3>
 <sub>By Douglas Morino, Vik Jolly and Neelam Bohra</sub>
-<p>Residents braced for more fallout on Saturday after heavy rains and wind caused damage at lower elevations overnight.  <a href="https://nyti.ms/41vhkAP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Residents encountered more fallout on Saturday after heavy rains and wind caused damage at lower elevations overnight.  <a href="https://nyti.ms/41vhkAP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -139,10 +117,22 @@ Finally, Southern California has received record-breaking amounts of snowfall an
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Snow? Graupel? Whatever Is Falling, It’s Making Californians Giddy</h3>
-<sub>By Shawn Hubler</sub>
-<p>A cold storm has created winter wonderlands in unusual California spots that almost never see snow.  <a href="https://nyti.ms/3IswNsY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 24, Central Standard Time</sub></sub>
+<h3>‘Frustrating and Upsetting’: Residents in Michigan Endure Fourth Day Without Power</h3>
+<sub>By Sam Easter, Claire Fahy and McKenna Oxenden</sub>
+<p>After an ice storm caused power failures across the state, 400,000 customers were still without electricity on Saturday. For some, it’s the second blackout in months.  <a href="https://nyti.ms/3KyqGWC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Salton Sea, an Accident of History, Faces a New Water Crisis</h3>
+<sub>By Henry Fountain and Mette Lampcov</sub>
+<p>The vast California lake relies on runoff from cropland to avoid disappearing. But as farmers face water cuts due to drought and an ever drier Colorado River, the Salton Sea stands to lose again.  <a href="https://nyti.ms/3Svu06A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>They Went Viral and Made Money. Now They Owe Taxes.</h3>
+<sub>By Lora Kelley</sub>
+<p>Many content creators who earned money for the first time on platforms like TikTok, Instagram and YouTube are figuring out what a 1099 form is and what they can write off.  <a href="https://nyti.ms/3SqGrAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
