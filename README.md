@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 26, Central Standard Time</p>
 <p>
-Currently, there is a lot going on around the world. The War in Ukraine has had a major impact, with Russian artillery leading to the deaths of civilians. In China, there are efforts to undo an era of birth limits and increase the declining birthrate, while in Nepal there is a sect of Buddhism that is attempting to empower nuns by mixing martial arts and environmental activism. Additionally, many migrant children in the US are ending up in dangerous jobs that violate child labor laws. On a lighter note, Iran is seeing a defiant resistance to its mandatory hijab laws, while Janet Yellen is making history as the first woman to sign US Dollars. Finally, there&#39;s an exposé revealing how young teenagers have been working long shifts for nationally known brands.</p>
+There have been a few major news stories recently. Unemployment rates outside the tech industry remain low, and many companies are struggling to find workers. Meanwhile, conflict in Ukraine continues with reports of Russian artillery striking civilians and a diaspora of Russians protesting Vladimir Putin&#39;s war. In China, there are attempts to undo an era of birth limits with incentives encouraging people to have children. The US Energy Department has concluded that a lab leak is the most likely cause of the pandemic while US intelligence agencies are divided on the issue. In Nepal, an unusual sect of Buddhist nuns is combining meditation with martial arts and environmental activism. Anniversary of the first attack on the Twin Towers reminds us never to forget. Migrant children are arriving in record numbers in the US, many ending up in dangerous jobs violating child labor laws for popular brands like Cheetos and Fruit of the Loom. Snowboarding brands are changing their strategies due to climate change and its challenges to snow fall calendars. And Erik Sowinski is a professional pacer leading every pack and fading from sight at the finish line.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Layoffs? Many Employers Are Eager to Hang On to Workers.</h3>
+<sub>By Sydney Ember and Ben Casselman</sub>
+<p>Despite interest rate increases meant to cool the labor market, companies outside the tech industry worry about having too few workers, not too many.  <a href="https://nyti.ms/3EGZ3Xv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>War in Ukraine Has Changed Europe Forever</h3>
 <sub>By Roger Cohen</sub>
@@ -75,10 +81,10 @@ Currently, there is a lot going on around the world. The War in Ukraine has had 
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Year of War in Ukraine: The Roots of the Crisis</h3>
-<sub>By Eric Nagourney, Dan Bilefsky and Richard Pérez-Peña</sub>
-<p>Here’s a guide to how the biggest war in Europe since World War II came about, and what’s at stake for Russia and the world.  <a href="https://nyti.ms/3KEHhWk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 9, Central Standard Time</sub></sub>
+<h3>Across the Globe, the Russian Diaspora Finds Ways to Protest Putin’s War</h3>
+<sub>By Neil MacFarquhar</sub>
+<p>From Berlin to Chicago, crowds gathered to express solidarity with Ukraine and to underscore that not all Russians support Vladimir Putin’s war.  <a href="https://nyti.ms/3kqLlkS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Desperate for Babies, China Races to Undo an Era of Birth Limits. Is It Too Late?</h3>
@@ -86,16 +92,22 @@ Currently, there is a lot going on around the world. The War in Ukraine has had 
 <p>A number of new incentives encouraging people to have children highlight the challenges China faces in trying to boost its declining birthrate.  <a href="https://nyti.ms/3IuEQFr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>He Survived the Trade Center Bombing. ‘I Always Knew They’d Be Back.’</h3>
-<sub>By Dan Barry</sub>
-<p>Thirty years ago today, Tim Lang was injured in the first attack on the twin towers, an ominous but often overlooked prelude to 9&#x2F;11. He does not forget.  <a href="https://nyti.ms/3m6WojA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lab Leak Most Likely Caused Pandemic, Energy Dept. Says</h3>
+<sub>By Julian E. Barnes</sub>
+<p>The conclusion, which was made with “low confidence,” came as America’s intelligence agencies remained divided over the origins of the coronavirus.  <a href="https://nyti.ms/3Y4iUGQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Kung Fu Nuns of Nepal Smash Convention</h3>
 <sub>By Sameer Yasir and Saumya Khandelwal</sub>
 <p>In Himalayan Buddhism, the religious roles of nuns have long been restricted by rules and customs. But one sect is changing that, mixing meditation with martial arts and environmental activism.  <a href="https://nyti.ms/3koq2Ap"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>He Survived the Trade Center Bombing. ‘I Always Knew They’d Be Back.’</h3>
+<sub>By Dan Barry</sub>
+<p>Thirty years ago today, Tim Lang was injured in the first attack on the twin towers, an ominous but often overlooked prelude to 9&#x2F;11. He does not forget.  <a href="https://nyti.ms/3m6WojA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,16 +122,10 @@ Currently, there is a lot going on around the world. The War in Ukraine has had 
 <p>A Times exposé has revealed that young teenagers work long shifts, sometimes for nationally known brands. What can be done?  <a href="https://nyti.ms/3Z8zZ3V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Print Money</h3>
-<sub>By Alan Rappeport, Adam Perez, Megan Lovallo, Marisa Schwartz Taylor and Rebecca Lieberman</sub>
-<p>Janet Yellen has made history as the first woman to lead the Treasury, and now a new batch of dollar bills will feature her signature. Here’s a close look at how the dollar gets made.  <a href="https://nyti.ms/3m9iVw7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Their Hair Long and Flowing or in Ponytails, Women in Iran Flaunt Their Locks</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>Defiant resistance to Iran’s mandatory hijab law has exploded across the country after nationwide protests that erupted last year.  <a href="https://nyti.ms/41sD8Nq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Where’s the Snow? Snowboarding Brands Are Trying to Find Out for Themselves.</h3>
+<sub>By Jasper Craven</sub>
+<p>Brands are changing their strategies and entering policy debates, as climate change continues to upend the snowfall calendar.  <a href="https://nyti.ms/41DUojd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -127,12 +133,6 @@ Currently, there is a lot going on around the world. The War in Ukraine has had 
 <sub>By Scott Cacciola</sub>
 <p>Erik Sowinski is a professional pacer, a talented runner who is in high demand on starting lines, and nowhere to be found at the finish.  <a href="https://nyti.ms/3KCDR8V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Who’s Spending $1 Million to Attack This Struggling Hospital?</h3>
-<sub>By Sharon Otterman</sub>
-<p>A group called Save Maimonides has financed a relentless, monthslong campaign to disparage a struggling Brooklyn medical center. Is this the best way to fix the hospital?  <a href="https://nyti.ms/3Z0nCHh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
