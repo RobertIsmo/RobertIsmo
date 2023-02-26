@@ -60,14 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 26, Central Standard Time</p>
 <p>
-Right now, things are heating up in Europe. A war is brewing in Ukraine and it has changed Europe for the long term - there&#39;s no going back now. In the east and south of Ukraine, Russian forces have been conducting artillery strikes that killed five civilians. To understand how we got here, we can look back to the roots of the crisis that are a year old. Additionally, over in China, they are quickly trying to rollback a host of birth limits and encourage people to have more babies as its population ages and declines. 
-
-As we look back 30 years ago to February 26th when there was an attack on the twin towers at the World Trade Center - an ominous foreshadowing of 9&#x2F;11 that hasn&#39;t been forgotten. Meanwhile, the first female leader of the Treasury Janet Yellen recently had her signature put on a new batch of dollar bills. On top of that, a Times exposé recently revealed that young migrants from across the U.S. have been ending up in dangerous child labor jobs in factories - making products like Cheetos and Fruit of the Loom. And closer to home for us, there is a campaign going on to disparage a struggling hospital in Brooklyn that some are trying to &quot;fix&quot; with aggressive tactics - spending 1 million dollars doing so. 
-
-Lastly, AI chatbots have been producing some strange results over the past few weeks due to people prodding them for answers, but also in Iran where women are defiantly resisting mandatory hijab laws with flowing hair or ponytails. And there is also NATO small nation Albania dealing with cyberattacks coming from Iran as they protect Iranian dissidents on their soil.</p>
+Currently, there is a lot going on around the world. The War in Ukraine has had a major impact, with Russian artillery leading to the deaths of civilians. In China, there are efforts to undo an era of birth limits and increase the declining birthrate, while in Nepal there is a sect of Buddhism that is attempting to empower nuns by mixing martial arts and environmental activism. Additionally, many migrant children in the US are ending up in dangerous jobs that violate child labor laws. On a lighter note, Iran is seeing a defiant resistance to its mandatory hijab laws, while Janet Yellen is making history as the first woman to sign US Dollars. Finally, there&#39;s an exposé revealing how young teenagers have been working long shifts for nationally known brands.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>War in Ukraine Has Changed Europe for Good</h3>
+<h3>War in Ukraine Has Changed Europe Forever</h3>
 <sub>By Roger Cohen</sub>
 <p>No event has transformed the continent more profoundly since the end of the Cold War, and there is no going back now.  <a href="https://nyti.ms/3IW2a0i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
@@ -96,10 +92,10 @@ Lastly, AI chatbots have been producing some strange results over the past few w
 <p>Thirty years ago today, Tim Lang was injured in the first attack on the twin towers, an ominous but often overlooked prelude to 9&#x2F;11. He does not forget.  <a href="https://nyti.ms/3m6WojA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Print Money</h3>
-<sub>By Alan Rappeport, Adam Perez, Megan Lovallo, Marisa Schwartz Taylor and Rebecca Lieberman</sub>
-<p>Janet Yellen has made history as the first woman to lead the Treasury, and now a new batch of dollar bills will feature her signature. Here’s a close look at how the dollar gets made.  <a href="https://nyti.ms/3m9iVw7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Kung Fu Nuns of Nepal Smash Convention</h3>
+<sub>By Sameer Yasir and Saumya Khandelwal</sub>
+<p>In Himalayan Buddhism, the religious roles of nuns have long been restricted by rules and customs. But one sect is changing that, mixing meditation with martial arts and environmental activism.  <a href="https://nyti.ms/3koq2Ap"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,28 +110,28 @@ Lastly, AI chatbots have been producing some strange results over the past few w
 <p>A Times exposé has revealed that young teenagers work long shifts, sometimes for nationally known brands. What can be done?  <a href="https://nyti.ms/3Z8zZ3V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How to Print Money</h3>
+<sub>By Alan Rappeport, Adam Perez, Megan Lovallo, Marisa Schwartz Taylor and Rebecca Lieberman</sub>
+<p>Janet Yellen has made history as the first woman to lead the Treasury, and now a new batch of dollar bills will feature her signature. Here’s a close look at how the dollar gets made.  <a href="https://nyti.ms/3m9iVw7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Their Hair Long and Flowing or in Ponytails, Women in Iran Flaunt Their Locks</h3>
 <sub>By Farnaz Fassihi</sub>
 <p>Defiant resistance to Iran’s mandatory hijab law has exploded across the country after nationwide protests that erupted last year.  <a href="https://nyti.ms/41sD8Nq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A NATO Minnow Reels From Cyberattacks Linked to Iran</h3>
-<sub>By Andrew Higgins</sub>
-<p>Albania has been the target of repeated digital assaults believed to be linked to its sheltering of an Iranian dissident group on its soil.  <a href="https://nyti.ms/3xSWUEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Meet the Runner Who Leads Every Pack and Then Vanishes</h3>
+<sub>By Scott Cacciola</sub>
+<p>Erik Sowinski is a professional pacer, a talented runner who is in high demand on starting lines, and nowhere to be found at the finish.  <a href="https://nyti.ms/3KCDR8V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Who’s Spending $1 Million to Attack This Struggling Hospital?</h3>
 <sub>By Sharon Otterman</sub>
 <p>A group called Save Maimonides has financed a relentless, monthslong campaign to disparage a struggling Brooklyn medical center. Is this the best way to fix the hospital?  <a href="https://nyti.ms/3Z0nCHh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Why Do A.I. Chatbots Tell Lies and Act Weird? Look in the Mirror.</h3>
-<sub>By Cade Metz</sub>
-<p>One of the pioneers of artificial intelligence argues that chatbots are often prodded into producing strange results by the people who are using them.  <a href="https://nyti.ms/3Y4IKuH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
