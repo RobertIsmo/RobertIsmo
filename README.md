@@ -60,13 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 26, Central Standard Time</p>
 <p>
-There has been a surge of defiance in Iran to the country&#39;s mandatory hijab law after nationwide protests. Migrant children arriving in the US in record numbers are ending up in dangerous jobs that violate child labor laws. China is receiving protests from the US for preparing to send lethal aid to Russia, while President Volodymyr Zelensky of Ukraine is receiving public acknowledgement all over the world for his tenacity. In the Los Angeles area, there has been snow up high and flooding down low due to heavy rains and wind. In Michigan, people are experiencing long-term power blackouts due to an ice storm. California&#39;s Salton Sea is relying on runoff from cropland to sustain itself during a time of drought and ever decreasing water from the Colorado River. There have also been internal conflicts within the Democratic Party in New York sparked by their midterm election losses. Japan has opened its first e-sports high school, with good intentions of creating pro gamers but instead drawing in an unexpected demographic. Lastly, Fox News hosts have come under fire for saying one thing publicly about voter fraud versus privately saying another.</p>
+The world is still in turmoil - war continues to ravage parts of Ukraine, the Syrian and Afghan conflicts are ongoing, and the specter of a nuclear Iran looms large. Meanwhile, China is launching programs to encourage people to have more children while they grapple with their declining birth rate and Albania has been the target of cyberattacks believed to be linked to Iran. Closer to home, Janet Yellen has made history as the first woman to lead the Treasury, but there are also heartbreaking stories of migrant children in America who are working brutal jobs in violation of child labor laws. In the US, we&#39;ve also remembered those affected by the 1993 terrorist attack on the World Trade Center on its 30th anniversary.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Their Hair Long and Flowing or in Ponytails, Women in Iran Flaunt Their Locks</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>Defiant resistance to Iran’s mandatory hijab law has exploded across the country after nationwide protests that erupted last year.  <a href="https://nyti.ms/41sD8Nq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<h3>War in Ukraine Has Changed Europe for Good</h3>
+<sub>By Roger Cohen</sub>
+<p>No event has transformed the continent more profoundly since the end of the Cold War, and there is no going back now.  <a href="https://nyti.ms/3IW2a0i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Deadly Russian Artillery Strikes Reported in Ukraine’s East and South</h3>
+<sub>By Matthew Mpoke Bigg and Anton Troianovski</sub>
+<p>Three civilians were killed in the eastern Donetsk region and two others in Kherson, Ukrainian officials said.  <a href="https://nyti.ms/3IvHOtm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Year of War in Ukraine: The Roots of the Crisis</h3>
+<sub>By Eric Nagourney, Dan Bilefsky and Richard Pérez-Peña</sub>
+<p>Here’s a guide to how the biggest war in Europe since World War II came about, and what’s at stake for Russia and the world.  <a href="https://nyti.ms/3KEHhWk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Desperate for Babies, China Races to Undo an Era of Birth Limits. Is It Too Late?</h3>
+<sub>By Nicole Hong and Zixu Wang</sub>
+<p>A number of new incentives encouraging people to have children highlight the challenges China faces in trying to boost its declining birthrate.  <a href="https://nyti.ms/3IuEQFr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How to Print Money</h3>
+<sub>By Alan Rappeport, Adam Perez, Megan Lovallo, Marisa Schwartz Taylor and Rebecca Lieberman</sub>
+<p>Janet Yellen has made history as the first woman to lead the Treasury, and now a new batch of dollar bills will feature her signature. Here’s a close look at how the dollar gets made.  <a href="https://nyti.ms/3m9iVw7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>He Survived the Trade Center Bombing. ‘I Always Knew They’d Be Back.’</h3>
+<sub>By Dan Barry</sub>
+<p>Thirty years ago today, Tim Lang was injured in the first attack on the twin towers, an ominous but often overlooked prelude to 9&#x2F;11. He does not forget.  <a href="https://nyti.ms/3m6WojA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Alone and Exploited, Migrant Children Work Brutal Jobs Across the U.S.</h3>
@@ -74,65 +104,35 @@ There has been a surge of defiance in Iran to the country&#39;s mandatory hijab 
 <p>Arriving in record numbers, they’re ending up in dangerous jobs that violate child labor laws — including in factories that make products for well-known brands like Cheetos and Fruit of the Loom.  <a href="https://nyti.ms/3IPNJd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Solos y explotados, niños migrantes desempeñan trabajos crueles en EE. UU.</h3>
-<sub>By Hannah Dreier and Kirsten Luce</sub>
-<p>Llegan al país en cifras récord y acaban en labores peligrosas que violan las leyes de trabajo infantil, incluso en fábricas donde se hacen algunos de los productos más conocidos del país.  <a href="https://nyti.ms/3SrLUaC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Their Hair Long and Flowing or in Ponytails, Women in Iran Flaunt Their Locks</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>Defiant resistance to Iran’s mandatory hijab law has exploded across the country after nationwide protests that erupted last year.  <a href="https://nyti.ms/41sD8Nq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Fox News Hosts Said Privately vs. Publicly About Voter Fraud</h3>
-<sub>By Stuart A. Thompson, Karen Yourish and Jeremy W. Peters</sub>
-<p>Dozens of private messages, released as part of a lawsuit against Fox, revealed what was said behind the scenes.  <a href="https://nyti.ms/3SBlfYT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A NATO Minnow Reels From Cyberattacks Linked to Iran</h3>
+<sub>By Andrew Higgins</sub>
+<p>Albania has been the target of repeated digital assaults believed to be linked to its sheltering of an Iranian dissident group on its soil.  <a href="https://nyti.ms/3xSWUEA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Who’s Spending $1 Million to Attack This Struggling Hospital?</h3>
+<sub>By Sharon Otterman</sub>
+<p>A group called Save Maimonides has financed a relentless, monthslong campaign to disparage a struggling Brooklyn medical center. Is the best way to fix the hospital?  <a href="https://nyti.ms/3Z0nCHh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Furniture Hustlers of Silicon Valley</h3>
-<sub>By Erin Griffith</sub>
-<p>As tech companies cut costs and move to remote work, their left-behind office furniture has become part of a booming trade.  <a href="https://nyti.ms/3m6WyYf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<h3>Why Do A.I. Chatbots Tell Lies and Act Weird? Look in the Mirror.</h3>
+<sub>By Cade Metz</sub>
+<p>One of the pioneers of artificial intelligence argues that chatbots are often prodded into producing strange results by the people who are using them.  <a href="https://nyti.ms/3IUdo5n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Tempered in a Crucible of Violence, Zelensky Rises to the Moment</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>In much of the world, President Volodymyr Zelensky, once brushed off as a political lightweight, has become a household name, representing Ukraine’s tenacity and underdog victories against Russia.  <a href="https://nyti.ms/3m4Fxhd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China to Welcome Belarusian Leader, Raising Concerns Over Ukraine</h3>
-<sub>By Marc Santora and Chris Buckley</sub>
-<p>A state visit next week by Aleksandr G. Lukashenko of Belarus comes as the U.S. has accused China of preparing to send lethal aid to Russia.  <a href="https://nyti.ms/3IqsnTg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In the Los Angeles Area, Snow Up High, and Flooding Down Below</h3>
-<sub>By Douglas Morino, Vik Jolly and Neelam Bohra</sub>
-<p>Residents encountered more fallout on Saturday after heavy rains and wind caused damage at lower elevations overnight.  <a href="https://nyti.ms/41vhkAP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Frustrating and Upsetting’: Residents in Michigan Endure Fourth Day Without Power</h3>
-<sub>By Sam Easter, Claire Fahy and McKenna Oxenden</sub>
-<p>After an ice storm caused power failures across the state, 400,000 customers were still without electricity on Saturday. For some, it’s the second blackout in months.  <a href="https://nyti.ms/3KyqGWC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Salton Sea, an Accident of History, Faces a New Water Crisis</h3>
-<sub>By Henry Fountain and Mette Lampcov</sub>
-<p>The vast California lake relies on runoff from cropland to avoid disappearing. But as farmers face water cuts due to drought and an ever drier Colorado River, the Salton Sea stands to lose again.  <a href="https://nyti.ms/3Svu06A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>‘The Democratic Party in New York Is a Disaster’</h3>
-<sub>By Ross Barkan</sub>
-<p>After losing crucial seats in the congressional midterms, a bitter civil war over the moribund state organization has spilled into the open.  <a href="https://nyti.ms/3IqIzns"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Video-Gaming School Stumbles on a Way to Get Dropouts Back in Class</h3>
-<sub>By Ben Dooley and Hisako Ueno</sub>
-<p>Japan’s first e-sports high school thought it would turn out pro gamers. Instead, it attracted an unexpected demographic.  <a href="https://nyti.ms/3SvZSYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jaclyn Reiss</sub>
+<p>  <a href="https://nyti.ms/3xOcYav"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
