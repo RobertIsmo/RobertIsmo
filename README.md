@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, February 25, Central Standard Time</p>
 <p>
-There is a lot going on in the world that is worth talking about. In Iran, women are defying mandatory hijab laws by growing their hair and wearing it in ponytails. Meanwhile, migrant children are at risk of exploitation, as they work in dangerous jobs in the US that violate child labor laws. China is also set to welcome the Belarusian leader, amid concerns that they could be sending lethal aid to Russia. Closer to home, California has seen snow up high and flooding down low due to record rainfall. Farmworkers have been left starting from scratch after the surprise floods destroyed what they had spent decades building. In Michigan, people have gone through their fourth day without power after an ice storm caused power failures across the state for some of them for the second time in months. To top it all off, there&#39;s a new water crisis at the Salton Sea in California, as drought and an ever drier Colorado River threatens its water supply. This is just a selection of everything that is happening in the world right now!</p>
+There are a lot of things happening around the world right now. In Iran, women are resisting the mandatory hijab law by ostentatiously wearing their hair long and flowing or in ponytails. In the United States, there&#39;s a huge problem of migrant children being exploited in dangerous jobs that violate child labor laws, even in factories that produce products for well-known brands like Cheetos and Fruit of the Loom. There have been private messages released as part of a lawsuit against Fox News revealing what was said behind the scenes about voter fraud. In Silicon Valley, people are taking advantage of tech companies cutting costs and switching to remote work by selling used office furniture. In Ukraine, President Volodymyr Zelensky has become a household name, representing Ukraine’s tenacity and underdog victories against Russia. China is also raising concerns after inviting Belarusian leader Aleksandr G. Lukashenko for a state visit despite U.S. accusations against them sending lethal aid to Russia. Meanwhile, there&#39;s extreme weather causing damage in places like Los Angeles and Michigan where residents have gone without power for days at a time. The Salton Sea in California is also facing a water crisis due to drought and lack of Colorado River runoff threatening its existence. In New York, the Democratic Party has seen a decline in congressional seats and an ensuing civil war over their moribund state organization. Finally, there&#39;s a video-gaming high school in Japan that has unexpectedly attracted dropouts by offering them opportunities to get back into education.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Their Hair Long and Flowing or in Ponytails, Women in Iran Flaunt Their Locks</h3>
@@ -111,12 +111,6 @@ There is a lot going on in the world that is worth talking about. In Iran, women
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In a California Town, Farmworkers Start From Scratch After Surprise Flood</h3>
-<sub>By Soumya Karlamangla and Viviana Hinojos</sub>
-<p>Planada residents spent decades building their lives in the Central Valley community. A brutal series of storms destroyed what they had.  <a href="https://nyti.ms/3m6oQSE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Frustrating and Upsetting’: Residents in Michigan Endure Fourth Day Without Power</h3>
 <sub>By Sam Easter, Claire Fahy and McKenna Oxenden</sub>
 <p>After an ice storm caused power failures across the state, 400,000 customers were still without electricity on Saturday. For some, it’s the second blackout in months.  <a href="https://nyti.ms/3KyqGWC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -128,10 +122,16 @@ There is a lot going on in the world that is worth talking about. In Iran, women
 <p>The vast California lake relies on runoff from cropland to avoid disappearing. But as farmers face water cuts due to drought and an ever drier Colorado River, the Salton Sea stands to lose again.  <a href="https://nyti.ms/3Svu06A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>‘The Democratic Party in New York Is a Disaster’</h3>
+<sub>By Ross Barkan</sub>
+<p>After losing crucial seats in the congressional midterms, a bitter civil war over the moribund state organization has spilled into the open.  <a href="https://nyti.ms/3IqIzns"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>They Went Viral and Made Money. Now They Owe Taxes.</h3>
-<sub>By Lora Kelley</sub>
-<p>Many content creators who earned money for the first time on platforms like TikTok, Instagram and YouTube are figuring out what a 1099 form is and what they can write off.  <a href="https://nyti.ms/3SqGrAR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Video-Gaming School Stumbles on a Way to Get Dropouts Back in Class</h3>
+<sub>By Ben Dooley and Hisako Ueno</sub>
+<p>Japan’s first e-sports high school thought it would turn out pro gamers. Instead, it attracted an unexpected demographic.  <a href="https://nyti.ms/3SvZSYV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
