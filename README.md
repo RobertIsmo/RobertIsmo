@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, February 26, Central Standard Time</p>
+<p>It is Monday, February 27, Central Standard Time</p>
 <p>
-It looks like a lot of different things are happening around the world right now. In the US, the Energy Department has said that a lab leak is probably the origin of the current pandemic. In Mexico, over 100,000 people took to the streets to protest changes to their electoral watchdog, which could make fair and free elections difficult. Closer to home, in the NY metropolitan area, there was a reminder today of another attack on the twin towers 30 years ago before 9&#x2F;11. Internationally, there’s been a dramatic conflict in Ukraine that has irreversibly changed Europe in ways unprecedented since the end of the Cold War. Meanwhile in Nepal, religious nuns are literally smashing customs as they mix meditation with martial arts and environmental activism. On top of this, employers outside of tech worry about having too few workers and many rural hospitals are shutting down their maternity units to save costs. Lastly, snowboarding brands are trying to figure out how best to deal with effects of climate change as it disrupts traditional weather patterns.</p>
+There are a lot of things happening in the world right now. Many employers outside of the tech industry are struggling to keep workers, while tech companies like Twitter have had to resort to layoffs. There are conflicts scattered around the globe, such as the never-ending war between Russia and Ukraine, and protests erupting in Mexico over changes to their election agency that could make free and fair elections harder. Climate change is also having an effect on snowboarding brands, who must adapt their strategies according to unpredictable snowfall patterns. Closer to home in the US, the Biden administration is assessing a possible lab leak origin for the COVID pandemic, while a survivor from the 1993 World Trade Center bombing gives his perspective on how far we&#39;ve come in the wake of 9&#x2F;11.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Layoffs? Many Employers Are Eager to Hang On to Workers.</h3>
@@ -74,10 +74,10 @@ It looks like a lot of different things are happening around the world right now
 <p>The social media platform now has a work force of less than 2,000, down from 7,500 when Elon Musk took it over in October.  <a href="https://nyti.ms/3ksHnbe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>War in Ukraine Has Changed Europe Forever</h3>
-<sub>By Roger Cohen</sub>
-<p>No event has transformed the continent more profoundly since the end of the Cold War, and there is no going back now.  <a href="https://nyti.ms/3IW2a0i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Ukraine War, Talking About Peace Is a Fight of Its Own</h3>
+<sub>By Michael Crowley</sub>
+<p>Russia and the West have argued for months about which side is more willing to negotiate, with the world as an audience.  <a href="https://nyti.ms/3ISQ6go"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
