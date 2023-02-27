@@ -60,8 +60,68 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 27, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In the business sector, a lot of employers outside of tech are worried about having too few workers, even though there have been recent interest rate increases to address the labor market. In technology, Twitter has laid off at least 200 employees, even though it was taken over by Elon Musk last October. In Ukraine, both Russia and the West are arguing over who is willing to negotiate peace in the war between them. On a global scale, Russian artillery is reported to have caused deaths in Ukraine&#39;s east and south; across the globe, people are protesting Putin&#39;s war. In terms of health, rural hospitals are shutting down their maternity units due to cost concerns and expansion of so-called maternity care deserts. There is also some interesting news in Nepal; kung fu nuns are smashing convention and mixing meditation with martial arts and activism. The US government has concluded that it is &quot;most likely&quot; that a lab leak caused the pandemic but their intelligence agencies remain divided on the origin of coronavirus. Closer to home here in the US, today marks the 30th anniversary of survives from the Trade Center bombing who do not forget a single thing from that day. In Mexico, more than 100,000 people have protested recent changes to election agency which could make fair and free elections difficult. Lastly, snowboarding brands are adapting their strategies amidst climate change greatly affecting snowfall calendars.</p>
+There are a lot of interesting things happening right now around the world. In the United States, people are preparing to vote in the Chicago mayoral election while Republican donors in New York await a parade of potential presidential candidates. Meanwhile, in Ukraine there is a war which is being discussed in terms of peace negotiation and Russian forces have been making forays into Ukrainian lines. There&#39;s also a legal battle emerging in the Supreme Court over President Biden&#39;s plan to forgive $400 billion of student loan debt. 
+
+In other parts of the world, Afghanistan is facing extreme winter temperatures and malnutrition as a result of a Taliban government ban on female workers that has hampered international aid efforts to the region. India is also seeing rapid increases in representation from Indian-Americans in politics that was unheard of just 10 years ago! 
+
+On the business side of things, oil companies are laying off workers and shifting them over to renewable energy sources such as solar and wind power, but others worry that they don&#39;t have enough personnel outside the tech industry. Lastly, Twitter recently laid off at least 200 employees and now has a work force under 2,000 people. 
+
+Interestingly, discussions are centering around a lab leak being responsible for causing the pandemic with America&#39;s intelligence agencies being split on their opinions. All this and more is happening right now!</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Where Can You Carry a Gun? Whiplash Court Rulings Create Confusion.</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>A Supreme Court decision has produced scores of new lawsuits, sowing confusion as jurists and citizens sort out what’s legal now.  <a href="https://nyti.ms/3IWEbhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia’s New Offensive Sends Conscripts Into the Teeth of Ukraine’s Lines</h3>
+<sub>By Andrew E. Kramer and Tyler Hicks</sub>
+<p>A month into the campaign, Russian forces have barely budged despite forays by small units in fields, pine forests and ruined towns.  <a href="https://nyti.ms/41r7wrE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Ukraine War, Talking About Peace Is a Fight of Its Own</h3>
+<sub>By Michael Crowley</sub>
+<p>Russia and the West have argued for months about which side is more willing to negotiate, with the world as an audience.  <a href="https://nyti.ms/3ISQ6go"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Challenges to Student Loan Cancellation Reach Supreme Court</h3>
+<sub>By Stacy Cowley</sub>
+<p>Justices will hear arguments Tuesday on President Biden’s plan to forgive an estimated $400 billion in debt. Conservative states have called it an abuse of his authority.  <a href="https://nyti.ms/3Y79WsB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Dying Children and Frozen Flocks in Afghanistan’s Bitter Winter of Crisis</h3>
+<sub>By Christina Goldbaum, Yaqoob Akbary and Kiana Hayeri</sub>
+<p>Hundreds have died in plunging temperatures, and malnutrition has been rampant as the Taliban government’s ban on female workers has hampered international aid.  <a href="https://nyti.ms/3EHyUIe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Indian Americans Rapidly Climbing Political Ranks</h3>
+<sub>By Maggie Astor and Jill Cowan</sub>
+<p>The 2024 cycle reflects huge strides in representation: A decade ago, “it was inconceivable that someone named Raj Goyle — let alone Rajeev Goyle — would run for office in Wichita,” said Mr. Goyle, a former Kansas lawmaker.  <a href="https://nyti.ms/3IYm62P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>G.O.P. Donors in New York Await a Parade of Presidential Hopefuls</h3>
+<sub>By Maggie Haberman and Nicholas Fandos</sub>
+<p>Donald Trump’s support in the city’s wealthy political circles is waning, as 2024 rivals and potential candidates, including Nikki Haley and Mike Pence, make the rounds.  <a href="https://nyti.ms/3IZdEQU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What to Know About Chicago’s Mayoral Election</h3>
+<sub>By Mitch Smith</sub>
+<p>Mayor Lori Lightfoot is seeking a second term, but she faces a wide field of challengers who have attacked her record on crime, policing and education.  <a href="https://nyti.ms/3IYvUd8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As Oil Companies Stay Lean, Workers Move to Renewable Energy</h3>
+<sub>By Clifford Krauss</sub>
+<p>Solar, wind, geothermal, battery and other alternative-energy businesses are adding workers from fossil fuel companies, where employment has fallen.  <a href="https://nyti.ms/3EIEg66"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Layoffs? Many Employers Are Eager to Hang On to Workers.</h3>
 <sub>By Sydney Ember and Ben Casselman</sub>
@@ -75,64 +135,10 @@ There is a lot going on around the world right now. In the business sector, a lo
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Ukraine War, Talking About Peace Is a Fight of Its Own</h3>
-<sub>By Michael Crowley</sub>
-<p>Russia and the West have argued for months about which side is more willing to negotiate, with the world as an audience.  <a href="https://nyti.ms/3ISQ6go"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Deadly Russian Artillery Strikes Reported in Ukraine’s East and South</h3>
-<sub>By Matthew Mpoke Bigg and Anton Troianovski</sub>
-<p>Officials said at least five civilians were killed in the attacks, as President Vladimir V. Putin repeated his claim that the war is part of a U.S.-led effort to destroy Russia.  <a href="https://nyti.ms/3ks1K8D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Across the Globe, the Russian Diaspora Finds Ways to Protest Putin’s War</h3>
-<sub>By Neil MacFarquhar</sub>
-<p>From Berlin to Chicago, crowds gathered to express solidarity with Ukraine and to underscore that not all Russians support Vladimir Putin’s war.  <a href="https://nyti.ms/3kqLlkS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Rural Hospitals Are Shuttering Their Maternity Units</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>Citing costs, many hospitals are closing labor and delivery wards, expanding so-called maternity care deserts.  <a href="https://nyti.ms/3KDUXTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kung Fu Nuns of Nepal Smash Convention</h3>
-<sub>By Sameer Yasir and Saumya Khandelwal</sub>
-<p>In Himalayan Buddhism, the religious roles of nuns have long been restricted by rules and customs. But one sect is changing that, mixing meditation with martial arts and environmental activism.  <a href="https://nyti.ms/3koq2Ap"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Lab Leak Most Likely Caused Pandemic, Energy Dept. Says</h3>
 <sub>By Julian E. Barnes</sub>
 <p>The conclusion, which was made with “low confidence,” came as America’s intelligence agencies remained divided over the origins of the coronavirus.  <a href="https://nyti.ms/3Y4iUGQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>He Survived the Trade Center Bombing. ‘I Always Knew They’d Be Back.’</h3>
-<sub>By Dan Barry</sub>
-<p>Thirty years ago today, Tim Lang was injured in the first attack on the twin towers, an ominous but often overlooked prelude to 9&#x2F;11. He does not forget.  <a href="https://nyti.ms/3m6WojA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>More Than 100,000 in Mexico Protest Changes to Election Agency</h3>
-<sub>By Natalie Kitroeff</sub>
-<p>Demonstrations took place in over 100 cities against the recent overhaul of the country’s electoral watchdog, which officials say could make fair and free elections difficult.  <a href="https://nyti.ms/3IxKy9F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Más de 100.000 personas protestan en México contra las modificaciones al INE</h3>
-<sub>By Natalie Kitroeff</sub>
-<p>Se registraron manifestaciones en más de un centenar de ciudades del país contra una serie de medidas que van a limitar a la autoridad electoral y que, según sus funcionarios, dificultará garantizar elecciones libres y justas.  <a href="https://nyti.ms/3IwFaUc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Where’s the Snow? Snowboarding Brands Are Trying to Find Out for Themselves.</h3>
-<sub>By Jasper Craven</sub>
-<p>Brands are changing their strategies and entering policy debates, as climate change continues to upend the snowfall calendar.  <a href="https://nyti.ms/41DUojd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
