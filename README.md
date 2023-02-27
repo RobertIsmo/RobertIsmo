@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 26, Central Standard Time</p>
 <p>
-There are some conflicts happening around the world, like the war in Ukraine that has changed Europe forever, and artillery strikes in Ukraine that killed civilians. In addition, people have been protesting Russian President Vladimir Putin&#39;s war and changes to elections in Mexico. On a lighter note, there are stories about the Kung Fu nuns of Nepal who are smashing convention and a runner who leads every pack and then vanishes. Closer to home, we&#39;re hearing about businesses eager to hang on to workers amidst interest rate increases to cool the labor market, rural hospitals closing their maternity units, and a lab leak most likely caused the pandemic according to a report from the Energy Dept. Finally, snowboarding brands are changing their strategies because of climate change.</p>
+It looks like a lot of different things are happening around the world right now. In the US, the Energy Department has said that a lab leak is probably the origin of the current pandemic. In Mexico, over 100,000 people took to the streets to protest changes to their electoral watchdog, which could make fair and free elections difficult. Closer to home, in the NY metropolitan area, there was a reminder today of another attack on the twin towers 30 years ago before 9&#x2F;11. Internationally, there’s been a dramatic conflict in Ukraine that has irreversibly changed Europe in ways unprecedented since the end of the Cold War. Meanwhile in Nepal, religious nuns are literally smashing customs as they mix meditation with martial arts and environmental activism. On top of this, employers outside of tech worry about having too few workers and many rural hospitals are shutting down their maternity units to save costs. Lastly, snowboarding brands are trying to figure out how best to deal with effects of climate change as it disrupts traditional weather patterns.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Layoffs? Many Employers Are Eager to Hang On to Workers.</h3>
 <sub>By Sydney Ember and Ben Casselman</sub>
 <p>Despite interest rate increases meant to cool the labor market, companies outside the tech industry worry about having too few workers, not too many.  <a href="https://nyti.ms/3EGZ3Xv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>In Latest Round of Job Cuts, Twitter Is Said to Lay Off at Least 200 Employees</h3>
+<sub>By Kate Conger, Ryan Mac and Mike Isaac</sub>
+<p>The social media platform now has a work force of less than 2,000, down from 7,500 when Elon Musk took it over in October.  <a href="https://nyti.ms/3ksHnbe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,12 +132,6 @@ There are some conflicts happening around the world, like the war in Ukraine tha
 <h3>Where’s the Snow? Snowboarding Brands Are Trying to Find Out for Themselves.</h3>
 <sub>By Jasper Craven</sub>
 <p>Brands are changing their strategies and entering policy debates, as climate change continues to upend the snowfall calendar.  <a href="https://nyti.ms/41DUojd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Meet the Runner Who Leads Every Pack and Then Vanishes</h3>
-<sub>By Scott Cacciola</sub>
-<p>Erik Sowinski is a professional pacer, a talented runner who is in high demand on starting lines, and nowhere to be found at the finish.  <a href="https://nyti.ms/3KCDR8V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
