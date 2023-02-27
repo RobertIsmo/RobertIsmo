@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 27, Central Standard Time</p>
 <p>
-There are a lot of interesting things happening right now around the world. In the United States, people are preparing to vote in the Chicago mayoral election while Republican donors in New York await a parade of potential presidential candidates. Meanwhile, in Ukraine there is a war which is being discussed in terms of peace negotiation and Russian forces have been making forays into Ukrainian lines. There&#39;s also a legal battle emerging in the Supreme Court over President Biden&#39;s plan to forgive $400 billion of student loan debt. 
-
-In other parts of the world, Afghanistan is facing extreme winter temperatures and malnutrition as a result of a Taliban government ban on female workers that has hampered international aid efforts to the region. India is also seeing rapid increases in representation from Indian-Americans in politics that was unheard of just 10 years ago! 
-
-On the business side of things, oil companies are laying off workers and shifting them over to renewable energy sources such as solar and wind power, but others worry that they don&#39;t have enough personnel outside the tech industry. Lastly, Twitter recently laid off at least 200 employees and now has a work force under 2,000 people. 
-
-Interestingly, discussions are centering around a lab leak being responsible for causing the pandemic with America&#39;s intelligence agencies being split on their opinions. All this and more is happening right now!</p>
+A lot is happening in the world right now! In the US, Supreme Court cases on student loan cancellation and the fate of the Consumer Financial Protection Bureau are currently being heard. In Russia, conscripts are being sent into Ukraine&#39;s lines in a new offensive. Meanwhile, Indian Americans are rapidly climbing political ranks and in Chicago, Mayor Lori Lightfoot is facing a field of challengers for her re-election run. On the global level, Afghanistan is facing a bitter winter crisis with reports of malnutrition and deaths from plunging temperatures. Lastly, scientists have discovered a lot about what happens during REM sleep - dreaming, memory-making and problem-solving!</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Where Can You Carry a Gun? Whiplash Court Rulings Create Confusion.</h3>
+<h3>New York’s Gun Laws Sow Confusion as Nation Rethinks Regulation</h3>
 <sub>By Jonah E. Bromwich</sub>
-<p>A Supreme Court decision has produced scores of new lawsuits, sowing confusion as jurists and citizens sort out what’s legal now.  <a href="https://nyti.ms/3IWEbhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A Supreme Court decision overturning century-old New York gun regulations has produced scores of new lawsuits as jurists and citizens sort out what’s legal.  <a href="https://nyti.ms/3IWEbhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,6 +86,18 @@ Interestingly, discussions are centering around a lab leak being responsible for
 <p>Justices will hear arguments Tuesday on President Biden’s plan to forgive an estimated $400 billion in debt. Conservative states have called it an abuse of his authority.  <a href="https://nyti.ms/3Y79WsB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court to Take Up Case on Fate of Consumer Watchdog</h3>
+<sub>By Adam Liptak</sub>
+<p>A decision against the bureau could cast doubt on every rule and enforcement action the Consumer Financial Protection Bureau has taken.  <a href="https://nyti.ms/3IzoGuG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Student Loan Case Before Supreme Court Poses Pressing Question: Who Can Sue?</h3>
+<sub>By Adam Liptak</sub>
+<p>Prompted by a 2007 decision giving states “special solicitude,” partisan challenges to federal programs from coalitions of state attorneys general have surged.  <a href="https://nyti.ms/3xQBsjs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Dying Children and Frozen Flocks in Afghanistan’s Bitter Winter of Crisis</h3>
 <sub>By Christina Goldbaum, Yaqoob Akbary and Kiana Hayeri</sub>
@@ -102,6 +108,12 @@ Interestingly, discussions are centering around a lab leak being responsible for
 <h3>Indian Americans Rapidly Climbing Political Ranks</h3>
 <sub>By Maggie Astor and Jill Cowan</sub>
 <p>The 2024 cycle reflects huge strides in representation: A decade ago, “it was inconceivable that someone named Raj Goyle — let alone Rajeev Goyle — would run for office in Wichita,” said Mr. Goyle, a former Kansas lawmaker.  <a href="https://nyti.ms/3IYm62P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Elissa Slotkin Announces Senate Run in Michigan</h3>
+<sub>By Katie Glueck</sub>
+<p>Ms. Slotkin, a former C.I.A. analyst who represents a divided district, is expected to focus heavily on economic matters.  <a href="https://nyti.ms/3xUxfLx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,29 +128,11 @@ Interestingly, discussions are centering around a lab leak being responsible for
 <p>Mayor Lori Lightfoot is seeking a second term, but she faces a wide field of challengers who have attacked her record on crime, policing and education.  <a href="https://nyti.ms/3IYvUd8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As Oil Companies Stay Lean, Workers Move to Renewable Energy</h3>
-<sub>By Clifford Krauss</sub>
-<p>Solar, wind, geothermal, battery and other alternative-energy businesses are adding workers from fossil fuel companies, where employment has fallen.  <a href="https://nyti.ms/3EIEg66"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Layoffs? Many Employers Are Eager to Hang On to Workers.</h3>
-<sub>By Sydney Ember and Ben Casselman</sub>
-<p>Despite interest rate increases meant to cool the labor market, companies outside the tech industry worry about having too few workers, not too many.  <a href="https://nyti.ms/3EGZ3Xv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>In Latest Round of Job Cuts, Twitter Is Said to Lay Off at Least 200 Employees</h3>
-<sub>By Kate Conger, Ryan Mac and Mike Isaac</sub>
-<p>The social media platform now has a work force of less than 2,000, down from 7,500 when Elon Musk took it over in October.  <a href="https://nyti.ms/3ksHnbe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lab Leak Most Likely Caused Pandemic, Energy Dept. Says</h3>
-<sub>By Julian E. Barnes</sub>
-<p>The conclusion, which was made with “low confidence,” came as America’s intelligence agencies remained divided over the origins of the coronavirus.  <a href="https://nyti.ms/3Y4iUGQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>REM Sleep Is Magical. Here’s What the Experts Know.</h3>
+<sub>By Carolyn Todd</sub>
+<p>Dreaming, memory-making, problem-solving: A lot happens during the most active sleep phase  <a href="https://nyti.ms/3IUPXJg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
