@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 27, Central Standard Time</p>
 <p>
-A lot is happening in the world right now! In the US, Supreme Court cases on student loan cancellation and the fate of the Consumer Financial Protection Bureau are currently being heard. In Russia, conscripts are being sent into Ukraine&#39;s lines in a new offensive. Meanwhile, Indian Americans are rapidly climbing political ranks and in Chicago, Mayor Lori Lightfoot is facing a field of challengers for her re-election run. On the global level, Afghanistan is facing a bitter winter crisis with reports of malnutrition and deaths from plunging temperatures. Lastly, scientists have discovered a lot about what happens during REM sleep - dreaming, memory-making and problem-solving!</p>
+The world has a lot going on right now. In the U.K., negotiations between the government and the E.U. have been ongoing over post-Brexit rules known as the Northern Ireland protocol, and they finally reached an agreement. In Russia, conscripts are being sent to the border of Ukraine, while in America, chip makers are being incentivized with federal funds to provide child care to help increase female participation in the work force. The Supreme Court is hearing arguments on President Biden&#39;s plan to forgive about $400 billion in student loan debt and challenging the powers of the Consumer Financial Protection Bureau as well. There&#39;s also a case on whether states have special rights to sue federal programs, and questions surrounding Biden&#39;s student loan forgiveness plan. Additionally, discussions of ethical ways to kill rats, questions around New York&#39;s gun laws post-Supreme Court overturning century-old regulations, Indian Americans making strides into politics, and the upcoming mayoral election in Chicago featuring Lori Lightfoot plus many challengers attacking her record led by Elissa Slotkin who announced her Senate run for Michigan are all making headlines.</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York’s Gun Laws Sow Confusion as Nation Rethinks Regulation</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>A Supreme Court decision overturning century-old New York gun regulations has produced scores of new lawsuits as jurists and citizens sort out what’s legal.  <a href="https://nyti.ms/3IWEbhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What’s at Stake as U.K. and E.U. Reach Deal Over Northern Ireland Protocol</h3>
+<sub>By Stephen Castle and Megan Specia</sub>
+<p>Britain and the European Union have long clashed over post-Brexit rules known as the Northern Ireland protocol. Here’s what to know about the renegotiated agreement.  <a href="https://nyti.ms/3m90tns"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia’s New Offensive Sends Conscripts Into the Teeth of Ukraine’s Lines</h3>
@@ -75,10 +75,10 @@ A lot is happening in the world right now! In the US, Supreme Court cases on stu
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Ukraine War, Talking About Peace Is a Fight of Its Own</h3>
-<sub>By Michael Crowley</sub>
-<p>Russia and the West have argued for months about which side is more willing to negotiate, with the world as an audience.  <a href="https://nyti.ms/3ISQ6go"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
+<h3>To Tap Federal Funds, Chip Makers Will Need to Provide Child Care</h3>
+<sub>By Jim Tankersley</sub>
+<p>The move seeks to help more women join the work force as industry leaders complain of labor shortages.  <a href="https://nyti.ms/3XZs8Es"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Challenges to Student Loan Cancellation Reach Supreme Court</h3>
@@ -98,10 +98,22 @@ A lot is happening in the world right now! In the US, Supreme Court cases on stu
 <p>Prompted by a 2007 decision giving states “special solicitude,” partisan challenges to federal programs from coalitions of state attorneys general have surged.  <a href="https://nyti.ms/3xQBsjs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Dying Children and Frozen Flocks in Afghanistan’s Bitter Winter of Crisis</h3>
-<sub>By Christina Goldbaum, Yaqoob Akbary and Kiana Hayeri</sub>
-<p>Hundreds have died in plunging temperatures, and malnutrition has been rampant as the Taliban government’s ban on female workers has hampered international aid.  <a href="https://nyti.ms/3EHyUIe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>What You Need to Know About Biden’s Student Loan Forgiveness Plan</h3>
+<sub>By Ron Lieber and Tara Siegel Bernard</sub>
+<p>President Biden’s move means the student loan balances of millions of people could fall by as much as $20,000. This F.A.Q. explains how it will work.  <a href="https://nyti.ms/3AK88xl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Is There an Ethical Way to Kill Rats? Should We Even Ask?</h3>
+<sub>By Oliver Whang</sub>
+<p>Welcome to the rat trapper’s dilemma.  <a href="https://nyti.ms/3EGaqPC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York’s Gun Laws Sow Confusion as Nation Rethinks Regulation</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>A Supreme Court decision overturning century-old New York gun regulations has produced scores of new lawsuits as jurists and citizens sort out what’s legal.  <a href="https://nyti.ms/3IWEbhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,28 +123,16 @@ A lot is happening in the world right now! In the US, Supreme Court cases on stu
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Elissa Slotkin Announces Senate Run in Michigan</h3>
-<sub>By Katie Glueck</sub>
-<p>Ms. Slotkin, a former C.I.A. analyst who represents a divided district, is expected to focus heavily on economic matters.  <a href="https://nyti.ms/3xUxfLx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Donors in New York Await a Parade of Presidential Hopefuls</h3>
-<sub>By Maggie Haberman and Nicholas Fandos</sub>
-<p>Donald Trump’s support in the city’s wealthy political circles is waning, as 2024 rivals and potential candidates, including Nikki Haley and Mike Pence, make the rounds.  <a href="https://nyti.ms/3IZdEQU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What to Know About Chicago’s Mayoral Election</h3>
 <sub>By Mitch Smith</sub>
 <p>Mayor Lori Lightfoot is seeking a second term, but she faces a wide field of challengers who have attacked her record on crime, policing and education.  <a href="https://nyti.ms/3IYvUd8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>REM Sleep Is Magical. Here’s What the Experts Know.</h3>
-<sub>By Carolyn Todd</sub>
-<p>Dreaming, memory-making, problem-solving: A lot happens during the most active sleep phase  <a href="https://nyti.ms/3IUPXJg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Elissa Slotkin Announces Senate Run in Michigan</h3>
+<sub>By Katie Glueck</sub>
+<p>Ms. Slotkin, a former C.I.A. analyst who represents a divided district, is expected to focus heavily on economic matters.  <a href="https://nyti.ms/3xUxfLx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
