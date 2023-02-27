@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, February 26, Central Standard Time</p>
 <p>
-There have been a few major news stories recently. Unemployment rates outside the tech industry remain low, and many companies are struggling to find workers. Meanwhile, conflict in Ukraine continues with reports of Russian artillery striking civilians and a diaspora of Russians protesting Vladimir Putin&#39;s war. In China, there are attempts to undo an era of birth limits with incentives encouraging people to have children. The US Energy Department has concluded that a lab leak is the most likely cause of the pandemic while US intelligence agencies are divided on the issue. In Nepal, an unusual sect of Buddhist nuns is combining meditation with martial arts and environmental activism. Anniversary of the first attack on the Twin Towers reminds us never to forget. Migrant children are arriving in record numbers in the US, many ending up in dangerous jobs violating child labor laws for popular brands like Cheetos and Fruit of the Loom. Snowboarding brands are changing their strategies due to climate change and its challenges to snow fall calendars. And Erik Sowinski is a professional pacer leading every pack and fading from sight at the finish line.</p>
+There are some conflicts happening around the world, like the war in Ukraine that has changed Europe forever, and artillery strikes in Ukraine that killed civilians. In addition, people have been protesting Russian President Vladimir Putin&#39;s war and changes to elections in Mexico. On a lighter note, there are stories about the Kung Fu nuns of Nepal who are smashing convention and a runner who leads every pack and then vanishes. Closer to home, we&#39;re hearing about businesses eager to hang on to workers amidst interest rate increases to cool the labor market, rural hospitals closing their maternity units, and a lab leak most likely caused the pandemic according to a report from the Energy Dept. Finally, snowboarding brands are changing their strategies because of climate change.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Layoffs? Many Employers Are Eager to Hang On to Workers.</h3>
@@ -86,16 +86,10 @@ There have been a few major news stories recently. Unemployment rates outside th
 <p>From Berlin to Chicago, crowds gathered to express solidarity with Ukraine and to underscore that not all Russians support Vladimir Putin’s war.  <a href="https://nyti.ms/3kqLlkS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Desperate for Babies, China Races to Undo an Era of Birth Limits. Is It Too Late?</h3>
-<sub>By Nicole Hong and Zixu Wang</sub>
-<p>A number of new incentives encouraging people to have children highlight the challenges China faces in trying to boost its declining birthrate.  <a href="https://nyti.ms/3IuEQFr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lab Leak Most Likely Caused Pandemic, Energy Dept. Says</h3>
-<sub>By Julian E. Barnes</sub>
-<p>The conclusion, which was made with “low confidence,” came as America’s intelligence agencies remained divided over the origins of the coronavirus.  <a href="https://nyti.ms/3Y4iUGQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Rural Hospitals Are Shuttering Their Maternity Units</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>Citing costs, many hospitals are closing labor and delivery wards, expanding so-called maternity care deserts.  <a href="https://nyti.ms/3KDUXTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,22 +98,28 @@ There have been a few major news stories recently. Unemployment rates outside th
 <p>In Himalayan Buddhism, the religious roles of nuns have long been restricted by rules and customs. But one sect is changing that, mixing meditation with martial arts and environmental activism.  <a href="https://nyti.ms/3koq2Ap"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lab Leak Most Likely Caused Pandemic, Energy Dept. Says</h3>
+<sub>By Julian E. Barnes</sub>
+<p>The conclusion, which was made with “low confidence,” came as America’s intelligence agencies remained divided over the origins of the coronavirus.  <a href="https://nyti.ms/3Y4iUGQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>He Survived the Trade Center Bombing. ‘I Always Knew They’d Be Back.’</h3>
 <sub>By Dan Barry</sub>
 <p>Thirty years ago today, Tim Lang was injured in the first attack on the twin towers, an ominous but often overlooked prelude to 9&#x2F;11. He does not forget.  <a href="https://nyti.ms/3m6WojA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Alone and Exploited, Migrant Children Work Brutal Jobs Across the U.S.</h3>
-<sub>By Hannah Dreier and Photographs By Kirsten Luce</sub>
-<p>Arriving in record numbers, they’re ending up in dangerous jobs that violate child labor laws — including in factories that make products for well-known brands like Cheetos and Fruit of the Loom.  <a href="https://nyti.ms/3IPNJd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>More Than 100,000 in Mexico Protest Changes to Election Agency</h3>
+<sub>By Natalie Kitroeff</sub>
+<p>Demonstrations took place in over 100 cities against the recent overhaul of the country’s electoral watchdog, which officials say could make fair and free elections difficult.  <a href="https://nyti.ms/3IxKy9F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Child Labor Today</h3>
-<sub>By David Leonhardt</sub>
-<p>A Times exposé has revealed that young teenagers work long shifts, sometimes for nationally known brands. What can be done?  <a href="https://nyti.ms/3Z8zZ3V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Más de 100.000 personas protestan en México contra las modificaciones al INE</h3>
+<sub>By Natalie Kitroeff</sub>
+<p>Se registraron manifestaciones en más de un centenar de ciudades del país contra una serie de medidas que van a limitar a la autoridad electoral y que, según sus funcionarios, dificultará garantizar elecciones libres y justas.  <a href="https://nyti.ms/3IwFaUc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
