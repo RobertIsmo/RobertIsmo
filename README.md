@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 27, Central Standard Time</p>
 <p>
-The world has a lot going on right now. In the U.K., negotiations between the government and the E.U. have been ongoing over post-Brexit rules known as the Northern Ireland protocol, and they finally reached an agreement. In Russia, conscripts are being sent to the border of Ukraine, while in America, chip makers are being incentivized with federal funds to provide child care to help increase female participation in the work force. The Supreme Court is hearing arguments on President Biden&#39;s plan to forgive about $400 billion in student loan debt and challenging the powers of the Consumer Financial Protection Bureau as well. There&#39;s also a case on whether states have special rights to sue federal programs, and questions surrounding Biden&#39;s student loan forgiveness plan. Additionally, discussions of ethical ways to kill rats, questions around New York&#39;s gun laws post-Supreme Court overturning century-old regulations, Indian Americans making strides into politics, and the upcoming mayoral election in Chicago featuring Lori Lightfoot plus many challengers attacking her record led by Elissa Slotkin who announced her Senate run for Michigan are all making headlines.</p>
+Right now, the US government is imposing financial restrictions on chip makers and there&#39;s a case coming up to the Supreme Court about ending billions of dollars of student loan debt. Europe and the UK just reached a deal about post-Brexit rules in Northern Ireland, while Russia is continuing a military campaign against Ukraine. In Central Asia, the US Secretary of State is visiting to urge countries away from Russian influence. The Biden administration also plans to crack down on child labor, especially among migrants; and across the US, Indian Americans are increasingly making their mark in politics. In NY, gun laws are now being re-examined after a Supreme Court decision overturned New York state regulations; and here in Chicago, Lori Lightfoot is running for a second term as mayor but she faces numerous challengers.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>To Tap Federal Funds, Chip Makers Will Need to Provide Child Care</h3>
+<sub>By Jim Tankersley</sub>
+<p>The move seeks to help more women join the work force as industry leaders complain of labor shortages.  <a href="https://nyti.ms/3XZs8Es"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Administration to Impose Financial Restrictions for Chip Makers</h3>
+<sub>By Ana Swanson</sub>
+<p>Guidelines to be released Tuesday will include firm financial requirements to try to ensure that chip makers don’t waste federal money.  <a href="https://nyti.ms/3ICMdKX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What’s at Stake as U.K. and E.U. Reach Deal Over Northern Ireland Protocol</h3>
 <sub>By Stephen Castle and Megan Specia</sub>
@@ -74,10 +86,10 @@ The world has a lot going on right now. In the U.K., negotiations between the go
 <p>A month into the campaign, Russian forces have barely budged despite forays by small units in fields, pine forests and ruined towns.  <a href="https://nyti.ms/41r7wrE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>To Tap Federal Funds, Chip Makers Will Need to Provide Child Care</h3>
-<sub>By Jim Tankersley</sub>
-<p>The move seeks to help more women join the work force as industry leaders complain of labor shortages.  <a href="https://nyti.ms/3XZs8Es"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Central Asia, Blinken Will Urge Distance From Russia, and Ukraine War</h3>
+<sub>By Edward Wong, Anton Troianovski and Stanley Reed</sub>
+<p>Secretary of State Antony J. Blinken will make the first diplomatic trip by a Biden administration cabinet official to the former Soviet republics of Central Asia since the Ukraine war began.  <a href="https://nyti.ms/3ZijHp2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -92,22 +104,16 @@ The world has a lot going on right now. In the U.K., negotiations between the go
 <p>A decision against the bureau could cast doubt on every rule and enforcement action the Consumer Financial Protection Bureau has taken.  <a href="https://nyti.ms/3IzoGuG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Student Loan Case Before Supreme Court Poses Pressing Question: Who Can Sue?</h3>
-<sub>By Adam Liptak</sub>
-<p>Prompted by a 2007 decision giving states “special solicitude,” partisan challenges to federal programs from coalitions of state attorneys general have surged.  <a href="https://nyti.ms/3xQBsjs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>What You Need to Know About Biden’s Student Loan Forgiveness Plan</h3>
-<sub>By Ron Lieber and Tara Siegel Bernard</sub>
-<p>President Biden’s move means the student loan balances of millions of people could fall by as much as $20,000. This F.A.Q. explains how it will work.  <a href="https://nyti.ms/3AK88xl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Is There an Ethical Way to Kill Rats? Should We Even Ask?</h3>
 <sub>By Oliver Whang</sub>
 <p>Welcome to the rat trapper’s dilemma.  <a href="https://nyti.ms/3EGaqPC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Administration Plans Crackdown on Migrant Child Labor</h3>
+<sub>By Hannah Dreier</sub>
+<p>The announcement came days after a Times investigation showed children were working in dangerous jobs throughout the United States.  <a href="https://nyti.ms/3mft8Ha"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -126,12 +132,6 @@ The world has a lot going on right now. In the U.K., negotiations between the go
 <h3>What to Know About Chicago’s Mayoral Election</h3>
 <sub>By Mitch Smith</sub>
 <p>Mayor Lori Lightfoot is seeking a second term, but she faces a wide field of challengers who have attacked her record on crime, policing and education.  <a href="https://nyti.ms/3IYvUd8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Elissa Slotkin Announces Senate Run in Michigan</h3>
-<sub>By Katie Glueck</sub>
-<p>Ms. Slotkin, a former C.I.A. analyst who represents a divided district, is expected to focus heavily on economic matters.  <a href="https://nyti.ms/3xUxfLx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
