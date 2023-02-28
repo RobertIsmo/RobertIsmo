@@ -58,9 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, February 27, Central Standard Time</p>
+<p>It is Tuesday, February 28, Central Standard Time</p>
 <p>
-There are quite a few things happening around the world right now. In the US, the Biden administration is flexing its power by subsidizing the chip industry and cracking down on migrant child labor, while snow is falling in New York after a winter lull. In Europe, the U.K. and E.U. have struck a trade deal to heal damages caused by Brexit, and Russia has launched an offensive in Ukraine which has prompted the Biden administration to send high-powered aides and more aid to bolster Ukraine. Meanwhile, media mogul Rupert Murdoch has acknowledged Fox News hosts endorsing falsehoods about election fraud. The climate is also heating up — Turkey recently experienced an earthquake, similar to what’s found in California, which could provide clues about the potential strength and location of future West Coast quakes.</p>
+Things have been pretty eventful lately! In the US, the Biden administration has been flexing its muscle by asking the semiconductor industry to make promises about its workers and finances in return for federal funding. Internationally, the UK and EU have agreed on a trade deal to heal wounds from Brexit that had been impacting Northern Ireland&#39;s government and causing friction between London and Washington. In Ukraine, Biden has sent high-powered aides and more aid to strengthen their battle with Russia.
+
+On a lighter note, there&#39;s snow falling in New York after a winter lull! But climate-wise, Turkey is facing earthquakes similar to those of California. Scientists are examining that disaster for clues about future West Coast quakes.
+
+Finally, back in the US, there&#39;s news of a rare victory by immigrants in a suit over immigraiton raids in meat plants - they accused the government of racial profiling and excessive force and settled. And we finally got an answer (somewhat) as to where Covid originated - intelligence agencies around the world are split as to where it came from without conclusive evidence.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden’s Semiconductor Plan Flexes the Power of the Federal Government</h3>
@@ -75,15 +79,15 @@ There are quite a few things happening around the world right now. In the US, th
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s New Offensive Sends Conscripts Into the Teeth of Ukraine’s Lines</h3>
-<sub>By Andrew E. Kramer and Tyler Hicks</sub>
-<p>A month into the campaign, Russian forces have barely budged despite forays by small units in fields, pine forests and ruined towns.  <a href="https://nyti.ms/41r7wrE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Biden Deploys High-Powered Aides, Plus More Aid, to Bolster Ukraine</h3>
 <sub>By Marc Santora and Alan Rappeport</sub>
 <p>Treasury Secretary Janet Yellen traveled to Kyiv the day before Secretary of State Antony Blinken was to visit Central Asia in a show of American solidarity with Ukraine in its battle with Russia.  <a href="https://nyti.ms/3ZrNHP0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>For Ukraine’s Animals, a Home Is Getting Harder to Find</h3>
+<sub>By Patricia Cohen</sub>
+<p>Early in the war, thousands of pets were ferried out of danger, mostly to other European countries. But now adoptions are waning.  <a href="https://nyti.ms/41z8wKg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,12 +108,6 @@ There are quite a few things happening around the world right now. In the US, th
 <p>Arriving in record numbers, they’re ending up in dangerous jobs that violate child labor laws — including in factories that make products for well-known brands like Cheetos and Fruit of the Loom.  <a href="https://nyti.ms/3IPNJd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Is There an Ethical Way to Kill Rats? Should We Even Ask?</h3>
-<sub>By Oliver Whang</sub>
-<p>Welcome to the rat trapper’s dilemma.  <a href="https://nyti.ms/3EGaqPC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Snow Is Falling in New York After a Winter Lull</h3>
 <sub>By April Rubin and Livia Albeck-Ripka</sub>
@@ -123,15 +121,21 @@ There are quite a few things happening around the world right now. In the US, th
 <sub><sub>Wednesday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Latino Workers Reach $1 Million Settlement Over Raid at Meat Plant</h3>
+<h3>In Rare Victory, Immigrants Prevail in Suit Over Meat Plant Raid</h3>
 <sub>By Miriam Jordan</sub>
-<p>The workers accused the government of racial profiling and excessive force. Legal experts called it a rare victory for undocumented immigrants.  <a href="https://nyti.ms/3Z7yYZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The workers accused the government of racial profiling and excessive force. The agreement is very likely the first class settlement over an immigration enforcement operation at a work site, experts say.  <a href="https://nyti.ms/3Z7yYZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Turkey’s Earthquake Zone Is a Lot Like California’s. Here’s What That Means.</h3>
 <sub>By Henry Fountain</sub>
 <p>Scientists are analyzing the disaster for clues about the potential strength and location of future West Coast quakes.  <a href="https://nyti.ms/3IWx08Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know and Don’t Know About the Origins of Covid</h3>
+<sub>By Sheryl Gay Stolberg and Benjamin Mueller</sub>
+<p>Scientists and spy agencies have tried to determine where the coronavirus originated, but conclusive evidence is hard to come by and the nation’s intelligence agencies are split.  <a href="https://nyti.ms/3Sz3cCA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
