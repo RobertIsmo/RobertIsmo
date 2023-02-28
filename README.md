@@ -60,22 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 27, Central Standard Time</p>
 <p>
-It&#39;s been a busy news week! A lot is happening around the world. The Biden administration is flexing the power of the federal government in their Semiconductor plan and are asking the chip industry to make promises about its workers and finances in return for vast subsidies. In the U.K. and E.U., their relationship has improved as they struck a Northern Ireland trade deal to heal a Brexit wound, which had risked a trade war between London and Washington. Additionally, Biden has deployed high-powered aides and more aid to bolster Ukraine in their battle with Russia. 
-
-In the US, Biden has plans to crackdown on migrant child labor following a Times investigation which showed children were working in dangerous jobs throughout the country. The Supreme Court is currently reviewing challenges to student loan cancellation and whether or not it falls within Biden&#39;s authority, as well as seeming doubtful over the broad sweep of identity theft law. 
-
-For science fans, there&#39;s an article about ethical ways to kill rats, with interesting ethical questions about whether people should be asking these questions at all. Lastly for weather watchers, snow and sleet are expected in parts of the Northeast this week, so you can check out our article on just how much snow is likely to fall where you live!</p>
+There are quite a few things happening around the world right now. In the US, the Biden administration is flexing its power by subsidizing the chip industry and cracking down on migrant child labor, while snow is falling in New York after a winter lull. In Europe, the U.K. and E.U. have struck a trade deal to heal damages caused by Brexit, and Russia has launched an offensive in Ukraine which has prompted the Biden administration to send high-powered aides and more aid to bolster Ukraine. Meanwhile, media mogul Rupert Murdoch has acknowledged Fox News hosts endorsing falsehoods about election fraud. The climate is also heating up — Turkey recently experienced an earthquake, similar to what’s found in California, which could provide clues about the potential strength and location of future West Coast quakes.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden’s Semiconductor Plan Flexes the Power of the Federal Government</h3>
 <sub>By Jim Tankersley and Ana Swanson</sub>
 <p>In return for vast subsidies, the Biden administration is asking the chip industry to make promises about its workers and finances.  <a href="https://nyti.ms/3ICMdKX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Murdoch Acknowledges Fox News Hosts Endorsed Election Fraud Falsehoods</h3>
-<sub>By Jeremy W. Peters and Katie Robertson</sub>
-<p>Rupert Murdoch, the conservative media mogul, spoke under oath last month in a $1.6 billion defamation lawsuit against Fox by Dominion Voting Systems.  <a href="https://nyti.ms/41t8MdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -85,15 +75,21 @@ For science fans, there&#39;s an article about ethical ways to kill rats, with i
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia’s New Offensive Sends Conscripts Into the Teeth of Ukraine’s Lines</h3>
+<sub>By Andrew E. Kramer and Tyler Hicks</sub>
+<p>A month into the campaign, Russian forces have barely budged despite forays by small units in fields, pine forests and ruined towns.  <a href="https://nyti.ms/41r7wrE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Biden Deploys High-Powered Aides, Plus More Aid, to Bolster Ukraine</h3>
 <sub>By Marc Santora and Alan Rappeport</sub>
 <p>Treasury Secretary Janet Yellen traveled to Kyiv the day before Secretary of State Antony Blinken was to visit Central Asia in a show of American solidarity with Ukraine in its battle with Russia.  <a href="https://nyti.ms/3ZrNHP0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s New Offensive Sends Conscripts Into the Teeth of Ukraine’s Lines</h3>
-<sub>By Andrew E. Kramer and Tyler Hicks</sub>
-<p>A month into the campaign, Russian forces have barely budged despite forays by small units in fields, pine forests and ruined towns.  <a href="https://nyti.ms/41r7wrE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Murdoch Acknowledges Fox News Hosts Endorsed Election Fraud Falsehoods</h3>
+<sub>By Jeremy W. Peters and Katie Robertson</sub>
+<p>Rupert Murdoch, the conservative media mogul, spoke under oath last month in a $1.6 billion defamation lawsuit against Fox by Dominion Voting Systems.  <a href="https://nyti.ms/41t8MdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -108,18 +104,6 @@ For science fans, there&#39;s an article about ethical ways to kill rats, with i
 <p>Arriving in record numbers, they’re ending up in dangerous jobs that violate child labor laws — including in factories that make products for well-known brands like Cheetos and Fruit of the Loom.  <a href="https://nyti.ms/3IPNJd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Challenges to Student Loan Cancellation Reach Supreme Court</h3>
-<sub>By Stacy Cowley</sub>
-<p>Justices will hear arguments Tuesday on President Biden’s plan to forgive an estimated $400 billion in debt. Conservative states have called it an abuse of his authority.  <a href="https://nyti.ms/3Y79WsB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Seems Skeptical of Broad Sweep of Identity Theft Law</h3>
-<sub>By Adam Liptak</sub>
-<p>Using examples drawn from valet parking and restaurant meals, the justices indicated that a federal law imposing mandatory two-year sentences should be read narrowly.  <a href="https://nyti.ms/3IVEHMP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Is There an Ethical Way to Kill Rats? Should We Even Ask?</h3>
 <sub>By Oliver Whang</sub>
@@ -127,9 +111,9 @@ For science fans, there&#39;s an article about ethical ways to kill rats, with i
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Snow and Sleet Are Coming to the Northeast After a Winter Lull</h3>
-<sub>By April Rubin</sub>
-<p>Up to eight inches of snow are possible in interior parts of the Northeast starting on Monday night, with lower totals around New York City and coastal areas, forecasters said.  <a href="https://nyti.ms/41szuTM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Snow Is Falling in New York After a Winter Lull</h3>
+<sub>By April Rubin and Livia Albeck-Ripka</sub>
+<p>Up to seven inches of snow are possible in interior parts of the Northeast starting on Monday night, with lower totals expected around New York City and coastal areas, forecasters said.  <a href="https://nyti.ms/41szuTM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -137,6 +121,18 @@ For science fans, there&#39;s an article about ethical ways to kill rats, with i
 <sub>By Aatish Bhatia, Josh Katz, Margot Sanger-Katz and Samuel Jacoby</sub>
 <p>Type in your community to see the full range of possibilities in the next few days.  <a href="https://nyti.ms/3hdEfL2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Latino Workers Reach $1 Million Settlement Over Raid at Meat Plant</h3>
+<sub>By Miriam Jordan</sub>
+<p>The workers accused the government of racial profiling and excessive force. Legal experts called it a rare victory for undocumented immigrants.  <a href="https://nyti.ms/3Z7yYZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Turkey’s Earthquake Zone Is a Lot Like California’s. Here’s What That Means.</h3>
+<sub>By Henry Fountain</sub>
+<p>Scientists are analyzing the disaster for clues about the potential strength and location of future West Coast quakes.  <a href="https://nyti.ms/3IWx08Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
