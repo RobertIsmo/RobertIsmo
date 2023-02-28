@@ -60,25 +60,35 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, February 27, Central Standard Time</p>
 <p>
-Right now, the US government is imposing financial restrictions on chip makers and there&#39;s a case coming up to the Supreme Court about ending billions of dollars of student loan debt. Europe and the UK just reached a deal about post-Brexit rules in Northern Ireland, while Russia is continuing a military campaign against Ukraine. In Central Asia, the US Secretary of State is visiting to urge countries away from Russian influence. The Biden administration also plans to crack down on child labor, especially among migrants; and across the US, Indian Americans are increasingly making their mark in politics. In NY, gun laws are now being re-examined after a Supreme Court decision overturned New York state regulations; and here in Chicago, Lori Lightfoot is running for a second term as mayor but she faces numerous challengers.</p>
+It&#39;s been a busy news week! A lot is happening around the world. The Biden administration is flexing the power of the federal government in their Semiconductor plan and are asking the chip industry to make promises about its workers and finances in return for vast subsidies. In the U.K. and E.U., their relationship has improved as they struck a Northern Ireland trade deal to heal a Brexit wound, which had risked a trade war between London and Washington. Additionally, Biden has deployed high-powered aides and more aid to bolster Ukraine in their battle with Russia. 
+
+In the US, Biden has plans to crackdown on migrant child labor following a Times investigation which showed children were working in dangerous jobs throughout the country. The Supreme Court is currently reviewing challenges to student loan cancellation and whether or not it falls within Biden&#39;s authority, as well as seeming doubtful over the broad sweep of identity theft law. 
+
+For science fans, there&#39;s an article about ethical ways to kill rats, with interesting ethical questions about whether people should be asking these questions at all. Lastly for weather watchers, snow and sleet are expected in parts of the Northeast this week, so you can check out our article on just how much snow is likely to fall where you live!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>To Tap Federal Funds, Chip Makers Will Need to Provide Child Care</h3>
-<sub>By Jim Tankersley</sub>
-<p>The move seeks to help more women join the work force as industry leaders complain of labor shortages.  <a href="https://nyti.ms/3XZs8Es"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden’s Semiconductor Plan Flexes the Power of the Federal Government</h3>
+<sub>By Jim Tankersley and Ana Swanson</sub>
+<p>In return for vast subsidies, the Biden administration is asking the chip industry to make promises about its workers and finances.  <a href="https://nyti.ms/3ICMdKX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Administration to Impose Financial Restrictions for Chip Makers</h3>
-<sub>By Ana Swanson</sub>
-<p>Guidelines to be released Tuesday will include firm financial requirements to try to ensure that chip makers don’t waste federal money.  <a href="https://nyti.ms/3ICMdKX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Murdoch Acknowledges Fox News Hosts Endorsed Election Fraud Falsehoods</h3>
+<sub>By Jeremy W. Peters and Katie Robertson</sub>
+<p>Rupert Murdoch, the conservative media mogul, spoke under oath last month in a $1.6 billion defamation lawsuit against Fox by Dominion Voting Systems.  <a href="https://nyti.ms/41t8MdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What’s at Stake as U.K. and E.U. Reach Deal Over Northern Ireland Protocol</h3>
-<sub>By Stephen Castle and Megan Specia</sub>
-<p>Britain and the European Union have long clashed over post-Brexit rules known as the Northern Ireland protocol. Here’s what to know about the renegotiated agreement.  <a href="https://nyti.ms/3m90tns"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 13, Central Standard Time</sub></sub>
+<h3>To Heal Brexit Wound, U.K. and E.U. Strike a Northern Ireland Trade Deal</h3>
+<sub>By Mark Landler and Stephen Castle</sub>
+<p>A dispute left over from the Britain-European Union split has chilled relations, paralyzed Northern Ireland’s government, risked a trade war and even caused friction between London and Washington.  <a href="https://nyti.ms/3II3vGW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Biden Deploys High-Powered Aides, Plus More Aid, to Bolster Ukraine</h3>
+<sub>By Marc Santora and Alan Rappeport</sub>
+<p>Treasury Secretary Janet Yellen traveled to Kyiv the day before Secretary of State Antony Blinken was to visit Central Asia in a show of American solidarity with Ukraine in its battle with Russia.  <a href="https://nyti.ms/3ZrNHP0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia’s New Offensive Sends Conscripts Into the Teeth of Ukraine’s Lines</h3>
@@ -86,11 +96,17 @@ Right now, the US government is imposing financial restrictions on chip makers a
 <p>A month into the campaign, Russian forces have barely budged despite forays by small units in fields, pine forests and ruined towns.  <a href="https://nyti.ms/41r7wrE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Central Asia, Blinken Will Urge Distance From Russia, and Ukraine War</h3>
-<sub>By Edward Wong, Anton Troianovski and Stanley Reed</sub>
-<p>Secretary of State Antony J. Blinken will make the first diplomatic trip by a Biden administration cabinet official to the former Soviet republics of Central Asia since the Ukraine war began.  <a href="https://nyti.ms/3ZijHp2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Administration Plans Crackdown on Migrant Child Labor</h3>
+<sub>By Hannah Dreier</sub>
+<p>The move came days after a Times investigation showed children were working in dangerous jobs throughout the United States.  <a href="https://nyti.ms/3mft8Ha"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Alone and Exploited, Migrant Children Work Brutal Jobs Across the U.S.</h3>
+<sub>By Hannah Dreier and Photographs By Kirsten Luce</sub>
+<p>Arriving in record numbers, they’re ending up in dangerous jobs that violate child labor laws — including in factories that make products for well-known brands like Cheetos and Fruit of the Loom.  <a href="https://nyti.ms/3IPNJd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Challenges to Student Loan Cancellation Reach Supreme Court</h3>
@@ -99,9 +115,9 @@ Right now, the US government is imposing financial restrictions on chip makers a
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court to Take Up Case on Fate of Consumer Watchdog</h3>
+<h3>Supreme Court Seems Skeptical of Broad Sweep of Identity Theft Law</h3>
 <sub>By Adam Liptak</sub>
-<p>A decision against the bureau could cast doubt on every rule and enforcement action the Consumer Financial Protection Bureau has taken.  <a href="https://nyti.ms/3IzoGuG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Using examples drawn from valet parking and restaurant meals, the justices indicated that a federal law imposing mandatory two-year sentences should be read narrowly.  <a href="https://nyti.ms/3IVEHMP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -111,28 +127,16 @@ Right now, the US government is imposing financial restrictions on chip makers a
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Administration Plans Crackdown on Migrant Child Labor</h3>
-<sub>By Hannah Dreier</sub>
-<p>The announcement came days after a Times investigation showed children were working in dangerous jobs throughout the United States.  <a href="https://nyti.ms/3mft8Ha"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<h3>Snow and Sleet Are Coming to the Northeast After a Winter Lull</h3>
+<sub>By April Rubin</sub>
+<p>Up to eight inches of snow are possible in interior parts of the Northeast starting on Monday night, with lower totals around New York City and coastal areas, forecasters said.  <a href="https://nyti.ms/41szuTM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York’s Gun Laws Sow Confusion as Nation Rethinks Regulation</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>A Supreme Court decision overturning century-old New York gun regulations has produced scores of new lawsuits as jurists and citizens sort out what’s legal.  <a href="https://nyti.ms/3IWEbhz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Indian Americans Rapidly Climbing Political Ranks</h3>
-<sub>By Maggie Astor and Jill Cowan</sub>
-<p>The 2024 cycle reflects huge strides in representation: A decade ago, “it was inconceivable that someone named Raj Goyle — let alone Rajeev Goyle — would run for office in Wichita,” said Mr. Goyle, a former Kansas lawmaker.  <a href="https://nyti.ms/3IYm62P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About Chicago’s Mayoral Election</h3>
-<sub>By Mitch Smith</sub>
-<p>Mayor Lori Lightfoot is seeking a second term, but she faces a wide field of challengers who have attacked her record on crime, policing and education.  <a href="https://nyti.ms/3IYvUd8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>How Much Snow Will Fall Where You Live?</h3>
+<sub>By Aatish Bhatia, Josh Katz, Margot Sanger-Katz and Samuel Jacoby</sub>
+<p>Type in your community to see the full range of possibilities in the next few days.  <a href="https://nyti.ms/3hdEfL2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
