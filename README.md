@@ -59,7 +59,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 28, Central Standard Time</p>
-<p>There are a few major stories happening around the world. First, President Biden is proposing a student loan forgiveness plan that could reduce people&#39;s balances up to $20,000. Secondly, Europe&#39;s militaries are not prepared to stand up against Russia in Ukraine. China is also sending arms and ammunition to Russia, causing concern. In addition, the United Kingdom negotiated a trade deal with the European Union that could finally settle Brexit after 7 years of debate. In America, former President Jimmy Carter had complicated relationships with Black Americans and eventually gained their support. There is also a movie about the Russian presence in Ukraine that warns of a heavy price if the West fails to defeat Putin there. Lastly, Twitter outages are becoming more common and 23 whales have been found dead on the east coast since December.</p>
+<p>
+There has been a lot happening in the world recently! President Biden is introducing a student loan forgiveness plan that would mean millions of people&#39;s student loan balances could be reduced by up to $20,000. In Europe, militaries have been struggling to find tanks for Ukraine to use against Russian forces. Meanwhile, China welcomed the Belarusian leader and is accused of sending arms and ammunition to Russia for use in its war on Ukraine. Over in Britain, the king had a tea with an E.U. leader that has many people concerned about the implications of mixing politics and monarchy. Elon Musk&#39;s repeated job cuts have led to new fears that Twitter won&#39;t get the help it needs to triage outages. Here in the US, a prominent lawyer went from working with Trump&#39;s team to representing Hunter Biden as he faces scrutiny over taxes. And here in Chicago, the mayoral election is being closely watched since cities all around America face similar problems like crime and problems related to the pandemic. On top of all that, 23 dead whales have been found along the East Coast since December!</p>
 <ol>
 <img src="https://img.shields.io/badge/-your-money-blue" alt="">
 <h3>What You Need to Know About Biden’s Student Loan Forgiveness Plan</h3>
@@ -76,7 +77,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>A Polarizing French Philosopher Chooses War Zones Over Salons</h3>
 <sub>By Dan Bilefsky</sub>
-<p>In a new film, “Slava Ukraini,” the writer and filmmaker Bernard Henri-Lévy warns of a heavy price if the West fails to defeat Putin in Ukraine.  <a href="https://nyti.ms/3J2SJfL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In a new film, “Slava Ukraini,” the writer and filmmaker Bernard-Henri Lévy warns of a heavy price if the West fails to defeat Putin in Ukraine.  <a href="https://nyti.ms/3J2SJfL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,21 +87,27 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Sunak Hopes to Move Past Brexit, at Long Last, With E.U. Deal</h3>
+<h3>Tea and a Photo-Op Put King Charles in Crosshairs</h3>
 <sub>By Mark Landler</sub>
-<p>In addition to removing an obstacle to London-Brussels relations, the Northern Ireland trade deal could remove Brexit from the center of British politics after seven divisive years.  <a href="https://nyti.ms/3EIvMf9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Different From the Other Southerners’: Jimmy Carter’s Relationship With Black America</h3>
-<sub>By Maya King and Richard Fausset</sub>
-<p>How a white politician from the South who once supported segregationist policies eventually won the enduring support of Black voters.  <a href="https://nyti.ms/3m6RMd7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>King Charles’s meeting with an E.U. leader on the day a Northern Ireland trade deal was announced drew angry recriminations from critics who viewed it as an improper foray into British politics.  <a href="https://nyti.ms/3Y3nNQN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Eugene Levy Never Wanted to See the World</h3>
 <sub>By Anna Peele</sub>
 <p>The comic actor balked when he was offered a travel show. But hosting “The Reluctant Traveler” showed him the (mild) joys of leaving his comfort zone.  <a href="https://nyti.ms/3xYFLJG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Sometimes Things Break’: Twitter Outages Are on the Rise</h3>
+<sub>By Ryan Mac, Mike Isaac and Kate Conger</sub>
+<p>Elon Musk’s repeated job cuts are stoking new fears that there aren’t enough people to triage Twitter’s problems.  <a href="https://nyti.ms/3IF173l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Abbe Lowell Built Ties to Trump World. Now He’s One of Hunter Biden’s Lawyers.</h3>
+<sub>By Kenneth P. Vogel, Maggie Haberman and Michael S. Schmidt</sub>
+<p>The shift by Mr. Lowell, one of Washington’s best-known scandal lawyers, highlights the blurry lines between self-promotion, access to power and the right to legal representation.  <a href="https://nyti.ms/3ZaoV6j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -116,15 +123,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chicago Votes for Mayor in a Race Dominated by Crime and Policing</h3>
+<h3>Why Chicago’s Mayoral Election Matters, Even if You Don’t Live in Chicago</h3>
 <sub>By Julie Bosman</sub>
-<p>Mayor Lori Lightfoot faces a wide field of challengers on Tuesday, including one front-runner who has portrayed Chicago as a city in disarray.  <a href="https://nyti.ms/3IZttXB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Sometimes Things Break’: Twitter Outages Are on the Rise</h3>
-<sub>By Ryan Mac, Mike Isaac and Kate Conger</sub>
-<p>Elon Musk’s repeated job cuts are stoking new fears that there aren’t enough people to triage Twitter’s problems.  <a href="https://nyti.ms/3IF173l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>America’s cities increasingly face similar problems, particularly worries about crime and hangovers from the pandemic. That’s why the mayor’s election in Chicago on Tuesday is about more than Chicago.  <a href="https://nyti.ms/3ZwYIih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
