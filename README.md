@@ -60,13 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 28, Central Standard Time</p>
 <p>
-It looks like the world is unsettled right now. European militaries are struggling to provide tanks to Ukraine amid their conflict with Russia, and a new deal between the EU and UK has been made in an effort to finally move past Brexit. Here in the US, the Supreme Court is getting involved with Biden&#39;s student loan cancellation plan, Jimmy Carter&#39;s past actions with regards to Black America have resurfaced, and our own Lori Lightfoot continues to battle for mayor of Chicago. In other news, China is trying to erase any memory of its response to Covid-19 and Hong Kong has ended its mask mandate, while rising numbers of dead whales has been found along the East Coast which scientists attribute to climate change and shipping.</p>
+Right now, it seems like governments around the world are struggling with different kind of issues. In the US, Joe Biden has proposed a plan that could possibly forgive some student loan debt for millions of people, and voters in Chicago have been deciding on their mayor. In Ukraine, there is an issue of tanks and military equipment not being readily available, while in the UK they are working on a deal to move past Brexit. China is also facing scrutiny as it works to suppress information about its handling of the pandemic. Lastly, there&#39;s been a spate of dead whales washing up on shore along the East Coast that isn&#39;t fully understood yet.</p>
 <ol>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>What You Need to Know About Biden’s Student Loan Forgiveness Plan</h3>
+<sub>By Ron Lieber and Tara Siegel Bernard</sub>
+<p>President Biden’s move means the student loan balances of millions of people could fall by as much as $20,000. This F.A.Q. explains how it will work.  <a href="https://nyti.ms/3AK88xl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, August 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Scrounging for Tanks for Ukraine, Europe’s Armies Come Up Short</h3>
 <sub>By Erika Solomon, Steven Erlanger and Christopher F. Schuetze</sub>
 <p>The struggle to deliver on promises to provide Leopard 2 tanks for use against Russian forces has exposed just how unprepared European militaries are.  <a href="https://nyti.ms/3Zw01Ox"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>For Ukraine’s Animals, a Home Is Getting Harder to Find</h3>
+<sub>By Patricia Cohen</sub>
+<p>Early in the war, thousands of pets were ferried out of danger, mostly to other European countries. But now adoptions are waning.  <a href="https://nyti.ms/41z8wKg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Sunak Hopes to Move Past Brexit, at Long Last, With E.U. Deal</h3>
@@ -75,13 +87,7 @@ It looks like the world is unsettled right now. European militaries are struggli
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court to Hear Cases on Biden’s Student Loan Cancellation Plan</h3>
-<sub>By Adam Liptak</sub>
-<p>The administration faces a conservative court that has insisted that government initiatives with major political and economic consequences be clearly authorized by Congress.  <a href="https://nyti.ms/3kvNImg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Different from the Other Southerners’: Jimmy Carter’s Relationship with Black America</h3>
+<h3>‘Different From the Other Southerners’: Jimmy Carter’s Relationship With Black America</h3>
 <sub>By Maya King and Richard Fausset</sub>
 <p>How a white politician from the South who once supported segregationist policies eventually won the enduring support of Black voters.  <a href="https://nyti.ms/3m6RMd7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
@@ -110,28 +116,22 @@ It looks like the world is unsettled right now. European militaries are struggli
 <p>Mayor Lori Lightfoot faces a wide field of challengers on Tuesday, including one front-runner who has portrayed Chicago as a city in disarray.  <a href="https://nyti.ms/3IZttXB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Semiconductor Plan Flexes the Power of the Federal Government</h3>
-<sub>By Jim Tankersley and Ana Swanson</sub>
-<p>In return for vast subsidies, the Biden administration is asking the chip industry to make promises about its workers and finances.  <a href="https://nyti.ms/3ICMdKX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Why 23 Dead Whales Have Washed Up on the East Coast Since December</h3>
+<sub>By Tracey Tully and Winston Choi-Schagrin</sub>
+<p>Another humpback whale was spotted dead late Monday, floating near a shipping channel between New York and New Jersey, the 13th whale found in the two states in three months.  <a href="https://nyti.ms/3EKBrkK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Murdoch Acknowledges Fox News Hosts Endorsed Election Fraud Falsehoods</h3>
+<sub>By Jeremy W. Peters and Katie Robertson</sub>
+<p>Rupert Murdoch, the conservative media mogul, spoke under oath last month in a $1.6 billion defamation lawsuit against Fox by Dominion Voting Systems.  <a href="https://nyti.ms/41t8MdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China Moves to Erase the Vestiges of ‘Zero Covid’ to Deter Dissent</h3>
 <sub>By Nicole Hong and Zixu Wang</sub>
 <p>The ruling Communist Party is waging an ambitious propaganda campaign to rewrite the public’s memory of its handling of the pandemic, which included some of the harshest restrictions in the world.  <a href="https://nyti.ms/3m5Gwh3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hong Kong, One of World’s Last Holdouts, Ends Its Mask Mandate</h3>
-<sub>By Tiffany May</sub>
-<p>As of Wednesday, the city will no longer require people to wear masks indoors, outdoors or on public transportation.  <a href="https://nyti.ms/3J1p5aJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why 23 Dead Whales Have Washed Up on the East Coast Since December</h3>
-<sub>By Tracey Tully and Winston Choi-Schagrin</sub>
-<p>An unlikely confluence of factors, including climate change and online shopping, appears to be at least partially to blame for the uptick.  <a href="https://nyti.ms/3EKBrkK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
