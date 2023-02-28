@@ -60,8 +60,56 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 28, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the United States, President Biden is flexing the federal government&#39;s power by asking the chip industry to commit to certain worker and finance promises in exchange for large subsidies. On the Brexit issue, the UK and EU struck a major trade deal affecting Northern Ireland&#39;s government and even causing friction with Washington. The Biden administration is also aiding Ukraine with high-powered advisors, more assistance, and sending Secretary Janet Yellen over to Kyiv. There&#39;s some heart wrenching hardship news too- immigrated children sent to risky and illegal jobs stateside and animals in Ukraine badly needing homes. Then Rupert Murdoch admitted Fox News hosts pushed election fraud false hoods and Biden intends to crackdown on migrant child labor exposed by uncovered Times reports. Meanwhile winter disappointed us all by finally appearing with a decent snowstorm estimated for up to 7 inches for some parts of New England. Finally, scientists are studying seismic activity in Turkey for hints about West Coast quakes and intel experts are searching for answers of Covid-19&#39;s origin.</p>
+It looks like the world is unsettled right now. European militaries are struggling to provide tanks to Ukraine amid their conflict with Russia, and a new deal between the EU and UK has been made in an effort to finally move past Brexit. Here in the US, the Supreme Court is getting involved with Biden&#39;s student loan cancellation plan, Jimmy Carter&#39;s past actions with regards to Black America have resurfaced, and our own Lori Lightfoot continues to battle for mayor of Chicago. In other news, China is trying to erase any memory of its response to Covid-19 and Hong Kong has ended its mask mandate, while rising numbers of dead whales has been found along the East Coast which scientists attribute to climate change and shipping.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Scrounging for Tanks for Ukraine, Europe’s Armies Come Up Short</h3>
+<sub>By Erika Solomon, Steven Erlanger and Christopher F. Schuetze</sub>
+<p>The struggle to deliver on promises to provide Leopard 2 tanks for use against Russian forces has exposed just how unprepared European militaries are.  <a href="https://nyti.ms/3Zw01Ox"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Sunak Hopes to Move Past Brexit, at Long Last, With E.U. Deal</h3>
+<sub>By Mark Landler</sub>
+<p>In addition to removing an obstacle to London-Brussels relations, the Northern Ireland trade deal could remove Brexit from the center of British politics after seven divisive years.  <a href="https://nyti.ms/3EIvMf9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court to Hear Cases on Biden’s Student Loan Cancellation Plan</h3>
+<sub>By Adam Liptak</sub>
+<p>The administration faces a conservative court that has insisted that government initiatives with major political and economic consequences be clearly authorized by Congress.  <a href="https://nyti.ms/3kvNImg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Different from the Other Southerners’: Jimmy Carter’s Relationship with Black America</h3>
+<sub>By Maya King and Richard Fausset</sub>
+<p>How a white politician from the South who once supported segregationist policies eventually won the enduring support of Black voters.  <a href="https://nyti.ms/3m6RMd7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Eugene Levy Never Wanted to See the World</h3>
+<sub>By Anna Peele</sub>
+<p>The comic actor balked when he was offered a travel show. But hosting “The Reluctant Traveler” showed him the (mild) joys of leaving his comfort zone.  <a href="https://nyti.ms/3xYFLJG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Drug Company Exploited a Safety Requirement to Make Money</h3>
+<sub>By Rebecca Robbins</sub>
+<p>With a history as a date rape drug, a medication needed strict distribution controls. Its maker, Jazz Pharmaceuticals, used that to delay competition.  <a href="https://nyti.ms/3KJakdY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Lightfoot Tries for Second Term, Jabs Go From Friendly to Harsh</h3>
+<sub>By Julie Bosman</sub>
+<p>When the pandemic took hold, Chicago was awash in affectionate memes featuring Lori Lightfoot, the city’s stern, no-nonsense new mayor. Since then, the joke has worn off.  <a href="https://nyti.ms/3IVOeDv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chicago Votes for Mayor in a Race Dominated by Crime and Policing</h3>
+<sub>By Julie Bosman</sub>
+<p>Mayor Lori Lightfoot faces a wide field of challengers on Tuesday, including one front-runner who has portrayed Chicago as a city in disarray.  <a href="https://nyti.ms/3IZttXB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden’s Semiconductor Plan Flexes the Power of the Federal Government</h3>
 <sub>By Jim Tankersley and Ana Swanson</sub>
@@ -69,70 +117,22 @@ There is a lot going on in the world right now. In the United States, President 
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>To Heal Brexit Wound, U.K. and E.U. Strike a Northern Ireland Trade Deal</h3>
-<sub>By Mark Landler and Stephen Castle</sub>
-<p>A dispute left over from the Britain-European Union split has chilled relations, paralyzed Northern Ireland’s government, risked a trade war and even caused friction between London and Washington.  <a href="https://nyti.ms/3II3vGW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden Deploys High-Powered Aides, Plus More Aid, to Bolster Ukraine</h3>
-<sub>By Marc Santora and Alan Rappeport</sub>
-<p>Treasury Secretary Janet Yellen traveled to Kyiv the day before Secretary of State Antony Blinken was to visit Central Asia in a show of American solidarity with Ukraine in its battle with Russia.  <a href="https://nyti.ms/3ZrNHP0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>For Ukraine’s Animals, a Home Is Getting Harder to Find</h3>
-<sub>By Patricia Cohen</sub>
-<p>Early in the war, thousands of pets were ferried out of danger, mostly to other European countries. But now adoptions are waning.  <a href="https://nyti.ms/41z8wKg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Murdoch Acknowledges Fox News Hosts Endorsed Election Fraud Falsehoods</h3>
-<sub>By Jeremy W. Peters and Katie Robertson</sub>
-<p>Rupert Murdoch, the conservative media mogul, spoke under oath last month in a $1.6 billion defamation lawsuit against Fox by Dominion Voting Systems.  <a href="https://nyti.ms/41t8MdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Administration Plans Crackdown on Migrant Child Labor</h3>
-<sub>By Hannah Dreier</sub>
-<p>The move came days after a Times investigation showed children were working in dangerous jobs throughout the United States.  <a href="https://nyti.ms/3mft8Ha"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Alone and Exploited, Migrant Children Work Brutal Jobs Across the U.S.</h3>
-<sub>By Hannah Dreier and Photographs By Kirsten Luce</sub>
-<p>Arriving in record numbers, they’re ending up in dangerous jobs that violate child labor laws — including in factories that make products for well-known brands like Cheetos and Fruit of the Loom.  <a href="https://nyti.ms/3IPNJd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>With Snowfall, Winter Makes a Belated Appearance in New York</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>A storm began to bear down across the Northeast on Monday evening, with forecasters predicting up to seven inches of snow in some parts.  <a href="https://nyti.ms/3ItDKtG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China Moves to Erase the Vestiges of ‘Zero Covid’ to Deter Dissent</h3>
+<sub>By Nicole Hong and Zixu Wang</sub>
+<p>The ruling Communist Party is waging an ambitious propaganda campaign to rewrite the public’s memory of its handling of the pandemic, which included some of the harshest restrictions in the world.  <a href="https://nyti.ms/3m5Gwh3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>How Much Snow Will Fall Where You Live?</h3>
-<sub>By Aatish Bhatia, Josh Katz, Margot Sanger-Katz and Samuel Jacoby</sub>
-<p>Type in your community to see the full range of possibilities in the next few days.  <a href="https://nyti.ms/3hdEfL2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Rare Victory, Immigrants Prevail in Suit Over Meat Plant Raid</h3>
-<sub>By Miriam Jordan</sub>
-<p>The workers accused the government of racial profiling and excessive force. The agreement is very likely the first class settlement over an immigration enforcement operation at a work site, experts say.  <a href="https://nyti.ms/3Z7yYZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hong Kong, One of World’s Last Holdouts, Ends Its Mask Mandate</h3>
+<sub>By Tiffany May</sub>
+<p>As of Wednesday, the city will no longer require people to wear masks indoors, outdoors or on public transportation.  <a href="https://nyti.ms/3J1p5aJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Turkey’s Earthquake Zone Is a Lot Like California’s. Here’s What That Means.</h3>
-<sub>By Henry Fountain</sub>
-<p>Scientists are analyzing the disaster for clues about the potential strength and location of future West Coast quakes.  <a href="https://nyti.ms/3IWx08Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know and Don’t Know About the Origins of Covid</h3>
-<sub>By Sheryl Gay Stolberg and Benjamin Mueller</sub>
-<p>Scientists and spy agencies have tried to determine where the coronavirus originated, but conclusive evidence is hard to come by and the nation’s intelligence agencies are split.  <a href="https://nyti.ms/3Sz3cCA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Why 23 Dead Whales Have Washed Up on the East Coast Since December</h3>
+<sub>By Tracey Tully and Winston Choi-Schagrin</sub>
+<p>An unlikely confluence of factors, including climate change and online shopping, appears to be at least partially to blame for the uptick.  <a href="https://nyti.ms/3EKBrkK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
