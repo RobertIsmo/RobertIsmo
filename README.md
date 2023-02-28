@@ -59,8 +59,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 28, Central Standard Time</p>
-<p>
-Right now, it seems like governments around the world are struggling with different kind of issues. In the US, Joe Biden has proposed a plan that could possibly forgive some student loan debt for millions of people, and voters in Chicago have been deciding on their mayor. In Ukraine, there is an issue of tanks and military equipment not being readily available, while in the UK they are working on a deal to move past Brexit. China is also facing scrutiny as it works to suppress information about its handling of the pandemic. Lastly, there&#39;s been a spate of dead whales washing up on shore along the East Coast that isn&#39;t fully understood yet.</p>
+<p>There are a few major stories happening around the world. First, President Biden is proposing a student loan forgiveness plan that could reduce people&#39;s balances up to $20,000. Secondly, Europe&#39;s militaries are not prepared to stand up against Russia in Ukraine. China is also sending arms and ammunition to Russia, causing concern. In addition, the United Kingdom negotiated a trade deal with the European Union that could finally settle Brexit after 7 years of debate. In America, former President Jimmy Carter had complicated relationships with Black Americans and eventually gained their support. There is also a movie about the Russian presence in Ukraine that warns of a heavy price if the West fails to defeat Putin there. Lastly, Twitter outages are becoming more common and 23 whales have been found dead on the east coast since December.</p>
 <ol>
 <img src="https://img.shields.io/badge/-your-money-blue" alt="">
 <h3>What You Need to Know About Biden’s Student Loan Forgiveness Plan</h3>
@@ -74,11 +73,17 @@ Right now, it seems like governments around the world are struggling with differ
 <p>The struggle to deliver on promises to provide Leopard 2 tanks for use against Russian forces has exposed just how unprepared European militaries are.  <a href="https://nyti.ms/3Zw01Ox"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>For Ukraine’s Animals, a Home Is Getting Harder to Find</h3>
-<sub>By Patricia Cohen</sub>
-<p>Early in the war, thousands of pets were ferried out of danger, mostly to other European countries. But now adoptions are waning.  <a href="https://nyti.ms/41z8wKg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>A Polarizing French Philosopher Chooses War Zones Over Salons</h3>
+<sub>By Dan Bilefsky</sub>
+<p>In a new film, “Slava Ukraini,” the writer and filmmaker Bernard Henri-Lévy warns of a heavy price if the West fails to defeat Putin in Ukraine.  <a href="https://nyti.ms/3J2SJfL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Welcomes Belarusian Leader Amid Concerns About Ukraine</h3>
+<sub>By David Pierson</sub>
+<p>President Aleksandr G. Lukashenko’s visit comes shortly after the United States accused Beijing of preparing to give arms and ammunition to Russia to help its war on Ukraine.  <a href="https://nyti.ms/3IZSqlG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Sunak Hopes to Move Past Brexit, at Long Last, With E.U. Deal</h3>
@@ -98,10 +103,10 @@ Right now, it seems like governments around the world are struggling with differ
 <p>The comic actor balked when he was offered a travel show. But hosting “The Reluctant Traveler” showed him the (mild) joys of leaving his comfort zone.  <a href="https://nyti.ms/3xYFLJG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Drug Company Exploited a Safety Requirement to Make Money</h3>
-<sub>By Rebecca Robbins</sub>
-<p>With a history as a date rape drug, a medication needed strict distribution controls. Its maker, Jazz Pharmaceuticals, used that to delay competition.  <a href="https://nyti.ms/3KJakdY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>‘Nobody Wants to Be the World’s Villain’</h3>
+<sub>By Jamie Thompson</sub>
+<p>Inside the Louisville Police Department, where officers are reckoning with what it means to be a cop in a city that doesn’t trust them.  <a href="https://nyti.ms/3ICJukR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +121,16 @@ Right now, it seems like governments around the world are struggling with differ
 <p>Mayor Lori Lightfoot faces a wide field of challengers on Tuesday, including one front-runner who has portrayed Chicago as a city in disarray.  <a href="https://nyti.ms/3IZttXB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Sometimes Things Break’: Twitter Outages Are on the Rise</h3>
+<sub>By Ryan Mac, Mike Isaac and Kate Conger</sub>
+<p>Elon Musk’s repeated job cuts are stoking new fears that there aren’t enough people to triage Twitter’s problems.  <a href="https://nyti.ms/3IF173l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Why 23 Dead Whales Have Washed Up on the East Coast Since December</h3>
 <sub>By Tracey Tully and Winston Choi-Schagrin</sub>
 <p>Another humpback whale was spotted dead late Monday, floating near a shipping channel between New York and New Jersey, the 13th whale found in the two states in three months.  <a href="https://nyti.ms/3EKBrkK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Murdoch Acknowledges Fox News Hosts Endorsed Election Fraud Falsehoods</h3>
-<sub>By Jeremy W. Peters and Katie Robertson</sub>
-<p>Rupert Murdoch, the conservative media mogul, spoke under oath last month in a $1.6 billion defamation lawsuit against Fox by Dominion Voting Systems.  <a href="https://nyti.ms/41t8MdR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Moves to Erase the Vestiges of ‘Zero Covid’ to Deter Dissent</h3>
-<sub>By Nicole Hong and Zixu Wang</sub>
-<p>The ruling Communist Party is waging an ambitious propaganda campaign to rewrite the public’s memory of its handling of the pandemic, which included some of the harshest restrictions in the world.  <a href="https://nyti.ms/3m5Gwh3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
