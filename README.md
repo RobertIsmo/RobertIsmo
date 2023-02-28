@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 28, Central Standard Time</p>
 <p>
-Things have been pretty eventful lately! In the US, the Biden administration has been flexing its muscle by asking the semiconductor industry to make promises about its workers and finances in return for federal funding. Internationally, the UK and EU have agreed on a trade deal to heal wounds from Brexit that had been impacting Northern Ireland&#39;s government and causing friction between London and Washington. In Ukraine, Biden has sent high-powered aides and more aid to strengthen their battle with Russia.
-
-On a lighter note, there&#39;s snow falling in New York after a winter lull! But climate-wise, Turkey is facing earthquakes similar to those of California. Scientists are examining that disaster for clues about future West Coast quakes.
-
-Finally, back in the US, there&#39;s news of a rare victory by immigrants in a suit over immigraiton raids in meat plants - they accused the government of racial profiling and excessive force and settled. And we finally got an answer (somewhat) as to where Covid originated - intelligence agencies around the world are split as to where it came from without conclusive evidence.</p>
+There is a lot going on in the world right now. In the United States, President Biden is flexing the federal government&#39;s power by asking the chip industry to commit to certain worker and finance promises in exchange for large subsidies. On the Brexit issue, the UK and EU struck a major trade deal affecting Northern Ireland&#39;s government and even causing friction with Washington. The Biden administration is also aiding Ukraine with high-powered advisors, more assistance, and sending Secretary Janet Yellen over to Kyiv. There&#39;s some heart wrenching hardship news too- immigrated children sent to risky and illegal jobs stateside and animals in Ukraine badly needing homes. Then Rupert Murdoch admitted Fox News hosts pushed election fraud false hoods and Biden intends to crackdown on migrant child labor exposed by uncovered Times reports. Meanwhile winter disappointed us all by finally appearing with a decent snowstorm estimated for up to 7 inches for some parts of New England. Finally, scientists are studying seismic activity in Turkey for hints about West Coast quakes and intel experts are searching for answers of Covid-19&#39;s origin.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden’s Semiconductor Plan Flexes the Power of the Federal Government</h3>
@@ -108,11 +104,11 @@ Finally, back in the US, there&#39;s news of a rare victory by immigrants in a s
 <p>Arriving in record numbers, they’re ending up in dangerous jobs that violate child labor laws — including in factories that make products for well-known brands like Cheetos and Fruit of the Loom.  <a href="https://nyti.ms/3IPNJd9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, February 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Snow Is Falling in New York After a Winter Lull</h3>
-<sub>By April Rubin and Livia Albeck-Ripka</sub>
-<p>Up to seven inches of snow are possible in interior parts of the Northeast starting on Monday night, with lower totals expected around New York City and coastal areas, forecasters said.  <a href="https://nyti.ms/41szuTM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, February 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>With Snowfall, Winter Makes a Belated Appearance in New York</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>A storm began to bear down across the Northeast on Monday evening, with forecasters predicting up to seven inches of snow in some parts.  <a href="https://nyti.ms/3ItDKtG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>How Much Snow Will Fall Where You Live?</h3>
