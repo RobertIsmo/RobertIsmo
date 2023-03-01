@@ -60,18 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 1, Central Standard Time</p>
 <p>
-There have been a lot of conflicts and changes around the world recently. In southeastern Ukraine, Russia was routed in an Epic Battle of Tanks, and Ukraine has sent reinforcements to the embattled city of Bakhmut. In the US, Mayor Lori Lightfoot lost her bid for re-election, while in Chicago Paul Vallas has risen from an also-ran to front-runner in the mayoral race. A revolutionary stroke treatment has been developed and will save millions of lives eventually. Additionally, an Israeli raid to capture Palestinian gunmen has caused one of the most violent encounters in the West Bank in decades, and an immigrant train crashed in Greece killing at least 36. Jurors have also visited a crime scene in South Carolina for a murder trial.</p>
+There have been a few news developments around the world lately. In Chicago, Mayor Lori Lightfoot lost her re-election bid after dissatisfaction with her handling of crime. Meanwhile, in Ukraine, Russia was routed in an epic battle of tanks which was the biggest tank battle of the war so far. In Finland, they are on the cusp of joining NATO but Sweden&#39;s entry is being held up by Turkey, so Helsinki are reluctantly entering alone to ensure their security. 
+In Israel, there has been unrest as Israeli police used water cannons and stun grenades on protesters in Tel Aviv while they raided a safe house which resulted in civilians being killed. Lastly, Nigeria&#39;s most powerful kingmaker Bola Tinubu has won his long-desired throne in the presidential elections there.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In an Epic Battle of Tanks, Russia Was Routed, Repeating Earlier Mistakes</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>A three-week fight in the town of Vuhledar in southern Ukraine produced what Ukrainian officials say was the biggest tank battle of the war so far, and a stinging setback for the Russians.  <a href="https://nyti.ms/3y3Mimm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine says it’s sending reinforcements to the embattled city of Bakhmut.</h3>
-<sub>By Matthew Mpoke Bigg and Thomas Gibbons-Neff</sub>
-<p>In recent weeks, Russian forces have been rushed to the front line, helping Moscow seize villages and towns around Bakhmut and surround the city on three sides.  <a href="https://nyti.ms/3ZpCJto"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chicago’s Choice Points to a Democratic Divide the G.O.P. Hopes to Exploit</h3>
+<sub>By Jonathan Weisman and Michael C. Bender</sub>
+<p>The two mayoral candidates, both Democrats, are on opposite sides of the debate over crime and policing. Republicans, with an eye toward 2024, are watching closely.  <a href="https://nyti.ms/3ENbZem"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -84,6 +79,18 @@ There have been a lot of conflicts and changes around the world recently. In sou
 <h3>How Paul Vallas Went From Electoral Also-Ran to Chicago Front-Runner</h3>
 <sub>By Mitch Smith</sub>
 <p>Mr. Vallas, a former public school executive with more conservative views on crime and education, will face Brandon Johnson, a progressive county commissioner, in an April runoff.  <a href="https://nyti.ms/3J3xMRI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In an Epic Battle of Tanks, Russia Was Routed, Repeating Earlier Mistakes</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>A three-week fight in the town of Vuhledar in southern Ukraine produced what Ukrainian officials say was the biggest tank battle of the war so far, and a stinging setback for the Russians.  <a href="https://nyti.ms/3y3Mimm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Finland on Cusp of Joining NATO, but Maybe Not With Sweden</h3>
+<sub>By Steven Erlanger and Andrew Higgins</sub>
+<p>The Nordic partners wanted to join together, but with Turkey holding up Sweden’s application, Helsinki will reluctantly enter alone to ensure its security.  <a href="https://nyti.ms/3y37msY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -116,22 +123,16 @@ There have been a lot of conflicts and changes around the world recently. In sou
 <p>A New York Times analysis of videos shows how an Israeli raid to capture Palestinian gunmen rippled into one of the most violent encounters in the West Bank in decades.  <a href="https://nyti.ms/3YbFHAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Many Undocumented Immigrants Are Departing After Decades in the U.S.</h3>
-<sub>By Miriam Jordan</sub>
-<p>Crowded scenes at the border do not necessarily translate into an increase in the undocumented population. Many other immigrants have been returning home.  <a href="https://nyti.ms/3KNyXWK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israeli Police Use Water Cannons and Stun Grenades on Protesters in Tel Aviv</h3>
+<sub>By Isabel Kershner</sub>
+<p>The confrontations escalated tensions between the political leadership and protesters opposed to the far-right government’s plan to curb the powers of the judiciary.  <a href="https://nyti.ms/3ZwOMW0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Train Crash in Greece Kills at Least 36</h3>
-<sub>By Niki Kitsantonis and Jason Horowitz</sub>
-<p>A train with 350 passengers aboard collided with a freight train. Two of the carriages “basically don’t exist anymore,” a regional governor said, and the transport minister announced his resignation.  <a href="https://nyti.ms/3ELrvaF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jurors in Murdaugh Murder Trial Visit S.C. Crime Scene</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>It is rare for jurors to visit crime scenes, and doing so can be a risk for both the prosecution and defense. Closing arguments were scheduled for later on Wednesday.  <a href="https://nyti.ms/3EO7QqC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Nigeria’s Most Powerful Kingmaker Wins His Long-Desired Throne</h3>
+<sub>By Ruth Maclean and Elian Peltier</sub>
+<p>Bola Tinubu, declared the winner on Wednesday in the presidential election, has boasted of making the careers of major politicians. Now he has to deliver for a divided country facing multiple emergencies.  <a href="https://nyti.ms/3mi95bp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
