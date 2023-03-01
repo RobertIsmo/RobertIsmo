@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, February 28, Central Standard Time</p>
+<p>It is Wednesday, March 1, Central Standard Time</p>
 <p>
-There are a lot of major political events happening around the world right now. In the US, there has been some skepticism about certain funds for Ukraine, and President Biden is pushing for more federal programs in response to Republican budget cuts. Over on the world stage, Secretary of State Blinken is visiting Central Asia to build support for Ukraine against Russia. Meanwhile in Israel, Prime Minister Netanyahu&#39;s tenure has been marked by political turmoil, with West Bank violence escalating. Elsewhere in Europe, the British King Charles is facing criticism for a recent photo-op with an EU leader. Climate issues are also being pulled into partisan politics as Republicans debate socially conscious investing. Finally, within Fox, executives and hosts are struggling to navigate their channels breaking away from Trump&#39;s false election fraud claims.</p>
+There is a lot going on in the world right now. In the US, lawmakers are asking questions about Ukraine funds and President Biden is trying to encourage government aid that will change corporate behavior. On the world stage, Secretary of State Blinken is visiting Central Asia and Prime Minister Netanyahu is facing turmoil in Israel. Also, conservative critics are battling against environmentally conscious investing. It certainly looks like an interesting time in politics.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Lawmakers Question Pentagon on Ukraine Funds, Signaling Fresh Concerns</h3>
