@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 1, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Ukraine, there was an epic battle between tanks, with Russian forces sustaining a major setback. In Chicago, Mayor Lori Lightfoot was defeated in her bid for re-election, and Paul Vallas is now the frontrunner in the April runoff. In Greece, a train crash has killed at least 36 people and shattered two of the carriages. In Nigeria, political &quot;Godfather&quot; Bola Tinubu sought the presidency and campaigned to address security and economic issues. Eli Lilly has announced plans to lower the monthly cost of insulin down to $35. An Israeli raid on a safe house has ended with deaths of civilians, and in South Carolina jurors have visited the crime scene for a murder trial. At the annual Conservative Political Action Conference this week, former President Donald Trump will attend but many possible 2024 rivals are skipping it. Finally, some young adults who returned home due to COVID-19 are trying to figure out when they can return to independent living.</p>
+There have been a lot of conflicts and changes around the world recently. In southeastern Ukraine, Russia was routed in an Epic Battle of Tanks, and Ukraine has sent reinforcements to the embattled city of Bakhmut. In the US, Mayor Lori Lightfoot lost her bid for re-election, while in Chicago Paul Vallas has risen from an also-ran to front-runner in the mayoral race. A revolutionary stroke treatment has been developed and will save millions of lives eventually. Additionally, an Israeli raid to capture Palestinian gunmen has caused one of the most violent encounters in the West Bank in decades, and an immigrant train crashed in Greece killing at least 36. Jurors have also visited a crime scene in South Carolina for a murder trial.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In an Epic Battle of Tanks, Russia Was Routed, Repeating Earlier Mistakes</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>A three-week fight in the town of Vuhledar in southern Ukraine produced what Ukrainian officials say was the biggest tank battle of the war so far, and a stinging setback for the Russians.  <a href="https://nyti.ms/3y3Mimm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine says it’s sending reinforcements to the embattled city of Bakhmut.</h3>
+<sub>By Matthew Mpoke Bigg and Thomas Gibbons-Neff</sub>
+<p>In recent weeks, Russian forces have been rushed to the front line, helping Moscow seize villages and towns around Bakhmut and surround the city on three sides.  <a href="https://nyti.ms/3ZpCJto"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,6 +92,30 @@ There is a lot going on in the world right now. In Ukraine, there was an epic ba
 <p>A procedure called EVT is creating radically better outcomes for patients, but only when it’s performed quickly enough — and that requires the transformation of an entire system of care.  <a href="https://nyti.ms/3KLDJ6X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>He Took His Shoes Off 20 Years Ago. He Hasn’t Put Them Back On.</h3>
+<sub>By Katherine Rosman</sub>
+<p>Joseph DeRuvo Jr. has lived a mostly barefooted life for nearly two decades. The experience has given him a thick skin.  <a href="https://nyti.ms/3J23NK1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Eli Lilly Says It Will Cut the Price of Insulin</h3>
+<sub>By Rebecca Robbins</sub>
+<p>The company said it would cap the monthly out-of-pocket cost of the diabetes products at $35.  <a href="https://nyti.ms/3KMMa2e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Some Republicans Want to Ban ‘Latinx.’ These Latino Democrats Agree.</h3>
+<sub>By Sarah Maslin Nir</sub>
+<p>In Connecticut, some Democratic lawmakers want to prohibit the use of the gender-neutral term in official government documents. The Republican governor of Arkansas does too.  <a href="https://nyti.ms/3kGUVzV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How an Israeli Raid on a Safe House Ended With Civilians Killed</h3>
+<sub>By Haley Willis, Christiaan Triebert, Hiba Yazbek and Patrick Kingsley</sub>
+<p>A New York Times analysis of videos shows how an Israeli raid to capture Palestinian gunmen rippled into one of the most violent encounters in the West Bank in decades.  <a href="https://nyti.ms/3YbFHAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Many Undocumented Immigrants Are Departing After Decades in the U.S.</h3>
 <sub>By Miriam Jordan</sub>
@@ -98,40 +128,10 @@ There is a lot going on in the world right now. In Ukraine, there was an epic ba
 <p>A train with 350 passengers aboard collided with a freight train. Two of the carriages “basically don’t exist anymore,” a regional governor said, and the transport minister announced his resignation.  <a href="https://nyti.ms/3ELrvaF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Eli Lilly Says It Will Cut the Price of Insulin</h3>
-<sub>By Rebecca Robbins and Christine Hauser</sub>
-<p>The company said it would cap the monthly out-of-pocket cost of the diabetes products at $35.  <a href="https://nyti.ms/3KMMa2e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How an Israeli Raid on a Safe House Ended With Civilians Killed</h3>
-<sub>By Haley Willis, Christiaan Triebert, Hiba Yazbek and Patrick Kingsley</sub>
-<p>A New York Times analysis of videos shows how an Israeli raid to capture Palestinian gunmen rippled into one of the most violent encounters in the West Bank in decades.  <a href="https://nyti.ms/3YbFHAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Bola Tinubu, a Political ‘Godfather’ in Nigeria, Sought the Presidency for Years</h3>
-<sub>By Ruth Maclean</sub>
-<p>Mr. Tinubu, a former governor of Lagos and the ruling party candidate, campaigned using the slogan “It’s my turn.” He promised to address widespread insecurity and economic woes, but he faced concerns about his fitness for office.  <a href="https://nyti.ms/3ZbxQo0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jurors in Murdaugh Murder Trial Visit S.C. Crime Scene</h3>
 <sub>By Nicholas Bogel-Burroughs</sub>
 <p>It is rare for jurors to visit crime scenes, and doing so can be a risk for both the prosecution and defense. Closing arguments were scheduled for later on Wednesday.  <a href="https://nyti.ms/3EO7QqC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Republicans’ Rising Stars, CPAC Is Losing Its Pull</h3>
-<sub>By Lisa Lerer and Maggie Haberman</sub>
-<p>At the annual conference this week, conservative celebrities like Mike Lindell and Kari Lake will attend, as will Donald Trump, but many possible 2024 rivals are skipping it.  <a href="https://nyti.ms/3IYLWnc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Living at Home With Mom and Dad While Figuring Out a Financial Exit Plan</h3>
-<sub>By Isabella Simonetti</sub>
-<p>Some young adults who returned home to save money and figure out their careers are calculating what it will take for them to leave again.  <a href="https://nyti.ms/3kzBqJB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
