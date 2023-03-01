@@ -60,19 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 1, Central Standard Time</p>
 <p>
-It&#39;s been quite a few events happening in the world lately! In Ukraine, there was an epic battle of tanks which resulted in a stinging setback for Russia. Here in the US, lawmakers are questioning the Pentagon&#39;s use of funds for Ukraine, and in Chicago Mayor Lori Lightfoot lost her bid for re-election. Meanwhile, in Nigeria Bola Tinubu ran for president and promised to tackle economic woes. On the immigration front, many undocumented immigrants have been returning home, and unfortunately there was a train crash in Greece that killed at least 36 people. An Israeli raid on a safehouse also ended with civilian casualties due to the ripple effect. Here in the US, Biden is betting on government aid to change corporate behavior while trying to highlight Republican proposals when it comes to budget cuts. There&#39;s a revolutionary stroke treatment that will save millions of lives, but it needs to be done quickly. Lastly, at this year&#39;s CPAC conference many of the potential 2024 rivals decided to skip it.</p>
+There is a lot going on in the world right now. In Ukraine, there was an epic battle between tanks, with Russian forces sustaining a major setback. In Chicago, Mayor Lori Lightfoot was defeated in her bid for re-election, and Paul Vallas is now the frontrunner in the April runoff. In Greece, a train crash has killed at least 36 people and shattered two of the carriages. In Nigeria, political &quot;Godfather&quot; Bola Tinubu sought the presidency and campaigned to address security and economic issues. Eli Lilly has announced plans to lower the monthly cost of insulin down to $35. An Israeli raid on a safe house has ended with deaths of civilians, and in South Carolina jurors have visited the crime scene for a murder trial. At the annual Conservative Political Action Conference this week, former President Donald Trump will attend but many possible 2024 rivals are skipping it. Finally, some young adults who returned home due to COVID-19 are trying to figure out when they can return to independent living.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In an Epic Battle of Tanks, Russia Was Routed, Repeating Earlier Mistakes</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>A three-week fight in the town of Vuhledar in southern Ukraine produced what Ukrainian officials say was the biggest tank battle of the war so far, and a stinging setback for the Russians.  <a href="https://nyti.ms/3y3Mimm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lawmakers Question Pentagon on Ukraine Funds, Signaling Fresh Concerns</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Some Republicans and Democrats quizzed military officials about the money that has been sent to Kyiv so far and what is still to come, threatening a consensus in favor of aid.  <a href="https://nyti.ms/3KMNDFA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Mayor Lori Lightfoot of Chicago Loses Her Bid for Re-election</h3>
@@ -86,11 +80,11 @@ It&#39;s been quite a few events happening in the world lately! In Ukraine, ther
 <p>Mr. Vallas, a former public school executive with more conservative views on crime and education, will face Brandon Johnson, a progressive county commissioner, in an April runoff.  <a href="https://nyti.ms/3J3xMRI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Bola Tinubu, a Political ‘Godfather’ in Nigeria, Sought the Presidency for Years</h3>
-<sub>By Ruth Maclean</sub>
-<p>Mr. Tinubu, a former governor of Lagos and the ruling party candidate, campaigned using the slogan “It’s my turn.” He promised to address widespread insecurity and economic woes, but he faced concerns about his fitness for office.  <a href="https://nyti.ms/3ZbxQo0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>This Revolutionary Stroke Treatment Will Save Millions of Lives. Eventually.</h3>
+<sub>By Eva Holland</sub>
+<p>A procedure called EVT is creating radically better outcomes for patients, but only when it’s performed quickly enough — and that requires the transformation of an entire system of care.  <a href="https://nyti.ms/3KLDJ6X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Many Undocumented Immigrants Are Departing After Decades in the U.S.</h3>
@@ -100,8 +94,14 @@ It&#39;s been quite a few events happening in the world lately! In Ukraine, ther
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Train Crash in Greece Kills at Least 36</h3>
-<sub>By Niki Kitsantonis</sub>
-<p>A train with 350 passengers aboard collided with a freight train. Two of the carriages “basically don’t exist anymore,” a regional governor said.  <a href="https://nyti.ms/3ELrvaF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Niki Kitsantonis and Jason Horowitz</sub>
+<p>A train with 350 passengers aboard collided with a freight train. Two of the carriages “basically don’t exist anymore,” a regional governor said, and the transport minister announced his resignation.  <a href="https://nyti.ms/3ELrvaF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Eli Lilly Says It Will Cut the Price of Insulin</h3>
+<sub>By Rebecca Robbins and Christine Hauser</sub>
+<p>The company said it would cap the monthly out-of-pocket cost of the diabetes products at $35.  <a href="https://nyti.ms/3KMMa2e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,22 +110,16 @@ It&#39;s been quite a few events happening in the world lately! In Ukraine, ther
 <p>A New York Times analysis of videos shows how an Israeli raid to capture Palestinian gunmen rippled into one of the most violent encounters in the West Bank in decades.  <a href="https://nyti.ms/3YbFHAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Biden Is Betting on Government Aid to Change Corporate Behavior</h3>
-<sub>By Ana Swanson and Jim Tankersley</sub>
-<p>The administration says the conditions it has attached to $40 billion in new subsidies will help U.S. semiconductor makers compete globally. Some economists disagree.  <a href="https://nyti.ms/3ZrU5G3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Bola Tinubu, a Political ‘Godfather’ in Nigeria, Sought the Presidency for Years</h3>
+<sub>By Ruth Maclean</sub>
+<p>Mr. Tinubu, a former governor of Lagos and the ruling party candidate, campaigned using the slogan “It’s my turn.” He promised to address widespread insecurity and economic woes, but he faced concerns about his fitness for office.  <a href="https://nyti.ms/3ZbxQo0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Republicans Struggle to Outline Budget Cuts, Biden Steps Up</h3>
-<sub>By Katie Rogers</sub>
-<p>The president has tried to highlight years of Republican proposals that call for scaling back popular — and increasingly expensive — federal programs.  <a href="https://nyti.ms/41wK3W1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>This Revolutionary Stroke Treatment Will Save Millions of Lives. Eventually.</h3>
-<sub>By Eva Holland</sub>
-<p>A procedure called EVT is creating radically better outcomes for patients, but only when it’s performed quickly enough — and that requires the transformation of an entire system of care.  <a href="https://nyti.ms/3KLDJ6X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Jurors in Murdaugh Murder Trial Visit S.C. Crime Scene</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>It is rare for jurors to visit crime scenes, and doing so can be a risk for both the prosecution and defense. Closing arguments were scheduled for later on Wednesday.  <a href="https://nyti.ms/3EO7QqC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -133,6 +127,12 @@ It&#39;s been quite a few events happening in the world lately! In Ukraine, ther
 <sub>By Lisa Lerer and Maggie Haberman</sub>
 <p>At the annual conference this week, conservative celebrities like Mike Lindell and Kari Lake will attend, as will Donald Trump, but many possible 2024 rivals are skipping it.  <a href="https://nyti.ms/3IYLWnc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Living at Home With Mom and Dad While Figuring Out a Financial Exit Plan</h3>
+<sub>By Isabella Simonetti</sub>
+<p>Some young adults who returned home to save money and figure out their careers are calculating what it will take for them to leave again.  <a href="https://nyti.ms/3kzBqJB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
