@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 28, Central Standard Time</p>
 <p>
-There has been a lot happening in the world recently! President Biden is introducing a student loan forgiveness plan that would mean millions of people&#39;s student loan balances could be reduced by up to $20,000. In Europe, militaries have been struggling to find tanks for Ukraine to use against Russian forces. Meanwhile, China welcomed the Belarusian leader and is accused of sending arms and ammunition to Russia for use in its war on Ukraine. Over in Britain, the king had a tea with an E.U. leader that has many people concerned about the implications of mixing politics and monarchy. Elon Musk&#39;s repeated job cuts have led to new fears that Twitter won&#39;t get the help it needs to triage outages. Here in the US, a prominent lawyer went from working with Trump&#39;s team to representing Hunter Biden as he faces scrutiny over taxes. And here in Chicago, the mayoral election is being closely watched since cities all around America face similar problems like crime and problems related to the pandemic. On top of all that, 23 dead whales have been found along the East Coast since December!</p>
+Right now, politicians in the US are raising a lot of questions about how the Pentagon is using funds for Ukraine. The Biden administration is also trying to strengthen US ties with Central Asian countries and prevent Russia from gaining more influence in the region. In France, a writer and filmmaker has released a movie warning of the high price the West could face if it fails to defeat Russia in Ukraine. Biden has proposed attaching conditions to $40 billion in subsidies to get businesses to behave differently, but not everyone agrees. The Supreme Court has expressed skepticism over Biden&#39;s student loan forgiveness plan due to concerns it may be outside of congressional authority. In Israel, Netanyahu is facing increasing unrest and his coalition is dealing with splits. King Charles&#39; meeting with an E.U. leader raised controversy as well, while Eugene Levy was less than enthusiastic when an offer came to host a travel show. Elsewhere, conservatives in Congress have attempted to target environmentally conscious investments, and officials at Fox News were unable to square the circle when Trump advanced ungrounded claims about election fraud. Lastly, the mayoral election in Chicago on Tuesday could have implications for other US cities dealing with similar issues linked to crime and leftover pandemic troubles.</p>
 <ol>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>What You Need to Know About Biden’s Student Loan Forgiveness Plan</h3>
-<sub>By Ron Lieber and Tara Siegel Bernard</sub>
-<p>President Biden’s move means the student loan balances of millions of people could fall by as much as $20,000. This F.A.Q. explains how it will work.  <a href="https://nyti.ms/3AK88xl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, August 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lawmakers Question Pentagon on Ukraine Funds, Signaling Fresh Doubts</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Some Republicans and Democrats quizzed military officials about the money that has been sent to Kyiv so far and what is still to come, threatening a consensus in favor of aid.  <a href="https://nyti.ms/3KMNDFA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Scrounging for Tanks for Ukraine, Europe’s Armies Come Up Short</h3>
-<sub>By Erika Solomon, Steven Erlanger and Christopher F. Schuetze</sub>
-<p>The struggle to deliver on promises to provide Leopard 2 tanks for use against Russian forces has exposed just how unprepared European militaries are.  <a href="https://nyti.ms/3Zw01Ox"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Blinken Finds Receptive Leaders in Central Asia, Where Russia Seeks Aid</h3>
+<sub>By Edward Wong and Andrew Higgins</sub>
+<p>The U.S. secretary of state’s diplomatic mission is part of a broader Biden administration effort to strengthen support for Ukraine, or at least push neutral nations to refrain from aiding Russia.  <a href="https://nyti.ms/3Z7WJ3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -80,10 +80,28 @@ There has been a lot happening in the world recently! President Biden is introdu
 <p>In a new film, “Slava Ukraini,” the writer and filmmaker Bernard-Henri Lévy warns of a heavy price if the West fails to defeat Putin in Ukraine.  <a href="https://nyti.ms/3J2SJfL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Biden Is Betting on Government Aid to Change Corporate Behavior</h3>
+<sub>By Ana Swanson and Jim Tankersley</sub>
+<p>The administration says the conditions it has attached to $40 billion in new subsidies will help U.S. semiconductor makers compete globally. Some economists disagree.  <a href="https://nyti.ms/3ZrU5G3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Republicans Struggle to Outline Budget Cuts, Biden Steps Up</h3>
+<sub>By Katie Rogers</sub>
+<p>The president has tried to highlight years of Republican proposals that call for scaling back popular — and increasingly expensive — federal programs.  <a href="https://nyti.ms/41wK3W1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Appears Skeptical of Biden’s Student Loan Forgiveness Plan</h3>
+<sub>By Adam Liptak</sub>
+<p>The administration faced a conservative court that has insisted that government initiatives with major political and economic consequences be clearly authorized by Congress.  <a href="https://nyti.ms/3IH4ney"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Welcomes Belarusian Leader Amid Concerns About Ukraine</h3>
-<sub>By David Pierson</sub>
-<p>President Aleksandr G. Lukashenko’s visit comes shortly after the United States accused Beijing of preparing to give arms and ammunition to Russia to help its war on Ukraine.  <a href="https://nyti.ms/3IZSqlG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Amid Israeli Turmoil, Netanyahu’s Grip Loosens, at Least for Now</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Prime Minister Benjamin Netanyahu promised stability, but two months into his new tenure, Israeli divisions have deepened, West Bank violence has escalated and splits have emerged in his coalition.  <a href="https://nyti.ms/3IGSO78"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,40 +116,22 @@ There has been a lot happening in the world recently! President Biden is introdu
 <p>The comic actor balked when he was offered a travel show. But hosting “The Reluctant Traveler” showed him the (mild) joys of leaving his comfort zone.  <a href="https://nyti.ms/3xYFLJG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Sometimes Things Break’: Twitter Outages Are on the Rise</h3>
-<sub>By Ryan Mac, Mike Isaac and Kate Conger</sub>
-<p>Elon Musk’s repeated job cuts are stoking new fears that there aren’t enough people to triage Twitter’s problems.  <a href="https://nyti.ms/3IF173l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Environmentally Conscious Investing Became a Target of Conservatives</h3>
+<sub>By David Gelles</sub>
+<p>The business world has been pulled into partisan politics, with Republicans bringing their battle against socially conscious investing to Congress.  <a href="https://nyti.ms/3Zrizzo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abbe Lowell Built Ties to Trump World. Now He’s One of Hunter Biden’s Lawyers.</h3>
-<sub>By Kenneth P. Vogel, Maggie Haberman and Michael S. Schmidt</sub>
-<p>The shift by Mr. Lowell, one of Washington’s best-known scandal lawyers, highlights the blurry lines between self-promotion, access to power and the right to legal representation.  <a href="https://nyti.ms/3ZaoV6j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>‘Nobody Wants to Be the World’s Villain’</h3>
-<sub>By Jamie Thompson</sub>
-<p>Inside the Louisville Police Department, where officers are reckoning with what it means to be a cop in a city that doesn’t trust them.  <a href="https://nyti.ms/3ICJukR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Lightfoot Tries for Second Term, Jabs Go From Friendly to Harsh</h3>
-<sub>By Julie Bosman</sub>
-<p>When the pandemic took hold, Chicago was awash in affectionate memes featuring Lori Lightfoot, the city’s stern, no-nonsense new mayor. Since then, the joke has worn off.  <a href="https://nyti.ms/3IVOeDv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fox Leaders Wanted to Break From Trump but Struggled to Make It Happen</h3>
+<sub>By Jeremy W. Peters</sub>
+<p>Executives and top hosts found themselves in a bind after Donald Trump began pushing unfounded claims about election fraud, court filings show.  <a href="https://nyti.ms/3xZ7b1J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Why Chicago’s Mayoral Election Matters, Even if You Don’t Live in Chicago</h3>
 <sub>By Julie Bosman</sub>
 <p>America’s cities increasingly face similar problems, particularly worries about crime and hangovers from the pandemic. That’s why the mayor’s election in Chicago on Tuesday is about more than Chicago.  <a href="https://nyti.ms/3ZwYIih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why 23 Dead Whales Have Washed Up on the East Coast Since December</h3>
-<sub>By Tracey Tully and Winston Choi-Schagrin</sub>
-<p>Another humpback whale was spotted dead late Monday, floating near a shipping channel between New York and New Jersey, the 13th whale found in the two states in three months.  <a href="https://nyti.ms/3EKBrkK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
