@@ -60,24 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 1, Central Standard Time</p>
 <p>
-There is turbulence in several countries around the world. In the U.S., lawmakers have questioned the Pentagon over Ukraine funds, signaling fresh concerns. Secretary of State Blinken is visiting Central Asia where Russia is seeking aid. Meanwhile in Greece, a train crash killed at least 36 people while in Israel, Prime Minister Netanyahu&#39;s grip is loosening amid turmoil. Across the Atlantic, King Charles of England was criticized for meeting with an EU leader that was seen as an improper foray into British politics. In terms of business, Biden is betting on government aid to change corporate behavior and Fox leaders wanted to break from Trump but struggled to make it happen. Lastly, environmentally conscious investing has become a target by conservative groups.</p>
+It&#39;s been quite a few events happening in the world lately! In Ukraine, there was an epic battle of tanks which resulted in a stinging setback for Russia. Here in the US, lawmakers are questioning the Pentagon&#39;s use of funds for Ukraine, and in Chicago Mayor Lori Lightfoot lost her bid for re-election. Meanwhile, in Nigeria Bola Tinubu ran for president and promised to tackle economic woes. On the immigration front, many undocumented immigrants have been returning home, and unfortunately there was a train crash in Greece that killed at least 36 people. An Israeli raid on a safehouse also ended with civilian casualties due to the ripple effect. Here in the US, Biden is betting on government aid to change corporate behavior while trying to highlight Republican proposals when it comes to budget cuts. There&#39;s a revolutionary stroke treatment that will save millions of lives, but it needs to be done quickly. Lastly, at this year&#39;s CPAC conference many of the potential 2024 rivals decided to skip it.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In an Epic Battle of Tanks, Russia Was Routed, Repeating Earlier Mistakes</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>A three-week fight in the town of Vuhledar in southern Ukraine produced what Ukrainian officials say was the biggest tank battle of the war so far, and a stinging setback for the Russians.  <a href="https://nyti.ms/3y3Mimm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Lawmakers Question Pentagon on Ukraine Funds, Signaling Fresh Concerns</h3>
 <sub>By Karoun Demirjian</sub>
 <p>Some Republicans and Democrats quizzed military officials about the money that has been sent to Kyiv so far and what is still to come, threatening a consensus in favor of aid.  <a href="https://nyti.ms/3KMNDFA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken Finds Receptive Leaders in Central Asia, Where Russia Seeks Aid</h3>
-<sub>By Edward Wong and Andrew Higgins</sub>
-<p>The U.S. secretary of state’s diplomatic mission is part of a broader Biden administration effort to strengthen support for Ukraine, or at least push neutral nations to refrain from aiding Russia.  <a href="https://nyti.ms/3Z7WJ3T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>A Polarizing French Philosopher Chooses War Zones Over Salons</h3>
-<sub>By Dan Bilefsky</sub>
-<p>In a new film, “Slava Ukraini,” the writer and filmmaker Bernard-Henri Lévy warns of a heavy price if the West fails to defeat Putin in Ukraine.  <a href="https://nyti.ms/3J2SJfL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,11 +80,35 @@ There is turbulence in several countries around the world. In the U.S., lawmaker
 <p>The result was a resounding defeat that reflected widespread dissatisfaction from voters over her handling of crime. Challengers to her political left and right advanced to a runoff.  <a href="https://nyti.ms/3IZttXB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Paul Vallas Went From Electoral Also-Ran to Chicago Front-Runner</h3>
+<sub>By Mitch Smith</sub>
+<p>Mr. Vallas, a former public school executive with more conservative views on crime and education, will face Brandon Johnson, a progressive county commissioner, in an April runoff.  <a href="https://nyti.ms/3J3xMRI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Bola Tinubu, a Political ‘Godfather’ in Nigeria, Sought the Presidency for Years</h3>
+<sub>By Ruth Maclean</sub>
+<p>Mr. Tinubu, a former governor of Lagos and the ruling party candidate, campaigned using the slogan “It’s my turn.” He promised to address widespread insecurity and economic woes, but he faced concerns about his fitness for office.  <a href="https://nyti.ms/3ZbxQo0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Many Undocumented Immigrants Are Departing After Decades in the U.S.</h3>
+<sub>By Miriam Jordan</sub>
+<p>Crowded scenes at the border do not necessarily translate into an increase in the undocumented population. Many other immigrants have been returning home.  <a href="https://nyti.ms/3KNyXWK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Train Crash in Greece Kills at Least 36</h3>
 <sub>By Niki Kitsantonis</sub>
 <p>A train with 350 passengers aboard collided with a freight train. Two of the carriages “basically don’t exist anymore,” a regional governor said.  <a href="https://nyti.ms/3ELrvaF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How an Israeli Raid on a Safe House Ended With Civilians Killed</h3>
+<sub>By Haley Willis, Christiaan Triebert, Hiba Yazbek and Patrick Kingsley</sub>
+<p>A New York Times analysis of videos shows how an Israeli raid to capture Palestinian gunmen rippled into one of the most violent encounters in the West Bank in decades.  <a href="https://nyti.ms/3YbFHAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Biden Is Betting on Government Aid to Change Corporate Behavior</h3>
@@ -104,34 +122,16 @@ There is turbulence in several countries around the world. In the U.S., lawmaker
 <p>The president has tried to highlight years of Republican proposals that call for scaling back popular — and increasingly expensive — federal programs.  <a href="https://nyti.ms/41wK3W1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid Israeli Turmoil, Netanyahu’s Grip Loosens, at Least for Now</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Prime Minister Benjamin Netanyahu promised stability, but two months into his new tenure, Israeli divisions have deepened, West Bank violence has escalated and splits have emerged in his coalition.  <a href="https://nyti.ms/3IGSO78"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>This Revolutionary Stroke Treatment Will Save Millions of Lives. Eventually.</h3>
+<sub>By Eva Holland</sub>
+<p>A procedure called EVT is creating radically better outcomes for patients, but only when it’s performed quickly enough — and that requires the transformation of an entire system of care.  <a href="https://nyti.ms/3KLDJ6X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Tea and a Photo-Op Put King Charles in Cross Hairs</h3>
-<sub>By Mark Landler</sub>
-<p>King Charles’s meeting with an E.U. leader on the day a Northern Ireland trade deal was announced drew angry recriminations from critics who viewed it as an improper foray into British politics.  <a href="https://nyti.ms/3Y3nNQN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Eugene Levy Never Wanted to See the World</h3>
-<sub>By Anna Peele</sub>
-<p>The comic actor balked when he was offered a travel show. But hosting “The Reluctant Traveler” showed him the (mild) joys of leaving his comfort zone.  <a href="https://nyti.ms/3xYFLJG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Environmentally Conscious Investing Became a Target of Conservatives</h3>
-<sub>By David Gelles</sub>
-<p>The business world has been pulled into partisan politics, with Republicans bringing their battle against socially conscious investing to Congress.  <a href="https://nyti.ms/3Zrizzo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox Leaders Wanted to Break From Trump but Struggled to Make It Happen</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>Executives and top hosts found themselves in a bind after Donald Trump began pushing unfounded claims about election fraud, court filings show.  <a href="https://nyti.ms/3xZ7b1J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Republicans’ Rising Stars, CPAC Is Losing Its Pull</h3>
+<sub>By Lisa Lerer and Maggie Haberman</sub>
+<p>At the annual conference this week, conservative celebrities like Mike Lindell and Kari Lake will attend, as will Donald Trump, but many possible 2024 rivals are skipping it.  <a href="https://nyti.ms/3IYLWnc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
