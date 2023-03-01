@@ -60,10 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, February 28, Central Standard Time</p>
 <p>
-Right now, politicians in the US are raising a lot of questions about how the Pentagon is using funds for Ukraine. The Biden administration is also trying to strengthen US ties with Central Asian countries and prevent Russia from gaining more influence in the region. In France, a writer and filmmaker has released a movie warning of the high price the West could face if it fails to defeat Russia in Ukraine. Biden has proposed attaching conditions to $40 billion in subsidies to get businesses to behave differently, but not everyone agrees. The Supreme Court has expressed skepticism over Biden&#39;s student loan forgiveness plan due to concerns it may be outside of congressional authority. In Israel, Netanyahu is facing increasing unrest and his coalition is dealing with splits. King Charles&#39; meeting with an E.U. leader raised controversy as well, while Eugene Levy was less than enthusiastic when an offer came to host a travel show. Elsewhere, conservatives in Congress have attempted to target environmentally conscious investments, and officials at Fox News were unable to square the circle when Trump advanced ungrounded claims about election fraud. Lastly, the mayoral election in Chicago on Tuesday could have implications for other US cities dealing with similar issues linked to crime and leftover pandemic troubles.</p>
+There are a lot of major political events happening around the world right now. In the US, there has been some skepticism about certain funds for Ukraine, and President Biden is pushing for more federal programs in response to Republican budget cuts. Over on the world stage, Secretary of State Blinken is visiting Central Asia to build support for Ukraine against Russia. Meanwhile in Israel, Prime Minister Netanyahu&#39;s tenure has been marked by political turmoil, with West Bank violence escalating. Elsewhere in Europe, the British King Charles is facing criticism for a recent photo-op with an EU leader. Climate issues are also being pulled into partisan politics as Republicans debate socially conscious investing. Finally, within Fox, executives and hosts are struggling to navigate their channels breaking away from Trump&#39;s false election fraud claims.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lawmakers Question Pentagon on Ukraine Funds, Signaling Fresh Doubts</h3>
+<h3>Lawmakers Question Pentagon on Ukraine Funds, Signaling Fresh Concerns</h3>
 <sub>By Karoun Demirjian</sub>
 <p>Some Republicans and Democrats quizzed military officials about the money that has been sent to Kyiv so far and what is still to come, threatening a consensus in favor of aid.  <a href="https://nyti.ms/3KMNDFA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
@@ -78,6 +78,12 @@ Right now, politicians in the US are raising a lot of questions about how the Pe
 <h3>A Polarizing French Philosopher Chooses War Zones Over Salons</h3>
 <sub>By Dan Bilefsky</sub>
 <p>In a new film, “Slava Ukraini,” the writer and filmmaker Bernard-Henri Lévy warns of a heavy price if the West fails to defeat Putin in Ukraine.  <a href="https://nyti.ms/3J2SJfL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Mayor Lori Lightfoot of Chicago Loses Her Bid for Re-election</h3>
+<sub>By Julie Bosman and Mitch Smith</sub>
+<p>The result was a resounding defeat that reflected widespread dissatisfaction from voters over her handling of crime. Challengers to her political left and right advanced to a runoff.  <a href="https://nyti.ms/3IZttXB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -105,7 +111,7 @@ Right now, politicians in the US are raising a lot of questions about how the Pe
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Tea and a Photo-Op Put King Charles in Crosshairs</h3>
+<h3>Tea and a Photo-Op Put King Charles in Cross Hairs</h3>
 <sub>By Mark Landler</sub>
 <p>King Charles’s meeting with an E.U. leader on the day a Northern Ireland trade deal was announced drew angry recriminations from critics who viewed it as an improper foray into British politics.  <a href="https://nyti.ms/3Y3nNQN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
@@ -126,12 +132,6 @@ Right now, politicians in the US are raising a lot of questions about how the Pe
 <h3>Fox Leaders Wanted to Break From Trump but Struggled to Make It Happen</h3>
 <sub>By Jeremy W. Peters</sub>
 <p>Executives and top hosts found themselves in a bind after Donald Trump began pushing unfounded claims about election fraud, court filings show.  <a href="https://nyti.ms/3xZ7b1J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Chicago’s Mayoral Election Matters, Even if You Don’t Live in Chicago</h3>
-<sub>By Julie Bosman</sub>
-<p>America’s cities increasingly face similar problems, particularly worries about crime and hangovers from the pandemic. That’s why the mayor’s election in Chicago on Tuesday is about more than Chicago.  <a href="https://nyti.ms/3ZwYIih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
