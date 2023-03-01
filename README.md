@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 1, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, lawmakers are asking questions about Ukraine funds and President Biden is trying to encourage government aid that will change corporate behavior. On the world stage, Secretary of State Blinken is visiting Central Asia and Prime Minister Netanyahu is facing turmoil in Israel. Also, conservative critics are battling against environmentally conscious investing. It certainly looks like an interesting time in politics.</p>
+There is turbulence in several countries around the world. In the U.S., lawmakers have questioned the Pentagon over Ukraine funds, signaling fresh concerns. Secretary of State Blinken is visiting Central Asia where Russia is seeking aid. Meanwhile in Greece, a train crash killed at least 36 people while in Israel, Prime Minister Netanyahu&#39;s grip is loosening amid turmoil. Across the Atlantic, King Charles of England was criticized for meeting with an EU leader that was seen as an improper foray into British politics. In terms of business, Biden is betting on government aid to change corporate behavior and Fox leaders wanted to break from Trump but struggled to make it happen. Lastly, environmentally conscious investing has become a target by conservative groups.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Lawmakers Question Pentagon on Ukraine Funds, Signaling Fresh Concerns</h3>
@@ -86,6 +86,12 @@ There is a lot going on in the world right now. In the US, lawmakers are asking 
 <p>The result was a resounding defeat that reflected widespread dissatisfaction from voters over her handling of crime. Challengers to her political left and right advanced to a runoff.  <a href="https://nyti.ms/3IZttXB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Train Crash in Greece Kills at Least 36</h3>
+<sub>By Niki Kitsantonis</sub>
+<p>A train with 350 passengers aboard collided with a freight train. Two of the carriages “basically don’t exist anymore,” a regional governor said.  <a href="https://nyti.ms/3ELrvaF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Biden Is Betting on Government Aid to Change Corporate Behavior</h3>
 <sub>By Ana Swanson and Jim Tankersley</sub>
@@ -96,12 +102,6 @@ There is a lot going on in the world right now. In the US, lawmakers are asking 
 <h3>As Republicans Struggle to Outline Budget Cuts, Biden Steps Up</h3>
 <sub>By Katie Rogers</sub>
 <p>The president has tried to highlight years of Republican proposals that call for scaling back popular — and increasingly expensive — federal programs.  <a href="https://nyti.ms/41wK3W1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Appears Skeptical of Biden’s Student Loan Forgiveness Plan</h3>
-<sub>By Adam Liptak</sub>
-<p>The administration faced a conservative court that has insisted that government initiatives with major political and economic consequences be clearly authorized by Congress.  <a href="https://nyti.ms/3IH4ney"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
