@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, March 1, Central Standard Time</p>
+<p>It is Thursday, March 2, Central Standard Time</p>
 <p>
-There are a lot of political a shakeups going on around the world. In the US, Joe Biden is facing challenges from those who think that providing aid to Ukraine is too costly. Meanwhile in Finland, they are on the cusp of joining NATO, but possibly without Sweden due to Turkish hold up on their application. There’s also a Supreme Court case challenging President Biden’s authority and Congress setting up a veto fight. In Chicago, two Democrats running for mayor were having debates over crime and policing which Republicans are keeping an eye towards 2024. The police superintendent retired after the Mayor&#39;s defeat and in India digital payments, even for chai, are impressive and growing. Finally, in Northern Ireland Unionists are trying to figure out if they should accept a new trade deal which could help facilitate trade post-Brexit but could also destroy government efforts to restart.</p>
+There has been a lot going on in the world lately. In the US, President Biden is facing softening public support for arming Ukraine, making it difficult to provide war efforts with aid. Meanwhile, Finland is on the cusp of joining NATO without its partner Sweden, due to Turkey holding up Sweden’s application. On the legal front, there’s a Supreme Court case weighing President Biden&#39;s authority while Congress is trying to block an investment rule that would face a White House veto. Closer to home, the Chicago mayoral election explored Democratic divides that Republicans hope to exploit going into 2024. Chicago&#39;s superintendent has also stepped down from his post after the mayor&#39;s defeat. Internationally, treatments for stroke are saving lives but access and patient care systems remain challenged. In addition, opioid distributors have been cleared of liability for ravaging addiction families in Georgia, illustrating difficulties those affected face seeking compensation from pharmaceutical companies. India has also made use of digital payments, even for the smallest exchange like 10-cent chais and this has remade commerce and pulled many into the formal economy. Lastly, over 1,000 Turkish residents displaced by earthquakes are staying on an luxury boat in the Mediterranean Sea as a floating shelter--a strange dream come true.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Challenged by Softening Public Support for Arming Ukraine</h3>
@@ -110,12 +110,6 @@ There are a lot of political a shakeups going on around the world. In the US, Jo
 <p>A procedure called EVT is creating radically better outcomes for patients, but only when it’s performed quickly enough — and that requires the transformation of an entire system of care.  <a href="https://nyti.ms/3KLDJ6X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>He Took His Shoes Off 20 Years Ago. He Hasn’t Put Them Back On.</h3>
-<sub>By Katherine Rosman</sub>
-<p>Joseph DeRuvo Jr. has lived a mostly barefooted life for nearly two decades. The experience has given him a thick skin.  <a href="https://nyti.ms/3J23NK1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Opioid Distributors Cleared of Liability to Georgia Families Ravaged by Addiction</h3>
 <sub>By Jan Hoffman</sub>
@@ -128,10 +122,16 @@ There are a lot of political a shakeups going on around the world. In the US, Jo
 <p>India’s homegrown instant payment system has remade commerce and pulled millions into the formal economy.  <a href="https://nyti.ms/3ZwKpdh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Don’t Let Him Fool You,’ Prosecutor Tells Jurors in Murdaugh Trial</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>In closing arguments, the lead prosecutor said Alex Murdaugh killed his wife and son to hide financial crimes. The once-influential lawyer has insisted on his innocence.  <a href="https://nyti.ms/3Zqx1HI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Unionists in Northern Ireland Face Dilemma Over Accepting New Trade Deal</h3>
-<sub>By Mark Landler</sub>
-<p>The Democratic Unionist Party has no legal power to hold up the agreement, which would simplify post-Brexit trade rules. But a rejection could sabotage efforts to restart Northern Ireland’s government.  <a href="https://nyti.ms/3SJktcy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘A Strange Dream’: A Cruise Ship Is a Floating Shelter for Displaced Turks</h3>
+<sub>By Cora Engelbrecht, Nimet Kirac and Sergey Ponomarev</sub>
+<p>More than 1,000 Turkish residents displaced by the recent earthquakes are staying on a luxury boat in the Mediterranean Sea.  <a href="https://nyti.ms/41Cn9MU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
