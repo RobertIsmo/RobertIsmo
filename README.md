@@ -60,7 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 2, Central Standard Time</p>
 <p>
-There has been a lot happening around the world lately - in Russia, companies have been unable to or have chosen not to leave Russia since its invasion of Ukraine last year. In Ukraine, there is debate over a former mayor&#39;s decision to stay in his post despite Russian occupation. In the US, President Biden&#39;s plan to arm Ukraine is facing opposition due to the increasing taxpayer fatigue and Congress is also attempting to block an investment rule he plans on implementing. There is also a legal case in the US that could redefine presidental power and Biden has recently announced a new cybersecurity strategy for the nation, placing the responsibility in tech firms&#39; hands. Additionally, there is a lawsuit in the US challenging FDA approval of medication abortions and its potential far-reaching consequences. Lastly, Canadians are fuming as more migrants cross their border into Canada with no authorization.</p>
+Currently, the political situation around the world is tense. In Russia, many companies have been left unable to or unwilling to leave after their invasion of Ukraine. In Ukraine itself, a former mayor&#39;s decision to stay in his post during occupation has led to some disagreement and confusion.
+
+In the United States, President Biden is facing some challenges as public opinion starts to soften towards further involvement in the Ukrainian war effort. Also, there&#39;s a pending Supreme Court case that could define the limits of presidential power. Politicians are trying to block a rule allowing investments with social and environmental factors weighed into consideration. At the same time, Biden is putting forth a cybersecurity strategy that could make tech firms responsible for digital infrastructure.
+
+Here in Canada, people are angrily reacting to an influx of illegal crossings from the U.S., which has led to calls to close off one rural border road.
+
+On the lighter side, this is a record year for Asian and Asian American actors at the Academy Awards - with many contenders reflecting on their work. We&#39;re also seeing with Tyre Nichols&#39; photography how Memphis is slowly making its way back up again. 
+
+Finally, New York state legislators are proposing an outlaw of corporal punishment in private schools after evidence was uncovered of slaps and kicks being used to keep order in some Hasidic Jewish schools.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Leave Russia? A Year Later Many Companies Can’t, or Won’t.</h3>
@@ -98,16 +106,16 @@ There has been a lot happening around the world lately - in Russia, companies ha
 <p>The policy document urges more mandates on the firms that control most of the nation’s digital infrastructure, and an expanded government role to disrupt hackers and state-sponsored entities.  <a href="https://nyti.ms/3KPKhSq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Canadians Fume as Migrants Surge at Their Border</h3>
+<sub>By Norimitsu Onishi</sub>
+<p>A surge in illegal crossings from the United States has led to calls to shut down a rural road on the Canadian border.  <a href="https://nyti.ms/3mmKlyQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Where Restrictions on Abortion Pills Could Matter Most</h3>
 <sub>By Allison McCann and Amy Schoenfeld Walker</sub>
 <p>A lawsuit is challenging the F.D.A.’s approval of medication abortion. Data shows the consequences could be far-reaching.  <a href="https://nyti.ms/3IFJ5Ox"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Memphis, Through the Lens of Tyre Nichols</h3>
-<sub>By Ava Sasani and Eliza Fawcett</sub>
-<p>His photos, which he wrote were meant to “bring my viewers deep into what I am seeing,” reveal parts of the city some residents say they had forgotten.  <a href="https://nyti.ms/3SJQ6CQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -122,16 +130,16 @@ There has been a lot happening around the world lately - in Russia, companies ha
 <p>A record number of actors of Asian ancestry were recognized with Oscar nominations this year, led by Michelle Yeoh of “Everything Everywhere All at Once.” Historically, Asian stars have rarely been part of the Academy Awards.  <a href="https://nyti.ms/3SFf7yI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Memphis, Through the Lens of Tyre Nichols</h3>
+<sub>By Ava Sasani and Eliza Fawcett</sub>
+<p>His photos, which he wrote were meant to “bring my viewers deep into what I am seeing,” reveal parts of the city some residents say they had forgotten.  <a href="https://nyti.ms/3SJQ6CQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Ban Corporal Punishment in Private Schools, New York Lawmakers Say</h3>
 <sub>By Brian M. Rosenthal and Eliza Shapiro</sub>
 <p>The proposals from state legislators come in response to a New York Times investigation that reported the use of slaps and kicks to keep order in some Hasidic Jewish schools.  <a href="https://nyti.ms/3FceeZh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Canadians Fume as Migrants Surge at Their Border</h3>
-<sub>By Norimitsu Onishi</sub>
-<p>A surge in illegal crossings from the United States has led to calls to shut down a rural road on the Canadian border.  <a href="https://nyti.ms/3mmKlyQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
