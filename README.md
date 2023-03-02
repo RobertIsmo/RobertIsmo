@@ -60,9 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 1, Central Standard Time</p>
 <p>
-There have been a few news developments around the world lately. In Chicago, Mayor Lori Lightfoot lost her re-election bid after dissatisfaction with her handling of crime. Meanwhile, in Ukraine, Russia was routed in an epic battle of tanks which was the biggest tank battle of the war so far. In Finland, they are on the cusp of joining NATO but Sweden&#39;s entry is being held up by Turkey, so Helsinki are reluctantly entering alone to ensure their security. 
-In Israel, there has been unrest as Israeli police used water cannons and stun grenades on protesters in Tel Aviv while they raided a safe house which resulted in civilians being killed. Lastly, Nigeria&#39;s most powerful kingmaker Bola Tinubu has won his long-desired throne in the presidential elections there.</p>
+There are a lot of big changes happening in the world right now. In the US, Biden is facing an uphill battle to pass his plan to arm Ukraine due to public fatigue concerning overseas aid. Meanwhile, Finland is on the brink of joining NATO, despite its unsuccessful attempts to do so alongside Sweden. There are also major developments surrounding student loan debt and internal divisions among Democrats in upcoming elections that the GOP might be able to capitalize on. 
+
+On the international front, there are similar complicated situations brewing in Ukraine, India, and Northern Ireland. In Ukraine, troops have been sent to reinforce Bakhmut without any clear objective or explanation. In India, digital payments have become an integral part of commerce and have served to pull millions into the formal economy. And in Northern Ireland, Unionists are debating whether or not to accept a new trade deal that would simplify post-Brexit trade rules but could potentially disrupt the region&#39;s government should it be rejected. Finally, new advances in strokes treatment could save millions of lives in years to come.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Challenged by Softening Public Support for Arming Ukraine</h3>
+<sub>By Peter Baker</sub>
+<p>Proponents of more aid fear that growing taxpayer fatigue toward shipping tens of billions of dollars overseas could undercut the war effort.  <a href="https://nyti.ms/3J5SZKO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Reinforces Embattled Bakhmut, but Mission Is Unclear</h3>
+<sub>By Matthew Mpoke Bigg and Edward Wong</sub>
+<p>Amid persistent rumors of Ukrainian withdrawal from the war’s most prolonged battle, officials said nothing about the size or purpose of the reinforcement.  <a href="https://nyti.ms/3SEguhc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Finland on Cusp of Joining NATO, but Maybe Not With Sweden</h3>
+<sub>By Steven Erlanger and Andrew Higgins</sub>
+<p>The Nordic partners wanted to join together, but with Turkey holding up Sweden’s application, Helsinki will reluctantly enter alone to ensure its security.  <a href="https://nyti.ms/3y37msY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Student Loan Case Could Reshape Presidential Politics</h3>
+<sub>By Michael D. Shear and Adam Liptak</sub>
+<p>President Biden has tried to bypass gridlock in Congress by using executive power. The Supreme Court is skeptical, and could curb that authority.  <a href="https://nyti.ms/3EODuo4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chicago’s Choice Points to a Democratic Divide the G.O.P. Hopes to Exploit</h3>
 <sub>By Jonathan Weisman and Michael C. Bender</sub>
@@ -70,27 +95,15 @@ In Israel, there has been unrest as Israeli police used water cannons and stun g
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mayor Lori Lightfoot of Chicago Loses Her Bid for Re-election</h3>
-<sub>By Julie Bosman and Mitch Smith</sub>
-<p>The result was a resounding defeat that reflected widespread dissatisfaction from voters over her handling of crime. Challengers to her political left and right advanced to a runoff.  <a href="https://nyti.ms/3IZttXB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<h3>A Shifting Mood on Crime Propelled Chicago’s Leading Candidate for Mayor</h3>
+<sub>By Mitch Smith</sub>
+<p>Paul Vallas, who emerged as the front-runner with a tough-on-crime message, will face Brandon Johnson, a progressive county commissioner, in an April runoff.  <a href="https://nyti.ms/3J3xMRI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Paul Vallas Went From Electoral Also-Ran to Chicago Front-Runner</h3>
-<sub>By Mitch Smith</sub>
-<p>Mr. Vallas, a former public school executive with more conservative views on crime and education, will face Brandon Johnson, a progressive county commissioner, in an April runoff.  <a href="https://nyti.ms/3J3xMRI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In an Epic Battle of Tanks, Russia Was Routed, Repeating Earlier Mistakes</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>A three-week fight in the town of Vuhledar in southern Ukraine produced what Ukrainian officials say was the biggest tank battle of the war so far, and a stinging setback for the Russians.  <a href="https://nyti.ms/3y3Mimm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Finland on Cusp of Joining NATO, but Maybe Not With Sweden</h3>
-<sub>By Steven Erlanger and Andrew Higgins</sub>
-<p>The Nordic partners wanted to join together, but with Turkey holding up Sweden’s application, Helsinki will reluctantly enter alone to ensure its security.  <a href="https://nyti.ms/3y37msY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Chicago Police Superintendent Steps Down After Mayor Lori Lightfoot’s Defeat</h3>
+<sub>By Julie Bosman</sub>
+<p>David O. Brown, the superintendent, said he had accepted a job as chief operating officer of a personal injury law firm in Texas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -105,34 +118,22 @@ In Israel, there has been unrest as Israeli police used water cannons and stun g
 <p>Joseph DeRuvo Jr. has lived a mostly barefooted life for nearly two decades. The experience has given him a thick skin.  <a href="https://nyti.ms/3J23NK1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Opioid Distributors Cleared of Liability to Georgia Families Ravaged by Addiction</h3>
+<sub>By Jan Hoffman</sub>
+<p>The case illustrates the enormous challenges that victims of the opioid crisis have had in getting compensation from the pharmaceutical industry, despite its pledge of billions of dollars to state and local governments.  <a href="https://nyti.ms/3mdYmi6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Eli Lilly Says It Will Cut the Price of Insulin</h3>
-<sub>By Rebecca Robbins</sub>
-<p>The company said it would cap the monthly out-of-pocket cost of the diabetes products at $35.  <a href="https://nyti.ms/3KMMa2e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Some Republicans Want to Ban ‘Latinx.’ These Latino Democrats Agree.</h3>
-<sub>By Sarah Maslin Nir</sub>
-<p>In Connecticut, some Democratic lawmakers want to prohibit the use of the gender-neutral term in official government documents. The Republican governor of Arkansas does too.  <a href="https://nyti.ms/3kGUVzV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Where Digital Payments, Even for a 10-Cent Chai, Are Colossal in Scale</h3>
+<sub>By Mujib Mashal and Hari Kumar</sub>
+<p>India’s homegrown instant payment system has remade commerce and pulled millions into the formal economy.  <a href="https://nyti.ms/3ZwKpdh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How an Israeli Raid on a Safe House Ended With Civilians Killed</h3>
-<sub>By Haley Willis, Christiaan Triebert, Hiba Yazbek and Patrick Kingsley</sub>
-<p>A New York Times analysis of videos shows how an Israeli raid to capture Palestinian gunmen rippled into one of the most violent encounters in the West Bank in decades.  <a href="https://nyti.ms/3YbFHAS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli Police Use Water Cannons and Stun Grenades on Protesters in Tel Aviv</h3>
-<sub>By Isabel Kershner</sub>
-<p>The confrontations escalated tensions between the political leadership and protesters opposed to the far-right government’s plan to curb the powers of the judiciary.  <a href="https://nyti.ms/3ZwOMW0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Nigeria’s Most Powerful Kingmaker Wins His Long-Desired Throne</h3>
-<sub>By Ruth Maclean and Elian Peltier</sub>
-<p>Bola Tinubu, declared the winner on Wednesday in the presidential election, has boasted of making the careers of major politicians. Now he has to deliver for a divided country facing multiple emergencies.  <a href="https://nyti.ms/3mi95bp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Unionists in Northern Ireland Face Dilemma Over Accepting New Trade Deal</h3>
+<sub>By Mark Landler</sub>
+<p>The Democratic Unionist Party has no legal power to hold up the agreement, which would simplify post-Brexit trade rules. But a rejection could sabotage efforts to restart Northern Ireland’s government.  <a href="https://nyti.ms/3SJktcy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
