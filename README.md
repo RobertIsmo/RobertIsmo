@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 1, Central Standard Time</p>
 <p>
-There are a lot of big changes happening in the world right now. In the US, Biden is facing an uphill battle to pass his plan to arm Ukraine due to public fatigue concerning overseas aid. Meanwhile, Finland is on the brink of joining NATO, despite its unsuccessful attempts to do so alongside Sweden. There are also major developments surrounding student loan debt and internal divisions among Democrats in upcoming elections that the GOP might be able to capitalize on. 
-
-On the international front, there are similar complicated situations brewing in Ukraine, India, and Northern Ireland. In Ukraine, troops have been sent to reinforce Bakhmut without any clear objective or explanation. In India, digital payments have become an integral part of commerce and have served to pull millions into the formal economy. And in Northern Ireland, Unionists are debating whether or not to accept a new trade deal that would simplify post-Brexit trade rules but could potentially disrupt the region&#39;s government should it be rejected. Finally, new advances in strokes treatment could save millions of lives in years to come.</p>
+There are a lot of political a shakeups going on around the world. In the US, Joe Biden is facing challenges from those who think that providing aid to Ukraine is too costly. Meanwhile in Finland, they are on the cusp of joining NATO, but possibly without Sweden due to Turkish hold up on their application. There’s also a Supreme Court case challenging President Biden’s authority and Congress setting up a veto fight. In Chicago, two Democrats running for mayor were having debates over crime and policing which Republicans are keeping an eye towards 2024. The police superintendent retired after the Mayor&#39;s defeat and in India digital payments, even for chai, are impressive and growing. Finally, in Northern Ireland Unionists are trying to figure out if they should accept a new trade deal which could help facilitate trade post-Brexit but could also destroy government efforts to restart.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Challenged by Softening Public Support for Arming Ukraine</h3>
@@ -83,21 +81,21 @@ On the international front, there are similar complicated situations brewing in 
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Student Loan Case Could Reshape Presidential Politics</h3>
+<h3>Student Loan Case Could Redefine Limits of Presidential Power</h3>
 <sub>By Michael D. Shear and Adam Liptak</sub>
-<p>President Biden has tried to bypass gridlock in Congress by using executive power. The Supreme Court is skeptical, and could curb that authority.  <a href="https://nyti.ms/3EODuo4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>It is not the first time that the Supreme Court has suggested that President Biden has overstepped his authority, but the case could curtail his ambitions.  <a href="https://nyti.ms/3EODuo4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Congress Moves to Block Investment Rule, Setting Up Veto Fight</h3>
+<sub>By Stephanie Lai</sub>
+<p>The Senate voted to upend a rule allowing retirement plan managers to consider environmental and social factors in their investments, in defiance of a White House veto threat.  <a href="https://nyti.ms/3EO0xPK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chicago’s Choice Points to a Democratic Divide the G.O.P. Hopes to Exploit</h3>
 <sub>By Jonathan Weisman and Michael C. Bender</sub>
 <p>The two mayoral candidates, both Democrats, are on opposite sides of the debate over crime and policing. Republicans, with an eye toward 2024, are watching closely.  <a href="https://nyti.ms/3ENbZem"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Shifting Mood on Crime Propelled Chicago’s Leading Candidate for Mayor</h3>
-<sub>By Mitch Smith</sub>
-<p>Paul Vallas, who emerged as the front-runner with a tough-on-crime message, will face Brandon Johnson, a progressive county commissioner, in an April runoff.  <a href="https://nyti.ms/3J3xMRI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
