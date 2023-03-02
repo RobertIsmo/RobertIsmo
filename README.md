@@ -60,17 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 2, Central Standard Time</p>
 <p>
-Currently, there is a lot of tension in the world between Russia and Ukraine. We&#39;re seeing reports of Russian companies being unable to, or choosing not to leave Russia in the wake of their invasion of Ukraine. There has also been an incident with Russian partisans taking control of a village in Russia, after which President Vladimir V. Putin canceled a trip to be briefed on the situation. 
-
-In the US, Joe Biden is being challenged by public support that is softening for arming Ukraine, while Congress is attempting to block an investment rule which could inevitably lead to a veto fight with the White House. In addition, Biden has just released a new cybersecurity strategy that imposes more mandates on tech companies that control most of our digital infrastructure, as well as increasing government roles in disrupt hackers and any state-sponsored entities. 
-
-Meanwhile, Canadians are responding angrily to an influx of migrants crossing illegally into their country from the US. Furthermore, The Hotel Pennsylvania has been demolished despite its vast popularity and memorable song about it, and hybrid work is becoming more permanent as C.E.O&#39;s make their choices. Finally, restrictions on abortion pills are facing legal challenges that are aiming to shut down F.D.A.&#39;s approval of medication abortion, while photographer Tyre Nichols showcases the parts of Memphis that some residents have forgotten.</p>
+There have been a lot of interesting developments happening all around the world recently. In Canada there&#39;s an increase in people crossing over illegally from the USA, leading to calls to shut down a border road. In Ukraine, the mayor of Kherson has gone missing while his decision to stay in his post during Russian occupation is stirring up divided opinions. In the US, the House Ethics Committee opened an inquiry on George Santos and the Justice Department said a lawsuit against Donald Trump over the Capitol attack should proceed. Further away, Wayne Shorter, an innovator of jazz passed away at 89. Closer to home, a couple in Queens was on the market for their first home and were able to find one with their budget!</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Leave Russia? A Year Later Many Companies Can’t, or Won’t.</h3>
-<sub>By Liz Alderman</sub>
-<p>Not all Western companies packed up and left Russia after its invasion of Ukraine. Some say Moscow has tied their hands, while others choose to stay put.  <a href="https://nyti.ms/3SHwJdh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Canadians Fume as Migrants Surge at Their Border</h3>
+<sub>By Norimitsu Onishi</sub>
+<p>A surge in illegal crossings from the United States has led to calls to shut down a rural road on the Canadian border.  <a href="https://nyti.ms/3mmKlyQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Ukrainian Mayor Disappeared, but Questions of His Loyalty Did Not</h3>
@@ -78,40 +74,22 @@ Meanwhile, Canadians are responding angrily to an influx of migrants crossing il
 <p>Traitor or hero? A decision by the former mayor of Kherson to remain in his post under Russian occupation has divided opinion, even after he vanished.  <a href="https://nyti.ms/3ENJgq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian partisans with ties to Ukraine say they briefly took control of a village in Russia.</h3>
-<sub>By Anatoly Kurmanaev and Marc Santora</sub>
-<p>President Vladimir V. Putin of Russia canceled a trip to be briefed on the incursion near the border with Ukraine. He described the incident as a “terrorist” attack.  <a href="https://nyti.ms/3y4VFlz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Challenged by Softening Public Support for Arming Ukraine</h3>
-<sub>By Peter Baker</sub>
-<p>Proponents of more aid fear that growing taxpayer fatigue toward shipping tens of billions of dollars overseas could undercut the war effort.  <a href="https://nyti.ms/3J5SZKO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Congress Moves to Block Investment Rule, Setting Up Veto Fight</h3>
-<sub>By Stephanie Lai</sub>
-<p>The Senate voted to upend a rule allowing retirement plan managers to consider environmental and social factors in their investments, in defiance of a White House veto threat.  <a href="https://nyti.ms/3EO0xPK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New Biden Cybersecurity Strategy Assigns Responsibility to Tech Firms</h3>
-<sub>By David E. Sanger</sub>
-<p>The policy document urges more mandates on the firms that control most of the nation’s digital infrastructure, and an expanded government role to disrupt hackers and state-sponsored entities.  <a href="https://nyti.ms/3KPKhSq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Canadians Fume as Migrants Surge at Their Border</h3>
-<sub>By Norimitsu Onishi</sub>
-<p>A surge in illegal crossings from the United States has led to calls to shut down a rural road on the Canadian border.  <a href="https://nyti.ms/3mmKlyQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>House Ethics Committee Opens Inquiry Into George Santos</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>The House Ethics Committee unanimously voted to authorize an investigation into whether Mr. Santos broke various laws or engaged in sexual misconduct.  <a href="https://nyti.ms/41IOY6y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Hotel Pennsylvania’s Great Disappearing Act</h3>
+<h3>Once the World’s Largest, a Hotel Goes ‘Poof!’ Before Our Eyes</h3>
 <sub>By Dan Barry</sub>
-<p>It was the largest hotel on earth, a virtual city within a city. They wrote a song about it. But in the end, none of this was enough to save it.  <a href="https://nyti.ms/3Y7ZcKw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Hotel Pennsylvania in Manhattan was a virtual city within a city. But in the end, nothing could save it.  <a href="https://nyti.ms/3Y7ZcKw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lawsuit Against Trump Over Capitol Attack Should Proceed, Justice Dept. Says</h3>
+<sub>By Charlie Savage</sub>
+<p>The department told an appeals court that if President Donald J. Trump’s speech incited the Jan. 6 riot, he was not shielded by immunity.  <a href="https://nyti.ms/3ZdCn9r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -127,15 +105,33 @@ Meanwhile, Canadians are responding angrily to an influx of migrants crossing il
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Memphis, Through the Lens of Tyre Nichols</h3>
-<sub>By Ava Sasani and Eliza Fawcett</sub>
-<p>His photos, which he wrote were meant to “bring my viewers deep into what I am seeing,” reveal parts of the city some residents say they had forgotten.  <a href="https://nyti.ms/3SJQ6CQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Jury Begins Deliberating in Murdaugh Murder Case</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>In his closing argument on Thursday, Alex Murdaugh’s lawyer told jurors that the police had decided he was guilty of killing his wife and son despite minimal evidence.  <a href="https://nyti.ms/3ZByf3c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>5 Key Takeaways From the Murdaugh Murders Trial</h3>
+<sub>By Ben Shpigel and Nicholas Bogel-Burroughs</sub>
+<p>The jury began deliberating on Thursday in the case of Alex Murdaugh, a prominent South Carolina lawyer accused of murdering his wife and son.  <a href="https://nyti.ms/3Zs4j9G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
 <h3>Why Willem Dafoe Can’t Slow Down</h3>
 <sub>By Susan Dominus, Collier Schorr and Jay Massacret</sub>
 <p>For nearly 50 years, the actor has made himself go toward places other artists hardly ever seek.  <a href="https://nyti.ms/3J2MozN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Wayne Shorter, Innovator During an Era of Change in Jazz, Dies at 89</h3>
+<sub>By Nate Chinen</sub>
+<p>His career as an influential tenor saxophonist and composer reached across more than half a century, tracking jazz’s complex evolution during that span.  <a href="https://nyti.ms/41I4wHI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>They Wanted a Two-Bedroom in Queens for $500,000 — Dishwasher Optional. Which Option Did They Buy?</h3>
+<sub>By Joyce Cohen</sub>
+<p>For a couple of pizza lovers trying to buy their first home, finding a new place meant finding the right kitchen, even if it meant a renovation. Here were their choices.  <a href="https://nyti.ms/3SI54cb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
