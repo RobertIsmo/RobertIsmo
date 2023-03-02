@@ -60,24 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 2, Central Standard Time</p>
 <p>
-There have been some interesting developments around the world recently. In Ukraine, troops are reinforcing a key location in the ongoing war, and in Finland, it looks like they may be joining NATO soon - but maybe not with Sweden. On a different note, in India digital payments have become incredibly widespread. Closer to home in the US, President Biden&#39;s power is being questioned by courts while a veto fight could be brewing over an investment rule Congress is trying to block. On top of that, Democrats in Chicago faced an unexpected divide with local Republicans taking advantage of it for possible gains in 2024. Lastly, there was a trial for a once-influential lawyer accused of murdering his own family to hide financial insecurity, and meanwhile displaced Turkish residents are being housed on a luxury cruise ship.</p>
+There has been a lot happening around the world lately - in Russia, companies have been unable to or have chosen not to leave Russia since its invasion of Ukraine last year. In Ukraine, there is debate over a former mayor&#39;s decision to stay in his post despite Russian occupation. In the US, President Biden&#39;s plan to arm Ukraine is facing opposition due to the increasing taxpayer fatigue and Congress is also attempting to block an investment rule he plans on implementing. There is also a legal case in the US that could redefine presidental power and Biden has recently announced a new cybersecurity strategy for the nation, placing the responsibility in tech firms&#39; hands. Additionally, there is a lawsuit in the US challenging FDA approval of medication abortions and its potential far-reaching consequences. Lastly, Canadians are fuming as more migrants cross their border into Canada with no authorization.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Leave Russia? A Year Later Many Companies Can’t, or Won’t.</h3>
+<sub>By Liz Alderman</sub>
+<p>Not all Western companies packed up and left Russia after its invasion of Ukraine. Some say Moscow has tied their hands, while others choose to stay put.  <a href="https://nyti.ms/3SHwJdh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Ukrainian Mayor Disappeared, but Questions of His Loyalty Did Not</h3>
+<sub>By Michael Schwirtz and Ivor Prickett</sub>
+<p>Traitor or hero? A decision by the former mayor of Kherson to remain in his post under Russian occupation has divided opinion, even after he vanished.  <a href="https://nyti.ms/3ENJgq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Challenged by Softening Public Support for Arming Ukraine</h3>
 <sub>By Peter Baker</sub>
 <p>Proponents of more aid fear that growing taxpayer fatigue toward shipping tens of billions of dollars overseas could undercut the war effort.  <a href="https://nyti.ms/3J5SZKO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Reinforces Embattled Bakhmut, but Mission Is Unclear</h3>
-<sub>By Matthew Mpoke Bigg and Edward Wong</sub>
-<p>Amid persistent rumors of Ukrainian withdrawal from the war’s most prolonged battle, officials said nothing about the size or purpose of the reinforcement.  <a href="https://nyti.ms/3SEguhc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Finland on Cusp of Joining NATO, but Maybe Not With Sweden</h3>
-<sub>By Steven Erlanger and Andrew Higgins</sub>
-<p>The Nordic partners wanted to join together, but with Turkey holding up Sweden’s application, Helsinki will reluctantly enter alone to ensure its security.  <a href="https://nyti.ms/3y37msY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,46 +93,46 @@ There have been some interesting developments around the world recently. In Ukra
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chicago’s Choice Points to a Democratic Divide the G.O.P. Hopes to Exploit</h3>
-<sub>By Jonathan Weisman and Michael C. Bender</sub>
-<p>The two mayoral candidates, both Democrats, are on opposite sides of the debate over crime and policing. Republicans, with an eye toward 2024, are watching closely.  <a href="https://nyti.ms/3ENbZem"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<h3>New Biden Cybersecurity Strategy Assigns Responsibility to Tech Firms</h3>
+<sub>By David E. Sanger</sub>
+<p>The policy document urges more mandates on the firms that control most of the nation’s digital infrastructure, and an expanded government role to disrupt hackers and state-sponsored entities.  <a href="https://nyti.ms/3KPKhSq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chicago Police Superintendent Steps Down After Mayor Lori Lightfoot’s Defeat</h3>
-<sub>By Julie Bosman</sub>
-<p>David O. Brown, the superintendent, said he had accepted a job as chief operating officer of a personal injury law firm in Texas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>This Revolutionary Stroke Treatment Will Save Millions of Lives. Eventually.</h3>
-<sub>By Eva Holland</sub>
-<p>A procedure called EVT is creating radically better outcomes for patients, but only when it’s performed quickly enough — and that requires the transformation of an entire system of care.  <a href="https://nyti.ms/3KLDJ6X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Opioid Distributors Cleared of Liability to Georgia Families Ravaged by Addiction</h3>
-<sub>By Jan Hoffman</sub>
-<p>The case illustrates the enormous challenges that victims of the opioid crisis have had in getting compensation from the pharmaceutical industry, despite its pledge of billions of dollars to state and local governments.  <a href="https://nyti.ms/3mdYmi6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Where Digital Payments, Even for a 10-Cent Chai, Are Colossal in Scale</h3>
-<sub>By Mujib Mashal and Hari Kumar</sub>
-<p>India’s homegrown instant payment system has remade commerce and pulled millions into the formal economy.  <a href="https://nyti.ms/3ZwKpdh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<h3>Where Restrictions on Abortion Pills Could Matter Most</h3>
+<sub>By Allison McCann and Amy Schoenfeld Walker</sub>
+<p>A lawsuit is challenging the F.D.A.’s approval of medication abortion. Data shows the consequences could be far-reaching.  <a href="https://nyti.ms/3IFJ5Ox"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Don’t Let Him Fool You,’ Prosecutor Tells Jurors in Murdaugh Trial</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>In closing arguments, the lead prosecutor said Alex Murdaugh killed his wife and son to hide financial crimes. The once-influential lawyer has insisted on his innocence.  <a href="https://nyti.ms/3Zqx1HI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<h3>Memphis, Through the Lens of Tyre Nichols</h3>
+<sub>By Ava Sasani and Eliza Fawcett</sub>
+<p>His photos, which he wrote were meant to “bring my viewers deep into what I am seeing,” reveal parts of the city some residents say they had forgotten.  <a href="https://nyti.ms/3SJQ6CQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘I Don’t Take a Single Second for Granted’: Asian and Asian American Nominees on the Oscars</h3>
+<sub>By Robert Ito and Justin J Wee</sub>
+<p>It was a record year for actors, but directors, musicians and other artists of Asian descent are also up for statuettes. We asked many of the contenders to reflect on their work.  <a href="https://nyti.ms/3SDNKoV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>The History of Asian Actors at the Oscars</h3>
+<sub>By K.K. Rebecca Lai</sub>
+<p>A record number of actors of Asian ancestry were recognized with Oscar nominations this year, led by Michelle Yeoh of “Everything Everywhere All at Once.” Historically, Asian stars have rarely been part of the Academy Awards.  <a href="https://nyti.ms/3SFf7yI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Ban Corporal Punishment in Private Schools, New York Lawmakers Say</h3>
+<sub>By Brian M. Rosenthal and Eliza Shapiro</sub>
+<p>The proposals from state legislators come in response to a New York Times investigation that reported the use of slaps and kicks to keep order in some Hasidic Jewish schools.  <a href="https://nyti.ms/3FceeZh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘A Strange Dream’: A Cruise Ship Is a Floating Shelter for Displaced Turks</h3>
-<sub>By Cora Engelbrecht, Nimet Kirac and Sergey Ponomarev</sub>
-<p>More than 1,000 Turkish residents displaced by the recent earthquakes are staying on a luxury boat in the Mediterranean Sea.  <a href="https://nyti.ms/41Cn9MU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
+<h3>Canadians Fume as Migrants Surge at Their Border</h3>
+<sub>By Norimitsu Onishi</sub>
+<p>A surge in illegal crossings from the United States has led to calls to shut down a rural road on the Canadian border.  <a href="https://nyti.ms/3mmKlyQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
