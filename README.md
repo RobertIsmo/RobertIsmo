@@ -60,15 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 2, Central Standard Time</p>
 <p>
-Currently, the political situation around the world is tense. In Russia, many companies have been left unable to or unwilling to leave after their invasion of Ukraine. In Ukraine itself, a former mayor&#39;s decision to stay in his post during occupation has led to some disagreement and confusion.
+Currently, there is a lot of tension in the world between Russia and Ukraine. We&#39;re seeing reports of Russian companies being unable to, or choosing not to leave Russia in the wake of their invasion of Ukraine. There has also been an incident with Russian partisans taking control of a village in Russia, after which President Vladimir V. Putin canceled a trip to be briefed on the situation. 
 
-In the United States, President Biden is facing some challenges as public opinion starts to soften towards further involvement in the Ukrainian war effort. Also, there&#39;s a pending Supreme Court case that could define the limits of presidential power. Politicians are trying to block a rule allowing investments with social and environmental factors weighed into consideration. At the same time, Biden is putting forth a cybersecurity strategy that could make tech firms responsible for digital infrastructure.
+In the US, Joe Biden is being challenged by public support that is softening for arming Ukraine, while Congress is attempting to block an investment rule which could inevitably lead to a veto fight with the White House. In addition, Biden has just released a new cybersecurity strategy that imposes more mandates on tech companies that control most of our digital infrastructure, as well as increasing government roles in disrupt hackers and any state-sponsored entities. 
 
-Here in Canada, people are angrily reacting to an influx of illegal crossings from the U.S., which has led to calls to close off one rural border road.
-
-On the lighter side, this is a record year for Asian and Asian American actors at the Academy Awards - with many contenders reflecting on their work. We&#39;re also seeing with Tyre Nichols&#39; photography how Memphis is slowly making its way back up again. 
-
-Finally, New York state legislators are proposing an outlaw of corporal punishment in private schools after evidence was uncovered of slaps and kicks being used to keep order in some Hasidic Jewish schools.</p>
+Meanwhile, Canadians are responding angrily to an influx of migrants crossing illegally into their country from the US. Furthermore, The Hotel Pennsylvania has been demolished despite its vast popularity and memorable song about it, and hybrid work is becoming more permanent as C.E.O&#39;s make their choices. Finally, restrictions on abortion pills are facing legal challenges that are aiming to shut down F.D.A.&#39;s approval of medication abortion, while photographer Tyre Nichols showcases the parts of Memphis that some residents have forgotten.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Leave Russia? A Year Later Many Companies Can’t, or Won’t.</h3>
@@ -82,16 +78,16 @@ Finally, New York state legislators are proposing an outlaw of corporal punishme
 <p>Traitor or hero? A decision by the former mayor of Kherson to remain in his post under Russian occupation has divided opinion, even after he vanished.  <a href="https://nyti.ms/3ENJgq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian partisans with ties to Ukraine say they briefly took control of a village in Russia.</h3>
+<sub>By Anatoly Kurmanaev and Marc Santora</sub>
+<p>President Vladimir V. Putin of Russia canceled a trip to be briefed on the incursion near the border with Ukraine. He described the incident as a “terrorist” attack.  <a href="https://nyti.ms/3y4VFlz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Challenged by Softening Public Support for Arming Ukraine</h3>
 <sub>By Peter Baker</sub>
 <p>Proponents of more aid fear that growing taxpayer fatigue toward shipping tens of billions of dollars overseas could undercut the war effort.  <a href="https://nyti.ms/3J5SZKO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Student Loan Case Could Redefine Limits of Presidential Power</h3>
-<sub>By Michael D. Shear and Adam Liptak</sub>
-<p>It is not the first time that the Supreme Court has suggested that President Biden has overstepped his authority, but the case could curtail his ambitions.  <a href="https://nyti.ms/3EODuo4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -112,22 +108,22 @@ Finally, New York state legislators are proposing an outlaw of corporal punishme
 <p>A surge in illegal crossings from the United States has led to calls to shut down a rural road on the Canadian border.  <a href="https://nyti.ms/3mmKlyQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Hotel Pennsylvania’s Great Disappearing Act</h3>
+<sub>By Dan Barry</sub>
+<p>It was the largest hotel on earth, a virtual city within a city. They wrote a song about it. But in the end, none of this was enough to save it.  <a href="https://nyti.ms/3Y7ZcKw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Office Mandates. Pickleball. Beer. What Will Make Hybrid Work Stick?</h3>
+<sub>By Emma Goldberg and Hilary Swift</sub>
+<p>Hybrid work has been choose-your-own-adventure, but now C.E.O.s are making their choices more permanent.  <a href="https://nyti.ms/3Yh1eYG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where Restrictions on Abortion Pills Could Matter Most</h3>
+<h3>Where Restrictions on Abortion Pills Could Matter Most in the U.S.</h3>
 <sub>By Allison McCann and Amy Schoenfeld Walker</sub>
 <p>A lawsuit is challenging the F.D.A.’s approval of medication abortion. Data shows the consequences could be far-reaching.  <a href="https://nyti.ms/3IFJ5Ox"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘I Don’t Take a Single Second for Granted’: Asian and Asian American Nominees on the Oscars</h3>
-<sub>By Robert Ito and Justin J Wee</sub>
-<p>It was a record year for actors, but directors, musicians and other artists of Asian descent are also up for statuettes. We asked many of the contenders to reflect on their work.  <a href="https://nyti.ms/3SDNKoV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>The History of Asian Actors at the Oscars</h3>
-<sub>By K.K. Rebecca Lai</sub>
-<p>A record number of actors of Asian ancestry were recognized with Oscar nominations this year, led by Michelle Yeoh of “Everything Everywhere All at Once.” Historically, Asian stars have rarely been part of the Academy Awards.  <a href="https://nyti.ms/3SFf7yI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -136,10 +132,10 @@ Finally, New York state legislators are proposing an outlaw of corporal punishme
 <p>His photos, which he wrote were meant to “bring my viewers deep into what I am seeing,” reveal parts of the city some residents say they had forgotten.  <a href="https://nyti.ms/3SJQ6CQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Ban Corporal Punishment in Private Schools, New York Lawmakers Say</h3>
-<sub>By Brian M. Rosenthal and Eliza Shapiro</sub>
-<p>The proposals from state legislators come in response to a New York Times investigation that reported the use of slaps and kicks to keep order in some Hasidic Jewish schools.  <a href="https://nyti.ms/3FceeZh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
+<h3>Why Willem Dafoe Can’t Slow Down</h3>
+<sub>By Susan Dominus, Collier Schorr and Jay Massacret</sub>
+<p>For nearly 50 years, the actor has made himself go toward places other artists hardly ever seek.  <a href="https://nyti.ms/3J2MozN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
