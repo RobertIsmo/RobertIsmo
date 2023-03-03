@@ -60,18 +60,60 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 2, Central Standard Time</p>
 <p>
-There have been a lot of interesting developments happening all around the world recently. In Canada there&#39;s an increase in people crossing over illegally from the USA, leading to calls to shut down a border road. In Ukraine, the mayor of Kherson has gone missing while his decision to stay in his post during Russian occupation is stirring up divided opinions. In the US, the House Ethics Committee opened an inquiry on George Santos and the Justice Department said a lawsuit against Donald Trump over the Capitol attack should proceed. Further away, Wayne Shorter, an innovator of jazz passed away at 89. Closer to home, a couple in Queens was on the market for their first home and were able to find one with their budget!</p>
+There&#39;s been a lot going on in the world recently. In the US, a prominent South Carolina lawyer was convicted of murdering his wife and son after a six-week trial. His sentencing date is coming up soon and prosecutors are seeking life in prison without the possibility of parole. Meanwhile, the Secretary of State Antony J. Blinken recently had a confrontation with his Russian counterpart about Moscow’s war againstUkraine. In Germany, Ukraine’s military is conducting war games as part of a preparation for a possible major offensive, while Russia is dealing with an armed group that briefly took control of a border town in the Bryansk region. In DC, President Biden bowed to Republicans on blocking a new criminal code that reduces some sentences. On the Canadian frontier, there has been an increase in illegal crossings from the US leading to calls to close down rural roads on the border. Finally, right here in NYC, there&#39;s an ongoing inquiry into whether George Santos violated various laws or engaged in sexual misconduct and the iconic Hotel Pennsylvania was demolished despite years of attempts to save it.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Alex Murdaugh Convicted of Murdering Wife and Son</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>The verdict came less than three hours after jurors began deliberating. It followed a six-week trial that served as a reckoning for Mr. Murdaugh, a lawyer whose life unraveled in recent years.  <a href="https://nyti.ms/3SGlPVm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Alex Murdaugh will be sentenced on Friday.</h3>
+<sub>By Eduardo Medina</sub>
+<p>Prosecutors have said that they would seek life in prison without the possibility of parole, and not the death penalty.  <a href="https://nyti.ms/3II8GXf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>5 Key Takeaways From the Murdaugh Murders Trial</h3>
+<sub>By Ben Shpigel and Nicholas Bogel-Burroughs</sub>
+<p>The jury on Thursday convicted Alex Murdaugh, a prominent South Carolina lawyer, of murdering his wife and son.  <a href="https://nyti.ms/3Zs4j9G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Evacuate Us!’ Fear and Anxiety Boil Over as Residents Confront Train Company on Derailment</h3>
+<sub>By Ida Lieszkovszky and Emily Cochrane</sub>
+<p>As a representative for Norfolk Southern tried to apologize and outline its recovery efforts, residents shouted over him at a meeting in East Palestine, Ohio, demanding that the company “do the right thing.”  <a href="https://nyti.ms/3y9ap34"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In First Wartime Meeting, Blinken Confronts His Russian Counterpart</h3>
+<sub>By Edward Wong</sub>
+<p>Secretary of State Antony J. Blinken said he told Sergey V. Lavrov, the Russian foreign minister, that Moscow must end its war against Ukraine and return to a nuclear arms control treaty.  <a href="https://nyti.ms/3kIG2xc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At U.S. Base in Germany, Ukraine’s Military Conducts War Games</h3>
+<sub>By Helene Cooper and Eric Schmitt</sub>
+<p>The exercises come as Ukraine is emerging from a winter that was expected to offer a lull in fighting. Ukraine’s president appeared to signal recently that the country is preparing for a major offensive.  <a href="https://nyti.ms/3Zf8jdN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Incursion in Russian Border Town Puts Kremlin on Emergency Footing</h3>
+<sub>By Anatoly Kurmanaev, Marc Santora and Alan Yuhas</sub>
+<p>An armed group said it briefly took control of a border town in Russia’s Bryansk region, but what actually took place there was shrouded in conflicting claims.  <a href="https://nyti.ms/3J9T8Na"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Bows to Republicans on Blocking D.C. Crime Law, Avoiding Veto Fight</h3>
+<sub>By Carl Hulse</sub>
+<p>The president said he would not veto legislation he had opposed that would thwart a new District of Columbia criminal code that reduces some sentences, as crime gains potency as a political issue.  <a href="https://nyti.ms/41I1cfF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Canadians Fume as Migrants Surge at Their Border</h3>
 <sub>By Norimitsu Onishi</sub>
 <p>A surge in illegal crossings from the United States has led to calls to shut down a rural road on the Canadian border.  <a href="https://nyti.ms/3mmKlyQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Ukrainian Mayor Disappeared, but Questions of His Loyalty Did Not</h3>
-<sub>By Michael Schwirtz and Ivor Prickett</sub>
-<p>Traitor or hero? A decision by the former mayor of Kherson to remain in his post under Russian occupation has divided opinion, even after he vanished.  <a href="https://nyti.ms/3ENJgq1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -80,58 +122,16 @@ There have been a lot of interesting developments happening all around the world
 <p>The House Ethics Committee unanimously voted to authorize an investigation into whether Mr. Santos broke various laws or engaged in sexual misconduct.  <a href="https://nyti.ms/41IOY6y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Unjustifiable Delays’: Rail Safety Upgrade in Greece Stalled for Years</h3>
+<sub>By Monika Pronczuk and Sarah Hurtes</sub>
+<p>The technology would have automatically stopped trains before they collided. Years of delays and neglect have left Greece with a hobbled system.  <a href="https://nyti.ms/3Jav1yd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Once the World’s Largest, a Hotel Goes ‘Poof!’ Before Our Eyes</h3>
 <sub>By Dan Barry</sub>
 <p>The Hotel Pennsylvania in Manhattan was a virtual city within a city. But in the end, nothing could save it.  <a href="https://nyti.ms/3Y7ZcKw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lawsuit Against Trump Over Capitol Attack Should Proceed, Justice Dept. Says</h3>
-<sub>By Charlie Savage</sub>
-<p>The department told an appeals court that if President Donald J. Trump’s speech incited the Jan. 6 riot, he was not shielded by immunity.  <a href="https://nyti.ms/3ZdCn9r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Office Mandates. Pickleball. Beer. What Will Make Hybrid Work Stick?</h3>
-<sub>By Emma Goldberg and Hilary Swift</sub>
-<p>Hybrid work has been choose-your-own-adventure, but now C.E.O.s are making their choices more permanent.  <a href="https://nyti.ms/3Yh1eYG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where Restrictions on Abortion Pills Could Matter Most in the U.S.</h3>
-<sub>By Allison McCann and Amy Schoenfeld Walker</sub>
-<p>A lawsuit is challenging the F.D.A.’s approval of medication abortion. Data shows the consequences could be far-reaching.  <a href="https://nyti.ms/3IFJ5Ox"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jury Begins Deliberating in Murdaugh Murder Case</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>In his closing argument on Thursday, Alex Murdaugh’s lawyer told jurors that the police had decided he was guilty of killing his wife and son despite minimal evidence.  <a href="https://nyti.ms/3ZByf3c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Key Takeaways From the Murdaugh Murders Trial</h3>
-<sub>By Ben Shpigel and Nicholas Bogel-Burroughs</sub>
-<p>The jury began deliberating on Thursday in the case of Alex Murdaugh, a prominent South Carolina lawyer accused of murdering his wife and son.  <a href="https://nyti.ms/3Zs4j9G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
-<h3>Why Willem Dafoe Can’t Slow Down</h3>
-<sub>By Susan Dominus, Collier Schorr and Jay Massacret</sub>
-<p>For nearly 50 years, the actor has made himself go toward places other artists hardly ever seek.  <a href="https://nyti.ms/3J2MozN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Wayne Shorter, Innovator During an Era of Change in Jazz, Dies at 89</h3>
-<sub>By Nate Chinen</sub>
-<p>His career as an influential tenor saxophonist and composer reached across more than half a century, tracking jazz’s complex evolution during that span.  <a href="https://nyti.ms/41I4wHI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>They Wanted a Two-Bedroom in Queens for $500,000 — Dishwasher Optional. Which Option Did They Buy?</h3>
-<sub>By Joyce Cohen</sub>
-<p>For a couple of pizza lovers trying to buy their first home, finding a new place meant finding the right kitchen, even if it meant a renovation. Here were their choices.  <a href="https://nyti.ms/3SI54cb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
