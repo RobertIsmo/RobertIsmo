@@ -60,8 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 3, Central Standard Time</p>
 <p>
-There are a few big stories coming out of the US right now. Alex Murdaugh was recently convicted of murdering his wife and son, and will now face sentencing. Meanwhile, residents of a small Ohio town are upset after a train derailment and are protesting the company responsible. In international news, Secretary of State Antony J. Blinken confronted his Russian counterpart about Ukraine, and meanwhile Ukraine is preparing for a major offensive with military exercises in Germany. Canadians are also in a tizzy over a surge in illegal immigration from the US. In New York, there&#39;s an investigation into lawmaker George Santos for possible sexual misconduct and legislation he proposed for criminal reform. And finally, the world’s largest hotel (the Hotel Pennsylvania) closed its doors permanently last week.</p>
+There has been a lot of news happening around the world lately. In Greece, there have been years of delays and neglect of their rail system, leaving them with an unreliable and potentially dangerous system. In South Carolina, Alex Murdaugh was convicted of murdering his wife and son after a six-week trial. He will be sentenced on Friday and could face life in prison without the possibility of parole. There is also a lot happening in East Palestine, Ohio, where the residents are demanding the railroad company to do the right thing for their community after a recent derailment.
+
+In international news, Secretary of State Antony Blinken met with Russian Foreign Minister Sergey Lavrov and demanded Moscow end its war against Ukraine and return to a nuclear arms control treaty. Meanwhile, Ukraine is preparing for a major offensive as they conduct war games in Germany. On the other side of Europe, there was an attempted armed incursion on a border town in the Russian Bryansk region which left everyone confused over what actually happened there. Lastly, Canadians are fuming as thousands migrate illegally over their American border and an old Manhattan hotel has finally closed its doors forever.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Unjustifiable Delays’: Rail Safety Upgrade in Greece Stalled for Years</h3>
+<sub>By Monika Pronczuk and Sarah Hurtes</sub>
+<p>The technology would have automatically stopped trains before they collided. Years of delays and neglect have left Greece with a hobbled system.  <a href="https://nyti.ms/3Jav1yd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Alex Murdaugh Convicted of Murdering Wife and Son</h3>
 <sub>By Nicholas Bogel-Burroughs</sub>
@@ -120,12 +128,6 @@ There are a few big stories coming out of the US right now. Alex Murdaugh was re
 <h3>House Ethics Committee Opens Inquiry Into George Santos</h3>
 <sub>By Michael Gold and Grace Ashford</sub>
 <p>The House Ethics Committee unanimously voted to authorize an investigation into whether Mr. Santos broke various laws or engaged in sexual misconduct.  <a href="https://nyti.ms/41IOY6y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Unjustifiable Delays’: Rail Safety Upgrade in Greece Stalled for Years</h3>
-<sub>By Monika Pronczuk and Sarah Hurtes</sub>
-<p>The technology would have automatically stopped trains before they collided. Years of delays and neglect have left Greece with a hobbled system.  <a href="https://nyti.ms/3Jav1yd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
