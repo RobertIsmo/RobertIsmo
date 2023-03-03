@@ -60,15 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 3, Central Standard Time</p>
 <p>
-There has been a lot of news happening around the world lately. In Greece, there have been years of delays and neglect of their rail system, leaving them with an unreliable and potentially dangerous system. In South Carolina, Alex Murdaugh was convicted of murdering his wife and son after a six-week trial. He will be sentenced on Friday and could face life in prison without the possibility of parole. There is also a lot happening in East Palestine, Ohio, where the residents are demanding the railroad company to do the right thing for their community after a recent derailment.
-
-In international news, Secretary of State Antony Blinken met with Russian Foreign Minister Sergey Lavrov and demanded Moscow end its war against Ukraine and return to a nuclear arms control treaty. Meanwhile, Ukraine is preparing for a major offensive as they conduct war games in Germany. On the other side of Europe, there was an attempted armed incursion on a border town in the Russian Bryansk region which left everyone confused over what actually happened there. Lastly, Canadians are fuming as thousands migrate illegally over their American border and an old Manhattan hotel has finally closed its doors forever.</p>
+Currently, there is a lot of tension between Germany and Ukraine, as Chancellor Olaf Scholz is visiting Washington to discuss how to end the war. In Albania, authorities are puzzled by the arrest of three people who sneaked into an abandoned rifle factory; two of them are Russians. The European Union has promised Ukraine a path to membership, but with risks and benefits for both sides. In the U.S., a lawyer named Alex Murdaugh was convicted of murdering his wife and son in just three hours after jurors began deliberating. Meanwhile, lawmakers in tech-heavy industries and A.I. experts are questioning how to regulate and understand new advancements that are happening faster than anticipated. In Greece, rail safety upgrades have been stalled for years which could have prevented train collisions. Also, people are captivated by a chubby little owl that recently escaped from its one-room apartment into the great outdoors. Residents of East Palestine, Ohio were angry at a train company for its derailment, shouting &quot;Evacuate us!&quot; at the meeting. U.S News finds itself stuck in a debate with top law schools over their attempts to evade accountability in rating systems; this is even more relevant with affirmative action under scrutiny right now. To combat opioid addiction issues, federal regulations have been loosened on buprenorphine prescriptions - but there are still training and access problems hindering the medication&#39;s delivery. Tennessee recently passed a law banning drag shows from being performed in public places and being viewable by minors. Finally, Black equestrians have trouble finding appropriate helmets for their natural hair - raising awareness for an issue that isn&#39;t easy for helmet manufacturers to fix.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Unjustifiable Delays’: Rail Safety Upgrade in Greece Stalled for Years</h3>
-<sub>By Monika Pronczuk and Sarah Hurtes</sub>
-<p>The technology would have automatically stopped trains before they collided. Years of delays and neglect have left Greece with a hobbled system.  <a href="https://nyti.ms/3Jav1yd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<h3>Germany’s Scholz Visits Washington Amid Worries Over Ukraine ‘End Game’</h3>
+<sub>By Erika Solomon</sub>
+<p>Chancellor Olaf Scholz arrives Friday for a quiet working visit with President Biden, sparking speculation that they will discuss tough questions on how to end the war.  <a href="https://nyti.ms/3INslF1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>They Sneaked Into a Derelict Arms Plant: Instagrammers or Spies?</h3>
+<sub>By Andrew Higgins</sub>
+<p>Three people, including two Russians, arrested on charges of entering an abandoned rifle factory have puzzled Albanian authorities at a time when suspicions about Moscow have been mounting.  <a href="https://nyti.ms/3EOuxLC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The E.U. Offered to Embrace Ukraine, but Now What?</h3>
+<sub>By Steven Erlanger</sub>
+<p>The European Union and NATO have promised a path to membership for the embattled country. But real partnership will hold risks and benefits for both sides.  <a href="https://nyti.ms/3J8pacr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Alex Murdaugh Convicted of Murdering Wife and Son</h3>
@@ -76,17 +86,23 @@ In international news, Secretary of State Antony Blinken met with Russian Foreig
 <p>The verdict came less than three hours after jurors began deliberating. It followed a six-week trial that served as a reckoning for Mr. Murdaugh, a lawyer whose life unraveled in recent years.  <a href="https://nyti.ms/3SGlPVm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Alex Murdaugh will be sentenced on Friday.</h3>
-<sub>By Eduardo Medina</sub>
-<p>Prosecutors have said that they would seek life in prison without the possibility of parole, and not the death penalty.  <a href="https://nyti.ms/3II8GXf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>As A.I. Booms, Lawmakers Struggle to Understand the Technology</h3>
+<sub>By Cecilia Kang and Adam Satariano</sub>
+<p>Tech innovations are again racing ahead of Washington’s ability to regulate them, lawmakers and A.I. experts said.  <a href="https://nyti.ms/3kIAh2x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Unjustifiable Delays’: Rail Safety Upgrade in Greece Stalled for Years</h3>
+<sub>By Monika Pronczuk and Sarah Hurtes</sub>
+<p>The technology would have automatically stopped trains before they collided. Years of delays and neglect have left Greece with a hobbled system.  <a href="https://nyti.ms/3Jav1yd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Key Takeaways From the Murdaugh Murders Trial</h3>
-<sub>By Ben Shpigel and Nicholas Bogel-Burroughs</sub>
-<p>The jury on Thursday convicted Alex Murdaugh, a prominent South Carolina lawyer, of murdering his wife and son.  <a href="https://nyti.ms/3Zs4j9G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Why We Love Flaco</h3>
+<sub>By Michiko Kakutani</sub>
+<p>Owls have beguiled humans forever. And it’s easy to see ourselves in a chubby little homebody who ditched his one-room apartment for the great outdoors.  <a href="https://nyti.ms/3YgHvZl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Evacuate Us!’ Fear and Anxiety Boil Over as Residents Confront Train Company on Derailment</h3>
@@ -94,47 +110,29 @@ In international news, Secretary of State Antony Blinken met with Russian Foreig
 <p>As a representative for Norfolk Southern tried to apologize and outline its recovery efforts, residents shouted over him at a meeting in East Palestine, Ohio, demanding that the company “do the right thing.”  <a href="https://nyti.ms/3y9ap34"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In First Wartime Meeting, Blinken Confronts His Russian Counterpart</h3>
-<sub>By Edward Wong</sub>
-<p>Secretary of State Antony J. Blinken said he told Sergey V. Lavrov, the Russian foreign minister, that Moscow must end its war against Ukraine and return to a nuclear arms control treaty.  <a href="https://nyti.ms/3kIG2xc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At U.S. Base in Germany, Ukraine’s Military Conducts War Games</h3>
-<sub>By Helene Cooper and Eric Schmitt</sub>
-<p>The exercises come as Ukraine is emerging from a winter that was expected to offer a lull in fighting. Ukraine’s president appeared to signal recently that the country is preparing for a major offensive.  <a href="https://nyti.ms/3Zf8jdN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Incursion in Russian Border Town Puts Kremlin on Emergency Footing</h3>
-<sub>By Anatoly Kurmanaev, Marc Santora and Alan Yuhas</sub>
-<p>An armed group said it briefly took control of a border town in Russia’s Bryansk region, but what actually took place there was shrouded in conflicting claims.  <a href="https://nyti.ms/3J9T8Na"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Defending Its Rankings, U.S. News Takes Aim at Top Law Schools</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>The publication accuses Yale and other schools of trying to evade accountability — and sidestep a likely end to affirmative action — by opting out of its ratings.  <a href="https://nyti.ms/3ERRfm3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Bows to Republicans on Blocking D.C. Crime Law, Avoiding Veto Fight</h3>
-<sub>By Carl Hulse</sub>
-<p>The president said he would not veto legislation he had opposed that would thwart a new District of Columbia criminal code that reduces some sentences, as crime gains potency as a political issue.  <a href="https://nyti.ms/41I1cfF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>More Doctors Can Now Prescribe a Key Opioid Treatment. Will It Help?</h3>
+<sub>By Noah Weiland</sub>
+<p>The federal government loosened regulations for buprenorphine, but health experts warn that entrenched problems around training and access could stall efforts to get people the medication.  <a href="https://nyti.ms/3ycrjgU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tennessee Bans Drag Shows on Public Property</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>The law, which takes effect later this year, will also make it illegal to perform the shows in places where they could be viewed by minors.  <a href="https://nyti.ms/3Yg7Y9p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Canadians Fume as Migrants Surge at Their Border</h3>
-<sub>By Norimitsu Onishi</sub>
-<p>A surge in illegal crossings from the United States has led to calls to shut down a rural road on the Canadian border.  <a href="https://nyti.ms/3mmKlyQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>House Ethics Committee Opens Inquiry Into George Santos</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>The House Ethics Committee unanimously voted to authorize an investigation into whether Mr. Santos broke various laws or engaged in sexual misconduct.  <a href="https://nyti.ms/41IOY6y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Once the World’s Largest, a Hotel Goes ‘Poof!’ Before Our Eyes</h3>
-<sub>By Dan Barry</sub>
-<p>The Hotel Pennsylvania in Manhattan was a virtual city within a city. But in the end, nothing could save it.  <a href="https://nyti.ms/3Y7ZcKw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Black Equestrians Want to Be Safe. But They Can’t Find Helmets.</h3>
+<sub>By McKenna Oxenden</sub>
+<p>For Black riders with natural hair, finding a helmet that fits can be virtually impossible. Some are trying to raise awareness of the problem, but manufacturers say it’s not a simple fix.  <a href="https://nyti.ms/3Zgbyld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
