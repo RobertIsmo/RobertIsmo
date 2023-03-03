@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 3, Central Standard Time</p>
 <p>
-In the US, a prominent South Carolina lawyer was convicted of murdering his wife and son. In Germany, Chancellor Olaf Scholz is visiting the US for discussions amid worries over Ukraine with President Biden. Three people, two Russians, were arrested in Albania on charges of entering an abandoned rifle factory which has led to suspicions about Moscow&#39;s involvement. Fighting continues to escalate in Ukraine as reports suggest that their forces are managing to hold on in Bakhmut. The US News publication has accused Yale and other related law schools of trying to evade accountability by sidestepping the likely end to affirmative action via its ratings. Instagrammers or spies caused confusion after they snuck into a derelict arms plant. Meanwhile, residents in Ohio have been protesting a train company for an derailment as fear and anxiety boil over. The federal government recently loosened regulations to allow more doctors to prescribe opioid treatments although health experts have warned about problems surrounding training and access. Tennessee has banned drag shows on public property due to concerns around them being viewed by minors. Many Black equestrians struggle to find helmets that fit their hair which has sparked efforts from some to raise awareness the issue. Finally, there&#39;s been much speculation regarding Emoni Bates - the 19 year-old basketball player who had been considered the &#39;next LeBron&#39; - and whether he&#39;ll be able to make it all the way into the NBA.</p>
+It looks like a lot of different things are happening across the world right now. In the US, a prominent lawyer is being sentenced to life in prison for murdering his wife and son. There&#39;s a lot of tension and fighting in Ukraine, where their forces are trying to protect a city that has taken on deep symbolic resonance. Germany&#39;s chancellor is in Washington visiting President Biden, which is sparking speculation as to what they might discuss - with many wondering about the &#39;end game&#39; of the war. Several people have been arrested for entering an abandoned rifle factory in Albania and this has been causing suspicions about Moscow. In Tennessee, drag shows will be banned on public property and Black equestrians are struggling to find helmets that fit their natural hair. Lastly, dolphins and whales have been found using vocal fry - which apparently involves making squiggly sounds underwater!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>5 Key Takeaways From the Murdaugh Murders Trial</h3>
 <sub>By Ben Shpigel and Nicholas Bogel-Burroughs</sub>
-<p>The jury on Thursday convicted Alex Murdaugh, a prominent South Carolina lawyer, of murdering his wife and son.  <a href="https://nyti.ms/3Zs4j9G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The jury convicted Alex Murdaugh, a prominent South Carolina lawyer, of murdering his wife and son, and he was sentenced to life in prison.  <a href="https://nyti.ms/3Zs4j9G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Fighting Intensifies, Ukraine Says Its Forces Are Holding On in Bakhmut</h3>
+<sub>By Marc Santora and Natalia Yermak</sub>
+<p>The city of Bakhmut, in eastern Ukraine, has taken on a deep symbolic resonance for both sides, which have incurred staggering numbers of casualties.  <a href="https://nyti.ms/3KWKUtd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Germany’s Scholz Visits Washington Amid Worries Over Ukraine ‘End Game’</h3>
@@ -78,12 +84,6 @@ In the US, a prominent South Carolina lawyer was convicted of murdering his wife
 <h3>They Sneaked Into a Derelict Arms Plant: Instagrammers or Spies?</h3>
 <sub>By Andrew Higgins</sub>
 <p>Three people, including two Russians, arrested on charges of entering an abandoned rifle factory have puzzled Albanian authorities at a time when suspicions about Moscow have been mounting.  <a href="https://nyti.ms/3EOuxLC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Fighting Intensifies, Ukraine Says Its Forces Are Holding On in Bakhmut</h3>
-<sub>By Marc Santora and Natalia Yermak</sub>
-<p>The city of Bakhmut, in eastern Ukraine, has taken on a deep symbolic resonance for both sides, which have incurred staggering numbers of casualties.  <a href="https://nyti.ms/3KWKUtd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,16 +104,16 @@ In the US, a prominent South Carolina lawyer was convicted of murdering his wife
 <p>Tech innovations are again racing ahead of Washington’s ability to regulate them, lawmakers and A.I. experts said.  <a href="https://nyti.ms/3kIAh2x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Evacuate Us!’ Fear and Anxiety Boil Over as Residents Confront Train Company on Derailment</h3>
-<sub>By Ida Lieszkovszky and Emily Cochrane</sub>
-<p>As a representative for Norfolk Southern tried to apologize and outline its recovery efforts, residents shouted over him at a meeting in East Palestine, Ohio, demanding that the company “do the right thing.”  <a href="https://nyti.ms/3y9ap34"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>The Power of Breath Work</h3>
+<sub>By Alisha Haridasani Gupta, Photographs by Stefano Ortega and Illustration by Aaron Lowell Denton</sub>
+<p>Breathing correctly is a skill — and learning to control it can improve your health, mood and well-being. Here are a few simple exercises to help you get started.  <a href="https://nyti.ms/3Zkd9X5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>More Doctors Can Now Prescribe a Key Opioid Treatment. Will It Help?</h3>
-<sub>By Noah Weiland</sub>
-<p>The federal government loosened regulations for buprenorphine, but health experts warn that entrenched problems around training and access could stall efforts to get people the medication.  <a href="https://nyti.ms/3ycrjgU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Dasha Zhukova’s Artful Rise</h3>
+<sub>By Caitlin Moscatello</sub>
+<p>The oligarch’s ex-wife had carefully built a place for herself in the art world. And then, Putin’s war started.  <a href="https://nyti.ms/3kCIfuc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +128,10 @@ In the US, a prominent South Carolina lawyer was convicted of murdering his wife
 <p>For Black riders with natural hair, finding a helmet that fits can be virtually impossible. Some are trying to raise awareness of the problem, but manufacturers say it’s not a simple fix.  <a href="https://nyti.ms/3Zgbyld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>He Was Billed as the Next LeBron. But Will Emoni Bates Make It at All?</h3>
-<sub>By Billy Witz</sub>
-<p>Bates was on a magazine cover at 15. He was playing Division I college basketball at 17. Now he’s 19, his college career may be over, and N.B.A. success is anything but guaranteed.  <a href="https://nyti.ms/3YfDCUk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Who’s Using Vocal Fry in the Ocean? Dolphins and Whaaaaales.</h3>
+<sub>By Sam Jones</sub>
+<p>Be right back, diving for a giant squiiiiiid.  <a href="https://nyti.ms/3Z6JPDr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
