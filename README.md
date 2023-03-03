@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 3, Central Standard Time</p>
 <p>
-Currently, there is a lot of tension between Germany and Ukraine, as Chancellor Olaf Scholz is visiting Washington to discuss how to end the war. In Albania, authorities are puzzled by the arrest of three people who sneaked into an abandoned rifle factory; two of them are Russians. The European Union has promised Ukraine a path to membership, but with risks and benefits for both sides. In the U.S., a lawyer named Alex Murdaugh was convicted of murdering his wife and son in just three hours after jurors began deliberating. Meanwhile, lawmakers in tech-heavy industries and A.I. experts are questioning how to regulate and understand new advancements that are happening faster than anticipated. In Greece, rail safety upgrades have been stalled for years which could have prevented train collisions. Also, people are captivated by a chubby little owl that recently escaped from its one-room apartment into the great outdoors. Residents of East Palestine, Ohio were angry at a train company for its derailment, shouting &quot;Evacuate us!&quot; at the meeting. U.S News finds itself stuck in a debate with top law schools over their attempts to evade accountability in rating systems; this is even more relevant with affirmative action under scrutiny right now. To combat opioid addiction issues, federal regulations have been loosened on buprenorphine prescriptions - but there are still training and access problems hindering the medication&#39;s delivery. Tennessee recently passed a law banning drag shows from being performed in public places and being viewable by minors. Finally, Black equestrians have trouble finding appropriate helmets for their natural hair - raising awareness for an issue that isn&#39;t easy for helmet manufacturers to fix.</p>
+In the US, a prominent South Carolina lawyer was convicted of murdering his wife and son. In Germany, Chancellor Olaf Scholz is visiting the US for discussions amid worries over Ukraine with President Biden. Three people, two Russians, were arrested in Albania on charges of entering an abandoned rifle factory which has led to suspicions about Moscow&#39;s involvement. Fighting continues to escalate in Ukraine as reports suggest that their forces are managing to hold on in Bakhmut. The US News publication has accused Yale and other related law schools of trying to evade accountability by sidestepping the likely end to affirmative action via its ratings. Instagrammers or spies caused confusion after they snuck into a derelict arms plant. Meanwhile, residents in Ohio have been protesting a train company for an derailment as fear and anxiety boil over. The federal government recently loosened regulations to allow more doctors to prescribe opioid treatments although health experts have warned about problems surrounding training and access. Tennessee has banned drag shows on public property due to concerns around them being viewed by minors. Many Black equestrians struggle to find helmets that fit their hair which has sparked efforts from some to raise awareness the issue. Finally, there&#39;s been much speculation regarding Emoni Bates - the 19 year-old basketball player who had been considered the &#39;next LeBron&#39; - and whether he&#39;ll be able to make it all the way into the NBA.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>5 Key Takeaways From the Murdaugh Murders Trial</h3>
+<sub>By Ben Shpigel and Nicholas Bogel-Burroughs</sub>
+<p>The jury on Thursday convicted Alex Murdaugh, a prominent South Carolina lawyer, of murdering his wife and son.  <a href="https://nyti.ms/3Zs4j9G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Germany’s Scholz Visits Washington Amid Worries Over Ukraine ‘End Game’</h3>
 <sub>By Erika Solomon</sub>
@@ -75,16 +81,22 @@ Currently, there is a lot of tension between Germany and Ukraine, as Chancellor 
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The E.U. Offered to Embrace Ukraine, but Now What?</h3>
-<sub>By Steven Erlanger</sub>
-<p>The European Union and NATO have promised a path to membership for the embattled country. But real partnership will hold risks and benefits for both sides.  <a href="https://nyti.ms/3J8pacr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Fighting Intensifies, Ukraine Says Its Forces Are Holding On in Bakhmut</h3>
+<sub>By Marc Santora and Natalia Yermak</sub>
+<p>The city of Bakhmut, in eastern Ukraine, has taken on a deep symbolic resonance for both sides, which have incurred staggering numbers of casualties.  <a href="https://nyti.ms/3KWKUtd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Alex Murdaugh Convicted of Murdering Wife and Son</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>The verdict came less than three hours after jurors began deliberating. It followed a six-week trial that served as a reckoning for Mr. Murdaugh, a lawyer whose life unraveled in recent years.  <a href="https://nyti.ms/3SGlPVm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<h3>Defending Its Rankings, U.S. News Takes Aim at Top Law Schools</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>The publication accuses Yale and other schools of trying to evade accountability — and sidestep a likely end to affirmative action — by opting out of its ratings.  <a href="https://nyti.ms/3ERRfm3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Everyone Loves Flaco the Escaped Owl. But Why, Exactly?</h3>
+<sub>By Michiko Kakutani</sub>
+<p>Owls have beguiled humans forever. And it’s easy to see ourselves in a chubby little homebody who ditched his one-room apartment for the great outdoors.  <a href="https://nyti.ms/3YgHvZl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>As A.I. Booms, Lawmakers Struggle to Understand the Technology</h3>
@@ -92,29 +104,11 @@ Currently, there is a lot of tension between Germany and Ukraine, as Chancellor 
 <p>Tech innovations are again racing ahead of Washington’s ability to regulate them, lawmakers and A.I. experts said.  <a href="https://nyti.ms/3kIAh2x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Unjustifiable Delays’: Rail Safety Upgrade in Greece Stalled for Years</h3>
-<sub>By Monika Pronczuk and Sarah Hurtes</sub>
-<p>The technology would have automatically stopped trains before they collided. Years of delays and neglect have left Greece with a hobbled system.  <a href="https://nyti.ms/3Jav1yd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why We Love Flaco</h3>
-<sub>By Michiko Kakutani</sub>
-<p>Owls have beguiled humans forever. And it’s easy to see ourselves in a chubby little homebody who ditched his one-room apartment for the great outdoors.  <a href="https://nyti.ms/3YgHvZl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Evacuate Us!’ Fear and Anxiety Boil Over as Residents Confront Train Company on Derailment</h3>
 <sub>By Ida Lieszkovszky and Emily Cochrane</sub>
 <p>As a representative for Norfolk Southern tried to apologize and outline its recovery efforts, residents shouted over him at a meeting in East Palestine, Ohio, demanding that the company “do the right thing.”  <a href="https://nyti.ms/3y9ap34"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Defending Its Rankings, U.S. News Takes Aim at Top Law Schools</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>The publication accuses Yale and other schools of trying to evade accountability — and sidestep a likely end to affirmative action — by opting out of its ratings.  <a href="https://nyti.ms/3ERRfm3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>More Doctors Can Now Prescribe a Key Opioid Treatment. Will It Help?</h3>
@@ -133,6 +127,12 @@ Currently, there is a lot of tension between Germany and Ukraine, as Chancellor 
 <sub>By McKenna Oxenden</sub>
 <p>For Black riders with natural hair, finding a helmet that fits can be virtually impossible. Some are trying to raise awareness of the problem, but manufacturers say it’s not a simple fix.  <a href="https://nyti.ms/3Zgbyld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>He Was Billed as the Next LeBron. But Will Emoni Bates Make It at All?</h3>
+<sub>By Billy Witz</sub>
+<p>Bates was on a magazine cover at 15. He was playing Division I college basketball at 17. Now he’s 19, his college career may be over, and N.B.A. success is anything but guaranteed.  <a href="https://nyti.ms/3YfDCUk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
