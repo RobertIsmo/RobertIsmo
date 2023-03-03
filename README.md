@@ -60,16 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 3, Central Standard Time</p>
 <p>
-It looks like a lot of different things are happening across the world right now. In the US, a prominent lawyer is being sentenced to life in prison for murdering his wife and son. There&#39;s a lot of tension and fighting in Ukraine, where their forces are trying to protect a city that has taken on deep symbolic resonance. Germany&#39;s chancellor is in Washington visiting President Biden, which is sparking speculation as to what they might discuss - with many wondering about the &#39;end game&#39; of the war. Several people have been arrested for entering an abandoned rifle factory in Albania and this has been causing suspicions about Moscow. In Tennessee, drag shows will be banned on public property and Black equestrians are struggling to find helmets that fit their natural hair. Lastly, dolphins and whales have been found using vocal fry - which apparently involves making squiggly sounds underwater!</p>
+Right now, there&#39;s a lot of tension in the world, mainly in Ukraine. Russia is accused of committing war crimes and the U.S. Attorney General is trying to hold them accountable. German Chancellor Olaf Scholz has visited Washington to discuss how to end the war in Ukraine. In the US, Democrats are looking for potential Presidential candidates, and U.S. News is taking aim at top law schools regarding their rankings. In other news, breath work is gaining popularity as a way to improve health and well-being. Amazon has paused work on its second headquarters in Virginia due to the effects of remote work. The entertainment industry is also getting a shake-up with intimacy coordinators stepping in on intimate scenes. Finally, scientists are studying the genetic effects of chronic low-level radiation on stray dogs in Chernobyl and discovering vocal fry in marine animals including dolphins and whales!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Key Takeaways From the Murdaugh Murders Trial</h3>
-<sub>By Ben Shpigel and Nicholas Bogel-Burroughs</sub>
-<p>The jury convicted Alex Murdaugh, a prominent South Carolina lawyer, of murdering his wife and son, and he was sentenced to life in prison.  <a href="https://nyti.ms/3Zs4j9G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<h3>Here’s why prosecutors did not seek the death penalty.</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>  <a href="https://nyti.ms/3YznH3H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Fighting Intensifies, Ukraine Says Its Forces Are Holding On in Bakhmut</h3>
+<h3>As fighting intensifies, Ukraine says its forces are still holding Bakhmut.</h3>
 <sub>By Marc Santora and Natalia Yermak</sub>
 <p>The city of Bakhmut, in eastern Ukraine, has taken on a deep symbolic resonance for both sides, which have incurred staggering numbers of casualties.  <a href="https://nyti.ms/3KWKUtd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
@@ -81,9 +81,15 @@ It looks like a lot of different things are happening across the world right now
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Sneaked Into a Derelict Arms Plant: Instagrammers or Spies?</h3>
-<sub>By Andrew Higgins</sub>
-<p>Three people, including two Russians, arrested on charges of entering an abandoned rifle factory have puzzled Albanian authorities at a time when suspicions about Moscow have been mounting.  <a href="https://nyti.ms/3EOuxLC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The U.S. attorney general meets with Zelensky during a surprise visit to Ukraine.</h3>
+<sub>By Glenn Thrush</sub>
+<p>A major topic of talks was how to hold Russia accountable for any war crimes committed over the past year.  <a href="https://nyti.ms/3Jce4mT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Democrats’ SOS Candidate Keeps His Options Open</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Gov. J.B. Pritzker of Illinois has maintained his political organization, built a progressive record and is open about his ambitions. For now, he says, they don’t include the White House.  <a href="https://nyti.ms/3IMm3Ww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,40 +98,34 @@ It looks like a lot of different things are happening across the world right now
 <p>The publication accuses Yale and other schools of trying to evade accountability — and sidestep a likely end to affirmative action — by opting out of its ratings.  <a href="https://nyti.ms/3ERRfm3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Everyone Loves Flaco the Escaped Owl. But Why, Exactly?</h3>
-<sub>By Michiko Kakutani</sub>
-<p>Owls have beguiled humans forever. And it’s easy to see ourselves in a chubby little homebody who ditched his one-room apartment for the great outdoors.  <a href="https://nyti.ms/3YgHvZl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>As A.I. Booms, Lawmakers Struggle to Understand the Technology</h3>
-<sub>By Cecilia Kang and Adam Satariano</sub>
-<p>Tech innovations are again racing ahead of Washington’s ability to regulate them, lawmakers and A.I. experts said.  <a href="https://nyti.ms/3kIAh2x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>The Power of Breath Work</h3>
 <sub>By Alisha Haridasani Gupta, Photographs by Stefano Ortega and Illustration by Aaron Lowell Denton</sub>
 <p>Breathing correctly is a skill — and learning to control it can improve your health, mood and well-being. Here are a few simple exercises to help you get started.  <a href="https://nyti.ms/3Zkd9X5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Amazon Pauses Work on 2nd Headquarters in Virginia</h3>
+<sub>By Karen Weise and Lora Kelley</sub>
+<p>The delay is the latest reminder that the tech industry’s pandemic-fueled boom has slowed and another indicator of how remote work has changed office-space needs.  <a href="https://nyti.ms/3mqZFKt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>When Clothes Fly Off, This Intimacy Coordinator Steps In</h3>
+<sub>By Jennifer Harlan</sub>
+<p>Jessica Steinrock’s work on intimate scenes in film has come to prominence as the entertainment industry reels from the litany of sexual abuses brought to light by the #MeToo movement.  <a href="https://nyti.ms/3Yccndp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>In Chernobyl’s Stray Dogs, Geneticists Find Nuclear Families</h3>
+<sub>By Emily Anthes</sub>
+<p>A new study is the first step in an effort to understand how exposure to chronic, low-level radiation has affected the area’s dogs.  <a href="https://nyti.ms/3JecpNS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Dasha Zhukova’s Artful Rise</h3>
 <sub>By Caitlin Moscatello</sub>
-<p>The oligarch’s ex-wife had carefully built a place for herself in the art world. And then, Putin’s war started.  <a href="https://nyti.ms/3kCIfuc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tennessee Bans Drag Shows on Public Property</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>The law, which takes effect later this year, will also make it illegal to perform the shows in places where they could be viewed by minors.  <a href="https://nyti.ms/3Yg7Y9p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Black Equestrians Want to Be Safe. But They Can’t Find Helmets.</h3>
-<sub>By McKenna Oxenden</sub>
-<p>For Black riders with natural hair, finding a helmet that fits can be virtually impossible. Some are trying to raise awareness of the problem, but manufacturers say it’s not a simple fix.  <a href="https://nyti.ms/3Zgbyld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The oligarch’s ex-wife had carefully built a place for herself in the art world. And then, Putin’s war started.  <a href="https://nyti.ms/3Jbxgkx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
