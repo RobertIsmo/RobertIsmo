@@ -60,24 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 3, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of tension in the world, mainly in Ukraine. Russia is accused of committing war crimes and the U.S. Attorney General is trying to hold them accountable. German Chancellor Olaf Scholz has visited Washington to discuss how to end the war in Ukraine. In the US, Democrats are looking for potential Presidential candidates, and U.S. News is taking aim at top law schools regarding their rankings. In other news, breath work is gaining popularity as a way to improve health and well-being. Amazon has paused work on its second headquarters in Virginia due to the effects of remote work. The entertainment industry is also getting a shake-up with intimacy coordinators stepping in on intimate scenes. Finally, scientists are studying the genetic effects of chronic low-level radiation on stray dogs in Chernobyl and discovering vocal fry in marine animals including dolphins and whales!</p>
+There is a lot happening in the world right now! President Biden recently met with the German chancellor, Olaf Scholz, to discuss plans to provide military support to Ukraine. In the east Ukrainian city of Bakhmut, there is an ongoing battle between Ukrainian and Russian forces for control. The U.S. attorney general held talks with Ukraine&#39;s President Zelensky about seeking justice for war crimes committed. In the US, Alex Murdaugh was sentenced to life in prison for murdering his wife and son, and Democrats’ SOS candidate J.B. Pritzker has been building a progressive record but has not declared his plans for the White House just yet. There is a growing outrage among members of Congress over underage migrant labor and U.S. News starts a heated debate with top law schools in response to their rankings system. On a more positive note, Jessica Steinrock has developed a job as an intimacy coordinator working on film sets since the #Metoo movement took off in 2017. Finally, Biden awarded Medal of Honor to Black Vietnam Veteran Paris Davis, who had his nomination blocked in 1965 due to racial bias and was only just recognized now. Scientists are also doing research into Chernobyl&#39;s stray dogs to understand how chronic, low level radiation has affected them in the area.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here’s why prosecutors did not seek the death penalty.</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>  <a href="https://nyti.ms/3YznH3H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Meets With German Chancellor Amid Concerns Over Ukraine and China</h3>
+<sub>By Katie Rogers</sub>
+<p>President Biden said he and Germany’s chancellor, Olaf Scholz, would work in “lock step” to provide military support to Ukraine.  <a href="https://nyti.ms/41MOEUj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As fighting intensifies, Ukraine says its forces are still holding Bakhmut.</h3>
-<sub>By Marc Santora and Natalia Yermak</sub>
-<p>The city of Bakhmut, in eastern Ukraine, has taken on a deep symbolic resonance for both sides, which have incurred staggering numbers of casualties.  <a href="https://nyti.ms/3KWKUtd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Germany’s Scholz Visits Washington Amid Worries Over Ukraine ‘End Game’</h3>
-<sub>By Erika Solomon</sub>
-<p>Chancellor Olaf Scholz arrives Friday for a quiet working visit with President Biden, sparking speculation that they will discuss tough questions on how to end the war.  <a href="https://nyti.ms/3INslF1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Ukraine Clings to Bakhmut, What’s Its Strategy and What’s at Stake?</h3>
+<sub>By Marc Santora</sub>
+<p>Ukraine is determined to hold the eastern city as long as it can. How high a price is it willing to pay? What might force its withdrawal? And what would a retreat look like — and mean?  <a href="https://nyti.ms/3mrgCVv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -87,15 +81,15 @@ Right now, there&#39;s a lot of tension in the world, mainly in Ukraine. Russia 
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Democrats’ SOS Candidate Keeps His Options Open</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Gov. J.B. Pritzker of Illinois has maintained his political organization, built a progressive record and is open about his ambitions. For now, he says, they don’t include the White House.  <a href="https://nyti.ms/3IMm3Ww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Condemning Murdaugh’s ‘Lies,’ Judge Sentences Him to Life in Prison</h3>
+<sub>By Nicholas Bogel-Burroughs and Jacey Fortin</sub>
+<p>The sentence was the maximum that the judge could hand down for the murders of Alex Murdaugh’s wife and son, given that prosecutors had not sought the death penalty.  <a href="https://nyti.ms/3mgm90K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Defending Its Rankings, U.S. News Takes Aim at Top Law Schools</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>The publication accuses Yale and other schools of trying to evade accountability — and sidestep a likely end to affirmative action — by opting out of its ratings.  <a href="https://nyti.ms/3ERRfm3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Democrats’ SOS Candidate Keeps His Options Open</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Gov. J.B. Pritzker of Illinois has maintained his political organization, built a progressive record and is open about his ambitions. For now, he says, they don’t include the White House.  <a href="https://nyti.ms/3IMm3Ww"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
@@ -104,10 +98,16 @@ Right now, there&#39;s a lot of tension in the world, mainly in Ukraine. Russia 
 <p>Breathing correctly is a skill — and learning to control it can improve your health, mood and well-being. Here are a few simple exercises to help you get started.  <a href="https://nyti.ms/3Zkd9X5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Amazon Pauses Work on 2nd Headquarters in Virginia</h3>
-<sub>By Karen Weise and Lora Kelley</sub>
-<p>The delay is the latest reminder that the tech industry’s pandemic-fueled boom has slowed and another indicator of how remote work has changed office-space needs.  <a href="https://nyti.ms/3mqZFKt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lawmakers Clamor for Action on Child Migrant Labor as Outrage Grows</h3>
+<sub>By Hannah Dreier and Luke Broadwater</sub>
+<p>Members of Congress are pressing for changes to the law and the Biden administration’s approach as federal and state enforcement agencies begin a crackdown on companies that employ underage migrants.  <a href="https://nyti.ms/3Ld1bdV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Defending Its Rankings, U.S. News Takes Aim at Top Law Schools</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>The publication accuses Yale and other schools of trying to evade accountability — and sidestep a likely end to affirmative action — by opting out of its ratings.  <a href="https://nyti.ms/3ERRfm3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -116,8 +116,14 @@ Right now, there&#39;s a lot of tension in the world, mainly in Ukraine. Russia 
 <p>Jessica Steinrock’s work on intimate scenes in film has come to prominence as the entertainment industry reels from the litany of sexual abuses brought to light by the #MeToo movement.  <a href="https://nyti.ms/3Yccndp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Awards Medal of Honor to Black Vietnam Veteran</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>Col. Paris Davis’s nomination in 1965, for saving three teammates while injured in battle, hit a wall. It was revived in recent years.  <a href="https://nyti.ms/3YjP0Pd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>In Chernobyl’s Stray Dogs, Geneticists Find Nuclear Families</h3>
+<h3>In Chernobyl’s Stray Dogs, Scientists Look for Genetic Effects of Radiation</h3>
 <sub>By Emily Anthes</sub>
 <p>A new study is the first step in an effort to understand how exposure to chronic, low-level radiation has affected the area’s dogs.  <a href="https://nyti.ms/3JecpNS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
@@ -127,12 +133,6 @@ Right now, there&#39;s a lot of tension in the world, mainly in Ukraine. Russia 
 <sub>By Caitlin Moscatello</sub>
 <p>The oligarch’s ex-wife had carefully built a place for herself in the art world. And then, Putin’s war started.  <a href="https://nyti.ms/3Jbxgkx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Who’s Using Vocal Fry in the Ocean? Dolphins and Whaaaaales.</h3>
-<sub>By Sam Jones</sub>
-<p>Be right back, diving for a giant squiiiiiid.  <a href="https://nyti.ms/3Z6JPDr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
