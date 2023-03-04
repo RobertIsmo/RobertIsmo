@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 4, Central Standard Time</p>
 <p>
-It&#39;s been a busy couple of weeks across the world. In the US, there&#39;s been a legal challenge to the FDA’s regulations on abortion pills, while protests near Atlanta over a police and fire training center have turned violent. Out West, heavy snowfall has trapped people in Southern California&#39;s San Bernardino Mountains, leaving them to ration food and plead for help. Meanwhile, in Ukraine, the country is holding onto a city called Bakhmut by force, as it tries to fend off pressure from Russia. Elsewhere overseas, China is increasingly viewed as an antagonist in diplomatic talks between global leaders and diplomats, usually siding with Russia. Closer to home in the US, retail executives say that any sales growth will be much smaller than in years past as inflation squeezes lower-income shoppers. And to top it all off, Tom Sizemore – an intense actor well known for his roles in &#39;Saving Private Ryan&#39; and &#39;Black Hawk Down&#39; – died at 61.</p>
+In the US, abortion rights are under threat and abortion access is increasingly limited due to various restrictions in surrounding states. In Ukraine, tensions are high as Russia continues to encircle the city of Bakhmut. Around the globe, China is emerging as a diplomatic influencer and often siding with Russia. Businesses are struggling to adapt to an ever-changing economy during inflations, leading to lower sales. Southern California has been hit with back-to-back snowstorms, leaving residents stranded and rationing food. Meanwhile in Georgia, activists are taking a stand against a police and fire training center proposed near Atlanta. Lastly, Pamela Smart from the well-known &#39;To Die For&#39; case is hoping for freedom from New Hampshire authorities.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How the Fall of Roe Turned North Carolina Into an Abortion Destination</h3>
 <sub>By Kate Kelly</sub>
-<p>The state, surrounded by neighbors with abortion bans and restrictions, has had a 37 percent rise in abortions since the constitutional right to abortion was overturned.  <a href="https://nyti.ms/41JMa92"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The state, surrounded by neighbors with abortion bans and restrictions, has had a 37 percent rise in abortions since the constitutional right to abortion was overturned.  <a href="https://nyti.ms/3JaPrH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,10 +74,34 @@ It&#39;s been a busy couple of weeks across the world. In the US, there&#39;s be
 <p>A lawsuit is challenging the F.D.A.’s approval of medication abortion. Data shows the consequences could be far-reaching.  <a href="https://nyti.ms/3IFJ5Ox"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A New Front Line in the Debate Over Policing: a Forest Near Atlanta</h3>
-<sub>By Sean Keenan and Joseph Goldstein</sub>
-<p>Six weeks after a protester was shot and killed, officials are bracing for more confrontations with activists seeking to stop a police and fire training center.  <a href="https://nyti.ms/3EUtlGg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With Ukraine Under Pressure in Bakhmut, Fight Becomes a Battle Over Roads</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Ukraine’s military said that Russia was continuing its efforts to encircle the city but that it had beaten back several attacks.  <a href="https://nyti.ms/3ITjbHc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Ukraine Clings to Bakhmut, What’s Its Strategy and What’s at Stake?</h3>
+<sub>By Marc Santora</sub>
+<p>Ukraine is determined to hold the eastern city as long as it can. How high a price is it willing to pay? What might force its withdrawal? And what would a retreat look like — and mean?  <a href="https://nyti.ms/3mrgCVv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Increasingly Seen as Antagonist in Diplomatic Talks Around the World</h3>
+<sub>By Edward Wong</sub>
+<p>Tensions over China arise in many gatherings of global leaders and diplomats, as Beijing increasingly plays a spoiler role, often siding with Russia.  <a href="https://nyti.ms/3mkRmA0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Is the Entire Economy Gentrifying?</h3>
+<sub>By Jason Karaian and Jeanna Smialek</sub>
+<p>Companies are trying to maintain fat profits as the economy changes, making “premiumization” their new favorite buzzword.  <a href="https://nyti.ms/3mp7vEF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Retailers Lay Out a Downbeat Outlook as Inflation Squeezes Low-Income Shoppers</h3>
+<sub>By Jordyn Holman</sub>
+<p>Despite better-than-expected earnings, retail executives predict that any sales growth will be much smaller than in years past.  <a href="https://nyti.ms/3JmIOBX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,41 +122,17 @@ It&#39;s been a busy couple of weeks across the world. In the US, there&#39;s be
 <p>A legal quirk leaves officials in at least a dozen states with little or no authority to protect insects. That’s a growing problem for humans.  <a href="https://nyti.ms/3Jfn5f7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Ukraine Clings to Bakhmut, What’s Its Strategy and What’s at Stake?</h3>
-<sub>By Marc Santora</sub>
-<p>Ukraine is determined to hold the eastern city as long as it can. How high a price is it willing to pay? What might force its withdrawal? And what would a retreat look like — and mean?  <a href="https://nyti.ms/3mrgCVv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Ukraine Under Pressure in Bakhmut, Fight Becomes a Battle Over Roads</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Ukraine’s military said that Russia was continuing its efforts to encircle the city but that it had beaten back several attacks.  <a href="https://nyti.ms/3ITjbHc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A New Front Line in the Debate Over Policing: A Forest Near Atlanta</h3>
+<sub>By Sean Keenan and Joseph Goldstein</sub>
+<p>Six weeks after a protester was shot and killed, officials are bracing for more confrontations with activists seeking to stop a police and fire training center.  <a href="https://nyti.ms/3EUtlGg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Increasingly Seen as Antagonist in Diplomatic Talks Around the World</h3>
-<sub>By Edward Wong</sub>
-<p>Tensions over China arise in many gatherings of global leaders and diplomats, as Beijing increasingly plays a spoiler role, often siding with Russia.  <a href="https://nyti.ms/3mkRmA0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Is the Entire Economy Gentrifying?</h3>
-<sub>By Jason Karaian and Jeanna Smialek</sub>
-<p>Companies are trying to maintain fat profits as the economy changes, making “premiumization” their new favorite buzzword.  <a href="https://nyti.ms/3mp7vEF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Remember Pamela Smart? ‘To Die For’ Convict Now Seeks Mercy.</h3>
+<sub>By Corey Kilgannon</sub>
+<p>The woman who became a national sensation in 1990 after her teenage lover killed her husband has become a prison preacher. She hopes New Hampshire will set her free.  <a href="https://nyti.ms/3JcAuVb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Retailers Lay Out a Downbeat Outlook as Inflation Squeezes Low-Income Shoppers</h3>
-<sub>By Jordyn Holman</sub>
-<p>Despite better-than-expected earnings, retail executives predict that any sales growth will be much smaller than in years past.  <a href="https://nyti.ms/3JmIOBX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Tom Sizemore, Intense Actor With a Troubled Life, Dies at 61</h3>
-<sub>By Richard Sandomir</sub>
-<p>He earned praise for his work in films like “Saving Private Ryan” and “Black Hawk Down.” He also served prison time for drug possession and domestic abuse.  <a href="https://nyti.ms/3YliU5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
