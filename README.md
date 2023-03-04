@@ -60,24 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 4, Central Standard Time</p>
 <p>
-In the US, abortion rights are under threat and abortion access is increasingly limited due to various restrictions in surrounding states. In Ukraine, tensions are high as Russia continues to encircle the city of Bakhmut. Around the globe, China is emerging as a diplomatic influencer and often siding with Russia. Businesses are struggling to adapt to an ever-changing economy during inflations, leading to lower sales. Southern California has been hit with back-to-back snowstorms, leaving residents stranded and rationing food. Meanwhile in Georgia, activists are taking a stand against a police and fire training center proposed near Atlanta. Lastly, Pamela Smart from the well-known &#39;To Die For&#39; case is hoping for freedom from New Hampshire authorities.</p>
+It looks like lots of interesting things are going on in the world right now. In the US, North Carolina has seen a rise in abortion visits since Roe vs. Wade was overturned and Walgreens announced that it won&#39;t offer the abortion pill in some conservative states.
+
+In international news, Ukraine is engaged in a battle with Russia over roads that lead to the eastern city of Bakhmut, while China&#39;s tactics at diplomatic talks are resulting in increased tensions around the globe.
+
+Closer to home, business owners are struggling to keep afloat as consumers turn to premium items and inflation squeezes lower-income shoppers. In California, heavy snowfall has left people rationing food and stranded for days. Meanwhile, an old legal quirk poses an urgent problem for wildlife as officials lack authority over insect populations facing decline. Finally, protests have erupted over another police training center near Atlanta and Pamela Smart—recipient of the movie To Die For—is petitioning for mercy from the New Hampshire governor.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How the Fall of Roe Turned North Carolina Into an Abortion Destination</h3>
 <sub>By Kate Kelly</sub>
-<p>The state, surrounded by neighbors with abortion bans and restrictions, has had a 37 percent rise in abortions since the constitutional right to abortion was overturned.  <a href="https://nyti.ms/3JaPrH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The state, which is near others with abortion bans and restrictions, has had a 37 percent rise in abortions since the constitutional right to abortion was overturned.  <a href="https://nyti.ms/3JaPrH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where Restrictions on Abortion Pills Could Matter Most in the U.S.</h3>
-<sub>By Allison McCann and Amy Schoenfeld Walker</sub>
-<p>A lawsuit is challenging the F.D.A.’s approval of medication abortion. Data shows the consequences could be far-reaching.  <a href="https://nyti.ms/3IFJ5Ox"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Walgreens Says It Won’t Offer the Abortion Pill Mifepristone in Conservative States</h3>
+<sub>By Pam Belluck</sub>
+<p>The decision applies to 21 states whose attorneys general threatened Walgreens and other pharmacies with legal action if they dispensed the pill there.  <a href="https://nyti.ms/3KVOu6R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>With Ukraine Under Pressure in Bakhmut, Fight Becomes a Battle Over Roads</h3>
 <sub>By Andrew E. Kramer</sub>
-<p>Ukraine’s military said that Russia was continuing its efforts to encircle the city but that it had beaten back several attacks.  <a href="https://nyti.ms/3ITjbHc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ukraine’s military said that Russia was inching ahead in its efforts to encircle the city but that it had beaten back several attacks on supply routes.  <a href="https://nyti.ms/3ITjbHc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
