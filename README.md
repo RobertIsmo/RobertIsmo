@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 3, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now! President Biden recently met with the German chancellor, Olaf Scholz, to discuss plans to provide military support to Ukraine. In the east Ukrainian city of Bakhmut, there is an ongoing battle between Ukrainian and Russian forces for control. The U.S. attorney general held talks with Ukraine&#39;s President Zelensky about seeking justice for war crimes committed. In the US, Alex Murdaugh was sentenced to life in prison for murdering his wife and son, and Democrats’ SOS candidate J.B. Pritzker has been building a progressive record but has not declared his plans for the White House just yet. There is a growing outrage among members of Congress over underage migrant labor and U.S. News starts a heated debate with top law schools in response to their rankings system. On a more positive note, Jessica Steinrock has developed a job as an intimacy coordinator working on film sets since the #Metoo movement took off in 2017. Finally, Biden awarded Medal of Honor to Black Vietnam Veteran Paris Davis, who had his nomination blocked in 1965 due to racial bias and was only just recognized now. Scientists are also doing research into Chernobyl&#39;s stray dogs to understand how chronic, low level radiation has affected them in the area.</p>
+There is a lot happening in the world right now. President Biden has met with German Chancellor Olaf Scholz to provide military support to Ukraine, and there is a lot of discussion about what would happen if Russia was held responsible for any war crimes committed over the past year. In Southern California, there has been days of snowfall trapping people, and a murderer was sentenced to life in prison after lying to the judge. Democrat Illinois Governor J.B. Pritzker has ambitions, but has said that they don’t include the White House currently. People are also clamoring for action on child migrant labor and Jessica Steinrock does work to make sure that scenes with intimacy in film are done correctly and safely. Additionally, a Medal of Honor for Paris Davis was recently awarded and there&#39;s a study looking into the genetic effects of radiation from Chernobyl on stray dogs. Finally, Dasha Zhukova’s artful rise has come up against Putin&#39;s war.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Meets With German Chancellor Amid Concerns Over Ukraine and China</h3>
@@ -78,6 +78,12 @@ There is a lot happening in the world right now! President Biden recently met wi
 <h3>The U.S. attorney general meets with Zelensky during a surprise visit to Ukraine.</h3>
 <sub>By Glenn Thrush</sub>
 <p>A major topic of talks was how to hold Russia accountable for any war crimes committed over the past year.  <a href="https://nyti.ms/3Jce4mT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Southern California, Snow Has Trapped People for Days</h3>
+<sub>By Jill Cowan and Vik Jolly</sub>
+<p>A week of intense snowfall in the San Bernardino Mountains has left residents and tourists rationing food and pleading for help.  <a href="https://nyti.ms/3SPIb71"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -102,12 +108,6 @@ There is a lot happening in the world right now! President Biden recently met wi
 <h3>Lawmakers Clamor for Action on Child Migrant Labor as Outrage Grows</h3>
 <sub>By Hannah Dreier and Luke Broadwater</sub>
 <p>Members of Congress are pressing for changes to the law and the Biden administration’s approach as federal and state enforcement agencies begin a crackdown on companies that employ underage migrants.  <a href="https://nyti.ms/3Ld1bdV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Defending Its Rankings, U.S. News Takes Aim at Top Law Schools</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>The publication accuses Yale and other schools of trying to evade accountability — and sidestep a likely end to affirmative action — by opting out of its ratings.  <a href="https://nyti.ms/3ERRfm3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
