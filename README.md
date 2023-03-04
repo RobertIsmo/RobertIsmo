@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, March 3, Central Standard Time</p>
+<p>It is Saturday, March 4, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. President Biden has met with German Chancellor Olaf Scholz to provide military support to Ukraine, and there is a lot of discussion about what would happen if Russia was held responsible for any war crimes committed over the past year. In Southern California, there has been days of snowfall trapping people, and a murderer was sentenced to life in prison after lying to the judge. Democrat Illinois Governor J.B. Pritzker has ambitions, but has said that they don’t include the White House currently. People are also clamoring for action on child migrant labor and Jessica Steinrock does work to make sure that scenes with intimacy in film are done correctly and safely. Additionally, a Medal of Honor for Paris Davis was recently awarded and there&#39;s a study looking into the genetic effects of radiation from Chernobyl on stray dogs. Finally, Dasha Zhukova’s artful rise has come up against Putin&#39;s war.</p>
+There is a lot of action going on in the world right now. For instance, President Biden recently met with German Chancellor Olaf Scholz and discussed providing military support to Ukraine. In Ukraine itself, the topic of conversation between the US attorney general and President Zelensky was how to hold Russia accountable for any war crimes committed in the past year. Here in the US, California is feeling the effects of back-to-back snowstorms that have trapped people inside their homes for days. There has also been a legal development as Alex Murdaugh was sentenced to life in prison after being found guilty of murdering his wife and son. On a lighter note, Illinois governor J.B Pritzker is open about his ambitions, though does not include the White House for now. Additionally, there has been news about how learning the correct way to breath can improve your health and Jessica Steinrock is doing important work as an intimacy coordinator in film to ensure safety following the MeToo movement. Finally, President Biden has awarded Medal of Honor to Black Vietnam Veteran Col. Paris Davis for his acts of courage during battle.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Meets With German Chancellor Amid Concerns Over Ukraine and China</h3>
@@ -87,6 +87,12 @@ There is a lot happening in the world right now. President Biden has met with Ge
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Stranded in California’s Heavy Snow</h3>
+<sub>By Christine Hauser</sub>
+<p>Back-to-back storms left many people stuck as snow piled high. More is still in the forecast.  <a href="https://nyti.ms/3KW7W3E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Condemning Murdaugh’s ‘Lies,’ Judge Sentences Him to Life in Prison</h3>
 <sub>By Nicholas Bogel-Burroughs and Jacey Fortin</sub>
 <p>The sentence was the maximum that the judge could hand down for the murders of Alex Murdaugh’s wife and son, given that prosecutors had not sought the death penalty.  <a href="https://nyti.ms/3mgm90K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -110,6 +116,12 @@ There is a lot happening in the world right now. President Biden has met with Ge
 <p>Members of Congress are pressing for changes to the law and the Biden administration’s approach as federal and state enforcement agencies begin a crackdown on companies that employ underage migrants.  <a href="https://nyti.ms/3Ld1bdV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Tom Sizemore, Intense Actor With a Troubled Life, Dies at 61</h3>
+<sub>By Richard Sandomir</sub>
+<p>He earned praise for his work in films like “Saving Private Ryan” and “Black Hawk Down.” He also served prison time for drug possession and domestic abuse.  <a href="https://nyti.ms/3YliU5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>When Clothes Fly Off, This Intimacy Coordinator Steps In</h3>
 <sub>By Jennifer Harlan</sub>
@@ -120,18 +132,6 @@ There is a lot happening in the world right now. President Biden has met with Ge
 <h3>Biden Awards Medal of Honor to Black Vietnam Veteran</h3>
 <sub>By Zolan Kanno-Youngs</sub>
 <p>Col. Paris Davis’s nomination in 1965, for saving three teammates while injured in battle, hit a wall. It was revived in recent years.  <a href="https://nyti.ms/3YjP0Pd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>In Chernobyl’s Stray Dogs, Scientists Look for Genetic Effects of Radiation</h3>
-<sub>By Emily Anthes</sub>
-<p>A new study is the first step in an effort to understand how exposure to chronic, low-level radiation has affected the area’s dogs.  <a href="https://nyti.ms/3JecpNS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Dasha Zhukova’s Artful Rise</h3>
-<sub>By Caitlin Moscatello</sub>
-<p>The oligarch’s ex-wife had carefully built a place for herself in the art world. And then, Putin’s war started.  <a href="https://nyti.ms/3Jbxgkx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
