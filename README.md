@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 4, Central Standard Time</p>
 <p>
-It looks like lots of interesting things are going on in the world right now. In the US, North Carolina has seen a rise in abortion visits since Roe vs. Wade was overturned and Walgreens announced that it won&#39;t offer the abortion pill in some conservative states.
-
-In international news, Ukraine is engaged in a battle with Russia over roads that lead to the eastern city of Bakhmut, while China&#39;s tactics at diplomatic talks are resulting in increased tensions around the globe.
-
-Closer to home, business owners are struggling to keep afloat as consumers turn to premium items and inflation squeezes lower-income shoppers. In California, heavy snowfall has left people rationing food and stranded for days. Meanwhile, an old legal quirk poses an urgent problem for wildlife as officials lack authority over insect populations facing decline. Finally, protests have erupted over another police training center near Atlanta and Pamela Smart—recipient of the movie To Die For—is petitioning for mercy from the New Hampshire governor.</p>
+There&#39;s a lot happening in the world right now! In Ukraine, their helicopter brigades are continuing to fight against the odds in their ongoing war effort. Meanwhile, North Carolina has seen a 37% rise in abortions since the overturn of the constitutional rights to abortion and Walgreens is not offering the abortion pill Mifepristone in 21 conservative states due to threatened legal action. A legal quirk has left officials with little or no authority to protect insects, which is a growing problem for humans. Companies are trying to maintain fat profits by making &quot;premiumization&quot; their new favorite buzzword in the economy while a protester was shot and killed near Atlanta at a police and fire training center. Donald Trump is getting ready to battle it out in the primary election while Pamela Smart, a woman convicted after her teenage lover killed her husband, is now hoping to get mercy from New Hampshire. Additionally, a couple in Singapore has been fined $17,000 for running an adult Telegram account and Tom Sizemore, an intense actor with a troubled life, recently passed away at 61. Lastly, The New York Times News Quiz for March 3 is out where you can test your knowledge of recent news stories.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Whirring Into Action in Ukraine’s Skies</h3>
+<sub>By Carlotta Gall and Daniel Berehulak</sub>
+<p>Against the odds, Ukraine’s helicopter brigades are not only still operational, but are an inspirational component of its war effort.  <a href="https://nyti.ms/3EV2JVP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How the Fall of Roe Turned North Carolina Into an Abortion Destination</h3>
 <sub>By Kate Kelly</sub>
@@ -73,27 +75,9 @@ Closer to home, business owners are struggling to keep afloat as consumers turn 
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Walgreens Says It Won’t Offer the Abortion Pill Mifepristone in Conservative States</h3>
+<h3>Walgreens Says It Won’t Offer the Abortion Pill Mifepristone in 21 States</h3>
 <sub>By Pam Belluck</sub>
-<p>The decision applies to 21 states whose attorneys general threatened Walgreens and other pharmacies with legal action if they dispensed the pill there.  <a href="https://nyti.ms/3KVOu6R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Ukraine Under Pressure in Bakhmut, Fight Becomes a Battle Over Roads</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Ukraine’s military said that Russia was inching ahead in its efforts to encircle the city but that it had beaten back several attacks on supply routes.  <a href="https://nyti.ms/3ITjbHc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Ukraine Clings to Bakhmut, What’s Its Strategy and What’s at Stake?</h3>
-<sub>By Marc Santora</sub>
-<p>Ukraine is determined to hold the eastern city as long as it can. How high a price is it willing to pay? What might force its withdrawal? And what would a retreat look like — and mean?  <a href="https://nyti.ms/3mrgCVv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Increasingly Seen as Antagonist in Diplomatic Talks Around the World</h3>
-<sub>By Edward Wong</sub>
-<p>Tensions over China arise in many gatherings of global leaders and diplomats, as Beijing increasingly plays a spoiler role, often siding with Russia.  <a href="https://nyti.ms/3mkRmA0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The decision applies to conservative states whose attorneys general threatened Walgreens and other pharmacies with legal action if they dispensed the pill there.  <a href="https://nyti.ms/3KVOu6R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -101,24 +85,6 @@ Closer to home, business owners are struggling to keep afloat as consumers turn 
 <sub>By Jason Karaian and Jeanna Smialek</sub>
 <p>Companies are trying to maintain fat profits as the economy changes, making “premiumization” their new favorite buzzword.  <a href="https://nyti.ms/3mp7vEF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Retailers Lay Out a Downbeat Outlook as Inflation Squeezes Low-Income Shoppers</h3>
-<sub>By Jordyn Holman</sub>
-<p>Despite better-than-expected earnings, retail executives predict that any sales growth will be much smaller than in years past.  <a href="https://nyti.ms/3JmIOBX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Southern California, Snow Has Trapped People for Days</h3>
-<sub>By Jill Cowan and Vik Jolly</sub>
-<p>A week of intense snowfall in the San Bernardino Mountains has left residents and tourists rationing food and pleading for help.  <a href="https://nyti.ms/3SPIb71"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Stranded in California’s Heavy Snow</h3>
-<sub>By Christine Hauser</sub>
-<p>Back-to-back storms left many people stuck as snow piled high. More is still in the forecast.  <a href="https://nyti.ms/3KW7W3E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Are Butterflies Wildlife? Depends Where You Live.</h3>
@@ -132,11 +98,41 @@ Closer to home, business owners are struggling to keep afloat as consumers turn 
 <p>Six weeks after a protester was shot and killed, officials are bracing for more confrontations with activists seeking to stop a police and fire training center.  <a href="https://nyti.ms/3EUtlGg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Eyeing DeSantis, Trump Readies for a Long Primary Battle</h3>
+<sub>By Shane Goldmacher, Michael C. Bender and Maggie Haberman</sub>
+<p>Donald Trump will be basking in affection from activists at CPAC on Saturday. But his campaign is preparing for an ugly, protracted primary fight for the nomination.  <a href="https://nyti.ms/3KX5BFj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Remember Pamela Smart? ‘To Die For’ Convict Now Seeks Mercy.</h3>
 <sub>By Corey Kilgannon</sub>
 <p>The woman who became a national sensation in 1990 after her teenage lover killed her husband has become a prison preacher. She hopes New Hampshire will set her free.  <a href="https://nyti.ms/3JcAuVb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>They Shared Erotic Images in a Group Chat. The Fine: $17,000.</h3>
+<sub>By Sui-Lee Wee</sub>
+<p>A couple in Singapore created a Telegram account where they posted risqué content for subscribers. They were convicted of violating nudity and obscenity laws.  <a href="https://nyti.ms/3YAzgHT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Tom Sizemore, Intense Actor With a Troubled Life, Dies at 61</h3>
+<sub>By Richard Sandomir</sub>
+<p>He earned praise for his work in films like “Saving Private Ryan” and “Black Hawk Down.” He also served prison time for drug possession and domestic abuse.  <a href="https://nyti.ms/3YliU5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Christine Chun</sub>
+<p>The Hotel Pennsylvania’s disappearing act. Also in this edition: 36 hours in Rio de Janeiro and why everyone loves Flaco the escaped owl.  <a href="https://nyti.ms/41IwOlf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, March 3, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3mmGSjG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
