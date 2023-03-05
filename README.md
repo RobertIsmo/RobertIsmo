@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 4, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now! In Ukraine, their helicopter brigades are continuing to fight against the odds in their ongoing war effort. Meanwhile, North Carolina has seen a 37% rise in abortions since the overturn of the constitutional rights to abortion and Walgreens is not offering the abortion pill Mifepristone in 21 conservative states due to threatened legal action. A legal quirk has left officials with little or no authority to protect insects, which is a growing problem for humans. Companies are trying to maintain fat profits by making &quot;premiumization&quot; their new favorite buzzword in the economy while a protester was shot and killed near Atlanta at a police and fire training center. Donald Trump is getting ready to battle it out in the primary election while Pamela Smart, a woman convicted after her teenage lover killed her husband, is now hoping to get mercy from New Hampshire. Additionally, a couple in Singapore has been fined $17,000 for running an adult Telegram account and Tom Sizemore, an intense actor with a troubled life, recently passed away at 61. Lastly, The New York Times News Quiz for March 3 is out where you can test your knowledge of recent news stories.</p>
+It has been a busy week in the news! In the United States, President Trump is preparing for a potential long fight to secure the GOP nomination, and has declared that he wouldn’t think twice about staying in the 2024 race if he were to be indicted. Meanwhile, Ukrainian helicopter brigades are proving inspirational components of the war effort and Fox News is facing criticism over its handling of the 2020 election results. On an international scale, China is strategizing for economic growth and strengthening its Communist Party ties, and Singapore has imposed an $17,000 fine on a couple accused of posting risqué images in a private Telegram chat. Lastly, fans of Major League Baseball are excitedly awaiting the start of the “pitch clock era” while those in New York City are scrambling to enjoy all the offerings of the beloved Hotel Pennsylvania before it disappears.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Eyeing DeSantis, Trump Readies for a Long Primary Battle</h3>
+<sub>By Shane Goldmacher, Michael C. Bender and Maggie Haberman</sub>
+<p>Donald Trump basked in affection from activists at CPAC on Saturday. But his campaign is preparing for an ugly, protracted primary fight for the nomination — and pledging even an indictment would not stop him.  <a href="https://nyti.ms/3KX5BFj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Says He Would Stay in 2024 Race if Indicted</h3>
+<sub>By Michael C. Bender, Maggie Haberman and Shane Goldmacher</sub>
+<p>Donald Trump said he “wouldn’t even think about” dropping out of the race for the White House if he’s indicted. The former president has increasingly used his campaign as a cudgel against investigators.  <a href="https://nyti.ms/3y9ogX4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Whirring Into Action in Ukraine’s Skies</h3>
 <sub>By Carlotta Gall and Daniel Berehulak</sub>
@@ -69,15 +81,21 @@ There&#39;s a lot happening in the world right now! In Ukraine, their helicopter
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Fall of Roe Turned North Carolina Into an Abortion Destination</h3>
-<sub>By Kate Kelly</sub>
-<p>The state, which is near others with abortion bans and restrictions, has had a 37 percent rise in abortions since the constitutional right to abortion was overturned.  <a href="https://nyti.ms/3JaPrH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Inside the Panic at Fox News After the 2020 Election</h3>
+<sub>By Peter Baker</sub>
+<p>“If we hadn’t called Arizona,” said Suzanne Scott, the network’s chief executive, according to a recording reviewed by The New York Times, “our ratings would have been bigger.”  <a href="https://nyti.ms/41GgyRT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Walgreens Says It Won’t Offer the Abortion Pill Mifepristone in 21 States</h3>
-<sub>By Pam Belluck</sub>
-<p>The decision applies to conservative states whose attorneys general threatened Walgreens and other pharmacies with legal action if they dispensed the pill there.  <a href="https://nyti.ms/3KVOu6R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Conservative Media Pay Little Attention to Revelations About Fox News</h3>
+<sub>By Katie Robertson and Stuart A. Thompson</sub>
+<p>Even in today’s highly partisan media world, experts said, the lack of coverage about the private comments of Fox’s top executives and hosts stands out.  <a href="https://nyti.ms/3kOxyoj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Xi Jinping Plans to Bolster Confidence in China After Covid Missteps</h3>
+<sub>By Chang Che</sub>
+<p>When its top legislature meets, Beijing will lay out a vision for reviving economic growth and strengthening the Communist Party’s grip after a chaotic reopening.  <a href="https://nyti.ms/3EXWd0t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -86,22 +104,10 @@ There&#39;s a lot happening in the world right now! In Ukraine, their helicopter
 <p>Companies are trying to maintain fat profits as the economy changes, making “premiumization” their new favorite buzzword.  <a href="https://nyti.ms/3mp7vEF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Are Butterflies Wildlife? Depends Where You Live.</h3>
-<sub></sub>
-<p>A legal quirk leaves officials in at least a dozen states with little or no authority to protect insects. That’s a growing problem for humans.  <a href="https://nyti.ms/3Jfn5f7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A New Front Line in the Debate Over Policing: A Forest Near Atlanta</h3>
-<sub>By Sean Keenan and Joseph Goldstein</sub>
-<p>Six weeks after a protester was shot and killed, officials are bracing for more confrontations with activists seeking to stop a police and fire training center.  <a href="https://nyti.ms/3EUtlGg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Eyeing DeSantis, Trump Readies for a Long Primary Battle</h3>
-<sub>By Shane Goldmacher, Michael C. Bender and Maggie Haberman</sub>
-<p>Donald Trump will be basking in affection from activists at CPAC on Saturday. But his campaign is preparing for an ugly, protracted primary fight for the nomination.  <a href="https://nyti.ms/3KX5BFj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How the Fall of Roe Turned North Carolina Into an Abortion Destination</h3>
+<sub>By Kate Kelly</sub>
+<p>The state, which is near others with abortion bans and restrictions, has had a 37 percent rise in abortions since the constitutional right to abortion was overturned.  <a href="https://nyti.ms/3JaPrH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -110,28 +116,22 @@ There&#39;s a lot happening in the world right now! In Ukraine, their helicopter
 <p>The woman who became a national sensation in 1990 after her teenage lover killed her husband has become a prison preacher. She hopes New Hampshire will set her free.  <a href="https://nyti.ms/3JcAuVb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Time Is No Longer on Their Side</h3>
+<sub>By Adam Elder</sub>
+<p>Fans are eager to start the pitch-clock era, but baseball’s pitching coaches are hard at work trying to adjust to one of the biggest changes in M.L.B. history.  <a href="https://nyti.ms/3SNzABv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>They Shared Erotic Images in a Group Chat. The Fine: $17,000.</h3>
 <sub>By Sui-Lee Wee</sub>
 <p>A couple in Singapore created a Telegram account where they posted risqué content for subscribers. They were convicted of violating nudity and obscenity laws.  <a href="https://nyti.ms/3YAzgHT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Tom Sizemore, Intense Actor With a Troubled Life, Dies at 61</h3>
-<sub>By Richard Sandomir</sub>
-<p>He earned praise for his work in films like “Saving Private Ryan” and “Black Hawk Down.” He also served prison time for drug possession and domestic abuse.  <a href="https://nyti.ms/3YliU5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Weekender</h3>
 <sub>By Christine Chun</sub>
 <p>The Hotel Pennsylvania’s disappearing act. Also in this edition: 36 hours in Rio de Janeiro and why everyone loves Flaco the escaped owl.  <a href="https://nyti.ms/41IwOlf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, March 3, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3mmGSjG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
