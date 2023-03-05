@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 5, Central Standard Time</p>
 <p>
-It looks like a lot is going on around the world right now. In Hungary, artificial intelligence is being used to help spot breast cancer that doctors may have missed. South Korea has stepped in to fill the gap that traditional arms suppliers, like the U.S., face due to wartime production shortages, though they have to be careful not to further upset Moscow. Russian troops and mercenary forces are currently waging a fierce battle against Ukraine, while Florida lawmakers are getting guidance from Governor DeSantis on priorities like expanding gun rights. In Paris, experts are working on projects to restore the sound of Notre Dame Cathedral after the fire a couple years ago, and China&#39;s government is trying to get their economy back on track by boosting growth. On top of all this, Mattis are doing an exercise in California preparing for a potential Pacific Island fight against China, and firms everywhere are using personality tests to measure how employees think and feel while they&#39;re at work. Oh yeah - and Fox News had some internal panic after calling Arizona too early during the 2020 election, fearing it might have cost them viewers.</p>
+There&#39;s a lot going on in the world right now. In the US, Republican lawmakers are moving ahead with Gov. Ron DeSantis&#39;s wish list of legislation, including expanding gun rights. Meanwhile, conservative state legislators are pushing for more oversight of prosecutors they think are too liberal. Internationally, South Korea has filled the gap in exports of arms that the US is unable to meet due to wartime production shortages; Russian troops and mercenaries are locked in a fierce battle for control of a city in Ukraine; and Chinese President Xi Jinping is fixing his sights on growth and power as the country&#39;s economy is expected to grow by 5%. Back home, Marines are being trained to prepare for potential battles with China, while movie theaters and employers alike find themselves using personality tests to better understand their customers&#39; behaviors.</p>
 <ol>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Using A.I. to Detect Breast Cancer That Doctors Miss</h3>
-<sub>By Adam Satariano, Cade Metz and Akos Stiller For The New York Times</sub>
-<p>Hungary has become a major testing ground for A.I. software to spot cancer, as doctors debate whether the technology will replace them in medical jobs.  <a href="https://nyti.ms/3ZscOlh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Florida Legislative Session, a Chance for DeSantis to Check Off His Wish List</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Republican lawmakers have indicated the session will be guided by Gov. Ron DeSantis’s priorities, including a proposal that would expand gun rights.  <a href="https://nyti.ms/3ZejQKl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Trump Inquiry Continues, Republicans Seek Oversight of Georgia Prosecutors</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>The proposals are part of a broader push by conservative lawmakers around the country to rein in district attorneys whom they consider too liberal.  <a href="https://nyti.ms/3yfK7vO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,16 +86,10 @@ It looks like a lot is going on around the world right now. In Hungary, artifici
 <p>Russian troops and Wagner mercenaries are still waging a fierce battle to encircle the eastern Ukrainian city, officials said.  <a href="https://nyti.ms/3ITX1on"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Florida Legislative Session, a Chance for DeSantis to Check Off His Wish List</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Republican lawmakers have indicated the session will be guided by Gov. Ron DeSantis’s priorities, including a proposal that would expand gun rights.  <a href="https://nyti.ms/3ZejQKl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Trump Inquiry Continues, Republicans Seek Oversight of Georgia Prosecutors</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>The proposals are part of a broader push by conservative lawmakers around the country to rein in district attorneys whom they consider too liberal.  <a href="https://nyti.ms/3yfK7vO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Using A.I. to Detect Breast Cancer That Doctors Miss</h3>
+<sub>By Adam Satariano, Cade Metz and Akos Stiller For The New York Times</sub>
+<p>Hungary has become a major testing ground for A.I. software to spot cancer, as doctors debate whether the technology will replace them in medical jobs.  <a href="https://nyti.ms/3ZscOlh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
