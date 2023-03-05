@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 5, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, Republican lawmakers are moving ahead with Gov. Ron DeSantis&#39;s wish list of legislation, including expanding gun rights. Meanwhile, conservative state legislators are pushing for more oversight of prosecutors they think are too liberal. Internationally, South Korea has filled the gap in exports of arms that the US is unable to meet due to wartime production shortages; Russian troops and mercenaries are locked in a fierce battle for control of a city in Ukraine; and Chinese President Xi Jinping is fixing his sights on growth and power as the country&#39;s economy is expected to grow by 5%. Back home, Marines are being trained to prepare for potential battles with China, while movie theaters and employers alike find themselves using personality tests to better understand their customers&#39; behaviors.</p>
+There are a lot of different things happening around the world. In the US, Republicans are seeking to expand gun rights and regulate district attorneys, while in Ukraine there is still ongoing trench warfare in the front line. South Korea is exporting billions in arms, but not to Ukraine, and Russian forces are attacking an eastern Ukrainian city. A.I. software is being tested for breast cancer detection in Hungary and Paris experts are model restoration projects for the Notre Dame cathedral. On the business side of things, theaters are experimenting with ticket prices, employers are using personality tests to manage hybrid workforces, and office personalities are becoming more popular to assess employees. Finally, Fox News had a panic after the 2020 election as they felt they could have had higher ratings had they called Arizona sooner. And back in Ohio Island, Put-in-Bay is struggling due to a lack of ice this winter season.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Florida Legislative Session, a Chance for DeSantis to Check Off His Wish List</h3>
@@ -72,6 +72,12 @@ There&#39;s a lot going on in the world right now. In the US, Republican lawmake
 <h3>As Trump Inquiry Continues, Republicans Seek Oversight of Georgia Prosecutors</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
 <p>The proposals are part of a broader push by conservative lawmakers around the country to rein in district attorneys whom they consider too liberal.  <a href="https://nyti.ms/3yfK7vO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>This Is What Trench Warfare on the Front Line Is Like</h3>
+<sub>By Tyler Hicks and Marc Santora</sub>
+<p>The Ukrainian military calls it the zero position, where Russian soldiers are close enough to see, and where an old war tactic takes a horrific toll.  <a href="https://nyti.ms/3ITh7Po"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,18 +104,6 @@ There&#39;s a lot going on in the world right now. In the US, Republican lawmake
 <p>In Paris, experts are modeling ways to revive the burned cathedral’s centuries-old acoustics. A Times interactive shows how space can affect what we hear.  <a href="https://nyti.ms/3T2TQiZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After China’s Winter of Discontent, Xi Jinping Sets Sights on Growth and Power</h3>
-<sub>By Chris Buckley, Keith Bradsher, Vivian Wang and Chang Che</sub>
-<p>China’s government said it expected the economy to grow “around 5 percent” this year. A meeting of the top legislature will reinforce Mr. Xi’s grip on power.  <a href="https://nyti.ms/3YhIyIl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>To Prepare for a Pacific Island Fight, Marines Hide and Attack in California</h3>
-<sub>By John Ismay</sub>
-<p>A 10-day exercise gave a new Marine regiment the chance to test war-fighting concepts the Pentagon may one day need in a battle with China.  <a href="https://nyti.ms/3Zl2POt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Heads Up: A Better Movie Seat May Cost You</h3>
 <sub>By Brooks Barnes</sub>
@@ -133,6 +127,12 @@ There&#39;s a lot going on in the world right now. In the US, Republican lawmake
 <sub>By Peter Baker</sub>
 <p>“If we hadn’t called Arizona,” said Suzanne Scott, the network’s chief executive, according to a recording reviewed by The New York Times, “our ratings would have been bigger.”  <a href="https://nyti.ms/41GgyRT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>This Ohio Island Has a Problem: There’s No Ice</h3>
+<sub>By Campbell Robertson and Madeleine Hordinski</sub>
+<p>When the summer tourist season ends in Put-in-Bay, an island on Lake Erie, the residents turn to the ice for fun and to earn a living. What happens when the lake refuses to freeze?  <a href="https://nyti.ms/3kJla9c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
