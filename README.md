@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, March 4, Central Standard Time</p>
+<p>It is Sunday, March 5, Central Standard Time</p>
 <p>
-It has been a busy week in the news! In the United States, President Trump is preparing for a potential long fight to secure the GOP nomination, and has declared that he wouldn’t think twice about staying in the 2024 race if he were to be indicted. Meanwhile, Ukrainian helicopter brigades are proving inspirational components of the war effort and Fox News is facing criticism over its handling of the 2020 election results. On an international scale, China is strategizing for economic growth and strengthening its Communist Party ties, and Singapore has imposed an $17,000 fine on a couple accused of posting risqué images in a private Telegram chat. Lastly, fans of Major League Baseball are excitedly awaiting the start of the “pitch clock era” while those in New York City are scrambling to enjoy all the offerings of the beloved Hotel Pennsylvania before it disappears.</p>
+It seems like things have been pretty wild around the world lately! In the US, Donald Trump is preparing for a long primary battle for reelection, and he even said that he wouldn&#39;t drop out of the race even if he&#39;s indicted. There are also a lot of fact-checking going on for his speech at CPAC. In Ukraine, their helicopter brigades are still operational and helping the war effort. In terms of media, Fox News had some internal panic after the election and now revelations about their executives and hosts aren&#39;t getting much attention. China is trying to revive its economic growth after Covid missteps and across the globe, economies seem to be gentrifying. In North Carolina, they&#39;ve seen a 37 percent rise in abortions since Roe V Wade was overturned. And finally, Singapore recently fined a couple 17k dollars for creating a Telegram account with risqué content. Whew!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Eyeing DeSantis, Trump Readies for a Long Primary Battle</h3>
@@ -72,6 +72,12 @@ It has been a busy week in the news! In the United States, President Trump is pr
 <h3>Trump Says He Would Stay in 2024 Race if Indicted</h3>
 <sub>By Michael C. Bender, Maggie Haberman and Shane Goldmacher</sub>
 <p>Donald Trump said he “wouldn’t even think about” dropping out of the race for the White House if he’s indicted. The former president has increasingly used his campaign as a cudgel against investigators.  <a href="https://nyti.ms/3y9ogX4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fact-Checking Trump’s Speech at CPAC</h3>
+<sub>By Linda Qiu</sub>
+<p>The former president made inaccurate claims about the murder rate in New York, the withdrawal from Afghanistan and windmills at a conservative conference.  <a href="https://nyti.ms/3kLL4ce"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -127,12 +133,6 @@ It has been a busy week in the news! In the United States, President Trump is pr
 <sub>By Sui-Lee Wee</sub>
 <p>A couple in Singapore created a Telegram account where they posted risqué content for subscribers. They were convicted of violating nudity and obscenity laws.  <a href="https://nyti.ms/3YAzgHT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Christine Chun</sub>
-<p>The Hotel Pennsylvania’s disappearing act. Also in this edition: 36 hours in Rio de Janeiro and why everyone loves Flaco the escaped owl.  <a href="https://nyti.ms/41IwOlf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
