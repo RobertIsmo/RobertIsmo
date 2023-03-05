@@ -60,35 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 5, Central Standard Time</p>
 <p>
-Right now, the US is preparing for an intense presidential primary battle between Donald Trump and Governor DeSantis. Trump recently claimed he wouldn&#39;t drop out of the race if he got indicted, and his speech at CPAC was fact-checked.
-
-Elsewhere in the world, Ukraine&#39;s helicopter brigades are powering their war effort despite odds being against them. In China, President Xi Jinping is focusing on economic growth and political power. Back in the US, companies are &quot;premiumizing&quot; their products as the economy changes, making it harder for people who can no longer afford it. There has also been a spike in abortions after Roe v. Wade was overturned.
-
-In other news, Pamela Smart is trying to get a pardon from New Hampshire after her involvement in her teenage lover&#39;s murder case in 1990, while Major League Baseball is adjusting to the introduction of pitch clocks. Lastly, Singapore fined a couple $17,000 for posting risque content in a group chat.</p>
+To sum up what&#39;s been happening in the world lately, there have been some big developments in the use of artificial intelligence to detect breast cancer that goes undetected by doctors in Hungary. There have also been ongoing tensions between Ukraine and Russia, with Russian forces attacking a Ukrainian city from several directions. In China, President Xi Jinping is aiming for economic growth despite discontent among citizens. Turning closer to home, the US Marine Corps is conducting a 10-day exercise to prepare for potential conflict in the Pacific islands with China, while Fox News dealt with panic after their call of the 2020 election. In relation to business, movie theaters and employers are experimenting with prices and personality tests respectively. Finally, NYC is dealing with the lack of ice on an Ohio island due to global warming and BIPOC developers are still facing discrimination when trying to receive loans around the world.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Eyeing DeSantis, Trump Readies for a Long Primary Battle</h3>
-<sub>By Shane Goldmacher, Michael C. Bender and Maggie Haberman</sub>
-<p>Donald Trump basked in affection from activists at CPAC on Saturday. But his campaign is preparing for an ugly, protracted primary fight for the nomination — and pledging even an indictment would not stop him.  <a href="https://nyti.ms/3KX5BFj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Says He Would Stay in 2024 Race if Indicted</h3>
-<sub>By Michael C. Bender, Maggie Haberman and Shane Goldmacher</sub>
-<p>Donald Trump said he “wouldn’t even think about” dropping out of the race for the White House if he’s indicted. The former president has increasingly used his campaign as a cudgel against investigators.  <a href="https://nyti.ms/3y9ogX4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fact-Checking Trump’s Speech at CPAC</h3>
-<sub>By Linda Qiu</sub>
-<p>The former president made inaccurate claims about the murder rate in New York, the withdrawal from Afghanistan and windmills at a conservative conference.  <a href="https://nyti.ms/3kLL4ce"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Using A.I. to Detect Breast Cancer That Doctors Miss</h3>
+<sub>By Adam Satariano, Cade Metz and Akos Stiller For The New York Times</sub>
+<p>Hungary has become a major testing ground for A.I. software to spot cancer, as doctors debate whether the technology will replace them in medical jobs.  <a href="https://nyti.ms/3ZscOlh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Whirring Into Action in Ukraine’s Skies</h3>
-<sub>By Carlotta Gall and Daniel Berehulak</sub>
-<p>Against the odds, Ukraine’s helicopter brigades are not only still operational, but are an inspirational component of its war effort.  <a href="https://nyti.ms/3EV2JVP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>They’re Exporting Billions in Arms. Just Not to Ukraine.</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>As traditional weapons suppliers like the U.S. face wartime production shortages, South Korea has stepped in to fill the gap, while trying not to provoke Moscow.  <a href="https://nyti.ms/3JeLBwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Forces Attack Bakhmut From Three Directions</h3>
+<sub>By Matthew Mpoke Bigg, Vivek Shankar and Andrew E. Kramer</sub>
+<p>Russian troops and Wagner mercenaries are still waging a fierce battle to encircle the eastern Ukrainian city, officials said.  <a href="https://nyti.ms/3ITX1on"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After China’s Winter of Discontent, Xi Jinping Sets Sights on Growth and Power</h3>
+<sub>By Chris Buckley, Keith Bradsher, Vivian Wang and Chang Che</sub>
+<p>China’s government said it expected the economy to grow “around 5 percent” this year. A meeting of the top legislature will reinforce Mr. Xi’s grip on power.  <a href="https://nyti.ms/3YhIyIl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>To Prepare for a Pacific Island Fight, Marines Hide and Attack in California</h3>
+<sub>By John Ismay</sub>
+<p>A 10-day exercise gave a new Marine regiment the chance to test war-fighting concepts the Pentagon may one day need in a battle with China.  <a href="https://nyti.ms/3Zl2POt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Quest to Restore Notre Dame’s Glorious Sound</h3>
+<sub>By Madeleine Schwartz, Malika Khurana, Mika Gröndahl and Yuliya Parshina-Kottas</sub>
+<p>In Paris, experts are modeling ways to revive the burned cathedral’s centuries-old acoustics. A Times interactive shows how space can affect what we hear.  <a href="https://nyti.ms/3T2TQiZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the Panic at Fox News After the 2020 Election</h3>
@@ -97,46 +105,34 @@ In other news, Pamela Smart is trying to get a pardon from New Hampshire after h
 <sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Conservative Media Pay Little Attention to Revelations About Fox News</h3>
-<sub>By Katie Robertson and Stuart A. Thompson</sub>
-<p>Even in today’s highly partisan media world, experts said, the lack of coverage about the private comments of Fox’s top executives and hosts stands out.  <a href="https://nyti.ms/3kOxyoj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After China’s Winter of Discontent, Xi Jinping Sets Sights on Growth and Power</h3>
-<sub>By Chris Buckley, Keith Bradsher, Vivian Wang and Chang Che</sub>
-<p>China’s government said it expected the economy to grow “around 5 percent” this year. A meeting of the top legislature will reinforce Mr. Xi’s grip on power.  <a href="https://nyti.ms/3YhIyIl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<h3>Heads Up: A Better Movie Seat May Cost You</h3>
+<sub>By Brooks Barnes</sub>
+<p>As the film business changes rapidly, multiplexes are experimenting with prices in ways that may seem shocking to theatergoers.  <a href="https://nyti.ms/3kR0bkL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Is the Entire Economy Gentrifying?</h3>
-<sub>By Jason Karaian and Jeanna Smialek</sub>
-<p>Companies are trying to maintain fat profits as the economy changes, making “premiumization” their new favorite buzzword.  <a href="https://nyti.ms/3mp7vEF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<h3>The $2 Billion Question of Who You Are at Work</h3>
+<sub>By Emma Goldberg</sub>
+<p>Employers are finding personality tests — measuring how employees think and feel — more useful than ever while navigating hybrid work. But the tests are not always up-to-date.  <a href="https://nyti.ms/3ZxFTeO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Are You a Cubicle Cat or a Couch Koala? Test Your Office Personality.</h3>
+<sub>By Emma Goldberg and Aaron Krolik</sub>
+<p>Personality assessment has ballooned into a giant industry that aims to explain your working style. Take our quiz to find out what kind of office creature you are.  <a href="https://nyti.ms/3FkZJ5t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Fall of Roe Turned North Carolina Into an Abortion Destination</h3>
-<sub>By Kate Kelly</sub>
-<p>The state, which is near others with abortion bans and restrictions, has had a 37 percent rise in abortions since the constitutional right to abortion was overturned.  <a href="https://nyti.ms/3JaPrH8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<h3>This Ohio Island Has a Problem: There’s No Ice</h3>
+<sub>By Campbell Robertson and Madeleine Hordinski</sub>
+<p>When the summer tourist season ends in Put-in-Bay, an island on Lake Erie, the residents turn to the ice for fun and to earn a living. What happens when the lake refuses to freeze?  <a href="https://nyti.ms/3kJla9c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Remember Pamela Smart? ‘To Die For’ Convict Now Seeks Mercy.</h3>
-<sub>By Corey Kilgannon</sub>
-<p>The woman who became a national sensation in 1990 after her teenage lover killed her husband has become a prison preacher. She hopes New Hampshire will set her free.  <a href="https://nyti.ms/3JcAuVb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Time Is No Longer on Their Side</h3>
-<sub>By Adam Elder</sub>
-<p>Fans are eager to start the pitch-clock era, but baseball’s pitching coaches are hard at work trying to adjust to one of the biggest changes in M.L.B. history.  <a href="https://nyti.ms/3SNzABv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Shared Erotic Images in a Group Chat. The Fine: $17,000.</h3>
-<sub>By Sui-Lee Wee</sub>
-<p>A couple in Singapore created a Telegram account where they posted risqué content for subscribers. They were convicted of violating nudity and obscenity laws.  <a href="https://nyti.ms/3YAzgHT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>‘Excuse After Excuse’: Black and Latino Developers Face Barriers to Success</h3>
+<sub>By Colette Coleman</sub>
+<p>A racial wealth gap and discrimination that sets a higher bar for would-be developers seeking loans have contributed to the lack of representation.  <a href="https://nyti.ms/3YmzAtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
