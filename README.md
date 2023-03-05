@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 5, Central Standard Time</p>
 <p>
-To sum up what&#39;s been happening in the world lately, there have been some big developments in the use of artificial intelligence to detect breast cancer that goes undetected by doctors in Hungary. There have also been ongoing tensions between Ukraine and Russia, with Russian forces attacking a Ukrainian city from several directions. In China, President Xi Jinping is aiming for economic growth despite discontent among citizens. Turning closer to home, the US Marine Corps is conducting a 10-day exercise to prepare for potential conflict in the Pacific islands with China, while Fox News dealt with panic after their call of the 2020 election. In relation to business, movie theaters and employers are experimenting with prices and personality tests respectively. Finally, NYC is dealing with the lack of ice on an Ohio island due to global warming and BIPOC developers are still facing discrimination when trying to receive loans around the world.</p>
+It looks like a lot is going on around the world right now. In Hungary, artificial intelligence is being used to help spot breast cancer that doctors may have missed. South Korea has stepped in to fill the gap that traditional arms suppliers, like the U.S., face due to wartime production shortages, though they have to be careful not to further upset Moscow. Russian troops and mercenary forces are currently waging a fierce battle against Ukraine, while Florida lawmakers are getting guidance from Governor DeSantis on priorities like expanding gun rights. In Paris, experts are working on projects to restore the sound of Notre Dame Cathedral after the fire a couple years ago, and China&#39;s government is trying to get their economy back on track by boosting growth. On top of all this, Mattis are doing an exercise in California preparing for a potential Pacific Island fight against China, and firms everywhere are using personality tests to measure how employees think and feel while they&#39;re at work. Oh yeah - and Fox News had some internal panic after calling Arizona too early during the 2020 election, fearing it might have cost them viewers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Using A.I. to Detect Breast Cancer That Doctors Miss</h3>
@@ -80,6 +80,24 @@ To sum up what&#39;s been happening in the world lately, there have been some bi
 <p>Russian troops and Wagner mercenaries are still waging a fierce battle to encircle the eastern Ukrainian city, officials said.  <a href="https://nyti.ms/3ITX1on"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Florida Legislative Session, a Chance for DeSantis to Check Off His Wish List</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Republican lawmakers have indicated the session will be guided by Gov. Ron DeSantis’s priorities, including a proposal that would expand gun rights.  <a href="https://nyti.ms/3ZejQKl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Trump Inquiry Continues, Republicans Seek Oversight of Georgia Prosecutors</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>The proposals are part of a broader push by conservative lawmakers around the country to rein in district attorneys whom they consider too liberal.  <a href="https://nyti.ms/3yfK7vO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Quest to Restore Notre Dame’s Glorious Sound</h3>
+<sub>By Madeleine Schwartz, Malika Khurana, Mika Gröndahl and Yuliya Parshina-Kottas</sub>
+<p>In Paris, experts are modeling ways to revive the burned cathedral’s centuries-old acoustics. A Times interactive shows how space can affect what we hear.  <a href="https://nyti.ms/3T2TQiZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After China’s Winter of Discontent, Xi Jinping Sets Sights on Growth and Power</h3>
 <sub>By Chris Buckley, Keith Bradsher, Vivian Wang and Chang Che</sub>
@@ -91,18 +109,6 @@ To sum up what&#39;s been happening in the world lately, there have been some bi
 <sub>By John Ismay</sub>
 <p>A 10-day exercise gave a new Marine regiment the chance to test war-fighting concepts the Pentagon may one day need in a battle with China.  <a href="https://nyti.ms/3Zl2POt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Quest to Restore Notre Dame’s Glorious Sound</h3>
-<sub>By Madeleine Schwartz, Malika Khurana, Mika Gröndahl and Yuliya Parshina-Kottas</sub>
-<p>In Paris, experts are modeling ways to revive the burned cathedral’s centuries-old acoustics. A Times interactive shows how space can affect what we hear.  <a href="https://nyti.ms/3T2TQiZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Panic at Fox News After the 2020 Election</h3>
-<sub>By Peter Baker</sub>
-<p>“If we hadn’t called Arizona,” said Suzanne Scott, the network’s chief executive, according to a recording reviewed by The New York Times, “our ratings would have been bigger.”  <a href="https://nyti.ms/41GgyRT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Heads Up: A Better Movie Seat May Cost You</h3>
@@ -119,20 +125,14 @@ To sum up what&#39;s been happening in the world lately, there have been some bi
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Are You a Cubicle Cat or a Couch Koala? Test Your Office Personality.</h3>
 <sub>By Emma Goldberg and Aaron Krolik</sub>
-<p>Personality assessment has ballooned into a giant industry that aims to explain your working style. Take our quiz to find out what kind of office creature you are.  <a href="https://nyti.ms/3FkZJ5t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Personality assessment has ballooned into a giant industry that aims to explain your working style. Take our quiz to find out what kind of office creature you are.  <a href="https://nyti.ms/3yg0ysi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>This Ohio Island Has a Problem: There’s No Ice</h3>
-<sub>By Campbell Robertson and Madeleine Hordinski</sub>
-<p>When the summer tourist season ends in Put-in-Bay, an island on Lake Erie, the residents turn to the ice for fun and to earn a living. What happens when the lake refuses to freeze?  <a href="https://nyti.ms/3kJla9c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>‘Excuse After Excuse’: Black and Latino Developers Face Barriers to Success</h3>
-<sub>By Colette Coleman</sub>
-<p>A racial wealth gap and discrimination that sets a higher bar for would-be developers seeking loans have contributed to the lack of representation.  <a href="https://nyti.ms/3YmzAtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<h3>Inside the Panic at Fox News After the 2020 Election</h3>
+<sub>By Peter Baker</sub>
+<p>“If we hadn’t called Arizona,” said Suzanne Scott, the network’s chief executive, according to a recording reviewed by The New York Times, “our ratings would have been bigger.”  <a href="https://nyti.ms/41GgyRT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
