@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 5, Central Standard Time</p>
 <p>
-It seems like things have been pretty wild around the world lately! In the US, Donald Trump is preparing for a long primary battle for reelection, and he even said that he wouldn&#39;t drop out of the race even if he&#39;s indicted. There are also a lot of fact-checking going on for his speech at CPAC. In Ukraine, their helicopter brigades are still operational and helping the war effort. In terms of media, Fox News had some internal panic after the election and now revelations about their executives and hosts aren&#39;t getting much attention. China is trying to revive its economic growth after Covid missteps and across the globe, economies seem to be gentrifying. In North Carolina, they&#39;ve seen a 37 percent rise in abortions since Roe V Wade was overturned. And finally, Singapore recently fined a couple 17k dollars for creating a Telegram account with risqué content. Whew!</p>
+Right now, the US is preparing for an intense presidential primary battle between Donald Trump and Governor DeSantis. Trump recently claimed he wouldn&#39;t drop out of the race if he got indicted, and his speech at CPAC was fact-checked.
+
+Elsewhere in the world, Ukraine&#39;s helicopter brigades are powering their war effort despite odds being against them. In China, President Xi Jinping is focusing on economic growth and political power. Back in the US, companies are &quot;premiumizing&quot; their products as the economy changes, making it harder for people who can no longer afford it. There has also been a spike in abortions after Roe v. Wade was overturned.
+
+In other news, Pamela Smart is trying to get a pardon from New Hampshire after her involvement in her teenage lover&#39;s murder case in 1990, while Major League Baseball is adjusting to the introduction of pitch clocks. Lastly, Singapore fined a couple $17,000 for posting risque content in a group chat.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Eyeing DeSantis, Trump Readies for a Long Primary Battle</h3>
@@ -99,10 +103,10 @@ It seems like things have been pretty wild around the world lately! In the US, D
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Xi Jinping Plans to Bolster Confidence in China After Covid Missteps</h3>
-<sub>By Chang Che</sub>
-<p>When its top legislature meets, Beijing will lay out a vision for reviving economic growth and strengthening the Communist Party’s grip after a chaotic reopening.  <a href="https://nyti.ms/3EXWd0t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<h3>After China’s Winter of Discontent, Xi Jinping Sets Sights on Growth and Power</h3>
+<sub>By Chris Buckley, Keith Bradsher, Vivian Wang and Chang Che</sub>
+<p>China’s government said it expected the economy to grow “around 5 percent” this year. A meeting of the top legislature will reinforce Mr. Xi’s grip on power.  <a href="https://nyti.ms/3YhIyIl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Is the Entire Economy Gentrifying?</h3>
