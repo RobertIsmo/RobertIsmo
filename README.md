@@ -60,16 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 6, Central Standard Time</p>
 <p>
-There is a lot of unrest around the world lately, especially in Ukraine, where Ukrainian soldiers are pushing back against a Russian advance. In the US, Republican activists are attempting to root out what they&#39;re calling the &#39;deep state&#39;, with potentially drastic effects on North Idaho College. The Biden administration is receiving criticism for their spending bills, despite voting records indicating that Republicans have been partially responsible for the country&#39;s debts. Meanwhile, proposed cuts to the federal budget without raising taxes would be incredibly severe. 
-
-In the sports world, a scrappy Czech Republic team full of everyday people is competing against some of baseball&#39;s biggest stars in the World Baseball Classic. On the business side, employers are being accused of mislabeling workers as managers to avoid paying them overtime. Domestically, Asian-American voters have largely swung towards Republican candidates in recent elections - and abroad, South Korea has taken a step to repairing its deteriorating relations with Japan this week. 
-
-On top of all that, young people are noticing their Instagram posts showing up mysteriously on Facebook - and two controversial &#39;sporting&#39; events, slap fighting and televised face slapping, have surprisingly garnered attention from public figures like Dana White and Arnold Schwarzenegger. It&#39;s certainly been an eventful few weeks!</p>
+There is a lot happening all around the world right now. In Israel, there are large protests over a plan by Prime Minister Binyamin Netanyahu to overhaul the judiciary system. In Ukraine, soldiers are pushing Russian forces back in a battle near Bakhmut. In the US, the government is considering vaccinating chickens to deal with an outbreak of bird flu that has killed millions of birds and raised concerns about a human pandemic. Republican votes have helped the US pile up debt and increase its deficit. And in California, there is an increasing amount of &quot;zombie&quot; forests that are out of sync with the warming climate due to past wildfires. Finally, the Biden administration is looking at potential measures it can take against apps like TikTok that could expose US citizens&#39; data to China.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Protests Over Netanyahu’s Judiciary Overhaul Spread to Israel’s Military</h3>
+<sub>By Ronen Bergman and Patrick Kingsley</sub>
+<p>The military leadership is concerned that anger over the government’s plan, with some pilots saying they will skip some training sessions and operations, could diminish military capabilities.  <a href="https://nyti.ms/3ZLruMg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainian Soldiers, Nearly Encircled, Push Russians Back</h3>
 <sub>By Carlotta Gall and Daniel Berehulak</sub>
 <p>The battle for Bakhmut is not over — at least not yet. Ukrainian assault brigades offered Moscow a bloody reminder of that over the weekend.  <a href="https://nyti.ms/41MEQtn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Considers Vaccinating Chickens as Bird Flu Kills Millions of Them</h3>
+<sub>By Sheryl Gay Stolberg and Emily Anthes</sub>
+<p>The largest outbreak of avian influenza in U.S. history has driven up egg prices and raised concerns about a human pandemic, though C.D.C. experts say the risk of that is low.  <a href="https://nyti.ms/3ZMgn5p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -102,41 +110,29 @@ On top of all that, young people are noticing their Instagram posts showing up m
 <p>New evidence shows that many employers are mislabeling rank-and-file workers as managers to avoid paying them overtime.  <a href="https://nyti.ms/41N4GNO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Where New York’s Asian Neighborhoods Shifted to the Right</h3>
-<sub>By Jason Kao</sub>
-<p>These New York City maps show how, among a wave of new Republican support, areas with a majority of eligible Asian voters had the largest move to the right, according to a New York Times analysis.  <a href="https://nyti.ms/3ZDGsnX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Asian Americans, Shifting Right</h3>
-<sub>By David Leonhardt</sub>
-<p>The new politics of class in America.  <a href="https://nyti.ms/3KZxYmf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Historical Disputes Kept Them at Odds. Can Seoul and Tokyo Make Amends?</h3>
 <sub>By Choe Sang-Hun</sub>
 <p>Icy relations between the two have long been a headache for Washington. South Korea made a significant step in improving ties this week, perhaps indicating progress to come.  <a href="https://nyti.ms/3KUGfIl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Mapping California’s ‘Zombie’ Forests</h3>
+<sub>By Elena Shao</sub>
+<p>A fifth of the Sierra Nevada’s conifer forests are out of sync with the warming climate around them, which makes them less likely to grow back after a major wildfire.  <a href="https://nyti.ms/41TgApl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>White House Said to Consider Pushing Congress on Dealing With TikTok</h3>
+<sub>By David McCabe</sub>
+<p>In a strategy shift, the Biden administration is increasingly pointing to Congress to give it more legal power to deal with TikTok and other technology that could expose Americans’ sensitive data to China.  <a href="https://nyti.ms/3F2tEz4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>A Gen Z Mystery: My Instagram Posts Keep Showing Up on Facebook!</h3>
 <sub>By Kalley Huang and Sheera Frenkel</sub>
 <p>Teenagers and young adults are flummoxed. The reason it keeps happening involves an online prompt and product design.  <a href="https://nyti.ms/3YnSpN4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>No Dirt. No Distractions. Balenciaga Offers Just Clothes, and Contrition.</h3>
-<sub>By Vanessa Friedman</sub>
-<p>In his first collection since the brand’s ad campaign controversy, the designer Demna starts to move on.  <a href="https://nyti.ms/41QBDZG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Televised Face Slapping? What Are We Becoming?</h3>
-<sub>By Kurt Streeter</sub>
-<p>Slap fighting competitions have drawn the support of Dana White and Arnold Schwarzenegger, along with national TV audiences. But, our columnist writes, the so-called sport is indefensible.  <a href="https://nyti.ms/3JdlmH5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
