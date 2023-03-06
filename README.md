@@ -60,18 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 6, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Ukraine, military forces are engaging in trench warfare on the front line, while Russian forces are attacking Bakhmut from three directions. In the US, Florida has been guided by Governor Ron DeSantis&#39;s priorities which include expanding gun rights. House committee budgets have swelled as the Republican party plans road shows across the country. In technology news, Hungary has become a testing ground for Artificial Intelligence (AI) software to detect cancer. President Biden made an appearance in Selma speaking about voting rights that are under assault. On a lighter note, an 18 year-old from Wisconsin skated to gold medals at the speedskating world championships. Architectural experts are reviving Notre Dame&#39;s glorious sound and mastering personality tests have become useful for navigating hybrid work environments. Lastly, there&#39;s an Ohio island that has no ice due to Lake Erie not freezing which poses problems for its residents come summer tourist season. Some men are even learning to become better grandfathers without cultural norms to guide them.</p>
+*Hi friend, 
+
+There&#39;s a lot happening in the world right now. In Ukraine, soldiers have pushed back Russian forces in a bloody battle near Bakhmut. Closer to home in Florida, Governor Ron DeSantis is pushing a wish list of gun control reforms. On the international front, Hungary is testing artificial intelligence software to detect breast cancer. Here in the US, President Biden has spoken out against ongoing assaults on voting rights, especially for Black voters. Elsewhere, an 18 year old speedskater from Wisconsin shocked the world by winning three gold medals at the world championships. Meanwhile in Paris, experts are modelling ways to restore Notre Dame&#39;s centuries-old acoustics after a devastating fire last year. Closer to home, employers are turning to personality tests to navigate working from home while employees take personality quizzes to understand their own office personalities. Finally, Ohio&#39;s Put-in-Bay Island is facing an unusual problem due to unusually warm weather: there’s no ice! And finally, some Grandfathers are finding ways to become more involved with their families without cultural norms as a guide. 
+
+Hope everything is okay where you are!  Take care!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Soldiers, Nearly Encircled, Push Russians Back</h3>
+<sub>By Carlotta Gall and Daniel Berehulak</sub>
+<p>The battle for Bakhmut is not over — at least not yet. Ukrainian assault brigades offered Moscow a bloody reminder of that over the weekend.  <a href="https://nyti.ms/41MEQtn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>This Is What Trench Warfare on the Front Line Is Like</h3>
 <sub>By Tyler Hicks and Marc Santora</sub>
 <p>The Ukrainian military calls it the zero position, where Russian soldiers are close enough to see, and where an old war tactic takes a horrific toll.  <a href="https://nyti.ms/3ITh7Po"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Forces Attack Bakhmut From Three Directions</h3>
-<sub>By Matthew Mpoke Bigg, Vivek Shankar and Andrew E. Kramer</sub>
-<p>Russian troops and Wagner mercenaries are still waging a fierce battle to encircle the eastern Ukrainian city, officials said.  <a href="https://nyti.ms/3ITX1on"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
