@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 6, Central Standard Time</p>
 <p>
-*Hi friend, 
+I&#39;ve been following a few news stories recently that have been quite interesting. In Ukraine, soldiers are pushing back against Russian forces and giving them a bloody reminder of their struggle for independence. In North Idaho College, a group of GOP activists are trying to root out the &quot;deep state&quot; at home, which is likely to cause some major changes. On a different note, in India a journalist is aiming to push down barriers of caste - an exploitative system affecting millions - by uncovering stories from her own privileged Dalit community.
 
-There&#39;s a lot happening in the world right now. In Ukraine, soldiers have pushed back Russian forces in a bloody battle near Bakhmut. Closer to home in Florida, Governor Ron DeSantis is pushing a wish list of gun control reforms. On the international front, Hungary is testing artificial intelligence software to detect breast cancer. Here in the US, President Biden has spoken out against ongoing assaults on voting rights, especially for Black voters. Elsewhere, an 18 year old speedskater from Wisconsin shocked the world by winning three gold medals at the world championships. Meanwhile in Paris, experts are modelling ways to restore Notre Dame&#39;s centuries-old acoustics after a devastating fire last year. Closer to home, employers are turning to personality tests to navigate working from home while employees take personality quizzes to understand their own office personalities. Finally, Ohio&#39;s Put-in-Bay Island is facing an unusual problem due to unusually warm weather: there’s no ice! And finally, some Grandfathers are finding ways to become more involved with their families without cultural norms as a guide. 
+Here in the US, Joe Biden has spoken at Selma this weekend to remind people of how voting rights are still under threat. At the same time, our Asian American community appears to be shifting to the right politically in some areas across New York City. Joe&#39;s current plan may also see bring substantial debt to the US unless popular programs or increased taxes occur. As part of this, countless rank-and-file workers are being misclassified as managers to avoid the extra hours payment due.
 
-Hope everything is okay where you are!  Take care!</p>
+And then there&#39;s a more ridiculous story from the sports page. Apparently, there is now a televised face-slapping competition and it&#39;s got the attention of some pretty big names! But if that wasn&#39;t enough, fashion designer Demna has released his first collection since his brand caused controversy with its ad campaign - no masks here!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainian Soldiers, Nearly Encircled, Push Russians Back</h3>
@@ -72,29 +72,23 @@ Hope everything is okay where you are!  Take care!</p>
 <p>The battle for Bakhmut is not over — at least not yet. Ukrainian assault brigades offered Moscow a bloody reminder of that over the weekend.  <a href="https://nyti.ms/41MEQtn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The MAGA-fication of North Idaho College</h3>
+<sub>By Charles Homans</sub>
+<p>G.O.P. activists set out to root out the “deep state” at home. An Idaho community college may never be the same.  <a href="https://nyti.ms/3yfHfze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>This Is What Trench Warfare on the Front Line Is Like</h3>
-<sub>By Tyler Hicks and Marc Santora</sub>
-<p>The Ukrainian military calls it the zero position, where Russian soldiers are close enough to see, and where an old war tactic takes a horrific toll.  <a href="https://nyti.ms/3ITh7Po"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<h3>With Stories of Her Oppressed Community, a Journalist Takes Aim at the Walls of Caste</h3>
+<sub>By Karan Deep Singh</sub>
+<p>Meena Kotwal started a news outlet focused on Dalit and other marginalized groups in India, hoping that telling their stories will help improve their lives.  <a href="https://nyti.ms/41Qd3rO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Florida Legislative Session, a Chance for DeSantis to Check Off His Wish List</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Republican lawmakers have indicated the session will be guided by Gov. Ron DeSantis’s priorities, including a proposal that would expand gun rights.  <a href="https://nyti.ms/3ZejQKl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Committee Budgets Swell as G.O.P. Plans Road Shows Across U.S.</h3>
-<sub>By Annie Karni and Catie Edmondson</sub>
-<p>Republican leaders have told their colleagues to get out of Washington for field hearings that allow the party to take their message straight to voters, a costly pursuit that can be a boon to big donors.  <a href="https://nyti.ms/3JeTtOH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Using A.I. to Detect Breast Cancer That Doctors Miss</h3>
-<sub>By Adam Satariano, Cade Metz and Akos Stiller For The New York Times</sub>
-<p>Hungary has become a major testing ground for A.I. software to spot cancer, as doctors debate whether the technology will replace them in medical jobs.  <a href="https://nyti.ms/3ZscOlh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>An Ex-D.J. Has a Housing Voucher. He Still Can’t Find a Home.</h3>
+<sub>By Mihir Zaveri</sub>
+<p>Facing eviction, a former D.J. agreed to leave his apartment after a housing nonprofit offered assistance. Now he’s sleeping on the floor in an illegal squat.  <a href="https://nyti.ms/3ZpZ6iI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden, in Selma, Says Voting Rights Are Still ‘Under Assault’</h3>
@@ -102,41 +96,47 @@ Hope everything is okay where you are!  Take care!</p>
 <p>The president’s commemoration of Bloody Sunday comes as he is expected to announce a re-election bid, which will require the support of Black voters who were decisive in helping him win the first time.  <a href="https://nyti.ms/3Zohd8I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Vanquishing the Dutch, Jordan Stolz Creates a New Norse Myth</h3>
-<sub>By Kevin Draper</sub>
-<p>Stolz, the 18-year-old from Wisconsin, won three gold medals at the speedskating world championships, finishing his turns in a way that seemed like something out of a storybook.  <a href="https://nyti.ms/3SPzJ7v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Where New York’s Asian Neighborhoods Shifted to the Right</h3>
+<sub>By Jason Kao</sub>
+<p>These New York City maps show how, among a wave of new Republican support, areas with a majority of eligible Asian voters had the largest move to the right, according to a New York Times analysis.  <a href="https://nyti.ms/3ZDGsnX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Quest to Restore Notre Dame’s Glorious Sound</h3>
-<sub>By Madeleine Schwartz, Malika Khurana, Mika Gröndahl and Yuliya Parshina-Kottas</sub>
-<p>In Paris, experts are modeling ways to revive the burned cathedral’s centuries-old acoustics. A Times interactive shows how space can affect what we hear.  <a href="https://nyti.ms/3T2TQiZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The $2 Billion Question of Who You Are at Work</h3>
-<sub>By Emma Goldberg</sub>
-<p>Employers are finding personality tests — measuring how employees think and feel — more useful than ever while navigating hybrid work. But the tests are not always up-to-date.  <a href="https://nyti.ms/3ZxFTeO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Are You a Cubicle Cat or a Couch Koala? Test Your Office Personality.</h3>
-<sub>By Emma Goldberg and Aaron Krolik</sub>
-<p>Personality assessment has ballooned into a giant industry that aims to explain your working style. Take our quiz to find out what kind of office creature you are.  <a href="https://nyti.ms/3yg0ysi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Asian Americans, Shifting Right</h3>
+<sub>By David Leonhardt</sub>
+<p>The new politics of class in America.  <a href="https://nyti.ms/3KZxYmf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>This Ohio Island Has a Problem: There’s No Ice</h3>
-<sub>By Campbell Robertson and Madeleine Hordinski</sub>
-<p>When the summer tourist season ends in Put-in-Bay, an island on Lake Erie, the residents turn to the ice for fun and to earn a living. What happens when the lake refuses to freeze?  <a href="https://nyti.ms/3kJla9c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Republican Votes Helped Washington Pile Up Debt</h3>
+<sub>By Jim Tankersley</sub>
+<p>As they escalate a debt-limit standoff, House Republicans blame President Biden’s spending bills for an increase in deficits. Voting records show otherwise.  <a href="https://nyti.ms/3ZJAEIZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The Programs You’d Have to Cut to Balance the Budget</h3>
+<sub>By Alicia Parlapiano, Margot Sanger-Katz and Josh Katz</sub>
+<p>Without trimming popular programs or raising taxes, cuts to the rest of the federal budget would have to be monumental.  <a href="https://nyti.ms/3msd1Xd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>You’re Now a ‘Manager.’ Forget About Overtime Pay.</h3>
+<sub>By Noam Scheiber</sub>
+<p>New evidence shows that many employers are mislabeling rank-and-file workers as managers to avoid paying them overtime.  <a href="https://nyti.ms/41N4GNO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Televised Face Slapping? What Are We Becoming?</h3>
+<sub>By Kurt Streeter</sub>
+<p>Slap fighting competitions have drawn the support of Dana White and Arnold Schwarzenegger, along with national TV audiences. But, our columnist writes, the so-called sport is indefensible.  <a href="https://nyti.ms/3JdlmH5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Learning to Become a Better Grandfather</h3>
-<sub>By Paula Span and Sara Naomi Lewkowicz</sub>
-<p>Without cultural norms to guide them, some men are forging a new grandparenting path.  <a href="https://nyti.ms/3J8XqVa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>No Masks. No Dirt. Balenciaga Offers Just Clothes, and Contrition.</h3>
+<sub>By Vanessa Friedman</sub>
+<p>In his first collection since the brand’s ad campaign controversy, the designer Demna starts to move on.  <a href="https://nyti.ms/41QBDZG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
