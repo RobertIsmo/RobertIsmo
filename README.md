@@ -60,30 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 5, Central Standard Time</p>
 <p>
-There are a lot of different things happening around the world. In the US, Republicans are seeking to expand gun rights and regulate district attorneys, while in Ukraine there is still ongoing trench warfare in the front line. South Korea is exporting billions in arms, but not to Ukraine, and Russian forces are attacking an eastern Ukrainian city. A.I. software is being tested for breast cancer detection in Hungary and Paris experts are model restoration projects for the Notre Dame cathedral. On the business side of things, theaters are experimenting with ticket prices, employers are using personality tests to manage hybrid workforces, and office personalities are becoming more popular to assess employees. Finally, Fox News had a panic after the 2020 election as they felt they could have had higher ratings had they called Arizona sooner. And back in Ohio Island, Put-in-Bay is struggling due to a lack of ice this winter season.</p>
+There is a lot happening in the world right now. The Ukrainian military is still dealing with trench warfare on the front line with Russia, Russian forces are attacking the city of Bakhmut from three directions, and Florida&#39;s Governor Ron DeSantis has been looking to expand gun rights. In Hungary, Artificial Intelligence (AI) is being used to detect breast cancer that doctors may miss. President Biden recently visited Selma to commemorate Bloody Sunday, Jordan Stolz from Wisconsin won three gold medals in speedskating at World Championships, and experts are working on restoring Notre Dame&#39;s glorious sound in Paris. Businesses are relying more heavily on personality tests to navigate hybrid work environments and Ohio Island has no ice due to a warm winter climate. Finally, men are learning how to become better grandfathers without societal guidance.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Florida Legislative Session, a Chance for DeSantis to Check Off His Wish List</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Republican lawmakers have indicated the session will be guided by Gov. Ron DeSantis’s priorities, including a proposal that would expand gun rights.  <a href="https://nyti.ms/3ZejQKl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Trump Inquiry Continues, Republicans Seek Oversight of Georgia Prosecutors</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>The proposals are part of a broader push by conservative lawmakers around the country to rein in district attorneys whom they consider too liberal.  <a href="https://nyti.ms/3yfK7vO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>This Is What Trench Warfare on the Front Line Is Like</h3>
 <sub>By Tyler Hicks and Marc Santora</sub>
 <p>The Ukrainian military calls it the zero position, where Russian soldiers are close enough to see, and where an old war tactic takes a horrific toll.  <a href="https://nyti.ms/3ITh7Po"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They’re Exporting Billions in Arms. Just Not to Ukraine.</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>As traditional weapons suppliers like the U.S. face wartime production shortages, South Korea has stepped in to fill the gap, while trying not to provoke Moscow.  <a href="https://nyti.ms/3JeLBwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,10 +74,34 @@ There are a lot of different things happening around the world. In the US, Repub
 <p>Russian troops and Wagner mercenaries are still waging a fierce battle to encircle the eastern Ukrainian city, officials said.  <a href="https://nyti.ms/3ITX1on"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Florida Legislative Session, a Chance for DeSantis to Check Off His Wish List</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Republican lawmakers have indicated the session will be guided by Gov. Ron DeSantis’s priorities, including a proposal that would expand gun rights.  <a href="https://nyti.ms/3ZejQKl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Committee Budgets Swell as G.O.P. Plans Road Shows Across U.S.</h3>
+<sub>By Annie Karni and Catie Edmondson</sub>
+<p>Republican leaders have told their colleagues to get out of Washington for field hearings that allow the party to take their message straight to voters, a costly pursuit that can be a boon to big donors.  <a href="https://nyti.ms/3JeTtOH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Using A.I. to Detect Breast Cancer That Doctors Miss</h3>
 <sub>By Adam Satariano, Cade Metz and Akos Stiller For The New York Times</sub>
 <p>Hungary has become a major testing ground for A.I. software to spot cancer, as doctors debate whether the technology will replace them in medical jobs.  <a href="https://nyti.ms/3ZscOlh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden, in Selma, Says Voting Rights Are Still ‘Under Assault’</h3>
+<sub>By Katie Rogers</sub>
+<p>The president’s commemoration of Bloody Sunday comes as he is expected to announce a re-election bid, which will require the support of Black voters who were decisive in helping him win the first time.  <a href="https://nyti.ms/3Zohd8I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Vanquishing the Dutch, Jordan Stolz Creates a New Norse Myth</h3>
+<sub>By Kevin Draper</sub>
+<p>Stolz, the 18-year-old from Wisconsin, won three gold medals at the speedskating world championships, finishing his turns in a way that seemed like something out of a storybook.  <a href="https://nyti.ms/3SPzJ7v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -103,12 +109,6 @@ There are a lot of different things happening around the world. In the US, Repub
 <sub>By Madeleine Schwartz, Malika Khurana, Mika Gröndahl and Yuliya Parshina-Kottas</sub>
 <p>In Paris, experts are modeling ways to revive the burned cathedral’s centuries-old acoustics. A Times interactive shows how space can affect what we hear.  <a href="https://nyti.ms/3T2TQiZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Heads Up: A Better Movie Seat May Cost You</h3>
-<sub>By Brooks Barnes</sub>
-<p>As the film business changes rapidly, multiplexes are experimenting with prices in ways that may seem shocking to theatergoers.  <a href="https://nyti.ms/3kR0bkL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The $2 Billion Question of Who You Are at Work</h3>
@@ -123,16 +123,16 @@ There are a lot of different things happening around the world. In the US, Repub
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Panic at Fox News After the 2020 Election</h3>
-<sub>By Peter Baker</sub>
-<p>“If we hadn’t called Arizona,” said Suzanne Scott, the network’s chief executive, according to a recording reviewed by The New York Times, “our ratings would have been bigger.”  <a href="https://nyti.ms/41GgyRT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>This Ohio Island Has a Problem: There’s No Ice</h3>
 <sub>By Campbell Robertson and Madeleine Hordinski</sub>
 <p>When the summer tourist season ends in Put-in-Bay, an island on Lake Erie, the residents turn to the ice for fun and to earn a living. What happens when the lake refuses to freeze?  <a href="https://nyti.ms/3kJla9c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Learning to Become a Better Grandfather</h3>
+<sub>By Paula Span and Sara Naomi Lewkowicz</sub>
+<p>Without cultural norms to guide them, some men are forging a new grandparenting path.  <a href="https://nyti.ms/3J8XqVa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
