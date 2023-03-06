@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 6, Central Standard Time</p>
 <p>
-I&#39;ve been following a few news stories recently that have been quite interesting. In Ukraine, soldiers are pushing back against Russian forces and giving them a bloody reminder of their struggle for independence. In North Idaho College, a group of GOP activists are trying to root out the &quot;deep state&quot; at home, which is likely to cause some major changes. On a different note, in India a journalist is aiming to push down barriers of caste - an exploitative system affecting millions - by uncovering stories from her own privileged Dalit community.
-
-Here in the US, Joe Biden has spoken at Selma this weekend to remind people of how voting rights are still under threat. At the same time, our Asian American community appears to be shifting to the right politically in some areas across New York City. Joe&#39;s current plan may also see bring substantial debt to the US unless popular programs or increased taxes occur. As part of this, countless rank-and-file workers are being misclassified as managers to avoid the extra hours payment due.
-
-And then there&#39;s a more ridiculous story from the sports page. Apparently, there is now a televised face-slapping competition and it&#39;s got the attention of some pretty big names! But if that wasn&#39;t enough, fashion designer Demna has released his first collection since his brand caused controversy with its ad campaign - no masks here!</p>
+There are some major developments happening around the world right now. In Ukraine, soldiers pushed back Russian forces after nearly being encircled in a battle for Bakhmut. Meanwhile in Idaho, Republican activists are trying to root out the &#39;deep state&#39; by targeting a community college. In Washington, Republicans are blocking president Biden&#39;s spending bills as they increase the US debt, while across the country workers are being labeled as managers to avoid paying overtime. In South Korea, relations with Japan are thawing after icy tensions have been a problem for sometime. Here in the US, neighborhoods in cities like New York have shifted more to the right. Finally, people have started watching novelty competitions like slap fighting on TV but it&#39;s not been viewed positively.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainian Soldiers, Nearly Encircled, Push Russians Back</h3>
@@ -76,36 +72,6 @@ And then there&#39;s a more ridiculous story from the sports page. Apparently, t
 <h3>The MAGA-fication of North Idaho College</h3>
 <sub>By Charles Homans</sub>
 <p>G.O.P. activists set out to root out the “deep state” at home. An Idaho community college may never be the same.  <a href="https://nyti.ms/3yfHfze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Stories of Her Oppressed Community, a Journalist Takes Aim at the Walls of Caste</h3>
-<sub>By Karan Deep Singh</sub>
-<p>Meena Kotwal started a news outlet focused on Dalit and other marginalized groups in India, hoping that telling their stories will help improve their lives.  <a href="https://nyti.ms/41Qd3rO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>An Ex-D.J. Has a Housing Voucher. He Still Can’t Find a Home.</h3>
-<sub>By Mihir Zaveri</sub>
-<p>Facing eviction, a former D.J. agreed to leave his apartment after a housing nonprofit offered assistance. Now he’s sleeping on the floor in an illegal squat.  <a href="https://nyti.ms/3ZpZ6iI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden, in Selma, Says Voting Rights Are Still ‘Under Assault’</h3>
-<sub>By Katie Rogers</sub>
-<p>The president’s commemoration of Bloody Sunday comes as he is expected to announce a re-election bid, which will require the support of Black voters who were decisive in helping him win the first time.  <a href="https://nyti.ms/3Zohd8I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Where New York’s Asian Neighborhoods Shifted to the Right</h3>
-<sub>By Jason Kao</sub>
-<p>These New York City maps show how, among a wave of new Republican support, areas with a majority of eligible Asian voters had the largest move to the right, according to a New York Times analysis.  <a href="https://nyti.ms/3ZDGsnX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Asian Americans, Shifting Right</h3>
-<sub>By David Leonhardt</sub>
-<p>The new politics of class in America.  <a href="https://nyti.ms/3KZxYmf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,16 +92,46 @@ And then there&#39;s a more ridiculous story from the sports page. Apparently, t
 <p>New evidence shows that many employers are mislabeling rank-and-file workers as managers to avoid paying them overtime.  <a href="https://nyti.ms/41N4GNO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>An Ex-D.J. Has a Housing Voucher. He Still Can’t Find a Home.</h3>
+<sub>By Mihir Zaveri</sub>
+<p>Facing eviction, a former D.J. agreed to leave his apartment after a housing nonprofit offered assistance. Now he’s sleeping on the floor in an illegal squat.  <a href="https://nyti.ms/3ZpZ6iI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Where New York’s Asian Neighborhoods Shifted to the Right</h3>
+<sub>By Jason Kao</sub>
+<p>These New York City maps show how, among a wave of new Republican support, areas with a majority of eligible Asian voters had the largest move to the right, according to a New York Times analysis.  <a href="https://nyti.ms/3ZDGsnX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Asian Americans, Shifting Right</h3>
+<sub>By David Leonhardt</sub>
+<p>The new politics of class in America.  <a href="https://nyti.ms/3KZxYmf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Historical Disputes Kept Them at Odds. Can Seoul and Tokyo Make Amends?</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>Icy relations between the two have long been a headache for Washington. South Korea made a significant step in improving ties this week, perhaps indicating progress to come.  <a href="https://nyti.ms/3KUGfIl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>No Dirt. No Distractions. Balenciaga Offers Just Clothes, and Contrition.</h3>
+<sub>By Vanessa Friedman</sub>
+<p>In his first collection since the brand’s ad campaign controversy, the designer Demna starts to move on.  <a href="https://nyti.ms/41QBDZG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Televised Face Slapping? What Are We Becoming?</h3>
 <sub>By Kurt Streeter</sub>
 <p>Slap fighting competitions have drawn the support of Dana White and Arnold Schwarzenegger, along with national TV audiences. But, our columnist writes, the so-called sport is indefensible.  <a href="https://nyti.ms/3JdlmH5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>No Masks. No Dirt. Balenciaga Offers Just Clothes, and Contrition.</h3>
-<sub>By Vanessa Friedman</sub>
-<p>In his first collection since the brand’s ad campaign controversy, the designer Demna starts to move on.  <a href="https://nyti.ms/41QBDZG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>It Would Be Foolish to Ignore What Just Happened in Chicago</h3>
+<sub>By Gail Collins and Bret Stephens</sub>
+<p>Democratic candidates everywhere should be paying attention to the miserable showing of Lori Lightfoot in the mayoral primary.  <a href="https://nyti.ms/3SOzvh6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
