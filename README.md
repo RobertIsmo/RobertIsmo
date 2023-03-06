@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 6, Central Standard Time</p>
 <p>
-There are some major developments happening around the world right now. In Ukraine, soldiers pushed back Russian forces after nearly being encircled in a battle for Bakhmut. Meanwhile in Idaho, Republican activists are trying to root out the &#39;deep state&#39; by targeting a community college. In Washington, Republicans are blocking president Biden&#39;s spending bills as they increase the US debt, while across the country workers are being labeled as managers to avoid paying overtime. In South Korea, relations with Japan are thawing after icy tensions have been a problem for sometime. Here in the US, neighborhoods in cities like New York have shifted more to the right. Finally, people have started watching novelty competitions like slap fighting on TV but it&#39;s not been viewed positively.</p>
+There is a lot of unrest around the world lately, especially in Ukraine, where Ukrainian soldiers are pushing back against a Russian advance. In the US, Republican activists are attempting to root out what they&#39;re calling the &#39;deep state&#39;, with potentially drastic effects on North Idaho College. The Biden administration is receiving criticism for their spending bills, despite voting records indicating that Republicans have been partially responsible for the country&#39;s debts. Meanwhile, proposed cuts to the federal budget without raising taxes would be incredibly severe. 
+
+In the sports world, a scrappy Czech Republic team full of everyday people is competing against some of baseball&#39;s biggest stars in the World Baseball Classic. On the business side, employers are being accused of mislabeling workers as managers to avoid paying them overtime. Domestically, Asian-American voters have largely swung towards Republican candidates in recent elections - and abroad, South Korea has taken a step to repairing its deteriorating relations with Japan this week. 
+
+On top of all that, young people are noticing their Instagram posts showing up mysteriously on Facebook - and two controversial &#39;sporting&#39; events, slap fighting and televised face slapping, have surprisingly garnered attention from public figures like Dana White and Arnold Schwarzenegger. It&#39;s certainly been an eventful few weeks!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainian Soldiers, Nearly Encircled, Push Russians Back</h3>
@@ -86,16 +90,16 @@ There are some major developments happening around the world right now. In Ukrai
 <p>Without trimming popular programs or raising taxes, cuts to the rest of the federal budget would have to be monumental.  <a href="https://nyti.ms/3msd1Xd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Can a Czech Firefighter Compete With M.L.B.’s Biggest Stars?</h3>
+<sub>By David Waldstein and Nina Riggio</sub>
+<p>The World Baseball Classic is a battle of the game’s top professional players. A scrappy Czech Republic team, full of guys with regular jobs, just might win your heart.  <a href="https://nyti.ms/3SQoewA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>You’re Now a ‘Manager.’ Forget About Overtime Pay.</h3>
 <sub>By Noam Scheiber</sub>
 <p>New evidence shows that many employers are mislabeling rank-and-file workers as managers to avoid paying them overtime.  <a href="https://nyti.ms/41N4GNO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>An Ex-D.J. Has a Housing Voucher. He Still Can’t Find a Home.</h3>
-<sub>By Mihir Zaveri</sub>
-<p>Facing eviction, a former D.J. agreed to leave his apartment after a housing nonprofit offered assistance. Now he’s sleeping on the floor in an illegal squat.  <a href="https://nyti.ms/3ZpZ6iI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -116,6 +120,12 @@ There are some major developments happening around the world right now. In Ukrai
 <p>Icy relations between the two have long been a headache for Washington. South Korea made a significant step in improving ties this week, perhaps indicating progress to come.  <a href="https://nyti.ms/3KUGfIl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A Gen Z Mystery: My Instagram Posts Keep Showing Up on Facebook!</h3>
+<sub>By Kalley Huang and Sheera Frenkel</sub>
+<p>Teenagers and young adults are flummoxed. The reason it keeps happening involves an online prompt and product design.  <a href="https://nyti.ms/3YnSpN4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>No Dirt. No Distractions. Balenciaga Offers Just Clothes, and Contrition.</h3>
 <sub>By Vanessa Friedman</sub>
@@ -127,12 +137,6 @@ There are some major developments happening around the world right now. In Ukrai
 <sub>By Kurt Streeter</sub>
 <p>Slap fighting competitions have drawn the support of Dana White and Arnold Schwarzenegger, along with national TV audiences. But, our columnist writes, the so-called sport is indefensible.  <a href="https://nyti.ms/3JdlmH5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>It Would Be Foolish to Ignore What Just Happened in Chicago</h3>
-<sub>By Gail Collins and Bret Stephens</sub>
-<p>Democratic candidates everywhere should be paying attention to the miserable showing of Lori Lightfoot in the mayoral primary.  <a href="https://nyti.ms/3SOzvh6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
