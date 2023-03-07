@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 7, Central Standard Time</p>
 <p>
-There are a lot of things happening in the world right now. U.S. intelligence suggests that a pro-Ukrainian group may have sabotaged pipelines, and economists are warning that if the U.S. doesn&#39;t raise the nation&#39;s borrowing cap it could put millions out of work. In Oklahoma, a freshman Republican is trying to make the case for deep spending cuts, and President Biden is proposing tax increases to bolster Medicare. Meanwhile, the Federal Reserve Chairman has opened the door to faster rate moves and the possibility of higher rates than expected, but is keeping its options open due to an era of uncertainty. Two Americans have been found dead in Mexico after they were kidnapped while crossing into the country for medical care, while spying by Mexico&#39;s armed forces is raising fears of a &#39;military state&#39;. Finally, there has been Palestinian confrontation with Israel in West Bank clashes following Jewish settler revenge attacks that resulted in 6 Palestinian deaths.</p>
+Right now, there seems to be a lot of international tension flaring up. In the US, intelligence officials are saying that a pro-Ukrainian group is responsible for sabotaging two pipelines carrying natural gas from Russia to Europe. President Biden has proposed raising taxes to bolster Medicare and avoid a crippling debt default. In terms of climate, Senator Whitehouse is now in a powerful position and speaking out more on its costs. Jerome H. Powell, the Federal Reserve chair, has opened up the possibility of faster rate moves and higher peak interest rates due to recent strong data. There&#39;s also been tragic news abroad as two Americans were found dead and another two were found alive after being kidnapped in Mexico last week. Also, Mexico&#39;s armed forces have been revealed to have been spying on citizens who tried to expose its misdeeds. Lastly, Paul Ryan says even Trump supporters admit he won’t be able to win in 2024 and Trump gave a speech warning of retribution if he isn’t reelected. In addition, six Palestinians were killed in an Israeli raid in the West Bank.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Intelligence Suggests Pro-Ukrainian Group Sabotaged Pipelines, U.S. Officials Say</h3>
 <sub>By Adam Entous, Julian E. Barnes and Adam Goldman</sub>
 <p>New intelligence reporting amounts to the first significant known lead about who was responsible for the attack on the Nord Stream pipelines that carried natural gas from Russia to Europe.  <a href="https://nyti.ms/3Yxnk9r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Debt Default Would Cripple U.S. Economy, New Analysis Warns</h3>
-<sub>By Jim Tankersley</sub>
-<p>As President Biden prepares to release his latest budget proposal, a top economist will warn lawmakers that Republicans’ refusal to raise the nation’s borrowing cap could put millions out of work.  <a href="https://nyti.ms/3kQw7Wm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Oklahoma, a Freshman Republican Makes the Case for Deep Spending Cuts</h3>
-<sub>By Catie Edmondson</sub>
-<p>As Representative Josh Brecheen travels his district preparing his constituents for a debt showdown, his pitch reflects how the party has intertwined its spending fight with cultural battles.  <a href="https://nyti.ms/3mxrDob"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -86,21 +74,27 @@ There are a lot of things happening in the world right now. U.S. intelligence su
 <p>The president’s plan targets Americans earning more than $400,000 a year in an attempt to increase the program’s solvency by 25 years.  <a href="https://nyti.ms/3YtsKCD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Debt Default Would Cripple U.S. Economy, New Analysis Warns</h3>
+<sub>By Jim Tankersley</sub>
+<p>As President Biden prepares to release his latest budget proposal, a top economist warned lawmakers that Republicans’ refusal to raise the nation’s borrowing cap could put millions out of work.  <a href="https://nyti.ms/3kQw7Wm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Same Message, Bigger Audience: Sen. Whitehouse Flags Climate Costs</h3>
+<sub>By Coral Davenport</sub>
+<p>For more than a decade, Senator Sheldon Whitehouse gave daily warnings about the mounting threat of climate change. Now he has a powerful new perch.  <a href="https://nyti.ms/3JkDfDR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fed Chair Opens Door to Faster Rate Moves and a Higher Peak</h3>
 <sub>By Jeanna Smialek</sub>
 <p>In light of recent strong data, Jerome H. Powell said that the Federal Reserve is likely to raise rates higher than expected.  <a href="https://nyti.ms/3JjEvag"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why the Federal Reserve Won’t Commit</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Fed is keeping its options open in an era of uncertainty. Jerome H. Powell, its chair, stuck to that approach Tuesday.  <a href="https://nyti.ms/3kSZXJS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>2 Americans Found Dead; 2 Found Alive in Mexico Kidnapping</h3>
-<sub>By Maria Abi-Habib, Natalie Kitroeff and Jack Nicas</sub>
+<sub>By Natalie Kitroeff, Maria Abi-Habib, Jack Nicas and Jacey Fortin</sub>
 <p>U.S. and Mexican authorities had been searching for the four Americans since they were kidnapped in Mexico last week after they crossed into the country from Texas for a medical procedure.  <a href="https://nyti.ms/41LQzsh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
@@ -128,8 +122,14 @@ There are a lot of things happening in the world right now. U.S. intelligence su
 <p>“The ace in the hole reason is that he’s unelectable,” says the former G.O.P. standard-bearer.  <a href="https://nyti.ms/3ITT8zH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump, Vowing ‘Retribution,’ Foretells a Second Term of Spite</h3>
+<sub>By Maggie Haberman and Shane Goldmacher</sub>
+<p>In a speech before his supporters, the former president charged forward in an uncharted direction, talking openly about leveraging the power of the presidency for political reprisals.  <a href="https://nyti.ms/3Zqzlih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>6 Palestinians Killed in Israeli Raid in West Bank Clashes</h3>
+<h3>6 Palestinians Killed in Israeli Raid in West Bank</h3>
 <sub>By Isabel Kershner</sub>
 <p>The Israeli military said one of those killed was suspected in the fatal shooting of two Israeli brothers in the West Bank village of Huwara, which set off revenge attacks by Jewish settlers.  <a href="https://nyti.ms/3ZqoUeB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
