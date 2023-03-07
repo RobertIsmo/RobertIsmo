@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 7, Central Standard Time</p>
 <p>
-In the US, the government is considering reinstating detention of migrant families and five women are suing Texas over its abortion ban. Meanwhile, in France, unions are vowing to bring the country to a standstill over Macron&#39;s retirement plan. Over in Ukraine and Russia, there has been intense fighting with Russian losses possibly being covered up. There have also been protests over Israeli Prime Minister Netanyahu&#39;s judicial overhaul. Tennis and Djokovic have been pushing against the US COVID vaccine rule, while the US is considering vaccinating chickens to help with an outbreak of bird flu. California has &#39;zombie&#39; forests that are out of sync with climate change, and people are getting into designer ice as part of their love affair with cold drinks.</p>
+There is a lot of unrest happening in the world right now. In the U.S., the Biden administration is considering reinstating detention of migrant families, and Texas is being sued over its abortion ban. Meanwhile, in France, unions are vowing to bring the nation to a standstill in protest over Macron&#39;s retirement plan. In Russia, at least 16,000 Russians have died in Ukraine&#39;s conflict and there is a growing concern about the Kremlin&#39;s ability to cover up their deaths. In Israel, protests are happening over Prime Minister Netanyahu’s judiciary overhaul and it is threatening military capabilities. Additionally, Serbia&#39;s number one tennis player Novak Djokovic is pushing against the U.S. Covid Vaccine Rule so he can compete in American tournaments, and China is blaming the U.S for its problems and saying it has no other choice but to fight back against America’s containment efforts. Lastly, California is dealing with a fifth of its conifer forests “zombie” due to it becoming out of sync with the warming climate around them, and people in America seem to be obsessed with specialty ice when enjoying ice-cold drinks.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Is Said to Consider Reinstating Detention of Migrant Families</h3>
@@ -80,12 +80,6 @@ In the US, the government is considering reinstating detention of migrant famili
 <p>Pvt. Ivan Ovlashenko was one of at least 16,000 Russians who have died in Ukraine, more than in the Soviets’ Afghan war. It’s getting hard for the Kremlin to cover that up.  <a href="https://nyti.ms/3JeFuZj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Signals It Will Keep Battling for Bakhmut to Drain Russia</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Gradual Russian advances and high Ukrainian casualties have fueled talk of a retreat from the eastern city, but Ukrainians say Russian losses are worse, a reason to keep them fighting.  <a href="https://nyti.ms/3ZMKN7Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Five Women Sue Texas Over the State’s Abortion Ban</h3>
 <sub>By Kate Zernike</sub>
@@ -96,12 +90,6 @@ In the US, the government is considering reinstating detention of migrant famili
 <h3>Breaking Silence, Murdaugh Brother Says ‘Not Knowing Is the Worst Thing’</h3>
 <sub>By Nicholas Bogel-Burroughs</sub>
 <p>After Alex Murdaugh’s trial ended in a conviction for the murders of his wife and son, his older brother Randy is still trying to understand what happened that night.  <a href="https://nyti.ms/3ISPgiA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The MAGA-fication of North Idaho College</h3>
-<sub>By Charles Homans</sub>
-<p>G.O.P. activists set out to root out the “deep state” at home. An Idaho community college may never be the same.  <a href="https://nyti.ms/3yfHfze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,6 +110,12 @@ In the US, the government is considering reinstating detention of migrant famili
 <p>The largest outbreak of avian influenza in U.S. history has driven up egg prices and raised concerns about a human pandemic, though C.D.C. experts say the risk of that is low.  <a href="https://nyti.ms/3ZMgn5p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Leader, With Rare Bluntness, Blames U.S. Containment for Troubles</h3>
+<sub>By Keith Bradsher</sub>
+<p>Xi Jinping criticized what he called a U.S.-led campaign of “encirclement and suppression.” His new foreign minister said it was impossible for China not to fight back.  <a href="https://nyti.ms/3mzXnco"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Mapping California’s ‘Zombie’ Forests</h3>
 <sub>By Elena Shao</sub>
@@ -133,6 +127,12 @@ In the US, the government is considering reinstating detention of migrant famili
 <sub>By Becky Hughes</sub>
 <p>Americans’ long love affair with ice-cold drinks has spawned a new obsession with specialty ice.  <a href="https://nyti.ms/3ye4ObC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>What These 13 Jewish Americans Are Proud of and Afraid Of</h3>
+<sub>By Adrian J. Rivera and Allison Benedikt</sub>
+<p>The group discusses antisemitism, Israel and the experience of being Jewish in America today.  <a href="https://nyti.ms/3yeSjMW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
