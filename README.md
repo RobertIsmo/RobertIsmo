@@ -60,18 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 7, Central Standard Time</p>
 <p>
-There is a lot of unrest happening in the world right now. In the U.S., the Biden administration is considering reinstating detention of migrant families, and Texas is being sued over its abortion ban. Meanwhile, in France, unions are vowing to bring the nation to a standstill in protest over Macron&#39;s retirement plan. In Russia, at least 16,000 Russians have died in Ukraine&#39;s conflict and there is a growing concern about the Kremlin&#39;s ability to cover up their deaths. In Israel, protests are happening over Prime Minister Netanyahu’s judiciary overhaul and it is threatening military capabilities. Additionally, Serbia&#39;s number one tennis player Novak Djokovic is pushing against the U.S. Covid Vaccine Rule so he can compete in American tournaments, and China is blaming the U.S for its problems and saying it has no other choice but to fight back against America’s containment efforts. Lastly, California is dealing with a fifth of its conifer forests “zombie” due to it becoming out of sync with the warming climate around them, and people in America seem to be obsessed with specialty ice when enjoying ice-cold drinks.</p>
+Right now, the US is facing an impending default that could cripple the economy, and President Biden is preparing to release another budget proposal. In Oklahoma, Rep. Josh Brecheen is advocating for deep spending cuts. Meanwhile, the Federal Reserve is refusing to make any commitments in the midst of economic uncertainty. As for immigration, the US government is considering bringing back detention of migrant families at the border. 
+
+Elsewhere around the world, Russia&#39;s involvement in Ukraine has led to thousands of Russian deaths—none of which are being acknowledged by the Kremlin. Chinese industrial espionage has been revealed due to a daring ruse, and Chinese leader Xi Jinping has blamed US-led &quot;encirclement and suppression&quot; for creating troubles.
+
+In cities across America, parking lots are becoming scarce as local governments rethink their parking needs in order to better sustain the environment. Newly implemented safety regulations have placed rail heat sensors under scrutiny due to their possible role in a deadly Ohio train crash, as well as their poor federal regulation. To make matters worse, France is experiencing a nationwide strike over pension reform plans proposed by President Emmanuel Macron that would raise the legal age of retirement to 64. People are angry and confused with why their government would do this.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Debt Default Would Cripple U.S. Economy, New Analysis Warns</h3>
+<sub>By Jim Tankersley</sub>
+<p>As President Biden prepares to release his latest budget proposal, a top economist will warn lawmakers that Republicans’ refusal to raise the nation’s borrowing cap could put millions out of work.  <a href="https://nyti.ms/3kQw7Wm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Oklahoma, a Freshman Republican Makes the Case for Deep Spending Cuts</h3>
+<sub>By Catie Edmondson</sub>
+<p>As Representative Josh Brecheen travels his district preparing his constituents for a debt showdown, his pitch reflects how the party has intertwined its spending fight with cultural battles.  <a href="https://nyti.ms/3mxrDob"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why the Federal Reserve Won’t Commit</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Facing huge economic uncertainty, the Fed is keeping its options open. Jerome H. Powell, its chair, will most likely continue that approach on Tuesday.  <a href="https://nyti.ms/3kSZXJS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Is Said to Consider Reinstating Detention of Migrant Families</h3>
 <sub>By Eileen Sullivan and Zolan Kanno-Youngs</sub>
 <p>President Biden has turned to increasingly restrictive measures as his administration prepares for the end of Title 42, which has allowed border authorities to swiftly expel migrants.  <a href="https://nyti.ms/3ZIM3bV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-international-home-blue" alt="">
-<h3>Unions Vow to Bring France to a ‘Standstill’ Over Macron’s Retirement Plan</h3>
-<sub>By Catherine Porter and Aurelien Breeden</sub>
-<p>Travel, schools and services were expected to be disrupted by nationwide strikes for a sixth time as the battle for public support intensified.  <a href="https://nyti.ms/3mxpw3L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,11 +96,29 @@ There is a lot of unrest happening in the world right now. In the U.S., the Bide
 <p>Pvt. Ivan Ovlashenko was one of at least 16,000 Russians who have died in Ukraine, more than in the Soviets’ Afghan war. It’s getting hard for the Kremlin to cover that up.  <a href="https://nyti.ms/3JeFuZj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Five Women Sue Texas Over the State’s Abortion Ban</h3>
-<sub>By Kate Zernike</sub>
-<p>The women, backed by an abortion-rights group, say they were denied abortions under state law despite risks to themselves and their fetuses that made the procedure a medical necessity.  <a href="https://nyti.ms/3YpH4fk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Daring Ruse That Exposed China’s Campaign to Steal American Secrets</h3>
+<sub>By Yudhijit Bhattacharjee</sub>
+<p>How the downfall of one intelligence agent revealed the astonishing depth of Chinese industrial espionage.  <a href="https://nyti.ms/41UACQC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Leader, With Rare Bluntness, Blames U.S. Containment for Troubles</h3>
+<sub>By Keith Bradsher</sub>
+<p>Xi Jinping criticized what he called a U.S.-led campaign of “encirclement and suppression.” His new foreign minister said it was impossible for China not to fight back.  <a href="https://nyti.ms/3mzXnco"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Awash in Asphalt, Cities Rethink Their Parking Needs</h3>
+<sub>By Jane Margolies</sub>
+<p>Local leaders across the nation are overhauling parking requirements for developers, scaling back the minimum number of spots for shopping centers and apartment complexes.  <a href="https://nyti.ms/41UAwZg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Rail Heat Sensors, Under Scrutiny in Ohio Crash, Face Few Regulations</h3>
+<sub>By Peter Eavis, Mark Walker and Niraj Chokshi</sub>
+<p>Safety experts said the East Palestine derailment might not have happened had Norfolk Southern placed sensors closer together. The federal government doesn’t require or regulate their use.  <a href="https://nyti.ms/3YtQ96R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Breaking Silence, Murdaugh Brother Says ‘Not Knowing Is the Worst Thing’</h3>
@@ -93,46 +127,16 @@ There is a lot of unrest happening in the world right now. In the U.S., the Bide
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Protests Over Netanyahu’s Judiciary Overhaul Spread to Israel’s Military</h3>
-<sub>By Ronen Bergman and Patrick Kingsley</sub>
-<p>The military leadership is concerned that anger over the government’s plan, with some pilots saying they will skip some training sessions and operations, could diminish military capabilities.  <a href="https://nyti.ms/3ZLruMg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How Tennis and Djokovic Are Pushing Against the U.S. Covid Vaccine Rule</h3>
-<sub>By Matthew Futterman</sub>
-<p>Djokovic, the world No. 1, who is unvaccinated against Covid-19, has lobbied the Biden administration for an exemption so he can play at Indian Wells and the Miami Open. So far, he has come up short.  <a href="https://nyti.ms/3IUaKvo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Considers Vaccinating Chickens as Bird Flu Kills Millions of Them</h3>
-<sub>By Sheryl Gay Stolberg and Emily Anthes</sub>
-<p>The largest outbreak of avian influenza in U.S. history has driven up egg prices and raised concerns about a human pandemic, though C.D.C. experts say the risk of that is low.  <a href="https://nyti.ms/3ZMgn5p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Unions Vow to Bring France to a ‘Standstill’ Over Macron’s Retirement Plan</h3>
+<sub>By Catherine Porter and Aurelien Breeden</sub>
+<p>Travel, schools and services were disrupted by nationwide strikes for a sixth time as the battle for public support intensified.  <a href="https://nyti.ms/41PZBUY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Leader, With Rare Bluntness, Blames U.S. Containment for Troubles</h3>
-<sub>By Keith Bradsher</sub>
-<p>Xi Jinping criticized what he called a U.S.-led campaign of “encirclement and suppression.” His new foreign minister said it was impossible for China not to fight back.  <a href="https://nyti.ms/3mzXnco"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Mapping California’s ‘Zombie’ Forests</h3>
-<sub>By Elena Shao</sub>
-<p>A fifth of the Sierra Nevada’s conifer forests are out of sync with the warming climate around them, which makes them less likely to grow back after a major wildfire.  <a href="https://nyti.ms/41TgApl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The Height of Domestic Luxury? Designer Ice.</h3>
-<sub>By Becky Hughes</sub>
-<p>Americans’ long love affair with ice-cold drinks has spawned a new obsession with specialty ice.  <a href="https://nyti.ms/3ye4ObC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>What These 13 Jewish Americans Are Proud of and Afraid Of</h3>
-<sub>By Adrian J. Rivera and Allison Benedikt</sub>
-<p>The group discusses antisemitism, Israel and the experience of being Jewish in America today.  <a href="https://nyti.ms/3yeSjMW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<h3>Why So Many People in France Are Protesting Over Pensions</h3>
+<sub>By Aurelien Breeden</sub>
+<p>President Emmanuel Macron is forging ahead with plans to raise the legal age of retirement to 64, from 62, despite strikes, wide public opposition and a two-month showdown with labor unions.  <a href="https://nyti.ms/3YaBQnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
