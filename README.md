@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 6, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, the Biden administration is considering reinstating the detention of migrant families, and there have been reports from North Idaho College about a &#39;MAGA-fication&#39; taking place there. In terms of crime, Alex Murdaugh has been convicted for murdering his wife and son, and there&#39;s a case about employers mislabeling rank-and-file workers as managers in order to avoid paying them overtime. 
-
-On the world stage, there are protests in Israel against Prime Minister Netanyahu’s proposed changes to the judiciary system, and Russia has been sending people to fight in Ukraine. Meanwhile, Ukraine is showing no signs of giving up their fight for Bakhmut against Russia even with high casualty rates. 
-
-The pandemic is still having a big impact too. The US is looking at vaccinating chickens to help reduce the recent bird flu outbreak, while Novak Djokovic is trying to get an exemption from the US Covid vaccine rule so he can keep playing tennis with other professional players in places like Indian Wells and Miami Open. 
-
-Finally, climate change is also affecting us. California&#39;s mountains are home to so-called &#39;zombie&#39; forests that are not adapting to the rising temperatures around them, making them more vulnerable to wildfires. And on a more positive note, some people have developed an obsession for designer ice for domestic luxury purposes!</p>
+There is a lot happening around the world right now. In the US, the Biden administration is considering reinstating detention of migrant families as the end of Title 42 approaches. In Israel, protests are spreading over Netanyahu’s judiciary overhaul, with some pilots skipping training sessions and operations due to their anger. In Ukraine and Russia, tensions are escalating after private Ivan Ovlashenko was one of at least 16,000 Russians who have died in Ukraine. As a result, Ukraine is signalling it will keep battling for Bakhmut against Russia. In the US, chickens are being considered to be vaccinated in order to prevent the spread of bird flu which has already killed millions of chickens. Political tension is also running high stateside with North Idaho College facing &quot;MAGA-fication,&quot; and five women in Texas suing over the state&#39;s abortion ban. On a more positive note, professional tennis players such as Djokovic are pushing against the US Covid-19 vaccine rules in order to be able to play at various competitions. Also in the US, researchers have discovered &#39;zombie forests&#39; in California which are not adapting well to climate change making them vulnerable post-wildfires. And finally, Americans&#39; long love affair with icy cold drinks has led to an obsession with specialty ice.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Is Said to Consider Reinstating Detention of Migrant Families</h3>
@@ -110,6 +104,12 @@ Finally, climate change is also affecting us. California&#39;s mountains are hom
 <p>After Alex Murdaugh’s trial ended in a conviction for the murders of his wife and son, his older brother Randy is still trying to understand what happened that night.  <a href="https://nyti.ms/3ISPgiA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Five Women Sue Texas Over the State’s Abortion Ban</h3>
+<sub>By Kate Zernike</sub>
+<p>The women, backed by an abortion-rights group, say they were denied abortions under state law despite risks to themselves and their fetuses that made the procedure a medical necessity.  <a href="https://nyti.ms/3YpH4fk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Can a Czech Firefighter Compete With M.L.B.’s Biggest Stars?</h3>
 <sub>By David Waldstein and Nina Riggio</sub>
@@ -120,12 +120,6 @@ Finally, climate change is also affecting us. California&#39;s mountains are hom
 <h3>How Tennis and Djokovic Are Pushing Against the U.S. Covid Vaccine Rule</h3>
 <sub>By Matthew Futterman</sub>
 <p>Djokovic, the world No. 1, who is unvaccinated against Covid-19, has lobbied the Biden administration for an exemption so he can play at Indian Wells and the Miami Open. So far, he has come up short.  <a href="https://nyti.ms/3IUaKvo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>You’re Now a ‘Manager.’ Forget About Overtime Pay.</h3>
-<sub>By Noam Scheiber</sub>
-<p>New evidence shows that many employers are mislabeling rank-and-file workers as managers to avoid paying them overtime.  <a href="https://nyti.ms/41N4GNO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
