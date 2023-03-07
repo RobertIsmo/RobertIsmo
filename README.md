@@ -60,11 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 7, Central Standard Time</p>
 <p>
-Right now, the US is facing an impending default that could cripple the economy, and President Biden is preparing to release another budget proposal. In Oklahoma, Rep. Josh Brecheen is advocating for deep spending cuts. Meanwhile, the Federal Reserve is refusing to make any commitments in the midst of economic uncertainty. As for immigration, the US government is considering bringing back detention of migrant families at the border. 
+There are a lot of major stories unfolding right now. In the US, President Biden is releasing his new budget proposal and economists are warning that refusing to raise the nation&#39;s borrowing cap could lead to millions being put out of work. Meanwhile, the Fed Chair has opened the door to faster rate hikes and higher interest rates. In terms of taxes, there&#39;s a proposal that targets Americans earning more than $400,000 a year, in order to bolster Medicare. On the immigration front, the US government is looking into bringing back detention for migrant families. 
 
-Elsewhere around the world, Russia&#39;s involvement in Ukraine has led to thousands of Russian deaths—none of which are being acknowledged by the Kremlin. Chinese industrial espionage has been revealed due to a daring ruse, and Chinese leader Xi Jinping has blamed US-led &quot;encirclement and suppression&quot; for creating troubles.
-
-In cities across America, parking lots are becoming scarce as local governments rethink their parking needs in order to better sustain the environment. Newly implemented safety regulations have placed rail heat sensors under scrutiny due to their possible role in a deadly Ohio train crash, as well as their poor federal regulation. To make matters worse, France is experiencing a nationwide strike over pension reform plans proposed by President Emmanuel Macron that would raise the legal age of retirement to 64. People are angry and confused with why their government would do this.</p>
+In other parts of the world, a Russian soldier died in Ukraine after heeding Russia&#39;s call to enlist, exposing how far the Kremlin is willing to go to cover up its involvement there. In Mexico, authorities are investigating reports of spying by their armed forces which has sparked fears of a &quot;military state,&quot; and four Americans have been kidnapped from Matamoros on a trip for medical help.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Debt Default Would Cripple U.S. Economy, New Analysis Warns</h3>
@@ -79,9 +77,15 @@ In cities across America, parking lots are becoming scarce as local governments 
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why the Federal Reserve Won’t Commit</h3>
+<h3>Fed Chair Opens Door to Faster Rate Moves and a Higher Peak</h3>
 <sub>By Jeanna Smialek</sub>
-<p>Facing huge economic uncertainty, the Fed is keeping its options open. Jerome H. Powell, its chair, will most likely continue that approach on Tuesday.  <a href="https://nyti.ms/3kSZXJS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In light of recent strong data, Jerome H. Powell said that the Federal Reserve is likely to raise rates higher than expected.  <a href="https://nyti.ms/3JjEvag"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Biden Budget Will Propose Tax Increase to Bolster Medicare</h3>
+<sub>By Jim Tankersley and Margot Sanger-Katz</sub>
+<p>The president’s plan targets Americans earning more than $400,000 a year in an attempt to increase the program’s solvency by 25 years.  <a href="https://nyti.ms/3YtsKCD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,12 +118,6 @@ In cities across America, parking lots are becoming scarce as local governments 
 <p>Local leaders across the nation are overhauling parking requirements for developers, scaling back the minimum number of spots for shopping centers and apartment complexes.  <a href="https://nyti.ms/41UAwZg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Rail Heat Sensors, Under Scrutiny in Ohio Crash, Face Few Regulations</h3>
-<sub>By Peter Eavis, Mark Walker and Niraj Chokshi</sub>
-<p>Safety experts said the East Palestine derailment might not have happened had Norfolk Southern placed sensors closer together. The federal government doesn’t require or regulate their use.  <a href="https://nyti.ms/3YtQ96R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Breaking Silence, Murdaugh Brother Says ‘Not Knowing Is the Worst Thing’</h3>
 <sub>By Nicholas Bogel-Burroughs</sub>
@@ -127,16 +125,16 @@ In cities across America, parking lots are becoming scarce as local governments 
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Unions Vow to Bring France to a ‘Standstill’ Over Macron’s Retirement Plan</h3>
-<sub>By Catherine Porter and Aurelien Breeden</sub>
-<p>Travel, schools and services were disrupted by nationwide strikes for a sixth time as the battle for public support intensified.  <a href="https://nyti.ms/41PZBUY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<h3>Spying by Mexico’s Armed Forces Brings Fears of a ‘Military State’</h3>
+<sub>By Natalie Kitroeff and Ronen Bergman</sub>
+<p>This is the first time a paper trail has emerged to prove definitively that the Mexican military spied on citizens who were trying to expose its misdeeds.  <a href="https://nyti.ms/41OuAkm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why So Many People in France Are Protesting Over Pensions</h3>
-<sub>By Aurelien Breeden</sub>
-<p>President Emmanuel Macron is forging ahead with plans to raise the legal age of retirement to 64, from 62, despite strikes, wide public opposition and a two-month showdown with labor unions.  <a href="https://nyti.ms/3YaBQnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<h3>FBI Searches for Four Americans Kidnapped in Mexico</h3>
+<sub>By Jack Nicas and Maria Abi-Habib</sub>
+<p>Gunmen fired on the Americans after they crossed into Matamoros, Mexico, from Texas on a trip to seek medical help in the country.  <a href="https://nyti.ms/41LQzsh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
