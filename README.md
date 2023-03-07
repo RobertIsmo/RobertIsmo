@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, March 6, Central Standard Time</p>
+<p>It is Tuesday, March 7, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. In the US, the Biden administration is considering reinstating detention of migrant families as the end of Title 42 approaches. In Israel, protests are spreading over Netanyahu’s judiciary overhaul, with some pilots skipping training sessions and operations due to their anger. In Ukraine and Russia, tensions are escalating after private Ivan Ovlashenko was one of at least 16,000 Russians who have died in Ukraine. As a result, Ukraine is signalling it will keep battling for Bakhmut against Russia. In the US, chickens are being considered to be vaccinated in order to prevent the spread of bird flu which has already killed millions of chickens. Political tension is also running high stateside with North Idaho College facing &quot;MAGA-fication,&quot; and five women in Texas suing over the state&#39;s abortion ban. On a more positive note, professional tennis players such as Djokovic are pushing against the US Covid-19 vaccine rules in order to be able to play at various competitions. Also in the US, researchers have discovered &#39;zombie forests&#39; in California which are not adapting well to climate change making them vulnerable post-wildfires. And finally, Americans&#39; long love affair with icy cold drinks has led to an obsession with specialty ice.</p>
+In the US, the government is considering reinstating detention of migrant families and five women are suing Texas over its abortion ban. Meanwhile, in France, unions are vowing to bring the country to a standstill over Macron&#39;s retirement plan. Over in Ukraine and Russia, there has been intense fighting with Russian losses possibly being covered up. There have also been protests over Israeli Prime Minister Netanyahu&#39;s judicial overhaul. Tennis and Djokovic have been pushing against the US COVID vaccine rule, while the US is considering vaccinating chickens to help with an outbreak of bird flu. California has &#39;zombie&#39; forests that are out of sync with climate change, and people are getting into designer ice as part of their love affair with cold drinks.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Is Said to Consider Reinstating Detention of Migrant Families</h3>
@@ -68,10 +68,10 @@ There is a lot happening around the world right now. In the US, the Biden admini
 <p>President Biden has turned to increasingly restrictive measures as his administration prepares for the end of Title 42, which has allowed border authorities to swiftly expel migrants.  <a href="https://nyti.ms/3ZIM3bV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Protests Over Netanyahu’s Judiciary Overhaul Spread to Israel’s Military</h3>
-<sub>By Ronen Bergman and Patrick Kingsley</sub>
-<p>The military leadership is concerned that anger over the government’s plan, with some pilots saying they will skip some training sessions and operations, could diminish military capabilities.  <a href="https://nyti.ms/3ZLruMg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-international-home-blue" alt="">
+<h3>Unions Vow to Bring France to a ‘Standstill’ Over Macron’s Retirement Plan</h3>
+<sub>By Catherine Porter and Aurelien Breeden</sub>
+<p>Travel, schools and services were expected to be disrupted by nationwide strikes for a sixth time as the battle for public support intensified.  <a href="https://nyti.ms/3mxpw3L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -87,15 +87,9 @@ There is a lot happening around the world right now. In the US, the Biden admini
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Considers Vaccinating Chickens as Bird Flu Kills Millions of Them</h3>
-<sub>By Sheryl Gay Stolberg and Emily Anthes</sub>
-<p>The largest outbreak of avian influenza in U.S. history has driven up egg prices and raised concerns about a human pandemic, though C.D.C. experts say the risk of that is low.  <a href="https://nyti.ms/3ZMgn5p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The MAGA-fication of North Idaho College</h3>
-<sub>By Charles Homans</sub>
-<p>G.O.P. activists set out to root out the “deep state” at home. An Idaho community college may never be the same.  <a href="https://nyti.ms/3yfHfze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Five Women Sue Texas Over the State’s Abortion Ban</h3>
+<sub>By Kate Zernike</sub>
+<p>The women, backed by an abortion-rights group, say they were denied abortions under state law despite risks to themselves and their fetuses that made the procedure a medical necessity.  <a href="https://nyti.ms/3YpH4fk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,21 +99,27 @@ There is a lot happening around the world right now. In the US, the Biden admini
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Five Women Sue Texas Over the State’s Abortion Ban</h3>
-<sub>By Kate Zernike</sub>
-<p>The women, backed by an abortion-rights group, say they were denied abortions under state law despite risks to themselves and their fetuses that made the procedure a medical necessity.  <a href="https://nyti.ms/3YpH4fk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The MAGA-fication of North Idaho College</h3>
+<sub>By Charles Homans</sub>
+<p>G.O.P. activists set out to root out the “deep state” at home. An Idaho community college may never be the same.  <a href="https://nyti.ms/3yfHfze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Can a Czech Firefighter Compete With M.L.B.’s Biggest Stars?</h3>
-<sub>By David Waldstein and Nina Riggio</sub>
-<p>The World Baseball Classic is a battle of the game’s top professional players. A scrappy Czech Republic team, full of guys with regular jobs, just might win your heart.  <a href="https://nyti.ms/3SQoewA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Protests Over Netanyahu’s Judiciary Overhaul Spread to Israel’s Military</h3>
+<sub>By Ronen Bergman and Patrick Kingsley</sub>
+<p>The military leadership is concerned that anger over the government’s plan, with some pilots saying they will skip some training sessions and operations, could diminish military capabilities.  <a href="https://nyti.ms/3ZLruMg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>How Tennis and Djokovic Are Pushing Against the U.S. Covid Vaccine Rule</h3>
 <sub>By Matthew Futterman</sub>
 <p>Djokovic, the world No. 1, who is unvaccinated against Covid-19, has lobbied the Biden administration for an exemption so he can play at Indian Wells and the Miami Open. So far, he has come up short.  <a href="https://nyti.ms/3IUaKvo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Considers Vaccinating Chickens as Bird Flu Kills Millions of Them</h3>
+<sub>By Sheryl Gay Stolberg and Emily Anthes</sub>
+<p>The largest outbreak of avian influenza in U.S. history has driven up egg prices and raised concerns about a human pandemic, though C.D.C. experts say the risk of that is low.  <a href="https://nyti.ms/3ZMgn5p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -131,7 +131,7 @@ There is a lot happening around the world right now. In the US, the Biden admini
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
 <h3>The Height of Domestic Luxury? Designer Ice.</h3>
 <sub>By Becky Hughes</sub>
-<p>Americans’ long love affair with the cold has spawned a new obsession with specialty ice.  <a href="https://nyti.ms/3ye4ObC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Americans’ long love affair with ice-cold drinks has spawned a new obsession with specialty ice.  <a href="https://nyti.ms/3ye4ObC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
