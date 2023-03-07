@@ -60,10 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 7, Central Standard Time</p>
 <p>
-There are a lot of major stories unfolding right now. In the US, President Biden is releasing his new budget proposal and economists are warning that refusing to raise the nation&#39;s borrowing cap could lead to millions being put out of work. Meanwhile, the Fed Chair has opened the door to faster rate hikes and higher interest rates. In terms of taxes, there&#39;s a proposal that targets Americans earning more than $400,000 a year, in order to bolster Medicare. On the immigration front, the US government is looking into bringing back detention for migrant families. 
-
-In other parts of the world, a Russian soldier died in Ukraine after heeding Russia&#39;s call to enlist, exposing how far the Kremlin is willing to go to cover up its involvement there. In Mexico, authorities are investigating reports of spying by their armed forces which has sparked fears of a &quot;military state,&quot; and four Americans have been kidnapped from Matamoros on a trip for medical help.</p>
+There are a lot of things happening in the world right now. U.S. intelligence suggests that a pro-Ukrainian group may have sabotaged pipelines, and economists are warning that if the U.S. doesn&#39;t raise the nation&#39;s borrowing cap it could put millions out of work. In Oklahoma, a freshman Republican is trying to make the case for deep spending cuts, and President Biden is proposing tax increases to bolster Medicare. Meanwhile, the Federal Reserve Chairman has opened the door to faster rate moves and the possibility of higher rates than expected, but is keeping its options open due to an era of uncertainty. Two Americans have been found dead in Mexico after they were kidnapped while crossing into the country for medical care, while spying by Mexico&#39;s armed forces is raising fears of a &#39;military state&#39;. Finally, there has been Palestinian confrontation with Israel in West Bank clashes following Jewish settler revenge attacks that resulted in 6 Palestinian deaths.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Intelligence Suggests Pro-Ukrainian Group Sabotaged Pipelines, U.S. Officials Say</h3>
+<sub>By Adam Entous, Julian E. Barnes and Adam Goldman</sub>
+<p>New intelligence reporting amounts to the first significant known lead about who was responsible for the attack on the Nord Stream pipelines that carried natural gas from Russia to Europe.  <a href="https://nyti.ms/3Yxnk9r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Debt Default Would Cripple U.S. Economy, New Analysis Warns</h3>
 <sub>By Jim Tankersley</sub>
@@ -77,52 +81,28 @@ In other parts of the world, a Russian soldier died in Ukraine after heeding Rus
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Biden Budget Will Propose Tax Increase to Bolster Medicare</h3>
+<sub>By Jim Tankersley and Margot Sanger-Katz</sub>
+<p>The president’s plan targets Americans earning more than $400,000 a year in an attempt to increase the program’s solvency by 25 years.  <a href="https://nyti.ms/3YtsKCD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fed Chair Opens Door to Faster Rate Moves and a Higher Peak</h3>
 <sub>By Jeanna Smialek</sub>
 <p>In light of recent strong data, Jerome H. Powell said that the Federal Reserve is likely to raise rates higher than expected.  <a href="https://nyti.ms/3JjEvag"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Biden Budget Will Propose Tax Increase to Bolster Medicare</h3>
-<sub>By Jim Tankersley and Margot Sanger-Katz</sub>
-<p>The president’s plan targets Americans earning more than $400,000 a year in an attempt to increase the program’s solvency by 25 years.  <a href="https://nyti.ms/3YtsKCD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Is Said to Consider Reinstating Detention of Migrant Families</h3>
-<sub>By Eileen Sullivan and Zolan Kanno-Youngs</sub>
-<p>President Biden has turned to increasingly restrictive measures as his administration prepares for the end of Title 42, which has allowed border authorities to swiftly expel migrants.  <a href="https://nyti.ms/3ZIM3bV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>He Heeded Russia’s Call to Enlist. Five Months Later, He Was Dead.</h3>
-<sub>By Neil MacFarquhar and Milana Mazaeva</sub>
-<p>Pvt. Ivan Ovlashenko was one of at least 16,000 Russians who have died in Ukraine, more than in the Soviets’ Afghan war. It’s getting hard for the Kremlin to cover that up.  <a href="https://nyti.ms/3JeFuZj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Daring Ruse That Exposed China’s Campaign to Steal American Secrets</h3>
-<sub>By Yudhijit Bhattacharjee</sub>
-<p>How the downfall of one intelligence agent revealed the astonishing depth of Chinese industrial espionage.  <a href="https://nyti.ms/41UACQC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Why the Federal Reserve Won’t Commit</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Fed is keeping its options open in an era of uncertainty. Jerome H. Powell, its chair, stuck to that approach Tuesday.  <a href="https://nyti.ms/3kSZXJS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Leader, With Rare Bluntness, Blames U.S. Containment for Troubles</h3>
-<sub>By Keith Bradsher</sub>
-<p>Xi Jinping criticized what he called a U.S.-led campaign of “encirclement and suppression.” His new foreign minister said it was impossible for China not to fight back.  <a href="https://nyti.ms/3mzXnco"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>2 Americans Found Dead; 2 Found Alive in Mexico Kidnapping</h3>
+<sub>By Maria Abi-Habib, Natalie Kitroeff and Jack Nicas</sub>
+<p>U.S. and Mexican authorities had been searching for the four Americans since they were kidnapped in Mexico last week after they crossed into the country from Texas for a medical procedure.  <a href="https://nyti.ms/41LQzsh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Awash in Asphalt, Cities Rethink Their Parking Needs</h3>
-<sub>By Jane Margolies</sub>
-<p>Local leaders across the nation are overhauling parking requirements for developers, scaling back the minimum number of spots for shopping centers and apartment complexes.  <a href="https://nyti.ms/41UAwZg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Breaking Silence, Murdaugh Brother Says ‘Not Knowing Is the Worst Thing’</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>After Alex Murdaugh’s trial ended in a conviction for the murders of his wife and son, his older brother Randy is still trying to understand what happened that night.  <a href="https://nyti.ms/3ISPgiA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Spying by Mexico’s Armed Forces Brings Fears of a ‘Military State’</h3>
@@ -130,10 +110,28 @@ In other parts of the world, a Russian soldier died in Ukraine after heeding Rus
 <p>This is the first time a paper trail has emerged to prove definitively that the Mexican military spied on citizens who were trying to expose its misdeeds.  <a href="https://nyti.ms/41OuAkm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Daring Ruse That Exposed China’s Campaign to Steal American Secrets</h3>
+<sub>By Yudhijit Bhattacharjee</sub>
+<p>How the downfall of one intelligence agent revealed the astonishing depth of Chinese industrial espionage.  <a href="https://nyti.ms/41UACQC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Judy Blume Finally Got a ‘Yes’ From Hollywood</h3>
+<sub>By Nicole Sperling</sub>
+<p>Decades after she first discussed translating her work to film and television, the Blume-aissance is upon us. All it needed was for Judy Blume fans to take charge in the entertainment industry.  <a href="https://nyti.ms/3mrE1pD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Paul Ryan Says Even MAGA Diehards Believe Trump Can’t Win in 2024</h3>
+<sub>By David Marchese</sub>
+<p>“The ace in the hole reason is that he’s unelectable,” says the former G.O.P. standard-bearer.  <a href="https://nyti.ms/3ITT8zH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>FBI Searches for Four Americans Kidnapped in Mexico</h3>
-<sub>By Jack Nicas and Maria Abi-Habib</sub>
-<p>Gunmen fired on the Americans after they crossed into Matamoros, Mexico, from Texas on a trip to seek medical help in the country.  <a href="https://nyti.ms/41LQzsh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>6 Palestinians Killed in Israeli Raid in West Bank Clashes</h3>
+<sub>By Isabel Kershner</sub>
+<p>The Israeli military said one of those killed was suspected in the fatal shooting of two Israeli brothers in the West Bank village of Huwara, which set off revenge attacks by Jewish settlers.  <a href="https://nyti.ms/3ZqoUeB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
