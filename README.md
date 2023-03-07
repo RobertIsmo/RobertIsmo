@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 6, Central Standard Time</p>
 <p>
-There is a lot happening all around the world right now. In Israel, there are large protests over a plan by Prime Minister Binyamin Netanyahu to overhaul the judiciary system. In Ukraine, soldiers are pushing Russian forces back in a battle near Bakhmut. In the US, the government is considering vaccinating chickens to deal with an outbreak of bird flu that has killed millions of birds and raised concerns about a human pandemic. Republican votes have helped the US pile up debt and increase its deficit. And in California, there is an increasing amount of &quot;zombie&quot; forests that are out of sync with the warming climate due to past wildfires. Finally, the Biden administration is looking at potential measures it can take against apps like TikTok that could expose US citizens&#39; data to China.</p>
+There&#39;s a lot going on in the world right now. In the US, the Biden administration is considering reinstating the detention of migrant families, and there have been reports from North Idaho College about a &#39;MAGA-fication&#39; taking place there. In terms of crime, Alex Murdaugh has been convicted for murdering his wife and son, and there&#39;s a case about employers mislabeling rank-and-file workers as managers in order to avoid paying them overtime. 
+
+On the world stage, there are protests in Israel against Prime Minister Netanyahu’s proposed changes to the judiciary system, and Russia has been sending people to fight in Ukraine. Meanwhile, Ukraine is showing no signs of giving up their fight for Bakhmut against Russia even with high casualty rates. 
+
+The pandemic is still having a big impact too. The US is looking at vaccinating chickens to help reduce the recent bird flu outbreak, while Novak Djokovic is trying to get an exemption from the US Covid vaccine rule so he can keep playing tennis with other professional players in places like Indian Wells and Miami Open. 
+
+Finally, climate change is also affecting us. California&#39;s mountains are home to so-called &#39;zombie&#39; forests that are not adapting to the rising temperatures around them, making them more vulnerable to wildfires. And on a more positive note, some people have developed an obsession for designer ice for domestic luxury purposes!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Is Said to Consider Reinstating Detention of Migrant Families</h3>
+<sub>By Eileen Sullivan and Zolan Kanno-Youngs</sub>
+<p>President Biden has turned to increasingly restrictive measures as his administration prepares for the end of Title 42, which has allowed border authorities to swiftly expel migrants.  <a href="https://nyti.ms/3ZIM3bV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Protests Over Netanyahu’s Judiciary Overhaul Spread to Israel’s Military</h3>
 <sub>By Ronen Bergman and Patrick Kingsley</sub>
@@ -69,9 +81,15 @@ There is a lot happening all around the world right now. In Israel, there are la
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Soldiers, Nearly Encircled, Push Russians Back</h3>
-<sub>By Carlotta Gall and Daniel Berehulak</sub>
-<p>The battle for Bakhmut is not over — at least not yet. Ukrainian assault brigades offered Moscow a bloody reminder of that over the weekend.  <a href="https://nyti.ms/41MEQtn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>He Heeded Russia’s Call to Enlist. Five Months Later, He Was Dead.</h3>
+<sub>By Neil MacFarquhar and Milana Mazaeva</sub>
+<p>Pvt. Ivan Ovlashenko was one of at least 16,000 Russians who have died in Ukraine, more than in the Soviets’ Afghan war. It’s getting hard for the Kremlin to cover that up.  <a href="https://nyti.ms/3JeFuZj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Signals It Will Keep Battling for Bakhmut to Drain Russia</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Gradual Russian advances and high Ukrainian casualties have fueled talk of a retreat from the eastern city, but Ukrainians say Russian losses are worse, a reason to keep them fighting.  <a href="https://nyti.ms/3ZMKN7Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,15 +105,9 @@ There is a lot happening all around the world right now. In Israel, there are la
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Votes Helped Washington Pile Up Debt</h3>
-<sub>By Jim Tankersley</sub>
-<p>As they escalate a debt-limit standoff, House Republicans blame President Biden’s spending bills for an increase in deficits. Voting records show otherwise.  <a href="https://nyti.ms/3ZJAEIZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The Programs You’d Have to Cut to Balance the Budget</h3>
-<sub>By Alicia Parlapiano, Margot Sanger-Katz and Josh Katz</sub>
-<p>Without trimming popular programs or raising taxes, cuts to the rest of the federal budget would have to be monumental.  <a href="https://nyti.ms/3msd1Xd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Breaking Silence, Murdaugh Brother Says ‘Not Knowing Is the Worst Thing’</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>After Alex Murdaugh’s trial ended in a conviction for the murders of his wife and son, his older brother Randy is still trying to understand what happened that night.  <a href="https://nyti.ms/3ISPgiA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -104,17 +116,17 @@ There is a lot happening all around the world right now. In Israel, there are la
 <p>The World Baseball Classic is a battle of the game’s top professional players. A scrappy Czech Republic team, full of guys with regular jobs, just might win your heart.  <a href="https://nyti.ms/3SQoewA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>How Tennis and Djokovic Are Pushing Against the U.S. Covid Vaccine Rule</h3>
+<sub>By Matthew Futterman</sub>
+<p>Djokovic, the world No. 1, who is unvaccinated against Covid-19, has lobbied the Biden administration for an exemption so he can play at Indian Wells and the Miami Open. So far, he has come up short.  <a href="https://nyti.ms/3IUaKvo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>You’re Now a ‘Manager.’ Forget About Overtime Pay.</h3>
 <sub>By Noam Scheiber</sub>
 <p>New evidence shows that many employers are mislabeling rank-and-file workers as managers to avoid paying them overtime.  <a href="https://nyti.ms/41N4GNO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Historical Disputes Kept Them at Odds. Can Seoul and Tokyo Make Amends?</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>Icy relations between the two have long been a headache for Washington. South Korea made a significant step in improving ties this week, perhaps indicating progress to come.  <a href="https://nyti.ms/3KUGfIl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Mapping California’s ‘Zombie’ Forests</h3>
@@ -122,16 +134,10 @@ There is a lot happening all around the world right now. In Israel, there are la
 <p>A fifth of the Sierra Nevada’s conifer forests are out of sync with the warming climate around them, which makes them less likely to grow back after a major wildfire.  <a href="https://nyti.ms/41TgApl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>White House Said to Consider Pushing Congress on Dealing With TikTok</h3>
-<sub>By David McCabe</sub>
-<p>In a strategy shift, the Biden administration is increasingly pointing to Congress to give it more legal power to deal with TikTok and other technology that could expose Americans’ sensitive data to China.  <a href="https://nyti.ms/3F2tEz4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A Gen Z Mystery: My Instagram Posts Keep Showing Up on Facebook!</h3>
-<sub>By Kalley Huang and Sheera Frenkel</sub>
-<p>Teenagers and young adults are flummoxed. The reason it keeps happening involves an online prompt and product design.  <a href="https://nyti.ms/3YnSpN4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The Height of Domestic Luxury? Designer Ice.</h3>
+<sub>By Becky Hughes</sub>
+<p>Americans’ long love affair with the cold has spawned a new obsession with specialty ice.  <a href="https://nyti.ms/3ye4ObC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
