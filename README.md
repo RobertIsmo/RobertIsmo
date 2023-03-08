@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 7, Central Standard Time</p>
 <p>
-Right now, there seems to be a lot of international tension flaring up. In the US, intelligence officials are saying that a pro-Ukrainian group is responsible for sabotaging two pipelines carrying natural gas from Russia to Europe. President Biden has proposed raising taxes to bolster Medicare and avoid a crippling debt default. In terms of climate, Senator Whitehouse is now in a powerful position and speaking out more on its costs. Jerome H. Powell, the Federal Reserve chair, has opened up the possibility of faster rate moves and higher peak interest rates due to recent strong data. There&#39;s also been tragic news abroad as two Americans were found dead and another two were found alive after being kidnapped in Mexico last week. Also, Mexico&#39;s armed forces have been revealed to have been spying on citizens who tried to expose its misdeeds. Lastly, Paul Ryan says even Trump supporters admit he won’t be able to win in 2024 and Trump gave a speech warning of retribution if he isn’t reelected. In addition, six Palestinians were killed in an Israeli raid in the West Bank.</p>
+There is a lot going on around the world to tell my close friend. In Ukraine, Russia&#39;s Wagner mercenary group is preparing for their supposed &#39;last stand&#39; in Bakhmut, as Ukrainian intelligence reports suggest a pro-Ukrainian group sabotaged pipelines. Meanwhile in the US, the Federal Reserve chair has opened the door to faster rate moves and a higher peak due to strong data. Also in the US, Republicans are split over Tucker Carlson&#39;s false January 6th claims, and Donald Trump is vowing retribution for a second term of spite. There are also G.O.P states abandoning a bipartisan voting integrity group due to conspiracy theories and the F.T.C. is intensifying its investigation of Twitter&#39;s privacy practices. On the business side of things, Elon Musk has come out to say that Twitter&#39;s finances are improving after big cuts and that Judy Blume finally got a &#39;yes&#39; on her movie adaptations across Hollywood. Finally, The N.T.S.B. will investigate Norfolk Southern&#39;s safety practices after several accidents have occurred since late 2021.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Claims Bakhmut Battle Is Wagner’s ‘Last Stand’</h3>
+<sub>By Andrew E. Kramer and Anatoly Kurmanaev</sub>
+<p>Ukrainians say Russia’s Wagner mercenary group is running low on fighters recruited from prisons, used in attacks on Bakhmut, where Ukraine has also endured heavy losses.  <a href="https://nyti.ms/3mzYLeX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Intelligence Suggests Pro-Ukrainian Group Sabotaged Pipelines, U.S. Officials Say</h3>
 <sub>By Adam Entous, Julian E. Barnes and Adam Goldman</sub>
@@ -69,45 +75,51 @@ Right now, there seems to be a lot of international tension flaring up. In the U
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Biden Budget Will Propose Tax Increase to Bolster Medicare</h3>
-<sub>By Jim Tankersley and Margot Sanger-Katz</sub>
-<p>The president’s plan targets Americans earning more than $400,000 a year in an attempt to increase the program’s solvency by 25 years.  <a href="https://nyti.ms/3YtsKCD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Fed Chair Opens Door to Faster Rate Moves and a Higher Peak</h3>
+<sub>By Jeanna Smialek</sub>
+<p>In light of recent strong data, Jerome H. Powell said the Federal Reserve was likely to raise rates higher than expected.  <a href="https://nyti.ms/3JjEvag"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Debt Default Would Cripple U.S. Economy, New Analysis Warns</h3>
-<sub>By Jim Tankersley</sub>
-<p>As President Biden prepares to release his latest budget proposal, a top economist warned lawmakers that Republicans’ refusal to raise the nation’s borrowing cap could put millions out of work.  <a href="https://nyti.ms/3kQw7Wm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Same Message, Bigger Audience: Sen. Whitehouse Flags Climate Costs</h3>
-<sub>By Coral Davenport</sub>
-<p>For more than a decade, Senator Sheldon Whitehouse gave daily warnings about the mounting threat of climate change. Now he has a powerful new perch.  <a href="https://nyti.ms/3JkDfDR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Trip to Mexico Ends in a Kidnapping and the Deaths of 2 Americans</h3>
+<sub>By Natalie Kitroeff, Maria Abi-Habib, Jack Nicas and Jacey Fortin</sub>
+<p>Four friends crossed the border on Friday, but within hours, they were abducted by gunmen and two of them were killed before the others were rescued Tuesday.  <a href="https://nyti.ms/41LQzsh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Chair Opens Door to Faster Rate Moves and a Higher Peak</h3>
-<sub>By Jeanna Smialek</sub>
-<p>In light of recent strong data, Jerome H. Powell said that the Federal Reserve is likely to raise rates higher than expected.  <a href="https://nyti.ms/3JjEvag"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘The Whole Thing Seems Insane’: New Documents Shed Light on Debate Inside Fox After Election</h3>
+<sub>By Jeremy W. Peters and Katie Robertson</sub>
+<p>Messages and depositions from the network’s stars like Tucker Carlson revealed serious misgivings about claims of election fraud even as some of the hosts told their audiences of millions a very different story.  <a href="https://nyti.ms/3L0H7v7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>2 Americans Found Dead; 2 Found Alive in Mexico Kidnapping</h3>
-<sub>By Natalie Kitroeff, Maria Abi-Habib, Jack Nicas and Jacey Fortin</sub>
-<p>U.S. and Mexican authorities had been searching for the four Americans since they were kidnapped in Mexico last week after they crossed into the country from Texas for a medical procedure.  <a href="https://nyti.ms/41LQzsh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republican Lawmakers Split Over Carlson’s False Jan. 6 Claims</h3>
+<sub>By Luke Broadwater and Stephanie Lai</sub>
+<p>House Republicans promoted Tucker Carlson’s report falsely portraying the attack on the Capitol as a largely peaceful event, while Senate Republicans condemned it.  <a href="https://nyti.ms/3L5eBbF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spying by Mexico’s Armed Forces Brings Fears of a ‘Military State’</h3>
-<sub>By Natalie Kitroeff and Ronen Bergman</sub>
-<p>This is the first time a paper trail has emerged to prove definitively that the Mexican military spied on citizens who were trying to expose its misdeeds.  <a href="https://nyti.ms/41OuAkm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump, Vowing ‘Retribution,’ Foretells a Second Term of Spite</h3>
+<sub>By Maggie Haberman and Shane Goldmacher</sub>
+<p>In a speech before his supporters, the former president charged forward in an uncharted direction, talking openly about leveraging the power of the presidency for political reprisals.  <a href="https://nyti.ms/3Zqzlih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Daring Ruse That Exposed China’s Campaign to Steal American Secrets</h3>
-<sub>By Yudhijit Bhattacharjee</sub>
-<p>How the downfall of one intelligence agent revealed the astonishing depth of Chinese industrial espionage.  <a href="https://nyti.ms/41UACQC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>G.O.P. States Abandon Bipartisan Voting Integrity Group, Yielding to Conspiracy Theories</h3>
+<sub>By Neil Vigdor</sub>
+<p>Five red states have severed ties since last year with the Electronic Registration Information Center, a nonprofit that helps maintain accurate voter rolls.  <a href="https://nyti.ms/3ZQ9GPM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>F.T.C. Intensifies Investigation of Twitter’s Privacy Practices</h3>
+<sub>By Kate Conger, Ryan Mac and David McCabe</sub>
+<p>The commission is seeking an interview with Elon Musk, who has made major cuts at the company since acquiring it last year.  <a href="https://nyti.ms/3yjal0z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Elon Musk Says Twitter’s Finances Are Improving After Big Cuts</h3>
+<sub>By Ryan Mac</sub>
+<p>On a day Mr. Musk said the company was recovering from a sharp drop in ad sales, he found himself apologizing to a former employee with a disability he had disparaged.  <a href="https://nyti.ms/3ykfBkt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -116,22 +128,10 @@ Right now, there seems to be a lot of international tension flaring up. In the U
 <p>Decades after she first discussed translating her work to film and television, the Blume-aissance is upon us. All it needed was for Judy Blume fans to take charge in the entertainment industry.  <a href="https://nyti.ms/3mrE1pD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Paul Ryan Says Even MAGA Diehards Believe Trump Can’t Win in 2024</h3>
-<sub>By David Marchese</sub>
-<p>“The ace in the hole reason is that he’s unelectable,” says the former G.O.P. standard-bearer.  <a href="https://nyti.ms/3ITT8zH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump, Vowing ‘Retribution,’ Foretells a Second Term of Spite</h3>
-<sub>By Maggie Haberman and Shane Goldmacher</sub>
-<p>In a speech before his supporters, the former president charged forward in an uncharted direction, talking openly about leveraging the power of the presidency for political reprisals.  <a href="https://nyti.ms/3Zqzlih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>6 Palestinians Killed in Israeli Raid in West Bank</h3>
-<sub>By Isabel Kershner</sub>
-<p>The Israeli military said one of those killed was suspected in the fatal shooting of two Israeli brothers in the West Bank village of Huwara, which set off revenge attacks by Jewish settlers.  <a href="https://nyti.ms/3ZqoUeB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>N.T.S.B. Will Investigate Norfolk Southern’s Safety Practices</h3>
+<sub>By Mark Walker and Peter Eavis</sub>
+<p>The agency said it was opening a special investigation because the railway has had several significant accidents since late 2021.  <a href="https://nyti.ms/3Jlj3ld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
