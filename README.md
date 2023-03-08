@@ -60,10 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 8, Central Standard Time</p>
 <p>
-Things have been happening pretty fast lately! Biden&#39;s about to unveil plans for a bunch of measures that&#39;ll help reduce the deficit, which a lot of people are interested in doing. Meanwhile, the Senate and House are clashing over budget initiatives like Social Security and Medicare. Investors have to keep a close eye on the stock market—the head of the Federal Reserve mentioned that interest rates may be going up. Technology companies are buzzing due to the introduction of chatbots, but some tech companies had layoffs as well due to focus on pet projects. Ukraine is lacking shells right now and the EU is stepping in with a plan to get production going. In Georgia, there&#39;s been protests over a Kremlin-inspired law. A former staff member of New York Mayor Eric Adams has been hired by two major real estate magnates, including one looking into casinos. Unfortunately in Afghanistan, policies post-Taliban takeover have meant hard times for a lot of women who had rights prior to its installation. On brighter news, Broadway has seen a revival of the dreadful Sweeney Todd musical. And finally, Republican lawmakers are somewhat divided on false claims made by media host Tucker Carlson about January 6th that Fox News had been promoting—many were skeptical early on, according to messages and depositions taken since then.</p>
+Right now, there are some big things going on in the US as well as around the world. In the US, the Justice Department has found a pattern of discriminatory policing in Louisville and President Biden is set to roll out a $3 trillion plan to reduce deficits. On the other side of things, House Republicans are getting ready to battle it out with Biden over various budget cuts and spending. 
+
+Moving onto the global stage, in Ukraine the European Union is working on a plan to increase production of artillery shells and in Georgia protesters are rallying against a law that is said to bring them closer to Russia. Meanwhile, tech companies everywhere are having to adjust with the emergence of chatbots, which could throw many online businesses into disarray.
+
+For better or worse, there&#39;s more than enough news stories to go round – even Fox News anchor Tucker Carlson has been making headlines with his reported comments about President Trump himself. Now with the passing of Donald Trump and Joe Biden taking office, one of the most pressing issues is how Covid came about and whether it was from a lab leak, which is being discussed at length in an investigation by a House subcommittee.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Is Set to Detail at Least $2 Trillion in Measures to Reduce Deficits</h3>
+<h3>Justice Dept. Finds Pattern of Discriminatory Policing in Louisville</h3>
+<sub>By Glenn Thrush</sub>
+<p>The review, undertaken after a specialized unit killed Breonna Taylor in a botched raid in 2020, paints a damning portrait of a department in crisis.  <a href="https://nyti.ms/3F8elVk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Is Set to Detail $3 Trillion in Measures to Reduce Deficits</h3>
 <sub>By Jim Tankersley</sub>
 <p>The president’s proposals, included in the budget he will release on Thursday, are expected to heavily feature tax increases on corporations and high earners.  <a href="https://nyti.ms/3Joz4Ha"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
@@ -72,24 +82,6 @@ Things have been happening pretty fast lately! Biden&#39;s about to unveil plans
 <h3>House G.O.P. Prepares to Slash Federal Programs in Coming Budget Showdown</h3>
 <sub>By Carl Hulse and Catie Edmondson</sub>
 <p>With Social Security and Medicare off the table, conservatives are focusing on a wide range of smaller programs as a clash with President Biden and Democrats looms.  <a href="https://nyti.ms/425J6Ey"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fear of a Recession Spooks the Market</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Investors were alarmed at suggestions by Jerome Powell, the Federal Reserve’s chairman, that interest rates could go even higher in a bid to halt inflation.  <a href="https://nyti.ms/3YxMIfg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Chatbots Are Here, and the Internet Industry Is in a Tizzy</h3>
-<sub>By Tripp Mickle, Cade Metz and Nico Grant</sub>
-<p>The new technology could upend many online businesses. But for companies that figure out how to work with it, A.I. could be a boon.  <a href="https://nyti.ms/3ZQaEeW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Perils of Working on a C.E.O.’s Pet Project</h3>
-<sub>By Karen Weise, Nico Grant and Mike Isaac</sub>
-<p>Big tech companies have long been willing to fund efforts with no obvious payoff. But those groups have been hit hard in recent layoffs.  <a href="https://nyti.ms/41S65mn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,10 +96,22 @@ Things have been happening pretty fast lately! Biden&#39;s about to unveil plans
 <p>Critics of proposed legislation targeting “foreign agents” say the law brings the country closer to Russia.  <a href="https://nyti.ms/3F7ylHU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Lucrative Post-City Hall Life of an Adams Insider</h3>
-<sub>By Dana Rubinstein, Emma G. Fitzsimmons and William K. Rashbaum</sub>
-<p>Frank Carone, who stepped down as Mayor Eric Adams’s chief of staff in December, has found work with two commercial real estate titans, including one seeking a casino.  <a href="https://nyti.ms/41Wt9QI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Chatbots Are Here, and the Internet Industry Is in a Tizzy</h3>
+<sub>By Tripp Mickle, Cade Metz and Nico Grant</sub>
+<p>The new technology could upend many online businesses. But for companies that figure out how to work with it, A.I. could be a boon.  <a href="https://nyti.ms/3ZQaEeW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Perils of Working on a C.E.O.’s Pet Project</h3>
+<sub>By Karen Weise, Nico Grant and Mike Isaac</sub>
+<p>Big tech companies have long been willing to fund efforts with no obvious payoff. But those groups have been hit hard in recent layoffs.  <a href="https://nyti.ms/41S65mn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Inside the ‘Blood Sport’ of Oscars Campaigns</h3>
+<sub>By Irina Aleksander</sub>
+<p>War rooms. Oppo dumps. Eight-figure budgets. How the quest for awards-season glory got so cutthroat.  <a href="https://nyti.ms/3mBismJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,23 +120,23 @@ Things have been happening pretty fast lately! Biden&#39;s about to unveil plans
 <p>The Taliban’s takeover ended decades of war. But their restrictions, and the economic fallout, threw many women into a new era of diminished hopes.  <a href="https://nyti.ms/41LYtSe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>Who Needs a Shave? ‘Sweeney Todd’ Is Back.</h3>
-<sub>By Rob Weinert-Kendt</sub>
-<p>Josh Groban, Annaleigh Ashford and a starry creative team are hoping there’s an appetite for Broadway’s first full-scale revival of Sondheim’s Grand Guignol masterpiece in 43 years.  <a href="https://nyti.ms/3mBikUh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>5 Times Tucker Carlson Privately Reviled Trump: ‘I Hate Him’</h3>
+<sub>By Katie Robertson</sub>
+<p>The Fox host’s private comments, revealed recently in court documents, contrast sharply with his support of conservatives on his show.  <a href="https://nyti.ms/3YxmSrR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Lawmakers Split Over Carlson’s False Jan. 6 Claims</h3>
-<sub>By Luke Broadwater and Stephanie Lai</sub>
-<p>House Republicans promoted Tucker Carlson’s report falsely portraying the attack on the Capitol as a largely peaceful event, while Senate Republicans condemned it.  <a href="https://nyti.ms/3L5eBbF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<h3>When Trump Passes the MAGA Hat, His Aides Clutch Their Wallets</h3>
+<sub>By Michael C. Bender</sub>
+<p>Unlike other recent presidents, Donald Trump has rarely received campaign donations from his top advisers. They offer a range of explanations.  <a href="https://nyti.ms/3mwerQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘The Whole Thing Seems Insane’: New Documents on Fox and the Election</h3>
-<sub>By Jeremy W. Peters and Katie Robertson</sub>
-<p>Messages and depositions from stars like Tucker Carlson revealed serious misgivings about claims of fraud even as some hosts told millions of viewers a very different story.  <a href="https://nyti.ms/3L0H7v7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Covid Origins Hearing Opens With Arguments for Lab Leak Theory</h3>
+<sub>By Sheryl Gay Stolberg and Benjamin Mueller</sub>
+<p>At its first public hearing, the House Select Subcommittee on the Coronavirus Pandemic plunged into the politically charged debate over the origins of the virus.  <a href="https://nyti.ms/3IT3VtO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
