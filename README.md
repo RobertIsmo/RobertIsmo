@@ -60,26 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 8, Central Standard Time</p>
 <p>
-Hey, so pretty crazy stuff has been going on lately. President Biden is proposing at least $2 trillion worth of plans to reduce deficits, mostly raised by taxing corporations and high earners. Meanwhile, House G.O.P. is prepping up to cut some federal programs while avoiding Social Security and Medicare - at the same time, chatbots are being introduced to the internet industry which might revolutionize online businesses in a good or bad way; who knows. 
-
-In other news, Ukraine might be getting more production in artillery shells due to E.U.&#39;s plan of providing advance payments and intelligence suggests that a pro-Ukrainian group sabotaged pipelines in Europe - but still nothing concrete regarding who was responsible. 
-
-And then on home turf, Republicans are split in opinion after reports emerged saying Fox News spread false information about the Capitol riots on Jan 6th, with Senate Republicans condemning it while some House Republican try to downplay it all. Oh, exciting times! 
-
-Also some real estate and theater news too: one of Mayor Eric Adam’s ally just moved from City Hall to commercial real estate work, and Sondheim’s musical masterpiece is making its way back to Broadway. 
-
-Miscellaneous news include discussions regarding Afghanistan which has suffered a lot due to the Taliban&#39;s rule resulting in many women&#39;s rights being diminished - bummer!     </p>
+Things have been happening pretty fast lately! Biden&#39;s about to unveil plans for a bunch of measures that&#39;ll help reduce the deficit, which a lot of people are interested in doing. Meanwhile, the Senate and House are clashing over budget initiatives like Social Security and Medicare. Investors have to keep a close eye on the stock market—the head of the Federal Reserve mentioned that interest rates may be going up. Technology companies are buzzing due to the introduction of chatbots, but some tech companies had layoffs as well due to focus on pet projects. Ukraine is lacking shells right now and the EU is stepping in with a plan to get production going. In Georgia, there&#39;s been protests over a Kremlin-inspired law. A former staff member of New York Mayor Eric Adams has been hired by two major real estate magnates, including one looking into casinos. Unfortunately in Afghanistan, policies post-Taliban takeover have meant hard times for a lot of women who had rights prior to its installation. On brighter news, Broadway has seen a revival of the dreadful Sweeney Todd musical. And finally, Republican lawmakers are somewhat divided on false claims made by media host Tucker Carlson about January 6th that Fox News had been promoting—many were skeptical early on, according to messages and depositions taken since then.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Is Set to Detail at Least $2 Trillion in Measures to Reduce Deficits</h3>
 <sub>By Jim Tankersley</sub>
-<p>The president’s proposals, included in the budget he will release on Thursday, are expected to heavily feature tax increases on corporations and high earners.  <a href="https://nyti.ms/3SZTgT5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The president’s proposals, included in the budget he will release on Thursday, are expected to heavily feature tax increases on corporations and high earners.  <a href="https://nyti.ms/3Joz4Ha"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House G.O.P. Prepares to Slash Federal Programs in Coming Budget Showdown</h3>
 <sub>By Carl Hulse and Catie Edmondson</sub>
 <p>With Social Security and Medicare off the table, conservatives are focusing on a wide range of smaller programs as a clash with President Biden and Democrats looms.  <a href="https://nyti.ms/425J6Ey"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fear of a Recession Spooks the Market</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Investors were alarmed at suggestions by Jerome Powell, the Federal Reserve’s chairman, that interest rates could go even higher in a bid to halt inflation.  <a href="https://nyti.ms/3YxMIfg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -100,28 +98,16 @@ Miscellaneous news include discussions regarding Afghanistan which has suffered 
 <p>Ukraine is firing artillery shells faster than manufacturers can make them. Brussels is working on a plan to increase production by guaranteeing big advance purchases.  <a href="https://nyti.ms/3mtZ8aR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Intelligence Suggests Pro-Ukrainian Group Sabotaged Pipelines, U.S. Officials Say</h3>
-<sub>By Adam Entous, Julian E. Barnes and Adam Goldman</sub>
-<p>New intelligence reporting amounts to the first significant known lead about who was responsible for the attack on the Nord Stream pipelines that carried natural gas from Russia to Europe.  <a href="https://nyti.ms/3Yxnk9r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After a night of protests, Georgia’s opposition urges more demonstrations over a ‘Kremlin-inspired’ law.</h3>
+<h3>Protesters in Georgia hold more demonstrations over a ‘Kremlin-inspired’ law.</h3>
 <sub>By Ivan Nechepurenko</sub>
 <p>Critics of proposed legislation targeting “foreign agents” say the law brings the country closer to Russia.  <a href="https://nyti.ms/3F7ylHU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Adams Ally Moves Quickly From City Hall to Lucrative Real Estate Work</h3>
+<h3>The Lucrative Post-City Hall Life of an Adams Insider</h3>
 <sub>By Dana Rubinstein, Emma G. Fitzsimmons and William K. Rashbaum</sub>
 <p>Frank Carone, who stepped down as Mayor Eric Adams’s chief of staff in December, has found work with two commercial real estate titans, including one seeking a casino.  <a href="https://nyti.ms/41Wt9QI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>Who Needs a Shave? ‘Sweeney Todd’ Is Back.</h3>
-<sub>By Rob Weinert-Kendt</sub>
-<p>Josh Groban, Annaleigh Ashford and a starry creative team are hoping there’s an appetite for Broadway’s first full-scale revival of Sondheim’s Grand Guignol masterpiece in 43 years.  <a href="https://nyti.ms/3mBikUh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -130,16 +116,22 @@ Miscellaneous news include discussions regarding Afghanistan which has suffered 
 <p>The Taliban’s takeover ended decades of war. But their restrictions, and the economic fallout, threw many women into a new era of diminished hopes.  <a href="https://nyti.ms/41LYtSe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘The Whole Thing Seems Insane’: New Documents on Fox and the Election</h3>
-<sub>By Jeremy W. Peters and Katie Robertson</sub>
-<p>Messages and depositions from stars like Tucker Carlson revealed serious misgivings about claims of fraud even as some hosts told millions of viewers a very different story.  <a href="https://nyti.ms/3L0H7v7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>Who Needs a Shave? ‘Sweeney Todd’ Is Back.</h3>
+<sub>By Rob Weinert-Kendt</sub>
+<p>Josh Groban, Annaleigh Ashford and a starry creative team are hoping there’s an appetite for Broadway’s first full-scale revival of Sondheim’s Grand Guignol masterpiece in 43 years.  <a href="https://nyti.ms/3mBikUh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Republican Lawmakers Split Over Carlson’s False Jan. 6 Claims</h3>
 <sub>By Luke Broadwater and Stephanie Lai</sub>
 <p>House Republicans promoted Tucker Carlson’s report falsely portraying the attack on the Capitol as a largely peaceful event, while Senate Republicans condemned it.  <a href="https://nyti.ms/3L5eBbF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘The Whole Thing Seems Insane’: New Documents on Fox and the Election</h3>
+<sub>By Jeremy W. Peters and Katie Robertson</sub>
+<p>Messages and depositions from stars like Tucker Carlson revealed serious misgivings about claims of fraud even as some hosts told millions of viewers a very different story.  <a href="https://nyti.ms/3L0H7v7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
