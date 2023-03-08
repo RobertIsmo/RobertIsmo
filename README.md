@@ -60,15 +60,45 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 8, Central Standard Time</p>
 <p>
-There are a lot of things happening in the world right now. In Ukraine, there is increased fighting between their forces and Russia&#39;s state-backed Wagner mercenary group. Intelligence suggests a pro-Ukrainian group may have sabotaged pipelines that carry natural gas from Russia to Europe. The European Union is trying to increase ammunition production for Ukraine as they fire shells faster than they can make them. 
+Hey, so pretty crazy stuff has been going on lately. President Biden is proposing at least $2 trillion worth of plans to reduce deficits, mostly raised by taxing corporations and high earners. Meanwhile, House G.O.P. is prepping up to cut some federal programs while avoiding Social Security and Medicare - at the same time, chatbots are being introduced to the internet industry which might revolutionize online businesses in a good or bad way; who knows. 
 
-In Mexico, four friends were abducted by gunmen and two were ultimately killed in a kidnapping. In the US, Republican lawmakers are split over reports falsely portraying the attack on the Capitol as peaceful while Trump has been vowing &quot;retribution&quot; and foretelling a possible second term of spite. Additionally, five red states are dropping out of a bipartisan voter integrity center while Oklahoma rejected full legalization of marijuana with 400 dispensaries in one city alone—but improving Twitter finances because of big cuts. Finally, the Federal Trade Commission is investigating Twitter&#39;s privacy practices and Elon Musk had to apologize for disparaging an employee with a disability.</p>
+In other news, Ukraine might be getting more production in artillery shells due to E.U.&#39;s plan of providing advance payments and intelligence suggests that a pro-Ukrainian group sabotaged pipelines in Europe - but still nothing concrete regarding who was responsible. 
+
+And then on home turf, Republicans are split in opinion after reports emerged saying Fox News spread false information about the Capitol riots on Jan 6th, with Senate Republicans condemning it while some House Republican try to downplay it all. Oh, exciting times! 
+
+Also some real estate and theater news too: one of Mayor Eric Adam’s ally just moved from City Hall to commercial real estate work, and Sondheim’s musical masterpiece is making its way back to Broadway. 
+
+Miscellaneous news include discussions regarding Afghanistan which has suffered a lot due to the Taliban&#39;s rule resulting in many women&#39;s rights being diminished - bummer!     </p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Biden Is Set to Detail at Least $2 Trillion in Measures to Reduce Deficits</h3>
+<sub>By Jim Tankersley</sub>
+<p>The president’s proposals, included in the budget he will release on Thursday, are expected to heavily feature tax increases on corporations and high earners.  <a href="https://nyti.ms/3SZTgT5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House G.O.P. Prepares to Slash Federal Programs in Coming Budget Showdown</h3>
+<sub>By Carl Hulse and Catie Edmondson</sub>
+<p>With Social Security and Medicare off the table, conservatives are focusing on a wide range of smaller programs as a clash with President Biden and Democrats looms.  <a href="https://nyti.ms/425J6Ey"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Chatbots Are Here, and the Internet Industry Is in a Tizzy</h3>
+<sub>By Tripp Mickle, Cade Metz and Nico Grant</sub>
+<p>The new technology could upend many online businesses. But for companies that figure out how to work with it, A.I. could be a boon.  <a href="https://nyti.ms/3ZQaEeW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Perils of Working on a C.E.O.’s Pet Project</h3>
+<sub>By Karen Weise, Nico Grant and Mike Isaac</sub>
+<p>Big tech companies have long been willing to fund efforts with no obvious payoff. But those groups have been hit hard in recent layoffs.  <a href="https://nyti.ms/41S65mn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Claims Bakhmut Battle Is Wagner’s ‘Last Stand’</h3>
-<sub>By Andrew E. Kramer and Anatoly Kurmanaev</sub>
-<p>Ukrainians say Russia’s Wagner mercenary group is running low on fighters recruited from prisons, used in attacks on Bakhmut, where Ukraine has also endured heavy losses.  <a href="https://nyti.ms/3mzYLeX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<h3>Ukraine Needs Shells, and Arms Makers Want Money. Enter the E.U.</h3>
+<sub>By Steven Erlanger</sub>
+<p>Ukraine is firing artillery shells faster than manufacturers can make them. Brussels is working on a plan to increase production by guaranteeing big advance purchases.  <a href="https://nyti.ms/3mtZ8aR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Intelligence Suggests Pro-Ukrainian Group Sabotaged Pipelines, U.S. Officials Say</h3>
@@ -77,22 +107,28 @@ In Mexico, four friends were abducted by gunmen and two were ultimately killed i
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Needs Shells, and Arms Makers Want Money. Enter the E.U.</h3>
-<sub>By Steven Erlanger</sub>
-<p>Ukraine is firing artillery shells faster than manufacturers can make them. Brussels is working on a plan to increase production by guaranteeing big advance purchases.  <a href="https://nyti.ms/3mtZ8aR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After a night of protests, Georgia’s opposition urges more demonstrations over a ‘Kremlin-inspired’ law.</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>Critics of proposed legislation targeting “foreign agents” say the law brings the country closer to Russia.  <a href="https://nyti.ms/3F7ylHU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Adams Ally Moves Quickly From City Hall to Lucrative Real Estate Work</h3>
+<sub>By Dana Rubinstein, Emma G. Fitzsimmons and William K. Rashbaum</sub>
+<p>Frank Carone, who stepped down as Mayor Eric Adams’s chief of staff in December, has found work with two commercial real estate titans, including one seeking a casino.  <a href="https://nyti.ms/41Wt9QI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>Who Needs a Shave? ‘Sweeney Todd’ Is Back.</h3>
+<sub>By Rob Weinert-Kendt</sub>
+<p>Josh Groban, Annaleigh Ashford and a starry creative team are hoping there’s an appetite for Broadway’s first full-scale revival of Sondheim’s Grand Guignol masterpiece in 43 years.  <a href="https://nyti.ms/3mBikUh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Trip to Mexico Ends in a Kidnapping and the Deaths of 2 Americans</h3>
-<sub>By Natalie Kitroeff, Maria Abi-Habib, Jack Nicas and Jacey Fortin</sub>
-<p>Four friends crossed the border on Friday, but within hours, they were abducted by gunmen and two of them were killed before the others were rescued Tuesday.  <a href="https://nyti.ms/41LQzsh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Un viaje a México termina con un secuestro y la muerte de dos estadounidenses</h3>
-<sub>By Natalie Kitroeff, Maria Abi-Habib, Jack Nicas and Jacey Fortin</sub>
-<p>Un grupo de amigos viajó a Tamaulipas el viernes, pero a las pocas horas fueron secuestrados por hombres armados. Dos de ellos murieron antes de que los otros dos fueran rescatados el martes.  <a href="https://nyti.ms/3T2QPyX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<h3>Loss Piles on Loss for Afghan Women</h3>
+<sub>By Christina Goldbaum and Kiana Hayeri</sub>
+<p>The Taliban’s takeover ended decades of war. But their restrictions, and the economic fallout, threw many women into a new era of diminished hopes.  <a href="https://nyti.ms/41LYtSe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>‘The Whole Thing Seems Insane’: New Documents on Fox and the Election</h3>
@@ -104,36 +140,6 @@ In Mexico, four friends were abducted by gunmen and two were ultimately killed i
 <h3>Republican Lawmakers Split Over Carlson’s False Jan. 6 Claims</h3>
 <sub>By Luke Broadwater and Stephanie Lai</sub>
 <p>House Republicans promoted Tucker Carlson’s report falsely portraying the attack on the Capitol as a largely peaceful event, while Senate Republicans condemned it.  <a href="https://nyti.ms/3L5eBbF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump, Vowing ‘Retribution,’ Foretells a Second Term of Spite</h3>
-<sub>By Maggie Haberman and Shane Goldmacher</sub>
-<p>In a speech before his supporters, the former president charged forward in an uncharted direction, talking openly about leveraging the power of the presidency for political reprisals.  <a href="https://nyti.ms/3Zqzlih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. States Abandon Bipartisan Voting Integrity Group, Yielding to Conspiracy Theories</h3>
-<sub>By Neil Vigdor</sub>
-<p>Five red states have severed ties since last year with the Electronic Registration Information Center, a nonprofit that helps maintain accurate voter rolls.  <a href="https://nyti.ms/3ZQ9GPM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With a Marijuana Shop on ‘Every Corner,’ Oklahoma Rejects Full Legalization</h3>
-<sub>By J. David Goodman</sub>
-<p>The state has embraced medical marijuana, with some 400 dispensaries in Oklahoma City alone. But voters decided against going further.  <a href="https://nyti.ms/3mvVmxG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>F.T.C. Intensifies Investigation of Twitter’s Privacy Practices</h3>
-<sub>By Kate Conger, Ryan Mac and David McCabe</sub>
-<p>The commission is seeking an interview with Elon Musk, who has made major cuts at the company since acquiring it last year.  <a href="https://nyti.ms/3yjal0z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Elon Musk Says Twitter’s Finances Are Improving After Big Cuts</h3>
-<sub>By Ryan Mac</sub>
-<p>On a day Mr. Musk said the company was recovering from a sharp drop in ad sales, he found himself apologizing to a former employee with a disability he had disparaged.  <a href="https://nyti.ms/3ykfBkt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
