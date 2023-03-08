@@ -60,16 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 8, Central Standard Time</p>
 <p>
-Right now, there are some big things going on in the US as well as around the world. In the US, the Justice Department has found a pattern of discriminatory policing in Louisville and President Biden is set to roll out a $3 trillion plan to reduce deficits. On the other side of things, House Republicans are getting ready to battle it out with Biden over various budget cuts and spending. 
-
-Moving onto the global stage, in Ukraine the European Union is working on a plan to increase production of artillery shells and in Georgia protesters are rallying against a law that is said to bring them closer to Russia. Meanwhile, tech companies everywhere are having to adjust with the emergence of chatbots, which could throw many online businesses into disarray.
-
-For better or worse, there&#39;s more than enough news stories to go round – even Fox News anchor Tucker Carlson has been making headlines with his reported comments about President Trump himself. Now with the passing of Donald Trump and Joe Biden taking office, one of the most pressing issues is how Covid came about and whether it was from a lab leak, which is being discussed at length in an investigation by a House subcommittee.</p>
+To catch my friend up on the world, it looks like things are definitely in flux right now. In the U.S., the Justice Department has just reported a pattern of discriminatory policing in Louisville and the Pentagon is blocking evidence of possible Russian war crimes heading to the Hague Court. President Biden is about to announce a major budget plan with $3 trillion in new measures and House G.O.P. plans to slash federal programs as a budget showdown looms. Internationally, Afghan women are suffering from Taliban restrictions and an end to decades of war, which is diminishing hopes for them. In terms of tech, A.I. chatbots have hit the industry and they&#39;re causing some confusion and worry. Finally, there&#39;s a congressional hearing happening looking into the lab leak theory regarding Covid-19 origins.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Dept. Finds Pattern of Discriminatory Policing in Louisville</h3>
 <sub>By Glenn Thrush</sub>
 <p>The review, undertaken after a specialized unit killed Breonna Taylor in a botched raid in 2020, paints a damning portrait of a department in crisis.  <a href="https://nyti.ms/3F8elVk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pentagon Blocks Sharing Evidence of Possible Russian War Crimes With Hague Court</h3>
+<sub>By Charlie Savage</sub>
+<p>President Biden has not acted to resolve a dispute that pits the Defense Department against other agencies.  <a href="https://nyti.ms/3JrF3v2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -84,28 +86,22 @@ For better or worse, there&#39;s more than enough news stories to go round – e
 <p>With Social Security and Medicare off the table, conservatives are focusing on a wide range of smaller programs as a clash with President Biden and Democrats looms.  <a href="https://nyti.ms/425J6Ey"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Needs Shells, and Arms Makers Want Money. Enter the E.U.</h3>
-<sub>By Steven Erlanger</sub>
-<p>Ukraine is firing artillery shells faster than manufacturers can make them. Brussels is working on a plan to increase production by guaranteeing big advance purchases.  <a href="https://nyti.ms/3mtZ8aR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>5 Times Tucker Carlson Privately Reviled Trump: ‘I Hate Him’</h3>
+<sub>By Katie Robertson</sub>
+<p>The Fox host’s private comments, revealed recently in court documents, contrast sharply with his support of conservatives on his show.  <a href="https://nyti.ms/3YxmSrR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Protesters in Georgia hold more demonstrations over a ‘Kremlin-inspired’ law.</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>Critics of proposed legislation targeting “foreign agents” say the law brings the country closer to Russia.  <a href="https://nyti.ms/3F7ylHU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>White House Rebukes Tucker Carlson Over Portrayal of Jan. 6 Attack</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>The Biden administration rarely criticizes conservative media stars by name, but a deputy press secretary declared that Mr. Carlson “is not credible.”  <a href="https://nyti.ms/3J54v8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Chatbots Are Here, and the Internet Industry Is in a Tizzy</h3>
-<sub>By Tripp Mickle, Cade Metz and Nico Grant</sub>
-<p>The new technology could upend many online businesses. But for companies that figure out how to work with it, A.I. could be a boon.  <a href="https://nyti.ms/3ZQaEeW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Perils of Working on a C.E.O.’s Pet Project</h3>
-<sub>By Karen Weise, Nico Grant and Mike Isaac</sub>
-<p>Big tech companies have long been willing to fund efforts with no obvious payoff. But those groups have been hit hard in recent layoffs.  <a href="https://nyti.ms/41S65mn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>When Trump Passes the MAGA Hat, His Aides Clutch Their Wallets</h3>
+<sub>By Michael C. Bender</sub>
+<p>Unlike other recent presidents, Donald Trump has rarely received campaign donations from his top advisers. They offer a range of explanations.  <a href="https://nyti.ms/3mwerQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -114,22 +110,22 @@ For better or worse, there&#39;s more than enough news stories to go round – e
 <p>War rooms. Oppo dumps. Eight-figure budgets. How the quest for awards-season glory got so cutthroat.  <a href="https://nyti.ms/3mBismJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Murdaugh’s Conviction, a Century of Influence Unravels</h3>
+<sub>By Richard Fausset and Nicholas Bogel-Burroughs</sub>
+<p>When Alex Murdaugh was convicted of murdering his wife and son, some South Carolinians saw the verdict as a step toward dismantling a system of power “based on who you know.”  <a href="https://nyti.ms/41RWnR3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Loss Piles on Loss for Afghan Women</h3>
 <sub>By Christina Goldbaum and Kiana Hayeri</sub>
 <p>The Taliban’s takeover ended decades of war. But their restrictions, and the economic fallout, threw many women into a new era of diminished hopes.  <a href="https://nyti.ms/41LYtSe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>5 Times Tucker Carlson Privately Reviled Trump: ‘I Hate Him’</h3>
-<sub>By Katie Robertson</sub>
-<p>The Fox host’s private comments, revealed recently in court documents, contrast sharply with his support of conservatives on his show.  <a href="https://nyti.ms/3YxmSrR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When Trump Passes the MAGA Hat, His Aides Clutch Their Wallets</h3>
-<sub>By Michael C. Bender</sub>
-<p>Unlike other recent presidents, Donald Trump has rarely received campaign donations from his top advisers. They offer a range of explanations.  <a href="https://nyti.ms/3mwerQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Chatbots Are Here, and the Internet Industry Is in a Tizzy</h3>
+<sub>By Tripp Mickle, Cade Metz and Nico Grant</sub>
+<p>The new technology could upend many online businesses. But for companies that figure out how to work with it, A.I. could be a boon.  <a href="https://nyti.ms/3ZQaEeW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
