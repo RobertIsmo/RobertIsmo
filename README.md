@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 8, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Ukraine, Russian mercenary group Wagner is running low on fighters and there have been heavy losses on both sides of their fight in Bakhmut. U.S. officials think a pro-Ukrainian group may have sabotaged European gas pipelines, and four American friends recently traveled to Mexico but ended up getting kidnapped, with two of them dying. New documents also revealed misgivings within Fox News regarding fraud claims that were being broadcast to millions of people. Republicans have split over Tucker Carlson’s false statements about the Capitol attack, while former president Trump spoke about using presidential power for retribution if he returns to office. A few GOP states are trying to abandon a voting integrity group due to conspiracy theories, and Oklahoma just rejected full marijuana legalization while still allowing medical marijuana sales. The FTC is also intensifying their investigation into Twitter&#39;s privacy practices, while Elon Musk has made big cuts and apologized for disparaging an employee with a disability. Lastly, Florida Republicans are proposing a 6 week abortion ban with limited exceptions that Governor DeSantis has welcomed.</p>
+There are a lot of things happening in the world right now. In Ukraine, there is increased fighting between their forces and Russia&#39;s state-backed Wagner mercenary group. Intelligence suggests a pro-Ukrainian group may have sabotaged pipelines that carry natural gas from Russia to Europe. The European Union is trying to increase ammunition production for Ukraine as they fire shells faster than they can make them. 
+
+In Mexico, four friends were abducted by gunmen and two were ultimately killed in a kidnapping. In the US, Republican lawmakers are split over reports falsely portraying the attack on the Capitol as peaceful while Trump has been vowing &quot;retribution&quot; and foretelling a possible second term of spite. Additionally, five red states are dropping out of a bipartisan voter integrity center while Oklahoma rejected full legalization of marijuana with 400 dispensaries in one city alone—but improving Twitter finances because of big cuts. Finally, the Federal Trade Commission is investigating Twitter&#39;s privacy practices and Elon Musk had to apologize for disparaging an employee with a disability.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Claims Bakhmut Battle Is Wagner’s ‘Last Stand’</h3>
@@ -73,6 +75,12 @@ There&#39;s a lot going on in the world right now. In Ukraine, Russian mercenary
 <sub>By Adam Entous, Julian E. Barnes and Adam Goldman</sub>
 <p>New intelligence reporting amounts to the first significant known lead about who was responsible for the attack on the Nord Stream pipelines that carried natural gas from Russia to Europe.  <a href="https://nyti.ms/3Yxnk9r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Needs Shells, and Arms Makers Want Money. Enter the E.U.</h3>
+<sub>By Steven Erlanger</sub>
+<p>Ukraine is firing artillery shells faster than manufacturers can make them. Brussels is working on a plan to increase production by guaranteeing big advance purchases.  <a href="https://nyti.ms/3mtZ8aR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Trip to Mexico Ends in a Kidnapping and the Deaths of 2 Americans</h3>
@@ -126,12 +134,6 @@ There&#39;s a lot going on in the world right now. In Ukraine, Russian mercenary
 <h3>Elon Musk Says Twitter’s Finances Are Improving After Big Cuts</h3>
 <sub>By Ryan Mac</sub>
 <p>On a day Mr. Musk said the company was recovering from a sharp drop in ad sales, he found himself apologizing to a former employee with a disability he had disparaged.  <a href="https://nyti.ms/3ykfBkt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Republicans Propose 6-Week Abortion Ban</h3>
-<sub>By David W. Chen and Patricia Mazzei</sub>
-<p>The bills would tighten the current 15-week limit and offer narrow exceptions. Gov. Ron DeSantis said he welcomed “pro-life legislation.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
