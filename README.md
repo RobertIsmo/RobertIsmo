@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 7, Central Standard Time</p>
 <p>
-There is a lot going on around the world to tell my close friend. In Ukraine, Russia&#39;s Wagner mercenary group is preparing for their supposed &#39;last stand&#39; in Bakhmut, as Ukrainian intelligence reports suggest a pro-Ukrainian group sabotaged pipelines. Meanwhile in the US, the Federal Reserve chair has opened the door to faster rate moves and a higher peak due to strong data. Also in the US, Republicans are split over Tucker Carlson&#39;s false January 6th claims, and Donald Trump is vowing retribution for a second term of spite. There are also G.O.P states abandoning a bipartisan voting integrity group due to conspiracy theories and the F.T.C. is intensifying its investigation of Twitter&#39;s privacy practices. On the business side of things, Elon Musk has come out to say that Twitter&#39;s finances are improving after big cuts and that Judy Blume finally got a &#39;yes&#39; on her movie adaptations across Hollywood. Finally, The N.T.S.B. will investigate Norfolk Southern&#39;s safety practices after several accidents have occurred since late 2021.</p>
+World politics and tensions are always in flux. In Ukraine, there is a battle between Russia&#39;s mercenary group Wagner and the Ukrainian forces - both sides have suffered heavy losses. Intelligence suggests that a pro-Ukrainian group was responsible for sabotaging gas pipelines in Europe. In Mexico, four friends tragically ended up kidnapped, with two of them killed. The US went through an unprecedented election cycle and there have been clashes between parties due to false claims of fraud. Republican states have abandoned bipartisan voting integrity groups to fit conspiracy theories, while Oklahoma has rejected full marijuana legalization. Finally, Elon Musk has been questioned by the FTC about Twitter&#39;s privacy practices and the Federal Reserve Chair spoke of raising rate expectations in light of strong data.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Claims Bakhmut Battle Is Wagner’s ‘Last Stand’</h3>
@@ -74,12 +74,6 @@ There is a lot going on around the world to tell my close friend. In Ukraine, Ru
 <p>New intelligence reporting amounts to the first significant known lead about who was responsible for the attack on the Nord Stream pipelines that carried natural gas from Russia to Europe.  <a href="https://nyti.ms/3Yxnk9r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Chair Opens Door to Faster Rate Moves and a Higher Peak</h3>
-<sub>By Jeanna Smialek</sub>
-<p>In light of recent strong data, Jerome H. Powell said the Federal Reserve was likely to raise rates higher than expected.  <a href="https://nyti.ms/3JjEvag"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Trip to Mexico Ends in a Kidnapping and the Deaths of 2 Americans</h3>
 <sub>By Natalie Kitroeff, Maria Abi-Habib, Jack Nicas and Jacey Fortin</sub>
@@ -87,9 +81,9 @@ There is a lot going on around the world to tell my close friend. In Ukraine, Ru
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘The Whole Thing Seems Insane’: New Documents Shed Light on Debate Inside Fox After Election</h3>
+<h3>‘The Whole Thing Seems Insane’: New Documents on Fox and the Election</h3>
 <sub>By Jeremy W. Peters and Katie Robertson</sub>
-<p>Messages and depositions from the network’s stars like Tucker Carlson revealed serious misgivings about claims of election fraud even as some of the hosts told their audiences of millions a very different story.  <a href="https://nyti.ms/3L0H7v7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Messages and depositions from stars like Tucker Carlson revealed serious misgivings about claims of fraud even as some hosts told millions of viewers a very different story.  <a href="https://nyti.ms/3L0H7v7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,6 +104,18 @@ There is a lot going on around the world to tell my close friend. In Ukraine, Ru
 <p>Five red states have severed ties since last year with the Electronic Registration Information Center, a nonprofit that helps maintain accurate voter rolls.  <a href="https://nyti.ms/3ZQ9GPM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With a Marijuana Shop on ‘Every Corner,’ Oklahoma Rejects Full Legalization</h3>
+<sub>By J. David Goodman</sub>
+<p>The state has embraced medical marijuana, with some 400 dispensaries in Oklahoma City alone. But voters decided against going further.  <a href="https://nyti.ms/3mvVmxG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Judy Blume Finally Got a ‘Yes’ From Hollywood</h3>
+<sub>By Nicole Sperling</sub>
+<p>Decades after she first discussed translating her work to film and television, the Blume-aissance is upon us. All it needed was for Judy Blume fans to take charge in the entertainment industry.  <a href="https://nyti.ms/3mrE1pD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>F.T.C. Intensifies Investigation of Twitter’s Privacy Practices</h3>
 <sub>By Kate Conger, Ryan Mac and David McCabe</sub>
@@ -123,15 +129,9 @@ There is a lot going on around the world to tell my close friend. In Ukraine, Ru
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Judy Blume Finally Got a ‘Yes’ From Hollywood</h3>
-<sub>By Nicole Sperling</sub>
-<p>Decades after she first discussed translating her work to film and television, the Blume-aissance is upon us. All it needed was for Judy Blume fans to take charge in the entertainment industry.  <a href="https://nyti.ms/3mrE1pD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>N.T.S.B. Will Investigate Norfolk Southern’s Safety Practices</h3>
-<sub>By Mark Walker and Peter Eavis</sub>
-<p>The agency said it was opening a special investigation because the railway has had several significant accidents since late 2021.  <a href="https://nyti.ms/3Jlj3ld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Fed Chair Opens Door to Faster Rate Moves and a Higher Peak</h3>
+<sub>By Jeanna Smialek</sub>
+<p>In light of recent strong data, Jerome H. Powell said the Federal Reserve was likely to raise rates higher than expected.  <a href="https://nyti.ms/3JjEvag"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
