@@ -60,13 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 9, Central Standard Time</p>
 <p>
-There is a lot of turmoil going on in the world at the moment. In Ukraine, the U.N.’s atomic agency is denouncing complacency over safety at the Zaporizhzhia plant after more Russian shelling forces the facility to move to its emergency power supply for the sixth time since it was invaded by Russia last year. In Russia, the Kremlin has been forcing cultural figures to conform to its militaristic worldview or risk being left behind. Meanwhile, in America, Senate minority leader Senator Mitch McConnell was recently hospitalized after a trip at a Washington hotel and Pennsylvania first-term Democrat Fetterman is being treated for severe clinical depression cloistered at Walter Reed while running his senate office from afar. Elsewhere, Australia is looking to buy new nuclear-powered submarines from the US and Britain in order to counter Chinese military buildup while Rupert Murdoch, owner of Fox News, has been getting scrutiny due to his influence on how news stories are relayed on television. Over in Israel, there have been mass protests in response to the right-wing government&#39;s proposed judicial changes that some have called unusually forceful and aggressive, which disrupted a visit by U.S. defense secretary and caused some Jewish American leaders to denounce the plan.</p>
+Right now, it looks like a lot of tough decisions need to be made in the US. Biden is attempting to introduce a budget that will pass Congress, but it&#39;s likely to be a difficult process. Meanwhile, there&#39;s a growing debate on how to balance the budget without cuts to popular programs or raising taxes. 
+
+Meanwhile, Russia is in the midst of remaking its institutions and culture according to a militaristic worldview. Alongside this, there&#39;s been recent curiosity ahead of an upcoming film reviving the legacy of Elvis Presley. But unfortunately, his estate is currently the subject of a legal battle between his grand-daughter and ex-wife over control of his trust. 
+
+In terms of other news stories, an 81 year old Republican senator was recently hospitalized after he tripped in a Washington hotel, and we&#39;re still learning about the effects of a train derailment in East Palestine. On top of that, there&#39;s some relevant insights from sociology on why poverty persists in America. 
+
+I guess it&#39;s been quite eventful!</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The U.N.’s atomic agency denounces complacency over safety at the Zaporizhzhia plant after more Russian shelling.</h3>
-<sub>By Matthew Mpoke Bigg and Marc Santora</sub>
-<p>It’s the sixth time the facility had to move to its emergency power supply since Russia invaded Ukraine a year ago.  <a href="https://nyti.ms/3ZUhz76"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s budget kicks off a long and likely painful process on Capitol Hill.</h3>
+<sub>By Catie Edmondson</sub>
+<p>In theory, funding the government takes place in two major stages. But it’s a fraught and complicated process; here’s a step-by-step guide.  <a href="https://nyti.ms/3YC15zc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The Programs You’d Have to Cut to Balance the Budget</h3>
+<sub>By Alicia Parlapiano, Margot Sanger-Katz and Josh Katz</sub>
+<p>Without trimming popular programs or raising taxes, cuts to the rest of the federal budget would have to be monumental.  <a href="https://nyti.ms/3msd1Xd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Changing His Tune for Mother Russia</h3>
@@ -92,29 +104,11 @@ There is a lot of turmoil going on in the world at the moment. In Ukraine, the U
 <p>A Pulitzer Prize-winning sociologist offers a new explanation for an intractable problem.  <a href="https://nyti.ms/3l0mUuO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Australia to Buy U.S. Nuclear-Powered Submarines in Deal to Counter China</h3>
-<sub>By Damien Cave and Edward Wong</sub>
-<p>The arrangement also involves submarine construction by Britain and deepens a strategic partnership that the three countries have formed as China continues to build up its military.  <a href="https://nyti.ms/3FbaaIA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>‘Phantom’ Ends. For Musicians, So Does the Gig of a Lifetime.</h3>
-<sub>By Maria Clara Cobo and Todd Heisler</sub>
-<p>Broadway’s longest running musical, set to close next month, has been a source of stability for orchestra members, many of whom have grown up with the show.  <a href="https://nyti.ms/3FaddAQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Records Show Fox and G.O.P.’s Shared Quandary: Trump</h3>
 <sub>By Nicholas Confessore and Jim Rutenberg</sub>
 <p>Fox hosts and executives privately mocked the former president’s election fraud claims, even as the network amplified them in a frantic effort to appease viewers.  <a href="https://nyti.ms/3Lew7uh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Murdoch Runs Fox News, in His Own (Often Terse) Words</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>Court filings give a peek into how Rupert Murdoch shapes coverage at his news organizations.  <a href="https://nyti.ms/3YyyevK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Lawyer Admits to Falsehoods in 2020 Fraud Claims</h3>
@@ -122,16 +116,28 @@ There is a lot of turmoil going on in the world at the moment. In Ukraine, the U
 <p>Jenna Ellis acknowledged that she knowingly misrepresented the facts about election fraud in a disciplinary procedure by Colorado state bar officials.  <a href="https://nyti.ms/3ZyKmOR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Israel’s Judicial Overhaul Plan Ignites Debate Among American Jews</h3>
-<sub>By Michael Crowley and Ruth Graham</sub>
-<p>Jewish American leaders are denouncing a proposal by the country’s right-wing government to weaken the power of the country’s judiciary, in ways that some call unusually forceful.  <a href="https://nyti.ms/3YzXKAX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>For Rare Book Librarians, It’s Gloves Off. Seriously.</h3>
+<sub>By Jennifer Schuessler</sub>
+<p>When handling rare books, experts say that bare, just-cleaned hands are best. Why won’t the public believe them?  <a href="https://nyti.ms/3l3gET6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mass Protests Over Government’s Court Plans Sweep Israel</h3>
-<sub>By Patrick Kingsley</sub>
-<p>A demonstration against the government’s proposed judicial overhaul blocked a road to Israel’s main airport, disrupting a visit by the U.S. defense secretary.  <a href="https://nyti.ms/3LaDOBv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Norfolk Southern C.E.O. Says He Is ‘Deeply Sorry’ for Ohio Train Derailment</h3>
+<sub>By Stephanie Lai and Mark Walker</sub>
+<p>In prepared remarks released before a Senate hearing, the railroad chief executive says he is “determined to make it right” for the people of East Palestine.  <a href="https://nyti.ms/3ZAt8R6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After the Ohio Train Derailment: Evacuations, Toxic Chemicals and Water Worries</h3>
+<sub>By Christine Hauser</sub>
+<p>When a train derailed in the village of East Palestine on Feb. 3, it set off evacuation orders, a chemical scare and a federal investigation.  <a href="https://nyti.ms/3RTXTgS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>As a Film Revives Elvis’s Legacy, the Presleys Fight Over His Estate</h3>
+<sub>By Matt Stevens</sub>
+<p>After the death of Lisa Marie Presley, Elvis’s ex-wife initiated a legal battle with her granddaughter over control of the family trust.  <a href="https://nyti.ms/3IYdQhU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
