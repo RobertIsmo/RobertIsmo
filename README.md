@@ -60,19 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 9, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of political tension going on around the world. In Israel, the right-wing government is proposing to weaken the country&#39;s judiciary, which Jewish American leaders are strongly denouncing. In Georgia, protests have broken out in response to a law being implemented by the Kremlin that may challenge their democracy. 
-In the US, tensions have been rising over the crime and policing issue, with the Justice Department recently finding a pattern of discriminatory policing in Louisville. In addition, the White House recently publicly accused conservative media star Tucker Carlson of irresponsible portrayal of the January 6 attack on the Capitol building. There have also been some shocking incidents internationally - India is now arming local militias in Kashmir, Mexico is facing severe criticism for its lack of coordination after two Americans were killed there, and medical tourism has come into focus in light of a kidnapping in Mexico as well. Needless to say, it&#39;s a lot to take in and follow!</p>
+There are a lot of exciting and worrying developments in the world right now. In Georgia, the ruling party was planning to pass a bill that opposition lawmakers said mimicked a law in Russia used to squash dissent and control free speech. After huge protests, they have since decided to withdraw the bill. Meanwhile, in Israel there is a debate among Jewish American leaders about a right-wing government&#39;s proposal to weaken the country&#39;s judicial power.
+
+In the US, we&#39;re hearing a lot about crime at the moment. The Biden administration has very publicly rebuked Tucker Carlson for his portrayal of the January 6 attack in DC, and the Justice Department has found evidence of discriminatory policing in Louisville, KY. Additionally, the Senate voted to block a D.C. crime law until Biden reversed course and announced he would sign it himself.
+
+There has also been news surrounding Mitch McConnell after he was hospitalized after falling during a private dinner in Washington hotel. Meanwhile, India is arming villagers and Mexico is questioning the government&#39;s response to an attack on Americans that left two dead. Finally, we&#39;re hearing quite a bit about medical tourism industry as well due to a recent kidnapping in Mexico which has highlighted its risks and promises.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Israel’s Judicial Overhaul Plan Ignites Debate Among American Jews</h3>
-<sub>By Michael Crowley and Ruth Graham</sub>
-<p>Jewish American leaders are denouncing a proposal by the country’s right-wing government to weaken the power of the country’s judiciary, in ways that some call unusually forceful.  <a href="https://nyti.ms/3YzXKAX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Georgia’s Governing Party Plans to Withdraw Foreign Agents Bill After Protests</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>Opposition lawmakers had said the legislation mimicked a similar one in Russia that has been used to clamp down on dissent.  <a href="https://nyti.ms/3ylxIGZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Explosive Roots of the Georgia Protests</h3>
 <sub>By Ivan Nechepurenko and Andrew Higgins</sub>
-<p>Always leery of Russian influence, Georgians see a new “foreign agents” law as a Kremlin-inspired tool to undermine their faltering democracy.  <a href="https://nyti.ms/3L9nlgN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Georgians saw an effort to push a “foreign agents” law as a Kremlin-inspired tool, and the governing party said it planned to withdraw the proposed legislation.  <a href="https://nyti.ms/3L9nlgN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Israel’s Judicial Overhaul Plan Ignites Debate Among American Jews</h3>
+<sub>By Michael Crowley and Ruth Graham</sub>
+<p>Jewish American leaders are denouncing a proposal by the country’s right-wing government to weaken the power of the country’s judiciary, in ways that some call unusually forceful.  <a href="https://nyti.ms/3YzXKAX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -108,7 +117,7 @@ In the US, tensions have been rising over the crime and policing issue, with the
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Mitch McConnell Is Hospitalized After Tripping at Washington Hotel</h3>
 <sub>By Mike Ives</sub>
-<p>The Senate minority leader tripped during a private dinner, his spokesman said. No other details were immediately available.  <a href="https://nyti.ms/3T17d2U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Senate minority leader tripped during a private dinner, his spokesman said. No details on the 81-year-old Republican’s condition were available.  <a href="https://nyti.ms/3T17d2U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -128,12 +137,6 @@ In the US, tensions have been rising over the crime and policing issue, with the
 <sub>By Dani Blum and Erik Vance</sub>
 <p>Here’s what experts say about the risks and promises of traveling abroad for cost-efficient care.  <a href="https://nyti.ms/3ZIRHes"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Is It Safe to Travel to Mexico? Here’s What You Need to Know.</h3>
-<sub>By Elisabeth Malkin</sub>
-<p>A spate of incidents, including a kidnapping and the death of two Americans near the border, and protests among taxi drivers in Cancún, is rattling would-be tourists.  <a href="https://nyti.ms/3HqMtw9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
