@@ -58,14 +58,33 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, March 8, Central Standard Time</p>
+<p>It is Thursday, March 9, Central Standard Time</p>
 <p>
-Some major events are happening all over the world right now. In Israel, right-wing politicians are facing criticism for a proposed judicial overhaul that some argue goes too far. The US Justice Department has just finished a review in Louisville concluding that their police force is engaging in discriminatory practices. In Mexico, the murder of two Americans has sparked public unrest due to its quick response from the government, which has often failed to act on violence against Mexicans. Meanwhile, in the US, California is warned of cold weather and possible flooding as there are two atmospheric rivers coming in.</p>
+Right now, there&#39;s a lot of political tension going on around the world. In Israel, the right-wing government is proposing to weaken the country&#39;s judiciary, which Jewish American leaders are strongly denouncing. In Georgia, protests have broken out in response to a law being implemented by the Kremlin that may challenge their democracy. 
+In the US, tensions have been rising over the crime and policing issue, with the Justice Department recently finding a pattern of discriminatory policing in Louisville. In addition, the White House recently publicly accused conservative media star Tucker Carlson of irresponsible portrayal of the January 6 attack on the Capitol building. There have also been some shocking incidents internationally - India is now arming local militias in Kashmir, Mexico is facing severe criticism for its lack of coordination after two Americans were killed there, and medical tourism has come into focus in light of a kidnapping in Mexico as well. Needless to say, it&#39;s a lot to take in and follow!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Israel’s Judicial Overhaul Plan Ignites Debate Among American Jews</h3>
 <sub>By Michael Crowley and Ruth Graham</sub>
 <p>Jewish American leaders are denouncing a proposal by the country’s right-wing government to weaken the power of the country’s judiciary, in ways that some call unusually forceful.  <a href="https://nyti.ms/3YzXKAX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Explosive Roots of the Georgia Protests</h3>
+<sub>By Ivan Nechepurenko and Andrew Higgins</sub>
+<p>Always leery of Russian influence, Georgians see a new “foreign agents” law as a Kremlin-inspired tool to undermine their faltering democracy.  <a href="https://nyti.ms/3L9nlgN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Records Show Fox and G.O.P.’s Shared Quandary: Trump</h3>
+<sub>By Nicholas Confessore and Jim Rutenberg</sub>
+<p>Fox hosts and executives privately mocked the former president’s election fraud claims, even as the network amplified them in a frantic effort to appease viewers.  <a href="https://nyti.ms/3Lew7uh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>White House Rebukes Tucker Carlson Over Portrayal of Jan. 6 Attack</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>The Biden administration rarely criticizes conservative media stars by name, but a deputy press secretary declared that Mr. Carlson “is not credible.”  <a href="https://nyti.ms/3J54v8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,34 +99,22 @@ Some major events are happening all over the world right now. In Israel, right-w
 <p>Inside the Louisville Police Department, where officers are reckoning with what it means to be a cop in a city that doesn’t trust them.  <a href="https://nyti.ms/3ICJukR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Records Show Fox and G.O.P.’s Shared Quandary: Trump</h3>
-<sub>By Nicholas Confessore and Jim Rutenberg</sub>
-<p>Fox hosts and executives privately mocked the former president’s election fraud claims, even as the network amplified them in a frantic effort to appease viewers.  <a href="https://nyti.ms/3Lew7uh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>White House Rebukes Tucker Carlson Over Portrayal of Jan. 6 Attack</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>The Biden administration rarely criticizes conservative media stars by name, but a deputy press secretary declared that Mr. Carlson “is not credible.”  <a href="https://nyti.ms/3J54v8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Explosive Roots of the Georgia Protests</h3>
-<sub>By Ivan Nechepurenko and Andrew Higgins</sub>
-<p>Always leery of Russian influence, Georgians see a new “foreign agents” law as a Kremlin-inspired tool to undermine their faltering democracy.  <a href="https://nyti.ms/3L9nlgN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Senate Clears Bill to Block D.C. Crime Law, Sending It to Biden After Reversal</h3>
 <sub>By Carl Hulse</sub>
 <p>Thirty-one Democrats joined Republicans in voting to rescind a local law, in a demonstration of the political power of crime as an issue. The president, who had opposed the measure, now says he will sign it.  <a href="https://nyti.ms/3kWPld5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Inside the ‘Blood Sport’ of Oscars Campaigns</h3>
-<sub>By Irina Aleksander</sub>
-<p>War rooms. Oppo dumps. Eight-figure budgets. How the quest for awards-season glory got so cutthroat.  <a href="https://nyti.ms/3mBismJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Mitch McConnell Is Hospitalized After Tripping at Washington Hotel</h3>
+<sub>By Mike Ives</sub>
+<p>The Senate minority leader tripped during a private dinner, his spokesman said. No other details were immediately available.  <a href="https://nyti.ms/3T17d2U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>India Is Arming Villagers in One of Earth’s Most Militarized Places</h3>
+<sub>By Showkat Nanda and Atul Loke</sub>
+<p>The government is reviving local militias in the Jammu part of the restive Kashmir region, laying bare the limits of its military approach there.  <a href="https://nyti.ms/3YvGTPu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -127,12 +134,6 @@ Some major events are happening all over the world right now. In Israel, right-w
 <sub>By Elisabeth Malkin</sub>
 <p>A spate of incidents, including a kidnapping and the death of two Americans near the border, and protests among taxi drivers in Cancún, is rattling would-be tourists.  <a href="https://nyti.ms/3HqMtw9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Braces for More Heavy Snow and Rain</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Two consecutive atmospheric rivers were expected to bring the threat of flooding to parts of the state, along with heavy snowfall at higher elevations.  <a href="https://nyti.ms/41Z9dgo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
