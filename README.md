@@ -60,19 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 9, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now! In the US, President Biden is getting ready to release a budget that is likely to be rejected by Republicans. Meanwhile, Georgia has plans to withdraw a bill that was similar to legislation in Russia aimed at clamping down on dissent. In the entertainment industry, Topol, whose most famous role was as Tevye in &#39;Fiddler on the Roof&#39;, passed away at 87 years old. 
-In political news, newly empowered Democrats in Michigan voted to repeal a right-to-work law and expand gun background checks, while Fox News has been dealing with conflicts between their hosts and executives over Trump&#39;s election fraud claims. On an international scale, there are worries of life expectancy decreases in African countries due to diseases like diabetes and hypertension that often go undiagnosed and untreated. Plus, Russian cultural figures are making their choice to either comply with the government&#39;s militaristic worldview or speak out against it. Lastly, there&#39;s a great article about understanding why poverty persists in American society written by a Pulitzer Prize-winning sociologist!</p>
+There is a lot of turmoil going on in the world at the moment. In Ukraine, the U.N.’s atomic agency is denouncing complacency over safety at the Zaporizhzhia plant after more Russian shelling forces the facility to move to its emergency power supply for the sixth time since it was invaded by Russia last year. In Russia, the Kremlin has been forcing cultural figures to conform to its militaristic worldview or risk being left behind. Meanwhile, in America, Senate minority leader Senator Mitch McConnell was recently hospitalized after a trip at a Washington hotel and Pennsylvania first-term Democrat Fetterman is being treated for severe clinical depression cloistered at Walter Reed while running his senate office from afar. Elsewhere, Australia is looking to buy new nuclear-powered submarines from the US and Britain in order to counter Chinese military buildup while Rupert Murdoch, owner of Fox News, has been getting scrutiny due to his influence on how news stories are relayed on television. Over in Israel, there have been mass protests in response to the right-wing government&#39;s proposed judicial changes that some have called unusually forceful and aggressive, which disrupted a visit by U.S. defense secretary and caused some Jewish American leaders to denounce the plan.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Will Release Dead-on-Arrival Budget, Picking Fight With G.O.P.</h3>
-<sub>By Jim Tankersley</sub>
-<p>The president’s plans have little in common with the budget Republicans are set to release this spring, as the nation hurtles toward a possible default on its debt.  <a href="https://nyti.ms/3J390A7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Georgia Plans to Withdraw Foreign Agents Bill After Protests</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>Opposition lawmakers had said the legislation mimicked a similar one in Russia that has been used to clamp down on dissent.  <a href="https://nyti.ms/3ylxIGZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The U.N.’s atomic agency denounces complacency over safety at the Zaporizhzhia plant after more Russian shelling.</h3>
+<sub>By Matthew Mpoke Bigg and Marc Santora</sub>
+<p>It’s the sixth time the facility had to move to its emergency power supply since Russia invaded Ukraine a year ago.  <a href="https://nyti.ms/3ZUhz76"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,10 +92,10 @@ In political news, newly empowered Democrats in Michigan voted to repeal a right
 <p>A Pulitzer Prize-winning sociologist offers a new explanation for an intractable problem.  <a href="https://nyti.ms/3l0mUuO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>African Countries Made Huge Gains in Life Expectancy. Now That Could Be Erased.</h3>
-<sub>By Stephanie Nolen</sub>
-<p>Incidence of illnesses such as diabetes and hypertension are climbing quickly in most sub-Saharan countries, but the conditions are rarely diagnosed or treated.  <a href="https://nyti.ms/3YxEa8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Australia to Buy U.S. Nuclear-Powered Submarines in Deal to Counter China</h3>
+<sub>By Damien Cave and Edward Wong</sub>
+<p>The arrangement also involves submarine construction by Britain and deepens a strategic partnership that the three countries have formed as China continues to build up its military.  <a href="https://nyti.ms/3FbaaIA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -123,16 +116,22 @@ In political news, newly empowered Democrats in Michigan voted to repeal a right
 <p>Court filings give a peek into how Rupert Murdoch shapes coverage at his news organizations.  <a href="https://nyti.ms/3YyyevK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
-<h3>Topol, Star of ‘Fiddler on the Roof’ on the Screen and the Stage, Dies at 87</h3>
-<sub>By Margalit Fox</sub>
-<p>Wide acclaim for the role of Tevye helped make him, according to one newspaper, “Israel’s most famous export since the Jaffa orange.”  <a href="https://nyti.ms/3ymv2ZF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Lawyer Admits to Falsehoods in 2020 Fraud Claims</h3>
+<sub>By Alan Feuer</sub>
+<p>Jenna Ellis acknowledged that she knowingly misrepresented the facts about election fraud in a disciplinary procedure by Colorado state bar officials.  <a href="https://nyti.ms/3ZyKmOR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Newly Empowered Michigan Democrats Move on Labor, Gay Rights and Guns</h3>
-<sub>By Mitch Smith and Ernesto Londoño</sub>
-<p>Despite Republican objections, the Michigan House of Representatives voted to repeal a right-to-work law, codify L.G.B.T.Q. rights and expand gun background checks.  <a href="https://nyti.ms/3JtjZ7q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel’s Judicial Overhaul Plan Ignites Debate Among American Jews</h3>
+<sub>By Michael Crowley and Ruth Graham</sub>
+<p>Jewish American leaders are denouncing a proposal by the country’s right-wing government to weaken the power of the country’s judiciary, in ways that some call unusually forceful.  <a href="https://nyti.ms/3YzXKAX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mass Protests Over Government’s Court Plans Sweep Israel</h3>
+<sub>By Patrick Kingsley</sub>
+<p>A demonstration against the government’s proposed judicial overhaul blocked a road to Israel’s main airport, disrupting a visit by the U.S. defense secretary.  <a href="https://nyti.ms/3LaDOBv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
