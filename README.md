@@ -60,25 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 9, Central Standard Time</p>
 <p>
-Right now, it looks like a lot of tough decisions need to be made in the US. Biden is attempting to introduce a budget that will pass Congress, but it&#39;s likely to be a difficult process. Meanwhile, there&#39;s a growing debate on how to balance the budget without cuts to popular programs or raising taxes. 
-
-Meanwhile, Russia is in the midst of remaking its institutions and culture according to a militaristic worldview. Alongside this, there&#39;s been recent curiosity ahead of an upcoming film reviving the legacy of Elvis Presley. But unfortunately, his estate is currently the subject of a legal battle between his grand-daughter and ex-wife over control of his trust. 
-
-In terms of other news stories, an 81 year old Republican senator was recently hospitalized after he tripped in a Washington hotel, and we&#39;re still learning about the effects of a train derailment in East Palestine. On top of that, there&#39;s some relevant insights from sociology on why poverty persists in America. 
-
-I guess it&#39;s been quite eventful!</p>
+There are a few big stories happening in the US right now. President Biden has unveiled his budget which Republicans have already rejected, and there is an upcoming clash between the two parties on the horizon. In New York, $1.2 billion is being allocated to big transit projects like the Second Avenue Subway extension and new Hudson River train tunnels. The Kremlin is seeking to reset Russia&#39;s institutions with militaristic policies and a singer is growing rich as he chooses which side of this argument to support. Senate Minority Leader Mitch McConnell has been hospitalized after tripping at a Washington hotel. Senator Fetterman from Pennsylvania is undergoing treatment whilst managing his senate operations from Walter Reed hospital for severe clinical depression. Sociologist research suggests poverty in America persists due to issues with employment and wages, whilst records show that Fox News amplified former President Trump’s election fraud claims despite privately mocking them internally. Jenna Ellis has also recently admitted to falsely representing Trump’s fraud claims in an attempt to appeal to viewers, but Fox News CEO Suzanne Scott&#39;s work has been defended by Lachlan Murdoch. Finally, rare book librarians insist that bare hands are best when handling ancient books; however, few people will take their advice seriously.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s budget kicks off a long and likely painful process on Capitol Hill.</h3>
-<sub>By Catie Edmondson</sub>
-<p>In theory, funding the government takes place in two major stages. But it’s a fraught and complicated process; here’s a step-by-step guide.  <a href="https://nyti.ms/3YC15zc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Takeaways from Biden’s budget: The president embraces his priorities.</h3>
+<sub>By Alan Rappeport</sub>
+<p>President Biden said his budget was designed to “lift the burden on hard working Americans” and drew sharp contrasts with the proposals that Republicans have offered.  <a href="https://nyti.ms/3YBvDB6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The Programs You’d Have to Cut to Balance the Budget</h3>
-<sub>By Alicia Parlapiano, Margot Sanger-Katz and Josh Katz</sub>
-<p>Without trimming popular programs or raising taxes, cuts to the rest of the federal budget would have to be monumental.  <a href="https://nyti.ms/3msd1Xd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The G.O.P. quickly rejected Biden’s budget, foreshadowing a coming clash.</h3>
+<sub>By Carl Hulse</sub>
+<p>House and Senate Republicans call the White House plan an “unserious” proposal that will be ignored by Congress.  <a href="https://nyti.ms/3ZVzoTi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Biden Budget Routes $1.2 Billion to Big Transit Projects in New York</h3>
+<sub>By Patrick McGeehan</sub>
+<p>The money, which was previously allocated in the infrastructure bill, will go to the Second Avenue Subway extension and new Hudson River train tunnels, two of the most long-awaited transit projects in the region.  <a href="https://nyti.ms/3l9dXiF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Changing His Tune for Mother Russia</h3>
@@ -87,16 +87,16 @@ I guess it&#39;s been quite eventful!</p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Mitch McConnell Is Hospitalized After Tripping at Washington Hotel</h3>
+<sub>By Carl Hulse</sub>
+<p>The 81-year-old Senate minority leader fell during a private dinner and was being treated for a concussion, his spokesman said.  <a href="https://nyti.ms/3T17d2U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Cloistered at Walter Reed, Fetterman Runs His Senate Operation From Afar</h3>
 <sub>By Annie Karni</sub>
 <p>A dozen miles from the Capitol, the first-term Democrat from Pennsylvania is keeping up with his work while being treated for severe clinical depression.  <a href="https://nyti.ms/3YED22B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mitch McConnell Is Hospitalized After Tripping at Washington Hotel</h3>
-<sub>By Mike Ives</sub>
-<p>The Senate minority leader tripped during a private dinner, his spokesman said. No details on the 81-year-old Republican’s condition were available.  <a href="https://nyti.ms/3T17d2U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Why Poverty Persists in America</h3>
@@ -116,6 +116,12 @@ I guess it&#39;s been quite eventful!</p>
 <p>Jenna Ellis acknowledged that she knowingly misrepresented the facts about election fraud in a disciplinary procedure by Colorado state bar officials.  <a href="https://nyti.ms/3ZyKmOR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Lachlan Murdoch Defends Fox News’s Chief Executive Amid Defamation Suit</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>“Suzanne Scott has done a tremendous job,” Mr. Murdoch said in his first public remarks since damaging revelations about the inner workings of the news network.  <a href="https://nyti.ms/3ZTnw43"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>For Rare Book Librarians, It’s Gloves Off. Seriously.</h3>
 <sub>By Jennifer Schuessler</sub>
@@ -124,20 +130,8 @@ I guess it&#39;s been quite eventful!</p>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Norfolk Southern C.E.O. Says He Is ‘Deeply Sorry’ for Ohio Train Derailment</h3>
-<sub>By Stephanie Lai and Mark Walker</sub>
-<p>In prepared remarks released before a Senate hearing, the railroad chief executive says he is “determined to make it right” for the people of East Palestine.  <a href="https://nyti.ms/3ZAt8R6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After the Ohio Train Derailment: Evacuations, Toxic Chemicals and Water Worries</h3>
-<sub>By Christine Hauser</sub>
-<p>When a train derailed in the village of East Palestine on Feb. 3, it set off evacuation orders, a chemical scare and a federal investigation.  <a href="https://nyti.ms/3RTXTgS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>As a Film Revives Elvis’s Legacy, the Presleys Fight Over His Estate</h3>
-<sub>By Matt Stevens</sub>
-<p>After the death of Lisa Marie Presley, Elvis’s ex-wife initiated a legal battle with her granddaughter over control of the family trust.  <a href="https://nyti.ms/3IYdQhU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Stephanie Lai, Mark Walker and Peter Eavis</sub>
+<p>The railroad chief executive testified that he was “determined to make this right” but did not endorse bipartisan legislation proposed by senators or commit to paying for long-term damage.  <a href="https://nyti.ms/3ZAt8R6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
