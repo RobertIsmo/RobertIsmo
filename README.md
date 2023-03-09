@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 8, Central Standard Time</p>
 <p>
-Many American Jewish leaders are criticizing a plan in Israel to reduce judicial power, and the US Justice Department found significant discriminatory policing in Louisville. As tensions in Georgia between Russia and the West increase, Fox News host Tucker Carlson is facing scrutiny after it was revealed that he personally dislikes President Trump despite praising him publicly. The Pentagon is not sharing evidence of potential Russian war crimes with the International Criminal Court, and a bill has passed through the US Senate to block a crime law in Washington DC, even though President Biden initially opposed it. In Mexico, people are questioning the government’s response to an attack on four Americans, two of which were killed during a kidnapping. This brings attention to medical tourism industry risks.</p>
+Some major events are happening all over the world right now. In Israel, right-wing politicians are facing criticism for a proposed judicial overhaul that some argue goes too far. The US Justice Department has just finished a review in Louisville concluding that their police force is engaging in discriminatory practices. In Mexico, the murder of two Americans has sparked public unrest due to its quick response from the government, which has often failed to act on violence against Mexicans. Meanwhile, in the US, California is warned of cold weather and possible flooding as there are two atmospheric rivers coming in.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Israel’s Judicial Overhaul Plan Ignites Debate Among American Jews</h3>
@@ -80,22 +80,10 @@ Many American Jewish leaders are criticizing a plan in Israel to reduce judicial
 <p>Inside the Louisville Police Department, where officers are reckoning with what it means to be a cop in a city that doesn’t trust them.  <a href="https://nyti.ms/3ICJukR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon Blocks Sharing Evidence of Possible Russian War Crimes With Hague Court</h3>
-<sub>By Charlie Savage</sub>
-<p>President Biden has not acted to resolve a dispute that pits the Defense Department against other agencies.  <a href="https://nyti.ms/3JrF3v2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Explosive Roots of the Georgia Protests</h3>
-<sub>By Ivan Nechepurenko and Andrew Higgins</sub>
-<p>Always leery of Russian influence, Georgians see a new “foreign agents” law as a Kremlin-inspired tool to undermine their faltering democracy.  <a href="https://nyti.ms/3L9nlgN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>5 Times Tucker Carlson Privately Reviled Trump: ‘I Hate Him’</h3>
-<sub>By Katie Robertson</sub>
-<p>The Fox host’s private comments, revealed recently in court documents, contrast sharply with his support of conservatives on his show.  <a href="https://nyti.ms/3YxmSrR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Records Show Fox and G.O.P.’s Shared Quandary: Trump</h3>
+<sub>By Nicholas Confessore and Jim Rutenberg</sub>
+<p>Fox hosts and executives privately mocked the former president’s election fraud claims, even as the network amplified them in a frantic effort to appease viewers.  <a href="https://nyti.ms/3Lew7uh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,22 +92,22 @@ Many American Jewish leaders are criticizing a plan in Israel to reduce judicial
 <p>The Biden administration rarely criticizes conservative media stars by name, but a deputy press secretary declared that Mr. Carlson “is not credible.”  <a href="https://nyti.ms/3J54v8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When Trump Passes the MAGA Hat, His Aides Clutch Their Wallets</h3>
-<sub>By Michael C. Bender</sub>
-<p>Unlike other recent presidents, Donald Trump has rarely received campaign donations from his top advisers. They offer a range of explanations.  <a href="https://nyti.ms/3mwerQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Inside the ‘Blood Sport’ of Oscars Campaigns</h3>
-<sub>By Irina Aleksander</sub>
-<p>War rooms. Oppo dumps. Eight-figure budgets. How the quest for awards-season glory got so cutthroat.  <a href="https://nyti.ms/3mBismJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Explosive Roots of the Georgia Protests</h3>
+<sub>By Ivan Nechepurenko and Andrew Higgins</sub>
+<p>Always leery of Russian influence, Georgians see a new “foreign agents” law as a Kremlin-inspired tool to undermine their faltering democracy.  <a href="https://nyti.ms/3L9nlgN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Senate Clears Bill to Block D.C. Crime Law, Sending It to Biden After Reversal</h3>
 <sub>By Carl Hulse</sub>
 <p>Thirty-one Democrats joined Republicans in voting to rescind a local law, in a demonstration of the political power of crime as an issue. The president, who had opposed the measure, now says he will sign it.  <a href="https://nyti.ms/3kWPld5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Inside the ‘Blood Sport’ of Oscars Campaigns</h3>
+<sub>By Irina Aleksander</sub>
+<p>War rooms. Oppo dumps. Eight-figure budgets. How the quest for awards-season glory got so cutthroat.  <a href="https://nyti.ms/3mBismJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +120,18 @@ Many American Jewish leaders are criticizing a plan in Israel to reduce judicial
 <h3>Kidnapping in Mexico Draws Attention to Medical Tourism Industry</h3>
 <sub>By Dani Blum and Erik Vance</sub>
 <p>Here’s what experts say about the risks and promises of traveling abroad for cost-efficient care.  <a href="https://nyti.ms/3ZIRHes"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Is It Safe to Travel to Mexico? Here’s What You Need to Know.</h3>
+<sub>By Elisabeth Malkin</sub>
+<p>A spate of incidents, including a kidnapping and the death of two Americans near the border, and protests among taxi drivers in Cancún, is rattling would-be tourists.  <a href="https://nyti.ms/3HqMtw9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>California Braces for More Heavy Snow and Rain</h3>
+<sub>By Jesus Jiménez</sub>
+<p>Two consecutive atmospheric rivers were expected to bring the threat of flooding to parts of the state, along with heavy snowfall at higher elevations.  <a href="https://nyti.ms/41Z9dgo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
