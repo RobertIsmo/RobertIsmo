@@ -60,29 +60,56 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 9, Central Standard Time</p>
 <p>
-There are a lot of exciting and worrying developments in the world right now. In Georgia, the ruling party was planning to pass a bill that opposition lawmakers said mimicked a law in Russia used to squash dissent and control free speech. After huge protests, they have since decided to withdraw the bill. Meanwhile, in Israel there is a debate among Jewish American leaders about a right-wing government&#39;s proposal to weaken the country&#39;s judicial power.
-
-In the US, we&#39;re hearing a lot about crime at the moment. The Biden administration has very publicly rebuked Tucker Carlson for his portrayal of the January 6 attack in DC, and the Justice Department has found evidence of discriminatory policing in Louisville, KY. Additionally, the Senate voted to block a D.C. crime law until Biden reversed course and announced he would sign it himself.
-
-There has also been news surrounding Mitch McConnell after he was hospitalized after falling during a private dinner in Washington hotel. Meanwhile, India is arming villagers and Mexico is questioning the government&#39;s response to an attack on Americans that left two dead. Finally, we&#39;re hearing quite a bit about medical tourism industry as well due to a recent kidnapping in Mexico which has highlighted its risks and promises.</p>
+There is a lot happening in the world right now! In the US, President Biden is getting ready to release a budget that is likely to be rejected by Republicans. Meanwhile, Georgia has plans to withdraw a bill that was similar to legislation in Russia aimed at clamping down on dissent. In the entertainment industry, Topol, whose most famous role was as Tevye in &#39;Fiddler on the Roof&#39;, passed away at 87 years old. 
+In political news, newly empowered Democrats in Michigan voted to repeal a right-to-work law and expand gun background checks, while Fox News has been dealing with conflicts between their hosts and executives over Trump&#39;s election fraud claims. On an international scale, there are worries of life expectancy decreases in African countries due to diseases like diabetes and hypertension that often go undiagnosed and untreated. Plus, Russian cultural figures are making their choice to either comply with the government&#39;s militaristic worldview or speak out against it. Lastly, there&#39;s a great article about understanding why poverty persists in American society written by a Pulitzer Prize-winning sociologist!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Will Release Dead-on-Arrival Budget, Picking Fight With G.O.P.</h3>
+<sub>By Jim Tankersley</sub>
+<p>The president’s plans have little in common with the budget Republicans are set to release this spring, as the nation hurtles toward a possible default on its debt.  <a href="https://nyti.ms/3J390A7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Georgia’s Governing Party Plans to Withdraw Foreign Agents Bill After Protests</h3>
+<h3>Georgia Plans to Withdraw Foreign Agents Bill After Protests</h3>
 <sub>By Ivan Nechepurenko</sub>
 <p>Opposition lawmakers had said the legislation mimicked a similar one in Russia that has been used to clamp down on dissent.  <a href="https://nyti.ms/3ylxIGZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Explosive Roots of the Georgia Protests</h3>
-<sub>By Ivan Nechepurenko and Andrew Higgins</sub>
-<p>Georgians saw an effort to push a “foreign agents” law as a Kremlin-inspired tool, and the governing party said it planned to withdraw the proposed legislation.  <a href="https://nyti.ms/3L9nlgN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<h3>Changing His Tune for Mother Russia</h3>
+<sub>By Valerie Hopkins and Georgy Birger</sub>
+<p>As the Kremlin seeks to remake Russia’s institutions to comport with its militaristic worldview, cultural figures are picking a side. One singer made his choice — and is growing rich.  <a href="https://nyti.ms/3L9LV11"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Israel’s Judicial Overhaul Plan Ignites Debate Among American Jews</h3>
-<sub>By Michael Crowley and Ruth Graham</sub>
-<p>Jewish American leaders are denouncing a proposal by the country’s right-wing government to weaken the power of the country’s judiciary, in ways that some call unusually forceful.  <a href="https://nyti.ms/3YzXKAX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Cloistered at Walter Reed, Fetterman Runs His Senate Operation From Afar</h3>
+<sub>By Annie Karni</sub>
+<p>A dozen miles from the Capitol, the first-term Democrat from Pennsylvania is keeping up with his work while being treated for severe clinical depression.  <a href="https://nyti.ms/3YED22B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Mitch McConnell Is Hospitalized After Tripping at Washington Hotel</h3>
+<sub>By Mike Ives</sub>
+<p>The Senate minority leader tripped during a private dinner, his spokesman said. No details on the 81-year-old Republican’s condition were available.  <a href="https://nyti.ms/3T17d2U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Why Poverty Persists in America</h3>
+<sub>By Matthew Desmond</sub>
+<p>A Pulitzer Prize-winning sociologist offers a new explanation for an intractable problem.  <a href="https://nyti.ms/3l0mUuO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>African Countries Made Huge Gains in Life Expectancy. Now That Could Be Erased.</h3>
+<sub>By Stephanie Nolen</sub>
+<p>Incidence of illnesses such as diabetes and hypertension are climbing quickly in most sub-Saharan countries, but the conditions are rarely diagnosed or treated.  <a href="https://nyti.ms/3YxEa8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>‘Phantom’ Ends. For Musicians, So Does the Gig of a Lifetime.</h3>
+<sub>By Maria Clara Cobo and Todd Heisler</sub>
+<p>Broadway’s longest running musical, set to close next month, has been a source of stability for orchestra members, many of whom have grown up with the show.  <a href="https://nyti.ms/3FaddAQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Records Show Fox and G.O.P.’s Shared Quandary: Trump</h3>
@@ -91,52 +118,22 @@ There has also been news surrounding Mitch McConnell after he was hospitalized a
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>White House Rebukes Tucker Carlson Over Portrayal of Jan. 6 Attack</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>The Biden administration rarely criticizes conservative media stars by name, but a deputy press secretary declared that Mr. Carlson “is not credible.”  <a href="https://nyti.ms/3J54v8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<h3>How Murdoch Runs Fox News, in His Own (Often Terse) Words</h3>
+<sub>By Jeremy W. Peters</sub>
+<p>Court filings give a peek into how Rupert Murdoch shapes coverage at his news organizations.  <a href="https://nyti.ms/3YyyevK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>Topol, Star of ‘Fiddler on the Roof’ on the Screen and the Stage, Dies at 87</h3>
+<sub>By Margalit Fox</sub>
+<p>Wide acclaim for the role of Tevye helped make him, according to one newspaper, “Israel’s most famous export since the Jaffa orange.”  <a href="https://nyti.ms/3ymv2ZF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Finds Pattern of Discriminatory Policing in Louisville</h3>
-<sub>By Glenn Thrush</sub>
-<p>The review, undertaken after a specialized unit killed Breonna Taylor in a botched raid in 2020, paints a damning portrait of a department in crisis.  <a href="https://nyti.ms/3F8elVk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>‘Nobody Wants to Be the World’s Villain’</h3>
-<sub>By Jamie Thompson</sub>
-<p>Inside the Louisville Police Department, where officers are reckoning with what it means to be a cop in a city that doesn’t trust them.  <a href="https://nyti.ms/3ICJukR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Clears Bill to Block D.C. Crime Law, Sending It to Biden After Reversal</h3>
-<sub>By Carl Hulse</sub>
-<p>Thirty-one Democrats joined Republicans in voting to rescind a local law, in a demonstration of the political power of crime as an issue. The president, who had opposed the measure, now says he will sign it.  <a href="https://nyti.ms/3kWPld5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mitch McConnell Is Hospitalized After Tripping at Washington Hotel</h3>
-<sub>By Mike Ives</sub>
-<p>The Senate minority leader tripped during a private dinner, his spokesman said. No details on the 81-year-old Republican’s condition were available.  <a href="https://nyti.ms/3T17d2U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>India Is Arming Villagers in One of Earth’s Most Militarized Places</h3>
-<sub>By Showkat Nanda and Atul Loke</sub>
-<p>The government is reviving local militias in the Jammu part of the restive Kashmir region, laying bare the limits of its military approach there.  <a href="https://nyti.ms/3YvGTPu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mexicans Question Government’s Swift Response to Lethal Attack on Americans</h3>
-<sub>By Maria Abi-Habib, Natalie Kitroeff, Zolan Kanno-Youngs and Oscar Lopez</sub>
-<p>Many noted the coordinated action after four Americans were kidnapped, and two killed, in a country where crimes against Mexicans get far less attention.  <a href="https://nyti.ms/3l76oJg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Kidnapping in Mexico Draws Attention to Medical Tourism Industry</h3>
-<sub>By Dani Blum and Erik Vance</sub>
-<p>Here’s what experts say about the risks and promises of traveling abroad for cost-efficient care.  <a href="https://nyti.ms/3ZIRHes"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
+<h3>Newly Empowered Michigan Democrats Move on Labor, Gay Rights and Guns</h3>
+<sub>By Mitch Smith and Ernesto Londoño</sub>
+<p>Despite Republican objections, the Michigan House of Representatives voted to repeal a right-to-work law, codify L.G.B.T.Q. rights and expand gun background checks.  <a href="https://nyti.ms/3JtjZ7q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
