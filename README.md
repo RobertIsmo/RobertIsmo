@@ -59,8 +59,33 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 10, Central Standard Time</p>
-<p>Well, in China, Xi Jinping has just been re-elected for an unprecedented third term as president. This solidifies his grip on power in the country and will have lasting repercussions for them. Meanwhile, here in the US, Joe Biden has just released his budget but is yet to address how he plans to fix Social Security like he promised during his 2020 campaign. Elsewhere, jobs data is due which could provide a strong indication of the economic health of the country. Finally, Asian actors are getting more recognition with a few receiving Oscar nominations this year - something which unfortunately hasn&#39;t been seen too much historically.</p>
+<p>
+There&#39;s a lot going on in the world right now. In the business sector, investors are worried about the financial stability of California&#39;s Silicon Valley Bank and other similarly sized lenders. On the global stage, Saudi Arabia and Iran recently agreed to re-establish diplomatic ties after talks hosted by China. Meanwhile, Chinese President Xi Jinping is cementing his dominance and elevating allies in his new government. Closer to home, prosecutors in Manhattan are signaling that criminal charges may be coming for former President Donald Trump. And when it comes to tackling climate change, some cities, like New York, are relying on surprising solutions like carbon capture for their buildings to reduce air pollution.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Bank Run Jolts Markets as Investors Weigh the Jobs Report</h3>
+<sub>By Joe Rennison</sub>
+<p>Concerns about a California bank come at a time when investors have been flipping between worrying about the economy and seeing an end to the recent market turmoil.  <a href="https://nyti.ms/3ZXMcbC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Troubles at Silicon Valley Bank Rock the Global Market</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Shares in the bank, a go-to funder of tech start-ups, have fallen more than 60 percent in the past day as investors fear for its finances, and those of similarly sized lenders.  <a href="https://nyti.ms/3yrbu6f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Saudi Arabia and Iran Agree to Re-establish Ties in Talks Hosted by China</h3>
+<sub>By Vivian Nereim</sub>
+<p>The two regional rivals agreed to reactivate a lapsed security cooperation agreement and reopen embassies within two months.  <a href="https://nyti.ms/41ZsgXN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Social Rifts That Led to Israel’s Judicial Crisis</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Israeli society is locked in a deep dispute over the future of its judiciary and democracy. The conflict is rooted in shifts of the last three decades.  <a href="https://nyti.ms/3LcmrQE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Xi Seals His Political Supremacy, Focusing on Economy and U.S. Rivalry</h3>
 <sub>By Chris Buckley and Keith Bradsher</sub>
@@ -79,24 +104,6 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>A series of regulatory changes approved this week reflect the increasingly centralized control of Xi Jinping, newly confirmed for a third term as China’s president.  <a href="https://nyti.ms/3T5CpxV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Jobs Report to Offer Fresh Reading on Labor Market’s Tenacity</h3>
-<sub>By Lydia DePillis</sub>
-<p>After a blockbuster opening to the year, economists expect the February data to show the return of a gradual slowdown in hiring.  <a href="https://nyti.ms/3YH39WO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Bank Run Jolts Markets as Investors Await the Jobs Report</h3>
-<sub>By Joe Rennison</sub>
-<p>Concerns about a California bank come at a time when investors have been flipping between worrying about the economy and seeing an end to the recent market turmoil.  <a href="https://nyti.ms/3ZXMcbC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Silicon Valley Bank’s Financial Stability Worries Investors</h3>
-<sub>By Erin Griffith and Rob Copeland</sub>
-<p>The bank, a linchpin of tech industry financing, is trying to persuade clients not to pull their money over concerns of a liquidity crisis.  <a href="https://nyti.ms/3JsYqUg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>What We Know About the Potential Indictment of Donald Trump</h3>
 <sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
@@ -109,28 +116,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>The former president was told that he could appear before a Manhattan grand jury next week if he wishes to testify, a strong indication that an indictment could soon follow.  <a href="https://nyti.ms/3YCVhWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>With Its Future at Stake, the Academy Tries to Fix the Oscars (Again)</h3>
-<sub>By Brooks Barnes</sub>
-<p>The awards telecast has been losing viewers for years. New leadership wants to reverse that starting Sunday, and ensure the financial well-being of the organization.  <a href="https://nyti.ms/3ZzyZWC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Asian Actors Have Been Underrepresented at the Oscars For Decades. Here’s the History.</h3>
-<sub>By K.K. Rebecca Lai</sub>
-<p>A record number of actors of Asian ancestry were recognized with Oscar nominations this year, led by Michelle Yeoh of “Everything Everywhere All at Once.” Historically, Asian stars have rarely been part of the Academy Awards.  <a href="https://nyti.ms/3SFf7yI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Why Presidents’ Budget Dreams Usually Don’t Come True</h3>
-<sub>By Josh Katz, Alicia Parlapiano and Margot Sanger-Katz</sub>
-<p>For all the toil that goes into them, the budgets very rarely correlate with the trajectory of federal spending, revenue or the deficit.  <a href="https://nyti.ms/3ZUfGXR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Huge City Polluter? Buildings. Here’s a Surprising Fix.</h3>
+<sub>By Brad Plumer</sub>
+<p>Carbon capture might not work for all buildings. But some are giving it a try.  <a href="https://nyti.ms/3yoExHP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Missing From Biden’s Budget: His Plan for Social Security</h3>
-<sub>By Jim Tankersley</sub>
-<p>Like the president’s previous budgets, his latest proposal made no mention of any tax or spending increases linked to the program, which he had promised to shore up during his 2020 campaign.  <a href="https://nyti.ms/3YwMPrL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What’s Holding Up New York’s Climate Progress? Apartment Buildings.</h3>
+<sub>By Stefanos Chen and Winston Choi-Schagrin</sub>
+<p>Many New York apartment buildings have less than a year to get in line with an ambitious climate mandate, or risk facing millions of dollars in penalties.  <a href="https://nyti.ms/3LuGryr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>How 31 Presidential Budgets Compared With Reality</h3>
+<sub>By Josh Katz, Alicia Parlapiano and Margot Sanger-Katz</sub>
+<p>For all the toil that goes into them, the budgets very rarely correlate with the trajectory of federal spending, revenue or the deficit.  <a href="https://nyti.ms/3ZUfGXR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
