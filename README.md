@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 9, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. US President Biden is pushing for a $6.8 trillion budget proposal with new social programs and higher taxes. He is also trying to recapture his centrist identity in preparation for a campaign for his second term. Ex-President Trump&#39;s lawyer has admitted to making false claims about election fraud, which could mean criminal charges for him soon. Meanwhile, Saudi Arabia has laid out its terms for normalizing relations with Israel, and Russia recently attacked Ukrainian cities using advanced missiles, raising questions about its capability. Here in the US, there have been reports of abusive policing in Louisville and Mitch McConnell was hospitalized after slipping at a Washington hotel. Health concerns are also growing after a train derailment in Ohio, and book librarians are urging people to handle rare books without gloves.</p>
+There&#39;s a lot going on in the world right now! In the US, President Biden has proposed a $6.8 trillion dollar budget that includes new social programs and higher taxes. He&#39;s also trying to recapture his centrist identity and address the concerns of middle-of-the-road Americans ahead of what&#39;s expected to be his campaign for a second term.  Over in China, President Xi Jinping just started his new term with a focus on economics and competition with the US.  Meanwhile, in Mexico, five men were found with a note that grounded them for an attack on three Americans last week or two.  
+
+On a more concerning note, tensions between Russia and Ukraine have been escalating, leading to the extensive use of advanced missiles in an attack on Ukrainian cities that killed nine people. And in Ohio, residents are growing increasingly anxious after train derailed weeks ago and they haven&#39;t yet gotten all the information they&#39;re looking for. </p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Prosecutors Signal Criminal Charges for Trump Are Likely</h3>
@@ -68,22 +70,22 @@ There is a lot going on in the world right now. US President Biden is pushing fo
 <p>The former president was told that he could appear before a Manhattan grand jury next week if he wishes to testify, a strong indication that an indictment could soon follow.  <a href="https://nyti.ms/3YCVhWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Lawyer Admits to Falsehoods in 2020 Fraud Claims</h3>
-<sub>By Alan Feuer</sub>
-<p>Jenna Ellis acknowledged that she knowingly misrepresented the facts about election fraud in a disciplinary procedure by Colorado state bar officials.  <a href="https://nyti.ms/3ZyKmOR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s $6.8 Trillion Budget Proposes New Social Programs and Higher Taxes</h3>
-<sub>By Jim Tankersley</sub>
-<p>The president requested trillions in new spending that has no chance of passing a Republican House, even as he sought to reduce deficits by raising taxes on businesses and the rich.  <a href="https://nyti.ms/3T1mgJY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Xi Starts New Term in China, With a Focus on Economy and U.S. Rivalry</h3>
+<sub>By Chris Buckley and Keith Bradsher</sub>
+<p>The Communist Party-controlled legislature, the National People’s Congress, endorsed Xi Jinping for president in a ritual ballot.  <a href="https://nyti.ms/3mzR3RT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Moves to Recapture the Centrist Identity That Has Long Defined Him</h3>
 <sub>By Peter Baker</sub>
 <p>After two years championing progressive priorities, the president is speaking more to the concerns of the political middle as he prepares to announce a campaign for a second term.  <a href="https://nyti.ms/3ZAgKk9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s $6.8 Trillion Budget Proposes New Social Programs and Higher Taxes</h3>
+<sub>By Jim Tankersley</sub>
+<p>The president requested trillions in new spending that has no chance of passing a Republican House, even as he sought to reduce deficits by raising taxes on businesses and the rich.  <a href="https://nyti.ms/3T1mgJY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,12 +112,6 @@ There is a lot going on in the world right now. US President Biden is pushing fo
 <p>Moscow on Thursday fired the largest number of the air-launched weapons used in a single wave since the war began a year ago.  <a href="https://nyti.ms/41TTmzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mitch McConnell Is Hospitalized After Tripping at Washington Hotel</h3>
-<sub>By Carl Hulse</sub>
-<p>The 81-year-old Senate minority leader fell during a private dinner and was being treated for a concussion, his spokesman said.  <a href="https://nyti.ms/3T17d2U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Weeks After Ohio Train Derailment, Health Concerns Mount</h3>
 <sub>By Emily Baumgaertner</sub>
@@ -128,10 +124,16 @@ There is a lot going on in the world right now. US President Biden is pushing fo
 <p>When handling rare books, experts say that bare, just-cleaned hands are best. Why won’t the public believe them?  <a href="https://nyti.ms/3l3gET6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Louisville, Federal Report on Abusive Policing Comes as No Surprise</h3>
-<sub>By Kevin Williams, Michael Wines and Rick Rojas</sub>
-<p>Many Black residents were skeptical that policing would improve because of the report, which found many instances of discriminatory behavior and civil rights violations.  <a href="https://nyti.ms/3FzrU0D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Men Found in Mexico With a Note Blaming Them for Attack on Americans</h3>
+<sub>By Natalie Kitroeff and Maria Abi-Habib</sub>
+<p>The note, which was purportedly written by a powerful drug cartel, apologized for the attack last week that left three people dead, and offered up five men it said were responsible.  <a href="https://nyti.ms/3F8gK2E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Tras el ataque a estadounidenses en Matamoros, aparecen cinco hombres y un mensaje</h3>
+<sub>By Natalie Kitroeff and Maria Abi-Habib</sub>
+<p>La nota, que supuestamente habría sido escrita por un cártel poderoso, indicaba que los hombres que atacaron a los estadounidenses actuaron por cuenta propia.  <a href="https://nyti.ms/3ZMlkeK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
