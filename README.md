@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, March 9, Central Standard Time</p>
+<p>It is Friday, March 10, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! In the US, President Biden has proposed a $6.8 trillion dollar budget that includes new social programs and higher taxes. He&#39;s also trying to recapture his centrist identity and address the concerns of middle-of-the-road Americans ahead of what&#39;s expected to be his campaign for a second term.  Over in China, President Xi Jinping just started his new term with a focus on economics and competition with the US.  Meanwhile, in Mexico, five men were found with a note that grounded them for an attack on three Americans last week or two.  
-
-On a more concerning note, tensions between Russia and Ukraine have been escalating, leading to the extensive use of advanced missiles in an attack on Ukrainian cities that killed nine people. And in Ohio, residents are growing increasingly anxious after train derailed weeks ago and they haven&#39;t yet gotten all the information they&#39;re looking for. </p>
+There is a lot going on in the world right now. In the US, President Biden has proposed a $6.8 trillion budget with higher taxes while trying to recapture his centrist identity ahead of his second term campaign. Meanwhile, in China, there&#39;s been sweeping changes to the country&#39;s leadership as President Xi Jinping started his third term. There has also been some tensions in Russia with their attacks on Ukrainian cities and the use of their most advanced hypersonic missiles killing at least nine people. Unfortunately, the Mexican drug cartels were also in the news this week after they allegedly carried out an attack that killed three people and left a note blaming five innocent men for it. On a lighter note, we just lost celebrated actor Robert Blake who was known for his roles in &#39;Baretta&#39; and &#39;In Cold Blood&#39;.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Prosecutors Signal Criminal Charges for Trump Are Likely</h3>
@@ -71,9 +69,21 @@ On a more concerning note, tensions between Russia and Ukraine have been escalat
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Xi Starts New Term in China, With a Focus on Economy and U.S. Rivalry</h3>
+<h3>Xi, More Dominant Than Ever, Focuses on Economy and U.S. Rivalry</h3>
 <sub>By Chris Buckley and Keith Bradsher</sub>
 <p>The Communist Party-controlled legislature, the National People’s Congress, endorsed Xi Jinping for president in a ritual ballot.  <a href="https://nyti.ms/3mzR3RT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Here Are the Men Leading China for the Next Five Years</h3>
+<sub>By Vivian Wang</sub>
+<p>As Xi Jinping starts his third term as president, he is pushing sweeping changes to the rest of the country’s leadership to elevate his allies.  <a href="https://nyti.ms/3T5NqPN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why China Is Tightening Its Oversight of Banking and Tech</h3>
+<sub>By Keith Bradsher and Chang Che</sub>
+<p>A series of regulatory changes approved this week reflect the increasingly centralized control of Xi Jinping, newly confirmed for a third term as China’s president.  <a href="https://nyti.ms/3T5CpxV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,12 +96,6 @@ On a more concerning note, tensions between Russia and Ukraine have been escalat
 <h3>Biden’s $6.8 Trillion Budget Proposes New Social Programs and Higher Taxes</h3>
 <sub>By Jim Tankersley</sub>
 <p>The president requested trillions in new spending that has no chance of passing a Republican House, even as he sought to reduce deficits by raising taxes on businesses and the rich.  <a href="https://nyti.ms/3T1mgJY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Takeaways From Biden’s Budget: The President Embraces His Priorities</h3>
-<sub>By Alan Rappeport</sub>
-<p>President Biden said his budget was designed to “lift the burden on hard working Americans” and drew sharp contrasts with the proposals that Republicans have offered.  <a href="https://nyti.ms/3mEISE5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -118,22 +122,16 @@ On a more concerning note, tensions between Russia and Ukraine have been escalat
 <p>In a tight-knit town already skeptical of the government, the lack of concrete information, and the open-ended nature of the crisis, undergird anxiety.  <a href="https://nyti.ms/3ZWBnGM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>For Rare Book Librarians, It’s Gloves Off. Seriously.</h3>
-<sub>By Jennifer Schuessler</sub>
-<p>When handling rare books, experts say that bare, just-cleaned hands are best. Why won’t the public believe them?  <a href="https://nyti.ms/3l3gET6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Men Found in Mexico With a Note Blaming Them for Attack on Americans</h3>
 <sub>By Natalie Kitroeff and Maria Abi-Habib</sub>
 <p>The note, which was purportedly written by a powerful drug cartel, apologized for the attack last week that left three people dead, and offered up five men it said were responsible.  <a href="https://nyti.ms/3F8gK2E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Tras el ataque a estadounidenses en Matamoros, aparecen cinco hombres y un mensaje</h3>
-<sub>By Natalie Kitroeff and Maria Abi-Habib</sub>
-<p>La nota, que supuestamente habría sido escrita por un cártel poderoso, indicaba que los hombres que atacaron a los estadounidenses actuaron por cuenta propia.  <a href="https://nyti.ms/3ZMlkeK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>Robert Blake, ‘Baretta’ Star Acquitted in Wife’s Murder, Dies at 89</h3>
+<sub>By Douglas Martin</sub>
+<p>His film and TV career began with “Our Gang” comedies and was highlighted by a performance as a mass killer in “In Cold Blood.” But he led a tempestuous life.  <a href="https://nyti.ms/3ZBX1k2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
