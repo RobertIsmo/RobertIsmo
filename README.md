@@ -59,27 +59,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 10, Central Standard Time</p>
-<p>
-There is a lot going on in the world right now! In Europe, Russia has a strong grip on nuclear power, which makes it hard to kick their dependency. Russia has also been using hypersonic missiles during their ongoing war. In the US, former President Trump might be facing criminal charges soon and current President Biden is proposing new social programs and higher taxes. Meanwhile, in the Middle East, Saudi Arabia is offering Israel a steep price if they agree to normalize relations. In Mexico, a drug cartel issued an apology over an attack that killed three people and offered up five of their members up as sacrificial lambs. Lastly, Robert Blake (a &#39;Baretta&#39; star best known for his performance in &#39;In Cold Blood&#39;) passed away at age 89.</p>
+<p>Well, in China, Xi Jinping has just been re-elected for an unprecedented third term as president. This solidifies his grip on power in the country and will have lasting repercussions for them. Meanwhile, here in the US, Joe Biden has just released his budget but is yet to address how he plans to fix Social Security like he promised during his 2020 campaign. Elsewhere, jobs data is due which could provide a strong indication of the economic health of the country. Finally, Asian actors are getting more recognition with a few receiving Oscar nominations this year - something which unfortunately hasn&#39;t been seen too much historically.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Russia Has Such a Strong Grip on Europe’s Nuclear Power</h3>
-<sub>By Patricia Cohen</sub>
-<p>New energy sources to replace oil and natural gas have been easier to find than kicking the dependency on Rosatom, the state-owned nuclear superstore.  <a href="https://nyti.ms/3L7VnSN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Questions surround Russia’s use of hypersonic missiles in its latest attack.</h3>
-<sub>By John Ismay, Matthew Mpoke Bigg and Andrew E. Kramer</sub>
-<p>Moscow on Thursday fired the largest number of the air-launched weapons used in a single wave since the war began a year ago.  <a href="https://nyti.ms/41TTmzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Prosecutors Signal Criminal Charges for Trump Are Likely</h3>
-<sub>By William K. Rashbaum, Ben Protess and Jonah E. Bromwich</sub>
-<p>The former president was told that he could appear before a Manhattan grand jury next week if he wishes to testify, a strong indication that an indictment could soon follow.  <a href="https://nyti.ms/3YCVhWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Xi Seals His Political Supremacy, Focusing on Economy and U.S. Rivalry</h3>
 <sub>By Chris Buckley and Keith Bradsher</sub>
@@ -98,41 +79,59 @@ There is a lot going on in the world right now! In Europe, Russia has a strong g
 <p>A series of regulatory changes approved this week reflect the increasingly centralized control of Xi Jinping, newly confirmed for a third term as China’s president.  <a href="https://nyti.ms/3T5CpxV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Moves to Recapture the Centrist Identity That Has Long Defined Him</h3>
-<sub>By Peter Baker</sub>
-<p>After two years championing progressive priorities, the president is speaking more to the concerns of the political middle as he prepares to announce a campaign for a second term.  <a href="https://nyti.ms/3ZAgKk9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Jobs Report to Offer Fresh Reading on Labor Market’s Tenacity</h3>
+<sub>By Lydia DePillis</sub>
+<p>After a blockbuster opening to the year, economists expect the February data to show the return of a gradual slowdown in hiring.  <a href="https://nyti.ms/3YH39WO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Bank Run Jolts Markets as Investors Await the Jobs Report</h3>
+<sub>By Joe Rennison</sub>
+<p>Concerns about a California bank come at a time when investors have been flipping between worrying about the economy and seeing an end to the recent market turmoil.  <a href="https://nyti.ms/3ZXMcbC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Silicon Valley Bank’s Financial Stability Worries Investors</h3>
+<sub>By Erin Griffith and Rob Copeland</sub>
+<p>The bank, a linchpin of tech industry financing, is trying to persuade clients not to pull their money over concerns of a liquidity crisis.  <a href="https://nyti.ms/3JsYqUg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What We Know About the Potential Indictment of Donald Trump</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
+<p>A case against the former president — who is also a current presidential candidate — poses challenges for prosecutors. Here’s why.  <a href="https://nyti.ms/3ZX4bz6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Prosecutors Signal Criminal Charges for Trump Are Likely</h3>
+<sub>By William K. Rashbaum, Ben Protess and Jonah E. Bromwich</sub>
+<p>The former president was told that he could appear before a Manhattan grand jury next week if he wishes to testify, a strong indication that an indictment could soon follow.  <a href="https://nyti.ms/3YCVhWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>With Its Future at Stake, the Academy Tries to Fix the Oscars (Again)</h3>
+<sub>By Brooks Barnes</sub>
+<p>The awards telecast has been losing viewers for years. New leadership wants to reverse that starting Sunday, and ensure the financial well-being of the organization.  <a href="https://nyti.ms/3ZzyZWC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Asian Actors Have Been Underrepresented at the Oscars For Decades. Here’s the History.</h3>
+<sub>By K.K. Rebecca Lai</sub>
+<p>A record number of actors of Asian ancestry were recognized with Oscar nominations this year, led by Michelle Yeoh of “Everything Everywhere All at Once.” Historically, Asian stars have rarely been part of the Academy Awards.  <a href="https://nyti.ms/3SFf7yI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Why Presidents’ Budget Dreams Usually Don’t Come True</h3>
+<sub>By Josh Katz, Alicia Parlapiano and Margot Sanger-Katz</sub>
+<p>For all the toil that goes into them, the budgets very rarely correlate with the trajectory of federal spending, revenue or the deficit.  <a href="https://nyti.ms/3ZUfGXR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s $6.8 Trillion Budget Proposes New Social Programs and Higher Taxes</h3>
+<h3>Missing From Biden’s Budget: His Plan for Social Security</h3>
 <sub>By Jim Tankersley</sub>
-<p>The president requested trillions in new spending that has no chance of passing a Republican House, even as he sought to reduce deficits by raising taxes on businesses and the rich.  <a href="https://nyti.ms/3T1mgJY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Saudi Arabia Offers Its Price to Normalize Relations With Israel</h3>
-<sub>By Michael Crowley, Vivian Nereim and Patrick Kingsley</sub>
-<p>The Saudi crown prince is seeking a civilian nuclear program and security assurances from President Biden, a steep price for an agreement long sought by Israel.  <a href="https://nyti.ms/3T29zyG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Weeks After Ohio Train Derailment, Health Concerns Mount</h3>
-<sub>By Emily Baumgaertner</sub>
-<p>In a tight-knit town already skeptical of the government, the lack of concrete information, and the open-ended nature of the crisis, undergird anxiety.  <a href="https://nyti.ms/3ZWBnGM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Men Found in Mexico With a Note Blaming Them for Attack on Americans</h3>
-<sub>By Natalie Kitroeff and Maria Abi-Habib</sub>
-<p>The note, which was purportedly written by a powerful drug cartel, apologized for the attack last week that left three people dead, and offered up five men it said were responsible.  <a href="https://nyti.ms/3F8gK2E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
-<h3>Robert Blake, ‘Baretta’ Star Acquitted in Wife’s Murder, Dies at 89</h3>
-<sub>By Douglas Martin</sub>
-<p>His film and TV career began with “Our Gang” comedies and was highlighted by a performance as a mass killer in “In Cold Blood.” But he led a tempestuous life.  <a href="https://nyti.ms/3ZBX1k2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<p>Like the president’s previous budgets, his latest proposal made no mention of any tax or spending increases linked to the program, which he had promised to shore up during his 2020 campaign.  <a href="https://nyti.ms/3YwMPrL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
