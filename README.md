@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 10, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, President Biden has proposed a $6.8 trillion budget with higher taxes while trying to recapture his centrist identity ahead of his second term campaign. Meanwhile, in China, there&#39;s been sweeping changes to the country&#39;s leadership as President Xi Jinping started his third term. There has also been some tensions in Russia with their attacks on Ukrainian cities and the use of their most advanced hypersonic missiles killing at least nine people. Unfortunately, the Mexican drug cartels were also in the news this week after they allegedly carried out an attack that killed three people and left a note blaming five innocent men for it. On a lighter note, we just lost celebrated actor Robert Blake who was known for his roles in &#39;Baretta&#39; and &#39;In Cold Blood&#39;.</p>
+There is a lot going on in the world right now! In Europe, Russia has a strong grip on nuclear power, which makes it hard to kick their dependency. Russia has also been using hypersonic missiles during their ongoing war. In the US, former President Trump might be facing criminal charges soon and current President Biden is proposing new social programs and higher taxes. Meanwhile, in the Middle East, Saudi Arabia is offering Israel a steep price if they agree to normalize relations. In Mexico, a drug cartel issued an apology over an attack that killed three people and offered up five of their members up as sacrificial lambs. Lastly, Robert Blake (a &#39;Baretta&#39; star best known for his performance in &#39;In Cold Blood&#39;) passed away at age 89.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Russia Has Such a Strong Grip on Europe’s Nuclear Power</h3>
+<sub>By Patricia Cohen</sub>
+<p>New energy sources to replace oil and natural gas have been easier to find than kicking the dependency on Rosatom, the state-owned nuclear superstore.  <a href="https://nyti.ms/3L7VnSN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Questions surround Russia’s use of hypersonic missiles in its latest attack.</h3>
+<sub>By John Ismay, Matthew Mpoke Bigg and Andrew E. Kramer</sub>
+<p>Moscow on Thursday fired the largest number of the air-launched weapons used in a single wave since the war began a year ago.  <a href="https://nyti.ms/41TTmzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Prosecutors Signal Criminal Charges for Trump Are Likely</h3>
 <sub>By William K. Rashbaum, Ben Protess and Jonah E. Bromwich</sub>
@@ -69,9 +81,9 @@ There is a lot going on in the world right now. In the US, President Biden has p
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Xi, More Dominant Than Ever, Focuses on Economy and U.S. Rivalry</h3>
+<h3>Xi Seals His Political Supremacy, Focusing on Economy and U.S. Rivalry</h3>
 <sub>By Chris Buckley and Keith Bradsher</sub>
-<p>The Communist Party-controlled legislature, the National People’s Congress, endorsed Xi Jinping for president in a ritual ballot.  <a href="https://nyti.ms/3mzR3RT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Communist Party-controlled legislature endorsed Xi Jinping for an unprecedented third term as China’s president in a ritual ballot, cementing his dominance.  <a href="https://nyti.ms/3mzR3RT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -102,18 +114,6 @@ There is a lot going on in the world right now. In the US, President Biden has p
 <h3>Saudi Arabia Offers Its Price to Normalize Relations With Israel</h3>
 <sub>By Michael Crowley, Vivian Nereim and Patrick Kingsley</sub>
 <p>The Saudi crown prince is seeking a civilian nuclear program and security assurances from President Biden, a steep price for an agreement long sought by Israel.  <a href="https://nyti.ms/3T29zyG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Blasts Ukrainian Cities, Including Biggest Use of Advanced Missiles</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Of 81 missiles fired, six were hypersonic weapons, among Russia’s newest and most advanced, which are all but impossible to shoot down. The attacks killed at least nine people.  <a href="https://nyti.ms/3l7APPx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Questions surround Russia’s use of hypersonic missiles in its latest attack.</h3>
-<sub>By John Ismay, Matthew Mpoke Bigg and Andrew E. Kramer</sub>
-<p>Moscow on Thursday fired the largest number of the air-launched weapons used in a single wave since the war began a year ago.  <a href="https://nyti.ms/41TTmzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
