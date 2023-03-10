@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 10, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the business arena, Silicon Valley Bank recently failed and the Federal Reserve is deciding between a small or large rate move this month. Over in the Middle East, Saudi Arabia and Iran have agreed to re-establish ties after talks hosted by China and Chinese President Xi Jinping has cemented his dominance in politics. Closer to home, Donald Trump is facing several investigations related to potential indictments and former president Malachy McCourt is pushing for one final St. Patrick&#39;s Day. Finally, there are a few movement happening with regards to addressing climate change: carbon capture is being used as a potential solution for reducing emissions from buildings.</p>
+There are a few major things happening in the world right now. Firstly, Silicon Valley Bank has failed after coming under pressure from venture capital customers, which has caused concern about other banks as well. The US economy is continuing to add jobs despite rising interest rates and this has given the Federal Reserve mixed signals on what to do this March. The collapse of Silicon Valley Bank has caused the stock markets to drop sharply. Meanwhile, Saudi Arabia and Iran have agreed to restore diplomatic ties, which could have larger implications for the Middle East region. On the domestic front, former President Donald Trump is facing several investigations by federal and state prosecutors, so it remains to be seen if he will be indicted eventually. Lastly, Florida Governor Ron DeSantis visited Iowa recently and revealed some of his campaigning strategies. Additionally, the Biden administration&#39;s new policies regarding migrants at the border has reduced crossings but it has also caused headaches with bureaucracy. Finally, Valparaiso University wants to raise money by selling artwork from its museum in order to renovate dormitories due to declining enrollment numbers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Silicon Valley Bank Fails After Run by Venture Capital Customers</h3>
@@ -69,34 +69,40 @@ There is a lot going on in the world right now. In the business arena, Silicon V
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Jobs Report Gives Fed a Mixed Signal Ahead of March Decision</h3>
+<h3>Silicon Valley Bank Collapse: What We Know</h3>
+<sub>By Vivian Giang</sub>
+<p>Regulators shut down Silicon Valley Bank on Friday, in the largest U.S. bank failure since the 2008 financial crisis, and appointed the Federal Deposit Insurance Corporation as the receiver.  <a href="https://nyti.ms/3YHVGqq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Employers Keep Hiring, but Signs of Easing Are Seen</h3>
+<sub>By Lydia DePillis</sub>
+<p>The economy added 311,000 jobs in February despite higher interest rates. But hourly earnings rose more slowly as the pool of available workers grew.  <a href="https://nyti.ms/3LcMKWU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Jobs Report Gives Fed a Mixed Signal Ahead of Its March Decision</h3>
 <sub>By Jeanna Smialek</sub>
 <p>The Federal Reserve is anxiously parsing incoming data as it decides between a small or a large rate move this month.  <a href="https://nyti.ms/3ywpqvX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Bank Run Jolts Markets as Investors Weigh the Jobs Report</h3>
+<h3>A Bank Failure Jolts Markets, Leaving Stocks Down Sharply</h3>
 <sub>By Joe Rennison</sub>
-<p>The failure of Silicon Valley Bank comes as investors have been flipping between worrying about the economy and seeing an end to the recent market turmoil.  <a href="https://nyti.ms/3ZXMcbC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The collapse of Silicon Valley Bank added to worries about the economy. The S&amp;P 500 suffered its sharpest weekly decline of the year.  <a href="https://nyti.ms/3ZXMcbC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Saudi Arabia and Iran Agree to Re-establish Ties in Talks Hosted by China</h3>
+<h3>Saudi Arabia and Iran Agree to Restore Ties, in Talks Hosted by China</h3>
 <sub>By Vivian Nereim</sub>
-<p>The agreement between the regional rivals was facilitated by China, underlining the country’s growing economic and political importance in the Middle East.  <a href="https://nyti.ms/41ZsgXN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The deal between regional rivals underlines China’s growing economic and political importance in the Middle East, and what some analysts say is waning American influence.  <a href="https://nyti.ms/41ZsgXN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What to Know About the Iranian-Saudi Deal</h3>
+<h3>Answers to 7 Key Questions on the Saudi-Iran Deal</h3>
 <sub>By Ben Hubbard and Shashank Bengali</sub>
 <p>The regional rivals have agreed to re-establish diplomatic ties in an agreement brokered by China that could reverberate across the Middle East and beyond.  <a href="https://nyti.ms/3yufZgE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Xi Seals His Political Supremacy, Focusing on Economy and U.S. Rivalry</h3>
-<sub>By Chris Buckley and Keith Bradsher</sub>
-<p>The Communist Party-controlled legislature endorsed Xi Jinping for an unprecedented third term as China’s president in a ritual ballot, cementing his dominance.  <a href="https://nyti.ms/3mzR3RT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>What We Know About the Potential Indictment of Donald Trump</h3>
@@ -110,28 +116,22 @@ There is a lot going on in the world right now. In the business arena, Silicon V
 <p>The Manhattan district attorney’s office appears to be nearing a potential indictment of the former president, as federal and state prosecutors bear down on Mr. Trump in a number of inquiries.  <a href="https://nyti.ms/3JVNBHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, February 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Social Rifts That Led to Israel’s Judicial Crisis</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Israeli society is locked in a deep dispute over the future of its judiciary and democracy. The conflict is rooted in shifts of the last three decades.  <a href="https://nyti.ms/3LcmrQE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Glimpse of DeSantis in Iowa: Awkward, but Still Winning the Crowd</h3>
+<sub>By Michael C. Bender</sub>
+<p>Gov. Ron DeSantis of Florida visited Iowa on Friday, providing a window into his still-untested skills as a retail politician.  <a href="https://nyti.ms/4248Gtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At the End of a Hard Journey, Migrants Face Another: Navigating Bureaucracy</h3>
+<sub>By Eileen Sullivan and Steve Fisher</sub>
+<p>The Biden administration’s new rules have brought down a record number of border crossings, but critics say they expose the pitfalls of policies intended to manage an immediate problem.  <a href="https://nyti.ms/3Fej8F5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Its Georgia O’Keeffe Is Worth Millions. And Its Dorms Need Updating.</h3>
 <sub>By Kalia Richardson</sub>
 <p>In the face of declining enrollment, Valparaiso University in Indiana wants to raise money to renovate two dormitories by selling treasures from its art museum. Not everyone is on board.  <a href="https://nyti.ms/3ZVpyR9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Huge City Polluter? Buildings. Here’s a Surprising Fix.</h3>
-<sub>By Brad Plumer</sub>
-<p>Carbon capture might not work for all buildings. But some are giving it a try.  <a href="https://nyti.ms/3yoExHP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Malachy McCourt Wants One Last St. Patrick’s Day</h3>
-<sub>By Laurie Gwen Shapiro</sub>
-<p>The actor, writer, radio host, bartender and man about town is 91 years old and got himself kicked out of hospice care. But he still has a few stories left.  <a href="https://nyti.ms/3l3ASMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
