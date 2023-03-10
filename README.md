@@ -60,48 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 10, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the business sector, investors are worried about the financial stability of California&#39;s Silicon Valley Bank and other similarly sized lenders. On the global stage, Saudi Arabia and Iran recently agreed to re-establish diplomatic ties after talks hosted by China. Meanwhile, Chinese President Xi Jinping is cementing his dominance and elevating allies in his new government. Closer to home, prosecutors in Manhattan are signaling that criminal charges may be coming for former President Donald Trump. And when it comes to tackling climate change, some cities, like New York, are relying on surprising solutions like carbon capture for their buildings to reduce air pollution.</p>
+There is a lot going on in the world right now. In the business arena, Silicon Valley Bank recently failed and the Federal Reserve is deciding between a small or large rate move this month. Over in the Middle East, Saudi Arabia and Iran have agreed to re-establish ties after talks hosted by China and Chinese President Xi Jinping has cemented his dominance in politics. Closer to home, Donald Trump is facing several investigations related to potential indictments and former president Malachy McCourt is pushing for one final St. Patrick&#39;s Day. Finally, there are a few movement happening with regards to addressing climate change: carbon capture is being used as a potential solution for reducing emissions from buildings.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Bank Run Jolts Markets as Investors Weigh the Jobs Report</h3>
-<sub>By Joe Rennison</sub>
-<p>Concerns about a California bank come at a time when investors have been flipping between worrying about the economy and seeing an end to the recent market turmoil.  <a href="https://nyti.ms/3ZXMcbC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Silicon Valley Bank Fails After Run by Venture Capital Customers</h3>
+<sub>By Rob Copeland, Emily Flitter and Maureen Farrell</sub>
+<p>The Federal Deposit Insurance Corporation took control of the bank’s assets on Friday. The failure raised concerns that other banks could face problems, too.  <a href="https://nyti.ms/3T5K9jw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Troubles at Silicon Valley Bank Rock the Global Market</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Shares in the bank, a go-to funder of tech start-ups, have fallen more than 60 percent in the past day as investors fear for its finances, and those of similarly sized lenders.  <a href="https://nyti.ms/3yrbu6f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Jobs Report Gives Fed a Mixed Signal Ahead of March Decision</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Federal Reserve is anxiously parsing incoming data as it decides between a small or a large rate move this month.  <a href="https://nyti.ms/3ywpqvX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Bank Run Jolts Markets as Investors Weigh the Jobs Report</h3>
+<sub>By Joe Rennison</sub>
+<p>The failure of Silicon Valley Bank comes as investors have been flipping between worrying about the economy and seeing an end to the recent market turmoil.  <a href="https://nyti.ms/3ZXMcbC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Saudi Arabia and Iran Agree to Re-establish Ties in Talks Hosted by China</h3>
 <sub>By Vivian Nereim</sub>
-<p>The two regional rivals agreed to reactivate a lapsed security cooperation agreement and reopen embassies within two months.  <a href="https://nyti.ms/41ZsgXN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The agreement between the regional rivals was facilitated by China, underlining the country’s growing economic and political importance in the Middle East.  <a href="https://nyti.ms/41ZsgXN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Social Rifts That Led to Israel’s Judicial Crisis</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Israeli society is locked in a deep dispute over the future of its judiciary and democracy. The conflict is rooted in shifts of the last three decades.  <a href="https://nyti.ms/3LcmrQE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What to Know About the Iranian-Saudi Deal</h3>
+<sub>By Ben Hubbard and Shashank Bengali</sub>
+<p>The regional rivals have agreed to re-establish diplomatic ties in an agreement brokered by China that could reverberate across the Middle East and beyond.  <a href="https://nyti.ms/3yufZgE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Xi Seals His Political Supremacy, Focusing on Economy and U.S. Rivalry</h3>
 <sub>By Chris Buckley and Keith Bradsher</sub>
 <p>The Communist Party-controlled legislature endorsed Xi Jinping for an unprecedented third term as China’s president in a ritual ballot, cementing his dominance.  <a href="https://nyti.ms/3mzR3RT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here Are the Men Leading China for the Next Five Years</h3>
-<sub>By Vivian Wang</sub>
-<p>As Xi Jinping starts his third term as president, he is pushing sweeping changes to the rest of the country’s leadership to elevate his allies.  <a href="https://nyti.ms/3T5NqPN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why China Is Tightening Its Oversight of Banking and Tech</h3>
-<sub>By Keith Bradsher and Chang Che</sub>
-<p>A series of regulatory changes approved this week reflect the increasingly centralized control of Xi Jinping, newly confirmed for a third term as China’s president.  <a href="https://nyti.ms/3T5CpxV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -111,10 +105,22 @@ There&#39;s a lot going on in the world right now. In the business sector, inves
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Prosecutors Signal Criminal Charges for Trump Are Likely</h3>
-<sub>By William K. Rashbaum, Ben Protess and Jonah E. Bromwich</sub>
-<p>The former president was told that he could appear before a Manhattan grand jury next week if he wishes to testify, a strong indication that an indictment could soon follow.  <a href="https://nyti.ms/3YCVhWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<h3>Donald Trump Faces Several Investigations. Here’s Where They Stand.</h3>
+<sub>By Ben Protess, Alan Feuer and Danny Hakim</sub>
+<p>The Manhattan district attorney’s office appears to be nearing a potential indictment of the former president, as federal and state prosecutors bear down on Mr. Trump in a number of inquiries.  <a href="https://nyti.ms/3JVNBHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Social Rifts That Led to Israel’s Judicial Crisis</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Israeli society is locked in a deep dispute over the future of its judiciary and democracy. The conflict is rooted in shifts of the last three decades.  <a href="https://nyti.ms/3LcmrQE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Its Georgia O’Keeffe Is Worth Millions. And Its Dorms Need Updating.</h3>
+<sub>By Kalia Richardson</sub>
+<p>In the face of declining enrollment, Valparaiso University in Indiana wants to raise money to renovate two dormitories by selling treasures from its art museum. Not everyone is on board.  <a href="https://nyti.ms/3ZVpyR9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>A Huge City Polluter? Buildings. Here’s a Surprising Fix.</h3>
@@ -123,15 +129,9 @@ There&#39;s a lot going on in the world right now. In the business sector, inves
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What’s Holding Up New York’s Climate Progress? Apartment Buildings.</h3>
-<sub>By Stefanos Chen and Winston Choi-Schagrin</sub>
-<p>Many New York apartment buildings have less than a year to get in line with an ambitious climate mandate, or risk facing millions of dollars in penalties.  <a href="https://nyti.ms/3LuGryr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>How 31 Presidential Budgets Compared With Reality</h3>
-<sub>By Josh Katz, Alicia Parlapiano and Margot Sanger-Katz</sub>
-<p>For all the toil that goes into them, the budgets very rarely correlate with the trajectory of federal spending, revenue or the deficit.  <a href="https://nyti.ms/3ZUfGXR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Malachy McCourt Wants One Last St. Patrick’s Day</h3>
+<sub>By Laurie Gwen Shapiro</sub>
+<p>The actor, writer, radio host, bartender and man about town is 91 years old and got himself kicked out of hospice care. But he still has a few stories left.  <a href="https://nyti.ms/3l3ASMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
