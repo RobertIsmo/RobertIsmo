@@ -60,30 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 9, Central Standard Time</p>
 <p>
-There are a few big stories happening in the US right now. President Biden has unveiled his budget which Republicans have already rejected, and there is an upcoming clash between the two parties on the horizon. In New York, $1.2 billion is being allocated to big transit projects like the Second Avenue Subway extension and new Hudson River train tunnels. The Kremlin is seeking to reset Russia&#39;s institutions with militaristic policies and a singer is growing rich as he chooses which side of this argument to support. Senate Minority Leader Mitch McConnell has been hospitalized after tripping at a Washington hotel. Senator Fetterman from Pennsylvania is undergoing treatment whilst managing his senate operations from Walter Reed hospital for severe clinical depression. Sociologist research suggests poverty in America persists due to issues with employment and wages, whilst records show that Fox News amplified former President Trump’s election fraud claims despite privately mocking them internally. Jenna Ellis has also recently admitted to falsely representing Trump’s fraud claims in an attempt to appeal to viewers, but Fox News CEO Suzanne Scott&#39;s work has been defended by Lachlan Murdoch. Finally, rare book librarians insist that bare hands are best when handling ancient books; however, few people will take their advice seriously.</p>
+There is a lot going on in the world right now. US President Biden is pushing for a $6.8 trillion budget proposal with new social programs and higher taxes. He is also trying to recapture his centrist identity in preparation for a campaign for his second term. Ex-President Trump&#39;s lawyer has admitted to making false claims about election fraud, which could mean criminal charges for him soon. Meanwhile, Saudi Arabia has laid out its terms for normalizing relations with Israel, and Russia recently attacked Ukrainian cities using advanced missiles, raising questions about its capability. Here in the US, there have been reports of abusive policing in Louisville and Mitch McConnell was hospitalized after slipping at a Washington hotel. Health concerns are also growing after a train derailment in Ohio, and book librarians are urging people to handle rare books without gloves.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Takeaways from Biden’s budget: The president embraces his priorities.</h3>
-<sub>By Alan Rappeport</sub>
-<p>President Biden said his budget was designed to “lift the burden on hard working Americans” and drew sharp contrasts with the proposals that Republicans have offered.  <a href="https://nyti.ms/3YBvDB6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The G.O.P. quickly rejected Biden’s budget, foreshadowing a coming clash.</h3>
-<sub>By Carl Hulse</sub>
-<p>House and Senate Republicans call the White House plan an “unserious” proposal that will be ignored by Congress.  <a href="https://nyti.ms/3ZVzoTi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Biden Budget Routes $1.2 Billion to Big Transit Projects in New York</h3>
-<sub>By Patrick McGeehan</sub>
-<p>The money, which was previously allocated in the infrastructure bill, will go to the Second Avenue Subway extension and new Hudson River train tunnels, two of the most long-awaited transit projects in the region.  <a href="https://nyti.ms/3l9dXiF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Prosecutors Signal Criminal Charges for Trump Are Likely</h3>
+<sub>By William K. Rashbaum, Ben Protess and Jonah E. Bromwich</sub>
+<p>The former president was told that he could appear before a Manhattan grand jury next week if he wishes to testify, a strong indication that an indictment could soon follow.  <a href="https://nyti.ms/3YCVhWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Lawyer Admits to Falsehoods in 2020 Fraud Claims</h3>
+<sub>By Alan Feuer</sub>
+<p>Jenna Ellis acknowledged that she knowingly misrepresented the facts about election fraud in a disciplinary procedure by Colorado state bar officials.  <a href="https://nyti.ms/3ZyKmOR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s $6.8 Trillion Budget Proposes New Social Programs and Higher Taxes</h3>
+<sub>By Jim Tankersley</sub>
+<p>The president requested trillions in new spending that has no chance of passing a Republican House, even as he sought to reduce deficits by raising taxes on businesses and the rich.  <a href="https://nyti.ms/3T1mgJY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Moves to Recapture the Centrist Identity That Has Long Defined Him</h3>
+<sub>By Peter Baker</sub>
+<p>After two years championing progressive priorities, the president is speaking more to the concerns of the political middle as he prepares to announce a campaign for a second term.  <a href="https://nyti.ms/3ZAgKk9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Takeaways From Biden’s Budget: The President Embraces His Priorities</h3>
+<sub>By Alan Rappeport</sub>
+<p>President Biden said his budget was designed to “lift the burden on hard working Americans” and drew sharp contrasts with the proposals that Republicans have offered.  <a href="https://nyti.ms/3mEISE5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Saudi Arabia Offers Its Price to Normalize Relations With Israel</h3>
+<sub>By Michael Crowley, Vivian Nereim and Patrick Kingsley</sub>
+<p>The Saudi crown prince is seeking a civilian nuclear program and security assurances from President Biden, a steep price for an agreement long sought by Israel.  <a href="https://nyti.ms/3T29zyG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Changing His Tune for Mother Russia</h3>
-<sub>By Valerie Hopkins and Georgy Birger</sub>
-<p>As the Kremlin seeks to remake Russia’s institutions to comport with its militaristic worldview, cultural figures are picking a side. One singer made his choice — and is growing rich.  <a href="https://nyti.ms/3L9LV11"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia Blasts Ukrainian Cities, Including Biggest Use of Advanced Missiles</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Of 81 missiles fired, six were hypersonic weapons, among Russia’s newest and most advanced, which are all but impossible to shoot down. The attacks killed at least nine people.  <a href="https://nyti.ms/3l7APPx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Questions surround Russia’s use of hypersonic missiles in its latest attack.</h3>
+<sub>By John Ismay, Matthew Mpoke Bigg and Andrew E. Kramer</sub>
+<p>Moscow on Thursday fired the largest number of the air-launched weapons used in a single wave since the war began a year ago.  <a href="https://nyti.ms/41TTmzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,34 +116,10 @@ There are a few big stories happening in the US right now. President Biden has u
 <p>The 81-year-old Senate minority leader fell during a private dinner and was being treated for a concussion, his spokesman said.  <a href="https://nyti.ms/3T17d2U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Cloistered at Walter Reed, Fetterman Runs His Senate Operation From Afar</h3>
-<sub>By Annie Karni</sub>
-<p>A dozen miles from the Capitol, the first-term Democrat from Pennsylvania is keeping up with his work while being treated for severe clinical depression.  <a href="https://nyti.ms/3YED22B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Why Poverty Persists in America</h3>
-<sub>By Matthew Desmond</sub>
-<p>A Pulitzer Prize-winning sociologist offers a new explanation for an intractable problem.  <a href="https://nyti.ms/3l0mUuO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Records Show Fox and G.O.P.’s Shared Quandary: Trump</h3>
-<sub>By Nicholas Confessore and Jim Rutenberg</sub>
-<p>Fox hosts and executives privately mocked the former president’s election fraud claims, even as the network amplified them in a frantic effort to appease viewers.  <a href="https://nyti.ms/3Lew7uh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Lawyer Admits to Falsehoods in 2020 Fraud Claims</h3>
-<sub>By Alan Feuer</sub>
-<p>Jenna Ellis acknowledged that she knowingly misrepresented the facts about election fraud in a disciplinary procedure by Colorado state bar officials.  <a href="https://nyti.ms/3ZyKmOR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Lachlan Murdoch Defends Fox News’s Chief Executive Amid Defamation Suit</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>“Suzanne Scott has done a tremendous job,” Mr. Murdoch said in his first public remarks since damaging revelations about the inner workings of the news network.  <a href="https://nyti.ms/3ZTnw43"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Weeks After Ohio Train Derailment, Health Concerns Mount</h3>
+<sub>By Emily Baumgaertner</sub>
+<p>In a tight-knit town already skeptical of the government, the lack of concrete information, and the open-ended nature of the crisis, undergird anxiety.  <a href="https://nyti.ms/3ZWBnGM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -129,9 +129,9 @@ There are a few big stories happening in the US right now. President Biden has u
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Norfolk Southern C.E.O. Says He Is ‘Deeply Sorry’ for Ohio Train Derailment</h3>
-<sub>By Stephanie Lai, Mark Walker and Peter Eavis</sub>
-<p>The railroad chief executive testified that he was “determined to make this right” but did not endorse bipartisan legislation proposed by senators or commit to paying for long-term damage.  <a href="https://nyti.ms/3ZAt8R6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Louisville, Federal Report on Abusive Policing Comes as No Surprise</h3>
+<sub>By Kevin Williams, Michael Wines and Rick Rojas</sub>
+<p>Many Black residents were skeptical that policing would improve because of the report, which found many instances of discriminatory behavior and civil rights violations.  <a href="https://nyti.ms/3FzrU0D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
