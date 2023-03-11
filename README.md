@@ -60,22 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 11, Central Standard Time</p>
 <p>
-It looks like global diplomacy is changing – a Chinese-brokered deal between Saudi Arabia and Iran upended Mideast diplomacy and pushed Washington to the sidelines. The Chinese leader, Xi Jinping, wants to offer an alternative to the US-led world order. In Florida, Governor Ron DeSantis has been accused of politicizing the removal of if elected prosecutor in order to serve his own political interests, which has caused some controversy. 
-
-In terms of environmental issues, the Biden Administration is expected to move ahead with an $8 billion drilling project in a large part of pristine wilderness in the US. Meanwhile in Ukraine there&#39;s both a literal and figurative battle taking place. Farmers who till the land are exposed to risk from landmines and cluster bombs – making it hard for them to reap a normal harvest – and there&#39;s also a fight for control over Bakhmut with Russian forces seeking advances in the east. </p>
+There&#39;s a lot going on in the world right now! In the US, Florida&#39;s governor Ron DeSantis is facing scrutiny for a politicized removal of an elected prosecutor. He&#39;s also been attempting to test his retail political skills in Iowa. Meanwhile, China&#39;s diplomatic efforts have led to major changes in the Middle East, setting off a new order in terms of alliances and rivalries. China&#39;s ambitions for global control are being highlighted by its role in mediating between Saudi Arabia and Iran. On the tech side, we&#39;re seeing a collapse of Silicon Valley Bank leading to plenty of finger-pointing. And while people are coming together to try to make hydrogen clean and affordable, New England residents are reeling from their highest heating costs in years. In Ukraine, farmers are facing deadly harvests due to the presence of mines and cluster bombs, while Russia and Ukraine battle for Bakhmut. To top it off, BBC viewers are video boycotting after their sports show host was taken off air for criticizing a government policy. It&#39;s definitely an eventful time around the world!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chinese-Brokered Deal Upends Mideast Diplomacy and Challenges U.S.</h3>
-<sub>By Peter Baker</sub>
-<p>The agreement negotiated in Beijing to restore relations between Saudi Arabia and Iran signaled at least a temporary reordering of the usual alliances and rivalries, with Washington left on the sidelines.  <a href="https://nyti.ms/3ZYttwJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Role in Iran-Saudi Arabia Deal Shows Xi’s Global Goals</h3>
-<sub>By David Pierson</sub>
-<p>Brokering a rapprochement between the Middle Eastern rivals underscores the Chinese leader’s ambition of offering an alternative to a U.S.-led world order.  <a href="https://nyti.ms/3yw2jkZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside Ron DeSantis’s Politicized Removal of an Elected Prosecutor</h3>
 <sub>By Alexandra Berzon and Ken Bensinger</sub>
@@ -88,11 +74,23 @@ In terms of environmental issues, the Biden Administration is expected to move a
 <p>Gov. Ron DeSantis of Florida visited Iowa on Friday, providing a window into his still-untested skills as a retail politician.  <a href="https://nyti.ms/4248Gtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chinese-Brokered Deal Upends Mideast Diplomacy and Challenges U.S.</h3>
+<sub>By Peter Baker</sub>
+<p>The agreement negotiated in Beijing to restore relations between Saudi Arabia and Iran signaled at least a temporary reordering of the usual alliances and rivalries, with Washington left on the sidelines.  <a href="https://nyti.ms/3ZYttwJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Role in Iran-Saudi Arabia Deal Shows Xi’s Global Goals</h3>
+<sub>By David Pierson</sub>
+<p>Brokering a rapprochement between the Middle Eastern rivals underscores the Chinese leader’s ambition of offering an alternative to a U.S.-led world order.  <a href="https://nyti.ms/3yw2jkZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Administration Expected to Move Ahead on a Major Oil Project in Alaska</h3>
-<sub>By Lisa Friedman</sub>
-<p>The decision would allow an enormous $8 billion drilling project in the largest expanse of pristine wilderness in the United States.  <a href="https://nyti.ms/3J5afyJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<h3>Inside the Global Race to Turn Water Into Fuel</h3>
+<sub>By Max Bearak and Giacomo d’Orlando</sub>
+<p>Hundreds of billions of dollars are being invested in a high-tech gamble to make hydrogen clean, cheap and widely available. In Australia’s Outback, that starts with 10 million new solar panels.  <a href="https://nyti.ms/3FhkZsG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Silicon Valley Bank Collapse Sets Off Blame Game in Tech Industry</h3>
@@ -112,16 +110,10 @@ In terms of environmental issues, the Biden Administration is expected to move a
 <p>What could be more optimistic than dining with eight people you’ve never met in hopes of making a new friend?  <a href="https://nyti.ms/3ZWRjJh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>BBC in Turmoil as Revolt Over Gary Lineker’s ‘Match of the Day’ Suspension Spreads</h3>
-<sub>By Andrew Das, Michael Levenson and Tariq Panja</sub>
-<p>Mr. Lineker, one of England’s best-known sports personalities, was taken off the air after criticizing a British government immigration proposal on social media. His ouster set off a staff boycott.  <a href="https://nyti.ms/3mLANgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Inside the Global Race to Turn Water Into Fuel</h3>
-<sub>By Max Bearak and Giacomo d’Orlando</sub>
-<p>Hundreds of billions of dollars are being invested in a high-tech gamble to make hydrogen clean, cheap and widely available. In Australia’s Outback, that starts with 10 million new solar panels.  <a href="https://nyti.ms/3FhkZsG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Highest Heating Costs in Years Strain Many in New England</h3>
+<sub>By Jenna Russell</sub>
+<p>In a region where most homes rely on oil heat and cold weather can last through April, the burden of high heating bills has been especially heavy this winter.  <a href="https://nyti.ms/400GoOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -131,10 +123,16 @@ In terms of environmental issues, the Biden Administration is expected to move a
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Front Line Shifts in Russia and Ukraine’s Battle for Bakhmut, Analysts Say</h3>
+<h3>Front Line Shifts in Russia’s and Ukraine’s Battle for Bakhmut, Analysts Say</h3>
 <sub>By Cassandra Vinograd</sub>
 <p>Britain’s defense intelligence agency said that Russian forces had taken control of most of Bakhmut’s east, but advances farther west might be challenging.  <a href="https://nyti.ms/3mAP282"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>BBC in Turmoil as Revolt Over Gary Lineker’s ‘Match of the Day’ Suspension Spreads</h3>
+<sub>By Andrew Das, Michael Levenson and Tariq Panja</sub>
+<p>Mr. Lineker, one of England’s best-known sports personalities, was taken off the air after criticizing a British government immigration proposal on social media. His ouster set off a staff boycott.  <a href="https://nyti.ms/3mLANgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
