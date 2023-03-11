@@ -60,13 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 11, Central Standard Time</p>
 <p>
-Things in the world are shifting and changing rapidly. Recently, China brokered a deal between Saudi Arabia and Iran, which upended traditional alliances and rivalries within the Middle East. China is continuing to expand its global ambitions, becoming a serious challenger to the US-led world order. 
+It looks like global diplomacy is changing – a Chinese-brokered deal between Saudi Arabia and Iran upended Mideast diplomacy and pushed Washington to the sidelines. The Chinese leader, Xi Jinping, wants to offer an alternative to the US-led world order. In Florida, Governor Ron DeSantis has been accused of politicizing the removal of if elected prosecutor in order to serve his own political interests, which has caused some controversy. 
 
-In the US, Florida governor Ron DeSantis has been politicizing his decision-making, most recently with his controversial removal of an elected prosecutor. Over in Alaska, President Biden is expected to allow an enormous $8 billion drilling project to go ahead in a large section of pristine wilderness there.
-
-In the tech sector, Silicon Valley Bank suddenly collapsed, causing chaos for many start-ups and leaving many other companies unable to make payroll. Meanwhile there are attempts around the globe to turn water into fuel using high-tech methods. 
-
-Outside of the US, turmoil has been growing in Ukraine where farmers have been risking their lives to harvest in fields sown with bombs. There&#39;s also a shifting battle line in the city of Bakhmut as Russia takes control of most of its east. Finally, at BBC there&#39;s been rebellion due to their decision to suspend Gary Lineker over his immigration policy criticism on social media.</p>
+In terms of environmental issues, the Biden Administration is expected to move ahead with an $8 billion drilling project in a large part of pristine wilderness in the US. Meanwhile in Ukraine there&#39;s both a literal and figurative battle taking place. Farmers who till the land are exposed to risk from landmines and cluster bombs – making it hard for them to reap a normal harvest – and there&#39;s also a fight for control over Bakhmut with Russian forces seeking advances in the east. </p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chinese-Brokered Deal Upends Mideast Diplomacy and Challenges U.S.</h3>
@@ -93,16 +89,16 @@ Outside of the US, turmoil has been growing in Ukraine where farmers have been r
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Expected to Move Ahead on a Major Oil Project in Alaska</h3>
+<h3>Biden Administration Expected to Move Ahead on a Major Oil Project in Alaska</h3>
 <sub>By Lisa Friedman</sub>
 <p>The decision would allow an enormous $8 billion drilling project in the largest expanse of pristine wilderness in the United States.  <a href="https://nyti.ms/3J5afyJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Silicon Valley Bank’s Collapse Causes Start-Up Chaos</h3>
-<sub>By Erin Griffith</sub>
-<p>Young companies raced to get their money out of the bank, which was central to the start-up industry. Some said they could not make payroll.  <a href="https://nyti.ms/3mJw3Za"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<h3>Silicon Valley Bank Collapse Sets Off Blame Game in Tech Industry</h3>
+<sub>By David Yaffe-Bellany, Erin Griffith and Mike Isaac</sub>
+<p>The implosion of the Silicon Valley bank led to finger-pointing, as executives and investors jumped on the crisis for their own messaging.  <a href="https://nyti.ms/3l82Y9k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why Did Silicon Valley Bank Collapse?</h3>
@@ -113,13 +109,13 @@ Outside of the US, turmoil has been growing in Ukraine where farmers have been r
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>The Radical Act of Eating With Strangers</h3>
 <sub>By Setareh Baig</sub>
-<p>What could be more optimistic than dining with eight people you’ve never met in hopes of make a new friend?  <a href="https://nyti.ms/3ZWRjJh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>What could be more optimistic than dining with eight people you’ve never met in hopes of making a new friend?  <a href="https://nyti.ms/3ZWRjJh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>BBC in Turmoil as Revolt Over Gary Lineker’s ‘Match of the Day’ Suspension Spreads</h3>
 <sub>By Andrew Das, Michael Levenson and Tariq Panja</sub>
-<p>Mr. Lineker, one of England’s best-known sports personalities, was taken off the air after criticizing the British government’s immigration policy on social media. His ouster set off a staff boycott.  <a href="https://nyti.ms/3mLANgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mr. Lineker, one of England’s best-known sports personalities, was taken off the air after criticizing a British government immigration proposal on social media. His ouster set off a staff boycott.  <a href="https://nyti.ms/3mLANgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
