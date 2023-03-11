@@ -60,12 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 11, Central Standard Time</p>
 <p>
-Business and politics have been at the forefront of world news lately. Silicon Valley Bank, a prominent bank of the tech industry, recently collapsed, leaving businesses and start-ups facing chaos as they scrambled to withdraw their money. This failure is considered the second largest in US history, and raised questions about other potential risks for other banks. Meanwhile, in the US, the Biden Administration looks set to approve an $8 billion oil-drilling project in Alaska into the largest remaining pristine wilderness area. On the international front, Saudi Arabia and Iran recently made headlines by agreeing to restore diplomatic ties after talks in China - a move that surprised Israel’s leadership given their previous insistence on isolating Iran from the region. In Mexico, criminal gangs broke their unspoken rule of leaving Americans alone when they targeted a group of them this month. Qatar has also been in the news due to accusations of attempting to stop investigations into labor abuses before the start of the World Cup qualifiers. Last but not least, Florida Governor Ron DeSantis recently made an appearance in Iowa that showed off his yet untested skills as a retail politician.</p>
+There&#39;s a lot going on all over the world right now. In Asia, China has facilitated a diplomatic agreement between Saudi Arabia and Iran that has shifted US alliances in the Middle East. In Europe, Ukraine is battling with Russia for control of a city called Bakhmut. On the energy front, countries around the world are investing big bucks in high tech projects to turn water into fuel. And closer to home, in the US, there is political tension as the Florida governor has removed an elected prosecutor amid questions of public safety and the Silicon Valley Bank recently collapsed, causing chaos for start-up companies. Finally, advocates of a more optimistic future are trying to build connections by sharing meals with strangers.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Silicon Valley Bank Fails After Run on Deposits</h3>
-<sub>By Emily Flitter and Rob Copeland</sub>
-<p>The Federal Deposit Insurance Corporation took control of the bank’s assets on Friday. The failure raised concerns that other banks could face problems, too.  <a href="https://nyti.ms/3T5K9jw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chinese-Brokered Deal Upends Mideast Diplomacy and Challenges U.S.</h3>
+<sub>By Peter Baker</sub>
+<p>The agreement negotiated in Beijing to restore relations between Saudi Arabia and Iran signaled at least a temporary reordering of the usual alliances and rivalries, with Washington left on the sidelines.  <a href="https://nyti.ms/3ZYttwJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Role in Iran-Saudi Arabia Deal Shows Xi’s Global Goals</h3>
+<sub>By David Pierson</sub>
+<p>Brokering a rapprochement between the Middle Eastern rivals underscores the Chinese leader’s ambition of offering an alternative to a U.S.-led world order.  <a href="https://nyti.ms/3yw2jkZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside Ron DeSantis’s Politicized Removal of an Elected Prosecutor</h3>
+<sub>By Alexandra Berzon and Ken Bensinger</sub>
+<p>The Florida governor accused the Democratic prosecutor of undermining public safety. But a close examination of the episode reveals just how fueled it was by Mr. DeSantis’s political aims.  <a href="https://nyti.ms/3l9B4d1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Glimpse of DeSantis in Iowa: Awkward, but Still Winning the Crowd</h3>
+<sub>By Michael C. Bender</sub>
+<p>Gov. Ron DeSantis of Florida visited Iowa on Friday, providing a window into his still-untested skills as a retail politician.  <a href="https://nyti.ms/4248Gtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Biden Expected to Move Ahead on a Major Oil Project in Alaska</h3>
+<sub>By Lisa Friedman</sub>
+<p>The decision would allow an enormous $8 billion drilling project in the largest expanse of pristine wilderness in the United States.  <a href="https://nyti.ms/3J5afyJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -80,47 +104,11 @@ Business and politics have been at the forefront of world news lately. Silicon V
 <p>The swift collapse of Silicon Valley Bank on Friday was the second-largest bank failure in U.S. history.  <a href="https://nyti.ms/3LnBbfA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Silicon Valley Bank Collapse: What We Know</h3>
-<sub>By Vivian Giang</sub>
-<p>Regulators shut down Silicon Valley Bank on Friday, in the largest U.S. bank failure since the 2008 financial crisis, and appointed the Federal Deposit Insurance Corporation as the receiver.  <a href="https://nyti.ms/3YHVGqq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Expected to Move Ahead on a Major Oil Project in Alaska</h3>
-<sub>By Lisa Friedman</sub>
-<p>The decision would allow an enormous $8 billion drilling project in the largest expanse of pristine wilderness in the United States.  <a href="https://nyti.ms/3J5afyJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Michael Cohen to Testify at Grand Jury as Likely Trump Indictment Looms</h3>
-<sub>By Ben Protess, William K. Rashbaum, Jonah E. Bromwich and Maggie Haberman</sub>
-<p>Mr. Cohen, Donald J. Trump’s former fixer, is the key witness in a case built around a hush money payment to Stormy Daniels.  <a href="https://nyti.ms/3ZJJuH5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Saudi Arabia and Iran Agree to Restore Ties, in Talks Hosted by China</h3>
-<sub>By Vivian Nereim</sub>
-<p>The deal between regional rivals underlines China’s growing economic and political importance in the Middle East, and what some analysts say is waning American influence.  <a href="https://nyti.ms/41ZsgXN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Saudi Deal With Iran Surprises Israel and Jolts Netanyahu</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Israel had long hoped to isolate Iran and seal ties with Saudi Arabia. A thaw between Riyadh and Tehran has complicated that goal — and was perceived as politically damaging to the prime minister.  <a href="https://nyti.ms/3ysCjXZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Its Georgia O’Keeffe Is Worth Millions. And Its Dorms Need Updating.</h3>
-<sub>By Kalia Richardson</sub>
-<p>In the face of declining enrollment, Valparaiso University in Indiana wants to raise money to renovate two dormitories by selling treasures from its art museum. Not everyone is on board.  <a href="https://nyti.ms/3ZVpyR9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Criminals in Mexico Violated Their Unwritten Rule: Leave Americans Alone</h3>
-<sub>By Maria Abi-Habib and Natalie Kitroeff</sub>
-<p>While Mexicans are often caught in cartel violence, and the outside world barely notices, the criminal groups know that targeting Americans is bad for business.  <a href="https://nyti.ms/3T9tb3P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Radical Act of Eating With Strangers</h3>
+<sub>By Setareh Baig</sub>
+<p>What could be more optimistic than dining with eight people you’ve never met in hopes of make a new friend?  <a href="https://nyti.ms/3ZWRjJh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In World Cup Run-Up, Qatar Pressed U.N. Agency Not to Investigate Abuses</h3>
@@ -128,11 +116,23 @@ Business and politics have been at the forefront of world news lately. Silicon V
 <p>Lobbying at the International Labor Organization dovetailed with an influence campaign that sparked a corruption scandal at the European Parliament.  <a href="https://nyti.ms/3FjQu5h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Glimpse of DeSantis in Iowa: Awkward, but Still Winning the Crowd</h3>
-<sub>By Michael C. Bender</sub>
-<p>Gov. Ron DeSantis of Florida visited Iowa on Friday, providing a window into his still-untested skills as a retail politician.  <a href="https://nyti.ms/4248Gtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Inside the Global Race to Turn Water Into Fuel</h3>
+<sub>By Max Bearak and Giacomo d’Orlando</sub>
+<p>Hundreds of billions of dollars are being invested in a high-tech gamble to make hydrogen clean, cheap and widely available. In Australia’s Outback, that starts with 10 million new solar panels.  <a href="https://nyti.ms/3FhkZsG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Fields Sown With Bombs, Ukraine’s Farmers Risk Deadly Harvest</h3>
+<sub>By Michael Schwirtz, Stanislav Kozliuk and Ivor Prickett</sub>
+<p>Some who till the breadbaskets of Ukraine have already lost three seasons of planting to war. With mines and cluster bombs widely scattered, normal harvests seem far in the future.  <a href="https://nyti.ms/4267J3W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Front Line Shifts in Russia and Ukraine’s Battle for Bakhmut, Analysts Say</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>Britain’s defense intelligence agency said that Russian forces had taken control of most of Bakhmut’s east, but advances farther west might be challenging.  <a href="https://nyti.ms/3mAP282"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
