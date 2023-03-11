@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 10, Central Standard Time</p>
 <p>
-There are a few major things happening in the world right now. Firstly, Silicon Valley Bank has failed after coming under pressure from venture capital customers, which has caused concern about other banks as well. The US economy is continuing to add jobs despite rising interest rates and this has given the Federal Reserve mixed signals on what to do this March. The collapse of Silicon Valley Bank has caused the stock markets to drop sharply. Meanwhile, Saudi Arabia and Iran have agreed to restore diplomatic ties, which could have larger implications for the Middle East region. On the domestic front, former President Donald Trump is facing several investigations by federal and state prosecutors, so it remains to be seen if he will be indicted eventually. Lastly, Florida Governor Ron DeSantis visited Iowa recently and revealed some of his campaigning strategies. Additionally, the Biden administration&#39;s new policies regarding migrants at the border has reduced crossings but it has also caused headaches with bureaucracy. Finally, Valparaiso University wants to raise money by selling artwork from its museum in order to renovate dormitories due to declining enrollment numbers.</p>
+It looks like there&#39;s a lot going on in the world right now! The US economy is still doing well, with employers adding 311,000 jobs despite higher interests rates. But people&#39;s wages may be rising more slowly as more workers become available. In Mexico, criminals have started to violate their usual rule of leaving American citizens alone and are instead targeting them. There&#39;s also been a big shakeup in Silicon Valley, where Silicon Valley Bank failed after a run on deposits. This caused chaos for start-up companies who had money at the bank and had to scramble to get it out. Additionally, there&#39;s been news coming out of Saudi Arabia and Iran that they have agreed to resume ties after talks hosted by China, which shows them becoming increasingly powerful geopolitically. Lastly, people are keeping an eye on Donald Trump because it looks like there might be an indictment looming against him soon as his former lawyer, Michael Cohen, is set to testify at a grand jury.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Silicon Valley Bank Fails After Run by Venture Capital Customers</h3>
-<sub>By Rob Copeland, Emily Flitter and Maureen Farrell</sub>
+<h3>Silicon Valley Bank Fails After Run on Deposits</h3>
+<sub>By Emily Flitter and Rob Copeland</sub>
 <p>The Federal Deposit Insurance Corporation took control of the bank’s assets on Friday. The failure raised concerns that other banks could face problems, too.  <a href="https://nyti.ms/3T5K9jw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Silicon Valley Bank’s Collapse Causes Start-Up Chaos</h3>
+<sub>By Erin Griffith</sub>
+<p>Young companies raced to get their money out of the bank, which was central to the start-up industry. Some said they could not make payroll.  <a href="https://nyti.ms/3mJw3Za"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -74,22 +80,16 @@ There are a few major things happening in the world right now. Firstly, Silicon 
 <p>Regulators shut down Silicon Valley Bank on Friday, in the largest U.S. bank failure since the 2008 financial crisis, and appointed the Federal Deposit Insurance Corporation as the receiver.  <a href="https://nyti.ms/3YHVGqq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Employers Keep Hiring, but Signs of Easing Are Seen</h3>
-<sub>By Lydia DePillis</sub>
-<p>The economy added 311,000 jobs in February despite higher interest rates. But hourly earnings rose more slowly as the pool of available workers grew.  <a href="https://nyti.ms/3LcMKWU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Michael Cohen to Testify at Grand Jury as Likely Trump Indictment Looms</h3>
+<sub>By Ben Protess, William K. Rashbaum, Jonah E. Bromwich and Maggie Haberman</sub>
+<p>Mr. Cohen, Donald J. Trump’s former fixer, is the key witness in a case built around a hush money payment to Stormy Daniels.  <a href="https://nyti.ms/3ZJJuH5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Jobs Report Gives Fed a Mixed Signal Ahead of Its March Decision</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve is anxiously parsing incoming data as it decides between a small or a large rate move this month.  <a href="https://nyti.ms/3ywpqvX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Bank Failure Jolts Markets, Leaving Stocks Down Sharply</h3>
-<sub>By Joe Rennison</sub>
-<p>The collapse of Silicon Valley Bank added to worries about the economy. The S&amp;P 500 suffered its sharpest weekly decline of the year.  <a href="https://nyti.ms/3ZXMcbC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What We Know About the Potential Indictment of Donald Trump</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
+<p>A case against the former president — who is also a current presidential candidate — poses challenges for prosecutors. Here’s why.  <a href="https://nyti.ms/3ZX4bz6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,22 +99,10 @@ There are a few major things happening in the world right now. Firstly, Silicon 
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Answers to 7 Key Questions on the Saudi-Iran Deal</h3>
-<sub>By Ben Hubbard and Shashank Bengali</sub>
-<p>The regional rivals have agreed to re-establish diplomatic ties in an agreement brokered by China that could reverberate across the Middle East and beyond.  <a href="https://nyti.ms/3yufZgE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Saudi Deal With Iran Surprises Israel and Jolts Netanyahu</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Israel had long hoped to isolate Iran and seal ties with Saudi Arabia. A thaw between Riyadh and Tehran has complicated that goal — and was perceived as politically damaging to the prime minister.  <a href="https://nyti.ms/3ysCjXZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What We Know About the Potential Indictment of Donald Trump</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
-<p>A case against the former president — who is also a current presidential candidate — poses challenges for prosecutors. Here’s why.  <a href="https://nyti.ms/3ZX4bz6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Donald Trump Faces Several Investigations. Here’s Where They Stand.</h3>
-<sub>By Ben Protess, Alan Feuer and Danny Hakim</sub>
-<p>The Manhattan district attorney’s office appears to be nearing a potential indictment of the former president, as federal and state prosecutors bear down on Mr. Trump in a number of inquiries.  <a href="https://nyti.ms/3JVNBHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Glimpse of DeSantis in Iowa: Awkward, but Still Winning the Crowd</h3>
@@ -122,16 +110,28 @@ There are a few major things happening in the world right now. Firstly, Silicon 
 <p>Gov. Ron DeSantis of Florida visited Iowa on Friday, providing a window into his still-untested skills as a retail politician.  <a href="https://nyti.ms/4248Gtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At the End of a Hard Journey, Migrants Face Another: Navigating Bureaucracy</h3>
-<sub>By Eileen Sullivan and Steve Fisher</sub>
-<p>The Biden administration’s new rules have brought down a record number of border crossings, but critics say they expose the pitfalls of policies intended to manage an immediate problem.  <a href="https://nyti.ms/3Fej8F5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Its Georgia O’Keeffe Is Worth Millions. And Its Dorms Need Updating.</h3>
 <sub>By Kalia Richardson</sub>
 <p>In the face of declining enrollment, Valparaiso University in Indiana wants to raise money to renovate two dormitories by selling treasures from its art museum. Not everyone is on board.  <a href="https://nyti.ms/3ZVpyR9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Kicked Out of Hospice, Malachy McCourt Wants One Last St. Patrick’s Day</h3>
+<sub>By Laurie Gwen Shapiro</sub>
+<p>The actor, writer, radio host, bartender and man about town is 91 years old, and he still has some stories to tell.  <a href="https://nyti.ms/3l3ASMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Criminals in Mexico Violated Their Unwritten Rule: Leave Americans Alone</h3>
+<sub>By Maria Abi-Habib and Natalie Kitroeff</sub>
+<p>While Mexicans are often caught in cartel violence, and the outside world barely notices, the criminal groups know that targeting Americans is bad for business.  <a href="https://nyti.ms/3T9tb3P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Employers Keep Hiring, but Signs of Easing Are Seen</h3>
+<sub>By Lydia DePillis</sub>
+<p>The economy added 311,000 jobs in February despite higher interest rates. But hourly earnings rose more slowly as the pool of available workers grew.  <a href="https://nyti.ms/3LcMKWU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
