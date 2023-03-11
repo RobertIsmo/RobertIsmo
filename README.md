@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 10, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot going on in the world right now! The US economy is still doing well, with employers adding 311,000 jobs despite higher interests rates. But people&#39;s wages may be rising more slowly as more workers become available. In Mexico, criminals have started to violate their usual rule of leaving American citizens alone and are instead targeting them. There&#39;s also been a big shakeup in Silicon Valley, where Silicon Valley Bank failed after a run on deposits. This caused chaos for start-up companies who had money at the bank and had to scramble to get it out. Additionally, there&#39;s been news coming out of Saudi Arabia and Iran that they have agreed to resume ties after talks hosted by China, which shows them becoming increasingly powerful geopolitically. Lastly, people are keeping an eye on Donald Trump because it looks like there might be an indictment looming against him soon as his former lawyer, Michael Cohen, is set to testify at a grand jury.</p>
+There&#39;s a lot going on in the world right now. Silicon Valley Bank collapsed recently, which has caused major chaos for start-up companies and raised concerns that other banks could be put at risk. The collapse was the second-biggest bank failure in US history. Also, President Biden is likely to move ahead with a big oil project in Alaska, despite the environmental concerns. On the diplomatic front, Saudi Arabia and Iran have agreed to restore ties in talks hosted by China, which reflects China&#39;s growing importance in the Middle East despite what some analysts say is waning American influence. In the US, Governor Ron DeSantis of Florida visited Iowa, while Valparaiso University in Indiana plans to renovate two dormitories by selling treasured artwork from its museum. Finally, Californians have been forced to evacuate several times due to winter storms that have caused immense snowfall in the San Bernardino Mountains.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Silicon Valley Bank Fails After Run on Deposits</h3>
@@ -75,21 +75,27 @@ It looks like there&#39;s a lot going on in the world right now! The US economy 
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Second-Biggest Bank Failure</h3>
+<sub>By Karl Russell and Christine Zhang</sub>
+<p>The swift collapse of Silicon Valley Bank on Friday was the second-largest bank failure in U.S. history.  <a href="https://nyti.ms/3LnBbfA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Silicon Valley Bank Collapse: What We Know</h3>
 <sub>By Vivian Giang</sub>
 <p>Regulators shut down Silicon Valley Bank on Friday, in the largest U.S. bank failure since the 2008 financial crisis, and appointed the Federal Deposit Insurance Corporation as the receiver.  <a href="https://nyti.ms/3YHVGqq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Biden Expected to Move Ahead on a Major Oil Project in Alaska</h3>
+<sub>By Lisa Friedman</sub>
+<p>The decision would allow an enormous $8 billion drilling project in the largest expanse of pristine wilderness in the United States.  <a href="https://nyti.ms/3J5afyJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Michael Cohen to Testify at Grand Jury as Likely Trump Indictment Looms</h3>
 <sub>By Ben Protess, William K. Rashbaum, Jonah E. Bromwich and Maggie Haberman</sub>
 <p>Mr. Cohen, Donald J. Trump’s former fixer, is the key witness in a case built around a hush money payment to Stormy Daniels.  <a href="https://nyti.ms/3ZJJuH5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What We Know About the Potential Indictment of Donald Trump</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
-<p>A case against the former president — who is also a current presidential candidate — poses challenges for prosecutors. Here’s why.  <a href="https://nyti.ms/3ZX4bz6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,22 +122,16 @@ It looks like there&#39;s a lot going on in the world right now! The US economy 
 <p>In the face of declining enrollment, Valparaiso University in Indiana wants to raise money to renovate two dormitories by selling treasures from its art museum. Not everyone is on board.  <a href="https://nyti.ms/3ZVpyR9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Kicked Out of Hospice, Malachy McCourt Wants One Last St. Patrick’s Day</h3>
-<sub>By Laurie Gwen Shapiro</sub>
-<p>The actor, writer, radio host, bartender and man about town is 91 years old, and he still has some stories to tell.  <a href="https://nyti.ms/3l3ASMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Californians Grow Weary as Storms Force Another Round of Evacuations</h3>
+<sub>By Eliza Fawcett, Corina Knoll and Viviana Hinojos</sub>
+<p>In some Central California communities, residents have had to pack up and leave several times already this year because of atmospheric rivers.  <a href="https://nyti.ms/42h0bLV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Criminals in Mexico Violated Their Unwritten Rule: Leave Americans Alone</h3>
-<sub>By Maria Abi-Habib and Natalie Kitroeff</sub>
-<p>While Mexicans are often caught in cartel violence, and the outside world barely notices, the criminal groups know that targeting Americans is bad for business.  <a href="https://nyti.ms/3T9tb3P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Employers Keep Hiring, but Signs of Easing Are Seen</h3>
-<sub>By Lydia DePillis</sub>
-<p>The economy added 311,000 jobs in February despite higher interest rates. But hourly earnings rose more slowly as the pool of available workers grew.  <a href="https://nyti.ms/3LcMKWU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In the San Bernardino Mountains, Coping With Mountains of Snow</h3>
+<sub>By Tim Arango</sub>
+<p>A devastating winter storm in Southern California strands families in their homes, collapses roofs, and leaves behind widespread fears of more deaths not yet discovered.  <a href="https://nyti.ms/3mLnU6A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
