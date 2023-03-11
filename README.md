@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 11, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! A Silicon Valley bank failed because of a run on deposits, and this caused chaos for start-up companies who had their money in the bank. This was the second-biggest bank failure in US history. In politics, Joe Biden is expected to move ahead with a major oil project in Alaska, and Michael Cohen is about to testify at Grand Jury as an indictment looms for Donald Trump. On the international front, Saudi Arabia and Iran have made an unexpected agreement to restore ties, which has complicated Israel&#39;s goal to seal ties with Saudi Arabia. Meanwhile, Ron DeSantis of Florida made an appearance in Iowa, and a university in Indiana is planning to raise money by selling treasures from its art museum. On top of all that, Californians were just hit with another round of evacuations due to storms, while in the San Bernardino mountains there are still snow drifts covering many homes.</p>
+Business and politics have been at the forefront of world news lately. Silicon Valley Bank, a prominent bank of the tech industry, recently collapsed, leaving businesses and start-ups facing chaos as they scrambled to withdraw their money. This failure is considered the second largest in US history, and raised questions about other potential risks for other banks. Meanwhile, in the US, the Biden Administration looks set to approve an $8 billion oil-drilling project in Alaska into the largest remaining pristine wilderness area. On the international front, Saudi Arabia and Iran recently made headlines by agreeing to restore diplomatic ties after talks in China - a move that surprised Israel’s leadership given their previous insistence on isolating Iran from the region. In Mexico, criminal gangs broke their unspoken rule of leaving Americans alone when they targeted a group of them this month. Qatar has also been in the news due to accusations of attempting to stop investigations into labor abuses before the start of the World Cup qualifiers. Last but not least, Florida Governor Ron DeSantis recently made an appearance in Iowa that showed off his yet untested skills as a retail politician.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Silicon Valley Bank Fails After Run on Deposits</h3>
@@ -110,28 +110,28 @@ There&#39;s a lot going on in the world right now! A Silicon Valley bank failed 
 <p>Israel had long hoped to isolate Iran and seal ties with Saudi Arabia. A thaw between Riyadh and Tehran has complicated that goal — and was perceived as politically damaging to the prime minister.  <a href="https://nyti.ms/3ysCjXZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Glimpse of DeSantis in Iowa: Awkward, but Still Winning the Crowd</h3>
-<sub>By Michael C. Bender</sub>
-<p>Gov. Ron DeSantis of Florida visited Iowa on Friday, providing a window into his still-untested skills as a retail politician.  <a href="https://nyti.ms/4248Gtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Its Georgia O’Keeffe Is Worth Millions. And Its Dorms Need Updating.</h3>
 <sub>By Kalia Richardson</sub>
 <p>In the face of declining enrollment, Valparaiso University in Indiana wants to raise money to renovate two dormitories by selling treasures from its art museum. Not everyone is on board.  <a href="https://nyti.ms/3ZVpyR9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Californians Grow Weary as Storms Force Another Round of Evacuations</h3>
-<sub>By Eliza Fawcett, Corina Knoll and Viviana Hinojos</sub>
-<p>In some Central California communities, residents have had to pack up and leave several times already this year because of atmospheric rivers.  <a href="https://nyti.ms/42h0bLV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Criminals in Mexico Violated Their Unwritten Rule: Leave Americans Alone</h3>
+<sub>By Maria Abi-Habib and Natalie Kitroeff</sub>
+<p>While Mexicans are often caught in cartel violence, and the outside world barely notices, the criminal groups know that targeting Americans is bad for business.  <a href="https://nyti.ms/3T9tb3P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In World Cup Run-Up, Qatar Pressed U.N. Agency Not to Investigate Abuses</h3>
+<sub>By Rebecca R. Ruiz and Sarah Hurtes</sub>
+<p>Lobbying at the International Labor Organization dovetailed with an influence campaign that sparked a corruption scandal at the European Parliament.  <a href="https://nyti.ms/3FjQu5h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In the San Bernardino Mountains, Coping With Mountains of Snow</h3>
-<sub>By Tim Arango</sub>
-<p>A devastating winter storm in Southern California strands families in their homes, collapses roofs, and leaves behind widespread fears of more deaths not yet discovered.  <a href="https://nyti.ms/3mLnU6A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Glimpse of DeSantis in Iowa: Awkward, but Still Winning the Crowd</h3>
+<sub>By Michael C. Bender</sub>
+<p>Gov. Ron DeSantis of Florida visited Iowa on Friday, providing a window into his still-untested skills as a retail politician.  <a href="https://nyti.ms/4248Gtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
