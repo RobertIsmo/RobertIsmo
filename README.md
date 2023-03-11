@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 11, Central Standard Time</p>
 <p>
-There&#39;s a lot going on all over the world right now. In Asia, China has facilitated a diplomatic agreement between Saudi Arabia and Iran that has shifted US alliances in the Middle East. In Europe, Ukraine is battling with Russia for control of a city called Bakhmut. On the energy front, countries around the world are investing big bucks in high tech projects to turn water into fuel. And closer to home, in the US, there is political tension as the Florida governor has removed an elected prosecutor amid questions of public safety and the Silicon Valley Bank recently collapsed, causing chaos for start-up companies. Finally, advocates of a more optimistic future are trying to build connections by sharing meals with strangers.</p>
+Things in the world are shifting and changing rapidly. Recently, China brokered a deal between Saudi Arabia and Iran, which upended traditional alliances and rivalries within the Middle East. China is continuing to expand its global ambitions, becoming a serious challenger to the US-led world order. 
+
+In the US, Florida governor Ron DeSantis has been politicizing his decision-making, most recently with his controversial removal of an elected prosecutor. Over in Alaska, President Biden is expected to allow an enormous $8 billion drilling project to go ahead in a large section of pristine wilderness there.
+
+In the tech sector, Silicon Valley Bank suddenly collapsed, causing chaos for many start-ups and leaving many other companies unable to make payroll. Meanwhile there are attempts around the globe to turn water into fuel using high-tech methods. 
+
+Outside of the US, turmoil has been growing in Ukraine where farmers have been risking their lives to harvest in fields sown with bombs. There&#39;s also a shifting battle line in the city of Bakhmut as Russia takes control of most of its east. Finally, at BBC there&#39;s been rebellion due to their decision to suspend Gary Lineker over his immigration policy criticism on social media.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chinese-Brokered Deal Upends Mideast Diplomacy and Challenges U.S.</h3>
@@ -99,10 +105,10 @@ There&#39;s a lot going on all over the world right now. In Asia, China has faci
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Second-Biggest Bank Failure</h3>
-<sub>By Karl Russell and Christine Zhang</sub>
-<p>The swift collapse of Silicon Valley Bank on Friday was the second-largest bank failure in U.S. history.  <a href="https://nyti.ms/3LnBbfA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<h3>Why Did Silicon Valley Bank Collapse?</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>DealBook unpacks what caused the biggest U.S. bank failure since the 2008 financial crisis — and what might come next.  <a href="https://nyti.ms/3T9Tln9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>The Radical Act of Eating With Strangers</h3>
@@ -111,10 +117,10 @@ There&#39;s a lot going on all over the world right now. In Asia, China has faci
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In World Cup Run-Up, Qatar Pressed U.N. Agency Not to Investigate Abuses</h3>
-<sub>By Rebecca R. Ruiz and Sarah Hurtes</sub>
-<p>Lobbying at the International Labor Organization dovetailed with an influence campaign that sparked a corruption scandal at the European Parliament.  <a href="https://nyti.ms/3FjQu5h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<h3>BBC in Turmoil as Revolt Over Gary Lineker’s ‘Match of the Day’ Suspension Spreads</h3>
+<sub>By Andrew Das, Michael Levenson and Tariq Panja</sub>
+<p>Mr. Lineker, one of England’s best-known sports personalities, was taken off the air after criticizing the British government’s immigration policy on social media. His ouster set off a staff boycott.  <a href="https://nyti.ms/3mLANgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Inside the Global Race to Turn Water Into Fuel</h3>
