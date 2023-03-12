@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 11, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! In the US, Florida&#39;s governor Ron DeSantis is facing scrutiny for a politicized removal of an elected prosecutor. He&#39;s also been attempting to test his retail political skills in Iowa. Meanwhile, China&#39;s diplomatic efforts have led to major changes in the Middle East, setting off a new order in terms of alliances and rivalries. China&#39;s ambitions for global control are being highlighted by its role in mediating between Saudi Arabia and Iran. On the tech side, we&#39;re seeing a collapse of Silicon Valley Bank leading to plenty of finger-pointing. And while people are coming together to try to make hydrogen clean and affordable, New England residents are reeling from their highest heating costs in years. In Ukraine, farmers are facing deadly harvests due to the presence of mines and cluster bombs, while Russia and Ukraine battle for Bakhmut. To top it off, BBC viewers are video boycotting after their sports show host was taken off air for criticizing a government policy. It&#39;s definitely an eventful time around the world!</p>
+There&#39;s a lot going on in the world right now. In the tech industry, Silicon Valley Bank has recently collapsed, leading to a big blame game. On the business side, this was the second-largest bank failure in U.S. history. In global diplomacy, a Chinese-brokered deal has changed up the usual alliances and rivalries, leaving the U.S. on the sidelines. In Florida, Ron DeSantis recently removed an elected prosecutor for apparently politicized reasons. Also, engineers are trying to figure out how to convert office buildings into housing. Scientists are also looking into turning water into fuel in Australia with 10 million new solar panels. Russia and Ukraine have been battling for Bakhmut in recent weeks and residents in New England are feeling the strain of higher heating bills this winter. Additionally, there&#39;s interesting news concerning Oscar campaigns becoming more cutthroat and efforts to restore Notre Dame&#39;s sound. Lastly, there is discussion on how bystanders can have an effect on police interactions with Black men, plus news about fancy designer ice being trendy right now.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside Ron DeSantis’s Politicized Removal of an Elected Prosecutor</h3>
-<sub>By Alexandra Berzon and Ken Bensinger</sub>
-<p>The Florida governor accused the Democratic prosecutor of undermining public safety. But a close examination of the episode reveals just how fueled it was by Mr. DeSantis’s political aims.  <a href="https://nyti.ms/3l9B4d1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Silicon Valley Bank Collapse Sets Off Blame Game in Tech Industry</h3>
+<sub>By David Yaffe-Bellany, Erin Griffith and Mike Isaac</sub>
+<p>The implosion of the Silicon Valley bank led to finger-pointing, as executives and investors jumped on the crisis for their own messaging.  <a href="https://nyti.ms/3l82Y9k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Glimpse of DeSantis in Iowa: Awkward, but Still Winning the Crowd</h3>
-<sub>By Michael C. Bender</sub>
-<p>Gov. Ron DeSantis of Florida visited Iowa on Friday, providing a window into his still-untested skills as a retail politician.  <a href="https://nyti.ms/4248Gtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>3 Lessons From Silicon Valley Bank’s Failure</h3>
+<sub>By Kevin Roose</sub>
+<p>Here’s one takeaway: The bank’s extremely online clientele may have contributed to its downfall.  <a href="https://nyti.ms/3mAWQqo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Second-Biggest Bank Failure</h3>
+<sub>By Karl Russell and Christine Zhang</sub>
+<p>The swift collapse of Silicon Valley Bank on Friday was the second-largest bank failure in U.S. history.  <a href="https://nyti.ms/3LnBbfA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,10 +86,16 @@ There&#39;s a lot going on in the world right now! In the US, Florida&#39;s gove
 <p>The agreement negotiated in Beijing to restore relations between Saudi Arabia and Iran signaled at least a temporary reordering of the usual alliances and rivalries, with Washington left on the sidelines.  <a href="https://nyti.ms/3ZYttwJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Role in Iran-Saudi Arabia Deal Shows Xi’s Global Goals</h3>
-<sub>By David Pierson</sub>
-<p>Brokering a rapprochement between the Middle Eastern rivals underscores the Chinese leader’s ambition of offering an alternative to a U.S.-led world order.  <a href="https://nyti.ms/3yw2jkZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside Ron DeSantis’s Politicized Removal of an Elected Prosecutor</h3>
+<sub>By Alexandra Berzon and Ken Bensinger</sub>
+<p>The Florida governor accused the Democratic prosecutor of undermining public safety. But a close examination of the episode reveals just how fueled it was by Mr. DeSantis’s political aims.  <a href="https://nyti.ms/3l9B4d1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Here’s How to Solve a 25-Story Rubik’s Cube</h3>
+<sub>By Emily Badger and Larry Buchanan</sub>
+<p>Cities are eager to turn office buildings into housing amid rising remote work. But that&#39;s harder than you might think.  <a href="https://nyti.ms/4236ySC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -92,22 +104,10 @@ There&#39;s a lot going on in the world right now! In the US, Florida&#39;s gove
 <p>Hundreds of billions of dollars are being invested in a high-tech gamble to make hydrogen clean, cheap and widely available. In Australia’s Outback, that starts with 10 million new solar panels.  <a href="https://nyti.ms/3FhkZsG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Silicon Valley Bank Collapse Sets Off Blame Game in Tech Industry</h3>
-<sub>By David Yaffe-Bellany, Erin Griffith and Mike Isaac</sub>
-<p>The implosion of the Silicon Valley bank led to finger-pointing, as executives and investors jumped on the crisis for their own messaging.  <a href="https://nyti.ms/3l82Y9k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Did Silicon Valley Bank Collapse?</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>DealBook unpacks what caused the biggest U.S. bank failure since the 2008 financial crisis — and what might come next.  <a href="https://nyti.ms/3T9Tln9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Radical Act of Eating With Strangers</h3>
-<sub>By Setareh Baig</sub>
-<p>What could be more optimistic than dining with eight people you’ve never met in hopes of making a new friend?  <a href="https://nyti.ms/3ZWRjJh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Front Line Shifts in Russia’s and Ukraine’s Battle for Bakhmut, Analysts Say</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>Britain’s defense intelligence agency said that Russian forces had taken control of most of Bakhmut’s east, but advances farther west might be challenging.  <a href="https://nyti.ms/3mAP282"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +116,22 @@ There&#39;s a lot going on in the world right now! In the US, Florida&#39;s gove
 <p>In a region where most homes rely on oil heat and cold weather can last through April, the burden of high heating bills has been especially heavy this winter.  <a href="https://nyti.ms/400GoOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Fields Sown With Bombs, Ukraine’s Farmers Risk Deadly Harvest</h3>
-<sub>By Michael Schwirtz, Stanislav Kozliuk and Ivor Prickett</sub>
-<p>Some who till the breadbaskets of Ukraine have already lost three seasons of planting to war. With mines and cluster bombs widely scattered, normal harvests seem far in the future.  <a href="https://nyti.ms/4267J3W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>When Bystanders Step Between the Police and Black Men</h3>
+<sub>By Brooke Jarvis</sub>
+<p>You’ve seen the videos of deadly encounters. What effect can a witness have?  <a href="https://nyti.ms/3L5aA6U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Front Line Shifts in Russia’s and Ukraine’s Battle for Bakhmut, Analysts Say</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>Britain’s defense intelligence agency said that Russian forces had taken control of most of Bakhmut’s east, but advances farther west might be challenging.  <a href="https://nyti.ms/3mAP282"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Inside the ‘Blood Sport’ of Oscars Campaigns</h3>
+<sub>By Irina Aleksander</sub>
+<p>War rooms. Oppo dumps. Eight-figure budgets. How the quest for awards-season glory got so cutthroat.  <a href="https://nyti.ms/3mBismJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>BBC in Turmoil as Revolt Over Gary Lineker’s ‘Match of the Day’ Suspension Spreads</h3>
-<sub>By Andrew Das, Michael Levenson and Tariq Panja</sub>
-<p>Mr. Lineker, one of England’s best-known sports personalities, was taken off the air after criticizing a British government immigration proposal on social media. His ouster set off a staff boycott.  <a href="https://nyti.ms/3mLANgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jillian Rayfield</sub>
+<p>The quest to restore Notre Dame’s sound. Also in this edition: how Judy Blume finally got a “yes” from Hollywood, and the rise of designer ice.  <a href="https://nyti.ms/3kXwK0x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
