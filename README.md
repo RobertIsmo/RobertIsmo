@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 11, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the tech industry, Silicon Valley Bank has recently collapsed, leading to a big blame game. On the business side, this was the second-largest bank failure in U.S. history. In global diplomacy, a Chinese-brokered deal has changed up the usual alliances and rivalries, leaving the U.S. on the sidelines. In Florida, Ron DeSantis recently removed an elected prosecutor for apparently politicized reasons. Also, engineers are trying to figure out how to convert office buildings into housing. Scientists are also looking into turning water into fuel in Australia with 10 million new solar panels. Russia and Ukraine have been battling for Bakhmut in recent weeks and residents in New England are feeling the strain of higher heating bills this winter. Additionally, there&#39;s interesting news concerning Oscar campaigns becoming more cutthroat and efforts to restore Notre Dame&#39;s sound. Lastly, there is discussion on how bystanders can have an effect on police interactions with Black men, plus news about fancy designer ice being trendy right now.</p>
+Hey, so a lot has happened this week around the world. There&#39;s been finger-pointing in the tech industry after the collapse of the Silicon Valley Bank. There&#39;s news from the Mideast that China brokered a deal to restore relations between Saudi Arabia and Iran, which challenges US diplomacy. In Florida, there&#39;s an episode unfolding where Governor Ron DeSantis is politicizing the removal of an elected prosecutor. People are looking at a 25-story Rubik&#39;s Cube to solve in order to turn office buildings into housing amid rising remote work. It looks like Russian forces have taken control of most of Bakhmut&#39;s east, with efforts to make more advances challenging. New Englanders are facing some of the highest heating costs they&#39;ve seen this winter. On the positive side, there have been bystanders stepping in between police and Black men and Judy Blume finally got a &quot;yes&quot; from Hollywood. Lastly, climate change seems to be driving people away from other places and into former industrial towns such as Duluth, Minnesota.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Silicon Valley Bank Collapse Sets Off Blame Game in Tech Industry</h3>
@@ -73,12 +73,6 @@ There&#39;s a lot going on in the world right now. In the tech industry, Silicon
 <sub>By Kevin Roose</sub>
 <p>Here’s one takeaway: The bank’s extremely online clientele may have contributed to its downfall.  <a href="https://nyti.ms/3mAWQqo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Second-Biggest Bank Failure</h3>
-<sub>By Karl Russell and Christine Zhang</sub>
-<p>The swift collapse of Silicon Valley Bank on Friday was the second-largest bank failure in U.S. history.  <a href="https://nyti.ms/3LnBbfA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chinese-Brokered Deal Upends Mideast Diplomacy and Challenges U.S.</h3>
@@ -96,12 +90,6 @@ There&#39;s a lot going on in the world right now. In the tech industry, Silicon
 <h3>Here’s How to Solve a 25-Story Rubik’s Cube</h3>
 <sub>By Emily Badger and Larry Buchanan</sub>
 <p>Cities are eager to turn office buildings into housing amid rising remote work. But that&#39;s harder than you might think.  <a href="https://nyti.ms/4236ySC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Inside the Global Race to Turn Water Into Fuel</h3>
-<sub>By Max Bearak and Giacomo d’Orlando</sub>
-<p>Hundreds of billions of dollars are being invested in a high-tech gamble to make hydrogen clean, cheap and widely available. In Australia’s Outback, that starts with 10 million new solar panels.  <a href="https://nyti.ms/3FhkZsG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +120,18 @@ There&#39;s a lot going on in the world right now. In the tech industry, Silicon
 <h3>The Weekender</h3>
 <sub>By Jillian Rayfield</sub>
 <p>The quest to restore Notre Dame’s sound. Also in this edition: how Judy Blume finally got a “yes” from Hollywood, and the rise of designer ice.  <a href="https://nyti.ms/3kXwK0x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, March 10, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3ypI6gT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Out-of-Towners Head to ‘Climate-Proof Duluth’</h3>
+<sub>By Debra Kamin</sub>
+<p>The former industrial town in Minnesota is coming to terms with its status as a refuge for people moving from across the country because of climate change.  <a href="https://nyti.ms/3YDQ5l8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
