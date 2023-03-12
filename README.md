@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 12, Central Standard Time</p>
 <p>
-Right now, there are a lot of geopolitical tensions happening in the world. In Ukraine, war is putting Switzerland&#39;s centuries-old policy of neutrality to the test. Russia is shelling a nearby town, prompting Ukrainian&#39;s to call for evacuation. Meanwhile, in the Middle East, Saudi Arabia and Iran have initiated a reset in relations which has the potential to really transform the region. Closer to home, Janet Yellen is reassuring Americans as regulators rush to contain the fallout from a bank collapse in the US. On top of all of this, there is also a special grand jury in Georgia looking into election meddling by Donald Trump&#39;s allies.</p>
+There is a lot happening in the world right now! First, there is trouble in Ukraine. There are ongoing attacks against a town called Kupiansk and the Swiss government is facing a debate over whether it should change its neutrality concept in order to send arms to Kyiv. Meanwhile, regulators have shut down Silicon Valley Bank, one of the largest U.S. bank failures since the 2008 financial crisis. Fox News also is being sued for defamation by Dominion Voting Systems, and a special grand jury in Georgia is looking into election meddling involving an ally of Donald Trump&#39;s. Finally, Mike Pence has spoken out about the Capitol riots on Jan. 6 and has criticized those minimizing it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen Reassures as Regulators Race to Contain Bank Collapse Fallout</h3>
-<sub>By Alan Rappeport and Jeanna Smialek</sub>
-<p>Treasury Secretary Janet Yellen sought to reassure the public on Sunday as regulators scrambled to ensure that one bank’s failure would not ignite broader problems.  <a href="https://nyti.ms/3LlisBt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Regulators Race to Contain Silicon Valley Bank Fallout</h3>
+<sub>By Jeanna Smialek and Alan Rappeport</sub>
+<p>Treasury Secretary Janet Yellen sought to reassure the public on Sunday as regulators scrambled. An auction for the bank was underway.  <a href="https://nyti.ms/3LlisBt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Silicon Valley Bank Collapse: What We Know and How It Happened</h3>
+<sub>By Vivian Giang and Jessica Silver-Greenberg</sub>
+<p>Regulators shut down Silicon Valley Bank on Friday, in the largest U.S. bank failure since the 2008 financial crisis.  <a href="https://nyti.ms/3YHVGqq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fox’s P.R. Woes May Not Directly Translate to Legal Ones</h3>
@@ -81,9 +87,9 @@ Right now, there are a lot of geopolitical tensions happening in the world. In U
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Steps Up Calls for Evacuation of Northeast Town Under Relentless Russian Shelling</h3>
+<h3>Ukraine Steps Up Calls for Evacuation of Kupiansk Under Relentless Russian Shelling</h3>
 <sub>By Matthew Mpoke Bigg, Carlotta Gall and Oleksandr Chubko</sub>
-<p>Attacks on the town of Kupiansk, in the Kharkiv region of northeast Ukraine, continued on Sunday.  <a href="https://nyti.ms/3mMHYFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Attacks on the northeast town in the Kharkiv region of Ukraine continued on Sunday.  <a href="https://nyti.ms/3mMHYFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -92,12 +98,6 @@ Right now, there are a lot of geopolitical tensions happening in the world. In U
 <p>The Apple TV+ show’s breakout star is preparing to play a Marvel movie god when he’s not working on the hit streaming series “Shrinking.” But what he’s really after is human connection.  <a href="https://nyti.ms/3l94Qi7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>From ‘Hitler’ to ‘Sharing One Fate’: Saudi-Iran Pact Could Transform the Middle East</h3>
-<sub>By Vivian Nereim</sub>
-<p>Both countries as well as the broader region have much to gain from the reset in relations — if the agreement truly holds.  <a href="https://nyti.ms/3ZJJoPU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Where the Band Kids Are</h3>
 <sub>By Ashley Markle and Jazmine Hughes</sub>
@@ -105,9 +105,9 @@ Right now, there are a lot of geopolitical tensions happening in the world. In U
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spiraling Spat With Star Sports Host Puts BBC’s Reputation on the Line</h3>
+<h3>Spiraling Dispute With Star Host Puts BBC’s Reputation on the Line</h3>
 <sub>By Mark Landler</sub>
-<p>The British public broadcaster’s suspension of one of its highest-profile anchors has become a sprawling conflict that poses risks to its reputation for neutrality and independence.  <a href="https://nyti.ms/3YLVXZw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The British public broadcaster’s suspension of one of its highest-profile sports anchors has grown into a wider controversy that poses risks to its reputation for neutrality and independence.  <a href="https://nyti.ms/3YLVXZw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -128,10 +128,10 @@ Right now, there are a lot of geopolitical tensions happening in the world. In U
 <p>A special grand jury looking into election meddling interviewed Robert Cheeley, a sign that false claims made by Donald J. Trump’s allies loom large in the case.  <a href="https://nyti.ms/42aeGAP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Impossible Allure of the Perfect Bracket</h3>
-<sub>By Andrew Keh</sub>
-<p>College basketball fans are on the hunt for the perfect bracket every year. The odds are not in their favor.  <a href="https://nyti.ms/3YFQ53W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘History Will Hold Donald Trump Accountable’ for Jan. 6, Pence Says</h3>
+<sub>By Jonathan Weisman</sub>
+<p>At a Washington dinner event, Mike Pence criticized the president he served under as well as Republicans who are minimizing the Capitol riot.  <a href="https://nyti.ms/3JvV8yD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
