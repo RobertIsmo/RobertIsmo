@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 12, Central Standard Time</p>
 <p>
-Currently, there is a lot going on in the world. In business, Fox&#39;s poor public relations decisions could lead to legal consequences. On the foreign affairs front, Saudi Arabia and Iran have settled their differences and are looking to cooperate with one another. Meanwhile, actor Brett Goldstein has been preparing to play a Marvel movie god, while Ukraine has called for an evacuation of a town due to Russian shelling. In addition, Turkey is seeking families of those who went missing after a devastating earthquake. In the US, people are paying attention to Robert Cheeley, a little-known lawyer and Trump ally who may be involved in election meddling. Also making news is the fact that the Oscars carpet won&#39;t be red for the first time since 1961! And if that doesn&#39;t provide enough entertainment for you, Bob Dylan is featuring in a fashion campaign at 81 years old. Finally, some experts have been debating what would need to happen in order for us to be better prepared for the next pandemic.</p>
+In the world, business is keeping up with the legal consequences of a media firm&#39;s unflattering internal messages. Meanwhile, Saudi Arabia and Iran made a historic agreement to reset their relations. In Ukraine, there has been an escalation of shelling in one northeast town, leading to calls for evacuation. The Treasury Secretary has spoken out to reassure people of the safety of the banking sector in the US due to a Silicon Valley bank collapse. In Turkey, families are turning to the use of fingerprints, DNA, and photos to find missing earthquake victims. In Ohio, the band kids at a rural high school dream of leaving yet worry what they will be leaving behind. A special Georgia grand jury has interviewed a little-known lawyer and Trump ally who previously spread false election claims. The Oscars 2023 movie award night is rapidly approaching and viewers are curious which celebrities will be attending. Finally, there was some exciting news this week on Notre Dame&#39;s sound renovation, Hollywood&#39;s Judy Blume getting her first “yes” from Netflix, and the rise of designer ice.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fox’s P.R. Woes May Not Directly Translate to Legal Ones</h3>
@@ -86,16 +86,28 @@ Currently, there is a lot going on in the world. In business, Fox&#39;s poor pub
 <p>Attacks on the town of Kupiansk, in the Kharkiv region of northeast Ukraine, continued on Sunday.  <a href="https://nyti.ms/3mMHYFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yellen Says Regulators at Work to Contain Fallout From Silicon Valley Bank Collapse</h3>
+<sub>By Alan Rappeport</sub>
+<p>The Treasury secretary’s comments on Sunday morning sought to assure the public that the overall banking sector was safe.  <a href="https://nyti.ms/3LlisBt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>With Fingerprints, DNA and Photos, Turkey Seeks Families of the Missing</h3>
 <sub>By Ben Hubbard and Safak Timur</sub>
 <p>More than a thousand earthquake victims are still unaccounted for. Some families waited for days by ruined buildings, hoping to see bodies that never surfaced.  <a href="https://nyti.ms/3JuBwMh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Where the Band Kids Are</h3>
+<sub>By Ashley Markle and Jazmine Hughes</sub>
+<p>The band kids of Ravenna High in Ohio dream of leaving their “nothing town,” but fear what that means they may have to leave behind.  <a href="https://nyti.ms/3JnnHPH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Little-Known Lawyer, a Trump Ally, Draws Scrutiny in Georgia</h3>
 <sub>By Danny Hakim and Richard Fausset</sub>
-<p>A special grand jury looking into election meddling interviewed Robert Cheeley, a sign that false claims made by Donald J. Trump’s allies loom large in the case.  <a href="https://nyti.ms/3l4Kvun"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A special grand jury looking into election meddling interviewed Robert Cheeley, a sign that false claims made by Donald J. Trump’s allies loom large in the case.  <a href="https://nyti.ms/42aeGAP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -121,18 +133,6 @@ Currently, there is a lot going on in the world. In business, Fox&#39;s poor pub
 <sub></sub>
 <p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3ypI6gT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Bob Dylan, at 81, Still Gives the Camera What It Wants</h3>
-<sub>By Jim Windolf</sub>
-<p>A new ad campaign for the fashion brand Celine highlights the troubadour’s hidden talent.  <a href="https://nyti.ms/3l06imK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>What if the Next Pandemic Happened Tomorrow?</h3>
-<sub></sub>
-<p>8 experts debate what to do.  <a href="https://nyti.ms/3YH3QQ1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
