@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 12, Central Standard Time</p>
 <p>
-In the world, business is keeping up with the legal consequences of a media firm&#39;s unflattering internal messages. Meanwhile, Saudi Arabia and Iran made a historic agreement to reset their relations. In Ukraine, there has been an escalation of shelling in one northeast town, leading to calls for evacuation. The Treasury Secretary has spoken out to reassure people of the safety of the banking sector in the US due to a Silicon Valley bank collapse. In Turkey, families are turning to the use of fingerprints, DNA, and photos to find missing earthquake victims. In Ohio, the band kids at a rural high school dream of leaving yet worry what they will be leaving behind. A special Georgia grand jury has interviewed a little-known lawyer and Trump ally who previously spread false election claims. The Oscars 2023 movie award night is rapidly approaching and viewers are curious which celebrities will be attending. Finally, there was some exciting news this week on Notre Dame&#39;s sound renovation, Hollywood&#39;s Judy Blume getting her first “yes” from Netflix, and the rise of designer ice.</p>
+Right now, there are a lot of geopolitical tensions happening in the world. In Ukraine, war is putting Switzerland&#39;s centuries-old policy of neutrality to the test. Russia is shelling a nearby town, prompting Ukrainian&#39;s to call for evacuation. Meanwhile, in the Middle East, Saudi Arabia and Iran have initiated a reset in relations which has the potential to really transform the region. Closer to home, Janet Yellen is reassuring Americans as regulators rush to contain the fallout from a bank collapse in the US. On top of all of this, there is also a special grand jury in Georgia looking into election meddling by Donald Trump&#39;s allies.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yellen Reassures as Regulators Race to Contain Bank Collapse Fallout</h3>
+<sub>By Alan Rappeport and Jeanna Smialek</sub>
+<p>Treasury Secretary Janet Yellen sought to reassure the public on Sunday as regulators scrambled to ensure that one bank’s failure would not ignite broader problems.  <a href="https://nyti.ms/3LlisBt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fox’s P.R. Woes May Not Directly Translate to Legal Ones</h3>
 <sub>By Jeremy W. Peters</sub>
@@ -69,9 +75,15 @@ In the world, business is keeping up with the legal consequences of a media firm
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>From ‘Hitler’ to ‘Sharing One Fate’: Saudi-Iran Pact Could Transform the Middle East</h3>
-<sub>By Vivian Nereim</sub>
-<p>Both countries as well as the broader region have much to gain from the reset in relations — if the agreement truly holds.  <a href="https://nyti.ms/3ZJJoPU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>War in Ukraine Puts Centuries of Swiss Neutrality to the Test</h3>
+<sub>By Erika Solomon</sub>
+<p>The Alpine state makes arms that Western allies want to send to Kyiv. Swiss law bans this, driving a national debate about whether its concept of neutrality should change.  <a href="https://nyti.ms/3yvquzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Steps Up Calls for Evacuation of Northeast Town Under Relentless Russian Shelling</h3>
+<sub>By Matthew Mpoke Bigg, Carlotta Gall and Oleksandr Chubko</sub>
+<p>Attacks on the town of Kupiansk, in the Kharkiv region of northeast Ukraine, continued on Sunday.  <a href="https://nyti.ms/3mMHYFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -81,21 +93,9 @@ In the world, business is keeping up with the legal consequences of a media firm
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Steps Up Calls for Evacuation of Northeast Town Under Relentless Russian Shelling</h3>
-<sub>By Matthew Mpoke Bigg, Carlotta Gall and Oleksandr Chubko</sub>
-<p>Attacks on the town of Kupiansk, in the Kharkiv region of northeast Ukraine, continued on Sunday.  <a href="https://nyti.ms/3mMHYFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen Says Regulators at Work to Contain Fallout From Silicon Valley Bank Collapse</h3>
-<sub>By Alan Rappeport</sub>
-<p>The Treasury secretary’s comments on Sunday morning sought to assure the public that the overall banking sector was safe.  <a href="https://nyti.ms/3LlisBt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Fingerprints, DNA and Photos, Turkey Seeks Families of the Missing</h3>
-<sub>By Ben Hubbard and Safak Timur</sub>
-<p>More than a thousand earthquake victims are still unaccounted for. Some families waited for days by ruined buildings, hoping to see bodies that never surfaced.  <a href="https://nyti.ms/3JuBwMh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>From ‘Hitler’ to ‘Sharing One Fate’: Saudi-Iran Pact Could Transform the Middle East</h3>
+<sub>By Vivian Nereim</sub>
+<p>Both countries as well as the broader region have much to gain from the reset in relations — if the agreement truly holds.  <a href="https://nyti.ms/3ZJJoPU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -104,10 +104,10 @@ In the world, business is keeping up with the legal consequences of a media firm
 <p>The band kids of Ravenna High in Ohio dream of leaving their “nothing town,” but fear what that means they may have to leave behind.  <a href="https://nyti.ms/3JnnHPH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Little-Known Lawyer, a Trump Ally, Draws Scrutiny in Georgia</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>A special grand jury looking into election meddling interviewed Robert Cheeley, a sign that false claims made by Donald J. Trump’s allies loom large in the case.  <a href="https://nyti.ms/42aeGAP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Spiraling Spat With Star Sports Host Puts BBC’s Reputation on the Line</h3>
+<sub>By Mark Landler</sub>
+<p>The British public broadcaster’s suspension of one of its highest-profile anchors has become a sprawling conflict that poses risks to its reputation for neutrality and independence.  <a href="https://nyti.ms/3YLVXZw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -122,17 +122,17 @@ In the world, business is keeping up with the legal consequences of a media firm
 <p>A guide to everything you need to know for the 95th annual Academy Awards on Sunday night. Who will be presenting? Who won’t be!  <a href="https://nyti.ms/3JcFjMQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jillian Rayfield</sub>
-<p>The quest to restore Notre Dame’s sound. Also in this edition: how Judy Blume finally got a “yes” from Hollywood, and the rise of designer ice.  <a href="https://nyti.ms/3kXwK0x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Little-Known Lawyer, a Trump Ally, Draws Scrutiny in Georgia</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>A special grand jury looking into election meddling interviewed Robert Cheeley, a sign that false claims made by Donald J. Trump’s allies loom large in the case.  <a href="https://nyti.ms/42aeGAP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, March 10, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3ypI6gT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Impossible Allure of the Perfect Bracket</h3>
+<sub>By Andrew Keh</sub>
+<p>College basketball fans are on the hunt for the perfect bracket every year. The odds are not in their favor.  <a href="https://nyti.ms/3YFQ53W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
