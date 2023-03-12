@@ -60,61 +60,55 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 12, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now—from the tech industry to international diplomacy. It looks like Silicon Valley bank just imploded and executives are pointing fingers; there&#39;s been a Chinese-brokered deal in the Middle East that is challenging U.S. authority; Florida governor Ron DeSantis recently politicized the removal of an elected prosecutor; cities are trying to turn office buildings into housing because of the increase of remote work; Russia and Ukraine are currently engaged in a battle for control over Bakhmut; many people in New England are struggling because of the rising cost of heating their homes this winter; videos of deadly encounters between police and Black men are bringing attention to how bystanders can help an escalating situation; the competition for Oscar awards has become cutthroat, with war rooms and 8-figure budgets being used during campaigns; architectural experts are attempting to restore Notre Dame&#39;s sound after a destructive fire; Judy Blume finally found success with Hollywood; and designer ice is apparently a thing now, which I&#39;m sure is interesting if you like ice. On top of all these events, more and more people are moving out of their hometowns because they feel they can &quot;climate-proof Duluth&quot; by moving to Minnesota in search of a refuge from climate change.</p>
+Currently, there is a lot going on in the world. In business, Fox&#39;s poor public relations decisions could lead to legal consequences. On the foreign affairs front, Saudi Arabia and Iran have settled their differences and are looking to cooperate with one another. Meanwhile, actor Brett Goldstein has been preparing to play a Marvel movie god, while Ukraine has called for an evacuation of a town due to Russian shelling. In addition, Turkey is seeking families of those who went missing after a devastating earthquake. In the US, people are paying attention to Robert Cheeley, a little-known lawyer and Trump ally who may be involved in election meddling. Also making news is the fact that the Oscars carpet won&#39;t be red for the first time since 1961! And if that doesn&#39;t provide enough entertainment for you, Bob Dylan is featuring in a fashion campaign at 81 years old. Finally, some experts have been debating what would need to happen in order for us to be better prepared for the next pandemic.</p>
 <ol>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Silicon Valley Bank Collapse Sets Off Blame Game in Tech Industry</h3>
-<sub>By David Yaffe-Bellany, Erin Griffith and Mike Isaac</sub>
-<p>The implosion of the Silicon Valley bank led to finger-pointing, as executives and investors jumped on the crisis for their own messaging.  <a href="https://nyti.ms/3l82Y9k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fox’s P.R. Woes May Not Directly Translate to Legal Ones</h3>
+<sub>By Jeremy W. Peters</sub>
+<p>Some of the unflattering private messages among the network’s hosts and executives may never become evidence when Dominion Voting Systems’ defamation case against Fox News goes to trial.  <a href="https://nyti.ms/3lf1KZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>3 Lessons From Silicon Valley Bank’s Failure</h3>
-<sub>By Kevin Roose</sub>
-<p>Here’s one takeaway: The bank’s extremely online clientele may have contributed to its downfall.  <a href="https://nyti.ms/3mAWQqo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>From ‘Hitler’ to ‘Sharing One Fate’: Saudi-Iran Pact Could Transform the Middle East</h3>
+<sub>By Vivian Nereim</sub>
+<p>Both countries as well as the broader region have much to gain from the reset in relations — if the agreement truly holds.  <a href="https://nyti.ms/3ZJJoPU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chinese-Brokered Deal Upends Mideast Diplomacy and Challenges U.S.</h3>
-<sub>By Peter Baker</sub>
-<p>The agreement negotiated in Beijing to restore relations between Saudi Arabia and Iran signaled at least a temporary reordering of the usual alliances and rivalries, with Washington left on the sidelines.  <a href="https://nyti.ms/3ZYttwJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside Ron DeSantis’s Politicized Removal of an Elected Prosecutor</h3>
-<sub>By Alexandra Berzon and Ken Bensinger</sub>
-<p>The Florida governor accused the Democratic prosecutor of undermining public safety. But a close examination of the episode reveals just how fueled it was by Mr. DeSantis’s political aims.  <a href="https://nyti.ms/3l9B4d1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Here’s How to Solve a 25-Story Rubik’s Cube</h3>
-<sub>By Emily Badger and Larry Buchanan</sub>
-<p>Cities are eager to turn office buildings into housing amid rising remote work. But that&#39;s harder than you might think.  <a href="https://nyti.ms/4236ySC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Brett Goldstein Faces Life After ‘Lasso’</h3>
+<sub>By Jeremy Egner</sub>
+<p>The Apple TV+ show’s breakout star is preparing to play a Marvel movie god when he’s not working on the hit streaming series “Shrinking.” But what he’s really after is human connection.  <a href="https://nyti.ms/3l94Qi7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Front Line Shifts in Russia’s and Ukraine’s Battle for Bakhmut, Analysts Say</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>Britain’s defense intelligence agency said that Russian forces had taken control of most of Bakhmut’s east, but advances farther west might be challenging.  <a href="https://nyti.ms/3mAP282"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
+<h3>Ukraine Steps Up Calls for Evacuation of Northeast Town Under Relentless Russian Shelling</h3>
+<sub>By Matthew Mpoke Bigg, Carlotta Gall and Oleksandr Chubko</sub>
+<p>Attacks on the town of Kupiansk, in the Kharkiv region of northeast Ukraine, continued on Sunday.  <a href="https://nyti.ms/3mMHYFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With Fingerprints, DNA and Photos, Turkey Seeks Families of the Missing</h3>
+<sub>By Ben Hubbard and Safak Timur</sub>
+<p>More than a thousand earthquake victims are still unaccounted for. Some families waited for days by ruined buildings, hoping to see bodies that never surfaced.  <a href="https://nyti.ms/3JuBwMh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Highest Heating Costs in Years Strain Many in New England</h3>
-<sub>By Jenna Russell</sub>
-<p>In a region where most homes rely on oil heat and cold weather can last through April, the burden of high heating bills has been especially heavy this winter.  <a href="https://nyti.ms/400GoOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Little-Known Lawyer, a Trump Ally, Draws Scrutiny in Georgia</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>A special grand jury looking into election meddling interviewed Robert Cheeley, a sign that false claims made by Donald J. Trump’s allies loom large in the case.  <a href="https://nyti.ms/3l4Kvun"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Hey, That Red Carpet Isn’t Red!</h3>
+<sub>By Sarah Bahr</sub>
+<p>The 2023 Academy Awards carpet’s champagne hue — a break with a 62-year tradition of the bright red rug — is the latest arrival rug to opt for a colorful palette.  <a href="https://nyti.ms/420jDMC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>How to Watch the Oscars 2023: Date, Time and Streaming</h3>
+<sub>By Sarah Bahr</sub>
+<p>A guide to everything you need to know for the 95th annual Academy Awards on Sunday night. Who will be presenting? Who won’t be!  <a href="https://nyti.ms/3JcFjMQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>When Bystanders Step Between the Police and Black Men</h3>
-<sub>By Brooke Jarvis</sub>
-<p>You’ve seen the videos of deadly encounters. What effect can a witness have?  <a href="https://nyti.ms/3L5aA6U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Inside the ‘Blood Sport’ of Oscars Campaigns</h3>
-<sub>By Irina Aleksander</sub>
-<p>War rooms. Oppo dumps. Eight-figure budgets. How the quest for awards-season glory got so cutthroat.  <a href="https://nyti.ms/3mBismJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Weekender</h3>
@@ -128,11 +122,17 @@ There&#39;s a lot going on in the world right now—from the tech industry to in
 <p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3ypI6gT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Out-of-Towners Head to ‘Climate-Proof Duluth’</h3>
-<sub>By Debra Kamin</sub>
-<p>The former industrial town in Minnesota is coming to terms with its status as a refuge for people moving from across the country because of climate change.  <a href="https://nyti.ms/3YDQ5l8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Bob Dylan, at 81, Still Gives the Camera What It Wants</h3>
+<sub>By Jim Windolf</sub>
+<p>A new ad campaign for the fashion brand Celine highlights the troubadour’s hidden talent.  <a href="https://nyti.ms/3l06imK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>What if the Next Pandemic Happened Tomorrow?</h3>
+<sub></sub>
+<p>8 experts debate what to do.  <a href="https://nyti.ms/3YH3QQ1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
