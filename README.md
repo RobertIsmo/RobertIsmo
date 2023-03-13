@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 13, Central Standard Time</p>
 <p>
-It looks like things have been quite busy in the news lately. The Federal Reserve is having trouble navigating a stable economy as they attempt to raise interest rates to combat inflation. Wealthy Russians are turning to Dubai as a sort of wartime harbor to begin a new life without losing ties back home. The International Criminal Court will be prosecuting Russia for abducting Ukrainian children and targeting civilian infrastructure. Films from A24 won big at the Oscars, with &#39;Everything Everywhere All at Once&#39; taking home seven awards. The Biden Administration has approved a huge Alaska oil project and reached a nuclear-powered submarine deal with Australia and Britain. The University of Pennsylvania is currently debating the tenure status of one of their professors who made racist statements. Trump and DeSantis are both visiting Davenport, Iowa for unrelated events on Monday and today Michael Cohen is testifying in front of a grand jury relating to Trump’s case.</p>
+It looks like there is a lot going on in the world right now. The Federal Reserve has been rapidly raising interest rates to fight inflation, but that could get trickier due to some instability in the banking sector. There&#39;s also international drama involving Russia, with war crimes cases being opened against the country at the International Criminal Court. Closer to home, President Biden recently unveiled a landmark submarine deal with Australia and Britain as part of an effort to counter China. Meanwhile, New York Governor Andrew Cuomo&#39;s plans to build an AirTrain to LaGuardia have officially been scrapped due to ballooning costs. And then of course, we all got to enjoy the Oscars for some lighter news!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Federal Reserve’s Path Is Murkier After Bank Blowup</h3>
 <sub>By Jeanna Smialek</sub>
 <p>The Federal Reserve has been rapidly raising interest rates to fight inflation. But making big moves could be trickier amid instability.  <a href="https://nyti.ms/3Fl43l7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Stocks Wobble as Smaller Banks Plunge on Fears of Contagion</h3>
+<sub>By Joe Rennison</sub>
+<p>The volatile conditions led to trading in a dozen banks being halted after triggering so-called circuit breakers, established in part to prevent runaway crashes.  <a href="https://nyti.ms/426i1B5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Start-ups begin to recover money trapped in Silicon Valley Bank.</h3>
+<sub>By Kellen Browning</sub>
+<p>  <a href="https://nyti.ms/3Fl6zYi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,11 +92,17 @@ It looks like things have been quite busy in the news lately. The Federal Reserv
 <p>The cases before the International Criminal Court would accuse Russia of abducting Ukrainian children and of deliberately targeting civilian infrastructure.  <a href="https://nyti.ms/3LjeSYr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Everything Everywhere All at Once’ Is Big Winner at the Oscars</h3>
-<sub>By Brooks Barnes</sub>
-<p>The futuristic film from the studio A24 won seven awards, including for best picture, directing and in three of the four acting categories.  <a href="https://nyti.ms/3JeimsQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>This Year, a Plain Old Ordinary Oscars Was Something to Savor</h3>
+<sub>By A.O. Scott and Manohla Dargis</sub>
+<p>After breathing a sigh of relief that the night went smoothly, our critics examine the acting wins as well as the track records of studios and Netflix.  <a href="https://nyti.ms/3YOJaWe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A24 Achieves Art-House Supremacy With Triumphant Oscar Night</h3>
+<sub>By Nicole Sperling</sub>
+<p>The independent studio behind “Everything Everywhere All at Once” and “The Whale” became the first to sweep the acting awards and win best director and best picture in the same year.  <a href="https://nyti.ms/3TeCM9F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>Best and Worst Moments From the 2023 Oscars</h3>
@@ -93,16 +111,10 @@ It looks like things have been quite busy in the news lately. The Federal Reserv
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Announce Landmark Nuclear-Powered Submarine Deal With Australia and Britain</h3>
-<sub>By Edward Wong</sub>
+<h3>Biden Unveils Landmark Submarine Deal With Australia and Britain</h3>
+<sub>By Michael D. Shear and Edward Wong</sub>
 <p>The arrangement is part of a broader effort to counter China’s military development and assertive territorial claims across Asia.  <a href="https://nyti.ms/3JBnpoH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Administration Approves Huge Alaska Oil Project</h3>
-<sub>By Lisa Friedman</sub>
-<p>The administration also announced new limits on Arctic drilling in an apparent effort to temper criticism over the $8 billion Willow oil project, which has faced sharp opposition.  <a href="https://nyti.ms/3JAJaF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>UPenn Accuses a Law Professor of Racist Statements. Should She Be Fired?</h3>
@@ -120,18 +132,6 @@ It looks like things have been quite busy in the news lately. The Federal Reserv
 <h3>Plans to Build AirTrain to La Guardia Are Officially Scrapped</h3>
 <sub>By Patrick McGeehan</sub>
 <p>Ballooning costs help doom what had been a pet project of former Gov. Andrew M. Cuomo.  <a href="https://nyti.ms/3YKalkQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Will Visit the Same Iowa City on Monday That DeSantis Visited on Friday</h3>
-<sub>By Michael C. Bender</sub>
-<p>Donald J. Trump’s event on Monday evening in Davenport, Iowa, is aimed in part at slowing any momentum from Gov. Ron DeSantis of Florida.  <a href="https://nyti.ms/3TbCkJa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Michael Cohen Expected to Testify Before Grand Jury in Trump Case Today</h3>
-<sub>By Ben Protess, Kate Christobek, William K. Rashbaum and Jonah E. Bromwich</sub>
-<p>Mr. Cohen, Donald Trump’s onetime fixer, is a key piece of the puzzle as prosecutors move toward an indictment of the former president.  <a href="https://nyti.ms/3LjJl8M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
