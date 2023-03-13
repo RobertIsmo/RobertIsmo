@@ -60,34 +60,58 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 13, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. In the business sector, a British arm of Silicon Valley Bank is being bought by HSBC and Signature Bank is facing an unprecedented run on deposits due to its high-risk crypto investments. The environment is also a hot topic, with the current Administration getting ready to approve an Alaska oil project that has been subject to sharp criticism over its potential effects on climate change. 
+There are a lot of changes going on in the world right now when it comes to business and finance. A risky bet on crypto currency caused a run on deposits at Signature Bank, so regulators decided to close the 24-year-old institution because it could threaten the financial system&#39;s stability. Also, HSBC is buying up Silicon Valley Bank&#39;s British subsidiary, and there was some uncertainty recently regarding a possible new bank panic. There are also developments in other countries such as Russia, where wealthy Russians can build a new life without having to cut ties to their home country in Dubai. 
 
-In the arts world, &#39;Everything Everywhere All At Once&#39; made history at this year&#39;s Oscars, winning 7 awards including best picture, directing and three out of four acting categories. It was quite the notable event - although some have criticized it for feeling a little too ordinary. 
+Meanwhile, the US is making deals with Australia and Britain to create landmark nuclear submarines that could help counter China&#39;s military development and assertive territorial claims across Asia. The Oscars have become processed, canned awards show thanks to ‘Everything Everywhere All at Once’ winning best picture and directing awards along with three of the four acting categories. 
 
-Speaking of awards shows, in sports news there was recently the 2021 N.C.A.A. Men&#39;s and Women&#39;s tournaments, both of which had some pretty interesting results. South Carolina topped the Women&#39;s Tournament field with an undefeated streak while Alabama, Houston, Kansas and Purdue took the No. 1 spot in the Men&#39;s Tournament bracket.</p>
+In China, the new premier Li Qiang is trying to boost business confidence by appearing business-friendly, though he does have less power under the Chinese president Xi Jinping. Meanwhile an opioid settlement could potentially hurt patients&#39; access to a wide array of drugs for purpose such as ADHD, addiction, anxiety and pain relief.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>HSBC to Buy Silicon Valley Bank’s British Subsidiary</h3>
-<sub>By Jin Yu Young</sub>
-<p>Prime Minister Rishi Sunak said the country’s financial system was in good health and would not suffer from the demise of Silicon Valley Bank.  <a href="https://nyti.ms/42knVyL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Risky Bet on Crypto and a Run on Deposits Tank Signature Bank</h3>
 <sub>By Matthew Goldstein and Emily Flitter</sub>
 <p>Regulators said keeping open the 24-year-old institution, which held deposits from law firms and real estate companies, could threaten the financial system’s stability.  <a href="https://nyti.ms/3JBaD9m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Administration to Approve Huge Alaska Oil Project on Monday, Two Officials Say</h3>
-<sub>By Lisa Friedman</sub>
-<p>Biden is also expected to put broad new limits on Arctic drilling in an apparent effort to temper criticism over the $8 billion Willow oil project, which has faced sharp climate opposition.  <a href="https://nyti.ms/3JAJaF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>HSBC to Buy Silicon Valley Bank’s British Subsidiary</h3>
+<sub>By Jin Yu Young</sub>
+<p>Prime Minister Rishi Sunak said the country’s financial system was in good health and would not suffer from the demise of Silicon Valley Bank.  <a href="https://nyti.ms/42knVyL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>A New Bank Panic?</h3>
+<sub>By David Leonhardt</sub>
+<p>It’s a day of uncertainty for the U.S. economy.  <a href="https://nyti.ms/3ZLFki6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Russia Outside Russia’: For Elite, Dubai Becomes a Wartime Harbor</h3>
+<sub>By Anton Troianovski and Andrea DiCenzo</sub>
+<p>In the exclusive neighborhoods and palatial shopping malls of the United Arab Emirates’ biggest city, wealthy Russians can build a new life without having to cut ties to their home country.  <a href="https://nyti.ms/3J8vhfT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden to Announce Landmark Nuclear-Powered Submarine Deal with Australia and Britain</h3>
+<sub>By Edward Wong</sub>
+<p>The arrangement is part of a broader effort to counter China’s military development and assertive territorial claims across Asia.  <a href="https://nyti.ms/3JBnpoH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>‘Everything Everywhere All at Once’ Is Big Winner at the Oscars</h3>
 <sub>By Brooks Barnes</sub>
 <p>The futuristic film from the studio A24 won seven awards, including for best picture, directing and in three of the four acting categories.  <a href="https://nyti.ms/3JeimsQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Best and Worst Moments From the 2023 Oscars</h3>
+<sub>By Stephanie Goodman</sub>
+<p>Michelle Yeoh made history, Ke Huy Quan made us tear up and Cocaine Bear made us cringe. These were just some of the highs and lows.  <a href="https://nyti.ms/3Jchk0j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Oscars 2023 Winners: The Complete List</h3>
+<sub>By Gabe Cohn</sub>
+<p>The list of winners for the 95th Academy Awards.  <a href="https://nyti.ms/3mLgQqy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -96,47 +120,23 @@ Speaking of awards shows, in sports news there was recently the 2021 N.C.A.A. Me
 <p>A show that’s become a shrink-wrapped, anodyne exercise stuck safely to the script.  <a href="https://nyti.ms/3J8fJsx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Oscars 2023 Winners: The Complete List</h3>
-<sub>By Gabe Cohn</sub>
-<p>The list of winners for the 95th Academy Awards.  <a href="https://nyti.ms/3mLgQqy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s New Premier Needs to Revive Growth. How Far Will Loyalty Get Him?</h3>
+<sub>By Keith Bradsher and Chang Che</sub>
+<p>Li Qiang’s business-friendly reputation could bolster confidence in China’s economy. But he is stepping into a role with diminished power under Xi Jinping.  <a href="https://nyti.ms/3JBS7xZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Asian Actors Have Been Underrepresented at the Oscars For Decades. Here’s the History.</h3>
-<sub>By K.K. Rebecca Lai</sub>
-<p>A record number of actors of Asian ancestry were recognized at the Oscars this year, including Michelle Yeoh of “Everything Everywhere All at Once,” who won best actress. Historically, Asian stars have rarely been part of the Academy Awards.  <a href="https://nyti.ms/3SFf7yI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As Economy Falters, China’s New Premier Tries to Boost Business Confidence</h3>
+<sub>By Keith Bradsher and Chris Buckley</sub>
+<p>Li Qiang, the country’s No. 2 leader, sought to reassure entrepreneurs who have been wary of making new investments.  <a href="https://nyti.ms/3ZIjPym"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>War in Ukraine Puts Centuries of Swiss Neutrality to the Test</h3>
-<sub>By Erika Solomon</sub>
-<p>The Alpine state makes arms that Western allies want to send to Kyiv. Swiss law bans this, driving a national debate about whether its concept of neutrality should change.  <a href="https://nyti.ms/3yvquzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Seedings for N.C.A.A. Men’s Tournament Show Wide-Open Field</h3>
-<sub>By Billy Witz</sub>
-<p>Alabama, Houston, Kansas and Purdue earned No. 1 seeds in a tournament where top teams seem more beatable than usual, and others that usually might be considered upstarts have viable paths to the championship.  <a href="https://nyti.ms/3T8hPNE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>South Carolina Tops N.C.A.A. Women’s Tournament Field</h3>
-<sub>By Kris Rhim</sub>
-<p>There are challengers, of course, but no team is tougher on paper than the undefeated, reigning champion Gamecocks.  <a href="https://nyti.ms/3Fig4Yh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>2023 N.C.A.A. Men’s Tournament Bracket</h3>
-<sub></sub>
-<p>Print your bracket, make your picks, and follow the latest scores as the tournament unfolds.  <a href="https://nyti.ms/3T7x7Cg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>2023 N.C.A.A. Women’s Tournament Bracket</h3>
-<sub></sub>
-<p>Sixty-eight teams will take their shot at the national championship. See the bracket here.  <a href="https://nyti.ms/3LemSKx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Opioid Settlement Hinders Patients’ Access to a Wide Array of Drugs</h3>
+<sub>By Christina Jewett and Ellen Gabler</sub>
+<p>An agreement between attorneys general and major drug distributors increased scrutiny on medications for A.D.H.D., addiction, anxiety and pain.  <a href="https://nyti.ms/3yAxv2w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
