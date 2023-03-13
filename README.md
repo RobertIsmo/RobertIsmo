@@ -60,28 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 13, Central Standard Time</p>
 <p>
-There are a lot of changes going on in the world right now when it comes to business and finance. A risky bet on crypto currency caused a run on deposits at Signature Bank, so regulators decided to close the 24-year-old institution because it could threaten the financial system&#39;s stability. Also, HSBC is buying up Silicon Valley Bank&#39;s British subsidiary, and there was some uncertainty recently regarding a possible new bank panic. There are also developments in other countries such as Russia, where wealthy Russians can build a new life without having to cut ties to their home country in Dubai. 
-
-Meanwhile, the US is making deals with Australia and Britain to create landmark nuclear submarines that could help counter China&#39;s military development and assertive territorial claims across Asia. The Oscars have become processed, canned awards show thanks to ‘Everything Everywhere All at Once’ winning best picture and directing awards along with three of the four acting categories. 
-
-In China, the new premier Li Qiang is trying to boost business confidence by appearing business-friendly, though he does have less power under the Chinese president Xi Jinping. Meanwhile an opioid settlement could potentially hurt patients&#39; access to a wide array of drugs for purpose such as ADHD, addiction, anxiety and pain relief.</p>
+It looks like the world is going through a bit of a rough patch. The Federal Reserve has been raising interest rates to combat inflation, but instability in banking could complicate that path. Meanwhile, wealthy Russians are escaping to the United Arab Emirates for protection against the war crimes cases being brought against Russia by the International Criminal Court. In a related move, US President Biden is striking deals with Australia and Britain to build nuclear-powered submarines in order to address China&#39;s military development in Asia. On a lighter note, A24 won seven awards at the Oscars! But in other news, the opioid settlement between attorneys general and drug distributors is making it harder for patients to access many types of medications. And finally, the Biden administration recently approved an $8 billion Alaskan oil project despite widespread criticism.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Risky Bet on Crypto and a Run on Deposits Tank Signature Bank</h3>
-<sub>By Matthew Goldstein and Emily Flitter</sub>
-<p>Regulators said keeping open the 24-year-old institution, which held deposits from law firms and real estate companies, could threaten the financial system’s stability.  <a href="https://nyti.ms/3JBaD9m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>HSBC to Buy Silicon Valley Bank’s British Subsidiary</h3>
-<sub>By Jin Yu Young</sub>
-<p>Prime Minister Rishi Sunak said the country’s financial system was in good health and would not suffer from the demise of Silicon Valley Bank.  <a href="https://nyti.ms/42knVyL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>A New Bank Panic?</h3>
-<sub>By David Leonhardt</sub>
-<p>It’s a day of uncertainty for the U.S. economy.  <a href="https://nyti.ms/3ZLFki6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Federal Reserve’s Path Is Murkier After Bank Blowup</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Federal Reserve has been rapidly raising interest rates to fight inflation. But making big moves could be trickier amid instability.  <a href="https://nyti.ms/3Fl43l7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -90,8 +74,14 @@ In China, the new premier Li Qiang is trying to boost business confidence by app
 <p>In the exclusive neighborhoods and palatial shopping malls of the United Arab Emirates’ biggest city, wealthy Russians can build a new life without having to cut ties to their home country.  <a href="https://nyti.ms/3J8vhfT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>International Court to Open War Crimes Cases Against Russia, Officials Say</h3>
+<sub>By Marlise Simons</sub>
+<p>The cases before the International Criminal Court would accuse Russia of abducting Ukrainian children and of deliberately targeting civilian infrastructure.  <a href="https://nyti.ms/3LjeSYr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Announce Landmark Nuclear-Powered Submarine Deal with Australia and Britain</h3>
+<h3>Biden to Announce Landmark Nuclear-Powered Submarine Deal With Australia and Britain</h3>
 <sub>By Edward Wong</sub>
 <p>The arrangement is part of a broader effort to counter China’s military development and assertive territorial claims across Asia.  <a href="https://nyti.ms/3JBnpoH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
@@ -137,6 +127,12 @@ In China, the new premier Li Qiang is trying to boost business confidence by app
 <sub>By Christina Jewett and Ellen Gabler</sub>
 <p>An agreement between attorneys general and major drug distributors increased scrutiny on medications for A.D.H.D., addiction, anxiety and pain.  <a href="https://nyti.ms/3yAxv2w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Biden Administration Approves Huge Alaska Oil Project</h3>
+<sub>By Lisa Friedman</sub>
+<p>The administration also announced new limits on Arctic drilling in an apparent effort to temper criticism over the $8 billion Willow oil project, which has faced sharp opposition.  <a href="https://nyti.ms/3JAJaF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
