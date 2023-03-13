@@ -58,19 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, March 12, Central Standard Time</p>
+<p>It is Monday, March 13, Central Standard Time</p>
 <p>
-Business: Regulators have had to close two banks in the US recently, Silicon Valley Bank and Signature bank, to protect customers&#39; deposits. 
-
-Climate: The collapse of Silicon Valley Bank has put climate start-ups in danger as they had relationships with more than 1,500 companies. The Administration is also set to approve a huge oil project in Alaska which could have major implications for global warming. 
-
-Movies &amp; Style: The Academy Awards have taken place and there&#39;s been a lot of buzz over which stars looked the best on the &quot;Not-So-Red Carpet&quot;. 
-
-World: The war in Ukraine has put centuries of Switzerland neutrality to the test, as Swiss law bans sending arms to Kyiv. 
-
-Sports: March Madness is here! Four No. 1 seeds, Alabama, Houston, Kansas and Purdue have been selected for the men&#39;s tournament and South Carolina is the favorite for the women&#39;s tournament. Brackets are available online so see who you can pick! 
-
-Arts: Brett Goldstein is the breakout star of Apple TV&#39;s &#39;Lasso&#39; and he&#39;s now set to star in a Marvel movie and a streaming series. He&#39;s focusing on human connection as well.</p>
+There are a lot of interesting things happening in the world right now. Business news includes regulators closing banks and trying to protect deposits from Silicon Valley Bank&#39;s collapse. There was also a risky bet on a crypto investment that tanked Signature Bank. In climate news, the Silicon Valley Bank collapse is now threatening climate start-ups, plus the Biden administration is approving a huge Alaska oil project while putting limits on Arctic drilling in an effort to mitigate its climate impact. On the arts side, the futuristic movie &quot;Everything Everywhere All at Once&quot; won seven Oscars, including best picture. Meanwhile, the war in Ukraine is disrupting Swiss neutrality and putting it to the test. In sports, there&#39;s seedings for the NCAA men&#39;s tournament showing a wide-open field, with South Carolina topping the NCAA women&#39;s tournament field. And there&#39;s now an NCAA men&#39;s tournament bracket up so you can make your picks!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Regulators Close Another Bank and Move to Protect Deposits</h3>
@@ -96,17 +86,29 @@ Arts: Brett Goldstein is the breakout star of Apple TV&#39;s &#39;Lasso&#39; and
 <p>Biden is also expected to put broad new limits on Arctic drilling in an apparent effort to temper criticism over the $8 billion Willow oil project, which has faced sharp climate opposition.  <a href="https://nyti.ms/3JAJaF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘Everything Everywhere All at Once’ Is Big Winner at the Oscars</h3>
+<sub>By Brooks Barnes</sub>
+<p>The futuristic film from the studio A24 won seven awards, including for best picture, directing and in three of the four acting categories.  <a href="https://nyti.ms/3JeimsQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Review: The Increasingly Ordinary Oscars</h3>
+<sub>By Mike Hale</sub>
+<p>A show that’s become a shrink-wrapped, anodyne exercise stuck safely to the script.  <a href="https://nyti.ms/3J8fJsx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Oscars 2023 Winners: Updating List</h3>
+<h3>Oscars 2023 Winners: The Complete List</h3>
 <sub>By Gabe Cohn</sub>
 <p>The list of winners for the 95th Academy Awards.  <a href="https://nyti.ms/3mLgQqy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>2023 Oscars: Every Look From the Not-So-Red Carpet</h3>
-<sub>By The Styles Desk</sub>
-<p>Hollywood’s brightest stars battle to make the biggest splash on the champagne carpet before the 95th Academy Awards.  <a href="https://nyti.ms/3ZGpW6B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Asian Actors Have Been Underrepresented at the Oscars For Decades. Here’s the History.</h3>
+<sub>By K.K. Rebecca Lai</sub>
+<p>A record number of actors of Asian ancestry were recognized at the Oscars this year, including Michelle Yeoh of “Everything Everywhere All at Once,” who won best actress. Historically, Asian stars have rarely been part of the Academy Awards.  <a href="https://nyti.ms/3SFf7yI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>War in Ukraine Puts Centuries of Swiss Neutrality to the Test</h3>
@@ -131,18 +133,6 @@ Arts: Brett Goldstein is the breakout star of Apple TV&#39;s &#39;Lasso&#39; and
 <sub></sub>
 <p>Print your bracket, make your picks, and follow the latest scores as the tournament unfolds.  <a href="https://nyti.ms/3T7x7Cg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>2023 N.C.A.A. Women’s Tournament Bracket</h3>
-<sub></sub>
-<p>Sixty-eight teams will take their shot at the national championship. See the bracket here.  <a href="https://nyti.ms/3LemSKx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Brett Goldstein Faces Life After ‘Lasso’</h3>
-<sub>By Jeremy Egner</sub>
-<p>The Apple TV+ show’s breakout star is preparing to play a Marvel movie god when he’s not working on the hit streaming series “Shrinking.” But what he’s really after is human connection.  <a href="https://nyti.ms/3l94Qi7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
