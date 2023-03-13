@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 13, Central Standard Time</p>
 <p>
-It looks like the world is going through a bit of a rough patch. The Federal Reserve has been raising interest rates to combat inflation, but instability in banking could complicate that path. Meanwhile, wealthy Russians are escaping to the United Arab Emirates for protection against the war crimes cases being brought against Russia by the International Criminal Court. In a related move, US President Biden is striking deals with Australia and Britain to build nuclear-powered submarines in order to address China&#39;s military development in Asia. On a lighter note, A24 won seven awards at the Oscars! But in other news, the opioid settlement between attorneys general and drug distributors is making it harder for patients to access many types of medications. And finally, the Biden administration recently approved an $8 billion Alaskan oil project despite widespread criticism.</p>
+It looks like things have been quite busy in the news lately. The Federal Reserve is having trouble navigating a stable economy as they attempt to raise interest rates to combat inflation. Wealthy Russians are turning to Dubai as a sort of wartime harbor to begin a new life without losing ties back home. The International Criminal Court will be prosecuting Russia for abducting Ukrainian children and targeting civilian infrastructure. Films from A24 won big at the Oscars, with &#39;Everything Everywhere All at Once&#39; taking home seven awards. The Biden Administration has approved a huge Alaska oil project and reached a nuclear-powered submarine deal with Australia and Britain. The University of Pennsylvania is currently debating the tenure status of one of their professors who made racist statements. Trump and DeSantis are both visiting Davenport, Iowa for unrelated events on Monday and today Michael Cohen is testifying in front of a grand jury relating to Trump’s case.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Federal Reserve’s Path Is Murkier After Bank Blowup</h3>
@@ -80,12 +80,6 @@ It looks like the world is going through a bit of a rough patch. The Federal Res
 <p>The cases before the International Criminal Court would accuse Russia of abducting Ukrainian children and of deliberately targeting civilian infrastructure.  <a href="https://nyti.ms/3LjeSYr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Announce Landmark Nuclear-Powered Submarine Deal With Australia and Britain</h3>
-<sub>By Edward Wong</sub>
-<p>The arrangement is part of a broader effort to counter China’s military development and assertive territorial claims across Asia.  <a href="https://nyti.ms/3JBnpoH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>‘Everything Everywhere All at Once’ Is Big Winner at the Oscars</h3>
 <sub>By Brooks Barnes</sub>
@@ -98,34 +92,10 @@ It looks like the world is going through a bit of a rough patch. The Federal Res
 <p>Michelle Yeoh made history, Ke Huy Quan made us tear up and Cocaine Bear made us cringe. These were just some of the highs and lows.  <a href="https://nyti.ms/3Jchk0j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Oscars 2023 Winners: The Complete List</h3>
-<sub>By Gabe Cohn</sub>
-<p>The list of winners for the 95th Academy Awards.  <a href="https://nyti.ms/3mLgQqy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Review: The Increasingly Ordinary Oscars</h3>
-<sub>By Mike Hale</sub>
-<p>A show that’s become a shrink-wrapped, anodyne exercise stuck safely to the script.  <a href="https://nyti.ms/3J8fJsx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s New Premier Needs to Revive Growth. How Far Will Loyalty Get Him?</h3>
-<sub>By Keith Bradsher and Chang Che</sub>
-<p>Li Qiang’s business-friendly reputation could bolster confidence in China’s economy. But he is stepping into a role with diminished power under Xi Jinping.  <a href="https://nyti.ms/3JBS7xZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As Economy Falters, China’s New Premier Tries to Boost Business Confidence</h3>
-<sub>By Keith Bradsher and Chris Buckley</sub>
-<p>Li Qiang, the country’s No. 2 leader, sought to reassure entrepreneurs who have been wary of making new investments.  <a href="https://nyti.ms/3ZIjPym"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Opioid Settlement Hinders Patients’ Access to a Wide Array of Drugs</h3>
-<sub>By Christina Jewett and Ellen Gabler</sub>
-<p>An agreement between attorneys general and major drug distributors increased scrutiny on medications for A.D.H.D., addiction, anxiety and pain.  <a href="https://nyti.ms/3yAxv2w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden to Announce Landmark Nuclear-Powered Submarine Deal With Australia and Britain</h3>
+<sub>By Edward Wong</sub>
+<p>The arrangement is part of a broader effort to counter China’s military development and assertive territorial claims across Asia.  <a href="https://nyti.ms/3JBnpoH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -133,6 +103,36 @@ It looks like the world is going through a bit of a rough patch. The Federal Res
 <sub>By Lisa Friedman</sub>
 <p>The administration also announced new limits on Arctic drilling in an apparent effort to temper criticism over the $8 billion Willow oil project, which has faced sharp opposition.  <a href="https://nyti.ms/3JAJaF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>UPenn Accuses a Law Professor of Racist Statements. Should She Be Fired?</h3>
+<sub>By Vimal Patel</sub>
+<p>Amy Wax and free speech groups say the university is trampling on her academic freedom. Students ask whether her speech deserves to be protected.  <a href="https://nyti.ms/3Lfuxbt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What to Know About Tenure and Free Speech Protections</h3>
+<sub>By Eliza Fawcett</sub>
+<p>A conflict over a law professor at the University of Pennsylvania has stirred questions about what tenure means.  <a href="https://nyti.ms/3mQ99iC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Plans to Build AirTrain to La Guardia Are Officially Scrapped</h3>
+<sub>By Patrick McGeehan</sub>
+<p>Ballooning costs help doom what had been a pet project of former Gov. Andrew M. Cuomo.  <a href="https://nyti.ms/3YKalkQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Will Visit the Same Iowa City on Monday That DeSantis Visited on Friday</h3>
+<sub>By Michael C. Bender</sub>
+<p>Donald J. Trump’s event on Monday evening in Davenport, Iowa, is aimed in part at slowing any momentum from Gov. Ron DeSantis of Florida.  <a href="https://nyti.ms/3TbCkJa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Michael Cohen Expected to Testify Before Grand Jury in Trump Case Today</h3>
+<sub>By Ben Protess, Kate Christobek, William K. Rashbaum and Jonah E. Bromwich</sub>
+<p>Mr. Cohen, Donald Trump’s onetime fixer, is a key piece of the puzzle as prosecutors move toward an indictment of the former president.  <a href="https://nyti.ms/3LjJl8M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
