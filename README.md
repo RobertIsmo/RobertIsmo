@@ -60,24 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 13, Central Standard Time</p>
 <p>
-There are a lot of interesting things happening in the world right now. Business news includes regulators closing banks and trying to protect deposits from Silicon Valley Bank&#39;s collapse. There was also a risky bet on a crypto investment that tanked Signature Bank. In climate news, the Silicon Valley Bank collapse is now threatening climate start-ups, plus the Biden administration is approving a huge Alaska oil project while putting limits on Arctic drilling in an effort to mitigate its climate impact. On the arts side, the futuristic movie &quot;Everything Everywhere All at Once&quot; won seven Oscars, including best picture. Meanwhile, the war in Ukraine is disrupting Swiss neutrality and putting it to the test. In sports, there&#39;s seedings for the NCAA men&#39;s tournament showing a wide-open field, with South Carolina topping the NCAA women&#39;s tournament field. And there&#39;s now an NCAA men&#39;s tournament bracket up so you can make your picks!</p>
+Right now, there&#39;s a lot going on in the world. In the business sector, a British arm of Silicon Valley Bank is being bought by HSBC and Signature Bank is facing an unprecedented run on deposits due to its high-risk crypto investments. The environment is also a hot topic, with the current Administration getting ready to approve an Alaska oil project that has been subject to sharp criticism over its potential effects on climate change. 
+
+In the arts world, &#39;Everything Everywhere All At Once&#39; made history at this year&#39;s Oscars, winning 7 awards including best picture, directing and three out of four acting categories. It was quite the notable event - although some have criticized it for feeling a little too ordinary. 
+
+Speaking of awards shows, in sports news there was recently the 2021 N.C.A.A. Men&#39;s and Women&#39;s tournaments, both of which had some pretty interesting results. South Carolina topped the Women&#39;s Tournament field with an undefeated streak while Alabama, Houston, Kansas and Purdue took the No. 1 spot in the Men&#39;s Tournament bracket.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Regulators Close Another Bank and Move to Protect Deposits</h3>
-<sub>By Jeanna Smialek and Alan Rappeport</sub>
-<p>The Treasury, Federal Reserve and Federal Deposit Insurance Corporation unveiled a plan to contain fallout from Silicon Valley Bank’s collapse, and said taxpayers would not bear the costs.  <a href="https://nyti.ms/3LlisBt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<h3>HSBC to Buy Silicon Valley Bank’s British Subsidiary</h3>
+<sub>By Jin Yu Young</sub>
+<p>Prime Minister Rishi Sunak said the country’s financial system was in good health and would not suffer from the demise of Silicon Valley Bank.  <a href="https://nyti.ms/42knVyL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Risky Bet on Crypto and a Run on Deposits Tank Signature Bank</h3>
 <sub>By Matthew Goldstein and Emily Flitter</sub>
 <p>Regulators said keeping open the 24-year-old institution, which held deposits from law firms and real estate companies, could threaten the financial system’s stability.  <a href="https://nyti.ms/3JBaD9m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Silicon Valley Bank Collapse Threatens Climate Start-Ups</h3>
-<sub>By David Gelles</sub>
-<p>The bank had relationships with more than 1,500 companies working on technologies aimed at curbing global warming.  <a href="https://nyti.ms/4034wA6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -132,6 +130,12 @@ There are a lot of interesting things happening in the world right now. Business
 <h3>2023 N.C.A.A. Men’s Tournament Bracket</h3>
 <sub></sub>
 <p>Print your bracket, make your picks, and follow the latest scores as the tournament unfolds.  <a href="https://nyti.ms/3T7x7Cg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>2023 N.C.A.A. Women’s Tournament Bracket</h3>
+<sub></sub>
+<p>Sixty-eight teams will take their shot at the national championship. See the bracket here.  <a href="https://nyti.ms/3LemSKx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
