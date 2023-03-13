@@ -60,12 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 12, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now! Regulators have just closed another bank to protect customers&#39; deposits, and they&#39;ve put a plan in place to deal with the collapse of Silicon Valley Bank. Companies involved in technology that helps reduce global warming were hurt by the closure. In Alaska, the administration is getting ready to approve an 8-billion-dollar oil project despite sharp climate opposition. This week saw the 95th Academy Awards, where everyone showed up in style and some of our favorite films were honored. Meanwhile, there&#39;s been a war happening in Ukraine which has put Switzerland&#39;s centuries-long neutrality to the test, as they make arms that Western allies want to send there. At the same time, NCAA basketball tournaments for both men and women are wrapping up and their respective brackets are available for fans to view. Lastly, actor Brett Goldstein has recently become a breakout star for his role in Apple TV&#39;s show &quot;Lasso&quot; and is now getting geared up for a role in a Marvel movie! Oh and there&#39;s also been a spiraling dispute with one of BBC&#39;s hosts which is putting their reputation on the line.</p>
+Business: Regulators have had to close two banks in the US recently, Silicon Valley Bank and Signature bank, to protect customers&#39; deposits. 
+
+Climate: The collapse of Silicon Valley Bank has put climate start-ups in danger as they had relationships with more than 1,500 companies. The Administration is also set to approve a huge oil project in Alaska which could have major implications for global warming. 
+
+Movies &amp; Style: The Academy Awards have taken place and there&#39;s been a lot of buzz over which stars looked the best on the &quot;Not-So-Red Carpet&quot;. 
+
+World: The war in Ukraine has put centuries of Switzerland neutrality to the test, as Swiss law bans sending arms to Kyiv. 
+
+Sports: March Madness is here! Four No. 1 seeds, Alabama, Houston, Kansas and Purdue have been selected for the men&#39;s tournament and South Carolina is the favorite for the women&#39;s tournament. Brackets are available online so see who you can pick! 
+
+Arts: Brett Goldstein is the breakout star of Apple TV&#39;s &#39;Lasso&#39; and he&#39;s now set to star in a Marvel movie and a streaming series. He&#39;s focusing on human connection as well.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Regulators Close Another Bank and Move to Protect Deposits</h3>
 <sub>By Jeanna Smialek and Alan Rappeport</sub>
-<p>The Treasury, Federal Reserve and Federal Deposit Insurance Corporation unveiled a plan to contain fallout from Silicon Valley Bank’s collapse.  <a href="https://nyti.ms/3LlisBt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Treasury, Federal Reserve and Federal Deposit Insurance Corporation unveiled a plan to contain fallout from Silicon Valley Bank’s collapse, and said taxpayers would not bear the costs.  <a href="https://nyti.ms/3LlisBt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Risky Bet on Crypto and a Run on Deposits Tank Signature Bank</h3>
+<sub>By Matthew Goldstein and Emily Flitter</sub>
+<p>Regulators said keeping open the 24-year-old institution, which held deposits from law firms and real estate companies, could threaten the financial system’s stability.  <a href="https://nyti.ms/3JBaD9m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -87,9 +103,9 @@ There&#39;s a lot happening in the world right now! Regulators have just closed 
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>2023 Oscars: Every Look From the Red Carpet</h3>
+<h3>2023 Oscars: Every Look From the Not-So-Red Carpet</h3>
 <sub>By The Styles Desk</sub>
-<p>Hollywood’s brightest stars battled to make the biggest splash on the champagne carpet before the 95th Academy Awards.  <a href="https://nyti.ms/3ZGpW6B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Hollywood’s brightest stars battle to make the biggest splash on the champagne carpet before the 95th Academy Awards.  <a href="https://nyti.ms/3ZGpW6B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -127,12 +143,6 @@ There&#39;s a lot happening in the world right now! Regulators have just closed 
 <sub>By Jeremy Egner</sub>
 <p>The Apple TV+ show’s breakout star is preparing to play a Marvel movie god when he’s not working on the hit streaming series “Shrinking.” But what he’s really after is human connection.  <a href="https://nyti.ms/3l94Qi7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spiraling Dispute With Star Host Puts BBC’s Reputation on the Line</h3>
-<sub>By Mark Landler</sub>
-<p>The British public broadcaster’s suspension of one of its highest-profile sports anchors has grown into a wider controversy that poses risks to its reputation for neutrality and independence.  <a href="https://nyti.ms/3YLVXZw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
