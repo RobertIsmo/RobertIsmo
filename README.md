@@ -60,24 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 12, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now! First, there is trouble in Ukraine. There are ongoing attacks against a town called Kupiansk and the Swiss government is facing a debate over whether it should change its neutrality concept in order to send arms to Kyiv. Meanwhile, regulators have shut down Silicon Valley Bank, one of the largest U.S. bank failures since the 2008 financial crisis. Fox News also is being sued for defamation by Dominion Voting Systems, and a special grand jury in Georgia is looking into election meddling involving an ally of Donald Trump&#39;s. Finally, Mike Pence has spoken out about the Capitol riots on Jan. 6 and has criticized those minimizing it.</p>
+There&#39;s a lot happening in the world right now! Regulators have just closed another bank to protect customers&#39; deposits, and they&#39;ve put a plan in place to deal with the collapse of Silicon Valley Bank. Companies involved in technology that helps reduce global warming were hurt by the closure. In Alaska, the administration is getting ready to approve an 8-billion-dollar oil project despite sharp climate opposition. This week saw the 95th Academy Awards, where everyone showed up in style and some of our favorite films were honored. Meanwhile, there&#39;s been a war happening in Ukraine which has put Switzerland&#39;s centuries-long neutrality to the test, as they make arms that Western allies want to send there. At the same time, NCAA basketball tournaments for both men and women are wrapping up and their respective brackets are available for fans to view. Lastly, actor Brett Goldstein has recently become a breakout star for his role in Apple TV&#39;s show &quot;Lasso&quot; and is now getting geared up for a role in a Marvel movie! Oh and there&#39;s also been a spiraling dispute with one of BBC&#39;s hosts which is putting their reputation on the line.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Regulators Race to Contain Silicon Valley Bank Fallout</h3>
+<h3>Regulators Close Another Bank and Move to Protect Deposits</h3>
 <sub>By Jeanna Smialek and Alan Rappeport</sub>
-<p>Treasury Secretary Janet Yellen sought to reassure the public on Sunday as regulators scrambled. An auction for the bank was underway.  <a href="https://nyti.ms/3LlisBt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Treasury, Federal Reserve and Federal Deposit Insurance Corporation unveiled a plan to contain fallout from Silicon Valley Bank’s collapse.  <a href="https://nyti.ms/3LlisBt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Silicon Valley Bank Collapse: What We Know and How It Happened</h3>
-<sub>By Vivian Giang and Jessica Silver-Greenberg</sub>
-<p>Regulators shut down Silicon Valley Bank on Friday, in the largest U.S. bank failure since the 2008 financial crisis.  <a href="https://nyti.ms/3YHVGqq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Silicon Valley Bank Collapse Threatens Climate Start-Ups</h3>
+<sub>By David Gelles</sub>
+<p>The bank had relationships with more than 1,500 companies working on technologies aimed at curbing global warming.  <a href="https://nyti.ms/4034wA6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox’s P.R. Woes May Not Directly Translate to Legal Ones</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>Some of the unflattering private messages among the network’s hosts and executives may never become evidence when Dominion Voting Systems’ defamation case against Fox News goes to trial.  <a href="https://nyti.ms/3lf1KZM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Administration to Approve Huge Alaska Oil Project on Monday, Two Officials Say</h3>
+<sub>By Lisa Friedman</sub>
+<p>Biden is also expected to put broad new limits on Arctic drilling in an apparent effort to temper criticism over the $8 billion Willow oil project, which has faced sharp climate opposition.  <a href="https://nyti.ms/3JAJaF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Oscars 2023 Winners: Updating List</h3>
+<sub>By Gabe Cohn</sub>
+<p>The list of winners for the 95th Academy Awards.  <a href="https://nyti.ms/3mLgQqy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>2023 Oscars: Every Look From the Red Carpet</h3>
+<sub>By The Styles Desk</sub>
+<p>Hollywood’s brightest stars battled to make the biggest splash on the champagne carpet before the 95th Academy Awards.  <a href="https://nyti.ms/3ZGpW6B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,10 +98,28 @@ There is a lot happening in the world right now! First, there is trouble in Ukra
 <p>The Alpine state makes arms that Western allies want to send to Kyiv. Swiss law bans this, driving a national debate about whether its concept of neutrality should change.  <a href="https://nyti.ms/3yvquzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Steps Up Calls for Evacuation of Kupiansk Under Relentless Russian Shelling</h3>
-<sub>By Matthew Mpoke Bigg, Carlotta Gall and Oleksandr Chubko</sub>
-<p>Attacks on the northeast town in the Kharkiv region of Ukraine continued on Sunday.  <a href="https://nyti.ms/3mMHYFF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Seedings for N.C.A.A. Men’s Tournament Show Wide-Open Field</h3>
+<sub>By Billy Witz</sub>
+<p>Alabama, Houston, Kansas and Purdue earned No. 1 seeds in a tournament where top teams seem more beatable than usual, and others that usually might be considered upstarts have viable paths to the championship.  <a href="https://nyti.ms/3T8hPNE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>South Carolina Tops N.C.A.A. Women’s Tournament Field</h3>
+<sub>By Kris Rhim</sub>
+<p>There are challengers, of course, but no team is tougher on paper than the undefeated, reigning champion Gamecocks.  <a href="https://nyti.ms/3Fig4Yh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>2023 N.C.A.A. Men’s Tournament Bracket</h3>
+<sub></sub>
+<p>Print your bracket, make your picks, and follow the latest scores as the tournament unfolds.  <a href="https://nyti.ms/3T7x7Cg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>2023 N.C.A.A. Women’s Tournament Bracket</h3>
+<sub></sub>
+<p>Sixty-eight teams will take their shot at the national championship. See the bracket here.  <a href="https://nyti.ms/3LemSKx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -98,40 +128,10 @@ There is a lot happening in the world right now! First, there is trouble in Ukra
 <p>The Apple TV+ show’s breakout star is preparing to play a Marvel movie god when he’s not working on the hit streaming series “Shrinking.” But what he’s really after is human connection.  <a href="https://nyti.ms/3l94Qi7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Where the Band Kids Are</h3>
-<sub>By Ashley Markle and Jazmine Hughes</sub>
-<p>The band kids of Ravenna High in Ohio dream of leaving their “nothing town,” but fear what that means they may have to leave behind.  <a href="https://nyti.ms/3JnnHPH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Spiraling Dispute With Star Host Puts BBC’s Reputation on the Line</h3>
 <sub>By Mark Landler</sub>
 <p>The British public broadcaster’s suspension of one of its highest-profile sports anchors has grown into a wider controversy that poses risks to its reputation for neutrality and independence.  <a href="https://nyti.ms/3YLVXZw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Hey, That Red Carpet Isn’t Red!</h3>
-<sub>By Sarah Bahr</sub>
-<p>The 2023 Academy Awards carpet’s champagne hue — a break with a 62-year tradition of the bright red rug — is the latest arrival rug to opt for a colorful palette.  <a href="https://nyti.ms/420jDMC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>How to Watch the Oscars 2023: Date, Time and Streaming</h3>
-<sub>By Sarah Bahr</sub>
-<p>A guide to everything you need to know for the 95th annual Academy Awards on Sunday night. Who will be presenting? Who won’t be!  <a href="https://nyti.ms/3JcFjMQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Little-Known Lawyer, a Trump Ally, Draws Scrutiny in Georgia</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>A special grand jury looking into election meddling interviewed Robert Cheeley, a sign that false claims made by Donald J. Trump’s allies loom large in the case.  <a href="https://nyti.ms/42aeGAP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘History Will Hold Donald Trump Accountable’ for Jan. 6, Pence Says</h3>
-<sub>By Jonathan Weisman</sub>
-<p>At a Washington dinner event, Mike Pence criticized the president he served under as well as Republicans who are minimizing the Capitol riot.  <a href="https://nyti.ms/3JvV8yD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
