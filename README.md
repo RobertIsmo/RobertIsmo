@@ -60,25 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 14, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world in regards to the economy and government regulations. Banks are collapsing one after the other due to looser financial requirements for midsize banks, and this has provoked a ferocious popular backlash in Washington as some people worry it may be becoming a bailout situation. There&#39;s also a lot of attention on Silicon Valley and its vulnerabilities being exposed as a result. 
-
-In addition, there have been several natural occurrences around the world like a major snowstorm hitting the northeast US, plus more widespread heavy rain coming down in California after an atmospheric river that already caused flooding. 
-
-On the political front, Russian citizens are fleeing their country due to the war and quickly reshaping societies of countries whom they took refuge in. Meanwhile, Russia&#39;s mercenary chief is maneuvering on their home front, preparing for a political advance with Vladimir Putin&#39;s favor. 
-
-And finally, a 7.8-magnitude earthquake struck the Turkish city of Antakya recently, resulting in thousands of buildings being collapsed and potentially many more that may have to come down soon.</p>
+The world is continuing to experience the impacts of the 2008 financial crisis. Banks are rebounding from recent losses, but worry from investors remains. Technology companies, particularly Meta, are making cutbacks due to global economic shift and efficiency initiatives. China is revamping its regulatory framework in order to exert more control over its banking system, while Russians are fleeing their country and an increasing number of countries are impacted by the change in demographics. In addition, extreme weather patterns are becoming larger and more severe around the globe, with droughts and floods on the rise. In the US, a major snowstorm is moving across the Northeast and California is experiencing heavy rains with extensive flooding expected. All of this combined is creating a very uncertain economic and environmental future.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Back-to-Back Bank Collapses Came After Deregulatory Push</h3>
-<sub>By David Enrich</sub>
-<p>Officials with Signature and Silicon Valley banks, which regulators seized in recent days, called for looser financial requirements for midsize banks.  <a href="https://nyti.ms/3TczHXy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>After Bank Debacle, Silicon Valley Reckons With Its Image</h3>
-<sub>By Erin Griffith and Mike Isaac</sub>
-<p>Even as start-ups and investors began recovering their money from Silicon Valley Bank, the episode exposed the tech industry’s vulnerabilities.  <a href="https://nyti.ms/3Ta2Z9n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<h3>Regional Bank Stocks Rebound as Panic Appears to Pause</h3>
+<sub>By Joe Rennison</sub>
+<p>Banking stocks that were hammered in the wake of the collapse of two midsize banks recovered on Tuesday as investor fears seemed to ease.  <a href="https://nyti.ms/3yyKQZr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-your-money-blue" alt="">
 <h3>Is My Money Safe? Here’s What Is Covered, and How You Can Do More.</h3>
@@ -98,23 +86,11 @@ And finally, a 7.8-magnitude earthquake struck the Turkish city of Antakya recen
 <p>The government took drastic action to shore up the banking system and make depositors of two failed banks whole. It quickly drew blowback.  <a href="https://nyti.ms/3YF0GMJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Can We Measure Droughts and Deluges? Weigh the Planet.</h3>
-<sub>By Mira Rojanasakul</sub>
-<p>Using 20 years of satellite observations, researchers identified periods of extreme wetness and dryness, and found they were becoming larger, more frequent and more severe.  <a href="https://nyti.ms/3JDLXxh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Meta to Lay Off Another 10,000 Workers</h3>
+<sub>By Mike Isaac</sub>
+<p>It would be the tech company’s second round of cuts since November. Mark Zuckerberg, its chief executive, has declared 2023 the “year of efficiency.”  <a href="https://nyti.ms/3Lnmtp3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Northeast Braces for Power Failures as Snow Sweeps In</h3>
-<sub>By Michael Levenson</sub>
-<p>A major storm moving through the region could drop at least six inches of snow in seven states. Power outages and flight delays were reported early Tuesday.  <a href="https://nyti.ms/426iiE2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Another ‘Significant’ Atmospheric River Brings Yet More Rain to California</h3>
-<sub>By Judson Jones</sub>
-<p>More widespread heavy rain is on the way, only a few days after an earlier atmospheric river ended and some of its flooding began to recede.  <a href="https://nyti.ms/3FmnbiF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>To Rein in China’s Banks, Xi Uses Familiar Playbook</h3>
@@ -134,10 +110,28 @@ And finally, a 7.8-magnitude earthquake struck the Turkish city of Antakya recen
 <p>Yevgeny Prigozhin says his Wagner force will shrink when the battle for the Ukrainian city of Bakhmut is done. Now he’s maneuvering on the home front, for the favor of President Vladimir V. Putin.  <a href="https://nyti.ms/3Ja1kvQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Thousands of Buildings Collapsed in One Turkish City. Thousands More May Have to Come Down.</h3>
-<sub>By Leanne Abraham, Lauren Leatherby and Scott Reinhard</sub>
-<p>Aerial imagery from the Turkish government shows astonishing destruction in Antakya, where a 7.8-magnitude earthquake struck on Feb. 6.  <a href="https://nyti.ms/3TeEVlx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ron DeSantis Says Protecting Ukraine Is Not a Key U.S. Interest</h3>
+<sub>By Jonathan Swan and Maggie Haberman</sub>
+<p>The Florida governor, on Tucker Carlson’s Fox News show, broke with Republicans to attack President Biden’s foreign policy and align more closely with Donald Trump as he weighs a presidential bid.  <a href="https://nyti.ms/3ZZmVOc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Can We Measure Droughts and Deluges? Weigh the Planet.</h3>
+<sub>By Mira Rojanasakul</sub>
+<p>Using 20 years of satellite observations, researchers identified periods of extreme wetness and dryness, and found they were becoming larger, more frequent and more severe.  <a href="https://nyti.ms/3JDLXxh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Late-Winter Snowstorm Sweeps Into the Northeast</h3>
+<sub>By Michael Levenson</sub>
+<p>A major storm moving through the region could drop at least six inches of snow in seven states. Power outages and flight delays were reported Tuesday morning.  <a href="https://nyti.ms/426iiE2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Another ‘Significant’ Atmospheric River Is Drenching California</h3>
+<sub>By Judson Jones</sub>
+<p>More heavy rain is soaking the state on Tuesday, with the ground still saturated from the storms and flooding last week.  <a href="https://nyti.ms/3FmnbiF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
