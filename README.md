@@ -60,24 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 14, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. Businesses and banks of all sizes across the U.S. are struggling due to concerns about a larger financial crisis. Many banks have collapsed recently, and it&#39;s sparked debate over regulations for midsize banks. Additionally, the tech industry is being tested and the government has taken dramatic steps to help shore up the banking system. On top of that, Russia has been escalating tensions in Ukraine and Florida Governor Ron DeSantis and former President Donald Trump are clashing over foreign policy. Out of all these topics, President Biden just announced a landmark submarine deal with Australia and Britain, while also taking contradictory positions on a huge oil project in Alaska. And on top of all that, A24 achieved great success at the Oscars this year!</p>
+Right now, there&#39;s a lot going on in the world in regards to the economy and government regulations. Banks are collapsing one after the other due to looser financial requirements for midsize banks, and this has provoked a ferocious popular backlash in Washington as some people worry it may be becoming a bailout situation. There&#39;s also a lot of attention on Silicon Valley and its vulnerabilities being exposed as a result. 
+
+In addition, there have been several natural occurrences around the world like a major snowstorm hitting the northeast US, plus more widespread heavy rain coming down in California after an atmospheric river that already caused flooding. 
+
+On the political front, Russian citizens are fleeing their country due to the war and quickly reshaping societies of countries whom they took refuge in. Meanwhile, Russia&#39;s mercenary chief is maneuvering on their home front, preparing for a political advance with Vladimir Putin&#39;s favor. 
+
+And finally, a 7.8-magnitude earthquake struck the Turkish city of Antakya recently, resulting in thousands of buildings being collapsed and potentially many more that may have to come down soon.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Regional Banks Slammed by Fear of a Broader Financial Crisis</h3>
-<sub>By Stacy Cowley, Rob Copeland and Anupreeta Das</sub>
-<p>Across the country, banks of various sizes are battling market turmoil as customers rushed to withdraw their deposits and investors, worried about more bank runs, dumped bank stocks.  <a href="https://nyti.ms/42bmtP6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Back-to-Back Bank Collapses Came After Deregulatory Push</h3>
 <sub>By David Enrich</sub>
 <p>Officials with Signature and Silicon Valley banks, which regulators seized in recent days, called for looser financial requirements for midsize banks.  <a href="https://nyti.ms/3TczHXy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Was This a Bailout? Skeptics Descend on Silicon Valley Bank Response.</h3>
-<sub>By Jeanna Smialek and Alan Rappeport</sub>
-<p>The government took drastic action to shore up the banking system and make depositors of two failed banks whole. It quickly drew blowback.  <a href="https://nyti.ms/3YF0GMJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -92,46 +86,58 @@ There is a lot going on in the world right now. Businesses and banks of all size
 <p>The F.D.I.C. and other entities will protect most people’s bank and brokerage balances. But it’s as good a time as any for consumers to create other backstops.  <a href="https://nyti.ms/42kVT6a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Attacks Along a Wide Arc of Ukraine Yield Little but Casualties</h3>
-<sub>By Marc Santora, Matthew Mpoke Bigg and Richard Pérez-Peña</sub>
-<p>Moscow’s forces have stepped up artillery and infantry assaults across eastern Ukraine, trying to improve their position before either side attempts a major breakthrough.  <a href="https://nyti.ms/3lbuVgt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ron DeSantis Says Protecting Ukraine Is Not a Key U.S. Interest</h3>
-<sub>By Jonathan Swan and Maggie Haberman</sub>
-<p>The Florida governor, on Tucker Carlson’s Fox News show, broke with Republicans to attack President Biden’s foreign policy and align more closely with Donald Trump as he weighs a presidential bid.  <a href="https://nyti.ms/3ZZmVOc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<h3>Don’t Call It a Bailout: Washington Is Haunted by the 2008 Financial Crisis</h3>
+<sub>By Peter Baker</sub>
+<p>The colossal bailouts after the 2008 collapse arguably saved the global economy, but they also provoked a ferocious popular backlash.  <a href="https://nyti.ms/3yBLKnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Visits the Same Iowa City on Monday That DeSantis Visited on Friday</h3>
-<sub>By Michael C. Bender</sub>
-<p>Donald J. Trump’s event on Monday evening in Davenport was aimed in part at slowing any momentum from Gov. Ron DeSantis of Florida.  <a href="https://nyti.ms/3TbCkJa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Was This a Bailout? Skeptics Descend on Silicon Valley Bank Response.</h3>
+<sub>By Jeanna Smialek and Alan Rappeport</sub>
+<p>The government took drastic action to shore up the banking system and make depositors of two failed banks whole. It quickly drew blowback.  <a href="https://nyti.ms/3YF0GMJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Biden Got From ‘No More Drilling’ to Backing a Huge Project in Alaska</h3>
-<sub>By Lisa Friedman</sub>
-<p>High gas prices, a looming election and fears of a costly legal battle seem to have shifted the political calculus for the president.  <a href="https://nyti.ms/3mNhbcm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<h3>How Can We Measure Droughts and Deluges? Weigh the Planet.</h3>
+<sub>By Mira Rojanasakul</sub>
+<p>Using 20 years of satellite observations, researchers identified periods of extreme wetness and dryness, and found they were becoming larger, more frequent and more severe.  <a href="https://nyti.ms/3JDLXxh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
-<h3>Patricia Schroeder, Feminist Trailblazer in Congress, Dies at 82</h3>
-<sub>By Katharine Q. Seelye</sub>
-<p>Ms. Schroeder, who had a long career in the House, helped steer passage of legislation on family leave, pregnancy discrimination and other progressive causes.  <a href="https://nyti.ms/3l9AMmn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Northeast Braces for Power Failures as Snow Sweeps In</h3>
+<sub>By Michael Levenson</sub>
+<p>A major storm moving through the region could drop at least six inches of snow in seven states. Power outages and flight delays were reported early Tuesday.  <a href="https://nyti.ms/426iiE2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Unveils Landmark Submarine Deal With Australia and Britain</h3>
-<sub>By Michael D. Shear and Edward Wong</sub>
-<p>The arrangement is part of a broader effort to counter China’s military development and assertive territorial claims across Asia.  <a href="https://nyti.ms/3JBnpoH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Another ‘Significant’ Atmospheric River Brings Yet More Rain to California</h3>
+<sub>By Judson Jones</sub>
+<p>More widespread heavy rain is on the way, only a few days after an earlier atmospheric river ended and some of its flooding began to recede.  <a href="https://nyti.ms/3FmnbiF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A24 Achieves Art-House Supremacy With Triumphant Oscar Night</h3>
-<sub>By Nicole Sperling</sub>
-<p>The independent studio behind “Everything Everywhere All at Once” and “The Whale” became the first to sweep the acting awards and win best director and best picture in the same year.  <a href="https://nyti.ms/3TeCM9F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>To Rein in China’s Banks, Xi Uses Familiar Playbook</h3>
+<sub>By Daisuke Wakabayashi and Claire Fu</sub>
+<p>Xi Jinping is revamping China’s regulatory framework so the ruling Communist Party can assert more direct control over financial policy.  <a href="https://nyti.ms/3yDLeWm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Flood of Russians Alters Life for Countries That Took Them In</h3>
+<sub>By Sergey Ponomarev and Ivan Nechepurenko</sub>
+<p>Russians, fleeing their country and its war, have quickly reshaped the societies of nations like Georgia and Armenia.  <a href="https://nyti.ms/3JA91Mf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia’s Mercenary Chief Prepares Ground for a Political Advance</h3>
+<sub>By Anatoly Kurmanaev</sub>
+<p>Yevgeny Prigozhin says his Wagner force will shrink when the battle for the Ukrainian city of Bakhmut is done. Now he’s maneuvering on the home front, for the favor of President Vladimir V. Putin.  <a href="https://nyti.ms/3Ja1kvQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Thousands of Buildings Collapsed in One Turkish City. Thousands More May Have to Come Down.</h3>
+<sub>By Leanne Abraham, Lauren Leatherby and Scott Reinhard</sub>
+<p>Aerial imagery from the Turkish government shows astonishing destruction in Antakya, where a 7.8-magnitude earthquake struck on Feb. 6.  <a href="https://nyti.ms/3TeEVlx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
