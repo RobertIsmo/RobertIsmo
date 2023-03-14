@@ -58,9 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, March 13, Central Standard Time</p>
+<p>It is Tuesday, March 14, Central Standard Time</p>
 <p>
-There is a lot going on with the global economy since the pandemic started. There has been a lot of market turmoil and worry about a broader financial crisis. Banks of various sizes are struggling as customers withdraw their deposits and investors dump bank stocks. Two mid-sized banks in particular, Silicon Valley Bank and Signature Bank, have collapsed recently after calls for financial deregulation. The Federal Reserve has been trying to combat inflation by raising rates, but it has become more difficult to do this amidst the instability. Meanwhile, Russia has increased its assaults on Ukraine, prompting the Biden administration to grant one-year extensions for Ukrainians who fled in the first months after invasion—over the objections of Florida Governor Ron DeSantis. Finally, President Biden is facing criticism from both sides for his recent decision to back a huge oil project in Alaska aimed at reducing high gas prices before the next election.</p>
+It looks like the financial sector is really struggling right now. Many banks across the country are struggling with customer withdrawals and investors dumping their stocks in fear of impending bank runs. There&#39;s also been discussion about deregulation of financial requirements for midsize banks. To make matters worse, a Silicon Valley bank recently collapsed, stirring up a lot of skepticism over potential bailouts. The tech industry has since been trying to rebuild their image, though it&#39;s not been easy. 
+
+In other news, Russia has launched a series of attacks against Ukraine, leading to numerous casualties; President Biden is pushing forward with a vast project in Alaska; and Florida governor Ron DeSantis recently attacked Biden&#39;s foreign policy on Tucker Carlson&#39;s Fox News show. Trump was in Iowa on Monday evening trying to counteract any possible momentum that might come from DeSantis&#39; visit the previous Friday. 
+
+Lastly, there have been some additions to our cultural landmarks - an independent movie studio won best picture and 4 acting awards, and long-time feminist trailblazer Patricia Schroeder passed away at 82. </p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Regional Banks Slammed by Fear of a Broader Financial Crisis</h3>
@@ -72,18 +76,6 @@ There is a lot going on with the global economy since the pandemic started. Ther
 <h3>Back-to-Back Bank Collapses Came After Deregulatory Push</h3>
 <sub>By David Enrich</sub>
 <p>Officials with Signature and Silicon Valley banks, which regulators seized in recent days, called for looser financial requirements for midsize banks.  <a href="https://nyti.ms/3TczHXy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Banking Turmoil: What We Know</h3>
-<sub>By Vivian Giang</sub>
-<p>Regulators trying to stem panic among customers shut down Silicon Valley Bank and Signature Bank within days.  <a href="https://nyti.ms/3yzkINP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Federal Reserve’s Path Is Murkier After Bank Blowup</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Fed has been rapidly raising interest rates to fight inflation. But making big moves could be trickier amid instability.  <a href="https://nyti.ms/3Fl43l7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -111,12 +103,6 @@ There is a lot going on with the global economy since the pandemic started. Ther
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Extends Stay for Thousands of Ukrainians</h3>
-<sub>By Eileen Sullivan</sub>
-<p>One-year extensions for those who fled in the first months after Russia’s invasion will be granted on a case-by-case basis, officials said.  <a href="https://nyti.ms/3LlDyQq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ron DeSantis Says Protecting Ukraine Is Not a Key U.S. Interest</h3>
 <sub>By Jonathan Swan and Maggie Haberman</sub>
 <p>The Florida governor, on Tucker Carlson’s Fox News show, broke with Republicans to attack President Biden’s foreign policy and align more closely with Donald Trump as he weighs a presidential bid.  <a href="https://nyti.ms/3ZZmVOc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -132,6 +118,24 @@ There is a lot going on with the global economy since the pandemic started. Ther
 <h3>How Biden Got From ‘No More Drilling’ to Backing a Huge Project in Alaska</h3>
 <sub>By Lisa Friedman</sub>
 <p>High gas prices, a looming election and fears of a costly legal battle seem to have shifted the political calculus for the president.  <a href="https://nyti.ms/3mNhbcm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>Patricia Schroeder, Feminist Trailblazer in Congress, Dies at 82</h3>
+<sub>By Katharine Q. Seelye</sub>
+<p>Ms. Schroeder, who had a long career in the House, helped steer passage of legislation on family leave, pregnancy discrimination and other progressive causes.  <a href="https://nyti.ms/3l9AMmn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Unveils Landmark Submarine Deal With Australia and Britain</h3>
+<sub>By Michael D. Shear and Edward Wong</sub>
+<p>The arrangement is part of a broader effort to counter China’s military development and assertive territorial claims across Asia.  <a href="https://nyti.ms/3JBnpoH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A24 Achieves Art-House Supremacy With Triumphant Oscar Night</h3>
+<sub>By Nicole Sperling</sub>
+<p>The independent studio behind “Everything Everywhere All at Once” and “The Whale” became the first to sweep the acting awards and win best director and best picture in the same year.  <a href="https://nyti.ms/3TeCM9F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
