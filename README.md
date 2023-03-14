@@ -60,44 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 14, Central Standard Time</p>
 <p>
-The world is continuing to experience the impacts of the 2008 financial crisis. Banks are rebounding from recent losses, but worry from investors remains. Technology companies, particularly Meta, are making cutbacks due to global economic shift and efficiency initiatives. China is revamping its regulatory framework in order to exert more control over its banking system, while Russians are fleeing their country and an increasing number of countries are impacted by the change in demographics. In addition, extreme weather patterns are becoming larger and more severe around the globe, with droughts and floods on the rise. In the US, a major snowstorm is moving across the Northeast and California is experiencing heavy rains with extensive flooding expected. All of this combined is creating a very uncertain economic and environmental future.</p>
+Right now, it looks like there is lots of movement around the world. There are Russian refugees that have been altering life in countries like Georgia and Armenia. On the home front, there is a Russian mercenary chief that is maneuvering his way to get the favor of the President Vladimir V. Putin. In the US, there was a late-winter snowstorm sweeping into the Northeast while California was drenched in an &#39;atmosperic river&#39; and Wellesley College has been debating whether to admit trans men or not. On the business side, there is an investigation into Silicon Valley Bank Collapse as well as inflation report&#39;s details showing price increase stubbornness and a funding frenzy for A.I. start-ups. To top it off, Chinese President Xi Jinping is revamping China’s regulatory framework to take more direct control over financial policy.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Regional Bank Stocks Rebound as Panic Appears to Pause</h3>
-<sub>By Joe Rennison</sub>
-<p>Banking stocks that were hammered in the wake of the collapse of two midsize banks recovered on Tuesday as investor fears seemed to ease.  <a href="https://nyti.ms/3yyKQZr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>Is My Money Safe? Here’s What Is Covered, and How You Can Do More.</h3>
-<sub>By Ron Lieber and Tara Siegel Bernard</sub>
-<p>The F.D.I.C. and other entities will protect most people’s bank and brokerage balances. But it’s as good a time as any for consumers to create other backstops.  <a href="https://nyti.ms/42kVT6a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Don’t Call It a Bailout: Washington Is Haunted by the 2008 Financial Crisis</h3>
-<sub>By Peter Baker</sub>
-<p>The colossal bailouts after the 2008 collapse arguably saved the global economy, but they also provoked a ferocious popular backlash.  <a href="https://nyti.ms/3yBLKnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Was This a Bailout? Skeptics Descend on Silicon Valley Bank Response.</h3>
-<sub>By Jeanna Smialek and Alan Rappeport</sub>
-<p>The government took drastic action to shore up the banking system and make depositors of two failed banks whole. It quickly drew blowback.  <a href="https://nyti.ms/3YF0GMJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Meta to Lay Off Another 10,000 Workers</h3>
-<sub>By Mike Isaac</sub>
-<p>It would be the tech company’s second round of cuts since November. Mark Zuckerberg, its chief executive, has declared 2023 the “year of efficiency.”  <a href="https://nyti.ms/3Lnmtp3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>To Rein in China’s Banks, Xi Uses Familiar Playbook</h3>
-<sub>By Daisuke Wakabayashi and Claire Fu</sub>
-<p>Xi Jinping is revamping China’s regulatory framework so the ruling Communist Party can assert more direct control over financial policy.  <a href="https://nyti.ms/3yDLeWm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Flood of Russians Alters Life for Countries That Took Them In</h3>
 <sub>By Sergey Ponomarev and Ivan Nechepurenko</sub>
@@ -110,22 +74,46 @@ The world is continuing to experience the impacts of the 2008 financial crisis. 
 <p>Yevgeny Prigozhin says his Wagner force will shrink when the battle for the Ukrainian city of Bakhmut is done. Now he’s maneuvering on the home front, for the favor of President Vladimir V. Putin.  <a href="https://nyti.ms/3Ja1kvQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ron DeSantis Says Protecting Ukraine Is Not a Key U.S. Interest</h3>
-<sub>By Jonathan Swan and Maggie Haberman</sub>
-<p>The Florida governor, on Tucker Carlson’s Fox News show, broke with Republicans to attack President Biden’s foreign policy and align more closely with Donald Trump as he weighs a presidential bid.  <a href="https://nyti.ms/3ZZmVOc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Is Said to Open Investigation Into Silicon Valley Bank Collapse</h3>
+<sub>By Matthew Goldstein and Katie Benner</sub>
+<p>Legal experts said a focus of the investigation could be insider sales by several bank executives in the weeks before the bank’s failure.  <a href="https://nyti.ms/3yDuf6x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Can We Measure Droughts and Deluges? Weigh the Planet.</h3>
-<sub>By Mira Rojanasakul</sub>
-<p>Using 20 years of satellite observations, researchers identified periods of extreme wetness and dryness, and found they were becoming larger, more frequent and more severe.  <a href="https://nyti.ms/3JDLXxh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inflation report’s details show price increase stubbornness.</h3>
+<sub>By Jeanna Smialek and Joe Rennison</sub>
+<p>The Consumer Price Index cooled to a 6 percent annual pace in February, but a closely watched monthly index climbed more quickly than economists expected.  <a href="https://nyti.ms/403yMe9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>OpenAI Plans to Up the Ante in Tech’s A.I. Race</h3>
+<sub>By Cade Metz</sub>
+<p>The company unveiled new technology called GPT-4 four months after its ChatGPT stunned Silicon Valley. The update is an improvement, but it carries some of the same baggage.  <a href="https://nyti.ms/3yBjUbc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>10 Ways GPT-4 Is Impressive but Still Flawed</h3>
+<sub>By Cade Metz and Keith Collins</sub>
+<p>OpenAI has upgraded the technology that powers its online chatbot in notable ways. It’s more accurate, but it still makes things up.  <a href="https://nyti.ms/3YOKmsy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Let 1,000 Flowers Bloom’: A.I. Funding Frenzy Escalates</h3>
+<sub>By Erin Griffith and Cade Metz</sub>
+<p>In just weeks, a gold rush into artificial intelligence start-ups has become a full-blown mania.  <a href="https://nyti.ms/3LoHy2y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Meta to Lay Off Another 10,000 Workers</h3>
+<sub>By Mike Isaac</sub>
+<p>It would be the tech company’s second round of cuts since November. Mark Zuckerberg, its chief executive, has declared 2023 the “year of efficiency.”  <a href="https://nyti.ms/3Lnmtp3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Late-Winter Snowstorm Sweeps Into the Northeast</h3>
-<sub>By Michael Levenson</sub>
-<p>A major storm moving through the region could drop at least six inches of snow in seven states. Power outages and flight delays were reported Tuesday morning.  <a href="https://nyti.ms/426iiE2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Michael Levenson and Jesus Jiménez</sub>
+<p>A major storm dropped two feet of snow in portions of northwest Massachusetts, while other cities only saw flurries or rain. The weather brought power outages through the region and caused travel disruptions.  <a href="https://nyti.ms/426iiE2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -133,6 +121,18 @@ The world is continuing to experience the impacts of the 2008 financial crisis. 
 <sub>By Judson Jones</sub>
 <p>More heavy rain is soaking the state on Tuesday, with the ground still saturated from the storms and flooding last week.  <a href="https://nyti.ms/3FmnbiF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At Wellesley College, a Fight Over Whether to Admit Trans Men</h3>
+<sub>By Vimal Patel</sub>
+<p>Students will vote Tuesday on a nonbinding referendum that considers opening admission to all nonbinary and transgender applicants. Opponents say the school’s mission is to educate women.  <a href="https://nyti.ms/3ZNwPmo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>To Rein in China’s Banks, Xi Uses Familiar Playbook</h3>
+<sub>By Daisuke Wakabayashi and Claire Fu</sub>
+<p>Xi Jinping is revamping China’s regulatory framework so the ruling Communist Party can assert more direct control over financial policy.  <a href="https://nyti.ms/3yDLeWm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
