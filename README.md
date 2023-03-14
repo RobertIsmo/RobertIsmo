@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 13, Central Standard Time</p>
 <p>
-There&#39;s been some turbulence in the banking world. Recently, two banks, Signature and Silicon Valley banks, both collapsed after a deregulatory push from officials. Since then, the Federal Reserve has had to make some tricky moves to try to stem panic among customers. Meanwhile, the government has taken drastic action to keep depositors of the failed banks whole, leading to some accusations of a bailout. The tech industry is also feeling the effects of these events as start-ups and investors have begun recovering their money from Silicon Valley Bank and weighing the vulnerabilities of being part of the tech industry. 
-
-On other news, Russian forces have been escalating their attacks along a wide arc of Ukraine, trying to gain tactical advantages for a major breakthrough. As for domestic news, President Biden has extended stays for Ukrainians who initially left when Russia invaded and recently announced a landmark submarine deal with Australia and Britain to counter China&#39;s military development. 
-
-The Oscars were also held recently and it was an ordinary show overall but triumphant for independent studio A24 which became the first to sweep all acting awards and win Best Director and Best Picture in one year. There were some highs (Michelle Yeoh making history) and lows (Cocaine Bear’s cringe-worthy moment), but we ultimately savored what felt like a pretty plain old ordinary ceremony this year.</p>
+There is a lot going on with the global economy since the pandemic started. There has been a lot of market turmoil and worry about a broader financial crisis. Banks of various sizes are struggling as customers withdraw their deposits and investors dump bank stocks. Two mid-sized banks in particular, Silicon Valley Bank and Signature Bank, have collapsed recently after calls for financial deregulation. The Federal Reserve has been trying to combat inflation by raising rates, but it has become more difficult to do this amidst the instability. Meanwhile, Russia has increased its assaults on Ukraine, prompting the Biden administration to grant one-year extensions for Ukrainians who fled in the first months after invasion—over the objections of Florida Governor Ron DeSantis. Finally, President Biden is facing criticism from both sides for his recent decision to back a huge oil project in Alaska aimed at reducing high gas prices before the next election.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Regional Banks Slammed by Fear of a Broader Financial Crisis</h3>
+<sub>By Stacy Cowley, Rob Copeland and Anupreeta Das</sub>
+<p>Across the country, banks of various sizes are battling market turmoil as customers rushed to withdraw their deposits and investors, worried about more bank runs, dumped bank stocks.  <a href="https://nyti.ms/42bmtP6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Back-to-Back Bank Collapses Came After Deregulatory Push</h3>
 <sub>By David Enrich</sub>
@@ -115,27 +117,21 @@ The Oscars were also held recently and it was an ordinary show overall but trium
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Unveils Landmark Submarine Deal With Australia and Britain</h3>
-<sub>By Michael D. Shear and Edward Wong</sub>
-<p>The arrangement is part of a broader effort to counter China’s military development and assertive territorial claims across Asia.  <a href="https://nyti.ms/3JBnpoH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ron DeSantis Says Protecting Ukraine Is Not a Key U.S. Interest</h3>
+<sub>By Jonathan Swan and Maggie Haberman</sub>
+<p>The Florida governor, on Tucker Carlson’s Fox News show, broke with Republicans to attack President Biden’s foreign policy and align more closely with Donald Trump as he weighs a presidential bid.  <a href="https://nyti.ms/3ZZmVOc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>This Year, a Plain Old Ordinary Oscars Was Something to Savor</h3>
-<sub>By A.O. Scott and Manohla Dargis</sub>
-<p>After breathing a sigh of relief that the night went smoothly, our critics examine the acting wins as well as the track records of studios and Netflix.  <a href="https://nyti.ms/3YOJaWe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Visits the Same Iowa City on Monday That DeSantis Visited on Friday</h3>
+<sub>By Michael C. Bender</sub>
+<p>Donald J. Trump’s event on Monday evening in Davenport was aimed in part at slowing any momentum from Gov. Ron DeSantis of Florida.  <a href="https://nyti.ms/3TbCkJa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A24 Achieves Art-House Supremacy With Triumphant Oscar Night</h3>
-<sub>By Nicole Sperling</sub>
-<p>The independent studio behind “Everything Everywhere All at Once” and “The Whale” became the first to sweep the acting awards and win best director and best picture in the same year.  <a href="https://nyti.ms/3TeCM9F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Best and Worst Moments From the 2023 Oscars</h3>
-<sub>By Stephanie Goodman</sub>
-<p>Michelle Yeoh made history, Ke Huy Quan made us tear up and Cocaine Bear made us cringe. These were just some of the highs and lows.  <a href="https://nyti.ms/3Jchk0j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Biden Got From ‘No More Drilling’ to Backing a Huge Project in Alaska</h3>
+<sub>By Lisa Friedman</sub>
+<p>High gas prices, a looming election and fears of a costly legal battle seem to have shifted the political calculus for the president.  <a href="https://nyti.ms/3mNhbcm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
