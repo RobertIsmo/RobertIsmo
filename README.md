@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 14, Central Standard Time</p>
 <p>
-It looks like the financial sector is really struggling right now. Many banks across the country are struggling with customer withdrawals and investors dumping their stocks in fear of impending bank runs. There&#39;s also been discussion about deregulation of financial requirements for midsize banks. To make matters worse, a Silicon Valley bank recently collapsed, stirring up a lot of skepticism over potential bailouts. The tech industry has since been trying to rebuild their image, though it&#39;s not been easy. 
-
-In other news, Russia has launched a series of attacks against Ukraine, leading to numerous casualties; President Biden is pushing forward with a vast project in Alaska; and Florida governor Ron DeSantis recently attacked Biden&#39;s foreign policy on Tucker Carlson&#39;s Fox News show. Trump was in Iowa on Monday evening trying to counteract any possible momentum that might come from DeSantis&#39; visit the previous Friday. 
-
-Lastly, there have been some additions to our cultural landmarks - an independent movie studio won best picture and 4 acting awards, and long-time feminist trailblazer Patricia Schroeder passed away at 82. </p>
+There is a lot going on in the world right now. Businesses and banks of all sizes across the U.S. are struggling due to concerns about a larger financial crisis. Many banks have collapsed recently, and it&#39;s sparked debate over regulations for midsize banks. Additionally, the tech industry is being tested and the government has taken dramatic steps to help shore up the banking system. On top of that, Russia has been escalating tensions in Ukraine and Florida Governor Ron DeSantis and former President Donald Trump are clashing over foreign policy. Out of all these topics, President Biden just announced a landmark submarine deal with Australia and Britain, while also taking contradictory positions on a huge oil project in Alaska. And on top of all that, A24 achieved great success at the Oscars this year!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Regional Banks Slammed by Fear of a Broader Financial Crisis</h3>
