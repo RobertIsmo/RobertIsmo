@@ -60,8 +60,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 14, Central Standard Time</p>
 <p>
-Right now, it looks like there is lots of movement around the world. There are Russian refugees that have been altering life in countries like Georgia and Armenia. On the home front, there is a Russian mercenary chief that is maneuvering his way to get the favor of the President Vladimir V. Putin. In the US, there was a late-winter snowstorm sweeping into the Northeast while California was drenched in an &#39;atmosperic river&#39; and Wellesley College has been debating whether to admit trans men or not. On the business side, there is an investigation into Silicon Valley Bank Collapse as well as inflation report&#39;s details showing price increase stubbornness and a funding frenzy for A.I. start-ups. To top it off, Chinese President Xi Jinping is revamping China’s regulatory framework to take more direct control over financial policy.</p>
+The global economy is being rocked by an increase in inflation and financial turmoil. Banks have been especially hard hit and there are reports of investigations into executives who made decisions that could have contributed to their banks&#39; failure. On the political scen, the U.S. and Russia have been involved in high-altitude confrontation, while at the same time thousands of Russians have fled their country to reshape many nations. Meanwhile, a tech company called OpenAI is taking A.I development to another level, and Meta is laying off thousands of workers in a plan to become more efficient. Finally here at home, students at Wellesley College are engaged in a heated debate about whether or not to admit trans men as students.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>After Days of Panic, Bank Executives Can Breathe Again</h3>
+<sub>By Rob Copeland</sub>
+<p>Shares in midsize banks that seemed to be on the brink stabilized after days of turmoil.  <a href="https://nyti.ms/3FoHoo5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Is Said to Open Investigation Into Silicon Valley Bank Collapse</h3>
+<sub>By Matthew Goldstein and Katie Benner</sub>
+<p>Legal experts said a focus of the investigation could be insider sales by several bank executives in the weeks before the bank’s failure.  <a href="https://nyti.ms/3yDuf6x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Wall Street rises on relief over banks and inflation.</h3>
+<sub>By Joe Rennison</sub>
+<p>A rebound in bank stocks provided a pause in the market panic over the health of the financial system.  <a href="https://nyti.ms/3mPO2Ny"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Stubborn inflation makes the Fed’s interest rate decision fraught.</h3>
+<sub>By Jeanna Smialek and Joe Rennison</sub>
+<p>The Consumer Price Index cooled to a 6 percent annual increase in February, but a closely watched monthly index climbed quickly.  <a href="https://nyti.ms/403yMe9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The White House says high-altitude confrontations between the U.S. and Russia are ‘not an uncommon occurrence.’</h3>
+<sub>By Lara Jakes</sub>
+<p>  <a href="https://nyti.ms/3TdpR7Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Flood of Russians Alters Life for Countries That Took Them In</h3>
 <sub>By Sergey Ponomarev and Ivan Nechepurenko</sub>
@@ -72,18 +102,6 @@ Right now, it looks like there is lots of movement around the world. There are R
 <h3>Russia’s Mercenary Chief Prepares Ground for a Political Advance</h3>
 <sub>By Anatoly Kurmanaev</sub>
 <p>Yevgeny Prigozhin says his Wagner force will shrink when the battle for the Ukrainian city of Bakhmut is done. Now he’s maneuvering on the home front, for the favor of President Vladimir V. Putin.  <a href="https://nyti.ms/3Ja1kvQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Is Said to Open Investigation Into Silicon Valley Bank Collapse</h3>
-<sub>By Matthew Goldstein and Katie Benner</sub>
-<p>Legal experts said a focus of the investigation could be insider sales by several bank executives in the weeks before the bank’s failure.  <a href="https://nyti.ms/3yDuf6x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation report’s details show price increase stubbornness.</h3>
-<sub>By Jeanna Smialek and Joe Rennison</sub>
-<p>The Consumer Price Index cooled to a 6 percent annual pace in February, but a closely watched monthly index climbed more quickly than economists expected.  <a href="https://nyti.ms/403yMe9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -111,27 +129,9 @@ Right now, it looks like there is lots of movement around the world. There are R
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Late-Winter Snowstorm Sweeps Into the Northeast</h3>
-<sub>By Michael Levenson and Jesus Jiménez</sub>
-<p>A major storm dropped two feet of snow in portions of northwest Massachusetts, while other cities only saw flurries or rain. The weather brought power outages through the region and caused travel disruptions.  <a href="https://nyti.ms/426iiE2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Another ‘Significant’ Atmospheric River Is Drenching California</h3>
-<sub>By Judson Jones</sub>
-<p>More heavy rain is soaking the state on Tuesday, with the ground still saturated from the storms and flooding last week.  <a href="https://nyti.ms/3FmnbiF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At Wellesley College, a Fight Over Whether to Admit Trans Men</h3>
 <sub>By Vimal Patel</sub>
 <p>Students will vote Tuesday on a nonbinding referendum that considers opening admission to all nonbinary and transgender applicants. Opponents say the school’s mission is to educate women.  <a href="https://nyti.ms/3ZNwPmo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>To Rein in China’s Banks, Xi Uses Familiar Playbook</h3>
-<sub>By Daisuke Wakabayashi and Claire Fu</sub>
-<p>Xi Jinping is revamping China’s regulatory framework so the ruling Communist Party can assert more direct control over financial policy.  <a href="https://nyti.ms/3yDLeWm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
