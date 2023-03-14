@@ -60,36 +60,64 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 13, Central Standard Time</p>
 <p>
-It looks like there is a lot going on in the world right now. The Federal Reserve has been rapidly raising interest rates to fight inflation, but that could get trickier due to some instability in the banking sector. There&#39;s also international drama involving Russia, with war crimes cases being opened against the country at the International Criminal Court. Closer to home, President Biden recently unveiled a landmark submarine deal with Australia and Britain as part of an effort to counter China. Meanwhile, New York Governor Andrew Cuomo&#39;s plans to build an AirTrain to LaGuardia have officially been scrapped due to ballooning costs. And then of course, we all got to enjoy the Oscars for some lighter news!</p>
+There&#39;s been some turbulence in the banking world. Recently, two banks, Signature and Silicon Valley banks, both collapsed after a deregulatory push from officials. Since then, the Federal Reserve has had to make some tricky moves to try to stem panic among customers. Meanwhile, the government has taken drastic action to keep depositors of the failed banks whole, leading to some accusations of a bailout. The tech industry is also feeling the effects of these events as start-ups and investors have begun recovering their money from Silicon Valley Bank and weighing the vulnerabilities of being part of the tech industry. 
+
+On other news, Russian forces have been escalating their attacks along a wide arc of Ukraine, trying to gain tactical advantages for a major breakthrough. As for domestic news, President Biden has extended stays for Ukrainians who initially left when Russia invaded and recently announced a landmark submarine deal with Australia and Britain to counter China&#39;s military development. 
+
+The Oscars were also held recently and it was an ordinary show overall but triumphant for independent studio A24 which became the first to sweep all acting awards and win Best Director and Best Picture in one year. There were some highs (Michelle Yeoh making history) and lows (Cocaine Bear’s cringe-worthy moment), but we ultimately savored what felt like a pretty plain old ordinary ceremony this year.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Back-to-Back Bank Collapses Came After Deregulatory Push</h3>
+<sub>By David Enrich</sub>
+<p>Officials with Signature and Silicon Valley banks, which regulators seized in recent days, called for looser financial requirements for midsize banks.  <a href="https://nyti.ms/3TczHXy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Banking Turmoil: What We Know</h3>
+<sub>By Vivian Giang</sub>
+<p>Regulators trying to stem panic among customers shut down Silicon Valley Bank and Signature Bank within days.  <a href="https://nyti.ms/3yzkINP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Federal Reserve’s Path Is Murkier After Bank Blowup</h3>
 <sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve has been rapidly raising interest rates to fight inflation. But making big moves could be trickier amid instability.  <a href="https://nyti.ms/3Fl43l7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Fed has been rapidly raising interest rates to fight inflation. But making big moves could be trickier amid instability.  <a href="https://nyti.ms/3Fl43l7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Stocks Wobble as Smaller Banks Plunge on Fears of Contagion</h3>
-<sub>By Joe Rennison</sub>
-<p>The volatile conditions led to trading in a dozen banks being halted after triggering so-called circuit breakers, established in part to prevent runaway crashes.  <a href="https://nyti.ms/426i1B5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Was This a Bailout? Skeptics Descend on Silicon Valley Bank Response.</h3>
+<sub>By Jeanna Smialek and Alan Rappeport</sub>
+<p>The government took drastic action to shore up the banking system and make depositors of two failed banks whole. It quickly drew blowback.  <a href="https://nyti.ms/3YF0GMJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Start-ups begin to recover money trapped in Silicon Valley Bank.</h3>
-<sub>By Kellen Browning</sub>
-<p>  <a href="https://nyti.ms/3Fl6zYi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>After Bank Debacle, Silicon Valley Reckons With Its Image</h3>
+<sub>By Erin Griffith and Mike Isaac</sub>
+<p>Even as start-ups and investors began recovering their money from Silicon Valley Bank, the episode exposed the tech industry’s vulnerabilities.  <a href="https://nyti.ms/3Ta2Z9n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>Is My Money Safe? Here’s What Is Covered, and How You Can Do More.</h3>
+<sub>By Ron Lieber and Tara Siegel Bernard</sub>
+<p>The F.D.I.C. and other entities will protect most people’s bank and brokerage balances. But it’s as good a time as any for consumers to create other backstops.  <a href="https://nyti.ms/42kVT6a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Russia Outside Russia’: For Elite, Dubai Becomes a Wartime Harbor</h3>
-<sub>By Anton Troianovski and Andrea DiCenzo</sub>
-<p>In the exclusive neighborhoods and palatial shopping malls of the United Arab Emirates’ biggest city, wealthy Russians can build a new life without having to cut ties to their home country.  <a href="https://nyti.ms/3J8vhfT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russian Attacks Along a Wide Arc of Ukraine Yield Little but Casualties</h3>
+<sub>By Marc Santora, Matthew Mpoke Bigg and Richard Pérez-Peña</sub>
+<p>Moscow’s forces have stepped up artillery and infantry assaults across eastern Ukraine, trying to improve their position before either side attempts a major breakthrough.  <a href="https://nyti.ms/3lbuVgt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>International Court to Open War Crimes Cases Against Russia, Officials Say</h3>
-<sub>By Marlise Simons</sub>
-<p>The cases before the International Criminal Court would accuse Russia of abducting Ukrainian children and of deliberately targeting civilian infrastructure.  <a href="https://nyti.ms/3LjeSYr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Extends Stay for Thousands of Ukrainians</h3>
+<sub>By Eileen Sullivan</sub>
+<p>One-year extensions for those who fled in the first months after Russia’s invasion will be granted on a case-by-case basis, officials said.  <a href="https://nyti.ms/3LlDyQq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Unveils Landmark Submarine Deal With Australia and Britain</h3>
+<sub>By Michael D. Shear and Edward Wong</sub>
+<p>The arrangement is part of a broader effort to counter China’s military development and assertive territorial claims across Asia.  <a href="https://nyti.ms/3JBnpoH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -108,30 +136,6 @@ It looks like there is a lot going on in the world right now. The Federal Reserv
 <h3>Best and Worst Moments From the 2023 Oscars</h3>
 <sub>By Stephanie Goodman</sub>
 <p>Michelle Yeoh made history, Ke Huy Quan made us tear up and Cocaine Bear made us cringe. These were just some of the highs and lows.  <a href="https://nyti.ms/3Jchk0j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Unveils Landmark Submarine Deal With Australia and Britain</h3>
-<sub>By Michael D. Shear and Edward Wong</sub>
-<p>The arrangement is part of a broader effort to counter China’s military development and assertive territorial claims across Asia.  <a href="https://nyti.ms/3JBnpoH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>UPenn Accuses a Law Professor of Racist Statements. Should She Be Fired?</h3>
-<sub>By Vimal Patel</sub>
-<p>Amy Wax and free speech groups say the university is trampling on her academic freedom. Students ask whether her speech deserves to be protected.  <a href="https://nyti.ms/3Lfuxbt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About Tenure and Free Speech Protections</h3>
-<sub>By Eliza Fawcett</sub>
-<p>A conflict over a law professor at the University of Pennsylvania has stirred questions about what tenure means.  <a href="https://nyti.ms/3mQ99iC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Plans to Build AirTrain to La Guardia Are Officially Scrapped</h3>
-<sub>By Patrick McGeehan</sub>
-<p>Ballooning costs help doom what had been a pet project of former Gov. Andrew M. Cuomo.  <a href="https://nyti.ms/3YKalkQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
