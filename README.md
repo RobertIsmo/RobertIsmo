@@ -60,48 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 14, Central Standard Time</p>
 <p>
-The global economy is being rocked by an increase in inflation and financial turmoil. Banks have been especially hard hit and there are reports of investigations into executives who made decisions that could have contributed to their banks&#39; failure. On the political scen, the U.S. and Russia have been involved in high-altitude confrontation, while at the same time thousands of Russians have fled their country to reshape many nations. Meanwhile, a tech company called OpenAI is taking A.I development to another level, and Meta is laying off thousands of workers in a plan to become more efficient. Finally here at home, students at Wellesley College are engaged in a heated debate about whether or not to admit trans men as students.</p>
+Things seem to be getting a bit chaotic lately. In the business world, bank executives were put to the test during some tumultuous days, but thankfully can breathe a sigh of relief now. On the political side, there&#39;s been some finger-pointing going on as two news events -- banking turmoil and a train derailment -- have become flash points in America’s culture wars and presidential hopefuls are taking advantage. Over in Russia and Ukraine, tensions are high as Russian warplanes are now even targeting American drones in the Black Sea region, and Ukrainian cities still feel the effects of recent wars. In Florida, a controversy has broken out over defending Ukraine from Russia after one politician declared it wasn&#39;t a “vital interest&quot;. In tech news, the company OpenAI has stepped up the game with their new A.I. technology. Lastly, here in California we have been constantly pummeled by storms which have caused more flooding and levee failures.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>After Days of Panic, Bank Executives Can Breathe Again</h3>
 <sub>By Rob Copeland</sub>
-<p>Shares in midsize banks that seemed to be on the brink stabilized after days of turmoil.  <a href="https://nyti.ms/3FoHoo5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Regional bank leaders offered jittery customers everything from a personal cellphone number to a video chat with Mitt Romney.  <a href="https://nyti.ms/3FoHoo5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Is Said to Open Investigation Into Silicon Valley Bank Collapse</h3>
-<sub>By Matthew Goldstein and Katie Benner</sub>
-<p>Legal experts said a focus of the investigation could be insider sales by several bank executives in the weeks before the bank’s failure.  <a href="https://nyti.ms/3yDuf6x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Banks, Trains and Political Finger-Pointing</h3>
+<sub>By Jonathan Weisman and Stuart A. Thompson</sub>
+<p>As two news events — banking turmoil and a train derailment — became flash points in America’s culture wars, conservative presidential hopefuls and media voices pounced.  <a href="https://nyti.ms/3lbPARD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wall Street rises on relief over banks and inflation.</h3>
-<sub>By Joe Rennison</sub>
-<p>A rebound in bank stocks provided a pause in the market panic over the health of the financial system.  <a href="https://nyti.ms/3mPO2Ny"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Stubborn inflation makes the Fed’s interest rate decision fraught.</h3>
-<sub>By Jeanna Smialek and Joe Rennison</sub>
-<p>The Consumer Price Index cooled to a 6 percent annual increase in February, but a closely watched monthly index climbed quickly.  <a href="https://nyti.ms/403yMe9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Russian Warplane Hits American Drone Over Black Sea, U.S. Says</h3>
+<sub>By Eric Schmitt</sub>
+<p>The incident was the first known physical contact between the two militaries since the war in Ukraine began last year.  <a href="https://nyti.ms/42fi51e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The White House says high-altitude confrontations between the U.S. and Russia are ‘not an uncommon occurrence.’</h3>
-<sub>By Lara Jakes</sub>
-<p>  <a href="https://nyti.ms/3TdpR7Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Russian Shelling Intensifies, True Liberation Eludes Ukrainian City</h3>
+<sub>By Marc Santora and Eric Nagourney</sub>
+<p>Months after Ukrainian forces pushed out Russian occupiers, the city of Kherson remains very much a war zone.  <a href="https://nyti.ms/3YHOxqg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Flood of Russians Alters Life for Countries That Took Them In</h3>
-<sub>By Sergey Ponomarev and Ivan Nechepurenko</sub>
-<p>Russians, fleeing their country and its war, have quickly reshaped the societies of nations like Georgia and Armenia.  <a href="https://nyti.ms/3JA91Mf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s Mercenary Chief Prepares Ground for a Political Advance</h3>
-<sub>By Anatoly Kurmanaev</sub>
-<p>Yevgeny Prigozhin says his Wagner force will shrink when the battle for the Ukrainian city of Bakhmut is done. Now he’s maneuvering on the home front, for the favor of President Vladimir V. Putin.  <a href="https://nyti.ms/3Ja1kvQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis, Backing Away From Ukraine, Angers G.O.P. Hawks</h3>
+<sub>By Jonathan Swan and Maggie Haberman</sub>
+<p>The Florida governor, who joined Donald Trump in declaring that defending Ukraine from Russia was not a vital interest, drew swift condemnations from establishment Republicans.  <a href="https://nyti.ms/3lezVRr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -116,22 +104,34 @@ The global economy is being rocked by an increase in inflation and financial tur
 <p>OpenAI has upgraded the technology that powers its online chatbot in notable ways. It’s more accurate, but it still makes things up.  <a href="https://nyti.ms/3YOKmsy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Let 1,000 Flowers Bloom’: A.I. Funding Frenzy Escalates</h3>
-<sub>By Erin Griffith and Cade Metz</sub>
-<p>In just weeks, a gold rush into artificial intelligence start-ups has become a full-blown mania.  <a href="https://nyti.ms/3LoHy2y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Meta to Lay Off Another 10,000 Workers</h3>
-<sub>By Mike Isaac</sub>
-<p>It would be the tech company’s second round of cuts since November. Mark Zuckerberg, its chief executive, has declared 2023 the “year of efficiency.”  <a href="https://nyti.ms/3Lnmtp3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At Wellesley College, a Fight Over Whether to Admit Trans Men</h3>
 <sub>By Vimal Patel</sub>
 <p>Students will vote Tuesday on a nonbinding referendum that considers opening admission to all nonbinary and transgender applicants. Opponents say the school’s mission is to educate women.  <a href="https://nyti.ms/3ZNwPmo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Issues Executive Order to Strengthen Background Checks for Guns</h3>
+<sub>By Michael D. Shear</sub>
+<p>President Biden announced a handful of steps designed to improve enforcement of existing gun laws during a trip to Monterey Park, Calif., the site of a mass shooting in January.  <a href="https://nyti.ms/3JGFvFQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>More Flooding Is Feared as Latest Storm Pummels California</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>Another in a series of “atmospheric river” storms swept much of the state on Tuesday with strong winds, heavy rain at lower elevations and snow in the mountains, worsening flood risks.  <a href="https://nyti.ms/3lg0pSG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Track the Latest Atmospheric River to Hit California</h3>
+<sub>By Martín González Gómez, Judson Jones and Bea Malsky</sub>
+<p>Use these maps to follow the storm’s forecast and impact.  <a href="https://nyti.ms/3YwzsHP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>California Levee Failures Mount as Storms Continue Relentless Drive</h3>
+<sub>By Tim Arango and Shawn Hubler</sub>
+<p>Pajaro is the latest community to suffer from a levee break in California. Intense atmospheric rivers and snowmelt will keep testing the river walls that protect millions of residents.  <a href="https://nyti.ms/3yHmwEJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
