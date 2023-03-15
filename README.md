@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 15, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now, from international conflict to business collapses. Markets are tumbling and banking stocks are taking a beating worldwide due to fears about the global economy. Silicon Valley Bank recently collapsed, and Goldman Sachs is likely to make a big payout from the deal. There is also rising tension between Russia and America due to the downing of an American drone. In Ukraine, there are soldiers dealing with mental trauma due to the ongoing war. In U.S politics, Florida governor DeSantis has drawn criticism from Establishment Republicans after backing away from defending Ukraine from Russia. In terms of technology, recent advancements in AI have led to more accurate chatbots but have also caused problems. Scientists have just revealed a donkey family tree after extensive research on ancient origins. Meanwhile, lawyers in Texas are facing off in a closely-watched abortion pills case tomorrow. Finally, there has been some major news on the luxury yacht front - broker George Santos just helped two of his largest donors reach a private deal on a $19 million boat!</p>
+There&#39;s a lot happening in the world right now. In Ukraine, soldiers are struggling with the psychological trauma of a long-running war. Markets are tumbling as fears spread throughout the global banking sector and several key banks have seen their stocks slide. Goldamn Sachs is reportedly getting ready to receive a large payout from a Silicon Valley Bank deal. Technology companies are producing more sophisticated Artificial Intelligence (AI) tools, but they aren&#39;t perfect yet. A century ago, Thomas Midgley Jr. inventor was behind two destructive innovations that still have effects today. In New York, exiled Chinese billionaire Guo Wengui has been charged with a financial conspiracy. NASA has recently unveiled a new moon suit for Artemis astronauts made in collaboration with Axiom Space. In Texas, a closely watched case about abortion pills will soon go before a judge in court. Lastly, a yacht broker named George Santos helped facilitate a private $19 million yacht sale between two of his largest donors just before his congressional election - which poses questions about the mix of politics and personal interests in his case.</p>
 <ol>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>‘I Live in Hell’: The Psychic Wounds of Ukraine’s Soldiers</h3>
+<sub>Photographs by Antoine d’Agata and Text by Ellen Barry</sub>
+<p>Inside a psychiatric hospital in Kyiv, the growing mental trauma of the war is written on every soldier’s face.  <a href="https://nyti.ms/3LFTr4n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Markets Tumble as Bank Fears Go Global</h3>
 <sub>By Joe Rennison and Jason Karaian</sub>
@@ -69,40 +75,16 @@ There is a lot going on in the world right now, from international conflict to b
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inside the Collapse of Silicon Valley Bank</h3>
-<sub>By Maureen Farrell</sub>
-<p>While its leader extolled innovation and the future of tech, the bank paid less attention to risk management and was caught flat-footed by economic change.  <a href="https://nyti.ms/3yEJBrr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<h3>Credit Suisse Shares Slide After Shareholder Rules Out More Support</h3>
+<sub>By Michael J. de la Merced</sub>
+<p>The beleaguered Swiss lenders tumbled on Wednesday, adding to concerns about the banking sector.  <a href="https://nyti.ms/3YNRENw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Goldman Sachs Eyes a Big Payout from Silicon Valley Bank Deal</h3>
+<h3>Goldman Sachs Eyes a Big Payout From Silicon Valley Bank Deal</h3>
 <sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
 <p>The Wall Street giant is likely to be paid more than $100 million for its role in a bond purchase that ultimately failed to save the California bank from collapse.  <a href="https://nyti.ms/3Foe3dj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Meet the Man in Charge of What Remains of Silicon Valley Bank</h3>
-<sub>By Emily Flitter</sub>
-<p>The F.D.I.C. named Tim Mayopoulos as chief executive of Silicon Valley Bridge Bank. His job is to keep calm and carry on.  <a href="https://nyti.ms/3LGM64z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What We Know So Far About the Downed American Drone</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>The incident was the first known physical contact between the Russian and American militaries since the war in Ukraine began.  <a href="https://nyti.ms/3Tphc2f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>‘I Live in Hell’: The Psychic Wounds of Ukraine’s Soldiers</h3>
-<sub>Photographs by Antoine d’Agata and Text by Ellen Barry</sub>
-<p>Inside a psychiatric hospital in Kyiv, the growing mental trauma of the war is written on every soldier’s face.  <a href="https://nyti.ms/3LFTr4n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis, Backing Away From Ukraine, Angers G.O.P. Hawks</h3>
-<sub>By Jonathan Swan and Maggie Haberman</sub>
-<p>The Florida governor, who joined Donald Trump in declaring that defending Ukraine from Russia was not a vital interest, drew swift condemnations from establishment Republicans.  <a href="https://nyti.ms/3lezVRr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>How Siri, Alexa and Google Assistant Lost the A.I. Race</h3>
@@ -116,11 +98,23 @@ There is a lot going on in the world right now, from international conflict to b
 <p>OpenAI has upgraded the technology that powers its online chatbot in notable ways. It’s more accurate, but it still makes things up.  <a href="https://nyti.ms/3YOKmsy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Brilliant Inventor Who Made Two of History’s Biggest Mistakes</h3>
+<sub>By Steven Johnson</sub>
+<p>A century ago, Thomas Midgley Jr. was responsible for two phenomenally destructive innovations. What can we learn from them today?  <a href="https://nyti.ms/407xq23"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Exiled Chinese Billionaire Charged in New York With Financial Conspiracy</h3>
+<sub>By Benjamin Weiser and Michael Forsythe</sub>
+<p>Guo Wengui, a fugitive financier and associate of Steve Bannon, is accused by federal prosecutors of engaging in a complex scheme to bilk thousands of online followers.  <a href="https://nyti.ms/3TpUbw7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>At Long Last, a Donkey Family Tree</h3>
-<sub>By Franz Lidz and Samuel Aranda</sub>
-<p>In a new study, genetics and archaeology combine to reveal the ancient origins of humanity’s first beast of burden.  <a href="https://nyti.ms/3mKB0kp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<h3>NASA Unveils a New Moon Suit for Artemis Astronauts</h3>
+<sub>By Kenneth Chang</sub>
+<p>Axiom Space is building the new spacesuits in a commercial partnership similar to the one between the space agency and SpaceX.  <a href="https://nyti.ms/3FopOjK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Lawyers to Face Off Before Judge in Closely Watched Abortion Pills Case</h3>
@@ -133,6 +127,12 @@ There is a lot going on in the world right now, from international conflict to b
 <sub>By Rebecca Davis O’Brien and William K. Rashbaum</sub>
 <p>Just before his House election, Mr. Santos helped two of his largest donors reach a private deal on a $19 million boat, mixing his political and personal interests.  <a href="https://nyti.ms/42fXsSy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Trump Juror Who Got Under America’s Skin</h3>
+<sub>By Charles Homans</sub>
+<p>Behind our institutions are ordinary people. Emily Kohrs is their new face.  <a href="https://nyti.ms/3mEDT6b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
