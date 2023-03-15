@@ -60,30 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 15, Central Standard Time</p>
 <p>
-It sounds like there&#39;s a lot happening in the world right now! A lot of news stories are focused on Silicon Valley Bank, which has experienced a collapse and was bailed out by Washington. The stock markets are tumbling, with banking stocks taking a beating because of fears about the economy. Meanwhile, in Ukraine, soldiers are dealing with mental trauma as a result of the war and in France, people are protesting against proposed changes to their pensions. And, in terms of technology, while Apple&#39;s Siri, Google&#39;s Alexa, and Amazon&#39;s Alexa have all been in the spotlight for years, chatbots have been taking over the scene. To top it off, there&#39;s also a yacht for sale for $19 million– own by one of George Santos&#39;s largest donors!</p>
+There is a lot going on in the world right now, from international conflict to business collapses. Markets are tumbling and banking stocks are taking a beating worldwide due to fears about the global economy. Silicon Valley Bank recently collapsed, and Goldman Sachs is likely to make a big payout from the deal. There is also rising tension between Russia and America due to the downing of an American drone. In Ukraine, there are soldiers dealing with mental trauma due to the ongoing war. In U.S politics, Florida governor DeSantis has drawn criticism from Establishment Republicans after backing away from defending Ukraine from Russia. In terms of technology, recent advancements in AI have led to more accurate chatbots but have also caused problems. Scientists have just revealed a donkey family tree after extensive research on ancient origins. Meanwhile, lawyers in Texas are facing off in a closely-watched abortion pills case tomorrow. Finally, there has been some major news on the luxury yacht front - broker George Santos just helped two of his largest donors reach a private deal on a $19 million boat!</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Markets Tumble as Bank Fears Go Global</h3>
+<sub>By Joe Rennison and Jason Karaian</sub>
+<p>Shares fell sharply, with banking stocks taking a beating, as Tuesday’s rally quickly faded.  <a href="https://nyti.ms/425E7n8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Inside the Collapse of Silicon Valley Bank</h3>
 <sub>By Maureen Farrell</sub>
 <p>While its leader extolled innovation and the future of tech, the bank paid less attention to risk management and was caught flat-footed by economic change.  <a href="https://nyti.ms/3yEJBrr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Washington Decided to Rescue Silicon Valley Bank</h3>
-<sub>By Alan Rappeport, Lauren Hirsch, Jeanna Smialek and Jim Tankersley</sub>
-<p>Officials were initially unsure about the need for the measures they eventually announced to shore up the financial system, but changed their minds quickly.  <a href="https://nyti.ms/408D7wU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Markets Tumble as Bank Fears Go Global</h3>
-<sub>By Jason Karaian and Joe Rennison</sub>
-<p>Shares fell sharply, with banking stocks taking a beating, as Tuesday’s rally quickly faded.  <a href="https://nyti.ms/425E7n8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Goldman Sachs Eyes a Big Payout from Silicon Valley Bank Deal</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>The Wall Street giant is likely to be paid more than $100 million for its role in a bond purchase that ultimately failed to save the California bank from collapse.  <a href="https://nyti.ms/3Foe3dj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Meet the Man in Charge of What Remains of Silicon Valley Bank</h3>
 <sub>By Emily Flitter</sub>
 <p>The F.D.I.C. named Tim Mayopoulos as chief executive of Silicon Valley Bridge Bank. His job is to keep calm and carry on.  <a href="https://nyti.ms/3LGM64z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What We Know So Far About the Downed American Drone</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The incident was the first known physical contact between the Russian and American militaries since the war in Ukraine began.  <a href="https://nyti.ms/3Tphc2f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -101,26 +107,20 @@ It sounds like there&#39;s a lot happening in the world right now! A lot of news
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>How Siri, Alexa and Google Assistant Lost the A.I. Race</h3>
 <sub>By Brian X. Chen, Nico Grant and Karen Weise</sub>
-<p>The virtual assistants had more than a decade to become indispensable. But they were hampered by clunky design and miscalculations, leaving room for chatbots to rise.  <a href="https://nyti.ms/3JDTgVI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The virtual assistants had more than a decade to become indispensable. But they were hampered by clunky design and miscalculations, leaving room for chatbots to rise.  <a href="https://nyti.ms/3JDLRof"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>10 Ways GPT-4 Is Impressive but Still Flawed</h3>
+<sub>By Cade Metz and Keith Collins</sub>
+<p>OpenAI has upgraded the technology that powers its online chatbot in notable ways. It’s more accurate, but it still makes things up.  <a href="https://nyti.ms/3YOKmsy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>At Long Last, a Donkey Family Tree</h3>
 <sub>By Franz Lidz and Samuel Aranda</sub>
 <p>In a new study, genetics and archaeology combine to reveal the ancient origins of humanity’s first beast of burden.  <a href="https://nyti.ms/3mKB0kp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Garbage Mounts in Odorous Last Stand Against France’s Pension Change</h3>
-<sub>By Catherine Porter</sub>
-<p>A bill raising the retirement age for most workers by two years, to 64, could become law this week, despite widespread protest, including a strike by garbage workers in Paris and elsewhere.  <a href="https://nyti.ms/3yF8FPd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why So Many People in France Are Protesting Over Pensions</h3>
-<sub>By Aurelien Breeden</sub>
-<p>President Emmanuel Macron is forging ahead with plans to raise the legal age of retirement to 64, from 62, despite strikes, wide public opposition and a two-month showdown with labor unions.  <a href="https://nyti.ms/3YaBQnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Lawyers to Face Off Before Judge in Closely Watched Abortion Pills Case</h3>
