@@ -60,30 +60,46 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 15, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In Ukraine, soldiers are struggling with the psychological trauma of a long-running war. Markets are tumbling as fears spread throughout the global banking sector and several key banks have seen their stocks slide. Goldamn Sachs is reportedly getting ready to receive a large payout from a Silicon Valley Bank deal. Technology companies are producing more sophisticated Artificial Intelligence (AI) tools, but they aren&#39;t perfect yet. A century ago, Thomas Midgley Jr. inventor was behind two destructive innovations that still have effects today. In New York, exiled Chinese billionaire Guo Wengui has been charged with a financial conspiracy. NASA has recently unveiled a new moon suit for Artemis astronauts made in collaboration with Axiom Space. In Texas, a closely watched case about abortion pills will soon go before a judge in court. Lastly, a yacht broker named George Santos helped facilitate a private $19 million yacht sale between two of his largest donors just before his congressional election - which poses questions about the mix of politics and personal interests in his case.</p>
+There&#39;s a lot happening in the world right now. The Swiss Central Bank is saying it will backstop Ailing Credit Suisse if necessary and the Federal Reserve, as well as lawmakers, are taking a closer look at bank rules after a collapse. In the stock markets, people are shuddering at the risk that are lurking in the financial system. 
+
+In international news, there&#39;s been conflict in Ukraine between Russia, the West and the slow rising of chatbots in the AI race because virtual assistants weren&#39;t able to take the lead. 
+
+In terms of business, we&#39;ve been following news of Guo Wengui - a Chinese billionaire charged with financial conspiracy, and Axiom Space unveiling a new moon suit for astronaut for NASA&#39;s Artemis mission. Finally, French protesters have taken to the streets to protest against raising the retirement age before a vote on pension bill.</p>
 <ol>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>‘I Live in Hell’: The Psychic Wounds of Ukraine’s Soldiers</h3>
-<sub>Photographs by Antoine d’Agata and Text by Ellen Barry</sub>
-<p>Inside a psychiatric hospital in Kyiv, the growing mental trauma of the war is written on every soldier’s face.  <a href="https://nyti.ms/3LFTr4n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Swiss Central Bank Says It Will Backstop Ailing Credit Suisse if Necessary</h3>
+<sub>By Michael J. de la Merced and Maureen Farrell</sub>
+<p>Shares of the beleaguered Swiss lender tumbled on Wednesday, adding to concerns about the banking sector.  <a href="https://nyti.ms/3lozWCl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Markets Tumble as Bank Fears Go Global</h3>
+<h3>Federal Reserve and Lawmakers Eye Bank Rules After Collapse</h3>
+<sub>By Jeanna Smialek and Emily Flitter</sub>
+<p>The stunning demise of Silicon Valley Bank has spurred soul-searching about how large and regional banks are overseen.  <a href="https://nyti.ms/3ZQ12S1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Markets Shudder as Bank Fears Go Global</h3>
 <sub>By Joe Rennison and Jason Karaian</sub>
-<p>Shares fell sharply, with banking stocks taking a beating, as Tuesday’s rally quickly faded.  <a href="https://nyti.ms/425E7n8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Volatility in stocks and bonds reflected renewed worries about the state of the economy and the risks lurking in the financial system.  <a href="https://nyti.ms/425E7n8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Credit Suisse Shares Slide After Shareholder Rules Out More Support</h3>
-<sub>By Michael J. de la Merced</sub>
-<p>The beleaguered Swiss lenders tumbled on Wednesday, adding to concerns about the banking sector.  <a href="https://nyti.ms/3YNRENw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why the Black Sea Is a Flashpoint Between Russia and the West</h3>
+<sub>By Ben Hubbard and Gulsin Harman</sub>
+<p>It has long been a theater of competition between Russia and the West, a dynamic supercharged by the Ukraine war.  <a href="https://nyti.ms/3YLdm4t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Goldman Sachs Eyes a Big Payout From Silicon Valley Bank Deal</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The Wall Street giant is likely to be paid more than $100 million for its role in a bond purchase that ultimately failed to save the California bank from collapse.  <a href="https://nyti.ms/3Foe3dj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Russia’s Spring Offensive in Ukraine Could Include Cyberattacks, Microsoft Says</h3>
+<sub>By Julian E. Barnes, David E. Sanger and Marc Santora</sub>
+<p>Moscow also appears to be stepping up influence operations to weaken European and U.S. support for sending more aid to the Ukrainian government.  <a href="https://nyti.ms/3YPu2I8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>GPT-4 Is Exciting and Scary</h3>
+<sub>By Kevin Roose</sub>
+<p>Today, the new language model from OpenAI may not seem all that dangerous. But the worst risks are the ones we cannot anticipate.  <a href="https://nyti.ms/3JmjN8n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -92,16 +108,16 @@ There&#39;s a lot happening in the world right now. In Ukraine, soldiers are str
 <p>The virtual assistants had more than a decade to become indispensable. But they were hampered by clunky design and miscalculations, leaving room for chatbots to rise.  <a href="https://nyti.ms/3JDLRof"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>10 Ways GPT-4 Is Impressive but Still Flawed</h3>
-<sub>By Cade Metz and Keith Collins</sub>
-<p>OpenAI has upgraded the technology that powers its online chatbot in notable ways. It’s more accurate, but it still makes things up.  <a href="https://nyti.ms/3YOKmsy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Brilliant Inventor Who Made Two of History’s Biggest Mistakes</h3>
 <sub>By Steven Johnson</sub>
 <p>A century ago, Thomas Midgley Jr. was responsible for two phenomenally destructive innovations. What can we learn from them today?  <a href="https://nyti.ms/407xq23"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Lawyers Spar Before Judge Over Rescinding Federal Approval of Abortion Pill</h3>
+<sub>By Pam Belluck and Allison McCann</sub>
+<p>The judge said he would decide soon whether to issue a preliminary injunction ordering the F.D.A. to withdraw its approval of the drug or wait for the full trial.  <a href="https://nyti.ms/3LuHkqv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -111,28 +127,16 @@ There&#39;s a lot happening in the world right now. In Ukraine, soldiers are str
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>NASA Unveils a New Moon Suit for Artemis Astronauts</h3>
+<h3>New Moon Suit for NASA’s Artemis Astronauts Unveiled</h3>
 <sub>By Kenneth Chang</sub>
 <p>Axiom Space is building the new spacesuits in a commercial partnership similar to the one between the space agency and SpaceX.  <a href="https://nyti.ms/3FopOjK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Lawyers to Face Off Before Judge in Closely Watched Abortion Pills Case</h3>
-<sub>By Pam Belluck</sub>
-<p>The first hearing in a lawsuit that seeks to overturn F.D.A. approval of the pills takes place Wednesday morning in Texas.  <a href="https://nyti.ms/3JPZX7j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>French Protesters Take to Streets in Last Angry Push Before Vote on Pension Bill</h3>
+<sub>By Constant Méheut</sub>
+<p>Many believe the legislation to raise the retirement age to 64 from 62 will pass Parliament, and they are looking beyond the vote to fight on.  <a href="https://nyti.ms/3ZOFQfe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Sold: Yacht With a Waterfall. Price: $19 Million. Broker: George Santos.</h3>
-<sub>By Rebecca Davis O’Brien and William K. Rashbaum</sub>
-<p>Just before his House election, Mr. Santos helped two of his largest donors reach a private deal on a $19 million boat, mixing his political and personal interests.  <a href="https://nyti.ms/42fXsSy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Trump Juror Who Got Under America’s Skin</h3>
-<sub>By Charles Homans</sub>
-<p>Behind our institutions are ordinary people. Emily Kohrs is their new face.  <a href="https://nyti.ms/3mEDT6b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
