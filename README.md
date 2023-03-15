@@ -58,9 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, March 14, Central Standard Time</p>
+<p>It is Wednesday, March 15, Central Standard Time</p>
 <p>
-Right now it&#39;s a pretty chaotic time in the world; there&#39;s a lot going on. On the economic front, bank executives have been dealing with a panic in a volatile market, and many customers have been turning to them for help calming their fears. On a global scale, military action has been heating up between Russia and the US, particularly with an incident involving an American drone over the Black Sea. In Ukraine, Kherson is still enduring a war zone despite an insurgence of Ukrainian forces. In the US, political tensions are rising as conservative presidential hopefuls and media voices are pointing fingers at each other over various events including banking tumult and a train derailment. There&#39;s also some interesting technology advances; OpenAI recently unveiled new A.I. technology called GPT-4 and the company plans to increase its capabilities. In California, they&#39;ve experienced some intense storms that have caused severe flooding and levee failures. Thankfully, President Biden issued an Executive Order to strengthen background checks for guns in response to a mass shooting there in January. Whew!</p>
+There is a lot happening in the world right now. On the US news front, banks are in turmoil as politicians debate over who&#39;s to blame for a recent train derailment and what should be done about it. Meanwhile, there was an incident between the US and Russian militaries where a Russian war plane hit an American drone over the Black Sea. 
+
+In Ukraine, despite Ukrainian forces pushing out Russian occupiers, the city of Kherson continues to remain a war zone as intense shelling continues. In response, one US politician is facing criticism from establishment Republicans for not doing enough to help protect Ukraine from Russia while President Biden is taking steps to strengthen background checks in America when it comes to firearms ownership.
+
+In other news, California is bracing for more flooding due to intense storms bringing heavy rain, snowmelt and strong winds that are testing the levee walls protecting many of its residents. And on the technology industry front, OpenAI unveiled new technology called GPT-4 four months after its ChatGPT stunned Silicon Valley and Wellesley College students voted to admit trans men.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>After Days of Panic, Bank Executives Can Breathe Again</h3>
@@ -117,9 +121,9 @@ Right now it&#39;s a pretty chaotic time in the world; there&#39;s a lot going o
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>More Flooding Is Feared as Latest Storm Pummels California</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>Another in a series of “atmospheric river” storms swept much of the state on Tuesday with strong winds, heavy rain at lower elevations and snow in the mountains, worsening flood risks.  <a href="https://nyti.ms/3lg0pSG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>California Braces for More Flooding as Storm Brings Rain and High Winds</h3>
+<sub>By Livia Albeck-Ripka and Mike Ives</sub>
+<p>The latest storm in a series of “atmospheric rivers” swept much of the state on Tuesday with strong winds, heavy rain at lower elevations and snow in the mountains, worsening flood risks.  <a href="https://nyti.ms/3lg0pSG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
