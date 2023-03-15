@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 14, Central Standard Time</p>
 <p>
-Things seem to be getting a bit chaotic lately. In the business world, bank executives were put to the test during some tumultuous days, but thankfully can breathe a sigh of relief now. On the political side, there&#39;s been some finger-pointing going on as two news events -- banking turmoil and a train derailment -- have become flash points in America’s culture wars and presidential hopefuls are taking advantage. Over in Russia and Ukraine, tensions are high as Russian warplanes are now even targeting American drones in the Black Sea region, and Ukrainian cities still feel the effects of recent wars. In Florida, a controversy has broken out over defending Ukraine from Russia after one politician declared it wasn&#39;t a “vital interest&quot;. In tech news, the company OpenAI has stepped up the game with their new A.I. technology. Lastly, here in California we have been constantly pummeled by storms which have caused more flooding and levee failures.</p>
+Right now it&#39;s a pretty chaotic time in the world; there&#39;s a lot going on. On the economic front, bank executives have been dealing with a panic in a volatile market, and many customers have been turning to them for help calming their fears. On a global scale, military action has been heating up between Russia and the US, particularly with an incident involving an American drone over the Black Sea. In Ukraine, Kherson is still enduring a war zone despite an insurgence of Ukrainian forces. In the US, political tensions are rising as conservative presidential hopefuls and media voices are pointing fingers at each other over various events including banking tumult and a train derailment. There&#39;s also some interesting technology advances; OpenAI recently unveiled new A.I. technology called GPT-4 and the company plans to increase its capabilities. In California, they&#39;ve experienced some intense storms that have caused severe flooding and levee failures. Thankfully, President Biden issued an Executive Order to strengthen background checks for guns in response to a mass shooting there in January. Whew!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>After Days of Panic, Bank Executives Can Breathe Again</h3>
@@ -105,9 +105,9 @@ Things seem to be getting a bit chaotic lately. In the business world, bank exec
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Wellesley College, a Fight Over Whether to Admit Trans Men</h3>
+<h3>At Wellesley College, Students Vote to Admit Trans Men</h3>
 <sub>By Vimal Patel</sub>
-<p>Students will vote Tuesday on a nonbinding referendum that considers opening admission to all nonbinary and transgender applicants. Opponents say the school’s mission is to educate women.  <a href="https://nyti.ms/3ZNwPmo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Students supported a nonbinding referendum on Tuesday that calls for opening admission to all nonbinary and transgender applicants. Opponents say the school’s mission is to educate women.  <a href="https://nyti.ms/3ZNwPmo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
