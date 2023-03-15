@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 15, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. On the US news front, banks are in turmoil as politicians debate over who&#39;s to blame for a recent train derailment and what should be done about it. Meanwhile, there was an incident between the US and Russian militaries where a Russian war plane hit an American drone over the Black Sea. 
+It looks like the news around the world has been quite hectic recently. Banks and the economy have been turbulent, with some bank executives trying to reassure customers with personal cell phone numbers and video chats. In terms of politics, there are ongoing tensions between Russia and the US, from a warplane hitting an American drone over the Black Sea to fierce political disagreements and finger-pointing. Furthermore, Ukraine is still in a state of unrest as shelling intensifies even after liberation attempts. 
 
-In Ukraine, despite Ukrainian forces pushing out Russian occupiers, the city of Kherson continues to remain a war zone as intense shelling continues. In response, one US politician is facing criticism from establishment Republicans for not doing enough to help protect Ukraine from Russia while President Biden is taking steps to strengthen background checks in America when it comes to firearms ownership.
+In America, there&#39;s been a call to strengthen gun laws through executive order to improve background checks. Worse yet, California&#39;s weather is bringing more flooding warnings due to an atmospheric river resulting in lots of rainfall and high winds. 
 
-In other news, California is bracing for more flooding due to intense storms bringing heavy rain, snowmelt and strong winds that are testing the levee walls protecting many of its residents. And on the technology industry front, OpenAI unveiled new technology called GPT-4 four months after its ChatGPT stunned Silicon Valley and Wellesley College students voted to admit trans men.</p>
+On a lighter note, there have been encouraging developments like Wellesley College students voting to admit trans men and OpenAI releasing new tech called GPT-4.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>After Days of Panic, Bank Executives Can Breathe Again</h3>
@@ -114,6 +114,12 @@ In other news, California is bracing for more flooding due to intense storms bri
 <p>Students supported a nonbinding referendum on Tuesday that calls for opening admission to all nonbinary and transgender applicants. Opponents say the school’s mission is to educate women.  <a href="https://nyti.ms/3ZNwPmo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Garbage Mounts in Odorous Last Stand Against France’s Pension Change</h3>
+<sub>By Catherine Porter</sub>
+<p>A bill raising the retirement age for most workers by two years, to 64, is expected to become law this week, despite widespread protest, including a strike by garbage workers in Paris and elsewhere.  <a href="https://nyti.ms/3yF8FPd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Issues Executive Order to Strengthen Background Checks for Guns</h3>
 <sub>By Michael D. Shear</sub>
@@ -123,7 +129,7 @@ In other news, California is bracing for more flooding due to intense storms bri
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>California Braces for More Flooding as Storm Brings Rain and High Winds</h3>
 <sub>By Livia Albeck-Ripka and Mike Ives</sub>
-<p>The latest storm in a series of “atmospheric rivers” swept much of the state on Tuesday with strong winds, heavy rain at lower elevations and snow in the mountains, worsening flood risks.  <a href="https://nyti.ms/3lg0pSG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Flood warnings and other weather advisories were in effect across the state on Wednesday morning, after an “atmospheric river” dumped more precipitation on land saturated with water.  <a href="https://nyti.ms/3lg0pSG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -131,12 +137,6 @@ In other news, California is bracing for more flooding due to intense storms bri
 <sub>By Martín González Gómez, Judson Jones and Bea Malsky</sub>
 <p>Use these maps to follow the storm’s forecast and impact.  <a href="https://nyti.ms/3YwzsHP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Levee Failures Mount as Storms Continue Relentless Drive</h3>
-<sub>By Tim Arango and Shawn Hubler</sub>
-<p>Pajaro is the latest community to suffer from a levee break in California. Intense atmospheric rivers and snowmelt will keep testing the river walls that protect millions of residents.  <a href="https://nyti.ms/3yHmwEJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
