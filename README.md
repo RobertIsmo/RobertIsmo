@@ -60,34 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 15, Central Standard Time</p>
 <p>
-It looks like the news around the world has been quite hectic recently. Banks and the economy have been turbulent, with some bank executives trying to reassure customers with personal cell phone numbers and video chats. In terms of politics, there are ongoing tensions between Russia and the US, from a warplane hitting an American drone over the Black Sea to fierce political disagreements and finger-pointing. Furthermore, Ukraine is still in a state of unrest as shelling intensifies even after liberation attempts. 
-
-In America, there&#39;s been a call to strengthen gun laws through executive order to improve background checks. Worse yet, California&#39;s weather is bringing more flooding warnings due to an atmospheric river resulting in lots of rainfall and high winds. 
-
-On a lighter note, there have been encouraging developments like Wellesley College students voting to admit trans men and OpenAI releasing new tech called GPT-4.</p>
+It sounds like there&#39;s a lot happening in the world right now! A lot of news stories are focused on Silicon Valley Bank, which has experienced a collapse and was bailed out by Washington. The stock markets are tumbling, with banking stocks taking a beating because of fears about the economy. Meanwhile, in Ukraine, soldiers are dealing with mental trauma as a result of the war and in France, people are protesting against proposed changes to their pensions. And, in terms of technology, while Apple&#39;s Siri, Google&#39;s Alexa, and Amazon&#39;s Alexa have all been in the spotlight for years, chatbots have been taking over the scene. To top it off, there&#39;s also a yacht for sale for $19 million– own by one of George Santos&#39;s largest donors!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>After Days of Panic, Bank Executives Can Breathe Again</h3>
-<sub>By Rob Copeland</sub>
-<p>Regional bank leaders offered jittery customers everything from a personal cellphone number to a video chat with Mitt Romney.  <a href="https://nyti.ms/3FoHoo5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Inside the Collapse of Silicon Valley Bank</h3>
+<sub>By Maureen Farrell</sub>
+<p>While its leader extolled innovation and the future of tech, the bank paid less attention to risk management and was caught flat-footed by economic change.  <a href="https://nyti.ms/3yEJBrr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Banks, Trains and Political Finger-Pointing</h3>
-<sub>By Jonathan Weisman and Stuart A. Thompson</sub>
-<p>As two news events — banking turmoil and a train derailment — became flash points in America’s culture wars, conservative presidential hopefuls and media voices pounced.  <a href="https://nyti.ms/3lbPARD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Washington Decided to Rescue Silicon Valley Bank</h3>
+<sub>By Alan Rappeport, Lauren Hirsch, Jeanna Smialek and Jim Tankersley</sub>
+<p>Officials were initially unsure about the need for the measures they eventually announced to shore up the financial system, but changed their minds quickly.  <a href="https://nyti.ms/408D7wU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Russian Warplane Hits American Drone Over Black Sea, U.S. Says</h3>
-<sub>By Eric Schmitt</sub>
-<p>The incident was the first known physical contact between the two militaries since the war in Ukraine began last year.  <a href="https://nyti.ms/42fi51e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Markets Tumble as Bank Fears Go Global</h3>
+<sub>By Jason Karaian and Joe Rennison</sub>
+<p>Shares fell sharply, with banking stocks taking a beating, as Tuesday’s rally quickly faded.  <a href="https://nyti.ms/425E7n8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Russian Shelling Intensifies, True Liberation Eludes Ukrainian City</h3>
-<sub>By Marc Santora and Eric Nagourney</sub>
-<p>Months after Ukrainian forces pushed out Russian occupiers, the city of Kherson remains very much a war zone.  <a href="https://nyti.ms/3YHOxqg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Meet the Man in Charge of What Remains of Silicon Valley Bank</h3>
+<sub>By Emily Flitter</sub>
+<p>The F.D.I.C. named Tim Mayopoulos as chief executive of Silicon Valley Bridge Bank. His job is to keep calm and carry on.  <a href="https://nyti.ms/3LGM64z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>‘I Live in Hell’: The Psychic Wounds of Ukraine’s Soldiers</h3>
+<sub>Photographs by Antoine d’Agata and Text by Ellen Barry</sub>
+<p>Inside a psychiatric hospital in Kyiv, the growing mental trauma of the war is written on every soldier’s face.  <a href="https://nyti.ms/3LFTr4n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -97,46 +99,40 @@ On a lighter note, there have been encouraging developments like Wellesley Colle
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>OpenAI Plans to Up the Ante in Tech’s A.I. Race</h3>
-<sub>By Cade Metz</sub>
-<p>The company unveiled new technology called GPT-4 four months after its ChatGPT stunned Silicon Valley. The update is an improvement, but it carries some of the same baggage.  <a href="https://nyti.ms/3yBjUbc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<h3>How Siri, Alexa and Google Assistant Lost the A.I. Race</h3>
+<sub>By Brian X. Chen, Nico Grant and Karen Weise</sub>
+<p>The virtual assistants had more than a decade to become indispensable. But they were hampered by clunky design and miscalculations, leaving room for chatbots to rise.  <a href="https://nyti.ms/3JDTgVI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>10 Ways GPT-4 Is Impressive but Still Flawed</h3>
-<sub>By Cade Metz and Keith Collins</sub>
-<p>OpenAI has upgraded the technology that powers its online chatbot in notable ways. It’s more accurate, but it still makes things up.  <a href="https://nyti.ms/3YOKmsy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Wellesley College, Students Vote to Admit Trans Men</h3>
-<sub>By Vimal Patel</sub>
-<p>Students supported a nonbinding referendum on Tuesday that calls for opening admission to all nonbinary and transgender applicants. Opponents say the school’s mission is to educate women.  <a href="https://nyti.ms/3ZNwPmo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>At Long Last, a Donkey Family Tree</h3>
+<sub>By Franz Lidz and Samuel Aranda</sub>
+<p>In a new study, genetics and archaeology combine to reveal the ancient origins of humanity’s first beast of burden.  <a href="https://nyti.ms/3mKB0kp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Garbage Mounts in Odorous Last Stand Against France’s Pension Change</h3>
 <sub>By Catherine Porter</sub>
-<p>A bill raising the retirement age for most workers by two years, to 64, is expected to become law this week, despite widespread protest, including a strike by garbage workers in Paris and elsewhere.  <a href="https://nyti.ms/3yF8FPd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A bill raising the retirement age for most workers by two years, to 64, could become law this week, despite widespread protest, including a strike by garbage workers in Paris and elsewhere.  <a href="https://nyti.ms/3yF8FPd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Issues Executive Order to Strengthen Background Checks for Guns</h3>
-<sub>By Michael D. Shear</sub>
-<p>President Biden announced a handful of steps designed to improve enforcement of existing gun laws during a trip to Monterey Park, Calif., the site of a mass shooting in January.  <a href="https://nyti.ms/3JGFvFQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why So Many People in France Are Protesting Over Pensions</h3>
+<sub>By Aurelien Breeden</sub>
+<p>President Emmanuel Macron is forging ahead with plans to raise the legal age of retirement to 64, from 62, despite strikes, wide public opposition and a two-month showdown with labor unions.  <a href="https://nyti.ms/3YaBQnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Braces for More Flooding as Storm Brings Rain and High Winds</h3>
-<sub>By Livia Albeck-Ripka and Mike Ives</sub>
-<p>Flood warnings and other weather advisories were in effect across the state on Wednesday morning, after an “atmospheric river” dumped more precipitation on land saturated with water.  <a href="https://nyti.ms/3lg0pSG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Lawyers to Face Off Before Judge in Closely Watched Abortion Pills Case</h3>
+<sub>By Pam Belluck</sub>
+<p>The first hearing in a lawsuit that seeks to overturn F.D.A. approval of the pills takes place Wednesday morning in Texas.  <a href="https://nyti.ms/3JPZX7j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Track the Latest Atmospheric River to Hit California</h3>
-<sub>By Martín González Gómez, Judson Jones and Bea Malsky</sub>
-<p>Use these maps to follow the storm’s forecast and impact.  <a href="https://nyti.ms/3YwzsHP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Sold: Yacht With a Waterfall. Price: $19 Million. Broker: George Santos.</h3>
+<sub>By Rebecca Davis O’Brien and William K. Rashbaum</sub>
+<p>Just before his House election, Mr. Santos helped two of his largest donors reach a private deal on a $19 million boat, mixing his political and personal interests.  <a href="https://nyti.ms/42fXsSy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
