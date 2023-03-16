@@ -60,19 +60,45 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 16, Central Standard Time</p>
 <p>
-Due to fears about the global economy and the risks in the financial system, there is a lot of volatility in stocks, bonds, and other assets. This week there have been debates about whether &#39;wokeness&#39; was a factor in the collapse of Silicon Valley Bank. In terms of health, pregnant women are particularly vulnerable to Covid-19 so it&#39;s important for them to know the risks associated with it. As for geopolitical news, South Korean President Moon Jae-in recently visited Tokyo which is a sign of an improving diplomatic relationship between the two countries. Meanwhile, Ukraine and Russia are both trying to restock their munitions for a possible spring counteroffensive. The Pentagon chief also spoke to his Russian counterpart about a drone incident. On the technology front, Microsoft&#39;s Bing chatbot is using artificial intelligence to pick out brackets while OpenAI released a language model called GPT-4 that is both impressive and concerning. Finally, France is debating a pension reform bill which has sparked large protests. The US is also pushing for TikTok, the popular video app owned by ByteDance, to be sold in order to address national security concerns.</p>
+Things have been a bit turbulent in the world lately! US markets have been in turmoil and the US banking system is still sound, according to Treasury Secretary Yellen. The European Central Bank is making key decisions that could shape how far the financial worries ripple out throughout the global economy. Meanwhile, Goldman Sachs&#39; dealings with Silicon Valley Bank have been called into question. In Ukraine, the military is using an alarming amount of weapons as it tries to hold back a city in eastern Ukraine. 
+
+The US government is taking steps to ban TikTok and other countries are following suit due to its ties with Chinese internet company ByteDance and concerns about user data safety. There&#39;s also worrying news about pregnant women during the pandemic–deaths have spiked 40% in the US this year. Here in the states, Florida is censoring math textbooks and attempted to remove mentions of racial injustice while a massive snowstorm in California prevented one man from seeing his dying wife. There are even issues faced by Fulbright-Hays applicants who grew up speaking the language of their proposed country for research but are penalized by an Education Department regulation.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bank Fears Go Global, Sending a Shudder Through Markets</h3>
-<sub>By Joe Rennison and Jason Karaian</sub>
-<p>Stomach-churning volatility in stocks, bonds and other assets on Wednesday reflected renewed worries about the state of the economy and the risks lurking in the financial system.  <a href="https://nyti.ms/425E7n8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Yellen Says U.S. Banking System ‘Remains Sound’ Amid Market Turmoil</h3>
+<sub>By Alan Rappeport</sub>
+<p>The Treasury secretary also reassured Americans that their savings were safe.  <a href="https://nyti.ms/3JnRIh0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The European Central Bank Meets to Raise Rates Amid Uncertainty</h3>
+<sub>By Eshe Nelson</sub>
+<p>The E.C.B. is the first major central bank to set monetary policy since banking worries gripped financial markets, and its decision could be a gauge on how far the reverberations are expected to spread.  <a href="https://nyti.ms/3yOSJK5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>New Questions About Goldman Sachs’s Work With Silicon Valley Bank</h3>
+<sub>By Andrew Ross Sorkin and Lauren Hirsch</sub>
+<p>Goldman bought a bond portfolio on which the bank had booked a $1.8 billion loss, while also trying to raise capital for the bank in its last days.  <a href="https://nyti.ms/3YRAIWb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>No, ‘Wokeness’ Did Not Cause Silicon Valley Bank’s Collapse</h3>
-<sub>By Linda Qiu</sub>
-<p>Blaming workplace diversity or environmentally and socially conscious investments for the firm’s downfall signals a “complete lack of understanding of how banks work,” one expert said.  <a href="https://nyti.ms/40bX3Py"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Burns Through Ammunition in Bakhmut, Risking Future Fights</h3>
+<sub>By Thomas Gibbons-Neff, Lara Jakes and Eric Schmitt</sub>
+<p>The military is using thousands of artillery shells a day as it tries to hold the eastern city, which could jeopardize a planned springtime campaign.  <a href="https://nyti.ms/3lgfILd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>U.S. Pushes for TikTok Sale to Resolve National Security Concerns</h3>
+<sub>By David McCabe and Cecilia Kang</sub>
+<p>The demand hardens the White House’s stance toward the popular video app, which is owned by the Chinese internet company ByteDance.  <a href="https://nyti.ms/3ZSQuS1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Why Countries Are Trying to Ban TikTok</h3>
+<sub>By Sapna Maheshwari and Amanda Holpuch</sub>
+<p>Governments have expressed concerns that TikTok, which is owned by the Chinese company ByteDance, may endanger sensitive user data.  <a href="https://nyti.ms/3mjkGa6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Covid Worsened a Health Crisis Among Pregnant Women</h3>
@@ -86,35 +112,17 @@ Due to fears about the global economy and the risks in the financial system, the
 <p>A pregnant woman is more likely to develop serious Covid-19 and to die of it. Several factors amplify the risks.  <a href="https://nyti.ms/3LobCvb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After South Korea’s Icebreaker, Its President Is Welcomed to Tokyo</h3>
-<sub>By Motoko Rich and Choe Sang-Hun</sub>
-<p>The visit, the first of its kind in 12 years, is the latest sign of a diplomatic thaw. North Korea launched a missile hours before the countries’ leaders were to meet.  <a href="https://nyti.ms/3JmRRS4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine’s Allies Promise Weapons for Spring Counteroffensive</h3>
-<sub>By Marc Santora, Eric Schmitt, Valerie Hopkins and Ivan Nechepurenko</sub>
-<p>Ukraine and Russia are both running low on ammunition, and both are scrambling to replenish their stocks and gain a competitive edge.  <a href="https://nyti.ms/3yHBn1V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Pentagon chief says he spoke to his Russian counterpart about the drone incident.</h3>
-<sub>By Helene Cooper and Eric Schmitt</sub>
-<p>  <a href="https://nyti.ms/3yN47WR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<h3>Florida Scoured Math Textbooks for ‘Prohibited Topics.’ Next Up: Social Studies.</h3>
+<sub>By Sarah Mervosh</sub>
+<p>Behind the scenes, one publisher went to great lengths to avoid mentions of race, even in the story of Rosa Parks.  <a href="https://nyti.ms/3YUGFlj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Let’s Use a Chatbot to Fill Out a Bracket</h3>
-<sub>By Jonathan Ellis and Michael Beswetherick</sub>
-<p>We asked Microsoft’s Bing to make its own N.C.A.A. tournament picks. And asked again. And asked some more.  <a href="https://nyti.ms/3lhNbVv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>GPT-4 Is Exciting and Scary</h3>
-<sub>By Kevin Roose</sub>
-<p>Today, the new language model from OpenAI may not seem all that dangerous. But the worst risks are the ones we cannot anticipate.  <a href="https://nyti.ms/3JmjN8n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Peru Used Lethal Force to Crack Down on Anti-Government Protests</h3>
+<sub>By Brent McDonald, Ainara Tiefenthäler and James Surdam</sub>
+<p>A New York Times investigation found that the country’s police and military fired lethal ammunition at unarmed civilians during protests in December and January.  <a href="https://nyti.ms/3liU6O9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>His Wife Was Dying, but 10 Feet of Snow Stood in His Way</h3>
@@ -122,16 +130,10 @@ Due to fears about the global economy and the risks in the financial system, the
 <p>Robert Rice had been through war and was used to handling his own problems. Then an intense snowstorm in Southern California threatened to keep him from seeing his wife in her final days.  <a href="https://nyti.ms/42k7Icz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>France Holds Its Breath Over Tense Pension Vote After Large Protests</h3>
-<sub>By Aurelien Breeden</sub>
-<p>In a test for President Emmanuel Macron’s political goals, lawmakers will decide on his proposal to raise the retirement age for most workers by two years, to 64.  <a href="https://nyti.ms/3FryGVU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>U.S. Pushes for TikTok Sale to Resolve National Security Concerns</h3>
-<sub>By David McCabe and Cecilia Kang</sub>
-<p>The demand hardens the White House’s stance toward the popular video app, which is owned by the Chinese internet company ByteDance.  <a href="https://nyti.ms/3ZSQuS1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>When It Doesn’t Help to Speak the Language: The Fulbright-Hays Fellowship</h3>
+<sub>By Erica L. Green</sub>
+<p>An Education Department regulation penalizes Fulbright-Hays applicants if they grew up speaking the language of their proposed country for research. Lawsuits have followed.  <a href="https://nyti.ms/3FrhTlL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
