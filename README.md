@@ -60,40 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 15, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. The Swiss Central Bank is saying it will backstop Ailing Credit Suisse if necessary and the Federal Reserve, as well as lawmakers, are taking a closer look at bank rules after a collapse. In the stock markets, people are shuddering at the risk that are lurking in the financial system. 
-
-In international news, there&#39;s been conflict in Ukraine between Russia, the West and the slow rising of chatbots in the AI race because virtual assistants weren&#39;t able to take the lead. 
-
-In terms of business, we&#39;ve been following news of Guo Wengui - a Chinese billionaire charged with financial conspiracy, and Axiom Space unveiling a new moon suit for astronaut for NASA&#39;s Artemis mission. Finally, French protesters have taken to the streets to protest against raising the retirement age before a vote on pension bill.</p>
+There is a lot of economic volatility happening in the markets right now as people worry about the current state of the economy and what risks there are in the financial system. Switzerland&#39;s central bank has said that it will come to the rescue of its struggling Credit Suisse if needed. Ukraine and Russia are looking for ammunition for a potential spring counteroffensive, with the U.S. Pentagon chief speaking to his Russian counterpart about a drone incident. In France, protesters are taking to the streets in one final push before a vote on a pension bill that is set to raise the retirement age from 62 to 64.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Bank Fears Go Global, Sending a Shudder Through Markets</h3>
+<sub>By Joe Rennison and Jason Karaian</sub>
+<p>Stomach-churning volatility in stocks, bonds and other assets on Wednesday reflected renewed worries about the state of the economy and the risks lurking in the financial system.  <a href="https://nyti.ms/425E7n8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Swiss Central Bank Says It Will Backstop Ailing Credit Suisse if Necessary</h3>
 <sub>By Michael J. de la Merced and Maureen Farrell</sub>
 <p>Shares of the beleaguered Swiss lender tumbled on Wednesday, adding to concerns about the banking sector.  <a href="https://nyti.ms/3lozWCl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Federal Reserve and Lawmakers Eye Bank Rules After Collapse</h3>
-<sub>By Jeanna Smialek and Emily Flitter</sub>
-<p>The stunning demise of Silicon Valley Bank has spurred soul-searching about how large and regional banks are overseen.  <a href="https://nyti.ms/3ZQ12S1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Markets Shudder as Bank Fears Go Global</h3>
-<sub>By Joe Rennison and Jason Karaian</sub>
-<p>Volatility in stocks and bonds reflected renewed worries about the state of the economy and the risks lurking in the financial system.  <a href="https://nyti.ms/425E7n8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why the Black Sea Is a Flashpoint Between Russia and the West</h3>
-<sub>By Ben Hubbard and Gulsin Harman</sub>
-<p>It has long been a theater of competition between Russia and the West, a dynamic supercharged by the Ukraine war.  <a href="https://nyti.ms/3YLdm4t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine’s Allies Promise Weapons for Spring Counteroffensive</h3>
+<sub>By Marc Santora, Eric Schmitt, Valerie Hopkins and Ivan Nechepurenko</sub>
+<p>Ukraine and Russia are both running low on ammunition, and both are scrambling to replenish their stocks and gain a competitive edge.  <a href="https://nyti.ms/3yHBn1V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Russia’s Spring Offensive in Ukraine Could Include Cyberattacks, Microsoft Says</h3>
-<sub>By Julian E. Barnes, David E. Sanger and Marc Santora</sub>
-<p>Moscow also appears to be stepping up influence operations to weaken European and U.S. support for sending more aid to the Ukrainian government.  <a href="https://nyti.ms/3YPu2I8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Pentagon chief says he spoke to his Russian counterpart about the drone incident.</h3>
+<sub>By Helene Cooper and Eric Schmitt</sub>
+<p>  <a href="https://nyti.ms/3yN47WR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Let’s Use a Chatbot to Fill Out a Bracket</h3>
+<sub>By Jonathan Ellis and Michael Beswetherick</sub>
+<p>We asked Microsoft’s Bing to make its own N.C.A.A. tournament picks. And asked again. And asked some more.  <a href="https://nyti.ms/3lhNbVv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -102,34 +98,34 @@ In terms of business, we&#39;ve been following news of Guo Wengui - a Chinese bi
 <p>Today, the new language model from OpenAI may not seem all that dangerous. But the worst risks are the ones we cannot anticipate.  <a href="https://nyti.ms/3JmjN8n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Siri, Alexa and Google Assistant Lost the A.I. Race</h3>
-<sub>By Brian X. Chen, Nico Grant and Karen Weise</sub>
-<p>The virtual assistants had more than a decade to become indispensable. But they were hampered by clunky design and miscalculations, leaving room for chatbots to rise.  <a href="https://nyti.ms/3JDLRof"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Brilliant Inventor Who Made Two of History’s Biggest Mistakes</h3>
 <sub>By Steven Johnson</sub>
 <p>A century ago, Thomas Midgley Jr. was responsible for two phenomenally destructive innovations. What can we learn from them today?  <a href="https://nyti.ms/407xq23"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Lawyers Spar Before Judge Over Rescinding Federal Approval of Abortion Pill</h3>
-<sub>By Pam Belluck and Allison McCann</sub>
-<p>The judge said he would decide soon whether to issue a preliminary injunction ordering the F.D.A. to withdraw its approval of the drug or wait for the full trial.  <a href="https://nyti.ms/3LuHkqv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After South Korea’s Icebreaker, Its President Is Welcomed to Tokyo</h3>
+<sub>By Motoko Rich and Choe Sang-Hun</sub>
+<p>The first such visit to Japan by a South Korean president in 12 years is a tangible step toward thawing relations, but both leaders face challenges.  <a href="https://nyti.ms/3JmRRS4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Exiled Chinese Billionaire Charged in New York With Financial Conspiracy</h3>
-<sub>By Benjamin Weiser and Michael Forsythe</sub>
-<p>Guo Wengui, a fugitive financier and associate of Steve Bannon, is accused by federal prosecutors of engaging in a complex scheme to bilk thousands of online followers.  <a href="https://nyti.ms/3TpUbw7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>His Wife Was Dying, but 10 Feet of Snow Stood in His Way</h3>
+<sub>By Corina Knoll</sub>
+<p>Robert Rice had been through war and was used to handling his own problems. Then an intense snowstorm in Southern California threatened to keep him from seeing his wife in her final days.  <a href="https://nyti.ms/42k7Icz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>New Moon Suit for NASA’s Artemis Astronauts Unveiled</h3>
-<sub>By Kenneth Chang</sub>
-<p>Axiom Space is building the new spacesuits in a commercial partnership similar to the one between the space agency and SpaceX.  <a href="https://nyti.ms/3FopOjK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>U.S. Pushes for TikTok Sale to Resolve National Security Concerns</h3>
+<sub>By David McCabe and Cecilia Kang</sub>
+<p>The demand hardens the White House’s stance toward the popular video app, which is owned by the Chinese internet company ByteDance.  <a href="https://nyti.ms/3ZSQuS1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>When It Doesn’t Help to Speak the Language: The Fulbright-Hays Fellowship</h3>
+<sub>By Erica L. Green</sub>
+<p>An Education Department regulation penalizes Fulbright-Hays applicants if they grew up speaking the language of their proposed country for research. Lawsuits have followed.  <a href="https://nyti.ms/3FrhTlL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
