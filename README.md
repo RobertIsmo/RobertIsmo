@@ -60,25 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 16, Central Standard Time</p>
 <p>
-There is a lot happening in the world that has investors and people worried. There are global fears about the state of the economy and financial risks that have led to stomach-churning volatility in stocks, bonds and other assets. Credit Suisse has announced it will borrow up to $54 billion from a central bank after investors began dumping its stock. In Asia, markets are down due to these worries, while Europe and the US saw stocks opening higher after days of volatility. Meanwhile, there is discussion over diversity and environmental responsibility in relation to Silicon Valley Bank&#39;s collapse, and Covid has caused a health crisis among pregnant women which saw deaths soar by 40 percent in the US this year. In other news, there has been a diplomatic thaw between South Korea and Japan, while Ukraine is running low on ammunition while Russia is doing the same as they both strive to gain an edge in a possible spring counteroffensive. Finally, Pentagon Chief spoke with his Russian counterpart regarding an incident with drones.</p>
+Due to fears about the global economy and the risks in the financial system, there is a lot of volatility in stocks, bonds, and other assets. This week there have been debates about whether &#39;wokeness&#39; was a factor in the collapse of Silicon Valley Bank. In terms of health, pregnant women are particularly vulnerable to Covid-19 so it&#39;s important for them to know the risks associated with it. As for geopolitical news, South Korean President Moon Jae-in recently visited Tokyo which is a sign of an improving diplomatic relationship between the two countries. Meanwhile, Ukraine and Russia are both trying to restock their munitions for a possible spring counteroffensive. The Pentagon chief also spoke to his Russian counterpart about a drone incident. On the technology front, Microsoft&#39;s Bing chatbot is using artificial intelligence to pick out brackets while OpenAI released a language model called GPT-4 that is both impressive and concerning. Finally, France is debating a pension reform bill which has sparked large protests. The US is also pushing for TikTok, the popular video app owned by ByteDance, to be sold in order to address national security concerns.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Bank Fears Go Global, Sending a Shudder Through Markets</h3>
 <sub>By Joe Rennison and Jason Karaian</sub>
 <p>Stomach-churning volatility in stocks, bonds and other assets on Wednesday reflected renewed worries about the state of the economy and the risks lurking in the financial system.  <a href="https://nyti.ms/425E7n8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Credit Suisse to Borrow Up to $54 Billion From Central Bank</h3>
-<sub>By Michael J. de la Merced and Maureen Farrell</sub>
-<p>The announcement came after investors, fearing that the bank would run out of money, began dumping its stock.  <a href="https://nyti.ms/3lozWCl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Asian Markets Drop After Credit Suisse Moves to Borrow Billions</h3>
-<sub>By Vivek Shankar</sub>
-<p>Stocks were set to open higher in Europe and the United States after days of volatility, but markets in Asia were down as fears grew about unseen risks.  <a href="https://nyti.ms/3Ths2aA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>No, ‘Wokeness’ Did Not Cause Silicon Valley Bank’s Collapse</h3>
@@ -111,7 +99,7 @@ There is a lot happening in the world that has investors and people worried. The
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon chief says he spoke to his Russian counterpart about the drone incident.</h3>
+<h3>The Pentagon chief says he spoke to his Russian counterpart about the drone incident.</h3>
 <sub>By Helene Cooper and Eric Schmitt</sub>
 <p>  <a href="https://nyti.ms/3yN47WR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
@@ -132,6 +120,18 @@ There is a lot happening in the world that has investors and people worried. The
 <h3>His Wife Was Dying, but 10 Feet of Snow Stood in His Way</h3>
 <sub>By Corina Knoll</sub>
 <p>Robert Rice had been through war and was used to handling his own problems. Then an intense snowstorm in Southern California threatened to keep him from seeing his wife in her final days.  <a href="https://nyti.ms/42k7Icz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>France Holds Its Breath Over Tense Pension Vote After Large Protests</h3>
+<sub>By Aurelien Breeden</sub>
+<p>In a test for President Emmanuel Macron’s political goals, lawmakers will decide on his proposal to raise the retirement age for most workers by two years, to 64.  <a href="https://nyti.ms/3FryGVU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>U.S. Pushes for TikTok Sale to Resolve National Security Concerns</h3>
+<sub>By David McCabe and Cecilia Kang</sub>
+<p>The demand hardens the White House’s stance toward the popular video app, which is owned by the Chinese internet company ByteDance.  <a href="https://nyti.ms/3ZSQuS1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
