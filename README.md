@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 15, Central Standard Time</p>
 <p>
-There is a lot of economic volatility happening in the markets right now as people worry about the current state of the economy and what risks there are in the financial system. Switzerland&#39;s central bank has said that it will come to the rescue of its struggling Credit Suisse if needed. Ukraine and Russia are looking for ammunition for a potential spring counteroffensive, with the U.S. Pentagon chief speaking to his Russian counterpart about a drone incident. In France, protesters are taking to the streets in one final push before a vote on a pension bill that is set to raise the retirement age from 62 to 64.</p>
+There is a lot going on in the world right now. On the economic front, there are concerns about global banking systems and a lifeline has been extended to the troubled Credit Suisse lender by its central bank. In terms of international relations, South Korean President Moon Jae-in was welcomed to Tokyo in a sign of improving diplomatic ties between the two countries, while the US and Russia have exchanged words over a recent drone incident. Meanwhile, reports have surfaced of people struggling during tough times caused by an intense snowstorm in California and a US federal regulation penalizing Fulbright-Hays applicants for speaking the language of their proposed country for research. Finally, there has been some exciting news in the tech world regarding OpenAI&#39;s new language model and a potential sale of the popular video app TikTok to address security concerns related to its Chinese owner ByteDance.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Bank Fears Go Global, Sending a Shudder Through Markets</h3>
@@ -69,9 +69,15 @@ There is a lot of economic volatility happening in the markets right now as peop
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Swiss Central Bank Says It Will Backstop Ailing Credit Suisse if Necessary</h3>
+<h3>Credit Suisse, Battered Lender, Gets a Lifeline From Central Bank</h3>
 <sub>By Michael J. de la Merced and Maureen Farrell</sub>
-<p>Shares of the beleaguered Swiss lender tumbled on Wednesday, adding to concerns about the banking sector.  <a href="https://nyti.ms/3lozWCl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A day after shares of the lender tumbled, it said it would borrow up to $54 billion from the Swiss National Bank.  <a href="https://nyti.ms/3lozWCl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>No, ‘Wokeness’ Did Not Cause Silicon Valley Bank’s Collapse</h3>
+<sub>By Linda Qiu</sub>
+<p>Blaming workplace diversity or environmentally and socially conscious investments for the firm’s downfall signals a “complete lack of understanding of how banks work,” one expert said.  <a href="https://nyti.ms/40bX3Py"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -107,7 +113,7 @@ There is a lot of economic volatility happening in the markets right now as peop
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After South Korea’s Icebreaker, Its President Is Welcomed to Tokyo</h3>
 <sub>By Motoko Rich and Choe Sang-Hun</sub>
-<p>The first such visit to Japan by a South Korean president in 12 years is a tangible step toward thawing relations, but both leaders face challenges.  <a href="https://nyti.ms/3JmRRS4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The visit, the first of its kind in 12 years, is the latest sign of a diplomatic thaw. North Korea launched a missile hours before the countries’ leaders were to meet.  <a href="https://nyti.ms/3JmRRS4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ There is a lot of economic volatility happening in the markets right now as peop
 <h3>When It Doesn’t Help to Speak the Language: The Fulbright-Hays Fellowship</h3>
 <sub>By Erica L. Green</sub>
 <p>An Education Department regulation penalizes Fulbright-Hays applicants if they grew up speaking the language of their proposed country for research. Lawsuits have followed.  <a href="https://nyti.ms/3FrhTlL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>French Protesters Take to Streets in Last Angry Push Before Vote on Pension Bill</h3>
-<sub>By Constant Méheut</sub>
-<p>Many believe the legislation to raise the retirement age to 64 from 62 will pass Parliament, and they are looking beyond the vote to fight on.  <a href="https://nyti.ms/3ZOFQfe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
