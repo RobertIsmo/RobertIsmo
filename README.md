@@ -60,20 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 16, Central Standard Time</p>
 <p>
-Things have been a bit turbulent in the world lately! US markets have been in turmoil and the US banking system is still sound, according to Treasury Secretary Yellen. The European Central Bank is making key decisions that could shape how far the financial worries ripple out throughout the global economy. Meanwhile, Goldman Sachs&#39; dealings with Silicon Valley Bank have been called into question. In Ukraine, the military is using an alarming amount of weapons as it tries to hold back a city in eastern Ukraine. 
-
-The US government is taking steps to ban TikTok and other countries are following suit due to its ties with Chinese internet company ByteDance and concerns about user data safety. There&#39;s also worrying news about pregnant women during the pandemic–deaths have spiked 40% in the US this year. Here in the states, Florida is censoring math textbooks and attempted to remove mentions of racial injustice while a massive snowstorm in California prevented one man from seeing his dying wife. There are even issues faced by Fulbright-Hays applicants who grew up speaking the language of their proposed country for research but are penalized by an Education Department regulation.</p>
+There is a lot going on in the world right now. In France, people are protesting proposed pension reforms that would raise the legal retirement age to 64. There are also banking and financial issues in Europe, with the European Central Bank needing to set monetary policy due to worries in the markets. In the UK, there is concern about user data privacy as they have decided to ban TikTok on government devices. In the US, Florida has been scouring math textbooks for &quot;prohibited topics&quot; with an emphasis on avoiding mentions of race. Finally, there is a growing health crisis among pregnant women due to Covid-19, and experts are offering advice about what women need to know about pregnancy and Covid-19.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>French lawmakers are furious as they learn they won’t vote.</h3>
+<sub>By Aurelien Breeden, Catherine Porter and Constant Méheut</sub>
+<p>  <a href="https://nyti.ms/3Ti7uyJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why So Many People in France Are Protesting Over Pensions</h3>
+<sub>By Aurelien Breeden</sub>
+<p>France is at a pivotal moment, as Parliament votes on President Emmanuel Macron’s plans to raise the legal age of retirement to 64, from 62, despite strikes and wide public opposition.  <a href="https://nyti.ms/3YaBQnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen Says U.S. Banking System ‘Remains Sound’ Amid Market Turmoil</h3>
-<sub>By Alan Rappeport</sub>
-<p>The Treasury secretary also reassured Americans that their savings were safe.  <a href="https://nyti.ms/3JnRIh0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>First Republic Is Said to Be Exploring a Potential Sale</h3>
+<sub>By Lauren Hirsch</sub>
+<p>With its shares getting pummeled, one of the nation’s bigger banks is searching for options to shore up its finances and calm jittery investors.  <a href="https://nyti.ms/3Fw4F7A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The European Central Bank Meets to Raise Rates Amid Uncertainty</h3>
+<h3>The European Central Bank Raises Rates Half a Percent Amid Uncertainty</h3>
 <sub>By Eshe Nelson</sub>
-<p>The E.C.B. is the first major central bank to set monetary policy since banking worries gripped financial markets, and its decision could be a gauge on how far the reverberations are expected to spread.  <a href="https://nyti.ms/3yOSJK5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The E.C.B. was the first major central bank to set monetary policy since banking worries gripped financial markets.  <a href="https://nyti.ms/3yOSJK5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -86,6 +96,12 @@ The US government is taking steps to ban TikTok and other countries are followin
 <h3>Ukraine Burns Through Ammunition in Bakhmut, Risking Future Fights</h3>
 <sub>By Thomas Gibbons-Neff, Lara Jakes and Eric Schmitt</sub>
 <p>The military is using thousands of artillery shells a day as it tries to hold the eastern city, which could jeopardize a planned springtime campaign.  <a href="https://nyti.ms/3lgfILd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.K. Bans TikTok on Government Devices</h3>
+<sub>By Stephen Castle</sub>
+<p>The move reflects fears in Britain and elsewhere in the West that the popular app’s Chinese ownership could share user information with Beijing.  <a href="https://nyti.ms/3yF6nzH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -117,24 +133,6 @@ The US government is taking steps to ban TikTok and other countries are followin
 <sub>By Sarah Mervosh</sub>
 <p>Behind the scenes, one publisher went to great lengths to avoid mentions of race, even in the story of Rosa Parks.  <a href="https://nyti.ms/3YUGFlj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Peru Used Lethal Force to Crack Down on Anti-Government Protests</h3>
-<sub>By Brent McDonald, Ainara Tiefenthäler and James Surdam</sub>
-<p>A New York Times investigation found that the country’s police and military fired lethal ammunition at unarmed civilians during protests in December and January.  <a href="https://nyti.ms/3liU6O9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>His Wife Was Dying, but 10 Feet of Snow Stood in His Way</h3>
-<sub>By Corina Knoll</sub>
-<p>Robert Rice had been through war and was used to handling his own problems. Then an intense snowstorm in Southern California threatened to keep him from seeing his wife in her final days.  <a href="https://nyti.ms/42k7Icz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When It Doesn’t Help to Speak the Language: The Fulbright-Hays Fellowship</h3>
-<sub>By Erica L. Green</sub>
-<p>An Education Department regulation penalizes Fulbright-Hays applicants if they grew up speaking the language of their proposed country for research. Lawsuits have followed.  <a href="https://nyti.ms/3FrhTlL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
