@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 16, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In France, people are protesting proposed pension reforms that would raise the legal retirement age to 64. There are also banking and financial issues in Europe, with the European Central Bank needing to set monetary policy due to worries in the markets. In the UK, there is concern about user data privacy as they have decided to ban TikTok on government devices. In the US, Florida has been scouring math textbooks for &quot;prohibited topics&quot; with an emphasis on avoiding mentions of race. Finally, there is a growing health crisis among pregnant women due to Covid-19, and experts are offering advice about what women need to know about pregnancy and Covid-19.</p>
+Right now, there&#39;s a lot going on in the world. In France, their lawmakers are furious because they won&#39;t be able to vote on raising the legal age of retirement from 62 to 64. People are protesting about this and it&#39;s causing a lot of conflict. In the United States, Florida is now conducting a massive search through math textbooks to remove any &quot;prohibited topics,&quot; like mentions of race. On the economic side of things, interest rates are lower than expected and without them Wall Street is in for a tough journey. Banks like First Republic Bank are starting to explore rescue options and regional banks all over the country are feeling the impact of this shift. In the UK, TikTok has been banned on government devices, for fear of user information being shared with China&#39;s authorities. The US Government is pushing for a sale of TikTok to resolve national security concerns, and other countries have also started trying to ban it. Finally, scientists and musicians are teaming up to document and predict climate change by recording audio of melting ice around the world.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>French lawmakers are furious as they learn they won’t vote.</h3>
@@ -71,31 +71,49 @@ There is a lot going on in the world right now. In France, people are protesting
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Why So Many People in France Are Protesting Over Pensions</h3>
 <sub>By Aurelien Breeden</sub>
-<p>France is at a pivotal moment, as Parliament votes on President Emmanuel Macron’s plans to raise the legal age of retirement to 64, from 62, despite strikes and wide public opposition.  <a href="https://nyti.ms/3YaBQnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Emmanuel Macron turned to a constitutional maneuver to raise the legal age of retirement to 64 from 62 despite strikes and wide public opposition.  <a href="https://nyti.ms/3YaBQnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>First Republic Is Said to Be Exploring a Potential Sale</h3>
-<sub>By Lauren Hirsch</sub>
-<p>With its shares getting pummeled, one of the nation’s bigger banks is searching for options to shore up its finances and calm jittery investors.  <a href="https://nyti.ms/3Fw4F7A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Low Rates Were Meant to Last. Without Them, Finance Is In for a Rough Ride.</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Economists expected inflation and rates to stay low for years. With Silicon Valley Bank’s implosion, Wall Street is starting to reckon with how wrong that prediction has proved.  <a href="https://nyti.ms/405iS3i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The European Central Bank Raises Rates Half a Percent Amid Uncertainty</h3>
-<sub>By Eshe Nelson</sub>
-<p>The E.C.B. was the first major central bank to set monetary policy since banking worries gripped financial markets.  <a href="https://nyti.ms/3yOSJK5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>First Republic, Latest Bank in Turmoil, Explores Rescue Options</h3>
+<sub>By Lauren Hirsch and Rob Copeland</sub>
+<p>The bank, one of the nation’s bigger institutions, is searching for ways to shore up its finances and calm jittery investors.  <a href="https://nyti.ms/3Fw4F7A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>New Questions About Goldman Sachs’s Work With Silicon Valley Bank</h3>
-<sub>By Andrew Ross Sorkin and Lauren Hirsch</sub>
-<p>Goldman bought a bond portfolio on which the bank had booked a $1.8 billion loss, while also trying to raise capital for the bank in its last days.  <a href="https://nyti.ms/3YRAIWb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<h3>Wall Street finds its footing even as worry about regional banks continues.</h3>
+<sub>By Joe Rennison</sub>
+<p>The S&amp;P 500 climbed by midday, but shares of First Republic Bank and other regional lenders continued to slide.  <a href="https://nyti.ms/3FtCm9J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Burns Through Ammunition in Bakhmut, Risking Future Fights</h3>
 <sub>By Thomas Gibbons-Neff, Lara Jakes and Eric Schmitt</sub>
 <p>The military is using thousands of artillery shells a day as it tries to hold the eastern city, which could jeopardize a planned springtime campaign.  <a href="https://nyti.ms/3lgfILd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The Poignant Music of Melting Ice</h3>
+<sub>By Grayson Haver Currin</sub>
+<p>Scientists and musicians are recording the sounds of unfreezing water to document and predict the effects of climate change. Can their work help slow it, too?  <a href="https://nyti.ms/42bhNst"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Florida Scoured Math Textbooks for ‘Prohibited Topics.’ Next Up: Social Studies.</h3>
+<sub>By Sarah Mervosh</sub>
+<p>Behind the scenes, one publisher went to great lengths to avoid mentions of race, even in the story of Rosa Parks.  <a href="https://nyti.ms/3YUGFlj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Public Health vs. Economic Growth: Toxic Chemical Rules Pose Test for Biden</h3>
+<sub>By Eric Lipton</sub>
+<p>Key industries — including some that the White House is backing through other policies — are lobbying to water down the first major new rules in a generation on chemicals that pose risks to humans.  <a href="https://nyti.ms/42l1b1i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -115,24 +133,6 @@ There is a lot going on in the world right now. In France, people are protesting
 <sub>By Sapna Maheshwari and Amanda Holpuch</sub>
 <p>Governments have expressed concerns that TikTok, which is owned by the Chinese company ByteDance, may endanger sensitive user data.  <a href="https://nyti.ms/3mjkGa6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Covid Worsened a Health Crisis Among Pregnant Women</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>In 2021, deaths of pregnant women soared by 40 percent in the United States, according to new government figures. Here’s how one family coped after the virus threatened a pregnant mother.  <a href="https://nyti.ms/3ZQ7xUT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Pregnancy and Covid: What Women Need to Know</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>A pregnant woman is more likely to develop serious Covid-19 and to die of it. Several factors amplify the risks.  <a href="https://nyti.ms/3LobCvb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Scoured Math Textbooks for ‘Prohibited Topics.’ Next Up: Social Studies.</h3>
-<sub>By Sarah Mervosh</sub>
-<p>Behind the scenes, one publisher went to great lengths to avoid mentions of race, even in the story of Rosa Parks.  <a href="https://nyti.ms/3YUGFlj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
