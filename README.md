@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, March 15, Central Standard Time</p>
+<p>It is Thursday, March 16, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. On the economic front, there are concerns about global banking systems and a lifeline has been extended to the troubled Credit Suisse lender by its central bank. In terms of international relations, South Korean President Moon Jae-in was welcomed to Tokyo in a sign of improving diplomatic ties between the two countries, while the US and Russia have exchanged words over a recent drone incident. Meanwhile, reports have surfaced of people struggling during tough times caused by an intense snowstorm in California and a US federal regulation penalizing Fulbright-Hays applicants for speaking the language of their proposed country for research. Finally, there has been some exciting news in the tech world regarding OpenAI&#39;s new language model and a potential sale of the popular video app TikTok to address security concerns related to its Chinese owner ByteDance.</p>
+There is a lot happening in the world that has investors and people worried. There are global fears about the state of the economy and financial risks that have led to stomach-churning volatility in stocks, bonds and other assets. Credit Suisse has announced it will borrow up to $54 billion from a central bank after investors began dumping its stock. In Asia, markets are down due to these worries, while Europe and the US saw stocks opening higher after days of volatility. Meanwhile, there is discussion over diversity and environmental responsibility in relation to Silicon Valley Bank&#39;s collapse, and Covid has caused a health crisis among pregnant women which saw deaths soar by 40 percent in the US this year. In other news, there has been a diplomatic thaw between South Korea and Japan, while Ukraine is running low on ammunition while Russia is doing the same as they both strive to gain an edge in a possible spring counteroffensive. Finally, Pentagon Chief spoke with his Russian counterpart regarding an incident with drones.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Bank Fears Go Global, Sending a Shudder Through Markets</h3>
@@ -69,15 +69,39 @@ There is a lot going on in the world right now. On the economic front, there are
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Credit Suisse, Battered Lender, Gets a Lifeline From Central Bank</h3>
+<h3>Credit Suisse to Borrow Up to $54 Billion From Central Bank</h3>
 <sub>By Michael J. de la Merced and Maureen Farrell</sub>
-<p>A day after shares of the lender tumbled, it said it would borrow up to $54 billion from the Swiss National Bank.  <a href="https://nyti.ms/3lozWCl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The announcement came after investors, fearing that the bank would run out of money, began dumping its stock.  <a href="https://nyti.ms/3lozWCl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Asian Markets Drop After Credit Suisse Moves to Borrow Billions</h3>
+<sub>By Vivek Shankar</sub>
+<p>Stocks were set to open higher in Europe and the United States after days of volatility, but markets in Asia were down as fears grew about unseen risks.  <a href="https://nyti.ms/3Ths2aA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>No, ‘Wokeness’ Did Not Cause Silicon Valley Bank’s Collapse</h3>
 <sub>By Linda Qiu</sub>
 <p>Blaming workplace diversity or environmentally and socially conscious investments for the firm’s downfall signals a “complete lack of understanding of how banks work,” one expert said.  <a href="https://nyti.ms/40bX3Py"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Covid Worsened a Health Crisis Among Pregnant Women</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>In 2021, deaths of pregnant women soared by 40 percent in the United States, according to new government figures. Here’s how one family coped after the virus threatened a pregnant mother.  <a href="https://nyti.ms/3ZQ7xUT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Pregnancy and Covid: What Women Need to Know</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>A pregnant woman is more likely to develop serious Covid-19 and to die of it. Several factors amplify the risks.  <a href="https://nyti.ms/3LobCvb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After South Korea’s Icebreaker, Its President Is Welcomed to Tokyo</h3>
+<sub>By Motoko Rich and Choe Sang-Hun</sub>
+<p>The visit, the first of its kind in 12 years, is the latest sign of a diplomatic thaw. North Korea launched a missile hours before the countries’ leaders were to meet.  <a href="https://nyti.ms/3JmRRS4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,34 +128,10 @@ There is a lot going on in the world right now. On the economic front, there are
 <p>Today, the new language model from OpenAI may not seem all that dangerous. But the worst risks are the ones we cannot anticipate.  <a href="https://nyti.ms/3JmjN8n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Brilliant Inventor Who Made Two of History’s Biggest Mistakes</h3>
-<sub>By Steven Johnson</sub>
-<p>A century ago, Thomas Midgley Jr. was responsible for two phenomenally destructive innovations. What can we learn from them today?  <a href="https://nyti.ms/407xq23"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After South Korea’s Icebreaker, Its President Is Welcomed to Tokyo</h3>
-<sub>By Motoko Rich and Choe Sang-Hun</sub>
-<p>The visit, the first of its kind in 12 years, is the latest sign of a diplomatic thaw. North Korea launched a missile hours before the countries’ leaders were to meet.  <a href="https://nyti.ms/3JmRRS4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>His Wife Was Dying, but 10 Feet of Snow Stood in His Way</h3>
 <sub>By Corina Knoll</sub>
 <p>Robert Rice had been through war and was used to handling his own problems. Then an intense snowstorm in Southern California threatened to keep him from seeing his wife in her final days.  <a href="https://nyti.ms/42k7Icz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>U.S. Pushes for TikTok Sale to Resolve National Security Concerns</h3>
-<sub>By David McCabe and Cecilia Kang</sub>
-<p>The demand hardens the White House’s stance toward the popular video app, which is owned by the Chinese internet company ByteDance.  <a href="https://nyti.ms/3ZSQuS1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When It Doesn’t Help to Speak the Language: The Fulbright-Hays Fellowship</h3>
-<sub>By Erica L. Green</sub>
-<p>An Education Department regulation penalizes Fulbright-Hays applicants if they grew up speaking the language of their proposed country for research. Lawsuits have followed.  <a href="https://nyti.ms/3FrhTlL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
