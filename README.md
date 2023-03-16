@@ -60,12 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 16, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. In France, their lawmakers are furious because they won&#39;t be able to vote on raising the legal age of retirement from 62 to 64. People are protesting about this and it&#39;s causing a lot of conflict. In the United States, Florida is now conducting a massive search through math textbooks to remove any &quot;prohibited topics,&quot; like mentions of race. On the economic side of things, interest rates are lower than expected and without them Wall Street is in for a tough journey. Banks like First Republic Bank are starting to explore rescue options and regional banks all over the country are feeling the impact of this shift. In the UK, TikTok has been banned on government devices, for fear of user information being shared with China&#39;s authorities. The US Government is pushing for a sale of TikTok to resolve national security concerns, and other countries have also started trying to ban it. Finally, scientists and musicians are teaming up to document and predict climate change by recording audio of melting ice around the world.</p>
+The world is in an interesting state right now. Financial markets are expecting a rough ride due to predictions of low inflation and interest rates not standing up. Banks are being stabilized by regulators, who feared collapse of Silicon Valley Bank could have led to other runs. Macron is risking a public backlash for pushing through a law that raises the retirement age, which has caused people to protest in Paris. In France, people are protesting over pension changes as well as Ukraine burning through ammunition in a city known as Bakhmut. Climate change is being studied by scientists and musicians creating music with melting ice, while Biden has to make decisions regarding toxic chemical rules and economic growth. Lastly, Alabama players are making NCAA tournament headlines due to a deadly shooting and the passing skills of a Princeton player honoring the late Pete Carril&#39;s legacy.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Low Rates Were Meant to Last. Without Them, Finance Is In for a Rough Ride.</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Economists expected inflation and rates to stay low for years. With Silicon Valley Bank’s implosion, Wall Street is starting to reckon with how wrong that prediction has proved.  <a href="https://nyti.ms/405iS3i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Stocks rally as First Republic receives a rescue.</h3>
+<sub>By Joe Rennison</sub>
+<p>The S&amp;P 500 jumped, along with shares of First Republic Bank and other regional lenders.  <a href="https://nyti.ms/3FtCm9J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yellen Defends Efforts to Stabilize Banking System</h3>
+<sub>By Alan Rappeport</sub>
+<p>The Treasury secretary said U.S. banks are “sound” but that regulators feared the collapse of Silicon Valley Bank could have led to other runs.  <a href="https://nyti.ms/3JpwAqD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>French lawmakers are furious as they learn they won’t vote.</h3>
-<sub>By Aurelien Breeden, Catherine Porter and Constant Méheut</sub>
-<p>  <a href="https://nyti.ms/3Ti7uyJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Macron, Risking Backlash, Pushes Through Law Raising Retirement Age</h3>
+<sub>By Roger Cohen</sub>
+<p>Lacking parliamentary support, the French president used a special measure to circumvent a vote, a step likely to further enrage opponents.  <a href="https://nyti.ms/42gWmWX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Protesters Clash With Police Over Retirement Change</h3>
+<sub>By Constant Méheut and Catherine Porter</sub>
+<p>A protest at Place de la Concorde in Paris began as a jovial scene, but devolved as night fell and violent protesters clashed with police.  <a href="https://nyti.ms/3FwMgrg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,24 +98,6 @@ Right now, there&#39;s a lot going on in the world. In France, their lawmakers a
 <p>President Emmanuel Macron turned to a constitutional maneuver to raise the legal age of retirement to 64 from 62 despite strikes and wide public opposition.  <a href="https://nyti.ms/3YaBQnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Low Rates Were Meant to Last. Without Them, Finance Is In for a Rough Ride.</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Economists expected inflation and rates to stay low for years. With Silicon Valley Bank’s implosion, Wall Street is starting to reckon with how wrong that prediction has proved.  <a href="https://nyti.ms/405iS3i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>First Republic, Latest Bank in Turmoil, Explores Rescue Options</h3>
-<sub>By Lauren Hirsch and Rob Copeland</sub>
-<p>The bank, one of the nation’s bigger institutions, is searching for ways to shore up its finances and calm jittery investors.  <a href="https://nyti.ms/3Fw4F7A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wall Street finds its footing even as worry about regional banks continues.</h3>
-<sub>By Joe Rennison</sub>
-<p>The S&amp;P 500 climbed by midday, but shares of First Republic Bank and other regional lenders continued to slide.  <a href="https://nyti.ms/3FtCm9J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Burns Through Ammunition in Bakhmut, Risking Future Fights</h3>
 <sub>By Thomas Gibbons-Neff, Lara Jakes and Eric Schmitt</sub>
@@ -99,7 +105,7 @@ Right now, there&#39;s a lot going on in the world. In France, their lawmakers a
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Poignant Music of Melting Ice</h3>
+<h3>The Poignant Music of Melting Ice: Have a Listen</h3>
 <sub>By Grayson Haver Currin</sub>
 <p>Scientists and musicians are recording the sounds of unfreezing water to document and predict the effects of climate change. Can their work help slow it, too?  <a href="https://nyti.ms/42bhNst"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
@@ -116,23 +122,17 @@ Right now, there&#39;s a lot going on in the world. In France, their lawmakers a
 <p>Key industries — including some that the White House is backing through other policies — are lobbying to water down the first major new rules in a generation on chemicals that pose risks to humans.  <a href="https://nyti.ms/42l1b1i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.K. Bans TikTok on Government Devices</h3>
-<sub>By Stephen Castle</sub>
-<p>The move reflects fears in Britain and elsewhere in the West that the popular app’s Chinese ownership could share user information with Beijing.  <a href="https://nyti.ms/3yF6nzH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>U.S. Pushes for TikTok Sale to Resolve National Security Concerns</h3>
-<sub>By David McCabe and Cecilia Kang</sub>
-<p>The demand hardens the White House’s stance toward the popular video app, which is owned by the Chinese internet company ByteDance.  <a href="https://nyti.ms/3ZSQuS1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A Fourth Alabama Player Was at a Deadly Shooting, in a Car Hit by Bullets</h3>
+<sub>By Billy Witz</sub>
+<p>The presence of a fourth Crimson Tide player at the deadly shooting in January has come to light as the team begins its run as the top overall seed in the N.C.A.A. men’s tournament.  <a href="https://nyti.ms/3FtEAps"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Why Countries Are Trying to Ban TikTok</h3>
-<sub>By Sapna Maheshwari and Amanda Holpuch</sub>
-<p>Governments have expressed concerns that TikTok, which is owned by the Chinese company ByteDance, may endanger sensitive user data.  <a href="https://nyti.ms/3mjkGa6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A Princeton Passer’s Skills Recall a Departed Coach’s Legacy</h3>
+<sub>By Scott Miller</sub>
+<p>Tosan Evbuomwan is leading Princeton into the N.C.A.A. tournament seven months after the death of one of its best-known coaches, Pete Carril.  <a href="https://nyti.ms/3Lup00U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
