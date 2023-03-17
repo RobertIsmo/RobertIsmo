@@ -60,37 +60,55 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 17, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of political tension brewing around the world. In Poland, the leader is sending warplanes to help Ukraine defend against Russian forces but other allies may follow suit. Meanwhile, in the US we just released a video of a drone&#39;s encounter with Russian jets and we had to recently bail out First Republic with a $30 billion loan from 11 of the biggest banks. Finance is feeling the effects of low rates staying for years and regulators actually blocked mention of any flaws in their Silicon Valley Bank rescue. We&#39;re still trying to figure out where COVID originated and it&#39;s looking like it might be linked to Raccoon dogs from a market in Wuhan. On the sports front, Princeton pulled off an upset over Arizona and Furman over Virginia in March Madness games this week. In N Dakota, their court blocked an abortion ban and declared it unconstitutional too. France&#39;s president pushed through a controversial law without parliamentary support that raises retirement age and Israel&#39;s government and its opponents still can&#39;t agree on how to pick judges as part of an effort to resolve its impasse. Lastly, Biden admin is now pushing TikTok&#39;s Chinese owners to sell the app or face a possible ban– but finding a buyer isn&#39;t necessarily going to be easy.</p>
+Right now, a lot is happening all over the world. China&#39;s president Xi Jinping will be meeting with Russia&#39;s President Vladimir Putin and Ukraine&#39;s President Volodymyr Zelensky in an attempt to bring peace to the ongoing war in Ukraine. Slovakia and Poland have both pledged warplanes for Ukraine, highlighting the security concerns in the region.
+
+In business news, there has been a lot of volatility in markets over the past week as investors worry about global economic stability. There are also some interesting developments regarding Silicon Valley Bank&#39;s strong ties to tech startups and how that affects investments.
+
+In terms of science, new data suggests that the origins of the pandemic may be linked to raccoon dogs at a market in Wuhan, China. As for environmental news, this winter has brought a great deal of relief for California&#39;s drought situation, but experts warn that water woes still remain for the region. 
+
+And finally, if you&#39;re a fan of sports then you know that there have been some major surprises in this week&#39;s NCAA tournaments. We&#39;ve already seen two Cinderella teams emerge with No. 15 Princeton&#39;s win against Arizona and No. 13 Furman upsetting No. 4 Virginia, so it&#39;ll be exciting to see what other upsets lie ahead!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Poland Says It Will Arm Ukraine With Warplanes, Raising Stakes</h3>
-<sub>By Andrew Higgins and Lara Jakes</sub>
-<p>The Polish leader said he would send jets designed by the Soviet Union to help Ukraine fend off Russian forces. It was unclear if other allies might follow suit.  <a href="https://nyti.ms/3JMRz8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<h3>Xi, Cast as Peacemaker, Wades Into Russia’s War in Ukraine</h3>
+<sub>By David Pierson, Anatoly Kurmanaev and Marc Santora</sub>
+<p>China’s top leader, Xi Jinping, is expected to meet with President Vladimir V. Putin of Russia next week and speak with President Volodymyr Zelensky of Ukraine.  <a href="https://nyti.ms/3n4zHg8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon Releases Video of U.S. Drone’s Encounter With Russian Jets</h3>
-<sub>By Eric Schmitt and Helene Cooper</sub>
-<p>The 42-second clip shows two Russian fighters spraying the American aircraft with a substance the Pentagon says is jet fuel.  <a href="https://nyti.ms/3ZScNHn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Slovakia follows Poland in pledging warplanes for Ukraine.</h3>
+<sub>By Andrew Higgins, Matt Surman and Lara Jakes</sub>
+<p>The news came after Poland’s president said that his country would send MIG-29 jets, a move that appeared intended to open the door to more advanced warplanes from NATO allies.  <a href="https://nyti.ms/40ez9mh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wall Street’s Biggest Banks Rescue Teetering First Republic</h3>
-<sub>By Rob Copeland, Lauren Hirsch, Alan Rappeport and Maureen Farrell</sub>
-<p>A plan led by Treasury Secretary Janet Yellen and JPMorgan Chase’s chief executive led to a $30 billion infusion by 11 of the largest U.S. banks.  <a href="https://nyti.ms/3Fw4F7A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Low Rates Were Meant to Last. Without Them, Finance Is In for a Rough Ride.</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Economists expected inflation and rates to stay low for years. With Silicon Valley Bank’s implosion, Wall Street is starting to reckon with how wrong that prediction has proved.  <a href="https://nyti.ms/405iS3i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Dreams of Peace Wither, Nightmares Flourish in Ukraine’s Sleep</h3>
+<sub>By Maria Varenikova</sub>
+<p>A survey asked hundreds of wartime Ukrainians what they dreamed about. Many replied: the war.  <a href="https://nyti.ms/3lt8oM9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Blocked Mention of Regulatory Flaws in Silicon Valley Bank Rescue</h3>
-<sub>By Jim Tankersley, Jeanna Smialek and Emily Flitter</sub>
-<p>Federal government officials wanted a joint statement to include a reference to regulatory shortcomings that they believe helped lead to the bank’s demise.  <a href="https://nyti.ms/3lqFmN9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<h3>Investors Warily Approach the End of a Tumultuous Week</h3>
+<sub>By Rich Barbieri and Jason Karaian</sub>
+<p>The rescues of two ailing lenders provided a tenuous sense of relief in stock markets.  <a href="https://nyti.ms/3JoKtpd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Mortgages, Wine and Renovations: Silicon Valley Bank’s Deep Tech Ties</h3>
+<sub>By Erin Griffith, Mike Isaac and Sheera Frenkel</sub>
+<p>More than many other banks, SVB catered to how risky tech start-ups and their backers do not adhere to normal business practices.  <a href="https://nyti.ms/3ZUMiBk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>After a Wild Week, What Are Markets Saying About the World?</h3>
+<sub>By Joe Rennison and Ella Koeze</sub>
+<p>Stocks, bonds and commodities markets are all sending different signals. While the S&amp;P 500 actually rose this week, oil prices fell along with bond yields, signs that investors are worried about the economy.  <a href="https://nyti.ms/3ZTBByX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Will the Fed Keep Tightening as Banks Fail?</h3>
+<sub>By Jeff Sommer</sub>
+<p>By quietly shedding billions in assets, the Fed is making conditions tighter for banks, home buyers and investors, our columnist says.  <a href="https://nyti.ms/3ZSYLFv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>New Data Links Pandemic’s Origins to Raccoon Dogs at Wuhan Market</h3>
@@ -98,10 +116,22 @@ Right now, there&#39;s a lot of political tension brewing around the world. In P
 <p>Genetic samples from the market were recently uploaded to an international database and then removed after scientists asked China about them.  <a href="https://nyti.ms/3JNUmOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Very Wet Winter Has Eased California’s Drought, but Water Woes Remain</h3>
+<sub>By Elena Shao, Mira Rojanasakul and Nadja Popovich</sub>
+<p>Storms have brought heavy rain and snow to the state, but its ‘water issues haven’t gone away.’  <a href="https://nyti.ms/3JOdLz9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Princeton Commemorates Long-Ago Upset With a New One, of Arizona</h3>
-<sub>By Scott Miller</sub>
-<p>In 1996, Princeton dropped U.C.L.A. in one of the most stirring N.C.A.A. tournament upsets. This year, it downed No. 2 seed Arizona.  <a href="https://nyti.ms/3ZSrrOR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Purdue Favors Old Basketball Ideas. Will It Keep Working?</h3>
+<sub>By Noah Weiland and Lee Klafczynski</sub>
+<p>Led by center Zach Edey, the Boilermakers, who play on Friday, have earned a No. 1 seed in the N.C.A.A. men’s tournament.  <a href="https://nyti.ms/3FuMVJN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Friday’s Matchups to Watch in the N.C.A.A. Tournament</h3>
+<sub>By Shivani Gonzalez</sub>
+<p>The South Carolina women begin their title defense, while a couple of No. 12 seeds have us on upset watch in the men’s tournament.  <a href="https://nyti.ms/3TuJk4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -109,30 +139,6 @@ Right now, there&#39;s a lot of political tension brewing around the world. In P
 <sub>By The New York Times</sub>
 <p>No. 15 Princeton toppled Arizona, a No. 2 seed that was one of the favorites in the field, while No. 13 seed Furman knocked down No. 4 Virginia.  <a href="https://nyti.ms/3LxgZZ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>N. Dakota Supreme Court Blocks Abortion Ban; Says Constitution Protects Procedure</h3>
-<sub>By Ava Sasani and David W. Chen</sub>
-<p>The court’s opinion is not the final word on the case, but it upheld a lower court’s decision to suspend the state’s abortion ban.  <a href="https://nyti.ms/3n03cjt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Macron, Risking Backlash, Pushes Through Law Raising Retirement Age</h3>
-<sub>By Roger Cohen</sub>
-<p>Lacking parliamentary support, the French president used a special measure to circumvent a vote, a step likely to further enrage opponents.  <a href="https://nyti.ms/42gWmWX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Finding a Buyer for TikTok May Not Be So Easy</h3>
-<sub>By Sapna Maheshwari and David McCabe</sub>
-<p>The Biden administration is pushing TikTok’s Chinese owners to sell the app or face a possible ban. But there are many complications to finding a suitor.  <a href="https://nyti.ms/3YQx4ff"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Effort to Resolve Israel’s Impasse Stalls on How to Pick Judges</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Mediators say the government and its opponents agree on some changes to a judiciary overhaul plan that has divided the country. But the process of appointing new judges remains a major obstacle.  <a href="https://nyti.ms/3ZROoly"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
