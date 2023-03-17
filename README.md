@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 16, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. On Wall Street, the biggest banks are propping up Teetering First Republic with a $30 billion infusion. Low rates were expected to last for years but with Silicon Valley Bank&#39;s implosion, finance is beginning to feel the pinch. In France, President Macron is facing backlash for pushing through a law raising the retirement age without parliamentary support and his opponents are singing and banging against it. Over in North Dakota, the Supreme Court is blocking an abortion ban and saying it violates the constitution. Kamala Harris was in Iowa saying Republicans won&#39;t be done with opposing abortion once it&#39;s overturned. In the NCAA tournament, Princeton just achieved an upset by beating Arizona and it commemorates a long-time upset win over UCLA in 1996. Poland is getting involved in Ukraine now, saying they&#39;ll arm them with warplanes to ward off Russian forces. The Biden Administration wants TikTok to find a buyer or face a ban and that may not be so easy because of complications. Last but not least, scientists and musicians are recording the melting of ice to document climate change which might help slow it too if their work is successful.</p>
+Right now, it looks like the economy is going through a rough patch. Janet Yellen and JPMorgan Chase&#39;s CEO have announced a plan to inject $30 billion into the teetering First Republic Bank. Low interest rates were expected to stay steady for years, but due to Silicon Valley Bank&#39;s implosion, Wall Street is realizing that didn&#39;t quite happen as expected. The Federal government wanted a joint statement addressing regulatory flaws that lead to Silicon Valley&#39;s demise, and it looks like Macron plans to raise the retirement age in France despite a lack of parliamentary support and loud protests coming from both the left and right. In North Dakota, the Supreme Court defended abortion rights after the state passed an abortion ban. Also in the U.S., the Pentagon released video footage of a recent encounter between an American drone and two Russian fighter jets. Lastly, there are talks about a potential TikTok ban due to its Chinese owners unless the app is sold off, although this isn&#39;t proving easy. Meanwhile, scientists and musicians are recording sounds of melting ice to document effects of climate change in hopes of finding solutions down the road.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Wall Street’s Biggest Banks Rescue Teetering First Republic</h3>
@@ -72,6 +72,12 @@ There&#39;s a lot going on in the world right now. On Wall Street, the biggest b
 <h3>Low Rates Were Meant to Last. Without Them, Finance Is In for a Rough Ride.</h3>
 <sub>By Jeanna Smialek</sub>
 <p>Economists expected inflation and rates to stay low for years. With Silicon Valley Bank’s implosion, Wall Street is starting to reckon with how wrong that prediction has proved.  <a href="https://nyti.ms/405iS3i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fed Blocked Mention of Regulatory Flaws in Silicon Valley Bank Rescue</h3>
+<sub>By Jim Tankersley, Jeanna Smialek and Emily Flitter</sub>
+<p>Federal government officials wanted a joint statement to include a reference to regulatory shortcomings that they believe helped lead to the bank’s demise.  <a href="https://nyti.ms/3lqFmN9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,12 +98,6 @@ There&#39;s a lot going on in the world right now. On Wall Street, the biggest b
 <p>The court’s opinion is not the final word on the case, but it upheld a lower court’s decision to suspend the state’s abortion ban.  <a href="https://nyti.ms/3n03cjt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Iowa, Kamala Harris Says Republicans Won’t Stop at Abortion</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>“If politicians start using the court to undo doctors’ decisions, imagine where that can lead,” Ms. Harris said at a discussion on abortion with local lawmakers and medical officials.  <a href="https://nyti.ms/3TmjfE9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Princeton Commemorates Long-Ago Upset With a New One, of Arizona</h3>
 <sub>By Scott Miller</sub>
@@ -105,7 +105,7 @@ There&#39;s a lot going on in the world right now. On Wall Street, the biggest b
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Princeton Downs Arizona as Tournament Brings Upsets Quickly</h3>
+<h3>Thursday’s March Madness Delivers Two New Cinderellas</h3>
 <sub>By The New York Times</sub>
 <p>No. 15 Princeton toppled Arizona, a No. 2 seed that was one of the favorites in the field, while No. 13 seed Furman knocked down No. 4 Virginia.  <a href="https://nyti.ms/3LxgZZ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
