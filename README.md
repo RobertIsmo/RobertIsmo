@@ -58,9 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, March 16, Central Standard Time</p>
+<p>It is Friday, March 17, Central Standard Time</p>
 <p>
-Right now, it looks like the economy is going through a rough patch. Janet Yellen and JPMorgan Chase&#39;s CEO have announced a plan to inject $30 billion into the teetering First Republic Bank. Low interest rates were expected to stay steady for years, but due to Silicon Valley Bank&#39;s implosion, Wall Street is realizing that didn&#39;t quite happen as expected. The Federal government wanted a joint statement addressing regulatory flaws that lead to Silicon Valley&#39;s demise, and it looks like Macron plans to raise the retirement age in France despite a lack of parliamentary support and loud protests coming from both the left and right. In North Dakota, the Supreme Court defended abortion rights after the state passed an abortion ban. Also in the U.S., the Pentagon released video footage of a recent encounter between an American drone and two Russian fighter jets. Lastly, there are talks about a potential TikTok ban due to its Chinese owners unless the app is sold off, although this isn&#39;t proving easy. Meanwhile, scientists and musicians are recording sounds of melting ice to document effects of climate change in hopes of finding solutions down the road.</p>
+There is a lot of news happening around the world right now. In the business world, Wall Street banks have provided a large bailout to Teetering First Republic. Low rates are creating a rough ride in finance and the Federal government has blocked any mention of regulatory flaws that led to the implosion of Silicon Valley Bank. 
+
+In science, new data supports the theory that raccoon dogs at Wuhan Market could be linked to the origins of the pandemic. Meanwhile, in the US, the North Dakota Supreme Court ruled in favor of Constitutionally-protected abortion. 
+
+In sports, Princeton pulled off a big upset against Arizona in March Madness and another Cinderella story happened with Furman defeating Virginia. Over in France, President Macron pushed through a law raising retirement age without parliamentary support, risking serious backlash. 
+
+Poland announced it would give Ukraine warplanes for defense against Russian forces and the Pentagon released a video of US drone&#39;s encounter with two Russian jets, allegedly sprayed with jet fuel. As for TikTok alsories matters, Biden is pushing for its owners to sell it or face possible ban, but finding a buyer may be harder than expected. Lastly, there is an effort to resolve the Israel&#39;s impasse on how to pick judges but it seems to have stalled.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Wall Street’s Biggest Banks Rescue Teetering First Republic</h3>
@@ -80,16 +86,10 @@ Right now, it looks like the economy is going through a rough patch. Janet Yelle
 <p>Federal government officials wanted a joint statement to include a reference to regulatory shortcomings that they believe helped lead to the bank’s demise.  <a href="https://nyti.ms/3lqFmN9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Macron, Risking Backlash, Pushes Through Law Raising Retirement Age</h3>
-<sub>By Roger Cohen</sub>
-<p>Lacking parliamentary support, the French president used a special measure to circumvent a vote, a step likely to further enrage opponents.  <a href="https://nyti.ms/42gWmWX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Singing and Banging, French Lawmakers Vow to Stop Pension Change</h3>
-<sub>By Catherine Porter and Constant Méheut</sub>
-<p>Parties from the left and right erupted in anger after learning of the government’s plans to adopt the measure without a vote.  <a href="https://nyti.ms/3FwCpS2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>New Data Links Pandemic’s Origins to Raccoon Dogs at Wuhan Market</h3>
+<sub>By Benjamin Mueller</sub>
+<p>Genetic samples from the market were recently uploaded to an international database and then removed after scientists asked China about them.  <a href="https://nyti.ms/3JNUmOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,6 +111,12 @@ Right now, it looks like the economy is going through a rough patch. Janet Yelle
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Macron, Risking Backlash, Pushes Through Law Raising Retirement Age</h3>
+<sub>By Roger Cohen</sub>
+<p>Lacking parliamentary support, the French president used a special measure to circumvent a vote, a step likely to further enrage opponents.  <a href="https://nyti.ms/42gWmWX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Poland Says It Will Arm Ukraine With Warplanes, Raising Stakes</h3>
 <sub>By Andrew Higgins and Lara Jakes</sub>
 <p>The Polish leader said he would send jets designed by the Soviet Union to help Ukraine fend off Russian forces. It was unclear if other allies might follow suit.  <a href="https://nyti.ms/3JMRz8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -128,10 +134,10 @@ Right now, it looks like the economy is going through a rough patch. Janet Yelle
 <p>The Biden administration is pushing TikTok’s Chinese owners to sell the app or face a possible ban. But there are many complications to finding a suitor.  <a href="https://nyti.ms/3YQx4ff"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Poignant Music of Melting Ice: Have a Listen</h3>
-<sub>By Grayson Haver Currin</sub>
-<p>Scientists and musicians are recording the sounds of unfreezing water to document and predict the effects of climate change. Can their work help slow it, too?  <a href="https://nyti.ms/42bhNst"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>An Effort to Resolve Israel’s Impasse Stalls on How to Pick Judges</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Mediators say the government and its opponents agree on some changes to a judiciary overhaul plan that has divided the country. But the process of appointing new judges remains a major obstacle.  <a href="https://nyti.ms/3ZROoly"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
