@@ -60,36 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 17, Central Standard Time</p>
 <p>
-Right now, a lot is happening all over the world. China&#39;s president Xi Jinping will be meeting with Russia&#39;s President Vladimir Putin and Ukraine&#39;s President Volodymyr Zelensky in an attempt to bring peace to the ongoing war in Ukraine. Slovakia and Poland have both pledged warplanes for Ukraine, highlighting the security concerns in the region.
+Right now, the business world is in a bit of an upheaval. Bank stocks are taking a dive despite an attempted rescue of one large bank, and Silicon Valley Bank recently filed for bankruptcy. The Fed is also increasing regulations on lenders and decreasing liquidity, which is impacting buyers and investors. 
 
-In business news, there has been a lot of volatility in markets over the past week as investors worry about global economic stability. There are also some interesting developments regarding Silicon Valley Bank&#39;s strong ties to tech startups and how that affects investments.
+Globally, China&#39;s leader Xi Jinping is meeting with Vladimir Putin and Ukraine&#39;s president to work on the war that is taking place in Ukraine. Slovakia promised to send fighter jets, while the U.S. struggles as they can&#39;t fly through Russian airspace. 
 
-In terms of science, new data suggests that the origins of the pandemic may be linked to raccoon dogs at a market in Wuhan, China. As for environmental news, this winter has brought a great deal of relief for California&#39;s drought situation, but experts warn that water woes still remain for the region. 
+They&#39;re also doing some interesting research into the pandemic. It turns out it may have started with raccoon dogs at a market in Wuhan, though this was removed from an international database after people asked China about it. 
 
-And finally, if you&#39;re a fan of sports then you know that there have been some major surprises in this week&#39;s NCAA tournaments. We&#39;ve already seen two Cinderella teams emerge with No. 15 Princeton&#39;s win against Arizona and No. 13 Furman upsetting No. 4 Virginia, so it&#39;ll be exciting to see what other upsets lie ahead!</p>
+And luckily, California&#39;s drought might be coming to an end due to a wet winter season. But water woes remain, so we will have to see how that goes! 
+
+Finally, March Madness has been pretty wild! No. 15 Princeton and No. 13 Furman pulled off huge upsets against their higher-ranked opponents, and No. 1 seed Purdue looks like it could be headed down a successful path in the men&#39;s tournament when they play on Friday.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Xi, Cast as Peacemaker, Wades Into Russia’s War in Ukraine</h3>
-<sub>By David Pierson, Anatoly Kurmanaev and Marc Santora</sub>
-<p>China’s top leader, Xi Jinping, is expected to meet with President Vladimir V. Putin of Russia next week and speak with President Volodymyr Zelensky of Ukraine.  <a href="https://nyti.ms/3n4zHg8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Slovakia follows Poland in pledging warplanes for Ukraine.</h3>
-<sub>By Andrew Higgins, Matt Surman and Lara Jakes</sub>
-<p>The news came after Poland’s president said that his country would send MIG-29 jets, a move that appeared intended to open the door to more advanced warplanes from NATO allies.  <a href="https://nyti.ms/40ez9mh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Dreams of Peace Wither, Nightmares Flourish in Ukraine’s Sleep</h3>
-<sub>By Maria Varenikova</sub>
-<p>A survey asked hundreds of wartime Ukrainians what they dreamed about. Many replied: the war.  <a href="https://nyti.ms/3lt8oM9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Investors Warily Approach the End of a Tumultuous Week</h3>
+<h3>Bank Stocks Resume Slide as Relief Over Rescue Fades</h3>
 <sub>By Rich Barbieri and Jason Karaian</sub>
-<p>The rescues of two ailing lenders provided a tenuous sense of relief in stock markets.  <a href="https://nyti.ms/3JoKtpd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Despite the rescue of First Republic, investors continue to sell off shares in the ailing bank and some other regional lenders.  <a href="https://nyti.ms/3JoKtpd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -99,15 +83,33 @@ And finally, if you&#39;re a fan of sports then you know that there have been so
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>After a Wild Week, What Are Markets Saying About the World?</h3>
-<sub>By Joe Rennison and Ella Koeze</sub>
-<p>Stocks, bonds and commodities markets are all sending different signals. While the S&amp;P 500 actually rose this week, oil prices fell along with bond yields, signs that investors are worried about the economy.  <a href="https://nyti.ms/3ZTBByX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Will the Fed Keep Tightening as Banks Fail?</h3>
 <sub>By Jeff Sommer</sub>
 <p>By quietly shedding billions in assets, the Fed is making conditions tighter for banks, home buyers and investors, our columnist says.  <a href="https://nyti.ms/3ZSYLFv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Parent Company of Silicon Valley Bank Files for Bankruptcy</h3>
+<sub>By Lauren Hirsch</sub>
+<p>The move would place SVB Financial Group, which owns other businesses aside from the collapsed Silicon Valley Bank, into a court-led process as creditors look to recover funds.  <a href="https://nyti.ms/3YX7ZPI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Xi, Cast as Peacemaker, Wades Into Russia’s War in Ukraine</h3>
+<sub>By David Pierson, Anatoly Kurmanaev and Marc Santora</sub>
+<p>China’s top leader, Xi Jinping, is expected to meet with President Vladimir V. Putin of Russia next week and speak with President Volodymyr Zelensky of Ukraine.  <a href="https://nyti.ms/3n4zHg8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Slovakia follows Poland in pledging warplanes for Ukraine, but most of its jets are in disrepair.</h3>
+<sub>By Andrew Higgins</sub>
+<p>The news came after Poland’s president said that his country would send MIG-29 jets, a move that appeared intended to open the door to more advanced warplanes from NATO allies.  <a href="https://nyti.ms/40ez9mh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Banned From Russian Airspace, U.S. Airlines Look to Restrict Competitors</h3>
+<sub>By Kate Kelly and Mark Walker</sub>
+<p>Because of the war in Ukraine, U.S. carriers have to take the long way on flights to and from Asia, giving an advantage to foreign rivals flying the same routes.  <a href="https://nyti.ms/3mXHYCI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
