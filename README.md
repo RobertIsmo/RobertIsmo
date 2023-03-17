@@ -60,24 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 16, Central Standard Time</p>
 <p>
-The world is in an interesting state right now. Financial markets are expecting a rough ride due to predictions of low inflation and interest rates not standing up. Banks are being stabilized by regulators, who feared collapse of Silicon Valley Bank could have led to other runs. Macron is risking a public backlash for pushing through a law that raises the retirement age, which has caused people to protest in Paris. In France, people are protesting over pension changes as well as Ukraine burning through ammunition in a city known as Bakhmut. Climate change is being studied by scientists and musicians creating music with melting ice, while Biden has to make decisions regarding toxic chemical rules and economic growth. Lastly, Alabama players are making NCAA tournament headlines due to a deadly shooting and the passing skills of a Princeton player honoring the late Pete Carril&#39;s legacy.</p>
+There&#39;s a lot going on in the world right now. On Wall Street, the biggest banks are propping up Teetering First Republic with a $30 billion infusion. Low rates were expected to last for years but with Silicon Valley Bank&#39;s implosion, finance is beginning to feel the pinch. In France, President Macron is facing backlash for pushing through a law raising the retirement age without parliamentary support and his opponents are singing and banging against it. Over in North Dakota, the Supreme Court is blocking an abortion ban and saying it violates the constitution. Kamala Harris was in Iowa saying Republicans won&#39;t be done with opposing abortion once it&#39;s overturned. In the NCAA tournament, Princeton just achieved an upset by beating Arizona and it commemorates a long-time upset win over UCLA in 1996. Poland is getting involved in Ukraine now, saying they&#39;ll arm them with warplanes to ward off Russian forces. The Biden Administration wants TikTok to find a buyer or face a ban and that may not be so easy because of complications. Last but not least, scientists and musicians are recording the melting of ice to document climate change which might help slow it too if their work is successful.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Wall Street’s Biggest Banks Rescue Teetering First Republic</h3>
+<sub>By Rob Copeland, Lauren Hirsch, Alan Rappeport and Maureen Farrell</sub>
+<p>A plan led by Treasury Secretary Janet Yellen and JPMorgan Chase’s chief executive led to a $30 billion infusion by 11 of the largest U.S. banks.  <a href="https://nyti.ms/3Fw4F7A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Low Rates Were Meant to Last. Without Them, Finance Is In for a Rough Ride.</h3>
 <sub>By Jeanna Smialek</sub>
 <p>Economists expected inflation and rates to stay low for years. With Silicon Valley Bank’s implosion, Wall Street is starting to reckon with how wrong that prediction has proved.  <a href="https://nyti.ms/405iS3i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Stocks rally as First Republic receives a rescue.</h3>
-<sub>By Joe Rennison</sub>
-<p>The S&amp;P 500 jumped, along with shares of First Republic Bank and other regional lenders.  <a href="https://nyti.ms/3FtCm9J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen Defends Efforts to Stabilize Banking System</h3>
-<sub>By Alan Rappeport</sub>
-<p>The Treasury secretary said U.S. banks are “sound” but that regulators feared the collapse of Silicon Valley Bank could have led to other runs.  <a href="https://nyti.ms/3JpwAqD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -87,21 +81,51 @@ The world is in an interesting state right now. Financial markets are expecting 
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Protesters Clash With Police Over Retirement Change</h3>
-<sub>By Constant Méheut and Catherine Porter</sub>
-<p>A protest at Place de la Concorde in Paris began as a jovial scene, but devolved as night fell and violent protesters clashed with police.  <a href="https://nyti.ms/3FwMgrg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Singing and Banging, French Lawmakers Vow to Stop Pension Change</h3>
+<sub>By Catherine Porter and Constant Méheut</sub>
+<p>Parties from the left and right erupted in anger after learning of the government’s plans to adopt the measure without a vote.  <a href="https://nyti.ms/3FwCpS2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why So Many People in France Are Protesting Over Pensions</h3>
-<sub>By Aurelien Breeden</sub>
-<p>President Emmanuel Macron turned to a constitutional maneuver to raise the legal age of retirement to 64 from 62 despite strikes and wide public opposition.  <a href="https://nyti.ms/3YaBQnT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>N. Dakota Supreme Court Blocks Abortion Ban; Says Constitution Protects Procedure</h3>
+<sub>By Ava Sasani and David W. Chen</sub>
+<p>The court’s opinion is not the final word on the case, but it upheld a lower court’s decision to suspend the state’s abortion ban.  <a href="https://nyti.ms/3n03cjt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Iowa, Kamala Harris Says Republicans Won’t Stop at Abortion</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>“If politicians start using the court to undo doctors’ decisions, imagine where that can lead,” Ms. Harris said at a discussion on abortion with local lawmakers and medical officials.  <a href="https://nyti.ms/3TmjfE9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Princeton Commemorates Long-Ago Upset With a New One, of Arizona</h3>
+<sub>By Scott Miller</sub>
+<p>In 1996, Princeton dropped U.C.L.A. in one of the most stirring N.C.A.A. tournament upsets. This year, it downed No. 2 seed Arizona.  <a href="https://nyti.ms/3ZSrrOR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Princeton Downs Arizona as Tournament Brings Upsets Quickly</h3>
+<sub>By The New York Times</sub>
+<p>No. 15 Princeton toppled Arizona, a No. 2 seed that was one of the favorites in the field, while No. 13 seed Furman knocked down No. 4 Virginia.  <a href="https://nyti.ms/3LxgZZ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Burns Through Ammunition in Bakhmut, Risking Future Fights</h3>
-<sub>By Thomas Gibbons-Neff, Lara Jakes and Eric Schmitt</sub>
-<p>The military is using thousands of artillery shells a day as it tries to hold the eastern city, which could jeopardize a planned springtime campaign.  <a href="https://nyti.ms/3lgfILd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Poland Says It Will Arm Ukraine With Warplanes, Raising Stakes</h3>
+<sub>By Andrew Higgins and Lara Jakes</sub>
+<p>The Polish leader said he would send jets designed by the Soviet Union to help Ukraine fend off Russian forces. It was unclear if other allies might follow suit.  <a href="https://nyti.ms/3JMRz8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pentagon Releases Video of U.S. Drone’s Encounter With Russian Jets</h3>
+<sub>By Eric Schmitt and Helene Cooper</sub>
+<p>The 42-second clip shows two Russian fighters spraying the American aircraft with a substance the Pentagon says is jet fuel.  <a href="https://nyti.ms/3ZScNHn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Finding a Buyer for TikTok May Not Be So Easy</h3>
+<sub>By Sapna Maheshwari and David McCabe</sub>
+<p>The Biden administration is pushing TikTok’s Chinese owners to sell the app or face a possible ban. But there are many complications to finding a suitor.  <a href="https://nyti.ms/3YQx4ff"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -109,30 +133,6 @@ The world is in an interesting state right now. Financial markets are expecting 
 <sub>By Grayson Haver Currin</sub>
 <p>Scientists and musicians are recording the sounds of unfreezing water to document and predict the effects of climate change. Can their work help slow it, too?  <a href="https://nyti.ms/42bhNst"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Scoured Math Textbooks for ‘Prohibited Topics.’ Next Up: Social Studies.</h3>
-<sub>By Sarah Mervosh</sub>
-<p>Behind the scenes, one publisher went to great lengths to avoid mentions of race, even in the story of Rosa Parks.  <a href="https://nyti.ms/3YUGFlj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Public Health vs. Economic Growth: Toxic Chemical Rules Pose Test for Biden</h3>
-<sub>By Eric Lipton</sub>
-<p>Key industries — including some that the White House is backing through other policies — are lobbying to water down the first major new rules in a generation on chemicals that pose risks to humans.  <a href="https://nyti.ms/42l1b1i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Fourth Alabama Player Was at a Deadly Shooting, in a Car Hit by Bullets</h3>
-<sub>By Billy Witz</sub>
-<p>The presence of a fourth Crimson Tide player at the deadly shooting in January has come to light as the team begins its run as the top overall seed in the N.C.A.A. men’s tournament.  <a href="https://nyti.ms/3FtEAps"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Princeton Passer’s Skills Recall a Departed Coach’s Legacy</h3>
-<sub>By Scott Miller</sub>
-<p>Tosan Evbuomwan is leading Princeton into the N.C.A.A. tournament seven months after the death of one of its best-known coaches, Pete Carril.  <a href="https://nyti.ms/3Lup00U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
