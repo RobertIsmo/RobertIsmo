@@ -60,14 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 17, Central Standard Time</p>
 <p>
-There is a lot of news happening around the world right now. In the business world, Wall Street banks have provided a large bailout to Teetering First Republic. Low rates are creating a rough ride in finance and the Federal government has blocked any mention of regulatory flaws that led to the implosion of Silicon Valley Bank. 
-
-In science, new data supports the theory that raccoon dogs at Wuhan Market could be linked to the origins of the pandemic. Meanwhile, in the US, the North Dakota Supreme Court ruled in favor of Constitutionally-protected abortion. 
-
-In sports, Princeton pulled off a big upset against Arizona in March Madness and another Cinderella story happened with Furman defeating Virginia. Over in France, President Macron pushed through a law raising retirement age without parliamentary support, risking serious backlash. 
-
-Poland announced it would give Ukraine warplanes for defense against Russian forces and the Pentagon released a video of US drone&#39;s encounter with two Russian jets, allegedly sprayed with jet fuel. As for TikTok alsories matters, Biden is pushing for its owners to sell it or face possible ban, but finding a buyer may be harder than expected. Lastly, there is an effort to resolve the Israel&#39;s impasse on how to pick judges but it seems to have stalled.</p>
+Right now, there&#39;s a lot of political tension brewing around the world. In Poland, the leader is sending warplanes to help Ukraine defend against Russian forces but other allies may follow suit. Meanwhile, in the US we just released a video of a drone&#39;s encounter with Russian jets and we had to recently bail out First Republic with a $30 billion loan from 11 of the biggest banks. Finance is feeling the effects of low rates staying for years and regulators actually blocked mention of any flaws in their Silicon Valley Bank rescue. We&#39;re still trying to figure out where COVID originated and it&#39;s looking like it might be linked to Raccoon dogs from a market in Wuhan. On the sports front, Princeton pulled off an upset over Arizona and Furman over Virginia in March Madness games this week. In N Dakota, their court blocked an abortion ban and declared it unconstitutional too. France&#39;s president pushed through a controversial law without parliamentary support that raises retirement age and Israel&#39;s government and its opponents still can&#39;t agree on how to pick judges as part of an effort to resolve its impasse. Lastly, Biden admin is now pushing TikTok&#39;s Chinese owners to sell the app or face a possible ban– but finding a buyer isn&#39;t necessarily going to be easy.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Poland Says It Will Arm Ukraine With Warplanes, Raising Stakes</h3>
+<sub>By Andrew Higgins and Lara Jakes</sub>
+<p>The Polish leader said he would send jets designed by the Soviet Union to help Ukraine fend off Russian forces. It was unclear if other allies might follow suit.  <a href="https://nyti.ms/3JMRz8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pentagon Releases Video of U.S. Drone’s Encounter With Russian Jets</h3>
+<sub>By Eric Schmitt and Helene Cooper</sub>
+<p>The 42-second clip shows two Russian fighters spraying the American aircraft with a substance the Pentagon says is jet fuel.  <a href="https://nyti.ms/3ZScNHn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Wall Street’s Biggest Banks Rescue Teetering First Republic</h3>
 <sub>By Rob Copeland, Lauren Hirsch, Alan Rappeport and Maureen Farrell</sub>
@@ -92,12 +98,6 @@ Poland announced it would give Ukraine warplanes for defense against Russian for
 <p>Genetic samples from the market were recently uploaded to an international database and then removed after scientists asked China about them.  <a href="https://nyti.ms/3JNUmOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>N. Dakota Supreme Court Blocks Abortion Ban; Says Constitution Protects Procedure</h3>
-<sub>By Ava Sasani and David W. Chen</sub>
-<p>The court’s opinion is not the final word on the case, but it upheld a lower court’s decision to suspend the state’s abortion ban.  <a href="https://nyti.ms/3n03cjt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Princeton Commemorates Long-Ago Upset With a New One, of Arizona</h3>
 <sub>By Scott Miller</sub>
@@ -110,22 +110,16 @@ Poland announced it would give Ukraine warplanes for defense against Russian for
 <p>No. 15 Princeton toppled Arizona, a No. 2 seed that was one of the favorites in the field, while No. 13 seed Furman knocked down No. 4 Virginia.  <a href="https://nyti.ms/3LxgZZ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>N. Dakota Supreme Court Blocks Abortion Ban; Says Constitution Protects Procedure</h3>
+<sub>By Ava Sasani and David W. Chen</sub>
+<p>The court’s opinion is not the final word on the case, but it upheld a lower court’s decision to suspend the state’s abortion ban.  <a href="https://nyti.ms/3n03cjt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Macron, Risking Backlash, Pushes Through Law Raising Retirement Age</h3>
 <sub>By Roger Cohen</sub>
 <p>Lacking parliamentary support, the French president used a special measure to circumvent a vote, a step likely to further enrage opponents.  <a href="https://nyti.ms/42gWmWX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Poland Says It Will Arm Ukraine With Warplanes, Raising Stakes</h3>
-<sub>By Andrew Higgins and Lara Jakes</sub>
-<p>The Polish leader said he would send jets designed by the Soviet Union to help Ukraine fend off Russian forces. It was unclear if other allies might follow suit.  <a href="https://nyti.ms/3JMRz8m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon Releases Video of U.S. Drone’s Encounter With Russian Jets</h3>
-<sub>By Eric Schmitt and Helene Cooper</sub>
-<p>The 42-second clip shows two Russian fighters spraying the American aircraft with a substance the Pentagon says is jet fuel.  <a href="https://nyti.ms/3ZScNHn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
