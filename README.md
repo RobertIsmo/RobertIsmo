@@ -60,26 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 17, Central Standard Time</p>
 <p>
-Right now, the business world is in a bit of an upheaval. Bank stocks are taking a dive despite an attempted rescue of one large bank, and Silicon Valley Bank recently filed for bankruptcy. The Fed is also increasing regulations on lenders and decreasing liquidity, which is impacting buyers and investors. 
-
-Globally, China&#39;s leader Xi Jinping is meeting with Vladimir Putin and Ukraine&#39;s president to work on the war that is taking place in Ukraine. Slovakia promised to send fighter jets, while the U.S. struggles as they can&#39;t fly through Russian airspace. 
-
-They&#39;re also doing some interesting research into the pandemic. It turns out it may have started with raccoon dogs at a market in Wuhan, though this was removed from an international database after people asked China about it. 
-
-And luckily, California&#39;s drought might be coming to an end due to a wet winter season. But water woes remain, so we will have to see how that goes! 
-
-Finally, March Madness has been pretty wild! No. 15 Princeton and No. 13 Furman pulled off huge upsets against their higher-ranked opponents, and No. 1 seed Purdue looks like it could be headed down a successful path in the men&#39;s tournament when they play on Friday.</p>
+It looks like the global economy is still shaky, as things like banking crises and tougher borrowing are causing a recession fear. China&#39;s President Xi Jinping is making strides in Ukraine, hoping to be a peacemaker. We&#39;re still learning more about the origins of the pandemic and how it was linked to wildlife, while governments are trying to ban apps like TikTok because of concerns over personal data safety. France is facing internal strife over a pension bill that was pushed through without a vote, leading to demonstrations. On the sports side of things, teams are getting ready for the N.C.A.A tournament and fans are watching out for an upset in the men&#39;s bracket!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bank Stocks Resume Slide as Relief Over Rescue Fades</h3>
-<sub>By Rich Barbieri and Jason Karaian</sub>
-<p>Despite the rescue of First Republic, investors continue to sell off shares in the ailing bank and some other regional lenders.  <a href="https://nyti.ms/3JoKtpd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Banking Crisis Hangs Over Economy, Rekindling Recession Fear</h3>
+<sub>By Ben Casselman</sub>
+<p>Borrowing could become tougher, a particular blow to small businesses — and a threat to the recovery’s staying power.  <a href="https://nyti.ms/3JnzYT7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Mortgages, Wine and Renovations: Silicon Valley Bank’s Deep Tech Ties</h3>
-<sub>By Erin Griffith, Mike Isaac and Sheera Frenkel</sub>
-<p>More than many other banks, SVB catered to how risky tech start-ups and their backers do not adhere to normal business practices.  <a href="https://nyti.ms/3ZUMiBk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Bank Stocks Resume Slide as Relief Over Rescue Fades</h3>
+<sub>By Rich Barbieri, Jason Karaian and Joe Rennison</sub>
+<p>Despite the rescue of First Republic, investors continue to sell off shares in the ailing bank and some other regional lenders, dragging the market lower.  <a href="https://nyti.ms/3JoKtpd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Biden Asks Congress for New Tools to Target Executives of Failed Banks</h3>
+<sub>By Jim Tankersley and Emily Flitter</sub>
+<p>The request is a response to the federal rescue of Silicon Valley Bank and Signature Bank, and it seeks to impose new fines and other penalties.  <a href="https://nyti.ms/3yIhVCh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -88,28 +86,10 @@ Finally, March Madness has been pretty wild! No. 15 Princeton and No. 13 Furman 
 <p>By quietly shedding billions in assets, the Fed is making conditions tighter for banks, home buyers and investors, our columnist says.  <a href="https://nyti.ms/3ZSYLFv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Parent Company of Silicon Valley Bank Files for Bankruptcy</h3>
-<sub>By Lauren Hirsch</sub>
-<p>The move would place SVB Financial Group, which owns other businesses aside from the collapsed Silicon Valley Bank, into a court-led process as creditors look to recover funds.  <a href="https://nyti.ms/3YX7ZPI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Xi, Cast as Peacemaker, Wades Into Russia’s War in Ukraine</h3>
 <sub>By David Pierson, Anatoly Kurmanaev and Marc Santora</sub>
 <p>China’s top leader, Xi Jinping, is expected to meet with President Vladimir V. Putin of Russia next week and speak with President Volodymyr Zelensky of Ukraine.  <a href="https://nyti.ms/3n4zHg8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Slovakia follows Poland in pledging warplanes for Ukraine, but most of its jets are in disrepair.</h3>
-<sub>By Andrew Higgins</sub>
-<p>The news came after Poland’s president said that his country would send MIG-29 jets, a move that appeared intended to open the door to more advanced warplanes from NATO allies.  <a href="https://nyti.ms/40ez9mh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Banned From Russian Airspace, U.S. Airlines Look to Restrict Competitors</h3>
-<sub>By Kate Kelly and Mark Walker</sub>
-<p>Because of the war in Ukraine, U.S. carriers have to take the long way on flights to and from Asia, giving an advantage to foreign rivals flying the same routes.  <a href="https://nyti.ms/3mXHYCI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -118,11 +98,23 @@ Finally, March Madness has been pretty wild! No. 15 Princeton and No. 13 Furman 
 <p>Genetic samples from the market were recently uploaded to an international database and then removed after scientists asked China about them.  <a href="https://nyti.ms/3JNUmOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Very Wet Winter Has Eased California’s Drought, but Water Woes Remain</h3>
-<sub>By Elena Shao, Mira Rojanasakul and Nadja Popovich</sub>
-<p>Storms have brought heavy rain and snow to the state, but its ‘water issues haven’t gone away.’  <a href="https://nyti.ms/3JOdLz9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Origins of the Covid Pandemic: What We Know and Don’t Know</h3>
+<sub>By Sheryl Gay Stolberg, Benjamin Mueller and Carl Zimmer</sub>
+<p>Scientists and spy agencies have tried for years to determine where the coronavirus originated. Conclusive evidence is hard to come by, and the nation’s intelligence officials are split.  <a href="https://nyti.ms/3TllZ4Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Dept. Investigating TikTok’s Owner Over Possible Spying on Journalists</h3>
+<sub>By Glenn Thrush and Sapna Maheshwari</sub>
+<p>The inquiry appears to be tied to an admission by the app’s owner, ByteDance, that employees had inappropriately obtained Americans’ data. The company said it had fired the workers involved.  <a href="https://nyti.ms/3TleTxf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Why Countries Are Trying to Ban TikTok</h3>
+<sub>By Sapna Maheshwari and Amanda Holpuch</sub>
+<p>Governments have expressed concerns that TikTok, which is owned by the Chinese company ByteDance, may endanger sensitive user data.  <a href="https://nyti.ms/3mjkGa6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Purdue Favors Old Basketball Ideas. Will It Keep Working?</h3>
@@ -136,11 +128,11 @@ Finally, March Madness has been pretty wild! No. 15 Princeton and No. 13 Furman 
 <p>The South Carolina women begin their title defense, while a couple of No. 12 seeds have us on upset watch in the men’s tournament.  <a href="https://nyti.ms/3TuJk4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Thursday’s March Madness Delivers Two New Cinderellas</h3>
-<sub>By The New York Times</sub>
-<p>No. 15 Princeton toppled Arizona, a No. 2 seed that was one of the favorites in the field, while No. 13 seed Furman knocked down No. 4 Virginia.  <a href="https://nyti.ms/3LxgZZ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Anger Simmers in France as Opposition Files No-Confidence Motions</h3>
+<sub>By Aurelien Breeden</sub>
+<p>After President Emmanuel Macron pushed his unpopular pension bill through Parliament without a vote, demonstrations about the changes broke out again.  <a href="https://nyti.ms/3FxQjDs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
