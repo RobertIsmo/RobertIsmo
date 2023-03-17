@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 17, Central Standard Time</p>
 <p>
-It looks like the global economy is still shaky, as things like banking crises and tougher borrowing are causing a recession fear. China&#39;s President Xi Jinping is making strides in Ukraine, hoping to be a peacemaker. We&#39;re still learning more about the origins of the pandemic and how it was linked to wildlife, while governments are trying to ban apps like TikTok because of concerns over personal data safety. France is facing internal strife over a pension bill that was pushed through without a vote, leading to demonstrations. On the sports side of things, teams are getting ready for the N.C.A.A tournament and fans are watching out for an upset in the men&#39;s bracket!</p>
+Right now, the economy is really uncertain and there are fears that we may be headed towards a recession. The banking sector has been particularly affected and lenders like First Republic have had to get bailouts from larger banks in order to stay afloat. In other news, Turkish President Erdogan just endorsed Finland&#39;s bid for NATO, but he&#39;s continuing to refuse to recognize Sweden, claiming they&#39;re harboring Kurdish terrorists. 
+
+On the US front, the Justice Department is investigating TikTok for possible espionage activities against journalists. Meanwhile, there is new data that ties the origins of the pandemic to raccoon dogs that were being sold at a market in Wuhan. 
+
+In sports-related news, Purdue has been doing well in the NCAA basketball tournament this year. Xavier was also able to fend off an upset bid by No. 14 seed Kennesaw State in their latest game. Sadly, we lost Lance Reddick of The Wire fame early this week at 60 years old. Finally, after a police killing of Walter Scott back in 2015, North Charleston PD has been taking steps to increase diversity and reduce traffic stops in their department as they try to rebuild trust with their community.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Banking Crisis Hangs Over Economy, Rekindling Recession Fear</h3>
@@ -69,27 +73,33 @@ It looks like the global economy is still shaky, as things like banking crises a
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>First Republic Plans to Raise Cash by Selling Shares Privately</h3>
+<sub>By Lauren Hirsch and Rob Copeland</sub>
+<p>After a bailout from the biggest banks, the ailing midsize lender is searching for more help to shore up its finances and soothe the fears of investors and depositors.  <a href="https://nyti.ms/3yM7DRt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Bank Stocks Resume Slide as Relief Over Rescue Fades</h3>
-<sub>By Rich Barbieri, Jason Karaian and Joe Rennison</sub>
+<sub>By Joe Rennison, Jason Karaian and Rich Barbieri</sub>
 <p>Despite the rescue of First Republic, investors continue to sell off shares in the ailing bank and some other regional lenders, dragging the market lower.  <a href="https://nyti.ms/3JoKtpd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Biden Asks Congress for New Tools to Target Executives of Failed Banks</h3>
-<sub>By Jim Tankersley and Emily Flitter</sub>
-<p>The request is a response to the federal rescue of Silicon Valley Bank and Signature Bank, and it seeks to impose new fines and other penalties.  <a href="https://nyti.ms/3yIhVCh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Will the Fed Keep Tightening as Banks Fail?</h3>
-<sub>By Jeff Sommer</sub>
-<p>By quietly shedding billions in assets, the Fed is making conditions tighter for banks, home buyers and investors, our columnist says.  <a href="https://nyti.ms/3ZSYLFv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Turkey’s Erdogan Finally Endorses Finland’s NATO Bid, but Not Sweden’s</h3>
+<sub>By Steven Erlanger</sub>
+<p>With a difficult election coming in May, the Turkish president keeps insisting that Sweden is harboring alleged Kurdish terrorists and other dissidents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Xi, Cast as Peacemaker, Wades Into Russia’s War in Ukraine</h3>
 <sub>By David Pierson, Anatoly Kurmanaev and Marc Santora</sub>
 <p>China’s top leader, Xi Jinping, is expected to meet with President Vladimir V. Putin of Russia next week and speak with President Volodymyr Zelensky of Ukraine.  <a href="https://nyti.ms/3n4zHg8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Rules Trump Lawyer Must Testify in Documents Inquiry</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The ruling found that the government had met the threshold for the crime-fraud exception, which allows prosecutors to get around attorney-client privilege if they believe a crime has been committed.  <a href="https://nyti.ms/3yMwh4p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -99,22 +109,10 @@ It looks like the global economy is still shaky, as things like banking crises a
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Origins of the Covid Pandemic: What We Know and Don’t Know</h3>
-<sub>By Sheryl Gay Stolberg, Benjamin Mueller and Carl Zimmer</sub>
-<p>Scientists and spy agencies have tried for years to determine where the coronavirus originated. Conclusive evidence is hard to come by, and the nation’s intelligence officials are split.  <a href="https://nyti.ms/3TllZ4Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Dept. Investigating TikTok’s Owner Over Possible Spying on Journalists</h3>
 <sub>By Glenn Thrush and Sapna Maheshwari</sub>
 <p>The inquiry appears to be tied to an admission by the app’s owner, ByteDance, that employees had inappropriately obtained Americans’ data. The company said it had fired the workers involved.  <a href="https://nyti.ms/3TleTxf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Why Countries Are Trying to Ban TikTok</h3>
-<sub>By Sapna Maheshwari and Amanda Holpuch</sub>
-<p>Governments have expressed concerns that TikTok, which is owned by the Chinese company ByteDance, may endanger sensitive user data.  <a href="https://nyti.ms/3mjkGa6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Purdue Favors Old Basketball Ideas. Will It Keep Working?</h3>
@@ -123,15 +121,21 @@ It looks like the global economy is still shaky, as things like banking crises a
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Friday’s Matchups to Watch in the N.C.A.A. Tournament</h3>
-<sub>By Shivani Gonzalez</sub>
-<p>The South Carolina women begin their title defense, while a couple of No. 12 seeds have us on upset watch in the men’s tournament.  <a href="https://nyti.ms/3TuJk4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Xavier Survives Another No. 14 Seed’s Upset Bid</h3>
+<sub>By The New York Times</sub>
+<p>Kennesaw State held a double-digit lead in the second half before the third-seeded Musketeers stormed back for the win.  <a href="https://nyti.ms/3TuJk4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Anger Simmers in France as Opposition Files No-Confidence Motions</h3>
-<sub>By Aurelien Breeden</sub>
-<p>After President Emmanuel Macron pushed his unpopular pension bill through Parliament without a vote, demonstrations about the changes broke out again.  <a href="https://nyti.ms/3FxQjDs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lance Reddick, Star of ‘The Wire’ and ‘John Wick,’ Dies at 60</h3>
+<sub>By Michael Levenson and McKenna Oxenden</sub>
+<p>A prolific actor who also starred in the Amazon series “Bosch,” Mr. Reddick had branched out into video games, notably Horizon Zero Dawn and its sequel, and the Destiny franchise.  <a href="https://nyti.ms/3TnDnWy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Roiled by a Police Killing, One Department Tries to Rebound</h3>
+<sub>By Audra D. S. Burch</sub>
+<p>After an officer shot Walter Scott to death in 2015, the North Charleston Police Department hired more Black officers and cut down on traffic stops.  <a href="https://nyti.ms/3Lxnn2s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
