@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 17, Central Standard Time</p>
 <p>
-There is a lot of drama in the world right now. Vladimir V. Putin has been accused of war crimes by the International Criminal Court who issued an arrest warrant for him, which is a big deal considering he normally enjoys impunity from such charges. China&#39;s leader, Xi Jinping, is visiting Putin to provide a show of support and demonstrate global divisions over Russia’s actions in Ukraine. Meanwhile, institutions are facing pressure to recognize Ukrainian roots of artists formerly known as being Russian. On the topic of health, the World Health Organization suspects China of hiding data that might link Covid-19&#39;s origins to animals, while people are out there trying to figure out what raccoon dogs are. In the business world, there&#39;s a new banking crisis that could become detrimental to the global economy and cause another recession. Banks are struggling and trying to sell assets or stakes, while Donald Trump&#39;s lawyer was forced to testify due to crime-fraud exception laws. And finally on a lighter note in sports, Purdue fell to a No. 16 seed in men&#39;s college basketball and Rick Pitino is back in contention for bigger jobs after being ousted from Louisville a few years ago. Lastly, in style there are stories coming out about private clubs in Palm Beach waters and how Trump sometimes plays D.J. at Disco Night at Mar-a-Lago.</p>
+The world is in a state of flux right now. There has been a lot of news recently centered around Vladimir Putin and accusations of war crimes by the International Criminal Court. China&#39;s leader, Xi Jinping, is visiting Russia to potentially help make peace and show support for Putin in light of this. Meanwhile, the World Health Organization is accusing China of hiding data that might link the COVID-19 virus to animals. On the banking front, there are fears that borrowing could become tougher and more banks are trying to sell off assets or stakes. In sports, Rick Pitino has been making a comeback after being ousted from his previous job, and also there was a shocking upset in the NCAA men&#39;s basketball tournament. Finally, Wyoming recently became the first state to outlaw abortion pills, while a judge has ruled that the lawyer of Donald Trump must testify in a documents inquiry related to possible criminal activity.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Arrest Warrant From Criminal Court Pierces Putin’s Aura of Impunity</h3>
@@ -78,12 +78,6 @@ There is a lot of drama in the world right now. Vladimir V. Putin has been accus
 <h3>Here’s what to know about the I.C.C.’s arrest warrant for Putin.</h3>
 <sub>By Marlise Simons, Charlie Savage and Anushka Patil</sub>
 <p>The International Criminal Court issued an arrest warrant for President Vladimir V. Putin and a Russian official for war crimes. Here’s a look at the warrant and what it could mean for Russia’s leader.  <a href="https://nyti.ms/3FtsRre"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Museums Rename Artworks and Artists as Ukrainian, Not Russian</h3>
-<sub>By Robin Pogrebin</sub>
-<p>A year into the war, institutions face pressure to note the Ukrainian roots of artworks and artists long described as Russian. It’s not always simple to write a wall label.  <a href="https://nyti.ms/3FAzEiH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -110,17 +104,11 @@ There is a lot of drama in the world right now. Vladimir V. Putin has been accus
 <p>Private equity firms and other buyers have been circling failed and struggling banks that are desperately trying to sell off assets or even stakes.  <a href="https://nyti.ms/3yM7DRt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Rules Trump Lawyer Must Testify in Documents Inquiry</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The ruling found that the government had met the threshold for the crime-fraud exception, which allows prosecutors to get around attorney-client privilege if they believe a crime has been committed.  <a href="https://nyti.ms/3yMwh4p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Purdue Falls to No. 16 Seed Fairleigh Dickinson</h3>
-<sub>By The New York Times</sub>
-<p>Fairleigh Dickinson, the shortest team in Division I, toppled the Boilermakers in only the second upset of a No. 1 seed by a No. 16 seed in men’s college basketball.  <a href="https://nyti.ms/3TuJk4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<h3>Fairleigh Dickinson, Barely in the N.C.A.A. Tournament, Topples Purdue in a Shocker</h3>
+<sub>By Noah Weiland</sub>
+<p>The 16th-seeded Knights were heavy underdogs to Purdue. But in 40 minutes on the court, none of that mattered.  <a href="https://nyti.ms/40jBWum"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Rick Pitino’s Iona Season Ended at the N.C.A.A. Tournament. Is a Bigger Job Next?</h3>
@@ -128,10 +116,22 @@ There is a lot of drama in the world right now. Vladimir V. Putin has been accus
 <p>Pitino not long ago was ousted in Louisville as a recruiting scandal hit men’s college basketball. Years later, he is back in contention for bigger jobs in the sport.  <a href="https://nyti.ms/3JQOfcx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Disco Night at Mar-a-Lago (and Other Tales From Palm Beach’s Private Clubs)</h3>
-<sub>By Holly Peterson</sub>
-<p>Inside the exclusive dinner clubs in South Florida, where money talks and Donald Trump sometimes plays D.J.  <a href="https://nyti.ms/3JMIHzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>What We Learned From Friday’s Madness: One Upset to Rule Them All</h3>
+<sub>By The New York Times</sub>
+<p>Fairleigh Dickinson stunned Purdue in only the second upset of a No. 1 seed by a No. 16 seed in men’s college basketball.  <a href="https://nyti.ms/3TuJk4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Wyoming Becomes First State to Outlaw Abortion Pills</h3>
+<sub>By David W. Chen and Pam Belluck</sub>
+<p>Medication abortion providers could serve six months in prison under the law, one of a growing number of efforts by conservative states to target the pills.  <a href="https://nyti.ms/3FxNnHa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Rules Trump Lawyer Must Testify in Documents Inquiry</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The ruling found that the government had met the threshold for the crime-fraud exception, which allows prosecutors to get around attorney-client privilege if they believe a crime has been committed.  <a href="https://nyti.ms/3yMwh4p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
