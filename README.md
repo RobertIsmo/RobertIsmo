@@ -60,12 +60,44 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 17, Central Standard Time</p>
 <p>
-Right now, the economy is really uncertain and there are fears that we may be headed towards a recession. The banking sector has been particularly affected and lenders like First Republic have had to get bailouts from larger banks in order to stay afloat. In other news, Turkish President Erdogan just endorsed Finland&#39;s bid for NATO, but he&#39;s continuing to refuse to recognize Sweden, claiming they&#39;re harboring Kurdish terrorists. 
-
-On the US front, the Justice Department is investigating TikTok for possible espionage activities against journalists. Meanwhile, there is new data that ties the origins of the pandemic to raccoon dogs that were being sold at a market in Wuhan. 
-
-In sports-related news, Purdue has been doing well in the NCAA basketball tournament this year. Xavier was also able to fend off an upset bid by No. 14 seed Kennesaw State in their latest game. Sadly, we lost Lance Reddick of The Wire fame early this week at 60 years old. Finally, after a police killing of Walter Scott back in 2015, North Charleston PD has been taking steps to increase diversity and reduce traffic stops in their department as they try to rebuild trust with their community.</p>
+There is a lot of drama in the world right now. Vladimir V. Putin has been accused of war crimes by the International Criminal Court who issued an arrest warrant for him, which is a big deal considering he normally enjoys impunity from such charges. China&#39;s leader, Xi Jinping, is visiting Putin to provide a show of support and demonstrate global divisions over Russia’s actions in Ukraine. Meanwhile, institutions are facing pressure to recognize Ukrainian roots of artists formerly known as being Russian. On the topic of health, the World Health Organization suspects China of hiding data that might link Covid-19&#39;s origins to animals, while people are out there trying to figure out what raccoon dogs are. In the business world, there&#39;s a new banking crisis that could become detrimental to the global economy and cause another recession. Banks are struggling and trying to sell assets or stakes, while Donald Trump&#39;s lawyer was forced to testify due to crime-fraud exception laws. And finally on a lighter note in sports, Purdue fell to a No. 16 seed in men&#39;s college basketball and Rick Pitino is back in contention for bigger jobs after being ousted from Louisville a few years ago. Lastly, in style there are stories coming out about private clubs in Palm Beach waters and how Trump sometimes plays D.J. at Disco Night at Mar-a-Lago.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Arrest Warrant From Criminal Court Pierces Putin’s Aura of Impunity</h3>
+<sub>By Mark Landler</sub>
+<p>A highly symbolic move by the International Criminal Court, which accused President Vladimir V. Putin of war crimes, carries moral weight.  <a href="https://nyti.ms/42fNilb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Leader Will Visit Putin Under Shadow of War-Crimes Warrant</h3>
+<sub>By Alan Yuhas</sub>
+<p>Global divisions over Russia’s actions in Ukraine widened as China said Xi Jinping would go to Russia to help make peace, in a move widely seen as a stark sign of support for President Vladimir V. Putin.  <a href="https://nyti.ms/3LPalh1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Here’s what to know about the I.C.C.’s arrest warrant for Putin.</h3>
+<sub>By Marlise Simons, Charlie Savage and Anushka Patil</sub>
+<p>The International Criminal Court issued an arrest warrant for President Vladimir V. Putin and a Russian official for war crimes. Here’s a look at the warrant and what it could mean for Russia’s leader.  <a href="https://nyti.ms/3FtsRre"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Museums Rename Artworks and Artists as Ukrainian, Not Russian</h3>
+<sub>By Robin Pogrebin</sub>
+<p>A year into the war, institutions face pressure to note the Ukrainian roots of artworks and artists long described as Russian. It’s not always simple to write a wall label.  <a href="https://nyti.ms/3FAzEiH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>W.H.O. Accuses China of Hiding Data That May Link Covid’s Origins to Animals</h3>
+<sub>By Benjamin Mueller</sub>
+<p>Genetic research from China suggests to some experts that the coronavirus may have sprung from a seafood market in Wuhan. Now the data are missing from a scientific database.  <a href="https://nyti.ms/42zetaT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>What Are Raccoon Dogs?</h3>
+<sub>By Emily Anthes</sub>
+<p>The monogamous, hibernating canids, which are related to foxes, are sold for meat and fur.  <a href="https://nyti.ms/40iIBFw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Banking Crisis Hangs Over Economy, Rekindling Recession Fear</h3>
 <sub>By Ben Casselman</sub>
@@ -73,27 +105,9 @@ In sports-related news, Purdue has been doing well in the NCAA basketball tourna
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>First Republic Plans to Raise Cash by Selling Shares Privately</h3>
+<h3>First Republic and Other Banks Seek to Attract Buyers</h3>
 <sub>By Lauren Hirsch and Rob Copeland</sub>
-<p>After a bailout from the biggest banks, the ailing midsize lender is searching for more help to shore up its finances and soothe the fears of investors and depositors.  <a href="https://nyti.ms/3yM7DRt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bank Stocks Resume Slide as Relief Over Rescue Fades</h3>
-<sub>By Joe Rennison, Jason Karaian and Rich Barbieri</sub>
-<p>Despite the rescue of First Republic, investors continue to sell off shares in the ailing bank and some other regional lenders, dragging the market lower.  <a href="https://nyti.ms/3JoKtpd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Turkey’s Erdogan Finally Endorses Finland’s NATO Bid, but Not Sweden’s</h3>
-<sub>By Steven Erlanger</sub>
-<p>With a difficult election coming in May, the Turkish president keeps insisting that Sweden is harboring alleged Kurdish terrorists and other dissidents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Xi, Cast as Peacemaker, Wades Into Russia’s War in Ukraine</h3>
-<sub>By David Pierson, Anatoly Kurmanaev and Marc Santora</sub>
-<p>China’s top leader, Xi Jinping, is expected to meet with President Vladimir V. Putin of Russia next week and speak with President Volodymyr Zelensky of Ukraine.  <a href="https://nyti.ms/3n4zHg8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Private equity firms and other buyers have been circling failed and struggling banks that are desperately trying to sell off assets or even stakes.  <a href="https://nyti.ms/3yM7DRt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -102,40 +116,22 @@ In sports-related news, Purdue has been doing well in the NCAA basketball tourna
 <p>The ruling found that the government had met the threshold for the crime-fraud exception, which allows prosecutors to get around attorney-client privilege if they believe a crime has been committed.  <a href="https://nyti.ms/3yMwh4p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>New Data Links Pandemic’s Origins to Raccoon Dogs at Wuhan Market</h3>
-<sub>By Benjamin Mueller</sub>
-<p>Genetic samples from the market were recently uploaded to an international database and then removed after scientists asked China about them.  <a href="https://nyti.ms/3JNUmOs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Investigating TikTok’s Owner Over Possible Spying on Journalists</h3>
-<sub>By Glenn Thrush and Sapna Maheshwari</sub>
-<p>The inquiry appears to be tied to an admission by the app’s owner, ByteDance, that employees had inappropriately obtained Americans’ data. The company said it had fired the workers involved.  <a href="https://nyti.ms/3TleTxf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Purdue Favors Old Basketball Ideas. Will It Keep Working?</h3>
-<sub>By Noah Weiland and Lee Klafczynski</sub>
-<p>Led by center Zach Edey, the Boilermakers, who play on Friday, have earned a No. 1 seed in the N.C.A.A. men’s tournament.  <a href="https://nyti.ms/3FuMVJN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Xavier Survives Another No. 14 Seed’s Upset Bid</h3>
+<h3>Purdue Falls to No. 16 Seed Fairleigh Dickinson</h3>
 <sub>By The New York Times</sub>
-<p>Kennesaw State held a double-digit lead in the second half before the third-seeded Musketeers stormed back for the win.  <a href="https://nyti.ms/3TuJk4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Fairleigh Dickinson, the shortest team in Division I, toppled the Boilermakers in only the second upset of a No. 1 seed by a No. 16 seed in men’s college basketball.  <a href="https://nyti.ms/3TuJk4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lance Reddick, Star of ‘The Wire’ and ‘John Wick,’ Dies at 60</h3>
-<sub>By Michael Levenson and McKenna Oxenden</sub>
-<p>A prolific actor who also starred in the Amazon series “Bosch,” Mr. Reddick had branched out into video games, notably Horizon Zero Dawn and its sequel, and the Destiny franchise.  <a href="https://nyti.ms/3TnDnWy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Rick Pitino’s Iona Season Ended at the N.C.A.A. Tournament. Is a Bigger Job Next?</h3>
+<sub>By Adam Zagoria</sub>
+<p>Pitino not long ago was ousted in Louisville as a recruiting scandal hit men’s college basketball. Years later, he is back in contention for bigger jobs in the sport.  <a href="https://nyti.ms/3JQOfcx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Roiled by a Police Killing, One Department Tries to Rebound</h3>
-<sub>By Audra D. S. Burch</sub>
-<p>After an officer shot Walter Scott to death in 2015, the North Charleston Police Department hired more Black officers and cut down on traffic stops.  <a href="https://nyti.ms/3Lxnn2s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Disco Night at Mar-a-Lago (and Other Tales From Palm Beach’s Private Clubs)</h3>
+<sub>By Holly Peterson</sub>
+<p>Inside the exclusive dinner clubs in South Florida, where money talks and Donald Trump sometimes plays D.J.  <a href="https://nyti.ms/3JMIHzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
