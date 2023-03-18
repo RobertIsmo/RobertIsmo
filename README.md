@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 18, Central Standard Time</p>
 <p>
-In the world, there has been a lot of news related to Russia and Vladimir Putin. There is an arrest warrant from the International Criminal Court accusing President Putin of war crimes, and China&#39;s leader Xi Jinping is planning to visit him in what appears to be a sign of support for him despite this. On the health front, there have been more studies suggesting that the coronavirus may have originated from animals, but some of the data related to this are currently missing from scientific databases. On the business side, some banks have been falling into financial trouble and are trying to find buyers for various assets or stakes in the company. Meanwhile, on the sports front, there was a shocking upset in March Madness when No. 16 seed Fairleigh Dickinson beat Purdue, one of the biggest upsets in tournament history. Lastly, here in America, Wyoming has passed a law banning abortion pills and a judge has ruled that a Trump lawyer must testify in an inquiry involving documents.</p>
+There are a lot of political tensions happening in different parts of the world right now. In Iraq, 20 years after the U.S. invasion, corruption and instability is still keeping citizens from living safely or with hope for their future. Meanwhile, the International Criminal Court has surprised many by issuing an arrest warrant for Russian President Vladimir Putin for war crimes stemming from Russia&#39;s intervention in Ukraine. China&#39;s leader Xi Jinping is going to Russia to make peace and support Putin despite this warrant. Here in the US, Wyoming recently became the first state to outlaw abortion pills, a law that could land medication abortion providers in prison for six months. Unfortunately, there have also been signs that another banking crisis may be looming.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>20 Years After U.S. Invasion, Iraq Is a Freer Place, but Not a Hopeful One</h3>
+<sub>By Alissa J. Rubin</sub>
+<p>Conversations with dozens of Iraqis offer a portrait of a nation that is rich in oil, hobbled by corruption and unable to guarantee its citizens’ safety.  <a href="https://nyti.ms/3FzxkZr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Arrest Warrant From Criminal Court Pierces Putin’s Aura of Impunity</h3>
 <sub>By Mark Landler</sub>
@@ -117,21 +123,15 @@ In the world, there has been a lot of news related to Russia and Vladimir Putin.
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>What We Learned From Friday’s Madness: One Upset to Rule Them All</h3>
-<sub>By The New York Times</sub>
-<p>Fairleigh Dickinson stunned Purdue in only the second upset of a No. 1 seed by a No. 16 seed in men’s college basketball.  <a href="https://nyti.ms/3TuJk4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<h3>Fairleigh Dickinson, Princeton, Furman and the Joy of March Upsets</h3>
+<sub>By Scott Miller</sub>
+<p>“This is one of the few things in life where they told me how good it was and, somehow, it’s better.”  <a href="https://nyti.ms/42n3qRF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Wyoming Becomes First State to Outlaw Abortion Pills</h3>
 <sub>By David W. Chen and Pam Belluck</sub>
 <p>Medication abortion providers could serve six months in prison under the law, one of a growing number of efforts by conservative states to target the pills.  <a href="https://nyti.ms/3FxNnHa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Rules Trump Lawyer Must Testify in Documents Inquiry</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The ruling found that the government had met the threshold for the crime-fraud exception, which allows prosecutors to get around attorney-client privilege if they believe a crime has been committed.  <a href="https://nyti.ms/3yMwh4p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
