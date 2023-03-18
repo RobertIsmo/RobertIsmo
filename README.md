@@ -60,24 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 18, Central Standard Time</p>
 <p>
-The world is in a complicated and uncertain place right now. In Iraq, 20 years after the U.S. invasion, people are living a freer but still precarious life, filled with corruption and shaky safety. Meanwhile, banks are in a precarious position due to their financial operations, and some have already failed. In the U.S., President Trump has been claiming his imminent arrest and echoing the Jan. 6 rioters, and Oregon is facing a rural-urban divide that has farmers and coastal dwellers at odds. Across the globe, Russia is taking more children from Ukraine--an action deemed illegal by the International Criminal Court--and Vladimir Putin has visited Crimea on an anniversary of its seizure, despite a warrant for his arrest for warcrimes. People’s mental health is also suffering as some Zoom meetings have become faded memories of a transitional period between crisis and normalcy. Lastly, UConn no longer stands alone atop women’s basketball because talent across the NCCA is deepening.</p>
+Right now, the Sandy Hook families are taking on Alex Jones and the bankruptcy system after he was awarded millions of dollars and they are trying to collect on it. Jimmy Carter had a clandestine trip during his 1980 campaign and it may have cost him the election. In Oregon, there is a rural-urban divide and conservatives are taking action to redraw the state&#39;s borders. President Trump made claims that his arrest is imminent and called for protests which could be reminiscent to January 6th. Across the globe in Japan, farmers are using kerosene-powered greenhouses to grow wintry strawberries out of season. In Iraq, 20 years after being invaded by the US soldiers, safety cannot be guaranteed to citizens due to corruption. People are worried about banks because understanding how they operate can give some insight into potential financial trouble. In Russia, President Putin is facing a war-crimes warrant issued by the International Criminal Court for an illegal seizure in Ukraine. Ukrainians have been suffering for a long time but their stoic faces are starting to crack and their emotions are showing through. Finally, UConn&#39;s women&#39;s basketball program is no longer standing atop the college basketball world with so much talent spread out among teams now.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>20 Years After U.S. Invasion, Iraq Is a Freer Place, but Not a Hopeful One</h3>
-<sub>By Alissa J. Rubin</sub>
-<p>Conversations with dozens of Iraqis offer a portrait of a nation that is rich in oil, hobbled by corruption and unable to guarantee its citizens’ safety.  <a href="https://nyti.ms/3FzxkZr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Sandy Hook Families Are Fighting Alex Jones and the Bankruptcy System Itself</h3>
+<sub>By Elizabeth Williamson and Emily Steel</sub>
+<p>As the families seek more than $1.4 billion awarded by courts for Mr. Jones’s lies, a New York Times review shows he is transferring millions of dollars to family and friends, potentially out of reach of creditors.  <a href="https://nyti.ms/3TpxoQW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why People Are Worried About Banks</h3>
-<sub>By Christine Zhang, David Enrich, Karl Russell and Ella Koeze</sub>
-<p>To understand why some banks seem to be in precarious financial positions, first start with how they fundamentally operate.  <a href="https://nyti.ms/42jHQO6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Clandestine Trip and a Four-Decade Secret: An Untold Story Behind Jimmy Carter’s Defeat</h3>
+<sub>By Peter Baker</sub>
+<p>Nearly 43 years later, a prominent Texas politician said he was an unwitting part of a mission to sabotage President Carter’s campaign.  <a href="https://nyti.ms/3LzfWaR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>48 Hours Till Payroll, $200,000 to Go: Diary of a Bank Failure</h3>
-<sub>By Emma Goldberg</sub>
-<p>The collapse of Silicon Valley Bank set major financial disruptions in motion. It also made one founder’s week a scramble.  <a href="https://nyti.ms/3lm0IeD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Oregon’s Rural-Urban Divide Sparks Talk of Secession</h3>
+<sub>By Mike Baker and Hilary Swift</sub>
+<p>Conservatives have approved a series of ballot measures in pursuit of an improbable plan to redraw the state’s border. We spent time in the region under dispute to see what the debate says about the country’s divisions.  <a href="https://nyti.ms/42n4HrV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,9 +93,15 @@ The world is in a complicated and uncertain place right now. In Iraq, 20 years a
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Macron Faces an Angry France Alone</h3>
-<sub>By Roger Cohen</sub>
-<p>President Emmanuel Macron saw his decision to push through a change in the retirement age as necessary, but the price may be high.  <a href="https://nyti.ms/42ksSr7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>20 Years After U.S. Invasion, Iraq Is a Freer Place, but Not a Hopeful One</h3>
+<sub>By Alissa J. Rubin</sub>
+<p>Conversations with dozens of Iraqis offer a portrait of a nation that is rich in oil, hobbled by corruption and unable to guarantee its citizens’ safety.  <a href="https://nyti.ms/3FzxkZr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why People Are Worried About Banks</h3>
+<sub>By Christine Zhang, David Enrich, Karl Russell and Ella Koeze</sub>
+<p>To understand why some banks seem to be in precarious financial positions, first start with how they fundamentally operate.  <a href="https://nyti.ms/42jHQO6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,22 +122,16 @@ The world is in a complicated and uncertain place right now. In Iraq, 20 years a
 <p>President Vladimir V. Putin of Russia marked the anniversary of his illegal seizure of the Ukrainian peninsula, signaling defiance to the world and business as usual to his own people.  <a href="https://nyti.ms/3lmjvqe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Oregon’s Rural-Urban Divide Sparks Talk of Secession</h3>
-<sub>By Mike Baker and Hilary Swift</sub>
-<p>Conservatives have approved a series of ballot measures in pursuit of an improbable plan to redraw the state’s border. We spent time in the region under dispute to see what the debate says about the country’s divisions.  <a href="https://nyti.ms/42n4HrV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Where Did All Your Zoom Friends Go?</h3>
-<sub>By Issie Lapowsky and Gili Benita</sub>
-<p>They got lost in this weird moment, where the world is caught between crisis and normalcy, nostalgic for house parties — and Houseparty, too.  <a href="https://nyti.ms/42ksGIp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Is the UConn Dynasty a Thing of the Past?</h3>
 <sub>By Remy Tumin</sub>
 <p>As the wealth of talent deepens across the N.C.A.A., UConn no longer stands alone atop women’s basketball.  <a href="https://nyti.ms/3YXK6aK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Cinderella Run Ends for No. 13 Seed Furman</h3>
+<sub>By The New York Times</sub>
+<p>Fifth-seeded San Diego State puts the clamps on the Paladins, while Indiana is the fourth No. 1 seed to advance easily in the women’s tournament.  <a href="https://nyti.ms/3LA76tG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
