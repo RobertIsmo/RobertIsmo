@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 18, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Iraq, twenty years after the US invasion, the nation is relatively free but not hopeful due to corruption and a lack of safety for citizens. Worries about money and banking have arisen in the wake of Silicon Valley Bank&#39;s collapse, leading to discussion about how banking regulation needs to change. In France, President Macron is facing pushback from citizens on proposed changes to the retirement age. Zoom friends are missing in this weird moment between crisis and normalcy. In Wyoming, abortion pills have been outlawed, while Russia&#39;s President Putin was accused of war crimes by the International Criminal Court with an arrest warrant issued. The UN is in urgent talks over a Russian naval blockade that prevents shipments of food and fertilizer to Ukraine. And finally, Iowa has become a pivotal location for both Donald Trump in particular and potential Republican candidates in 2024--all while two unexpected teams were victorious in an NCAA tournament basketball game.</p>
+In the world, there is a lot of uncertainty. Iraq has been freed of US invasion for the past 20 years, but citizens still feel unsafe due to corruption and lack of resources. Banks are at risk of failing, and some have already failed, prompting changes in regulation to prevent future collapses. In France, citizens are protesting President Emmanuel Macron&#39;s decision to raise retirement age requirements. Many have Zoomed with family and friends over the last year, but this is slowly fading as pandemic restrictions lessen. In the US, Trump is facing a potential indictment from a Manhattan grand jury and his arrest may be imminent. Wyoming just became the first state to outlaw certain abortion pills and the International Criminal Court accused Putin of war crimes. Lastly, there was a shocker in the NCAA tournament when 16th seed Fairleigh Dickinson beat Purdue!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>20 Years After U.S. Invasion, Iraq Is a Freer Place, but Not a Hopeful One</h3>
@@ -83,7 +83,13 @@ There&#39;s a lot going on in the world right now. In Iraq, twenty years after t
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Two Big Ideas for Preventing Another Banking Crisis</h3>
 <sub>By Joe Nocera and Michael J. de la Merced</sub>
-<p>How should bank regulation change in the wake of Silicon Valley Bank’s collapse?  <a href="https://nyti.ms/3YXYYWR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>How should bank regulation change in the wake of Silicon Valley Bank’s collapse?  <a href="https://nyti.ms/3JlI6DA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Claims His Arrest Is Imminent and Calls for Protests, Echoing Jan. 6</h3>
+<sub>By Maggie Haberman, Jonah E. Bromwich, Ben Protess, Alan Feuer and William K. Rashbaum</sub>
+<p>His indictment by a Manhattan grand jury is expected, but its timing is unclear.  <a href="https://nyti.ms/3Z3h8pX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,9 +105,9 @@ There&#39;s a lot going on in the world right now. In Iraq, twenty years after t
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Wyoming Becomes First State to Outlaw Abortion Pills</h3>
+<h3>Wyoming Becomes First State to Outlaw the Use of Pills for Abortion</h3>
 <sub>By David W. Chen and Pam Belluck</sub>
-<p>Medication abortion providers could serve six months in prison under the law, one of a growing number of efforts by conservative states to target the pills.  <a href="https://nyti.ms/3FxNnHa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The law is the only one in the nation to prohibit the use separate from a total abortion ban and is part of a growing effort by conservative states to target the pills.  <a href="https://nyti.ms/3FxNnHa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -111,9 +117,9 @@ There&#39;s a lot going on in the world right now. In Iraq, twenty years after t
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.N. in Urgent Talks to Keep Ukrainian Grain Flowing</h3>
-<sub>By Victoria Kim and Shashank Bengali</sub>
-<p>An agreement permitting shipments of food and fertilizer past a Russian naval blockade, reached last summer and renewed once, is about to expire.  <a href="https://nyti.ms/3lmjvqe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Putin Visits Occupied Crimea, a Day After War-Crimes Warrant</h3>
+<sub>By Shashank Bengali and Victoria Kim</sub>
+<p>President Vladimir V. Putin of Russia marked the anniversary of his illegal seizure of the Ukrainian peninsula, signaling defiance to the world and business as usual to his own people.  <a href="https://nyti.ms/3lmjvqe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -127,12 +133,6 @@ There&#39;s a lot going on in the world right now. In Iraq, twenty years after t
 <sub>By Noah Weiland</sub>
 <p>The 16th-seeded Knights were heavy underdogs to Purdue. But in 40 minutes on the court, none of that mattered.  <a href="https://nyti.ms/40jBWum"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Fairleigh Dickinson, Princeton, Furman and the Joy of March Upsets</h3>
-<sub>By Scott Miller</sub>
-<p>“This is one of the few things in life where they told me how good it was and, somehow, it’s better.”  <a href="https://nyti.ms/42n3qRF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
