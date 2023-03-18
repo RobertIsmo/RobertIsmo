@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 18, Central Standard Time</p>
 <p>
-In the world, there is a lot of uncertainty. Iraq has been freed of US invasion for the past 20 years, but citizens still feel unsafe due to corruption and lack of resources. Banks are at risk of failing, and some have already failed, prompting changes in regulation to prevent future collapses. In France, citizens are protesting President Emmanuel Macron&#39;s decision to raise retirement age requirements. Many have Zoomed with family and friends over the last year, but this is slowly fading as pandemic restrictions lessen. In the US, Trump is facing a potential indictment from a Manhattan grand jury and his arrest may be imminent. Wyoming just became the first state to outlaw certain abortion pills and the International Criminal Court accused Putin of war crimes. Lastly, there was a shocker in the NCAA tournament when 16th seed Fairleigh Dickinson beat Purdue!</p>
+The world is in a complicated and uncertain place right now. In Iraq, 20 years after the U.S. invasion, people are living a freer but still precarious life, filled with corruption and shaky safety. Meanwhile, banks are in a precarious position due to their financial operations, and some have already failed. In the U.S., President Trump has been claiming his imminent arrest and echoing the Jan. 6 rioters, and Oregon is facing a rural-urban divide that has farmers and coastal dwellers at odds. Across the globe, Russia is taking more children from Ukraine--an action deemed illegal by the International Criminal Court--and Vladimir Putin has visited Crimea on an anniversary of its seizure, despite a warrant for his arrest for warcrimes. People’s mental health is also suffering as some Zoom meetings have become faded memories of a transitional period between crisis and normalcy. Lastly, UConn no longer stands alone atop women’s basketball because talent across the NCCA is deepening.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>20 Years After U.S. Invasion, Iraq Is a Freer Place, but Not a Hopeful One</h3>
@@ -80,16 +80,16 @@ In the world, there is a lot of uncertainty. Iraq has been freed of US invasion 
 <p>The collapse of Silicon Valley Bank set major financial disruptions in motion. It also made one founder’s week a scramble.  <a href="https://nyti.ms/3lm0IeD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Two Big Ideas for Preventing Another Banking Crisis</h3>
-<sub>By Joe Nocera and Michael J. de la Merced</sub>
-<p>How should bank regulation change in the wake of Silicon Valley Bank’s collapse?  <a href="https://nyti.ms/3JlI6DA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Claims His Arrest Is Imminent and Calls for Protests, Echoing Jan. 6</h3>
 <sub>By Maggie Haberman, Jonah E. Bromwich, Ben Protess, Alan Feuer and William K. Rashbaum</sub>
 <p>His indictment by a Manhattan grand jury is expected, but its timing is unclear.  <a href="https://nyti.ms/3Z3h8pX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Secret Behind Japan’s Wintry Strawberries</h3>
+<sub>By Hiroko Tabuchi</sub>
+<p>The growing season has become completely reversed thanks to kerosene-burning greenhouses and the big prices paid for the earliest, best berries.  <a href="https://nyti.ms/3JNaRdI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,23 +98,17 @@ In the world, there is a lot of uncertainty. Iraq has been freed of US invasion 
 <p>President Emmanuel Macron saw his decision to push through a change in the retirement age as necessary, but the price may be high.  <a href="https://nyti.ms/42ksSr7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Where Did All Your Zoom Friends Go?</h3>
-<sub>By Issie Lapowsky and Gili Benita</sub>
-<p>They got lost in this weird moment, where the world is caught between crisis and normalcy, nostalgic for house parties — and Houseparty, too.  <a href="https://nyti.ms/42ksGIp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Signals It Will Take More Ukrainian Children, a Crime in Progress</h3>
+<sub>By Marc Santora and Emma Bubola</sub>
+<p>The International Criminal Court’s arrest warrant for President Vladimir V. Putin highlights a practice that the Kremlin has not concealed and says will continue.  <a href="https://nyti.ms/3JkqcAY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Wyoming Becomes First State to Outlaw the Use of Pills for Abortion</h3>
-<sub>By David W. Chen and Pam Belluck</sub>
-<p>The law is the only one in the nation to prohibit the use separate from a total abortion ban and is part of a growing effort by conservative states to target the pills.  <a href="https://nyti.ms/3FxNnHa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Arrest Warrant From Criminal Court Pierces Putin’s Aura of Impunity</h3>
-<sub>By Mark Landler</sub>
-<p>A highly symbolic move by the International Criminal Court, which accused President Vladimir V. Putin of war crimes, carries moral weight.  <a href="https://nyti.ms/42fNilb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<h3>In Stoic Ukraine, Stony Faces Are Starting to Crack and to Cry</h3>
+<sub>By Jeffrey Gettleman</sub>
+<p>Although Ukrainians excel at putting up a brave front, a tremendous amount of suffering is being kept bottled up and sometimes bursts out.  <a href="https://nyti.ms/3LsEEK6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Visits Occupied Crimea, a Day After War-Crimes Warrant</h3>
@@ -123,15 +117,21 @@ In the world, there is a lot of uncertainty. Iraq has been freed of US invasion 
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Trump and His Potential 2024 G.O.P. Rivals, It’s All About Iowa</h3>
-<sub>By Trip Gabriel</sub>
-<p>As former Vice President Mike Pence visits the state on Saturday, Iowa has become pivotal for possible Republican presidential contenders, and for Donald Trump in particular.  <a href="https://nyti.ms/3yPRCds"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Oregon’s Rural-Urban Divide Sparks Talk of Secession</h3>
+<sub>By Mike Baker and Hilary Swift</sub>
+<p>Conservatives have approved a series of ballot measures in pursuit of an improbable plan to redraw the state’s border. We spent time in the region under dispute to see what the debate says about the country’s divisions.  <a href="https://nyti.ms/42n4HrV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Where Did All Your Zoom Friends Go?</h3>
+<sub>By Issie Lapowsky and Gili Benita</sub>
+<p>They got lost in this weird moment, where the world is caught between crisis and normalcy, nostalgic for house parties — and Houseparty, too.  <a href="https://nyti.ms/42ksGIp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Fairleigh Dickinson, Barely in the N.C.A.A. Tournament, Topples Purdue in a Shocker</h3>
-<sub>By Noah Weiland</sub>
-<p>The 16th-seeded Knights were heavy underdogs to Purdue. But in 40 minutes on the court, none of that mattered.  <a href="https://nyti.ms/40jBWum"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Is the UConn Dynasty a Thing of the Past?</h3>
+<sub>By Remy Tumin</sub>
+<p>As the wealth of talent deepens across the N.C.A.A., UConn no longer stands alone atop women’s basketball.  <a href="https://nyti.ms/3YXK6aK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
