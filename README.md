@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, March 17, Central Standard Time</p>
+<p>It is Saturday, March 18, Central Standard Time</p>
 <p>
-The world is in a state of flux right now. There has been a lot of news recently centered around Vladimir Putin and accusations of war crimes by the International Criminal Court. China&#39;s leader, Xi Jinping, is visiting Russia to potentially help make peace and show support for Putin in light of this. Meanwhile, the World Health Organization is accusing China of hiding data that might link the COVID-19 virus to animals. On the banking front, there are fears that borrowing could become tougher and more banks are trying to sell off assets or stakes. In sports, Rick Pitino has been making a comeback after being ousted from his previous job, and also there was a shocking upset in the NCAA men&#39;s basketball tournament. Finally, Wyoming recently became the first state to outlaw abortion pills, while a judge has ruled that the lawyer of Donald Trump must testify in a documents inquiry related to possible criminal activity.</p>
+In the world, there has been a lot of news related to Russia and Vladimir Putin. There is an arrest warrant from the International Criminal Court accusing President Putin of war crimes, and China&#39;s leader Xi Jinping is planning to visit him in what appears to be a sign of support for him despite this. On the health front, there have been more studies suggesting that the coronavirus may have originated from animals, but some of the data related to this are currently missing from scientific databases. On the business side, some banks have been falling into financial trouble and are trying to find buyers for various assets or stakes in the company. Meanwhile, on the sports front, there was a shocking upset in March Madness when No. 16 seed Fairleigh Dickinson beat Purdue, one of the biggest upsets in tournament history. Lastly, here in America, Wyoming has passed a law banning abortion pills and a judge has ruled that a Trump lawyer must testify in an inquiry involving documents.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Arrest Warrant From Criminal Court Pierces Putin’s Aura of Impunity</h3>
@@ -111,10 +111,10 @@ The world is in a state of flux right now. There has been a lot of news recently
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Rick Pitino’s Iona Season Ended at the N.C.A.A. Tournament. Is a Bigger Job Next?</h3>
+<h3>Who is Fairleigh Dickinson, the No. 16 Seed That Beat Purdue?</h3>
 <sub>By Adam Zagoria</sub>
-<p>Pitino not long ago was ousted in Louisville as a recruiting scandal hit men’s college basketball. Years later, he is back in contention for bigger jobs in the sport.  <a href="https://nyti.ms/3JQOfcx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<p>The Knights, who delivered one of the biggest upsets in March Madness history by defeating Purdue, made an unlikely run just to even get to the game.  <a href="https://nyti.ms/3lr1OWD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>What We Learned From Friday’s Madness: One Upset to Rule Them All</h3>
