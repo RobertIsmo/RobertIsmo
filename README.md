@@ -60,13 +60,49 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 18, Central Standard Time</p>
 <p>
-There are a lot of political tensions happening in different parts of the world right now. In Iraq, 20 years after the U.S. invasion, corruption and instability is still keeping citizens from living safely or with hope for their future. Meanwhile, the International Criminal Court has surprised many by issuing an arrest warrant for Russian President Vladimir Putin for war crimes stemming from Russia&#39;s intervention in Ukraine. China&#39;s leader Xi Jinping is going to Russia to make peace and support Putin despite this warrant. Here in the US, Wyoming recently became the first state to outlaw abortion pills, a law that could land medication abortion providers in prison for six months. Unfortunately, there have also been signs that another banking crisis may be looming.</p>
+There&#39;s a lot going on in the world right now. In Iraq, twenty years after the US invasion, the nation is relatively free but not hopeful due to corruption and a lack of safety for citizens. Worries about money and banking have arisen in the wake of Silicon Valley Bank&#39;s collapse, leading to discussion about how banking regulation needs to change. In France, President Macron is facing pushback from citizens on proposed changes to the retirement age. Zoom friends are missing in this weird moment between crisis and normalcy. In Wyoming, abortion pills have been outlawed, while Russia&#39;s President Putin was accused of war crimes by the International Criminal Court with an arrest warrant issued. The UN is in urgent talks over a Russian naval blockade that prevents shipments of food and fertilizer to Ukraine. And finally, Iowa has become a pivotal location for both Donald Trump in particular and potential Republican candidates in 2024--all while two unexpected teams were victorious in an NCAA tournament basketball game.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>20 Years After U.S. Invasion, Iraq Is a Freer Place, but Not a Hopeful One</h3>
 <sub>By Alissa J. Rubin</sub>
 <p>Conversations with dozens of Iraqis offer a portrait of a nation that is rich in oil, hobbled by corruption and unable to guarantee its citizens’ safety.  <a href="https://nyti.ms/3FzxkZr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why People Are Worried About Banks</h3>
+<sub>By Christine Zhang, David Enrich, Karl Russell and Ella Koeze</sub>
+<p>To understand why some banks seem to be in precarious financial positions, first start with how they fundamentally operate.  <a href="https://nyti.ms/42jHQO6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>48 Hours Till Payroll, $200,000 to Go: Diary of a Bank Failure</h3>
+<sub>By Emma Goldberg</sub>
+<p>The collapse of Silicon Valley Bank set major financial disruptions in motion. It also made one founder’s week a scramble.  <a href="https://nyti.ms/3lm0IeD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Two Big Ideas for Preventing Another Banking Crisis</h3>
+<sub>By Joe Nocera and Michael J. de la Merced</sub>
+<p>How should bank regulation change in the wake of Silicon Valley Bank’s collapse?  <a href="https://nyti.ms/3YXYYWR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Macron Faces an Angry France Alone</h3>
+<sub>By Roger Cohen</sub>
+<p>President Emmanuel Macron saw his decision to push through a change in the retirement age as necessary, but the price may be high.  <a href="https://nyti.ms/42ksSr7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Where Did All Your Zoom Friends Go?</h3>
+<sub>By Issie Lapowsky and Gili Benita</sub>
+<p>They got lost in this weird moment, where the world is caught between crisis and normalcy, nostalgic for house parties — and Houseparty, too.  <a href="https://nyti.ms/42ksGIp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Wyoming Becomes First State to Outlaw Abortion Pills</h3>
+<sub>By David W. Chen and Pam Belluck</sub>
+<p>Medication abortion providers could serve six months in prison under the law, one of a growing number of efforts by conservative states to target the pills.  <a href="https://nyti.ms/3FxNnHa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Arrest Warrant From Criminal Court Pierces Putin’s Aura of Impunity</h3>
@@ -75,40 +111,16 @@ There are a lot of political tensions happening in different parts of the world 
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Leader Will Visit Putin Under Shadow of War-Crimes Warrant</h3>
-<sub>By Alan Yuhas</sub>
-<p>Global divisions over Russia’s actions in Ukraine widened as China said Xi Jinping would go to Russia to help make peace, in a move widely seen as a stark sign of support for President Vladimir V. Putin.  <a href="https://nyti.ms/3LPalh1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<h3>U.N. in Urgent Talks to Keep Ukrainian Grain Flowing</h3>
+<sub>By Victoria Kim and Shashank Bengali</sub>
+<p>An agreement permitting shipments of food and fertilizer past a Russian naval blockade, reached last summer and renewed once, is about to expire.  <a href="https://nyti.ms/3lmjvqe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here’s what to know about the I.C.C.’s arrest warrant for Putin.</h3>
-<sub>By Marlise Simons, Charlie Savage and Anushka Patil</sub>
-<p>The International Criminal Court issued an arrest warrant for President Vladimir V. Putin and a Russian official for war crimes. Here’s a look at the warrant and what it could mean for Russia’s leader.  <a href="https://nyti.ms/3FtsRre"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>W.H.O. Accuses China of Hiding Data That May Link Covid’s Origins to Animals</h3>
-<sub>By Benjamin Mueller</sub>
-<p>Genetic research from China suggests to some experts that the coronavirus may have sprung from a seafood market in Wuhan. Now the data are missing from a scientific database.  <a href="https://nyti.ms/42zetaT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>What Are Raccoon Dogs?</h3>
-<sub>By Emily Anthes</sub>
-<p>The monogamous, hibernating canids, which are related to foxes, are sold for meat and fur.  <a href="https://nyti.ms/40iIBFw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Banking Crisis Hangs Over Economy, Rekindling Recession Fear</h3>
-<sub>By Ben Casselman</sub>
-<p>Borrowing could become tougher, a particular blow to small businesses — and a threat to the recovery’s staying power.  <a href="https://nyti.ms/3JnzYT7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>First Republic and Other Banks Seek to Attract Buyers</h3>
-<sub>By Lauren Hirsch and Rob Copeland</sub>
-<p>Private equity firms and other buyers have been circling failed and struggling banks that are desperately trying to sell off assets or even stakes.  <a href="https://nyti.ms/3yM7DRt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Trump and His Potential 2024 G.O.P. Rivals, It’s All About Iowa</h3>
+<sub>By Trip Gabriel</sub>
+<p>As former Vice President Mike Pence visits the state on Saturday, Iowa has become pivotal for possible Republican presidential contenders, and for Donald Trump in particular.  <a href="https://nyti.ms/3yPRCds"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Fairleigh Dickinson, Barely in the N.C.A.A. Tournament, Topples Purdue in a Shocker</h3>
@@ -117,22 +129,10 @@ There are a lot of political tensions happening in different parts of the world 
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Who is Fairleigh Dickinson, the No. 16 Seed That Beat Purdue?</h3>
-<sub>By Adam Zagoria</sub>
-<p>The Knights, who delivered one of the biggest upsets in March Madness history by defeating Purdue, made an unlikely run just to even get to the game.  <a href="https://nyti.ms/3lr1OWD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Fairleigh Dickinson, Princeton, Furman and the Joy of March Upsets</h3>
 <sub>By Scott Miller</sub>
 <p>“This is one of the few things in life where they told me how good it was and, somehow, it’s better.”  <a href="https://nyti.ms/42n3qRF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Wyoming Becomes First State to Outlaw Abortion Pills</h3>
-<sub>By David W. Chen and Pam Belluck</sub>
-<p>Medication abortion providers could serve six months in prison under the law, one of a growing number of efforts by conservative states to target the pills.  <a href="https://nyti.ms/3FxNnHa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
