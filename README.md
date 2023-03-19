@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 19, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world! In Ukraine, Russian forces have already captured some of the territory there, and the Russian leader, Vladimir Putin, visited Mariupol despite an international court warrant issued for his arrest. Meanwhile in Iraq, US forces invaded 20 years ago and it&#39;s been difficult to gauge their impact since then. China is trying to position itself as a peacemaker in the Ukraine War but the US and Europe are skeptical of their motives. Closer to home in the US, homelessness is becoming more and more of a crisis and even sandwich shops are feeling the effects. On top of all this, we just found out that former President Donald Trump may be indicted due to possible payments made to adult film star Stormy Daniels. Thankfully however, Princeton University just advanced to the Round of 16 in the N.C.A.A. basketball tournament and that&#39;s something to celebrate!</p>
+Right now there is a lot of tension and uncertainty in the world. In Switzerland, the government is close to approving a deal for UBS to buy Credit Suisse for $1 billion. Meanwhile in Ukraine, President Putin is facing allegations of war crimes after visiting a city that has been destroyed by Russian forces. In the US, China has been accused of trying to bolster President Putin’s power during an upcoming diplomatic trip. In Iraq, 20 years after the US-led invasion, it is still unclear why the US invaded in the first place. In Europe, Americans are moving abroad for cheaper lifestyles while in Florida, Covid politics have left staff members of Sarasota Memorial Hospital shaken due to conflicts over federal guidelines on Covid treatment. Finally, in New York City prosecutors are potentially positioning themselves to indict former President Donald Trump over alleged payments made to Stormy Daniels.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>UBS Nears Deal to Buy Credit Suisse</h3>
+<sub>By Andrew Ross Sorkin, Michael J. de la Merced and Maureen Farrell</sub>
+<p>The Swiss government is close to announcing a deal for UBS to buy Credit Suisse, its smaller rival, for about $1 billion.  <a href="https://nyti.ms/3lqk6HA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Defiant Putin Visits Mariupol, a City Razed by Russian Forces</h3>
-<sub>By Matthew Mpoke Bigg and Ivan Nechepurenko</sub>
-<p>The highly symbolic trip was the Russian leader’s first to territory his forces captured since the full-scale invasion of Ukraine and came days after an international court issued a warrant for his arrest.  <a href="https://nyti.ms/3LvTwXZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Matthew Mpoke Bigg, Ivan Nechepurenko and Andrés R. Martínez</sub>
+<p>The trip was the Russian leader’s first to territory his forces captured since the full-scale invasion of Ukraine, and came shortly after an international court issued a warrant for his arrest for war crimes.  <a href="https://nyti.ms/3LvTwXZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,6 +98,12 @@ Right now, there&#39;s a lot going on in the world! In Ukraine, Russian forces h
 <p>Manhattan prosecutors investigating a payout to Stormy Daniels may be poised to make Donald J. Trump the first former president ever to be criminally indicted.  <a href="https://nyti.ms/3JAglYe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Claims His Arrest Is Imminent and Calls for Protests, Echoing Jan. 6</h3>
+<sub>By Maggie Haberman, Jonah E. Bromwich, Ben Protess, Alan Feuer and William K. Rashbaum</sub>
+<p>His indictment by a Manhattan grand jury is expected, but its timing is unclear.  <a href="https://nyti.ms/3Z3h8pX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In U.S.-Led Iraq War, Iran Was the Big Winner</h3>
 <sub>By Vivian Yee and Alissa J. Rubin</sub>
@@ -101,7 +113,7 @@ Right now, there&#39;s a lot going on in the world! In Ukraine, Russian forces h
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Photos: The Iraq War</h3>
 <sub>By The New York Times</sub>
-<p>  <a href="https://nyti.ms/3yOwoN2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>   <a href="https://nyti.ms/3yOwoN2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,29 +122,17 @@ Right now, there&#39;s a lot going on in the world! In Ukraine, Russian forces h
 <p>Two decades after the Bush administration said it wanted to disarm weapons of mass destruction and free Iraqis, the debates rages on about who knew what when, and which motive mattered most.  <a href="https://nyti.ms/3JOwzOB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>At Camp Naru, Nobody Is ‘an Outlier’</h3>
-<sub>By Christopher Lee and Joshua Needelman</sub>
-<p>For most of the year, many of these Korean American kids feel like they stick out. But for one week of the summer, they find a sanctuary where everybody belongs.  <a href="https://nyti.ms/407r3fh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Americans Head to Europe for the Good Life on the Cheap</h3>
+<sub>By Ronda Kaysen</sub>
+<p>Home sales to Americans have increased significantly, giving them a chance to enjoy a lifestyle they could not afford in major U.S. cities, but the influx risks upsetting local residents.  <a href="https://nyti.ms/40bXsRV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Covid Politics Leave a Florida Public Hospital Shaken</h3>
 <sub>By Patricia Mazzei</sub>
 <p>Staff members of Sarasota Memorial Hospital are bewildered by critics who continue to wage a campaign against federal guidelines on Covid treatment.  <a href="https://nyti.ms/3JuXQnF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In South Carolina, Nikki Haley and Tim Scott Appeal to the Same Donors, and the Same Voters</h3>
-<sub>By Maya King</sub>
-<p>Nikki Haley and Senator Tim Scott, vying for Republican support for 2024 in their home state, attended a South Carolina conservative forum on Saturday.  <a href="https://nyti.ms/3Z3BnUC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Princeton Follows Up Its N.C.A.A. Surprise With a Stroll to the Round of 16</h3>
-<sub>By Scott Miller</sub>
-<p>For the first time since 1967, Princeton is moving on to the regional semifinal.  <a href="https://nyti.ms/3lppw5z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
