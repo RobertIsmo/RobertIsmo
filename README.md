@@ -58,10 +58,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, March 18, Central Standard Time</p>
+<p>It is Sunday, March 19, Central Standard Time</p>
 <p>
-There are a lot of things going on in the world right now. In the US, families from Sandy Hook are trying to hold Alex Jones accountable for lying about the tragedy and taking legal action against him. Voters in rural Oregon are pushing for their own state, and President Trump is suggesting that he may soon be facing an indictment. In Japan, strawberry farmers are using kerosene to keep their crops growing and fruiting out of season. Meanwhile, Iraq is finally a more open country after 20 years since the US invasion but is still hobbled by corruption and a lack of safety for its citizens. Some people are worried about banks as a whole due to their inherent complexities while Russia is continuing to take Ukrainian children even though it has been exposed as an international criminal. In sports news, Kansas, who were the reigning champions lost during the round of 16 while Princeton came out on top. Lastly, there&#39;s fascinating stories like an interview with actor Roy Kent and advice on high intensity interval training that you could check out as well.</p>
+Currently, there&#39;s a lot of tension between the Ukraine and Russia. Putin recently visited occupied Ukraine to send a defiant message, signaling that the Kremlin is trying to keep up business as usual despite an international court&#39;s arrest warrant for Putin. He may be taking more Ukrainian children which would be a crime in progress. Meanwhile in the US, Sandy Hook families are fighting Alex Jones and the bankruptcy system itself for more than $1.4 billion for Jones&#39; lies, and Trump is claiming his own arrest is imminent and calling for protests, echoing Jan. 6. In Japan kerosene is being used to artificially ripen strawberries. On a lighter note, there&#39;s an intriguing secret involving a Texas politician who sabotaged Carter&#39;s reelection campaign in 1980 and in Oregon there&#39;s talk of secession due to a rural-urban divide. Then - finally - unrelated to all of this, the men&#39;s NCAA basketball tournament is underway! Kansas, the reigning champion, was just knocked out, but the Princeton Tigers made it through to the round of 16 and are celebrating with St. Thomas Aquinas who helped teach them their turnaround style.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Defiant Putin Visits Mariupol, Second Stop in Tour of Occupied Ukraine</h3>
+<sub>By Andrés R. Martínez</sub>
+<p>The surprise trip signals the Kremlin is trying to keep up business as usual, two days after an international court issued an arrest warrant for the Russian president.  <a href="https://nyti.ms/3LvqkAB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Signals It Will Take More Ukrainian Children, a Crime in Progress</h3>
+<sub>By Marc Santora and Emma Bubola</sub>
+<p>The International Criminal Court’s arrest warrant for President Vladimir V. Putin highlights a practice that the Kremlin has not concealed and says will continue.  <a href="https://nyti.ms/3JkqcAY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Sandy Hook Families Are Fighting Alex Jones and the Bankruptcy System Itself</h3>
 <sub>By Elizabeth Williamson and Emily Steel</sub>
@@ -72,12 +84,6 @@ There are a lot of things going on in the world right now. In the US, families f
 <h3>A Four-Decade Secret: One Man’s Story of Sabotaging Carter’s Re-election</h3>
 <sub>By Peter Baker</sub>
 <p>A prominent Texas politician said he unwittingly took part in a 1980 tour of the Middle East with a clandestine agenda.  <a href="https://nyti.ms/3LzfWaR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Oregon’s Rural-Urban Divide Sparks Talk of Secession</h3>
-<sub>By Mike Baker and Hilary Swift</sub>
-<p>Conservatives have approved a series of ballot measures in pursuit of an improbable plan to redraw the state’s border. We spent time in the region under dispute to see what the debate says about the country’s divisions.  <a href="https://nyti.ms/42n4HrV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,10 +98,10 @@ There are a lot of things going on in the world right now. In the US, families f
 <p>The growing season has become completely reversed thanks to kerosene-burning greenhouses and the big prices paid for the earliest, best berries.  <a href="https://nyti.ms/3JNaRdI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>20 Years After U.S. Invasion, Iraq Is a Freer Place, but Not a Hopeful One</h3>
-<sub>By Alissa J. Rubin</sub>
-<p>Conversations with dozens of Iraqis offer a portrait of a nation that is rich in oil, hobbled by corruption and unable to guarantee its citizens’ safety.  <a href="https://nyti.ms/3FzxkZr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Oregon’s Rural-Urban Divide Sparks Talk of Secession</h3>
+<sub>By Mike Baker and Hilary Swift</sub>
+<p>Conservatives have approved a series of ballot measures in pursuit of an improbable plan to redraw the state’s border. We spent time in the region under dispute to see what the debate says about the country’s divisions.  <a href="https://nyti.ms/42n4HrV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,29 +116,23 @@ There are a lot of things going on in the world right now. In the US, families f
 <p>Watching the banking industry descend into turmoil is unnerving. But unless your financial goals have changed, embrace inaction.  <a href="https://nyti.ms/3JOsoSJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Signals It Will Take More Ukrainian Children, a Crime in Progress</h3>
-<sub>By Marc Santora and Emma Bubola</sub>
-<p>The International Criminal Court’s arrest warrant for President Vladimir V. Putin highlights a practice that the Kremlin has not concealed and says will continue.  <a href="https://nyti.ms/3JkqcAY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Dreams of Peace Wither, Nightmares Flourish in Ukraine’s Sleep</h3>
-<sub>By Maria Varenikova</sub>
-<p>A survey asked hundreds of wartime Ukrainians what they dreamed about. Many replied: the war.  <a href="https://nyti.ms/3lt8oM9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Kansas, the Reigning Champion, Is Out. But Princeton Made the Round of 16.</h3>
 <sub>By The New York Times</sub>
-<p>Kansas, playing without Coach Bill Self, lost to Arkansas in the second round, becoming the second No. 1 seed to be bounced in the men’s tournament in the past 24 hours. Princeton, a No. 15 seed, beat Missouri to head to the round of 16.  <a href="https://nyti.ms/3LA76tG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Kansas, playing without Coach Bill Self, lost to Arkansas in the second round, becoming the second No. 1 seed to be bounced in the men’s tournament. Princeton, a No. 15 seed, beat Missouri to head to the round of 16.  <a href="https://nyti.ms/3LA76tG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jaclyn Reiss</sub>
-<p>What to do in Taiwan’s capital. Also: An interview with the actor who plays Roy Kent, and high intensity interval training for beginners.  <a href="https://nyti.ms/3YVl2kX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Princeton Follows Up Its N.C.A.A. Surprise With a Stroll to the Round of 16</h3>
+<sub>By Scott Miller</sub>
+<p>For the first time since 1967, Princeton is moving on to the regional semifinal.  <a href="https://nyti.ms/3lppw5z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Blueprint for Fairleigh Dickinson’s Upset Came From an Even Smaller School</h3>
+<sub>By Noah Weiland</sub>
+<p>As the 16th-seeded Knights celebrated their improbable defeat of top-seeded Purdue, players and coaches reflected on how their style was developed at St. Thomas Aquinas, a nearby college in Division II.  <a href="https://nyti.ms/3JmBQeO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
