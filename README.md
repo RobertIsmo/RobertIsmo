@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 19, Central Standard Time</p>
 <p>
-Things seem pretty chaotic these days. In business news, it looks like UBS is close to buying Credit Suisse for about a billion dollars. In the US, there&#39;s an American crisis as homelessness overwhelms downtown Phoenix and Manhattan prosecutors are reportedly investigating a payout from President Trump that could lead to his indictment. Meanwhile, China is trying to be a peacemaker in the Ukraine war, but the US and Europe are skeptical of the motives behind it. On top of all that, Iraq is still dealing with the consequences of the US-led war 20 years later and Americans are heading to Europe for a more affordable lifestyle. In sports, Fairleigh Dickinson pulled off an upset over Purdue, thanks to tactics learned at a smaller basketball program nearby. Finally, Covid politics have left a Florida public hospital shaken by critics who still don&#39;t agree with federal guidelines.</p>
+There is a lot of important news to keep up with in the world right now. For example, in the US, there is a big debate over how politics has shaped how we think about the origin of Covid-19. In Europe, there has been an increase of Americans purchasing houses in order to enjoy a lifestyle they can&#39;t afford in major US cities. In Russia, Vladimir Putin recently took a visit to Mariupol, a city that was razed by Russian forces. This comes shortly after the International Court of Justice issued a warrant for his arrest for war crimes. There is also the 20th anniversary of the Iraq War and many are still left wondering why the US invaded in the first place.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lab Leak or Not? How Politics Shaped the Battle Over Covid’s Origin</h3>
+<sub>By Sheryl Gay Stolberg and Benjamin Mueller</sub>
+<p>A lab leak was once dismissed by many as a conspiracy theory. But the idea is gaining traction, even as evidence builds that the virus emerged from a market.  <a href="https://nyti.ms/400KVRt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Covid Politics Leave a Florida Public Hospital Shaken</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Staff members of Sarasota Memorial Hospital are bewildered by critics who continue to wage a campaign against federal guidelines on Covid treatment.  <a href="https://nyti.ms/3JuXQnF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Before Collapse of Silicon Valley Bank, the Fed Spotted Big Problems</h3>
 <sub>By Jeanna Smialek</sub>
@@ -69,9 +81,9 @@ Things seem pretty chaotic these days. In business news, it looks like UBS is cl
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>UBS Nears Deal to Buy Credit Suisse</h3>
+<h3>UBS Agrees to Buy Rival Credit Suisse</h3>
 <sub>By Andrew Ross Sorkin, Michael J. de la Merced and Maureen Farrell</sub>
-<p>The Swiss government is close to announcing a deal for UBS to buy Credit Suisse, its smaller rival, for about $1 billion.  <a href="https://nyti.ms/3lqk6HA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Swiss banking giant UBS will buy its smaller rival Credit Suisse, in a deal arranged by the Swiss government.  <a href="https://nyti.ms/3lqk6HA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,11 +98,23 @@ Things seem pretty chaotic these days. In business news, it looks like UBS is cl
 <p>Manhattan prosecutors investigating a payout to Stormy Daniels may be poised to make Donald J. Trump the first former president ever to be criminally indicted.  <a href="https://nyti.ms/3JAglYe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Grand Jury Could Hear From Critic of Prosecution’s Star Witness</h3>
+<sub>By Ben Protess, William K. Rashbaum, Jonah E. Bromwich and Maggie Haberman</sub>
+<p>The grand jury considering the hush-money case against Mr. Trump might hear the testimony of lawyer Robert J. Costello, a critic of the ex-president’s fixer.  <a href="https://nyti.ms/3ZQwmQx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Claims His Arrest Is Imminent and Calls for Protests, Echoing Jan. 6</h3>
-<sub>By Maggie Haberman, Jonah E. Bromwich, Ben Protess, Alan Feuer and William K. Rashbaum</sub>
-<p>His indictment by a Manhattan grand jury is expected, but its timing is unclear.  <a href="https://nyti.ms/3Z3h8pX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<h3>Here Are Some of the Charges That Could Arise From the Trump Investigations</h3>
+<sub>By Charlie Savage</sub>
+<p>Prosecutors in New York, Georgia and the Justice Department face complex choices about what crimes to charge if they decide to indict Donald Trump.  <a href="https://nyti.ms/3lk49Tj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Americans Head to Europe for the Good Life on the Cheap</h3>
+<sub>By Ronda Kaysen</sub>
+<p>Home sales to Americans have increased significantly, giving them a chance to enjoy a lifestyle they could not afford in major U.S. cities, but the influx risks upsetting local residents.  <a href="https://nyti.ms/40bXsRV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>China as Peacemaker in the Ukraine War? The U.S. and Europe Are Skeptical.</h3>
@@ -104,34 +128,10 @@ Things seem pretty chaotic these days. In business news, it looks like UBS is cl
 <p>The trip was the Russian leader’s first to territory his forces captured since the full-scale invasion of Ukraine, and came shortly after an international court issued a warrant for his arrest for war crimes.  <a href="https://nyti.ms/3LvTwXZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Americans Head to Europe for the Good Life on the Cheap</h3>
-<sub>By Ronda Kaysen</sub>
-<p>Home sales to Americans have increased significantly, giving them a chance to enjoy a lifestyle they could not afford in major U.S. cities, but the influx risks upsetting local residents.  <a href="https://nyti.ms/40bXsRV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In U.S.-Led Iraq War, Iran Was the Big Winner</h3>
-<sub>By Vivian Yee and Alissa J. Rubin</sub>
-<p>In the 20 years since the United States invaded Iraq, Iran has built up loyal militias inside Iraq, gained deep political influence in the country and reaped economic benefits. For Washington, these were unintended consequences.  <a href="https://nyti.ms/3JtSbyl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Photos: The Iraq War</h3>
-<sub>By The New York Times</sub>
-<p>   <a href="https://nyti.ms/3yOwoN2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Covid Politics Leave a Florida Public Hospital Shaken</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Staff members of Sarasota Memorial Hospital are bewildered by critics who continue to wage a campaign against federal guidelines on Covid treatment.  <a href="https://nyti.ms/3JuXQnF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Blueprint for Fairleigh Dickinson’s Upset Came From an Even Smaller School</h3>
-<sub>By Noah Weiland</sub>
-<p>As the 16th-seeded Knights celebrated their improbable defeat of top-seeded Purdue, players and coaches reflected on how their style was developed at St. Thomas Aquinas, a nearby college in Division II.  <a href="https://nyti.ms/3JmBQeO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>20 Years On, a Question Lingers About Iraq: Why Did the U.S. Invade?</h3>
+<sub>By Max Fisher</sub>
+<p>Two decades after the Bush administration said it wanted to disarm weapons of mass destruction and free Iraqis, the debates rage on about who knew what when, and which motive mattered most.  <a href="https://nyti.ms/3JOwzOB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
