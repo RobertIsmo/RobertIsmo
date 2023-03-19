@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 18, Central Standard Time</p>
 <p>
-Right now, the Sandy Hook families are taking on Alex Jones and the bankruptcy system after he was awarded millions of dollars and they are trying to collect on it. Jimmy Carter had a clandestine trip during his 1980 campaign and it may have cost him the election. In Oregon, there is a rural-urban divide and conservatives are taking action to redraw the state&#39;s borders. President Trump made claims that his arrest is imminent and called for protests which could be reminiscent to January 6th. Across the globe in Japan, farmers are using kerosene-powered greenhouses to grow wintry strawberries out of season. In Iraq, 20 years after being invaded by the US soldiers, safety cannot be guaranteed to citizens due to corruption. People are worried about banks because understanding how they operate can give some insight into potential financial trouble. In Russia, President Putin is facing a war-crimes warrant issued by the International Criminal Court for an illegal seizure in Ukraine. Ukrainians have been suffering for a long time but their stoic faces are starting to crack and their emotions are showing through. Finally, UConn&#39;s women&#39;s basketball program is no longer standing atop the college basketball world with so much talent spread out among teams now.</p>
+There are a lot of things going on in the world right now. In the US, families from Sandy Hook are trying to hold Alex Jones accountable for lying about the tragedy and taking legal action against him. Voters in rural Oregon are pushing for their own state, and President Trump is suggesting that he may soon be facing an indictment. In Japan, strawberry farmers are using kerosene to keep their crops growing and fruiting out of season. Meanwhile, Iraq is finally a more open country after 20 years since the US invasion but is still hobbled by corruption and a lack of safety for its citizens. Some people are worried about banks as a whole due to their inherent complexities while Russia is continuing to take Ukrainian children even though it has been exposed as an international criminal. In sports news, Kansas, who were the reigning champions lost during the round of 16 while Princeton came out on top. Lastly, there&#39;s fascinating stories like an interview with actor Roy Kent and advice on high intensity interval training that you could check out as well.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Sandy Hook Families Are Fighting Alex Jones and the Bankruptcy System Itself</h3>
@@ -69,9 +69,9 @@ Right now, the Sandy Hook families are taking on Alex Jones and the bankruptcy s
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Clandestine Trip and a Four-Decade Secret: An Untold Story Behind Jimmy Carter’s Defeat</h3>
+<h3>A Four-Decade Secret: One Man’s Story of Sabotaging Carter’s Re-election</h3>
 <sub>By Peter Baker</sub>
-<p>Nearly 43 years later, a prominent Texas politician said he was an unwitting part of a mission to sabotage President Carter’s campaign.  <a href="https://nyti.ms/3LzfWaR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A prominent Texas politician said he unwittingly took part in a 1980 tour of the Middle East with a clandestine agenda.  <a href="https://nyti.ms/3LzfWaR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,7 +87,7 @@ Right now, the Sandy Hook families are taking on Alex Jones and the bankruptcy s
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Secret Behind Japan’s Wintry Strawberries</h3>
+<h3>The Secret Behind Japan’s Delicious Strawberries: Kerosene</h3>
 <sub>By Hiroko Tabuchi</sub>
 <p>The growing season has become completely reversed thanks to kerosene-burning greenhouses and the big prices paid for the earliest, best berries.  <a href="https://nyti.ms/3JNaRdI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
@@ -104,6 +104,12 @@ Right now, the Sandy Hook families are taking on Alex Jones and the bankruptcy s
 <p>To understand why some banks seem to be in precarious financial positions, first start with how they fundamentally operate.  <a href="https://nyti.ms/42jHQO6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>A Question About Your Money: Has Anything Truly Changed This Week?</h3>
+<sub>By Ron Lieber</sub>
+<p>Watching the banking industry descend into turmoil is unnerving. But unless your financial goals have changed, embrace inaction.  <a href="https://nyti.ms/3JOsoSJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Signals It Will Take More Ukrainian Children, a Crime in Progress</h3>
 <sub>By Marc Santora and Emma Bubola</sub>
@@ -111,28 +117,22 @@ Right now, the Sandy Hook families are taking on Alex Jones and the bankruptcy s
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Stoic Ukraine, Stony Faces Are Starting to Crack and to Cry</h3>
-<sub>By Jeffrey Gettleman</sub>
-<p>Although Ukrainians excel at putting up a brave front, a tremendous amount of suffering is being kept bottled up and sometimes bursts out.  <a href="https://nyti.ms/3LsEEK6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Visits Occupied Crimea, a Day After War-Crimes Warrant</h3>
-<sub>By Shashank Bengali and Victoria Kim</sub>
-<p>President Vladimir V. Putin of Russia marked the anniversary of his illegal seizure of the Ukrainian peninsula, signaling defiance to the world and business as usual to his own people.  <a href="https://nyti.ms/3lmjvqe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Is the UConn Dynasty a Thing of the Past?</h3>
-<sub>By Remy Tumin</sub>
-<p>As the wealth of talent deepens across the N.C.A.A., UConn no longer stands alone atop women’s basketball.  <a href="https://nyti.ms/3YXK6aK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Dreams of Peace Wither, Nightmares Flourish in Ukraine’s Sleep</h3>
+<sub>By Maria Varenikova</sub>
+<p>A survey asked hundreds of wartime Ukrainians what they dreamed about. Many replied: the war.  <a href="https://nyti.ms/3lt8oM9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Cinderella Run Ends for No. 13 Seed Furman</h3>
+<h3>Kansas, the Reigning Champion, Is Out. But Princeton Made the Round of 16.</h3>
 <sub>By The New York Times</sub>
-<p>Fifth-seeded San Diego State puts the clamps on the Paladins, while Indiana is the fourth No. 1 seed to advance easily in the women’s tournament.  <a href="https://nyti.ms/3LA76tG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Kansas, playing without Coach Bill Self, lost to Arkansas in the second round, becoming the second No. 1 seed to be bounced in the men’s tournament in the past 24 hours. Princeton, a No. 15 seed, beat Missouri to head to the round of 16.  <a href="https://nyti.ms/3LA76tG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jaclyn Reiss</sub>
+<p>What to do in Taiwan’s capital. Also: An interview with the actor who plays Roy Kent, and high intensity interval training for beginners.  <a href="https://nyti.ms/3YVl2kX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
