@@ -60,73 +60,73 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 19, Central Standard Time</p>
 <p>
-There has been a lot of unrest around the world recently. In Russia, President Putin has made a surprise visit to Ukraine in defiance of an international court and continues to take Ukrainian children, which is considered to be a serious crime. In the US, families of victims of the Sandy Hook shooting are fighting Alex Jones and the bankruptcy system itself due to him transferring millions of dollars away from creditors. A former Texas politician revealed a four-decade secret involving sabotaging former US President Carter&#39;s re-election, and President Trump is claiming his arrest is imminent and calling for protests, like those on January 6. Japan is using kerosene to successfully grow strawberries and Oregon is having a rural-urban divide that has sparked talks of secession. People are also worried about banks, as it can be difficult to understand how they operate and what options people have with their money during this time of turmoil. In the UK, Prime Minister Rishi Sunak has taken a different approach on foreign policy than his predecessor Boris Johnson by dropping bombastic policies, signaling the country&#39;s changing global status. On a lighter note, NCAA Basketball has seen some unexpected outcomes with Kansas being ousted while Princeton made it all the way to the round of 16! With another win over Missouri, Princeton advanced even further to the regional semifinals - a feat not achieved since 1967.</p>
+Right now, there&#39;s a lot going on in the world! In Ukraine, Russian forces have already captured some of the territory there, and the Russian leader, Vladimir Putin, visited Mariupol despite an international court warrant issued for his arrest. Meanwhile in Iraq, US forces invaded 20 years ago and it&#39;s been difficult to gauge their impact since then. China is trying to position itself as a peacemaker in the Ukraine War but the US and Europe are skeptical of their motives. Closer to home in the US, homelessness is becoming more and more of a crisis and even sandwich shops are feeling the effects. On top of all this, we just found out that former President Donald Trump may be indicted due to possible payments made to adult film star Stormy Daniels. Thankfully however, Princeton University just advanced to the Round of 16 in the N.C.A.A. basketball tournament and that&#39;s something to celebrate!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Defiant Putin Visits Mariupol, Second Stop in Tour of Occupied Ukraine</h3>
-<sub>By Andrés R. Martínez and Ivan Nechepurenko</sub>
-<p>The surprise trip signals the Kremlin is trying to keep up business as usual, two days after an international court issued an arrest warrant for the Russian president.  <a href="https://nyti.ms/3LvTwXZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Signals It Will Take More Ukrainian Children, a Crime in Progress</h3>
-<sub>By Marc Santora and Emma Bubola</sub>
-<p>The International Criminal Court’s arrest warrant for President Vladimir V. Putin highlights a practice that the Kremlin has not concealed and says will continue.  <a href="https://nyti.ms/3JkqcAY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Defiant Putin Visits Mariupol, a City Razed by Russian Forces</h3>
+<sub>By Matthew Mpoke Bigg and Ivan Nechepurenko</sub>
+<p>The highly symbolic trip was the Russian leader’s first to territory his forces captured since the full-scale invasion of Ukraine and came days after an international court issued a warrant for his arrest.  <a href="https://nyti.ms/3LvTwXZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Sandy Hook Families Are Fighting Alex Jones and the Bankruptcy System Itself</h3>
-<sub>By Elizabeth Williamson and Emily Steel</sub>
-<p>As the families seek more than $1.4 billion awarded by courts for Mr. Jones’s lies, a New York Times review shows he is transferring millions of dollars to family and friends, potentially out of reach of creditors.  <a href="https://nyti.ms/3TpxoQW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Four-Decade Secret: One Man’s Story of Sabotaging Carter’s Re-election</h3>
-<sub>By Peter Baker</sub>
-<p>A prominent Texas politician said he unwittingly took part in a 1980 tour of the Middle East with a clandestine agenda.  <a href="https://nyti.ms/3LzfWaR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Claims His Arrest Is Imminent and Calls for Protests, Echoing Jan. 6</h3>
-<sub>By Maggie Haberman, Jonah E. Bromwich, Ben Protess, Alan Feuer and William K. Rashbaum</sub>
-<p>His indictment by a Manhattan grand jury is expected, but its timing is unclear.  <a href="https://nyti.ms/3Z3h8pX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Secret Behind Japan’s Delicious Strawberries: Kerosene</h3>
-<sub>By Hiroko Tabuchi</sub>
-<p>The growing season has become completely reversed thanks to kerosene-burning greenhouses and the big prices paid for the earliest, best berries.  <a href="https://nyti.ms/3JNaRdI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Oregon’s Rural-Urban Divide Sparks Talk of Secession</h3>
-<sub>By Mike Baker and Hilary Swift</sub>
-<p>Conservatives have approved a series of ballot measures in pursuit of an improbable plan to redraw the state’s border. We spent time in the region under dispute to see what the debate says about the country’s divisions.  <a href="https://nyti.ms/42n4HrV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why People Are Worried About Banks</h3>
-<sub>By Christine Zhang, David Enrich, Karl Russell and Ella Koeze</sub>
-<p>To understand why some banks seem to be in precarious financial positions, first start with how they fundamentally operate.  <a href="https://nyti.ms/42jHQO6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>A Question About Your Money: Has Anything Truly Changed This Week?</h3>
-<sub>By Ron Lieber</sub>
-<p>Watching the banking industry descend into turmoil is unnerving. But unless your financial goals have changed, embrace inaction.  <a href="https://nyti.ms/3JOsoSJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Sunak’s Pivot Away From ‘Global Britain’ Makes Friends on World Stage</h3>
-<sub>By Mark Landler</sub>
-<p>Prime Minister Rishi Sunak has dropped Boris Johnson’s bombastic approach to foreign policy, echoing the new British leader’s personal style and reflecting the country’s changed global status.  <a href="https://nyti.ms/3n4S0lF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China as Peacemaker in the Ukraine War? The U.S. and Europe Are Skeptical.</h3>
+<sub>By Edward Wong and Steven Erlanger</sub>
+<p>Chinese officials say Xi Jinping’s upcoming trip to Moscow is a peace mission. But U.S. and European officials say he aims to bolster Vladimir V. Putin.  <a href="https://nyti.ms/3YTVtAx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Kansas, the Reigning Champion, Is Out. But Princeton Made the Round of 16.</h3>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Inch by Bloody Inch in Ukraine War, Russia Is Closing In on Bakhmut</h3>
+<sub>By Carlotta Gall</sub>
+<p>Sending unarmed “diggers” into the front lines and near certain death, Russian troops are making slow but inexorable progress.  <a href="https://nyti.ms/3JqnERX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Sandwich Shop, a Tent City and an American Crisis</h3>
+<sub>By Eli Saslow and Todd Heisler</sub>
+<p>As homelessness overwhelms downtown Phoenix, a small business wonders how long it can hang on.  <a href="https://nyti.ms/3JsCjft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Inside the Payoff to a Porn Star That Could Lead to Trump’s Indictment</h3>
+<sub>By Michael Rothfeld</sub>
+<p>Manhattan prosecutors investigating a payout to Stormy Daniels may be poised to make Donald J. Trump the first former president ever to be criminally indicted.  <a href="https://nyti.ms/3JAglYe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In U.S.-Led Iraq War, Iran Was the Big Winner</h3>
+<sub>By Vivian Yee and Alissa J. Rubin</sub>
+<p>In the 20 years since the United States invaded Iraq, Iran has built up loyal militias inside Iraq, gained deep political influence in the country and reaped economic benefits. For Washington, these were unintended consequences.  <a href="https://nyti.ms/3JtSbyl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Photos: The Iraq War</h3>
 <sub>By The New York Times</sub>
-<p>Kansas, playing without Coach Bill Self, lost to Arkansas in the second round, becoming the second No. 1 seed to be bounced in the men’s tournament. Princeton, a No. 15 seed, beat Missouri to head to the round of 16.  <a href="https://nyti.ms/3LA76tG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 17, Central Standard Time</sub></sub>
+<p>  <a href="https://nyti.ms/3yOwoN2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>20 Years On, a Question Lingers About Iraq: Why Did the U.S. Invade?</h3>
+<sub>By Max Fisher</sub>
+<p>Two decades after the Bush administration said it wanted to disarm weapons of mass destruction and free Iraqis, the debates rages on about who knew what when, and which motive mattered most.  <a href="https://nyti.ms/3JOwzOB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>At Camp Naru, Nobody Is ‘an Outlier’</h3>
+<sub>By Christopher Lee and Joshua Needelman</sub>
+<p>For most of the year, many of these Korean American kids feel like they stick out. But for one week of the summer, they find a sanctuary where everybody belongs.  <a href="https://nyti.ms/407r3fh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Covid Politics Leave a Florida Public Hospital Shaken</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Staff members of Sarasota Memorial Hospital are bewildered by critics who continue to wage a campaign against federal guidelines on Covid treatment.  <a href="https://nyti.ms/3JuXQnF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In South Carolina, Nikki Haley and Tim Scott Appeal to the Same Donors, and the Same Voters</h3>
+<sub>By Maya King</sub>
+<p>Nikki Haley and Senator Tim Scott, vying for Republican support for 2024 in their home state, attended a South Carolina conservative forum on Saturday.  <a href="https://nyti.ms/3Z3BnUC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Princeton Follows Up Its N.C.A.A. Surprise With a Stroll to the Round of 16</h3>
