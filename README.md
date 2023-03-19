@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 19, Central Standard Time</p>
 <p>
-Currently, there&#39;s a lot of tension between the Ukraine and Russia. Putin recently visited occupied Ukraine to send a defiant message, signaling that the Kremlin is trying to keep up business as usual despite an international court&#39;s arrest warrant for Putin. He may be taking more Ukrainian children which would be a crime in progress. Meanwhile in the US, Sandy Hook families are fighting Alex Jones and the bankruptcy system itself for more than $1.4 billion for Jones&#39; lies, and Trump is claiming his own arrest is imminent and calling for protests, echoing Jan. 6. In Japan kerosene is being used to artificially ripen strawberries. On a lighter note, there&#39;s an intriguing secret involving a Texas politician who sabotaged Carter&#39;s reelection campaign in 1980 and in Oregon there&#39;s talk of secession due to a rural-urban divide. Then - finally - unrelated to all of this, the men&#39;s NCAA basketball tournament is underway! Kansas, the reigning champion, was just knocked out, but the Princeton Tigers made it through to the round of 16 and are celebrating with St. Thomas Aquinas who helped teach them their turnaround style.</p>
+There has been a lot of unrest around the world recently. In Russia, President Putin has made a surprise visit to Ukraine in defiance of an international court and continues to take Ukrainian children, which is considered to be a serious crime. In the US, families of victims of the Sandy Hook shooting are fighting Alex Jones and the bankruptcy system itself due to him transferring millions of dollars away from creditors. A former Texas politician revealed a four-decade secret involving sabotaging former US President Carter&#39;s re-election, and President Trump is claiming his arrest is imminent and calling for protests, like those on January 6. Japan is using kerosene to successfully grow strawberries and Oregon is having a rural-urban divide that has sparked talks of secession. People are also worried about banks, as it can be difficult to understand how they operate and what options people have with their money during this time of turmoil. In the UK, Prime Minister Rishi Sunak has taken a different approach on foreign policy than his predecessor Boris Johnson by dropping bombastic policies, signaling the country&#39;s changing global status. On a lighter note, NCAA Basketball has seen some unexpected outcomes with Kansas being ousted while Princeton made it all the way to the round of 16! With another win over Missouri, Princeton advanced even further to the regional semifinals - a feat not achieved since 1967.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Defiant Putin Visits Mariupol, Second Stop in Tour of Occupied Ukraine</h3>
-<sub>By Andrés R. Martínez</sub>
-<p>The surprise trip signals the Kremlin is trying to keep up business as usual, two days after an international court issued an arrest warrant for the Russian president.  <a href="https://nyti.ms/3LvqkAB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Andrés R. Martínez and Ivan Nechepurenko</sub>
+<p>The surprise trip signals the Kremlin is trying to keep up business as usual, two days after an international court issued an arrest warrant for the Russian president.  <a href="https://nyti.ms/3LvTwXZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,6 +116,12 @@ Currently, there&#39;s a lot of tension between the Ukraine and Russia. Putin re
 <p>Watching the banking industry descend into turmoil is unnerving. But unless your financial goals have changed, embrace inaction.  <a href="https://nyti.ms/3JOsoSJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Sunak’s Pivot Away From ‘Global Britain’ Makes Friends on World Stage</h3>
+<sub>By Mark Landler</sub>
+<p>Prime Minister Rishi Sunak has dropped Boris Johnson’s bombastic approach to foreign policy, echoing the new British leader’s personal style and reflecting the country’s changed global status.  <a href="https://nyti.ms/3n4S0lF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Kansas, the Reigning Champion, Is Out. But Princeton Made the Round of 16.</h3>
 <sub>By The New York Times</sub>
@@ -126,12 +132,6 @@ Currently, there&#39;s a lot of tension between the Ukraine and Russia. Putin re
 <h3>Princeton Follows Up Its N.C.A.A. Surprise With a Stroll to the Round of 16</h3>
 <sub>By Scott Miller</sub>
 <p>For the first time since 1967, Princeton is moving on to the regional semifinal.  <a href="https://nyti.ms/3lppw5z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Blueprint for Fairleigh Dickinson’s Upset Came From an Even Smaller School</h3>
-<sub>By Noah Weiland</sub>
-<p>As the 16th-seeded Knights celebrated their improbable defeat of top-seeded Purdue, players and coaches reflected on how their style was developed at St. Thomas Aquinas, a nearby college in Division II.  <a href="https://nyti.ms/3JmBQeO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
