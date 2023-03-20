@@ -60,26 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 20, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. China and Russia are strengthening their ties, as Ukraine is running low on artillery shells and the European Union has stepped up to provide more supplies. In the US, former President Donald Trump is still trying to exert his power, while politicians surrounding him have been picking sides. The U.N Climate Panel warned that earth will reach a critical warming threshold by the early 2030s - if global cooperation and big changes don&#39;t happen. The Midwest is scrambling over politics as some pipeline projects would bury carbon underground instead of releasing it in the air. In regards to business, fate of a major bank remains uncertain as shares keep plummeting and investors worry about its effects on the rest of the banking sector. Lastly, Amazon has announced plans to lay off 9,000 employees which follows an earlier round of layoffs that impacted over 18,000 jobs.</p>
+Hey, I wanted to tell you what&#39;s going on in the world right now. In the US, the governor of Florida is speaking out against a potential indictment against his likely presidential rival in 2024. Donald Trump is asking his supporters to protest his looming indictment, and Republicans are split on whether or not they should. Internationally, a UN report says that we could hit a critical global warming threshold within the next decade if we don&#39;t take immediate action. Here in the US, many states are scrambling over a pipeline project that would bury carbon underground and some people argue that it threatens property rights. Other reports say that climate change could potentially upend federal spending programs. In business news, there&#39;s uncertainty around one bank after its stocks plummeted and another is being operated by two New Yorkers. There&#39;s also a really interesting article about a package trip for millennials meant to create friendships - but it sounds kind of exhausting! In sports, there&#39;s an 88-year-old who is a secret weapon for one team, Rick Pitino is making a comeback as the coach of St John&#39;s after being ousted from Louisville, and some big matchups to look out for in March Madness. What do you think?</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why China and Russia Are Closer Than Ever</h3>
-<sub>By Nicole Hong</sub>
-<p>This week’s meeting between the leaders of China and Russia marks another key moment in the deepening relationship between the two powers.  <a href="https://nyti.ms/3LEJUdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>European officials agree to supply more artillery shells to Ukraine.</h3>
-<sub>By Steven Erlanger</sub>
-<p>Ukraine is using up artillery shells faster than the West can produce them.  <a href="https://nyti.ms/3TBU7JN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Out of Power, Trump Still Exerts It</h3>
-<sub>By Maggie Haberman</sub>
-<p>An early-morning social media post amounted to a starter’s gun for Republican officials: Many raced to the former president’s side, denouncing a Democratic prosecutor investigating him.  <a href="https://nyti.ms/3yOld6U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis, Breaking Silence on Trump, Criticizes Manhattan Prosecutor</h3>
 <sub>By Maggie Haberman and Jonathan Swan</sub>
@@ -87,15 +69,9 @@ There&#39;s a lot going on in the world right now. China and Russia are strength
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House G.O.P., Defending Trump, Targets Bragg Ahead of Expected Indictment</h3>
-<sub>By Annie Karni and Luke Broadwater</sub>
-<p>Three Republican committee chairmen sought to use their investigative power to involve themselves in the Manhattan district attorney’s criminal inquiry into the former president. Another endorsed his presidential bid.  <a href="https://nyti.ms/3LCpDW1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Georgia Lawyers Seek to Quash Special Grand Jury Report</h3>
-<sub>By Richard Fausset</sub>
-<p>In a motion filed on Monday, the lawyers ask that the Fulton County district attorney’s office be recused from the criminal investigation into election interference in the state in 2020.  <a href="https://nyti.ms/3lrNAVr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump’s Call for Protests of Pending Arrest Splits G.O.P.</h3>
+<sub>By Shane Goldmacher and Alan Feuer</sub>
+<p>After Donald Trump urged supporters to protest his looming indictment, some Republicans have heeded the call, while many others have publicly lobbied against it.  <a href="https://nyti.ms/40cNHD4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -110,10 +86,10 @@ There&#39;s a lot going on in the world right now. China and Russia are strength
 <p>Plans that would bury carbon underground rather than release it in the air have stoked debate over climate and property rights, creating unlikely alliances and stirring memories of fierce battles over oil.  <a href="https://nyti.ms/3TvFyr7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Clear Message From Science</h3>
-<sub>By Somini Sengupta</sub>
-<p>An international panel offers a warning about the dangers of fossil fuels, and also a blueprint to change course.  <a href="https://nyti.ms/3YZZOSW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Warns That Climate Change Could Upend Federal Spending Programs</h3>
+<sub>By Jim Tankersley and Christopher Flavelle</sub>
+<p>A chapter in the new Economic Report of the President focuses on the growing risks to people and businesses from rising temperatures, and the government’s role in adapting to them.  <a href="https://nyti.ms/40nSEJ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -123,16 +99,40 @@ There&#39;s a lot going on in the world right now. China and Russia are strength
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Banks Remain in Focus as Investors Eye Fallout From Rescue Deals</h3>
-<sub>By Joe Rennison</sub>
-<p>Markets wobbled as fears about the health of some banks, particularly First Republic, continued to cast a shadow over parts of the financial sector.  <a href="https://nyti.ms/3JTo2Kr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Who’s Behind the Judicial Overhaul Now Dividing Israel? Two New Yorkers.</h3>
+<sub>By David Segal and Isabel Kershner</sub>
+<p>Kohelet, the once-obscure think tank that conceived and now champions a revamped court system, is an American import.  <a href="https://nyti.ms/3Lylse1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Amazon Plans to Lay Off Another 9,000 Employees</h3>
-<sub>By Karen Weise</sub>
-<p>The cuts follow a round of layoffs announced several months ago that affected more than 18,000 jobs.  <a href="https://nyti.ms/3Z6Tf0J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>For Years She Said a Coach Abused Her. Now She Has Named a Legend.</h3>
+<sub>By Juliet Macur</sub>
+<p>Jennifer Fox has long discussed what happened when she was 13 and her coach was 40. She even based a film on it. Now she has revealed the final detail: his identity.  <a href="https://nyti.ms/3z9tAKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>I Went on a Package Trip for Lonely Millennials. It Was Exhausting.</h3>
+<sub>By Caity Weaver</sub>
+<p>On traveling to Morocco with a group-travel company that promised to build “meaningful friendships” among its youngish clientele.  <a href="https://nyti.ms/3yOL9PE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Hoosiers’ Secret Weapon? He’s an 88-Year-Old They Call Pops.</h3>
+<sub>By Talya Minsberg</sub>
+<p>Dick Moren, the father of Teri Moren, the Indiana women’s basketball coach, is the team’s No. 1 fan. He has a stringent game-day routine.  <a href="https://nyti.ms/3loqcrZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Rick Pitino Hired by St. John’s After Time at Iona</h3>
+<sub>By Adam Zagoria</sub>
+<p>Pitino reached the N.C.A.A. men’s tournament with Iona this season. He will take over at St. John’s after being ousted from Louisville in 2017.  <a href="https://nyti.ms/40niT2m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Monday’s Matchups to Watch in the N.C.A.A. Tournament</h3>
+<sub>By Shivani Gonzalez</sub>
+<p>Florida Gulf Coast, a No. 12 seed, takes on the leading scorer in Division I, Maddy Siegrist of Villanova, while UConn and Baylor face off in an intriguing rematch.  <a href="https://nyti.ms/3JTzxBA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
