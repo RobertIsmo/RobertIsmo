@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 20, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, former President Trump&#39;s allies are trying to pressure Florida&#39;s Governor DeSantis ahead of a likely indictment and New York authorities are preparing for an unprecedented arrest of an ex-president. Meanwhile, China and Russia are getting closer than ever, with Chinese officials saying President Xi Jinping’s upcoming trip to Moscow is a peace mission, while U.S. and European officials are skeptical. On the global front, banks around the world are under pressure following a rescue deal arranged by Swiss regulators, while the Federal Reserve meets to discuss whether and by how much to raise interest rates this week. Outside of North America, Iraq is reflecting on 20 years since the US-led invasion, and Mexican workers are being poisoned by lead from old car batteries discarded mostly in the US. Finally, supporters of Jennifer Fox have learned more details about her rape allegations against sports legend—it&#39;s shocking but unfortunately very common.</p>
+It looks like it&#39;s been a pretty busy week in the news! On the world front, China and Russia are strengthening their relationship following a high-profile meeting between their leaders. Over in Europe, officials have agreed to increase the supply of artillery shells to Ukraine. Closer to home, former US president Donald Trump is facing potential criminal charges and his lawyers are trying to block the investigation into election interference in 2020. We&#39;re also having worrying climate news with a new UN report predicting that early 2030s marks a critical threshold for global warming. To tackle this, a new pipeline project is being discussed across the Midwest which raises both climate and property rights concerns. The worst part is that people are still unsure about what actions to take and how to fix things. On a lighter note, an athlete is finally speaking out about the sexual abuse she experienced from her coach several years ago and Iraq recently marked its 20th anniversary of US-led invasion – with terrible consequences for America.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>China as Peacemaker in the Ukraine War? The U.S. and Europe Are Skeptical.</h3>
-<sub>By Edward Wong and Steven Erlanger</sub>
-<p>Chinese officials say Xi Jinping’s upcoming trip to Moscow is a peace mission. But U.S. and European officials say he aims to bolster Vladimir V. Putin.  <a href="https://nyti.ms/3YTVtAx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Why China and Russia Are Closer Than Ever</h3>
 <sub>By Nicole Hong</sub>
 <p>This week’s meeting between the leaders of China and Russia marks another key moment in the deepening relationship between the two powers.  <a href="https://nyti.ms/3LEJUdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>European officials agree to supply more artillery shells to Ukraine.</h3>
+<sub>By Steven Erlanger</sub>
+<p>  <a href="https://nyti.ms/3Z94eHm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,10 +81,10 @@ There is a lot going on in the world right now. In the US, former President Trum
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Allies Pressure DeSantis to Weigh In on Expected Indictment</h3>
-<sub>By Jonathan Swan and Maggie Haberman</sub>
-<p>The effort previews how an indictment would jolt the still-nascent race for the Republican presidential nomination — and perhaps already has.  <a href="https://nyti.ms/3Z2B8ct"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<h3>Trump’s Georgia Lawyers Seek to Quash Special Grand Jury Report</h3>
+<sub>By Richard Fausset</sub>
+<p>In a motion filed on Monday, the lawyers ask that the Fulton County district attorney’s office be recused from the criminal investigation into election interference in the state in 2020.  <a href="https://nyti.ms/3lrNAVr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>N.Y. Authorities Prepare for Unprecedented Arrest of an Ex-President</h3>
@@ -92,28 +92,34 @@ There is a lot going on in the world right now. In the US, former President Trum
 <p>Ahead of a likely indictment, law enforcement officials are making security plans as some of Donald J. Trump’s supporters signal that they intend to protest.  <a href="https://nyti.ms/40oBWcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Global Banks Under Pressure as Investors Eye Fallout From Credit Suisse Rescue</h3>
-<sub>By Joe Rennison</sub>
-<p>Markets wobbled the morning after UBS said it would take over Credit Suisse in a deal arranged by Swiss regulators. In the United States, First Republic Bank remained under stress.  <a href="https://nyti.ms/3JTo2Kr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Meets as Bank Chaos Collides With Inflation</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve will decide whether and by how much to raise interest rates this week at a moment when its path ahead is newly fraught.  <a href="https://nyti.ms/3lpCsIy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Earth to Hit Critical Warming Threshold by Early 2030s, Climate Panel Says</h3>
+<sub>By Brad Plumer</sub>
+<p>A new U.N. report says it is still possible to hold global warming to relatively safe levels, but doing so will require global cooperation, billions of dollars and big changes.  <a href="https://nyti.ms/3nawTOA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Iraq, 20 Years Later: A Changed Washington and a Terrible Toll on America</h3>
-<sub>By Robert Draper</sub>
-<p>The White House, Congress, the military and the intelligence agencies see the war as a lesson in failed policymaking, one deeply absorbed if not thoroughly learned.  <a href="https://nyti.ms/3FCiAce"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Different Kind of Pipeline Project Scrambles Midwest Politics</h3>
+<sub>By Mitch Smith and Alyssa Schukar</sub>
+<p>Plans that would bury carbon underground rather than release it in the air have stoked debate over climate and property rights, creating unlikely alliances and stirring memories of fierce battles over oil.  <a href="https://nyti.ms/3TvFyr7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Children of the Iraq War Have Grown Up, but Some Wounds Don’t Heal</h3>
-<sub>By Joao Silva and Alissa J. Rubin</sub>
-<p>Twenty years after the U.S. invaded Iraq, a veteran Times correspondent and photographer asked Iraqis about growing up in wartime, and about their hopes now.  <a href="https://nyti.ms/405xKij"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Have Climate Questions? Get Answers Here.</h3>
+<sub>By The New York Times Climate Desk</sub>
+<p>What’s causing global warming? How can we fix it? This interactive F.A.Q. will tackle your climate questions big and small.  <a href="https://nyti.ms/3DKau01"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fate of First Republic Uncertain as Shares Continue to Slide</h3>
+<sub>By Rob Copeland and Maureen Farrell</sub>
+<p>A $30 billion cash infusion and a frantic effort to sell a stake in the bank to raise additional funds has done little to calm investors and depositors.  <a href="https://nyti.ms/401i4wm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Banks Remain in Focus as Investors Eye Fallout From Rescue Deals</h3>
+<sub>By Joe Rennison</sub>
+<p>Markets wobbled as fears about the health of some banks, particularly First Republic, continued to cast a shadow over parts of the financial sector.  <a href="https://nyti.ms/3JTo2Kr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -123,15 +129,9 @@ There is a lot going on in the world right now. In the US, former President Trum
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lab Leak or Not? How Politics Shaped the Battle Over Covid’s Origin</h3>
-<sub>By Sheryl Gay Stolberg and Benjamin Mueller</sub>
-<p>A lab leak was once dismissed by many as a conspiracy theory. But the idea is gaining traction, even as evidence builds that the virus emerged from a market.  <a href="https://nyti.ms/400KVRt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Americans’ Old Car Batteries Are Making Mexican Workers Sick</h3>
-<sub>By Steve Fisher and Alejandro Cegarra</sub>
-<p>The removal of lead from car batteries, many from the United States, at recycling plants in northern Mexico has led to high levels of lead contamination, a new report found.  <a href="https://nyti.ms/401mMu7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Iraq, 20 Years Later: A Changed Washington and a Terrible Toll on America</h3>
+<sub>By Robert Draper</sub>
+<p>The White House, Congress, the military and the intelligence agencies see the war as a lesson in failed policymaking, one deeply absorbed if not thoroughly learned.  <a href="https://nyti.ms/3FCiAce"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
