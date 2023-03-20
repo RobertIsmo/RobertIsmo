@@ -60,65 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 20, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of political tension both in the United States and around the world. In the US, there are a lot of divisive opinions about whether the coronavirus originated from a lab leak and what type of treatments should be used to fight it at Florida&#39;s public hospital. At the same time, China&#39;s president Xi is making a trip to Russia for what could be considered a peace mission. But on Africa’s continent, tensions seem to be rising between the US and Russia as each side takes increasingly aggressive action to assert its influence in the region. 
-
-On top of that, there’s some disturbance in the banking world as American and global central banks are trying to stabilize markets in the middle of financial troubles at Silicon Valley Bank as well as UBS’s takeover of Credit Suisse. Meanwhile, in Phoenix, we&#39;re seeing an entire tent city set up as homelessness becomes an urgent problem. 
-
-And lastly, Donald Trump is under investigation for various criminal offenses, including possible payoffs to women such as Stormy Daniels. There are many speculations about whether he is going to get indicted or not — but all I can tell you from my side is that he’s certainly getting a lot of pressure from his allies over this issue.</p>
+There is a lot going on in the world right now. In the US, former President Trump&#39;s allies are trying to pressure Florida&#39;s Governor DeSantis ahead of a likely indictment and New York authorities are preparing for an unprecedented arrest of an ex-president. Meanwhile, China and Russia are getting closer than ever, with Chinese officials saying President Xi Jinping’s upcoming trip to Moscow is a peace mission, while U.S. and European officials are skeptical. On the global front, banks around the world are under pressure following a rescue deal arranged by Swiss regulators, while the Federal Reserve meets to discuss whether and by how much to raise interest rates this week. Outside of North America, Iraq is reflecting on 20 years since the US-led invasion, and Mexican workers are being poisoned by lead from old car batteries discarded mostly in the US. Finally, supporters of Jennifer Fox have learned more details about her rape allegations against sports legend—it&#39;s shocking but unfortunately very common.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lab Leak or Not? How Politics Shaped the Battle Over Covid’s Origin</h3>
-<sub>By Sheryl Gay Stolberg and Benjamin Mueller</sub>
-<p>A lab leak was once dismissed by many as a conspiracy theory. But the idea is gaining traction, even as evidence builds that the virus emerged from a market.  <a href="https://nyti.ms/400KVRt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Covid Politics Leave a Florida Public Hospital Shaken</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Staff members of Sarasota Memorial Hospital are bewildered by critics who continue to wage a campaign against federal guidelines on Covid treatment.  <a href="https://nyti.ms/3JuXQnF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China as Peacemaker in the Ukraine War? The U.S. and Europe Are Skeptical.</h3>
+<sub>By Edward Wong and Steven Erlanger</sub>
+<p>Chinese officials say Xi Jinping’s upcoming trip to Moscow is a peace mission. But U.S. and European officials say he aims to bolster Vladimir V. Putin.  <a href="https://nyti.ms/3YTVtAx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Xi Heads to Russia, Praising Putin and Saying Little About Ukraine</h3>
-<sub>By Chris Buckley and Anton Troianovski</sub>
-<p>China is calling Xi Jinping’s visit a “trip for peace,” but he is unlikely to risk straining the country’s ties with Russia and President Vladimir V. Putin.  <a href="https://nyti.ms/3FAkn1i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A ‘New Cold War’ Looms in Africa as U.S. Pushes Against Russian Gains</h3>
-<sub>By Declan Walsh</sub>
-<p>The U.S. is reprising its playbook in Ukraine, where it has used classified information to expose plans by Russia. Next target: Chad.  <a href="https://nyti.ms/3JuY2TY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Before Collapse of Silicon Valley Bank, the Fed Spotted Big Problems</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The bank was using an incorrect model as it assessed its own risks amid rising interest rates, and spent much of 2022 under a supervisory review.  <a href="https://nyti.ms/3LAagO0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>UBS Agrees to Buy Rival Credit Suisse</h3>
-<sub>By Michael J. de la Merced, Maureen Farrell and Andrew Ross Sorkin</sub>
-<p>In a deal brokered by the Swiss government, Switzerland’s largest bank will buy its smaller rival for about $3.2 billion.  <a href="https://nyti.ms/3lqk6HA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Investors Greet Emergency Credit Suisse Deal Warily</h3>
-<sub>By Joe Rennison</sub>
-<p>Swiss regulators announced that UBS, Switzerland’s largest bank, would take over the troubled Credit Suisse.  <a href="https://nyti.ms/3JTo2Kr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Why China and Russia Are Closer Than Ever</h3>
+<sub>By Nicole Hong</sub>
+<p>This week’s meeting between the leaders of China and Russia marks another key moment in the deepening relationship between the two powers.  <a href="https://nyti.ms/3LEJUdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Federal Reserve and Global Central Banks Act to Shore Up Dollar Access</h3>
-<sub>By Jeanna Smialek</sub>
-<p>America’s central bank and its counterparts around the world are rushing to cushion markets against the impact of bank problems.  <a href="https://nyti.ms/3lytHMi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Sandwich Shop, a Tent City and an American Crisis</h3>
-<sub>By Eli Saslow and Todd Heisler</sub>
-<p>As homelessness overwhelms downtown Phoenix, a small business wonders how long it can hang on.  <a href="https://nyti.ms/3JsCjft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<h3>Out of Power, Trump Still Exerts It</h3>
+<sub>By Maggie Haberman</sub>
+<p>An early-morning social media post amounted to a starter’s gun for Republican officials: Many raced to the former president’s side, denouncing a Democratic prosecutor investigating him.  <a href="https://nyti.ms/3yOld6U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Allies Pressure DeSantis to Weigh In on Expected Indictment</h3>
@@ -127,16 +87,52 @@ And lastly, Donald Trump is under investigation for various criminal offenses, i
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Inside the Payoff to a Porn Star That Could Lead to Trump’s Indictment</h3>
-<sub>By Michael Rothfeld</sub>
-<p>Manhattan prosecutors investigating a payout to Stormy Daniels may be poised to make Donald J. Trump the first former president ever to be criminally indicted.  <a href="https://nyti.ms/3JAglYe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<h3>N.Y. Authorities Prepare for Unprecedented Arrest of an Ex-President</h3>
+<sub>By William K. Rashbaum, Jonah E. Bromwich and Alan Feuer</sub>
+<p>Ahead of a likely indictment, law enforcement officials are making security plans as some of Donald J. Trump’s supporters signal that they intend to protest.  <a href="https://nyti.ms/40oBWcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Global Banks Under Pressure as Investors Eye Fallout From Credit Suisse Rescue</h3>
+<sub>By Joe Rennison</sub>
+<p>Markets wobbled the morning after UBS said it would take over Credit Suisse in a deal arranged by Swiss regulators. In the United States, First Republic Bank remained under stress.  <a href="https://nyti.ms/3JTo2Kr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fed Meets as Bank Chaos Collides With Inflation</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Federal Reserve will decide whether and by how much to raise interest rates this week at a moment when its path ahead is newly fraught.  <a href="https://nyti.ms/3lpCsIy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Dissecting Charges That Could Arise From the Trump Investigations</h3>
-<sub>By Charlie Savage</sub>
-<p>Prosecutors in New York, Georgia and the Justice Department face complex choices about what crimes to charge if they decide to indict Donald Trump.  <a href="https://nyti.ms/3lk49Tj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Iraq, 20 Years Later: A Changed Washington and a Terrible Toll on America</h3>
+<sub>By Robert Draper</sub>
+<p>The White House, Congress, the military and the intelligence agencies see the war as a lesson in failed policymaking, one deeply absorbed if not thoroughly learned.  <a href="https://nyti.ms/3FCiAce"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Children of the Iraq War Have Grown Up, but Some Wounds Don’t Heal</h3>
+<sub>By Joao Silva and Alissa J. Rubin</sub>
+<p>Twenty years after the U.S. invaded Iraq, a veteran Times correspondent and photographer asked Iraqis about growing up in wartime, and about their hopes now.  <a href="https://nyti.ms/405xKij"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>For Years She Said a Coach Abused Her. Now She Has Named a Legend.</h3>
+<sub>By Juliet Macur</sub>
+<p>Jennifer Fox has long discussed what happened when she was 13 and her coach was 40. She even based a film on it. Now she has revealed the final detail: his identity.  <a href="https://nyti.ms/3z9tAKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lab Leak or Not? How Politics Shaped the Battle Over Covid’s Origin</h3>
+<sub>By Sheryl Gay Stolberg and Benjamin Mueller</sub>
+<p>A lab leak was once dismissed by many as a conspiracy theory. But the idea is gaining traction, even as evidence builds that the virus emerged from a market.  <a href="https://nyti.ms/400KVRt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Americans’ Old Car Batteries Are Making Mexican Workers Sick</h3>
+<sub>By Steve Fisher and Alejandro Cegarra</sub>
+<p>The removal of lead from car batteries, many from the United States, at recycling plants in northern Mexico has led to high levels of lead contamination, a new report found.  <a href="https://nyti.ms/401mMu7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
