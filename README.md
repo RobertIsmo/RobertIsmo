@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 20, Central Standard Time</p>
 <p>
-It looks like it&#39;s been a pretty busy week in the news! On the world front, China and Russia are strengthening their relationship following a high-profile meeting between their leaders. Over in Europe, officials have agreed to increase the supply of artillery shells to Ukraine. Closer to home, former US president Donald Trump is facing potential criminal charges and his lawyers are trying to block the investigation into election interference in 2020. We&#39;re also having worrying climate news with a new UN report predicting that early 2030s marks a critical threshold for global warming. To tackle this, a new pipeline project is being discussed across the Midwest which raises both climate and property rights concerns. The worst part is that people are still unsure about what actions to take and how to fix things. On a lighter note, an athlete is finally speaking out about the sexual abuse she experienced from her coach several years ago and Iraq recently marked its 20th anniversary of US-led invasion – with terrible consequences for America.</p>
+There&#39;s a lot going on in the world right now. China and Russia are strengthening their ties, as Ukraine is running low on artillery shells and the European Union has stepped up to provide more supplies. In the US, former President Donald Trump is still trying to exert his power, while politicians surrounding him have been picking sides. The U.N Climate Panel warned that earth will reach a critical warming threshold by the early 2030s - if global cooperation and big changes don&#39;t happen. The Midwest is scrambling over politics as some pipeline projects would bury carbon underground instead of releasing it in the air. In regards to business, fate of a major bank remains uncertain as shares keep plummeting and investors worry about its effects on the rest of the banking sector. Lastly, Amazon has announced plans to lay off 9,000 employees which follows an earlier round of layoffs that impacted over 18,000 jobs.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Why China and Russia Are Closer Than Ever</h3>
@@ -71,7 +71,7 @@ It looks like it&#39;s been a pretty busy week in the news! On the world front, 
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>European officials agree to supply more artillery shells to Ukraine.</h3>
 <sub>By Steven Erlanger</sub>
-<p>  <a href="https://nyti.ms/3Z94eHm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ukraine is using up artillery shells faster than the West can produce them.  <a href="https://nyti.ms/3TBU7JN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,15 +81,21 @@ It looks like it&#39;s been a pretty busy week in the news! On the world front, 
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis, Breaking Silence on Trump, Criticizes Manhattan Prosecutor</h3>
+<sub>By Maggie Haberman and Jonathan Swan</sub>
+<p>The Florida governor, who had refrained for days from weighing in on the potential indictment of his likely 2024 rival, accused the Manhattan district attorney of political motivations.  <a href="https://nyti.ms/42re89P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House G.O.P., Defending Trump, Targets Bragg Ahead of Expected Indictment</h3>
+<sub>By Annie Karni and Luke Broadwater</sub>
+<p>Three Republican committee chairmen sought to use their investigative power to involve themselves in the Manhattan district attorney’s criminal inquiry into the former president. Another endorsed his presidential bid.  <a href="https://nyti.ms/3LCpDW1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s Georgia Lawyers Seek to Quash Special Grand Jury Report</h3>
 <sub>By Richard Fausset</sub>
 <p>In a motion filed on Monday, the lawyers ask that the Fulton County district attorney’s office be recused from the criminal investigation into election interference in the state in 2020.  <a href="https://nyti.ms/3lrNAVr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>N.Y. Authorities Prepare for Unprecedented Arrest of an Ex-President</h3>
-<sub>By William K. Rashbaum, Jonah E. Bromwich and Alan Feuer</sub>
-<p>Ahead of a likely indictment, law enforcement officials are making security plans as some of Donald J. Trump’s supporters signal that they intend to protest.  <a href="https://nyti.ms/40oBWcR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -105,15 +111,15 @@ It looks like it&#39;s been a pretty busy week in the news! On the world front, 
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Have Climate Questions? Get Answers Here.</h3>
-<sub>By The New York Times Climate Desk</sub>
-<p>What’s causing global warming? How can we fix it? This interactive F.A.Q. will tackle your climate questions big and small.  <a href="https://nyti.ms/3DKau01"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<h3>A Clear Message From Science</h3>
+<sub>By Somini Sengupta</sub>
+<p>An international panel offers a warning about the dangers of fossil fuels, and also a blueprint to change course.  <a href="https://nyti.ms/3YZZOSW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fate of First Republic Uncertain as Shares Continue to Slide</h3>
+<h3>Fate of First Republic Uncertain as Shares Plummet Again</h3>
 <sub>By Rob Copeland and Maureen Farrell</sub>
-<p>A $30 billion cash infusion and a frantic effort to sell a stake in the bank to raise additional funds has done little to calm investors and depositors.  <a href="https://nyti.ms/401i4wm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A $30 billion cash infusion and a frantic effort to sell a stake in the bank to raise additional funds has done little to calm investors.  <a href="https://nyti.ms/401i4wm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -122,16 +128,10 @@ It looks like it&#39;s been a pretty busy week in the news! On the world front, 
 <p>Markets wobbled as fears about the health of some banks, particularly First Republic, continued to cast a shadow over parts of the financial sector.  <a href="https://nyti.ms/3JTo2Kr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>For Years She Said a Coach Abused Her. Now She Has Named a Legend.</h3>
-<sub>By Juliet Macur</sub>
-<p>Jennifer Fox has long discussed what happened when she was 13 and her coach was 40. She even based a film on it. Now she has revealed the final detail: his identity.  <a href="https://nyti.ms/3z9tAKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Iraq, 20 Years Later: A Changed Washington and a Terrible Toll on America</h3>
-<sub>By Robert Draper</sub>
-<p>The White House, Congress, the military and the intelligence agencies see the war as a lesson in failed policymaking, one deeply absorbed if not thoroughly learned.  <a href="https://nyti.ms/3FCiAce"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Amazon Plans to Lay Off Another 9,000 Employees</h3>
+<sub>By Karen Weise</sub>
+<p>The cuts follow a round of layoffs announced several months ago that affected more than 18,000 jobs.  <a href="https://nyti.ms/3Z6Tf0J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
