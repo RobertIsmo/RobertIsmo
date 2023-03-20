@@ -58,13 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, March 19, Central Standard Time</p>
+<p>It is Monday, March 20, Central Standard Time</p>
 <p>
-The world is facing a lot of challenges right now. The biggest ongoing one is the Covid-19 pandemic. Politics have been shaping the battle over its origin, and there&#39;s still a lot of heated debate about where it came from. We&#39;re also seeing conflicts as people react to federal guidelines on Covid treatment. Meanwhile, there are some major issues occurring in the banking world as well, with several big banks requiring government bailouts to avoid market collapse. One big merger was recently brokered between two Swiss banks, UBS and Credit Suisse, which has had uneven results for hedge funds that placed bets on the outcome. 
+Right now, there&#39;s a lot of political tension both in the United States and around the world. In the US, there are a lot of divisive opinions about whether the coronavirus originated from a lab leak and what type of treatments should be used to fight it at Florida&#39;s public hospital. At the same time, China&#39;s president Xi is making a trip to Russia for what could be considered a peace mission. But on Africa’s continent, tensions seem to be rising between the US and Russia as each side takes increasingly aggressive action to assert its influence in the region. 
 
-Back in the US, former President Trump&#39;s allies are trying to pressure Florida Governor Ron DeSantis to weigh in on an expected indictment against him. Manhattan prosecutors are continuing to look into a payoff made by Mr. Trump to adult film star Stormy Daniels in exchange for her silence during his election campaign. If he is indicted, he would be the first former president ever charged with a crime. In addition to possible criminal charges, prosecutors and others groups are weighing complex choices around what Trump may be charged with across various states and at the Justice Department level. 
+On top of that, there’s some disturbance in the banking world as American and global central banks are trying to stabilize markets in the middle of financial troubles at Silicon Valley Bank as well as UBS’s takeover of Credit Suisse. Meanwhile, in Phoenix, we&#39;re seeing an entire tent city set up as homelessness becomes an urgent problem. 
 
-Finally, an American crisis is happening in Phoenix; tent cities have started to overwhelm downtown due to homelessness. Even nuns living in Brooklyn have had to move away from their convent due to too much noise from parties outside their walls.</p>
+And lastly, Donald Trump is under investigation for various criminal offenses, including possible payoffs to women such as Stormy Daniels. There are many speculations about whether he is going to get indicted or not — but all I can tell you from my side is that he’s certainly getting a lot of pressure from his allies over this issue.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Lab Leak or Not? How Politics Shaped the Battle Over Covid’s Origin</h3>
@@ -78,16 +78,22 @@ Finally, an American crisis is happening in Phoenix; tent cities have started to
 <p>Staff members of Sarasota Memorial Hospital are bewildered by critics who continue to wage a campaign against federal guidelines on Covid treatment.  <a href="https://nyti.ms/3JuXQnF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Xi Heads to Russia, Praising Putin and Saying Little About Ukraine</h3>
+<sub>By Chris Buckley and Anton Troianovski</sub>
+<p>China is calling Xi Jinping’s visit a “trip for peace,” but he is unlikely to risk straining the country’s ties with Russia and President Vladimir V. Putin.  <a href="https://nyti.ms/3FAkn1i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A ‘New Cold War’ Looms in Africa as U.S. Pushes Against Russian Gains</h3>
+<sub>By Declan Walsh</sub>
+<p>The U.S. is reprising its playbook in Ukraine, where it has used classified information to expose plans by Russia. Next target: Chad.  <a href="https://nyti.ms/3JuY2TY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Before Collapse of Silicon Valley Bank, the Fed Spotted Big Problems</h3>
 <sub>By Jeanna Smialek</sub>
 <p>The bank was using an incorrect model as it assessed its own risks amid rising interest rates, and spent much of 2022 under a supervisory review.  <a href="https://nyti.ms/3LAagO0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Federal Reserve and Global Central Banks Act to Shore Up Dollar Access</h3>
-<sub>By Jeanna Smialek</sub>
-<p>America’s central bank and its counterparts around the world are rushing to cushion markets against the impact of bank problems.  <a href="https://nyti.ms/3lytHMi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -97,9 +103,21 @@ Finally, an American crisis is happening in Phoenix; tent cities have started to
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Hedge Funds That Bet on Credit Suisse Rescue Face Uneven Results</h3>
+<h3>Investors Greet Emergency Credit Suisse Deal Warily</h3>
 <sub>By Joe Rennison</sub>
-<p>Among the funds to bet on the rescue deal were two that specialize in buying the bonds of companies on the brink of bankruptcy.  <a href="https://nyti.ms/3JBhFdo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Swiss regulators announced that UBS, Switzerland’s largest bank, would take over the troubled Credit Suisse.  <a href="https://nyti.ms/3JTo2Kr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Federal Reserve and Global Central Banks Act to Shore Up Dollar Access</h3>
+<sub>By Jeanna Smialek</sub>
+<p>America’s central bank and its counterparts around the world are rushing to cushion markets against the impact of bank problems.  <a href="https://nyti.ms/3lytHMi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Sandwich Shop, a Tent City and an American Crisis</h3>
+<sub>By Eli Saslow and Todd Heisler</sub>
+<p>As homelessness overwhelms downtown Phoenix, a small business wonders how long it can hang on.  <a href="https://nyti.ms/3JsCjft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,28 +132,10 @@ Finally, an American crisis is happening in Phoenix; tent cities have started to
 <p>Manhattan prosecutors investigating a payout to Stormy Daniels may be poised to make Donald J. Trump the first former president ever to be criminally indicted.  <a href="https://nyti.ms/3JAglYe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Grand Jury Could Hear From Critic of Prosecution’s Star Witness</h3>
-<sub>By Ben Protess, William K. Rashbaum, Jonah E. Bromwich and Maggie Haberman</sub>
-<p>The grand jury considering the hush-money case against Mr. Trump might hear the testimony of lawyer Robert J. Costello, a critic of the ex-president’s fixer.  <a href="https://nyti.ms/3ZQwmQx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Dissecting Charges That Could Arise From the Trump Investigations</h3>
 <sub>By Charlie Savage</sub>
 <p>Prosecutors in New York, Georgia and the Justice Department face complex choices about what crimes to charge if they decide to indict Donald Trump.  <a href="https://nyti.ms/3lk49Tj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Sandwich Shop, a Tent City and an American Crisis</h3>
-<sub>By Eli Saslow and Todd Heisler</sub>
-<p>As homelessness overwhelms downtown Phoenix, a small business wonders how long it can hang on.  <a href="https://nyti.ms/3JsCjft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Nuns Who Left Brooklyn</h3>
-<sub>By Kaya Laterman</sub>
-<p>It’s hard to be a devotee of prayer and silence when parties with thumping music gather outside your walls.  <a href="https://nyti.ms/3JPTCsp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
