@@ -60,43 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 21, Central Standard Time</p>
 <p>
-It seems like the world is in a state of flux right now. Former President Donald Trump is facing the possibility of being indicted, and Governor Ron DeSantis has made comments about it. Meanwhile, Japan&#39;s Prime Minister has recently visited Ukraine, and Vladimir Putin from Russia celebrated ties with China. Fox News is facing a $1.6 billion lawsuit, and Los Angeles schools are shutting down due to worker strikes. In sports news, two top seeds were unexpectedly knocked out in the NCAA Tournament, leading to speculation of a new era of competitive parity in women&#39;s basketball. Lastly, George W. Bush has commented that he believes the world is better off without Saddam Hussein, despite criticism from other sources.</p>
+Recently, there has been a lot of turmoil in Ukraine, with Russia launching attacks on cities like Avdiivka. China has been supplying Russia with drones for the war. Meanwhile, in the US, former President Trump is facing legal troubles, leading to him being possibly indicted. A lot of Republican politicians are still loyal to him despite this, but others are unsure of his political power now. The US needs to be careful with its banking system during this time and Treasury Secretary Yellen is ensuring that additional steps are taken to protect it. Lastly, Fox News has also had some conflicts over their coverage within the company which has caused some production issues.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As War in Ukraine Grinds on, China Helps Refill Russian Drone Supplies</h3>
+<sub>By Paul Mozur, Aaron Krolik and Keith Bradsher</sub>
+<p>China has shipped more than $12 million in drones to Russia since it invaded Ukraine, in an indication of quiet collaboration between the two.  <a href="https://nyti.ms/3TuOdtM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia reprises brutal tactics to attack the eastern Ukrainian city of Avdiivka.</h3>
+<sub>By Marc Santora</sub>
+<p>  <a href="https://nyti.ms/3LAiYvH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For the G.O.P., a Looming Trump Indictment Takes Center Stage</h3>
-<sub>By Shane Goldmacher, Maggie Haberman, Jonathan Swan and Annie Karni</sub>
-<p>Gov. Ron DeSantis of Florida spoke on Monday about Donald Trump’s expected indictment, as Republicans weighed whether to heed the former president’s call to protest.  <a href="https://nyti.ms/3yTMd52"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<h3>‘The Circus Continues’: For Trump, Legal Woes Resurrect Old Habits</h3>
+<sub>By Michael C. Bender</sub>
+<p>The former president strengthened his political position in recent weeks, but an impetuous response to his potential indictment could alienate voters he will need to win back the White House.  <a href="https://nyti.ms/3TDWko3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At House Republican Retreat, the Focus, Once Again, Is on Trump</h3>
+<sub>By Annie Karni</sub>
+<p>For the third year since he left office, former President Donald J. Trump continued to dominate an annual G.O.P. gathering in Florida, underscoring his grip on the party.  <a href="https://nyti.ms/3TuOn4m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>A Rough Guide of the Electoral Fallout if Trump Is Indicted</h3>
+<sub>By Nate Cohn</sub>
+<p>It would be uncharted territory, but the F.B.I. search of Mar-a-Lago offers at least some precedent.  <a href="https://nyti.ms/3TtnZrL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Prosecutor in Trump Case Wades Into Treacherous Political Waters</h3>
 <sub>By Jonah E. Bromwich</sub>
 <p>Alvin L. Bragg, the Manhattan district attorney, appears poised to indict former President Donald J. Trump, and the political firestorm has already begun.  <a href="https://nyti.ms/3ySzJKV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis, Breaking Silence on Trump, Criticizes Manhattan Prosecutor</h3>
-<sub>By Maggie Haberman and Jonathan Swan</sub>
-<p>The Florida governor, who had refrained for days from weighing in on the potential indictment of his likely 2024 rival, accused the Manhattan district attorney of political motivations.  <a href="https://nyti.ms/42re89P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Grand Jury Hears From Lawyer Who Assails Cohen’s Credibility</h3>
-<sub>By Ben Protess, Sean Piccoli and Kate Christobek</sub>
-<p>Robert J. Costello, a former legal adviser to Michael Cohen, said after testifying, “I told the grand jury that this guy couldn’t tell the truth if you put a gun to his head.”  <a href="https://nyti.ms/3JUtfl9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin and Xi Celebrate Ties Unbroken by Russia’s War in Ukraine</h3>
-<sub>By Valerie Hopkins, Chris Buckley and Anton Troianovski</sub>
-<p>President Vladimir V. Putin welcomed Xi Jinping, China’s top leader, to Russia, briefly noting Beijing’s peace plan for Ukraine but stressing Moscow and Beijing’s enduring partnership.  <a href="https://nyti.ms/40dpDQu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Japan’s Prime Minister Becomes Latest G7 Leader to Visit Ukraine</h3>
-<sub>By Ben Dooley</sub>
-<p>Fumio Kishida, who has been seeking a more active role for his country in international affairs, made an unannounced trip to meet with Ukraine’s president.  <a href="https://nyti.ms/40mLlS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Inside the 3 Months That Could Cost Fox $1.6 Billion</h3>
@@ -110,29 +110,29 @@ It seems like the world is in a state of flux right now. Former President Donald
 <p>The producer, Abby Grossberg, said in a pair of lawsuits that the effort to place blame on her and Maria Bartiromo, the Fox Business host, was rooted in rampant misogyny and discrimination at the company.  <a href="https://nyti.ms/40od6cS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Los Angeles Schools to Shut Down After Workers Vow to Strike</h3>
-<sub>By Kurtis Lee and Soumya Karlamangla</sub>
-<p>The nation’s second-largest school district will cancel classes starting on Tuesday, while thousands of employees pressed demands for higher pay.  <a href="https://nyti.ms/3Z4iQYl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Macron Plots Next Move After Bitter Victory in Pensions Dispute</h3>
+<sub>By Aurelien Breeden and Constant Méheut</sub>
+<p>The future of President Emmanuel Macron’s second term was unclear after a no-confidence vote triggered by his effort to raise France’s retirement age fell short by only nine votes.  <a href="https://nyti.ms/42tKFvX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Another No. 1 Gone, as Indiana Loses to Miami</h3>
-<sub>By The New York Times</sub>
-<p>The Hoosiers joined Stanford as top seeds to lose on their home courts. With the loss to Miami, Indiana is just the sixth No. 1 to miss the round of 16 since 1994.  <a href="https://nyti.ms/3JTzxBA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Strains Emerge Inside the Union That Beat Amazon</h3>
+<sub>By Noam Scheiber</sub>
+<p>Nearly a year after its victory on Staten Island, the Amazon Labor Union is grappling with election losses and internal conflict.  <a href="https://nyti.ms/3TzOonY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Countdown to Change in Women’s College Basketball: One Mississippi …</h3>
-<sub>By Kurt Streeter</sub>
-<p>Eighth-seeded Ole Miss’s upset win over Stanford, a No. 1 seed, seemed to open the door to a new era of competitive parity in the women’s game.  <a href="https://nyti.ms/3ZZtiSn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Markets Extend Gains as Focus Turns to Fed Meeting</h3>
+<sub>By Jason Karaian and Joe Rennison</sub>
+<p>Relief over recent financial rescue measures pushed stocks up for a second day, as investors prepared for a pivotal decision on interest rates.  <a href="https://nyti.ms/3Tva8RA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Bush Doesn’t Second-Guess Himself on Iraq. Even if Everyone Else Does.</h3>
-<sub>By Peter Baker</sub>
-<p>George W. Bush has told advisers that the world is better off without Saddam Hussein — and he has not changed his mind about that.  <a href="https://nyti.ms/3JzxgK6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yellen Says U.S. Banking System Is ‘Stabilizing’</h3>
+<sub>By Alan Rappeport</sub>
+<p>In prepared remarks, the Treasury secretary pledged that the Biden administration would take additional steps as needed to protect the banking system.  <a href="https://nyti.ms/40rZsFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
