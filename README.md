@@ -60,8 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 21, Central Standard Time</p>
 <p>
-There is a lot of tension in the world right now. War in Ukraine is still ongoing, but China has been secretly helping Russia by sending over drones and supplies. On the other side of the world, there are reports that former President Trump is facing potential criminal charges in New York, and he still has a strong grip on the Republican party. Meanwhile, France’s president Emmanuel Macron just barely survived a no confidence vote after forcing through plans to raise the retirement age. There are also labor disputes at Amazon and issues with smaller banks that need more support from the U.S. government and tech giants like Google are competing to create advanced Artificial Intelligence chatbots.</p>
+The news articles describe a range of things that are happening in the world. In the US, there is speculation about potentially indicting former President Donald Trump, and prosecutors are trying to investigate potential war crimes related to the conflict in Ukraine. In terms of economics, there is talk in Capitol Hill about lifting the cap on deposits insured by the government and Federal Reserve may raise interest rates. On an international level, China is sending drones to Russia and both countries continue to be active militarily in Ukraine. Finally, even in sports, there is discussion around tall people and March Madness.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Push to Insure Big Deposits Percolates on Capitol Hill</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The government only insures deposits of less than $250,000, but there is precedent for lifting that cap amid turmoil. It could happen again.  <a href="https://nyti.ms/3JWdpGw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Is Ready to Protect Smaller Banks if Necessary, Yellen Says</h3>
+<sub>By Alan Rappeport</sub>
+<p>In prepared remarks, the Treasury secretary pledged that the Biden administration would take additional steps as needed to support the banking system.  <a href="https://nyti.ms/40rZsFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Markets Extend Gains as Focus Turns to Fed Meeting</h3>
+<sub>By Jason Karaian and Joe Rennison</sub>
+<p>Relief over recent financial rescue measures pushed stocks up for a second day, as investors prepared for a pivotal decision from the Federal Reserve on interest rates.  <a href="https://nyti.ms/3Tva8RA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Fed’s Dilemma: Raise Rates During a Banking Crisis?</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>The central bank’s decision on interest rates on Wednesday is shaping up to be the most consequential of the Jerome Powell era.  <a href="https://nyti.ms/40joUxL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>As War in Ukraine Grinds on, China Helps Refill Russian Drone Supplies</h3>
 <sub>By Paul Mozur, Aaron Krolik and Keith Bradsher</sub>
@@ -75,15 +99,21 @@ There is a lot of tension in the world right now. War in Ukraine is still ongoin
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Dept. Embraces Supporting Role in Pursuing War Crimes in Ukraine</h3>
+<sub>By Glenn Thrush</sub>
+<p>Prosecutors are investigating war crimes against Americans but are mainly focused on helping Ukraine to hold Russians accountable for atrocities.  <a href="https://nyti.ms/3JSlTyp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘The Circus Continues’: For Trump, Legal Woes Resurrect Old Habits</h3>
 <sub>By Michael C. Bender</sub>
 <p>The former president strengthened his political position in recent weeks, but an impetuous response to his potential indictment could alienate voters he will need to win back the White House.  <a href="https://nyti.ms/3TDWko3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At House Republican Retreat, the Focus, Once Again, Is on Trump</h3>
-<sub>By Annie Karni</sub>
-<p>For the third year since he left office, former President Donald J. Trump continued to dominate an annual G.O.P. gathering in Florida, underscoring his grip on the party.  <a href="https://nyti.ms/3TuOn4m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How an Indictment and Arrest of Donald Trump Could Unfold</h3>
+<sub>By William K. Rashbaum and Jonah E. Bromwich</sub>
+<p>An indictment could be handed up as soon as Wednesday, but much about how the process might play out remains unknown.  <a href="https://nyti.ms/3n7Eg9G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -98,40 +128,10 @@ There is a lot of tension in the world right now. War in Ukraine is still ongoin
 <p>Alvin L. Bragg, the Manhattan district attorney, appears poised to indict former President Donald J. Trump, and the political firestorm has already begun.  <a href="https://nyti.ms/3ySzJKV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Inside the 3 Months That Could Cost Fox $1.6 Billion</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>The decision by Fox News executives in November 2020 to treat the more hard-right Newsmax as a mortal threat spawned a possibly more serious danger.  <a href="https://nyti.ms/3LDw9ff"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox Producer Says She Was Set Up in Dominion Case</h3>
-<sub>By Nicholas Confessore and Katie Robertson</sub>
-<p>The producer, Abby Grossberg, said in a pair of lawsuits that the effort to place blame on her and Maria Bartiromo, the Fox Business host, was rooted in rampant misogyny and discrimination at the company.  <a href="https://nyti.ms/40od6cS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google Releases Bard, Its Competitor in the Race to Create A.I. Chatbots</h3>
-<sub>By Nico Grant and Cade Metz</sub>
-<p>The internet giant will grant users access to a chatbot after years of cautious development, chasing splashy debuts from rivals OpenAI and Microsoft.  <a href="https://nyti.ms/3FG1M4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Macron Presses Ahead After Bitter Victory in Pensions Dispute</h3>
-<sub>By Constant Méheut and Aurelien Breeden</sub>
-<p>The future of President Emmanuel Macron’s second term was unclear after a no-confidence vote triggered by his effort to raise France’s retirement age fell short by only nine votes.  <a href="https://nyti.ms/42tKFvX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Strains Emerge Inside the Union That Beat Amazon</h3>
-<sub>By Noam Scheiber</sub>
-<p>Nearly a year after its victory on Staten Island, the Amazon Labor Union is grappling with election losses and internal conflict.  <a href="https://nyti.ms/3TzOonY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen Says U.S. Ready to Protect Smaller Banks if Necessary</h3>
-<sub>By Alan Rappeport</sub>
-<p>In prepared remarks, the Treasury secretary pledged that the Biden administration would take additional steps as needed to support the banking system.  <a href="https://nyti.ms/40rZsFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Yes, They Are Tall. No, They Do Not Play Basketball.</h3>
+<sub>By Scott Cacciola</sub>
+<p>For the vertically gifted, every day of the year means standing out. But March can be particularly maddening.  <a href="https://nyti.ms/3LFnTLY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
