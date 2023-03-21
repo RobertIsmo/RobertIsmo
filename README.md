@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 21, Central Standard Time</p>
 <p>
-The news articles describe a range of things that are happening in the world. In the US, there is speculation about potentially indicting former President Donald Trump, and prosecutors are trying to investigate potential war crimes related to the conflict in Ukraine. In terms of economics, there is talk in Capitol Hill about lifting the cap on deposits insured by the government and Federal Reserve may raise interest rates. On an international level, China is sending drones to Russia and both countries continue to be active militarily in Ukraine. Finally, even in sports, there is discussion around tall people and March Madness.</p>
+It looks like the Federal Reserve is looking into the failure of Silicon Valley Bank, while Congress prepares for hearings on the subject. Meanwhile, relief over recent financial rescue measures has pushed stocks up for a second day, with investors expecting decisions from the Fed on interest rates. In other news, Ukraine is under siege, and there&#39;s a push to insure big deposits on Capitol Hill. In the US, there&#39;s been a video released of an immigrant man&#39;s death in custody, as well as speculation about the potential indictment of Donald Trump. People are also talking about Michael Bloomberg spending five million to support Kathy Hochul’s budget plans. Lastly, we&#39;ve seen Google enter the race to make A.I chatbots, and news about tall people not playing basketball in March!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Push to Insure Big Deposits Percolates on Capitol Hill</h3>
+<h3>A Big Question for the Fed: What Went Wrong With Bank Oversight?</h3>
 <sub>By Jeanna Smialek</sub>
-<p>The government only insures deposits of less than $250,000, but there is precedent for lifting that cap amid turmoil. It could happen again.  <a href="https://nyti.ms/3JWdpGw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Is Ready to Protect Smaller Banks if Necessary, Yellen Says</h3>
-<sub>By Alan Rappeport</sub>
-<p>In prepared remarks, the Treasury secretary pledged that the Biden administration would take additional steps as needed to support the banking system.  <a href="https://nyti.ms/40rZsFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>As the Federal Reserve reviews the failure of Silicon Valley Bank, and Congress prepares for hearings, bank oversight is getting a closer look.  <a href="https://nyti.ms/40nWFNH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -81,27 +75,21 @@ The news articles describe a range of things that are happening in the world. In
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Fed’s Dilemma: Raise Rates During a Banking Crisis?</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The central bank’s decision on interest rates on Wednesday is shaping up to be the most consequential of the Jerome Powell era.  <a href="https://nyti.ms/40joUxL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As War in Ukraine Grinds on, China Helps Refill Russian Drone Supplies</h3>
-<sub>By Paul Mozur, Aaron Krolik and Keith Bradsher</sub>
-<p>China has shipped more than $12 million in drones to Russia since it invaded Ukraine, in an indication of quiet collaboration between the two.  <a href="https://nyti.ms/3TuOdtM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Push to Insure Big Deposits Percolates on Capitol Hill</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The government insures only deposits of less than $250,000, but there is precedent for lifting that cap amid turmoil. It could happen again.  <a href="https://nyti.ms/3JWdpGw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia reprises brutal tactics to attack the eastern Ukrainian city of Avdiivka.</h3>
+<h3>Its Forces Under Siege, Ukraine Hits Distant, Russian-Held Crimea</h3>
 <sub>By Marc Santora</sub>
-<p>  <a href="https://nyti.ms/3LAiYvH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Crimean Peninsula, which Russia seized in 2014, has been a staging ground for other attacks and an increasingly attractive target for Ukraine.  <a href="https://nyti.ms/3ncPauI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Embraces Supporting Role in Pursuing War Crimes in Ukraine</h3>
-<sub>By Glenn Thrush</sub>
-<p>Prosecutors are investigating war crimes against Americans but are mainly focused on helping Ukraine to hold Russians accountable for atrocities.  <a href="https://nyti.ms/3JSlTyp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Video Shows Virginia Man’s Death in Custody</h3>
+<sub>By Campbell Robertson and Christine Hauser</sub>
+<p>Irvo Otieno’s death was a devastating ending to a journey that began when his family immigrated from Kenya when he was a young boy, “compelled by the American dream.”  <a href="https://nyti.ms/3lqAt74"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +110,28 @@ The news articles describe a range of things that are happening in the world. In
 <p>It would be uncharted territory, but the F.B.I. search of Mar-a-Lago offers at least some precedent.  <a href="https://nyti.ms/3TtnZrL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Prosecutor in Trump Case Wades Into Treacherous Political Waters</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>Alvin L. Bragg, the Manhattan district attorney, appears poised to indict former President Donald J. Trump, and the political firestorm has already begun.  <a href="https://nyti.ms/3ySzJKV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Yes, They Are Tall. No, They Do Not Play Basketball.</h3>
 <sub>By Scott Cacciola</sub>
 <p>For the vertically gifted, every day of the year means standing out. But March can be particularly maddening.  <a href="https://nyti.ms/3LFnTLY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google Releases Bard, Its Competitor in the Race to Create A.I. Chatbots</h3>
+<sub>By Nico Grant and Cade Metz</sub>
+<p>The internet giant will grant users access to a chatbot after years of cautious development, chasing splashy debuts from rivals OpenAI and Microsoft.  <a href="https://nyti.ms/3FG1M4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>What Google Bard Can Do (and What It Can’t)</h3>
+<sub>By Cade Metz</sub>
+<p>Google has released a new chatbot to a limited number of people in the U.S. and Britain. How does it compare with what is already out there?  <a href="https://nyti.ms/3FBV6E7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Michael Bloomberg Has Found a New $5 Million Cause: Helping Hochul</h3>
+<sub>By Nicholas Fandos</sub>
+<p>Mr. Bloomberg, the billionaire former mayor of New York City, has quietly bankrolled a group that is flooding the airwaves with ads to support Gov. Kathy Hochul’s budget plans.  <a href="https://nyti.ms/3n8MM8t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
