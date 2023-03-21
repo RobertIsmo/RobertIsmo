@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 21, Central Standard Time</p>
 <p>
-It looks like former President Donald Trump is going to get indicted soon and the Republican party is debating how to respond, with Florida Governor Ron DeSantis recently speaking out against the Manhattan District Attorney&#39;s handling of the case. In other news, Russian President Vladimir Putin and Chinese leader Xi Jinping are celebrating their countries&#39; strong ties together despite Russia&#39;s war in Ukraine. At home, there is unrest in Los Angeles where school employees are threatening to strike over pay disputes, and Fox News is facing a huge lawsuit due to allegations of misogyny and discrimination at the company. Lastly, we are beginning to see signs of a new era in women&#39;s college basketball where teams like Ole Miss appear to be defying the usual powerhouses such as Stanford. Finally, despite ongoing debate over his decision to get involved in the Iraq War, former US President George W. Bush has not wavered from his belief that it was the right thing to do.</p>
+It seems like the world is in a state of flux right now. Former President Donald Trump is facing the possibility of being indicted, and Governor Ron DeSantis has made comments about it. Meanwhile, Japan&#39;s Prime Minister has recently visited Ukraine, and Vladimir Putin from Russia celebrated ties with China. Fox News is facing a $1.6 billion lawsuit, and Los Angeles schools are shutting down due to worker strikes. In sports news, two top seeds were unexpectedly knocked out in the NCAA Tournament, leading to speculation of a new era of competitive parity in women&#39;s basketball. Lastly, George W. Bush has commented that he believes the world is better off without Saddam Hussein, despite criticism from other sources.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For the G.O.P., a Looming Trump Indictment Takes Center Stage</h3>
@@ -91,6 +91,12 @@ It looks like former President Donald Trump is going to get indicted soon and th
 <sub>By Valerie Hopkins, Chris Buckley and Anton Troianovski</sub>
 <p>President Vladimir V. Putin welcomed Xi Jinping, China’s top leader, to Russia, briefly noting Beijing’s peace plan for Ukraine but stressing Moscow and Beijing’s enduring partnership.  <a href="https://nyti.ms/40dpDQu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Japan’s Prime Minister Becomes Latest G7 Leader to Visit Ukraine</h3>
+<sub>By Ben Dooley</sub>
+<p>Fumio Kishida, who has been seeking a more active role for his country in international affairs, made an unannounced trip to meet with Ukraine’s president.  <a href="https://nyti.ms/40mLlS9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Inside the 3 Months That Could Cost Fox $1.6 Billion</h3>
@@ -126,12 +132,6 @@ It looks like former President Donald Trump is going to get indicted soon and th
 <h3>Bush Doesn’t Second-Guess Himself on Iraq. Even if Everyone Else Does.</h3>
 <sub>By Peter Baker</sub>
 <p>George W. Bush has told advisers that the world is better off without Saddam Hussein — and he has not changed his mind about that.  <a href="https://nyti.ms/3JzxgK6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Macron’s Government Survives but Faces Wrath of France Over Pension Overhaul</h3>
-<sub>By Roger Cohen</sub>
-<p>Two no-confidence votes failed to oust the cabinet of President Emmanuel Macron over a new law raising the retirement age to 64 from 62.  <a href="https://nyti.ms/3LDFHXF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
