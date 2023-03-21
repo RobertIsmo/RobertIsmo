@@ -58,13 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, March 20, Central Standard Time</p>
+<p>It is Tuesday, March 21, Central Standard Time</p>
 <p>
-There has been a lot of news between the US and the rest of the world lately. In the US, former President Donald Trump may soon be indicted, and Florida&#39;s Governor Ron DeSantis has been speaking about it. In France, President Emmanuel Macron is facing political backlash over a proposed pension reform. 
-
-Russia&#39;s President Putin welcomed China&#39;s leader Xi Jinping to discuss their partnership. Fox News executives believe they face a possible $1.6 billion loss due to Newsmax&#39;s hard-right platform. The UN panel has warned that we only have ten years left to prevent catastrophic global warming. And in sports, two top seeds lost on their home court in the NCAA tournament. 
-
-It&#39;s been a busy couple of weeks around the world!</p>
+It looks like former President Donald Trump is going to get indicted soon and the Republican party is debating how to respond, with Florida Governor Ron DeSantis recently speaking out against the Manhattan District Attorney&#39;s handling of the case. In other news, Russian President Vladimir Putin and Chinese leader Xi Jinping are celebrating their countries&#39; strong ties together despite Russia&#39;s war in Ukraine. At home, there is unrest in Los Angeles where school employees are threatening to strike over pay disputes, and Fox News is facing a huge lawsuit due to allegations of misogyny and discrimination at the company. Lastly, we are beginning to see signs of a new era in women&#39;s college basketball where teams like Ole Miss appear to be defying the usual powerhouses such as Stanford. Finally, despite ongoing debate over his decision to get involved in the Iraq War, former US President George W. Bush has not wavered from his belief that it was the right thing to do.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For the G.O.P., a Looming Trump Indictment Takes Center Stage</h3>
@@ -108,22 +104,22 @@ It&#39;s been a busy couple of weeks around the world!</p>
 <p>The producer, Abby Grossberg, said in a pair of lawsuits that the effort to place blame on her and Maria Bartiromo, the Fox Business host, was rooted in rampant misogyny and discrimination at the company.  <a href="https://nyti.ms/40od6cS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Los Angeles Schools to Shut Down After Workers Vow to Strike</h3>
+<sub>By Kurtis Lee and Soumya Karlamangla</sub>
+<p>The nation’s second-largest school district will cancel classes starting on Tuesday, while thousands of employees pressed demands for higher pay.  <a href="https://nyti.ms/3Z4iQYl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Another No. 1 Gone, as Indiana Loses to Miami</h3>
 <sub>By The New York Times</sub>
-<p>The Hoosiers joined Stanford as top seeds to lose on their home court. With the loss to Miami, Indiana is just the sixth No. 1 to miss the round of 16 since 1994.  <a href="https://nyti.ms/3JTzxBA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Hoosiers joined Stanford as top seeds to lose on their home courts. With the loss to Miami, Indiana is just the sixth No. 1 to miss the round of 16 since 1994.  <a href="https://nyti.ms/3JTzxBA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Countdown to Change in Women’s College Basketball: One Mississippi …</h3>
 <sub>By Kurt Streeter</sub>
 <p>Eighth-seeded Ole Miss’s upset win over Stanford, a No. 1 seed, seemed to open the door to a new era of competitive parity in the women’s game.  <a href="https://nyti.ms/3ZZtiSn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>World Has Less Than a Decade to Stop Catastrophic Warming, U.N. Panel Says</h3>
-<sub>By Brad Plumer</sub>
-<p>A new report says it is still possible to hold global warming to relatively safe levels, but doing so will require global cooperation, billions of dollars and big changes.  <a href="https://nyti.ms/3nawTOA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
