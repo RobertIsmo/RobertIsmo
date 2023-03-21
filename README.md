@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 20, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now! In the US, there is a looming indictiment of former President Donald Trump and Republicans are deciding whether to protest it. In Europe, Vladimir Putin and Xi Jinping are celebrating their partnership despite Russia&#39;s recent war in Ukraine. Meanwhile, the UN has released a report showing that there is only 9 years left to stop catastrophic global warming unless people get together to make some big changes. Closer to home, a California bank has seen its stock prices plummet and France has been protesting French President Emmanuel Macron&#39;s government after they passed a law raising the retirement age. Finally, an ex-athlete has come forward and named a former coach as her abuser after discussing it for years.</p>
+There has been a lot of news between the US and the rest of the world lately. In the US, former President Donald Trump may soon be indicted, and Florida&#39;s Governor Ron DeSantis has been speaking about it. In France, President Emmanuel Macron is facing political backlash over a proposed pension reform. 
+
+Russia&#39;s President Putin welcomed China&#39;s leader Xi Jinping to discuss their partnership. Fox News executives believe they face a possible $1.6 billion loss due to Newsmax&#39;s hard-right platform. The UN panel has warned that we only have ten years left to prevent catastrophic global warming. And in sports, two top seeds lost on their home court in the NCAA tournament. 
+
+It&#39;s been a busy couple of weeks around the world!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For the G.O.P., a Looming Trump Indictment Takes Center Stage</h3>
@@ -92,22 +96,34 @@ There&#39;s a lot happening in the world right now! In the US, there is a loomin
 <p>President Vladimir V. Putin welcomed Xi Jinping, China’s top leader, to Russia, briefly noting Beijing’s peace plan for Ukraine but stressing Moscow and Beijing’s enduring partnership.  <a href="https://nyti.ms/40dpDQu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>World Has Less Than a Decade to Stop Catastrophic Warming, U.N. Panel Says</h3>
-<sub>By Brad Plumer</sub>
-<p>A new report says it is still possible to hold global warming to relatively safe levels, but doing so will require global cooperation, billions of dollars and big changes.  <a href="https://nyti.ms/3nawTOA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Inside the 3 Months That Could Cost Fox $1.6 Billion</h3>
 <sub>By Jeremy W. Peters</sub>
 <p>The decision by Fox News executives in November 2020 to treat the more hard-right Newsmax as a mortal threat spawned a possibly more serious danger.  <a href="https://nyti.ms/3LDw9ff"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Macron’s Government Survives but Faces Wrath of France Over Pension Overhaul</h3>
-<sub>By Roger Cohen</sub>
-<p>Two no-confidence votes failed to oust the cabinet of President Emmanuel Macron over a new law raising the retirement age to 64 from 62.  <a href="https://nyti.ms/3LDFHXF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fox Producer Says She Was Set Up in Dominion Case</h3>
+<sub>By Nicholas Confessore and Katie Robertson</sub>
+<p>The producer, Abby Grossberg, said in a pair of lawsuits that the effort to place blame on her and Maria Bartiromo, the Fox Business host, was rooted in rampant misogyny and discrimination at the company.  <a href="https://nyti.ms/40od6cS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Another No. 1 Gone, as Indiana Loses to Miami</h3>
+<sub>By The New York Times</sub>
+<p>The Hoosiers joined Stanford as top seeds to lose on their home court. With the loss to Miami, Indiana is just the sixth No. 1 to miss the round of 16 since 1994.  <a href="https://nyti.ms/3JTzxBA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Countdown to Change in Women’s College Basketball: One Mississippi …</h3>
+<sub>By Kurt Streeter</sub>
+<p>Eighth-seeded Ole Miss’s upset win over Stanford, a No. 1 seed, seemed to open the door to a new era of competitive parity in the women’s game.  <a href="https://nyti.ms/3ZZtiSn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>World Has Less Than a Decade to Stop Catastrophic Warming, U.N. Panel Says</h3>
+<sub>By Brad Plumer</sub>
+<p>A new report says it is still possible to hold global warming to relatively safe levels, but doing so will require global cooperation, billions of dollars and big changes.  <a href="https://nyti.ms/3nawTOA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +132,10 @@ There&#39;s a lot happening in the world right now! In the US, there is a loomin
 <p>George W. Bush has told advisers that the world is better off without Saddam Hussein — and he has not changed his mind about that.  <a href="https://nyti.ms/3JzxgK6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fate of First Republic Hangs in Balance as Shares Plummet Again</h3>
-<sub>By Rob Copeland and Maureen Farrell</sub>
-<p>A $30 billion cash infusion and a frantic effort to sell a stake in the bank have done little to calm investors.  <a href="https://nyti.ms/401i4wm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>For Years She Said a Coach Abused Her. Now She Has Named a Legend.</h3>
-<sub>By Juliet Macur</sub>
-<p>Jennifer Fox has long discussed what happened when she was 13 and her coach was 40. She even based a film on it. Now she has revealed the final detail: his identity.  <a href="https://nyti.ms/3z9tAKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>I Went on a Package Trip for Lonely Millennials. It Was Exhausting.</h3>
-<sub>By Caity Weaver</sub>
-<p>On traveling to Morocco with a group-travel company that promised to build “meaningful friendships” among its youngish clientele.  <a href="https://nyti.ms/3yOL9PE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Macron’s Government Survives but Faces Wrath of France Over Pension Overhaul</h3>
+<sub>By Roger Cohen</sub>
+<p>Two no-confidence votes failed to oust the cabinet of President Emmanuel Macron over a new law raising the retirement age to 64 from 62.  <a href="https://nyti.ms/3LDFHXF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
