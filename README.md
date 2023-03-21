@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 21, Central Standard Time</p>
 <p>
-Recently, there has been a lot of turmoil in Ukraine, with Russia launching attacks on cities like Avdiivka. China has been supplying Russia with drones for the war. Meanwhile, in the US, former President Trump is facing legal troubles, leading to him being possibly indicted. A lot of Republican politicians are still loyal to him despite this, but others are unsure of his political power now. The US needs to be careful with its banking system during this time and Treasury Secretary Yellen is ensuring that additional steps are taken to protect it. Lastly, Fox News has also had some conflicts over their coverage within the company which has caused some production issues.</p>
+There is a lot of tension in the world right now. War in Ukraine is still ongoing, but China has been secretly helping Russia by sending over drones and supplies. On the other side of the world, there are reports that former President Trump is facing potential criminal charges in New York, and he still has a strong grip on the Republican party. Meanwhile, France’s president Emmanuel Macron just barely survived a no confidence vote after forcing through plans to raise the retirement age. There are also labor disputes at Amazon and issues with smaller banks that need more support from the U.S. government and tech giants like Google are competing to create advanced Artificial Intelligence chatbots.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>As War in Ukraine Grinds on, China Helps Refill Russian Drone Supplies</h3>
@@ -110,9 +110,15 @@ Recently, there has been a lot of turmoil in Ukraine, with Russia launching atta
 <p>The producer, Abby Grossberg, said in a pair of lawsuits that the effort to place blame on her and Maria Bartiromo, the Fox Business host, was rooted in rampant misogyny and discrimination at the company.  <a href="https://nyti.ms/40od6cS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google Releases Bard, Its Competitor in the Race to Create A.I. Chatbots</h3>
+<sub>By Nico Grant and Cade Metz</sub>
+<p>The internet giant will grant users access to a chatbot after years of cautious development, chasing splashy debuts from rivals OpenAI and Microsoft.  <a href="https://nyti.ms/3FG1M4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Macron Plots Next Move After Bitter Victory in Pensions Dispute</h3>
-<sub>By Aurelien Breeden and Constant Méheut</sub>
+<h3>Macron Presses Ahead After Bitter Victory in Pensions Dispute</h3>
+<sub>By Constant Méheut and Aurelien Breeden</sub>
 <p>The future of President Emmanuel Macron’s second term was unclear after a no-confidence vote triggered by his effort to raise France’s retirement age fell short by only nine votes.  <a href="https://nyti.ms/42tKFvX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
@@ -123,15 +129,9 @@ Recently, there has been a lot of turmoil in Ukraine, with Russia launching atta
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Markets Extend Gains as Focus Turns to Fed Meeting</h3>
-<sub>By Jason Karaian and Joe Rennison</sub>
-<p>Relief over recent financial rescue measures pushed stocks up for a second day, as investors prepared for a pivotal decision on interest rates.  <a href="https://nyti.ms/3Tva8RA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen Says U.S. Banking System Is ‘Stabilizing’</h3>
+<h3>Yellen Says U.S. Ready to Protect Smaller Banks if Necessary</h3>
 <sub>By Alan Rappeport</sub>
-<p>In prepared remarks, the Treasury secretary pledged that the Biden administration would take additional steps as needed to protect the banking system.  <a href="https://nyti.ms/40rZsFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In prepared remarks, the Treasury secretary pledged that the Biden administration would take additional steps as needed to support the banking system.  <a href="https://nyti.ms/40rZsFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
