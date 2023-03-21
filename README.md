@@ -60,48 +60,66 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 20, Central Standard Time</p>
 <p>
-Hey, I wanted to tell you what&#39;s going on in the world right now. In the US, the governor of Florida is speaking out against a potential indictment against his likely presidential rival in 2024. Donald Trump is asking his supporters to protest his looming indictment, and Republicans are split on whether or not they should. Internationally, a UN report says that we could hit a critical global warming threshold within the next decade if we don&#39;t take immediate action. Here in the US, many states are scrambling over a pipeline project that would bury carbon underground and some people argue that it threatens property rights. Other reports say that climate change could potentially upend federal spending programs. In business news, there&#39;s uncertainty around one bank after its stocks plummeted and another is being operated by two New Yorkers. There&#39;s also a really interesting article about a package trip for millennials meant to create friendships - but it sounds kind of exhausting! In sports, there&#39;s an 88-year-old who is a secret weapon for one team, Rick Pitino is making a comeback as the coach of St John&#39;s after being ousted from Louisville, and some big matchups to look out for in March Madness. What do you think?</p>
+There&#39;s a lot happening in the world right now! In the US, there is a looming indictiment of former President Donald Trump and Republicans are deciding whether to protest it. In Europe, Vladimir Putin and Xi Jinping are celebrating their partnership despite Russia&#39;s recent war in Ukraine. Meanwhile, the UN has released a report showing that there is only 9 years left to stop catastrophic global warming unless people get together to make some big changes. Closer to home, a California bank has seen its stock prices plummet and France has been protesting French President Emmanuel Macron&#39;s government after they passed a law raising the retirement age. Finally, an ex-athlete has come forward and named a former coach as her abuser after discussing it for years.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For the G.O.P., a Looming Trump Indictment Takes Center Stage</h3>
+<sub>By Shane Goldmacher, Maggie Haberman, Jonathan Swan and Annie Karni</sub>
+<p>Gov. Ron DeSantis of Florida spoke on Monday about Donald Trump’s expected indictment, as Republicans weighed whether to heed the former president’s call to protest.  <a href="https://nyti.ms/3yTMd52"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Prosecutor in Trump Case Wades Into Treacherous Political Waters</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>Alvin L. Bragg, the Manhattan district attorney, appears poised to indict former President Donald J. Trump, and the political firestorm has already begun.  <a href="https://nyti.ms/3ySzJKV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis, Breaking Silence on Trump, Criticizes Manhattan Prosecutor</h3>
 <sub>By Maggie Haberman and Jonathan Swan</sub>
 <p>The Florida governor, who had refrained for days from weighing in on the potential indictment of his likely 2024 rival, accused the Manhattan district attorney of political motivations.  <a href="https://nyti.ms/42re89P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Call for Protests of Pending Arrest Splits G.O.P.</h3>
-<sub>By Shane Goldmacher and Alan Feuer</sub>
-<p>After Donald Trump urged supporters to protest his looming indictment, some Republicans have heeded the call, while many others have publicly lobbied against it.  <a href="https://nyti.ms/40cNHD4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Grand Jury Hears From Lawyer Who Assails Cohen’s Credibility</h3>
+<sub>By Ben Protess, Sean Piccoli and Kate Christobek</sub>
+<p>Robert J. Costello, a former legal adviser to Michael Cohen, said after testifying, “I told the grand jury that this guy couldn’t tell the truth if you put a gun to his head.”  <a href="https://nyti.ms/3JUtfl9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin and Xi Celebrate Ties Unbroken by Russia’s War in Ukraine</h3>
+<sub>By Valerie Hopkins, Chris Buckley and Anton Troianovski</sub>
+<p>President Vladimir V. Putin welcomed Xi Jinping, China’s top leader, to Russia, briefly noting Beijing’s peace plan for Ukraine but stressing Moscow and Beijing’s enduring partnership.  <a href="https://nyti.ms/40dpDQu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Earth to Hit Critical Warming Threshold by Early 2030s, Climate Panel Says</h3>
+<h3>World Has Less Than a Decade to Stop Catastrophic Warming, U.N. Panel Says</h3>
 <sub>By Brad Plumer</sub>
-<p>A new U.N. report says it is still possible to hold global warming to relatively safe levels, but doing so will require global cooperation, billions of dollars and big changes.  <a href="https://nyti.ms/3nawTOA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A new report says it is still possible to hold global warming to relatively safe levels, but doing so will require global cooperation, billions of dollars and big changes.  <a href="https://nyti.ms/3nawTOA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Inside the 3 Months That Could Cost Fox $1.6 Billion</h3>
+<sub>By Jeremy W. Peters</sub>
+<p>The decision by Fox News executives in November 2020 to treat the more hard-right Newsmax as a mortal threat spawned a possibly more serious danger.  <a href="https://nyti.ms/3LDw9ff"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Macron’s Government Survives but Faces Wrath of France Over Pension Overhaul</h3>
+<sub>By Roger Cohen</sub>
+<p>Two no-confidence votes failed to oust the cabinet of President Emmanuel Macron over a new law raising the retirement age to 64 from 62.  <a href="https://nyti.ms/3LDFHXF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Different Kind of Pipeline Project Scrambles Midwest Politics</h3>
-<sub>By Mitch Smith and Alyssa Schukar</sub>
-<p>Plans that would bury carbon underground rather than release it in the air have stoked debate over climate and property rights, creating unlikely alliances and stirring memories of fierce battles over oil.  <a href="https://nyti.ms/3TvFyr7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Warns That Climate Change Could Upend Federal Spending Programs</h3>
-<sub>By Jim Tankersley and Christopher Flavelle</sub>
-<p>A chapter in the new Economic Report of the President focuses on the growing risks to people and businesses from rising temperatures, and the government’s role in adapting to them.  <a href="https://nyti.ms/40nSEJ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Bush Doesn’t Second-Guess Himself on Iraq. Even if Everyone Else Does.</h3>
+<sub>By Peter Baker</sub>
+<p>George W. Bush has told advisers that the world is better off without Saddam Hussein — and he has not changed his mind about that.  <a href="https://nyti.ms/3JzxgK6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fate of First Republic Uncertain as Shares Plummet Again</h3>
+<h3>Fate of First Republic Hangs in Balance as Shares Plummet Again</h3>
 <sub>By Rob Copeland and Maureen Farrell</sub>
-<p>A $30 billion cash infusion and a frantic effort to sell a stake in the bank to raise additional funds has done little to calm investors.  <a href="https://nyti.ms/401i4wm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Who’s Behind the Judicial Overhaul Now Dividing Israel? Two New Yorkers.</h3>
-<sub>By David Segal and Isabel Kershner</sub>
-<p>Kohelet, the once-obscure think tank that conceived and now champions a revamped court system, is an American import.  <a href="https://nyti.ms/3Lylse1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A $30 billion cash infusion and a frantic effort to sell a stake in the bank have done little to calm investors.  <a href="https://nyti.ms/401i4wm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -115,24 +133,6 @@ Hey, I wanted to tell you what&#39;s going on in the world right now. In the US,
 <sub>By Caity Weaver</sub>
 <p>On traveling to Morocco with a group-travel company that promised to build “meaningful friendships” among its youngish clientele.  <a href="https://nyti.ms/3yOL9PE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Hoosiers’ Secret Weapon? He’s an 88-Year-Old They Call Pops.</h3>
-<sub>By Talya Minsberg</sub>
-<p>Dick Moren, the father of Teri Moren, the Indiana women’s basketball coach, is the team’s No. 1 fan. He has a stringent game-day routine.  <a href="https://nyti.ms/3loqcrZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Rick Pitino Hired by St. John’s After Time at Iona</h3>
-<sub>By Adam Zagoria</sub>
-<p>Pitino reached the N.C.A.A. men’s tournament with Iona this season. He will take over at St. John’s after being ousted from Louisville in 2017.  <a href="https://nyti.ms/40niT2m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Monday’s Matchups to Watch in the N.C.A.A. Tournament</h3>
-<sub>By Shivani Gonzalez</sub>
-<p>Florida Gulf Coast, a No. 12 seed, takes on the leading scorer in Division I, Maddy Siegrist of Villanova, while UConn and Baylor face off in an intriguing rematch.  <a href="https://nyti.ms/3JTzxBA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
