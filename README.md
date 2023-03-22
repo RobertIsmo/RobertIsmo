@@ -60,8 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 22, Central Standard Time</p>
 <p>
-It looks like there are a lot of important stories happening around the world. In the US, there is a legal battle involving former President Trump and an economic meeting by the Federal Reserve that will have big implications for the Biden administration&#39;s policies. There is also a clash between conservatives and A.I. companies over allegations of liberal bias in chatbots, as well as a three-day strike by school workers in Los Angeles. Internationally, Chinese leader Xi Jinping visited Moscow, reinforcing China and Russia&#39;s shared opposition to American dominance, while in Russia one student was put on a terrorist list for posting online about the war in Ukraine. Lastly, Haiti is facing a security crisis due to gang violence taking over the capital Port-au-Prince. Outside of these major stories, Baseball’s Shohei Ohtani is establishing the World Baseball Classic as a must-watch tournament with his ability to dominate both hitting and pitching and people can explore self-love through swimming nude at queer beaches in Mexico!</p>
+It looks like there have been a lot of economic difficulties lately. Many banks are pulling back on lending, which is causing worries of a recession, especially in the commercial real estate market. There are also legal investigations into former President Donald Trump and his lawyers and documents. This has led to an appeals court tension between prosecutors and Trump’s lawyer. Meanwhile, Chinese president Xi Jinping visited Russia to signal shared opposition to America’s dominance and concerns about containment by other countries. In Russia, there is a case of a student who was put on the official terrorist list for speaking out against the war in Ukraine (which is ongoing) on social media. 
+
+In France, President Emmanuel Macron pushed through a rise in retirement age which has brought about protests - some peaceful and some with a hint of menace as people wait to see where it will lead. Finally, in Britain, lawmakers approved an important element of a Brexit provision negotiated with the European Union.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How the Banking Crisis Has Had the Same Effect as a Fed Rate Increase</h3>
+<sub>By Joe Rennison</sub>
+<p>Some analysts say that the banking industry tumult has slowed the economy as banks pull back on lending.  <a href="https://nyti.ms/3lwuH3E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Bank Crisis Could Cast Pall Over Commercial Real Estate Market</h3>
+<sub>By Matthew Goldstein</sub>
+<p>The market hadn’t fully rebounded from the pandemic. Some worry that another slowdown could add to fears of a recession.  <a href="https://nyti.ms/3K0cq8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Grand Jury Hearing Trump Evidence Will Not Meet Wednesday</h3>
+<sub>By William K. Rashbaum, Maggie Haberman, Jonah E. Bromwich and Ben Protess</sub>
+<p>While prosecutors have signaled that an indictment of the former president is likely, its specific timing remains unclear, and grand juries conduct their work in secret.  <a href="https://nyti.ms/3K1AOqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Legal Intricacies That Could Make or Break the Case Against Trump</h3>
 <sub>By Ben Protess, Jonah E. Bromwich, William K. Rashbaum and Kate Christobek</sub>
@@ -72,18 +92,6 @@ It looks like there are a lot of important stories happening around the world. I
 <h3>Trump Documents Inquiry Prompts Clash in Appeals Court</h3>
 <sub>By Alan Feuer</sub>
 <p>At issue is whether prosecutors have sufficient evidence of a crime to force a lawyer for Donald J. Trump to testify to a grand jury and turn over documents related to his representation of the former president.  <a href="https://nyti.ms/3Z3UaiB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fed Meeting Holds High Stakes for Biden</h3>
-<sub>By Jim Tankersley</sub>
-<p>The president is counting on the central bank to strike the right balance on jobs and inflation — and to prevent a spiraling financial crisis.  <a href="https://nyti.ms/42pP2s9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to Watch as the Fed Meets Amid Bank Turmoil</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve is expected to raise interest rates slightly, but its path is uncertain as worries plague the banking system.  <a href="https://nyti.ms/42uoeqE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,40 +106,34 @@ It looks like there are a lot of important stories happening around the world. I
 <p>The case of Olesya Krivtsova, a Russian student who ended up on the Kremlin’s official terrorist list, has underscored the perils of using social media to criticize the Kremlin’s war in Ukraine.  <a href="https://nyti.ms/3LHBORn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Los Angeles Schools Shut Down After Workers Launch Three-Day Strike</h3>
-<sub>By Corina Knoll, Kurtis Lee and Ana Facio-Krajcer</sub>
-<p>The work stoppage began early Tuesday morning with a picket line at a district bus yard.  <a href="https://nyti.ms/3JzWZSW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Not Your Daddy’s Freud</h3>
+<sub>By Joseph Bernstein</sub>
+<p>A new generation of analysts and patients are embracing the father of psychoanalysis – in magazines and memes and many hours on the couch.  <a href="https://nyti.ms/3K0iHB5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Conservatives Aim to Build a Chatbot of Their Own</h3>
-<sub>By Stuart A. Thompson, Tiffany Hsu and Steven Lee Myers</sub>
-<p>After criticizing A.I. companies for liberal bias, programmers started envisioning right-wing alternatives, making chatbots a new front in the culture wars.  <a href="https://nyti.ms/42zYXLB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Chicago Mayor’s Race, a Former Teacher Rises With Union Support</h3>
+<sub>By Mitch Smith</sub>
+<p>Brandon Johnson, a county commissioner who once taught in struggling neighborhoods, soared in the polls after an endorsement and donations from the Chicago Teachers Union.  <a href="https://nyti.ms/405lm1H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Haiti’s Police Retreat, Gangs Take Over Much of the Capital</h3>
-<sub>By Andre Paultre and Chris Cameron</sub>
-<p>Even wealthier areas in the capital, Port-au-Prince, are no longer immune to violence as gangs attack police officers and destroy police stations.  <a href="https://nyti.ms/42nPQh0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.K. Lawmakers Approve Key Measure of Northern Ireland Trade Deal</h3>
+<sub>By Megan Specia</sub>
+<p>An important element of the agreement known as the Windsor Framework, a Brexit provision negotiated with the European Union, was roundly endorsed in the British Parliament.  <a href="https://nyti.ms/3yVhGnk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Inside a Brooklyn School Teaching the Course That Florida Banned</h3>
-<sub>By Troy Closson</sub>
-<p>Students taking the African American studies class have learned about ancient kingdoms, 20th-century movements and modern issues.  <a href="https://nyti.ms/42HsRhg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Macron Denounces Violent Protests, Warning Against ‘Excesses’</h3>
+<sub>By Roger Cohen and Aurelien Breeden</sub>
+<p>President Emmanuel Macron of France, in his first remarks since pushing through a rise in the retirement age, was firm and unapologetic.  <a href="https://nyti.ms/3LNscF3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Baseball’s Unicorn Made the W.B.C. ‘Real’</h3>
-<sub>By Tyler Kepner</sub>
-<p>Shohei Ohtani’s ability to dominate as a hitter and as a pitcher delivered a championship for Japan while establishing the World Baseball Classic as a must-watch tournament.  <a href="https://nyti.ms/42xVXj2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Want to Love Your Body? Try Swimming Naked.</h3>
-<sub>By Jenna Wortham</sub>
-<p>Searching for myself at a queer nude beach in Mexico.  <a href="https://nyti.ms/3ncSfv1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>On Paris Streets, Anti-Macron Protests Take On a Hint of Menace</h3>
+<sub>By Catherine Porter</sub>
+<p>Peaceful solidarity alternates with the threat of violence, and all of France waits to see which way the standoff will turn.  <a href="https://nyti.ms/3yZ8tdS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
