@@ -60,10 +60,21 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 22, Central Standard Time</p>
 <p>
-It looks like there have been a lot of economic difficulties lately. Many banks are pulling back on lending, which is causing worries of a recession, especially in the commercial real estate market. There are also legal investigations into former President Donald Trump and his lawyers and documents. This has led to an appeals court tension between prosecutors and Trump’s lawyer. Meanwhile, Chinese president Xi Jinping visited Russia to signal shared opposition to America’s dominance and concerns about containment by other countries. In Russia, there is a case of a student who was put on the official terrorist list for speaking out against the war in Ukraine (which is ongoing) on social media. 
-
-In France, President Emmanuel Macron pushed through a rise in retirement age which has brought about protests - some peaceful and some with a hint of menace as people wait to see where it will lead. Finally, in Britain, lawmakers approved an important element of a Brexit provision negotiated with the European Union.</p>
+There are a lot of things happening in the world right now. In the US, an appeals court is requiring the president&#39;s lawyer to turn over documents as part of an inquiry. In New York, prosecutors are looking into evidence against former president Trump but the timing of any indictment remains unclear. The banking crisis has had the same effect as a Fed rate increase, and stocks dropped when rates were raised despite banking turmoil. There are worries about a recession if the commercial real estate market doesn&#39;t rebound from the pandemic. 
+In foreign news, China and Russia seem to be joining forces in opposition to American dominance while a student is facing prison time after posting online about the war in Ukraine. In Japan, geothermal power is not being used despite being both cheap and clean. The U.K. just approved measures of a Brexit-related Northern Ireland trade deal and Boris Johnson is facing scrutiny for his statements to Parliament. Finally, there&#39;s a new generation of people embracing Freud and his theories while a former teacher running for mayor of Chicago has gained momentum with union support.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Appeals Court Orders Trump Lawyer to Hand Over Records in Documents Inquiry</h3>
+<sub>By Alan Feuer</sub>
+<p>The ruling compelling the lawyer, M. Evan Corcoran, to turn over documents came after a lightning round of appeals court filings overnight.  <a href="https://nyti.ms/3Z3UaiB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Grand Jury Hearing Trump Evidence Did Not Meet Wednesday</h3>
+<sub>By William K. Rashbaum, Maggie Haberman, Jonah E. Bromwich and Ben Protess</sub>
+<p>While prosecutors have signaled that an indictment of the former president is likely, its specific timing remains unclear, and grand juries conduct their work in secret.  <a href="https://nyti.ms/3K1AOqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How the Banking Crisis Has Had the Same Effect as a Fed Rate Increase</h3>
 <sub>By Joe Rennison</sub>
@@ -71,27 +82,15 @@ In France, President Emmanuel Macron pushed through a rise in retirement age whi
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Stocks Drop After Fed Raises Rates Despite Banking Turmoil</h3>
+<sub>By Joe Rennison</sub>
+<p>There had been widespread uncertainty about whether the Federal Reserve would continue raising rates after turmoil in the banking industry.  <a href="https://nyti.ms/3JBiL8P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Bank Crisis Could Cast Pall Over Commercial Real Estate Market</h3>
 <sub>By Matthew Goldstein</sub>
 <p>The market hadn’t fully rebounded from the pandemic. Some worry that another slowdown could add to fears of a recession.  <a href="https://nyti.ms/3K0cq8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Grand Jury Hearing Trump Evidence Will Not Meet Wednesday</h3>
-<sub>By William K. Rashbaum, Maggie Haberman, Jonah E. Bromwich and Ben Protess</sub>
-<p>While prosecutors have signaled that an indictment of the former president is likely, its specific timing remains unclear, and grand juries conduct their work in secret.  <a href="https://nyti.ms/3K1AOqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Legal Intricacies That Could Make or Break the Case Against Trump</h3>
-<sub>By Ben Protess, Jonah E. Bromwich, William K. Rashbaum and Kate Christobek</sub>
-<p>To try to convict the former president of a felony, prosecutors might attempt to connect state election law to a federal election.  <a href="https://nyti.ms/403tcJe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Documents Inquiry Prompts Clash in Appeals Court</h3>
-<sub>By Alan Feuer</sub>
-<p>At issue is whether prosecutors have sufficient evidence of a crime to force a lawyer for Donald J. Trump to testify to a grand jury and turn over documents related to his representation of the former president.  <a href="https://nyti.ms/3Z3UaiB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -106,16 +105,10 @@ In France, President Emmanuel Macron pushed through a rise in retirement age whi
 <p>The case of Olesya Krivtsova, a Russian student who ended up on the Kremlin’s official terrorist list, has underscored the perils of using social media to criticize the Kremlin’s war in Ukraine.  <a href="https://nyti.ms/3LHBORn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Not Your Daddy’s Freud</h3>
-<sub>By Joseph Bernstein</sub>
-<p>A new generation of analysts and patients are embracing the father of psychoanalysis – in magazines and memes and many hours on the couch.  <a href="https://nyti.ms/3K0iHB5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Chicago Mayor’s Race, a Former Teacher Rises With Union Support</h3>
-<sub>By Mitch Smith</sub>
-<p>Brandon Johnson, a county commissioner who once taught in struggling neighborhoods, soared in the polls after an endorsement and donations from the Chicago Teachers Union.  <a href="https://nyti.ms/405lm1H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Geothermal Power, Cheap and Clean, Could Help Run Japan. So Why Doesn’t It?</h3>
+<sub>By Hiroko Tabuchi and Chang W. Lee</sub>
+<p>For decades, new plants have been blocked by powerful local interests, the owners of hot spring resorts, that say the sites threaten a centuries-old tradition.  <a href="https://nyti.ms/3FKhMSu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -125,15 +118,21 @@ In France, President Emmanuel Macron pushed through a rise in retirement age whi
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Macron Denounces Violent Protests, Warning Against ‘Excesses’</h3>
-<sub>By Roger Cohen and Aurelien Breeden</sub>
-<p>President Emmanuel Macron of France, in his first remarks since pushing through a rise in the retirement age, was firm and unapologetic.  <a href="https://nyti.ms/3LNscF3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Testy Exchanges, Johnson Vows He Didn’t Intend to Mislead Parliament</h3>
+<sub>By Stephen Castle</sub>
+<p>Boris Johnson told a powerful committee that his statements over parties at his office were “made in good faith.” His political future may be at stake.  <a href="https://nyti.ms/3yXDwXj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>On Paris Streets, Anti-Macron Protests Take On a Hint of Menace</h3>
-<sub>By Catherine Porter</sub>
-<p>Peaceful solidarity alternates with the threat of violence, and all of France waits to see which way the standoff will turn.  <a href="https://nyti.ms/3yZ8tdS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Not Your Daddy’s Freud</h3>
+<sub>By Joseph Bernstein</sub>
+<p>A new generation of analysts and patients is embracing the father of psychoanalysis – in magazines and memes and many hours on the couch.  <a href="https://nyti.ms/3K0iHB5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Chicago Mayor’s Race, a Former Teacher Rises With Union Support</h3>
+<sub>By Mitch Smith</sub>
+<p>Brandon Johnson, a county commissioner who once taught in struggling neighborhoods, soared in the polls after an endorsement and donations from the Chicago Teachers Union.  <a href="https://nyti.ms/405lm1H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
