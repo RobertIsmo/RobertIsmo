@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 22, Central Standard Time</p>
 <p>
-Right now, the Federal Reserve is investigating the failure of a bank and Congress is looking into bank oversight. Smaller banks are trying to reassure their customers, while big banks are receiving more business. The former US president, Donald Trump, is facing potential legal problems and the governor of Florida has recently commented on his character. Meanwhile, a man died in police custody in Virginia, and there is a war brewing between Russia and Ukraine. Japan beat the US in the world baseball classic with exceptional playing by Shohei Ohtani, and there are tensions over TikTok as its CEO is set to testify about it in front of Congress. Finally, a study has been released about Covid-19 and its origins in an animal market in Wuhan, China.</p>
+Right now, there are a lot of important developments in the news. Just in the US, there&#39;s a legal investigation into Donald Trump&#39;s potential involvement in a felony as well as an ongoing discussion about the implications of putting a stop to TikTok. Additionally, Virginia authorities have released a video showing the death of a man at their custody in March and Florida governor DeSantis has been raising questions about the character of former President Trump. In terms of economics, small and midsize banks are trying to keep depositors from panicking while questions arise about the Fed having sufficient oversight on the banking sector. International news includes China and Russia forming a stronger economic partnership, despite issues with Ukraine, as well as Japan winning the World Baseball Classic with Shohei Ohtani being heralded as its star player. Finally, there&#39;s been an important scientific finding from new research that came out of Wuhan: it turns out samples taken from a local market had traces of covid-19 and raccoon dog genetic material in them.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A Big Question for the Fed: What Went Wrong With Bank Oversight?</h3>
@@ -110,17 +110,17 @@ Right now, the Federal Reserve is investigating the failure of a bank and Congre
 <p>On the second day of the Chinese leader’s state visit in Moscow, Xi Jinping and Vladimir V. Putin declared an enduring economic partnership, in an effort to insulate their countries from punitive Western measures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Its Forces Under Siege, Ukraine Hits Distant, Russian-Held Crimea</h3>
-<sub>By Marc Santora</sub>
-<p>The Crimean Peninsula, which Russia seized in 2014, has been a staging ground for other attacks and an increasingly attractive target for Ukraine.  <a href="https://nyti.ms/3ncPauI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Ohtani Shines as Japan Beats U.S. to Win World Baseball Classic</h3>
 <sub>By James Wagner</sub>
 <p>A thrilling tournament ended emphatically with Shohei Ohtani striking out Mike Trout to give Japan its third W.B.C. crown.  <a href="https://nyti.ms/3Z1A0pn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Baseball’s Unicorn Made the W.B.C. ‘Real’</h3>
+<sub>By Tyler Kepner</sub>
+<p>Shohei Ohtani’s ability to dominate as a hitter and as a pitcher delivered a championship for Japan while establishing the World Baseball Classic as a must-watch tournament.  <a href="https://nyti.ms/42xVXj2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pulling the Plug on TikTok Will Be Harder Than It Looks</h3>
