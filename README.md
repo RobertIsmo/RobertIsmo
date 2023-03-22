@@ -60,12 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 22, Central Standard Time</p>
 <p>
-The world is currently facing numerous issues:
-1. In the US, the legal case against former President Trump is getting complicated with prosecutors trying to find a connection between state and federal election laws. At the same time, the Federal Reserve is preparing to meet with President Biden to find ways to enhance jobs and inflation growth, as well as prevent a financial crisis.
-2. Russia is dealing with Olesya Krivtsova, a student who was placed on its terrorist list after posting about the war in Ukraine on social media. Meanwhile, China&#39;s leader Xi Jinping visited Moscow to make sure China could oppose US dominance without focusing on the war in Ukraine.
-3. In America, conservatives are pushing for chatbot alternatives as they feel AI companies are biased against them and technology has become a new &#39;front&#39; in their culture wars.
-4. In Virginia, a man of Kenyan descent called Irvo Otieno died while in custody, ending his journey of pursuing the American dream, while Haiti is suffering from police officers deserting their posts and groups taking advantage of the situation by unleashing violence upon its citizens. 
-5. Lastly, students in Brooklyn are taking an African American studies course that was banned in Florida. This has sparked controversy about tech-company TikTok as its CEO prepares to testify on Capitol Hill regarding rumors of it being shut down.</p>
+It looks like there are a lot of important stories happening around the world. In the US, there is a legal battle involving former President Trump and an economic meeting by the Federal Reserve that will have big implications for the Biden administration&#39;s policies. There is also a clash between conservatives and A.I. companies over allegations of liberal bias in chatbots, as well as a three-day strike by school workers in Los Angeles. Internationally, Chinese leader Xi Jinping visited Moscow, reinforcing China and Russia&#39;s shared opposition to American dominance, while in Russia one student was put on a terrorist list for posting online about the war in Ukraine. Lastly, Haiti is facing a security crisis due to gang violence taking over the capital Port-au-Prince. Outside of these major stories, Baseball’s Shohei Ohtani is establishing the World Baseball Classic as a must-watch tournament with his ability to dominate both hitting and pitching and people can explore self-love through swimming nude at queer beaches in Mexico!</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Legal Intricacies That Could Make or Break the Case Against Trump</h3>
@@ -73,17 +68,11 @@ The world is currently facing numerous issues:
 <p>To try to convict the former president of a felony, prosecutors might attempt to connect state election law to a federal election.  <a href="https://nyti.ms/403tcJe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Michael Cohen’s Long Arc From Trump Ally to Chief Antagonist</h3>
-<sub>By Maggie Haberman, Ben Protess and Jonah E. Bromwich</sub>
-<p>He once said he would take a bullet for Donald Trump. Now, he’s hoping to help prosecutors put him away.  <a href="https://nyti.ms/42tUESb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump at Mar-a-Lago: Magical Thinking and a Perp-Walk Fixation</h3>
-<sub>By Michael C. Bender and Maggie Haberman</sub>
-<p>Those who have spent time with Donald Trump in recent days say he has often appeared significantly disconnected from the severity of his potential legal woes.  <a href="https://nyti.ms/3FFDMxU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<h3>Trump Documents Inquiry Prompts Clash in Appeals Court</h3>
+<sub>By Alan Feuer</sub>
+<p>At issue is whether prosecutors have sufficient evidence of a crime to force a lawyer for Donald J. Trump to testify to a grand jury and turn over documents related to his representation of the former president.  <a href="https://nyti.ms/3Z3UaiB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Fed Meeting Holds High Stakes for Biden</h3>
@@ -98,46 +87,52 @@ The world is currently facing numerous issues:
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In a Brother Act With Putin, Xi Reveals China’s Fear of Containment</h3>
+<sub>By Chris Buckley</sub>
+<p>Instead of focusing on a solution to the war in Ukraine, the Chinese leader’s visit to Moscow reinforced China and Russia’s shared opposition to American dominance.  <a href="https://nyti.ms/40oiJYH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>She Posted Online About the War in Ukraine. Then She Faced a Prison Term.</h3>
 <sub>By Valerie Hopkins</sub>
 <p>The case of Olesya Krivtsova, a Russian student who ended up on the Kremlin’s official terrorist list, has underscored the perils of using social media to criticize the Kremlin’s war in Ukraine.  <a href="https://nyti.ms/3LHBORn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Brother Act with Putin, Xi Reveals China’s Fear of Containment</h3>
-<sub>By Chris Buckley</sub>
-<p>Instead of focusing on a solution to the war in Ukraine, the Chinese leader’s visit to Moscow reinforced China and Russia’s shared opposition to American dominance.  <a href="https://nyti.ms/40oiJYH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Los Angeles Schools Shut Down After Workers Launch Three-Day Strike</h3>
+<sub>By Corina Knoll, Kurtis Lee and Ana Facio-Krajcer</sub>
+<p>The work stoppage began early Tuesday morning with a picket line at a district bus yard.  <a href="https://nyti.ms/3JzWZSW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As Chatbots Spread, Conservatives Dream About a Right-Wing Response</h3>
+<h3>Conservatives Aim to Build a Chatbot of Their Own</h3>
 <sub>By Stuart A. Thompson, Tiffany Hsu and Steven Lee Myers</sub>
 <p>After criticizing A.I. companies for liberal bias, programmers started envisioning right-wing alternatives, making chatbots a new front in the culture wars.  <a href="https://nyti.ms/42zYXLB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Video Shows Virginia Man’s Death in Custody</h3>
-<sub>By Campbell Robertson and Christine Hauser</sub>
-<p>Irvo Otieno’s death was a devastating ending to a journey that began when his family immigrated from Kenya when he was a young boy, “compelled by the American dream.”  <a href="https://nyti.ms/3lqAt74"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Haiti’s Police Retreat, Gangs Take Over Much of the Capital</h3>
-<sub>By Chris Cameron and Andre Paultre</sub>
+<sub>By Andre Paultre and Chris Cameron</sub>
 <p>Even wealthier areas in the capital, Port-au-Prince, are no longer immune to violence as gangs attack police officers and destroy police stations.  <a href="https://nyti.ms/42nPQh0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Inside a Brooklyn School Teaching the Course That Florida Banned</h3>
 <sub>By Troy Closson</sub>
-<p>Students taking the African American studies class have learned about ancient kingdoms, 20th century movements and modern issues.  <a href="https://nyti.ms/42HsRhg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Students taking the African American studies class have learned about ancient kingdoms, 20th-century movements and modern issues.  <a href="https://nyti.ms/42HsRhg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pulling the Plug on TikTok Will Be Harder Than It Looks</h3>
-<sub>By David E. Sanger, David McCabe and Sapna Maheshwari</sub>
-<p>The tensions over the Chinese-owned social media app will come to a head on Thursday, when the company’s chief executive testifies on Capitol Hill.  <a href="https://nyti.ms/3LBeJzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Baseball’s Unicorn Made the W.B.C. ‘Real’</h3>
+<sub>By Tyler Kepner</sub>
+<p>Shohei Ohtani’s ability to dominate as a hitter and as a pitcher delivered a championship for Japan while establishing the World Baseball Classic as a must-watch tournament.  <a href="https://nyti.ms/42xVXj2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Want to Love Your Body? Try Swimming Naked.</h3>
+<sub>By Jenna Wortham</sub>
+<p>Searching for myself at a queer nude beach in Mexico.  <a href="https://nyti.ms/3ncSfv1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
