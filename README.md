@@ -60,25 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 22, Central Standard Time</p>
 <p>
-Right now, there are a lot of important developments in the news. Just in the US, there&#39;s a legal investigation into Donald Trump&#39;s potential involvement in a felony as well as an ongoing discussion about the implications of putting a stop to TikTok. Additionally, Virginia authorities have released a video showing the death of a man at their custody in March and Florida governor DeSantis has been raising questions about the character of former President Trump. In terms of economics, small and midsize banks are trying to keep depositors from panicking while questions arise about the Fed having sufficient oversight on the banking sector. International news includes China and Russia forming a stronger economic partnership, despite issues with Ukraine, as well as Japan winning the World Baseball Classic with Shohei Ohtani being heralded as its star player. Finally, there&#39;s been an important scientific finding from new research that came out of Wuhan: it turns out samples taken from a local market had traces of covid-19 and raccoon dog genetic material in them.</p>
+The world is currently facing numerous issues:
+1. In the US, the legal case against former President Trump is getting complicated with prosecutors trying to find a connection between state and federal election laws. At the same time, the Federal Reserve is preparing to meet with President Biden to find ways to enhance jobs and inflation growth, as well as prevent a financial crisis.
+2. Russia is dealing with Olesya Krivtsova, a student who was placed on its terrorist list after posting about the war in Ukraine on social media. Meanwhile, China&#39;s leader Xi Jinping visited Moscow to make sure China could oppose US dominance without focusing on the war in Ukraine.
+3. In America, conservatives are pushing for chatbot alternatives as they feel AI companies are biased against them and technology has become a new &#39;front&#39; in their culture wars.
+4. In Virginia, a man of Kenyan descent called Irvo Otieno died while in custody, ending his journey of pursuing the American dream, while Haiti is suffering from police officers deserting their posts and groups taking advantage of the situation by unleashing violence upon its citizens. 
+5. Lastly, students in Brooklyn are taking an African American studies course that was banned in Florida. This has sparked controversy about tech-company TikTok as its CEO prepares to testify on Capitol Hill regarding rumors of it being shut down.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Big Question for the Fed: What Went Wrong With Bank Oversight?</h3>
-<sub>By Jeanna Smialek</sub>
-<p>As the Federal Reserve reviews the failure of Silicon Valley Bank, and Congress prepares for hearings, bank oversight is getting a closer look.  <a href="https://nyti.ms/40nWFNH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Regional Banks and Regulators Try to Soothe Depositors’ Fears</h3>
-<sub>By Stacy Cowley</sub>
-<p>While some executives said money wasn’t being pulled from their small and midsize banks, the “too big to fail” giants attracted business customers.  <a href="https://nyti.ms/3JWW9AV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Legal Intricacies That Could Make or Break the Case Against Trump</h3>
 <sub>By Ben Protess, Jonah E. Bromwich, William K. Rashbaum and Kate Christobek</sub>
 <p>To try to convict the former president of a felony, prosecutors might attempt to connect state election law to a federal election.  <a href="https://nyti.ms/403tcJe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Michael Cohen’s Long Arc From Trump Ally to Chief Antagonist</h3>
+<sub>By Maggie Haberman, Ben Protess and Jonah E. Bromwich</sub>
+<p>He once said he would take a bullet for Donald Trump. Now, he’s hoping to help prosecutors put him away.  <a href="https://nyti.ms/42tUESb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump at Mar-a-Lago: Magical Thinking and a Perp-Walk Fixation</h3>
@@ -87,16 +86,34 @@ Right now, there are a lot of important developments in the news. Just in the US
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Possible Trump Indictment Puts Attention on Prosecutorial Discretion</h3>
-<sub>By Charlie Savage</sub>
-<p>The Manhattan district attorney has considerable leeway in deciding whether to bring charges against the former president using what could be an untested legal theory.  <a href="https://nyti.ms/3lqb3GF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<h3>Fed Meeting Holds High Stakes for Biden</h3>
+<sub>By Jim Tankersley</sub>
+<p>The president is counting on the central bank to strike the right balance on jobs and inflation — and to prevent a spiraling financial crisis.  <a href="https://nyti.ms/42pP2s9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis, Doubling Down, Presses Questions About Trump’s Character</h3>
-<sub>By Maggie Haberman</sub>
-<p>In an interview with Piers Morgan, the Florida governor sought to strike a clear contrast with Donald Trump, calling himself a low-drama “winner.”  <a href="https://nyti.ms/3n4GvKN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What to Watch as the Fed Meets Amid Bank Turmoil</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Federal Reserve is expected to raise interest rates slightly, but its path is uncertain as worries plague the banking system.  <a href="https://nyti.ms/42uoeqE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>She Posted Online About the War in Ukraine. Then She Faced a Prison Term.</h3>
+<sub>By Valerie Hopkins</sub>
+<p>The case of Olesya Krivtsova, a Russian student who ended up on the Kremlin’s official terrorist list, has underscored the perils of using social media to criticize the Kremlin’s war in Ukraine.  <a href="https://nyti.ms/3LHBORn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In a Brother Act with Putin, Xi Reveals China’s Fear of Containment</h3>
+<sub>By Chris Buckley</sub>
+<p>Instead of focusing on a solution to the war in Ukraine, the Chinese leader’s visit to Moscow reinforced China and Russia’s shared opposition to American dominance.  <a href="https://nyti.ms/40oiJYH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As Chatbots Spread, Conservatives Dream About a Right-Wing Response</h3>
+<sub>By Stuart A. Thompson, Tiffany Hsu and Steven Lee Myers</sub>
+<p>After criticizing A.I. companies for liberal bias, programmers started envisioning right-wing alternatives, making chatbots a new front in the culture wars.  <a href="https://nyti.ms/42zYXLB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Video Shows Virginia Man’s Death in Custody</h3>
@@ -105,33 +122,21 @@ Right now, there are a lot of important developments in the news. Just in the US
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Xi and Putin Bind China and Russia’s Economies Further, Despite War in Ukraine</h3>
-<sub>By Valerie Hopkins and Chris Buckley</sub>
-<p>On the second day of the Chinese leader’s state visit in Moscow, Xi Jinping and Vladimir V. Putin declared an enduring economic partnership, in an effort to insulate their countries from punitive Western measures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<h3>As Haiti’s Police Retreat, Gangs Take Over Much of the Capital</h3>
+<sub>By Chris Cameron and Andre Paultre</sub>
+<p>Even wealthier areas in the capital, Port-au-Prince, are no longer immune to violence as gangs attack police officers and destroy police stations.  <a href="https://nyti.ms/42nPQh0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Ohtani Shines as Japan Beats U.S. to Win World Baseball Classic</h3>
-<sub>By James Wagner</sub>
-<p>A thrilling tournament ended emphatically with Shohei Ohtani striking out Mike Trout to give Japan its third W.B.C. crown.  <a href="https://nyti.ms/3Z1A0pn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Baseball’s Unicorn Made the W.B.C. ‘Real’</h3>
-<sub>By Tyler Kepner</sub>
-<p>Shohei Ohtani’s ability to dominate as a hitter and as a pitcher delivered a championship for Japan while establishing the World Baseball Classic as a must-watch tournament.  <a href="https://nyti.ms/42xVXj2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Inside a Brooklyn School Teaching the Course That Florida Banned</h3>
+<sub>By Troy Closson</sub>
+<p>Students taking the African American studies class have learned about ancient kingdoms, 20th century movements and modern issues.  <a href="https://nyti.ms/42HsRhg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pulling the Plug on TikTok Will Be Harder Than It Looks</h3>
 <sub>By David E. Sanger, David McCabe and Sapna Maheshwari</sub>
 <p>The tensions over the Chinese-owned social media app will come to a head on Thursday, when the company’s chief executive testifies on Capitol Hill.  <a href="https://nyti.ms/3LBeJzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Wuhan Market Samples Contained Covid and Animal Mixtures, Report Says</h3>
-<sub>By Benjamin Mueller</sub>
-<p>In a much-anticipated study, experts described a swab that was positive for the coronavirus and contained loads of genetic material from raccoon dogs.  <a href="https://nyti.ms/3ZlxkDv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
