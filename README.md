@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 21, Central Standard Time</p>
 <p>
-It looks like the Federal Reserve is looking into the failure of Silicon Valley Bank, while Congress prepares for hearings on the subject. Meanwhile, relief over recent financial rescue measures has pushed stocks up for a second day, with investors expecting decisions from the Fed on interest rates. In other news, Ukraine is under siege, and there&#39;s a push to insure big deposits on Capitol Hill. In the US, there&#39;s been a video released of an immigrant man&#39;s death in custody, as well as speculation about the potential indictment of Donald Trump. People are also talking about Michael Bloomberg spending five million to support Kathy Hochul’s budget plans. Lastly, we&#39;ve seen Google enter the race to make A.I chatbots, and news about tall people not playing basketball in March!</p>
+There&#39;s a lot going on in the world at the moment. The Federal Reserve is reviewing why Silicon Valley Bank failed, and Congress is preparing for hearings about this. Banks and regulators are trying to reassure scared depositors. There&#39;s a legal case against Trump that could go either way. In Virginia, video was released of a man&#39;s death in custody that started when his family migrated for the American dream. China and Russia are strengthening their economic bonds despite war in Ukraine, and Ukraine has started attacking Crimea. People who are vertically gifted have a tough time throughout March because everyone assumes they play basketball. A decision will be made soon on whether or not to shut down TikTok, the Chinese-owned social media app. Basketball legend Willis Reed passed away and there’s new research into a swab sample that links the coronavirus to raccoon dogs – it was taken from the Wuhan market.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A Big Question for the Fed: What Went Wrong With Bank Oversight?</h3>
@@ -69,21 +69,27 @@ It looks like the Federal Reserve is looking into the failure of Silicon Valley 
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Markets Extend Gains as Focus Turns to Fed Meeting</h3>
-<sub>By Jason Karaian and Joe Rennison</sub>
-<p>Relief over recent financial rescue measures pushed stocks up for a second day, as investors prepared for a pivotal decision from the Federal Reserve on interest rates.  <a href="https://nyti.ms/3Tva8RA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Regional Banks and Regulators Try to Soothe Depositors’ Fears</h3>
+<sub>By Stacy Cowley</sub>
+<p>While some executives said money wasn’t being pulled from their small and midsize banks, the “too big to fail” giants attracted business customers.  <a href="https://nyti.ms/3JWW9AV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Push to Insure Big Deposits Percolates on Capitol Hill</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The government insures only deposits of less than $250,000, but there is precedent for lifting that cap amid turmoil. It could happen again.  <a href="https://nyti.ms/3JWdpGw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Legal Intricacies That Could Make or Break the Case Against Trump</h3>
+<sub>By Ben Protess, Jonah E. Bromwich, William K. Rashbaum and Kate Christobek</sub>
+<p>To try to convict the former president of a felony, prosecutors might attempt to connect state election law to a federal election.  <a href="https://nyti.ms/403tcJe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Its Forces Under Siege, Ukraine Hits Distant, Russian-Held Crimea</h3>
-<sub>By Marc Santora</sub>
-<p>The Crimean Peninsula, which Russia seized in 2014, has been a staging ground for other attacks and an increasingly attractive target for Ukraine.  <a href="https://nyti.ms/3ncPauI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump at Mar-a-Lago: Magical Thinking and a Perp-Walk Fixation</h3>
+<sub>By Michael C. Bender and Maggie Haberman</sub>
+<p>Those who have spent time with Donald Trump in recent days say he has often appeared significantly disconnected from the severity of his potential legal woes.  <a href="https://nyti.ms/3FFDMxU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Possible Trump Indictment Puts Attention on Prosecutorial Discretion</h3>
+<sub>By Charlie Savage</sub>
+<p>The Manhattan district attorney has considerable leeway in deciding whether to bring charges against the former president using what could be an untested legal theory.  <a href="https://nyti.ms/3lqb3GF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,22 +98,16 @@ It looks like the Federal Reserve is looking into the failure of Silicon Valley 
 <p>Irvo Otieno’s death was a devastating ending to a journey that began when his family immigrated from Kenya when he was a young boy, “compelled by the American dream.”  <a href="https://nyti.ms/3lqAt74"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘The Circus Continues’: For Trump, Legal Woes Resurrect Old Habits</h3>
-<sub>By Michael C. Bender</sub>
-<p>The former president strengthened his political position in recent weeks, but an impetuous response to his potential indictment could alienate voters he will need to win back the White House.  <a href="https://nyti.ms/3TDWko3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Xi and Putin Bind China and Russia’s Economies Further, Despite War in Ukraine</h3>
+<sub>By Valerie Hopkins and Chris Buckley</sub>
+<p>On the second day of the Chinese leader’s state visit in Moscow, Xi Jinping and Vladimir V. Putin declared an enduring economic partnership, in an effort to insulate their countries from punitive Western measures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How an Indictment and Arrest of Donald Trump Could Unfold</h3>
-<sub>By William K. Rashbaum and Jonah E. Bromwich</sub>
-<p>An indictment could be handed up as soon as Wednesday, but much about how the process might play out remains unknown.  <a href="https://nyti.ms/3n7Eg9G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>A Rough Guide of the Electoral Fallout if Trump Is Indicted</h3>
-<sub>By Nate Cohn</sub>
-<p>It would be uncharted territory, but the F.B.I. search of Mar-a-Lago offers at least some precedent.  <a href="https://nyti.ms/3TtnZrL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Its Forces Under Siege, Ukraine Hits Distant, Russian-Held Crimea</h3>
+<sub>By Marc Santora</sub>
+<p>The Crimean Peninsula, which Russia seized in 2014, has been a staging ground for other attacks and an increasingly attractive target for Ukraine.  <a href="https://nyti.ms/3ncPauI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -116,22 +116,22 @@ It looks like the Federal Reserve is looking into the failure of Silicon Valley 
 <p>For the vertically gifted, every day of the year means standing out. But March can be particularly maddening.  <a href="https://nyti.ms/3LFnTLY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google Releases Bard, Its Competitor in the Race to Create A.I. Chatbots</h3>
-<sub>By Nico Grant and Cade Metz</sub>
-<p>The internet giant will grant users access to a chatbot after years of cautious development, chasing splashy debuts from rivals OpenAI and Microsoft.  <a href="https://nyti.ms/3FG1M4d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pulling the Plug on TikTok Will Be Harder Than It Looks</h3>
+<sub>By David E. Sanger, David McCabe and Sapna Maheshwari</sub>
+<p>The tensions over the Chinese-owned social media app will come to a head on Thursday, when the company’s chief executive testifies on Capitol Hill.  <a href="https://nyti.ms/3LBeJzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>What Google Bard Can Do (and What It Can’t)</h3>
-<sub>By Cade Metz</sub>
-<p>Google has released a new chatbot to a limited number of people in the U.S. and Britain. How does it compare with what is already out there?  <a href="https://nyti.ms/3FBV6E7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Willis Reed, Hall of Fame Center for Champion Knicks, Dies at 80</h3>
+<sub>By Harvey Araton</sub>
+<p>He was beloved by New York fans for his willingness to play hurt, as memorably exemplified in the decisive Game 7 of the 1970 N.B.A. finals at Madison Square Garden.  <a href="https://nyti.ms/40jY1cm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Michael Bloomberg Has Found a New $5 Million Cause: Helping Hochul</h3>
-<sub>By Nicholas Fandos</sub>
-<p>Mr. Bloomberg, the billionaire former mayor of New York City, has quietly bankrolled a group that is flooding the airwaves with ads to support Gov. Kathy Hochul’s budget plans.  <a href="https://nyti.ms/3n8MM8t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Wuhan Market Samples Contained Covid and Animal Mixtures, Report Says</h3>
+<sub>By Benjamin Mueller</sub>
+<p>In a much-anticipated study, experts described a swab that was positive for the coronavirus and contained loads of genetic material from raccoon dogs.  <a href="https://nyti.ms/3ZlxkDv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
