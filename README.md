@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, March 21, Central Standard Time</p>
+<p>It is Wednesday, March 22, Central Standard Time</p>
 <p>
-There have been a lot of big stories going around the world lately. The US Federal Reserve is looking into why bank oversight failed, leaving some depositors worried. They&#39;re also trying to see if they can use a legal theory to convict former President Trump of a felony. Elsewhere, in Moscow, China&#39;s leader Xi Jinping and Russia&#39;s leader Vladimir Putin declared an economic partnership, and Ukraine has started attacking back against Russia&#39;s occupation of the Crimean peninsula. 
-
-Meanwhile, sports fans were thrilled by Japan&#39;s win at this year&#39;s World Baseball Classic, but for those with extreme height, March can be a struggle. That&#39;s not all- the US government is considering pulling the plug on Tik Tok, and later this week their CEO will testify on Capitol Hill to discuss it.</p>
+Right now, the Federal Reserve is investigating the failure of a bank and Congress is looking into bank oversight. Smaller banks are trying to reassure their customers, while big banks are receiving more business. The former US president, Donald Trump, is facing potential legal problems and the governor of Florida has recently commented on his character. Meanwhile, a man died in police custody in Virginia, and there is a war brewing between Russia and Ukraine. Japan beat the US in the world baseball classic with exceptional playing by Shohei Ohtani, and there are tensions over TikTok as its CEO is set to testify about it in front of Congress. Finally, a study has been released about Covid-19 and its origins in an animal market in Wuhan, China.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A Big Question for the Fed: What Went Wrong With Bank Oversight?</h3>
@@ -119,21 +117,21 @@ Meanwhile, sports fans were thrilled by Japan&#39;s win at this year&#39;s World
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Yes, They Are Tall. No, They Do Not Play Basketball.</h3>
-<sub>By Scott Cacciola</sub>
-<p>For the vertically gifted, every day of the year means standing out. But March can be particularly maddening.  <a href="https://nyti.ms/3LFnTLY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Japan Beats U.S. to Win World Baseball Classic</h3>
+<h3>Ohtani Shines as Japan Beats U.S. to Win World Baseball Classic</h3>
 <sub>By James Wagner</sub>
-<p>A thrilling tournament ended with Shohei Ohtani and Japan capturing the country’s third W.B.C. crown.  <a href="https://nyti.ms/3Z1A0pn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A thrilling tournament ended emphatically with Shohei Ohtani striking out Mike Trout to give Japan its third W.B.C. crown.  <a href="https://nyti.ms/3Z1A0pn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pulling the Plug on TikTok Will Be Harder Than It Looks</h3>
 <sub>By David E. Sanger, David McCabe and Sapna Maheshwari</sub>
 <p>The tensions over the Chinese-owned social media app will come to a head on Thursday, when the company’s chief executive testifies on Capitol Hill.  <a href="https://nyti.ms/3LBeJzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Wuhan Market Samples Contained Covid and Animal Mixtures, Report Says</h3>
+<sub>By Benjamin Mueller</sub>
+<p>In a much-anticipated study, experts described a swab that was positive for the coronavirus and contained loads of genetic material from raccoon dogs.  <a href="https://nyti.ms/3ZlxkDv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
