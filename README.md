@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 21, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world at the moment. The Federal Reserve is reviewing why Silicon Valley Bank failed, and Congress is preparing for hearings about this. Banks and regulators are trying to reassure scared depositors. There&#39;s a legal case against Trump that could go either way. In Virginia, video was released of a man&#39;s death in custody that started when his family migrated for the American dream. China and Russia are strengthening their economic bonds despite war in Ukraine, and Ukraine has started attacking Crimea. People who are vertically gifted have a tough time throughout March because everyone assumes they play basketball. A decision will be made soon on whether or not to shut down TikTok, the Chinese-owned social media app. Basketball legend Willis Reed passed away and there’s new research into a swab sample that links the coronavirus to raccoon dogs – it was taken from the Wuhan market.</p>
+There have been a lot of big stories going around the world lately. The US Federal Reserve is looking into why bank oversight failed, leaving some depositors worried. They&#39;re also trying to see if they can use a legal theory to convict former President Trump of a felony. Elsewhere, in Moscow, China&#39;s leader Xi Jinping and Russia&#39;s leader Vladimir Putin declared an economic partnership, and Ukraine has started attacking back against Russia&#39;s occupation of the Crimean peninsula. 
+
+Meanwhile, sports fans were thrilled by Japan&#39;s win at this year&#39;s World Baseball Classic, but for those with extreme height, March can be a struggle. That&#39;s not all- the US government is considering pulling the plug on Tik Tok, and later this week their CEO will testify on Capitol Hill to discuss it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A Big Question for the Fed: What Went Wrong With Bank Oversight?</h3>
@@ -93,6 +95,12 @@ There&#39;s a lot going on in the world at the moment. The Federal Reserve is re
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis, Doubling Down, Presses Questions About Trump’s Character</h3>
+<sub>By Maggie Haberman</sub>
+<p>In an interview with Piers Morgan, the Florida governor sought to strike a clear contrast with Donald Trump, calling himself a low-drama “winner.”  <a href="https://nyti.ms/3n4GvKN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Video Shows Virginia Man’s Death in Custody</h3>
 <sub>By Campbell Robertson and Christine Hauser</sub>
 <p>Irvo Otieno’s death was a devastating ending to a journey that began when his family immigrated from Kenya when he was a young boy, “compelled by the American dream.”  <a href="https://nyti.ms/3lqAt74"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -116,22 +124,16 @@ There&#39;s a lot going on in the world at the moment. The Federal Reserve is re
 <p>For the vertically gifted, every day of the year means standing out. But March can be particularly maddening.  <a href="https://nyti.ms/3LFnTLY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Japan Beats U.S. to Win World Baseball Classic</h3>
+<sub>By James Wagner</sub>
+<p>A thrilling tournament ended with Shohei Ohtani and Japan capturing the country’s third W.B.C. crown.  <a href="https://nyti.ms/3Z1A0pn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pulling the Plug on TikTok Will Be Harder Than It Looks</h3>
 <sub>By David E. Sanger, David McCabe and Sapna Maheshwari</sub>
 <p>The tensions over the Chinese-owned social media app will come to a head on Thursday, when the company’s chief executive testifies on Capitol Hill.  <a href="https://nyti.ms/3LBeJzY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Willis Reed, Hall of Fame Center for Champion Knicks, Dies at 80</h3>
-<sub>By Harvey Araton</sub>
-<p>He was beloved by New York fans for his willingness to play hurt, as memorably exemplified in the decisive Game 7 of the 1970 N.B.A. finals at Madison Square Garden.  <a href="https://nyti.ms/40jY1cm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Wuhan Market Samples Contained Covid and Animal Mixtures, Report Says</h3>
-<sub>By Benjamin Mueller</sub>
-<p>In a much-anticipated study, experts described a swab that was positive for the coronavirus and contained loads of genetic material from raccoon dogs.  <a href="https://nyti.ms/3ZlxkDv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
