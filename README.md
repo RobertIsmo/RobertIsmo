@@ -60,18 +60,64 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 23, Central Standard Time</p>
 <p>
-There is a lot of news coming out of the US right now. An appeals court has ordered Donald Trump&#39;s lawyer to hand over records in an investigation. The Federal Reserve raised interest rates amidst banking uncertainty and also signaled that they are continuing to fight inflation. Meanwhile, the Bank of England is evaluating a rate increase after a jump in inflation. In Japan, geothermal power plants have been blocked by powerful local interests. Meanwhile, Ukrainian leader Zelensky recently made a morale-boosting trip to Bakhmut and condemned a deadly Russian missile attack against an apartment building. In Mississippi, there is a massive water leak that is dumping 5 million gallons of water every day. LA school workers are on strike, which has earned the support of many parents who feel like they understand the economic divide in this expensive city. And finally, recent atmospheric rivers and tornadoes have been touching down in Southern California, killing at least five people due to falling trees. Florida governor DeSantis&#39; foreign policy has also been receiving some attention lately, as he hasn&#39;t quite lived up to the expectations of old-guard Republicans regarding internationalism.</p>
+There is a lot going on in the world right now! In terms of technology, there&#39;s a congressional hearing happening about TikTok which is owned by a Chinese company. Teens have been skeptical about the company&#39;s efforts to combat screen time as it&#39;s still easy for them to stay on the app. People have been increasingly worried about the threat of TikTok from national security perspectives. It&#39;s become a battleground for tech leadership between the U.S. and China.
+
+In bank-related news, the U.S. Federal Reserve raised interest rates while acknowledging that bank turmoil could slow down the economy. The Bank of England also raised rates in response to persisting inflation. Officials from both banks are considering further actions&#x2F;rules to rein in banks but they&#39;re still not sure what that looks like yet.
+
+Finally, in Memphis, police have been using seizures to tackle street racing and other crimes, although this has caused controversy as people are left without their cars even if they haven&#39;t actually been convicted of a crime. In Turkey, there has been an earthquake recently that devastated one historic street and its shops, including doner kebab shops, along with a historic church and barber shop. There&#39;s also a water crisis ballooning in Jackson, Mississippi where one leak alone is dumping 5 million gallons daily.</p>
 <ol>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>What to Know About Today’s Congressional Hearing on TikTok</h3>
+<sub>By Sapna Maheshwari</sub>
+<p>The Chinese-owned video app has become a battleground as the U.S. and China duel for tech leadership.  <a href="https://nyti.ms/40v1i8K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>TikTok Claims It’s Limiting Teen Screen Time. Teens Say It Isn’t.</h3>
+<sub>By Sapna Maheshwari</sub>
+<p>This month, the company announced a new 60-minute “daily screen time limit” for users under 18. But for most young users, staying on the app takes just a few taps.  <a href="https://nyti.ms/42CyXiH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Meet the Lonely New York Progressive Defending TikTok</h3>
+<sub>By Nicholas Fandos and David McCabe</sub>
+<p>Representative Jamaal Bowman of New York says the drive to ban TikTok stems from anti-China “hysteria.” His Democratic colleagues disagree.  <a href="https://nyti.ms/3Z8brXW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Threat of TikTok</h3>
+<sub>By Lauren Jackson</sub>
+<p>U.S. officials say TikTok is a national security risk. They’re trying to turn it into their advantage.  <a href="https://nyti.ms/40cIECY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Appeals Court Orders Trump Lawyer to Hand Over Records in Documents Inquiry</h3>
 <sub>By Alan Feuer, Ben Protess and Maggie Haberman</sub>
 <p>The ruling compelling the lawyer, M. Evan Corcoran, to turn over documents came after a lightning round of appeals court filings overnight.  <a href="https://nyti.ms/3Z3UaiB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Grand Jury Hearing Trump Evidence Did Not Meet Wednesday</h3>
-<sub>By William K. Rashbaum, Maggie Haberman, Jonah E. Bromwich and Ben Protess</sub>
-<p>While prosecutors have signaled that an indictment of the former president is likely, its specific timing remains unclear, and grand juries conduct their work in secret.  <a href="https://nyti.ms/3K1AOqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>See One Historic Turkish Street Before and After the Earthquakes</h3>
+<sub>By Anjali Singhvi, Bedel Saget, K.K. Rebecca Lai, Yuliya Parshina-Kottas and Jeremy White</sub>
+<p>The Times flew a drone over a street in Antakya’s Old City to show the places that were lost — among them, a barber shop, a historic church and doner kebab shops.  <a href="https://nyti.ms/3yZfbAp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Memphis, Car Seizures Are a Lucrative and Punishing Police Tactic</h3>
+<sub>By Jessica Jaglois and Mike Baker</sub>
+<p>Vehicle seizures have been used to combat street racing and other crimes, but critics say that even people not convicted of a crime have been left for months without their cars.  <a href="https://nyti.ms/3Z839PR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Give Me an Abrams!’ Ukrainian Tank Commanders Grow Impatient.</h3>
+<sub>By Carlotta Gall and Daniel Berehulak</sub>
+<p>For now, they are holding on with inferior Soviet-era tanks, but relish the idea of taking on the Russians with modern Western battle tanks.  <a href="https://nyti.ms/40um8oR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Water System So Broken That One Pipe Leaks 5 Million Gallons a Day</h3>
+<sub>By Sarah Fowler</sub>
+<p>As a water shortage ballooned into a crisis in Jackson, Miss., the leak grew bigger and bigger, gouging out a swimming pool-size crater in the earth.  <a href="https://nyti.ms/42q6mNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -81,58 +127,16 @@ There is a lot of news coming out of the US right now. An appeals court has orde
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Seven takeaways from a big day for the Fed.</h3>
-<sub>By Jeanna Smialek</sub>
-<p>By raising interest rates a quarter-point, the Federal Reserve signaled that it was continuing to fight inflation, but it was holding off an aggressive move that might spook investors.  <a href="https://nyti.ms/3TEV5Fk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bank of England to Weigh a Rate Increase After a Jump in Inflation</h3>
+<h3>Bank of England Raises Rates Again as Inflation Persists</h3>
 <sub>By Eshe Nelson</sub>
-<p>As policymakers assess an inflation rate that persists in double digits, as well as risks in the banking sector, analysts predict a quarter-point increase.  <a href="https://nyti.ms/3Z60PJ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Policymakers approved a quarter-point increase, to 4.25 percent, while affirming that British banks were “resilient.”  <a href="https://nyti.ms/3Z60PJ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Geothermal Power, Cheap and Clean, Could Help Run Japan. So Why Doesn’t It?</h3>
-<sub>By Hiroko Tabuchi and Chang W. Lee</sub>
-<p>For decades, new plants have been blocked by powerful local interests, the owners of hot spring resorts, that say the sites threaten a centuries-old tradition.  <a href="https://nyti.ms/3FKhMSu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Makes Morale-Boosting Trip to Bakhmut</h3>
-<sub>By Marc Santora, Valerie Hopkins, Enjoli Liston and Victoria Kim</sub>
-<p>The Ukrainian leader also condemned a deadly Russian missile attack against an apartment building in Zaporizhzhia.  <a href="https://nyti.ms/3JGQDkC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Water System So Broken That One Pipe Leaks 5 Million Gallons a Day</h3>
-<sub>By Sarah Fowler</sub>
-<p>As a water shortage ballooned into a crisis in Jackson, Miss., the leak grew bigger and bigger, gouging out a swimming pool-size crater in the earth.  <a href="https://nyti.ms/42q6mNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Los Angeles School Workers Are on Strike, and Parents Say They Get It</h3>
-<sub>By Kurtis Lee and Jill Cowan</sub>
-<p>Both parents and the striking school district employees are on the same side of the economic divide in one of the nation’s most expensive cities.  <a href="https://nyti.ms/40oFhsV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Scenes From Recent Atmospheric Rivers in California</h3>
-<sub>By Eliza Fawcett</sub>
-<p>A relentless stretch of winter storms has flooded communities, trapped residents in snow, caused mudslides and shut down major roadways.  <a href="https://nyti.ms/3ySoBh4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rare Tornadoes Touch Down in Southern California</h3>
-<sub>By Jesus Jiménez and Mike Ives</sub>
-<p>At least five people were killed by falling trees as a new round of storms swept the state.  <a href="https://nyti.ms/3TvBOWu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The DeSantis Foreign Policy: Hard Power, but With a High Bar</h3>
-<sub>By Jonathan Swan, Maggie Haberman and Kitty Bennett</sub>
-<p>The Florida governor has never been the internationalist that some old-guard Republicans wanted or imagined him to be. A close reading of his record reveals how he might lead the U.S. abroad.  <a href="https://nyti.ms/3ZgSgLS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Markets Struggle to Decide Where Banking Rules Go From Here</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Jerome Powell, the chair of the Federal Reserve, and Treasury Secretary Janet Yellen said that more must be done to rein in banks. What that looks like is unclear.  <a href="https://nyti.ms/42sM85X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
