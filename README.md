@@ -60,12 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 22, Central Standard Time</p>
 <p>
-There are a lot of things happening in the world right now. In the US, an appeals court is requiring the president&#39;s lawyer to turn over documents as part of an inquiry. In New York, prosecutors are looking into evidence against former president Trump but the timing of any indictment remains unclear. The banking crisis has had the same effect as a Fed rate increase, and stocks dropped when rates were raised despite banking turmoil. There are worries about a recession if the commercial real estate market doesn&#39;t rebound from the pandemic. 
-In foreign news, China and Russia seem to be joining forces in opposition to American dominance while a student is facing prison time after posting online about the war in Ukraine. In Japan, geothermal power is not being used despite being both cheap and clean. The U.K. just approved measures of a Brexit-related Northern Ireland trade deal and Boris Johnson is facing scrutiny for his statements to Parliament. Finally, there&#39;s a new generation of people embracing Freud and his theories while a former teacher running for mayor of Chicago has gained momentum with union support.</p>
+There are a few big news stories to keep up with right now. In the US, the Appeals Court is ordering Trump’s lawyer M. Evan Corcoran to turn over documents as part of an investigation. Meanwhile, the Manhattan district attorney’s office is likely to indict former President Donald Trump soon due to multiple investigations running at once. 
+
+Over in Japan, there could be a potential breakthrough in renewable energy - geothermal power - but powerful local interests are preventing it from happening. In Ukraine, President Zelensky has been visiting Bakhmut and condemning Russian missile attacks in other cities. The UN is also looking into Belarus for possibly committing crimes against humanity with their repression tactics. 
+
+In more domestic news, Florida Governor DeSantis recently called Putin a war criminal after previously describing Russia-Ukraine as a “territorial dispute”. Additionally, the Biden administration is planning to overhaul the organ transplant system due to long wait times and inequities faced by certain demographics. And lastly, there is a new generation of people embracing Freud and psychoanalysis through magazines, memes or even on their couches!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Appeals Court Orders Trump Lawyer to Hand Over Records in Documents Inquiry</h3>
-<sub>By Alan Feuer</sub>
+<sub>By Alan Feuer, Ben Protess and Maggie Haberman</sub>
 <p>The ruling compelling the lawyer, M. Evan Corcoran, to turn over documents came after a lightning round of appeals court filings overnight.  <a href="https://nyti.ms/3Z3UaiB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
@@ -75,34 +78,28 @@ In foreign news, China and Russia seem to be joining forces in opposition to Ame
 <p>While prosecutors have signaled that an indictment of the former president is likely, its specific timing remains unclear, and grand juries conduct their work in secret.  <a href="https://nyti.ms/3K1AOqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How the Banking Crisis Has Had the Same Effect as a Fed Rate Increase</h3>
-<sub>By Joe Rennison</sub>
-<p>Some analysts say that the banking industry tumult has slowed the economy as banks pull back on lending.  <a href="https://nyti.ms/3lwuH3E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Donald Trump Faces Several Investigations. Here’s Where They Stand.</h3>
+<sub>By Ben Protess, Alan Feuer and Danny Hakim</sub>
+<p>The Manhattan district attorney’s office appears to be nearing a potential indictment of the former president, as federal and state prosecutors bear down on Mr. Trump in a number of inquiries.  <a href="https://nyti.ms/3JVNBHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Stocks Drop After Fed Raises Rates Despite Banking Turmoil</h3>
-<sub>By Joe Rennison</sub>
-<p>There had been widespread uncertainty about whether the Federal Reserve would continue raising rates after turmoil in the banking industry.  <a href="https://nyti.ms/3JBiL8P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Fed, Still Inflation-Focused, Raised Rates Amid Bank Uncertainty</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Federal Reserve officials raised interest rates by a quarter-point while they noted that bank turmoil could help slow the economy.  <a href="https://nyti.ms/42uoeqE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Powell and Yellen Suggest Need to Review Regulations After Bank Failures</h3>
+<sub>By Alan Rappeport, Jim Tankersley and Lauren Hirsch</sub>
+<p>Proposals for more scrutiny of the financial sector are meeting resistance from industry and Congress.  <a href="https://nyti.ms/3yZ3VUJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bank Crisis Could Cast Pall Over Commercial Real Estate Market</h3>
-<sub>By Matthew Goldstein</sub>
-<p>The market hadn’t fully rebounded from the pandemic. Some worry that another slowdown could add to fears of a recession.  <a href="https://nyti.ms/3K0cq8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Brother Act With Putin, Xi Reveals China’s Fear of Containment</h3>
-<sub>By Chris Buckley</sub>
-<p>Instead of focusing on a solution to the war in Ukraine, the Chinese leader’s visit to Moscow reinforced China and Russia’s shared opposition to American dominance.  <a href="https://nyti.ms/40oiJYH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>She Posted Online About the War in Ukraine. Then She Faced a Prison Term.</h3>
-<sub>By Valerie Hopkins</sub>
-<p>The case of Olesya Krivtsova, a Russian student who ended up on the Kremlin’s official terrorist list, has underscored the perils of using social media to criticize the Kremlin’s war in Ukraine.  <a href="https://nyti.ms/3LHBORn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Seven takeaways from a big day for the Fed.</h3>
+<sub>By Jeanna Smialek</sub>
+<p>By raising interest rates a quarter-point, the Federal Reserve signaled that it was continuing to fight inflation, but it was holding off an aggressive move that might spook investors.  <a href="https://nyti.ms/3TEV5Fk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -112,27 +109,33 @@ In foreign news, China and Russia seem to be joining forces in opposition to Ame
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.K. Lawmakers Approve Key Measure of Northern Ireland Trade Deal</h3>
-<sub>By Megan Specia</sub>
-<p>An important element of the agreement known as the Windsor Framework, a Brexit provision negotiated with the European Union, was roundly endorsed in the British Parliament.  <a href="https://nyti.ms/3yVhGnk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Zelensky Makes Morale-Boosting Trip to Bakhmut</h3>
+<sub>By Marc Santora, Enjoli Liston and Victoria Kim</sub>
+<p>The Ukrainian leader also condemned a deadly Russian missile attack against an apartment building in Zaporizhzhia.  <a href="https://nyti.ms/3JGQDkC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Testy Exchanges, Johnson Vows He Didn’t Intend to Mislead Parliament</h3>
-<sub>By Stephen Castle</sub>
-<p>Boris Johnson told a powerful committee that his statements over parties at his office were “made in good faith.” His political future may be at stake.  <a href="https://nyti.ms/3yXDwXj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.N. investigators say repression in Belarus, Russia’s ally, could amount to crimes against humanity.</h3>
+<sub>By Nick Cumming-Bruce</sub>
+<p>  <a href="https://nyti.ms/3JEZJ18"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Calls Putin a ‘War Criminal,’ Clarifying Earlier Comment on Ukraine</h3>
+<sub>By Maggie Haberman and Jonathan Swan</sub>
+<p>The Florida governor and presumed G.O.P. presidential candidate previously described the Russia-Ukraine conflict as a “territorial dispute” and did not mention the Russian president.  <a href="https://nyti.ms/3lBKH4k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Organ Transplant System, Troubled by Long Wait Times, Faces an Overhaul</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>The Biden administration announced a plan to modernize how patients are matched to organs, seeking to shorten wait times, address racial inequities and reduce deaths.  <a href="https://nyti.ms/3ndvmaP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Not Your Daddy’s Freud</h3>
 <sub>By Joseph Bernstein</sub>
 <p>A new generation of analysts and patients is embracing the father of psychoanalysis – in magazines and memes and many hours on the couch.  <a href="https://nyti.ms/3K0iHB5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Chicago Mayor’s Race, a Former Teacher Rises With Union Support</h3>
-<sub>By Mitch Smith</sub>
-<p>Brandon Johnson, a county commissioner who once taught in struggling neighborhoods, soared in the polls after an endorsement and donations from the Chicago Teachers Union.  <a href="https://nyti.ms/405lm1H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
