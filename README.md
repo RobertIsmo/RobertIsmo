@@ -58,9 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, March 22, Central Standard Time</p>
+<p>It is Thursday, March 23, Central Standard Time</p>
 <p>
-There is a lot of news happening in the world right now! In the US, an appeals court ordered Trump&#39;s lawyer to turn over records during an inquiry, and a strike is ongoing for Los Angeles school workers. A water pipe in Mississippi is reportedly leaking up to 5 million gallons a day. There have been several atmospheric rivers, floods, and strong winds that have caused five deaths and shut down major roadways in California. Internationally, Ukrainian President Zelensky made a morale-boosting trip to Bakhmut and there is also controversy surrounding geothermal power in Japan. As for foreign policy, Florida Governor DeSantis has implemented some hard power policies with high standards.</p>
+In the US, there&#39;s a lot going on right now. An appeals court ruled that the lawyer for former president Donald Trump has to turn over documents in an inquiry. There was a grand jury hearing about Trump evidence but what exactly happened remains unclear. Additionally, the Federal Reserve decided to raise interest rates as part of efforts to fight inflation and stabilize banks.
+
+In other parts of the world, Japan is exploring ways to make geothermal power cheaper and cleaner. Ukrainian President Zelensky visited Bakhmut in a morale-boosting trip. Meanwhile, the city of Jackson Mississippi is facing a water crisis due to one pip leaking 5 million gallons of water a day.
+
+Finally, back in the US, striking school workers in Los Angeles have parents on their side and winter storms are causing major damage throughout California, with at least five people killed by falling trees and rare tornadoes also touching down. Florida Governor DeSantis recently made some comments about the Russian-Ukrainian conflict that some perceived as favorable to Russia but he clarified them shortly afterwards by calling Putin a &#39;war criminal&#39;.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Appeals Court Orders Trump Lawyer to Hand Over Records in Documents Inquiry</h3>
@@ -110,12 +114,6 @@ There is a lot of news happening in the world right now! In the US, an appeals c
 <p>Both parents and the striking school district employees are on the same side of the economic divide in one of the nation’s most expensive cities.  <a href="https://nyti.ms/40oFhsV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Not Your Daddy’s Freud</h3>
-<sub>By Joseph Bernstein</sub>
-<p>A new generation of analysts and patients is embracing the father of psychoanalysis – in magazines and memes and many hours on the couch.  <a href="https://nyti.ms/3K0iHB5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Scenes From Recent Atmospheric Rivers in California</h3>
 <sub>By Eliza Fawcett</sub>
@@ -132,6 +130,12 @@ There is a lot of news happening in the world right now! In the US, an appeals c
 <h3>The DeSantis Foreign Policy: Hard Power, but With a High Bar</h3>
 <sub>By Jonathan Swan, Maggie Haberman and Kitty Bennett</sub>
 <p>The Florida governor has never been the internationalist that some old-guard Republicans wanted or imagined him to be. A close reading of his record reveals how he might lead the U.S. abroad.  <a href="https://nyti.ms/3ZgSgLS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Calls Putin a ‘War Criminal,’ Clarifying Earlier Comment on Ukraine</h3>
+<sub>By Maggie Haberman and Jonathan Swan</sub>
+<p>The Florida governor and presumed G.O.P. presidential candidate previously described the Russia-Ukraine conflict as a “territorial dispute” and did not mention the Russian president.  <a href="https://nyti.ms/3lBKH4k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
