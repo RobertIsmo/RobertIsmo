@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 22, Central Standard Time</p>
 <p>
-There are a few big news stories to keep up with right now. In the US, the Appeals Court is ordering Trump’s lawyer M. Evan Corcoran to turn over documents as part of an investigation. Meanwhile, the Manhattan district attorney’s office is likely to indict former President Donald Trump soon due to multiple investigations running at once. 
-
-Over in Japan, there could be a potential breakthrough in renewable energy - geothermal power - but powerful local interests are preventing it from happening. In Ukraine, President Zelensky has been visiting Bakhmut and condemning Russian missile attacks in other cities. The UN is also looking into Belarus for possibly committing crimes against humanity with their repression tactics. 
-
-In more domestic news, Florida Governor DeSantis recently called Putin a war criminal after previously describing Russia-Ukraine as a “territorial dispute”. Additionally, the Biden administration is planning to overhaul the organ transplant system due to long wait times and inequities faced by certain demographics. And lastly, there is a new generation of people embracing Freud and psychoanalysis through magazines, memes or even on their couches!</p>
+There is a lot of news happening in the world right now! In the US, an appeals court ordered Trump&#39;s lawyer to turn over records during an inquiry, and a strike is ongoing for Los Angeles school workers. A water pipe in Mississippi is reportedly leaking up to 5 million gallons a day. There have been several atmospheric rivers, floods, and strong winds that have caused five deaths and shut down major roadways in California. Internationally, Ukrainian President Zelensky made a morale-boosting trip to Bakhmut and there is also controversy surrounding geothermal power in Japan. As for foreign policy, Florida Governor DeSantis has implemented some hard power policies with high standards.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Appeals Court Orders Trump Lawyer to Hand Over Records in Documents Inquiry</h3>
@@ -78,22 +74,10 @@ In more domestic news, Florida Governor DeSantis recently called Putin a war cri
 <p>While prosecutors have signaled that an indictment of the former president is likely, its specific timing remains unclear, and grand juries conduct their work in secret.  <a href="https://nyti.ms/3K1AOqk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Donald Trump Faces Several Investigations. Here’s Where They Stand.</h3>
-<sub>By Ben Protess, Alan Feuer and Danny Hakim</sub>
-<p>The Manhattan district attorney’s office appears to be nearing a potential indictment of the former president, as federal and state prosecutors bear down on Mr. Trump in a number of inquiries.  <a href="https://nyti.ms/3JVNBHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Fed, Still Inflation-Focused, Raised Rates Amid Bank Uncertainty</h3>
 <sub>By Jeanna Smialek</sub>
 <p>Federal Reserve officials raised interest rates by a quarter-point while they noted that bank turmoil could help slow the economy.  <a href="https://nyti.ms/42uoeqE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Powell and Yellen Suggest Need to Review Regulations After Bank Failures</h3>
-<sub>By Alan Rappeport, Jim Tankersley and Lauren Hirsch</sub>
-<p>Proposals for more scrutiny of the financial sector are meeting resistance from industry and Congress.  <a href="https://nyti.ms/3yZ3VUJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -114,28 +98,40 @@ In more domestic news, Florida Governor DeSantis recently called Putin a war cri
 <p>The Ukrainian leader also condemned a deadly Russian missile attack against an apartment building in Zaporizhzhia.  <a href="https://nyti.ms/3JGQDkC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.N. investigators say repression in Belarus, Russia’s ally, could amount to crimes against humanity.</h3>
-<sub>By Nick Cumming-Bruce</sub>
-<p>  <a href="https://nyti.ms/3JEZJ18"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Water System So Broken That One Pipe Leaks 5 Million Gallons a Day</h3>
+<sub>By Sarah Fowler</sub>
+<p>As a water shortage ballooned into a crisis in Jackson, Miss., the leak grew bigger and bigger, gouging out a swimming pool-size crater in the earth.  <a href="https://nyti.ms/42q6mNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Calls Putin a ‘War Criminal,’ Clarifying Earlier Comment on Ukraine</h3>
-<sub>By Maggie Haberman and Jonathan Swan</sub>
-<p>The Florida governor and presumed G.O.P. presidential candidate previously described the Russia-Ukraine conflict as a “territorial dispute” and did not mention the Russian president.  <a href="https://nyti.ms/3lBKH4k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Organ Transplant System, Troubled by Long Wait Times, Faces an Overhaul</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>The Biden administration announced a plan to modernize how patients are matched to organs, seeking to shorten wait times, address racial inequities and reduce deaths.  <a href="https://nyti.ms/3ndvmaP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Los Angeles School Workers Are on Strike, and Parents Say They Get It</h3>
+<sub>By Kurtis Lee and Jill Cowan</sub>
+<p>Both parents and the striking school district employees are on the same side of the economic divide in one of the nation’s most expensive cities.  <a href="https://nyti.ms/40oFhsV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Not Your Daddy’s Freud</h3>
 <sub>By Joseph Bernstein</sub>
 <p>A new generation of analysts and patients is embracing the father of psychoanalysis – in magazines and memes and many hours on the couch.  <a href="https://nyti.ms/3K0iHB5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Scenes From Recent Atmospheric Rivers in California</h3>
+<sub>By Eliza Fawcett</sub>
+<p>A relentless stretch of winter storms has flooded communities, trapped residents in snow, caused mudslides and shut down major roadways.  <a href="https://nyti.ms/3ySoBh4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Five Dead After Winds Pummel a Weather-Beaten California</h3>
+<sub>By Jesus Jiménez and Mike Ives</sub>
+<p>At least five people were killed by falling trees as a new round of storms swept the state. Rare tornadoes also touched down in Southern California.  <a href="https://nyti.ms/3TvBOWu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The DeSantis Foreign Policy: Hard Power, but With a High Bar</h3>
+<sub>By Jonathan Swan, Maggie Haberman and Kitty Bennett</sub>
+<p>The Florida governor has never been the internationalist that some old-guard Republicans wanted or imagined him to be. A close reading of his record reveals how he might lead the U.S. abroad.  <a href="https://nyti.ms/3ZgSgLS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
