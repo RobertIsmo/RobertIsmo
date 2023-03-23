@@ -60,34 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 23, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! In terms of technology, there&#39;s a congressional hearing happening about TikTok which is owned by a Chinese company. Teens have been skeptical about the company&#39;s efforts to combat screen time as it&#39;s still easy for them to stay on the app. People have been increasingly worried about the threat of TikTok from national security perspectives. It&#39;s become a battleground for tech leadership between the U.S. and China.
-
-In bank-related news, the U.S. Federal Reserve raised interest rates while acknowledging that bank turmoil could slow down the economy. The Bank of England also raised rates in response to persisting inflation. Officials from both banks are considering further actions&#x2F;rules to rein in banks but they&#39;re still not sure what that looks like yet.
-
-Finally, in Memphis, police have been using seizures to tackle street racing and other crimes, although this has caused controversy as people are left without their cars even if they haven&#39;t actually been convicted of a crime. In Turkey, there has been an earthquake recently that devastated one historic street and its shops, including doner kebab shops, along with a historic church and barber shop. There&#39;s also a water crisis ballooning in Jackson, Mississippi where one leak alone is dumping 5 million gallons daily.</p>
+There are a lot of interesting things happening in the world right now. For example, China has publicly opposed the Biden administration&#39;s push to force the sale of the app TikTok in the US. In an Appeals Court ruling in the US, a Trump lawyer was recently ordered to hand over certain records related to an inquiry. In Turkey, there was a recent spate of earthquakes that destroyed some historical sites like barber shops and churches. In Memphis, police tactics have been used to seize cars for street racing and other crimes. In Ukraine, tank commanders are preparing for battles with Russia with Soviet-era tanks. Meanwhile in Jackson Mississippi, one leaking pipe is releasing 5 million gallons of water per day. In terms of economics, markets are trying to figure out what comes next after the banking crisis and Bank of England has recently raised rates due to inflation persisting. In Africa, the US is competing with Russia in areas like Chad and running Pentagon’s annual Flintlock Exercise as terrorists move south through Sahel. Finally, back home in Los Angeles, school workers are striking leading to many parents joining their cause since they understand each other&#39;s economic plight in one of the nation’s most expensive cities.</p>
 <ol>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>What to Know About Today’s Congressional Hearing on TikTok</h3>
-<sub>By Sapna Maheshwari</sub>
-<p>The Chinese-owned video app has become a battleground as the U.S. and China duel for tech leadership.  <a href="https://nyti.ms/40v1i8K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>TikTok Claims It’s Limiting Teen Screen Time. Teens Say It Isn’t.</h3>
-<sub>By Sapna Maheshwari</sub>
-<p>This month, the company announced a new 60-minute “daily screen time limit” for users under 18. But for most young users, staying on the app takes just a few taps.  <a href="https://nyti.ms/42CyXiH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Meet the Lonely New York Progressive Defending TikTok</h3>
-<sub>By Nicholas Fandos and David McCabe</sub>
-<p>Representative Jamaal Bowman of New York says the drive to ban TikTok stems from anti-China “hysteria.” His Democratic colleagues disagree.  <a href="https://nyti.ms/3Z8brXW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Threat of TikTok</h3>
-<sub>By Lauren Jackson</sub>
-<p>U.S. officials say TikTok is a national security risk. They’re trying to turn it into their advantage.  <a href="https://nyti.ms/40cIECY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China Says It Will ‘Firmly Oppose’ Forced Sale of TikTok</h3>
+<sub>By Chang Che</sub>
+<p>China’s commerce ministry publicly rebuked the Biden administration’s efforts to push TikTok’s Chinese ownership to sell the app or face a possible ban in the United States.  <a href="https://nyti.ms/3LGo9Kw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,7 +76,7 @@ Finally, in Memphis, police have been using seizures to tackle street racing and
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>See One Historic Turkish Street Before and After the Earthquakes</h3>
-<sub>By Anjali Singhvi, Bedel Saget, K.K. Rebecca Lai, Yuliya Parshina-Kottas and Jeremy White</sub>
+<sub>By Anjali Singhvi, Bedel Saget, K.K. Rebecca Lai, Yuliya Parshina-Kottas, Sergey Ponomarev and Jeremy White</sub>
 <p>The Times flew a drone over a street in Antakya’s Old City to show the places that were lost — among them, a barber shop, a historic church and doner kebab shops.  <a href="https://nyti.ms/3yZfbAp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
@@ -120,11 +98,11 @@ Finally, in Memphis, police have been using seizures to tackle street racing and
 <p>As a water shortage ballooned into a crisis in Jackson, Miss., the leak grew bigger and bigger, gouging out a swimming pool-size crater in the earth.  <a href="https://nyti.ms/42q6mNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Fed, Still Inflation-Focused, Raised Rates Amid Bank Uncertainty</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Federal Reserve officials raised interest rates by a quarter-point while they noted that bank turmoil could help slow the economy.  <a href="https://nyti.ms/42uoeqE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Double-Barreled Economic Threat Puts Congress on Edge</h3>
+<sub>By Carl Hulse</sub>
+<p>Republicans and Democrats disagree over how recent bank closures should impact the debt limit stalemate, and have taken divergent lessons from past economic crises.  <a href="https://nyti.ms/3Zbh4ov"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Bank of England Raises Rates Again as Inflation Persists</h3>
@@ -137,6 +115,24 @@ Finally, in Memphis, police have been using seizures to tackle street racing and
 <sub>By Andrew Ross Sorkin, Ravi Mattu, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
 <p>Jerome Powell, the chair of the Federal Reserve, and Treasury Secretary Janet Yellen said that more must be done to rein in banks. What that looks like is unclear.  <a href="https://nyti.ms/42sM85X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Along the Volta, African Commandos Train to Battle Terrorists by Land and Sea</h3>
+<sub>By John Ismay and Kenny Holston</sub>
+<p>As terrorists move south through the Sahel, the Pentagon’s annual Flintlock exercise reinforced the rule of law in a region roiled by coups.  <a href="https://nyti.ms/3Z3rdmY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A ‘New Cold War’ Looms in Africa as U.S. Pushes Against Russian Gains</h3>
+<sub>By Declan Walsh</sub>
+<p>The U.S. is reprising its playbook in Ukraine, where it has used classified information to expose plans by Russia. Next target: Chad.  <a href="https://nyti.ms/3JuY2TY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Los Angeles School Workers Are on Strike, and Parents Say They Get It</h3>
+<sub>By Kurtis Lee and Jill Cowan</sub>
+<p>Both parents and the striking school district employees are on the same side of the economic divide in one of the nation’s most expensive cities.  <a href="https://nyti.ms/40oFhsV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
