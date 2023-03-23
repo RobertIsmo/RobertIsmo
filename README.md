@@ -60,25 +60,35 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 23, Central Standard Time</p>
 <p>
-Right now, there is a lot of tension and conflict over certain issues in the world. China is challenging the Biden administration&#39;s push for the Chinese ownership of TikTok to sell, or potentially be banned in the US. In Israel, there was a mass protest of a proposed judicial reform law and in Memphis police are using car seizures to punish people for certain crimes. In Turkey, earthquakes caused major damage to businesses and homes, and the former president Donald Trump is facing possible prosecution for a hush-money payment in the US. There is also a strange story of an aspiring cult leader&#39;s nephew trying to make his painting public again. Meanwhile, a married couple decided to swap their family home in Pennsylvania for one in California. These events are all tests of our values, beliefs and courage.</p>
+It looks like a lot is happening in the world right now! Republican lawmakers are worried that US spending is driving up inflation, but the Fed Chair disagrees that it&#39;s the primary cause. Meanwhile on Wall Street, investors are preoccupied as interest rates rise and put balance sheets under pressure. We&#39;re also seeing a stress test for justice as the Trump investigations move ahead, and there&#39;s controversy over a hush-money case involving a former president. 
+
+In Israel, an equally controversial law protecting their prime minister from being declared unfit to govern is causing mass protests. Over in China, tensions have been escalating with the US over TikTok&#39;s ties to its Chinese parent company. And on a less serious note, there&#39;s a strange tale of an aspiring cult leader and his missing artworks. 
+
+Finally, some sports news-- Vegas will be the home of several college championships, thanks to the NCAA now viewing the city differently. The NCAA&#39;s round of 16 kicks off this week too and will feature some exciting matchups!</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Says It Will ‘Firmly Oppose’ Forced Sale of TikTok</h3>
-<sub>By Chang Che</sub>
-<p>China’s commerce ministry publicly rebuked the Biden administration’s efforts to push TikTok’s Chinese ownership to sell the app or face a possible ban in the United States.  <a href="https://nyti.ms/3LGo9Kw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Say Spending Is Fueling Inflation. The Fed Chair Disagrees.</h3>
+<sub>By Jim Tankersley</sub>
+<p>Jerome H. Powell has said that snarled supply chains, an oil shock following Russia’s invasion of Ukraine and shifts among American consumers are primarily behind rapid price growth.  <a href="https://nyti.ms/3TDNmHq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>With Beijing opposing a TikTok sale, the Biden administration’s options narrow.</h3>
-<sub>By David E. Sanger, David McCabe and Sapna Maheshwari</sub>
-<p>If the White House can’t force a sale, that would effectively leave it with two options to resolve concerns about the company.  <a href="https://nyti.ms/3FK3Bgi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Stocks Are Turbulent as Wall St. Weighs Fed’s Future Moves</h3>
+<sub>By Jason Karaian and Mohammed Hadi</sub>
+<p>Investors remain preoccupied with the health of banks as interest rates rise, putting balance sheets under pressure.  <a href="https://nyti.ms/3Z4Waas"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Inquiries Present a Stress Test for Justice in a Polarized Nation</h3>
+<sub>By Glenn Thrush and Adam Goldman</sub>
+<p>Attorney General Merrick Garland and other prosecutors have sought to demonstrate that politics should not infect the justice system. Those efforts face a steep challenge as the Trump investigations move ahead.  <a href="https://nyti.ms/3K1qcYb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Meet the Lonely New York Progressive Defending TikTok</h3>
-<sub>By Nicholas Fandos and David McCabe</sub>
-<p>Representative Jamaal Bowman of New York says the drive to ban TikTok stems from anti-China “hysteria.” His Democratic colleagues disagree.  <a href="https://nyti.ms/3Z8brXW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<h3>Trump Grand Jury Expected to Continue Hearing Hush-Money Case Monday</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
+<p>The panel that has been investigating the case involving the former president typically meets on a different matter on Thursdays and does not convene on Fridays.  <a href="https://nyti.ms/40caBL1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Prosecutor in Trump Hush-Money Case Fires Back at House Republicans</h3>
@@ -88,20 +98,14 @@ Right now, there is a lot of tension and conflict over certain issues in the wor
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Israel, Another Divisive Law on Another Day of Mass Protest</h3>
-<sub>By Isabel Kershner</sub>
+<sub>By Patrick Kingsley and Isabel Kershner</sub>
 <p>Amid a national crisis over a planned judicial overhaul, Parliament approved a bill protecting the prime minister from being declared unfit to govern.  <a href="https://nyti.ms/3JAPg7b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>See One Historic Turkish Street Before and After the Earthquakes</h3>
-<sub>By Anjali Singhvi, Bedel Saget, K.K. Rebecca Lai, Yuliya Parshina-Kottas, Sergey Ponomarev and Jeremy White</sub>
-<p>The Times flew a drone over a street in Antakya’s Old City to show the places that were lost — among them, a barber shop, a historic church and doner kebab shops.  <a href="https://nyti.ms/3yZfbAp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Memphis, Car Seizures Are a Lucrative and Punishing Police Tactic</h3>
-<sub>By Jessica Jaglois and Mike Baker</sub>
-<p>Vehicle seizures have been used to combat street racing and other crimes, but critics say that even people not convicted of a crime have been left for months without their cars.  <a href="https://nyti.ms/3Z839PR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Lawmakers Blast TikTok’s C.E.O. for App’s Ties to China, Escalating Tensions</h3>
+<sub>By Cecilia Kang, David McCabe and Sapna Maheshwari</sub>
+<p>Lawmakers grilled Shou Chew, TikTok’s chief executive, over the app’s ties to its Chinese parent company and its effects on children, as Chinese officials said they opposed a sale of the platform.  <a href="https://nyti.ms/40nyNdq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-special-series-blue" alt="">
@@ -110,28 +114,28 @@ Right now, there is a lot of tension and conflict over certain issues in the wor
 <p>The strange, twisting tale of Bradford Boobis and the nephew who has spent 50 years trying to make his painting public once again.  <a href="https://nyti.ms/3TEPpLp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Woman Who Stormed Pelosi’s Office on Jan. 6 Is Sentenced to Three Years</h3>
+<sub>By Zach Montague</sub>
+<p>Prosecutors said that Riley June Williams, 24, had acted as an “accelerant” in the Capitol attack, leading those around her past police lines and into the speaker’s office.  <a href="https://nyti.ms/3JMqXmW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Give Me an Abrams!’ Ukrainian Tank Commanders Grow Impatient.</h3>
 <sub>By Carlotta Gall and Daniel Berehulak</sub>
 <p>For now, they are holding on with inferior Soviet-era tanks, but relish the idea of taking on the Russians with modern Western battle tanks.  <a href="https://nyti.ms/40um8oR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Water System So Broken That One Pipe Leaks 5 Million Gallons a Day</h3>
-<sub>By Sarah Fowler</sub>
-<p>As a water shortage ballooned into a crisis in Jackson, Miss., the leak grew bigger and bigger, gouging out a swimming pool-size crater in the earth.  <a href="https://nyti.ms/42q6mNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The N.C.A.A. Once Avoided Las Vegas. Times, and Prospects, Have Changed.</h3>
+<sub>By Billy Witz</sub>
+<p>Las Vegas will host a men’s basketball regional this week, the men’s Final Four in 2028 and numerous other college championships — all prompted by changes in how the N.C.A.A. has viewed the city.  <a href="https://nyti.ms/3nfP85y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>A Couple Decided to Swap Their Family Home in Pennsylvania for a California Rental. Which One Did They Choose?</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>Wanting to be closer to their adult children, they moved west, knowing they would have to make some compromises to live near Malibu. Here’s what they found.  <a href="https://nyti.ms/3Z93fXq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Trump May Face Prosecution. America Faces a Test.</h3>
-<sub>By Charles M. Blow</sub>
-<p>We are called to endure what I call the inconvenience of the necessary, a point at which something is morally right but the political timing is problematic.  <a href="https://nyti.ms/3ng4p65"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Thursday’s Matchups to Watch in the N.C.A.A. Tournament</h3>
+<sub>By Shivani Gonzalez</sub>
+<p>The round of 16 tips off with men’s games featuring a 28-year coach pitted against a first-year coach and a rematch from the 2021 Final Four.  <a href="https://nyti.ms/3JEgwl7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
