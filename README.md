@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 23, Central Standard Time</p>
 <p>
-There are a lot of interesting things happening in the world right now. For example, China has publicly opposed the Biden administration&#39;s push to force the sale of the app TikTok in the US. In an Appeals Court ruling in the US, a Trump lawyer was recently ordered to hand over certain records related to an inquiry. In Turkey, there was a recent spate of earthquakes that destroyed some historical sites like barber shops and churches. In Memphis, police tactics have been used to seize cars for street racing and other crimes. In Ukraine, tank commanders are preparing for battles with Russia with Soviet-era tanks. Meanwhile in Jackson Mississippi, one leaking pipe is releasing 5 million gallons of water per day. In terms of economics, markets are trying to figure out what comes next after the banking crisis and Bank of England has recently raised rates due to inflation persisting. In Africa, the US is competing with Russia in areas like Chad and running Pentagon’s annual Flintlock Exercise as terrorists move south through Sahel. Finally, back home in Los Angeles, school workers are striking leading to many parents joining their cause since they understand each other&#39;s economic plight in one of the nation’s most expensive cities.</p>
+Right now, there is a lot of tension and conflict over certain issues in the world. China is challenging the Biden administration&#39;s push for the Chinese ownership of TikTok to sell, or potentially be banned in the US. In Israel, there was a mass protest of a proposed judicial reform law and in Memphis police are using car seizures to punish people for certain crimes. In Turkey, earthquakes caused major damage to businesses and homes, and the former president Donald Trump is facing possible prosecution for a hush-money payment in the US. There is also a strange story of an aspiring cult leader&#39;s nephew trying to make his painting public again. Meanwhile, a married couple decided to swap their family home in Pennsylvania for one in California. These events are all tests of our values, beliefs and courage.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China Says It Will ‘Firmly Oppose’ Forced Sale of TikTok</h3>
@@ -68,11 +68,29 @@ There are a lot of interesting things happening in the world right now. For exam
 <p>China’s commerce ministry publicly rebuked the Biden administration’s efforts to push TikTok’s Chinese ownership to sell the app or face a possible ban in the United States.  <a href="https://nyti.ms/3LGo9Kw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Appeals Court Orders Trump Lawyer to Hand Over Records in Documents Inquiry</h3>
-<sub>By Alan Feuer, Ben Protess and Maggie Haberman</sub>
-<p>The ruling compelling the lawyer, M. Evan Corcoran, to turn over documents came after a lightning round of appeals court filings overnight.  <a href="https://nyti.ms/3Z3UaiB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>With Beijing opposing a TikTok sale, the Biden administration’s options narrow.</h3>
+<sub>By David E. Sanger, David McCabe and Sapna Maheshwari</sub>
+<p>If the White House can’t force a sale, that would effectively leave it with two options to resolve concerns about the company.  <a href="https://nyti.ms/3FK3Bgi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Meet the Lonely New York Progressive Defending TikTok</h3>
+<sub>By Nicholas Fandos and David McCabe</sub>
+<p>Representative Jamaal Bowman of New York says the drive to ban TikTok stems from anti-China “hysteria.” His Democratic colleagues disagree.  <a href="https://nyti.ms/3Z8brXW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Prosecutor in Trump Hush-Money Case Fires Back at House Republicans</h3>
+<sub>By Luke Broadwater, Jonah E. Bromwich and Ben Protess</sub>
+<p>The grand jury examining the former president’s role in a hush-money payment typically does not hear testimony about the inquiry on Thursdays, making an indictment unlikely before next week.  <a href="https://nyti.ms/4094W8H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Israel, Another Divisive Law on Another Day of Mass Protest</h3>
+<sub>By Isabel Kershner</sub>
+<p>Amid a national crisis over a planned judicial overhaul, Parliament approved a bill protecting the prime minister from being declared unfit to govern.  <a href="https://nyti.ms/3JAPg7b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>See One Historic Turkish Street Before and After the Earthquakes</h3>
@@ -84,6 +102,12 @@ There are a lot of interesting things happening in the world right now. For exam
 <h3>In Memphis, Car Seizures Are a Lucrative and Punishing Police Tactic</h3>
 <sub>By Jessica Jaglois and Mike Baker</sub>
 <p>Vehicle seizures have been used to combat street racing and other crimes, but critics say that even people not convicted of a crime have been left for months without their cars.  <a href="https://nyti.ms/3Z839PR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-special-series-blue" alt="">
+<h3>The Aspiring Cult Leader’s Missing Art and the Nephew Obsessed With His Legacy</h3>
+<sub>By Joshua Needelman</sub>
+<p>The strange, twisting tale of Bradford Boobis and the nephew who has spent 50 years trying to make his painting public once again.  <a href="https://nyti.ms/3TEPpLp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,40 +122,16 @@ There are a lot of interesting things happening in the world right now. For exam
 <p>As a water shortage ballooned into a crisis in Jackson, Miss., the leak grew bigger and bigger, gouging out a swimming pool-size crater in the earth.  <a href="https://nyti.ms/42q6mNw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Double-Barreled Economic Threat Puts Congress on Edge</h3>
-<sub>By Carl Hulse</sub>
-<p>Republicans and Democrats disagree over how recent bank closures should impact the debt limit stalemate, and have taken divergent lessons from past economic crises.  <a href="https://nyti.ms/3Zbh4ov"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>A Couple Decided to Swap Their Family Home in Pennsylvania for a California Rental. Which One Did They Choose?</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>Wanting to be closer to their adult children, they moved west, knowing they would have to make some compromises to live near Malibu. Here’s what they found.  <a href="https://nyti.ms/3Z93fXq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bank of England Raises Rates Again as Inflation Persists</h3>
-<sub>By Eshe Nelson</sub>
-<p>Policymakers approved a quarter-point increase, to 4.25 percent, while affirming that British banks were “resilient.”  <a href="https://nyti.ms/3Z60PJ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Markets Struggle to Decide Where Banking Rules Go From Here</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Jerome Powell, the chair of the Federal Reserve, and Treasury Secretary Janet Yellen said that more must be done to rein in banks. What that looks like is unclear.  <a href="https://nyti.ms/42sM85X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Along the Volta, African Commandos Train to Battle Terrorists by Land and Sea</h3>
-<sub>By John Ismay and Kenny Holston</sub>
-<p>As terrorists move south through the Sahel, the Pentagon’s annual Flintlock exercise reinforced the rule of law in a region roiled by coups.  <a href="https://nyti.ms/3Z3rdmY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A ‘New Cold War’ Looms in Africa as U.S. Pushes Against Russian Gains</h3>
-<sub>By Declan Walsh</sub>
-<p>The U.S. is reprising its playbook in Ukraine, where it has used classified information to expose plans by Russia. Next target: Chad.  <a href="https://nyti.ms/3JuY2TY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Los Angeles School Workers Are on Strike, and Parents Say They Get It</h3>
-<sub>By Kurtis Lee and Jill Cowan</sub>
-<p>Both parents and the striking school district employees are on the same side of the economic divide in one of the nation’s most expensive cities.  <a href="https://nyti.ms/40oFhsV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Trump May Face Prosecution. America Faces a Test.</h3>
+<sub>By Charles M. Blow</sub>
+<p>We are called to endure what I call the inconvenience of the necessary, a point at which something is morally right but the political timing is problematic.  <a href="https://nyti.ms/3ng4p65"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
