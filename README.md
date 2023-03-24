@@ -60,8 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 24, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the United States, the Pentagon is struggling to feed its war machine due to declines in production capacity since the end of the Cold War, and the federal government is investigating former President Trump for potential mismanagement of classified material. Many Ukrainians are being treated for their war injuries in Minnesota, while Russia and Ukraine are facing restrictions from visa-on-arrival programs in Bali. In Montana, sixteen young people have sued their state in a landmark climate case. 
-Over in Europe, a contractor was killed and five service members were wounded in a drone attack on a base in Syria; it is believed that the drone was of Iranian origin. And finally, New Jersey is heavily represented at this year&#39;s Division I men&#39;s basketball tournament, and Iowa guard Caitlin Clark is making waves with her long-range shots.</p>
+There&#39;s a lot going on in the world right now! The Pentagon is having trouble keeping up with arms production for the US, and Ukraine has had to become skilled at treating amputees due to war. Meanwhile, Russia and Ukraine may lose access to Indonesia&#39;s visa-on-arrival program because tourists from those countries have been behaving badly. In Montana, there&#39;s a landmark climate case lawsuit where sixteen young Montanans are arguing that the state&#39;s support of fossil fuels violates the state Constitution. Donald Trump is facing an investigation related to blocking efforts to reclaim classified material and potentially misleading his lawyer, and he recently made a speech in Waco, Texas related to the 30th anniversary of a federal raid at the city. To make matters worse, he also posted overnight warning of potential violence if he is indicted. India also has political turmoil as the opposition leader was just expelled from parliament. The US just launched airstrikes after a drone attack in Syria killed an American contractor, and Tennessee just rejected $8.8 million in federal funding which alarms HIV prevention groups because they&#39;re afraid they&#39;ll be cut off if they don&#39;t align with his conservative politics. On a slightly lighter note, New Jersey has had a strong presence in men&#39;s basketball during the NCAA Tournament with Princeton and Fairleigh Dickinson pulling upsets and a guard from Iowa going viral for her long range shots!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From Rockets to Ball Bearings, Pentagon Struggles to Feed War Machine</h3>
@@ -99,11 +98,23 @@ Over in Europe, a contractor was killed and five service members were wounded in
 <p>Thirty years ago, a fiery federal raid on a doomsday sect turned the city into a symbol of government overreach. Donald Trump will speak there on Saturday, and some supporters — and critics — say it’s no accident.  <a href="https://nyti.ms/3KegDWh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Donald Trump Faces Several Investigations. Here’s Where They Stand.</h3>
-<sub>By Ben Protess, Alan Feuer and Danny Hakim</sub>
-<p>The Manhattan district attorney’s office appears to be nearing a potential indictment of the former president, as federal and state prosecutors bear down on Mr. Trump in a number of inquiries.  <a href="https://nyti.ms/3JVNBHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump, Escalating Attacks, Raises Specter of Violence if He Is Charged</h3>
+<sub>By Maggie Haberman and Jonah E. Bromwich</sub>
+<p>In an overnight post, the former president stepped up his attacks on the Manhattan district attorney, Alvin Bragg, and warned of “potential death and destruction” if he is indicted.  <a href="https://nyti.ms/3lLFJlD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Leader of India’s Opposition to Modi Is Expelled From Parliament</h3>
+<sub>By Suhasini Raj and Alex Travelli</sub>
+<p>The expulsion of Rahul Gandhi is a devastating blow to the once-powerful Indian National Congress party. He and several other politicians are now in jeopardy through India’s legal system.  <a href="https://nyti.ms/3z0Rdoz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Launches Airstrikes After a Drone Attack in Syria Kills American Contractor</h3>
+<sub>By Eric Schmitt</sub>
+<p>The attacks are likely to stoke tensions with Iran, which Biden administration officials call the largest security threat in the Middle East.  <a href="https://nyti.ms/3JHVdzh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tennessee’s Rejection of $8.8 Million in Federal Funding Alarms H.I.V. Prevention Groups</h3>
@@ -121,18 +132,6 @@ Over in Europe, a contractor was killed and five service members were wounded in
 <h3>They’re Desperation Heaves for Most Players. For Caitlin Clark, They’re Money.</h3>
 <sub>By Kris Rhim</sub>
 <p>Clark, the Iowa guard whose long-range shots have made a stir online, perfected her form in her driveway. But even when she abandons that form, she can hit game-winners from nearly halfcourt.  <a href="https://nyti.ms/40twuW3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Kansas State Tops Michigan State in an Overtime Thriller</h3>
-<sub>By Adam Zagoria and Scott Miller</sub>
-<p>Markquis Nowell led the Wildcats with 20 rebounds and 19 assists, which set a record for an N.C.A.A. tournament game. In another exciting finish, Gonzaga beat U.C.L.A. in the final seconds.  <a href="https://nyti.ms/3JEgwl7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>American Contractor Killed in Drone Attack on Base in Syria</h3>
-<sub>By Eric Schmitt</sub>
-<p>Five service members and another U.S. contractor were wounded. The Pentagon said the drone was of “Iranian origin” and ordered airstrikes on facilities in Syria used by Iran-linked groups.  <a href="https://nyti.ms/40hCCB1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
