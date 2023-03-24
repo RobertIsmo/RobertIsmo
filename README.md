@@ -60,54 +60,48 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 24, Central Standard Time</p>
 <p>
-There is a lot happening in the world that&#39;s affecting different countries and generating news stories. In the US, the Pentagon is having difficulty supplying its war machine with what it needs due to a lack of production capacity since the end of the Cold War. In response to bad tourist behavior from Russians and Ukrainians, Bali&#39;s governor is attempting to revoke their open-door policy. Another legal showdown looms in the US as House Republicans are demanding a Manhattan district attorney provide information related to a hush money inquiry. Donald Trump is set to speak at Waco, Texas on Saturday, and many people think this choice of venue holds significance; others fear he may incite violence if charged with any wrongdoing. Meanwhile in Montana, a group of 16 young people have sued their state for violating their Constitution by supporting fossil fuels. India’s main opposition leader was expelled from Parliament after 20 years in power, and now faces legal challenges. In Syria, US air defenses were not fully operational prior to an attack which killed an American there; this is being investigated. In Russia, longtime state TV worker decided to protest on-air against the invasion of neighboring Ukraine. Turning towards sports, there have been several achievements from New Jersey teams and players in the Division I basketball tournament. Houston&#39;s Phi Slama Jama team lost its NCAAs title game in 1983 but this year Kansas State beat Michigan State in an overtime thriller to set records, and Gonzaga just beat UCLA with a last-second shot!</p>
+There&#39;s a lot going on around the world right now. In India, Modi allies are trying to expell the former Indian Prime Minister, Rahul Gandhi, from parliament through their legal system. In the US, there is an ongoing investigation into a drone strike that killed an american in Syria which revealed that defensive air systems weren&#39;t fully operational before it happened. At the same time, Republicans are demanding information from Manhattan district attorney in regards to a hush money inquiry for Trump and Trump himself is warning of possible violence if he&#39;s charged with anything. 
+
+On a different note, there&#39;s talk of having Russia pay for Ukraine&#39;s rebuilding due to their war and aggression against them and in Montana, there is a landmark case against the state where 16 young people are suing the state claiming its support of fossil fuels violates the state Constitution. Another interesting story involves Marina Ovsyannikova who used to work in Russian state TV until she stormed a live broadcast one day telling viewers they were being lied to after Ukraine was invaded.
+
+Lastly in terms of sports news, NJ is leaving a mark on this years NCAA men&#39;s basketball tournament with Princeton and Fairleigh Dickinson pulling off upsets as well as some standout performances by players. There is also Houston who had a basketball sensation nicknamed Phi Slama Jama in 1982-83 but eventually lost in the championship game to North Carolina State at the very last moments of it too. 
+
+Things aren&#39;t completely negative though, You also have Do Kwon whose crypto company failed but is still managing to live a public life on the run since hes wanted for charges in South Korea and The US!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>From Rockets to Ball Bearings, Pentagon Struggles to Feed War Machine</h3>
-<sub>By Eric Lipton</sub>
-<p>The flow of arms to Ukraine has exposed a worrisome lack of production capacity in the United States that has its roots in the end of the Cold War.  <a href="https://nyti.ms/3KegzG1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Refuge for Russians and Ukrainians, Bali Rethinks Its Open-Door Policy</h3>
-<sub>By Sui-Lee Wee and Muktita Suhartono</sub>
-<p>After multiple accounts of tourists behaving badly, its governor wants Russia and Ukraine to lose access to Indonesia’s visa-on-arrival program.  <a href="https://nyti.ms/3JGPZ6H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Demands on Prosecutor in Trump Case Test Limits of Oversight Power</h3>
-<sub>By Charlie Savage</sub>
-<p>The Manhattan district attorney is resisting efforts by House Republicans to compel him to provide information about the hush money inquiry, setting up a potential legal showdown.  <a href="https://nyti.ms/3lwWSQc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Trump Rally, a Right-Wing Cause and the Enduring Legacy of Waco</h3>
-<sub>By Charles Homans</sub>
-<p>Thirty years ago, a fiery federal raid on a doomsday sect turned the city into a symbol of government overreach. Donald Trump will speak there on Saturday, and some supporters — and critics — say it’s no accident.  <a href="https://nyti.ms/3KegDWh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump, Escalating Attacks, Raises Specter of Violence if He Is Charged</h3>
-<sub>By Maggie Haberman and Jonah E. Bromwich</sub>
-<p>In an overnight post, the former president stepped up his attacks on the Manhattan district attorney, Alvin Bragg, and warned of “potential death and destruction” if he is indicted.  <a href="https://nyti.ms/3lLFJlD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>In Montana, It’s Youth vs. the State in a Landmark Climate Case</h3>
-<sub>By David Gelles</sub>
-<p>Sixteen young Montanans have sued their state, arguing that its support of fossil fuels violates the state Constitution.  <a href="https://nyti.ms/3lHbpZt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Leader of India’s Opposition to Modi Is Expelled From Parliament</h3>
-<sub>By Suhasini Raj and Alex Travelli</sub>
+<h3>Expelling Rahul Gandhi From Parliament, Modi Allies Thwart a Top Rival</h3>
+<sub>By Alex Travelli and Suhasini Raj</sub>
 <p>The expulsion of Rahul Gandhi is a devastating blow to the once-powerful Indian National Congress party. He and several other politicians are now in jeopardy through India’s legal system.  <a href="https://nyti.ms/3z0Rdoz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Air Defenses ‘Not Fully Operational’ Before Strike Killed American in Syria, Officials Say</h3>
 <sub>By Eric Schmitt</sub>
-<p>American officials are investigating why the system was not fully operational and what difference that made in defending the coalition military base in northeast Syria.  <a href="https://nyti.ms/3JHVdzh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The United States launched retaliatory attacks in eastern Syria about 13 hours after the drone strike. Officials are also investigating what went wrong with the defense system.  <a href="https://nyti.ms/3JHVdzh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>G.O.P. Demands on Prosecutor in Trump Case Test Limits of Oversight Power</h3>
+<sub>By Charlie Savage</sub>
+<p>The Manhattan district attorney is resisting demands by House Republicans that he provide information about the hush money inquiry, setting up a potential legal showdown.  <a href="https://nyti.ms/3lwWSQc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump, Escalating Attacks, Raises Specter of Violence if He Is Charged</h3>
+<sub>By Maggie Haberman, Jonah E. Bromwich and William K. Rashbaum</sub>
+<p>In an overnight post, the former president warned of “potential death and destruction” if he was indicted. Hours later, the Manhattan district attorney’s office received a threatening letter.  <a href="https://nyti.ms/3lLFJlD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Support Grows to Have Russia Pay for Ukraine’s Rebuilding</h3>
+<sub>By Patricia Cohen</sub>
+<p>Although U.S. officials have cautioned against seizing Russia’s reserves in foreign banks, others say it’s “crazy” not to after Moscow’s war of aggression.  <a href="https://nyti.ms/40BFc4q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>In Montana, It’s Youth vs. the State in a Landmark Climate Case</h3>
+<sub>By David Gelles</sub>
+<p>Sixteen young Montanans have sued their state, arguing that its support of fossil fuels violates the state Constitution.  <a href="https://nyti.ms/3lHbpZt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -128,11 +122,23 @@ There is a lot happening in the world that&#39;s affecting different countries a
 <p>The 1982-83 Houston Cougars, a sensation nicknamed Phi Slama Jama, lost the N.C.A.A. men’s title game to North Carolina State on a dunk in the final moments.  <a href="https://nyti.ms/40w3Eo1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Kansas State Tops Michigan State in an Overtime Thriller</h3>
-<sub>By Adam Zagoria and Scott Miller</sub>
-<p>Markquis Nowell led the Wildcats with 20 rebounds and 19 assists, which set a record for an N.C.A.A. tournament game. In another exciting finish, Gonzaga beat U.C.L.A. in the final seconds.  <a href="https://nyti.ms/3JEgwl7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>French Anger Shifts From Pension Law to Focus on Macron</h3>
+<sub>By Roger Cohen and Liz Alderman</sub>
+<p>After ramming through a law raising the retirement age without a full parliamentary vote, the French president faces something approaching a constitutional crisis.  <a href="https://nyti.ms/42RjCv5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘It Just Feels Good to Vent Your Anger’: Spasms of Violence Jolt Paris</h3>
+<sub>By Constant Méheut and James Hill</sub>
+<p>Opponents of pension overhaul, mostly young people, hold nightly “wild protests,” marked by vandalism, saying it is the only way to make their voices heard.  <a href="https://nyti.ms/40x60CX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Crypto Fugitive’s Very Public Life While on the Run</h3>
+<sub>By David Yaffe-Bellany, John Yoon and Karoun Demirjian</sub>
+<p>Do Kwon, the founder of the failed crypto company Terraform Labs, is facing charges by the authorities in both South Korea and the United States.  <a href="https://nyti.ms/3LPRySx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
