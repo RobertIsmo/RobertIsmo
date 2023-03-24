@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 23, Central Standard Time</p>
 <p>
-Right now it looks like there is a lot happening in the world that is concerning. In the U.S., there is an agreement between Canada and the U.S. to reduce migration, and investigations into former President Trump that could have serious implications for justice. On top of that, banks are borrowing more from the Federal Reserve as economic turmoil swells while stocks remain turbulent awaiting their next move. Finally, tensions have been escalating over ties between TikTok&#39;s CEO and China and the potential ban of the app by President Biden. It&#39;s a lot of news, but we can only wait and see how things evolve.</p>
+There is a national crisis in Israel due to a planned judicial overhaul, with mass protests and Parliament approving a bill making it much harder to remove a prime minister from office. The U.S. and Canada have reached a deal which will reduce migration influxes, while thousands of migrants currently take refuge in New York City&#39;s hotels and other buildings. Prosecutors are building a case against former President Trump for obstruction of efforts to reclaim classified material and potentially misleading his lawyer. Attorney General Merrick Garland and other prosecutors are attempting to demonstrate that politics should not interfere with the justice system but it&#39;s proving to be quite the challenge. There is also the story of Bradford Boobis who has a mysterious missing painting; his nephew has been researching the painting&#39;s legacy for 50 years. Additionally, there was an overtime thriller in college basketball as New York native Markquis Nowell led Kansas State to win over Michigan State with astounding 20 rebounds and 19 assists. Lastly, tensions have arisen over TikTok&#39;s ties to China, with lawmakers grilling their chief executive and China announcing opposition to TikTok being sold; president Biden must decide whether he should accept that opposition or pursue banning the app, which won&#39;t be an easy move either.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Netanyahu Digs In on Court Overhaul, in the Face of Mass Protests</h3>
+<sub>By Patrick Kingsley and Isabel Kershner</sub>
+<p>Amid a national crisis over a planned judicial overhaul, Israel’s Parliament approved a bill making it much harder to remove a prime minister from office.  <a href="https://nyti.ms/3JAPg7b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. and Canada Reach an Agreement on Diverting Asylum Seekers</h3>
 <sub>By Michael D. Shear and Ian Austen</sub>
@@ -98,29 +104,11 @@ Right now it looks like there is a lot happening in the world that is concerning
 <p>Donald Trump’s allies have accused the district attorney bringing a case against him as having been “bought” by Mr. Soros, the philanthropist. That is misleading, though the men do have a financial connection.  <a href="https://nyti.ms/3z2G5re"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Digs In on Court Overhaul, in the Face of Mass Protests</h3>
-<sub>By Patrick Kingsley and Isabel Kershner</sub>
-<p>Amid a national crisis over a planned judicial overhaul, Israel’s Parliament approved a bill making it much harder to remove a prime minister from office.  <a href="https://nyti.ms/3JAPg7b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Say Spending Is Fueling Inflation. The Fed Chair Disagrees.</h3>
-<sub>By Jim Tankersley</sub>
-<p>Jerome H. Powell has said that snarled supply chains, an oil shock following Russia’s invasion of Ukraine and shifts among American consumers are primarily behind rapid price growth.  <a href="https://nyti.ms/3TDNmHq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Stocks Are Turbulent as Wall St. Weighs Fed’s Future Moves</h3>
-<sub>By Jason Karaian and Mohammed Hadi</sub>
-<p>Investors remain preoccupied with the health of banks as interest rates rise, putting balance sheets under pressure.  <a href="https://nyti.ms/3Z4Waas"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Banks Are Borrowing More From the Fed: What to Know</h3>
-<sub>By Jeanna Smialek and Joe Rennison</sub>
-<p>As turmoil sweeps the United States financial system, banks are turning to the Federal Reserve for loans to get them through the squeeze.  <a href="https://nyti.ms/42CMmas"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Kansas State Tops Michigan State in an Overtime Thriller</h3>
+<sub>By Adam Zagoria and Scott Miller</sub>
+<p>The New York native Markquis Nowell led the Wildcats with 20 rebounds and 19 assists, which set a record for an N.C.A.A. tournament game.  <a href="https://nyti.ms/3JEgwl7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Lawmakers Blast TikTok’s C.E.O. for App’s Ties to China, Escalating Tensions</h3>
@@ -132,6 +120,18 @@ Right now it looks like there is a lot happening in the world that is concerning
 <h3>Biden’s Options on TikTok Narrow After Beijing Pushes Back</h3>
 <sub>By David McCabe and Chang Che</sub>
 <p>China’s opposition to a sale of the app leaves the president to challenge that stand or consider seeking a ban, which would face its own obstacles.  <a href="https://nyti.ms/3FMdH0f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Say Spending Is Fueling Inflation. The Fed Chair Disagrees.</h3>
+<sub>By Jim Tankersley</sub>
+<p>Jerome H. Powell has said that snarled supply chains, an oil shock following Russia’s invasion of Ukraine and shifts among American consumers are primarily behind rapid price growth.  <a href="https://nyti.ms/3TDNmHq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-special-series-blue" alt="">
+<h3>The Aspiring Cult Leader’s Missing Art and the Nephew Obsessed With His Legacy</h3>
+<sub>By Joshua Needelman</sub>
+<p>The strange, twisting tale of Bradford Boobis and the nephew who has spent 50 years trying to make his painting public once again.  <a href="https://nyti.ms/3TEPpLp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
