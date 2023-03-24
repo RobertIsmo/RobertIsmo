@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, March 23, Central Standard Time</p>
+<p>It is Friday, March 24, Central Standard Time</p>
 <p>
-There is a national crisis in Israel due to a planned judicial overhaul, with mass protests and Parliament approving a bill making it much harder to remove a prime minister from office. The U.S. and Canada have reached a deal which will reduce migration influxes, while thousands of migrants currently take refuge in New York City&#39;s hotels and other buildings. Prosecutors are building a case against former President Trump for obstruction of efforts to reclaim classified material and potentially misleading his lawyer. Attorney General Merrick Garland and other prosecutors are attempting to demonstrate that politics should not interfere with the justice system but it&#39;s proving to be quite the challenge. There is also the story of Bradford Boobis who has a mysterious missing painting; his nephew has been researching the painting&#39;s legacy for 50 years. Additionally, there was an overtime thriller in college basketball as New York native Markquis Nowell led Kansas State to win over Michigan State with astounding 20 rebounds and 19 assists. Lastly, tensions have arisen over TikTok&#39;s ties to China, with lawmakers grilling their chief executive and China announcing opposition to TikTok being sold; president Biden must decide whether he should accept that opposition or pursue banning the app, which won&#39;t be an easy move either.</p>
+Right now, there is a national crisis in Israel over a planned judicial overhaul and a surge in migration in the US and Canada. In NYC, they have spent millions to convert upscale hotels, humble motels and even office buildings into housing for an influx of migrants. In the US, Attorneys General Merrick Garland and other prosecutors are seeking to demonstrate that politics should not infect the justice system when it comes to investigations about former President Trump. There&#39;s also been tension between lawmakers and TikTok&#39;s CEO Shou Chew over the app&#39;s ties to its Chinese parent company and its effects on children, as well as debate about whether or not to ban the app because of the stance taken by Beijing. Meanwhile, there was an attack on a US base in Syria that was reported to be from an Iranian drone that killed an American contractor. And finally, a missing portrait of Donald Trump given by El Salvador’s president was found propped up in an obscure spot in a Trump hotel!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Digs In on Court Overhaul, in the Face of Mass Protests</h3>
@@ -110,6 +110,12 @@ There is a national crisis in Israel due to a planned judicial overhaul, with ma
 <p>The New York native Markquis Nowell led the Wildcats with 20 rebounds and 19 assists, which set a record for an N.C.A.A. tournament game.  <a href="https://nyti.ms/3JEgwl7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>American Contractor Killed in Drone Attack on Base in Syria</h3>
+<sub>By Eric Schmitt</sub>
+<p>Five service members and another U.S. contractor were wounded. The Pentagon said the drone was of “Iranian origin” and ordered airstrikes on facilities in Syria used by Iran-linked groups.  <a href="https://nyti.ms/40hCCB1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Lawmakers Blast TikTok’s C.E.O. for App’s Ties to China, Escalating Tensions</h3>
 <sub>By Cecilia Kang, David McCabe and Sapna Maheshwari</sub>
@@ -122,16 +128,10 @@ There is a national crisis in Israel due to a planned judicial overhaul, with ma
 <p>China’s opposition to a sale of the app leaves the president to challenge that stand or consider seeking a ban, which would face its own obstacles.  <a href="https://nyti.ms/3FMdH0f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Say Spending Is Fueling Inflation. The Fed Chair Disagrees.</h3>
-<sub>By Jim Tankersley</sub>
-<p>Jerome H. Powell has said that snarled supply chains, an oil shock following Russia’s invasion of Ukraine and shifts among American consumers are primarily behind rapid price growth.  <a href="https://nyti.ms/3TDNmHq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-special-series-blue" alt="">
-<h3>The Aspiring Cult Leader’s Missing Art and the Nephew Obsessed With His Legacy</h3>
-<sub>By Joshua Needelman</sub>
-<p>The strange, twisting tale of Bradford Boobis and the nephew who has spent 50 years trying to make his painting public once again.  <a href="https://nyti.ms/3TEPpLp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>That Missing Trump Portrait? Found, Next to Some Old Yoga Mats.</h3>
+<sub>By Maria Abi-Habib and Ana Maria Hanssen</sub>
+<p>After a tip, The Times located a portrait of Donald Trump given to him by El Salvador’s president and that Democrats were eager to account for. It was propped up in an obscure spot in a Trump hotel.  <a href="https://nyti.ms/3K3MMQ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
