@@ -60,31 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 24, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot happening in the world. In Israel, Prime Minister Netanyahu is facing mass protests due to his proposed judicial overhaul. The US and Canada have signed an agreement to handle an influx of people seeking asylum. In New York City, upscale hotels, motels, and even office buildings are being turned into shelters for migrants. Attorney General Merrick Garland is overseeing cases involving former President Trump. Lastly, there was a case related to Donald Trump&#39;s hush money payments that had House Republicans intervening. In other news, the U.S. conducted airstrikes in Syria after a drone attack killed an American contractor and injured five service members, and there is tension over Chinese company TikTok&#39;s ties to China after lawmakers grilled its CEO about it. Finally, a missing portrait of Donald Trump was recently located in an obscure spot at a Trump hotel!</p>
+There is a lot going on in the world right now. In the United States, the Pentagon is struggling to feed its war machine due to declines in production capacity since the end of the Cold War, and the federal government is investigating former President Trump for potential mismanagement of classified material. Many Ukrainians are being treated for their war injuries in Minnesota, while Russia and Ukraine are facing restrictions from visa-on-arrival programs in Bali. In Montana, sixteen young people have sued their state in a landmark climate case. 
+Over in Europe, a contractor was killed and five service members were wounded in a drone attack on a base in Syria; it is believed that the drone was of Iranian origin. And finally, New Jersey is heavily represented at this year&#39;s Division I men&#39;s basketball tournament, and Iowa guard Caitlin Clark is making waves with her long-range shots.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>From Rockets to Ball Bearings, Pentagon Struggles to Feed War Machine</h3>
+<sub>By Eric Lipton</sub>
+<p>The flow of arms to Ukraine has exposed a worrisome lack of production capacity in the United States that has its roots in the end of the Cold War.  <a href="https://nyti.ms/3KegzG1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Digs In on Court Overhaul, in the Face of Mass Protests</h3>
-<sub>By Patrick Kingsley and Isabel Kershner</sub>
-<p>Amid a national crisis over a planned judicial overhaul, Israel’s Parliament approved a bill making it much harder to remove a prime minister from office.  <a href="https://nyti.ms/3JAPg7b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<h3>From Combat in Ukraine to Rehab in Minnesota, With No Time to Waste</h3>
+<sub>By David Guttenfelder and Eric Nagourney</sub>
+<p>War has forced Ukraine to become skilled at treating amputees, but there are too many for its overtaxed medical workers. Some are finding their way to a prosthetics clinic in Minnesota.  <a href="https://nyti.ms/3TFgCgS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. and Canada Reach an Agreement on Diverting Asylum Seekers</h3>
-<sub>By Michael D. Shear and Ian Austen</sub>
-<p>The deal, reached just before President Biden arrived in Canada for an official visit, allows both countries to reduce a surge in migration.  <a href="https://nyti.ms/40xjxKM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Refuge for Russians and Ukrainians, Bali Rethinks Its Open-Door Policy</h3>
+<sub>By Sui-Lee Wee and Muktita Suhartono</sub>
+<p>After multiple accounts of tourists behaving badly, its governor wants Russia and Ukraine to lose access to Indonesia’s visa-on-arrival program.  <a href="https://nyti.ms/3JGPZ6H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Manhattan Hotels Became Refuges for Thousands of Migrants</h3>
-<sub>By Karen Zraick</sub>
-<p>The city has spent millions to convert upscale hotels, humble motels and even office buildings into housing for an influx of migrants.  <a href="https://nyti.ms/3ZqYRU5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Inquiries Present a Stress Test for Justice in a Polarized Nation</h3>
-<sub>By Glenn Thrush and Adam Goldman</sub>
-<p>Attorney General Merrick Garland and other prosecutors have sought to demonstrate that politics should not infect the justice system. Those efforts face a steep challenge as the Trump investigations move ahead.  <a href="https://nyti.ms/3K1qcYb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>In Montana, It’s Youth vs. the State in a Landmark Climate Case</h3>
+<sub>By David Gelles</sub>
+<p>Sixteen young Montanans have sued their state, arguing that its support of fossil fuels violates the state Constitution.  <a href="https://nyti.ms/3lHbpZt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Court Action Underscores Peril for Trump in Documents Investigation</h3>
@@ -92,46 +93,46 @@ Right now, there&#39;s a lot happening in the world. In Israel, Prime Minister N
 <p>Federal prosecutors continue to build a case that the former president obstructed efforts by the government to reclaim classified material and that he may have misled his own lawyer.  <a href="https://nyti.ms/3TTIiPv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Trump Rally, a Right-Wing Cause and the Enduring Legacy of Waco</h3>
+<sub>By Charles Homans</sub>
+<p>Thirty years ago, a fiery federal raid on a doomsday sect turned the city into a symbol of government overreach. Donald Trump will speak there on Saturday, and some supporters — and critics — say it’s no accident.  <a href="https://nyti.ms/3KegDWh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Prosecutor in Trump Hush-Money Case Fires Back at House Republicans</h3>
-<sub>By Luke Broadwater, Jonah E. Bromwich and Ben Protess</sub>
-<p>The office of the Manhattan district attorney, Alvin L. Bragg, said the committee chairmen’s attempts to intervene in the investigation were “unlawful.”  <a href="https://nyti.ms/4094W8H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<h3>Donald Trump Faces Several Investigations. Here’s Where They Stand.</h3>
+<sub>By Ben Protess, Alan Feuer and Danny Hakim</sub>
+<p>The Manhattan district attorney’s office appears to be nearing a potential indictment of the former president, as federal and state prosecutors bear down on Mr. Trump in a number of inquiries.  <a href="https://nyti.ms/3JVNBHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Explaining the Ties Between Alvin Bragg and George Soros</h3>
-<sub>By Linda Qiu</sub>
-<p>Donald Trump’s allies have accused the district attorney bringing a case against him as having been “bought” by Mr. Soros, the philanthropist. That is misleading, though the men do have a financial connection.  <a href="https://nyti.ms/3z2G5re"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tennessee’s Rejection of $8.8 Million in Federal Funding Alarms H.I.V. Prevention Groups</h3>
+<sub>By Ava Sasani</sub>
+<p>The state plans to use state funds, which a spokeswoman for Gov. Bill Lee said would be more efficient than receiving federal dollars. Some organizations are concerned they will be cut off if they don’t align with his conservative politics.  <a href="https://nyti.ms/3JIuYbI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Garden State’s Basketball Talent Blooms in N.C.A.A. Tournament</h3>
+<sub>By David Waldstein</sub>
+<p>Whether it’s teams like Princeton and Fairleigh Dickinson pulling off upsets or standout performances from players, New Jersey’s imprint has been all over the Division I men’s basketball tournament.  <a href="https://nyti.ms/3lAsbcE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>They’re Desperation Heaves for Most Players. For Caitlin Clark, They’re Money.</h3>
+<sub>By Kris Rhim</sub>
+<p>Clark, the Iowa guard whose long-range shots have made a stir online, perfected her form in her driveway. But even when she abandons that form, she can hit game-winners from nearly halfcourt.  <a href="https://nyti.ms/40twuW3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Kansas State Tops Michigan State in an Overtime Thriller</h3>
 <sub>By Adam Zagoria and Scott Miller</sub>
-<p>The New York native Markquis Nowell led the Wildcats with 20 rebounds and 19 assists, which set a record for an N.C.A.A. tournament game.  <a href="https://nyti.ms/3JEgwl7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Markquis Nowell led the Wildcats with 20 rebounds and 19 assists, which set a record for an N.C.A.A. tournament game. In another exciting finish, Gonzaga beat U.C.L.A. in the final seconds.  <a href="https://nyti.ms/3JEgwl7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>American Contractor Killed in Drone Attack on Base in Syria</h3>
 <sub>By Eric Schmitt</sub>
 <p>Five service members and another U.S. contractor were wounded. The Pentagon said the drone was of “Iranian origin” and ordered airstrikes on facilities in Syria used by Iran-linked groups.  <a href="https://nyti.ms/40hCCB1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Lawmakers Blast TikTok’s C.E.O. for App’s Ties to China, Escalating Tensions</h3>
-<sub>By Cecilia Kang, David McCabe and Sapna Maheshwari</sub>
-<p>Lawmakers grilled Shou Chew, TikTok’s chief executive, over the app’s ties to its Chinese parent company and its effects on children, as Chinese officials said they opposed a sale of the platform.  <a href="https://nyti.ms/40nyNdq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Biden’s Options on TikTok Narrow After Beijing Pushes Back</h3>
-<sub>By David McCabe and Chang Che</sub>
-<p>China’s opposition to a sale of the app leaves the president to challenge that stand or consider seeking a ban, which would face its own obstacles.  <a href="https://nyti.ms/3FMdH0f"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>That Missing Trump Portrait? Found, Next to Some Old Yoga Mats.</h3>
-<sub>By Maria Abi-Habib and Ana Maria Hanssen</sub>
-<p>After a tip, The Times located a portrait of Donald Trump given to him by El Salvador’s president and that Democrats were eager to account for. It was propped up in an obscure spot in a Trump hotel.  <a href="https://nyti.ms/3K3MMQ4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
