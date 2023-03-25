@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 25, Central Standard Time</p>
 <p>
-Right now, it seems like the world is facing some difficult moments. In Syria, a recent attack killed a U.S. contractor and wounded other Americans. In the U.S., former Trump officials have been ordered to testify in an investigation into the 2020 election and House Republicans are demanding more information from the Manhattan district attorney about an investigation into hush money payments. In sports, there&#39;s March Madness and Miami is pushing for a spot in the Final Four. In Los Angeles, schools and 30,000 workers just reached a tentative deal after a walkout. There is also tension boiling between Ukraine and Russia, and support is growing for Russia to pay for Ukraine&#39;s rebuilding costs. Finally, Intel co-founder Gordon E. Moore recently passed away while in Israel there&#39;s a crisis that is testing complicated ties with President Biden as military reservists are avoiding honor duty due to a judicial overhaul. New York also has an interesting history at 64 East Seventh Street with tragedy, peyote, beat poets, and Yoko Ono all having played roles in its past.</p>
+I wanted to let you know there has been a lot of news happening in the world lately. A conflict in Syria continues to escalate following an attack that killed a U.S. contractor and wounded six other Americans. Former Trump officials must testify in an inquiry involving the 2020 election and a potential legal showdown has come up between House Republicans and the Manhattan district attorney regarding a hush money investigation involving the former president. Additionally, a large tornado ripped through Mississippi last week causing damage to homes and trapping people in the town of Rolling Fork. Los Angeles schools and 30,000 workers reached a tentative deal after a three-day strike and support is growing for Russia to pay for Ukraine’s rebuilding after Moscow&#39;s war of aggression. Intel co-founder Gordon E. Moore also passed away at 94. His prediction from the 1960s about rapid advances in computer chip technology charted a course for the age of high tech. Finally, there is a crisis playing out in Israel that is testing the relationship between President Biden and Prime Minister Netanyahu, as well as posing some issues with battlefield readiness as many military reservists are avoiding volunteer duty.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Conflict in Syria Escalates Following Attack That Killed a U.S. Contractor</h3>
@@ -93,16 +93,22 @@ Right now, it seems like the world is facing some difficult moments. In Syria, a
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Large Tornado Rips Through Mississippi</h3>
+<sub>By Mike Ives and Emily Cochrane</sub>
+<p>The tornado blew out windows, damaged homes and trapped people in the town of Rolling Fork. “The town took a direct hit,” said a videographer who filmed the storm.  <a href="https://nyti.ms/3LVSSTM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Los Angeles Schools and 30,000 Workers Reach Tentative Deal After Strike</h3>
 <sub>By Corina Knoll, Adeel Hassan and Shawn Hubler</sub>
 <p>The three-day walkout included Los Angeles Unified School District teachers, gardeners, bus drivers, cafeteria workers and special education assistants.  <a href="https://nyti.ms/3FOvunz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>No Letup in Bakhmut as Ukraine and Russia Brace for Battles Elsewhere</h3>
-<sub>By Shashank Bengali and Anton Troianovski</sub>
-<p>Both sides expect a Ukrainian offensive while the Bakhmut fight continues, but the head of the Wagner mercenary group said Russia must be clearer about its goals.  <a href="https://nyti.ms/3K6icVS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<h3>Thousands of Ukrainians Endure Dire Conditions Around Bakhmut, Aid Groups Say</h3>
+<sub>By Victoria Kim</sub>
+<p>The fighting for the city has been the most violent of recent months and does not appear to be letting up.  <a href="https://nyti.ms/3FQYQl0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Support Grows to Have Russia Pay for Ukraine’s Rebuilding</h3>
@@ -113,7 +119,7 @@ Right now, it seems like the world is facing some difficult moments. In Syria, a
 <img src="https://img.shields.io/badge/-obituaries-blue" alt="">
 <h3>Gordon E. Moore, Intel Co-Founder Behind Moore’s Law, Dies at 94</h3>
 <sub>By Holcomb B. Noble and Katie Hafner</sub>
-<p>His prediction in the 1960s about exponential advances in computer chip technology charted a course for the age of high tech.  <a href="https://nyti.ms/3K9rvok"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>His prediction in the 1960s about rapid advances in computer chip technology charted a course for the age of high tech.  <a href="https://nyti.ms/3K9rvok"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ Right now, it seems like the world is facing some difficult moments. In Syria, a
 <h3>Israel’s Army Fears Effect of Judicial Crisis on Battlefield Readiness</h3>
 <sub>By Patrick Kingsley and Ronen Bergman</sub>
 <p>A judicial overhaul has prompted many military reservists to avoid volunteer duty. Military leaders have privately warned that this might require scaling back operations.  <a href="https://nyti.ms/3LIfGqe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Tragedy, Peyote, Beat Poets, Yoko Ono. The 9 Lives of an East Village Townhouse.</h3>
-<sub>By John Leland</sub>
-<p>Every building in New York has some history. The house at 64 East Seventh Street has a lot.  <a href="https://nyti.ms/3JEPJ8s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
