@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 25, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. In Ukraine, the U.S. is sending volunteers to the battlefield with access to American weapons, despite some of them having no military experience. In Syria, there has been an attack that killed a U.S. contractor and wounded others, which has escalated tensions. Meanwhile in Italy, population aging is creating concerns about how elderly people will be cared for and robots may play a role in addressing this need. 
-
-Here in the U.S., there is news of stolen guns from parked cars becoming a point of contention in gun regulation debates, as well as former Trump officials facing scrutiny for trial testimonies. Trump himself is giving a rally at Waco over the weekend - Waco being a small town of significance due to its connection to a right-wing cause and government overreach 30 years ago. Lastly, a tech legend and Intel co-founder Gordon E. Moore passed away at 94 and is known for predicting expansions of computer chip technology which helped guide us into the age of high tech we find ourselves in today.</p>
+There are a number of interesting things happening around the world right now. In Ukraine, volunteers who would not be allowed near the battlefield in a U.S.-led war have access to American weapons and there is intense fighting for a city that is creating a dire humanitarian crisis for civilians. In the Amazon, illegal mines are harming an isolated tribe by causing a humanitarian crisis. Ecuador has tried to protect the Amazon but lack of international support has made this hard and they are now looking to expand drilling in the rainforest. In the U.S., Rolling Fork, the birthplace of Muddy Waters, is facing tornado and flooding concerns, and more guns are being stolen from parked cars. In Italy, older people are facing a crisis of caregivers, so some are looking to using robots as help. This comes after Donald Trump&#39;s payoffs to Stormy Daniels have been put under scrutiny. Despite this pattern of dangerous behavior, he remains a strong front-runner for his party’s 2024 nomination thanks to his strongest supporters. March Madness basketball games have been taking place and one South Carolina player is working on basketball programs in West Africa. Geopolitics has forced an entrepreneur to bring jobs back from China which is helping sales of his meme-inspired socks too.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Stolen Valor: The U.S. Volunteers in Ukraine Who Lie, Waste and Bicker</h3>
@@ -71,16 +69,28 @@ Here in the U.S., there is news of stolen guns from parked cars becoming a point
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Thousands of Ukrainians Endure Dire Conditions Around Bakhmut, Aid Groups Say</h3>
+<h3>Bakhmut Battle ‘Could Be Stabilized,’Ukrainian General Says, but Fighting Remains Intense</h3>
 <sub>By Matthew Mpoke Bigg and Victoria Kim</sub>
-<p>The fighting for the city has been the most violent of recent months and does not appear to be letting up.  <a href="https://nyti.ms/3FQYQl0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The battle for the city has been the most violent of recent months, creating an increasingly dire humanitarian crisis for the few remaining civilians.  <a href="https://nyti.ms/3FQYQl0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Conflict in Syria Escalates Following Attack That Killed a U.S. Contractor</h3>
-<sub>By Eric Schmitt</sub>
-<p>U.S. officials said the main air defense system at the coalition base was “not fully operational” at the time of Thursday’s attack, which killed a U.S. contractor and wounded six other Americans.  <a href="https://nyti.ms/3JHVdzh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<h3>Rolling Fork, the birthplace of Muddy Waters, has faced tornado and flooding concerns for years.</h3>
+<sub>By Mike Ives and Jesus Jiménez</sub>
+<p>Many people in the area live in mobile homes, a particular issue when severe weather strikes.  <a href="https://nyti.ms/3ZbcFBX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Amazon’s Largest Isolated Tribe Is Dying</h3>
+<sub>By Jack Nicas and Victor Moriyama</sub>
+<p>Illegal mines have fueled a humanitarian crisis for the Yanomami Indigenous group. Brazil’s new president is trying to fight back.  <a href="https://nyti.ms/42JVD0O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Ecuador Tried to Curb Drilling and Protect the Amazon. The Opposite Happened.</h3>
+<sub>By Catrin Einhorn, Manuela Andreoni and Erin Schaff</sub>
+<p>A novel idea to leave the country’s vast oil reserves in the ground fizzled for lack of international support. Now, struggling under painful debt, the government wants to expand drilling in the rainforest.  <a href="https://nyti.ms/3iGEJhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Largest Source of Stolen Guns? Parked Cars.</h3>
@@ -94,6 +104,18 @@ Here in the U.S., there is news of stolen guns from parked cars becoming a point
 <p>The Western world’s oldest population is facing a crisis of caregivers. Some are looking for a little helping, plastic, hand.  <a href="https://nyti.ms/3JRniEq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Donald Trump, and the Sordid Tradition of Suppressing October Surprises</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The payoff to Stormy Daniels that has a Manhattan grand jury weighing criminal charges against Mr. Trump can trace its lineage to political skulduggery in 1968 and 1980.  <a href="https://nyti.ms/40eKDGJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Trump Rallies in Waco, His Followers Shore Up His 2024 Bid</h3>
+<sub>By Michael C. Bender and J. David Goodman</sub>
+<p>Despite a pattern of dangerous, erratic behavior, the former president remains a strong front-runner for his party’s nomination. His durability stems from his most loyal supporters.  <a href="https://nyti.ms/3TI2lQu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>What We Learned in March Madness on Friday</h3>
 <sub>By The New York Times</sub>
@@ -101,40 +123,16 @@ Here in the U.S., there is news of stolen guns from parked cars becoming a point
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>For Those Chasing N.C.A.A. Glory, Madison Square Garden Is More Than Another Stop</h3>
-<sub>By Adam Zagoria</sub>
-<p>Some players grew up in New York but hadn’t played on its biggest stage. Others were learning about it anew in this N.C.A.A. men’s tournament.  <a href="https://nyti.ms/3TGttj4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<h3>The South Carolina Player Taking Basketball to Girls in West Africa</h3>
+<sub>By Jeré Longman</sub>
+<p>“I’ve never coached anybody that comes with that much determination,” Coach Dawn Staley said of Laeticia Amihere.  <a href="https://nyti.ms/3n2MIa7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>For 38 Years at UConn, Chris Dailey Has Been the Yin to Geno’s Yang</h3>
-<sub>By Remy Tumin</sub>
-<p>Assistant coaches usually move on after a few seasons. Not Dailey, Connecticut’s associate head coach, who sticks to a routine and brings balance to the bench.  <a href="https://nyti.ms/40qLO5Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Former Trump Officials Must Testify in 2020 Election Inquiry, Judge Says</h3>
-<sub>By Maggie Haberman and Alan Feuer</sub>
-<p>The ruling paves the way for testimony from Mark Meadows and others. Separately, a Trump lawyer appeared before a grand jury looking into the former president’s handling of classified documents.  <a href="https://nyti.ms/40aUuxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Trump Rally, a Right-Wing Cause and the Enduring Legacy of Waco</h3>
-<sub>By Charles Homans</sub>
-<p>Thirty years ago, a fiery federal raid on a doomsday sect turned the city into a symbol of government overreach. Donald Trump will speak there on Saturday, and some supporters — and critics — say it’s no accident.  <a href="https://nyti.ms/3KegDWh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Gordon E. Moore, Intel Co-Founder Behind Moore’s Law, Dies at 94</h3>
-<sub>By Holcomb B. Noble and Katie Hafner</sub>
-<p>His prediction in the 1960s about rapid advances in computer chip technology charted a course for the age of high tech.  <a href="https://nyti.ms/3lK45MQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Christine Chun</sub>
-<p>DNA from Beethoven’s hair unlocks secrets from his life. Also in this edition: Matthew Macfadyen on “Succession” and the joy of letting loose.  <a href="https://nyti.ms/3FRgB3L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Lure of the ‘Made in America’ Sales Pitch</h3>
+<sub>By Peter S. Goodman</sub>
+<p>Geopolitics forced an entrepreneur, Taylor Shupe, to bring jobs back from China. It’s helping sell his meme-inspired socks too.  <a href="https://nyti.ms/3lH68RK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
