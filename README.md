@@ -60,14 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 25, Central Standard Time</p>
 <p>
-There has been some intense news coming from around the world recently. In Mississippi, a powerful tornado left at least 23 people dead and dozens more injured while in Ukraine, U.S. volunteers stationed there have reportedly been lying, wasting and bickering. Further conflict has escalated in Syria after an attack that killed one U.S. contractor and wounded six others, and many Ukrainians are facing dire conditions near Bakhmut. Closer to home, stolen guns are becoming an issue due to a rise in firearms kept in vehicles and the debate over gun safety follows suit. Meanwhile, elderly Italians are relying on robots for care while countries seek N.C.A.A glory at Madison Square Garden. In more recent news, former Trump officials must testify in 2020 election inquiries, Gordon E. Moore (co-founder of Intel) recently passed away at 94 and the weekend edition covers Beethoven&#39;s DNA secrets and a review of the show &quot;Succession&quot;.</p>
+There is a lot happening around the world right now. In Ukraine, the U.S. is sending volunteers to the battlefield with access to American weapons, despite some of them having no military experience. In Syria, there has been an attack that killed a U.S. contractor and wounded others, which has escalated tensions. Meanwhile in Italy, population aging is creating concerns about how elderly people will be cared for and robots may play a role in addressing this need. 
+
+Here in the U.S., there is news of stolen guns from parked cars becoming a point of contention in gun regulation debates, as well as former Trump officials facing scrutiny for trial testimonies. Trump himself is giving a rally at Waco over the weekend - Waco being a small town of significance due to its connection to a right-wing cause and government overreach 30 years ago. Lastly, a tech legend and Intel co-founder Gordon E. Moore passed away at 94 and is known for predicting expansions of computer chip technology which helped guide us into the age of high tech we find ourselves in today.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Least 23 Killed as Powerful Tornado Tears Through Mississippi</h3>
-<sub>By Mike Ives, Euan Ward, Victoria Kim and Emily Cochrane</sub>
-<p>Dozens more were injured after a deadly tornado ripped through a rural area. The death toll is expected to rise.  <a href="https://nyti.ms/3FQwKXh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Stolen Valor: The U.S. Volunteers in Ukraine Who Lie, Waste and Bicker</h3>
 <sub>By Justin Scheck and Thomas Gibbons-Neff</sub>
@@ -122,10 +118,16 @@ There has been some intense news coming from around the world recently. In Missi
 <p>The ruling paves the way for testimony from Mark Meadows and others. Separately, a Trump lawyer appeared before a grand jury looking into the former president’s handling of classified documents.  <a href="https://nyti.ms/40aUuxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Trump Rally, a Right-Wing Cause and the Enduring Legacy of Waco</h3>
+<sub>By Charles Homans</sub>
+<p>Thirty years ago, a fiery federal raid on a doomsday sect turned the city into a symbol of government overreach. Donald Trump will speak there on Saturday, and some supporters — and critics — say it’s no accident.  <a href="https://nyti.ms/3KegDWh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Gordon E. Moore, Intel Co-Founder Behind Moore’s Law, Dies at 94</h3>
 <sub>By Holcomb B. Noble and Katie Hafner</sub>
-<p>His prediction in the 1960s about rapid advances in computer chip technology charted a course for the age of high tech.  <a href="https://nyti.ms/3K9rvok"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>His prediction in the 1960s about rapid advances in computer chip technology charted a course for the age of high tech.  <a href="https://nyti.ms/3lK45MQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
