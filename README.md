@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, March 24, Central Standard Time</p>
+<p>It is Saturday, March 25, Central Standard Time</p>
 <p>
-There is a lot of conflict happening across the globe right now. In Syria, we have reports that a US contractor was killed and six other Americans were wounded following an attack. Closer to home here in the US, there&#39;s been a ruling that former Trump officials need to testify in an inquiry into the 2020 election. There&#39;s also a potential legal showdown between the Manhattan district attorney and House Republicans, as they argue over oversight power. In sports, there are no top seeds left in the tournaments after Alabama and Houston were knocked out in rapid succession. Back in the US, Los Angeles school and 30,000 workers have finally agreed on terms after a strike. 
-
-Meanwhile, Ukraine and Russia are facing battles in Bakhmut as well as demands for Russia to pay for rebuilding costs. Here in New York City, we&#39;re looking back on the colorful history of a townhouse at 64 East Seventh Street, from tragedy to Yoko Ono. Lastly, in Israel there&#39;s a crisis underway that is testing Biden and Netanyahu&#39;s complicated ties, while military reservists have been avoiding volunteer duty which could cause military operations to scale back.</p>
+Right now, it seems like the world is facing some difficult moments. In Syria, a recent attack killed a U.S. contractor and wounded other Americans. In the U.S., former Trump officials have been ordered to testify in an investigation into the 2020 election and House Republicans are demanding more information from the Manhattan district attorney about an investigation into hush money payments. In sports, there&#39;s March Madness and Miami is pushing for a spot in the Final Four. In Los Angeles, schools and 30,000 workers just reached a tentative deal after a walkout. There is also tension boiling between Ukraine and Russia, and support is growing for Russia to pay for Ukraine&#39;s rebuilding costs. Finally, Intel co-founder Gordon E. Moore recently passed away while in Israel there&#39;s a crisis that is testing complicated ties with President Biden as military reservists are avoiding honor duty due to a judicial overhaul. New York also has an interesting history at 64 East Seventh Street with tragedy, peyote, beat poets, and Yoko Ono all having played roles in its past.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Conflict in Syria Escalates Following Attack That Killed a U.S. Contractor</h3>
@@ -83,14 +81,20 @@ Meanwhile, Ukraine and Russia are facing battles in Bakhmut as well as demands f
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>No More Top Seeds: Alabama and Houston Out in Rapid Succession</h3>
+<h3>What We Learned in March Madness on Friday</h3>
 <sub>By The New York Times</sub>
 <p>San Diego State bothered the Crimson Tide with a physical style and slow pace. Miami pounced on Houston early and cruised in the second half.  <a href="https://nyti.ms/40B68BI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Miami Finds an Unshakable Groove Against Mighty Houston</h3>
+<sub>By Andrew Keh</sub>
+<p>The Hurricanes were unusually loose against the Cougars, the last No. 1 seed in the men’s N.C.A.A. tournament. Now Miami, not Houston, is pushing for a Final Four.  <a href="https://nyti.ms/3FUrNN5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Los Angeles Schools and 30,000 Workers Reach Tentative Deal After Strike</h3>
-<sub>By Adeel Hassan</sub>
+<sub>By Corina Knoll, Adeel Hassan and Shawn Hubler</sub>
 <p>The three-day walkout included Los Angeles Unified School District teachers, gardeners, bus drivers, cafeteria workers and special education assistants.  <a href="https://nyti.ms/3FOvunz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
@@ -128,12 +132,6 @@ Meanwhile, Ukraine and Russia are facing battles in Bakhmut as well as demands f
 <h3>Tragedy, Peyote, Beat Poets, Yoko Ono. The 9 Lives of an East Village Townhouse.</h3>
 <sub>By John Leland</sub>
 <p>Every building in New York has some history. The house at 64 East Seventh Street has a lot.  <a href="https://nyti.ms/3JEPJ8s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Famed Antiwar Protester Was Once Cog in Russia’s Propaganda Machine</h3>
-<sub>By Constant Méheut</sub>
-<p>For 20 years, Marina Ovsyannikova worked for Russian state TV. What compelled her, shortly after Ukraine was invaded, to storm a live broadcast and tell viewers they were being lied to?  <a href="https://nyti.ms/3JILjgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
