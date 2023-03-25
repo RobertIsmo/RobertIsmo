@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 25, Central Standard Time</p>
 <p>
-There are a number of interesting things happening around the world right now. In Ukraine, volunteers who would not be allowed near the battlefield in a U.S.-led war have access to American weapons and there is intense fighting for a city that is creating a dire humanitarian crisis for civilians. In the Amazon, illegal mines are harming an isolated tribe by causing a humanitarian crisis. Ecuador has tried to protect the Amazon but lack of international support has made this hard and they are now looking to expand drilling in the rainforest. In the U.S., Rolling Fork, the birthplace of Muddy Waters, is facing tornado and flooding concerns, and more guns are being stolen from parked cars. In Italy, older people are facing a crisis of caregivers, so some are looking to using robots as help. This comes after Donald Trump&#39;s payoffs to Stormy Daniels have been put under scrutiny. Despite this pattern of dangerous behavior, he remains a strong front-runner for his party’s 2024 nomination thanks to his strongest supporters. March Madness basketball games have been taking place and one South Carolina player is working on basketball programs in West Africa. Geopolitics has forced an entrepreneur to bring jobs back from China which is helping sales of his meme-inspired socks too.</p>
+There are some really interesting things happening in the world. In Ukraine, there are American-led volunteers who have access to weapons but are not allowed on the battlefield. There&#39;s a battle going on in Bakhmut, too, leading to a humanitarian crisis. The largest isolated tribe in the Amazon is facing death due to illegal mines. Ecuador tried and failed to protect their Amazon rainforest by not drilling for oil and has had to consider expanding drilling now due to crippling debt. Israel is trying to weaken their judiciary system, and geothermal power is stuck in limbo in Japan because powerful local interests want to keep their hot spring resorts safe. Donald Trump is still strongly campaigning for the 2024 election and more guns are being stolen from parked cars. In sports news, South Carolina is chasing an undefeated season and Chris Dailey has been a support system for Geno at UConn for 38 years.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Stolen Valor: The U.S. Volunteers in Ukraine Who Lie, Waste and Bicker</h3>
@@ -75,9 +75,9 @@ There are a number of interesting things happening around the world right now. I
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rolling Fork, the birthplace of Muddy Waters, has faced tornado and flooding concerns for years.</h3>
-<sub>By Mike Ives and Jesus Jiménez</sub>
-<p>Many people in the area live in mobile homes, a particular issue when severe weather strikes.  <a href="https://nyti.ms/3ZbcFBX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here’s how the storms accelerated across the South.</h3>
+<sub>By Jesus Jiménez</sub>
+<p>  <a href="https://nyti.ms/40EYXZb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,17 +92,17 @@ There are a number of interesting things happening around the world right now. I
 <p>A novel idea to leave the country’s vast oil reserves in the ground fizzled for lack of international support. Now, struggling under painful debt, the government wants to expand drilling in the rainforest.  <a href="https://nyti.ms/3iGEJhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Largest Source of Stolen Guns? Parked Cars.</h3>
-<sub>By Richard Fausset</sub>
-<p>The growing number of firearms kept in vehicles has become a new point of contention in the debates over regulating gun safety.  <a href="https://nyti.ms/3K8dTcT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s Defense Minister Says Government Should Halt Contentious Judicial Plan</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Yoav Gallant, who oversees Israel’s military, is the first minister in Benjamin Netanyahu’s government to criticize a plan to weaken the judiciary. His comments follow fears that weeks of unrest have undermined military capacity.  <a href="https://nyti.ms/3nlXo3W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Who Will Take Care of Italy’s Older People? Robots, Maybe.</h3>
-<sub>By Jason Horowitz</sub>
-<p>The Western world’s oldest population is facing a crisis of caregivers. Some are looking for a little helping, plastic, hand.  <a href="https://nyti.ms/3JRniEq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Geothermal Power, Cheap and Clean, Could Help Run Japan. So Why Doesn’t It?</h3>
+<sub>By Hiroko Tabuchi and Chang W. Lee</sub>
+<p>For decades, new plants have been blocked by powerful local interests, the owners of hot spring resorts, that say the sites threaten a centuries-old tradition.  <a href="https://nyti.ms/3FKhMSu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Donald Trump, and the Sordid Tradition of Suppressing October Surprises</h3>
@@ -116,23 +116,23 @@ There are a number of interesting things happening around the world right now. I
 <p>Despite a pattern of dangerous, erratic behavior, the former president remains a strong front-runner for his party’s nomination. His durability stems from his most loyal supporters.  <a href="https://nyti.ms/3TI2lQu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>What We Learned in March Madness on Friday</h3>
-<sub>By The New York Times</sub>
-<p>San Diego State bothered the Crimson Tide with a physical style and slow pace. Miami pounced on Houston early and cruised in the second half.  <a href="https://nyti.ms/40B68BI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The South Carolina Player Taking Basketball to Girls in West Africa</h3>
-<sub>By Jeré Longman</sub>
-<p>“I’ve never coached anybody that comes with that much determination,” Coach Dawn Staley said of Laeticia Amihere.  <a href="https://nyti.ms/3n2MIa7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Lure of the ‘Made in America’ Sales Pitch</h3>
-<sub>By Peter S. Goodman</sub>
-<p>Geopolitics forced an entrepreneur, Taylor Shupe, to bring jobs back from China. It’s helping sell his meme-inspired socks too.  <a href="https://nyti.ms/3lH68RK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Largest Source of Stolen Guns? Parked Cars.</h3>
+<sub>By Richard Fausset</sub>
+<p>The growing number of firearms kept in vehicles has become a new point of contention in the debates over regulating gun safety.  <a href="https://nyti.ms/3K8dTcT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>South Carolina Stays on March in Chase for Perfect Season</h3>
+<sub>By Kris Rhim</sub>
+<p>The Gamecocks, the reigning champions and the top overall seed in the N.C.A.A. women’s tournament, rolled past U.C.L.A. to the round of 8.  <a href="https://nyti.ms/3lKzMFO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>For 38 Years at UConn, Chris Dailey Has Been the Yin to Geno’s Yang</h3>
+<sub>By Remy Tumin</sub>
+<p>Assistant coaches usually move on after a few seasons. Not Dailey, Connecticut’s associate head coach, who sticks to a routine and brings balance to the bench.  <a href="https://nyti.ms/40qLO5Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
