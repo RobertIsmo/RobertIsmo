@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 25, Central Standard Time</p>
 <p>
-I wanted to let you know there has been a lot of news happening in the world lately. A conflict in Syria continues to escalate following an attack that killed a U.S. contractor and wounded six other Americans. Former Trump officials must testify in an inquiry involving the 2020 election and a potential legal showdown has come up between House Republicans and the Manhattan district attorney regarding a hush money investigation involving the former president. Additionally, a large tornado ripped through Mississippi last week causing damage to homes and trapping people in the town of Rolling Fork. Los Angeles schools and 30,000 workers reached a tentative deal after a three-day strike and support is growing for Russia to pay for Ukraine’s rebuilding after Moscow&#39;s war of aggression. Intel co-founder Gordon E. Moore also passed away at 94. His prediction from the 1960s about rapid advances in computer chip technology charted a course for the age of high tech. Finally, there is a crisis playing out in Israel that is testing the relationship between President Biden and Prime Minister Netanyahu, as well as posing some issues with battlefield readiness as many military reservists are avoiding volunteer duty.</p>
+There has been some intense news coming from around the world recently. In Mississippi, a powerful tornado left at least 23 people dead and dozens more injured while in Ukraine, U.S. volunteers stationed there have reportedly been lying, wasting and bickering. Further conflict has escalated in Syria after an attack that killed one U.S. contractor and wounded six others, and many Ukrainians are facing dire conditions near Bakhmut. Closer to home, stolen guns are becoming an issue due to a rise in firearms kept in vehicles and the debate over gun safety follows suit. Meanwhile, elderly Italians are relying on robots for care while countries seek N.C.A.A glory at Madison Square Garden. In more recent news, former Trump officials must testify in 2020 election inquiries, Gordon E. Moore (co-founder of Intel) recently passed away at 94 and the weekend edition covers Beethoven&#39;s DNA secrets and a review of the show &quot;Succession&quot;.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At Least 23 Killed as Powerful Tornado Tears Through Mississippi</h3>
+<sub>By Mike Ives, Euan Ward, Victoria Kim and Emily Cochrane</sub>
+<p>Dozens more were injured after a deadly tornado ripped through a rural area. The death toll is expected to rise.  <a href="https://nyti.ms/3FQwKXh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Stolen Valor: The U.S. Volunteers in Ukraine Who Lie, Waste and Bicker</h3>
+<sub>By Justin Scheck and Thomas Gibbons-Neff</sub>
+<p>People who would not be allowed anywhere near the battlefield in a U.S.-led war are active on the Ukrainian front, with ready access to American weapons.  <a href="https://nyti.ms/40z91mh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Thousands of Ukrainians Endure Dire Conditions Around Bakhmut, Aid Groups Say</h3>
+<sub>By Matthew Mpoke Bigg and Victoria Kim</sub>
+<p>The fighting for the city has been the most violent of recent months and does not appear to be letting up.  <a href="https://nyti.ms/3FQYQl0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Conflict in Syria Escalates Following Attack That Killed a U.S. Contractor</h3>
 <sub>By Eric Schmitt</sub>
@@ -69,16 +87,16 @@ I wanted to let you know there has been a lot of news happening in the world lat
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Former Trump Officials Must Testify in 2020 Election Inquiry, Judge Says</h3>
-<sub>By Maggie Haberman and Alan Feuer</sub>
-<p>The ruling paves the way for testimony from Mark Meadows and others. Separately, a Trump lawyer appeared before a grand jury looking into the former president’s handling of classified documents.  <a href="https://nyti.ms/40aUuxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<h3>The Largest Source of Stolen Guns? Parked Cars.</h3>
+<sub>By Richard Fausset</sub>
+<p>The growing number of firearms kept in vehicles has become a new point of contention in the debates over regulating gun safety.  <a href="https://nyti.ms/3K8dTcT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Demands on Prosecutor in Trump Case Test Limits of Oversight Power</h3>
-<sub>By Charlie Savage</sub>
-<p>The Manhattan district attorney is resisting demands by House Republicans that he provide information about the hush money inquiry, setting up a potential legal showdown.  <a href="https://nyti.ms/3lwWSQc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Who Will Take Care of Italy’s Older People? Robots, Maybe.</h3>
+<sub>By Jason Horowitz</sub>
+<p>The Western world’s oldest population is facing a crisis of caregivers. Some are looking for a little helping, plastic, hand.  <a href="https://nyti.ms/3JRniEq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>What We Learned in March Madness on Friday</h3>
@@ -87,33 +105,21 @@ I wanted to let you know there has been a lot of news happening in the world lat
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Miami Finds an Unshakable Groove Against Mighty Houston</h3>
-<sub>By Andrew Keh</sub>
-<p>The Hurricanes were unusually loose against the Cougars, the last No. 1 seed in the men’s N.C.A.A. tournament. Now Miami, not Houston, is pushing for a Final Four.  <a href="https://nyti.ms/3FUrNN5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Those Chasing N.C.A.A. Glory, Madison Square Garden Is More Than Another Stop</h3>
+<sub>By Adam Zagoria</sub>
+<p>Some players grew up in New York but hadn’t played on its biggest stage. Others were learning about it anew in this N.C.A.A. men’s tournament.  <a href="https://nyti.ms/3TGttj4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>For 38 Years at UConn, Chris Dailey Has Been the Yin to Geno’s Yang</h3>
+<sub>By Remy Tumin</sub>
+<p>Assistant coaches usually move on after a few seasons. Not Dailey, Connecticut’s associate head coach, who sticks to a routine and brings balance to the bench.  <a href="https://nyti.ms/40qLO5Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Large Tornado Rips Through Mississippi</h3>
-<sub>By Mike Ives and Emily Cochrane</sub>
-<p>The tornado blew out windows, damaged homes and trapped people in the town of Rolling Fork. “The town took a direct hit,” said a videographer who filmed the storm.  <a href="https://nyti.ms/3LVSSTM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Los Angeles Schools and 30,000 Workers Reach Tentative Deal After Strike</h3>
-<sub>By Corina Knoll, Adeel Hassan and Shawn Hubler</sub>
-<p>The three-day walkout included Los Angeles Unified School District teachers, gardeners, bus drivers, cafeteria workers and special education assistants.  <a href="https://nyti.ms/3FOvunz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Thousands of Ukrainians Endure Dire Conditions Around Bakhmut, Aid Groups Say</h3>
-<sub>By Victoria Kim</sub>
-<p>The fighting for the city has been the most violent of recent months and does not appear to be letting up.  <a href="https://nyti.ms/3FQYQl0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Support Grows to Have Russia Pay for Ukraine’s Rebuilding</h3>
-<sub>By Patricia Cohen</sub>
-<p>Although U.S. officials have cautioned against seizing Russia’s reserves in foreign banks, others say it’s “crazy” not to after Moscow’s war of aggression.  <a href="https://nyti.ms/40BFc4q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Former Trump Officials Must Testify in 2020 Election Inquiry, Judge Says</h3>
+<sub>By Maggie Haberman and Alan Feuer</sub>
+<p>The ruling paves the way for testimony from Mark Meadows and others. Separately, a Trump lawyer appeared before a grand jury looking into the former president’s handling of classified documents.  <a href="https://nyti.ms/40aUuxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-obituaries-blue" alt="">
@@ -122,16 +128,10 @@ I wanted to let you know there has been a lot of news happening in the world lat
 <p>His prediction in the 1960s about rapid advances in computer chip technology charted a course for the age of high tech.  <a href="https://nyti.ms/3K9rvok"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Crisis in Israel Tests the Complicated Ties Between Biden and Netanyahu</h3>
-<sub>By Katie Rogers</sub>
-<p>President Biden has stressed that shared democratic values have to be at the core of a United States-Israel relationship.  <a href="https://nyti.ms/3TLFzY3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Army Fears Effect of Judicial Crisis on Battlefield Readiness</h3>
-<sub>By Patrick Kingsley and Ronen Bergman</sub>
-<p>A judicial overhaul has prompted many military reservists to avoid volunteer duty. Military leaders have privately warned that this might require scaling back operations.  <a href="https://nyti.ms/3LIfGqe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Christine Chun</sub>
+<p>DNA from Beethoven’s hair unlocks secrets from his life. Also in this edition: Matthew Macfadyen on “Succession” and the joy of letting loose.  <a href="https://nyti.ms/3FRgB3L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
