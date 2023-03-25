@@ -60,24 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 24, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world right now. In India, Modi allies are trying to expell the former Indian Prime Minister, Rahul Gandhi, from parliament through their legal system. In the US, there is an ongoing investigation into a drone strike that killed an american in Syria which revealed that defensive air systems weren&#39;t fully operational before it happened. At the same time, Republicans are demanding information from Manhattan district attorney in regards to a hush money inquiry for Trump and Trump himself is warning of possible violence if he&#39;s charged with anything. 
-
-On a different note, there&#39;s talk of having Russia pay for Ukraine&#39;s rebuilding due to their war and aggression against them and in Montana, there is a landmark case against the state where 16 young people are suing the state claiming its support of fossil fuels violates the state Constitution. Another interesting story involves Marina Ovsyannikova who used to work in Russian state TV until she stormed a live broadcast one day telling viewers they were being lied to after Ukraine was invaded.
-
-Lastly in terms of sports news, NJ is leaving a mark on this years NCAA men&#39;s basketball tournament with Princeton and Fairleigh Dickinson pulling off upsets as well as some standout performances by players. There is also Houston who had a basketball sensation nicknamed Phi Slama Jama in 1982-83 but eventually lost in the championship game to North Carolina State at the very last moments of it too. 
-
-Things aren&#39;t completely negative though, You also have Do Kwon whose crypto company failed but is still managing to live a public life on the run since hes wanted for charges in South Korea and The US!</p>
+There&#39;s a lot going on in the world right now. In Syria, there has been escalating conflict and recently a U.S. contractor was killed in an attack against a coalition base. In the US, a judge has ruled that former Trump officials must testify in an inquiry into the 2020 presidential election. In India, one of Modi&#39;s allies has expelled Rahul Gandhi from Parliament as a way to thwart his plans. In France, there have been massive protests over Macron&#39;snew pension law which is causing something of a constitutional crisis. And in Paris, there have been spasms of violence as opponents of the pension reforms take to the streets with nightly &quot;wild protests&quot;.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Expelling Rahul Gandhi From Parliament, Modi Allies Thwart a Top Rival</h3>
-<sub>By Alex Travelli and Suhasini Raj</sub>
-<p>The expulsion of Rahul Gandhi is a devastating blow to the once-powerful Indian National Congress party. He and several other politicians are now in jeopardy through India’s legal system.  <a href="https://nyti.ms/3z0Rdoz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Conflict in Syria Escalates Following Attack That Killed a U.S. Contractor</h3>
+<sub>By Eric Schmitt</sub>
+<p>U.S. officials said the main air defense system at the coalition base was “not fully operational” at the time of Thursday’s attack, which killed a U.S. contractor and wounded six other Americans.  <a href="https://nyti.ms/3JHVdzh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Air Defenses ‘Not Fully Operational’ Before Strike Killed American in Syria, Officials Say</h3>
-<sub>By Eric Schmitt</sub>
-<p>The United States launched retaliatory attacks in eastern Syria about 13 hours after the drone strike. Officials are also investigating what went wrong with the defense system.  <a href="https://nyti.ms/3JHVdzh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Former Trump Officials Must Testify in 2020 Election Inquiry, Judge Says</h3>
+<sub>By Maggie Haberman and Alan Feuer</sub>
+<p>The ruling paves the way for testimony from Mark Meadows and others. Separately, a Trump lawyer appeared before a grand jury looking into the former president’s handling of classified documents.  <a href="https://nyti.ms/40aUuxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,22 +80,40 @@ Things aren&#39;t completely negative though, You also have Do Kwon whose crypto
 <p>The Manhattan district attorney is resisting demands by House Republicans that he provide information about the hush money inquiry, setting up a potential legal showdown.  <a href="https://nyti.ms/3lwWSQc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump, Escalating Attacks, Raises Specter of Violence if He Is Charged</h3>
-<sub>By Maggie Haberman, Jonah E. Bromwich and William K. Rashbaum</sub>
-<p>In an overnight post, the former president warned of “potential death and destruction” if he was indicted. Hours later, the Manhattan district attorney’s office received a threatening letter.  <a href="https://nyti.ms/3lLFJlD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Support Grows to Have Russia Pay for Ukraine’s Rebuilding</h3>
 <sub>By Patricia Cohen</sub>
 <p>Although U.S. officials have cautioned against seizing Russia’s reserves in foreign banks, others say it’s “crazy” not to after Moscow’s war of aggression.  <a href="https://nyti.ms/40BFc4q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>In Montana, It’s Youth vs. the State in a Landmark Climate Case</h3>
-<sub>By David Gelles</sub>
-<p>Sixteen young Montanans have sued their state, arguing that its support of fossil fuels violates the state Constitution.  <a href="https://nyti.ms/3lHbpZt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Crisis in Israel Tests the Complicated Ties Between Biden and Netanyahu</h3>
+<sub>By Katie Rogers</sub>
+<p>President Biden has stressed that shared democratic values have to be at the core of a United States-Israel relationship.  <a href="https://nyti.ms/3TLFzY3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s Army Fears Effect of Judicial Crisis on Battlefield Readiness</h3>
+<sub>By Patrick Kingsley and Ronen Bergman</sub>
+<p>A judicial overhaul has prompted many military reservists to avoid volunteer duty. Military leaders have privately warned that this might require scaling back operations.  <a href="https://nyti.ms/3LIfGqe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Overall No. 1 Seed Alabama Is Out</h3>
+<sub>By The New York Times</sub>
+<p>The Crimson Tide had rolled in their first two tournament games, but San Diego State, a No. 5 seed, bothered them with a physical style and slow pace.  <a href="https://nyti.ms/40B68BI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Tragedy, Peyote, Beat Poets, Yoko Ono. The 9 Lives of an East Village Townhouse.</h3>
+<sub>By John Leland</sub>
+<p>Every building in New York has some history. The house at 64 East Seventh Street has a lot.  <a href="https://nyti.ms/3JEPJ8s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Expelling Rahul Gandhi From Parliament, Modi Allies Thwart a Top Rival</h3>
+<sub>By Alex Travelli and Suhasini Raj</sub>
+<p>The expulsion of Rahul Gandhi is a devastating blow to the once-powerful Indian National Congress party. He and several other politicians are now in jeopardy through India’s legal system.  <a href="https://nyti.ms/3z0Rdoz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -109,18 +121,6 @@ Things aren&#39;t completely negative though, You also have Do Kwon whose crypto
 <sub>By Constant Méheut</sub>
 <p>For 20 years, Marina Ovsyannikova worked for Russian state TV. What compelled her, shortly after Ukraine was invaded, to storm a live broadcast and tell viewers they were being lied to?  <a href="https://nyti.ms/3JILjgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Garden State’s Basketball Talent Blooms in N.C.A.A. Tournament</h3>
-<sub>By David Waldstein</sub>
-<p>Whether it’s teams like Princeton and Fairleigh Dickinson pulling off upsets or standout performances from players, New Jersey’s imprint has been all over the Division I men’s basketball tournament.  <a href="https://nyti.ms/3lAsbcE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>40 Years After Phi Slama Jama, There’s Hope in Houston for a Better Finish</h3>
-<sub>By Andrew Keh</sub>
-<p>The 1982-83 Houston Cougars, a sensation nicknamed Phi Slama Jama, lost the N.C.A.A. men’s title game to North Carolina State on a dunk in the final moments.  <a href="https://nyti.ms/40w3Eo1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>French Anger Shifts From Pension Law to Focus on Macron</h3>
@@ -132,12 +132,6 @@ Things aren&#39;t completely negative though, You also have Do Kwon whose crypto
 <h3>‘It Just Feels Good to Vent Your Anger’: Spasms of Violence Jolt Paris</h3>
 <sub>By Constant Méheut and James Hill</sub>
 <p>Opponents of pension overhaul, mostly young people, hold nightly “wild protests,” marked by vandalism, saying it is the only way to make their voices heard.  <a href="https://nyti.ms/40x60CX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Crypto Fugitive’s Very Public Life While on the Run</h3>
-<sub>By David Yaffe-Bellany, John Yoon and Karoun Demirjian</sub>
-<p>Do Kwon, the founder of the failed crypto company Terraform Labs, is facing charges by the authorities in both South Korea and the United States.  <a href="https://nyti.ms/3LPRySx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
