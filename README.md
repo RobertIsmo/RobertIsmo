@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 24, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Syria, there has been escalating conflict and recently a U.S. contractor was killed in an attack against a coalition base. In the US, a judge has ruled that former Trump officials must testify in an inquiry into the 2020 presidential election. In India, one of Modi&#39;s allies has expelled Rahul Gandhi from Parliament as a way to thwart his plans. In France, there have been massive protests over Macron&#39;snew pension law which is causing something of a constitutional crisis. And in Paris, there have been spasms of violence as opponents of the pension reforms take to the streets with nightly &quot;wild protests&quot;.</p>
+There is a lot of conflict happening across the globe right now. In Syria, we have reports that a US contractor was killed and six other Americans were wounded following an attack. Closer to home here in the US, there&#39;s been a ruling that former Trump officials need to testify in an inquiry into the 2020 election. There&#39;s also a potential legal showdown between the Manhattan district attorney and House Republicans, as they argue over oversight power. In sports, there are no top seeds left in the tournaments after Alabama and Houston were knocked out in rapid succession. Back in the US, Los Angeles school and 30,000 workers have finally agreed on terms after a strike. 
+
+Meanwhile, Ukraine and Russia are facing battles in Bakhmut as well as demands for Russia to pay for rebuilding costs. Here in New York City, we&#39;re looking back on the colorful history of a townhouse at 64 East Seventh Street, from tragedy to Yoko Ono. Lastly, in Israel there&#39;s a crisis underway that is testing Biden and Netanyahu&#39;s complicated ties, while military reservists have been avoiding volunteer duty which could cause military operations to scale back.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Conflict in Syria Escalates Following Attack That Killed a U.S. Contractor</h3>
@@ -80,10 +82,34 @@ There&#39;s a lot going on in the world right now. In Syria, there has been esca
 <p>The Manhattan district attorney is resisting demands by House Republicans that he provide information about the hush money inquiry, setting up a potential legal showdown.  <a href="https://nyti.ms/3lwWSQc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>No More Top Seeds: Alabama and Houston Out in Rapid Succession</h3>
+<sub>By The New York Times</sub>
+<p>San Diego State bothered the Crimson Tide with a physical style and slow pace. Miami pounced on Houston early and cruised in the second half.  <a href="https://nyti.ms/40B68BI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Los Angeles Schools and 30,000 Workers Reach Tentative Deal After Strike</h3>
+<sub>By Adeel Hassan</sub>
+<p>The three-day walkout included Los Angeles Unified School District teachers, gardeners, bus drivers, cafeteria workers and special education assistants.  <a href="https://nyti.ms/3FOvunz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>No Letup in Bakhmut as Ukraine and Russia Brace for Battles Elsewhere</h3>
+<sub>By Shashank Bengali and Anton Troianovski</sub>
+<p>Both sides expect a Ukrainian offensive while the Bakhmut fight continues, but the head of the Wagner mercenary group said Russia must be clearer about its goals.  <a href="https://nyti.ms/3K6icVS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Support Grows to Have Russia Pay for Ukraine’s Rebuilding</h3>
 <sub>By Patricia Cohen</sub>
 <p>Although U.S. officials have cautioned against seizing Russia’s reserves in foreign banks, others say it’s “crazy” not to after Moscow’s war of aggression.  <a href="https://nyti.ms/40BFc4q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>Gordon E. Moore, Intel Co-Founder Behind Moore’s Law, Dies at 94</h3>
+<sub>By Holcomb B. Noble and Katie Hafner</sub>
+<p>His prediction in the 1960s about exponential advances in computer chip technology charted a course for the age of high tech.  <a href="https://nyti.ms/3K9rvok"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,12 +124,6 @@ There&#39;s a lot going on in the world right now. In Syria, there has been esca
 <p>A judicial overhaul has prompted many military reservists to avoid volunteer duty. Military leaders have privately warned that this might require scaling back operations.  <a href="https://nyti.ms/3LIfGqe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Overall No. 1 Seed Alabama Is Out</h3>
-<sub>By The New York Times</sub>
-<p>The Crimson Tide had rolled in their first two tournament games, but San Diego State, a No. 5 seed, bothered them with a physical style and slow pace.  <a href="https://nyti.ms/40B68BI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Tragedy, Peyote, Beat Poets, Yoko Ono. The 9 Lives of an East Village Townhouse.</h3>
 <sub>By John Leland</sub>
@@ -111,27 +131,9 @@ There&#39;s a lot going on in the world right now. In Syria, there has been esca
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Expelling Rahul Gandhi From Parliament, Modi Allies Thwart a Top Rival</h3>
-<sub>By Alex Travelli and Suhasini Raj</sub>
-<p>The expulsion of Rahul Gandhi is a devastating blow to the once-powerful Indian National Congress party. He and several other politicians are now in jeopardy through India’s legal system.  <a href="https://nyti.ms/3z0Rdoz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Famed Antiwar Protester Was Once Cog in Russia’s Propaganda Machine</h3>
 <sub>By Constant Méheut</sub>
 <p>For 20 years, Marina Ovsyannikova worked for Russian state TV. What compelled her, shortly after Ukraine was invaded, to storm a live broadcast and tell viewers they were being lied to?  <a href="https://nyti.ms/3JILjgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>French Anger Shifts From Pension Law to Focus on Macron</h3>
-<sub>By Roger Cohen and Liz Alderman</sub>
-<p>After ramming through a law raising the retirement age without a full parliamentary vote, the French president faces something approaching a constitutional crisis.  <a href="https://nyti.ms/42RjCv5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘It Just Feels Good to Vent Your Anger’: Spasms of Violence Jolt Paris</h3>
-<sub>By Constant Méheut and James Hill</sub>
-<p>Opponents of pension overhaul, mostly young people, hold nightly “wild protests,” marked by vandalism, saying it is the only way to make their voices heard.  <a href="https://nyti.ms/40x60CX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
