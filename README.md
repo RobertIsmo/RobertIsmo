@@ -60,54 +60,44 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 26, Central Standard Time</p>
 <p>
-Hi there! 
+In the world right now, nations like China and the US are in an arms race, which can be a sign of escalating tensions. South Korea is filling in as an alternative weapons supplier but is being careful not to provoke Moscow. In addition, President Vladimir Putin of Russia has proposed putting tactical nuclear weapons in Belarus this summer. On the US side of things, former President Donald Trump has been under threat of indictment and spoke on it at his first major rally for 2024. 
 
-Things are definitely interesting around the world these days. In Brazil, the Amazon&#39;s largest isolated tribe is dying because of illegal mining which has created a humanitarian crisis. Ecuador tried to protect the Amazon from drilling but didn&#39;t receive enough support and now the government wants to expand drilling instead. 
-
-Here in the US, a powerful tornado recently tore through Mississippi killing at least 26 people and injuring dozens more. Plus, sculptures of &#39;Teddy&#39;s Bear&#39; were damaged in the county where Theodore Roosevelt had a storied hunting trip over one hundred years ago. 
-
-Other news around the world is that there are U.S. volunteers in Ukraine who have gained access to American weapons, even though they wouldn&#39;t be allowed in an American-led war. Meanwhile, Israel&#39;s defense minister is saying that the government should stop their plan to weaken the judiciary after recent unrests have undermined military capacity. 
-
-In sports news, UConn women&#39;s streak of Final Fours ended with a loss to Ohio State, while UConn men routed Gonzaga and Florida Atlantic also advanced. On the other hand, former President Trump put his legal peril at center of his first big rally for 2024 and made caustic attacks on the justice system. 
-
-And finally, we have some interesting stories about geothermal power in Japan and a Roman tomb with &#39;dead nails.&#39; Geothermal power could help run Japan but it has been blocked by powerful local interests who say it threatens their centuries-old tradition. Meanwhile, in the tomb there were forty-one bent or twisted iron nails meant to keep those buried there in their place. 
-
-Pretty eventful times! Keep me posted on what else is going on!</p>
+On a more personal level, marriage rates in China have gone down due to its one-child policy and bridal prices have skyrocketed - creating financial stress on many families. Adult children are also having to take over their parents&#39; finances while juggling their own late twenties and thirties. It&#39;s definitely a challenging moment in every aspect.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Amazon’s Largest Isolated Tribe Is Dying</h3>
-<sub>By Jack Nicas and Victor Moriyama</sub>
-<p>Illegal mines have fueled a humanitarian crisis for the Yanomami Indigenous group. Brazil’s new president is trying to fight back.  <a href="https://nyti.ms/42JVD0O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Ecuador Tried to Curb Drilling and Protect the Amazon. The Opposite Happened.</h3>
-<sub>By Catrin Einhorn, Manuela Andreoni and Erin Schaff</sub>
-<p>A novel idea to leave the country’s vast oil reserves in the ground fizzled for lack of international support. Now, struggling under painful debt, the government wants to expand drilling in the rainforest.  <a href="https://nyti.ms/3iGEJhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Least 26 Killed as Powerful Tornado Tears Through Mississippi</h3>
-<sub>By Rick Rojas, Sarah Kramer Ozbun, Emily Cochrane and Richard Fausset</sub>
-<p>Dozens more were injured after a deadly tornado ripped through a rural area. The death toll is expected to rise.  <a href="https://nyti.ms/3FQwKXh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In the Mississippi County Where a Legend Was Born, Damaged Sculptures of ‘Teddy’s Bear’</h3>
-<sub>By Emily Cochrane</sub>
-<p>More than a century after a storied hunting trip by Theodore Roosevelt, the storm destroyed artworks that were part of a county tradition.  <a href="https://nyti.ms/3lJxYga"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>An Anxious Asia Arms for a War It Hopes to Prevent</h3>
+<sub>By Damien Cave and Chang W. Lee</sub>
+<p>Doubts about both China and the United States are driving an arms race in the Indo-Pacific with echoes of World War II and new levels of risk.  <a href="https://nyti.ms/3K4GP5t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Stolen Valor: The U.S. Volunteers in Ukraine Who Lie, Waste and Bicker</h3>
-<sub>By Justin Scheck and Thomas Gibbons-Neff</sub>
-<p>People who would not be allowed anywhere near the battlefield in a U.S.-led war are active on the Ukrainian front, with ready access to American weapons.  <a href="https://nyti.ms/40z91mh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<h3>They’re Exporting Billions in Arms. Just Not to Ukraine.</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>As traditional weapons suppliers like the U.S. face wartime production shortages, South Korea has stepped in to fill the gap, while trying not to provoke Moscow.  <a href="https://nyti.ms/3JeLBwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Among the victims of the storm were a baby and her father.</h3>
+<sub>By Anushka Patil</sub>
+<p>  <a href="https://nyti.ms/3lLa97O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Steve Cohen’s Amazin’, Maddening, Money-Losing Bid to Own New York</h3>
+<sub>By Matt Flegenheimer and Kate Kelly</sub>
+<p>Once a symbol of Wall Street excess, Cohen has invested lavishly in the Mets, becoming the most beloved billionaire in Queens. Is that enough to reverse team history?  <a href="https://nyti.ms/3lAbiz2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Defense Minister Says Government Should Halt Contentious Judicial Plan</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Yoav Gallant, who oversees Israel’s military, is the first minister in Benjamin Netanyahu’s government to criticize a plan to weaken the judiciary. His comments follow fears that weeks of unrest have undermined military capacity.  <a href="https://nyti.ms/3nlXo3W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Putin Says He Could Put Tactical Nuclear Weapons in Belarus by Summer</h3>
+<sub>By Vivek Shankar and Anton Troianovski</sub>
+<p>The proposal from President Vladimir V. Putin of Russia, talked of since last year, would be provocative without changing the West’s battlefield calculus in Ukraine.  <a href="https://nyti.ms/3ZpRGvm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Caitlin Clark Is Everywhere</h3>
+<sub>By Kris Rhim, Bedel Saget and Marco Hernandez</sub>
+<p>The Iowa star scored 31 points on Friday, including one of her signature “logo” 3-pointers. Here’s a look at her dominating range.  <a href="https://nyti.ms/3ndb6WC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -128,22 +118,22 @@ Pretty eventful times! Keep me posted on what else is going on!</p>
 <p>The payoff to Stormy Daniels that has a Manhattan grand jury weighing criminal charges against Mr. Trump can trace its lineage to political skulduggery in 1968 and 1980.  <a href="https://nyti.ms/40eKDGJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Geothermal Power, Cheap and Clean, Could Help Run Japan. So Why Doesn’t It?</h3>
-<sub>By Hiroko Tabuchi and Chang W. Lee</sub>
-<p>For decades, new plants have been blocked by powerful local interests, the owners of hot spring resorts, that say the sites threaten a centuries-old tradition.  <a href="https://nyti.ms/3FKhMSu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In China, Marriage Rates Are Down and ‘Bride Prices’ Are Up</h3>
+<sub>By Nicole Hong and Zixu Wang</sub>
+<p>China’s one-child policy has led to too few women. Grooms are now paying more money for wives, in a tradition that has faced growing resistance.  <a href="https://nyti.ms/42FKg9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Lure of the ‘Made in America’ Sales Pitch</h3>
-<sub>By Peter S. Goodman</sub>
-<p>Geopolitics forced an entrepreneur, Taylor Shupe, to bring jobs back from China. It’s helping sell his meme-inspired socks too.  <a href="https://nyti.ms/3lH68RK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>When Your Career, and Retirement, Are the Family’s Business</h3>
+<sub>By Martha C. White</sub>
+<p>Succession plans, or the lack thereof, can hinder the transition to a new generation — and affect how loved ones fund their later years.  <a href="https://nyti.ms/40dVjW9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>In a Roman Tomb, ‘Dead Nails’ Reveal an Occult Practice</h3>
-<sub>By Franz Lidz</sub>
-<p>Forty-one bent or twisted iron nails, unearthed from a second-century imperial burial site, were meant to keep the deceased in their place.  <a href="https://nyti.ms/40dVgcV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>I Took Over My Father’s Finances at 25. The Lessons Were Hard-Won.</h3>
+<sub>By Samantha Chencharik</sub>
+<p>Many adult children end up caring for their parents late in life. But when the role reversal happens in their 20s and 30s, the burden can feel too much to bear.  <a href="https://nyti.ms/40gzfds"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
