@@ -60,31 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 26, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now - from arms races in Asia to climate disasters in the US. In Russia, Vladimir Putin has proposed to deploy tactical nuclear weapons to Belarus by this summer and there is a growing resistance to marriage traditions involving &#39;bride prices&#39; in China. Ex-President Trump held a rally for 2024 this week and addressed his legal issues. On the lighter side, researchers have unlocked secrets about Beethoven&#39;s life using DNA from his hair and maze tourism is growing in popularity!</p>
+There have been some interesting developments around the world this week. In Israel, Prime Minister Benjamin Netanyahu has fired his defense minister, Yoav Gallant, after he called for a halt to the government&#39;s plan to limit judicial authority. In Ukraine, thousands of ex-prisoners are fighting and dying as people try to honor their memory with a patriotic imperative in Russia. Meanwhile, Apple is expected to unveil an augmented reality headset in a few months and there is much employee debate as to whether it is the right move for them or not. Closer to home, a couple and their 14-year-old son were killed when a tornado struck in the United States. In sports news, Steve Cohen&#39;s investment in the Mets makes him the most beloved billionaire in Queens. As for other athletes, Caitlin Clark scored 31 points over the weekend and showed off her impressive range on the court. Travelers can now look forward to hotels no longer providing daily room cleanings due to coronavirus restrictions. In Asia there is sadly an arms race happening that has echoes of World War II. China has also seen changes due to its one-child policy leading to too few women and higher bride prices. Although a study with a rare shark discovery had to be retracted due to doubts from other researchers - likely because it ended up being a plastic toy! Finally this was also followed by popular headlines such as The Weekender featuring Beethoven’s life discoveries through his DNA and The New York Times News Quiz testing readers on how well they followed the news in March of 2023.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Anxious Asia Arms for a War It Hopes to Prevent</h3>
-<sub>By Damien Cave and Chang W. Lee</sub>
-<p>Doubts about both China and the United States are driving an arms race in the Indo-Pacific with echoes of World War II and new levels of risk.  <a href="https://nyti.ms/3K4GP5t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<h3>Netanyahu Fires Defense Minister Who Urged Delay in Court Overhaul</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Prime Minister Benjamin Netanyahu of Israel removed the defense minister, Yoav Gallant, after he called for a halt to the government’s plan to limit judicial authority.  <a href="https://nyti.ms/3ncSki8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Among the victims of the storm were a baby and her father.</h3>
-<sub>By Anushka Patil</sub>
-<p>  <a href="https://nyti.ms/3lLa97O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Do When There Is a Tornado Warning</h3>
-<sub>By Amanda Holpuch</sub>
-<p>A tornado warning demands instant action. Here’s what to do if one comes your way, and how you can prepare.  <a href="https://nyti.ms/37IGlRF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Steve Cohen’s Amazin’, Maddening, Money-Losing Bid to Own New York</h3>
-<sub>By Matt Flegenheimer and Kate Kelly</sub>
-<p>Once a symbol of Wall Street excess, Cohen has invested lavishly in the Mets, becoming the most beloved billionaire in Queens. Is that enough to reverse team history?  <a href="https://nyti.ms/3lAbiz2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>They Left Town as Convicts. Will They Be Buried as Heroes?</h3>
+<sub>By Neil MacFarquhar</sub>
+<p>As thousands of ex-prisoners fight and die in Ukraine, honoring their memory is becoming a patriotic imperative in Russia. But some committed crimes their old neighbors cannot forget.  <a href="https://nyti.ms/3lIxrLn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>At Apple, Rare Dissent Over a New Product: Interactive Goggles</h3>
@@ -92,16 +80,34 @@ There is a lot going on in the world right now - from arms races in Asia to clim
 <p>The company is expected to unveil an augmented reality headset in a few months. Some employees wonder if the device makes sense for Apple.  <a href="https://nyti.ms/3K8DEJT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Says He Could Put Tactical Nuclear Weapons in Belarus by Summer</h3>
-<sub>By Anton Troianovski, Vivek Shankar and Andrew Higgins</sub>
-<p>The proposal from President Vladimir V. Putin of Russia, talked of since last year, would be provocative without changing the West’s battlefield calculus in Ukraine.  <a href="https://nyti.ms/3ZpRGvm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A couple and their 14-year-old son were killed when the tornado struck.</h3>
+<sub>By Emily Cochrane</sub>
+<p>  <a href="https://nyti.ms/3LY9Dhv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Steve Cohen’s Amazin’, Maddening, Money-Losing Bid to Own New York</h3>
+<sub>By Matt Flegenheimer and Kate Kelly</sub>
+<p>Once a symbol of Wall Street excess, Cohen has invested lavishly in the Mets, becoming the most beloved billionaire in Queens. Is that enough to reverse team history?  <a href="https://nyti.ms/3lAbiz2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Caitlin Clark Is Everywhere</h3>
 <sub>By Kris Rhim, Bedel Saget and Marco Hernandez</sub>
 <p>The Iowa star scored 31 points on Friday, including one of her signature “logo” 3-pointers. Here’s a look at her dominating range.  <a href="https://nyti.ms/3ndb6WC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>Say Goodbye to Daily Hotel Room Cleaning</h3>
+<sub>By Danielle Braff</sub>
+<p>The pandemic put a pause on many hotels’ guaranteed once-a-day cleanings. Now many of them are making the change permanent, even saying guests prefer it.  <a href="https://nyti.ms/3z8jWaM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>An Anxious Asia Arms for a War It Hopes to Prevent</h3>
+<sub>By Damien Cave and Chang W. Lee</sub>
+<p>Doubts about both China and the United States are driving an arms race in the Indo-Pacific with echoes of World War II and new levels of risk.  <a href="https://nyti.ms/3K4GP5t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,11 +116,11 @@ There is a lot going on in the world right now - from arms races in Asia to clim
 <p>China’s one-child policy has led to too few women. Grooms are now paying more money for wives, in a tradition that has faced growing resistance.  <a href="https://nyti.ms/42FKg9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Puts His Legal Peril at Center of First Big Rally for 2024</h3>
-<sub>By Michael C. Bender and Shane Goldmacher</sub>
-<p>Facing a potential indictment, the former president devoted much of his speech in Waco, Texas, to criticizing the justice system, though his attacks were less personal and caustic than in recent days.  <a href="https://nyti.ms/3LMv3xU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>A Shark Discovery ‘Didn’t Look Right.’ It Might Have Been a Plastic Toy.</h3>
+<sub>By Annie Roth</sub>
+<p>Scientists have retracted a study that showed a rare goblin shark washed up on a Greek beach after other researchers voiced doubts about the find.  <a href="https://nyti.ms/3TExMv2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Weekender</h3>
@@ -127,12 +133,6 @@ There is a lot going on in the world right now - from arms races in Asia to clim
 <sub></sub>
 <p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/40uF8nh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>I’m Lost All the Time. So I Went on a Labyrinth Vacation.</h3>
-<sub>By Ingrid Rojas Contreras</sub>
-<p>The dizzying joys of maze tourism, in Barcelona, Paris and Chenonceaux.  <a href="https://nyti.ms/3luIGah"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
