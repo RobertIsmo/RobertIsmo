@@ -60,9 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 26, Central Standard Time</p>
 <p>
-In the world right now, nations like China and the US are in an arms race, which can be a sign of escalating tensions. South Korea is filling in as an alternative weapons supplier but is being careful not to provoke Moscow. In addition, President Vladimir Putin of Russia has proposed putting tactical nuclear weapons in Belarus this summer. On the US side of things, former President Donald Trump has been under threat of indictment and spoke on it at his first major rally for 2024. 
+Right now, there&#39;s a lot of tension and worry happening in the world. In Asia, countries are preparing for a potential war by arming themselves - there&#39;s been echoes of World War II with countries like South Korea stepping in to fill the gap due to production shortages from traditional weapons suppliers like the US. In Belarus, President Vladimir Putin has proposed putting tactical nuclear weapons in the country by summer - this is seen as very provocative and has sparked more anxiety. On a lighter note, Caitlin Clark is outscoring her opponents with her unique range of &quot;logo&quot; 3-pointers and making waves in the basketball world. 
 
-On a more personal level, marriage rates in China have gone down due to its one-child policy and bridal prices have skyrocketed - creating financial stress on many families. Adult children are also having to take over their parents&#39; finances while juggling their own late twenties and thirties. It&#39;s definitely a challenging moment in every aspect.</p>
+In America, people are becoming increasingly aware of safety precautions as storms roll in - though some families have experienced tragedy as a result of these storms. Donald Trump is also at the center of controversy - he&#39;s potentially facing indictment and has been speaking out against the justice system, but nothing compared to his recent caustic remarks. Lastly, families dealing with businesses passing generations will want to be careful about structuring succession plans and retirement investments down their line.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>An Anxious Asia Arms for a War It Hopes to Prevent</h3>
@@ -82,6 +82,12 @@ On a more personal level, marriage rates in China have gone down due to its one-
 <p>  <a href="https://nyti.ms/3lLa97O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What to Do When There Is a Tornado Warning</h3>
+<sub>By Amanda Holpuch</sub>
+<p>A tornado warning demands instant action. Here’s what to do if one comes your way, and how you can prepare.  <a href="https://nyti.ms/37IGlRF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Steve Cohen’s Amazin’, Maddening, Money-Losing Bid to Own New York</h3>
 <sub>By Matt Flegenheimer and Kate Kelly</sub>
@@ -90,7 +96,7 @@ On a more personal level, marriage rates in China have gone down due to its one-
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Says He Could Put Tactical Nuclear Weapons in Belarus by Summer</h3>
-<sub>By Vivek Shankar and Anton Troianovski</sub>
+<sub>By Anton Troianovski, Vivek Shankar and Andrew Higgins</sub>
 <p>The proposal from President Vladimir V. Putin of Russia, talked of since last year, would be provocative without changing the West’s battlefield calculus in Ukraine.  <a href="https://nyti.ms/3ZpRGvm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
@@ -128,12 +134,6 @@ On a more personal level, marriage rates in China have gone down due to its one-
 <h3>When Your Career, and Retirement, Are the Family’s Business</h3>
 <sub>By Martha C. White</sub>
 <p>Succession plans, or the lack thereof, can hinder the transition to a new generation — and affect how loved ones fund their later years.  <a href="https://nyti.ms/40dVjW9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>I Took Over My Father’s Finances at 25. The Lessons Were Hard-Won.</h3>
-<sub>By Samantha Chencharik</sub>
-<p>Many adult children end up caring for their parents late in life. But when the role reversal happens in their 20s and 30s, the burden can feel too much to bear.  <a href="https://nyti.ms/40gzfds"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
