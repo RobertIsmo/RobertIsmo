@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 25, Central Standard Time</p>
 <p>
-There are a lot of troubling things happening in the world right now. A humanitarian crisis has been caused by illegal mining in the Amazon, where Brazil&#39;s new president is trying to fight back. Meanwhile in Ecuador, a novel idea to protect the rainforest by leaving oil reserves in the ground has been unsuccessful due to a lack of international support. In Mississippi, sculptures of Teddy Roosevelt&#39;s bear have been destroyed by a storm. In Ukraine, US volunteers are filling battlefield roles that they wouldn&#39;t be allowed near in an official US-led war, and they have access to American weapons. Israel&#39;s defense minister recently spoke out against an attempt to weaken the judiciary there following protests. In Donald Trump&#39;s home country, we are seeing some sordid attempts to suppress political news ahead of November&#39;s election. His supporters are rallying for him as a candidate for 2024 despite dangerous behavior. College basketball saw UConn drop out of its Final Four streak due to a loss from Ohio State. In Japan, geothermal power has been blocked from development due to powerful local interests claiming these sites threaten centuries-old traditions. An entrepreneur in America is working on bringing jobs back from China and is using &#39;Made in America&#39; as part of his marketing campaign for his meme-inspired socks. The findings from DNA obtained from Beethoven&#39;s hair have come to light and revealed secrets about his life. And finally, there is a weekly edition that includes some interesting topics including Matthew Macfadyen&#39;s show &#39;Succession&#39; and how sometimes it just feels good to let loose and party!</p>
+There is a lot happening in the world right now. In Brazil, the largest isolated tribe in the Amazon is dying due to illegal mines that are devastating their communities. In Ecuador, international support has failed to protect the Amazon rainforest from drilling, and now the government wants to expand it even more. In Mississippi, a deadly tornado ripped through a rural area, killing and injuring dozens of people. Also in Mississippi, an art installation of &#39;Teddy’s Bear&#39; sculptures was damaged in a storm more than a century after an important hunting trip by Theodore Roosevelt. On the Ukrainian front, unqualified American volunteers are accessing American weapons and bickering among each other. In Israel, their defense minister is criticizing a plan that would weaken their judiciary - this due to weeks of unrest and concerns over military capacity. UConn&#39;s streak of Final Fours since 2008 ended in a loss to Ohio State. In Texas, former US president Donald Trump spoke at his first big rally since leaving office - addressing issues related to his own legal peril. There&#39;s also been some political skulduggery involving October surprises, like Stormy Daniels who&#39;s been charged by a Manhattan grand jury. And finally, Japan isn&#39;t taking advantage of geothermal power resources due to pressure from powerful local interests who are concerned about preserving centuries-old traditions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Amazon’s Largest Isolated Tribe Is Dying</h3>
@@ -73,6 +73,12 @@ There are a lot of troubling things happening in the world right now. A humanita
 <sub>By Catrin Einhorn, Manuela Andreoni and Erin Schaff</sub>
 <p>A novel idea to leave the country’s vast oil reserves in the ground fizzled for lack of international support. Now, struggling under painful debt, the government wants to expand drilling in the rainforest.  <a href="https://nyti.ms/3iGEJhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At Least 26 Killed as Powerful Tornado Tears Through Mississippi</h3>
+<sub>By Rick Rojas, Sarah Kramer Ozbun, Emily Cochrane and Richard Fausset</sub>
+<p>Dozens more were injured after a deadly tornado ripped through a rural area. The death toll is expected to rise.  <a href="https://nyti.ms/3FQwKXh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In the Mississippi County Where a Legend Was Born, Damaged Sculptures of ‘Teddy’s Bear’</h3>
@@ -92,22 +98,22 @@ There are a lot of troubling things happening in the world right now. A humanita
 <p>Yoav Gallant, who oversees Israel’s military, is the first minister in Benjamin Netanyahu’s government to criticize a plan to weaken the judiciary. His comments follow fears that weeks of unrest have undermined military capacity.  <a href="https://nyti.ms/3nlXo3W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Donald Trump, and the Sordid Tradition of Suppressing October Surprises</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The payoff to Stormy Daniels that has a Manhattan grand jury weighing criminal charges against Mr. Trump can trace its lineage to political skulduggery in 1968 and 1980.  <a href="https://nyti.ms/40eKDGJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Trump Rallies in Waco, His Followers Shore Up His 2024 Bid</h3>
-<sub>By Michael C. Bender and J. David Goodman</sub>
-<p>Despite a pattern of dangerous, erratic behavior, the former president remains a strong front-runner for his party’s nomination. His durability stems from his most loyal supporters.  <a href="https://nyti.ms/3TI2lQu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>UConn’s Streak of Final Fours Ends in Loss to Ohio State</h3>
 <sub>By The New York Times</sub>
 <p>The Huskies had been in every Final Four since 2008. In the round of 16 against Ohio State, UConn had no answer for an aggressive press.  <a href="https://nyti.ms/3lKzMFO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Puts His Legal Peril at Center of First Big Rally for 2024</h3>
+<sub>By Michael C. Bender and Shane Goldmacher</sub>
+<p>Facing a potential indictment, the former president devoted much of his speech in Waco, Texas, to criticizing the justice system, though his attacks were less personal and caustic than in recent days.  <a href="https://nyti.ms/3LMv3xU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Donald Trump, and the Sordid Tradition of Suppressing October Surprises</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The payoff to Stormy Daniels that has a Manhattan grand jury weighing criminal charges against Mr. Trump can trace its lineage to political skulduggery in 1968 and 1980.  <a href="https://nyti.ms/40eKDGJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -127,12 +133,6 @@ There are a lot of troubling things happening in the world right now. A humanita
 <sub>By Franz Lidz</sub>
 <p>Forty-one bent or twisted iron nails, unearthed from a second-century imperial burial site, were meant to keep the deceased in their place.  <a href="https://nyti.ms/40dVgcV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Christine Chun</sub>
-<p>DNA from Beethoven’s hair unlocks secrets from his life. Also in this edition: Matthew Macfadyen on “Succession” and the joy of letting loose.  <a href="https://nyti.ms/3FRgB3L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
