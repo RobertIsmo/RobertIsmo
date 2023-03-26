@@ -60,9 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 26, Central Standard Time</p>
 <p>
-There are some troubling global issues happening right now. In the Amazon, the largest isolated tribe is facing a humanitarian crisis due to illegal mining. In Ecuador, there was a failed attempt to protect the Amazon from drilling, and now they are having to expand oil reserves in the rainforest despite their economic struggles. In Mississippi, a powerful tornado ripped through a rural area and killed at least 26 people with expected rising death tolls. Additionally, US volunteers in Ukraine were found to be lying and misusing American weapons, while Israel’s Defense Minister is speaking out against a plan to weaken its judiciary. 
+Hi there! 
 
-On a lighter note, UConn has seen its streak of Final Fours end due to an Ohio State press, Trump is rallying for 2024 amid his potential indictment, geothermal power in Japan remains untapped due to local interests, and an entrepreneur from America found success leveraging the “Made in America” sales pitch. Lastly, in the Roman Tomb, scientists have uncovered &quot;Dead Nails,&quot; which suggest an occult practice done for the deceased.</p>
+Things are definitely interesting around the world these days. In Brazil, the Amazon&#39;s largest isolated tribe is dying because of illegal mining which has created a humanitarian crisis. Ecuador tried to protect the Amazon from drilling but didn&#39;t receive enough support and now the government wants to expand drilling instead. 
+
+Here in the US, a powerful tornado recently tore through Mississippi killing at least 26 people and injuring dozens more. Plus, sculptures of &#39;Teddy&#39;s Bear&#39; were damaged in the county where Theodore Roosevelt had a storied hunting trip over one hundred years ago. 
+
+Other news around the world is that there are U.S. volunteers in Ukraine who have gained access to American weapons, even though they wouldn&#39;t be allowed in an American-led war. Meanwhile, Israel&#39;s defense minister is saying that the government should stop their plan to weaken the judiciary after recent unrests have undermined military capacity. 
+
+In sports news, UConn women&#39;s streak of Final Fours ended with a loss to Ohio State, while UConn men routed Gonzaga and Florida Atlantic also advanced. On the other hand, former President Trump put his legal peril at center of his first big rally for 2024 and made caustic attacks on the justice system. 
+
+And finally, we have some interesting stories about geothermal power in Japan and a Roman tomb with &#39;dead nails.&#39; Geothermal power could help run Japan but it has been blocked by powerful local interests who say it threatens their centuries-old tradition. Meanwhile, in the tomb there were forty-one bent or twisted iron nails meant to keep those buried there in their place. 
+
+Pretty eventful times! Keep me posted on what else is going on!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Amazon’s Largest Isolated Tribe Is Dying</h3>
@@ -101,9 +111,9 @@ On a lighter note, UConn has seen its streak of Final Fours end due to an Ohio S
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>UConn’s Streak of Final Fours Ends in Loss to Ohio State</h3>
+<h3>UConn Women’s Streak of Final Fours Ends in Loss to Ohio State</h3>
 <sub>By The New York Times</sub>
-<p>The Huskies had been in every Final Four since 2008. In the round of 16 against Ohio State, UConn had no answer for an aggressive press.  <a href="https://nyti.ms/3lKzMFO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The UConn men’s team had a very different night: They routed Gonzaga to reach the Final Four. Ninth-seeded Florida Atlantic also advanced.  <a href="https://nyti.ms/3lKzMFO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
