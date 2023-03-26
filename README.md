@@ -60,26 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, March 25, Central Standard Time</p>
 <p>
-There are some really interesting things happening in the world. In Ukraine, there are American-led volunteers who have access to weapons but are not allowed on the battlefield. There&#39;s a battle going on in Bakhmut, too, leading to a humanitarian crisis. The largest isolated tribe in the Amazon is facing death due to illegal mines. Ecuador tried and failed to protect their Amazon rainforest by not drilling for oil and has had to consider expanding drilling now due to crippling debt. Israel is trying to weaken their judiciary system, and geothermal power is stuck in limbo in Japan because powerful local interests want to keep their hot spring resorts safe. Donald Trump is still strongly campaigning for the 2024 election and more guns are being stolen from parked cars. In sports news, South Carolina is chasing an undefeated season and Chris Dailey has been a support system for Geno at UConn for 38 years.</p>
+There are a lot of troubling things happening in the world right now. A humanitarian crisis has been caused by illegal mining in the Amazon, where Brazil&#39;s new president is trying to fight back. Meanwhile in Ecuador, a novel idea to protect the rainforest by leaving oil reserves in the ground has been unsuccessful due to a lack of international support. In Mississippi, sculptures of Teddy Roosevelt&#39;s bear have been destroyed by a storm. In Ukraine, US volunteers are filling battlefield roles that they wouldn&#39;t be allowed near in an official US-led war, and they have access to American weapons. Israel&#39;s defense minister recently spoke out against an attempt to weaken the judiciary there following protests. In Donald Trump&#39;s home country, we are seeing some sordid attempts to suppress political news ahead of November&#39;s election. His supporters are rallying for him as a candidate for 2024 despite dangerous behavior. College basketball saw UConn drop out of its Final Four streak due to a loss from Ohio State. In Japan, geothermal power has been blocked from development due to powerful local interests claiming these sites threaten centuries-old traditions. An entrepreneur in America is working on bringing jobs back from China and is using &#39;Made in America&#39; as part of his marketing campaign for his meme-inspired socks. The findings from DNA obtained from Beethoven&#39;s hair have come to light and revealed secrets about his life. And finally, there is a weekly edition that includes some interesting topics including Matthew Macfadyen&#39;s show &#39;Succession&#39; and how sometimes it just feels good to let loose and party!</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Stolen Valor: The U.S. Volunteers in Ukraine Who Lie, Waste and Bicker</h3>
-<sub>By Justin Scheck and Thomas Gibbons-Neff</sub>
-<p>People who would not be allowed anywhere near the battlefield in a U.S.-led war are active on the Ukrainian front, with ready access to American weapons.  <a href="https://nyti.ms/40z91mh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Bakhmut Battle ‘Could Be Stabilized,’Ukrainian General Says, but Fighting Remains Intense</h3>
-<sub>By Matthew Mpoke Bigg and Victoria Kim</sub>
-<p>The battle for the city has been the most violent of recent months, creating an increasingly dire humanitarian crisis for the few remaining civilians.  <a href="https://nyti.ms/3FQYQl0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here’s how the storms accelerated across the South.</h3>
-<sub>By Jesus Jiménez</sub>
-<p>  <a href="https://nyti.ms/40EYXZb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Amazon’s Largest Isolated Tribe Is Dying</h3>
 <sub>By Jack Nicas and Victor Moriyama</sub>
@@ -92,17 +74,23 @@ There are some really interesting things happening in the world. In Ukraine, the
 <p>A novel idea to leave the country’s vast oil reserves in the ground fizzled for lack of international support. Now, struggling under painful debt, the government wants to expand drilling in the rainforest.  <a href="https://nyti.ms/3iGEJhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In the Mississippi County Where a Legend Was Born, Damaged Sculptures of ‘Teddy’s Bear’</h3>
+<sub>By Emily Cochrane</sub>
+<p>More than a century after a storied hunting trip by Theodore Roosevelt, the storm destroyed artworks that were part of a county tradition.  <a href="https://nyti.ms/3lJxYga"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Stolen Valor: The U.S. Volunteers in Ukraine Who Lie, Waste and Bicker</h3>
+<sub>By Justin Scheck and Thomas Gibbons-Neff</sub>
+<p>People who would not be allowed anywhere near the battlefield in a U.S.-led war are active on the Ukrainian front, with ready access to American weapons.  <a href="https://nyti.ms/40z91mh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Defense Minister Says Government Should Halt Contentious Judicial Plan</h3>
 <sub>By Patrick Kingsley</sub>
 <p>Yoav Gallant, who oversees Israel’s military, is the first minister in Benjamin Netanyahu’s government to criticize a plan to weaken the judiciary. His comments follow fears that weeks of unrest have undermined military capacity.  <a href="https://nyti.ms/3nlXo3W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Geothermal Power, Cheap and Clean, Could Help Run Japan. So Why Doesn’t It?</h3>
-<sub>By Hiroko Tabuchi and Chang W. Lee</sub>
-<p>For decades, new plants have been blocked by powerful local interests, the owners of hot spring resorts, that say the sites threaten a centuries-old tradition.  <a href="https://nyti.ms/3FKhMSu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Donald Trump, and the Sordid Tradition of Suppressing October Surprises</h3>
@@ -116,22 +104,34 @@ There are some really interesting things happening in the world. In Ukraine, the
 <p>Despite a pattern of dangerous, erratic behavior, the former president remains a strong front-runner for his party’s nomination. His durability stems from his most loyal supporters.  <a href="https://nyti.ms/3TI2lQu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Largest Source of Stolen Guns? Parked Cars.</h3>
-<sub>By Richard Fausset</sub>
-<p>The growing number of firearms kept in vehicles has become a new point of contention in the debates over regulating gun safety.  <a href="https://nyti.ms/3K8dTcT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>UConn’s Streak of Final Fours Ends in Loss to Ohio State</h3>
+<sub>By The New York Times</sub>
+<p>The Huskies had been in every Final Four since 2008. In the round of 16 against Ohio State, UConn had no answer for an aggressive press.  <a href="https://nyti.ms/3lKzMFO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>South Carolina Stays on March in Chase for Perfect Season</h3>
-<sub>By Kris Rhim</sub>
-<p>The Gamecocks, the reigning champions and the top overall seed in the N.C.A.A. women’s tournament, rolled past U.C.L.A. to the round of 8.  <a href="https://nyti.ms/3lKzMFO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Geothermal Power, Cheap and Clean, Could Help Run Japan. So Why Doesn’t It?</h3>
+<sub>By Hiroko Tabuchi and Chang W. Lee</sub>
+<p>For decades, new plants have been blocked by powerful local interests, the owners of hot spring resorts, that say the sites threaten a centuries-old tradition.  <a href="https://nyti.ms/3FKhMSu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Lure of the ‘Made in America’ Sales Pitch</h3>
+<sub>By Peter S. Goodman</sub>
+<p>Geopolitics forced an entrepreneur, Taylor Shupe, to bring jobs back from China. It’s helping sell his meme-inspired socks too.  <a href="https://nyti.ms/3lH68RK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>For 38 Years at UConn, Chris Dailey Has Been the Yin to Geno’s Yang</h3>
-<sub>By Remy Tumin</sub>
-<p>Assistant coaches usually move on after a few seasons. Not Dailey, Connecticut’s associate head coach, who sticks to a routine and brings balance to the bench.  <a href="https://nyti.ms/40qLO5Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>In a Roman Tomb, ‘Dead Nails’ Reveal an Occult Practice</h3>
+<sub>By Franz Lidz</sub>
+<p>Forty-one bent or twisted iron nails, unearthed from a second-century imperial burial site, were meant to keep the deceased in their place.  <a href="https://nyti.ms/40dVgcV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Christine Chun</sub>
+<p>DNA from Beethoven’s hair unlocks secrets from his life. Also in this edition: Matthew Macfadyen on “Succession” and the joy of letting loose.  <a href="https://nyti.ms/3FRgB3L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
