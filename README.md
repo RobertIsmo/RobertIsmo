@@ -60,21 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 26, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of tension and worry happening in the world. In Asia, countries are preparing for a potential war by arming themselves - there&#39;s been echoes of World War II with countries like South Korea stepping in to fill the gap due to production shortages from traditional weapons suppliers like the US. In Belarus, President Vladimir Putin has proposed putting tactical nuclear weapons in the country by summer - this is seen as very provocative and has sparked more anxiety. On a lighter note, Caitlin Clark is outscoring her opponents with her unique range of &quot;logo&quot; 3-pointers and making waves in the basketball world. 
-
-In America, people are becoming increasingly aware of safety precautions as storms roll in - though some families have experienced tragedy as a result of these storms. Donald Trump is also at the center of controversy - he&#39;s potentially facing indictment and has been speaking out against the justice system, but nothing compared to his recent caustic remarks. Lastly, families dealing with businesses passing generations will want to be careful about structuring succession plans and retirement investments down their line.</p>
+There is a lot going on in the world right now - from arms races in Asia to climate disasters in the US. In Russia, Vladimir Putin has proposed to deploy tactical nuclear weapons to Belarus by this summer and there is a growing resistance to marriage traditions involving &#39;bride prices&#39; in China. Ex-President Trump held a rally for 2024 this week and addressed his legal issues. On the lighter side, researchers have unlocked secrets about Beethoven&#39;s life using DNA from his hair and maze tourism is growing in popularity!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>An Anxious Asia Arms for a War It Hopes to Prevent</h3>
 <sub>By Damien Cave and Chang W. Lee</sub>
 <p>Doubts about both China and the United States are driving an arms race in the Indo-Pacific with echoes of World War II and new levels of risk.  <a href="https://nyti.ms/3K4GP5t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They’re Exporting Billions in Arms. Just Not to Ukraine.</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>As traditional weapons suppliers like the U.S. face wartime production shortages, South Korea has stepped in to fill the gap, while trying not to provoke Moscow.  <a href="https://nyti.ms/3JeLBwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Among the victims of the storm were a baby and her father.</h3>
@@ -94,6 +86,12 @@ In America, people are becoming increasingly aware of safety precautions as stor
 <p>Once a symbol of Wall Street excess, Cohen has invested lavishly in the Mets, becoming the most beloved billionaire in Queens. Is that enough to reverse team history?  <a href="https://nyti.ms/3lAbiz2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>At Apple, Rare Dissent Over a New Product: Interactive Goggles</h3>
+<sub>By Tripp Mickle and Brian X. Chen</sub>
+<p>The company is expected to unveil an augmented reality headset in a few months. Some employees wonder if the device makes sense for Apple.  <a href="https://nyti.ms/3K8DEJT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Says He Could Put Tactical Nuclear Weapons in Belarus by Summer</h3>
 <sub>By Anton Troianovski, Vivek Shankar and Andrew Higgins</sub>
@@ -106,11 +104,11 @@ In America, people are becoming increasingly aware of safety precautions as stor
 <p>The Iowa star scored 31 points on Friday, including one of her signature “logo” 3-pointers. Here’s a look at her dominating range.  <a href="https://nyti.ms/3ndb6WC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>UConn Women’s Streak of Final Fours Ends in Loss to Ohio State</h3>
-<sub>By The New York Times</sub>
-<p>The UConn men’s team had a very different night: They routed Gonzaga to reach the Final Four. Ninth-seeded Florida Atlantic also advanced.  <a href="https://nyti.ms/3lKzMFO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In China, Marriage Rates Are Down and ‘Bride Prices’ Are Up</h3>
+<sub>By Nicole Hong and Zixu Wang</sub>
+<p>China’s one-child policy has led to too few women. Grooms are now paying more money for wives, in a tradition that has faced growing resistance.  <a href="https://nyti.ms/42FKg9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Puts His Legal Peril at Center of First Big Rally for 2024</h3>
@@ -118,23 +116,23 @@ In America, people are becoming increasingly aware of safety precautions as stor
 <p>Facing a potential indictment, the former president devoted much of his speech in Waco, Texas, to criticizing the justice system, though his attacks were less personal and caustic than in recent days.  <a href="https://nyti.ms/3LMv3xU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Donald Trump, and the Sordid Tradition of Suppressing October Surprises</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The payoff to Stormy Daniels that has a Manhattan grand jury weighing criminal charges against Mr. Trump can trace its lineage to political skulduggery in 1968 and 1980.  <a href="https://nyti.ms/40eKDGJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Christine Chun</sub>
+<p>DNA from Beethoven’s hair unlocks secrets from his life. Also in this edition: Matthew Macfadyen on “Succession” and the joy of letting loose.  <a href="https://nyti.ms/3FRgB3L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In China, Marriage Rates Are Down and ‘Bride Prices’ Are Up</h3>
-<sub>By Nicole Hong and Zixu Wang</sub>
-<p>China’s one-child policy has led to too few women. Grooms are now paying more money for wives, in a tradition that has faced growing resistance.  <a href="https://nyti.ms/42FKg9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, March 24, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/40uF8nh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>When Your Career, and Retirement, Are the Family’s Business</h3>
-<sub>By Martha C. White</sub>
-<p>Succession plans, or the lack thereof, can hinder the transition to a new generation — and affect how loved ones fund their later years.  <a href="https://nyti.ms/40dVjW9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>I’m Lost All the Time. So I Went on a Labyrinth Vacation.</h3>
+<sub>By Ingrid Rojas Contreras</sub>
+<p>The dizzying joys of maze tourism, in Barcelona, Paris and Chenonceaux.  <a href="https://nyti.ms/3luIGah"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
