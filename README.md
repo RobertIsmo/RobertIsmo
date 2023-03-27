@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 27, Central Standard Time</p>
 <p>
-There&#39;s a lot happening around the world right now! In Israel, Prime Minister Benjamin Netanyahu is pushing a controversial proposal to overhaul the judiciary. In Ukraine, they&#39;re rebuilding a large cargo plane destroyed in a battle last year. Twitter&#39;s source code was recently leaked online and Elon Musk is valuing it at $20 billion. In sports news, the Final Four includes some surprising teams and Iowa has made it to the championship thanks to Caitlin Clark&#39;s performance. There&#39;s also been some banking news, as First Citizens are set to acquire Silicon Valley Bank, while investors are pulling back further due to recent concerns. Lastly, gun violence has been on the rise across the US, leading many to change their outlooks and life choices. Finally, Vice President Kamala Harris is visiting Africa this week in order to deepen relations and counter China&#39;s influence there.</p>
+There are a lot of interesting things happening in the world right now. In Israel, Prime Minister Benjamin Netanyahu&#39;s government is proposing a major overhaul of the judiciary system, but it has been met with criticism from opponents who say it goes too far. There have also been increased tensions resulting in protests and clashes with police. 
+
+In Ukraine, news is not much better as there are plans to rebuild a colossal cargo plane which was destroyed last year in the battle for its airfield, despite other pressing needs in the region.
+
+In the tech world, Twitter is dealing with a source code leak while start-up funding has cooled after the collapse of Silicon Valley Bank. Meanwhile, gun violence continues to be an issue across the US and more people are being affected as a result. 
+
+Vice President Kamala Harris is currently on a tour through Africa to help deepen relations amid China&#39;s influence. In the US, House Democrats nominated Representative Hakeem Jeffries as their leader who is trained by Manhattan’s legal elite and raised in Black Brooklyn.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Israeli Government’s Plan to Overhaul the Judiciary: What to Know</h3>
 <sub>By Patrick Kingsley and Isabel Kershner</sub>
 <p>Prime Minister Benjamin Netanyahu’s right-wing government contends the Supreme Court has unchecked power, but critics of the proposal say it goes too far.  <a href="https://nyti.ms/40CHJLP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Unrest Surges in Israel: Videos and Photos</h3>
+<sub>By Agnes Chang, Shawn Paik, Maud Bodoukian, Mona Boshnaq, Lauren Leatherby and Matej Leskovsek</sub>
+<p>Protesters blocked a major highway and lit bonfires in Tel Aviv and clashed with police in Jerusalem.  <a href="https://nyti.ms/3FUk2Xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -78,12 +90,6 @@ There&#39;s a lot happening around the world right now! In Israel, Prime Ministe
 <h3>Twitter Says Parts of Its Source Code Were Leaked Online</h3>
 <sub>By Ryan Mac and Kate Conger</sub>
 <p>The leak adds to the challenges facing the Elon Musk-owned company, which is trying to identify the person responsible and any other people who downloaded the code.  <a href="https://nyti.ms/3LOnl6p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Elon Musk Values Twitter at $20 Billion</h3>
-<sub>By Kate Conger and Ryan Mac</sub>
-<p>The billionaire bought the social media company for $44 billion in October and took it private.  <a href="https://nyti.ms/40AxO9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -105,9 +111,9 @@ There&#39;s a lot happening around the world right now! In Israel, Prime Ministe
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>First Citizens to Acquire Failed Silicon Valley Bank</h3>
+<h3>First Citizens to Acquire Silicon Valley Bank in Government-Backed Deal</h3>
 <sub>By Lauren Hirsch</sub>
-<p>The Federal Deposit Insurance Corporation, which announced the deal late Sunday, had been looking for a buyer since seizing control of the bank.  <a href="https://nyti.ms/3z6xJie"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Banking regulators, which announced the deal late Sunday, had been looking for a buyer since seizing control of the failed bank.  <a href="https://nyti.ms/3z6xJie"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -115,12 +121,6 @@ There&#39;s a lot happening around the world right now! In Israel, Prime Ministe
 <sub>By Erin Griffith</sub>
 <p>Two weeks after Silicon Valley Bank failed, the fallout has hit the start-up market as investors pull back further and fear has risen.  <a href="https://nyti.ms/3lHOqxx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As Banking Worries Swirl, Europe’s Policymakers Express Confidence, With Caution</h3>
-<sub>By Eshe Nelson</sub>
-<p>Officials say eurozone lenders are strictly supervised and continue to be strong. But at a recent conference, wariness about the future remained.  <a href="https://nyti.ms/40Fado7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>Gun Violence Has Changed Us</h3>
@@ -133,6 +133,12 @@ There&#39;s a lot happening around the world right now! In Israel, Prime Ministe
 <sub>By Zolan Kanno-Youngs and Abdi Latif Dahir</sub>
 <p>In a weeklong trip to Ghana, Tanzania and Zambia, the vice president will face a balancing act as she tries to foster a collaborative U.S. relationship.  <a href="https://nyti.ms/3MbgdRV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Dual Education of Hakeem Jeffries</h3>
+<sub>By Nicholas Fandos</sub>
+<p>Shaped by Black Brooklyn and trained by Manhattan’s legal elite, the House Democrats’ new leader is not easily pigeonholed.  <a href="https://nyti.ms/3Kbjxek"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
