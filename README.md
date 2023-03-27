@@ -60,20 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 27, Central Standard Time</p>
 <p>
-There are a lot of interesting things happening in the world right now. In Israel, Prime Minister Benjamin Netanyahu&#39;s government is proposing a major overhaul of the judiciary system, but it has been met with criticism from opponents who say it goes too far. There have also been increased tensions resulting in protests and clashes with police. 
-
-In Ukraine, news is not much better as there are plans to rebuild a colossal cargo plane which was destroyed last year in the battle for its airfield, despite other pressing needs in the region.
-
-In the tech world, Twitter is dealing with a source code leak while start-up funding has cooled after the collapse of Silicon Valley Bank. Meanwhile, gun violence continues to be an issue across the US and more people are being affected as a result. 
-
-Vice President Kamala Harris is currently on a tour through Africa to help deepen relations amid China&#39;s influence. In the US, House Democrats nominated Representative Hakeem Jeffries as their leader who is trained by Manhattan’s legal elite and raised in Black Brooklyn.</p>
+There is a lot going on in the world right now. In Israel, there are widespread protests as people demonstrate against the government. Meanwhile in Ukraine, locals have set out to rebuild a colossal Mriya cargo plane that was destroyed last year during military conflict. Closer to home, the mayoral race in Chicago is being heavily influenced by unions - specifically, the teachers and police unions. In California&#39;s Central Valley, farmers and emergency crews are in a scramble to save the region&#39;s farms from excess water due to recent storms. In the technology sector, experts in artificial intelligence are being sought after, and in Spain people are finding a perfect balance of culture, art and nature for family trips. It appears our traditional values for writing is slowly declining with typing and texting replacing it, and our education system is seeing a shift too - with students being encouraged to think more deeply about their top college choices.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Israeli Government’s Plan to Overhaul the Judiciary: What to Know</h3>
-<sub>By Patrick Kingsley and Isabel Kershner</sub>
-<p>Prime Minister Benjamin Netanyahu’s right-wing government contends the Supreme Court has unchecked power, but critics of the proposal say it goes too far.  <a href="https://nyti.ms/40CHJLP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Unrest Surges in Israel: Videos and Photos</h3>
 <sub>By Agnes Chang, Shawn Paik, Maud Bodoukian, Mona Boshnaq, Lauren Leatherby and Matej Leskovsek</sub>
@@ -86,10 +74,10 @@ Vice President Kamala Harris is currently on a tour through Africa to help deepe
 <p>Ukraine, with far more pressing needs, plans to rebuild the colossal Mriya cargo plane, a symbol of pride that was destroyed last year in a battle for its airfield.  <a href="https://nyti.ms/40kXOpL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Twitter Says Parts of Its Source Code Were Leaked Online</h3>
-<sub>By Ryan Mac and Kate Conger</sub>
-<p>The leak adds to the challenges facing the Elon Musk-owned company, which is trying to identify the person responsible and any other people who downloaded the code.  <a href="https://nyti.ms/3LOnl6p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Esther Perel’s Business Is Your Business</h3>
+<sub>By Sarah Lyall</sub>
+<p>She is podcasting-famous, considered a “crossover breakthrough artist” by other therapists — and still trying to both see patients and conquer new platforms.  <a href="https://nyti.ms/42JegBN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -104,40 +92,46 @@ Vice President Kamala Harris is currently on a tour through Africa to help deepe
 <p>Clark delivered a 41-point triple-double against Louisville to take Iowa to its second Final Four; Angel Reese recorded her 32nd double-double of the season to propel L.S.U. over Miami.  <a href="https://nyti.ms/42Kpd5Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Caitlin Clark Is Everywhere</h3>
-<sub>By Kris Rhim, Bedel Saget and Marco Hernandez</sub>
-<p>The Iowa star scored 31 points on Friday, including one of her signature “logo” 3-pointers. Here’s a look at her dominating range.  <a href="https://nyti.ms/3ndb6WC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chicago’s Mayoral Race Pits the Teachers Union Against the Police Union</h3>
+<sub>By Jonathan Weisman</sub>
+<p>In a city known for its unions, two loom over the Paul Vallas-Brandon Johnson race, and no labor leader is as significant as the incendiary president of the Fraternal Order of Police.  <a href="https://nyti.ms/3TLf3Os"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>First Citizens to Acquire Silicon Valley Bank in Government-Backed Deal</h3>
-<sub>By Lauren Hirsch</sub>
-<p>Banking regulators, which announced the deal late Sunday, had been looking for a buyer since seizing control of the failed bank.  <a href="https://nyti.ms/3z6xJie"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Scramble to Save California’s Heartland</h3>
+<sub>By Mark Abramson and Adeel Hassan</sub>
+<p>Recent storms have walloped the Central Valley’s system of reservoirs, dams and levees, leaving no place for excess water to go. Farmers and emergency crews are racing to save the region’s farms.  <a href="https://nyti.ms/3FXisnU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Can a Machine Know That We Know What It Knows?</h3>
+<sub>By Oliver Whang</sub>
+<p>Some researchers claim that chatbots have developed theory of mind. But is that just our own theory of mind gone wild?  <a href="https://nyti.ms/3FVSLUN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Silicon Valley Bank’s Collapse Chills Start-Up Funding</h3>
-<sub>By Erin Griffith</sub>
-<p>Two weeks after Silicon Valley Bank failed, the fallout has hit the start-up market as investors pull back further and fear has risen.  <a href="https://nyti.ms/3lHOqxx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How to Become an Expert on A.I.</h3>
+<sub>By Kevin Roose and Cade Metz</sub>
+<p>Part 1 of our weeklong series.  <a href="https://nyti.ms/3LTvVAG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Gun Violence Has Changed Us</h3>
-<sub>By Christina Caron</sub>
-<p>Times readers share how rising gun deaths across the country have affected their outlook — and, in some cases, their life choices.  <a href="https://nyti.ms/3zafKrg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>In the Basque Region of Spain: Art, Culture and a Puppy That Blooms</h3>
+<sub>By Andrew Ferren</sub>
+<p>Does a culture-centric family trip have to be boring for the kids? Our writer finds the perfect balance of contemporary art, scary medieval weapons, Gothic cloisters and wide-open space.  <a href="https://nyti.ms/3FSQl9c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Africa, Kamala Harris Looks to Deepen Relations Amid China’s Influence</h3>
-<sub>By Zolan Kanno-Youngs and Abdi Latif Dahir</sub>
-<p>In a weeklong trip to Ghana, Tanzania and Zambia, the vice president will face a balancing act as she tries to foster a collaborative U.S. relationship.  <a href="https://nyti.ms/3MbgdRV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>What Killed Penmanship?</h3>
+<sub>By Isabella Paoletto</sub>
+<p>We’re all texters and typers now, so if you can’t read that grocery list you scrawled, you are not alone.  <a href="https://nyti.ms/3z3mp6m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Dual Education of Hakeem Jeffries</h3>
-<sub>By Nicholas Fandos</sub>
-<p>Shaped by Black Brooklyn and trained by Manhattan’s legal elite, the House Democrats’ new leader is not easily pigeonholed.  <a href="https://nyti.ms/3Kbjxek"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Build Your Own College Rankings</h3>
+<sub>By Quoctrung Bui and Jessia Ma</sub>
+<p>The values that you care about most should inform your top college choices.  <a href="https://nyti.ms/40gOweD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
