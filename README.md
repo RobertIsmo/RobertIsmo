@@ -60,19 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 27, Central Standard Time</p>
 <p>
-In the world, there&#39;s a crisis in Israel around the government&#39;s plan to overhaul the judiciary and questions around how to honor the memory of thousands of former prisoners fighting and dying in Ukraine. In technology, Twitter says parts of its source code were leaks and Elon Musk values the company at $20 billion. In sports, there have been furious finishes and major victories at the Final Four. In business, First Citizens is set to acquire Silicon Valley Bank and Europe&#39;s policymakers are expressing confidence about the stability of its lenders. Apple has some dissent over a new product and in Africa, Vice President Kamala Harris is looking to deepen U.S. relations amidst China’s influence. Lastly, many hotels are making their pause on daily cleaning permanent during the pandemic.</p>
+There&#39;s a lot happening around the world right now! In Israel, Prime Minister Benjamin Netanyahu is pushing a controversial proposal to overhaul the judiciary. In Ukraine, they&#39;re rebuilding a large cargo plane destroyed in a battle last year. Twitter&#39;s source code was recently leaked online and Elon Musk is valuing it at $20 billion. In sports news, the Final Four includes some surprising teams and Iowa has made it to the championship thanks to Caitlin Clark&#39;s performance. There&#39;s also been some banking news, as First Citizens are set to acquire Silicon Valley Bank, while investors are pulling back further due to recent concerns. Lastly, gun violence has been on the rise across the US, leading many to change their outlooks and life choices. Finally, Vice President Kamala Harris is visiting Africa this week in order to deepen relations and counter China&#39;s influence there.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli Government’s Plan to Overhaul the Judiciary Sets Off a Crisis</h3>
+<h3>The Israeli Government’s Plan to Overhaul the Judiciary: What to Know</h3>
 <sub>By Patrick Kingsley and Isabel Kershner</sub>
-<p>Prime Minister Benjamin Netanyahu’s right-wing government contends the Supreme Court has unchecked power.  <a href="https://nyti.ms/40CHJLP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Prime Minister Benjamin Netanyahu’s right-wing government contends the Supreme Court has unchecked power, but critics of the proposal say it goes too far.  <a href="https://nyti.ms/40CHJLP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Left Town as Convicts. Will They Be Buried as Heroes?</h3>
-<sub>By Neil MacFarquhar</sub>
-<p>As thousands of ex-prisoners fight and die in Ukraine, honoring their memory is becoming a patriotic imperative in Russia. But some committed crimes their old neighbors cannot forget.  <a href="https://nyti.ms/3lIxrLn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<h3>Restoring a Giant Plane: Ukrainian Resilience or Folly?</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Ukraine, with far more pressing needs, plans to rebuild the colossal Mriya cargo plane, a symbol of pride that was destroyed last year in a battle for its airfield.  <a href="https://nyti.ms/40kXOpL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Twitter Says Parts of Its Source Code Were Leaked Online</h3>
@@ -87,9 +87,9 @@ In the world, there&#39;s a crisis in Israel around the government&#39;s plan to
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Furious Finishes Set the Final Four: Miami and San Diego State Are In</h3>
-<sub>By Noah Weiland and Billy Witz</sub>
-<p>Fifth-seeded Miami rallied from 13 points down to beat Texas, while a foul and a free throw gave another No. 5 seed, San Diego State, a win over Creighton. They join UConn and Florida Atlantic.  <a href="https://nyti.ms/3lJHWOG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Final Four That Nobody Could Have Expected</h3>
+<sub>By Billy Witz</sub>
+<p>Connecticut has a pedigree but hasn’t made a deep run since 2014. Florida Atlantic plays in a small gym on a campus that’s an owl sanctuary. San Diego State got in on a free throw. And Miami’s coach likes his self-help advice.  <a href="https://nyti.ms/3LXwmKm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -98,10 +98,22 @@ In the world, there&#39;s a crisis in Israel around the government&#39;s plan to
 <p>Clark delivered a 41-point triple-double against Louisville to take Iowa to its second Final Four; Angel Reese recorded her 32nd double-double of the season to propel L.S.U. over Miami.  <a href="https://nyti.ms/42Kpd5Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Caitlin Clark Is Everywhere</h3>
+<sub>By Kris Rhim, Bedel Saget and Marco Hernandez</sub>
+<p>The Iowa star scored 31 points on Friday, including one of her signature “logo” 3-pointers. Here’s a look at her dominating range.  <a href="https://nyti.ms/3ndb6WC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>First Citizens to Acquire Silicon Valley Bank</h3>
+<h3>First Citizens to Acquire Failed Silicon Valley Bank</h3>
 <sub>By Lauren Hirsch</sub>
 <p>The Federal Deposit Insurance Corporation, which announced the deal late Sunday, had been looking for a buyer since seizing control of the bank.  <a href="https://nyti.ms/3z6xJie"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Silicon Valley Bank’s Collapse Chills Start-Up Funding</h3>
+<sub>By Erin Griffith</sub>
+<p>Two weeks after Silicon Valley Bank failed, the fallout has hit the start-up market as investors pull back further and fear has risen.  <a href="https://nyti.ms/3lHOqxx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,16 +122,10 @@ In the world, there&#39;s a crisis in Israel around the government&#39;s plan to
 <p>Officials say eurozone lenders are strictly supervised and continue to be strong. But at a recent conference, wariness about the future remained.  <a href="https://nyti.ms/40Fado7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>At Apple, Rare Dissent Over a New Product: Interactive Goggles</h3>
-<sub>By Tripp Mickle and Brian X. Chen</sub>
-<p>The company is expected to unveil an augmented reality headset in a few months. Some employees wonder if the device makes sense for Apple.  <a href="https://nyti.ms/3K8DEJT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A couple and their 14-year-old son were killed when the tornado struck.</h3>
-<sub>By Emily Cochrane</sub>
-<p>  <a href="https://nyti.ms/3LY9Dhv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Gun Violence Has Changed Us</h3>
+<sub>By Christina Caron</sub>
+<p>Times readers share how rising gun deaths across the country have affected their outlook — and, in some cases, their life choices.  <a href="https://nyti.ms/3zafKrg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -127,12 +133,6 @@ In the world, there&#39;s a crisis in Israel around the government&#39;s plan to
 <sub>By Zolan Kanno-Youngs and Abdi Latif Dahir</sub>
 <p>In a weeklong trip to Ghana, Tanzania and Zambia, the vice president will face a balancing act as she tries to foster a collaborative U.S. relationship.  <a href="https://nyti.ms/3MbgdRV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Say Goodbye to Daily Hotel Room Cleaning</h3>
-<sub>By Danielle Braff</sub>
-<p>The pandemic put a pause on many hotels’ guaranteed once-a-day cleanings. Now many of them are making the change permanent, even saying guests prefer it.  <a href="https://nyti.ms/3z8jWaM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
