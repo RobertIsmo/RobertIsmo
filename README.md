@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 27, Central Standard Time</p>
 <p>
-It looks like some ex-convicts who are fighting and dying in Ukraine are being honored as heroes in Russia, even though they committed crimes that some of their old neighbors can&#39;t forget. Twitter recently had some of its source code leaked online and Elon Musk personally bought the company for $44 billion. This week in sports, two underdog teams, Miami and San Diego State, made it to the Final Four, while Caitlin Clark and L.S. First Citizens is about to buy Silicon Valley Bank, but there are still worries about how strong European lenders really are. Apple is expected to unveil some augmented reality goggles soon and there has been a lot of dissent from employees about whether it&#39;s a good idea or not. A family in the US were recently killed by a tornado and Vice President Kamala Harris is currently visiting Africa trying to deepen relations between the US and other countries while also facing Chinese influence. Hotels have stopped guaranteeing once-a-day cleanings due to the pandemic and rich homeowners in Los Angeles have been trying to sell off their mansions before a new mansion tax goes into effect on April first.</p>
+In the world, there&#39;s a crisis in Israel around the government&#39;s plan to overhaul the judiciary and questions around how to honor the memory of thousands of former prisoners fighting and dying in Ukraine. In technology, Twitter says parts of its source code were leaks and Elon Musk values the company at $20 billion. In sports, there have been furious finishes and major victories at the Final Four. In business, First Citizens is set to acquire Silicon Valley Bank and Europe&#39;s policymakers are expressing confidence about the stability of its lenders. Apple has some dissent over a new product and in Africa, Vice President Kamala Harris is looking to deepen U.S. relations amidst China’s influence. Lastly, many hotels are making their pause on daily cleaning permanent during the pandemic.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israeli Government’s Plan to Overhaul the Judiciary Sets Off a Crisis</h3>
+<sub>By Patrick Kingsley and Isabel Kershner</sub>
+<p>Prime Minister Benjamin Netanyahu’s right-wing government contends the Supreme Court has unchecked power.  <a href="https://nyti.ms/40CHJLP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>They Left Town as Convicts. Will They Be Buried as Heroes?</h3>
 <sub>By Neil MacFarquhar</sub>
@@ -127,12 +133,6 @@ It looks like some ex-convicts who are fighting and dying in Ukraine are being h
 <sub>By Danielle Braff</sub>
 <p>The pandemic put a pause on many hotels’ guaranteed once-a-day cleanings. Now many of them are making the change permanent, even saying guests prefer it.  <a href="https://nyti.ms/3z8jWaM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>For Sale: Mansions in Los Angeles at Bargain Prices</h3>
-<sub>By Debra Kamin</sub>
-<p>Millionaire homeowners are trying to sell their houses before the city’s “mansion tax” goes into effect on April 1.  <a href="https://nyti.ms/3z6oYoc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
