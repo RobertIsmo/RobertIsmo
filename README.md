@@ -58,26 +58,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, March 26, Central Standard Time</p>
+<p>It is Monday, March 27, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot happening. In Israel, people are protesting after Prime Minister Benjamin Netanyahu fired the defense minister over plans to weaken the judiciary system. Meanwhile, in Ukraine, thousands of ex-prisoners are fighting and dying - with many being honored as heroes by Russia. 
-
-In the tech world, Twitter&#39;s source code was leaked online and Elon Musk values the company at $20 billion after taking it private. Apple is about to release their new augmented reality headset and employees are questioning if that makes sense for their company. 
-
-Sports wise, Miami and San Diego State are going into the Final Four and L.S.U. made it too despite an off shooting night. 
-
-Here in the U.S., a couple and their 14 year old son were killed as a tornado hit their town. Hotel room cleaning is becoming more of an opt-in clean rather than a required element these days due to the pandemic. 
-
-In China, marriage rates have declined while &#39;bride prices&#39; have gone up since they enacted the one-child policy which led to too few women. Additionally, in Los Angeles millionaires are rushing to sell their mansions before the city&#39;s &quot;mansion tax&quot; kicks in at April 1st. 
-
-And finally, in Italy there&#39;s an annual festival where citizens throw 900 tons of oranges at each other!</p>
+It looks like some ex-convicts who are fighting and dying in Ukraine are being honored as heroes in Russia, even though they committed crimes that some of their old neighbors can&#39;t forget. Twitter recently had some of its source code leaked online and Elon Musk personally bought the company for $44 billion. This week in sports, two underdog teams, Miami and San Diego State, made it to the Final Four, while Caitlin Clark and L.S. First Citizens is about to buy Silicon Valley Bank, but there are still worries about how strong European lenders really are. Apple is expected to unveil some augmented reality goggles soon and there has been a lot of dissent from employees about whether it&#39;s a good idea or not. A family in the US were recently killed by a tornado and Vice President Kamala Harris is currently visiting Africa trying to deepen relations between the US and other countries while also facing Chinese influence. Hotels have stopped guaranteeing once-a-day cleanings due to the pandemic and rich homeowners in Los Angeles have been trying to sell off their mansions before a new mansion tax goes into effect on April first.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Boils as Netanyahu Ousts Minister Who Bucked Court Overhaul</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Protests broke out shortly after Prime Minister Benjamin Netanyahu fired the defense minister, who had called for a halt to efforts to weaken the judiciary.  <a href="https://nyti.ms/3ncSki8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>They Left Town as Convicts. Will They Be Buried as Heroes?</h3>
 <sub>By Neil MacFarquhar</sub>
@@ -103,9 +87,21 @@ And finally, in Italy there&#39;s an annual festival where citizens throw 900 to
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Off Shooting Night Can’t Keep L.S.U. From the Final Four</h3>
-<sub>By Kris Rhim</sub>
-<p>Led by Alexis Morris and Angel Reese, the Tigers beat Miami to return to the Final Four for the first time since 2008.  <a href="https://nyti.ms/42Kpd5Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Caitlin Clark Powers Iowa to the Final Four, While L.S.U. Gets Past Its Cold Shooting</h3>
+<sub>By Talya Minsberg and Kris Rhim</sub>
+<p>Clark delivered a 41-point triple-double against Louisville to take Iowa to its second Final Four; Angel Reese recorded her 32nd double-double of the season to propel L.S.U. over Miami.  <a href="https://nyti.ms/42Kpd5Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>First Citizens to Acquire Silicon Valley Bank</h3>
+<sub>By Lauren Hirsch</sub>
+<p>The Federal Deposit Insurance Corporation, which announced the deal late Sunday, had been looking for a buyer since seizing control of the bank.  <a href="https://nyti.ms/3z6xJie"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As Banking Worries Swirl, Europe’s Policymakers Express Confidence, With Caution</h3>
+<sub>By Eshe Nelson</sub>
+<p>Officials say eurozone lenders are strictly supervised and continue to be strong. But at a recent conference, wariness about the future remained.  <a href="https://nyti.ms/40Fado7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -120,29 +116,23 @@ And finally, in Italy there&#39;s an annual festival where citizens throw 900 to
 <p>  <a href="https://nyti.ms/3LY9Dhv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Africa, Kamala Harris Looks to Deepen Relations Amid China’s Influence</h3>
+<sub>By Zolan Kanno-Youngs and Abdi Latif Dahir</sub>
+<p>In a weeklong trip to Ghana, Tanzania and Zambia, the vice president will face a balancing act as she tries to foster a collaborative U.S. relationship.  <a href="https://nyti.ms/3MbgdRV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
 <h3>Say Goodbye to Daily Hotel Room Cleaning</h3>
 <sub>By Danielle Braff</sub>
 <p>The pandemic put a pause on many hotels’ guaranteed once-a-day cleanings. Now many of them are making the change permanent, even saying guests prefer it.  <a href="https://nyti.ms/3z8jWaM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In China, Marriage Rates Are Down and ‘Bride Prices’ Are Up</h3>
-<sub>By Nicole Hong and Zixu Wang</sub>
-<p>China’s one-child policy has led to too few women. Grooms are now paying more money for wives, in a tradition that has faced growing resistance.  <a href="https://nyti.ms/42FKg9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>For Sale: Mansions in Los Angeles at Bargain Prices</h3>
 <sub>By Debra Kamin</sub>
 <p>Millionaire homeowners are trying to sell their houses before the city’s “mansion tax” goes into effect on April 1.  <a href="https://nyti.ms/3z6oYoc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Why Are These Italians Massacring Each Other With Oranges?</h3>
-<sub>By Jon Mooallem and Andrea Frazzetta</sub>
-<p>Every winter, Ivrea erupts into a ferocious three-day festival where its citizens pelt one another with 900 tons of oranges. (Yes, oranges.)  <a href="https://nyti.ms/3Z22mjh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
