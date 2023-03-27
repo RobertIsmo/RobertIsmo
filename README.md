@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 27, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, there are widespread protests as people demonstrate against the government. Meanwhile in Ukraine, locals have set out to rebuild a colossal Mriya cargo plane that was destroyed last year during military conflict. Closer to home, the mayoral race in Chicago is being heavily influenced by unions - specifically, the teachers and police unions. In California&#39;s Central Valley, farmers and emergency crews are in a scramble to save the region&#39;s farms from excess water due to recent storms. In the technology sector, experts in artificial intelligence are being sought after, and in Spain people are finding a perfect balance of culture, art and nature for family trips. It appears our traditional values for writing is slowly declining with typing and texting replacing it, and our education system is seeing a shift too - with students being encouraged to think more deeply about their top college choices.</p>
+The world is very turbulent right now. In Israel, there are huge protests and clashes with the police in Jerusalem. Ukraine is working to rebuild a colossal plane destroyed in a battle for its airfield last year. And, former National Enquirer publisher has been testifying in the case against former president Trump. On the sports side, we have an unexpected Final Four in women&#39;s basketball and L.S.U got past its cold shooting to advance too. There are also issues of natural disasters in California&#39;s Central Valley where emergency crews are racing to save farms. Meanwhile, research on chatbots has unveiled interesting insights on theories of mind and machine learning. In other news, there is a discussion on how penmanship has become obsolete and advice on building college rankings.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>It is rare for a woman to commit a mass shooting.</h3>
+<sub>By Emily Schmall</sub>
+<p>In a database of 172 U.S. shootings involving at least four victims over the last five and a half decades, only 4 of the perpetrators were female.  <a href="https://nyti.ms/40AZ1Jm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Unrest Surges in Israel: Videos and Photos</h3>
 <sub>By Agnes Chang, Shawn Paik, Maud Bodoukian, Mona Boshnaq, Lauren Leatherby and Matej Leskovsek</sub>
@@ -80,6 +86,12 @@ There is a lot going on in the world right now. In Israel, there are widespread 
 <p>She is podcasting-famous, considered a “crossover breakthrough artist” by other therapists — and still trying to both see patients and conquer new platforms.  <a href="https://nyti.ms/42JegBN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Former National Enquirer Publisher Testifies Again in Trump Inquiry</h3>
+<sub>By William K. Rashbaum, Kate Christobek, Ben Protess and Jonah E. Bromwich</sub>
+<p>The grand jury investigating a hush-money case against the former president met again on Monday, but the timing of any potential indictment remained unclear.  <a href="https://nyti.ms/40iRWxb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The Final Four That Nobody Could Have Expected</h3>
 <sub>By Billy Witz</sub>
@@ -91,12 +103,6 @@ There is a lot going on in the world right now. In Israel, there are widespread 
 <sub>By Talya Minsberg and Kris Rhim</sub>
 <p>Clark delivered a 41-point triple-double against Louisville to take Iowa to its second Final Four; Angel Reese recorded her 32nd double-double of the season to propel L.S.U. over Miami.  <a href="https://nyti.ms/42Kpd5Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chicago’s Mayoral Race Pits the Teachers Union Against the Police Union</h3>
-<sub>By Jonathan Weisman</sub>
-<p>In a city known for its unions, two loom over the Paul Vallas-Brandon Johnson race, and no labor leader is as significant as the incendiary president of the Fraternal Order of Police.  <a href="https://nyti.ms/3TLf3Os"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Scramble to Save California’s Heartland</h3>
@@ -114,12 +120,6 @@ There is a lot going on in the world right now. In Israel, there are widespread 
 <h3>How to Become an Expert on A.I.</h3>
 <sub>By Kevin Roose and Cade Metz</sub>
 <p>Part 1 of our weeklong series.  <a href="https://nyti.ms/3LTvVAG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>In the Basque Region of Spain: Art, Culture and a Puppy That Blooms</h3>
-<sub>By Andrew Ferren</sub>
-<p>Does a culture-centric family trip have to be boring for the kids? Our writer finds the perfect balance of contemporary art, scary medieval weapons, Gothic cloisters and wide-open space.  <a href="https://nyti.ms/3FSQl9c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
