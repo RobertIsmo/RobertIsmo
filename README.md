@@ -60,18 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 26, Central Standard Time</p>
 <p>
-There have been some interesting developments around the world this week. In Israel, Prime Minister Benjamin Netanyahu has fired his defense minister, Yoav Gallant, after he called for a halt to the government&#39;s plan to limit judicial authority. In Ukraine, thousands of ex-prisoners are fighting and dying as people try to honor their memory with a patriotic imperative in Russia. Meanwhile, Apple is expected to unveil an augmented reality headset in a few months and there is much employee debate as to whether it is the right move for them or not. Closer to home, a couple and their 14-year-old son were killed when a tornado struck in the United States. In sports news, Steve Cohen&#39;s investment in the Mets makes him the most beloved billionaire in Queens. As for other athletes, Caitlin Clark scored 31 points over the weekend and showed off her impressive range on the court. Travelers can now look forward to hotels no longer providing daily room cleanings due to coronavirus restrictions. In Asia there is sadly an arms race happening that has echoes of World War II. China has also seen changes due to its one-child policy leading to too few women and higher bride prices. Although a study with a rare shark discovery had to be retracted due to doubts from other researchers - likely because it ended up being a plastic toy! Finally this was also followed by popular headlines such as The Weekender featuring Beethoven’s life discoveries through his DNA and The New York Times News Quiz testing readers on how well they followed the news in March of 2023.</p>
+There is a lot of chaos and unrest happening around the world right now. In Israel, people are protesting after the Prime Minister fired a minister who had taken a stand against overhauling the court system. In Ukraine, thousands of former prisoners are fighting and dying in battle, leading to recognition of their memory as a patriotic imperative in Russia. On Twitter, parts of its source code have been leaked online, so the company is trying to identify who was responsible and see if anyone else downloaded it. Elon Musk has valued Twitter at $20 billion and recently bought it for $44 billion. Sports-wise, Miami and San Diego State have made it to the final four of the basketball playoffs after coming from behind and making some furious finishes. And Apple has encountered rare dissent over a new product which is expected to be an augmented reality headset. Tragically, here in the US, a couple and their 14-year-old son were killed in a tornado. Also, Steve Cohen has gone all-in with money-losing investments towards the New York Mets baseball team in Queens, Long Island. Some hotels are no longer offering daily room cleanings due to the pandemic and its aftermath. In China, marriage rates are low due to the one-child policy - resulting in fewer brides available - and grooms now have to pay higher &#39;bride prices&#39; just to get married. Lastly there is an interesting festival taking place every winter in Italy where people massacre each other with oranges! Lastly, scientists recently retracted a study that showed a rare goblin shark washed up on a Greek beach after realizing it might have actually been just a plastic toy.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Fires Defense Minister Who Urged Delay in Court Overhaul</h3>
+<h3>Israel Boils as Netanyahu Ousts Minister Who Bucked Court Overhaul</h3>
 <sub>By Patrick Kingsley</sub>
-<p>Prime Minister Benjamin Netanyahu of Israel removed the defense minister, Yoav Gallant, after he called for a halt to the government’s plan to limit judicial authority.  <a href="https://nyti.ms/3ncSki8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Protests broke out shortly after Prime Minister Benjamin Netanyahu fired the defense minister, who had called for a halt to efforts to weaken the judiciary.  <a href="https://nyti.ms/3ncSki8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>They Left Town as Convicts. Will They Be Buried as Heroes?</h3>
 <sub>By Neil MacFarquhar</sub>
 <p>As thousands of ex-prisoners fight and die in Ukraine, honoring their memory is becoming a patriotic imperative in Russia. But some committed crimes their old neighbors cannot forget.  <a href="https://nyti.ms/3lIxrLn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Twitter Says Parts of Its Source Code Were Leaked Online</h3>
+<sub>By Ryan Mac and Kate Conger</sub>
+<p>The leak adds to the challenges facing the Elon Musk-owned company, which is trying to identify the person responsible and any other people who downloaded the code.  <a href="https://nyti.ms/3LOnl6p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Elon Musk Values Twitter at $20 Billion</h3>
+<sub>By Kate Conger and Ryan Mac</sub>
+<p>The billionaire bought the social media company for $44 billion in October and took it private.  <a href="https://nyti.ms/40AxO9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Furious Finishes Set the Final Four: No. 5 Seeds Miami, San Diego State Are In</h3>
+<sub>By Noah Weiland and Billy Witz</sub>
+<p>Miami rallied from 13 points down to beat Texas, while a foul and a free throw gave San Diego State a win over Creighton. They join UConn and Florida Atlantic in the national semifinals.  <a href="https://nyti.ms/3lJHWOG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -92,12 +110,6 @@ There have been some interesting developments around the world this week. In Isr
 <p>Once a symbol of Wall Street excess, Cohen has invested lavishly in the Mets, becoming the most beloved billionaire in Queens. Is that enough to reverse team history?  <a href="https://nyti.ms/3lAbiz2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Caitlin Clark Is Everywhere</h3>
-<sub>By Kris Rhim, Bedel Saget and Marco Hernandez</sub>
-<p>The Iowa star scored 31 points on Friday, including one of her signature “logo” 3-pointers. Here’s a look at her dominating range.  <a href="https://nyti.ms/3ndb6WC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
 <h3>Say Goodbye to Daily Hotel Room Cleaning</h3>
 <sub>By Danielle Braff</sub>
@@ -105,33 +117,21 @@ There have been some interesting developments around the world this week. In Isr
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Anxious Asia Arms for a War It Hopes to Prevent</h3>
-<sub>By Damien Cave and Chang W. Lee</sub>
-<p>Doubts about both China and the United States are driving an arms race in the Indo-Pacific with echoes of World War II and new levels of risk.  <a href="https://nyti.ms/3K4GP5t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In China, Marriage Rates Are Down and ‘Bride Prices’ Are Up</h3>
 <sub>By Nicole Hong and Zixu Wang</sub>
 <p>China’s one-child policy has led to too few women. Grooms are now paying more money for wives, in a tradition that has faced growing resistance.  <a href="https://nyti.ms/42FKg9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Why Are These Italians Massacring Each Other With Oranges?</h3>
+<sub>By Jon Mooallem and Andrea Frazzetta</sub>
+<p>Every winter, Ivrea erupts into a ferocious three-day festival where its citizens pelt one another with 900 tons of oranges. (Yes, oranges.)  <a href="https://nyti.ms/3Z22mjh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>A Shark Discovery ‘Didn’t Look Right.’ It Might Have Been a Plastic Toy.</h3>
 <sub>By Annie Roth</sub>
 <p>Scientists have retracted a study that showed a rare goblin shark washed up on a Greek beach after other researchers voiced doubts about the find.  <a href="https://nyti.ms/3TExMv2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Christine Chun</sub>
-<p>DNA from Beethoven’s hair unlocks secrets from his life. Also in this edition: Matthew Macfadyen on “Succession” and the joy of letting loose.  <a href="https://nyti.ms/3FRgB3L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, March 24, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/40uF8nh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
