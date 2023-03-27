@@ -60,7 +60,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, March 26, Central Standard Time</p>
 <p>
-There is a lot of chaos and unrest happening around the world right now. In Israel, people are protesting after the Prime Minister fired a minister who had taken a stand against overhauling the court system. In Ukraine, thousands of former prisoners are fighting and dying in battle, leading to recognition of their memory as a patriotic imperative in Russia. On Twitter, parts of its source code have been leaked online, so the company is trying to identify who was responsible and see if anyone else downloaded it. Elon Musk has valued Twitter at $20 billion and recently bought it for $44 billion. Sports-wise, Miami and San Diego State have made it to the final four of the basketball playoffs after coming from behind and making some furious finishes. And Apple has encountered rare dissent over a new product which is expected to be an augmented reality headset. Tragically, here in the US, a couple and their 14-year-old son were killed in a tornado. Also, Steve Cohen has gone all-in with money-losing investments towards the New York Mets baseball team in Queens, Long Island. Some hotels are no longer offering daily room cleanings due to the pandemic and its aftermath. In China, marriage rates are low due to the one-child policy - resulting in fewer brides available - and grooms now have to pay higher &#39;bride prices&#39; just to get married. Lastly there is an interesting festival taking place every winter in Italy where people massacre each other with oranges! Lastly, scientists recently retracted a study that showed a rare goblin shark washed up on a Greek beach after realizing it might have actually been just a plastic toy.</p>
+Right now, there&#39;s a lot happening. In Israel, people are protesting after Prime Minister Benjamin Netanyahu fired the defense minister over plans to weaken the judiciary system. Meanwhile, in Ukraine, thousands of ex-prisoners are fighting and dying - with many being honored as heroes by Russia. 
+
+In the tech world, Twitter&#39;s source code was leaked online and Elon Musk values the company at $20 billion after taking it private. Apple is about to release their new augmented reality headset and employees are questioning if that makes sense for their company. 
+
+Sports wise, Miami and San Diego State are going into the Final Four and L.S.U. made it too despite an off shooting night. 
+
+Here in the U.S., a couple and their 14 year old son were killed as a tornado hit their town. Hotel room cleaning is becoming more of an opt-in clean rather than a required element these days due to the pandemic. 
+
+In China, marriage rates have declined while &#39;bride prices&#39; have gone up since they enacted the one-child policy which led to too few women. Additionally, in Los Angeles millionaires are rushing to sell their mansions before the city&#39;s &quot;mansion tax&quot; kicks in at April 1st. 
+
+And finally, in Italy there&#39;s an annual festival where citizens throw 900 tons of oranges at each other!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Boils as Netanyahu Ousts Minister Who Bucked Court Overhaul</h3>
@@ -87,9 +97,15 @@ There is a lot of chaos and unrest happening around the world right now. In Isra
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Furious Finishes Set the Final Four: No. 5 Seeds Miami, San Diego State Are In</h3>
+<h3>Furious Finishes Set the Final Four: Miami and San Diego State Are In</h3>
 <sub>By Noah Weiland and Billy Witz</sub>
-<p>Miami rallied from 13 points down to beat Texas, while a foul and a free throw gave San Diego State a win over Creighton. They join UConn and Florida Atlantic in the national semifinals.  <a href="https://nyti.ms/3lJHWOG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Fifth-seeded Miami rallied from 13 points down to beat Texas, while a foul and a free throw gave another No. 5 seed, San Diego State, a win over Creighton. They join UConn and Florida Atlantic.  <a href="https://nyti.ms/3lJHWOG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Off Shooting Night Can’t Keep L.S.U. From the Final Four</h3>
+<sub>By Kris Rhim</sub>
+<p>Led by Alexis Morris and Angel Reese, the Tigers beat Miami to return to the Final Four for the first time since 2008.  <a href="https://nyti.ms/42Kpd5Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -104,12 +120,6 @@ There is a lot of chaos and unrest happening around the world right now. In Isra
 <p>  <a href="https://nyti.ms/3LY9Dhv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Steve Cohen’s Amazin’, Maddening, Money-Losing Bid to Own New York</h3>
-<sub>By Matt Flegenheimer and Kate Kelly</sub>
-<p>Once a symbol of Wall Street excess, Cohen has invested lavishly in the Mets, becoming the most beloved billionaire in Queens. Is that enough to reverse team history?  <a href="https://nyti.ms/3lAbiz2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, March 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
 <h3>Say Goodbye to Daily Hotel Room Cleaning</h3>
 <sub>By Danielle Braff</sub>
@@ -122,17 +132,17 @@ There is a lot of chaos and unrest happening around the world right now. In Isra
 <p>China’s one-child policy has led to too few women. Grooms are now paying more money for wives, in a tradition that has faced growing resistance.  <a href="https://nyti.ms/42FKg9Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>For Sale: Mansions in Los Angeles at Bargain Prices</h3>
+<sub>By Debra Kamin</sub>
+<p>Millionaire homeowners are trying to sell their houses before the city’s “mansion tax” goes into effect on April 1.  <a href="https://nyti.ms/3z6oYoc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Why Are These Italians Massacring Each Other With Oranges?</h3>
 <sub>By Jon Mooallem and Andrea Frazzetta</sub>
 <p>Every winter, Ivrea erupts into a ferocious three-day festival where its citizens pelt one another with 900 tons of oranges. (Yes, oranges.)  <a href="https://nyti.ms/3Z22mjh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>A Shark Discovery ‘Didn’t Look Right.’ It Might Have Been a Plastic Toy.</h3>
-<sub>By Annie Roth</sub>
-<p>Scientists have retracted a study that showed a rare goblin shark washed up on a Greek beach after other researchers voiced doubts about the find.  <a href="https://nyti.ms/3TExMv2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
