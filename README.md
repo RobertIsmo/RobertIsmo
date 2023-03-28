@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 28, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. Former President Donald Trump is facing multiple investigations and a grand jury, while Prime Minister Benjamin Netanyahu in Israel is juggling far-right political agendas and public anger over judicial changes. In Mexico, an immigration center fire has killed at least 39 migrants near the U.S. border, highlighting the plight of those stranded away from home because of the United States&#39; strict immigration policies. Meanwhile, President Biden is taking steps to strengthen democracies around the world, yet some countries are still struggling with political turmoil. On thetechnology front, artificial intelligence (A.I.) is becoming more advanced and its use for political emails and other purposes is blurring the line between fact and fiction. This raises questions about whether A.I. could make certain white-collar jobs obsolete or if it would help increase productivity.</p>
+Right now, it seems like a lot is happening in the world. In the US, former vice president Mike Pence has been ordered to testify to a grand jury over the events of January 6th while President Biden admitted that he cannot act on gun control without help from Congress. In Israel, Prime Minister Netanyahu is struggling to keep order within his own coalition amid a plan to weaken judicial power. This movement is drawing comparisons to other democracies that have gone in this direction. Meanwhile, there was a tragic fire in Mexico near the US border which killed 39 people at a migrant center. In other news, senators are questioning federal regulators over two bank failures while one Federal Reserve official believes the troubles spell an upcoming recession. Lastly, an antiwar father and daughter in Russia have been separated over their criticism of the war in Ukraine, and in anticipation of the coronation of King Charles, many look-alikes are enjoying newfound popularity.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pence Must Testify to Jan. 6 Grand Jury, Judge Rules</h3>
@@ -68,11 +68,17 @@ There is a lot going on in the world right now. Former President Donald Trump is
 <p>The ruling in Washington was the latest setback to efforts by former President Donald J. Trump’s legal team to limit testimony to grand juries investigating him on various matters.  <a href="https://nyti.ms/3JVdVDH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Donald Trump Faces Several Investigations. Here’s Where They Stand.</h3>
-<sub>By Ben Protess, Alan Feuer and Danny Hakim</sub>
-<p>The Manhattan district attorney’s office appears to be nearing a potential indictment of the former president, as federal and state prosecutors bear down on Mr. Trump in a number of inquiries.  <a href="https://nyti.ms/3JVNBHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Body camera footage shows officers racing through the school to find the shooter.</h3>
+<sub>By Emily Cochrane</sub>
+<p>An officer turns a corner and spots the assailant, who he shoots several times, the footage from his body camera shows.  <a href="https://nyti.ms/3LYuIrP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Concedes He Is Powerless to Act on Guns Without Congress</h3>
+<sub>By Michael D. Shear</sub>
+<p>“I have gone the full extent of my executive authority to do, on my own, anything about guns,” President Biden said.  <a href="https://nyti.ms/40Myjh3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Attempts Another Juggling Act, Maybe His Toughest Yet</h3>
@@ -86,18 +92,6 @@ There is a lot going on in the world right now. Former President Donald Trump is
 <p>Examples of what happened after leaders brought judiciaries to heel elsewhere have helped galvanize opposition to Benjamin Netanyahu’s proposals.  <a href="https://nyti.ms/3nqvy6L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Defense of Global Democracies Is Tested by Political Turmoil</h3>
-<sub>By Michael Crowley</sub>
-<p>The administration’s Summit for Democracy begins this week amid crises in several countries allied with the United States, including Israel.  <a href="https://nyti.ms/3KeRZ7J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Body camera footage shows officers racing through the school to find the shooter.</h3>
-<sub>By Emily Cochrane</sub>
-<p>  <a href="https://nyti.ms/3LYuIrP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Fire in Mexico Kills at Least 39 in Migration Center Near U.S. Border</h3>
 <sub>By Natalie Kitroeff and Emiliano Rodríguez Mega</sub>
@@ -106,8 +100,14 @@ There is a lot going on in the world right now. Former President Donald Trump is
 <hr/>
 <img src="https://img.shields.io/badge/-espanol-blue" alt="">
 <h3>Incendio en Ciudad Juárez: al menos 39 muertos en un centro del Instituto Nacional de Migración</h3>
-<sub>By Mike Ives, Euan Ward and Emiliano Rodríguez Mega</sub>
+<sub>By Natalie Kitroeff and Emiliano Rodríguez Mega</sub>
 <p>El presidente de México, Andrés Manuel López Obrador, dijo que el incendio en la ciudad fronteriza con Texas fue resultado de una protesta de migrantes que iban a ser deportados.  <a href="https://nyti.ms/42Guw6J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Silicon Valley Bank Hearing Takeaways: A Blame Game, but Few Solutions</h3>
+<sub>By Alan Rappeport</sub>
+<p>Senators sharply questioned federal regulators about shortcomings in oversight after two bank failures rattled the financial system. Regulators put the blame on the banks’ management.  <a href="https://nyti.ms/42P38na"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -116,22 +116,22 @@ There is a lot going on in the world right now. Former President Donald Trump is
 <p>One Federal Reserve official has suggested the trouble that Silicon Valley Bank touched off makes a recession more likely.  <a href="https://nyti.ms/3TNDr2b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Tinkering With ChatGPT, Workers Wonder: Will This Take My Job?</h3>
-<sub>By Lydia DePillis and Steve Lohr</sub>
-<p>Artificial intelligence is confronting white-collar professionals more directly than ever. It could make them more productive — or obsolete.  <a href="https://nyti.ms/3JTBJrc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Does ChatGPT Really Work?</h3>
-<sub>By Kevin Roose</sub>
-<p>Learning how a “large language model” operates.  <a href="https://nyti.ms/3TTXD2u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Campaign Aide Didn’t Write That Email. A.I. Did.</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The swift advance of artificial intelligence in politics is already blurring the boundaries between fact and fake.  <a href="https://nyti.ms/40lDyUR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Court Reinstates Adnan Syed’s Murder Conviction in ‘Serial’ Case and Orders New Hearing</h3>
+<sub>By Michael Levenson</sub>
+<p>The Appellate Court of Maryland ruled that a lower court had violated the right of the victim’s brother to have been notified of and to attend a hearing.  <a href="https://nyti.ms/3KhdXXV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Child’s Drawing, a Dad’s Antiwar Posts, and Russia’s Latest Orphan</h3>
+<sub>By Valerie Hopkins</sub>
+<p>Rights activists worry that the separation of a teenage girl and her father after they criticized the war in Ukraine might signal a toughening of the crackdown on dissent.  <a href="https://nyti.ms/3lP1fGd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As King Charles Moves to Center Stage, So Do His Impersonators</h3>
+<sub>By Jenny Gross</sub>
+<p>Long overshadowed by other royal look-alikes, Charles imitators are experiencing newfound popularity ahead of the king’s coronation in May.  <a href="https://nyti.ms/3FWVaOT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
