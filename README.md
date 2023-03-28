@@ -60,14 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 28, Central Standard Time</p>
 <p>
-It seems like a lot of the news around the world right now is focused on Israel. Prime Minister Benjamin Netanyahu has been facing public anger due to the government&#39;s plan to weaken the judiciary, and opponents of the plan have used examples of what has happened in other countries when leaders bring judiciaries to heel to mobilize people in protest. It appears that these protests have caused Netanyahu to delay plans to limit the power of the courts. 
-
-Meanwhile, there was a fire at a National Migration Institute facility near the US border in Mexico which killed at least 39 people.  
-
-In China, cities are buried in debt but keep shoveling it on as part Chinese President Xi Jinping&#39;s push for growth. And tech giant Alibaba recently announced that it would split into six units--possibly preceding an I.P.O in the future--after its founder Jack Ma returned to mainland China. 
-
-And finally, Artificial Intelligence is starting to confront white-collar professionals more directly, with workers left wondering whether or not this technology may take their jobs one day. Unfortunately, some places like Ukraine&#39;s largest nuclear facility have seen actual torture and turmoil, with former Ukrainian workers recalling abuse from Russians who took control of the plant.  A rare glimpse of Avdiivka reveals a ruined city where residents huddle in basements.</p>
+There is a lot going on in the world right now. Former President Donald Trump is facing multiple investigations and a grand jury, while Prime Minister Benjamin Netanyahu in Israel is juggling far-right political agendas and public anger over judicial changes. In Mexico, an immigration center fire has killed at least 39 migrants near the U.S. border, highlighting the plight of those stranded away from home because of the United States&#39; strict immigration policies. Meanwhile, President Biden is taking steps to strengthen democracies around the world, yet some countries are still struggling with political turmoil. On thetechnology front, artificial intelligence (A.I.) is becoming more advanced and its use for political emails and other purposes is blurring the line between fact and fiction. This raises questions about whether A.I. could make certain white-collar jobs obsolete or if it would help increase productivity.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pence Must Testify to Jan. 6 Grand Jury, Judge Rules</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The ruling in Washington was the latest setback to efforts by former President Donald J. Trump’s legal team to limit testimony to grand juries investigating him on various matters.  <a href="https://nyti.ms/3JVdVDH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Donald Trump Faces Several Investigations. Here’s Where They Stand.</h3>
+<sub>By Ben Protess, Alan Feuer and Danny Hakim</sub>
+<p>The Manhattan district attorney’s office appears to be nearing a potential indictment of the former president, as federal and state prosecutors bear down on Mr. Trump in a number of inquiries.  <a href="https://nyti.ms/3JVNBHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Attempts Another Juggling Act, Maybe His Toughest Yet</h3>
 <sub>By Patrick Kingsley</sub>
@@ -75,51 +81,39 @@ And finally, Artificial Intelligence is starting to confront white-collar profes
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Opponents Used Dangers of ‘Reform’ by Autocrats to Sound Alarm</h3>
+<h3>Behind Protests’ Fury in Israel, Fear of a Quiet Slide From Democracy</h3>
 <sub>By Emily Bazelon</sub>
-<p>Pointing to examples of what happened after leaders elsewhere brought judiciaries to heel has helped mobilize Israelis in protest.  <a href="https://nyti.ms/3nqvy6L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Judicial Overhaul Paused, U.S. Softens Tone on Netanyahu</h3>
-<sub>By Patrick Kingsley</sub>
-<p>News that Prime Minister Benjamin Netanyahu would be welcomed in Washington came a day after the Israeli leader delayed plans to limit the power of the courts and signaled a calmer atmosphere.  <a href="https://nyti.ms/3JTdKZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>A Win for Israel’s Protesters</h3>
-<sub>By German Lopez and Claire Moses</sub>
-<p>Demonstrations forced Israel’s prime minister to delay a judicial overhaul.  <a href="https://nyti.ms/3nfP5Xd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Examples of what happened after leaders brought judiciaries to heel elsewhere have helped galvanize opposition to Benjamin Netanyahu’s proposals.  <a href="https://nyti.ms/3nqvy6L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The head of the school and the daughter of the church’s pastor are among the dead.</h3>
-<sub>By Eliza Fawcett, Ruth Graham and Emily Cochrane</sub>
-<p>  <a href="https://nyti.ms/3JTbcut"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<h3>Biden’s Defense of Global Democracies Is Tested by Political Turmoil</h3>
+<sub>By Michael Crowley</sub>
+<p>The administration’s Summit for Democracy begins this week amid crises in several countries allied with the United States, including Israel.  <a href="https://nyti.ms/3KeRZ7J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Body camera footage shows officers racing through the school to find the shooter.</h3>
+<sub>By Emily Cochrane</sub>
+<p>  <a href="https://nyti.ms/3LYuIrP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Fire in Mexico Kills at Least 39 in Migration Center Near U.S. Border</h3>
+<sub>By Natalie Kitroeff and Emiliano Rodríguez Mega</sub>
+<p>The fatal blaze comes as border cities across Mexico have been flooded with migrants turned back from the United States and more arriving from other countries.  <a href="https://nyti.ms/42PJfft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Incendio en Ciudad Juárez: al menos 39 muertos en un centro del Instituto Nacional de Migración</h3>
 <sub>By Mike Ives, Euan Ward and Emiliano Rodríguez Mega</sub>
-<p>President Andrés Manuel López Obrador said the blaze at a National Migration Institute facility in Ciudad Juárez, a border city near Texas, was the result of a protest by migrants who were set to be deported.  <a href="https://nyti.ms/42PJfft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>El presidente de México, Andrés Manuel López Obrador, dijo que el incendio en la ciudad fronteriza con Texas fue resultado de una protesta de migrantes que iban a ser deportados.  <a href="https://nyti.ms/42Guw6J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Vice Chair Calls Silicon Valley Bank a ‘Textbook Case of Mismanagement’</h3>
-<sub>By Jeanna Smialek and Emily Flitter</sub>
-<p>The Federal Reserve’s top bank cop blamed Silicon Valley Bank’s leaders, while previewing the central bank’s review of its faulty oversight.  <a href="https://nyti.ms/3z9ll0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Cities Are Buried in Debt, but They Keep Shoveling It On</h3>
-<sub>By Li Yuan</sub>
-<p>China has long pursued growth by public spending, even after the payoff has faded. Cities stuck with the bill are still spending — and cutting essential services.  <a href="https://nyti.ms/40nHlRE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Alibaba, China’s E-Commerce Giant, Will Split Into Six Units</h3>
-<sub>By Daisuke Wakabayashi</sub>
-<p>The major restructuring, a possible precursor to future I.P.O.s, was announced after Jack Ma, its founder, returned to mainland China after a yearlong absence.  <a href="https://nyti.ms/40mG3GG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Will Bank Turmoil Tank the Economy?</h3>
+<sub>By Jeanna Smialek</sub>
+<p>One Federal Reserve official has suggested the trouble that Silicon Valley Bank touched off makes a recession more likely.  <a href="https://nyti.ms/3TNDr2b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -128,16 +122,16 @@ And finally, Artificial Intelligence is starting to confront white-collar profes
 <p>Artificial intelligence is confronting white-collar professionals more directly than ever. It could make them more productive — or obsolete.  <a href="https://nyti.ms/3JTBJrc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Torture and Turmoil at Ukrainian Nuclear Plant: An Insider’s Account</h3>
-<sub>By Marc Santora</sub>
-<p>The former director of Europe’s largest nuclear facility describes abuse of Ukrainian workers and careless practices by the Russians who took control of the plant.  <a href="https://nyti.ms/3JRUsn4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Does ChatGPT Really Work?</h3>
+<sub>By Kevin Roose</sub>
+<p>Learning how a “large language model” operates.  <a href="https://nyti.ms/3TTXD2u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A rare glimpse of Avdiivka reveals a ruined city where residents huddle in basements.</h3>
-<sub>By Yousur Al-Hlou and Masha Froliak</sub>
-<p>  <a href="https://nyti.ms/3TNJaEY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Campaign Aide Didn’t Write That Email. A.I. Did.</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The swift advance of artificial intelligence in politics is already blurring the boundaries between fact and fake.  <a href="https://nyti.ms/40lDyUR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
