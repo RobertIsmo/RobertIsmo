@@ -60,8 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 27, Central Standard Time</p>
 <p>
-In the US, Biden is calling on Congress to pass an assault weapons ban, which seems unlikely. In Israel, there are civil unrest and work stoppages due to Prime Minister Netanyahu attempting to overhaul the judiciary, which he has recently delayed. The US has been pressuring Israel over this move and there have been major protests against it. In China, they are bailing out countries that are in debt instead of offering loans like the IMF would. A U.N. official has gone the Ukraine to visit a nuclear plant where there is potential for disaster due to their offensive. Esther Perel is podcasting-famous and trying to conquer new platforms while seeing patients. In the NCAA Men&#39;s Basketball Tournament final four, we have Connecticut, Florida Atlantic, San Diego State, and Miami representing each respectively. North Carolina expanded its Medicaid program after Republican opposition was defeated in their legislature. Rolling Fork, Miss., is still in need of assistance after being struck by a tornado recently. Finally in tech, there is a weeklong series on how to become an expert at A.I.</p>
+There is an ongoing crisis in Israel, where Prime Minister Netanyahu has proposed a controversial plan to overhaul the judicial system and faced large protests, work stoppages, and civil unrest as a result. In other worldwide news, there is a U.N. official in Ukraine heading to investigate a nuclear plant, amid worries that increased military activity could lead to a disaster. 
+
+Here in the US, Joe Biden is calling on Congress to pass an assault weapons ban that seems unlikely, while North Carolina has just passed Medicaid expansion after long-standing Republican opposition. Lastly, scientists are trying to figure out if machines can now understand the concept of knowledge and its implications.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The head of the school and the daughter of the church’s pastor are among the dead.</h3>
+<sub>By Eliza Fawcett, Ruth Graham and Emily Cochrane</sub>
+<p>  <a href="https://nyti.ms/3JTbcut"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden calls on Congress to pass an assault weapons ban. That is unlikely.</h3>
 <sub>By Katie Rogers</sub>
@@ -105,10 +113,10 @@ In the US, Biden is calling on Congress to pass an assault weapons ban, which se
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Final Four That Nobody Could Have Expected</h3>
-<sub>By Billy Witz</sub>
-<p>Connecticut has a pedigree but hasn’t made a deep run since 2014. Florida Atlantic plays in a small gym on a campus that’s an owl sanctuary. San Diego State got in on a free throw. And Miami’s coach likes his self-help advice.  <a href="https://nyti.ms/3LXwmKm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<h3>South Carolina Pulls Away From Maryland for 3rd Straight Final Four</h3>
+<sub>By Kris Rhim</sub>
+<p>Maryland led after a quarter, but the Gamecocks wore down the Terrapins with their swarming defense. South Carolina will face Iowa in a national semifinal.  <a href="https://nyti.ms/3nsq0IZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>North Carolina Expands Medicaid After Republicans Abandon Their Opposition</h3>
@@ -117,7 +125,7 @@ In the US, Biden is calling on Congress to pass an assault weapons ban, which se
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hoping for a Comeback in a Town With Nothing to Come Back To</h3>
+<h3>Hoping for a Comeback in a Town With Little to Come Back To</h3>
 <sub>By Rick Rojas and Sarah Kramer Ozbun</sub>
 <p>Officials have vowed that Rolling Fork, Miss., ravaged by a tornado, will come back better than ever. But first people need food, water, shelter, medicine and life’s other necessities.  <a href="https://nyti.ms/3TL23Zn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
@@ -126,12 +134,6 @@ In the US, Biden is calling on Congress to pass an assault weapons ban, which se
 <h3>Can a Machine Know That We Know What It Knows?</h3>
 <sub>By Oliver Whang</sub>
 <p>Some researchers claim that chatbots have developed theory of mind. But is that just our own theory of mind gone wild?  <a href="https://nyti.ms/3FVSLUN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How to Become an Expert on A.I.</h3>
-<sub>By Kevin Roose and Cade Metz</sub>
-<p>Part 1 of our weeklong series.  <a href="https://nyti.ms/3LTvVAG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
