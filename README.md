@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 28, Central Standard Time</p>
 <p>
-There is a lot of news happening around the world. In Israel, Prime Minister Benjamin Netanyahu is being pressured by the U.S. to delay an overhaul of the judicial system after protests have been organized by citizens. In the U.S., authorities responded to a heavily armed assailant at a Christian elementary school in Nashville and six people were killed, including three children. In China, cities are buried in debt but are continuing to spend heavily, while Beijing is providing emergency funds to other debt-ridden countries. Finally, in Ukraine, the former director of Europe&#39;s largest nuclear facility has spoken out about torture and turmoil there.</p>
+It seems like a lot of the news around the world right now is focused on Israel. Prime Minister Benjamin Netanyahu has been facing public anger due to the government&#39;s plan to weaken the judiciary, and opponents of the plan have used examples of what has happened in other countries when leaders bring judiciaries to heel to mobilize people in protest. It appears that these protests have caused Netanyahu to delay plans to limit the power of the courts. 
+
+Meanwhile, there was a fire at a National Migration Institute facility near the US border in Mexico which killed at least 39 people.  
+
+In China, cities are buried in debt but keep shoveling it on as part Chinese President Xi Jinping&#39;s push for growth. And tech giant Alibaba recently announced that it would split into six units--possibly preceding an I.P.O in the future--after its founder Jack Ma returned to mainland China. 
+
+And finally, Artificial Intelligence is starting to confront white-collar professionals more directly, with workers left wondering whether or not this technology may take their jobs one day. Unfortunately, some places like Ukraine&#39;s largest nuclear facility have seen actual torture and turmoil, with former Ukrainian workers recalling abuse from Russians who took control of the plant.  A rare glimpse of Avdiivka reveals a ruined city where residents huddle in basements.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Attempts Another Juggling Act, Maybe His Toughest Yet</h3>
@@ -69,16 +75,16 @@ There is a lot of news happening around the world. In Israel, Prime Minister Ben
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Judicial Overhaul Paused, U.S. Offers Olive Branch to Netanyahu</h3>
-<sub>By Patrick Kingsley</sub>
-<p>News that Prime Minister Benjamin Netanyahu had been invited to Washington came a day after the Israeli leader delayed plans to limit the power of the courts and signaled a calmer atmosphere.  <a href="https://nyti.ms/3JTdKZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Netanyahu Opponents Used Dangers of ‘Reform’ by Autocrats to Sound Alarm</h3>
+<sub>By Emily Bazelon</sub>
+<p>Pointing to examples of what happened after leaders elsewhere brought judiciaries to heel has helped mobilize Israelis in protest.  <a href="https://nyti.ms/3nqvy6L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the U.S. Pressure Campaign Over Israel’s Judicial Overhaul</h3>
-<sub>By David E. Sanger</sub>
-<p>President Biden and his advisers bombarded the Israeli government with warnings that the country’s image as the sole democracy in the Middle East was at stake.  <a href="https://nyti.ms/3G0ddnh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With Judicial Overhaul Paused, U.S. Softens Tone on Netanyahu</h3>
+<sub>By Patrick Kingsley</sub>
+<p>News that Prime Minister Benjamin Netanyahu would be welcomed in Washington came a day after the Israeli leader delayed plans to limit the power of the courts and signaled a calmer atmosphere.  <a href="https://nyti.ms/3JTdKZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>A Win for Israel’s Protesters</h3>
@@ -87,21 +93,21 @@ There is a lot of news happening around the world. In Israel, Prime Minister Ben
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Heavily Armed Assailant Kills Six at Christian School</h3>
-<sub>By Emily Cochrane, Ben Shpigel, Michael Levenson and Jesus Jiménez</sub>
-<p>The shooter was also killed after police officers responded on Monday morning at the Covenant School, the authorities said.  <a href="https://nyti.ms/40zjFcE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Nashville School Shooting</h3>
-<sub>By Adeel Hassan</sub>
-<p>A heavily armed assailant fatally shot six people, including three children, at a private elementary school. The motive for the shooting is under investigation.  <a href="https://nyti.ms/3LTcrMz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The head of the school and the daughter of the church’s pastor are among the dead.</h3>
 <sub>By Eliza Fawcett, Ruth Graham and Emily Cochrane</sub>
 <p>  <a href="https://nyti.ms/3JTbcut"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fire in Mexico Kills at Least 39 in Migration Center Near U.S. Border</h3>
+<sub>By Mike Ives, Euan Ward and Emiliano Rodríguez Mega</sub>
+<p>President Andrés Manuel López Obrador said the blaze at a National Migration Institute facility in Ciudad Juárez, a border city near Texas, was the result of a protest by migrants who were set to be deported.  <a href="https://nyti.ms/42PJfft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fed Vice Chair Calls Silicon Valley Bank a ‘Textbook Case of Mismanagement’</h3>
+<sub>By Jeanna Smialek and Emily Flitter</sub>
+<p>The Federal Reserve’s top bank cop blamed Silicon Valley Bank’s leaders, while previewing the central bank’s review of its faulty oversight.  <a href="https://nyti.ms/3z9ll0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -111,10 +117,10 @@ There is a lot of news happening around the world. In Israel, Prime Minister Ben
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>After Doling Out Huge Loans, China Is Now Bailing Out Countries</h3>
-<sub>By Keith Bradsher</sub>
-<p>Beijing is emerging as a new heavyweight in providing emergency funds to debt-ridden countries, catching up to the I.M.F. as a lender of last resort.  <a href="https://nyti.ms/3JNtVHC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<h3>Alibaba, China’s E-Commerce Giant, Will Split Into Six Units</h3>
+<sub>By Daisuke Wakabayashi</sub>
+<p>The major restructuring, a possible precursor to future I.P.O.s, was announced after Jack Ma, its founder, returned to mainland China after a yearlong absence.  <a href="https://nyti.ms/40mG3GG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Tinkering With ChatGPT, Workers Wonder: Will This Take My Job?</h3>
@@ -128,10 +134,10 @@ There is a lot of news happening around the world. In Israel, Prime Minister Ben
 <p>The former director of Europe’s largest nuclear facility describes abuse of Ukrainian workers and careless practices by the Russians who took control of the plant.  <a href="https://nyti.ms/3JRUsn4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Silicon Valley Bank’s Risks Went Deep. Congress Wants to Know Why.</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Lapses at the bank will be a focus as a top Federal Reserve official testifies to House and Senate committees this week.  <a href="https://nyti.ms/3Zh6b4x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A rare glimpse of Avdiivka reveals a ruined city where residents huddle in basements.</h3>
+<sub>By Yousur Al-Hlou and Masha Froliak</sub>
+<p>  <a href="https://nyti.ms/3TNJaEY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
