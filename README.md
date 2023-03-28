@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 28, Central Standard Time</p>
 <p>
-There has been a lot of news from around the world recently. In Israel, Prime Minister Netanyahu has made plans to weaken the country&#39;s judiciary, which sparked public unrest and led to President Biden intervening. In North Carolina, the state&#39;s Republican-controlled legislature has passed a bill expanding Medicaid access to low-income people. In Ukraine, there is concern that an offensive could lead to disaster at a nuclear plant. There was also a shooting in the US where the assailant killed six at a Christian school, and President Biden called for Congress to pass an assault weapons ban. Lastly, China has emerged as a powerful leader in providing emergency funds for debt-ridden countries.</p>
+It looks like things are pretty tense in Israel right now with Prime Minister Netanyahu attempting a difficult juggling act to keep both his far-right coalition and public opinion happy. In the US, President Biden is putting pressure on the Israeli government to abandon its plan to weaken the judiciary, and there was a tragic shooting at a Christian school that left six dead. Further away, China is giving huge loans to other countries and coming up as an important lender of last resort alongside groups like the IMF, while in Ukraine nuclear safety concerns have brought UN officials onsite. On a lighter note, South Carolina just made its third straight run to the Final Four in college basketball and North Carolina has decided to expand Medicaid after Republicans abandoned their opposition. Lastly, Rolling Fork, Mississippi is hoping for a full comeback after a tornado ravaged the town, with local officials vowing they will come back better than ever.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Attempts Another Juggling Act, Maybe His Toughest Yet</h3>
@@ -104,6 +104,12 @@ There has been a lot of news from around the world recently. In Israel, Prime Mi
 <p>Beijing is emerging as a new heavyweight in providing emergency funds to debt-ridden countries, catching up to the I.M.F. as a lender of last resort.  <a href="https://nyti.ms/3JNtVHC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Cities Are Buried in Debt, but They Keep Shoveling It On</h3>
+<sub>By Li Yuan</sub>
+<p>China has long pursued growth by public spending, even after the payoff has faded. Cities stuck with the bill are still spending — and cutting essential services.  <a href="https://nyti.ms/40nHlRE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.N. Official Heads to Ukrainian Nuclear Plant as Safety Fears Grow</h3>
 <sub>By Matthew Mpoke Bigg</sub>
@@ -126,12 +132,6 @@ There has been a lot of news from around the world recently. In Israel, Prime Mi
 <h3>Hoping for a Comeback in a Town With Little to Come Back To</h3>
 <sub>By Rick Rojas and Sarah Kramer Ozbun</sub>
 <p>Officials have vowed that Rolling Fork, Miss., ravaged by a tornado, will come back better than ever. But first people need food, water, shelter, medicine and life’s other necessities.  <a href="https://nyti.ms/3TL23Zn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Can a Machine Know That We Know What It Knows?</h3>
-<sub>By Oliver Whang</sub>
-<p>Some researchers claim that chatbots have developed theory of mind. But is that just our own theory of mind gone wild?  <a href="https://nyti.ms/3FVSLUN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
