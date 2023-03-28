@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 28, Central Standard Time</p>
 <p>
-It looks like things are pretty tense in Israel right now with Prime Minister Netanyahu attempting a difficult juggling act to keep both his far-right coalition and public opinion happy. In the US, President Biden is putting pressure on the Israeli government to abandon its plan to weaken the judiciary, and there was a tragic shooting at a Christian school that left six dead. Further away, China is giving huge loans to other countries and coming up as an important lender of last resort alongside groups like the IMF, while in Ukraine nuclear safety concerns have brought UN officials onsite. On a lighter note, South Carolina just made its third straight run to the Final Four in college basketball and North Carolina has decided to expand Medicaid after Republicans abandoned their opposition. Lastly, Rolling Fork, Mississippi is hoping for a full comeback after a tornado ravaged the town, with local officials vowing they will come back better than ever.</p>
+There is a lot of news happening around the world. In Israel, Prime Minister Benjamin Netanyahu is being pressured by the U.S. to delay an overhaul of the judicial system after protests have been organized by citizens. In the U.S., authorities responded to a heavily armed assailant at a Christian elementary school in Nashville and six people were killed, including three children. In China, cities are buried in debt but are continuing to spend heavily, while Beijing is providing emergency funds to other debt-ridden countries. Finally, in Ukraine, the former director of Europe&#39;s largest nuclear facility has spoken out about torture and turmoil there.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Attempts Another Juggling Act, Maybe His Toughest Yet</h3>
@@ -68,17 +68,23 @@ It looks like things are pretty tense in Israel right now with Prime Minister Ne
 <p>Israel’s prime minister, who has long thrived by pitting one force against another, is caught between his far-right coalition and public anger over the government’s plan to weaken the judiciary.  <a href="https://nyti.ms/3nrZ0sX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With Judicial Overhaul Paused, U.S. Offers Olive Branch to Netanyahu</h3>
+<sub>By Patrick Kingsley</sub>
+<p>News that Prime Minister Benjamin Netanyahu had been invited to Washington came a day after the Israeli leader delayed plans to limit the power of the courts and signaled a calmer atmosphere.  <a href="https://nyti.ms/3JTdKZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the U.S. Pressure Campaign Over Israel’s Judicial Overhaul</h3>
 <sub>By David E. Sanger</sub>
 <p>President Biden and his advisers bombarded the Israeli government with warnings that the country’s image as the sole democracy in the Middle East was at stake.  <a href="https://nyti.ms/3G0ddnh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Delays Bid to Overhaul Israel’s Judiciary as Protests Rage</h3>
-<sub>By Patrick Kingsley, Isabel Kershner and Eric Nagourney</sub>
-<p>The Israeli prime minister called for dialogue as civil unrest and work stoppages reached a crisis point, grinding the country to a halt.  <a href="https://nyti.ms/40I5Vwz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>A Win for Israel’s Protesters</h3>
+<sub>By German Lopez and Claire Moses</sub>
+<p>Demonstrations forced Israel’s prime minister to delay a judicial overhaul.  <a href="https://nyti.ms/3nfP5Xd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Heavily Armed Assailant Kills Six at Christian School</h3>
@@ -87,15 +93,21 @@ It looks like things are pretty tense in Israel right now with Prime Minister Ne
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Nashville School Shooting</h3>
+<sub>By Adeel Hassan</sub>
+<p>A heavily armed assailant fatally shot six people, including three children, at a private elementary school. The motive for the shooting is under investigation.  <a href="https://nyti.ms/3LTcrMz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The head of the school and the daughter of the church’s pastor are among the dead.</h3>
 <sub>By Eliza Fawcett, Ruth Graham and Emily Cochrane</sub>
 <p>  <a href="https://nyti.ms/3JTbcut"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden calls on Congress to pass an assault weapons ban. That is unlikely.</h3>
-<sub>By Katie Rogers</sub>
-<p>  <a href="https://nyti.ms/3Keb9uC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Cities Are Buried in Debt, but They Keep Shoveling It On</h3>
+<sub>By Li Yuan</sub>
+<p>China has long pursued growth by public spending, even after the payoff has faded. Cities stuck with the bill are still spending — and cutting essential services.  <a href="https://nyti.ms/40nHlRE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -105,34 +117,22 @@ It looks like things are pretty tense in Israel right now with Prime Minister Ne
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Cities Are Buried in Debt, but They Keep Shoveling It On</h3>
-<sub>By Li Yuan</sub>
-<p>China has long pursued growth by public spending, even after the payoff has faded. Cities stuck with the bill are still spending — and cutting essential services.  <a href="https://nyti.ms/40nHlRE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<h3>Tinkering With ChatGPT, Workers Wonder: Will This Take My Job?</h3>
+<sub>By Lydia DePillis and Steve Lohr</sub>
+<p>Artificial intelligence is confronting white-collar professionals more directly than ever. It could make them more productive — or obsolete.  <a href="https://nyti.ms/3JTBJrc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.N. Official Heads to Ukrainian Nuclear Plant as Safety Fears Grow</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>The official met with President Volodymyr Zelensky to discuss the Zaporizhzhia plant, amid worries that a Ukrainian offensive could raise the already-high risk of disaster.  <a href="https://nyti.ms/3KeztMX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<h3>Torture and Turmoil at Ukrainian Nuclear Plant: An Insider’s Account</h3>
+<sub>By Marc Santora</sub>
+<p>The former director of Europe’s largest nuclear facility describes abuse of Ukrainian workers and careless practices by the Russians who took control of the plant.  <a href="https://nyti.ms/3JRUsn4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>South Carolina Powers to a Third Straight Final Four. Virginia Tech Makes Its First.</h3>
-<sub>By Kris Rhim and Talya Minsberg</sub>
-<p>South Carolina wore down Maryland with its swarming defense, while Virginia Tech overpowered Ohio State to claim the last spot in Dallas.  <a href="https://nyti.ms/3nsq0IZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>North Carolina Expands Medicaid After Republicans Abandon Their Opposition</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>The state’s Democratic governor signed a bill expanding the health insurance program for low-income people days after the measure cleared the Republican-controlled legislature.  <a href="https://nyti.ms/3FVtnOO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hoping for a Comeback in a Town With Little to Come Back To</h3>
-<sub>By Rick Rojas and Sarah Kramer Ozbun</sub>
-<p>Officials have vowed that Rolling Fork, Miss., ravaged by a tornado, will come back better than ever. But first people need food, water, shelter, medicine and life’s other necessities.  <a href="https://nyti.ms/3TL23Zn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Silicon Valley Bank’s Risks Went Deep. Congress Wants to Know Why.</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Lapses at the bank will be a focus as a top Federal Reserve official testifies to House and Senate committees this week.  <a href="https://nyti.ms/3Zh6b4x"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
