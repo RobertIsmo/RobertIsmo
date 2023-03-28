@@ -60,24 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, March 27, Central Standard Time</p>
 <p>
-The world is very turbulent right now. In Israel, there are huge protests and clashes with the police in Jerusalem. Ukraine is working to rebuild a colossal plane destroyed in a battle for its airfield last year. And, former National Enquirer publisher has been testifying in the case against former president Trump. On the sports side, we have an unexpected Final Four in women&#39;s basketball and L.S.U got past its cold shooting to advance too. There are also issues of natural disasters in California&#39;s Central Valley where emergency crews are racing to save farms. Meanwhile, research on chatbots has unveiled interesting insights on theories of mind and machine learning. In other news, there is a discussion on how penmanship has become obsolete and advice on building college rankings.</p>
+In the US, Biden is calling on Congress to pass an assault weapons ban, which seems unlikely. In Israel, there are civil unrest and work stoppages due to Prime Minister Netanyahu attempting to overhaul the judiciary, which he has recently delayed. The US has been pressuring Israel over this move and there have been major protests against it. In China, they are bailing out countries that are in debt instead of offering loans like the IMF would. A U.N. official has gone the Ukraine to visit a nuclear plant where there is potential for disaster due to their offensive. Esther Perel is podcasting-famous and trying to conquer new platforms while seeing patients. In the NCAA Men&#39;s Basketball Tournament final four, we have Connecticut, Florida Atlantic, San Diego State, and Miami representing each respectively. North Carolina expanded its Medicaid program after Republican opposition was defeated in their legislature. Rolling Fork, Miss., is still in need of assistance after being struck by a tornado recently. Finally in tech, there is a weeklong series on how to become an expert at A.I.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>It is rare for a woman to commit a mass shooting.</h3>
-<sub>By Emily Schmall</sub>
-<p>In a database of 172 U.S. shootings involving at least four victims over the last five and a half decades, only 4 of the perpetrators were female.  <a href="https://nyti.ms/40AZ1Jm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden calls on Congress to pass an assault weapons ban. That is unlikely.</h3>
+<sub>By Katie Rogers</sub>
+<p>  <a href="https://nyti.ms/3Keb9uC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Netanyahu Delays Bid to Overhaul Israel’s Judiciary as Protests Rage</h3>
+<sub>By Patrick Kingsley, Isabel Kershner and Eric Nagourney</sub>
+<p>The Israeli prime minister called for dialogue as civil unrest and work stoppages reached a crisis point, grinding the country to a halt.  <a href="https://nyti.ms/40I5Vwz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the U.S. Pressure Campaign Over Israel’s Judicial Overhaul</h3>
+<sub>By David E. Sanger</sub>
+<p>President Biden and his advisers bombarded the Israeli government with warnings that the country’s image as the sole democracy in the Middle East was at stake.  <a href="https://nyti.ms/3G0ddnh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Unrest Surges in Israel: Videos and Photos</h3>
 <sub>By Agnes Chang, Shawn Paik, Maud Bodoukian, Mona Boshnaq, Lauren Leatherby and Matej Leskovsek</sub>
-<p>Protesters blocked a major highway and lit bonfires in Tel Aviv and clashed with police in Jerusalem.  <a href="https://nyti.ms/3FUk2Xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Major protests continued into a second day as Netanyahu announced he would delay a plan to overhaul Israel’s judiciary.  <a href="https://nyti.ms/3FUk2Xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>After Doling Out Huge Loans, China Is Now Bailing Out Countries</h3>
+<sub>By Keith Bradsher</sub>
+<p>Beijing is emerging as a new heavyweight in providing emergency funds to debt-ridden countries, catching up to the I.M.F. as a lender of last resort.  <a href="https://nyti.ms/3JNtVHC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Restoring a Giant Plane: Ukrainian Resilience or Folly?</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Ukraine, with far more pressing needs, plans to rebuild the colossal Mriya cargo plane, a symbol of pride that was destroyed last year in a battle for its airfield.  <a href="https://nyti.ms/40kXOpL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.N. Official Heads to Ukrainian Nuclear Plant as Safety Fears Grow</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The official met with President Volodymyr Zelensky to discuss the Zaporizhzhia plant, amid worries that a Ukrainian offensive could raise the already-high risk of disaster.  <a href="https://nyti.ms/3KeztMX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -86,28 +104,22 @@ The world is very turbulent right now. In Israel, there are huge protests and cl
 <p>She is podcasting-famous, considered a “crossover breakthrough artist” by other therapists — and still trying to both see patients and conquer new platforms.  <a href="https://nyti.ms/42JegBN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Former National Enquirer Publisher Testifies Again in Trump Inquiry</h3>
-<sub>By William K. Rashbaum, Kate Christobek, Ben Protess and Jonah E. Bromwich</sub>
-<p>The grand jury investigating a hush-money case against the former president met again on Monday, but the timing of any potential indictment remained unclear.  <a href="https://nyti.ms/40iRWxb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>The Final Four That Nobody Could Have Expected</h3>
 <sub>By Billy Witz</sub>
 <p>Connecticut has a pedigree but hasn’t made a deep run since 2014. Florida Atlantic plays in a small gym on a campus that’s an owl sanctuary. San Diego State got in on a free throw. And Miami’s coach likes his self-help advice.  <a href="https://nyti.ms/3LXwmKm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Caitlin Clark Powers Iowa to the Final Four, While L.S.U. Gets Past Its Cold Shooting</h3>
-<sub>By Talya Minsberg and Kris Rhim</sub>
-<p>Clark delivered a 41-point triple-double against Louisville to take Iowa to its second Final Four; Angel Reese recorded her 32nd double-double of the season to propel L.S.U. over Miami.  <a href="https://nyti.ms/42Kpd5Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>North Carolina Expands Medicaid After Republicans Abandon Their Opposition</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>The state’s Democratic governor signed a bill expanding the health insurance program for low-income people days after the measure cleared the Republican-controlled legislature.  <a href="https://nyti.ms/3FVtnOO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Scramble to Save California’s Heartland</h3>
-<sub>By Mark Abramson and Adeel Hassan</sub>
-<p>Recent storms have walloped the Central Valley’s system of reservoirs, dams and levees, leaving no place for excess water to go. Farmers and emergency crews are racing to save the region’s farms.  <a href="https://nyti.ms/3FXisnU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Hoping for a Comeback in a Town With Nothing to Come Back To</h3>
+<sub>By Rick Rojas and Sarah Kramer Ozbun</sub>
+<p>Officials have vowed that Rolling Fork, Miss., ravaged by a tornado, will come back better than ever. But first people need food, water, shelter, medicine and life’s other necessities.  <a href="https://nyti.ms/3TL23Zn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -120,18 +132,6 @@ The world is very turbulent right now. In Israel, there are huge protests and cl
 <h3>How to Become an Expert on A.I.</h3>
 <sub>By Kevin Roose and Cade Metz</sub>
 <p>Part 1 of our weeklong series.  <a href="https://nyti.ms/3LTvVAG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>What Killed Penmanship?</h3>
-<sub>By Isabella Paoletto</sub>
-<p>We’re all texters and typers now, so if you can’t read that grocery list you scrawled, you are not alone.  <a href="https://nyti.ms/3z3mp6m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Build Your Own College Rankings</h3>
-<sub>By Quoctrung Bui and Jessia Ma</sub>
-<p>The values that you care about most should inform your top college choices.  <a href="https://nyti.ms/40gOweD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
