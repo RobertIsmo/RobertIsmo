@@ -58,12 +58,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, March 27, Central Standard Time</p>
+<p>It is Tuesday, March 28, Central Standard Time</p>
 <p>
-There is an ongoing crisis in Israel, where Prime Minister Netanyahu has proposed a controversial plan to overhaul the judicial system and faced large protests, work stoppages, and civil unrest as a result. In other worldwide news, there is a U.N. official in Ukraine heading to investigate a nuclear plant, amid worries that increased military activity could lead to a disaster. 
-
-Here in the US, Joe Biden is calling on Congress to pass an assault weapons ban that seems unlikely, while North Carolina has just passed Medicaid expansion after long-standing Republican opposition. Lastly, scientists are trying to figure out if machines can now understand the concept of knowledge and its implications.</p>
+There has been a lot of news from around the world recently. In Israel, Prime Minister Netanyahu has made plans to weaken the country&#39;s judiciary, which sparked public unrest and led to President Biden intervening. In North Carolina, the state&#39;s Republican-controlled legislature has passed a bill expanding Medicaid access to low-income people. In Ukraine, there is concern that an offensive could lead to disaster at a nuclear plant. There was also a shooting in the US where the assailant killed six at a Christian school, and President Biden called for Congress to pass an assault weapons ban. Lastly, China has emerged as a powerful leader in providing emergency funds for debt-ridden countries.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Netanyahu Attempts Another Juggling Act, Maybe His Toughest Yet</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Israel’s prime minister, who has long thrived by pitting one force against another, is caught between his far-right coalition and public anger over the government’s plan to weaken the judiciary.  <a href="https://nyti.ms/3nrZ0sX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the U.S. Pressure Campaign Over Israel’s Judicial Overhaul</h3>
+<sub>By David E. Sanger</sub>
+<p>President Biden and his advisers bombarded the Israeli government with warnings that the country’s image as the sole democracy in the Middle East was at stake.  <a href="https://nyti.ms/3G0ddnh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Netanyahu Delays Bid to Overhaul Israel’s Judiciary as Protests Rage</h3>
+<sub>By Patrick Kingsley, Isabel Kershner and Eric Nagourney</sub>
+<p>The Israeli prime minister called for dialogue as civil unrest and work stoppages reached a crisis point, grinding the country to a halt.  <a href="https://nyti.ms/40I5Vwz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Heavily Armed Assailant Kills Six at Christian School</h3>
+<sub>By Emily Cochrane, Ben Shpigel, Michael Levenson and Jesus Jiménez</sub>
+<p>The shooter was also killed after police officers responded on Monday morning at the Covenant School, the authorities said.  <a href="https://nyti.ms/40zjFcE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The head of the school and the daughter of the church’s pastor are among the dead.</h3>
 <sub>By Eliza Fawcett, Ruth Graham and Emily Cochrane</sub>
@@ -74,24 +96,6 @@ Here in the US, Joe Biden is calling on Congress to pass an assault weapons ban 
 <h3>Biden calls on Congress to pass an assault weapons ban. That is unlikely.</h3>
 <sub>By Katie Rogers</sub>
 <p>  <a href="https://nyti.ms/3Keb9uC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Delays Bid to Overhaul Israel’s Judiciary as Protests Rage</h3>
-<sub>By Patrick Kingsley, Isabel Kershner and Eric Nagourney</sub>
-<p>The Israeli prime minister called for dialogue as civil unrest and work stoppages reached a crisis point, grinding the country to a halt.  <a href="https://nyti.ms/40I5Vwz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the U.S. Pressure Campaign Over Israel’s Judicial Overhaul</h3>
-<sub>By David E. Sanger</sub>
-<p>President Biden and his advisers bombarded the Israeli government with warnings that the country’s image as the sole democracy in the Middle East was at stake.  <a href="https://nyti.ms/3G0ddnh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Unrest Surges in Israel: Videos and Photos</h3>
-<sub>By Agnes Chang, Shawn Paik, Maud Bodoukian, Mona Boshnaq, Lauren Leatherby and Matej Leskovsek</sub>
-<p>Major protests continued into a second day as Netanyahu announced he would delay a plan to overhaul Israel’s judiciary.  <a href="https://nyti.ms/3FUk2Xq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -106,16 +110,10 @@ Here in the US, Joe Biden is calling on Congress to pass an assault weapons ban 
 <p>The official met with President Volodymyr Zelensky to discuss the Zaporizhzhia plant, amid worries that a Ukrainian offensive could raise the already-high risk of disaster.  <a href="https://nyti.ms/3KeztMX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Esther Perel’s Business Is Your Business</h3>
-<sub>By Sarah Lyall</sub>
-<p>She is podcasting-famous, considered a “crossover breakthrough artist” by other therapists — and still trying to both see patients and conquer new platforms.  <a href="https://nyti.ms/42JegBN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>South Carolina Pulls Away From Maryland for 3rd Straight Final Four</h3>
-<sub>By Kris Rhim</sub>
-<p>Maryland led after a quarter, but the Gamecocks wore down the Terrapins with their swarming defense. South Carolina will face Iowa in a national semifinal.  <a href="https://nyti.ms/3nsq0IZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>South Carolina Powers to a Third Straight Final Four. Virginia Tech Makes Its First.</h3>
+<sub>By Kris Rhim and Talya Minsberg</sub>
+<p>South Carolina wore down Maryland with its swarming defense, while Virginia Tech overpowered Ohio State to claim the last spot in Dallas.  <a href="https://nyti.ms/3nsq0IZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
