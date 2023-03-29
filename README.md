@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 29, Central Standard Time</p>
 <p>
-There&#39;s a lot happening around the world right now. In Mexico, cities are flooded with migrants who were turned away from the US, many of them desperate. In the US, former President Donald Trump&#39;s legal team is facing setbacks as the judge ordering Vice President Mike Pence to testify in front of a grand jury investigating Mr. Trump. Donald Trump is also facing potential indictment in the hush-money probe and President Biden has sadly accepted his powerlessness to act on gun control measures without Congress. In Israel, there&#39;s been a lot of turmoil as lawmakers try to settle a plan for judicial reform, and Carlos Moreno, a professor researching urban planning concepts, is facing conspiracy theories and death threats as a result of his work. And finally, in Ukraine there are still holdouts living among ruins and explosions on the front lines despite even more destruction.</p>
+There are a lot of difficult issues happening around the world right now. At the border between the United States and Mexico, a deadly fire has killed dozens of migrants who have been turned away from entering the US. In response, the US government has allegedly created a volatile logjam in Mexico, leading to thousands of desperate refugees being left without access to basic necessities like food and shelter. 
+
+Back in the US, former President Donald Trump is facing potential indictment after a grand jury was set up to investigate him for wrongdoing that occurred on January 6th. Meanwhile, President Joe Biden is pledging to take executive action on gun reform but conceded he can’t do this without Congressional approval. And sadly, there was recently a deadly mass shooting at a school in Nashville that punctured their sense of sanctuary and security. 
+
+Outside of the US, tensions between Israel and the US have bursted into open over a judicial overhall that Prime Minister Benjamin Netanyayu insists on pursuing even though President Biden has spoken out against it. And Taiwanese President Tsai Ing-wen is heading to the US for an exchange with Speaker Kevin McCarthy, knowing full well that Beijing will react harshly in response. Lastly, some federal regulators are criticizing bank executives and vowing to reform Federal Reserve oversight due to an incident on March 10th. </p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Migrants’ Desperation Mounts at the Border, a Fire Kills Dozens</h3>
@@ -110,28 +114,28 @@ There&#39;s a lot happening around the world right now. In Mexico, cities are fl
 <p>After days of turmoil, lawmakers began tentative efforts to find common ground on a government plan to overhaul the judiciary that has divided Israelis.  <a href="https://nyti.ms/3JTdKZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S.-Israel Tensions Over Judicial Overhaul Burst Into Open</h3>
+<sub>By Isabel Kershner</sub>
+<p>In response to sharp criticism by President Biden, Prime Minister Benjamin Netanyahu said that Israel would make its own decisions.  <a href="https://nyti.ms/3TRJh2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>He Wanted to Unclog Cities. Now He’s ‘Public Enemy No. 1.’</h3>
 <sub>By Tiffany Hsu</sub>
 <p>Researchers like Carlos Moreno, the professor behind a popular urban planning concept, are struggling with conspiracy theories and death threats.  <a href="https://nyti.ms/40IAdPD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Taiwan’s President Heads to the U.S., Bracing for China’s Retaliation</h3>
+<sub>By Amy Chang Chien and Chris Horton</sub>
+<p>President Tsai Ing-wen is expected to meet Speaker Kevin McCarthy next week, risking a show of force from Beijing, which opposes any such exchanges.  <a href="https://nyti.ms/40EVSJ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Federal Regulators Criticize Bank Executives and Pledge Reviews</h3>
 <sub>By Jeanna Smialek</sub>
 <p>Officials blamed executives at Silicon Valley Bank for its failure on March 10, while adding that Federal Reserve oversight is in for a revamp.  <a href="https://nyti.ms/3lKVKbM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Court Reinstates Adnan Syed’s Murder Conviction in ‘Serial’ Case and Orders New Hearing</h3>
-<sub>By Michael Levenson and Abbie VanSickle</sub>
-<p>The Appellate Court of Maryland ruled that a lower court had violated the right of the victim’s brother to have been notified of and to attend a hearing.  <a href="https://nyti.ms/3KhdXXV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid Ruins and Explosions, Some Ukrainians Refuse to Leave Home</h3>
-<sub>By Yousur Al-Hlou and Masha Froliak</sub>
-<p>In Avdiivka, as in Bakhmut and other devastated places on the front lines, most residents left long ago, but there are holdouts.  <a href="https://nyti.ms/42QH9vS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
