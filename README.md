@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 29, Central Standard Time</p>
 <p>
-There are a lot of important developments happening around the world right now. In the U.S., Michigan Democrats are trying to turn a battleground state blue, while Republicans are facing pushback from efforts to tighten voting laws on college campuses. In New York, there&#39;s controversy over an effort by the governor to force suburban areas to build more housing to help with a housing crisis. In India, Prime Minister Narendra Modi is facing criticism for sidelining political opponents and more broadly, there&#39;s worry about unchecked power wielded by the Supreme Court. Meanwhile, in Israel there&#39;s tension between the U.S. and Prime Minister Benjamin Netanyahu over an effort by Netanyahu&#39;s government to overhaul the judiciary system, which U.S. President Biden has sharply criticized. In Ukraine, their steel industry has galvanized a war effort against Russia and here in the U.S., six people were tragically killed in a school shooting in Nashville recently and people around the country are reflecting on how gun violence has impacted their outlook and choices in life. Lastly, a woman in Connecticut has turned to Vermont for help so she can die on her own terms since Connecticut does not allow medical aid in dying, prompting local legislators to make the practice more broadly available.</p>
+There is a lot happening in the world right now. In the United States, Michigan Democrats are rising and trying to turn a crucial battleground state blue. Republicans are facing setbacks in their attempts to enforce stricter voting laws on college campuses, and there are growing tensions between the Democratic-led House of Representatives and Governor Hochul about climate change legislation. In India, Prime Minister Narendra Modi has consolidated his power over political opponents, while the US Senate has voted to repeal Iraq military authorizations from decades ago. Meanwhile in Ukraine, steel factories are scrambling to support their war effort, while gun violence in America tears apart communities like Nashville and brings attention to society-wide issues. Finally, technology leaders are calling for a pause on Artificial Intelligence due to the profound risks it poses to society.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Michigan Democrats Rise, and Try to Turn a Battleground Blue</h3>
@@ -80,10 +80,22 @@ There are a lot of important developments happening around the world right now. 
 <p>The governor’s quest, to force suburbs around New York City to build more housing, is meeting with resistance.  <a href="https://nyti.ms/3LWSXa5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Rare Show of Force, House Democrats Pressure Hochul on Climate Bill</h3>
+<sub>By Grace Ashford</sub>
+<p>Several House members, including Jerrold Nadler and Alexandria Ocasio-Cortez, are pushing the governor to fully support a climate policy proposed by the left-leaning Legislature.  <a href="https://nyti.ms/3KeuJGV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Modi’s Power to Sideline Challengers Is Only Growing</h3>
 <sub>By Mujib Mashal, Suhasini Raj and Karan Deep Singh</sub>
 <p>The ouster from Parliament of India’s best-known opposition leader shows how Prime Minister Narendra Modi’s party is manipulating the judiciary, critics say.  <a href="https://nyti.ms/42QIX85"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>G.O.P. Lawmakers Override Kentucky Governor’s Veto on Anti-Trans Laws</h3>
+<sub>By Campbell Robertson</sub>
+<p>Republican legislators voted overwhelmingly on Wednesday to enact a bill that places new restrictions on transgender youth, including banning access to transition care.  <a href="https://nyti.ms/3TRfWVZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -91,12 +103,6 @@ There are a lot of important developments happening around the world right now. 
 <sub>By Isabel Kershner</sub>
 <p>In response to sharp criticism by President Biden, Prime Minister Benjamin Netanyahu said that Israel would make its own decisions.  <a href="https://nyti.ms/3TRJh2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Israeli Government’s Plan to Overhaul the Judiciary: What to Know</h3>
-<sub>By Patrick Kingsley and Isabel Kershner</sub>
-<p>Prime Minister Benjamin Netanyahu’s right-wing government contends the Supreme Court has unchecked power, but critics of the proposal say it goes too far.  <a href="https://nyti.ms/40CHJLP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Decades Later, Senate Votes to Repeal Iraq Military Authorizations</h3>
@@ -116,22 +122,16 @@ There are a lot of important developments happening around the world right now. 
 <p>As investigators searched for a motive in the killing of six people at the Covenant School in Nashville, the close-knit community there was struggling with the enormity of its loss.  <a href="https://nyti.ms/3JR2sF8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Nashville School Shooting</h3>
-<sub>By Adeel Hassan</sub>
-<p>Investigators were still searching for a motive in the killing of six people at the Covenant School. The police said the assailant was being treated for an emotional disorder.  <a href="https://nyti.ms/3zdpLEf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>Gun Violence Has Changed Us</h3>
 <sub>By Christina Caron</sub>
 <p>Times readers share how rising gun deaths across the country have affected their outlook — and, in some cases, their life choices.  <a href="https://nyti.ms/3zafKrg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>To Die on Her Own Terms, a Connecticut Woman Turns to Vermont</h3>
-<sub>By Lola Fadulu</sub>
-<p>Connecticut does not allow medical aid in dying, so Lynda Bluestein sued Vermont to take advantage of that state’s law. Now, legislators may make the practice more broadly available.  <a href="https://nyti.ms/40BJB7S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Elon Musk and Others Call for Pause on A.I., Citing ‘Profound Risks to Society’</h3>
+<sub>By Cade Metz and Gregory Schmidt</sub>
+<p>More than 1,000 tech leaders, researchers and others signed an open letter urging a moratorium on the development of the most powerful artificial intelligence systems.  <a href="https://nyti.ms/3ZpIxTp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
