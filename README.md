@@ -59,13 +59,39 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 29, Central Standard Time</p>
-<p>
-There are a lot of difficult issues happening around the world right now. At the border between the United States and Mexico, a deadly fire has killed dozens of migrants who have been turned away from entering the US. In response, the US government has allegedly created a volatile logjam in Mexico, leading to thousands of desperate refugees being left without access to basic necessities like food and shelter. 
-
-Back in the US, former President Donald Trump is facing potential indictment after a grand jury was set up to investigate him for wrongdoing that occurred on January 6th. Meanwhile, President Joe Biden is pledging to take executive action on gun reform but conceded he can’t do this without Congressional approval. And sadly, there was recently a deadly mass shooting at a school in Nashville that punctured their sense of sanctuary and security. 
-
-Outside of the US, tensions between Israel and the US have bursted into open over a judicial overhall that Prime Minister Benjamin Netanyayu insists on pursuing even though President Biden has spoken out against it. And Taiwanese President Tsai Ing-wen is heading to the US for an exchange with Speaker Kevin McCarthy, knowing full well that Beijing will react harshly in response. Lastly, some federal regulators are criticizing bank executives and vowing to reform Federal Reserve oversight due to an incident on March 10th. </p>
+<p> 
+There have been some tense relations between the U.S. and Israel recently over a judicial overhaul, with some disagreements between President Biden and Prime Minister Benjamin Netanyahu. Here in the U.S., Republicans are facing losses in their push to impose tighter voting laws on college campuses due to young people who mostly vote Democrat. In Taiwan, President Tsai Ing-wen is taking a risk by meeting with Speaker Kevin McCarthy as China opposes any exchanges. Meanwhile, Ukraine has had its steel industry helping with their war efforts while simultaneously providing body armor, helmets, and armored plates for vehicles. Mexico is contending with an overwhelming number of migrants stuck at the border due to the US&#39;s efforts to keep it secure. In a related story, dozens died in a fire at the same location resulting from this desperation of migrants. There was also a tragic shooting at a school in Nashville that left six dead prompting an investigation into the causes and emotional disorder of the shooter. A Connecticut woman has sued Vermont to take advantage of their medical aid in dying law because it&#39;s not allowed in Connecticut. Former Vice President Pence was ruled to have to testify in front of a grand jury about what happened on January 6th in Washington DC. And lastly, Donald Trump could potentially be indicted for hush-money investigations but specifics on timing remain unknown.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S.-Israel Tensions Over Judicial Overhaul Burst Into Open</h3>
+<sub>By Isabel Kershner</sub>
+<p>In response to sharp criticism by President Biden, Prime Minister Benjamin Netanyahu said that Israel would make its own decisions.  <a href="https://nyti.ms/3TRJh2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Face Setbacks in Push to Tighten Voting Laws on College Campuses</h3>
+<sub>By Neil Vigdor</sub>
+<p>Party officials across the country have sought to erect more barriers for young voters, who tilt heavily Democratic, after several cycles in which their turnout surged.  <a href="https://nyti.ms/40stKc2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Taiwan’s President Heads to the U.S., Bracing for China’s Retaliation</h3>
+<sub>By Amy Chang Chien and Chris Horton</sub>
+<p>President Tsai Ing-wen is expected to meet Speaker Kevin McCarthy next week, risking a show of force from Beijing, which opposes any such exchanges.  <a href="https://nyti.ms/40EVSJ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Ukraine’s Battered Steel Industry Galvanized Its War Effort</h3>
+<sub>By Finbarr O’Reilly</sub>
+<p>The iron- and steel-producing factories of Ukraine’s rust belt have made body armor, helmets and armored plates for vehicles — and steelworkers risked their lives rolling out heavy machinery at the beginning of the war to help physically block the Russian advance.  <a href="https://nyti.ms/40p4u6p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Border Policies Have Created a Volatile Logjam in Mexico</h3>
+<sub>By Miriam Jordan and Edgar Sandoval</sub>
+<p>As the United States has cracked down on border entries, Mexico is bearing the burden of housing and feeding tens of thousands of desperate migrants.  <a href="https://nyti.ms/3lTkXAH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Migrants’ Desperation Mounts at the Border, a Fire Kills Dozens</h3>
 <sub>By Rocío Gallegos, Natalie Kitroeff, Emiliano Rodríguez Mega and Simon Romero</sub>
@@ -73,10 +99,22 @@ Outside of the US, tensions between Israel and the US have bursted into open ove
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Border Policies Have Created a Volatile Logjam in Mexico</h3>
-<sub>By Miriam Jordan and Edgar Sandoval</sub>
-<p>As the United States has cracked down on border entries, Mexico is bearing the burden of housing and feeding tens of thousands of desperate migrants.  <a href="https://nyti.ms/3lTkXAH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Place of Sanctuary Is Punctured by the Reality of Gun Violence in America</h3>
+<sub>By Emily Cochrane, Eliza Fawcett, Jesus Jiménez and Rick Rojas</sub>
+<p>As investigators searched for a motive in the killing of six people at the Covenant School in Nashville, the close-knit community there was struggling with the enormity of its loss.  <a href="https://nyti.ms/3JR2sF8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Nashville School Shooting</h3>
+<sub>By Adeel Hassan</sub>
+<p>Investigators were still searching for a motive in the killing of six people at the Covenant School. The police said the assailant was being treated for an emotional disorder.  <a href="https://nyti.ms/3zdpLEf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>To Die on Her Own Terms, a Connecticut Woman Turns to Vermont</h3>
+<sub>By Lola Fadulu</sub>
+<p>Connecticut does not allow medical aid in dying, so Lynda Bluestein sued Vermont to take advantage of that state’s law. Now, legislators may make the practice more broadly available.  <a href="https://nyti.ms/40BJB7S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pence Must Testify to Jan. 6 Grand Jury, Judge Rules</h3>
@@ -90,53 +128,11 @@ Outside of the US, tensions between Israel and the US have bursted into open ove
 <p>The grand jury that is hearing evidence in the hush-money investigation might not meet on Wednesday, and the timing of any potential indictment remains unknown.  <a href="https://nyti.ms/3ZX4bz6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Place of Sanctuary Is Punctured by the Reality of Gun Violence in America</h3>
-<sub>By Emily Cochrane, Eliza Fawcett, Jesus Jiménez and Rick Rojas</sub>
-<p>As investigators searched for a motive in the killing of six people at the Covenant School in Nashville, the close-knit community there was struggling with the enormity of its loss.  <a href="https://nyti.ms/3JR2sF8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Concedes He Is Powerless to Act on Guns Without Congress</h3>
-<sub>By Michael D. Shear</sub>
-<p>“I have gone the full extent of my executive authority to do, on my own, anything about guns,” President Biden said.  <a href="https://nyti.ms/40Myjh3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Nashville shooting response draws comparisons to Uvalde, but there are key differences.</h3>
-<sub>By J. David Goodman</sub>
-<p>In both instances, officers rushed to the scenes and immediately entered the schools. But the situations that they confronted were not the same.  <a href="https://nyti.ms/3G0QqYF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Judicial Overhaul on Hold, Israeli Negotiators Seek Compromise</h3>
-<sub>By Patrick Kingsley</sub>
-<p>After days of turmoil, lawmakers began tentative efforts to find common ground on a government plan to overhaul the judiciary that has divided Israelis.  <a href="https://nyti.ms/3JTdKZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S.-Israel Tensions Over Judicial Overhaul Burst Into Open</h3>
-<sub>By Isabel Kershner</sub>
-<p>In response to sharp criticism by President Biden, Prime Minister Benjamin Netanyahu said that Israel would make its own decisions.  <a href="https://nyti.ms/3TRJh2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Incredible Challenge of Counting Every Global Birth and Death</h3>
+<sub>By Jeneen Interlandi</sub>
+<p>In rural Colombia, as in many parts of the world, tallying births and deaths is one of the most desperately needed public-health measures. It’s a lot harder than it sounds.  <a href="https://nyti.ms/3zg2vW3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>He Wanted to Unclog Cities. Now He’s ‘Public Enemy No. 1.’</h3>
-<sub>By Tiffany Hsu</sub>
-<p>Researchers like Carlos Moreno, the professor behind a popular urban planning concept, are struggling with conspiracy theories and death threats.  <a href="https://nyti.ms/40IAdPD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Taiwan’s President Heads to the U.S., Bracing for China’s Retaliation</h3>
-<sub>By Amy Chang Chien and Chris Horton</sub>
-<p>President Tsai Ing-wen is expected to meet Speaker Kevin McCarthy next week, risking a show of force from Beijing, which opposes any such exchanges.  <a href="https://nyti.ms/40EVSJ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Federal Regulators Criticize Bank Executives and Pledge Reviews</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Officials blamed executives at Silicon Valley Bank for its failure on March 10, while adding that Federal Reserve oversight is in for a revamp.  <a href="https://nyti.ms/3lKVKbM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
