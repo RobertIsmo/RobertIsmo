@@ -58,8 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, March 28, Central Standard Time</p>
-<p>Things in the world have been a bit chaotic lately. There&#39;s been a lot of suffering at the US-Mexico border, where Mexico is facing a logjam of desperate migrants coming from the US and other countries. In the US itself, Donald Trump is under investigation for hush-money and there&#39;s a ruling for Vice-President Pence to testify to a grand jury related to the January 6th Capitol riots. An impactful shooting occurred in a Nashville school and an Israeli government plan to restructure its judiciary has caused turmoil. As if all this isn&#39;t enough, Carlos Moreno, a professor behind an important urban planning concept has been receiving death threats and US bank executives have come under scrutiny with potential reviews on the horizon. Finally, some inhabitants in Ukrainian towns destroyed by shelling are refusing to evacuate their homes in spite of danger.</p>
+<p>It is Wednesday, March 29, Central Standard Time</p>
+<p>
+There&#39;s a lot happening around the world right now. In Mexico, cities are flooded with migrants who were turned away from the US, many of them desperate. In the US, former President Donald Trump&#39;s legal team is facing setbacks as the judge ordering Vice President Mike Pence to testify in front of a grand jury investigating Mr. Trump. Donald Trump is also facing potential indictment in the hush-money probe and President Biden has sadly accepted his powerlessness to act on gun control measures without Congress. In Israel, there&#39;s been a lot of turmoil as lawmakers try to settle a plan for judicial reform, and Carlos Moreno, a professor researching urban planning concepts, is facing conspiracy theories and death threats as a result of his work. And finally, in Ukraine there are still holdouts living among ruins and explosions on the front lines despite even more destruction.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Migrants’ Desperation Mounts at the Border, a Fire Kills Dozens</h3>
@@ -92,9 +93,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Body camera footage shows officers racing through the school to find the shooter.</h3>
-<sub>By Emily Cochrane</sub>
-<p>An officer turns a corner and spots the assailant, who he shoots several times, the footage from his body camera shows.  <a href="https://nyti.ms/3LYuIrP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Concedes He Is Powerless to Act on Guns Without Congress</h3>
+<sub>By Michael D. Shear</sub>
+<p>“I have gone the full extent of my executive authority to do, on my own, anything about guns,” President Biden said.  <a href="https://nyti.ms/40Myjh3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
