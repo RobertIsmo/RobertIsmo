@@ -60,12 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, March 28, Central Standard Time</p>
 <p>
-Right now, it seems like a lot is happening in the world. In the US, former vice president Mike Pence has been ordered to testify to a grand jury over the events of January 6th while President Biden admitted that he cannot act on gun control without help from Congress. In Israel, Prime Minister Netanyahu is struggling to keep order within his own coalition amid a plan to weaken judicial power. This movement is drawing comparisons to other democracies that have gone in this direction. Meanwhile, there was a tragic fire in Mexico near the US border which killed 39 people at a migrant center. In other news, senators are questioning federal regulators over two bank failures while one Federal Reserve official believes the troubles spell an upcoming recession. Lastly, an antiwar father and daughter in Russia have been separated over their criticism of the war in Ukraine, and in anticipation of the coronation of King Charles, many look-alikes are enjoying newfound popularity.</p>
+There have been some heartbreaking stories in the news recently. In Mexico, a fire has killed dozens of migrants who were fleeing to the United States for a better life. At the border, U.S. policies have created an increasingly volatile situation for people looking for a way into the country. Meanwhile, in the U.S., former President Donald Trump is facing further legal trouble and there is speculation that he may be indicted soon. On top of all this, there has been a tragic shooting at a school in Nashville, and a court decision reinstating the murder conviction of Adnan Syed from &quot;Serial.&quot; Finally, there are ongoing conflicts in Ukraine and Israel that have caused displacement and devastation. It&#39;s really sad what&#39;s happening in our world right now.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Migrants’ Desperation Mounts at the Border, a Fire Kills Dozens</h3>
+<sub>By Rocío Gallegos, Natalie Kitroeff, Emiliano Rodríguez Mega and Simon Romero</sub>
+<p>The fatal blaze comes as border cities across Mexico have been flooded with migrants turned back from the United States and more arriving from other countries.  <a href="https://nyti.ms/42PJfft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Border Policies Have Created a Volatile Logjam in Mexico</h3>
+<sub>By Miriam Jordan and Edgar Sandoval</sub>
+<p>As the United States has cracked down on border entries, Mexico is bearing the burden of housing and feeding tens of thousands of desperate migrants.  <a href="https://nyti.ms/3lTkXAH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pence Must Testify to Jan. 6 Grand Jury, Judge Rules</h3>
 <sub>By Alan Feuer and Maggie Haberman</sub>
 <p>The ruling in Washington was the latest setback to efforts by former President Donald J. Trump’s legal team to limit testimony to grand juries investigating him on various matters.  <a href="https://nyti.ms/3JVdVDH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What We Know About the Potential Indictment of Donald Trump</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
+<p>The grand jury that is hearing evidence in the hush-money investigation might not meet on Wednesday, and the timing of any potential indictment remains unknown.  <a href="https://nyti.ms/3ZX4bz6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Place of Sanctuary Is Punctured by the Reality of Gun Violence in America</h3>
+<sub>By Emily Cochrane, Eliza Fawcett, Jesus Jiménez and Rick Rojas</sub>
+<p>As investigators searched for a motive in the killing of six people at the Covenant School in Nashville, the close-knit community there was struggling with the enormity of its loss.  <a href="https://nyti.ms/3JR2sF8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,63 +99,39 @@ Right now, it seems like a lot is happening in the world. In the US, former vice
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Concedes He Is Powerless to Act on Guns Without Congress</h3>
-<sub>By Michael D. Shear</sub>
-<p>“I have gone the full extent of my executive authority to do, on my own, anything about guns,” President Biden said.  <a href="https://nyti.ms/40Myjh3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Nashville shooting response draws comparisons to Uvalde, but there are key differences.</h3>
+<sub>By J. David Goodman</sub>
+<p>In both instances, officers rushed to the scenes and immediately entered the schools. But the situations that they confronted were not the same.  <a href="https://nyti.ms/3G0QqYF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Attempts Another Juggling Act, Maybe His Toughest Yet</h3>
+<h3>With Judicial Overhaul on Hold, Israeli Negotiators Seek Compromise</h3>
 <sub>By Patrick Kingsley</sub>
-<p>Israel’s prime minister, who has long thrived by pitting one force against another, is caught between his far-right coalition and public anger over the government’s plan to weaken the judiciary.  <a href="https://nyti.ms/3nrZ0sX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Behind Protests’ Fury in Israel, Fear of a Quiet Slide From Democracy</h3>
-<sub>By Emily Bazelon</sub>
-<p>Examples of what happened after leaders brought judiciaries to heel elsewhere have helped galvanize opposition to Benjamin Netanyahu’s proposals.  <a href="https://nyti.ms/3nqvy6L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>After days of turmoil, lawmakers began tentative efforts to find common ground on a government plan to overhaul the judiciary that has divided Israelis.  <a href="https://nyti.ms/3JTdKZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fire in Mexico Kills at Least 39 in Migration Center Near U.S. Border</h3>
-<sub>By Natalie Kitroeff and Emiliano Rodríguez Mega</sub>
-<p>The fatal blaze comes as border cities across Mexico have been flooded with migrants turned back from the United States and more arriving from other countries.  <a href="https://nyti.ms/42PJfft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Incendio en Ciudad Juárez: al menos 39 muertos en un centro del Instituto Nacional de Migración</h3>
-<sub>By Natalie Kitroeff and Emiliano Rodríguez Mega</sub>
-<p>El presidente de México, Andrés Manuel López Obrador, dijo que el incendio en la ciudad fronteriza con Texas fue resultado de una protesta de migrantes que iban a ser deportados.  <a href="https://nyti.ms/42Guw6J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>He Wanted to Unclog Cities. Now He’s ‘Public Enemy No. 1.’</h3>
+<sub>By Tiffany Hsu</sub>
+<p>Researchers like Carlos Moreno, the professor behind a popular urban planning concept, are struggling with conspiracy theories and death threats.  <a href="https://nyti.ms/40IAdPD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Silicon Valley Bank Hearing Takeaways: A Blame Game, but Few Solutions</h3>
-<sub>By Alan Rappeport</sub>
-<p>Senators sharply questioned federal regulators about shortcomings in oversight after two bank failures rattled the financial system. Regulators put the blame on the banks’ management.  <a href="https://nyti.ms/42P38na"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Will Bank Turmoil Tank the Economy?</h3>
+<h3>Federal Regulators Criticize Bank Executives and Pledge Reviews</h3>
 <sub>By Jeanna Smialek</sub>
-<p>One Federal Reserve official has suggested the trouble that Silicon Valley Bank touched off makes a recession more likely.  <a href="https://nyti.ms/3TNDr2b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Officials blamed executives at Silicon Valley Bank for its failure on March 10, while adding that Federal Reserve oversight is in for a revamp.  <a href="https://nyti.ms/3lKVKbM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Court Reinstates Adnan Syed’s Murder Conviction in ‘Serial’ Case and Orders New Hearing</h3>
-<sub>By Michael Levenson</sub>
+<sub>By Michael Levenson and Abbie VanSickle</sub>
 <p>The Appellate Court of Maryland ruled that a lower court had violated the right of the victim’s brother to have been notified of and to attend a hearing.  <a href="https://nyti.ms/3KhdXXV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Child’s Drawing, a Dad’s Antiwar Posts, and Russia’s Latest Orphan</h3>
-<sub>By Valerie Hopkins</sub>
-<p>Rights activists worry that the separation of a teenage girl and her father after they criticized the war in Ukraine might signal a toughening of the crackdown on dissent.  <a href="https://nyti.ms/3lP1fGd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As King Charles Moves to Center Stage, So Do His Impersonators</h3>
-<sub>By Jenny Gross</sub>
-<p>Long overshadowed by other royal look-alikes, Charles imitators are experiencing newfound popularity ahead of the king’s coronation in May.  <a href="https://nyti.ms/3FWVaOT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Amid Ruins and Explosions, Some Ukrainians Refuse to Leave Home</h3>
+<sub>By Yousur Al-Hlou and Masha Froliak</sub>
+<p>In Avdiivka, as in Bakhmut and other devastated places on the front lines, most residents left long ago, but there are holdouts.  <a href="https://nyti.ms/42QH9vS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
