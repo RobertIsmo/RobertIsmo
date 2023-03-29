@@ -59,13 +59,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 29, Central Standard Time</p>
-<p> 
-There have been some tense relations between the U.S. and Israel recently over a judicial overhaul, with some disagreements between President Biden and Prime Minister Benjamin Netanyahu. Here in the U.S., Republicans are facing losses in their push to impose tighter voting laws on college campuses due to young people who mostly vote Democrat. In Taiwan, President Tsai Ing-wen is taking a risk by meeting with Speaker Kevin McCarthy as China opposes any exchanges. Meanwhile, Ukraine has had its steel industry helping with their war efforts while simultaneously providing body armor, helmets, and armored plates for vehicles. Mexico is contending with an overwhelming number of migrants stuck at the border due to the US&#39;s efforts to keep it secure. In a related story, dozens died in a fire at the same location resulting from this desperation of migrants. There was also a tragic shooting at a school in Nashville that left six dead prompting an investigation into the causes and emotional disorder of the shooter. A Connecticut woman has sued Vermont to take advantage of their medical aid in dying law because it&#39;s not allowed in Connecticut. Former Vice President Pence was ruled to have to testify in front of a grand jury about what happened on January 6th in Washington DC. And lastly, Donald Trump could potentially be indicted for hush-money investigations but specifics on timing remain unknown.</p>
+<p>
+There are a lot of important developments happening around the world right now. In the U.S., Michigan Democrats are trying to turn a battleground state blue, while Republicans are facing pushback from efforts to tighten voting laws on college campuses. In New York, there&#39;s controversy over an effort by the governor to force suburban areas to build more housing to help with a housing crisis. In India, Prime Minister Narendra Modi is facing criticism for sidelining political opponents and more broadly, there&#39;s worry about unchecked power wielded by the Supreme Court. Meanwhile, in Israel there&#39;s tension between the U.S. and Prime Minister Benjamin Netanyahu over an effort by Netanyahu&#39;s government to overhaul the judiciary system, which U.S. President Biden has sharply criticized. In Ukraine, their steel industry has galvanized a war effort against Russia and here in the U.S., six people were tragically killed in a school shooting in Nashville recently and people around the country are reflecting on how gun violence has impacted their outlook and choices in life. Lastly, a woman in Connecticut has turned to Vermont for help so she can die on her own terms since Connecticut does not allow medical aid in dying, prompting local legislators to make the practice more broadly available.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S.-Israel Tensions Over Judicial Overhaul Burst Into Open</h3>
-<sub>By Isabel Kershner</sub>
-<p>In response to sharp criticism by President Biden, Prime Minister Benjamin Netanyahu said that Israel would make its own decisions.  <a href="https://nyti.ms/3TRJh2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Michigan Democrats Rise, and Try to Turn a Battleground Blue</h3>
+<sub>By Katie Glueck</sub>
+<p>With a strong governor, a Legislature passing a raft of liberal measures and a looming early presidential primary, Democrats are testing the promise and pitfalls of complete control of the state.  <a href="https://nyti.ms/3KeVv0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,10 +74,34 @@ There have been some tense relations between the U.S. and Israel recently over a
 <p>Party officials across the country have sought to erect more barriers for young voters, who tilt heavily Democratic, after several cycles in which their turnout surged.  <a href="https://nyti.ms/40stKc2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Can New York Fix Its Housing Crisis? It Depends on the Suburbs</h3>
+<sub>By Mihir Zaveri, Luis Ferré-Sadurní and Michael D. Regan</sub>
+<p>The governor’s quest, to force suburbs around New York City to build more housing, is meeting with resistance.  <a href="https://nyti.ms/3LWSXa5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Taiwan’s President Heads to the U.S., Bracing for China’s Retaliation</h3>
-<sub>By Amy Chang Chien and Chris Horton</sub>
-<p>President Tsai Ing-wen is expected to meet Speaker Kevin McCarthy next week, risking a show of force from Beijing, which opposes any such exchanges.  <a href="https://nyti.ms/40EVSJ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Modi’s Power to Sideline Challengers Is Only Growing</h3>
+<sub>By Mujib Mashal, Suhasini Raj and Karan Deep Singh</sub>
+<p>The ouster from Parliament of India’s best-known opposition leader shows how Prime Minister Narendra Modi’s party is manipulating the judiciary, critics say.  <a href="https://nyti.ms/42QIX85"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S.-Israel Tensions Over Judicial Overhaul Burst Into Open</h3>
+<sub>By Isabel Kershner</sub>
+<p>In response to sharp criticism by President Biden, Prime Minister Benjamin Netanyahu said that Israel would make its own decisions.  <a href="https://nyti.ms/3TRJh2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Israeli Government’s Plan to Overhaul the Judiciary: What to Know</h3>
+<sub>By Patrick Kingsley and Isabel Kershner</sub>
+<p>Prime Minister Benjamin Netanyahu’s right-wing government contends the Supreme Court has unchecked power, but critics of the proposal say it goes too far.  <a href="https://nyti.ms/40CHJLP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Decades Later, Senate Votes to Repeal Iraq Military Authorizations</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The bipartisan action to roll back resolutions from 1991 and 2002 was a major advancement in a long-running bid by Congress to claw back war powers from the executive branch.  <a href="https://nyti.ms/3G0QUht"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -85,18 +109,6 @@ There have been some tense relations between the U.S. and Israel recently over a
 <sub>By Finbarr O’Reilly</sub>
 <p>The iron- and steel-producing factories of Ukraine’s rust belt have made body armor, helmets and armored plates for vehicles — and steelworkers risked their lives rolling out heavy machinery at the beginning of the war to help physically block the Russian advance.  <a href="https://nyti.ms/40p4u6p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Border Policies Have Created a Volatile Logjam in Mexico</h3>
-<sub>By Miriam Jordan and Edgar Sandoval</sub>
-<p>As the United States has cracked down on border entries, Mexico is bearing the burden of housing and feeding tens of thousands of desperate migrants.  <a href="https://nyti.ms/3lTkXAH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Migrants’ Desperation Mounts at the Border, a Fire Kills Dozens</h3>
-<sub>By Rocío Gallegos, Natalie Kitroeff, Emiliano Rodríguez Mega and Simon Romero</sub>
-<p>The fatal blaze comes as border cities across Mexico have been flooded with migrants turned back from the United States and more arriving from other countries.  <a href="https://nyti.ms/42PJfft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Place of Sanctuary Is Punctured by the Reality of Gun Violence in America</h3>
@@ -110,28 +122,16 @@ There have been some tense relations between the U.S. and Israel recently over a
 <p>Investigators were still searching for a motive in the killing of six people at the Covenant School. The police said the assailant was being treated for an emotional disorder.  <a href="https://nyti.ms/3zdpLEf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Gun Violence Has Changed Us</h3>
+<sub>By Christina Caron</sub>
+<p>Times readers share how rising gun deaths across the country have affected their outlook — and, in some cases, their life choices.  <a href="https://nyti.ms/3zafKrg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>To Die on Her Own Terms, a Connecticut Woman Turns to Vermont</h3>
 <sub>By Lola Fadulu</sub>
 <p>Connecticut does not allow medical aid in dying, so Lynda Bluestein sued Vermont to take advantage of that state’s law. Now, legislators may make the practice more broadly available.  <a href="https://nyti.ms/40BJB7S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Must Testify to Jan. 6 Grand Jury, Judge Rules</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The ruling in Washington was the latest setback to efforts by former President Donald J. Trump’s legal team to limit testimony to grand juries investigating him on various matters.  <a href="https://nyti.ms/3JVdVDH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What We Know About the Potential Indictment of Donald Trump</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
-<p>The grand jury that is hearing evidence in the hush-money investigation might not meet on Wednesday, and the timing of any potential indictment remains unknown.  <a href="https://nyti.ms/3ZX4bz6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Incredible Challenge of Counting Every Global Birth and Death</h3>
-<sub>By Jeneen Interlandi</sub>
-<p>In rural Colombia, as in many parts of the world, tallying births and deaths is one of the most desperately needed public-health measures. It’s a lot harder than it sounds.  <a href="https://nyti.ms/3zg2vW3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
