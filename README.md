@@ -60,24 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 30, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Ukraine, Russian forces have been using up their reserves trying to take control of the city Bakhmut, but at a high cost in Ukrainian lives. Finland is considering joining NATO in a move that would be a diplomatic and strategic setback for Russia. Russia has also detained an American journalist from the Wall Street Journal, claiming he was involved in espionage. Meanwhile, Middle Eastern police forces are beginning to use artificial intelligence to help with their policing efforts. Publishers are worried because AI chatbots may reduce how often people visit their websites. And there is discussion about how to use AI chatbots like ChatGPT, which can generate larger language models with better results. On top of all this, nine soldiers were killed after two army helicopters collided over Kentucky and Florida&#39;s Disney World has sidestepped the Governor&#39;s oversight board without anyone noticing until recently. Lastly, JPMorgan chief executive Jamie Dimon has led an effort to raise $30 billion for First Republic Bank and President Biden has called for increased oversight of certain banks due to Silicon Valley Bank&#39;s failure earlier this month.</p>
+Things are a bit chaotic in the world right now. In Russia, they are cracking down on Western media, arresting an American reporter and making it harder for the West and Russia to interact. Meanwhile in Ukraine, there is a standoff between Russian and Ukrainian forces that has been costly for both sides but seems to be working in the Ukrainians favor. 
+
+In the US, Republican lawmakers are pushing for expanded access to firearms despite numerous mass shootings that have taken place recently. On the immigration front, some popular US counties are seeing an influx of people even as most other places see population decline. The exception to this pattern is New York City&#39;s Manhattan borough.
+
+It&#39;s also busy in the sports world with baseball season officially starting today. MLB teams are playing their first games and Aaron Judge already hit a home run in the Yankees&#39; win. There is also a pitch clock now, with Marcus Stroman of the Cubs getting the first pitch clock violation!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Arrest of American Reporter, Russia Doubles Down on Isolation From West</h3>
+<sub>By Anton Troianovski</sub>
+<p>The Kremlin, which accused a Wall Street Journal correspondent of being a spy, made a move not seen since the Cold War, further raising the barriers between Russia and the West.  <a href="https://nyti.ms/42RjXh7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainians in a Hidden Command Post See Bakhmut Going Their Way</h3>
 <sub>By Carlotta Gall</sub>
 <p>Ukrainian commanders said that Russia exhausted all its reserves on the eastern city, though soldiers said the cost in lives had been steep.  <a href="https://nyti.ms/3KhuGcr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Finland’s accession to NATO would be a diplomatic and strategic setback for Russia.</h3>
-<sub>By Steven Erlanger</sub>
-<p>  <a href="https://nyti.ms/3nBTB2k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia detains a Wall Street Journal reporter, accusing him of espionage.</h3>
-<sub>By Daniel Victor and Michael M. Grynbaum</sub>
-<p>The newspaper said it “vehemently denies the allegations” against Evan Gershkovich, an American, and the White House called his detention “unacceptable.”  <a href="https://nyti.ms/3ns5HLv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -86,28 +84,34 @@ There is a lot going on in the world right now. In Ukraine, Russian forces have 
 <p>In the Middle East, artificial intelligence and other emerging technologies have become part of everyday policing.  <a href="https://nyti.ms/42UpHXy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Publishers Worry A.I. Chatbots Will Cut Readership</h3>
-<sub>By Katie Robertson</sub>
-<p>Many sites get at least half their traffic from search engines. Fuller results generated by new chatbots could mean far fewer visitors.  <a href="https://nyti.ms/3G16FEQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>How Should I Use A.I. Chatbots Like ChatGPT?</h3>
 <sub>By Kevin Roose</sub>
 <p>Large language models are already good at a wide variety of tasks.  <a href="https://nyti.ms/3lLOUmo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>DeSantis’s Allies Discover Disney Evaded Florida’s Move to Rein It In</h3>
+<sub>By Brooks Barnes</sub>
+<p>The Florida governor’s new Disney World oversight board belatedly realized that the company had quietly sidestepped its control.  <a href="https://nyti.ms/3zkghqA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>What We Haven’t Learned From the First Chapter of the Republican Primary</h3>
+<sub>By Nate Cohn</sub>
+<p>It’s premature to reach any meaningful conclusion about DeSantis’s chances to defeat Trump.  <a href="https://nyti.ms/40ubGxZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Kushner’s Firm Was Backed by Investments From the Emirates and Qatar</h3>
+<sub>By Jonathan Swan, Kate Kelly, Maggie Haberman and Mark Mazzetti</sub>
+<p>The infusion of money from interests in the two Persian Gulf monarchies reflects the close ties to Middle Eastern nations established by Jared Kushner, former President Donald Trump’s son-in-law.  <a href="https://nyti.ms/42QvrBA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>9 Soldiers Killed After Army Helicopters Collide Over Kentucky</h3>
 <sub>By Mike Ives and Jenny Gross</sub>
 <p>Two Black Hawk helicopters from the 101st Airborne Division collided on Wednesday night near Fort Campbell. The Army said it did not yet know a cause.  <a href="https://nyti.ms/3LYUHzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Disney’s Feud With DeSantis Adds Another Wrinkle</h3>
-<sub>By Brooks Barnes</sub>
-<p>The Florida governor’s new Disney World oversight board belatedly realized that the company had quietly sidestepped its control.  <a href="https://nyti.ms/3zkghqA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -122,16 +126,16 @@ There is a lot going on in the world right now. In Ukraine, Russian forces have 
 <p>In states around the country, Republican lawmakers are pushing laws to expand the ability to own and carry firearms.  <a href="https://nyti.ms/3lULFJ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Jamie Dimon Reprises 2008 Role as Rescuer of a Failing Bank</h3>
-<sub>By Rob Copeland and Maureen Farrell</sub>
-<p>The JPMorgan chief executive led an effort to raise $30 billion for First Republic, but no one is sure if it did any good.  <a href="https://nyti.ms/40tA42U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Calls for Regulators to Increase Oversight of Certain Banks</h3>
-<sub>By Jim Tankersley</sub>
-<p>The proposals, which would not require congressional approval, are a response to Silicon Valley Bank’s failure earlier this month, which sent shocks through the financial system.  <a href="https://nyti.ms/3TZj8is"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Immigration Tripled in Top U.S. Counties Even as Many of Them Lost Population</h3>
+<sub>By Robert Gebeloff, Dana Goldstein and Stefanos Chen</sub>
+<p>New census data reveals where people are moving to — and from. And it reveals one exception to current trends: Manhattan.  <a href="https://nyti.ms/3G2qwnh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Baseball Moves Quickly, and Gets Its First Pitch Clock Violation</h3>
+<sub>By Benjamin Hoffman</sub>
+<p>On a busy opening day, every team is in action. Aaron Judge already homered in a quick Yankees win and Marcus Stroman of the Cubs got M.L.B.’s first pitch clock violation.  <a href="https://nyti.ms/3ZBB2sM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
