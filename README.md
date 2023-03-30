@@ -59,36 +59,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 29, Central Standard Time</p>
-<p>The world is a chaotic place right now. There are shootings in the US prompting calls for action on gun control that are being rejected by the GOP. India does not have an opposition leader anymore following Prime Minister Narendra Modi&#39;s power to silence potential challengers. In Ukraine, there is the looming threat of a conflict involving their largest nuclear plant. Meanwhile, here in the US issues such as housing crisis are ongoing, with the Democratic House putting pressure on New York Governor Hochul to act on climate change. Plus, there&#39;s were two cases of gay people being robbed and murdered in Hell&#39;s Kitchen. It looks like Trump is back too, making his first Fox News appearance in months, but being met with a chilly reception from its hosts.</p>
+<p>
+Recently, there has been a lot happening in the world. In Mexico, authorities are investigating a deadly fire at a detention center for migrants as a potential homicide. In Washington, D.C., Republicans have rejected calls from President Biden to act on gun violence, instead pushing for laws that would expand access to firearms. Following suit, states like Kentucky and West Virginia have passed anti-trans laws that ban access to gender-transition care for young people. In New York, several people have been charged in connection with the killings of gay men who were drugged and robbed, spreading fear in the city&#39;s nightlife. President Biden also recently publicly criticized Israel over domestic policy, causing tension between the two countries. Meanwhile, soldiers have been massing near a Ukrainian nuclear plant, raising concern over what will happen in Europe&#39;s largest such plant. On top of this, former President Trump was interviewed by Fox News recently and the reception was relatively cool—even from his own network. Additionally, there is an ongoing push from liberals to implement race-based affirmative action and to limit access to housing in certain areas based on class instead of race. Lastly, there is also a growing effort for people to take action and sincerely reach out with prayers when tragedy strikes.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mexico Investigates Migrant Deaths in Border City Fire as Homicide Case</h3>
+<sub>By Simon Romero, Natalie Kitroeff and Eileen Sullivan</sub>
+<p>The authorities identified eight suspects and said government workers and private security workers had done nothing to help migrants flee the blaze at a detention center in Ciudad Juárez.  <a href="https://nyti.ms/3M27pNN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Shooting Prompts a Shrug in Washington, as G.O.P. Rejects Pleas to Act</h3>
 <sub>By Annie Karni</sub>
 <p>President Biden said he had reached the limit of his powers to act alone on gun violence, and needed Congress to respond. Republicans said they had already done all they were willing to do.  <a href="https://nyti.ms/3JU7qRh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Gun Violence Has Changed Us</h3>
-<sub>By Christina Caron</sub>
-<p>Times readers share how rising gun deaths across the country have affected their outlook — and, in some cases, their life choices.  <a href="https://nyti.ms/3zafKrg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Mass Shootings, Republicans Expand Access to Guns</h3>
+<sub>By Mike Baker, Serge F. Kovaleski and Glenn Thrush</sub>
+<p>In states around the country, Republican lawmakers are pushing laws to expand the ability to own and carry firearms.  <a href="https://nyti.ms/3lULFJ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Lawmakers Override Kentucky Governor’s Veto on Anti-Trans Law</h3>
 <sub>By Campbell Robertson and Ernesto Londoño</sub>
 <p>The Kentucky measure bans access to gender-transition care for young people, and West Virginia’s governor signed a similar bill on Wednesday. Passage of bans also appears imminent in Idaho and Missouri.  <a href="https://nyti.ms/3TRfWVZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Can New York Fix Its Housing Crisis? It Depends on the Suburbs</h3>
-<sub>By Mihir Zaveri, Luis Ferré-Sadurní and Michael D. Regan</sub>
-<p>The governor’s quest, to force suburbs around New York City to build more housing, is meeting with resistance.  <a href="https://nyti.ms/3LWSXa5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Rare Show of Force, House Democrats Pressure Hochul on Climate Bill</h3>
-<sub>By Grace Ashford</sub>
-<p>Several House members, led by Jamaal Bowman, are pushing the governor to support a climate policy proposed by the left-leaning Legislature.  <a href="https://nyti.ms/3KeuJGV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -101,18 +96,6 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h3>Biden’s Confrontation With Netanyahu Had Been Brewing for Years</h3>
 <sub>By Katie Rogers and Michael Crowley</sub>
 <p>The president’s decision to publicly criticize Israel is highly unusual for a leader who has pledged not to interfere in the country’s domestic politics.  <a href="https://nyti.ms/3Zs46Ta"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Modi’s Power to Sideline Challengers Is Only Growing</h3>
-<sub>By Mujib Mashal, Suhasini Raj and Karan Deep Singh</sub>
-<p>The ouster from Parliament of India’s best-known opposition leader shows how Prime Minister Narendra Modi’s party is manipulating the judiciary, critics say.  <a href="https://nyti.ms/42QIX85"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Michigan Democrats Rise, and Try to Turn a Battleground Blue</h3>
-<sub>By Katie Glueck</sub>
-<p>With a strong governor, a Legislature passing a raft of liberal measures and a looming early presidential primary, Democrats are testing the promise and pitfalls of complete control of the state.  <a href="https://nyti.ms/3KeVv0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -131,6 +114,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h3>Trump’s Return to Fox News Gets a Cool Reception … on Fox News</h3>
 <sub>By Michael M. Grynbaum</sub>
 <p>The network used to be a safe space for the former president. But Brian Kilmeade, Jason Chaffetz and others had tough words for his appearance on “Hannity,” his first Fox interview in months.  <a href="https://nyti.ms/40nL3L6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Liberal Maverick Fighting Race-Based Affirmative Action</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>For decades, Richard Kahlenberg has pushed for a class-conscious approach to college admissions. He may finally get his wish, but it comes at a personal cost.  <a href="https://nyti.ms/3Zlrzp3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>How a TikToker Brought Hundreds of Transplants to a Midwestern City</h3>
+<sub>By Anna Kodé</sub>
+<p>People hoping to become homeowners have answered the call to relocate to Peoria, Ill., where the housing is affordable and a one-person welcoming committee awaited them.  <a href="https://nyti.ms/3ZorPUq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>In the Face of Tragedy, Petitioning God Is an Act of Faith</h3>
+<sub>By David French</sub>
+<p>‘We’re praying for you’ has been ridiculed as an empty phrase. But it can be an incitement to action rather than an excuse for inaction.  <a href="https://nyti.ms/3JTWh2T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
