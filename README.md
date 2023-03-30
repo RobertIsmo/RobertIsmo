@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 30, Central Standard Time</p>
 <p>
-Right now, there are a lot of stories happening related to migration around the world. In Mexico, the authorities have identified eight suspects in a migrant death case in Ciudad Juárez, and government and private security workers are being accused of not helping them escape a fire. In the US, Republicans are pushing laws that would expand gun rights, while Democratic President Biden is asking Congress to act on gun violence. In Ukraine, there&#39;s growing concern about a massing of soldiers near a nuclear plant. Also in the US, Republican lawmakers have overridden Kentucky&#39;s governor&#39;s veto on an anti-trans law and similar bills are about to pass in other states. There are also charges filed against people responsible for drugging and robbing gay men in New York City. On top of that, census data showed immigration tripling in many US counties, even as many continue losing population--except Manhattan. Meanwhile, the scandal surrounding Tokyo&#39;s Olympics is causing struggles for Sapporo&#39;s bid for the Winter Games 2030. Regarding international politics, Biden has publicly criticized Israel for the first time, after promising not to interfere in their domestic politics when he took office. As for Donald Trump, Fox News is giving him cold receptions when he appears on it; his last appearance was on &#39;Hannity&#39; after being away from the network for months.</p>
+There are a lot of significant things happening in the world right now. In Mexico, authorities are investigating the deaths of immigrants during a fire at a detention center as a possible homicide. Russia has detained an American journalist and accused him of espionage. In the US, President Biden is trying to push through gun control steps with Congress, but Republicans are rejecting any changes and are instead pushing to expand access to guns. Meanwhile, there have been several arrests for the targeted killings of gay men in New York City. On top of that, immigration into the US has tripled in some counties, even as some saw population loss. As for the Olympics, Japan&#39;s scandal-tainted Tokyo Olympics are having an effect on the prospect of Osaka hosting the Winter Games in 2030.  Finally, President Trump is making his return to Fox News for his first interview in months, but his reception wasn&#39;t as warm as expected.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Mexico Investigates Migrant Deaths in Border City Fire as Homicide Case</h3>
@@ -74,6 +74,12 @@ Right now, there are a lot of stories happening related to migration around the 
 <p>Las autoridades identificaron a ocho sospechosos y dijeron que trabajadores del gobierno y de seguridad privada no habían hecho nada para ayudar a los migrantes a escapar del incendio.  <a href="https://nyti.ms/40GJmbi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia detains a Wall Street Journal reporter, accusing him of espionage.</h3>
+<sub>By Daniel Victor</sub>
+<p>The F.S.B. security service, a successor to the K.G.B., said that the American journalist Evan Gershkovich had been detained in Yekaterinburg, a city about 900 miles east of Moscow.  <a href="https://nyti.ms/3ns5HLv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Shooting Prompts a Shrug in Washington, as G.O.P. Rejects Pleas to Act</h3>
 <sub>By Annie Karni</sub>
@@ -84,12 +90,6 @@ Right now, there are a lot of stories happening related to migration around the 
 <h3>After Mass Shootings, Republicans Expand Access to Guns</h3>
 <sub>By Mike Baker, Serge F. Kovaleski and Glenn Thrush</sub>
 <p>In states around the country, Republican lawmakers are pushing laws to expand the ability to own and carry firearms.  <a href="https://nyti.ms/3lULFJ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Soldiers Massing Near Ukrainian Nuclear Plant, U.N. Official Warns</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Amid signs of offensives and counteroffensives, concern is rekindling about what it will mean for the biggest nuclear plant in Europe.  <a href="https://nyti.ms/3ZusEep"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
