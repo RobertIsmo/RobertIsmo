@@ -59,25 +59,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 30, Central Standard Time</p>
-<p> 
-There is a lot going on in the world right now. For example in Ukraine, Russian forces have been launching assaults on eastern cities and there has been a buildup of troops. This same situation led to the detainment of a Wall Street Journal reporter by Russia who has been accused of espionage. Mexico is also currently investigating the deaths of migrants in a fire at a detention center in Ciudad Juarez as a potential homicide case. In the US, Republicans are pushing laws to expand access to guns after recent mass shootings, while President Biden is pushing for action from Congress to combat gun violence. There is also an interesting story about a Chinese billionaire accused of fraud who turned his charms on America but is now being charged with the law catching up with him. Finally, immigration to top US counties has reportedly tripled even as many lost population, and Tokyo Olympics scandal may be impacting Sapporo&#39;s bid for the 20230 Winter Games.</p>
+<p>
+There have been a few major stories in the world recently. In Ukraine, commanders are saying that they&#39;re turning back a Russian assault on an eastern city, but soldiers are saying it&#39;s come at a high cost. In Russia, a Wall Street Journal reporter has been detained and accused of espionage, but the newspaper denies the allegations. Mexico is investigating the deaths of migrants in a fire as a homicide case, with eight suspects identified so far. In the US, Republicans have been pushing laws to expand access to guns in response to mass shootings and Democrats have called for action but Republicans say they have done all they can. Additionally, a billionaire named Guo Wengui has been accused of fraud across two continents and census data has reveled immigration rates are rising in certain counties while populations have remained stagnant elsewhere. Lastly, teenage killings in New York City have been increasing and nine soldiers were killed when army helicopters collided over Kentucky.</p>
 <ol>
-<img src="https://img.shields.io/badge/-todayspaper-blue" alt="">
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainians Directing Soldiers From a Hidden Hub See Bakhmut Going Their Way</h3>
 <sub>By Carlotta Gall</sub>
-<p>Ukrainian commanders say they have exhausted Russia’s relentless assaults on the eastern city, though soldiers say the cost in lives has been steep.  <a href="https://nyti.ms/3G5nNcF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ukrainian commanders say they have exhausted Russia’s relentless assaults on the eastern city, though soldiers say the cost in lives has been steep.  <a href="https://nyti.ms/3KhuGcr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia detains a Wall Street Journal reporter, accusing him of espionage.</h3>
 <sub>By Daniel Victor and Michael M. Grynbaum</sub>
 <p>The newspaper said it “vehemently denies the allegations” against Evan Gershkovich, an American, and called for his immediate release.  <a href="https://nyti.ms/3ns5HLv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Goes Dark: Images From Space Drive Home the Nation’s Anguish</h3>
-<sub>By William J. Broad, Sarah Kerr, Marc Santora and Tim Wallace</sub>
-<p>A satellite operated by NASA and NOAA bares how Russia’s drones and missiles knocked out the nation’s power.  <a href="https://nyti.ms/3G58ukh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,11 +104,17 @@ There is a lot going on in the world right now. For example in Ukraine, Russian 
 <p>New census data reveals where people are moving to — and from. And it reveals one exception to current trends: Manhattan.  <a href="https://nyti.ms/3G2qwnh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Behind a Surge in Teenage Killings: Grief, Anger and Online Grudges</h3>
+<sub>By Hurubie Meko</sub>
+<p>Teenagers in New York City were arrested and charged with murder at a rate that grew twice as fast as the rate for adults between 2018 and 2022.  <a href="https://nyti.ms/3JWjLVk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Lawmakers Override Kentucky Governor’s Veto on Anti-Trans Law</h3>
-<sub>By Campbell Robertson and Ernesto Londoño</sub>
-<p>The Kentucky measure bans access to gender-transition care for young people, and West Virginia’s governor signed a similar bill on Wednesday. Passage of bans also appears imminent in Idaho and Missouri.  <a href="https://nyti.ms/3TRfWVZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<h3>9 Soldiers Killed After Army Helicopters Collide Over Kentucky</h3>
+<sub>By Mike Ives and Jenny Gross</sub>
+<p>Two Black Hawk helicopters from the 101st Airborne Division collided on Wednesday night near Fort Campbell. The Army said it did not yet know a cause.  <a href="https://nyti.ms/3LYUHzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Tokyo Olympics Scandal Fouls Hopes for a Sapporo Winter Games</h3>
@@ -122,17 +122,17 @@ There is a lot going on in the world right now. For example in Ukraine, Russian 
 <p>The International Olympic Committee was already struggling to find hosts for the Winter Games. Sapporo’s flailing 2030 bid has added another headache.  <a href="https://nyti.ms/3lNMjbB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Shepherd, a Cook, a Palace Chef: Making Food With Less Under the Taliban</h3>
-<sub>By Hannah Beech</sub>
-<p>In a time of famine and money shortages, meals are a rallying point — and a topic of worry — during a season of change in Afghanistan.  <a href="https://nyti.ms/3lWavsk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>A Whole New (Old) Ballgame</h3>
 <sub>By Tyler Kepner</sub>
 <p>With three major rule changes this season, Major League Baseball will try to reinvent itself while looking to the game’s past for inspiration.  <a href="https://nyti.ms/3nmq9xx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>On Opening Day, Teams Put Their Best Arms Forward</h3>
+<sub>By Benjamin Hoffman</sub>
+<p>Aces around the majors are ready to go, with the Yankees’ Gerrit Cole facing Logan Webb of the Giants and the Mets’ Max Scherzer facing Sandy Alcantara of the Marlins.  <a href="https://nyti.ms/3KgRkml"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
