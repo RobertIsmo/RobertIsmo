@@ -59,19 +59,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, March 29, Central Standard Time</p>
-<p>
-There is a lot happening in the world right now. In the United States, Michigan Democrats are rising and trying to turn a crucial battleground state blue. Republicans are facing setbacks in their attempts to enforce stricter voting laws on college campuses, and there are growing tensions between the Democratic-led House of Representatives and Governor Hochul about climate change legislation. In India, Prime Minister Narendra Modi has consolidated his power over political opponents, while the US Senate has voted to repeal Iraq military authorizations from decades ago. Meanwhile in Ukraine, steel factories are scrambling to support their war effort, while gun violence in America tears apart communities like Nashville and brings attention to society-wide issues. Finally, technology leaders are calling for a pause on Artificial Intelligence due to the profound risks it poses to society.</p>
+<p>The world is a chaotic place right now. There are shootings in the US prompting calls for action on gun control that are being rejected by the GOP. India does not have an opposition leader anymore following Prime Minister Narendra Modi&#39;s power to silence potential challengers. In Ukraine, there is the looming threat of a conflict involving their largest nuclear plant. Meanwhile, here in the US issues such as housing crisis are ongoing, with the Democratic House putting pressure on New York Governor Hochul to act on climate change. Plus, there&#39;s were two cases of gay people being robbed and murdered in Hell&#39;s Kitchen. It looks like Trump is back too, making his first Fox News appearance in months, but being met with a chilly reception from its hosts.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Michigan Democrats Rise, and Try to Turn a Battleground Blue</h3>
-<sub>By Katie Glueck</sub>
-<p>With a strong governor, a Legislature passing a raft of liberal measures and a looming early presidential primary, Democrats are testing the promise and pitfalls of complete control of the state.  <a href="https://nyti.ms/3KeVv0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Shooting Prompts a Shrug in Washington, as G.O.P. Rejects Pleas to Act</h3>
+<sub>By Annie Karni</sub>
+<p>President Biden said he had reached the limit of his powers to act alone on gun violence, and needed Congress to respond. Republicans said they had already done all they were willing to do.  <a href="https://nyti.ms/3JU7qRh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Gun Violence Has Changed Us</h3>
+<sub>By Christina Caron</sub>
+<p>Times readers share how rising gun deaths across the country have affected their outlook — and, in some cases, their life choices.  <a href="https://nyti.ms/3zafKrg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Face Setbacks in Push to Tighten Voting Laws on College Campuses</h3>
-<sub>By Neil Vigdor</sub>
-<p>Party officials across the country have sought to erect more barriers for young voters, who tilt heavily Democratic, after several cycles in which their turnout surged.  <a href="https://nyti.ms/40stKc2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>G.O.P. Lawmakers Override Kentucky Governor’s Veto on Anti-Trans Law</h3>
+<sub>By Campbell Robertson and Ernesto Londoño</sub>
+<p>The Kentucky measure bans access to gender-transition care for young people, and West Virginia’s governor signed a similar bill on Wednesday. Passage of bans also appears imminent in Idaho and Missouri.  <a href="https://nyti.ms/3TRfWVZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -83,7 +88,19 @@ There is a lot happening in the world right now. In the United States, Michigan 
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>In Rare Show of Force, House Democrats Pressure Hochul on Climate Bill</h3>
 <sub>By Grace Ashford</sub>
-<p>Several House members, including Jerrold Nadler and Alexandria Ocasio-Cortez, are pushing the governor to fully support a climate policy proposed by the left-leaning Legislature.  <a href="https://nyti.ms/3KeuJGV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Several House members, led by Jamaal Bowman, are pushing the governor to support a climate policy proposed by the left-leaning Legislature.  <a href="https://nyti.ms/3KeuJGV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Several Face Charges in Killings of Gay Men Who Were Drugged and Robbed</h3>
+<sub>By Liam Stack</sub>
+<p>Assailants used facial recognition to unlock phones and then looted financial accounts. The crimes, which occurred in Hell’s Kitchen, spread fear in New York’s nightlife.  <a href="https://nyti.ms/3Zlhoks"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s Confrontation With Netanyahu Had Been Brewing for Years</h3>
+<sub>By Katie Rogers and Michael Crowley</sub>
+<p>The president’s decision to publicly criticize Israel is highly unusual for a leader who has pledged not to interfere in the country’s domestic politics.  <a href="https://nyti.ms/3Zs46Ta"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -93,45 +110,27 @@ There is a lot happening in the world right now. In the United States, Michigan 
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Lawmakers Override Kentucky Governor’s Veto on Anti-Trans Laws</h3>
-<sub>By Campbell Robertson</sub>
-<p>Republican legislators voted overwhelmingly on Wednesday to enact a bill that places new restrictions on transgender youth, including banning access to transition care.  <a href="https://nyti.ms/3TRfWVZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Michigan Democrats Rise, and Try to Turn a Battleground Blue</h3>
+<sub>By Katie Glueck</sub>
+<p>With a strong governor, a Legislature passing a raft of liberal measures and a looming early presidential primary, Democrats are testing the promise and pitfalls of complete control of the state.  <a href="https://nyti.ms/3KeVv0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S.-Israel Tensions Over Judicial Overhaul Burst Into Open</h3>
-<sub>By Isabel Kershner</sub>
-<p>In response to sharp criticism by President Biden, Prime Minister Benjamin Netanyahu said that Israel would make its own decisions.  <a href="https://nyti.ms/3TRJh2l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Soldiers Massing Near Ukrainian Nuclear Plant, U.N. Official Warns</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Amid signs of offensives and counteroffensives, concern is rekindling about what it will mean for the biggest nuclear plant in Europe.  <a href="https://nyti.ms/3ZusEep"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Decades Later, Senate Votes to Repeal Iraq Military Authorizations</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The bipartisan action to roll back resolutions from 1991 and 2002 was a major advancement in a long-running bid by Congress to claw back war powers from the executive branch.  <a href="https://nyti.ms/3G0QUht"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Says the Justice System Has Been Weaponized. He Would Know.</h3>
+<sub>By Michael S. Schmidt and Maggie Haberman</sub>
+<p>The former president is attempting to cast the investigations into his actions as politically motivated uses of the justice system. In office, he regularly sought to use government powers against his foes.  <a href="https://nyti.ms/3G64FLF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Ukraine’s Battered Steel Industry Galvanized Its War Effort</h3>
-<sub>By Finbarr O’Reilly</sub>
-<p>The iron- and steel-producing factories of Ukraine’s rust belt have made body armor, helmets and armored plates for vehicles — and steelworkers risked their lives rolling out heavy machinery at the beginning of the war to help physically block the Russian advance.  <a href="https://nyti.ms/40p4u6p"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Place of Sanctuary Is Punctured by the Reality of Gun Violence in America</h3>
-<sub>By Emily Cochrane, Eliza Fawcett, Jesus Jiménez and Rick Rojas</sub>
-<p>As investigators searched for a motive in the killing of six people at the Covenant School in Nashville, the close-knit community there was struggling with the enormity of its loss.  <a href="https://nyti.ms/3JR2sF8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Gun Violence Has Changed Us</h3>
-<sub>By Christina Caron</sub>
-<p>Times readers share how rising gun deaths across the country have affected their outlook — and, in some cases, their life choices.  <a href="https://nyti.ms/3zafKrg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Elon Musk and Others Call for Pause on A.I., Citing ‘Profound Risks to Society’</h3>
-<sub>By Cade Metz and Gregory Schmidt</sub>
-<p>More than 1,000 tech leaders, researchers and others signed an open letter urging a moratorium on the development of the most powerful artificial intelligence systems.  <a href="https://nyti.ms/3ZpIxTp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Trump’s Return to Fox News Gets a Cool Reception … on Fox News</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>The network used to be a safe space for the former president. But Brian Kilmeade, Jason Chaffetz and others had tough words for his appearance on “Hannity,” his first Fox interview in months.  <a href="https://nyti.ms/40nL3L6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
