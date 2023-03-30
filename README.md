@@ -58,14 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, March 29, Central Standard Time</p>
+<p>It is Thursday, March 30, Central Standard Time</p>
 <p>
-Recently, there has been a lot happening in the world. In Mexico, authorities are investigating a deadly fire at a detention center for migrants as a potential homicide. In Washington, D.C., Republicans have rejected calls from President Biden to act on gun violence, instead pushing for laws that would expand access to firearms. Following suit, states like Kentucky and West Virginia have passed anti-trans laws that ban access to gender-transition care for young people. In New York, several people have been charged in connection with the killings of gay men who were drugged and robbed, spreading fear in the city&#39;s nightlife. President Biden also recently publicly criticized Israel over domestic policy, causing tension between the two countries. Meanwhile, soldiers have been massing near a Ukrainian nuclear plant, raising concern over what will happen in Europe&#39;s largest such plant. On top of this, former President Trump was interviewed by Fox News recently and the reception was relatively cool—even from his own network. Additionally, there is an ongoing push from liberals to implement race-based affirmative action and to limit access to housing in certain areas based on class instead of race. Lastly, there is also a growing effort for people to take action and sincerely reach out with prayers when tragedy strikes.</p>
+Right now, there are a lot of stories happening related to migration around the world. In Mexico, the authorities have identified eight suspects in a migrant death case in Ciudad Juárez, and government and private security workers are being accused of not helping them escape a fire. In the US, Republicans are pushing laws that would expand gun rights, while Democratic President Biden is asking Congress to act on gun violence. In Ukraine, there&#39;s growing concern about a massing of soldiers near a nuclear plant. Also in the US, Republican lawmakers have overridden Kentucky&#39;s governor&#39;s veto on an anti-trans law and similar bills are about to pass in other states. There are also charges filed against people responsible for drugging and robbing gay men in New York City. On top of that, census data showed immigration tripling in many US counties, even as many continue losing population--except Manhattan. Meanwhile, the scandal surrounding Tokyo&#39;s Olympics is causing struggles for Sapporo&#39;s bid for the Winter Games 2030. Regarding international politics, Biden has publicly criticized Israel for the first time, after promising not to interfere in their domestic politics when he took office. As for Donald Trump, Fox News is giving him cold receptions when he appears on it; his last appearance was on &#39;Hannity&#39; after being away from the network for months.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Mexico Investigates Migrant Deaths in Border City Fire as Homicide Case</h3>
 <sub>By Simon Romero, Natalie Kitroeff and Eileen Sullivan</sub>
 <p>The authorities identified eight suspects and said government workers and private security workers had done nothing to help migrants flee the blaze at a detention center in Ciudad Juárez.  <a href="https://nyti.ms/3M27pNN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>México investiga como homicidio las muertes de las víctimas del incendio en Ciudad Juárez</h3>
+<sub>By Simon Romero, Natalie Kitroeff and Eileen Sullivan</sub>
+<p>Las autoridades identificaron a ocho sospechosos y dijeron que trabajadores del gobierno y de seguridad privada no habían hecho nada para ayudar a los migrantes a escapar del incendio.  <a href="https://nyti.ms/40GJmbi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -78,6 +84,12 @@ Recently, there has been a lot happening in the world. In Mexico, authorities ar
 <h3>After Mass Shootings, Republicans Expand Access to Guns</h3>
 <sub>By Mike Baker, Serge F. Kovaleski and Glenn Thrush</sub>
 <p>In states around the country, Republican lawmakers are pushing laws to expand the ability to own and carry firearms.  <a href="https://nyti.ms/3lULFJ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Soldiers Massing Near Ukrainian Nuclear Plant, U.N. Official Warns</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Amid signs of offensives and counteroffensives, concern is rekindling about what it will mean for the biggest nuclear plant in Europe.  <a href="https://nyti.ms/3ZusEep"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,15 +105,21 @@ Recently, there has been a lot happening in the world. In Mexico, authorities ar
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Immigration Tripled in Top U.S. Counties Even as Many of Them Lost Population</h3>
+<sub>By Robert Gebeloff, Dana Goldstein and Stefanos Chen</sub>
+<p>New census data reveals where people are moving to — and from. And it reveals one exception to current trends: Manhattan.  <a href="https://nyti.ms/3G2qwnh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Tokyo Olympics Scandal Fouls Hopes for a Sapporo Winter Games</h3>
+<sub>By Ben Dooley and Hisako Ueno</sub>
+<p>The International Olympic Committee was already struggling to find hosts for the Winter Games. Sapporo’s flailing 2030 bid has added another headache.  <a href="https://nyti.ms/3lNMjbB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden’s Confrontation With Netanyahu Had Been Brewing for Years</h3>
 <sub>By Katie Rogers and Michael Crowley</sub>
 <p>The president’s decision to publicly criticize Israel is highly unusual for a leader who has pledged not to interfere in the country’s domestic politics.  <a href="https://nyti.ms/3Zs46Ta"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Soldiers Massing Near Ukrainian Nuclear Plant, U.N. Official Warns</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Amid signs of offensives and counteroffensives, concern is rekindling about what it will mean for the biggest nuclear plant in Europe.  <a href="https://nyti.ms/3ZusEep"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,24 +132,6 @@ Recently, there has been a lot happening in the world. In Mexico, authorities ar
 <h3>Trump’s Return to Fox News Gets a Cool Reception … on Fox News</h3>
 <sub>By Michael M. Grynbaum</sub>
 <p>The network used to be a safe space for the former president. But Brian Kilmeade, Jason Chaffetz and others had tough words for his appearance on “Hannity,” his first Fox interview in months.  <a href="https://nyti.ms/40nL3L6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Liberal Maverick Fighting Race-Based Affirmative Action</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>For decades, Richard Kahlenberg has pushed for a class-conscious approach to college admissions. He may finally get his wish, but it comes at a personal cost.  <a href="https://nyti.ms/3Zlrzp3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>How a TikToker Brought Hundreds of Transplants to a Midwestern City</h3>
-<sub>By Anna Kodé</sub>
-<p>People hoping to become homeowners have answered the call to relocate to Peoria, Ill., where the housing is affordable and a one-person welcoming committee awaited them.  <a href="https://nyti.ms/3ZorPUq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>In the Face of Tragedy, Petitioning God Is an Act of Faith</h3>
-<sub>By David French</sub>
-<p>‘We’re praying for you’ has been ridiculed as an empty phrase. But it can be an incitement to action rather than an excuse for inaction.  <a href="https://nyti.ms/3JTWh2T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
