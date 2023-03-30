@@ -60,54 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 30, Central Standard Time</p>
 <p>
-There have been a few major stories in the world recently. In Ukraine, commanders are saying that they&#39;re turning back a Russian assault on an eastern city, but soldiers are saying it&#39;s come at a high cost. In Russia, a Wall Street Journal reporter has been detained and accused of espionage, but the newspaper denies the allegations. Mexico is investigating the deaths of migrants in a fire as a homicide case, with eight suspects identified so far. In the US, Republicans have been pushing laws to expand access to guns in response to mass shootings and Democrats have called for action but Republicans say they have done all they can. Additionally, a billionaire named Guo Wengui has been accused of fraud across two continents and census data has reveled immigration rates are rising in certain counties while populations have remained stagnant elsewhere. Lastly, teenage killings in New York City have been increasing and nine soldiers were killed when army helicopters collided over Kentucky.</p>
+There is a lot going on in the world right now. In Ukraine, Russian forces have been using up their reserves trying to take control of the city Bakhmut, but at a high cost in Ukrainian lives. Finland is considering joining NATO in a move that would be a diplomatic and strategic setback for Russia. Russia has also detained an American journalist from the Wall Street Journal, claiming he was involved in espionage. Meanwhile, Middle Eastern police forces are beginning to use artificial intelligence to help with their policing efforts. Publishers are worried because AI chatbots may reduce how often people visit their websites. And there is discussion about how to use AI chatbots like ChatGPT, which can generate larger language models with better results. On top of all this, nine soldiers were killed after two army helicopters collided over Kentucky and Florida&#39;s Disney World has sidestepped the Governor&#39;s oversight board without anyone noticing until recently. Lastly, JPMorgan chief executive Jamie Dimon has led an effort to raise $30 billion for First Republic Bank and President Biden has called for increased oversight of certain banks due to Silicon Valley Bank&#39;s failure earlier this month.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainians Directing Soldiers From a Hidden Hub See Bakhmut Going Their Way</h3>
+<h3>Ukrainians in a Hidden Command Post See Bakhmut Going Their Way</h3>
 <sub>By Carlotta Gall</sub>
-<p>Ukrainian commanders say they have exhausted Russia’s relentless assaults on the eastern city, though soldiers say the cost in lives has been steep.  <a href="https://nyti.ms/3KhuGcr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ukrainian commanders said that Russia exhausted all its reserves on the eastern city, though soldiers said the cost in lives had been steep.  <a href="https://nyti.ms/3KhuGcr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Finland’s accession to NATO would be a diplomatic and strategic setback for Russia.</h3>
+<sub>By Steven Erlanger</sub>
+<p>  <a href="https://nyti.ms/3nBTB2k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia detains a Wall Street Journal reporter, accusing him of espionage.</h3>
 <sub>By Daniel Victor and Michael M. Grynbaum</sub>
-<p>The newspaper said it “vehemently denies the allegations” against Evan Gershkovich, an American, and called for his immediate release.  <a href="https://nyti.ms/3ns5HLv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The newspaper said it “vehemently denies the allegations” against Evan Gershkovich, an American, and the White House called his detention “unacceptable.”  <a href="https://nyti.ms/3ns5HLv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mexico Investigates Migrant Deaths in Border City Fire as Homicide Case</h3>
-<sub>By Simon Romero, Natalie Kitroeff and Eileen Sullivan</sub>
-<p>The authorities identified eight suspects and said government workers and private security workers had done nothing to help migrants flee the blaze at a detention center in Ciudad Juárez.  <a href="https://nyti.ms/3M27pNN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Mass Shootings, Republicans Expand Access to Guns</h3>
-<sub>By Mike Baker, Serge F. Kovaleski and Glenn Thrush</sub>
-<p>In states around the country, Republican lawmakers are pushing laws to expand the ability to own and carry firearms.  <a href="https://nyti.ms/3lULFJ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Shooting Prompts a Shrug in Washington, as G.O.P. Rejects Pleas to Act</h3>
-<sub>By Annie Karni</sub>
-<p>President Biden said he had reached the limit of his powers to act alone on gun violence, and needed Congress to respond. Republicans said they had already done all they were willing to do.  <a href="https://nyti.ms/3JU7qRh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Undoing of Guo Wengui, Billionaire Accused of Fraud on 2 Continents</h3>
-<sub>By Michael Forsythe and Benjamin Weiser</sub>
-<p>He cultivated powerful allies and built an empire in China. Then, fleeing charges, he turned his charms on America. Now the law has caught up with him.  <a href="https://nyti.ms/40z2EA4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A.I., Brain Scans and Cameras: The Spread of Police Surveillance Tech</h3>
+<sub>By Paul Mozur and Adam Satariano</sub>
+<p>In the Middle East, artificial intelligence and other emerging technologies have become part of everyday policing.  <a href="https://nyti.ms/42UpHXy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Immigration Tripled in Top U.S. Counties Even as Many of Them Lost Population</h3>
-<sub>By Robert Gebeloff, Dana Goldstein and Stefanos Chen</sub>
-<p>New census data reveals where people are moving to — and from. And it reveals one exception to current trends: Manhattan.  <a href="https://nyti.ms/3G2qwnh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Publishers Worry A.I. Chatbots Will Cut Readership</h3>
+<sub>By Katie Robertson</sub>
+<p>Many sites get at least half their traffic from search engines. Fuller results generated by new chatbots could mean far fewer visitors.  <a href="https://nyti.ms/3G16FEQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Behind a Surge in Teenage Killings: Grief, Anger and Online Grudges</h3>
-<sub>By Hurubie Meko</sub>
-<p>Teenagers in New York City were arrested and charged with murder at a rate that grew twice as fast as the rate for adults between 2018 and 2022.  <a href="https://nyti.ms/3JWjLVk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Should I Use A.I. Chatbots Like ChatGPT?</h3>
+<sub>By Kevin Roose</sub>
+<p>Large language models are already good at a wide variety of tasks.  <a href="https://nyti.ms/3lLOUmo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,23 +104,35 @@ There have been a few major stories in the world recently. In Ukraine, commander
 <p>Two Black Hawk helicopters from the 101st Airborne Division collided on Wednesday night near Fort Campbell. The Army said it did not yet know a cause.  <a href="https://nyti.ms/3LYUHzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Tokyo Olympics Scandal Fouls Hopes for a Sapporo Winter Games</h3>
-<sub>By Ben Dooley and Hisako Ueno</sub>
-<p>The International Olympic Committee was already struggling to find hosts for the Winter Games. Sapporo’s flailing 2030 bid has added another headache.  <a href="https://nyti.ms/3lNMjbB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Disney’s Feud With DeSantis Adds Another Wrinkle</h3>
+<sub>By Brooks Barnes</sub>
+<p>The Florida governor’s new Disney World oversight board belatedly realized that the company had quietly sidestepped its control.  <a href="https://nyti.ms/3zkghqA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Whole New (Old) Ballgame</h3>
-<sub>By Tyler Kepner</sub>
-<p>With three major rule changes this season, Major League Baseball will try to reinvent itself while looking to the game’s past for inspiration.  <a href="https://nyti.ms/3nmq9xx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, March 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>It’s a Really Weird Time to Be an Umpire</h3>
+<sub>By Devin Gordon</sub>
+<p>With replay cameras watching every call, it has become an increasingly stressful job — and baseball’s new rules will just make it harder.  <a href="https://nyti.ms/3lTvAUc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>On Opening Day, Teams Put Their Best Arms Forward</h3>
-<sub>By Benjamin Hoffman</sub>
-<p>Aces around the majors are ready to go, with the Yankees’ Gerrit Cole facing Logan Webb of the Giants and the Mets’ Max Scherzer facing Sandy Alcantara of the Marlins.  <a href="https://nyti.ms/3KgRkml"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Mass Shootings, Republicans Expand Access to Guns</h3>
+<sub>By Mike Baker, Serge F. Kovaleski and Glenn Thrush</sub>
+<p>In states around the country, Republican lawmakers are pushing laws to expand the ability to own and carry firearms.  <a href="https://nyti.ms/3lULFJ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Jamie Dimon Reprises 2008 Role as Rescuer of a Failing Bank</h3>
+<sub>By Rob Copeland and Maureen Farrell</sub>
+<p>The JPMorgan chief executive led an effort to raise $30 billion for First Republic, but no one is sure if it did any good.  <a href="https://nyti.ms/40tA42U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Calls for Regulators to Increase Oversight of Certain Banks</h3>
+<sub>By Jim Tankersley</sub>
+<p>The proposals, which would not require congressional approval, are a response to Silicon Valley Bank’s failure earlier this month, which sent shocks through the financial system.  <a href="https://nyti.ms/3TZj8is"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
