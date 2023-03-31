@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 30, Central Standard Time</p>
 <p>
-Things are a bit chaotic in the world right now. In Russia, they are cracking down on Western media, arresting an American reporter and making it harder for the West and Russia to interact. Meanwhile in Ukraine, there is a standoff between Russian and Ukrainian forces that has been costly for both sides but seems to be working in the Ukrainians favor. 
-
-In the US, Republican lawmakers are pushing for expanded access to firearms despite numerous mass shootings that have taken place recently. On the immigration front, some popular US counties are seeing an influx of people even as most other places see population decline. The exception to this pattern is New York City&#39;s Manhattan borough.
-
-It&#39;s also busy in the sports world with baseball season officially starting today. MLB teams are playing their first games and Aaron Judge already hit a home run in the Yankees&#39; win. There is also a pitch clock now, with Marcus Stroman of the Cubs getting the first pitch clock violation!</p>
+It looks like the United States is dealing with a lot of major political issues right now. Former President Donald Trump is facing prosecution and it could set a dangerous precedent. In Russia, they&#39;ve arrested an American reporter, which is behaviour not seen since the Cold War. Meanwhile, Nebraska is fighting over transgender rights and Florida Governor DeSantis&#39;s allies just discovered that Disney was able to sidestep some of their oversight. Plus, Jared Kushner&#39;s firm just got a ton of money from two Persian Gulf nations, and then there have been several arrests related to a terrible fire at a Mexican migrant center that left 39 dead. On the plus side, the Yankees nominated their Opening Day game and even the Mets got a win despite bad news about one of their pitchers.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A President Faces Prosecution, and a Democracy Is Tested</h3>
+<sub>By Peter Baker</sub>
+<p>For more than two centuries, American presidents were effectively shielded from indictment. But the case against former President Donald J. Trump breaks that taboo and sets a new precedent.  <a href="https://nyti.ms/40PfiKN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>At Mar-a-Lago, Trump’s Camp Is Caught Off Guard</h3>
+<sub>By Maggie Haberman</sub>
+<p>The former president’s aides had believed that any action by the grand jury was still weeks away.  <a href="https://nyti.ms/3K0ZT35"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Arrest of American Reporter, Russia Doubles Down on Isolation From West</h3>
 <sub>By Anton Troianovski</sub>
@@ -73,21 +81,15 @@ It&#39;s also busy in the sports world with baseball season officially starting 
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainians in a Hidden Command Post See Bakhmut Going Their Way</h3>
-<sub>By Carlotta Gall</sub>
-<p>Ukrainian commanders said that Russia exhausted all its reserves on the eastern city, though soldiers said the cost in lives had been steep.  <a href="https://nyti.ms/3KhuGcr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Sweden’s bid to join NATO remains blocked by Turkey and Hungary.</h3>
+<sub>By Steven Erlanger</sub>
+<p>  <a href="https://nyti.ms/40QiqWD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A.I., Brain Scans and Cameras: The Spread of Police Surveillance Tech</h3>
-<sub>By Paul Mozur and Adam Satariano</sub>
-<p>In the Middle East, artificial intelligence and other emerging technologies have become part of everyday policing.  <a href="https://nyti.ms/42UpHXy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Should I Use A.I. Chatbots Like ChatGPT?</h3>
-<sub>By Kevin Roose</sub>
-<p>Large language models are already good at a wide variety of tasks.  <a href="https://nyti.ms/3lLOUmo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nebraska’s Fight Over Transgender Care Turns Personal and Snarls Lawmaking</h3>
+<sub>By Ernesto Londoño</sub>
+<p>One state senator has been filibustering for weeks, trying to block a bill that would ban transition-related medical treatment for young people.  <a href="https://nyti.ms/3nxY3iR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -96,46 +98,40 @@ It&#39;s also busy in the sports world with baseball season officially starting 
 <p>The Florida governor’s new Disney World oversight board belatedly realized that the company had quietly sidestepped its control.  <a href="https://nyti.ms/3zkghqA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>What We Haven’t Learned From the First Chapter of the Republican Primary</h3>
-<sub>By Nate Cohn</sub>
-<p>It’s premature to reach any meaningful conclusion about DeSantis’s chances to defeat Trump.  <a href="https://nyti.ms/40ubGxZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Reunites With a Key Adviser as Campaign Plans Unfold</h3>
+<sub>By Jonathan Swan and Maggie Haberman</sub>
+<p>A central area of expertise for Dustin Carmack, who will leave his post at the Heritage Foundation, is national security, with a focus on cybersecurity.  <a href="https://nyti.ms/3G55OTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kushner’s Firm Was Backed by Investments From the Emirates and Qatar</h3>
+<h3>Kushner Firm Got Hundreds of Millions From 2 Persian Gulf Nations</h3>
 <sub>By Jonathan Swan, Kate Kelly, Maggie Haberman and Mark Mazzetti</sub>
-<p>The infusion of money from interests in the two Persian Gulf monarchies reflects the close ties to Middle Eastern nations established by Jared Kushner, former President Donald Trump’s son-in-law.  <a href="https://nyti.ms/42QvrBA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The infusion of money from interests in the two Persian Gulf monarchies reflects the close ties to Middle Eastern countries established by Jared Kushner, former President Donald Trump’s son-in-law.  <a href="https://nyti.ms/42QvrBA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Five Arrested in Migration Center Fire That Left 39 Dead in Mexico</h3>
+<sub>By Natalie Kitroeff and Emiliano Rodríguez Mega</sub>
+<p>The authorities said arrest warrants had been obtained for three government migration officials, two private security workers and a migrant accused of starting the blaze.  <a href="https://nyti.ms/3zpNYHa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>9 Soldiers Killed After Army Helicopters Collide Over Kentucky</h3>
-<sub>By Mike Ives and Jenny Gross</sub>
-<p>Two Black Hawk helicopters from the 101st Airborne Division collided on Wednesday night near Fort Campbell. The Army said it did not yet know a cause.  <a href="https://nyti.ms/3LYUHzD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>It’s a Really Weird Time to Be an Umpire</h3>
-<sub>By Devin Gordon</sub>
-<p>With replay cameras watching every call, it has become an increasingly stressful job — and baseball’s new rules will just make it harder.  <a href="https://nyti.ms/3lTvAUc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Mass Shootings, Republicans Expand Access to Guns</h3>
-<sub>By Mike Baker, Serge F. Kovaleski and Glenn Thrush</sub>
-<p>In states around the country, Republican lawmakers are pushing laws to expand the ability to own and carry firearms.  <a href="https://nyti.ms/3lULFJ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Immigration Tripled in Top U.S. Counties Even as Many of Them Lost Population</h3>
-<sub>By Robert Gebeloff, Dana Goldstein and Stefanos Chen</sub>
-<p>New census data reveals where people are moving to — and from. And it reveals one exception to current trends: Manhattan.  <a href="https://nyti.ms/3G2qwnh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
+<h3>U.S. Border Policies Have Created a Volatile Logjam in Mexico</h3>
+<sub>By Miriam Jordan and Edgar Sandoval</sub>
+<p>As the United States has cracked down on border entries, Mexico is bearing the burden of housing and feeding tens of thousands of desperate migrants.  <a href="https://nyti.ms/3lTkXAH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Baseball Moves Quickly, and Gets Its First Pitch Clock Violation</h3>
-<sub>By Benjamin Hoffman</sub>
-<p>On a busy opening day, every team is in action. Aaron Judge already homered in a quick Yankees win and Marcus Stroman of the Cubs got M.L.B.’s first pitch clock violation.  <a href="https://nyti.ms/3ZBB2sM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Opening Day Gives Yankees Plenty of Reason to Dream</h3>
+<sub>By Tyler Kepner and Hiroko Masuike</sub>
+<p>Everything went well in the Bronx. Gerrit Cole cruised, Aaron Judge homered and Anthony Volpe made his major league debut in an easy win over San Francisco.  <a href="https://nyti.ms/3nBBaLb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Mets Get Some Bad News, but Walk Away With a Win</h3>
+<sub>By James Wagner</sub>
+<p>The ace right-hander Justin Verlander’s being put on the injured list will test the team’s depth, but Max Scherzer and the Mets’ bullpen were enough to beat Miami.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
