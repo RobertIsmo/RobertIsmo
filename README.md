@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, March 30, Central Standard Time</p>
 <p>
-It looks like the United States is dealing with a lot of major political issues right now. Former President Donald Trump is facing prosecution and it could set a dangerous precedent. In Russia, they&#39;ve arrested an American reporter, which is behaviour not seen since the Cold War. Meanwhile, Nebraska is fighting over transgender rights and Florida Governor DeSantis&#39;s allies just discovered that Disney was able to sidestep some of their oversight. Plus, Jared Kushner&#39;s firm just got a ton of money from two Persian Gulf nations, and then there have been several arrests related to a terrible fire at a Mexican migrant center that left 39 dead. On the plus side, the Yankees nominated their Opening Day game and even the Mets got a win despite bad news about one of their pitchers.</p>
+There are a lot of big things happening in the world right now. In the US, there is a precedent-setting case against former President Donald Trump involving his potential prosecution. In Mexico, five people have been arrested following a deadly fire in a migration center, as many desperate migrants are being held up by the US&#39;s new border policies. In Finland, it has cleared the last hurdle to joining NATO and is a significant defeat for Russia&#39;s President Vladimir V. Putin. Additionally, in Florida there&#39;s an effort to rein in Disney World and former President Trump&#39;s adviser has returned for campaigning purposes. Lastly, an interesting ski crash trial involving Gwyneth Paltrow and an online debate about who skied into whom has been captivating the public!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A President Faces Prosecution, and a Democracy Is Tested</h3>
@@ -75,15 +75,15 @@ It looks like the United States is dealing with a lot of major political issues 
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Arrest of American Reporter, Russia Doubles Down on Isolation From West</h3>
-<sub>By Anton Troianovski</sub>
-<p>The Kremlin, which accused a Wall Street Journal correspondent of being a spy, made a move not seen since the Cold War, further raising the barriers between Russia and the West.  <a href="https://nyti.ms/42RjXh7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Finland Clears Last Hurdle to Joining NATO</h3>
+<sub>By Steven Erlanger</sub>
+<p>Finland’s entry into the military alliance after Turkey formally signed off is a significant defeat for President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/40vAW71"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Sweden’s bid to join NATO remains blocked by Turkey and Hungary.</h3>
-<sub>By Steven Erlanger</sub>
-<p>  <a href="https://nyti.ms/40QiqWD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Arrest of American Reporter, Russia Doubles Down on Isolation From West</h3>
+<sub>By Anton Troianovski</sub>
+<p>The Kremlin, which accused a Wall Street Journal correspondent of being a spy, made a move not seen since the Cold War, further raising the barriers between Russia and the West.  <a href="https://nyti.ms/42RjXh7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +122,16 @@ It looks like the United States is dealing with a lot of major political issues 
 <p>As the United States has cracked down on border entries, Mexico is bearing the burden of housing and feeding tens of thousands of desperate migrants.  <a href="https://nyti.ms/3lTkXAH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Opening Day Gives Yankees Plenty of Reason to Dream</h3>
-<sub>By Tyler Kepner and Hiroko Masuike</sub>
-<p>Everything went well in the Bronx. Gerrit Cole cruised, Aaron Judge homered and Anthony Volpe made his major league debut in an easy win over San Francisco.  <a href="https://nyti.ms/3nBBaLb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jury Finds Gwyneth Paltrow Not Liable in Damages Over the Crash</h3>
+<sub>By Remy Tumin</sub>
+<p>The verdict came after more than a week of testimony that covered skiing etiquette, medical history and celebrity culture.  <a href="https://nyti.ms/42UEIbD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Mets Get Some Bad News, but Walk Away With a Win</h3>
-<sub>By James Wagner</sub>
-<p>The ace right-hander Justin Verlander’s being put on the injured list will test the team’s depth, but Max Scherzer and the Mets’ bullpen were enough to beat Miami.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Just Try Looking Away From Gwyneth Paltrow’s Ski Crash Trial</h3>
+<sub>By Lauren McCarthy and Remy Tumin</sub>
+<p>The actress-turned-businesswoman is at the center of a trial that has become a fierce debate over a simple question: Who skied into whom? The online public is rapt.  <a href="https://nyti.ms/3JXDd3Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
