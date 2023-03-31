@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 31, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! Former U.S. President Donald Trump is facing criminal prosecution, which has caused a lot of outrage from Republicans who think he is being treated unfairly. We also know that he paid hush money to a porn star, and might turn himself soon. In Russia, there was an arrest of an American reporter as the country continues to distance itself from the West in a move not seen since the Cold War. In France, locals are expressing anger towards President Macron, making their discontent known through protests and damaging public buildings like City Hall. Elsewhere, Big Tech stocks have masked turmoil in the stock market while Bitcoin&#39;s price has soared this month but investors see it as an uncertain financial alternative. Inflation rates continue to fall across the Eurozone and debates over transgender rights dominate conversations in Nebraska and Kentucky as local lawmakers try to ban transition-related medical treatment for young people.</p>
+Right now, there is a lot happening in the world. In the US, former President Donald J. Trump has been indicted, which breaks a two-century-old taboo against indicting presidents. In Russia, American reporter have been arrested and accused of spying, which is not something we’ve seen since the Cold War. Finland is on their way to joining NATO, which is a significant defeat for Russian President Vladimir V. Putin. There is also some unrest in France due to government actions that have angered some people in Bordeaux and elsewhere. Here in the US, Nashville is still grieving from a recent school shooting and trying to cope with its political divisions. On the environmental front, California is planning to require half of all heavy trucks sold by 2035 to be electric in order to reduce carbon dioxide emissions. Finally, Big Tech and Wall Street are both in the news for various reasons: Big Techs massive profits are leading some central bankers to worry about persistent inflation, while Wall Street’s crisis in March was camouflaged thanks to the rally of technology stocks.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A President Faces Prosecution, and a Democracy Is Tested</h3>
 <sub>By Peter Baker</sub>
 <p>For more than two centuries, American presidents were effectively shielded from indictment. But the case against former President Donald J. Trump breaks that taboo and sets a new precedent.  <a href="https://nyti.ms/40PfiKN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Erupt in Outrage and Rush to Defend the Defendant</h3>
-<sub>By Michael C. Bender and Maggie Haberman</sub>
-<p>Many in the party said Donald Trump could benefit from a wave of sympathy among Republicans, with his base of supporters likely to be energized by a belief in a weaponized justice system.  <a href="https://nyti.ms/3M4FigY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -93,9 +87,33 @@ There is a lot going on in the world right now! Former U.S. President Donald Tru
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Finland Clears Last Hurdle to Joining NATO</h3>
+<sub>By Steven Erlanger</sub>
+<p>Finland’s entry into the military alliance after Turkey formally signed off is a significant defeat for President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/40vAW71"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>French Anger at Macron Seeps Into Unexpected Corners</h3>
 <sub>By Catherine Porter and Andrea Mantovani</sub>
 <p>Even Bordeaux, known for its surrounding vineyards and conservative politics, has become a flashpoint. The City Hall’s charred doors attest to that.  <a href="https://nyti.ms/42XAm3N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After School Shooting, Nashville Grieves and Ponders Its Divisions</h3>
+<sub>By Richard Fausset</sub>
+<p>For decades, Nashville has prospered while finding common ground between urban and rural, left and right, state and city. In a partisan era, that’s becoming much harder.  <a href="https://nyti.ms/3U6b9A8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>California to Require Half of All Heavy Trucks Sold by 2035 to Be Electric</h3>
+<sub>By Coral Davenport</sub>
+<p>The state is setting strict limits to try to eliminate carbon dioxide emissions from transportation, the sector of the American economy that generates the most greenhouse gases.  <a href="https://nyti.ms/3KkOnkG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>New Rules Will Make Many Electric Cars Ineligible for Tax Credits</h3>
+<sub>By Ana Swanson and Jack Ewing</sub>
+<p>The Biden administration hopes its guidelines for up to $7,500 in tax credits will encourage automakers to reduce their reliance on China for batteries and raw materials.  <a href="https://nyti.ms/3KmOmMY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,35 +122,17 @@ There is a lot going on in the world right now! Former U.S. President Donald Tru
 <p>Investors in the S&amp;P 500 are highly dependent on the fate of Microsoft, Apple and other big technology stocks. A rally in March showed how this can mask turmoil in the rest of the market.  <a href="https://nyti.ms/40RYBhE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Has Bitcoin Benefited From the Banking Crisis? Not in the Way Its Fans Hoped.</h3>
-<sub>By David Yaffe-Bellany</sub>
-<p>Bitcoin’s price has soared since banks failed this month, but there’s little evidence that the surge is being driven by investors treating the virtual currency as a financial alternative.  <a href="https://nyti.ms/3JZ8ALp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Fed’s Preferred Inflation Gauge Cooled Notably in February</h3>
+<sub>By Jeanna Smialek</sub>
+<p>A closely watched measure of price increases provided encouraging news as the Fed considers when to stop raising rates.  <a href="https://nyti.ms/3KnTXTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Fed Is Doing Too Much, All at Once</h3>
-<sub>By Jeff Sommer</sub>
-<p>In its fight against inflation, the Federal Reserve has contributed to the bank failures and economic instability that it is now trying to fix, our columnist says.  <a href="https://nyti.ms/3m1ieoL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Are Big Profits Keeping Prices High? Some Central Bankers Are Concerned</h3>
+<sub>By Eshe Nelson</sub>
+<p>Companies’ rising profit margins could be contributing to persistent inflation, a European Central Bank policymaker says.  <a href="https://nyti.ms/42TTC1Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Eurozone Inflation Continues to Fall, as Energy Prices Ease</h3>
-<sub>By Melissa Eddy</sub>
-<p>The rate of inflation in countries using the euro slipped to 6.9 percent in the year through March, from 8.5 percent the previous month, but underlying price gains edged higher.  <a href="https://nyti.ms/3K2Infb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nebraska’s Fight Over Transgender Care Turns Personal and Snarls Lawmaking</h3>
-<sub>By Ernesto Londoño</sub>
-<p>One state senator has been filibustering for weeks, trying to block a bill that would ban transition-related medical treatment for young people.  <a href="https://nyti.ms/3nxY3iR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Lawmakers Override Kentucky Governor’s Veto on Anti-Trans Law</h3>
-<sub>By Campbell Robertson and Ernesto Londoño</sub>
-<p>The Kentucky measure bans access to gender-transition care for young people, and West Virginia’s governor signed a similar bill on Wednesday. Passage of bans also appears imminent in Idaho and Missouri.  <a href="https://nyti.ms/3TRfWVZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
