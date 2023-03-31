@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 31, Central Standard Time</p>
 <p>
-Right now, there is a lot happening in the world. In the US, former President Donald J. Trump has been indicted, which breaks a two-century-old taboo against indicting presidents. In Russia, American reporter have been arrested and accused of spying, which is not something we’ve seen since the Cold War. Finland is on their way to joining NATO, which is a significant defeat for Russian President Vladimir V. Putin. There is also some unrest in France due to government actions that have angered some people in Bordeaux and elsewhere. Here in the US, Nashville is still grieving from a recent school shooting and trying to cope with its political divisions. On the environmental front, California is planning to require half of all heavy trucks sold by 2035 to be electric in order to reduce carbon dioxide emissions. Finally, Big Tech and Wall Street are both in the news for various reasons: Big Techs massive profits are leading some central bankers to worry about persistent inflation, while Wall Street’s crisis in March was camouflaged thanks to the rally of technology stocks.</p>
+There is a lot going on in the world right now. In the US, a former president, Donald Trump, is facing prosecution, which has caused political uproar and seen Republicans rush to defend him. Meanwhile, Democrats are feeling both joy and anxiety due to this consequential moment. Elsewhere, a strange odyssey through Russian prisons has begun for Ukrainian convicts and Putin&#39;s allies are facing legal disputes as an international criminal court steps in. Technology-wise, people have been falsely accused of crimes because of faulty facial recognition technology and Google CEO Sundar Pichai is expressing optimism and worry over the state of the AI race. California is also introducing electric truck limits to try and reduce carbon dioxide emissions while Biden&#39;s new rules will make electric cars ineligible for certain tax credits. Lastly, Nashville is currently grieving after a school shooting and desperately trying to find common ground between opposing sides.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A President Faces Prosecution, and a Democracy Is Tested</h3>
@@ -68,11 +68,17 @@ Right now, there is a lot happening in the world. In the US, former President Do
 <p>For more than two centuries, American presidents were effectively shielded from indictment. But the case against former President Donald J. Trump breaks that taboo and sets a new precedent.  <a href="https://nyti.ms/40PfiKN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What We Know About the Indictment of Donald Trump, and What Comes Next</h3>
-<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
-<p>Mr. Trump was indicted over his role in paying hush money to a porn star, and likely plans to turn himself in on Tuesday, a lawyer has said.  <a href="https://nyti.ms/3lVqDu1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Erupt in Outrage and Rush to Defend the Defendant</h3>
+<sub>By Michael C. Bender and Maggie Haberman</sub>
+<p>Many in the party said Donald Trump could benefit from a wave of sympathy among Republicans, with his base of supporters likely to be energized by a belief in a weaponized justice system.  <a href="https://nyti.ms/3M4FigY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Joy, vindication and anxiety: Democrats absorb a consequential moment.</h3>
+<sub>By Katie Glueck and Reid J. Epstein</sub>
+<p>“We’ve been waiting for the dam to break for six years,” one Democrat in South Carolina said of Donald Trump’s indictment.  <a href="https://nyti.ms/3KoV7OD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>For Ukrainian Convicts, a Strange Odyssey Through Russian Prisons</h3>
@@ -81,27 +87,33 @@ Right now, there is a lot happening in the world. In the US, former President Do
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Arrest of American Reporter, Russia Doubles Down on Isolation From West</h3>
-<sub>By Anton Troianovski</sub>
-<p>The Kremlin, which accused a Wall Street Journal correspondent of being a spy, made a move not seen since the Cold War, further raising the barriers between Russia and the West.  <a href="https://nyti.ms/40FUeGC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Finland Clears Last Hurdle to Joining NATO</h3>
-<sub>By Steven Erlanger</sub>
-<p>Finland’s entry into the military alliance after Turkey formally signed off is a significant defeat for President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/40vAW71"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>French Anger at Macron Seeps Into Unexpected Corners</h3>
-<sub>By Catherine Porter and Andrea Mantovani</sub>
-<p>Even Bordeaux, known for its surrounding vineyards and conservative politics, has become a flashpoint. The City Hall’s charred doors attest to that.  <a href="https://nyti.ms/42XAm3N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Putin Allies Must Decide Whether to Host a Wanted Man</h3>
+<sub>By Anushka Patil and John Eligon</sub>
+<p>The International Criminal Court’s arrest warrant for President Vladimir V. Putin could thrust his allies into domestic and foreign legal disputes, experts say.  <a href="https://nyti.ms/42WsAXJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After School Shooting, Nashville Grieves and Ponders Its Divisions</h3>
-<sub>By Richard Fausset</sub>
-<p>For decades, Nashville has prospered while finding common ground between urban and rural, left and right, state and city. In a partisan era, that’s becoming much harder.  <a href="https://nyti.ms/3U6b9A8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Thousands of Dollars for Something I Didn’t Do’</h3>
+<sub>By Kashmir Hill and Ryan Mac</sub>
+<p>Because of a bad facial recognition match and other hidden technology, Randal Reid spent nearly a week in jail, falsely accused of stealing purses in a state he said he had never even visited.  <a href="https://nyti.ms/40tHPpF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google C.E.O. Sundar Pichai on the A.I. Moment: ‘You Will See Us Be Bold’</h3>
+<sub>By Kevin Roose</sub>
+<p>In an extended interview, Mr. Pichai expressed both optimism and worry about the state of the A.I. race.  <a href="https://nyti.ms/42Nyjiu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>ChatGPT Is Banned in Italy Over Privacy Concerns</h3>
+<sub>By Adam Satariano</sub>
+<p>The action by Italy’s data protection agency is the first known instance of the chatbot being blocked by a government order.  <a href="https://nyti.ms/3ZwVIC5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>What’s the Future for A.I.?</h3>
+<sub>By Cade Metz</sub>
+<p>Where we’re heading tomorrow, next year and beyond.  <a href="https://nyti.ms/40NMuCy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -116,22 +128,10 @@ Right now, there is a lot happening in the world. In the US, former President Do
 <p>The Biden administration hopes its guidelines for up to $7,500 in tax credits will encourage automakers to reduce their reliance on China for batteries and raw materials.  <a href="https://nyti.ms/3KmOmMY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Big Tech Camouflaged Wall Street’s Crisis in March</h3>
-<sub>By Joe Rennison and Eli Murray</sub>
-<p>Investors in the S&amp;P 500 are highly dependent on the fate of Microsoft, Apple and other big technology stocks. A rally in March showed how this can mask turmoil in the rest of the market.  <a href="https://nyti.ms/40RYBhE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Fed’s Preferred Inflation Gauge Cooled Notably in February</h3>
-<sub>By Jeanna Smialek</sub>
-<p>A closely watched measure of price increases provided encouraging news as the Fed considers when to stop raising rates.  <a href="https://nyti.ms/3KnTXTu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Are Big Profits Keeping Prices High? Some Central Bankers Are Concerned</h3>
-<sub>By Eshe Nelson</sub>
-<p>Companies’ rising profit margins could be contributing to persistent inflation, a European Central Bank policymaker says.  <a href="https://nyti.ms/42TTC1Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After School Shooting, Nashville Grieves and Ponders Its Divisions</h3>
+<sub>By Richard Fausset</sub>
+<p>For decades, Nashville has prospered while finding common ground between urban and rural, left and right, state and city. In a partisan era, that’s becoming much harder.  <a href="https://nyti.ms/3U6b9A8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
