@@ -60,36 +60,48 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 31, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, a former president, Donald Trump, is facing prosecution, which has caused political uproar and seen Republicans rush to defend him. Meanwhile, Democrats are feeling both joy and anxiety due to this consequential moment. Elsewhere, a strange odyssey through Russian prisons has begun for Ukrainian convicts and Putin&#39;s allies are facing legal disputes as an international criminal court steps in. Technology-wise, people have been falsely accused of crimes because of faulty facial recognition technology and Google CEO Sundar Pichai is expressing optimism and worry over the state of the AI race. California is also introducing electric truck limits to try and reduce carbon dioxide emissions while Biden&#39;s new rules will make electric cars ineligible for certain tax credits. Lastly, Nashville is currently grieving after a school shooting and desperately trying to find common ground between opposing sides.</p>
+Donald Trump has been indicted over his role in paying hush money to a porn star, and he may surrender himself soon. Mitch McConnell, the Senate minority leader, has been silent on Trump&#39;s indictment. The former president and his supporting cast have returned to the media universe in a major way. An obscure change to the way regional banks are supervised has had a big impact on the financial industry, including companies like Schwab that hold billions of dollars in bonds. A large tornado hit Arkansas, and a court ruled that Fox News&#39;s defamation case against Dominion Voting Systems ought to go to trial. In other legal news, technology falsely identified one man for theft in a state he&#39;d never visited. An estate dispute is causing a rift among the children of an artist with a huge body of work worth millions of dollars. South Carolina’s women&#39;s basketball team is trying to win its second consecutive NCAA championship, and Medicare announced it will ease restrictions over-billing by private health plans over three years. Lastly, some people are even knitting during Zoom meetings as another way to focus their minds!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A President Faces Prosecution, and a Democracy Is Tested</h3>
-<sub>By Peter Baker</sub>
-<p>For more than two centuries, American presidents were effectively shielded from indictment. But the case against former President Donald J. Trump breaks that taboo and sets a new precedent.  <a href="https://nyti.ms/40PfiKN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What We Know About the Indictment of Donald Trump, and What Comes Next</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
+<p>Mr. Trump was indicted over his role in paying hush money to a porn star, and likely plans to turn himself in on Tuesday, a lawyer has said.  <a href="https://nyti.ms/3lVqDu1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Erupt in Outrage and Rush to Defend the Defendant</h3>
-<sub>By Michael C. Bender and Maggie Haberman</sub>
-<p>Many in the party said Donald Trump could benefit from a wave of sympathy among Republicans, with his base of supporters likely to be energized by a belief in a weaponized justice system.  <a href="https://nyti.ms/3M4FigY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Joy, vindication and anxiety: Democrats absorb a consequential moment.</h3>
-<sub>By Katie Glueck and Reid J. Epstein</sub>
-<p>“We’ve been waiting for the dam to break for six years,” one Democrat in South Carolina said of Donald Trump’s indictment.  <a href="https://nyti.ms/3KoV7OD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>McConnell is among few high-profile Republicans to stay silent on Trump’s indictment.</h3>
+<sub>By Neil Vigdor</sub>
+<p>Mitch McConnell, the Senate minority leader, had previously been a vocal critic of the former president’s conduct in connection with the Jan. 6, 2021, Capitol attack.  <a href="https://nyti.ms/3Ko2LZp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Ukrainian Convicts, a Strange Odyssey Through Russian Prisons</h3>
-<sub>By Anatoly Kurmanaev, Ekaterina Bodyagina and Ivan Nechepurenko</sub>
-<p>When Russian troops left Kherson, they took with them 2,500 Ukrainian convicts from local prisons. For some, it was the start of a bewildering, five-country journey highlighting the war’s absurdity.  <a href="https://nyti.ms/40wQgQO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Welcome Back to The Trump Show</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>A historic indictment has returned the former president and his supporting cast to the forefront of the media universe.  <a href="https://nyti.ms/3JZisEY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Allies Must Decide Whether to Host a Wanted Man</h3>
-<sub>By Anushka Patil and John Eligon</sub>
-<p>The International Criminal Court’s arrest warrant for President Vladimir V. Putin could thrust his allies into domestic and foreign legal disputes, experts say.  <a href="https://nyti.ms/42WsAXJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How a Trump-Era Rollback Mattered for Silicon Valley Bank’s Demise</h3>
+<sub>By Jeanna Smialek</sub>
+<p>An under-the-radar change to the way regional banks are supervised may have helped the bank’s rapidly growing risks to go unresolved.  <a href="https://nyti.ms/40SyAPE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>Why Schwab, a Financial Giant, Got Hurt in the Regional Banks Panic</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>Like Silicon Valley Bank, the company holds billions in bonds that have declined in value. But it has access to billions in cash, if needed, analysts say, and is much more diversified.  <a href="https://nyti.ms/42SRzLv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Large Tornado Strikes Arkansas as Storms Move Through Midwest and South</h3>
+<sub>By Amanda Holpuch and McKenna Oxenden</sub>
+<p>A tornado in Little Rock forced meteorologists with the local National Weather Service office there to evacuate.  <a href="https://nyti.ms/40QMh1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fox News Suffers Major Setback in Its Defamation Case</h3>
+<sub>By Jeremy W. Peters and Katie Robertson</sub>
+<p>The judge said the case would still need to proceed to trial, for a jury to weigh whether Fox News spread false claims about Dominion Voting Systems, and to determine any damages.  <a href="https://nyti.ms/40SnIkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -98,40 +110,28 @@ There is a lot going on in the world right now. In the US, a former president, D
 <p>Because of a bad facial recognition match and other hidden technology, Randal Reid spent nearly a week in jail, falsely accused of stealing purses in a state he said he had never even visited.  <a href="https://nyti.ms/40tHPpF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google C.E.O. Sundar Pichai on the A.I. Moment: ‘You Will See Us Be Bold’</h3>
-<sub>By Kevin Roose</sub>
-<p>In an extended interview, Mr. Pichai expressed both optimism and worry about the state of the A.I. race.  <a href="https://nyti.ms/42Nyjiu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A Sibling Rivalry Divides a Famous Artist’s Legacy</h3>
+<sub>By Grayson Haver Currin</sub>
+<p>At an auction, 20 of Harry Bertoia’s “sounding sculptures” sold for millions. But his children can’t agree on the future of his work.  <a href="https://nyti.ms/3ns6I6q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>‘I Don’t Want to Let Them Down’</h3>
+<sub>By Jeré Longman</sub>
+<p>As South Carolina seeks its second straight N.C.A.A. women’s basketball championship, Coach Dawn Staley carries the hopes of her family, her team and the generation of coaches she has inspired.  <a href="https://nyti.ms/40wg2EL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>ChatGPT Is Banned in Italy Over Privacy Concerns</h3>
-<sub>By Adam Satariano</sub>
-<p>The action by Italy’s data protection agency is the first known instance of the chatbot being blocked by a government order.  <a href="https://nyti.ms/3ZwVIC5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Medicare Delays a Full Crackdown on Private Health Plans</h3>
+<sub>By Reed Abelson and Margot Sanger-Katz</sub>
+<p>After intense lobbying by insurers, U.S. health officials say curbs aimed at overbilling by Medicare Advantage will be eased in over 3 years.  <a href="https://nyti.ms/40xxSrc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>What’s the Future for A.I.?</h3>
-<sub>By Cade Metz</sub>
-<p>Where we’re heading tomorrow, next year and beyond.  <a href="https://nyti.ms/40NMuCy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>California to Require Half of All Heavy Trucks Sold by 2035 to Be Electric</h3>
-<sub>By Coral Davenport</sub>
-<p>The state is setting strict limits to try to eliminate carbon dioxide emissions from transportation, the sector of the American economy that generates the most greenhouse gases.  <a href="https://nyti.ms/3KkOnkG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>New Rules Will Make Many Electric Cars Ineligible for Tax Credits</h3>
-<sub>By Ana Swanson and Jack Ewing</sub>
-<p>The Biden administration hopes its guidelines for up to $7,500 in tax credits will encourage automakers to reduce their reliance on China for batteries and raw materials.  <a href="https://nyti.ms/3KmOmMY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After School Shooting, Nashville Grieves and Ponders Its Divisions</h3>
-<sub>By Richard Fausset</sub>
-<p>For decades, Nashville has prospered while finding common ground between urban and rural, left and right, state and city. In a partisan era, that’s becoming much harder.  <a href="https://nyti.ms/3U6b9A8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Knitters Say Stitching Helps Them Follow the Thread in Meetings</h3>
+<sub>By April Rubin</sub>
+<p>An official in Wales was called out for knitting in a virtual meeting, setting off a debate over etiquette. Experts say the fine-motor movement activates the parts of the brain used for focus.  <a href="https://nyti.ms/3M5TbMb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
