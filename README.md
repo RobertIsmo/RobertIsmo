@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, March 30, Central Standard Time</p>
+<p>It is Friday, March 31, Central Standard Time</p>
 <p>
-There are a lot of big things happening in the world right now. In the US, there is a precedent-setting case against former President Donald Trump involving his potential prosecution. In Mexico, five people have been arrested following a deadly fire in a migration center, as many desperate migrants are being held up by the US&#39;s new border policies. In Finland, it has cleared the last hurdle to joining NATO and is a significant defeat for Russia&#39;s President Vladimir V. Putin. Additionally, in Florida there&#39;s an effort to rein in Disney World and former President Trump&#39;s adviser has returned for campaigning purposes. Lastly, an interesting ski crash trial involving Gwyneth Paltrow and an online debate about who skied into whom has been captivating the public!</p>
+Currently in the U.S., former President Donald J. Trump is facing criminal indictment, testing a centuries-long precedent that had effectively shielded presidents from prosecution. Meanwhile, in Florida, Disney World has skirted oversight legislation put into place by the governor, and there is a heated debate over a law that would ban transition-related medical treatments for young people. Also in Florida, an aide who has expertise in cybersecurity has joined former President Trump&#39;s campaign team. In Mexico, five people have been arrested over a fire at a migrant center that left 39 dead, while tens of thousands of migrants are stranded in Mexico due to US policies. Finally, Gwyneth Paltrow is on trial for her involvement in a skiing crash, uniting Americans on social media with debates around skiing etiquette, while Day 1 of MLB&#39;s new rules brought wild pace and stolen bases to its games.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A President Faces Prosecution, and a Democracy Is Tested</h3>
@@ -78,12 +78,6 @@ There are a lot of big things happening in the world right now. In the US, there
 <h3>Finland Clears Last Hurdle to Joining NATO</h3>
 <sub>By Steven Erlanger</sub>
 <p>Finland’s entry into the military alliance after Turkey formally signed off is a significant defeat for President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/40vAW71"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Arrest of American Reporter, Russia Doubles Down on Isolation From West</h3>
-<sub>By Anton Troianovski</sub>
-<p>The Kremlin, which accused a Wall Street Journal correspondent of being a spy, made a move not seen since the Cold War, further raising the barriers between Russia and the West.  <a href="https://nyti.ms/42RjXh7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ There are a lot of big things happening in the world right now. In the US, there
 <h3>Just Try Looking Away From Gwyneth Paltrow’s Ski Crash Trial</h3>
 <sub>By Lauren McCarthy and Remy Tumin</sub>
 <p>The actress-turned-businesswoman is at the center of a trial that has become a fierce debate over a simple question: Who skied into whom? The online public is rapt.  <a href="https://nyti.ms/3JXDd3Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>What We Learned on Day 1 of Baseball’s New Rules</h3>
+<sub>By Benjamin Hoffman</sub>
+<p>On a busy opening day, every team was in action. Games moved wildly fast, stolen bases piled up and Marcus Stroman received M.L.B.’s first pitch clock violation.  <a href="https://nyti.ms/3ZBB2sM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
