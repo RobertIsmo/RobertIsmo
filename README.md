@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 31, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. In the US, former President Donald J. Trump is facing potential prosecution, which has never happened before in American history. Meanwhile there&#39;s a controversy involving Disney World in Florida and state-level government oversight, and an ongoing debate about transgender care laws in Nebraska. In international news, Finland just joined NATO, a Wall Street Journal correspondent has been arrested by Russia for alleged espionage, and five people have been arrested for setting a fire at a migrant center in Mexico that killed 39 people. Also, Gwyneth Paltrow is on trial in the US after a skiing accident and everyone is talking about it.</p>
+There is a lot going on in the world right now! Former U.S. President Donald Trump is facing criminal prosecution, which has caused a lot of outrage from Republicans who think he is being treated unfairly. We also know that he paid hush money to a porn star, and might turn himself soon. In Russia, there was an arrest of an American reporter as the country continues to distance itself from the West in a move not seen since the Cold War. In France, locals are expressing anger towards President Macron, making their discontent known through protests and damaging public buildings like City Hall. Elsewhere, Big Tech stocks have masked turmoil in the stock market while Bitcoin&#39;s price has soared this month but investors see it as an uncertain financial alternative. Inflation rates continue to fall across the Eurozone and debates over transgender rights dominate conversations in Nebraska and Kentucky as local lawmakers try to ban transition-related medical treatment for young people.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A President Faces Prosecution, and a Democracy Is Tested</h3>
@@ -68,17 +68,23 @@ Right now, there&#39;s a lot going on in the world. In the US, former President 
 <p>For more than two centuries, American presidents were effectively shielded from indictment. But the case against former President Donald J. Trump breaks that taboo and sets a new precedent.  <a href="https://nyti.ms/40PfiKN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>At Mar-a-Lago, Trump’s Camp Is Caught Off Guard</h3>
-<sub>By Maggie Haberman</sub>
-<p>The former president’s aides had believed that any action by the grand jury was still weeks away.  <a href="https://nyti.ms/3K0ZT35"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Erupt in Outrage and Rush to Defend the Defendant</h3>
+<sub>By Michael C. Bender and Maggie Haberman</sub>
+<p>Many in the party said Donald Trump could benefit from a wave of sympathy among Republicans, with his base of supporters likely to be energized by a belief in a weaponized justice system.  <a href="https://nyti.ms/3M4FigY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What We Know About the Indictment of Donald Trump, and What Comes Next</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
+<p>Mr. Trump was indicted over his role in paying hush money to a porn star, and likely plans to turn himself in on Tuesday, a lawyer has said.  <a href="https://nyti.ms/3lVqDu1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Finland Clears Last Hurdle to Joining NATO</h3>
-<sub>By Steven Erlanger</sub>
-<p>Finland’s entry into the military alliance after Turkey formally signed off is a significant defeat for President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/40vAW71"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<h3>For Ukrainian Convicts, a Strange Odyssey Through Russian Prisons</h3>
+<sub>By Anatoly Kurmanaev, Ekaterina Bodyagina and Ivan Nechepurenko</sub>
+<p>When Russian troops left Kherson, they took with them 2,500 Ukrainian convicts from local prisons. For some, it was the start of a bewildering, five-country journey highlighting the war’s absurdity.  <a href="https://nyti.ms/40wQgQO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Arrest of American Reporter, Russia Doubles Down on Isolation From West</h3>
@@ -86,53 +92,47 @@ Right now, there&#39;s a lot going on in the world. In the US, former President 
 <p>The Kremlin, which accused a Wall Street Journal correspondent of being a spy, made a move not seen since the Cold War, further raising the barriers between Russia and the West.  <a href="https://nyti.ms/40FUeGC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>French Anger at Macron Seeps Into Unexpected Corners</h3>
+<sub>By Catherine Porter and Andrea Mantovani</sub>
+<p>Even Bordeaux, known for its surrounding vineyards and conservative politics, has become a flashpoint. The City Hall’s charred doors attest to that.  <a href="https://nyti.ms/42XAm3N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Big Tech Camouflaged Wall Street’s Crisis in March</h3>
+<sub>By Joe Rennison and Eli Murray</sub>
+<p>Investors in the S&amp;P 500 are highly dependent on the fate of Microsoft, Apple and other big technology stocks. A rally in March showed how this can mask turmoil in the rest of the market.  <a href="https://nyti.ms/40RYBhE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Has Bitcoin Benefited From the Banking Crisis? Not in the Way Its Fans Hoped.</h3>
+<sub>By David Yaffe-Bellany</sub>
+<p>Bitcoin’s price has soared since banks failed this month, but there’s little evidence that the surge is being driven by investors treating the virtual currency as a financial alternative.  <a href="https://nyti.ms/3JZ8ALp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Fed Is Doing Too Much, All at Once</h3>
+<sub>By Jeff Sommer</sub>
+<p>In its fight against inflation, the Federal Reserve has contributed to the bank failures and economic instability that it is now trying to fix, our columnist says.  <a href="https://nyti.ms/3m1ieoL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Eurozone Inflation Continues to Fall, as Energy Prices Ease</h3>
+<sub>By Melissa Eddy</sub>
+<p>The rate of inflation in countries using the euro slipped to 6.9 percent in the year through March, from 8.5 percent the previous month, but underlying price gains edged higher.  <a href="https://nyti.ms/3K2Infb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Nebraska’s Fight Over Transgender Care Turns Personal and Snarls Lawmaking</h3>
 <sub>By Ernesto Londoño</sub>
 <p>One state senator has been filibustering for weeks, trying to block a bill that would ban transition-related medical treatment for young people.  <a href="https://nyti.ms/3nxY3iR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>DeSantis’s Allies Discover Disney Evaded Florida’s Move to Rein It In</h3>
-<sub>By Brooks Barnes</sub>
-<p>The Florida governor’s new Disney World oversight board belatedly realized that the company had quietly sidestepped its control.  <a href="https://nyti.ms/3zkghqA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Reunites With a Key Adviser as Campaign Plans Unfold</h3>
-<sub>By Jonathan Swan and Maggie Haberman</sub>
-<p>A central area of expertise for Dustin Carmack, who will leave his post at the Heritage Foundation, is national security, with a focus on cybersecurity.  <a href="https://nyti.ms/3G55OTS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kushner Firm Got Hundreds of Millions From 2 Persian Gulf Nations</h3>
-<sub>By Jonathan Swan, Kate Kelly, Maggie Haberman and Mark Mazzetti</sub>
-<p>The infusion of money from interests in the two Persian Gulf monarchies reflects the close ties to Middle Eastern countries established by Jared Kushner, former President Donald Trump’s son-in-law.  <a href="https://nyti.ms/42QvrBA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Five Arrested in Migration Center Fire That Left 39 Dead in Mexico</h3>
-<sub>By Natalie Kitroeff and Emiliano Rodríguez Mega</sub>
-<p>The authorities said arrest warrants had been obtained for three government migration officials, two private security workers and a migrant accused of starting the blaze.  <a href="https://nyti.ms/3zpNYHa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Border Policies Have Created a Volatile Logjam in Mexico</h3>
-<sub>By Miriam Jordan and Edgar Sandoval</sub>
-<p>As the United States has cracked down on border entries, Mexico is bearing the burden of housing and feeding tens of thousands of desperate migrants.  <a href="https://nyti.ms/3lTkXAH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jury Finds Gwyneth Paltrow Not Liable in Damages Over the Crash</h3>
-<sub>By Remy Tumin</sub>
-<p>The verdict came after more than a week of testimony that covered skiing etiquette, medical history and celebrity culture.  <a href="https://nyti.ms/42UEIbD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Just Try Looking Away From Gwyneth Paltrow’s Ski Crash Trial</h3>
-<sub>By Lauren McCarthy and Remy Tumin</sub>
-<p>The actress-turned-businesswoman is at the center of a trial that has become a fierce debate over a simple question: Who skied into whom? The online public is rapt.  <a href="https://nyti.ms/3JXDd3Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<h3>G.O.P. Lawmakers Override Kentucky Governor’s Veto on Anti-Trans Law</h3>
+<sub>By Campbell Robertson and Ernesto Londoño</sub>
+<p>The Kentucky measure bans access to gender-transition care for young people, and West Virginia’s governor signed a similar bill on Wednesday. Passage of bans also appears imminent in Idaho and Missouri.  <a href="https://nyti.ms/3TRfWVZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
