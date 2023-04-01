@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, March 31, Central Standard Time</p>
+<p>It is Saturday, April 1, Central Standard Time</p>
 <p>
-Right now, things are pretty eventful. In the US, former president Trump is facing criminal charges and the GOP is divided over it. In the Midwest and South, tornadoes have killed 3 people and left many injured. President Biden has been visiting the tornado wreckage in Mississippi to offer help. There&#39;s a defamation case against Fox News moving forward, and a reporter in Russia has been arrested on false espionage charges. And finally, retired people are choosing to invest in starter homes as their financial legacy.</p>
+It&#39;s been quite a difficult year but it looks like things are heating up again in the world. Over in the US, former President Trump is preparing to surrender to criminal charges in New York and protests are expected. Further out, tornadoes have recently caused severe damage in the Midwest and South, killing at least four people. On the other hand, some good news comes from Iowa with their big upset win in the Final Four. Additionally, there was a major setback in a defamation case against Fox News and espionage charges have added a hurdle to the reporter detained in Russia. As always, Russia and Ukraine appear to be preparing for a potential fight.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Prepares to Surrender in New York as Police Brace for Protests</h3>
@@ -81,15 +81,21 @@ Right now, things are pretty eventful. In the US, former president Trump is faci
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tornados Kill at Least 3 in Arkansas as Storms Tear Through Midwest and South</h3>
-<sub>By Gwen Moritz, McKenna Oxenden, Livia Albeck-Ripka and Amanda Holpuch</sub>
-<p>The tornadoes in the Little Rock and Wynne areas also injured at least 30 people and destroyed homes. Tornado watches were in effect from Illinois to Mississippi.  <a href="https://nyti.ms/40QMh1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Storms Kill at Least 4 as Tornadoes Tear Through Midwest and South</h3>
+<sub>By Gwen Moritz, McKenna Oxenden, Livia Albeck-Ripka and Mike Ives</sub>
+<p>Tornadoes in Arkansas injured at least 30 people. A person was killed and at least 28 others hospitalized after a roof collapsed at a theater in Illinois.  <a href="https://nyti.ms/40QMh1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Surveys Damage From Deadly Tornado in Mississippi</h3>
 <sub>By Michael D. Shear</sub>
 <p>Surrounded by piles of lumber and twisted metal, the president promised that the federal government was “not just here for today.”  <a href="https://nyti.ms/3U23liT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Caitlin Clark and Iowa Deliver Toppling Upset of South Carolina in Final Four</h3>
+<sub>By Kris Rhim and Talya Minsberg</sub>
+<p>The Gamecocks were considered a heavy favorite to repeat as champions. But Clark and the Hawkeyes delivered, all the way to the championship game against Louisiana State.  <a href="https://nyti.ms/3ZwiSIz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -114,12 +120,6 @@ Right now, things are pretty eventful. In the US, former president Trump is faci
 <h3>Fox News Suffers Major Setback in Defamation Case</h3>
 <sub>By Jeremy W. Peters and Katie Robertson</sub>
 <p>A judge said the suit would go to trial, for a jury to weigh whether the network knowingly spread false claims about Dominion Voting Systems, and to determine any damages.  <a href="https://nyti.ms/40SnIkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Thousands of Dollars for Something I Didn’t Do’</h3>
-<sub>By Kashmir Hill and Ryan Mac</sub>
-<p>Because of a bad facial recognition match and other hidden technology, Randal Reid spent nearly a week in jail, falsely accused of stealing purses in a state he said he had never even visited.  <a href="https://nyti.ms/40tHPpF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
