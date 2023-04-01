@@ -60,20 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 31, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, President Biden is taking steps not to comment on the ongoing legal matters relating to Donald Trump. Many GOP voters are feeling fatigued by the attempt to defend Trump and Mitch McConnell is among the few high-profile Republicans that have stayed silent on his indictment. On the economic front, certain changes to regional bank supervision during the time of Trump may have helped contribute to some of Silicon Valley Bank&#39;s downturn, while larger companies like Schwab felt a financial hit due to a panic about regional banks. 
-
-In terms of natural disasters, there has been horrible devastation from storms in the Midwest and South, including a tornado in Little Rock that injured dozens and forced National Weather Service personnel to evacuate. President Biden visited Mississippi to survey aftermath of a deadly tornado and promised aid for affected families. 
-
-On the sport front, Virginia Tech Hokies are headed for their first Final Four appearance thanks to junior guard Georgia Amoore&#39;s impressive talents.
-
-Dreams of homeownership come true for many retirees who are finally investing in real estate after years of waiting. On the other hand, facial recognition technology was used incorrectly against Randall Reid resulting in an unjustified accusation and a week spent in jail.
-
-The tension between Russia and Ukraine continues to rise as both sides step up recruitment amidst fears of upcoming fights.</p>
+Right now, things are pretty eventful. In the US, former president Trump is facing criminal charges and the GOP is divided over it. In the Midwest and South, tornadoes have killed 3 people and left many injured. President Biden has been visiting the tornado wreckage in Mississippi to offer help. There&#39;s a defamation case against Fox News moving forward, and a reporter in Russia has been arrested on false espionage charges. And finally, retired people are choosing to invest in starter homes as their financial legacy.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Response to Trump’s Indictment? 4 Ways to Say No Comment.</h3>
-<sub>By Katie Rogers</sub>
-<p>President Biden believes that presidents should not comment on pending legal matters. He also does not want to be baited into a reaction.  <a href="https://nyti.ms/3nGRfze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Prepares to Surrender in New York as Police Brace for Protests</h3>
+<sub>By James C. McKinley Jr. and Jonah E. Bromwich</sub>
+<p>The former president is expected to answer charges with the Secret Service in tow before a judge in the often grimy and ill-lit criminal courthouse in Lower Manhattan on Tuesday.  <a href="https://nyti.ms/3m5jGqd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How Alvin Bragg Resurrected the Case Against Donald Trump</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
+<p>A year ago, the investigation into the former president appeared from the outside to be over. But a series of crucial turning points led to this week’s indictment.  <a href="https://nyti.ms/40CLrFJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -83,9 +81,15 @@ The tension between Russia and Ukraine continues to rise as both sides step up r
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McConnell is among few high-profile Republicans to stay silent on Trump’s indictment.</h3>
-<sub>By Neil Vigdor</sub>
-<p>Mitch McConnell, the Senate minority leader, had previously been a vocal critic of the former president’s conduct in connection with the Jan. 6, 2021, Capitol attack.  <a href="https://nyti.ms/3Ko2LZp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tornados Kill at Least 3 in Arkansas as Storms Tear Through Midwest and South</h3>
+<sub>By Gwen Moritz, McKenna Oxenden, Livia Albeck-Ripka and Amanda Holpuch</sub>
+<p>The tornadoes in the Little Rock and Wynne areas also injured at least 30 people and destroyed homes. Tornado watches were in effect from Illinois to Mississippi.  <a href="https://nyti.ms/40QMh1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Surveys Damage From Deadly Tornado in Mississippi</h3>
+<sub>By Michael D. Shear</sub>
+<p>Surrounded by piles of lumber and twisted metal, the president promised that the federal government was “not just here for today.”  <a href="https://nyti.ms/3U23liT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -100,18 +104,6 @@ The tension between Russia and Ukraine continues to rise as both sides step up r
 <p>Like Silicon Valley Bank, the company holds billions in bonds that have declined in value. But it has access to billions in cash, if needed, analysts say, and is much more diversified.  <a href="https://nyti.ms/42SRzLv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tornado Strikes Arkansas as Storms Tear Through Midwest and South</h3>
-<sub>By Gwen Moritz, McKenna Oxenden, Livia Albeck-Ripka and Amanda Holpuch</sub>
-<p>A tornado in Little Rock injured at least two dozen people, destroyed homes and forced meteorologists with the local National Weather Service office to evacuate.  <a href="https://nyti.ms/40QMh1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Surveys Damage From Deadly Tornado in Mississippi</h3>
-<sub>By Michael D. Shear</sub>
-<p>Surrounded by piles of lumber and twisted metal, the president promised that the federal government was “not just here for today.”  <a href="https://nyti.ms/3U23liT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>Retired and Buying a Starter Home. It’s Forever.</h3>
 <sub>By Debra Kamin</sub>
@@ -124,12 +116,6 @@ The tension between Russia and Ukraine continues to rise as both sides step up r
 <p>A judge said the suit would go to trial, for a jury to weigh whether the network knowingly spread false claims about Dominion Voting Systems, and to determine any damages.  <a href="https://nyti.ms/40SnIkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>From Flip-Flops to the Final Four, Georgia Amoore Commands the Court</h3>
-<sub>By Remy Tumin</sub>
-<p>The junior guard is leading the Virginia Tech Hokies to their first Final Four appearance in program history. But basketball wasn’t always a given.  <a href="https://nyti.ms/42WmC9b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>‘Thousands of Dollars for Something I Didn’t Do’</h3>
 <sub>By Kashmir Hill and Ryan Mac</sub>
@@ -140,6 +126,12 @@ The tension between Russia and Ukraine continues to rise as both sides step up r
 <h3>Bracing for Fights Ahead, Russia and Ukraine Step Up Recruitment</h3>
 <sub>By Jeffrey Gettleman and Alan Yuhas</sub>
 <p>After a winter of intense battles and heavy losses in Ukraine’s east, both Russia and Ukraine are taking steps to replenish their depleted forces.  <a href="https://nyti.ms/419yBPl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Espionage Charge Adds Hurdle to Freeing a Reporter Detained in Russia</h3>
+<sub>By Michael Crowley, Ivan Nechepurenko and Anton Troianovski</sub>
+<p>The Biden administration recently secured the release of two Americans convicted of criminal charges in Russia, but even fabricated charges of spying can raise the stakes.  <a href="https://nyti.ms/3nvOu3L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
