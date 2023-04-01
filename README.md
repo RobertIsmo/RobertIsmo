@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 1, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. Former U.S. President Donald Trump is facing charges and preparing to surrender in New York as police brace for protests. Meanwhile, a series of crucial turning points have resurrected the case against him and some G.O.P voters are experiencing fatigue as they debate whether or not to defend him. On top of that, severe storms have been causing destruction across the Midwest and South, taking several lives and leaving many injured, while President Biden visited Mississippi to survey damage. In lighter news, an unexpected upset in the NCAA Women&#39;s Final Four has Iowa defeating South Carolina and heading to the championship game. Additionally, Russia and Ukraine are both ramping up recruitment following heavy losses this winter while an American reporter detained in Russia faces additional hurdles after being charged with espionage. Lastly, Fox News has suffered a major setback in its defamation case involving false claims about Dominion Voting Systems.</p>
+Recently, Donald Trump was indicted by Manhattan&#39;s District Attorney, who was investigating his alleged financial crimes. Meanwhile, Republican politicians are still backing him heading into the 2024 elections, while pushing his potential rivals to stand down in the face of Trump&#39;s supporters. There is also a lot of unrest overseas - Russian forces continue to bombard Ukraine&#39;s eastern regions in spite of international backlash, and China has strengthened ties with Russia by backing Putin-aligned artists that are being shunned in the West. Here at home, we&#39;ve recently seen devastating storm systems that have killed ten people across the Midwest and South, while on a lighter note, sports teams are celebrating their wins by drenching themselves in gallons of water instead of champagne. Finally, San Diego State basketball team is making a run for the Final Four after spending years as a lowly program on the college basketball circuit.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Prepares to Surrender in New York as Police Brace for Protests</h3>
-<sub>By James C. McKinley Jr. and Jonah E. Bromwich</sub>
-<p>The former president is expected to answer charges with the Secret Service in tow before a judge in the often grimy and ill-lit criminal courthouse in Lower Manhattan on Tuesday.  <a href="https://nyti.ms/3m5jGqd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>How Alvin Bragg Resurrected the Case Against Donald Trump</h3>
 <sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
@@ -75,21 +69,51 @@ There&#39;s a lot going on in the world right now. Former U.S. President Donald 
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Some G.O.P. Voters, Fatigue Slows the Rush to Defend Trump</h3>
-<sub>By Trip Gabriel and Maya King</sub>
-<p>The Republicans who will pick their 2024 nominee expressed anger, defensiveness and also embarrassment about the indictment facing Donald J. Trump.  <a href="https://nyti.ms/40VFdk9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<h3>Trump’s G.O.P. Rivals, Shielding Him, Reveal Their 2024 Predicament</h3>
+<sub>By Michael C. Bender and Maggie Haberman</sub>
+<p>Many of Donald Trump’s potential opponents snapped into line behind him, showing just how hard it may be to persuade Republican voters to choose an alternative.  <a href="https://nyti.ms/40xiTxr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Storms Kill at Least 4 as Tornadoes Tear Through Midwest and South</h3>
+<h3>Indicted and Running for Office? It Didn’t Begin With Trump.</h3>
+<sub>By Richard Fausset</sub>
+<p>American politics has a long history of candidates who were indicted or convicted of crimes but sought office again.  <a href="https://nyti.ms/3ZsstAp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Venice Is Saved! Woe Is Venice.</h3>
+<sub>By Jason Horowitz, Emma Bubola and Laetitia Vancon</sub>
+<p>Produced by Mona Boshnaq  <a href="https://nyti.ms/42P47DE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Storms Kill at Least 10 as Tornadoes Tear Through Midwest and South</h3>
 <sub>By Gwen Moritz, McKenna Oxenden, Livia Albeck-Ripka and Mike Ives</sub>
-<p>Tornadoes in Arkansas injured at least 30 people. A person was killed and at least 28 others hospitalized after a roof collapsed at a theater in Illinois.  <a href="https://nyti.ms/40QMh1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Tornadoes in Arkansas injured at least 30 people. One person was killed and at least 28 others were hospitalized after a roof collapsed at a theater in Illinois.  <a href="https://nyti.ms/40QMh1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Surveys Damage From Deadly Tornado in Mississippi</h3>
-<sub>By Michael D. Shear</sub>
-<p>Surrounded by piles of lumber and twisted metal, the president promised that the federal government was “not just here for today.”  <a href="https://nyti.ms/3U23liT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>One Dead and Dozens Hurt in Roof Collapse at Illinois Theater</h3>
+<sub>By Mike Ives and Robert Chiarito</sub>
+<p>The disaster at a heavy metal concert in Belvidere, Ill., was one of several storm-related episodes that killed at least nine other people as tornadoes tore through the Midwest and South on Friday.  <a href="https://nyti.ms/40KcZZG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Draws Lessons From Russia’s Losses in Ukraine, and Its Gains</h3>
+<sub>By Chris Buckley</sub>
+<p>With an eye on a possible conflict over Taiwan, analysts have scrutinized the war for insights ranging from the importance of supply lines to the power of nuclear threats.  <a href="https://nyti.ms/42UlrXY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Pounds Eastern Ukraine but Hasn’t Secured Decisive Breakthrough in Offensive</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The eastern town of Avdiivka, which has been under assault since Moscow launched its full-scale invasion more than a year ago, bore the brunt of the latest attacks.  <a href="https://nyti.ms/3G7NQQy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Now Playing in China: Putin-Aligned Artists Shunned in the West</h3>
+<sub>By Javier C. Hernández</sub>
+<p>As Russia works to shore up its image and rebuild its soft power after its invasion of Ukraine, it is strengthening cultural ties with friendly nations, including China.  <a href="https://nyti.ms/3U10GWz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -98,40 +122,16 @@ There&#39;s a lot going on in the world right now. Former U.S. President Donald 
 <p>The Gamecocks were considered a heavy favorite to repeat as champions. But Clark and the Hawkeyes delivered, all the way to the championship game against Louisiana State.  <a href="https://nyti.ms/3ZwiSIz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside Saudi Arabia’s Global Push for Nuclear Power</h3>
-<sub>By Edward Wong, Vivian Nereim and Kate Kelly</sub>
-<p>Despite qualms in Washington, Saudi officials have pressed the United States to help them develop nuclear power. But they are also exploring other options, including China.  <a href="https://nyti.ms/3U4ea3Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Trump-Era Rollback Mattered for Silicon Valley Bank’s Demise</h3>
-<sub>By Jeanna Smialek</sub>
-<p>An under-the-radar change to the way regional banks are supervised may have helped the bank’s rapidly growing risks to go unresolved.  <a href="https://nyti.ms/40SyAPE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>When Every Win Means Water, Water Everywhere</h3>
+<sub></sub>
+<p>Hold the champagne. Water has become the go-to beverage for celebrating success in sports.  <a href="https://nyti.ms/3U25JWF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>Why Schwab, a Financial Giant, Got Hurt in the Regional Banks Panic</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>Like Silicon Valley Bank, the company holds billions in bonds that have declined in value. But it has access to billions in cash, if needed, analysts say, and is much more diversified.  <a href="https://nyti.ms/42SRzLv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Bracing for Fights Ahead, Russia and Ukraine Step Up Recruitment</h3>
-<sub>By Jeffrey Gettleman and Alan Yuhas</sub>
-<p>After a winter of intense battles and heavy losses in Ukraine’s east, both Russia and Ukraine are taking steps to replenish their depleted forces.  <a href="https://nyti.ms/419yBPl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Espionage Charge Adds Hurdle to Freeing a Reporter Detained in Russia</h3>
-<sub>By Michael Crowley, Ivan Nechepurenko and Anton Troianovski</sub>
-<p>The Biden administration recently secured the release of two Americans convicted of criminal charges in Russia, but even fabricated charges of spying can raise the stakes.  <a href="https://nyti.ms/3nvOu3L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox News Suffers Major Setback in Defamation Case</h3>
-<sub>By Jeremy W. Peters and Katie Robertson</sub>
-<p>A judge said the suit would go to trial, for a jury to weigh whether the network knowingly spread false claims about Dominion Voting Systems, and to determine any damages.  <a href="https://nyti.ms/40SnIkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A Once Lowly Program Gets a Second Shot at the Top</h3>
+<sub>By Scott Miller</sub>
+<p>San Diego State was poised for a top seed in the 2020 N.C.A.A. tournament before the pandemic led to its cancellation. This year’s team, with three key holdovers, has made a run to the Final Four.  <a href="https://nyti.ms/3lYfdFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
