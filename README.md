@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 1, Central Standard Time</p>
 <p>
-It&#39;s been quite a difficult year but it looks like things are heating up again in the world. Over in the US, former President Trump is preparing to surrender to criminal charges in New York and protests are expected. Further out, tornadoes have recently caused severe damage in the Midwest and South, killing at least four people. On the other hand, some good news comes from Iowa with their big upset win in the Final Four. Additionally, there was a major setback in a defamation case against Fox News and espionage charges have added a hurdle to the reporter detained in Russia. As always, Russia and Ukraine appear to be preparing for a potential fight.</p>
+There&#39;s a lot going on in the world right now. Former U.S. President Donald Trump is facing charges and preparing to surrender in New York as police brace for protests. Meanwhile, a series of crucial turning points have resurrected the case against him and some G.O.P voters are experiencing fatigue as they debate whether or not to defend him. On top of that, severe storms have been causing destruction across the Midwest and South, taking several lives and leaving many injured, while President Biden visited Mississippi to survey damage. In lighter news, an unexpected upset in the NCAA Women&#39;s Final Four has Iowa defeating South Carolina and heading to the championship game. Additionally, Russia and Ukraine are both ramping up recruitment following heavy losses this winter while an American reporter detained in Russia faces additional hurdles after being charged with espionage. Lastly, Fox News has suffered a major setback in its defamation case involving false claims about Dominion Voting Systems.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Prepares to Surrender in New York as Police Brace for Protests</h3>
@@ -98,6 +98,12 @@ It&#39;s been quite a difficult year but it looks like things are heating up aga
 <p>The Gamecocks were considered a heavy favorite to repeat as champions. But Clark and the Hawkeyes delivered, all the way to the championship game against Louisiana State.  <a href="https://nyti.ms/3ZwiSIz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside Saudi Arabia’s Global Push for Nuclear Power</h3>
+<sub>By Edward Wong, Vivian Nereim and Kate Kelly</sub>
+<p>Despite qualms in Washington, Saudi officials have pressed the United States to help them develop nuclear power. But they are also exploring other options, including China.  <a href="https://nyti.ms/3U4ea3Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How a Trump-Era Rollback Mattered for Silicon Valley Bank’s Demise</h3>
 <sub>By Jeanna Smialek</sub>
@@ -110,18 +116,6 @@ It&#39;s been quite a difficult year but it looks like things are heating up aga
 <p>Like Silicon Valley Bank, the company holds billions in bonds that have declined in value. But it has access to billions in cash, if needed, analysts say, and is much more diversified.  <a href="https://nyti.ms/42SRzLv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Retired and Buying a Starter Home. It’s Forever.</h3>
-<sub>By Debra Kamin</sub>
-<p>Many older home buyers say ownership was worth the wait, as they finally make a major real estate investment and consider their financial legacy.  <a href="https://nyti.ms/3ntSO3v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox News Suffers Major Setback in Defamation Case</h3>
-<sub>By Jeremy W. Peters and Katie Robertson</sub>
-<p>A judge said the suit would go to trial, for a jury to weigh whether the network knowingly spread false claims about Dominion Voting Systems, and to determine any damages.  <a href="https://nyti.ms/40SnIkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Bracing for Fights Ahead, Russia and Ukraine Step Up Recruitment</h3>
 <sub>By Jeffrey Gettleman and Alan Yuhas</sub>
@@ -132,6 +126,12 @@ It&#39;s been quite a difficult year but it looks like things are heating up aga
 <h3>Espionage Charge Adds Hurdle to Freeing a Reporter Detained in Russia</h3>
 <sub>By Michael Crowley, Ivan Nechepurenko and Anton Troianovski</sub>
 <p>The Biden administration recently secured the release of two Americans convicted of criminal charges in Russia, but even fabricated charges of spying can raise the stakes.  <a href="https://nyti.ms/3nvOu3L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fox News Suffers Major Setback in Defamation Case</h3>
+<sub>By Jeremy W. Peters and Katie Robertson</sub>
+<p>A judge said the suit would go to trial, for a jury to weigh whether the network knowingly spread false claims about Dominion Voting Systems, and to determine any damages.  <a href="https://nyti.ms/40SnIkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
