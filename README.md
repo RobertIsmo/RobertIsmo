@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 1, Central Standard Time</p>
 <p>
-Recently, Donald Trump was indicted by Manhattan&#39;s District Attorney, who was investigating his alleged financial crimes. Meanwhile, Republican politicians are still backing him heading into the 2024 elections, while pushing his potential rivals to stand down in the face of Trump&#39;s supporters. There is also a lot of unrest overseas - Russian forces continue to bombard Ukraine&#39;s eastern regions in spite of international backlash, and China has strengthened ties with Russia by backing Putin-aligned artists that are being shunned in the West. Here at home, we&#39;ve recently seen devastating storm systems that have killed ten people across the Midwest and South, while on a lighter note, sports teams are celebrating their wins by drenching themselves in gallons of water instead of champagne. Finally, San Diego State basketball team is making a run for the Final Four after spending years as a lowly program on the college basketball circuit.</p>
+It looks like there&#39;s been a lot of news lately! Last year, an investigation into Donald Trump was thought to be over, but it&#39;s been resurrected recently with an indictment. It seems like a pattern of salacious behavior has come back to haunt him. The power struggle around him has caused some Republicans to support him despite his controversial nature, but there&#39;s also growing fatigue from people in his party who are embarrassed by him. In other news, storms have caused considerable damage in the Midwest and South, killing at least 10 people and injuring many more. In foreign affairs, China is drawing lessons from Russia&#39;s experiences during the conflict in Ukraine, and espionage charges have been brought against an American reporter detained in Russia. Finally, Putin-aligned artists are shunning the West and strengthening cultural ties with Eastern countries like China. The FBI has also been investigating the Proud Boys after their involvement in January 6th events.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>How Alvin Bragg Resurrected the Case Against Donald Trump</h3>
@@ -69,16 +69,22 @@ Recently, Donald Trump was indicted by Manhattan&#39;s District Attorney, who wa
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Trump’s Playboy Persona Came Back to Haunt Him</h3>
+<sub>By Dan Barry</sub>
+<p>A salacious indictment against the 45th president is the latest chapter in a life made for the tabloids.  <a href="https://nyti.ms/42Wn2fW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s G.O.P. Rivals, Shielding Him, Reveal Their 2024 Predicament</h3>
 <sub>By Michael C. Bender and Maggie Haberman</sub>
 <p>Many of Donald Trump’s potential opponents snapped into line behind him, showing just how hard it may be to persuade Republican voters to choose an alternative.  <a href="https://nyti.ms/40xiTxr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Indicted and Running for Office? It Didn’t Begin With Trump.</h3>
-<sub>By Richard Fausset</sub>
-<p>American politics has a long history of candidates who were indicted or convicted of crimes but sought office again.  <a href="https://nyti.ms/3ZsstAp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<h3>For Some G.O.P. Voters, Fatigue Slows the Rush to Defend Trump</h3>
+<sub>By Trip Gabriel and Maya King</sub>
+<p>The Republicans who will pick their 2024 nominee expressed anger, defensiveness and also embarrassment about the indictment facing Donald J. Trump.  <a href="https://nyti.ms/40VFdk9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Venice Is Saved! Woe Is Venice.</h3>
@@ -104,10 +110,16 @@ Recently, Donald Trump was indicted by Manhattan&#39;s District Attorney, who wa
 <p>With an eye on a possible conflict over Taiwan, analysts have scrutinized the war for insights ranging from the importance of supply lines to the power of nuclear threats.  <a href="https://nyti.ms/42UlrXY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Espionage Charge Adds Hurdle to Freeing a Reporter Detained in Russia</h3>
+<sub>By Michael Crowley, Ivan Nechepurenko and Anton Troianovski</sub>
+<p>The Biden administration recently secured the release of two Americans convicted of criminal charges in Russia, but even fabricated charges of spying can raise the stakes.  <a href="https://nyti.ms/3nvOu3L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Pounds Eastern Ukraine but Hasn’t Secured Decisive Breakthrough in Offensive</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>The eastern town of Avdiivka, which has been under assault since Moscow launched its full-scale invasion more than a year ago, bore the brunt of the latest attacks.  <a href="https://nyti.ms/3G7NQQy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Charges a Leading Ukrainian Vicar, as Russia Pounds Eastern Ukraine</h3>
+<sub>By Matthew Mpoke Bigg and Yurii Shyvala</sub>
+<p>The charge against the religious leader, Pavlo Lebid, came as Russian forces hit the town of Avdiivka, among 70 other targets, along the front line.  <a href="https://nyti.ms/3G7NQQy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -116,23 +128,11 @@ Recently, Donald Trump was indicted by Manhattan&#39;s District Attorney, who wa
 <p>As Russia works to shore up its image and rebuild its soft power after its invasion of Ukraine, it is strengthening cultural ties with friendly nations, including China.  <a href="https://nyti.ms/3U10GWz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Caitlin Clark and Iowa Deliver Toppling Upset of South Carolina in Final Four</h3>
-<sub>By Kris Rhim and Talya Minsberg</sub>
-<p>The Gamecocks were considered a heavy favorite to repeat as champions. But Clark and the Hawkeyes delivered, all the way to the championship game against Louisiana State.  <a href="https://nyti.ms/3ZwiSIz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>When Every Win Means Water, Water Everywhere</h3>
-<sub></sub>
-<p>Hold the champagne. Water has become the go-to beverage for celebrating success in sports.  <a href="https://nyti.ms/3U25JWF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Once Lowly Program Gets a Second Shot at the Top</h3>
-<sub>By Scott Miller</sub>
-<p>San Diego State was poised for a top seed in the 2020 N.C.A.A. tournament before the pandemic led to its cancellation. This year’s team, with three key holdovers, has made a run to the Final Four.  <a href="https://nyti.ms/3lYfdFT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the F.B.I.’s Jan. 6 Investigation of the Proud Boys</h3>
+<sub>By Alan Feuer</sub>
+<p>A log of messages shows how agents scrambled after evidence and sought to recruit members of the group all while trying to squeeze in workouts and cope with the bureau’s obsolete technology.  <a href="https://nyti.ms/3K5fkaL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
