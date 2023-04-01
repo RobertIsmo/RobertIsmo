@@ -60,24 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, March 31, Central Standard Time</p>
 <p>
-Donald Trump has been indicted over his role in paying hush money to a porn star, and he may surrender himself soon. Mitch McConnell, the Senate minority leader, has been silent on Trump&#39;s indictment. The former president and his supporting cast have returned to the media universe in a major way. An obscure change to the way regional banks are supervised has had a big impact on the financial industry, including companies like Schwab that hold billions of dollars in bonds. A large tornado hit Arkansas, and a court ruled that Fox News&#39;s defamation case against Dominion Voting Systems ought to go to trial. In other legal news, technology falsely identified one man for theft in a state he&#39;d never visited. An estate dispute is causing a rift among the children of an artist with a huge body of work worth millions of dollars. South Carolina’s women&#39;s basketball team is trying to win its second consecutive NCAA championship, and Medicare announced it will ease restrictions over-billing by private health plans over three years. Lastly, some people are even knitting during Zoom meetings as another way to focus their minds!</p>
+There is a lot happening in the world right now. In the US, President Biden is taking steps not to comment on the ongoing legal matters relating to Donald Trump. Many GOP voters are feeling fatigued by the attempt to defend Trump and Mitch McConnell is among the few high-profile Republicans that have stayed silent on his indictment. On the economic front, certain changes to regional bank supervision during the time of Trump may have helped contribute to some of Silicon Valley Bank&#39;s downturn, while larger companies like Schwab felt a financial hit due to a panic about regional banks. 
+
+In terms of natural disasters, there has been horrible devastation from storms in the Midwest and South, including a tornado in Little Rock that injured dozens and forced National Weather Service personnel to evacuate. President Biden visited Mississippi to survey aftermath of a deadly tornado and promised aid for affected families. 
+
+On the sport front, Virginia Tech Hokies are headed for their first Final Four appearance thanks to junior guard Georgia Amoore&#39;s impressive talents.
+
+Dreams of homeownership come true for many retirees who are finally investing in real estate after years of waiting. On the other hand, facial recognition technology was used incorrectly against Randall Reid resulting in an unjustified accusation and a week spent in jail.
+
+The tension between Russia and Ukraine continues to rise as both sides step up recruitment amidst fears of upcoming fights.</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What We Know About the Indictment of Donald Trump, and What Comes Next</h3>
-<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
-<p>Mr. Trump was indicted over his role in paying hush money to a porn star, and likely plans to turn himself in on Tuesday, a lawyer has said.  <a href="https://nyti.ms/3lVqDu1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s Response to Trump’s Indictment? 4 Ways to Say No Comment.</h3>
+<sub>By Katie Rogers</sub>
+<p>President Biden believes that presidents should not comment on pending legal matters. He also does not want to be baited into a reaction.  <a href="https://nyti.ms/3nGRfze"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Some G.O.P. Voters, Fatigue Slows the Rush to Defend Trump</h3>
+<sub>By Trip Gabriel and Maya King</sub>
+<p>The Republicans who will pick their 2024 nominee expressed anger, defensiveness and also embarrassment about the indictment facing Donald J. Trump.  <a href="https://nyti.ms/40VFdk9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McConnell is among few high-profile Republicans to stay silent on Trump’s indictment.</h3>
 <sub>By Neil Vigdor</sub>
 <p>Mitch McConnell, the Senate minority leader, had previously been a vocal critic of the former president’s conduct in connection with the Jan. 6, 2021, Capitol attack.  <a href="https://nyti.ms/3Ko2LZp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Welcome Back to The Trump Show</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>A historic indictment has returned the former president and his supporting cast to the forefront of the media universe.  <a href="https://nyti.ms/3JZisEY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -93,15 +101,33 @@ Donald Trump has been indicted over his role in paying hush money to a porn star
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Large Tornado Strikes Arkansas as Storms Move Through Midwest and South</h3>
-<sub>By Amanda Holpuch and McKenna Oxenden</sub>
-<p>A tornado in Little Rock forced meteorologists with the local National Weather Service office there to evacuate.  <a href="https://nyti.ms/40QMh1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tornado Strikes Arkansas as Storms Tear Through Midwest and South</h3>
+<sub>By Gwen Moritz, McKenna Oxenden, Livia Albeck-Ripka and Amanda Holpuch</sub>
+<p>A tornado in Little Rock injured at least two dozen people, destroyed homes and forced meteorologists with the local National Weather Service office to evacuate.  <a href="https://nyti.ms/40QMh1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Surveys Damage From Deadly Tornado in Mississippi</h3>
+<sub>By Michael D. Shear</sub>
+<p>Surrounded by piles of lumber and twisted metal, the president promised that the federal government was “not just here for today.”  <a href="https://nyti.ms/3U23liT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Retired and Buying a Starter Home. It’s Forever.</h3>
+<sub>By Debra Kamin</sub>
+<p>Many older home buyers say ownership was worth the wait, as they finally make a major real estate investment and consider their financial legacy.  <a href="https://nyti.ms/3ntSO3v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox News Suffers Major Setback in Its Defamation Case</h3>
+<h3>Fox News Suffers Major Setback in Defamation Case</h3>
 <sub>By Jeremy W. Peters and Katie Robertson</sub>
-<p>The judge said the case would still need to proceed to trial, for a jury to weigh whether Fox News spread false claims about Dominion Voting Systems, and to determine any damages.  <a href="https://nyti.ms/40SnIkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A judge said the suit would go to trial, for a jury to weigh whether the network knowingly spread false claims about Dominion Voting Systems, and to determine any damages.  <a href="https://nyti.ms/40SnIkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>From Flip-Flops to the Final Four, Georgia Amoore Commands the Court</h3>
+<sub>By Remy Tumin</sub>
+<p>The junior guard is leading the Virginia Tech Hokies to their first Final Four appearance in program history. But basketball wasn’t always a given.  <a href="https://nyti.ms/42WmC9b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -110,28 +136,10 @@ Donald Trump has been indicted over his role in paying hush money to a porn star
 <p>Because of a bad facial recognition match and other hidden technology, Randal Reid spent nearly a week in jail, falsely accused of stealing purses in a state he said he had never even visited.  <a href="https://nyti.ms/40tHPpF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A Sibling Rivalry Divides a Famous Artist’s Legacy</h3>
-<sub>By Grayson Haver Currin</sub>
-<p>At an auction, 20 of Harry Bertoia’s “sounding sculptures” sold for millions. But his children can’t agree on the future of his work.  <a href="https://nyti.ms/3ns6I6q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>‘I Don’t Want to Let Them Down’</h3>
-<sub>By Jeré Longman</sub>
-<p>As South Carolina seeks its second straight N.C.A.A. women’s basketball championship, Coach Dawn Staley carries the hopes of her family, her team and the generation of coaches she has inspired.  <a href="https://nyti.ms/40wg2EL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Medicare Delays a Full Crackdown on Private Health Plans</h3>
-<sub>By Reed Abelson and Margot Sanger-Katz</sub>
-<p>After intense lobbying by insurers, U.S. health officials say curbs aimed at overbilling by Medicare Advantage will be eased in over 3 years.  <a href="https://nyti.ms/40xxSrc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Knitters Say Stitching Helps Them Follow the Thread in Meetings</h3>
-<sub>By April Rubin</sub>
-<p>An official in Wales was called out for knitting in a virtual meeting, setting off a debate over etiquette. Experts say the fine-motor movement activates the parts of the brain used for focus.  <a href="https://nyti.ms/3M5TbMb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Bracing for Fights Ahead, Russia and Ukraine Step Up Recruitment</h3>
+<sub>By Jeffrey Gettleman and Alan Yuhas</sub>
+<p>After a winter of intense battles and heavy losses in Ukraine’s east, both Russia and Ukraine are taking steps to replenish their depleted forces.  <a href="https://nyti.ms/419yBPl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
