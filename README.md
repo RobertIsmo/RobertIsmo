@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 1, Central Standard Time</p>
 <p>
-It looks like there&#39;s been a lot of news lately! Last year, an investigation into Donald Trump was thought to be over, but it&#39;s been resurrected recently with an indictment. It seems like a pattern of salacious behavior has come back to haunt him. The power struggle around him has caused some Republicans to support him despite his controversial nature, but there&#39;s also growing fatigue from people in his party who are embarrassed by him. In other news, storms have caused considerable damage in the Midwest and South, killing at least 10 people and injuring many more. In foreign affairs, China is drawing lessons from Russia&#39;s experiences during the conflict in Ukraine, and espionage charges have been brought against an American reporter detained in Russia. Finally, Putin-aligned artists are shunning the West and strengthening cultural ties with Eastern countries like China. The FBI has also been investigating the Proud Boys after their involvement in January 6th events.</p>
+There have been some big events happening in the world recently. President Trump just got indicted on criminal charges and Fox News is facing a civil trial. Meanwhile, an investigation into former President Trump is showing progress after more than a year. Tornadoes have made their way through the Midwest and South, leaving death and destruction in their wake. China has been learning lessons from Russia&#39;s military operations in Ukraine, while in Russia a reporter facing espionage charges has yet to be released. And to top it off, college athletes are busy making transfers and jockeying for position for next season&#39;s final four!</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Alvin Bragg Resurrected the Case Against Donald Trump</h3>
-<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
-<p>A year ago, the investigation into the former president appeared from the outside to be over. But a series of crucial turning points led to this week’s indictment.  <a href="https://nyti.ms/40CLrFJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump and Fox News, Twin Titans of Politics, Hit With Back-to-Back Rebukes</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Donald Trump’s criminal indictment and Fox News’s civil trial have nothing in common, but, combined, they delivered a rare reckoning for two forces that have transformed politics.  <a href="https://nyti.ms/3nxAw1j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Trump’s Playboy Persona Came Back to Haunt Him</h3>
@@ -74,17 +74,17 @@ It looks like there&#39;s been a lot of news lately! Last year, an investigation
 <p>A salacious indictment against the 45th president is the latest chapter in a life made for the tabloids.  <a href="https://nyti.ms/42Wn2fW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How Alvin Bragg Resurrected the Case Against Donald Trump</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
+<p>A year ago, the investigation into the former president appeared from the outside to be over. But a series of crucial turning points led to this week’s indictment.  <a href="https://nyti.ms/40CLrFJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s G.O.P. Rivals, Shielding Him, Reveal Their 2024 Predicament</h3>
 <sub>By Michael C. Bender and Maggie Haberman</sub>
 <p>Many of Donald Trump’s potential opponents snapped into line behind him, showing just how hard it may be to persuade Republican voters to choose an alternative.  <a href="https://nyti.ms/40xiTxr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Some G.O.P. Voters, Fatigue Slows the Rush to Defend Trump</h3>
-<sub>By Trip Gabriel and Maya King</sub>
-<p>The Republicans who will pick their 2024 nominee expressed anger, defensiveness and also embarrassment about the indictment facing Donald J. Trump.  <a href="https://nyti.ms/40VFdk9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Venice Is Saved! Woe Is Venice.</h3>
@@ -93,15 +93,15 @@ It looks like there&#39;s been a lot of news lately! Last year, an investigation
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Storms Kill at Least 10 as Tornadoes Tear Through Midwest and South</h3>
+<h3>At Least 21 Killed as Tornadoes Tear Through the Midwest and South</h3>
 <sub>By Gwen Moritz, McKenna Oxenden, Livia Albeck-Ripka and Mike Ives</sub>
-<p>Tornadoes in Arkansas injured at least 30 people. One person was killed and at least 28 others were hospitalized after a roof collapsed at a theater in Illinois.  <a href="https://nyti.ms/40QMh1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>One person was killed and at least 40 others were hurt after a roof collapsed at a theater in Illinois. Communities in at least six states were affected, officials said.  <a href="https://nyti.ms/40QMh1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>One Dead and Dozens Hurt in Roof Collapse at Illinois Theater</h3>
 <sub>By Mike Ives and Robert Chiarito</sub>
-<p>The disaster at a heavy metal concert in Belvidere, Ill., was one of several storm-related episodes that killed at least nine other people as tornadoes tore through the Midwest and South on Friday.  <a href="https://nyti.ms/40KcZZG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The disaster at a heavy metal concert in Belvidere, Ill., was one of several storm-related episodes that killed at least 20 other people as tornadoes tore through the Midwest and South on Friday.  <a href="https://nyti.ms/40KcZZG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,16 +122,16 @@ It looks like there&#39;s been a lot of news lately! Last year, an investigation
 <p>The charge against the religious leader, Pavlo Lebid, came as Russian forces hit the town of Avdiivka, among 70 other targets, along the front line.  <a href="https://nyti.ms/3G7NQQy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Now Playing in China: Putin-Aligned Artists Shunned in the West</h3>
-<sub>By Javier C. Hernández</sub>
-<p>As Russia works to shore up its image and rebuild its soft power after its invasion of Ukraine, it is strengthening cultural ties with friendly nations, including China.  <a href="https://nyti.ms/3U10GWz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the F.B.I.’s Jan. 6 Investigation of the Proud Boys</h3>
 <sub>By Alan Feuer</sub>
 <p>A log of messages shows how agents scrambled after evidence and sought to recruit members of the group all while trying to squeeze in workouts and cope with the bureau’s obsolete technology.  <a href="https://nyti.ms/3K5fkaL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>As the Final Four Finishes, a Parallel Transfer Season Plays Out, Too</h3>
+<sub>By Billy Witz and Adam Zagoria</sub>
+<p>Call it the consolation bracket, as teams jockey for position for next season.  <a href="https://nyti.ms/3lR5UYs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
