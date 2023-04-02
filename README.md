@@ -60,30 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 2, Central Standard Time</p>
 <p>
-It&#39;s been a big week in the news lately with former President Donald Trump facing criminal charges in Manhattan, world leaders viewing his political resilience as inevitable, and 7 Democratic senators voting to convict him after the Jan. 6 riots. On a different note, Finland has been named the happiest country on earth for 6 consecutive years and in Russia, a military blogger was killed in an explosion and an American journalist was detained and accused of war crimes. Closer to home, Norfolk Southern’s safety practices are being questioned after worker deaths and derailing in East Palestine, Ohio, and on the political side, Democratic candidates are running on abortion even when they have no actual say on the issue.</p>
+There are some pretty big things happening around the world right now. US President Donald Trump has been indicted and there&#39;s a lot of speculation on what that might mean. In Russia, there is an ongoing conflict between the Russian army and pro-invasion bloggers and activists, resulting in some casualties. There is also a humanitarian crisis in Ukraine where thousands of Ukrainians have had to escape the war, creating refugee camps abroad. On a happier note, Finland has been named the happiest country on earth for six consecutive years due to their understanding of knowing when they have enough. Additionally, the UConn basketball team is advancing towards the championship, having won their semi-finals game against Miami.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Flourishes in the Glare of His Indictment</h3>
+<sub>By Peter Baker</sub>
+<p>The former president’s appetite for attention has been fundamental to his identity for decades. Where others may focus on the hazards of a criminal case, he raises money, promotes his campaign and works to reduce the case to a cliffhanging spectacle.  <a href="https://nyti.ms/3Zz3uv1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Donald Trump’s Time-Tested Legal Strategy: Attack and Delay</h3>
 <sub>By William K. Rashbaum, Maggie Haberman, Charlie Savage and Jonah E. Bromwich</sub>
 <p>Across many court cases over the decades, Mr. Trump has regularly leaned on those tactics. Now facing criminal charges in Manhattan, he has already lashed out at the judge.  <a href="https://nyti.ms/40Ny0Cu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Leaders Abroad, the Prospect of a Trump Revival Is Ever-Present</h3>
-<sub>By Mark Landler</sub>
-<p>The indictment last week of Donald J. Trump has not changed the calculations of many world leaders who view his political resilience as inevitable.  <a href="https://nyti.ms/3zs4PJu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>As Trump Arraignment Looms, New York City Braces for a Day of Tumult</h3>
+<sub>By Jesse McKinley and Chelsia Rose Marcius</sub>
+<p>Donald J. Trump is expected to fly in on Monday night, then he is expected to spend the night in Trump Tower. The police will monitor every movement.  <a href="https://nyti.ms/3KrQ0wT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>2 Pro-Impeachment Senators Question Motives Behind Trump Indictment</h3>
 <sub>By Jonathan Swan, Maggie Haberman and Chris Cameron</sub>
 <p>Joe Manchin, a Democrat, and Bill Cassidy, a Republican, both voted to convict Donald Trump after Jan. 6. They expressed concern on Sunday that the criminal case against him is political.  <a href="https://nyti.ms/3KoFo0P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Maggie Haberman on Donald Trump</h3>
-<sub>By David Leonhardt</sub>
-<p>We talk with a Trump reporter to prepare you for the week when he will likely be arrested.  <a href="https://nyti.ms/3Kr4Ofh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,8 +99,8 @@ It&#39;s been a big week in the news lately with former President Donald Trump f
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Influential Russian Military Blogger Is Killed in St. Petersburg Explosion</h3>
-<sub>By Ivan Nechepurenko</sub>
+<h3>Influential Russian Military Blogger Is Killed in St. Petersburg Bombing</h3>
+<sub>By Ivan Nechepurenko and Anatoly Kurmanaev</sub>
 <p>Vladlen Tatarsky represented a radical wing of pro-invasion bloggers and activists who backed Moscow’s war but also criticized what they saw as the flaws in the Russian Army.  <a href="https://nyti.ms/3Ku0A6N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
@@ -128,11 +128,11 @@ It&#39;s been a big week in the news lately with former President Donald Trump f
 <p>Federal officials are investigating the railroad’s safety practices and culture after the derailment in East Palestine, Ohio, and worker deaths.  <a href="https://nyti.ms/3KqExxy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Run on Abortion, Even for Offices With Little Say on the Issue</h3>
-<sub>By Reid J. Epstein</sub>
-<p>Seizing on a powerful motivator for their party, Democratic candidates for municipal offices have put Republicans on their heels. “I’m running for mayor, I’m not debating abortion,” one said.  <a href="https://nyti.ms/3U17pQ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>UConn Will Meet San Diego State in the Final After Romping Past Miami</h3>
+<sub>By Billy Witz</sub>
+<p>The Huskies could claim their fifth championship in 25 years — something no men’s program other than U.C.L.A. and Duke has accomplished.  <a href="https://nyti.ms/3lXCQhV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
