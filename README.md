@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 2, Central Standard Time</p>
 <p>
-Donald Trump is currently facing criminal charges in Manhattan and has attacked the judge. Despite this, many world leaders still have faith that he will reclaim his power or make some kind of political comeback. Meanwhile, a merger between Digital World and Trump Media has been held up by investigations, but executives are trying to rush it through by Sept 8th. In other news, a city in Ukraine was hit with a deadly attack shortly after President Volodymyr Zelensky denounced Russia’s ‘absurd’ Security Council Presidency. An American journalist working for The Wall Street Journal has also been detained in Russia while reporting stories that “needed to be told”. In Chicago, a mayoral election is taking place and candidates are running on platforms of abortion rights. Elsewhere in the world, Finland was just once again ranked as the happiest country in the world and there is evidence to support the safety of abortion pills.</p>
+It&#39;s been a big week in the news lately with former President Donald Trump facing criminal charges in Manhattan, world leaders viewing his political resilience as inevitable, and 7 Democratic senators voting to convict him after the Jan. 6 riots. On a different note, Finland has been named the happiest country on earth for 6 consecutive years and in Russia, a military blogger was killed in an explosion and an American journalist was detained and accused of war crimes. Closer to home, Norfolk Southern’s safety practices are being questioned after worker deaths and derailing in East Palestine, Ohio, and on the political side, Democratic candidates are running on abortion even when they have no actual say on the issue.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Donald Trump’s Time-Tested Legal Strategy: Attack and Delay</h3>
@@ -74,10 +74,10 @@ Donald Trump is currently facing criminal charges in Manhattan and has attacked 
 <p>The indictment last week of Donald J. Trump has not changed the calculations of many world leaders who view his political resilience as inevitable.  <a href="https://nyti.ms/3zs4PJu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>SPAC Tied to Trump Media Rushes to Complete Deal</h3>
-<sub>By Matthew Goldstein</sub>
-<p>The merger of Digital World and Trump Media has been held up by investigations, but executives are rushing to complete the deal by a Sept. 8 deadline.  <a href="https://nyti.ms/3Ga824u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>2 Pro-Impeachment Senators Question Motives Behind Trump Indictment</h3>
+<sub>By Jonathan Swan, Maggie Haberman and Chris Cameron</sub>
+<p>Joe Manchin, a Democrat, and Bill Cassidy, a Republican, both voted to convict Donald Trump after Jan. 6. They expressed concern on Sunday that the criminal case against him is political.  <a href="https://nyti.ms/3KoFo0P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
@@ -99,9 +99,15 @@ Donald Trump is currently facing criminal charges in Manhattan and has attacked 
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Deadly Attack Hits Ukrainian Town After Zelensky Denounces Russia’s ‘Absurd’ Security Council Presidency</h3>
-<sub>By Vivek Shankar and Cassandra Vinograd</sub>
-<p>President Volodymyr Zelensky of Ukraine said that permitting Moscow its monthlong chairmanship of Security Council meetings showed “the complete bankruptcy of such institutions.”  <a href="https://nyti.ms/3Ma9rvF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Influential Russian Military Blogger Is Killed in St. Petersburg Explosion</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>Vladlen Tatarsky represented a radical wing of pro-invasion bloggers and activists who backed Moscow’s war but also criticized what they saw as the flaws in the Russian Army.  <a href="https://nyti.ms/3Ku0A6N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>These Ukrainians Arrived Under a Biden Program. They Ended Up Homeless.</h3>
+<sub>By Kimiko de Freytas-Tamura</sub>
+<p>More than 280,000 Ukrainians have escaped the war through a program meant to resettle them into the homes of Americans. But not everyone has found a safe or welcoming place to stay.  <a href="https://nyti.ms/3m2wqhi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,16 +116,16 @@ Donald Trump is currently facing criminal charges in Manhattan and has attacked 
 <p>Evan Gershkovich, who works for The Wall Street Journal, knew the risks of reporting in Russia but felt a deep connection to the country, his friends said.  <a href="https://nyti.ms/3ZAisRu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Chicago Mayoral Hopeful Who Took on Hard-to-Fix Schools Faces a Political Shift</h3>
-<sub>By Mitch Smith and Matthew Rosenberg</sub>
-<p>Paul Vallas has long been a supporter of charter schools. He is running against Brandon Johnson, an ex-teacher with a different approach.  <a href="https://nyti.ms/3KolZhB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Rare Call With Lavrov, Blinken Demands Release of Imprisoned American Journalist</h3>
+<sub>By Emma Bubola</sub>
+<p>Secretary of State Antony J. Blinken spoke with his Russian counterpart after the American basketball star Brittney Griner, who was detained for almost 10 months by Russia, urged the U.S. government to use “every tool possible” to secure Evan Gershkovich’s release.  <a href="https://nyti.ms/3GaoRMD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chicagoans Are Picking a Mayor. Here’s What Matters From 4 Key Wards.</h3>
-<sub>By Julie Bosman and Jamie Kelter Davis</sub>
-<p>Voters will go to the polls on Tuesday in the nation’s third-largest city, a place where neighborhoods often stand apart.  <a href="https://nyti.ms/3ZudxSl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Norfolk Southern’s Push for Profits Compromised Safety, Workers Say</h3>
+<sub>By Peter Eavis, Mark Walker and Niraj Chokshi</sub>
+<p>Federal officials are investigating the railroad’s safety practices and culture after the derailment in East Palestine, Ohio, and worker deaths.  <a href="https://nyti.ms/3KqExxy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -127,12 +133,6 @@ Donald Trump is currently facing criminal charges in Manhattan and has attacked 
 <sub>By Reid J. Epstein</sub>
 <p>Seizing on a powerful motivator for their party, Democratic candidates for municipal offices have put Republicans on their heels. “I’m running for mayor, I’m not debating abortion,” one said.  <a href="https://nyti.ms/3U17pQ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Are Abortion Pills Safe? Here’s the Evidence.</h3>
-<sub>By Amy Schoenfeld Walker, Jonathan Corum, Malika Khurana and Ashley Wu</sub>
-<p>The Times reviewed 101 studies of medication abortion, spanning continents and decades. All concluded that the pills are a safe method for terminating a pregnancy.  <a href="https://nyti.ms/3K3AllX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
