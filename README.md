@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 2, Central Standard Time</p>
 <p>
-There have been a few major stories in the news recently. In the US, Donald Trump and Fox News have been hit with back-to-back rebukes - Trump being criminal indicted and Fox News facing a civil trial. Across the globe, world leaders are keeping an eye on Trump&#39;s political resilience. Tornadoes recently ripped a wide trail of destruction across multiple states and killed at least 23 people. Meanwhile, in China and Ukraine, people are studying how Russia has lost and gained, as well as how to better identify friend from foe during war. Also, there was a funny story coming out of Brazil with the whole country trying to figure out what the Yankees logo means!</p>
+There have been a lot of political developments lately, especially in the US. President Trump is facing a criminal indictment and Fox News is facing a civil trial, both back-to-back. Leaders around the world don&#39;t seem affected by this news and believe that Trump would be politically resilient. Also, other news includes a salacious indictment against Trump which is the latest chapter in his life that was made for the tabloids. Across the world, Venice is being saved but woe to it because there are repercussions to such change.
+
+In sports, UConn has made it to the final with a romping win over Miami, and San Diego State made it with an exciting buzzer-beater from Lamont Butler. The Iowa game was a big hit for ESPN with 5.5 million views and now there&#39;s a University National Championship final on network TV coming up!
+
+Finally there have been natural disasters like Tornadoes which have ripped wide trails of destruction across multiple states recently killing 23 people and injuring many more. In Ukraine, China has been looking at Russia&#39;s losses and it has lessons to offer in terms of supply lines and nuclear threats in case of any conflict. Zelensky denounced Russia getting U.N Security Council Presidency as complete bankruptcy of such institutions while they are also trying out playing cards with pictures of NATO weapons systems to help soldiers quickly distinguish friend from foe. The FBI is also investigating activities of Proud Boys  and scrambling after evidence while trying to cope with their obsolete technology.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump and Fox News, Twin Titans of Politics, Hit With Back-to-Back Rebukes</h3>
@@ -71,7 +75,7 @@ There have been a few major stories in the news recently. In the US, Donald Trum
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>For Leaders Abroad, the Prospect of a Trump Revival Is Ever-Present</h3>
 <sub>By Mark Landler</sub>
-<p>The indictment last week of Donald J. Trump has not changed the calculations of many world leaders who view his political resilience as inevitable.  <a href="https://nyti.ms/3lUUG5d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The indictment last week of Donald J. Trump has not changed the calculations of many world leaders who view his political resilience as inevitable.  <a href="https://nyti.ms/3zs4PJu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -84,6 +88,12 @@ There have been a few major stories in the news recently. In the US, Donald Trum
 <h3>Venice Is Saved! Woe Is Venice.</h3>
 <sub>By Jason Horowitz, Emma Bubola and Laetitia Vancon</sub>
 <p>Produced by Mona Boshnaq  <a href="https://nyti.ms/42P47DE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>UConn Will Meet San Diego State in the Final After Romping Past Miami</h3>
+<sub>By Billy Witz</sub>
+<p>The Huskies could claim their fifth championship in 25 years — something no men’s program other than U.C.L.A. and Duke has accomplished.  <a href="https://nyti.ms/3lXCQhV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -111,6 +121,12 @@ There have been a few major stories in the news recently. In the US, Donald Trum
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky Denounces ‘Absurd’ U.N. Security Council Presidency for Russia</h3>
+<sub>By Vivek Shankar</sub>
+<p>President Volodymyr Zelensky of Ukraine said that permitting Moscow its monthlong chairmanship of Security Council meetings showed “the complete bankruptcy of such institutions.”  <a href="https://nyti.ms/3Ma9rvF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Plan to Lift the Fog of War in Ukraine? It’s in the Cards.</h3>
 <sub>By Lara Jakes</sub>
 <p>To help soldiers quickly distinguish friend from foe, the Pentagon is issuing playing cards with pictures of 52 different NATO weapons systems.  <a href="https://nyti.ms/3JQlN9h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -121,18 +137,6 @@ There have been a few major stories in the news recently. In the US, Donald Trum
 <sub>By Alan Feuer</sub>
 <p>A log of messages shows how agents scrambled after evidence and sought to recruit members of the group all while trying to squeeze in workouts and cope with the bureau’s obsolete technology.  <a href="https://nyti.ms/3K5fkaL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>This Is What It Sounds Like When Plants Cry</h3>
-<sub>By Darren Incorvaia</sub>
-<p>Scientists recorded the popping noises that plants make in response to stresses like dehydration or a cut.  <a href="https://nyti.ms/3G3Y6JG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Yankees Cap Goes Viral in Brazil: ‘Is It Basketball?’</h3>
-<sub>By Jack Nicas</sub>
-<p>The New York Yankees logo is everywhere in Brazil. What it means, however, is up for interpretation.  <a href="https://nyti.ms/40p9Tua"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
