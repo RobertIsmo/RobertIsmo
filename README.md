@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 2, Central Standard Time</p>
 <p>
-It&#39;s been a busy news week, with a lot of interesting developments. Donald Trump is facing criminal charges in Manhattan and he&#39;s attacking the judge overseeing the case. World leaders are not surprised, as they feel confident in his political resilience. Another story to watch is a merger between Digital World and Trump Media, which has been held up by investigations but is rushing to complete the deal. In Finland, the country recently ranked as the happiest on earth for six consecutive years, people are more complex than their reputation would have us believe. In Ukraine, President Volodymyr Zelensky denounced Moscow&#39;s presidency of the Security Council meetings after a deadly attack in a Ukrainian town. And there have been updates to other stories - journalist Evan Gershkovich, detained by Russia for reporting, was a storyteller who felt connected to the country; Paul Vallas and Brandon Johnson face off for the Chicago Mayor position; there has been talk all over America about abortion rights; and finally, UConn has made it all the way to the women&#39;s basketball championship game against San Diego State, looking to make it five championships in twenty-five years.</p>
+Donald Trump is currently facing criminal charges in Manhattan and has attacked the judge. Despite this, many world leaders still have faith that he will reclaim his power or make some kind of political comeback. Meanwhile, a merger between Digital World and Trump Media has been held up by investigations, but executives are trying to rush it through by Sept 8th. In other news, a city in Ukraine was hit with a deadly attack shortly after President Volodymyr Zelensky denounced Russia’s ‘absurd’ Security Council Presidency. An American journalist working for The Wall Street Journal has also been detained in Russia while reporting stories that “needed to be told”. In Chicago, a mayoral election is taking place and candidates are running on platforms of abortion rights. Elsewhere in the world, Finland was just once again ranked as the happiest country in the world and there is evidence to support the safety of abortion pills.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Donald Trump’s Time-Tested Legal Strategy: Attack and Delay</h3>
@@ -78,6 +78,12 @@ It&#39;s been a busy news week, with a lot of interesting developments. Donald T
 <h3>SPAC Tied to Trump Media Rushes to Complete Deal</h3>
 <sub>By Matthew Goldstein</sub>
 <p>The merger of Digital World and Trump Media has been held up by investigations, but executives are rushing to complete the deal by a Sept. 8 deadline.  <a href="https://nyti.ms/3Ga824u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Maggie Haberman on Donald Trump</h3>
+<sub>By David Leonhardt</sub>
+<p>We talk with a Trump reporter to prepare you for the week when he will likely be arrested.  <a href="https://nyti.ms/3Kr4Ofh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,12 +132,6 @@ It&#39;s been a busy news week, with a lot of interesting developments. Donald T
 <h3>Are Abortion Pills Safe? Here’s the Evidence.</h3>
 <sub>By Amy Schoenfeld Walker, Jonathan Corum, Malika Khurana and Ashley Wu</sub>
 <p>The Times reviewed 101 studies of medication abortion, spanning continents and decades. All concluded that the pills are a safe method for terminating a pregnancy.  <a href="https://nyti.ms/3K3AllX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>UConn Will Meet San Diego State in the Final After Romping Past Miami</h3>
-<sub>By Billy Witz</sub>
-<p>The Huskies could claim their fifth championship in 25 years — something no men’s program other than U.C.L.A. and Duke has accomplished.  <a href="https://nyti.ms/3lXCQhV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
