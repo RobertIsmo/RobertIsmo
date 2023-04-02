@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 1, Central Standard Time</p>
 <p>
-There have been some big events happening in the world recently. President Trump just got indicted on criminal charges and Fox News is facing a civil trial. Meanwhile, an investigation into former President Trump is showing progress after more than a year. Tornadoes have made their way through the Midwest and South, leaving death and destruction in their wake. China has been learning lessons from Russia&#39;s military operations in Ukraine, while in Russia a reporter facing espionage charges has yet to be released. And to top it off, college athletes are busy making transfers and jockeying for position for next season&#39;s final four!</p>
+It&#39;s been a busy few months in the news! Recently, both Donald Trump and Fox News have been met with back-to-back rebukes from the legal system over different matters. Trump is facing criminal indictment, while Fox News is going through a civil trial. Also, tornado activity has torn up the Midwest and South over the last few weeks, leaving people dead or injured. The NCAA tournament has concluded, with Iowa upsetting South Carolina for the championship. The Biden administration has managed to secure the release of two Americans who were wrongly held in Russia, but there are still obstacles in trying to free a journalist being detained there. China has been applying lessons drawn from Russia&#39;s conflict with Ukraine while in the US, the FBI has begun looking into activities of extremist group Proud Boys after the insurrection at the Capitol on Jan 6th.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump and Fox News, Twin Titans of Politics, Hit With Back-to-Back Rebukes</h3>
@@ -80,12 +80,6 @@ There have been some big events happening in the world recently. President Trump
 <p>A year ago, the investigation into the former president appeared from the outside to be over. But a series of crucial turning points led to this week’s indictment.  <a href="https://nyti.ms/40CLrFJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s G.O.P. Rivals, Shielding Him, Reveal Their 2024 Predicament</h3>
-<sub>By Michael C. Bender and Maggie Haberman</sub>
-<p>Many of Donald Trump’s potential opponents snapped into line behind him, showing just how hard it may be to persuade Republican voters to choose an alternative.  <a href="https://nyti.ms/40xiTxr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Venice Is Saved! Woe Is Venice.</h3>
 <sub>By Jason Horowitz, Emma Bubola and Laetitia Vancon</sub>
@@ -93,16 +87,28 @@ There have been some big events happening in the world recently. President Trump
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Least 21 Killed as Tornadoes Tear Through the Midwest and South</h3>
-<sub>By Gwen Moritz, McKenna Oxenden, Livia Albeck-Ripka and Mike Ives</sub>
-<p>One person was killed and at least 40 others were hurt after a roof collapsed at a theater in Illinois. Communities in at least six states were affected, officials said.  <a href="https://nyti.ms/40QMh1q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>One Dead and Dozens Hurt in Roof Collapse at Illinois Theater</h3>
-<sub>By Mike Ives and Robert Chiarito</sub>
-<p>The disaster at a heavy metal concert in Belvidere, Ill., was one of several storm-related episodes that killed at least 20 other people as tornadoes tore through the Midwest and South on Friday.  <a href="https://nyti.ms/40KcZZG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tornadoes Rip Wide Trail of Destruction Through Midwest and South</h3>
+<sub>By Dan Simmons, Jessica Jaglois, Robert Chiarito, Farrah Anderson and Mitch Smith</sub>
+<p>Storms killed at least 21 people and injured dozens of others across numerous states, as more severe weather threatened the East.  <a href="https://nyti.ms/40KcZZG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>As the Final Four Finishes, a Parallel Transfer Season Plays Out, Too</h3>
+<sub>By Billy Witz and Adam Zagoria</sub>
+<p>Call it the consolation bracket, as teams jockey for position for next season.  <a href="https://nyti.ms/3lR5UYs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>How Iowa Ended South Carolina’s Storied Perfect Season</h3>
+<sub>By Jeré Longman</sub>
+<p>South Carolina had fielded the nation’s toughest defense, but couldn’t stop the offensive fireworks of Iowa’s Caitlin Clark.  <a href="https://nyti.ms/40UXm1d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>UConn’s Adama Sanogo Is Fasting for Ramadan and Leading His Team</h3>
+<sub>By Scott Miller</sub>
+<p>Sanogo, a 6-foot-9 forward, couldn’t eat before either of Connecticut’s last two N.C.A.A. tournament games, but against Gonzaga, he powered up at halftime.  <a href="https://nyti.ms/3LX1OIR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China Draws Lessons From Russia’s Losses in Ukraine, and Its Gains</h3>
@@ -117,21 +123,15 @@ There have been some big events happening in the world recently. President Trump
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Charges a Leading Ukrainian Vicar, as Russia Pounds Eastern Ukraine</h3>
-<sub>By Matthew Mpoke Bigg and Yurii Shyvala</sub>
-<p>The charge against the religious leader, Pavlo Lebid, came as Russian forces hit the town of Avdiivka, among 70 other targets, along the front line.  <a href="https://nyti.ms/3G7NQQy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<h3>A Plan to Lift the Fog of War in Ukraine? It’s in the Cards.</h3>
+<sub>By Lara Jakes</sub>
+<p>To help soldiers quickly distinguish friend from foe, the Pentagon is issuing playing cards with pictures of 52 different NATO weapons systems.  <a href="https://nyti.ms/3JQlN9h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the F.B.I.’s Jan. 6 Investigation of the Proud Boys</h3>
 <sub>By Alan Feuer</sub>
 <p>A log of messages shows how agents scrambled after evidence and sought to recruit members of the group all while trying to squeeze in workouts and cope with the bureau’s obsolete technology.  <a href="https://nyti.ms/3K5fkaL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>As the Final Four Finishes, a Parallel Transfer Season Plays Out, Too</h3>
-<sub>By Billy Witz and Adam Zagoria</sub>
-<p>Call it the consolation bracket, as teams jockey for position for next season.  <a href="https://nyti.ms/3lR5UYs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
