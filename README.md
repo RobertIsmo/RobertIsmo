@@ -60,16 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 2, Central Standard Time</p>
 <p>
-There have been a lot of political developments lately, especially in the US. President Trump is facing a criminal indictment and Fox News is facing a civil trial, both back-to-back. Leaders around the world don&#39;t seem affected by this news and believe that Trump would be politically resilient. Also, other news includes a salacious indictment against Trump which is the latest chapter in his life that was made for the tabloids. Across the world, Venice is being saved but woe to it because there are repercussions to such change.
-
-In sports, UConn has made it to the final with a romping win over Miami, and San Diego State made it with an exciting buzzer-beater from Lamont Butler. The Iowa game was a big hit for ESPN with 5.5 million views and now there&#39;s a University National Championship final on network TV coming up!
-
-Finally there have been natural disasters like Tornadoes which have ripped wide trails of destruction across multiple states recently killing 23 people and injuring many more. In Ukraine, China has been looking at Russia&#39;s losses and it has lessons to offer in terms of supply lines and nuclear threats in case of any conflict. Zelensky denounced Russia getting U.N Security Council Presidency as complete bankruptcy of such institutions while they are also trying out playing cards with pictures of NATO weapons systems to help soldiers quickly distinguish friend from foe. The FBI is also investigating activities of Proud Boys  and scrambling after evidence while trying to cope with their obsolete technology.</p>
+It&#39;s been a busy news week, with a lot of interesting developments. Donald Trump is facing criminal charges in Manhattan and he&#39;s attacking the judge overseeing the case. World leaders are not surprised, as they feel confident in his political resilience. Another story to watch is a merger between Digital World and Trump Media, which has been held up by investigations but is rushing to complete the deal. In Finland, the country recently ranked as the happiest on earth for six consecutive years, people are more complex than their reputation would have us believe. In Ukraine, President Volodymyr Zelensky denounced Moscow&#39;s presidency of the Security Council meetings after a deadly attack in a Ukrainian town. And there have been updates to other stories - journalist Evan Gershkovich, detained by Russia for reporting, was a storyteller who felt connected to the country; Paul Vallas and Brandon Johnson face off for the Chicago Mayor position; there has been talk all over America about abortion rights; and finally, UConn has made it all the way to the women&#39;s basketball championship game against San Diego State, looking to make it five championships in twenty-five years.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump and Fox News, Twin Titans of Politics, Hit With Back-to-Back Rebukes</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Donald Trump’s criminal indictment and Fox News’s civil trial have nothing in common, but, combined, they delivered a rare reckoning for two forces that have transformed politics.  <a href="https://nyti.ms/3nxAw1j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Donald Trump’s Time-Tested Legal Strategy: Attack and Delay</h3>
+<sub>By William K. Rashbaum, Maggie Haberman, Charlie Savage and Jonah E. Bromwich</sub>
+<p>Across many court cases over the decades, Mr. Trump has regularly leaned on those tactics. Now facing criminal charges in Manhattan, he has already lashed out at the judge.  <a href="https://nyti.ms/40Ny0Cu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -78,64 +74,64 @@ Finally there have been natural disasters like Tornadoes which have ripped wide 
 <p>The indictment last week of Donald J. Trump has not changed the calculations of many world leaders who view his political resilience as inevitable.  <a href="https://nyti.ms/3zs4PJu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Trump’s Playboy Persona Came Back to Haunt Him</h3>
-<sub>By Dan Barry</sub>
-<p>A salacious indictment against the 45th president is the latest chapter in a life made for the tabloids.  <a href="https://nyti.ms/42Wn2fW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>SPAC Tied to Trump Media Rushes to Complete Deal</h3>
+<sub>By Matthew Goldstein</sub>
+<p>The merger of Digital World and Trump Media has been held up by investigations, but executives are rushing to complete the deal by a Sept. 8 deadline.  <a href="https://nyti.ms/3Ga824u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Finnish Secret to Happiness? Knowing When You Have Enough.</h3>
+<sub>By Penelope Colston and Jake Michaels</sub>
+<p>The Nordic nation has been ranked the happiest country on earth for six consecutive years. But when you talk to individual Finns, the reality is a bit more complicated.  <a href="https://nyti.ms/3KoMEdY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Venice Is Saved! Woe Is Venice.</h3>
-<sub>By Jason Horowitz, Emma Bubola and Laetitia Vancon</sub>
-<p>Produced by Mona Boshnaq  <a href="https://nyti.ms/42P47DE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Children’s Rights Advocate Accused of Russian War Crimes</h3>
+<sub>By Valerie Hopkins</sub>
+<p>Maria Lvova-Belova says she is running a humanitarian evacuation of abandoned Ukrainian children. The International Criminal Court accuses her of abducting them wholesale.  <a href="https://nyti.ms/3lXtB1b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Deadly Attack Hits Ukrainian Town After Zelensky Denounces Russia’s ‘Absurd’ Security Council Presidency</h3>
+<sub>By Vivek Shankar and Cassandra Vinograd</sub>
+<p>President Volodymyr Zelensky of Ukraine said that permitting Moscow its monthlong chairmanship of Security Council meetings showed “the complete bankruptcy of such institutions.”  <a href="https://nyti.ms/3Ma9rvF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Journalist Detained by Russia Was Reporting Stories That ‘Needed to Be Told’</h3>
+<sub>By Katie Robertson</sub>
+<p>Evan Gershkovich, who works for The Wall Street Journal, knew the risks of reporting in Russia but felt a deep connection to the country, his friends said.  <a href="https://nyti.ms/3ZAisRu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Chicago Mayoral Hopeful Who Took on Hard-to-Fix Schools Faces a Political Shift</h3>
+<sub>By Mitch Smith and Matthew Rosenberg</sub>
+<p>Paul Vallas has long been a supporter of charter schools. He is running against Brandon Johnson, an ex-teacher with a different approach.  <a href="https://nyti.ms/3KolZhB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chicagoans Are Picking a Mayor. Here’s What Matters From 4 Key Wards.</h3>
+<sub>By Julie Bosman and Jamie Kelter Davis</sub>
+<p>Voters will go to the polls on Tuesday in the nation’s third-largest city, a place where neighborhoods often stand apart.  <a href="https://nyti.ms/3ZudxSl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats Run on Abortion, Even for Offices With Little Say on the Issue</h3>
+<sub>By Reid J. Epstein</sub>
+<p>Seizing on a powerful motivator for their party, Democratic candidates for municipal offices have put Republicans on their heels. “I’m running for mayor, I’m not debating abortion,” one said.  <a href="https://nyti.ms/3U17pQ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Are Abortion Pills Safe? Here’s the Evidence.</h3>
+<sub>By Amy Schoenfeld Walker, Jonathan Corum, Malika Khurana and Ashley Wu</sub>
+<p>The Times reviewed 101 studies of medication abortion, spanning continents and decades. All concluded that the pills are a safe method for terminating a pregnancy.  <a href="https://nyti.ms/3K3AllX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>UConn Will Meet San Diego State in the Final After Romping Past Miami</h3>
 <sub>By Billy Witz</sub>
 <p>The Huskies could claim their fifth championship in 25 years — something no men’s program other than U.C.L.A. and Duke has accomplished.  <a href="https://nyti.ms/3lXCQhV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Lamont Butler Hits Buzzer-Beater to Send San Diego State to N.C.A.A. Title Game</h3>
-<sub>By Andrew Keh</sub>
-<p>“You cant even dream about what just happened,” his father, Lamont Butler Sr., said moments after the shot went in.  <a href="https://nyti.ms/3G5xXKv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Iowa’s Win Over South Carolina Was a Hit for ESPN, With 5.5 Million Viewers</h3>
-<sub>By Kevin Draper</sub>
-<p>The highly anticipated matchup delivered more viewers than any non-championship game in women’s college basketball. And the Iowa-Louisiana State final on Sunday is on network TV.  <a href="https://nyti.ms/3KqhmU4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tornadoes Rip Wide Trail of Destruction</h3>
-<sub>By Dan Simmons, Jessica Jaglois, Robert Chiarito, Farrah Anderson and Mitch Smith</sub>
-<p>Storms have killed at least 23 people and injured dozens of others this weekend across numerous states, as another round of severe weather threatened the East.  <a href="https://nyti.ms/40KcZZG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Draws Lessons From Russia’s Losses in Ukraine, and Its Gains</h3>
-<sub>By Chris Buckley</sub>
-<p>With an eye on a possible conflict over Taiwan, analysts have scrutinized the war for insights ranging from the importance of supply lines to the power of nuclear threats.  <a href="https://nyti.ms/42UlrXY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Denounces ‘Absurd’ U.N. Security Council Presidency for Russia</h3>
-<sub>By Vivek Shankar</sub>
-<p>President Volodymyr Zelensky of Ukraine said that permitting Moscow its monthlong chairmanship of Security Council meetings showed “the complete bankruptcy of such institutions.”  <a href="https://nyti.ms/3Ma9rvF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Plan to Lift the Fog of War in Ukraine? It’s in the Cards.</h3>
-<sub>By Lara Jakes</sub>
-<p>To help soldiers quickly distinguish friend from foe, the Pentagon is issuing playing cards with pictures of 52 different NATO weapons systems.  <a href="https://nyti.ms/3JQlN9h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the F.B.I.’s Jan. 6 Investigation of the Proud Boys</h3>
-<sub>By Alan Feuer</sub>
-<p>A log of messages shows how agents scrambled after evidence and sought to recruit members of the group all while trying to squeeze in workouts and cope with the bureau’s obsolete technology.  <a href="https://nyti.ms/3K5fkaL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
