@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 1, Central Standard Time</p>
 <p>
-It&#39;s been a busy few months in the news! Recently, both Donald Trump and Fox News have been met with back-to-back rebukes from the legal system over different matters. Trump is facing criminal indictment, while Fox News is going through a civil trial. Also, tornado activity has torn up the Midwest and South over the last few weeks, leaving people dead or injured. The NCAA tournament has concluded, with Iowa upsetting South Carolina for the championship. The Biden administration has managed to secure the release of two Americans who were wrongly held in Russia, but there are still obstacles in trying to free a journalist being detained there. China has been applying lessons drawn from Russia&#39;s conflict with Ukraine while in the US, the FBI has begun looking into activities of extremist group Proud Boys after the insurrection at the Capitol on Jan 6th.</p>
+There have recently been some exciting and attention-grabbing developments in politics. Donald Trump has been indicted on criminal charges and Fox News is being taken to civil court – both of these events rarely happen and make an important statement about the power of these two figures. On top of this, Alvin Bragg helped resurrect a case against Donald Trump that had seemed over. In other news, town have been severely affected by a trail of destruction tornados left  in multiple states, and college basketball is becoming increasingly popular with huge 5.5 million viewer numbers for one particular game. 
+
+Moving into the world scene, China has been looking to Ukraine for lessons in how to deal with future conflicts between countries such as those over Taiwan. It seems the Pentagon also has something up its sleeve - playing cards depicting different NATO weapons systems are being issued as a way to identify friend or foe during conflict quickly and easily. The FBI has also focused its attention on the Proud Boys group which was in Washington D.C. on January 6th with investigations uncovering surprising evidence about their behaviour than day. Finally, scientists have recently discovered plants make popping noises when they are stressed and the Yankees logo is gaining recognition in Brazil but a lot of confusion surrounds its true significance!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump and Fox News, Twin Titans of Politics, Hit With Back-to-Back Rebukes</h3>
@@ -87,9 +89,9 @@ It&#39;s been a busy few months in the news! Recently, both Donald Trump and Fox
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tornadoes Rip Wide Trail of Destruction Through Midwest and South</h3>
+<h3>Tornadoes Rip Wide Trail of Destruction</h3>
 <sub>By Dan Simmons, Jessica Jaglois, Robert Chiarito, Farrah Anderson and Mitch Smith</sub>
-<p>Storms killed at least 21 people and injured dozens of others across numerous states, as more severe weather threatened the East.  <a href="https://nyti.ms/40KcZZG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Storms have killed at least 23 people and injured dozens of others this weekend across numerous states, as another round of severe weather threatened the East.  <a href="https://nyti.ms/40KcZZG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -99,28 +101,16 @@ It&#39;s been a busy few months in the news! Recently, both Donald Trump and Fox
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How Iowa Ended South Carolina’s Storied Perfect Season</h3>
-<sub>By Jeré Longman</sub>
-<p>South Carolina had fielded the nation’s toughest defense, but couldn’t stop the offensive fireworks of Iowa’s Caitlin Clark.  <a href="https://nyti.ms/40UXm1d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Iowa’s Win Over South Carolina Was a Hit for ESPN, With 5.5 Million Viewers</h3>
+<sub>By Kevin Draper</sub>
+<p>The highly anticipated matchup delivered more viewers than any non-championship game in women’s college basketball. And the Iowa-Louisiana State final on Sunday is on network TV.  <a href="https://nyti.ms/3KqhmU4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>UConn’s Adama Sanogo Is Fasting for Ramadan and Leading His Team</h3>
-<sub>By Scott Miller</sub>
-<p>Sanogo, a 6-foot-9 forward, couldn’t eat before either of Connecticut’s last two N.C.A.A. tournament games, but against Gonzaga, he powered up at halftime.  <a href="https://nyti.ms/3LX1OIR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China Draws Lessons From Russia’s Losses in Ukraine, and Its Gains</h3>
 <sub>By Chris Buckley</sub>
 <p>With an eye on a possible conflict over Taiwan, analysts have scrutinized the war for insights ranging from the importance of supply lines to the power of nuclear threats.  <a href="https://nyti.ms/42UlrXY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Espionage Charge Adds Hurdle to Freeing a Reporter Detained in Russia</h3>
-<sub>By Michael Crowley, Ivan Nechepurenko and Anton Troianovski</sub>
-<p>The Biden administration recently secured the release of two Americans convicted of criminal charges in Russia, but even fabricated charges of spying can raise the stakes.  <a href="https://nyti.ms/3nvOu3L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Plan to Lift the Fog of War in Ukraine? It’s in the Cards.</h3>
@@ -133,6 +123,18 @@ It&#39;s been a busy few months in the news! Recently, both Donald Trump and Fox
 <sub>By Alan Feuer</sub>
 <p>A log of messages shows how agents scrambled after evidence and sought to recruit members of the group all while trying to squeeze in workouts and cope with the bureau’s obsolete technology.  <a href="https://nyti.ms/3K5fkaL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>This Is What It Sounds Like When Plants Cry</h3>
+<sub>By Darren Incorvaia</sub>
+<p>Scientists recorded the popping noises that plants make in response to stresses like dehydration or a cut.  <a href="https://nyti.ms/3G3Y6JG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Yankees Cap Goes Viral in Brazil: ‘Is It Basketball?’</h3>
+<sub>By Jack Nicas</sub>
+<p>The New York Yankees logo is everywhere in Brazil. What it means, however, is up for interpretation.  <a href="https://nyti.ms/40p9Tua"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
