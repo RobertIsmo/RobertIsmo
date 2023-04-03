@@ -60,15 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 3, Central Standard Time</p>
 <p>
-Currently in the US, Donald Trump is preparing for his upcoming court appearance over his role in a hush money scandal with a porn star. At the same time, law enforcement is taking steps to prevent the type of unrest that happened at the Capitol on January 6th. 
-
-Meanwhile in Ukraine, the nation is poised for a critical spring campaign with Western weapons and new assault units being implemented to counter an impending threat. Furthermore, in response to uncertain global economic conditions, Saudi Arabia and other major oil producers have announced a surprise cut in crude production. This has caused oil prices to jump.
-
-In terms of politics in the US, Governor Ron DeSantis&#39; war against mainstream media outlets has started to affect even his own conservative press supporters. He&#39;s also been backed by a Super PAC that has reportedly raised $30 million dollars, fueling speculation that he will soon announce a Republican presidential nomination bid. 
-
-College basketball has been bustling with talent lately too - particularly on the women&#39;s side. Angel Reese starred as her Louisiana State Tigers victoriously beat Caitlin Clark&#39;s Iowa team by 17 points to win the NCAA Women&#39;s title. At the same time, this immense collegiate talent speaks to a talent conundrum in the WNBA as there are only 144 spots available across all teams and many bright stars will have to play elsewhere or be unable to pursue their basketball dreams. 
-
-Back home, in California&#39;s Tulare Lake, strong storms have brought back what once was - returning it from being drained off the map back into its original state of being the largest body of fresh water west of the Mississippi River. But as spring approaches and with this excess water buildup comes an increased risk for flooding and disaster. </p>
+Right now, a lot is going on in the world. In the US, Donald Trump is due to appear in court this week as he faces charges over his role in paying hush money to a porn star, while his campaign is preparing for his potential arrest. In Ukraine, they&#39;re gearing up for a critical spring counteroffensive against their opponents equipped with powerful Western weapons. Oil prices have jumped after OPEC announced plans to cut production. And in Louisiana, the LSU Women&#39;s Basketball team has won the NCAA Women&#39;s Title after a big win against Iowa, who were led by basketball star Caitlin Clark.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Presidential Candidate and a City Brace for a Consequential Week</h3>
@@ -95,9 +87,9 @@ Back home, in California&#39;s Tulare Lake, strong storms have brought back what
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Looming Counteroffensive Will Test Ukrainian Army’s Resolve</h3>
+<h3>New Weapons Aren’t Enough: The Challenges of Ukraine’s Coming Assault</h3>
 <sub>By Andrew E. Kramer and Mauricio Lima</sub>
-<p>With powerful Western weapons, newly formed assault units and even a reconstituted Azov battalion, Ukraine is poised for a critical spring campaign. But overcoming casualties and keeping war-weary troops motivated are challenges.  <a href="https://nyti.ms/42XP9eG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>With powerful Western weapons, newly formed assault units and even a reconstituted Azov battalion, Ukraine is poised for a critical spring counteroffensive. But overcoming casualties and keeping war-weary troops motivated will be stern tests.  <a href="https://nyti.ms/42XP9eG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -118,17 +110,17 @@ Back home, in California&#39;s Tulare Lake, strong storms have brought back what
 <p>Fund-raising is predicted to be a strength for Ron DeSantis, who is expected to announce his bid for the Republican presidential nomination in the coming months.  <a href="https://nyti.ms/3m9vjwl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How the U.S., Family and Hollywood Freed the ‘Hotel Rwanda’ Hero</h3>
-<sub>By Declan Walsh, Michael D. Shear and Abdi Latif Dahir</sub>
-<p>Paul Rusesabagina, depicted in the 2004 film about genocide in his country, was reunited with his family last week. It took years of pressure to get him out of Rwanda, where he was convicted on terrorism charges.  <a href="https://nyti.ms/3KrJLcp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tulare Lake Was Drained Off the Map. Nature Would Like a Word.</h3>
 <sub>By Soumya Karlamangla and Shawn Hubler</sub>
 <p>A barrage of storms has resurrected what was once the largest body of fresh water west of the Mississippi River, setting the stage for a disaster this spring.  <a href="https://nyti.ms/3U0IZ9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How the U.S., Family and Hollywood Freed the ‘Hotel Rwanda’ Hero</h3>
+<sub>By Declan Walsh, Michael D. Shear and Abdi Latif Dahir</sub>
+<p>Paul Rusesabagina, depicted in the 2004 film about genocide in his country, was reunited with his family last week. It took years of pressure to get him out of Rwanda, where he was convicted on terrorism charges.  <a href="https://nyti.ms/3KrJLcp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Angel Reese, Caitlin Clark and the W.N.B.A.’s Talent Conundrum</h3>
