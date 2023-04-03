@@ -60,67 +60,69 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 3, Central Standard Time</p>
 <p>
-Recently, the Biden administration has been trying to end the use of hacking tools made by the Israeli firm NSO, while still keeping the former Trump administration in the news with an impending criminal case against him. Meanwhile, in Finland they&#39;ve been named the happiest country on earth for 6 consecutive years, but their recent election has seen a change in Prime Minister and a shift to more economic concerns. On the sports side of things, Louisiana State won both the NCAA Women&#39;s Title and smashed records with a ton of 3-pointers from unlikely sources, boosted along by Angel Reese&#39;s trash talking comments. Lastly, Tulare Lake has made a huge come back after it was drained off the map, setting the stage for potentially dangerous floods this spring. Oh and earlier this month Seymour Stein, an iconic figure in the record industry who signed Madonna, passed away at 80.</p>
+Currently in the US, Donald Trump is preparing for his upcoming court appearance over his role in a hush money scandal with a porn star. At the same time, law enforcement is taking steps to prevent the type of unrest that happened at the Capitol on January 6th. 
+
+Meanwhile in Ukraine, the nation is poised for a critical spring campaign with Western weapons and new assault units being implemented to counter an impending threat. Furthermore, in response to uncertain global economic conditions, Saudi Arabia and other major oil producers have announced a surprise cut in crude production. This has caused oil prices to jump.
+
+In terms of politics in the US, Governor Ron DeSantis&#39; war against mainstream media outlets has started to affect even his own conservative press supporters. He&#39;s also been backed by a Super PAC that has reportedly raised $30 million dollars, fueling speculation that he will soon announce a Republican presidential nomination bid. 
+
+College basketball has been bustling with talent lately too - particularly on the women&#39;s side. Angel Reese starred as her Louisiana State Tigers victoriously beat Caitlin Clark&#39;s Iowa team by 17 points to win the NCAA Women&#39;s title. At the same time, this immense collegiate talent speaks to a talent conundrum in the WNBA as there are only 144 spots available across all teams and many bright stars will have to play elsewhere or be unable to pursue their basketball dreams. 
+
+Back home, in California&#39;s Tulare Lake, strong storms have brought back what once was - returning it from being drained off the map back into its original state of being the largest body of fresh water west of the Mississippi River. But as spring approaches and with this excess water buildup comes an increased risk for flooding and disaster. </p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Presidential Candidate and a City Brace for a Consequential Week</h3>
+<sub>By Maggie Haberman and Jonathan Swan</sub>
+<p>Donald Trump and his campaign spent the weekend making plans for his arrest, and how to capitalize on it, while officials in New York prepared for potential turmoil.  <a href="https://nyti.ms/40EczUQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Days Before Trump Appears in Court, Few Signs Point to a Jan. 6 Repeat</h3>
+<sub>By Glenn Thrush, Alan Feuer and Adam Goldman</sub>
+<p>Even as Donald Trump’s arraignment differs from the Capitol riot, law enforcement’s response is informed by lessons learned from that day and the nationwide protests against police violence.  <a href="https://nyti.ms/3GcPu3z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What We Know About the Indictment and Surrender of Donald Trump</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
+<p>Mr. Trump was indicted over his role in paying hush money to a porn star. He plans to return to New York City on Monday evening and turn himself in on Tuesday, a lawyer has said.  <a href="https://nyti.ms/3lVqDu1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Front Company and a Fake Identity: How the U.S. Came to Use Spyware It Was Trying to Kill.</h3>
 <sub>By Mark Mazzetti and Ronen Bergman</sub>
 <p>The Biden administration has been trying to choke off use of hacking tools made by the Israeli firm NSO. It turns out that not every part of the government has gotten the message.  <a href="https://nyti.ms/3GaxM0q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Flourishes in the Glare of His Indictment</h3>
-<sub>By Peter Baker</sub>
-<p>The former president’s appetite for attention has been fundamental to his identity for decades. Where others may focus on the hazards of a criminal case, he raises money, promotes his campaign and works to reduce the case to a cliffhanging spectacle.  <a href="https://nyti.ms/3Zz3uv1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Looming Counteroffensive Will Test Ukrainian Army’s Resolve</h3>
+<sub>By Andrew E. Kramer and Mauricio Lima</sub>
+<p>With powerful Western weapons, newly formed assault units and even a reconstituted Azov battalion, Ukraine is poised for a critical spring campaign. But overcoming casualties and keeping war-weary troops motivated are challenges.  <a href="https://nyti.ms/42XP9eG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>As Trump Arraignment Looms, New York City Braces for a Day of Tumult</h3>
-<sub>By Jesse McKinley and Chelsia Rose Marcius</sub>
-<p>Donald J. Trump is expected to fly in on Monday night, then he is expected to spend the night in Trump Tower. The police will monitor every movement.  <a href="https://nyti.ms/3KrQ0wT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Oil Prices Jump, Signaling a ‘Proactive, Pre-emptive’ OPEC</h3>
+<sub>By Stanley Reed</sub>
+<p>Adding to global economic uncertainties, oil prices rose on Monday after Saudi Arabia and other major producers announced a surprise cut in crude production.  <a href="https://nyti.ms/42Yvtr3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>2 Pro-Impeachment Senators Question Motives Behind Trump Indictment</h3>
-<sub>By Jonathan Swan, Maggie Haberman and Chris Cameron</sub>
-<p>Joe Manchin, a Democrat, and Bill Cassidy, a Republican, both voted to convict Donald Trump after Jan. 6. They expressed concern on Sunday that the criminal case against him is political.  <a href="https://nyti.ms/3KoFo0P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<h3>Right-Wing Media Splits From DeSantis on Press Protections</h3>
+<sub>By Ken Bensinger</sub>
+<p>Gov. Ron DeSantis’s war against mainstream media outlets is poised to wound even his boosters in the conservative press. Is the Florida governor biting the hand that feeds him?  <a href="https://nyti.ms/3nAM4kx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Super PAC Backing DeSantis Says It Has Raised $30 Million</h3>
+<sub>By Maggie Haberman</sub>
+<p>Fund-raising is predicted to be a strength for Ron DeSantis, who is expected to announce his bid for the Republican presidential nomination in the coming months.  <a href="https://nyti.ms/3m9vjwl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Finnish Secret to Happiness? Knowing When You Have Enough.</h3>
-<sub>By Penelope Colston and Jake Michaels</sub>
-<p>The Nordic nation has been ranked the happiest country on earth for six consecutive years. But when you talk to individual Finns, the reality is a bit more complicated.  <a href="https://nyti.ms/3KoMEdY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Finland’s Prime Minister Toppled in Tight Election</h3>
-<sub>By Steven Erlanger and Johanna Lemola</sub>
-<p>Prime Minister Sanna Marin’s party was outpolled by a rival that stressed economic concerns. Petteri Orpo of the National Coalition Party may now come to power, but coalition talks will be daunting.  <a href="https://nyti.ms/3ZBqiKA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Louisiana State Wins N.C.A.A. Women’s Title With Rout of Clark and Iowa</h3>
-<sub>By Kris Rhim</sub>
-<p>Angel Reese starred and talked trash as her Tigers held Caitlin Clark and Iowa at bay in a 102-85 victory.  <a href="https://nyti.ms/40s7EGt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Kim Mulkey, a Colorful and Divisive Coach, Wins Another Title</h3>
-<sub>By Jeré Longman</sub>
-<p>Mulkey’s L.S.U. players say they appreciate her tough approach. But her relationship with Brittney Griner continues to receive scrutiny.  <a href="https://nyti.ms/3Ku5Gjs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>L.S.U. Set Scoring Records. But the Points Came From an Unlikely Source.</h3>
-<sub>By Remy Tumin</sub>
-<p>Louisiana State won the championship on 3-pointers. The Tigers can thank Jasmine Carson, who led the team with a surprise 22 points.  <a href="https://nyti.ms/40WNX9M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>L.S.U. Buoyed by Trash-Talking, Shot-Swishing Angel Reese</h3>
-<sub>By Evan Easterling</sub>
-<p>Reese, a double-double machine who transferred from Maryland, is embracing the Bayou Barbie nickname bestowed on her in Baton Rouge.  <a href="https://nyti.ms/3Zigw0W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<h3>How the U.S., Family and Hollywood Freed the ‘Hotel Rwanda’ Hero</h3>
+<sub>By Declan Walsh, Michael D. Shear and Abdi Latif Dahir</sub>
+<p>Paul Rusesabagina, depicted in the 2004 film about genocide in his country, was reunited with his family last week. It took years of pressure to get him out of Rwanda, where he was convicted on terrorism charges.  <a href="https://nyti.ms/3KrJLcp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tulare Lake Was Drained Off the Map. Nature Would Like a Word.</h3>
@@ -128,10 +130,16 @@ Recently, the Biden administration has been trying to end the use of hacking too
 <p>A barrage of storms has resurrected what was once the largest body of fresh water west of the Mississippi River, setting the stage for a disaster this spring.  <a href="https://nyti.ms/3U0IZ9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Seymour Stein, Record Industry Giant Who Signed Madonna, Dies at 80</h3>
-<sub>By Ben Sisario</sub>
-<p>With an encyclopedic knowledge of pop music, he championed acts including the Ramones, Talking Heads and the Pretenders on his label Sire, and helped found the Rock &amp; Roll Hall of Fame.  <a href="https://nyti.ms/3GbS2yy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Angel Reese, Caitlin Clark and the W.N.B.A.’s Talent Conundrum</h3>
+<sub>By Remy Tumin and Kris Rhim</sub>
+<p>Women’s college basketball has never seen the scale of talent it has today. But with only 144 spots in the W.N.B.A., some very bright college stars will have to play elsewhere.  <a href="https://nyti.ms/3nEpuYk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Louisiana State Wins N.C.A.A. Women’s Title With Rout of Clark and Iowa</h3>
+<sub>By Kris Rhim</sub>
+<p>Angel Reese starred and talked trash as her Tigers held Caitlin Clark and Iowa at bay in a 102-85 victory.  <a href="https://nyti.ms/40s7EGt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
