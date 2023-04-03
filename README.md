@@ -60,19 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 2, Central Standard Time</p>
 <p>
-There are some pretty big things happening around the world right now. US President Donald Trump has been indicted and there&#39;s a lot of speculation on what that might mean. In Russia, there is an ongoing conflict between the Russian army and pro-invasion bloggers and activists, resulting in some casualties. There is also a humanitarian crisis in Ukraine where thousands of Ukrainians have had to escape the war, creating refugee camps abroad. On a happier note, Finland has been named the happiest country on earth for six consecutive years due to their understanding of knowing when they have enough. Additionally, the UConn basketball team is advancing towards the championship, having won their semi-finals game against Miami.</p>
+There is a lot going on in the world right now! In the US, the Biden administration is trying to stop the use of some spyware tools made by an Israeli firm. At the same time, former President Trump has been indicted and is currently facing a criminal case. Meanwhile, in Finland their Prime Minister has been toppled in a tight election and the country&#39;s secret to happiness is being recognized. There are also severe storms predicted for tomorrow covering seven states from Texas to Illinois. And tragically, a popular Russian military blogger was killed in St. Petersburg due to a bombing. Finally, Seymour Stein, an influential producer who signed Madonna, recently passed away at 80.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Front Company and a Fake Identity: How the U.S. Came to Use Spyware It Was Trying to Kill.</h3>
+<sub>By Mark Mazzetti and Ronen Bergman</sub>
+<p>The Biden administration has been trying to choke off use of hacking tools made by the Israeli firm NSO. It turns out that not every part of the government has gotten the message.  <a href="https://nyti.ms/3GaxM0q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Flourishes in the Glare of His Indictment</h3>
 <sub>By Peter Baker</sub>
 <p>The former president’s appetite for attention has been fundamental to his identity for decades. Where others may focus on the hazards of a criminal case, he raises money, promotes his campaign and works to reduce the case to a cliffhanging spectacle.  <a href="https://nyti.ms/3Zz3uv1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Donald Trump’s Time-Tested Legal Strategy: Attack and Delay</h3>
-<sub>By William K. Rashbaum, Maggie Haberman, Charlie Savage and Jonah E. Bromwich</sub>
-<p>Across many court cases over the decades, Mr. Trump has regularly leaned on those tactics. Now facing criminal charges in Manhattan, he has already lashed out at the judge.  <a href="https://nyti.ms/40Ny0Cu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>As Trump Arraignment Looms, New York City Braces for a Day of Tumult</h3>
@@ -93,10 +93,16 @@ There are some pretty big things happening around the world right now. US Presid
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Children’s Rights Advocate Accused of Russian War Crimes</h3>
-<sub>By Valerie Hopkins</sub>
-<p>Maria Lvova-Belova says she is running a humanitarian evacuation of abandoned Ukrainian children. The International Criminal Court accuses her of abducting them wholesale.  <a href="https://nyti.ms/3lXtB1b"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Finland’s Prime Minister Toppled in Tight Election</h3>
+<sub>By Steven Erlanger and Johanna Lemola</sub>
+<p>Prime Minister Sanna Marin’s party was outpolled by a rival that stressed economic concerns. Petteri Orpo of the National Coalition Party may now come to power, but coalition talks will be daunting.  <a href="https://nyti.ms/3ZBqiKA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>L.S.U. Buoyed by Trash-Talking, Shot-Swishing Angel Reese</h3>
+<sub>By Evan Easterling</sub>
+<p>Reese, a double-double machine who transferred from Maryland, is embracing the Bayou Barbie nickname bestowed on her in Baton Rouge.  <a href="https://nyti.ms/3Zigw0W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Influential Russian Military Blogger Is Killed in St. Petersburg Bombing</h3>
@@ -110,29 +116,23 @@ There are some pretty big things happening around the world right now. US Presid
 <p>More than 280,000 Ukrainians have escaped the war through a program meant to resettle them into the homes of Americans. But not everyone has found a safe or welcoming place to stay.  <a href="https://nyti.ms/3m2wqhi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Journalist Detained by Russia Was Reporting Stories That ‘Needed to Be Told’</h3>
-<sub>By Katie Robertson</sub>
-<p>Evan Gershkovich, who works for The Wall Street Journal, knew the risks of reporting in Russia but felt a deep connection to the country, his friends said.  <a href="https://nyti.ms/3ZAisRu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Rare Call With Lavrov, Blinken Demands Release of Imprisoned American Journalist</h3>
-<sub>By Emma Bubola</sub>
-<p>Secretary of State Antony J. Blinken spoke with his Russian counterpart after the American basketball star Brittney Griner, who was detained for almost 10 months by Russia, urged the U.S. government to use “every tool possible” to secure Evan Gershkovich’s release.  <a href="https://nyti.ms/3GaoRMD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tulare Lake Was Drained Off the Map. Nature Would Like a Word.</h3>
+<sub>By Soumya Karlamangla and Shawn Hubler</sub>
+<p>A barrage of storms has resurrected what was once the largest body of freshwater west of the Mississippi River, setting the stage for a disaster this spring.  <a href="https://nyti.ms/3U0IZ9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Norfolk Southern’s Push for Profits Compromised Safety, Workers Say</h3>
-<sub>By Peter Eavis, Mark Walker and Niraj Chokshi</sub>
-<p>Federal officials are investigating the railroad’s safety practices and culture after the derailment in East Palestine, Ohio, and worker deaths.  <a href="https://nyti.ms/3KqExxy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Seymour Stein, Record Industry Giant Who Signed Madonna, Dies at 80</h3>
+<sub>By Ben Sisario</sub>
+<p>With an encyclopedic knowledge of pop music, he championed acts including the Ramones, Talking Heads and the Pretenders on his label Sire, and helped found the Rock &amp; Roll Hall of Fame.  <a href="https://nyti.ms/3GbS2yy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>UConn Will Meet San Diego State in the Final After Romping Past Miami</h3>
-<sub>By Billy Witz</sub>
-<p>The Huskies could claim their fifth championship in 25 years — something no men’s program other than U.C.L.A. and Duke has accomplished.  <a href="https://nyti.ms/3lXCQhV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Another Round of Severe Storms Expected Tuesday From Texas to Illinois</h3>
+<sub>By Jesus Jiménez</sub>
+<p>After a storm system tore through parts of at least seven states on Friday and Saturday, forecasters said tornadoes, hail and strong winds were possible on Tuesday in the South and Midwest.  <a href="https://nyti.ms/432miWw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
