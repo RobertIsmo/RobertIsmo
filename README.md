@@ -58,11 +58,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, April 2, Central Standard Time</p>
+<p>It is Monday, April 3, Central Standard Time</p>
 <p>
-In the United States, there have been a few recent news developments. The Biden administration is trying to crack down on NSO—an Israeli firm that produces hacking tools—but not all parts of the government seem to be on board. Meanwhile, former President Trump is facing a criminal case and will be arraigned in New York City soon. On top of this, 2 Senators—one Democrat and one Republican—have expressed concern that the charging case against Trump could be politically motivated.
-
-On the world stage, Finland has been ranked as the happiest country for 6 consecutive years, but it recently experienced a tight election that toppled Prime Minister Sanna Marin&#39;s party in favor of a rival party that stressed economic concerns. This is all while a Russian military blogger who supported Moscow&#39;s war was tragically killed in a bombing in St Petersburg. Lastly, Tulare Lake has resurfaced due to storms in California and could potentially cause disasters this spring.</p>
+The United States is dealing with the fallout from the Trump administration and its involvement with the Israeli spyware firm NSO. There&#39;s an impending criminal trial of Donald Trump, which has New York City on edge. Meanwhile, two senators who voted to impeach Trump have expressed concerns that his indictment might be political rather than criminal. 
+In Finland, they&#39;re celebrating six consecutive years as the world&#39;s happiest country, though many Finns suggest reality isn&#39;t quite as wonderful as it looks from the outside. The country is also in the midst of a tight election that could lead to a change in leadership. 
+In sports news, Louisiana State just won the Women&#39;s NCAA championship, with Angel Reese leading the way and setting an example for trash-talking off the court. Kim Mulkey was also just awarded her fourth title with LBSU, but her controversial relationship with Brittney Griner has been making headlines. Finally, one of Russia&#39;s most influential pro-war bloggers was killed in a St. Petersburg bombing. 
+Finally, back in the US there&#39;s ongoing concern over Tulare Lake, which has been brought back by an onslaught of storms and could cause lot of damage in spring.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Front Company and a Fake Identity: How the U.S. Came to Use Spyware It Was Trying to Kill.</h3>
