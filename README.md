@@ -60,10 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 3, Central Standard Time</p>
 <p>
-The United States is dealing with the fallout from the Trump administration and its involvement with the Israeli spyware firm NSO. There&#39;s an impending criminal trial of Donald Trump, which has New York City on edge. Meanwhile, two senators who voted to impeach Trump have expressed concerns that his indictment might be political rather than criminal. 
-In Finland, they&#39;re celebrating six consecutive years as the world&#39;s happiest country, though many Finns suggest reality isn&#39;t quite as wonderful as it looks from the outside. The country is also in the midst of a tight election that could lead to a change in leadership. 
-In sports news, Louisiana State just won the Women&#39;s NCAA championship, with Angel Reese leading the way and setting an example for trash-talking off the court. Kim Mulkey was also just awarded her fourth title with LBSU, but her controversial relationship with Brittney Griner has been making headlines. Finally, one of Russia&#39;s most influential pro-war bloggers was killed in a St. Petersburg bombing. 
-Finally, back in the US there&#39;s ongoing concern over Tulare Lake, which has been brought back by an onslaught of storms and could cause lot of damage in spring.</p>
+Recently, the Biden administration has been trying to end the use of hacking tools made by the Israeli firm NSO, while still keeping the former Trump administration in the news with an impending criminal case against him. Meanwhile, in Finland they&#39;ve been named the happiest country on earth for 6 consecutive years, but their recent election has seen a change in Prime Minister and a shift to more economic concerns. On the sports side of things, Louisiana State won both the NCAA Women&#39;s Title and smashed records with a ton of 3-pointers from unlikely sources, boosted along by Angel Reese&#39;s trash talking comments. Lastly, Tulare Lake has made a huge come back after it was drained off the map, setting the stage for potentially dangerous floods this spring. Oh and earlier this month Seymour Stein, an iconic figure in the record industry who signed Madonna, passed away at 80.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Front Company and a Fake Identity: How the U.S. Came to Use Spyware It Was Trying to Kill.</h3>
@@ -125,16 +122,16 @@ Finally, back in the US there&#39;s ongoing concern over Tulare Lake, which has 
 <p>Reese, a double-double machine who transferred from Maryland, is embracing the Bayou Barbie nickname bestowed on her in Baton Rouge.  <a href="https://nyti.ms/3Zigw0W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Influential Russian Military Blogger Is Killed in St. Petersburg Bombing</h3>
-<sub>By Ivan Nechepurenko and Anatoly Kurmanaev</sub>
-<p>Vladlen Tatarsky represented a radical wing of pro-invasion bloggers and activists who backed Moscow’s war but also criticized what they saw as the flaws in the Russian Army.  <a href="https://nyti.ms/3Ku0A6N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tulare Lake Was Drained Off the Map. Nature Would Like a Word.</h3>
 <sub>By Soumya Karlamangla and Shawn Hubler</sub>
 <p>A barrage of storms has resurrected what was once the largest body of fresh water west of the Mississippi River, setting the stage for a disaster this spring.  <a href="https://nyti.ms/3U0IZ9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Seymour Stein, Record Industry Giant Who Signed Madonna, Dies at 80</h3>
+<sub>By Ben Sisario</sub>
+<p>With an encyclopedic knowledge of pop music, he championed acts including the Ramones, Talking Heads and the Pretenders on his label Sire, and helped found the Rock &amp; Roll Hall of Fame.  <a href="https://nyti.ms/3GbS2yy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
