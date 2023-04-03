@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 2, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! In the US, the Biden administration is trying to stop the use of some spyware tools made by an Israeli firm. At the same time, former President Trump has been indicted and is currently facing a criminal case. Meanwhile, in Finland their Prime Minister has been toppled in a tight election and the country&#39;s secret to happiness is being recognized. There are also severe storms predicted for tomorrow covering seven states from Texas to Illinois. And tragically, a popular Russian military blogger was killed in St. Petersburg due to a bombing. Finally, Seymour Stein, an influential producer who signed Madonna, recently passed away at 80.</p>
+In the United States, there have been a few recent news developments. The Biden administration is trying to crack down on NSO—an Israeli firm that produces hacking tools—but not all parts of the government seem to be on board. Meanwhile, former President Trump is facing a criminal case and will be arraigned in New York City soon. On top of this, 2 Senators—one Democrat and one Republican—have expressed concern that the charging case against Trump could be politically motivated.
+
+On the world stage, Finland has been ranked as the happiest country for 6 consecutive years, but it recently experienced a tight election that toppled Prime Minister Sanna Marin&#39;s party in favor of a rival party that stressed economic concerns. This is all while a Russian military blogger who supported Moscow&#39;s war was tragically killed in a bombing in St Petersburg. Lastly, Tulare Lake has resurfaced due to storms in California and could potentially cause disasters this spring.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Front Company and a Fake Identity: How the U.S. Came to Use Spyware It Was Trying to Kill.</h3>
@@ -99,6 +101,24 @@ There is a lot going on in the world right now! In the US, the Biden administrat
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Louisiana State Wins N.C.A.A. Women’s Title With Rout of Clark and Iowa</h3>
+<sub>By Kris Rhim</sub>
+<p>Angel Reese starred and talked trash as her Tigers held Caitlin Clark and Iowa at bay in a 102-85 victory.  <a href="https://nyti.ms/40s7EGt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Kim Mulkey, a Colorful and Divisive Coach, Wins Another Title</h3>
+<sub>By Jeré Longman</sub>
+<p>Mulkey’s L.S.U. players say they appreciate her tough approach. But her relationship with Brittney Griner continues to receive scrutiny.  <a href="https://nyti.ms/3Ku5Gjs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>L.S.U. Set Scoring Records. But the Points Came From an Unlikely Source.</h3>
+<sub>By Remy Tumin</sub>
+<p>Louisiana State won the championship on 3-pointers. The Tigers can thank Jasmine Carson, who led the team with a surprise 22 points.  <a href="https://nyti.ms/40WNX9M"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>L.S.U. Buoyed by Trash-Talking, Shot-Swishing Angel Reese</h3>
 <sub>By Evan Easterling</sub>
 <p>Reese, a double-double machine who transferred from Maryland, is embracing the Bayou Barbie nickname bestowed on her in Baton Rouge.  <a href="https://nyti.ms/3Zigw0W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -110,28 +130,10 @@ There is a lot going on in the world right now! In the US, the Biden administrat
 <p>Vladlen Tatarsky represented a radical wing of pro-invasion bloggers and activists who backed Moscow’s war but also criticized what they saw as the flaws in the Russian Army.  <a href="https://nyti.ms/3Ku0A6N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>These Ukrainians Arrived Under a Biden Program. They Ended Up Homeless.</h3>
-<sub>By Kimiko de Freytas-Tamura</sub>
-<p>More than 280,000 Ukrainians have escaped the war through a program meant to resettle them into the homes of Americans. But not everyone has found a safe or welcoming place to stay.  <a href="https://nyti.ms/3m2wqhi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tulare Lake Was Drained Off the Map. Nature Would Like a Word.</h3>
 <sub>By Soumya Karlamangla and Shawn Hubler</sub>
-<p>A barrage of storms has resurrected what was once the largest body of freshwater west of the Mississippi River, setting the stage for a disaster this spring.  <a href="https://nyti.ms/3U0IZ9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Seymour Stein, Record Industry Giant Who Signed Madonna, Dies at 80</h3>
-<sub>By Ben Sisario</sub>
-<p>With an encyclopedic knowledge of pop music, he championed acts including the Ramones, Talking Heads and the Pretenders on his label Sire, and helped found the Rock &amp; Roll Hall of Fame.  <a href="https://nyti.ms/3GbS2yy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Another Round of Severe Storms Expected Tuesday From Texas to Illinois</h3>
-<sub>By Jesus Jiménez</sub>
-<p>After a storm system tore through parts of at least seven states on Friday and Saturday, forecasters said tornadoes, hail and strong winds were possible on Tuesday in the South and Midwest.  <a href="https://nyti.ms/432miWw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A barrage of storms has resurrected what was once the largest body of fresh water west of the Mississippi River, setting the stage for a disaster this spring.  <a href="https://nyti.ms/3U0IZ9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
