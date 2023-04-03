@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 3, Central Standard Time</p>
 <p>
-Right now, a lot is going on in the world. In the US, Donald Trump is due to appear in court this week as he faces charges over his role in paying hush money to a porn star, while his campaign is preparing for his potential arrest. In Ukraine, they&#39;re gearing up for a critical spring counteroffensive against their opponents equipped with powerful Western weapons. Oil prices have jumped after OPEC announced plans to cut production. And in Louisiana, the LSU Women&#39;s Basketball team has won the NCAA Women&#39;s Title after a big win against Iowa, who were led by basketball star Caitlin Clark.</p>
+There&#39;s a lot going on around the world! Millions of Americans may soon lose their Medicaid coverage, as pandemic protections come to an end and states begin redetermining their eligibility for the program. Donald Trump is headed back to New York City for his court arraignment this week, and law enforcement is prepping for potential chaos. Meanwhile, there&#39;s plenty of tension in Ukraine, with newly formed military units being used in preparation for a massive spring counteroffensive. On brighter news, California&#39;s record snowpack has been measured with precision by low-flying planes, helping forecasters make predictions on how it&#39;ll melt. Lastly, the WNBA is facing an immense talent conundrum, as lots of great college talent can only squeeze into 144 spots on the WNBA roster.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Presidential Candidate and a City Brace for a Consequential Week</h3>
+<h3>Millions on Medicaid May Soon Lose Coverage as Pandemic Protections End</h3>
+<sub>By Noah Weiland</sub>
+<p>A requirement that states keep people on Medicaid during the coronavirus pandemic has come to an end, and 15 million people could lose their coverage as a result.  <a href="https://nyti.ms/3nHsGT2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Millions of Americans May Soon Lose Medicaid Coverage. Here’s How to Prepare.</h3>
+<sub>By Dani Blum</sub>
+<p>As pandemic protections expire, states are redetermining which people are eligible for the health insurance program.  <a href="https://nyti.ms/3KovtJC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Donald Trump and New York City Brace for a Consequential Week</h3>
 <sub>By Maggie Haberman and Jonathan Swan</sub>
-<p>Donald Trump and his campaign spent the weekend making plans for his arrest, and how to capitalize on it, while officials in New York prepared for potential turmoil.  <a href="https://nyti.ms/40EczUQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>As the former president traveled to Manhattan for his arrest on Tuesday, his team weighed how to capitalize on it, while officials in New York prepared for potential turmoil.  <a href="https://nyti.ms/40EczUQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,16 +87,10 @@ Right now, a lot is going on in the world. In the US, Donald Trump is due to app
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What We Know About the Indictment and Surrender of Donald Trump</h3>
-<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
-<p>Mr. Trump was indicted over his role in paying hush money to a porn star. He plans to return to New York City on Monday evening and turn himself in on Tuesday, a lawyer has said.  <a href="https://nyti.ms/3lVqDu1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Front Company and a Fake Identity: How the U.S. Came to Use Spyware It Was Trying to Kill.</h3>
-<sub>By Mark Mazzetti and Ronen Bergman</sub>
-<p>The Biden administration has been trying to choke off use of hacking tools made by the Israeli firm NSO. It turns out that not every part of the government has gotten the message.  <a href="https://nyti.ms/3GaxM0q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<h3>As Trump Heads to New York, Adams Warns Protesters to Behave</h3>
+<sub>By Corey Kilgannon</sub>
+<p>The mayor told protesters that the city “is always ready” ahead of the arrival on Monday of Donald J. Trump, the first ex-president to be indicted.  <a href="https://nyti.ms/42TJyWG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>New Weapons Aren’t Enough: The Challenges of Ukraine’s Coming Assault</h3>
@@ -92,10 +98,16 @@ Right now, a lot is going on in the world. In the US, Donald Trump is due to app
 <p>With powerful Western weapons, newly formed assault units and even a reconstituted Azov battalion, Ukraine is poised for a critical spring counteroffensive. But overcoming casualties and keeping war-weary troops motivated will be stern tests.  <a href="https://nyti.ms/42XP9eG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Oil Prices Jump, Signaling a ‘Proactive, Pre-emptive’ OPEC</h3>
-<sub>By Stanley Reed</sub>
-<p>Adding to global economic uncertainties, oil prices rose on Monday after Saudi Arabia and other major producers announced a surprise cut in crude production.  <a href="https://nyti.ms/42Yvtr3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>See What California’s Record Snowpack Looks Like, Up Close</h3>
+<sub>By Raymond Zhong and Erin Schaff</sub>
+<p>Sensors on low-flying planes can measure mountaintop snow with great precision, helping forecasters predict what will happen as it melts.  <a href="https://nyti.ms/40Awxjq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>She Was Killed in Front of Her Son. It Took 26 Years to Crack the Case.</h3>
+<sub>By Chelsia Rose Marcius</sub>
+<p>Inside a cold-case detective’s dogged quest to solve the murder of Jasmine Porter.  <a href="https://nyti.ms/3GbFcAz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,22 +116,10 @@ Right now, a lot is going on in the world. In the US, Donald Trump is due to app
 <p>Gov. Ron DeSantis’s war against mainstream media outlets is poised to wound even his boosters in the conservative press. Is the Florida governor biting the hand that feeds him?  <a href="https://nyti.ms/3nAM4kx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Super PAC Backing DeSantis Says It Has Raised $30 Million</h3>
-<sub>By Maggie Haberman</sub>
-<p>Fund-raising is predicted to be a strength for Ron DeSantis, who is expected to announce his bid for the Republican presidential nomination in the coming months.  <a href="https://nyti.ms/3m9vjwl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tulare Lake Was Drained Off the Map. Nature Would Like a Word.</h3>
-<sub>By Soumya Karlamangla and Shawn Hubler</sub>
-<p>A barrage of storms has resurrected what was once the largest body of fresh water west of the Mississippi River, setting the stage for a disaster this spring.  <a href="https://nyti.ms/3U0IZ9z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How the U.S., Family and Hollywood Freed the ‘Hotel Rwanda’ Hero</h3>
-<sub>By Declan Walsh, Michael D. Shear and Abdi Latif Dahir</sub>
-<p>Paul Rusesabagina, depicted in the 2004 film about genocide in his country, was reunited with his family last week. It took years of pressure to get him out of Rwanda, where he was convicted on terrorism charges.  <a href="https://nyti.ms/3KrJLcp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>DeSantis Asks Florida Authorities to Investigate Disney World Board</h3>
+<sub>By Brooks Barnes</sub>
+<p>The governor sent a letter to the state inspector general regarding Disney’s efforts to limit state oversight of its theme park resort.  <a href="https://nyti.ms/3nGdx4q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -129,9 +129,9 @@ Right now, a lot is going on in the world. In the US, Donald Trump is due to app
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Louisiana State Wins N.C.A.A. Women’s Title With Rout of Clark and Iowa</h3>
-<sub>By Kris Rhim</sub>
-<p>Angel Reese starred and talked trash as her Tigers held Caitlin Clark and Iowa at bay in a 102-85 victory.  <a href="https://nyti.ms/40s7EGt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Life Happened, and Somehow Put Them in the Championship Game</h3>
+<sub>By Billy Witz</sub>
+<p>After a middling season at the University of San Diego, Joey Calcaterra, a guard, transferred to UConn and Sam Scholl, the fired head coach, was hired as a basketball adviser by San Diego State.  <a href="https://nyti.ms/3GbeAQj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
