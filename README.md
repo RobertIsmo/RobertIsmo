@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 3, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world! Millions of Americans may soon lose their Medicaid coverage, as pandemic protections come to an end and states begin redetermining their eligibility for the program. Donald Trump is headed back to New York City for his court arraignment this week, and law enforcement is prepping for potential chaos. Meanwhile, there&#39;s plenty of tension in Ukraine, with newly formed military units being used in preparation for a massive spring counteroffensive. On brighter news, California&#39;s record snowpack has been measured with precision by low-flying planes, helping forecasters make predictions on how it&#39;ll melt. Lastly, the WNBA is facing an immense talent conundrum, as lots of great college talent can only squeeze into 144 spots on the WNBA roster.</p>
+Right now, there are lots of things going on around the world. Millions of people in the US could soon lose their Medicaid coverage due to ending pandemic protections. A lot of people are preparing for this and trying to find other health insurance options. In New York City, Donald Trump is in town, and the Mayor is warning any protesters to behave - there are worries that this could turn into a repeat of the deadly events in January. Meanwhile Ukraine is getting ready for a major counteroffensive, aided by powerful Western weapons. The US has also named a diverse crew of astronauts for an upcoming mission to the moon as part of &#39;Artemis II&#39;. In California, snowpacks are being studied closely to predict meltwater and how this affects climate change. There&#39;s also a really heartbreaking case in New York City - it took 26 years but the cold-case detective was able to solve the murder of Jasmine Porter in front of her son. Finally, women&#39;s basketball is seeing some major momentum and recognition with lots of new talent and record numbers of viewers watching the NCCA tournament - plus an amazing story where an ex-teacher upended the Chicago mayoral race with union support!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Millions on Medicaid May Soon Lose Coverage as Pandemic Protections End</h3>
@@ -74,10 +74,10 @@ There&#39;s a lot going on around the world! Millions of Americans may soon lose
 <p>As pandemic protections expire, states are redetermining which people are eligible for the health insurance program.  <a href="https://nyti.ms/3KovtJC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Donald Trump and New York City Brace for a Consequential Week</h3>
-<sub>By Maggie Haberman and Jonathan Swan</sub>
-<p>As the former president traveled to Manhattan for his arrest on Tuesday, his team weighed how to capitalize on it, while officials in New York prepared for potential turmoil.  <a href="https://nyti.ms/40EczUQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>As Trump Arrives in New York, Adams Warns Protesters to Behave</h3>
+<sub>By Corey Kilgannon</sub>
+<p>Mayor Adams told protesters that the city “is always ready” as Donald J. Trump returned to Trump Tower on the eve of his arraignment.  <a href="https://nyti.ms/42TJyWG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,16 +86,16 @@ There&#39;s a lot going on around the world! Millions of Americans may soon lose
 <p>Even as Donald Trump’s arraignment differs from the Capitol riot, law enforcement’s response is informed by lessons learned from that day and the nationwide protests against police violence.  <a href="https://nyti.ms/3GcPu3z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>As Trump Heads to New York, Adams Warns Protesters to Behave</h3>
-<sub>By Corey Kilgannon</sub>
-<p>The mayor told protesters that the city “is always ready” ahead of the arrival on Monday of Donald J. Trump, the first ex-president to be indicted.  <a href="https://nyti.ms/42TJyWG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>New Weapons Aren’t Enough: The Challenges of Ukraine’s Coming Assault</h3>
 <sub>By Andrew E. Kramer and Mauricio Lima</sub>
 <p>With powerful Western weapons, newly formed assault units and even a reconstituted Azov battalion, Ukraine is poised for a critical spring counteroffensive. But overcoming casualties and keeping war-weary troops motivated will be stern tests.  <a href="https://nyti.ms/42XP9eG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>NASA Names Diverse Astronaut Crew for Artemis II Moon Mission</h3>
+<sub>By Kenneth Chang</sub>
+<p>The crew’s 10-day journey around the moon and back in 2024 is a crucial step toward returning Americans to the moon on a sustained basis.  <a href="https://nyti.ms/3U56NZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -110,29 +110,29 @@ There&#39;s a lot going on around the world! Millions of Americans may soon lose
 <p>Inside a cold-case detective’s dogged quest to solve the murder of Jasmine Porter.  <a href="https://nyti.ms/3GbFcAz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Right-Wing Media Splits From DeSantis on Press Protections</h3>
-<sub>By Ken Bensinger</sub>
-<p>Gov. Ron DeSantis’s war against mainstream media outlets is poised to wound even his boosters in the conservative press. Is the Florida governor biting the hand that feeds him?  <a href="https://nyti.ms/3nAM4kx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>DeSantis Asks Florida Authorities to Investigate Disney World Board</h3>
-<sub>By Brooks Barnes</sub>
-<p>The governor sent a letter to the state inspector general regarding Disney’s efforts to limit state oversight of its theme park resort.  <a href="https://nyti.ms/3nGdx4q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Angel Reese, Caitlin Clark and the W.N.B.A.’s Talent Conundrum</h3>
-<sub>By Remy Tumin and Kris Rhim</sub>
-<p>Women’s college basketball has never seen the scale of talent it has today. But with only 144 spots in the W.N.B.A., some very bright college stars will have to play elsewhere.  <a href="https://nyti.ms/3nEpuYk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<h3>This Is Not a Moment in Women’s Basketball. It’s Momentum.</h3>
+<sub>By Talya Minsberg</sub>
+<p>This year’s women’s N.C.A.A. tournament brought new depth, a breadth of talent and record numbers of viewers. But what you are seeing isn’t new.  <a href="https://nyti.ms/3ZB9O5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Life Happened, and Somehow Put Them in the Championship Game</h3>
 <sub>By Billy Witz</sub>
 <p>After a middling season at the University of San Diego, Joey Calcaterra, a guard, transferred to UConn and Sam Scholl, the fired head coach, was hired as a basketball adviser by San Diego State.  <a href="https://nyti.ms/3GbeAQj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Chicago’s Mayoral Election Matters, Even if You Don’t Live in Chicago</h3>
+<sub>By Julie Bosman</sub>
+<p>America’s cities increasingly face similar problems, particularly worries about crime and hangovers from the pandemic. That’s why the mayor’s election in Chicago on Tuesday is about more than Chicago.  <a href="https://nyti.ms/3ZwYIih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Chicago Mayor’s Race, a Former Teacher Rises With Union Support</h3>
+<sub>By Mitch Smith</sub>
+<p>Brandon Johnson, a county commissioner who once taught in struggling neighborhoods, soared in the polls after an endorsement and donations from the Chicago Teachers Union.  <a href="https://nyti.ms/405lm1H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
