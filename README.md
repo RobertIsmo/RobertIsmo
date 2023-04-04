@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, April 3, Central Standard Time</p>
+<p>It is Tuesday, April 4, Central Standard Time</p>
 <p>
-There has been a lot happening in the world lately. In New York, Donald Trump is returning to Trump Tower on the eve of his arraignment which will make history. Meanwhile, millions of people living in the US may soon lose their Medicaid coverage due to the end of pandemic related protections. Russia is accusing dissidents and Ukraine of killing a pro-war blogger, while NASA is preparing for a mission to the moon that will involve a diverse astronaut crew. California&#39;s record snowpack is being measured with sensors attached to low-flying planes and authorities have solved a 26 year old cold case murder of Jasmine Porter. Lastly, psychedelic pioneer Dr. Roland Griffiths is taking what he calls an &quot;ultimate trip&quot; with his Stage 4 cancer.</p>
+There&#39;s a lot going on in the world right now. In New York, Donald Trump is returning to Trump Tower tomorrow to become the first ex-president ever to face indictment. At the same time, millions of people on Medicaid may be facing loss of coverage due to expiring pandemic protections. On the brighter side, UConn just won their fifth men’s NCAA basketball title, and the NCAA women’s tournament has brought record numbers of viewers this year. Internationally, Russia is accusing dissidents and Ukraine of killing a pro-war blogger and taking the helm at the UN Security Council. Meanwhile, NASA has named a diverse roster of astronauts for an upcoming Artemis II moon mission. Closer to home, California is dealing with record snowpack that sensors on low-flying planes can measure with great precision. Finally, border tensions are high after an unarmed Mexican man was shot crossing an Arizona ranch, and the resulting criminal case against the ranch owner has caused backlash among his supporters.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Trump Arrives in New York for an Arraignment That Will Make History</h3>
@@ -86,6 +86,18 @@ There has been a lot happening in the world lately. In New York, Donald Trump is
 <p>As pandemic protections expire, states are redetermining which people are eligible for the health insurance program.  <a href="https://nyti.ms/3KovtJC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>UConn Wins Fifth Men’s N.C.A.A. Title by Overwhelming San Diego St.</h3>
+<sub>By Billy Witz</sub>
+<p>UConn’s defeat of San Diego State, 76-59, ended a dominant run in the tournament in which its closest of six victories was by 13 points.  <a href="https://nyti.ms/40DmTwt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>This Is Not a Moment in Women’s Basketball. It’s Momentum.</h3>
+<sub>By Talya Minsberg</sub>
+<p>This year’s women’s N.C.A.A. tournament brought new depth, a breadth of talent and record numbers of viewers. But what you are seeing isn’t new.  <a href="https://nyti.ms/3ZB9O5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Accuses Dissidents and Ukraine of Killing Pro-War Blogger</h3>
 <sub>By Anton Troianovski, Anatoly Kurmanaev and Ivan Nechepurenko</sub>
@@ -104,12 +116,6 @@ There has been a lot happening in the world lately. In New York, Donald Trump is
 <p>The monthlong presidency of an organization dedicated to preserving world peace is now in the hands of a nation waging the biggest land war in Europe in decades.  <a href="https://nyti.ms/3nHmzOC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>This Is Not a Moment in Women’s Basketball. It’s Momentum.</h3>
-<sub>By Talya Minsberg</sub>
-<p>This year’s women’s N.C.A.A. tournament brought new depth, a breadth of talent and record numbers of viewers. But what you are seeing isn’t new.  <a href="https://nyti.ms/3ZB9O5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>NASA Names Diverse Astronaut Crew for Artemis II Moon Mission</h3>
 <sub>By Kenneth Chang</sub>
@@ -122,16 +128,10 @@ There has been a lot happening in the world lately. In New York, Donald Trump is
 <p>Sensors on low-flying planes can measure mountaintop snow with great precision, helping forecasters predict what will happen as it melts.  <a href="https://nyti.ms/40Awxjq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>She Was Killed in Front of Her Son. It Took 26 Years to Crack the Case.</h3>
-<sub>By Chelsia Rose Marcius</sub>
-<p>Inside a cold-case detective’s dogged quest to solve the murder of Jasmine Porter.  <a href="https://nyti.ms/3GbFcAz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>A Psychedelics Pioneer Takes the Ultimate Trip</h3>
-<sub>By David Marchese</sub>
-<p>“Life has been more beautiful, more wonderful than ever,” says Dr. Roland Griffiths, who has stage 4 cancer.  <a href="https://nyti.ms/3G7sV03"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Death and Justice on the Border: A Migrant Is Killed, a Rancher Is Charged</h3>
+<sub>By Jack Healy</sub>
+<p>An unarmed Mexican man was shot as he crossed an Arizona ranch. The case against the ranch owner has prompted a backlash among supporters who say he is the real victim.  <a href="https://nyti.ms/432mRzx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
