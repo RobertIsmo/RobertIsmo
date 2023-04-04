@@ -60,27 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 4, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. In New York, Donald Trump is set to become the first former president to be indicted, and he has just added a former US prosecutor to his defense team. In Russia, a blogger who was pro-war was killed, with the suspect being an antigovernment activist from Ukraine. On a brighter note, earlier this week UConn won its fifth NCAA title in a dominant performance against San Diego State. Unfortunately, millions of people enrolled in Medicaid may soon lose coverage due to the pandemic protections expiring.
-
-In terms of climate news, California set record snowpack levels this year and scientists are using low-flying planes to measure them. There was also a sad incident that took place in Arizona recently where an unarmed Mexican man was shot while crossing a ranch - the ranch owner has been charged but it’s caused a backlash among his supporters. In the health world, Roland Griffiths, a psychedelics pioneer is heading out on an ultimate trip as he has stage 4 cancer. Even politics isn’t immune from what’s happening as republicans can’t seem to agree on their path out of their own debt crisis.</p>
+There is a lot of news happening in the world right now. In New York City, Donald Trump is preparing to turn himself in to the authorities over his involvement in paying hush money to a porn star. Meanwhile, conspiracy theorists are accusing George Soros of being behind the indictment and the right wing is using him as a scapegoat. Russia is accusing dissidents and Ukraine for the killing of a pro-war blogger and Chicagoans are going to the polls for a mayoral race between two very different Democrats. Wisconsin has a high-stakes Supreme Court election that could determine the legality of abortion and gerrymandering in the state. In sports, UConn won their fifth NCAA title by overwhelming San Diego State and nearly had it derailed by one of their players indulging in calamari. At Yellowstone National Park, 1,150 bison were hunted for spreading disease to livestock. Italy&#39;s hard right prime minister has ordered municipalities to stop certifying birth certificates for same-sex couples who use surrogacy. Lastly, on the Arizona border an unarmed Mexican man was shot while crossing a ranch and the ranch owner is being charged with murder, prompting backlash from some who see him as the victim.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Arrives in New York for an Arraignment That Will Make History</h3>
-<sub>By Corey Kilgannon</sub>
-<p>Mayor Adams told protesters that the city “is always ready” as Donald J. Trump returned to Trump Tower on the eve of becoming the first ex-president to be indicted.  <a href="https://nyti.ms/42TJyWG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<h3>What We Know About the Indictment and Surrender of Donald Trump</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
+<p>Mr. Trump was indicted over his role in paying hush money to a porn star. He plans to turn himself in to the authorities in New York City on Tuesday.  <a href="https://nyti.ms/3lVqDu1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump, on Eve of Surrender, Adds Former U.S. Prosecutor to Defense Team</h3>
-<sub>By Benjamin Weiser, William K. Rashbaum and Maggie Haberman</sub>
-<p>Todd Blanche previously represented Mr. Trump’s former campaign chairman, Paul Manafort.  <a href="https://nyti.ms/40GymeK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Donald Trump Prepares to Surrender</h3>
+<sub>By David Leonhardt</sub>
+<p>The Manhattan indictments may not even present his biggest legal threat.  <a href="https://nyti.ms/436kWdi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Behind Trump Indictment, the Right Wing Finds a Familiar Villain in Soros</h3>
+<sub>By Jonathan Weisman and Andrew Higgins</sub>
+<p>Conspiracy theorists have long attributed wildly varied events to George Soros, in attacks often viewed as antisemitic. His indirect donations to a prosecutor’s campaign are animating Trump allies.  <a href="https://nyti.ms/3KbMnK8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Accuses Dissidents and Ukraine of Killing Pro-War Blogger</h3>
 <sub>By Anton Troianovski, Anatoly Kurmanaev and Ivan Nechepurenko</sub>
 <p>The authorities detained a woman they said had delivered the bomb, hidden in a statuette, that killed the blogger, and called it the work of antigovernment activists and Ukraine.  <a href="https://nyti.ms/430i5mn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chicagoans Go to the Polls in a Mayoral Race Between Very Different Democrats</h3>
+<sub>By Mitch Smith</sub>
+<p>Paul Vallas, a former public school executive, has called for a crackdown on crime, while Brandon Johnson, a county commissioner, wants to expand social programs.  <a href="https://nyti.ms/3KbXy5P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Wisconsin’s High-Stakes Supreme Court Race: What to Watch</h3>
+<sub>By Reid J. Epstein</sub>
+<p>The election for a swing seat on the court is likely to determine whether abortion remains illegal in Wisconsin, as well as the future of the state’s heavily gerrymandered political maps.  <a href="https://nyti.ms/40YbtTz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>UConn Wins Fifth N.C.A.A. Title by Overwhelming San Diego State</h3>
@@ -89,34 +105,22 @@ In terms of climate news, California set record snowpack levels this year and sc
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>This Is Not a Moment in Women’s Basketball. It’s Momentum.</h3>
-<sub>By Talya Minsberg</sub>
-<p>This year’s women’s N.C.A.A. tournament brought new depth, a breadth of talent and record numbers of viewers. But what you are seeing isn’t new.  <a href="https://nyti.ms/3ZB9O5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Millions on Medicaid May Soon Lose Coverage as Pandemic Protections Expire</h3>
-<sub>By Noah Weiland</sub>
-<p>A requirement that states keep people on Medicaid during the coronavirus pandemic has come to an end, and 15 million people could lose their coverage as a result.  <a href="https://nyti.ms/3nHsGT2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Millions of Americans May Soon Lose Medicaid Coverage. Here’s How to Prepare.</h3>
-<sub>By Dani Blum</sub>
-<p>As pandemic protections expire, states are redetermining which people are eligible for the health insurance program.  <a href="https://nyti.ms/3KovtJC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<h3>Did a Meal Nearly Derail UConn’s Title Run?</h3>
+<sub>By Andrew Keh</sub>
+<p>A UConn star blamed calamari for his rough weekend at the Final Four, putting it on a long menu of items that have altered the course of sporting events.  <a href="https://nyti.ms/3U5QhJ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>NASA Names Diverse Astronaut Crew for Artemis II Moon Mission</h3>
-<sub>By Kenneth Chang</sub>
-<p>The crew’s 10-day journey around the moon and back in 2024 is a crucial step toward returning Americans to the moon on a sustained basis.  <a href="https://nyti.ms/3U56NZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<h3>Mass Yellowstone Hunt Kills 1,150 Bison</h3>
+<sub>By Jim Robbins and Michael Hanson</sub>
+<p>A months-long event, just outside the park, was intended to keep the animals from spreading a disease to livestock. But its scope and other removal measures affecting hundreds more have generated opposition.  <a href="https://nyti.ms/3GdXKQC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>See What California’s Record Snowpack Looks Like, Up Close</h3>
-<sub>By Raymond Zhong and Erin Schaff</sub>
-<p>Sensors on low-flying planes can measure mountaintop snow with great precision, helping forecasters predict what will happen as it melts.  <a href="https://nyti.ms/40Awxjq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Surrogacy Emerges as the Wedge Issue for Italy’s Hard Right</h3>
+<sub>By Jason Horowitz</sub>
+<p>Prime Minister Giorgia Meloni has ordered municipalities to stop certifying foreign birth certificates for same-sex couples who used surrogacy, leaving some babies in a legal limbo.  <a href="https://nyti.ms/3KvIaSS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Death and Justice on the Border: A Migrant Is Killed, a Rancher Is Charged</h3>
@@ -124,17 +128,11 @@ In terms of climate news, California set record snowpack levels this year and sc
 <p>An unarmed Mexican man was shot as he crossed an Arizona ranch. The case against the ranch owner has prompted a backlash among supporters who say he is the real victim.  <a href="https://nyti.ms/432mRzx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>A Psychedelics Pioneer Takes the Ultimate Trip</h3>
-<sub>By David Marchese</sub>
-<p>“Life has been more beautiful, more wonderful than ever,” says Dr. Roland Griffiths, who has stage 4 cancer.  <a href="https://nyti.ms/3G7sV03"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Republicans Can’t Agree on a Path Out of Their Own Debt Crisis</h3>
-<sub>By David Firestone</sub>
-<p>House Republicans have become so factionalized that their leaders cannot speak in one voice.  <a href="https://nyti.ms/3Ks9Qbr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In K-Pop’s Quest for Global Growth, Korean Fans Feel Cast Aside</h3>
+<sub>By John Yoon</sub>
+<p>A bidding war for a K-pop label — a deal with global ramifications for the genre — has left listeners in its home market questioning their relevance.  <a href="https://nyti.ms/3KtbVmr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
