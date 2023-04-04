@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 4, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In New York, Donald Trump is returning to Trump Tower tomorrow to become the first ex-president ever to face indictment. At the same time, millions of people on Medicaid may be facing loss of coverage due to expiring pandemic protections. On the brighter side, UConn just won their fifth men’s NCAA basketball title, and the NCAA women’s tournament has brought record numbers of viewers this year. Internationally, Russia is accusing dissidents and Ukraine of killing a pro-war blogger and taking the helm at the UN Security Council. Meanwhile, NASA has named a diverse roster of astronauts for an upcoming Artemis II moon mission. Closer to home, California is dealing with record snowpack that sensors on low-flying planes can measure with great precision. Finally, border tensions are high after an unarmed Mexican man was shot crossing an Arizona ranch, and the resulting criminal case against the ranch owner has caused backlash among his supporters.</p>
+Right now, there is a lot going on in the world. In New York, Donald Trump is set to become the first former president to be indicted, and he has just added a former US prosecutor to his defense team. In Russia, a blogger who was pro-war was killed, with the suspect being an antigovernment activist from Ukraine. On a brighter note, earlier this week UConn won its fifth NCAA title in a dominant performance against San Diego State. Unfortunately, millions of people enrolled in Medicaid may soon lose coverage due to the pandemic protections expiring.
+
+In terms of climate news, California set record snowpack levels this year and scientists are using low-flying planes to measure them. There was also a sad incident that took place in Arizona recently where an unarmed Mexican man was shot while crossing a ranch - the ranch owner has been charged but it’s caused a backlash among his supporters. In the health world, Roland Griffiths, a psychedelics pioneer is heading out on an ultimate trip as he has stage 4 cancer. Even politics isn’t immune from what’s happening as republicans can’t seem to agree on their path out of their own debt crisis.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Trump Arrives in New York for an Arraignment That Will Make History</h3>
@@ -74,6 +76,24 @@ There&#39;s a lot going on in the world right now. In New York, Donald Trump is 
 <p>Todd Blanche previously represented Mr. Trump’s former campaign chairman, Paul Manafort.  <a href="https://nyti.ms/40GymeK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Accuses Dissidents and Ukraine of Killing Pro-War Blogger</h3>
+<sub>By Anton Troianovski, Anatoly Kurmanaev and Ivan Nechepurenko</sub>
+<p>The authorities detained a woman they said had delivered the bomb, hidden in a statuette, that killed the blogger, and called it the work of antigovernment activists and Ukraine.  <a href="https://nyti.ms/430i5mn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>UConn Wins Fifth N.C.A.A. Title by Overwhelming San Diego State</h3>
+<sub>By Billy Witz</sub>
+<p>UConn’s 76-59 victory ended a dominant tournament run in which it won every game by double figures.  <a href="https://nyti.ms/40DmTwt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>This Is Not a Moment in Women’s Basketball. It’s Momentum.</h3>
+<sub>By Talya Minsberg</sub>
+<p>This year’s women’s N.C.A.A. tournament brought new depth, a breadth of talent and record numbers of viewers. But what you are seeing isn’t new.  <a href="https://nyti.ms/3ZB9O5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Millions on Medicaid May Soon Lose Coverage as Pandemic Protections Expire</h3>
 <sub>By Noah Weiland</sub>
@@ -85,36 +105,6 @@ There&#39;s a lot going on in the world right now. In New York, Donald Trump is 
 <sub>By Dani Blum</sub>
 <p>As pandemic protections expire, states are redetermining which people are eligible for the health insurance program.  <a href="https://nyti.ms/3KovtJC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>UConn Wins Fifth Men’s N.C.A.A. Title by Overwhelming San Diego St.</h3>
-<sub>By Billy Witz</sub>
-<p>UConn’s defeat of San Diego State, 76-59, ended a dominant run in the tournament in which its closest of six victories was by 13 points.  <a href="https://nyti.ms/40DmTwt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>This Is Not a Moment in Women’s Basketball. It’s Momentum.</h3>
-<sub>By Talya Minsberg</sub>
-<p>This year’s women’s N.C.A.A. tournament brought new depth, a breadth of talent and record numbers of viewers. But what you are seeing isn’t new.  <a href="https://nyti.ms/3ZB9O5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Accuses Dissidents and Ukraine of Killing Pro-War Blogger</h3>
-<sub>By Anton Troianovski, Anatoly Kurmanaev and Ivan Nechepurenko</sub>
-<p>The authorities detained a woman they said had delivered the bomb, hidden in a statuette, that killed the blogger, and called it the work of antigovernment activists and Ukraine.  <a href="https://nyti.ms/430i5mn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Assassinated Pro-War Blogger Was Part of a Radical Russian Movement</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>The blogger killed in a bombing in St. Petersburg was one of the influential ultranationalists pushing for harsher pursuit of Russia’s war against Ukraine.  <a href="https://nyti.ms/3m4eYZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Strange Days at the U.N. as Russia Takes the Helm of the Security Council</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>The monthlong presidency of an organization dedicated to preserving world peace is now in the hands of a nation waging the biggest land war in Europe in decades.  <a href="https://nyti.ms/3nHmzOC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>NASA Names Diverse Astronaut Crew for Artemis II Moon Mission</h3>
@@ -132,6 +122,18 @@ There&#39;s a lot going on in the world right now. In New York, Donald Trump is 
 <h3>Death and Justice on the Border: A Migrant Is Killed, a Rancher Is Charged</h3>
 <sub>By Jack Healy</sub>
 <p>An unarmed Mexican man was shot as he crossed an Arizona ranch. The case against the ranch owner has prompted a backlash among supporters who say he is the real victim.  <a href="https://nyti.ms/432mRzx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>A Psychedelics Pioneer Takes the Ultimate Trip</h3>
+<sub>By David Marchese</sub>
+<p>“Life has been more beautiful, more wonderful than ever,” says Dr. Roland Griffiths, who has stage 4 cancer.  <a href="https://nyti.ms/3G7sV03"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Republicans Can’t Agree on a Path Out of Their Own Debt Crisis</h3>
+<sub>By David Firestone</sub>
+<p>House Republicans have become so factionalized that their leaders cannot speak in one voice.  <a href="https://nyti.ms/3Ks9Qbr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
