@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 3, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In New York, former President Donald Trump has returned to Trump Tower for the first-ever arraignment of an ex-president. Medicaid coverage for millions of Americans is set to expire soon, leaving states to decide who is eligible. In Russia, the authorities arrested a suspect accused of delivering a bomb that killed a pro-war blogger. The U.N. Security Council is being led by Russia during its month long presidency, while they wage war against Ukraine. At NASA, there is an all-diverse crew that has been selected for the Artemis II moon mission in 2024. Women&#39;s basketball has seen record numbers of viewers this year due to the N.C.A.A tournament and California recently had a record snowpack that can be observed up close with sensor technology from low flying planes. Lastly, there was a 26 year old cold case murder which was recently solved in New York and a psychedelics pioneer took his final trip despite him having stage 4 cancer.</p>
+There has been a lot happening in the world lately. In New York, Donald Trump is returning to Trump Tower on the eve of his arraignment which will make history. Meanwhile, millions of people living in the US may soon lose their Medicaid coverage due to the end of pandemic related protections. Russia is accusing dissidents and Ukraine of killing a pro-war blogger, while NASA is preparing for a mission to the moon that will involve a diverse astronaut crew. California&#39;s record snowpack is being measured with sensors attached to low-flying planes and authorities have solved a 26 year old cold case murder of Jasmine Porter. Lastly, psychedelic pioneer Dr. Roland Griffiths is taking what he calls an &quot;ultimate trip&quot; with his Stage 4 cancer.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Trump Arrives in New York for an Arraignment That Will Make History</h3>
@@ -104,16 +104,16 @@ There is a lot going on around the world right now. In New York, former Presiden
 <p>The monthlong presidency of an organization dedicated to preserving world peace is now in the hands of a nation waging the biggest land war in Europe in decades.  <a href="https://nyti.ms/3nHmzOC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>NASA Names Diverse Astronaut Crew for Artemis II Moon Mission</h3>
-<sub>By Kenneth Chang</sub>
-<p>The crew’s 10-day journey around the moon and back in 2024 is a crucial step toward returning Americans to the moon on a sustained basis.  <a href="https://nyti.ms/3U56NZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>This Is Not a Moment in Women’s Basketball. It’s Momentum.</h3>
 <sub>By Talya Minsberg</sub>
 <p>This year’s women’s N.C.A.A. tournament brought new depth, a breadth of talent and record numbers of viewers. But what you are seeing isn’t new.  <a href="https://nyti.ms/3ZB9O5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>NASA Names Diverse Astronaut Crew for Artemis II Moon Mission</h3>
+<sub>By Kenneth Chang</sub>
+<p>The crew’s 10-day journey around the moon and back in 2024 is a crucial step toward returning Americans to the moon on a sustained basis.  <a href="https://nyti.ms/3U56NZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
