@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 4, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, Chicagoans are heading to the polls to vote in a mayoral race between two Democrats with very different views on how to approach crime and social programs. At the same time, Wisconsin is preparing for an important Supreme Court election which could affect access to abortions and political maps. In Russia, a suspect has been charged with terrorism offences for killing a pro-war blogger, amid an increasingly volatile political climate for dissenters. Meanwhile, in Italy, surrogacy has emerged as a wedge issue for right-wing politicians seeking to restrict rights for same-sex couples. Lastly, New York City is on edge as they anticipate Donald Trump&#39;s response to his first indictment - although he has been found shimmying out of many legal jams here before.</p>
+There&#39;s a lot going on around the world right now. In the US, there&#39;s a $2.6 billion package of military aid to Ukraine and a high stakes Supreme Court race in Wisconsin that could decide the future of abortion rights and gerrymandering in the state. Former president Donald Trump is facing 34 charges in connection with paying hush money to a porn star before the 2016 election. In Russia, a suspect has been charged with terrorism offenses in the killing of a pro-war blogger. Health studies have recently shown that moderate drinking has no health benefits at all - actually it increases risks to your health significantly if you drink more than two drinks a day for women or three for men. An AI start-up based in New York is developing technology that can produce short videos based on computer text input. On top of that, mass bison hunts are taking place in Yellowstone National Park to prevent them from spreading disease to livestock and there&#39;s a brand new Broadway musical by an old icon being released. Finally, there&#39;s an evaluation challenge from a professor at a university where students can get an A if their video gets over 1 million views!</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Private or Political? Charges Over Hush Money Hinge on Payment’s Purpose</h3>
-<sub>By Michael Rothfeld</sub>
-<p>In 2011, a former U.S. senator faced federal charges similar to some of those Donald J. Trump is expected to face. The case did not end in a conviction.  <a href="https://nyti.ms/3ZEis3a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here are the 34 charges against Trump.</h3>
+<sub>By Michael Gold</sub>
+<p>The former president faces 34 felony counts in connection with a hush-money payment to a porn star before the 2016 election.  <a href="https://nyti.ms/40Iufyy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Here’s why Trump is not expected to have a mug shot taken.</h3>
-<sub>By Michael Gold and William K. Rashbaum</sub>
-<p>The former president is not likely to be photographed when he is booked on charges, officials say, because his image is commonly available and taking his mug shot would entail more movements for him, complicating security.  <a href="https://nyti.ms/40YB52H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>He Covered Repression of Russian Journalists. Now, They Are Covering Him.</h3>
+<sub>By Anton Troianovski</sub>
+<p>Evan Gershkovich’s work for The Wall Street Journal included reporting on the efforts by Russians to help others who were being repressed. Russian journalists are now scrutinizing his arrest as a brazen attack on press freedom.  <a href="https://nyti.ms/3Kc1x1X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A new $2.6 billion package of U.S. military aid to Ukraine includes $500 million for immediate supplies.</h3>
+<sub>By Helene Cooper</sub>
+<p>Most of the funds will go toward future purchases of munitions, radar and other weapons to send to Ukraine.  <a href="https://nyti.ms/3m9yOms"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,10 +86,10 @@ There&#39;s a lot going on in the world right now. In the US, Chicagoans are hea
 <p>  <a href="https://nyti.ms/3zun6Wz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What We Know About the Bomb Attack on a Russian Pro-War Blogger</h3>
-<sub>By Anatoly Kurmanaev and Ivan Nechepurenko</sub>
-<p>The killing of Vladlen Tatarsky came at a volatile moment in Russia, and could herald a further crackdown on dissent. Here’s how the case has developed so far.  <a href="https://nyti.ms/3nJQDcp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Moderate Drinking Has No Health Benefits, Analysis of Decades of Research Finds</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>The review found that the methodology of many previous studies was flawed and that risk of myriad health problems increased significantly after less than two drinks a day for women and after three for men.  <a href="https://nyti.ms/3Mht2tS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -100,7 +106,7 @@ There&#39;s a lot going on in the world right now. In the US, Chicagoans are hea
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Instant Videos Could Represent the Next Leap in A.I. Technology</h3>
-<sub></sub>
+<sub>By Cade Metz</sub>
 <p>A start-up in New York is among a group of companies working on systems that can produce short videos based on a few words typed into a computer.  <a href="https://nyti.ms/3K8t1Wq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
@@ -116,12 +122,6 @@ There&#39;s a lot going on in the world right now. In the US, Chicagoans are hea
 <p>For his 16th Broadway musical, John Kander, the composer of “Chicago” and “Cabaret,” returns to “New York, New York.”  <a href="https://nyti.ms/3K6ABRu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Surrogacy Emerges as the Wedge Issue for Italy’s Hard Right</h3>
-<sub>By Jason Horowitz</sub>
-<p>Prime Minister Giorgia Meloni has ordered municipalities to stop certifying foreign birth certificates for same-sex couples who used surrogacy, leaving some babies in a legal limbo.  <a href="https://nyti.ms/3KvIaSS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Want an A in His Class? You Had Better Go Viral.</h3>
 <sub>By Madison Malone Kircher</sub>
@@ -131,7 +131,7 @@ There&#39;s a lot going on in the world right now. In the US, Chicagoans are hea
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
 <h3>New York Already Knows a Lot About Donald Trump</h3>
 <sub>By Mara Gay</sub>
-<p>The city has seen Mr. Trump shimmy out of many legal jams, but is on edge about his response to his first indictment.  <a href="https://nyti.ms/3K6ACVy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The city has seen Mr. Trump shimmy out of many legal jams but is on edge about his response to his first indictment.  <a href="https://nyti.ms/3K6ACVy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
