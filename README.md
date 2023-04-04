@@ -60,10 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 3, Central Standard Time</p>
 <p>
-Right now, there are lots of things going on around the world. Millions of people in the US could soon lose their Medicaid coverage due to ending pandemic protections. A lot of people are preparing for this and trying to find other health insurance options. In New York City, Donald Trump is in town, and the Mayor is warning any protesters to behave - there are worries that this could turn into a repeat of the deadly events in January. Meanwhile Ukraine is getting ready for a major counteroffensive, aided by powerful Western weapons. The US has also named a diverse crew of astronauts for an upcoming mission to the moon as part of &#39;Artemis II&#39;. In California, snowpacks are being studied closely to predict meltwater and how this affects climate change. There&#39;s also a really heartbreaking case in New York City - it took 26 years but the cold-case detective was able to solve the murder of Jasmine Porter in front of her son. Finally, women&#39;s basketball is seeing some major momentum and recognition with lots of new talent and record numbers of viewers watching the NCCA tournament - plus an amazing story where an ex-teacher upended the Chicago mayoral race with union support!</p>
+There is a lot going on around the world right now. In New York, former President Donald Trump has returned to Trump Tower for the first-ever arraignment of an ex-president. Medicaid coverage for millions of Americans is set to expire soon, leaving states to decide who is eligible. In Russia, the authorities arrested a suspect accused of delivering a bomb that killed a pro-war blogger. The U.N. Security Council is being led by Russia during its month long presidency, while they wage war against Ukraine. At NASA, there is an all-diverse crew that has been selected for the Artemis II moon mission in 2024. Women&#39;s basketball has seen record numbers of viewers this year due to the N.C.A.A tournament and California recently had a record snowpack that can be observed up close with sensor technology from low flying planes. Lastly, there was a 26 year old cold case murder which was recently solved in New York and a psychedelics pioneer took his final trip despite him having stage 4 cancer.</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Arrives in New York for an Arraignment That Will Make History</h3>
+<sub>By Corey Kilgannon</sub>
+<p>Mayor Adams told protesters that the city “is always ready” as Donald J. Trump returned to Trump Tower on the eve of becoming the first ex-president to be indicted.  <a href="https://nyti.ms/42TJyWG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump, on Eve of Surrender, Adds Former U.S. Prosecutor to Defense Team</h3>
+<sub>By Benjamin Weiser, William K. Rashbaum and Maggie Haberman</sub>
+<p>Todd Blanche previously represented Mr. Trump’s former campaign chairman, Paul Manafort.  <a href="https://nyti.ms/40GymeK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Millions on Medicaid May Soon Lose Coverage as Pandemic Protections End</h3>
+<h3>Millions on Medicaid May Soon Lose Coverage as Pandemic Protections Expire</h3>
 <sub>By Noah Weiland</sub>
 <p>A requirement that states keep people on Medicaid during the coronavirus pandemic has come to an end, and 15 million people could lose their coverage as a result.  <a href="https://nyti.ms/3nHsGT2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
@@ -74,28 +86,34 @@ Right now, there are lots of things going on around the world. Millions of peopl
 <p>As pandemic protections expire, states are redetermining which people are eligible for the health insurance program.  <a href="https://nyti.ms/3KovtJC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>As Trump Arrives in New York, Adams Warns Protesters to Behave</h3>
-<sub>By Corey Kilgannon</sub>
-<p>Mayor Adams told protesters that the city “is always ready” as Donald J. Trump returned to Trump Tower on the eve of his arraignment.  <a href="https://nyti.ms/42TJyWG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Days Before Trump Appears in Court, Few Signs Point to a Jan. 6 Repeat</h3>
-<sub>By Glenn Thrush, Alan Feuer and Adam Goldman</sub>
-<p>Even as Donald Trump’s arraignment differs from the Capitol riot, law enforcement’s response is informed by lessons learned from that day and the nationwide protests against police violence.  <a href="https://nyti.ms/3GcPu3z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Accuses Dissidents and Ukraine of Killing Pro-War Blogger</h3>
+<sub>By Anton Troianovski, Anatoly Kurmanaev and Ivan Nechepurenko</sub>
+<p>The authorities detained a woman they said had delivered the bomb, hidden in a statuette, that killed the blogger, and called it the work of antigovernment activists and Ukraine.  <a href="https://nyti.ms/430i5mn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>New Weapons Aren’t Enough: The Challenges of Ukraine’s Coming Assault</h3>
-<sub>By Andrew E. Kramer and Mauricio Lima</sub>
-<p>With powerful Western weapons, newly formed assault units and even a reconstituted Azov battalion, Ukraine is poised for a critical spring counteroffensive. But overcoming casualties and keeping war-weary troops motivated will be stern tests.  <a href="https://nyti.ms/42XP9eG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Assassinated Pro-War Blogger Was Part of a Radical Russian Movement</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>The blogger killed in a bombing in St. Petersburg was one of the influential ultranationalists pushing for harsher pursuit of Russia’s war against Ukraine.  <a href="https://nyti.ms/3m4eYZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Strange Days at the U.N. as Russia Takes the Helm of the Security Council</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>The monthlong presidency of an organization dedicated to preserving world peace is now in the hands of a nation waging the biggest land war in Europe in decades.  <a href="https://nyti.ms/3nHmzOC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>NASA Names Diverse Astronaut Crew for Artemis II Moon Mission</h3>
 <sub>By Kenneth Chang</sub>
 <p>The crew’s 10-day journey around the moon and back in 2024 is a crucial step toward returning Americans to the moon on a sustained basis.  <a href="https://nyti.ms/3U56NZW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>This Is Not a Moment in Women’s Basketball. It’s Momentum.</h3>
+<sub>By Talya Minsberg</sub>
+<p>This year’s women’s N.C.A.A. tournament brought new depth, a breadth of talent and record numbers of viewers. But what you are seeing isn’t new.  <a href="https://nyti.ms/3ZB9O5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -110,29 +128,11 @@ Right now, there are lots of things going on around the world. Millions of peopl
 <p>Inside a cold-case detective’s dogged quest to solve the murder of Jasmine Porter.  <a href="https://nyti.ms/3GbFcAz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>This Is Not a Moment in Women’s Basketball. It’s Momentum.</h3>
-<sub>By Talya Minsberg</sub>
-<p>This year’s women’s N.C.A.A. tournament brought new depth, a breadth of talent and record numbers of viewers. But what you are seeing isn’t new.  <a href="https://nyti.ms/3ZB9O5u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>A Psychedelics Pioneer Takes the Ultimate Trip</h3>
+<sub>By David Marchese</sub>
+<p>“Life has been more beautiful, more wonderful than ever,” says Dr. Roland Griffiths, who has stage 4 cancer.  <a href="https://nyti.ms/3G7sV03"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Life Happened, and Somehow Put Them in the Championship Game</h3>
-<sub>By Billy Witz</sub>
-<p>After a middling season at the University of San Diego, Joey Calcaterra, a guard, transferred to UConn and Sam Scholl, the fired head coach, was hired as a basketball adviser by San Diego State.  <a href="https://nyti.ms/3GbeAQj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Chicago’s Mayoral Election Matters, Even if You Don’t Live in Chicago</h3>
-<sub>By Julie Bosman</sub>
-<p>America’s cities increasingly face similar problems, particularly worries about crime and hangovers from the pandemic. That’s why the mayor’s election in Chicago on Tuesday is about more than Chicago.  <a href="https://nyti.ms/3ZwYIih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Chicago Mayor’s Race, a Former Teacher Rises With Union Support</h3>
-<sub>By Mitch Smith</sub>
-<p>Brandon Johnson, a county commissioner who once taught in struggling neighborhoods, soared in the polls after an endorsement and donations from the Chicago Teachers Union.  <a href="https://nyti.ms/405lm1H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
