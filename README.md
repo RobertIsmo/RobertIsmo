@@ -60,31 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 4, Central Standard Time</p>
 <p>
-There is a lot of news happening in the world right now. In New York City, Donald Trump is preparing to turn himself in to the authorities over his involvement in paying hush money to a porn star. Meanwhile, conspiracy theorists are accusing George Soros of being behind the indictment and the right wing is using him as a scapegoat. Russia is accusing dissidents and Ukraine for the killing of a pro-war blogger and Chicagoans are going to the polls for a mayoral race between two very different Democrats. Wisconsin has a high-stakes Supreme Court election that could determine the legality of abortion and gerrymandering in the state. In sports, UConn won their fifth NCAA title by overwhelming San Diego State and nearly had it derailed by one of their players indulging in calamari. At Yellowstone National Park, 1,150 bison were hunted for spreading disease to livestock. Italy&#39;s hard right prime minister has ordered municipalities to stop certifying birth certificates for same-sex couples who use surrogacy. Lastly, on the Arizona border an unarmed Mexican man was shot while crossing a ranch and the ranch owner is being charged with murder, prompting backlash from some who see him as the victim.</p>
+There is a lot happening in the world right now. Donald Trump is facing legal issues, as Manhattan has indicted him and rumors of more charges to come. There&#39;s also a mayoral race between Democrats in Chicago which will decide their future, and a Supreme Court election in Wisconsin that could determine whether abortion will remain illegal in the state. On the sports front, UConn just won its fifth NCAA title with a decisive victory, while questions surrounding one of its all-stars have come up. In other news, China enacted a security measure concerning US chipmaker Micron Technology that could affect other foreign businesses around the world. Italy&#39;s Prime Minister has outlawed surrogacy for same-sex couples, leaving some babies without legal recognition, and there are reported instances of death and injustice on the southern US border between Mexico and Arizona. Finally, K-pop fans in South Korea are wondering if they are becoming irrelevant to the growing global demands of their beloved genre.</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What We Know About the Indictment and Surrender of Donald Trump</h3>
-<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
-<p>Mr. Trump was indicted over his role in paying hush money to a porn star. He plans to turn himself in to the authorities in New York City on Tuesday.  <a href="https://nyti.ms/3lVqDu1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>Donald Trump Prepares to Surrender</h3>
 <sub>By David Leonhardt</sub>
 <p>The Manhattan indictments may not even present his biggest legal threat.  <a href="https://nyti.ms/436kWdi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Behind Trump Indictment, the Right Wing Finds a Familiar Villain in Soros</h3>
-<sub>By Jonathan Weisman and Andrew Higgins</sub>
-<p>Conspiracy theorists have long attributed wildly varied events to George Soros, in attacks often viewed as antisemitic. His indirect donations to a prosecutor’s campaign are animating Trump allies.  <a href="https://nyti.ms/3KbMnK8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Why Trump is not expected to have a mug shot taken.</h3>
+<sub>By Michael Gold and William K. Rashbaum</sub>
+<p>The former president is not likely to be photographed when he is booked on charges, officials say, because his image is commonly available and taking his mug shot would entail more movements for him, complicating security.  <a href="https://nyti.ms/40YB52H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Accuses Dissidents and Ukraine of Killing Pro-War Blogger</h3>
-<sub>By Anton Troianovski, Anatoly Kurmanaev and Ivan Nechepurenko</sub>
-<p>The authorities detained a woman they said had delivered the bomb, hidden in a statuette, that killed the blogger, and called it the work of antigovernment activists and Ukraine.  <a href="https://nyti.ms/430i5mn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chicagoans Go to the Polls in a Mayoral Race Between Very Different Democrats</h3>
@@ -107,13 +95,19 @@ There is a lot of news happening in the world right now. In New York City, Donal
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Did a Meal Nearly Derail UConn’s Title Run?</h3>
 <sub>By Andrew Keh</sub>
-<p>A UConn star blamed calamari for his rough weekend at the Final Four, putting it on a long menu of items that have altered the course of sporting events.  <a href="https://nyti.ms/3U5QhJ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A UConn star blamed calamari for his rough weekend at the Final Four, putting it on a long menu of items said to have altered the course of sporting events.  <a href="https://nyti.ms/3U5QhJ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Mass Yellowstone Hunt Kills 1,150 Bison</h3>
 <sub>By Jim Robbins and Michael Hanson</sub>
 <p>A months-long event, just outside the park, was intended to keep the animals from spreading a disease to livestock. But its scope and other removal measures affecting hundreds more have generated opposition.  <a href="https://nyti.ms/3GdXKQC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Strikes Back at U.S. Chip Maker Even as It Signals Openness</h3>
+<sub>By Chang Che and John Liu</sub>
+<p>Beijing’s security review of Micron Technology, which has deep roots in China, could have wide-ranging ramifications for other foreign businesses.  <a href="https://nyti.ms/3KyoG0g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +126,12 @@ There is a lot of news happening in the world right now. In New York City, Donal
 <h3>In K-Pop’s Quest for Global Growth, Korean Fans Feel Cast Aside</h3>
 <sub>By John Yoon</sub>
 <p>A bidding war for a K-pop label — a deal with global ramifications for the genre — has left listeners in its home market questioning their relevance.  <a href="https://nyti.ms/3KtbVmr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>New York Already Knows a Lot About Donald Trump</h3>
+<sub>By Mara Gay</sub>
+<p>The city has seen Mr. Trump shimmy out of many legal jams, but is on edge about his response to his first indictment.  <a href="https://nyti.ms/3K6ACVy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
