@@ -60,18 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 4, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. Donald Trump is facing legal issues, as Manhattan has indicted him and rumors of more charges to come. There&#39;s also a mayoral race between Democrats in Chicago which will decide their future, and a Supreme Court election in Wisconsin that could determine whether abortion will remain illegal in the state. On the sports front, UConn just won its fifth NCAA title with a decisive victory, while questions surrounding one of its all-stars have come up. In other news, China enacted a security measure concerning US chipmaker Micron Technology that could affect other foreign businesses around the world. Italy&#39;s Prime Minister has outlawed surrogacy for same-sex couples, leaving some babies without legal recognition, and there are reported instances of death and injustice on the southern US border between Mexico and Arizona. Finally, K-pop fans in South Korea are wondering if they are becoming irrelevant to the growing global demands of their beloved genre.</p>
+There&#39;s a lot going on in the world right now. In the US, Chicagoans are heading to the polls to vote in a mayoral race between two Democrats with very different views on how to approach crime and social programs. At the same time, Wisconsin is preparing for an important Supreme Court election which could affect access to abortions and political maps. In Russia, a suspect has been charged with terrorism offences for killing a pro-war blogger, amid an increasingly volatile political climate for dissenters. Meanwhile, in Italy, surrogacy has emerged as a wedge issue for right-wing politicians seeking to restrict rights for same-sex couples. Lastly, New York City is on edge as they anticipate Donald Trump&#39;s response to his first indictment - although he has been found shimmying out of many legal jams here before.</p>
 <ol>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Donald Trump Prepares to Surrender</h3>
-<sub>By David Leonhardt</sub>
-<p>The Manhattan indictments may not even present his biggest legal threat.  <a href="https://nyti.ms/436kWdi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Private or Political? Charges Over Hush Money Hinge on Payment’s Purpose</h3>
+<sub>By Michael Rothfeld</sub>
+<p>In 2011, a former U.S. senator faced federal charges similar to some of those Donald J. Trump is expected to face. The case did not end in a conviction.  <a href="https://nyti.ms/3ZEis3a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why Trump is not expected to have a mug shot taken.</h3>
+<h3>Here’s why Trump is not expected to have a mug shot taken.</h3>
 <sub>By Michael Gold and William K. Rashbaum</sub>
 <p>The former president is not likely to be photographed when he is booked on charges, officials say, because his image is commonly available and taking his mug shot would entail more movements for him, complicating security.  <a href="https://nyti.ms/40YB52H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian investigators charge a suspect with terrorism offenses in the killing of a pro-war blogger.</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>  <a href="https://nyti.ms/3zun6Wz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What We Know About the Bomb Attack on a Russian Pro-War Blogger</h3>
+<sub>By Anatoly Kurmanaev and Ivan Nechepurenko</sub>
+<p>The killing of Vladlen Tatarsky came at a volatile moment in Russia, and could herald a further crackdown on dissent. Here’s how the case has developed so far.  <a href="https://nyti.ms/3nJQDcp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,16 +98,10 @@ There is a lot happening in the world right now. Donald Trump is facing legal is
 <p>The election for a swing seat on the court is likely to determine whether abortion remains illegal in Wisconsin, as well as the future of the state’s heavily gerrymandered political maps.  <a href="https://nyti.ms/40YbtTz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>UConn Wins Fifth N.C.A.A. Title by Overwhelming San Diego State</h3>
-<sub>By Billy Witz</sub>
-<p>UConn’s 76-59 victory ended a dominant tournament run in which it won every game by double figures.  <a href="https://nyti.ms/40DmTwt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Did a Meal Nearly Derail UConn’s Title Run?</h3>
-<sub>By Andrew Keh</sub>
-<p>A UConn star blamed calamari for his rough weekend at the Final Four, putting it on a long menu of items said to have altered the course of sporting events.  <a href="https://nyti.ms/3U5QhJ2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Instant Videos Could Represent the Next Leap in A.I. Technology</h3>
+<sub></sub>
+<p>A start-up in New York is among a group of companies working on systems that can produce short videos based on a few words typed into a computer.  <a href="https://nyti.ms/3K8t1Wq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -104,10 +110,10 @@ There is a lot happening in the world right now. Donald Trump is facing legal is
 <p>A months-long event, just outside the park, was intended to keep the animals from spreading a disease to livestock. But its scope and other removal measures affecting hundreds more have generated opposition.  <a href="https://nyti.ms/3GdXKQC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Strikes Back at U.S. Chip Maker Even as It Signals Openness</h3>
-<sub>By Chang Che and John Liu</sub>
-<p>Beijing’s security review of Micron Technology, which has deep roots in China, could have wide-ranging ramifications for other foreign businesses.  <a href="https://nyti.ms/3KyoG0g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>At 96, a Broadway Legend Is Making a Brand-New Start of It</h3>
+<sub>By Jesse Green</sub>
+<p>For his 16th Broadway musical, John Kander, the composer of “Chicago” and “Cabaret,” returns to “New York, New York.”  <a href="https://nyti.ms/3K6ABRu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,16 +122,10 @@ There is a lot happening in the world right now. Donald Trump is facing legal is
 <p>Prime Minister Giorgia Meloni has ordered municipalities to stop certifying foreign birth certificates for same-sex couples who used surrogacy, leaving some babies in a legal limbo.  <a href="https://nyti.ms/3KvIaSS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Death and Justice on the Border: A Migrant Is Killed, a Rancher Is Charged</h3>
-<sub>By Jack Healy</sub>
-<p>An unarmed Mexican man was shot as he crossed an Arizona ranch. The case against the ranch owner has prompted a backlash among supporters who say he is the real victim.  <a href="https://nyti.ms/432mRzx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In K-Pop’s Quest for Global Growth, Korean Fans Feel Cast Aside</h3>
-<sub>By John Yoon</sub>
-<p>A bidding war for a K-pop label — a deal with global ramifications for the genre — has left listeners in its home market questioning their relevance.  <a href="https://nyti.ms/3KtbVmr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Want an A in His Class? You Had Better Go Viral.</h3>
+<sub>By Madison Malone Kircher</sub>
+<p>A marketing professor gave his students a challenge: If they made a video that got a million views, the final exam would be canceled.  <a href="https://nyti.ms/3ZEuKIL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
