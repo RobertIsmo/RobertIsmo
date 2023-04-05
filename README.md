@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, April 4, Central Standard Time</p>
+<p>It is Wednesday, April 5, Central Standard Time</p>
 <p>
-The world is in an interesting place right now. Former President Donald Trump recently pleaded not guilty to 34 felonies related to a potential sex scandal during the 2016 election. In Wisconsin, a court race was recently won by a liberal who has vowed to reverse the state&#39;s abortion ban and end the use of gerrymandered legislative maps. Meanwhile, a new analysis has found that moderate drinking has no health benefits and actually increases the risk of numerous health problems. Finland recently became NATO&#39;s 31st member, which is seen as a strategic setback for Russian President Vladimir Putin. Additionally, the use of aerial drones to spot enemies and direct artillery fire is becoming more common in Ukraine and Russia. On the technological side, there are companies working on systems that can produce short videos based on few words typed into a computer. Finally, Johnson &amp; Johnson just reached an $8.9 billion settlement agreement in regards to talc products potentially causing cancer. And in entertainment news, renowned Broadway composer John Kander is back with his 16th musical &quot;New York, New York.&quot;</p>
+Recently, former President Donald Trump pleaded not guilty to 34 felonies, including covering up a potential sex scandal during the 2016 election. In Wisconsin, Janet Protasiewicz won a race for the state Supreme Court, which will likely be a victory for abortion rights backers. In Chicago, Brandon Johnson was elected Mayor after running against a tough-on-crime opponent. Additionally, a new analysis of decades of research shows that moderate drinking has no health benefits. In terms of international news, French President Macron has indicated that he hopes China can help to make peace in Ukraine. Also, Finland recently joined NATO as the alliance&#39;s 31st member due to the war in Ukraine, representing a strategic setback for Russia. Lastly, companies are now able to create short videos based on just a few words with advances in A.I. technology.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>From President to Defendant: Trump Pleads Not Guilty to 34 Felonies</h3>
@@ -98,10 +98,22 @@ The world is in an interesting place right now. Former President Donald Trump re
 <p>Supreme Court races were once more swayed by endorsements from legal and law enforcement officials. Now they’re indistinguishable from other elections.  <a href="https://nyti.ms/3m67NAm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Brandon Johnson Elected Chicago Mayor, Turning Back Tough-on-Crime Opponent</h3>
+<sub>By Mitch Smith</sub>
+<p>Paul Vallas, who pressed for a more conservative approach, narrowly lost to Mr. Johnson, who was little known to voters only months ago.  <a href="https://nyti.ms/3MA56Cf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Moderate Drinking Has No Health Benefits, Analysis of Decades of Research Finds</h3>
 <sub>By Roni Caryn Rabin</sub>
 <p>The review found that the methodology of many previous studies was flawed and that risk of myriad health problems increased significantly after less than two drinks a day for women and after three for men.  <a href="https://nyti.ms/3Mht2tS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Can China Make Peace in Ukraine? Macron Isn’t Saying No.</h3>
+<sub>By Roger Cohen</sub>
+<p>The French president hopes Beijing can be useful in pressing Russia to end the war in Ukraine. How exactly is not clear.  <a href="https://nyti.ms/3maFxMY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -120,18 +132,6 @@ The world is in an interesting place right now. Former President Donald Trump re
 <h3>Instant Videos Could Represent the Next Leap in A.I. Technology</h3>
 <sub>By Cade Metz</sub>
 <p>A start-up in New York is among a group of companies working on systems that can produce short videos based on a few words typed into a computer.  <a href="https://nyti.ms/3K8t1Wq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Johnson &amp; Johnson Reaches Deal for $8.9 Billion Talc Settlement</h3>
-<sub>By Tiffany Hsu</sub>
-<p>The company faces a flood of lawsuits claiming its talc products caused cancer. The proposed settlement requires approval by a bankruptcy court, but has the backing of plaintiffs’ lawyers.  <a href="https://nyti.ms/40Z9Tkv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>At 96, a Broadway Legend Is Making a Brand-New Start of It</h3>
-<sub>By Jesse Green</sub>
-<p>For his 16th Broadway musical, John Kander, the composer of “Chicago” and “Cabaret,” returns to “New York, New York.”  <a href="https://nyti.ms/3K6ABRu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
