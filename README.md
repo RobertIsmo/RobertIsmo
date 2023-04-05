@@ -60,31 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 5, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the United States, former President Donald J. Trump is facing charges for falsifying records in part to lay the groundwork for planned lies to tax authorities, as well as several investigations looking into his 2016 campaign. Abortion rights supporters also won a big victory recently in Wisconsin as a liberal judge was elected to the Supreme Court, likely reversing the state&#39;s abortion ban. Meanwhile, Speaker of the House Kevin McCarthy met with Taiwanese president Tsai in the US for the first time since diplomatic relations were established with Beijing. Also, the Justice Department reached a multimillion dollar deal with the victims of a church massacre in Texas from 2017. Lastly, France&#39;s President Macron visited China and spoke of the need for shared responsibility for peace and stability on an international level.</p>
+There seems to be a lot happening around the world right now. In the US, Donald Trump is facing a number of criminal charges related to paying hush money to a porn star. Meanwhile, Vice President Mike Pence won&#39;t appeal a ruling requiring him to testify in relation to the attempted overthrow of Congress on 6 January. Speaker Kevin McCarthy has traveled to Taiwan, also with an eye towards Chinese tensions. There&#39;s been elections for Mayor in Chicago and for the Wisconsin court that may impact abortion rights. And there&#39;s been some intense weather incidents like deadly tornados in Missouri and electric car reshaping jobs in Ohio. In Europe, French President Emmanuel Macron is advocating for peace in Ukraine, while Australia is reexamining the legacy of John Joseph who was put on trial for leading a rebellion for democracy there. Finally, Augusta National golf club is hosting the Masters tournament and Mark O’Meara, who won 25 years ago, is talking about the beauty and challenge of the place.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Analysis: A Surprise Accusation Bolsters a Risky Case Against Trump</h3>
-<sub>By Charlie Savage</sub>
-<p>The unsealed case against Donald J. Trump accuses him of falsifying records in part to lay the groundwork for planned lies to tax authorities.  <a href="https://nyti.ms/3MzUGm7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Donald Trump Indictment, Annotated</h3>
-<sub>By Michael Rothfeld</sub>
-<p>The indictment unveiled on Tuesday centers on a hush-money deal with a porn star, but a related document alleges a broader scheme to protect Donald J. Trump’s 2016 campaign.  <a href="https://nyti.ms/3nPNJ64"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<h3>The Case Against Donald Trump: What Comes Next?</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
+<p>Mr. Trump was charged on Tuesday with 34 felony counts connected to his role in paying hush money to a porn star.  <a href="https://nyti.ms/3lVqDu1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Denouncing Charges, Trump Repeats Familiar Grievances</h3>
-<sub>By Linda Qiu</sub>
-<p>Hours after pleading not guilty to 34 counts of filing false business records, former President Donald J. Trump maintained his innocence before a crowd of supporters in Florida. Here’s a fact-check.  <a href="https://nyti.ms/3GeWsET"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Pence Won’t Appeal Ruling Forcing Testimony to Jan. 6 Grand Jury, Aide Says</h3>
+<sub>By Maggie Haberman and Alan Feuer</sub>
+<p>The decision may clear the way for potentially consequential testimony that federal prosecutors have long sought as they explore Donald J. Trump’s attempts to stay in office.  <a href="https://nyti.ms/3K5fDSU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Donald Trump Faces Several Investigations. Here’s Where They Stand.</h3>
-<sub>By Ben Protess, Alan Feuer and Danny Hakim</sub>
-<p>Mr. Trump was arraigned in Manhattan this week, as federal and state prosecutors elsewhere closed in on him in a number of inquiries.  <a href="https://nyti.ms/3JVNBHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, February 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy Meets With Tsai, Backing Taiwan Amid Rising Tensions With China</h3>
+<sub>By Karoun Demirjian and Chris Buckley</sub>
+<p>Speaker Kevin McCarthy became the most senior elected official to meet with a Taiwanese president on American soil since the United States established diplomatic relations with Beijing.  <a href="https://nyti.ms/3m3b03X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Liberal Wins Wisconsin Court Race, in Victory for Abortion Rights Backers</h3>
@@ -123,15 +117,21 @@ There is a lot going on in the world right now. In the United States, former Pre
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Meets With Tsai, Backing Taiwan Amid Rising Tensions With China</h3>
-<sub>By Karoun Demirjian and Chris Buckley</sub>
-<p>Speaker Kevin McCarthy became the most senior elected official to meet with a Taiwanese president on American soil since the United States established diplomatic relations with Beijing.  <a href="https://nyti.ms/3m3b03X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>5 Dead After a Tornado in Southeast Missouri, as Storm Threat Remains</h3>
+<sub>By Judson Jones, Livia Albeck-Ripka, Mike Ives and Jesus Jiménez</sub>
+<p>Hail, wind, snow and a few tornadoes moved through parts of the central United States on Tuesday. The volatile weather system was expected to last through Wednesday afternoon.  <a href="https://nyti.ms/40VLfBc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In Ohio, Electric Cars Are Starting to Reshape Jobs and Companies</h3>
+<sub>By Jack Ewing and Maddie McGarvey</sub>
+<p>The state, heavily dependent on the auto industry, is a case study in whether electric vehicles will create or destroy jobs.  <a href="https://nyti.ms/3ZL4lJo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Reaches $144.5 Million Deal With Victims of Texas Church Massacre</h3>
-<sub>By Glenn Thrush</sub>
-<p>The department had appealed a decision that found the Air Force liable for a mass shooting in Sutherland Springs in 2017 that killed 26 people.  <a href="https://nyti.ms/415mbaU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Augusta National: ‘The More You Play It, the More You Understand It’</h3>
+<sub>By Alan Blinder, Doug Mills and Chris O’Riley</sub>
+<p>Mark O’Meara, who won the Masters Tournament 25 years ago, talks through the pleasures and perils of Augusta National Golf Club, the only place that hosts a major annually.  <a href="https://nyti.ms/40XOtnC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
