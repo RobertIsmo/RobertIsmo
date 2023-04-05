@@ -60,12 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 5, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! Former US President Donald Trump has pleaded not guilty to 34 felonies related to an alleged cover up of a sex scandal before the 2016 election. In Wisconsin, abortion rights won out over anti-abortion measures in a Supreme Court race, while in Chicago, Brandon Johnson was elected mayor, turning back a tough-on-crime opponent. Moderate drinking was found not to have any health benefits after a decade of research, and France is hoping that China can make peace in Ukraine. Finland joined NATO recently, which is seen as a huge power shift and rebuke to the Russian President Vladimir Putin. Lastly, there is some cutting-edge AI technology being developed in New York which can produce videos from typing just a few words into a computer!</p>
+In the US, there is a lot of news related to Donald Trump. There is an analysis about how he is accused of lying to tax authorities and he has pleaded not guilty to thirty-four felonies in New York regarding an alleged cover up of a potential sex scandal during his 2016 presidential campaign. 
+
+In Chicago, voters faced a choice between the former teacher Brandon Johnson, who had the support of unions, and Paul Vallas, who has more of a tough-on-crime stance but ended up losing the mayor&#39;s race. 
+
+Meanwhile, on the international stage, issues in Ukraine are making headlines. French President Emmanuel Macron is hopeful that China might be able to push Russia towards peace in the country. Beijing&#39;s ambassador to the E.U. has tried to distance himself from Moscow on the issue, claiming China aims for no limits between their two countries. A Wall Street Journal reporter was recently arrested after reporting about Russians&#39; efforts to help those being repressed, which has now been seen as an attack on press freedom.
+
+Finally, in tech news, criticisms of intern selection processes at big companies such as Google and Facebook have come up as they tend to favor wealthier students over those from lower income backgrounds.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Analysis: A Surprise Accusation Bolsters a Risky Case Against Trump</h3>
+<sub>By Charlie Savage</sub>
+<p>The unsealed case against Donald J. Trump accuses him of falsifying records in part to lay the groundwork for planned lies to tax authorities.  <a href="https://nyti.ms/3MzUGm7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>From President to Defendant: Trump Pleads Not Guilty to 34 Felonies</h3>
 <sub>By Jonah E. Bromwich, William K. Rashbaum, Ben Protess and Maggie Haberman</sub>
 <p>The former president, who appeared in a Manhattan courtroom on Tuesday, is accused of covering up a potential sex scandal during the 2016 election.  <a href="https://nyti.ms/42YOgT4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Has the Oval Office. But Trump Has Center Stage.</h3>
+<sub>By Peter Baker and Michael D. Shear</sub>
+<p>The White House hopes the chaos of Donald Trump’s legal challenges will reinforce the reasons voters turned to President Biden in 2020.  <a href="https://nyti.ms/3KAzV8q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -75,27 +93,9 @@ There&#39;s a lot going on in the world right now! Former US President Donald Tr
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Analysis: A Surprise Accusation Bolsters a Risky Case Against Trump</h3>
-<sub>By Charlie Savage</sub>
-<p>The unsealed case against Donald J. Trump accuses him of falsifying records in part to lay the groundwork for planned lies to tax authorities.  <a href="https://nyti.ms/3MzUGm7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Explaining the Charges Against Donald Trump</h3>
-<sub>By Ben Protess and Jonah E. Bromwich</sub>
-<p>The former president faces 34 felony counts in connection with a hush-money payment to a porn star before the 2016 election.  <a href="https://nyti.ms/3zuANFd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Liberal Wins Wisconsin Court Race, in Victory for Abortion Rights Backers</h3>
 <sub>By Reid J. Epstein</sub>
 <p>Janet Protasiewicz prevailed in the state’s highly consequential contest for the Supreme Court, which will now be likely to reverse the state’s abortion ban and end the use of gerrymandered legislative maps.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>This Wisconsin Court Race Is Highly Partisan. It Wasn’t Always That Way.</h3>
-<sub>By Ruth Igielnik</sub>
-<p>Supreme Court races were once more swayed by endorsements from legal and law enforcement officials. Now they’re indistinguishable from other elections.  <a href="https://nyti.ms/3m67NAm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,11 +104,17 @@ There&#39;s a lot going on in the world right now! Former US President Donald Tr
 <p>Paul Vallas, who pressed for a more conservative approach, narrowly lost to Mr. Johnson, who was little known to voters only months ago.  <a href="https://nyti.ms/3MA56Cf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Moderate Drinking Has No Health Benefits, Analysis of Decades of Research Finds</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>The review found that the methodology of many previous studies was flawed and that risk of myriad health problems increased significantly after less than two drinks a day for women and after three for men.  <a href="https://nyti.ms/3Mht2tS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Rejecting a ‘Republican in Disguise,’ Chicago Voters Elect Johnson as Next Mayor</h3>
+<sub>By Julie Bosman</sub>
+<p>In a largely liberal city, Chicago voters chose Brandon Johnson, a county commissioner and union organizer, over Paul Vallas, who took a hard line on crime.  <a href="https://nyti.ms/3McVjlg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Chicago Mayor’s Race, a Former Teacher Rises With Union Support</h3>
+<sub>By Mitch Smith</sub>
+<p>Brandon Johnson, a county commissioner who once taught in struggling neighborhoods, soared in the polls after an endorsement and donations from the Chicago Teachers Union.  <a href="https://nyti.ms/405lm1H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Can China Make Peace in Ukraine? Macron Isn’t Saying No.</h3>
@@ -117,22 +123,22 @@ There&#39;s a lot going on in the world right now! Former US President Donald Tr
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Finland Joins NATO in a Power Shift and Rebuke to Putin</h3>
-<sub>By Steven Erlanger</sub>
-<p>The Nordic country became the alliance’s 31st member on Tuesday, spurred by the war in Ukraine, in a strategic setback for President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/40IyslN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China’s Ambassador to the E.U. Tries to Distance Beijing From Moscow</h3>
+<sub>By Matina Stevis-Gridneff and Steven Erlanger</sub>
+<p>The ambassador, Fu Cong, said China was not on Russia’s side in the war in Ukraine. “‘No limit’ is nothing but rhetoric,” he said, referring to a statement from last year about the countries’ relationship.  <a href="https://nyti.ms/3GjNrKO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Near Bakhmut, Death Is Delivered Remotely and Watched on Video</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Using aerial drones to spot the enemy and direct artillery fire has become a staple of war for Ukraine and Russia, especially in the savage fight for control of Bakhmut.  <a href="https://nyti.ms/3GhpyUc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>He Told Their Stories of Repression. Now They Are Telling His.</h3>
+<sub>By Anton Troianovski</sub>
+<p>Evan Gershkovich’s work for The Wall Street Journal included reporting on Russians’ efforts to help others who were being repressed. Russian journalists are now scrutinizing his arrest as a brazen attack on press freedom.  <a href="https://nyti.ms/3Kc1x1X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Instant Videos Could Represent the Next Leap in A.I. Technology</h3>
-<sub>By Cade Metz</sub>
-<p>A start-up in New York is among a group of companies working on systems that can produce short videos based on a few words typed into a computer.  <a href="https://nyti.ms/3K8t1Wq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>For Lower-Income Students, Big Tech Internships Can Be Hard to Get</h3>
+<sub>By Natasha Singer</sub>
+<p>Critics say the intern selection process often favors wealthier students, just like the admission process at some elite colleges.  <a href="https://nyti.ms/3McVjBM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
