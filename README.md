@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 5, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. Donald Trump has been accused of falsifying records, lying to the tax authorities, and engaging in a hush-money deal with a porn star to protect his 2016 campaign. His lawyers are pushing back on the charges and Trump is maintaining his innocence. In Wisconsin, Janet Protasiewicz won a Supreme Court race that will likely reverse the states&#39; abortion ban and end the use of gerrymandered legislative maps. In Chicago, voters elected Brandon Johnson as their next mayor, rejecting Paul Vallas who took a hard line on crime. On the foreign policy front, France is trying to get China involved in pressuring Russia to end the war in Ukraine. Meanwhile, there are issues involving how higher salaries affect education access for lower-income students and how it affects internships at bigger tech companies. And finally Poland is clashing with the E.U. and fighting for allies for their crusade against Russia over Ukraine.</p>
+There is a lot going on in the world right now. In the United States, former President Donald J. Trump is facing charges for falsifying records in part to lay the groundwork for planned lies to tax authorities, as well as several investigations looking into his 2016 campaign. Abortion rights supporters also won a big victory recently in Wisconsin as a liberal judge was elected to the Supreme Court, likely reversing the state&#39;s abortion ban. Meanwhile, Speaker of the House Kevin McCarthy met with Taiwanese president Tsai in the US for the first time since diplomatic relations were established with Beijing. Also, the Justice Department reached a multimillion dollar deal with the victims of a church massacre in Texas from 2017. Lastly, France&#39;s President Macron visited China and spoke of the need for shared responsibility for peace and stability on an international level.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Analysis: A Surprise Accusation Bolsters a Risky Case Against Trump</h3>
@@ -80,6 +80,12 @@ There is a lot going on in the world right now. Donald Trump has been accused of
 <p>Hours after pleading not guilty to 34 counts of filing false business records, former President Donald J. Trump maintained his innocence before a crowd of supporters in Florida. Here’s a fact-check.  <a href="https://nyti.ms/3GeWsET"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Donald Trump Faces Several Investigations. Here’s Where They Stand.</h3>
+<sub>By Ben Protess, Alan Feuer and Danny Hakim</sub>
+<p>Mr. Trump was arraigned in Manhattan this week, as federal and state prosecutors elsewhere closed in on him in a number of inquiries.  <a href="https://nyti.ms/3JVNBHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, February 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Liberal Wins Wisconsin Court Race, in Victory for Abortion Rights Backers</h3>
 <sub>By Reid J. Epstein</sub>
@@ -87,10 +93,10 @@ There is a lot going on in the world right now. Donald Trump has been accused of
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Brandon Johnson Elected Chicago Mayor, Turning Back Tough-on-Crime Opponent</h3>
-<sub>By Mitch Smith</sub>
-<p>Paul Vallas, who pressed for a more conservative approach, narrowly lost to Mr. Johnson, who was little known to voters only months ago.  <a href="https://nyti.ms/3MA56Cf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<h3>Chicago Mayor’s Race Could Be a Blueprint for Democratic Messaging on Crime</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Brandon Johnson, a progressive Democrat, prevailed over his more moderate challenger after holding the position that officials must take a fundamentally different approach to public safety.  <a href="https://nyti.ms/3ZLGRUe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Rejecting a ‘Republican in Disguise,’ Chicago Voters Elect Johnson as Next Mayor</h3>
@@ -98,41 +104,35 @@ There is a lot going on in the world right now. Donald Trump has been accused of
 <p>In a largely liberal city, Chicago voters chose Brandon Johnson, a county commissioner and union organizer, over Paul Vallas, who took a hard line on crime.  <a href="https://nyti.ms/3McVjlg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>It’s Time to Address the Emily in the Room</h3>
+<sub>By Emilia Petrarca</sub>
+<p>As a generation of Emilys enters adulthood, perhaps you’ve noticed the name in the air — and on TV, in film and in songs.  <a href="https://nyti.ms/3nPgMX3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Can China Make Peace in Ukraine? Macron Isn’t Saying No.</h3>
+<h3>Macron, in China, Says He’ll Urge Xi to Work for Peace in Ukraine</h3>
 <sub>By Roger Cohen</sub>
-<p>The French president hopes Beijing can be useful in pressing Russia to end the war in Ukraine. How exactly is not clear.  <a href="https://nyti.ms/3maFxMY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Ambassador to the E.U. Tries to Distance Beijing From Moscow</h3>
-<sub>By Matina Stevis-Gridneff and Steven Erlanger</sub>
-<p>The ambassador, Fu Cong, said China was not on Russia’s side in the war in Ukraine. “‘No limit’ is nothing but rhetoric,” he said, referring to a statement from last year about the countries’ relationship.  <a href="https://nyti.ms/3GjNrKO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>He Told Their Stories of Repression. Now They Are Telling His.</h3>
-<sub>By Anton Troianovski</sub>
-<p>Evan Gershkovich’s work for The Wall Street Journal included reporting on Russians’ efforts to help others who were being repressed. Russian journalists are now scrutinizing his arrest as a brazen attack on press freedom.  <a href="https://nyti.ms/3Kc1x1X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>For Lower-Income Students, Big Tech Internships Can Be Hard to Get</h3>
-<sub>By Natasha Singer</sub>
-<p>Critics say the intern selection process often favors wealthier students, just like the admission process at some elite colleges.  <a href="https://nyti.ms/3McVjBM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Emmanuel Macron of France spoke of the need for a “shared responsibility for peace and international stability.”  <a href="https://nyti.ms/3zwHHK7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>This Historically Black University Created Its Own Tech Intern Pipeline</h3>
-<sub>By Natasha Singer</sub>
-<p>A new program at Bowie State connects computing students directly with companies, bypassing an often harsh Silicon Valley vetting process.  <a href="https://nyti.ms/3ZGBGVJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Black Man Went to Australia for Gold, Then Stood Up for Democracy</h3>
+<sub>By Damien Cave</sub>
+<p>John Joseph was put on trial for leading a miners’ rebellion seeking less taxation and more representation. His legacy was forgotten — until now.  <a href="https://nyti.ms/40Iubiq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Poland’s War on Two Fronts</h3>
-<sub>By Elisabeth Zerofsky</sub>
-<p>Long at odds with the E.U. over its domestic policies, the right-wing government is winning allies with its staunch defense of Ukraine. Which battle matters most?  <a href="https://nyti.ms/4366YrS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy Meets With Tsai, Backing Taiwan Amid Rising Tensions With China</h3>
+<sub>By Karoun Demirjian and Chris Buckley</sub>
+<p>Speaker Kevin McCarthy became the most senior elected official to meet with a Taiwanese president on American soil since the United States established diplomatic relations with Beijing.  <a href="https://nyti.ms/3m3b03X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Dept. Reaches $144.5 Million Deal With Victims of Texas Church Massacre</h3>
+<sub>By Glenn Thrush</sub>
+<p>The department had appealed a decision that found the Air Force liable for a mass shooting in Sutherland Springs in 2017 that killed 26 people.  <a href="https://nyti.ms/415mbaU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
