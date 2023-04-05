@@ -60,30 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 4, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world right now. In the US, there&#39;s a $2.6 billion package of military aid to Ukraine and a high stakes Supreme Court race in Wisconsin that could decide the future of abortion rights and gerrymandering in the state. Former president Donald Trump is facing 34 charges in connection with paying hush money to a porn star before the 2016 election. In Russia, a suspect has been charged with terrorism offenses in the killing of a pro-war blogger. Health studies have recently shown that moderate drinking has no health benefits at all - actually it increases risks to your health significantly if you drink more than two drinks a day for women or three for men. An AI start-up based in New York is developing technology that can produce short videos based on computer text input. On top of that, mass bison hunts are taking place in Yellowstone National Park to prevent them from spreading disease to livestock and there&#39;s a brand new Broadway musical by an old icon being released. Finally, there&#39;s an evaluation challenge from a professor at a university where students can get an A if their video gets over 1 million views!</p>
+Worldwide, things have been pretty wild lately. In the US, President Trump has been indicted by a grand jury on 34 counts of major felonies connected to an illegal hush-money payment to a porn star before the 2016 election. In Europe, Finland has become NATO&#39;s 31st member after years of diplomatic tensions between Russia and Ukraine. In terms of health, experts are saying that drinking any amount of alcohol won&#39;t benefit your health - in fact it can actually increase the risk of developing certain illnesses or conditions. And then there&#39;s the upcoming Wisconsin Supreme Court race - this election could determine if abortion remains illegal and how the state&#39;s maps will be redrawn for the future. On the cultural side, Johnson &amp; Johnson has struck a deal for an $8.9 billion talc settlement due to lawsuits claiming its products caused cancer. And on Broadway, composer John Kander is launching his 16th musical which is set in New York City! It&#39;s also springtime in Australia which brings us to Hot Cross Buns - apparently they&#39;re like the Pumpkin Spice Latte there right now. Finally, opinion-wise, people are saying that Donald Trump&#39;s case against him looks really strong - nothing novel or weak about it at all.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Here are the 34 charges against Trump.</h3>
-<sub>By Michael Gold</sub>
-<p>The former president faces 34 felony counts in connection with a hush-money payment to a porn star before the 2016 election.  <a href="https://nyti.ms/40Iufyy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Donald Trump Indictment, Annotated</h3>
+<sub>By Michael Rothfeld</sub>
+<p>The indictment unveiled on Tuesday centers on a hush-money deal with a porn star, but a related document alleges a broader scheme to protect Donald J. Trump’s 2016 campaign.  <a href="https://nyti.ms/3nPNJ64"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Explaining the Charges Against Donald Trump</h3>
+<sub>By Ben Protess and Jonah E. Bromwich</sub>
+<p>The former president faces 34 felony counts in connection with a hush-money payment to a porn star before the 2016 election.  <a href="https://nyti.ms/3zuANFd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>He Covered Repression of Russian Journalists. Now, They Are Covering Him.</h3>
-<sub>By Anton Troianovski</sub>
-<p>Evan Gershkovich’s work for The Wall Street Journal included reporting on the efforts by Russians to help others who were being repressed. Russian journalists are now scrutinizing his arrest as a brazen attack on press freedom.  <a href="https://nyti.ms/3Kc1x1X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A new $2.6 billion package of U.S. military aid to Ukraine includes $500 million for immediate supplies.</h3>
-<sub>By Helene Cooper</sub>
-<p>Most of the funds will go toward future purchases of munitions, radar and other weapons to send to Ukraine.  <a href="https://nyti.ms/3m9yOms"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Finland Joins NATO in a Power Shift and Rebuke to Putin</h3>
+<sub>By Steven Erlanger</sub>
+<p>The Nordic country became the alliance’s 31st member on Tuesday, spurred by the war in Ukraine, in a strategic setback for President Vladimir V. Putin of Russia.  <a href="https://nyti.ms/40IyslN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian investigators charge a suspect with terrorism offenses in the killing of a pro-war blogger.</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>  <a href="https://nyti.ms/3zun6Wz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Near Bakhmut, Death Is Delivered Remotely and Watched on Video</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Using aerial drones to spot the enemy and direct artillery fire has become a staple of war for Ukraine and Russia, especially in the savage fight for control of Bakhmut.  <a href="https://nyti.ms/3GhpyUc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -92,10 +92,10 @@ There&#39;s a lot going on around the world right now. In the US, there&#39;s a 
 <p>The review found that the methodology of many previous studies was flawed and that risk of myriad health problems increased significantly after less than two drinks a day for women and after three for men.  <a href="https://nyti.ms/3Mht2tS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chicagoans Go to the Polls in a Mayoral Race Between Very Different Democrats</h3>
-<sub>By Mitch Smith</sub>
-<p>Paul Vallas, a former public school executive, has called for a crackdown on crime, while Brandon Johnson, a county commissioner, wants to expand social programs.  <a href="https://nyti.ms/3KbXy5P"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>This Wisconsin Court Race Is Highly Partisan. It Wasn’t Always That Way.</h3>
+<sub>By Ruth Igielnik</sub>
+<p>Supreme Court races were once more swayed by endorsements from legal and law enforcement officials. Now they’re indistinguishable from other elections.  <a href="https://nyti.ms/3m67NAm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,10 +110,10 @@ There&#39;s a lot going on around the world right now. In the US, there&#39;s a 
 <p>A start-up in New York is among a group of companies working on systems that can produce short videos based on a few words typed into a computer.  <a href="https://nyti.ms/3K8t1Wq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Mass Yellowstone Hunt Kills 1,150 Bison</h3>
-<sub>By Jim Robbins and Michael Hanson</sub>
-<p>A months-long event, just outside the park, was intended to keep the animals from spreading a disease to livestock. But its scope and other removal measures affecting hundreds more have generated opposition.  <a href="https://nyti.ms/3GdXKQC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Johnson &amp; Johnson Reaches Deal for $8.9 Billion Talc Settlement</h3>
+<sub>By Tiffany Hsu</sub>
+<p>The company faces a flood of lawsuits claiming its talc products caused cancer. The proposed settlement requires approval by a bankruptcy court, but has the backing of plaintiffs’ lawyers.  <a href="https://nyti.ms/40Z9Tkv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
@@ -122,16 +122,16 @@ There&#39;s a lot going on around the world right now. In the US, there&#39;s a 
 <p>For his 16th Broadway musical, John Kander, the composer of “Chicago” and “Cabaret,” returns to “New York, New York.”  <a href="https://nyti.ms/3K6ABRu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Want an A in His Class? You Had Better Go Viral.</h3>
-<sub>By Madison Malone Kircher</sub>
-<p>A marketing professor gave his students a challenge: If they made a video that got a million views, the final exam would be canceled.  <a href="https://nyti.ms/3ZEuKIL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Hot Cross Buns Are the Pumpkin Spice Latte of Australia</h3>
+<sub>By Doosie Morris</sub>
+<p>The warmly spiced Easter bread and the arrival of fall are a match — and mania — made Down Under.  <a href="https://nyti.ms/40CNFoq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>New York Already Knows a Lot About Donald Trump</h3>
-<sub>By Mara Gay</sub>
-<p>The city has seen Mr. Trump shimmy out of many legal jams but is on edge about his response to his first indictment.  <a href="https://nyti.ms/3K6ACVy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>We Finally Know the Case Against Trump, and It Is Strong</h3>
+<sub>By Karen Friedman Agnifilo and Norman Eisen</sub>
+<p>There’s nothing novel or weak about Alvin Bragg’s case.  <a href="https://nyti.ms/40Oacz2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
