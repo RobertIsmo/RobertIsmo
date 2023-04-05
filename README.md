@@ -60,18 +60,48 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 4, Central Standard Time</p>
 <p>
-Worldwide, things have been pretty wild lately. In the US, President Trump has been indicted by a grand jury on 34 counts of major felonies connected to an illegal hush-money payment to a porn star before the 2016 election. In Europe, Finland has become NATO&#39;s 31st member after years of diplomatic tensions between Russia and Ukraine. In terms of health, experts are saying that drinking any amount of alcohol won&#39;t benefit your health - in fact it can actually increase the risk of developing certain illnesses or conditions. And then there&#39;s the upcoming Wisconsin Supreme Court race - this election could determine if abortion remains illegal and how the state&#39;s maps will be redrawn for the future. On the cultural side, Johnson &amp; Johnson has struck a deal for an $8.9 billion talc settlement due to lawsuits claiming its products caused cancer. And on Broadway, composer John Kander is launching his 16th musical which is set in New York City! It&#39;s also springtime in Australia which brings us to Hot Cross Buns - apparently they&#39;re like the Pumpkin Spice Latte there right now. Finally, opinion-wise, people are saying that Donald Trump&#39;s case against him looks really strong - nothing novel or weak about it at all.</p>
+The world is in an interesting place right now. Former President Donald Trump recently pleaded not guilty to 34 felonies related to a potential sex scandal during the 2016 election. In Wisconsin, a court race was recently won by a liberal who has vowed to reverse the state&#39;s abortion ban and end the use of gerrymandered legislative maps. Meanwhile, a new analysis has found that moderate drinking has no health benefits and actually increases the risk of numerous health problems. Finland recently became NATO&#39;s 31st member, which is seen as a strategic setback for Russian President Vladimir Putin. Additionally, the use of aerial drones to spot enemies and direct artillery fire is becoming more common in Ukraine and Russia. On the technological side, there are companies working on systems that can produce short videos based on few words typed into a computer. Finally, Johnson &amp; Johnson just reached an $8.9 billion settlement agreement in regards to talc products potentially causing cancer. And in entertainment news, renowned Broadway composer John Kander is back with his 16th musical &quot;New York, New York.&quot;</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>From President to Defendant: Trump Pleads Not Guilty to 34 Felonies</h3>
+<sub>By Jonah E. Bromwich, William K. Rashbaum, Ben Protess and Maggie Haberman</sub>
+<p>The former president, who appeared in a Manhattan courtroom on Tuesday, is accused of covering up a potential sex scandal during the 2016 election.  <a href="https://nyti.ms/42YOgT4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Donald Trump Indictment, Annotated</h3>
 <sub>By Michael Rothfeld</sub>
 <p>The indictment unveiled on Tuesday centers on a hush-money deal with a porn star, but a related document alleges a broader scheme to protect Donald J. Trump’s 2016 campaign.  <a href="https://nyti.ms/3nPNJ64"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Analysis: A Surprise Accusation Bolsters a Risky Case Against Trump</h3>
+<sub>By Charlie Savage</sub>
+<p>The unsealed case against Donald J. Trump accuses him of falsifying records in part to lay the groundwork for planned lies to tax authorities.  <a href="https://nyti.ms/3MzUGm7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Explaining the Charges Against Donald Trump</h3>
 <sub>By Ben Protess and Jonah E. Bromwich</sub>
 <p>The former president faces 34 felony counts in connection with a hush-money payment to a porn star before the 2016 election.  <a href="https://nyti.ms/3zuANFd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Liberal Wins Wisconsin Court Race, in Victory for Abortion Rights Backers</h3>
+<sub>By Reid J. Epstein</sub>
+<p>Janet Protasiewicz prevailed in the state’s highly consequential contest for the Supreme Court, which will now be likely to reverse the state’s abortion ban and end the use of gerrymandered legislative maps.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>This Wisconsin Court Race Is Highly Partisan. It Wasn’t Always That Way.</h3>
+<sub>By Ruth Igielnik</sub>
+<p>Supreme Court races were once more swayed by endorsements from legal and law enforcement officials. Now they’re indistinguishable from other elections.  <a href="https://nyti.ms/3m67NAm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Moderate Drinking Has No Health Benefits, Analysis of Decades of Research Finds</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>The review found that the methodology of many previous studies was flawed and that risk of myriad health problems increased significantly after less than two drinks a day for women and after three for men.  <a href="https://nyti.ms/3Mht2tS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -84,24 +114,6 @@ Worldwide, things have been pretty wild lately. In the US, President Trump has b
 <h3>Near Bakhmut, Death Is Delivered Remotely and Watched on Video</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>Using aerial drones to spot the enemy and direct artillery fire has become a staple of war for Ukraine and Russia, especially in the savage fight for control of Bakhmut.  <a href="https://nyti.ms/3GhpyUc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Moderate Drinking Has No Health Benefits, Analysis of Decades of Research Finds</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>The review found that the methodology of many previous studies was flawed and that risk of myriad health problems increased significantly after less than two drinks a day for women and after three for men.  <a href="https://nyti.ms/3Mht2tS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>This Wisconsin Court Race Is Highly Partisan. It Wasn’t Always That Way.</h3>
-<sub>By Ruth Igielnik</sub>
-<p>Supreme Court races were once more swayed by endorsements from legal and law enforcement officials. Now they’re indistinguishable from other elections.  <a href="https://nyti.ms/3m67NAm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Wisconsin’s High-Stakes Supreme Court Race: What to Watch</h3>
-<sub>By Reid J. Epstein</sub>
-<p>The election for a swing seat on the court is likely to determine whether abortion remains illegal in Wisconsin, as well as the future of the state’s heavily gerrymandered political maps.  <a href="https://nyti.ms/40YbtTz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -120,18 +132,6 @@ Worldwide, things have been pretty wild lately. In the US, President Trump has b
 <h3>At 96, a Broadway Legend Is Making a Brand-New Start of It</h3>
 <sub>By Jesse Green</sub>
 <p>For his 16th Broadway musical, John Kander, the composer of “Chicago” and “Cabaret,” returns to “New York, New York.”  <a href="https://nyti.ms/3K6ABRu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Hot Cross Buns Are the Pumpkin Spice Latte of Australia</h3>
-<sub>By Doosie Morris</sub>
-<p>The warmly spiced Easter bread and the arrival of fall are a match — and mania — made Down Under.  <a href="https://nyti.ms/40CNFoq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>We Finally Know the Case Against Trump, and It Is Strong</h3>
-<sub>By Karen Friedman Agnifilo and Norman Eisen</sub>
-<p>There’s nothing novel or weak about Alvin Bragg’s case.  <a href="https://nyti.ms/40Oacz2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
