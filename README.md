@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 5, Central Standard Time</p>
 <p>
-In the US, there is a lot of news related to Donald Trump. There is an analysis about how he is accused of lying to tax authorities and he has pleaded not guilty to thirty-four felonies in New York regarding an alleged cover up of a potential sex scandal during his 2016 presidential campaign. 
-
-In Chicago, voters faced a choice between the former teacher Brandon Johnson, who had the support of unions, and Paul Vallas, who has more of a tough-on-crime stance but ended up losing the mayor&#39;s race. 
-
-Meanwhile, on the international stage, issues in Ukraine are making headlines. French President Emmanuel Macron is hopeful that China might be able to push Russia towards peace in the country. Beijing&#39;s ambassador to the E.U. has tried to distance himself from Moscow on the issue, claiming China aims for no limits between their two countries. A Wall Street Journal reporter was recently arrested after reporting about Russians&#39; efforts to help those being repressed, which has now been seen as an attack on press freedom.
-
-Finally, in tech news, criticisms of intern selection processes at big companies such as Google and Facebook have come up as they tend to favor wealthier students over those from lower income backgrounds.</p>
+There is a lot going on in the world right now. Donald Trump has been accused of falsifying records, lying to the tax authorities, and engaging in a hush-money deal with a porn star to protect his 2016 campaign. His lawyers are pushing back on the charges and Trump is maintaining his innocence. In Wisconsin, Janet Protasiewicz won a Supreme Court race that will likely reverse the states&#39; abortion ban and end the use of gerrymandered legislative maps. In Chicago, voters elected Brandon Johnson as their next mayor, rejecting Paul Vallas who took a hard line on crime. On the foreign policy front, France is trying to get China involved in pressuring Russia to end the war in Ukraine. Meanwhile, there are issues involving how higher salaries affect education access for lower-income students and how it affects internships at bigger tech companies. And finally Poland is clashing with the E.U. and fighting for allies for their crusade against Russia over Ukraine.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Analysis: A Surprise Accusation Bolsters a Risky Case Against Trump</h3>
@@ -75,22 +69,16 @@ Finally, in tech news, criticisms of intern selection processes at big companies
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>From President to Defendant: Trump Pleads Not Guilty to 34 Felonies</h3>
-<sub>By Jonah E. Bromwich, William K. Rashbaum, Ben Protess and Maggie Haberman</sub>
-<p>The former president, who appeared in a Manhattan courtroom on Tuesday, is accused of covering up a potential sex scandal during the 2016 election.  <a href="https://nyti.ms/42YOgT4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Has the Oval Office. But Trump Has Center Stage.</h3>
-<sub>By Peter Baker and Michael D. Shear</sub>
-<p>The White House hopes the chaos of Donald Trump’s legal challenges will reinforce the reasons voters turned to President Biden in 2020.  <a href="https://nyti.ms/3KAzV8q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Donald Trump Indictment, Annotated</h3>
 <sub>By Michael Rothfeld</sub>
 <p>The indictment unveiled on Tuesday centers on a hush-money deal with a porn star, but a related document alleges a broader scheme to protect Donald J. Trump’s 2016 campaign.  <a href="https://nyti.ms/3nPNJ64"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Denouncing Charges, Trump Repeats Familiar Grievances</h3>
+<sub>By Linda Qiu</sub>
+<p>Hours after pleading not guilty to 34 counts of filing false business records, former President Donald J. Trump maintained his innocence before a crowd of supporters in Florida. Here’s a fact-check.  <a href="https://nyti.ms/3GeWsET"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Liberal Wins Wisconsin Court Race, in Victory for Abortion Rights Backers</h3>
@@ -109,12 +97,6 @@ Finally, in tech news, criticisms of intern selection processes at big companies
 <sub>By Julie Bosman</sub>
 <p>In a largely liberal city, Chicago voters chose Brandon Johnson, a county commissioner and union organizer, over Paul Vallas, who took a hard line on crime.  <a href="https://nyti.ms/3McVjlg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Chicago Mayor’s Race, a Former Teacher Rises With Union Support</h3>
-<sub>By Mitch Smith</sub>
-<p>Brandon Johnson, a county commissioner who once taught in struggling neighborhoods, soared in the polls after an endorsement and donations from the Chicago Teachers Union.  <a href="https://nyti.ms/405lm1H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Can China Make Peace in Ukraine? Macron Isn’t Saying No.</h3>
@@ -139,6 +121,18 @@ Finally, in tech news, criticisms of intern selection processes at big companies
 <sub>By Natasha Singer</sub>
 <p>Critics say the intern selection process often favors wealthier students, just like the admission process at some elite colleges.  <a href="https://nyti.ms/3McVjBM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>This Historically Black University Created Its Own Tech Intern Pipeline</h3>
+<sub>By Natasha Singer</sub>
+<p>A new program at Bowie State connects computing students directly with companies, bypassing an often harsh Silicon Valley vetting process.  <a href="https://nyti.ms/3ZGBGVJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Poland’s War on Two Fronts</h3>
+<sub>By Elisabeth Zerofsky</sub>
+<p>Long at odds with the E.U. over its domestic policies, the right-wing government is winning allies with its staunch defense of Ukraine. Which battle matters most?  <a href="https://nyti.ms/4366YrS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
