@@ -60,7 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 6, Central Standard Time</p>
 <p>
-There has been a lot of political and newsworthy activity going on in the world recently. In the United States, a liberal judge won a resounding victory in Wisconsin that points to Democrats&#39; continued strength. Brandon Johnson also won the mayoral race in Chicago running as a progressive. Meanwhile, allegations of criminal charges against Donald Trump have sparked uncertainty in both parties. Russia is also causing tension between different countries, with the latest being Norway becoming Europe&#39;s energy champion and Poland hosting Ukraine&#39;s president. Finally, there have been reports of abuse by Catholic clergy in Baltimore, exposing hundreds of children and teenagers to horrific acts.</p>
+Right now there&#39;s a lot going on in the US and around the world. In Wisconsin, Democrats had a resounding victory during an election that focused on abortion rights. In Chicago, a progressive county commissioner named Brandon Johnson won the mayoral race.
+
+Donald Trump received criminal charges from NY prosecutors recently and it generated some mixed feelings from Republicans and Democrats. At the hearing, some of the key moments were documented. On top of that, Republicans promised to investigate the NY prosecutor for bringing those charges against Trump. 
+
+Additionally, Speaker Kevin McCarthy hosted the Taiwanese president on US soil, meaning tensions with China are definitely on display. The name Emily is also becoming more well-known with a new generation entering adulthood regularly.
+
+In Europe, Norway is becoming the continent&#39;s largest supplier of natural gas because Russia has exited the market and in Poland Ukrainian president Volodymyr Zelensky had a hero&#39;s welcome while trying to gain NATO membership and unite their eastern flank more efficiently. 
+
+Finally, Russia was accused of spreading disinformation at an UN event and Rupert Murdoch and Fox News hosts like Tucker Carlson and Sean Hannity may have to testify in person in an upcoming high-profile defamation trial. Lastly, Baltimore is dealing with hundreds of cases of child abuse from Catholic clergy members according to Maryland’s attorney general.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Wisconsin Rout Points to Democrats’ Enduring Post-Dobbs Strength</h3>
