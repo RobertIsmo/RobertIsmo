@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 6, Central Standard Time</p>
 <p>
-Right now, there are some major developments happening around the world. In Russia, their offensive against Ukraine has stalled out, while Norway is rising as Europe’s top energy supplier. In the US, there was a huge liberal victory in Wisconsin that showed the strength of the Democratic Party and served as a warning to Republicans, and then there were additional wins in Chicago and Tennessee elections. There was also a big political announcement when Donald Trump was arraigned in New York on criminal charges. Lastly, Saudi Arabia is shaking up the golf world with their new breakaway league called LIV bringing drama to the Masters tournament.</p>
+There is a lot of activity happening around the world right now. In the US, President Joe Biden is fulfilling his campaign promise to end the 20-year war in Afghanistan. In Russia, an ambitious winter offensive has stalled. Meanwhile, Airbus is making plans to double production in China, despite resistance from the Biden administration. In the US, House Speaker Kevin McCarthy is trying to corral a fractious Republican majority around a spending plan amid a looming debt crisis. Also in the US, lawmakers in Tennessee are moving to oust some members due to misconduct allegations. And after a school shooting in Nashville, people are trying to reconcile divisions between urban and rural populations. Additionally, Donald Trump is facing criminal charges stemming from the Capitol attack, and Saudi Arabia&#39;s breakaway golf league has sparked controversy as it comes to one of the sport&#39;s most esteemed stages. India has also been making changes to their school textbooks by removing or shrinking references to Hindu extremism and Muslim history. Finally, Rupert Murdoch&#39;s Fox News empire has come under fire over its promotion of election lies and involvement in inciting insurrection.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Acknowledges Afghanistan Evacuations Should Have Started Sooner</h3>
+<sub>By Katie Rogers</sub>
+<p>President Biden’s decision to end a 20-year war in August 2021 led to the swift collapse of the Afghan government and military.  <a href="https://nyti.ms/3ZHqU1D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Russia’s Offensive Ran Aground</h3>
 <sub>By Josh Holder and Marco Hernandez</sub>
@@ -69,52 +75,22 @@ Right now, there are some major developments happening around the world. In Russ
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>With Russia’s Exit, Norway Becomes Europe’s Energy Champion</h3>
-<sub>By Stanley Reed</sub>
-<p>It is now the continent’s largest supplier of natural gas, and last year the country’s energy earnings jumped $100 billion.  <a href="https://nyti.ms/3MnGT1S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<h3>Airbus to Double Production in China as It Moves Ahead With New Orders</h3>
+<sub>By Liz Alderman</sub>
+<p>The French plane maker announced the agreement despite pressure on Europe from the Biden administration to isolate Beijing.  <a href="https://nyti.ms/40P0i02"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>I.R.S. Unveils $80 Billion Plan to Overhaul Tax Collection</h3>
+<sub>By Alan Rappeport</sub>
+<p>The 10-year strategy document outlines a focus on taxpayer services and enforcement efforts on the rich.  <a href="https://nyti.ms/4347cQm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Wisconsin Rout Points to Democrats’ Enduring Post-Dobbs Strength</h3>
-<sub>By Reid J. Epstein</sub>
-<p>A resounding victory by a liberal judge who ran on abortion rights showed that a largely unified political left is keeping up its momentum, and served as a new warning sign to Republicans.  <a href="https://nyti.ms/3m6wiO6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Lessons for Democrats From Victories in Wisconsin and Chicago</h3>
-<sub>By Maggie Astor</sub>
-<p>The Wisconsin results show that the salience of abortion is not fading, and in Chicago, a “tough-on-crime” message fell short.  <a href="https://nyti.ms/3Ugn1zr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Staring Down a Debt Crisis, McCarthy Toils to Navigate G.O.P. Divisions</h3>
+<sub>By Jonathan Swan and Annie Karni</sub>
+<p>The House speaker has little trust in his Budget Committee chairman or his No. 2 as he works to unite the fractious Republican majority around a spending plan.  <a href="https://nyti.ms/3nVxDYj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Three Takeaways From a Tumultuous Day in Politics</h3>
-<sub>By Nate Cohn</sub>
-<p>A blowout in Wisconsin, an indictment in New York and a progressive victory in Chicago.  <a href="https://nyti.ms/3nVoa3a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>In Pristine Alaska, an Oil Giant Prepares to Drill for Decades</h3>
-<sub>By Lisa Friedman, Clifford Krauss and Erin Schaff</sub>
-<p>Scientists say nations must stop new oil and gas projects to avoid climate catastrophe. But after the Biden administration greenlit the $8 billion Willow project, ConocoPhillips is racing ahead.  <a href="https://nyti.ms/412JVfS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>It’s Not Just Willow: Oil and Gas Projects Are Back in a Big Way</h3>
-<sub>By Max Bearak</sub>
-<p>Alaska’s controversial Willow project has drawn criticism, but a global analysis shows that it’s just one of hundreds of investments approved in the past year or so.  <a href="https://nyti.ms/41nZfUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What It Was Like Inside the Courtroom During Trump’s Arraignment</h3>
-<sub>By Jonah E. Bromwich and Nate Schweber</sub>
-<p>Here are some of the most important moments from the hearing where criminal charges against Donald Trump were unveiled.  <a href="https://nyti.ms/3m86u45"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Charges Bring Doubts, Hopes and Uncertainty in Both Parties</h3>
-<sub>By Jonathan Weisman, Katie Glueck and Jazmine Ulloa</sub>
-<p>To some Republicans and Democrats, the charges appeared flimsy and less consequential than many had hoped. To others, the case had the potential to reverberate politically.  <a href="https://nyti.ms/40HA9Qw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tennessee House Moves to Oust Lawmakers: What You Need to Know</h3>
@@ -128,10 +104,34 @@ Right now, there are some major developments happening around the world. In Russ
 <p>For decades, Nashville has prospered while finding common ground between urban and rural, left and right, state and city. In a partisan era, that’s becoming much harder.  <a href="https://nyti.ms/3U6b9A8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What It Was Like Inside the Courtroom During Trump’s Arraignment</h3>
+<sub>By Jonah E. Bromwich and Nate Schweber</sub>
+<p>Here are some of the most important moments from the hearing where criminal charges against Donald Trump were unveiled.  <a href="https://nyti.ms/3m86u45"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>A New Twist for the Tradition-Bound Masters: The LIV Golf Era</h3>
 <sub>By Alan Blinder</sub>
 <p>LIV, Saudi Arabia’s breakaway league, split men’s professional golf. Now, the drama is coming to one of the sport’s most hallowed stages.  <a href="https://nyti.ms/3Gnh8Lc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>New Indian Textbooks Purged of Muslim History and Hindu Extremism</h3>
+<sub>By Suhasini Raj</sub>
+<p>The changes removed or shrank references to Hindu extremism, the country’s secular foundation and India’s long Muslim history.  <a href="https://nyti.ms/3GovfzL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How Fox Chased Its Audience Down the Rabbit Hole</h3>
+<sub>By Jim Rutenberg</sub>
+<p>Rupert Murdoch built an empire by giving viewers exactly what they wanted. But what they wanted — election lies and insurrection — put that empire (and the country) in peril.  <a href="https://nyti.ms/3KbLrFP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>My Mother: The Reader I’ve Always Wanted but May Never Have</h3>
+<sub>By Sulaiman Addonia</sub>
+<p>How a language barrier can both limit and liberate.  <a href="https://nyti.ms/3zF7nnD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
