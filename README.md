@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 6, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In Russia, there was an ambitious winter offensive that didn&#39;t really go anywhere. Norway has become Europe&#39;s largest supplier of natural gas, with energy earnings jumping $100 billion. In America, there were two Democratic victories in Wisconsin and Chicago, as well as criminal charges being filed against former President Trump during his arraignment in New York. On the business front, Saudi Arabia is leading the way with a breakaway golf league that faces legal battles across the world. And for recent news on media company Fox, Rupert Murdoch&#39;s election lies and promotion of insurrection have put the empire (and the country) in peril.</p>
+Right now, there are some major developments happening around the world. In Russia, their offensive against Ukraine has stalled out, while Norway is rising as Europe’s top energy supplier. In the US, there was a huge liberal victory in Wisconsin that showed the strength of the Democratic Party and served as a warning to Republicans, and then there were additional wins in Chicago and Tennessee elections. There was also a big political announcement when Donald Trump was arraigned in New York on criminal charges. Lastly, Saudi Arabia is shaking up the golf world with their new breakaway league called LIV bringing drama to the Masters tournament.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Russia’s Offensive Ran Aground</h3>
@@ -104,35 +104,35 @@ There&#39;s a lot happening in the world right now. In Russia, there was an ambi
 <p>Alaska’s controversial Willow project has drawn criticism, but a global analysis shows that it’s just one of hundreds of investments approved in the past year or so.  <a href="https://nyti.ms/41nZfUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Charges Bring Doubts, Hopes and Uncertainty in Both Parties</h3>
-<sub>By Jonathan Weisman, Katie Glueck and Jazmine Ulloa</sub>
-<p>To some Republicans and Democrats, the charges appeared flimsy and less consequential than many had hoped. To others, the case had the potential to reverberate politically.  <a href="https://nyti.ms/40HA9Qw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>What It Was Like Inside the Courtroom During Trump’s Arraignment</h3>
 <sub>By Jonah E. Bromwich and Nate Schweber</sub>
 <p>Here are some of the most important moments from the hearing where criminal charges against Donald Trump were unveiled.  <a href="https://nyti.ms/3m86u45"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Charges Bring Doubts, Hopes and Uncertainty in Both Parties</h3>
+<sub>By Jonathan Weisman, Katie Glueck and Jazmine Ulloa</sub>
+<p>To some Republicans and Democrats, the charges appeared flimsy and less consequential than many had hoped. To others, the case had the potential to reverberate politically.  <a href="https://nyti.ms/40HA9Qw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tennessee House Moves to Oust Lawmakers: What You Need to Know</h3>
+<sub>By Eliza Fawcett and Emily Cochrane</sub>
+<p>Expulsions from state legislatures have been rare and usually involve accusations of criminal or sexual misconduct.  <a href="https://nyti.ms/3UcyErb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After School Shooting, Nashville Grieves and Ponders Its Divisions</h3>
+<sub>By Richard Fausset</sub>
+<p>For decades, Nashville has prospered while finding common ground between urban and rural, left and right, state and city. In a partisan era, that’s becoming much harder.  <a href="https://nyti.ms/3U6b9A8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>A New Twist for the Tradition-Bound Masters: The LIV Golf Era</h3>
 <sub>By Alan Blinder</sub>
 <p>LIV, Saudi Arabia’s breakaway league, split men’s professional golf. Now, the drama is coming to one of the sport’s most hallowed stages.  <a href="https://nyti.ms/3Gnh8Lc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>European Tour May Punish LIV Golfers, Arbitrators Rule</h3>
-<sub>By Alan Blinder</sub>
-<p>The decision by a panel in London was an early test for the Saudi Arabia-backed circuit, which is also facing legal battles in the United States.  <a href="https://nyti.ms/3zxZdxD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How Fox Chased Its Audience Down the Rabbit Hole</h3>
-<sub>By Jim Rutenberg</sub>
-<p>Rupert Murdoch built an empire by giving viewers exactly what they wanted. But what they wanted — election lies and insurrection — put that empire (and the country) in peril.  <a href="https://nyti.ms/3KbLrFP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
