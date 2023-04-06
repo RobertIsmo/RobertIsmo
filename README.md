@@ -60,26 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 5, Central Standard Time</p>
 <p>
-Right now, there is a lot happening in the US and around the world. In the US, former President Trump has been charged with criminal offenses and his trial is upcoming. It is having an impact on both Republican and Democratic party politics. On the political left, issues such as abortion rights are gaining momentum. In other news, France&#39;s President Emanuel Macron recently visited China to advocate for peace in Ukraine and here in the US, it is reported that hundreds of children and teens have been abused by Catholic clergy in Baltimore. In Tennessee, three Democrats are set to be expelled from office due to their involvement in a protest over gun control.</p>
+There is a lot going on in the world right now. In the US, there have been a number of major developments recently: a liberal judge ran on abortion rights and won in Wisconsin, Brandon Johnson won a Chicago mayoral race after coming in second in the first ballot, and Donald Trump was recently arraigned with charges brought against him. Tensions are also running high between the US and China after Speaker Kevin McCarthy met with Taiwan&#39;s president at home, and the Republicans have vowed to grill the New York prosecutor bringing charges against the former president. 
+On the international stage, Ukrainian President Zelensky visited Poland, where their leaders backed Ukraine&#39;s bid for NATO membership. At UN events, Russia has been accused of misinforming delegates and spreading disinformation. And an Australian miners&#39; rebellion led by a Black man named John Joseph has been rediscovered. Meanwhile, Rupert Murdoch is being forced to testify in a defamation trial and Baltimore officials have revealed hundreds of children and teens were abused by Catholic clergy.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Charges Bring Doubts, Hopes and Uncertainty in Both Parties</h3>
-<sub>By Jonathan Weisman, Katie Glueck and Jazmine Ulloa</sub>
-<p>To some Republicans and Democrats, the charges appeared flimsy and less consequential than many had hoped. To others, the case had the potential to reverberate politically.  <a href="https://nyti.ms/40HA9Qw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Now, Trump and Allies Focus on Political Upside of a Criminal Case</h3>
-<sub>By Maggie Haberman, Michael C. Bender and Jonathan Swan</sub>
-<p>The indictment of the former president has unlocked a rush of fund-raising and has frozen the 2024 Republican primary, but he faces deeper legal peril in multiple inquiries.  <a href="https://nyti.ms/3mdjUM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What It Was Like Inside the Courtroom During Trump’s Arraignment</h3>
-<sub>By Jonah E. Bromwich and Nate Schweber</sub>
-<p>Here are some of the most important moments from the hearing where criminal charges against Donald Trump were unveiled.  <a href="https://nyti.ms/3m86u45"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Wisconsin Rout Points to Democrats’ Enduring Post-Dobbs Strength</h3>
 <sub>By Reid J. Epstein</sub>
@@ -90,6 +73,24 @@ Right now, there is a lot happening in the US and around the world. In the US, f
 <h3>How Brandon Johnson Made Up Ground and Won Chicago’s Mayoral Race</h3>
 <sub>By Julie Bosman and Mitch Smith</sub>
 <p>Mr. Johnson, a progressive county commissioner, won over liberal voters across the city after finishing second in a first round of balloting.  <a href="https://nyti.ms/3Mjy8Wo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Charges Bring Doubts, Hopes and Uncertainty in Both Parties</h3>
+<sub>By Jonathan Weisman, Katie Glueck and Jazmine Ulloa</sub>
+<p>To some Republicans and Democrats, the charges appeared flimsy and less consequential than many had hoped. To others, the case had the potential to reverberate politically.  <a href="https://nyti.ms/40HA9Qw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What It Was Like Inside the Courtroom During Trump’s Arraignment</h3>
+<sub>By Jonah E. Bromwich and Nate Schweber</sub>
+<p>Here are some of the most important moments from the hearing where criminal charges against Donald Trump were unveiled.  <a href="https://nyti.ms/3m86u45"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Vowed to Grill Bragg About Trump, but It’s Not So Simple</h3>
+<sub>By Luke Broadwater and Jonathan Swan</sub>
+<p>G.O.P. leaders have talked tough about investigating the New York prosecutor bringing charges against the former president, but behind the scenes, they are weighing how to move ahead.  <a href="https://nyti.ms/3ZF2Dcx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,9 +106,15 @@ Right now, there is a lot happening in the US and around the world. In the US, f
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Macron, in China, Says He’ll Urge Xi to Work for Peace in Ukraine</h3>
-<sub>By Roger Cohen</sub>
-<p>President Emmanuel Macron of France spoke of the need for a “shared responsibility for peace and international stability.”  <a href="https://nyti.ms/3zwHHK7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Zelensky Gets Hero’s Welcome in Poland, Cementing Ukraine’s Ties</h3>
+<sub>By Andrew Higgins</sub>
+<p>Polish leaders backed Ukraine’s bid for NATO membership, but even without that, Russia’s invasion is making the alliance’s eastern flank more united, and more important.  <a href="https://nyti.ms/3Mh4Ho1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Outrageous’: Russia Accused of Spreading Disinformation at U.N. Event</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>Moscow used its rotating presidency of the Security Council to host a session on deported Ukrainian children, leading some officials to walk out.  <a href="https://nyti.ms/3KCxOks"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,12 +133,6 @@ Right now, there is a lot happening in the US and around the world. In the US, f
 <h3>Baltimore Catholic Clergy Abused Hundreds of Children and Teens, Attorney General Says</h3>
 <sub>By Ruth Graham</sub>
 <p>A 463-page investigation released by the Maryland attorney general detailed the “enormous scope and scale” of scandal.  <a href="https://nyti.ms/4125ygu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tennessee House Poised to Expel 3 Democrats Over Gun Control Protest</h3>
-<sub>By Emily Cochrane</sub>
-<p>The Republican-dominated House was set to vote on Thursday on taking the rare and punitive action of removing the Democrats from office for their part in the protest.  <a href="https://nyti.ms/3KbEFQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
