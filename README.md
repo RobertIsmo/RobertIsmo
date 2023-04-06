@@ -58,10 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, April 5, Central Standard Time</p>
+<p>It is Thursday, April 6, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, there have been a number of major developments recently: a liberal judge ran on abortion rights and won in Wisconsin, Brandon Johnson won a Chicago mayoral race after coming in second in the first ballot, and Donald Trump was recently arraigned with charges brought against him. Tensions are also running high between the US and China after Speaker Kevin McCarthy met with Taiwan&#39;s president at home, and the Republicans have vowed to grill the New York prosecutor bringing charges against the former president. 
-On the international stage, Ukrainian President Zelensky visited Poland, where their leaders backed Ukraine&#39;s bid for NATO membership. At UN events, Russia has been accused of misinforming delegates and spreading disinformation. And an Australian miners&#39; rebellion led by a Black man named John Joseph has been rediscovered. Meanwhile, Rupert Murdoch is being forced to testify in a defamation trial and Baltimore officials have revealed hundreds of children and teens were abused by Catholic clergy.</p>
+There has been a lot of political and newsworthy activity going on in the world recently. In the United States, a liberal judge won a resounding victory in Wisconsin that points to Democrats&#39; continued strength. Brandon Johnson also won the mayoral race in Chicago running as a progressive. Meanwhile, allegations of criminal charges against Donald Trump have sparked uncertainty in both parties. Russia is also causing tension between different countries, with the latest being Norway becoming Europe&#39;s energy champion and Poland hosting Ukraine&#39;s president. Finally, there have been reports of abuse by Catholic clergy in Baltimore, exposing hundreds of children and teenagers to horrific acts.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Wisconsin Rout Points to Democrats’ Enduring Post-Dobbs Strength</h3>
@@ -105,6 +104,12 @@ On the international stage, Ukrainian President Zelensky visited Poland, where t
 <p>As a generation of Emilys enters adulthood, perhaps you’ve noticed the name in the air — and on TV, in film and in songs.  <a href="https://nyti.ms/3nPgMX3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>With Russia’s Exit, Norway Becomes Europe’s Energy Champion</h3>
+<sub>By Stanley Reed</sub>
+<p>It is now the continent’s largest supplier of natural gas, and last year the country’s energy earnings jumped $100 billion.  <a href="https://nyti.ms/3MnGT1S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Gets Hero’s Welcome in Poland, Cementing Ukraine’s Ties</h3>
 <sub>By Andrew Higgins</sub>
@@ -115,12 +120,6 @@ On the international stage, Ukrainian President Zelensky visited Poland, where t
 <h3>‘Outrageous’: Russia Accused of Spreading Disinformation at U.N. Event</h3>
 <sub>By Farnaz Fassihi</sub>
 <p>Moscow used its rotating presidency of the Security Council to host a session on deported Ukrainian children, leading some officials to walk out.  <a href="https://nyti.ms/3KCxOks"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Black Man Went to Australia for Gold, Then Stood Up for Democracy</h3>
-<sub>By Damien Cave</sub>
-<p>John Joseph was put on trial for leading a miners’ rebellion seeking less taxation and more representation. His legacy was forgotten — until now.  <a href="https://nyti.ms/40Iubiq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
