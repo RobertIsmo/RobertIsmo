@@ -60,16 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 6, Central Standard Time</p>
 <p>
-Right now there&#39;s a lot going on in the US and around the world. In Wisconsin, Democrats had a resounding victory during an election that focused on abortion rights. In Chicago, a progressive county commissioner named Brandon Johnson won the mayoral race.
-
-Donald Trump received criminal charges from NY prosecutors recently and it generated some mixed feelings from Republicans and Democrats. At the hearing, some of the key moments were documented. On top of that, Republicans promised to investigate the NY prosecutor for bringing those charges against Trump. 
-
-Additionally, Speaker Kevin McCarthy hosted the Taiwanese president on US soil, meaning tensions with China are definitely on display. The name Emily is also becoming more well-known with a new generation entering adulthood regularly.
-
-In Europe, Norway is becoming the continent&#39;s largest supplier of natural gas because Russia has exited the market and in Poland Ukrainian president Volodymyr Zelensky had a hero&#39;s welcome while trying to gain NATO membership and unite their eastern flank more efficiently. 
-
-Finally, Russia was accused of spreading disinformation at an UN event and Rupert Murdoch and Fox News hosts like Tucker Carlson and Sean Hannity may have to testify in person in an upcoming high-profile defamation trial. Lastly, Baltimore is dealing with hundreds of cases of child abuse from Catholic clergy members according to Maryland’s attorney general.</p>
+There&#39;s a lot happening in the world right now. In Russia, there was an ambitious winter offensive that didn&#39;t really go anywhere. Norway has become Europe&#39;s largest supplier of natural gas, with energy earnings jumping $100 billion. In America, there were two Democratic victories in Wisconsin and Chicago, as well as criminal charges being filed against former President Trump during his arraignment in New York. On the business front, Saudi Arabia is leading the way with a breakaway golf league that faces legal battles across the world. And for recent news on media company Fox, Rupert Murdoch&#39;s election lies and promotion of insurrection have put the empire (and the country) in peril.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Russia’s Offensive Ran Aground</h3>
+<sub>By Josh Holder and Marco Hernandez</sub>
+<p>Whatever happens in Bakhmut, a once-ambitious winter offensive never really went anywhere.  <a href="https://nyti.ms/3nRPEqJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>With Russia’s Exit, Norway Becomes Europe’s Energy Champion</h3>
+<sub>By Stanley Reed</sub>
+<p>It is now the continent’s largest supplier of natural gas, and last year the country’s energy earnings jumped $100 billion.  <a href="https://nyti.ms/3MnGT1S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Wisconsin Rout Points to Democrats’ Enduring Post-Dobbs Strength</h3>
 <sub>By Reid J. Epstein</sub>
@@ -77,10 +81,28 @@ Finally, Russia was accused of spreading disinformation at an UN event and Ruper
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Brandon Johnson Made Up Ground and Won Chicago’s Mayoral Race</h3>
-<sub>By Julie Bosman and Mitch Smith</sub>
-<p>Mr. Johnson, a progressive county commissioner, won over liberal voters across the city after finishing second in a first round of balloting.  <a href="https://nyti.ms/3Mjy8Wo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<h3>5 Lessons for Democrats From Victories in Wisconsin and Chicago</h3>
+<sub>By Maggie Astor</sub>
+<p>The Wisconsin results show that the salience of abortion is not fading, and in Chicago, a “tough-on-crime” message fell short.  <a href="https://nyti.ms/3Ugn1zr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Three Takeaways From a Tumultuous Day in Politics</h3>
+<sub>By Nate Cohn</sub>
+<p>A blowout in Wisconsin, an indictment in New York and a progressive victory in Chicago.  <a href="https://nyti.ms/3nVoa3a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>In Pristine Alaska, an Oil Giant Prepares to Drill for Decades</h3>
+<sub>By Lisa Friedman, Clifford Krauss and Erin Schaff</sub>
+<p>Scientists say nations must stop new oil and gas projects to avoid climate catastrophe. But after the Biden administration greenlit the $8 billion Willow project, ConocoPhillips is racing ahead.  <a href="https://nyti.ms/412JVfS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>It’s Not Just Willow: Oil and Gas Projects Are Back in a Big Way</h3>
+<sub>By Max Bearak</sub>
+<p>Alaska’s controversial Willow project has drawn criticism, but a global analysis shows that it’s just one of hundreds of investments approved in the past year or so.  <a href="https://nyti.ms/41nZfUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s Charges Bring Doubts, Hopes and Uncertainty in Both Parties</h3>
@@ -94,53 +116,23 @@ Finally, Russia was accused of spreading disinformation at an UN event and Ruper
 <p>Here are some of the most important moments from the hearing where criminal charges against Donald Trump were unveiled.  <a href="https://nyti.ms/3m86u45"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Vowed to Grill Bragg About Trump, but It’s Not So Simple</h3>
-<sub>By Luke Broadwater and Jonathan Swan</sub>
-<p>G.O.P. leaders have talked tough about investigating the New York prosecutor bringing charges against the former president, but behind the scenes, they are weighing how to move ahead.  <a href="https://nyti.ms/3ZF2Dcx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A New Twist for the Tradition-Bound Masters: The LIV Golf Era</h3>
+<sub>By Alan Blinder</sub>
+<p>LIV, Saudi Arabia’s breakaway league, split men’s professional golf. Now, the drama is coming to one of the sport’s most hallowed stages.  <a href="https://nyti.ms/3Gnh8Lc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Tensions With China on Display as McCarthy Hosts Taiwan’s Leader</h3>
-<sub>By Karoun Demirjian and Chris Buckley</sub>
-<p>Speaker Kevin McCarthy became the most senior elected official to meet with a Taiwanese president on American soil since the United States established diplomatic relations with Beijing.  <a href="https://nyti.ms/3m3b03X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>European Tour May Punish LIV Golfers, Arbitrators Rule</h3>
+<sub>By Alan Blinder</sub>
+<p>The decision by a panel in London was an early test for the Saudi Arabia-backed circuit, which is also facing legal battles in the United States.  <a href="https://nyti.ms/3zxZdxD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>It’s Time to Address the Emily in the Room</h3>
-<sub>By Emilia Petrarca</sub>
-<p>As a generation of Emilys enters adulthood, perhaps you’ve noticed the name in the air — and on TV, in film and in songs.  <a href="https://nyti.ms/3nPgMX3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>With Russia’s Exit, Norway Becomes Europe’s Energy Champion</h3>
-<sub>By Stanley Reed</sub>
-<p>It is now the continent’s largest supplier of natural gas, and last year the country’s energy earnings jumped $100 billion.  <a href="https://nyti.ms/3MnGT1S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Gets Hero’s Welcome in Poland, Cementing Ukraine’s Ties</h3>
-<sub>By Andrew Higgins</sub>
-<p>Polish leaders backed Ukraine’s bid for NATO membership, but even without that, Russia’s invasion is making the alliance’s eastern flank more united, and more important.  <a href="https://nyti.ms/3Mh4Ho1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Outrageous’: Russia Accused of Spreading Disinformation at U.N. Event</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>Moscow used its rotating presidency of the Security Council to host a session on deported Ukrainian children, leading some officials to walk out.  <a href="https://nyti.ms/3KCxOks"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Rupert Murdoch Can Be Forced to Testify in Defamation Trial, Judge Says</h3>
-<sub>By Katie Robertson</sub>
-<p>Star hosts for Fox News like Tucker Carlson and Sean Hannity may also appear in person at the high-profile trial, which is set to start April 17.  <a href="https://nyti.ms/3ZM0BHB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Baltimore Catholic Clergy Abused Hundreds of Children and Teens, Attorney General Says</h3>
-<sub>By Ruth Graham</sub>
-<p>A 463-page investigation released by the Maryland attorney general detailed the “enormous scope and scale” of scandal.  <a href="https://nyti.ms/4125ygu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How Fox Chased Its Audience Down the Rabbit Hole</h3>
+<sub>By Jim Rutenberg</sub>
+<p>Rupert Murdoch built an empire by giving viewers exactly what they wanted. But what they wanted — election lies and insurrection — put that empire (and the country) in peril.  <a href="https://nyti.ms/3KbLrFP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
