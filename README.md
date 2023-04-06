@@ -60,42 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 5, Central Standard Time</p>
 <p>
-There seems to be a lot happening around the world right now. In the US, Donald Trump is facing a number of criminal charges related to paying hush money to a porn star. Meanwhile, Vice President Mike Pence won&#39;t appeal a ruling requiring him to testify in relation to the attempted overthrow of Congress on 6 January. Speaker Kevin McCarthy has traveled to Taiwan, also with an eye towards Chinese tensions. There&#39;s been elections for Mayor in Chicago and for the Wisconsin court that may impact abortion rights. And there&#39;s been some intense weather incidents like deadly tornados in Missouri and electric car reshaping jobs in Ohio. In Europe, French President Emmanuel Macron is advocating for peace in Ukraine, while Australia is reexamining the legacy of John Joseph who was put on trial for leading a rebellion for democracy there. Finally, Augusta National golf club is hosting the Masters tournament and Mark O’Meara, who won 25 years ago, is talking about the beauty and challenge of the place.</p>
+Right now, there is a lot happening in the US and around the world. In the US, former President Trump has been charged with criminal offenses and his trial is upcoming. It is having an impact on both Republican and Democratic party politics. On the political left, issues such as abortion rights are gaining momentum. In other news, France&#39;s President Emanuel Macron recently visited China to advocate for peace in Ukraine and here in the US, it is reported that hundreds of children and teens have been abused by Catholic clergy in Baltimore. In Tennessee, three Democrats are set to be expelled from office due to their involvement in a protest over gun control.</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Case Against Donald Trump: What Comes Next?</h3>
-<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
-<p>Mr. Trump was charged on Tuesday with 34 felony counts connected to his role in paying hush money to a porn star.  <a href="https://nyti.ms/3lVqDu1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Won’t Appeal Ruling Forcing Testimony to Jan. 6 Grand Jury, Aide Says</h3>
-<sub>By Maggie Haberman and Alan Feuer</sub>
-<p>The decision may clear the way for potentially consequential testimony that federal prosecutors have long sought as they explore Donald J. Trump’s attempts to stay in office.  <a href="https://nyti.ms/3K5fDSU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump’s Charges Bring Doubts, Hopes and Uncertainty in Both Parties</h3>
+<sub>By Jonathan Weisman, Katie Glueck and Jazmine Ulloa</sub>
+<p>To some Republicans and Democrats, the charges appeared flimsy and less consequential than many had hoped. To others, the case had the potential to reverberate politically.  <a href="https://nyti.ms/40HA9Qw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Meets With Tsai, Backing Taiwan Amid Rising Tensions With China</h3>
+<h3>For Now, Trump and Allies Focus on Political Upside of a Criminal Case</h3>
+<sub>By Maggie Haberman, Michael C. Bender and Jonathan Swan</sub>
+<p>The indictment of the former president has unlocked a rush of fund-raising and has frozen the 2024 Republican primary, but he faces deeper legal peril in multiple inquiries.  <a href="https://nyti.ms/3mdjUM0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What It Was Like Inside the Courtroom During Trump’s Arraignment</h3>
+<sub>By Jonah E. Bromwich and Nate Schweber</sub>
+<p>Here are some of the most important moments from the hearing where criminal charges against Donald Trump were unveiled.  <a href="https://nyti.ms/3m86u45"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Wisconsin Rout Points to Democrats’ Enduring Post-Dobbs Strength</h3>
+<sub>By Reid J. Epstein</sub>
+<p>A resounding victory by a liberal judge who ran on abortion rights showed that a largely unified political left is keeping up its momentum, and served as a new warning sign to Republicans.  <a href="https://nyti.ms/3m6wiO6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Brandon Johnson Made Up Ground and Won Chicago’s Mayoral Race</h3>
+<sub>By Julie Bosman and Mitch Smith</sub>
+<p>Mr. Johnson, a progressive county commissioner, won over liberal voters across the city after finishing second in a first round of balloting.  <a href="https://nyti.ms/3Mjy8Wo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Tensions With China on Display as McCarthy Hosts Taiwan’s Leader</h3>
 <sub>By Karoun Demirjian and Chris Buckley</sub>
 <p>Speaker Kevin McCarthy became the most senior elected official to meet with a Taiwanese president on American soil since the United States established diplomatic relations with Beijing.  <a href="https://nyti.ms/3m3b03X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Liberal Wins Wisconsin Court Race, in Victory for Abortion Rights Backers</h3>
-<sub>By Reid J. Epstein</sub>
-<p>Janet Protasiewicz prevailed in the state’s highly consequential contest for the Supreme Court, which will now be likely to reverse the state’s abortion ban and end the use of gerrymandered legislative maps.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chicago Mayor’s Race Could Be a Blueprint for Democratic Messaging on Crime</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Brandon Johnson, a progressive Democrat, prevailed over his more moderate challenger after holding the position that officials must take a fundamentally different approach to public safety.  <a href="https://nyti.ms/3ZLGRUe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rejecting a ‘Republican in Disguise,’ Chicago Voters Elect Johnson as Next Mayor</h3>
-<sub>By Julie Bosman</sub>
-<p>In a largely liberal city, Chicago voters chose Brandon Johnson, a county commissioner and union organizer, over Paul Vallas, who took a hard line on crime.  <a href="https://nyti.ms/3McVjlg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -116,22 +116,22 @@ There seems to be a lot happening around the world right now. In the US, Donald 
 <p>John Joseph was put on trial for leading a miners’ rebellion seeking less taxation and more representation. His legacy was forgotten — until now.  <a href="https://nyti.ms/40Iubiq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Dead After a Tornado in Southeast Missouri, as Storm Threat Remains</h3>
-<sub>By Judson Jones, Livia Albeck-Ripka, Mike Ives and Jesus Jiménez</sub>
-<p>Hail, wind, snow and a few tornadoes moved through parts of the central United States on Tuesday. The volatile weather system was expected to last through Wednesday afternoon.  <a href="https://nyti.ms/40VLfBc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In Ohio, Electric Cars Are Starting to Reshape Jobs and Companies</h3>
-<sub>By Jack Ewing and Maddie McGarvey</sub>
-<p>The state, heavily dependent on the auto industry, is a case study in whether electric vehicles will create or destroy jobs.  <a href="https://nyti.ms/3ZL4lJo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Rupert Murdoch Can Be Forced to Testify in Defamation Trial, Judge Says</h3>
+<sub>By Katie Robertson</sub>
+<p>Star hosts for Fox News like Tucker Carlson and Sean Hannity may also appear in person at the high-profile trial, which is set to start April 17.  <a href="https://nyti.ms/3ZM0BHB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Augusta National: ‘The More You Play It, the More You Understand It’</h3>
-<sub>By Alan Blinder, Doug Mills and Chris O’Riley</sub>
-<p>Mark O’Meara, who won the Masters Tournament 25 years ago, talks through the pleasures and perils of Augusta National Golf Club, the only place that hosts a major annually.  <a href="https://nyti.ms/40XOtnC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Baltimore Catholic Clergy Abused Hundreds of Children and Teens, Attorney General Says</h3>
+<sub>By Ruth Graham</sub>
+<p>A 463-page investigation released by the Maryland attorney general detailed the “enormous scope and scale” of scandal.  <a href="https://nyti.ms/4125ygu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tennessee House Poised to Expel 3 Democrats Over Gun Control Protest</h3>
+<sub>By Emily Cochrane</sub>
+<p>The Republican-dominated House was set to vote on Thursday on taking the rare and punitive action of removing the Democrats from office for their part in the protest.  <a href="https://nyti.ms/3KbEFQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
