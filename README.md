@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 7, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, tensions are high after Tennessee GOP members expelled two Democratic lawmakers, and President Biden proposed limiting trans athletes&#39; participation in school sports. In Israel, there&#39;s been an increase in military activity after rocket fire coming from Lebanon. Across the world, various companies are turning to artificial intelligence and DNA to understand global supply chains better. To top it off, a tech innovator was recently stabbed in San Francisco, raising alarm among tech leaders about the &#39;lawless&#39; state of the city.</p>
+Things are pretty chaotic right now. In the US, the Biden administration proposed a rule that would allow schools to block some transgender athletes from competing on sports teams, and in Tennessee the GOP retaliated against 2 Democratic lawmakers by trying to kick them out of the House. Around the world, there are heightened tensions between Israel and Lebanon after a rocket barrage and reports of sabotage on several pipelines near Russia that remain unsolved. Business-wise, there&#39;s some concern over wages possibly causing inflation and instability, but then also news about A.I. and DNA being used to unlock supply chain mysteries.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Wages May Not Be Inflation’s Cause, but They’re the Focus of the Cure</h3>
@@ -69,9 +69,9 @@ There is a lot happening in the world right now. In the US, tensions are high af
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Economy May Be Heading to a Place That Must Not Be Named</h3>
-<sub>By Jeff Sommer</sub>
-<p>A hard landing? A banana? Euphemisms for recession have a long history in Washington. Whatever the Fed is stating, it seems to be expecting something ugly, our columnist says.  <a href="https://nyti.ms/3KICfKE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The jobs report hints at a slowing that President Biden needs.</h3>
+<sub>By Jim Tankersley</sub>
+<p>  <a href="https://nyti.ms/40R61SO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,22 +86,16 @@ There is a lot happening in the world right now. In the US, tensions are high af
 <p>Intelligence leaks surrounding the sabotage of the pipelines have provided more questions than answers. It may be in no one’s interest to reveal more.  <a href="https://nyti.ms/40QseAt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine War Plans Leak Prompts Pentagon Investigation</h3>
-<sub>By Helene Cooper and Eric Schmitt</sub>
-<p>Classified documents detailing secret American and NATO plans have appeared on Twitter and Telegram.  <a href="https://nyti.ms/3ZNyc3R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How A.I. and DNA Are Unlocking the Mysteries of Global Supply Chains</h3>
+<sub>By Ana Swanson</sub>
+<p>Firms are turning to advanced technologies to help answer a surprisingly tricky question: Where do products really come from?  <a href="https://nyti.ms/411ev9W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>In A.I. Race, Microsoft and Google Choose Speed Over Caution</h3>
 <sub>By Nico Grant and Karen Weise</sub>
 <p>Technology companies were once leery of what some artificial intelligence could do. Now the priority is winning control of the industry’s next big thing.  <a href="https://nyti.ms/3KDGuae"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How A.I. and DNA Are Unlocking the Mysteries of Global Supply Chains</h3>
-<sub>By Ana Swanson</sub>
-<p>Firms are turning to advanced technologies to help answer a surprisingly tricky question: Where do products really come from?  <a href="https://nyti.ms/411ev9W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -111,10 +105,22 @@ There is a lot happening in the world right now. In the US, tensions are high af
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Dealing With China, U.S. and Europe Take Different Tacks</h3>
+<sub>By Edward Wong</sub>
+<p>The Biden administration says there is “convergence.” But trans-Atlantic leaders adopt different strategies on security and trade issues — including on Ukraine and Taiwan.  <a href="https://nyti.ms/3KniLcS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Plan Allows Limits on Trans Athletes’ Participation in School Sports</h3>
 <sub>By Sarah Mervosh, Remy Tumin and Ava Sasani</sub>
 <p>It is the first time the administration has substantively weighed in on the charged debate. The proposal would also prevent schools from enacting across-the-board bans.  <a href="https://nyti.ms/3Mi4DnY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Title IX and the New Rule on Transgender Athletes Explained</h3>
+<sub>By Remy Tumin</sub>
+<p>The Biden administration proposed a rule change that would allow schools to block some transgender athletes from competing on sports teams that match their gender identities.  <a href="https://nyti.ms/4182wqT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tennessee G.O.P. Punishes 2 Democrats by Throwing Them Out of House</h3>
@@ -127,12 +133,6 @@ There is a lot happening in the world right now. In the US, tensions are high af
 <sub>By Eliza Fawcett and Emily Cochrane</sub>
 <p>The House voted to expel Representatives Justin Jones and Justin J. Pearson. The Republican-controlled chamber fell one vote short of ousting a third lawmaker.  <a href="https://nyti.ms/3UcyErb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Stabbing of Cash App Creator Raises Alarm, and Claims of ‘Lawless’ San Francisco</h3>
-<sub>By Kate Conger and Shawn Hubler</sub>
-<p>Bob Lee’s death has stirred outrage among tech leaders and comes at a precarious time for the industry — and the city it calls home.  <a href="https://nyti.ms/3ZLjudz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
