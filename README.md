@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 7, Central Standard Time</p>
 <p>
-It looks like the US is dealing with a few different issues. The Biden administration just proposed some limits on transgender athletes&#39; participation in school sports, and the Supreme Court ruled in favor of allowing a transgender girl to join her school&#39;s track team. Meanwhile, Tennessee Republicans just threw out two Democrats from their state House, likely because of differences on policy over their response to a school shooting in Nashville. It&#39;s all part of a growing partisan divide that&#39;s making it harder and harder for areas of common ground to be found. On a more international scale, Pentagon officials are looking into some leaked classified documents that shed light on secret US and NATO plans related to the Ukraine war. Closer to home, there was an ethics controversy surrounding Justice Clarence Thomas that led some lawmakers to call for tighter code after he failed to make his luxury vacation disclosures. If you want something a bit different though, Tiger Woods struggled through the first 18 holes of the Masters golf tournament on one leg, while three golfers tied for the lead at the top of the leaderboard at the end of round one. Also Mimi Sheraton, an innovative food critic who wrote for The New York Times passed away - she was 97.</p>
+There is a lot happening right now in the United States and around the world. In terms of US news, the Biden administration has proposed limits on trans athletes&#39; participation in school sports. The Supreme Court just recently ruled in favor of a transgender girl wanting to compete on a girls&#39; track team. In Tennessee, Republican lawmakers have thrown out two Democrats from the House in an act of partisan rancor. After a school shooting in Nashville, the city is struggling to reconcile its differences between urban and rural, left and right and state vs. city. Also, there is a Pentagon investigation into classified documents about US and NATO war plans that were leaked on social media. On top of this, there is also an ongoing legal case against former president Donald Trump and debate over how to enforce his ethics code after revelations about Supreme Court Justice Clarence Thomas.
+
+On the sports front, there was an exciting start to the new Masters Golf tournament in Augusta where three players shot 65s. Tiger Woods was also playing with a bad leg and he managed to shoot 74.
+
+Lastly, Mimi Sheraton, an iconic food critic for The New York Times, recently passed away at 97 years of age. She had a long and successful career writing for many different publications.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Plan Allows Limits on Trans Athletes’ Participation in School Sports</h3>
@@ -117,9 +121,9 @@ It looks like the US is dealing with a few different issues. The Biden administr
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Augusta National, Playing Easy for Now, Has Three Atop Masters Leaderboard</h3>
+<h3>Augusta National, Playing Easy for Now, Has Three Atop Leaderboard</h3>
 <sub>By Alan Blinder and Doug Mills</sub>
-<p>The opening round of the first Masters Tournament of the LIV Golf era ended with a blend of PGA Tour and LIV players tied at the top.  <a href="https://nyti.ms/3MqBpn2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Viktor Hovland, Joe Rahm and Brooks Koepka all shot 65s in the opening round of the first Masters of the LIV Golf era.  <a href="https://nyti.ms/3MqBpn2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
