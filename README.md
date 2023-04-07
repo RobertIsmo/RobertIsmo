@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 7, Central Standard Time</p>
 <p>
-There has been a lot of news lately about the economy, climate, politics, international relations, and culture. The US jobs report hints at an economic slowdown President Biden will need to navigate. Scientists are looking into ways to reduce emissions through electric vehicles to tackle climate change. Journalists have been placed in difficult positions as they work to report on laws imposed by Vladimir Putin in Russia. Justice Thomas was recently advised he didn&#39;t have to report expensive gifts.  In New York City, there is an identity crisis occurring around a popular Chinese restaurant. Trump is using criminal cases and political pressure to rally support for his campaign while hiring an anti-Muslim activist. Israel recently retaliated against Lebanon after a tense incident at their border and workers are trying to unravel the mysteries of global supply chains with advancements in A.I. and DNA technology. Meanwhile, in spite of international differences on how to handle China, US and Europe leaders still find some common ground. Concerts are finally available again for an unfortunately high cost with complicated registration procedures and scalpers trying to take advantage of fans. And finally, San Francisco is facing concerns about its lawless status after the stabbing death of a tech leader.</p>
+There is a lot going on around the world right now. In the US, tensions remain high between Republicans and Democrats, with momentum building to put two recently expelled young Black lawmakers back into their seats. Meanwhile, scientists are working to trigger an electric car revolution as part of an effort to combat climate change. On the economic front, President Biden is trying to make the case for stability despite slower job growth while unemployment rates remain low. Overseas, there is a ongoing identity crisis in China surrounding a vaunted Chinese restaurant and journalist covering Russia are facing challenges due to government pressures. Meanwhile, tensions have been rising in the Middle East between Israel and Lebanon, and US and Europe have adopted different strategies when it comes to handling issues like security and trade with China. Former president Trump is aiming to apply political pressure even as he continues to face backlash for his past actions.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Latest Jobs Data Hints at a Slowdown That President Biden Needs</h3>
-<sub>By Jim Tankersley</sub>
-<p>Robust growth in jobs has delighted the White House and helped the economy avoid a recession, but it has been accompanied by persistently high inflation.  <a href="https://nyti.ms/3nPyKJ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Outrage at G.O.P. Could Propel Expelled Democrats Right Back to House</h3>
+<sub>By Eliza Fawcett and Rick Rojas</sub>
+<p>A day after two young Black lawmakers were expelled from the Tennessee legislature, momentum was building to reappoint them directly back to their seats.  <a href="https://nyti.ms/43guORN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -75,9 +75,15 @@ There has been a lot of news lately about the economy, climate, politics, intern
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘Chilling Effect’: Arrest of Journalist Makes Covering Russia Even Tougher</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>The detention of the Wall Street Journal reporter Evan Gershkovich poses new obstacles for Western journalists seeking to report on Vladimir V. Putin’s rule.  <a href="https://nyti.ms/3KR3UZX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Jobs Report Bolsters Biden’s Economic Pitch, but Inflation Still Nags</h3>
+<sub>By Jim Tankersley</sub>
+<p>The president is framing slower employment growth as the basis of a new stability, not a harbinger of hard times.  <a href="https://nyti.ms/3nPyKJ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Job Growth Eases, but Extends Its Streak</h3>
+<sub>By Lydia DePillis</sub>
+<p>Employers added 236,000 jobs as the Federal Reserve’s interest-rate increases appeared to take a toll. The unemployment rate fell to 3.5 percent.  <a href="https://nyti.ms/3ZTz7jf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,6 +98,18 @@ There has been a lot of news lately about the economy, climate, politics, intern
 <p>An identity crisis involving a vaunted Chinese restaurant and the New Yorkers who love it strikes the Upper West Side.  <a href="https://nyti.ms/3ZQURwj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘Chilling Effect’: Arrest of Journalist Makes Covering Russia Even Tougher</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>The detention of the Wall Street Journal reporter Evan Gershkovich poses new obstacles for Western journalists seeking to report on Vladimir V. Putin’s rule.  <a href="https://nyti.ms/3KR3UZX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia formally charges detained American reporter with espionage, according to state media.</h3>
+<sub>By Neil MacFarquhar</sub>
+<p>Evan Gershkovich, a reporter for The Wall Street Journal, was detained last week. The Journal and U.S. officials have vehemently rejected the Russian authorities’ allegations against him.  <a href="https://nyti.ms/40RJzJd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s Bet: Criminal Case Could Help His Campaign, and Vice Versa</h3>
 <sub>By Michael C. Bender</sub>
@@ -99,39 +117,21 @@ There has been a lot of news lately about the economy, climate, politics, intern
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Moves to Hire Laura Loomer, Anti-Muslim Activist</h3>
+<h3>Trump Wanted to Hire Laura Loomer, Anti-Muslim Activist</h3>
 <sub>By Maggie Haberman and Jonathan Swan</sub>
-<p>The former president recently directed advisers to give Ms. Loomer, who has a long history of bigoted remarks, a role in support of his candidacy, people familiar with the move said.  <a href="https://nyti.ms/3zD0rHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The former president’s aides feared that hiring Ms. Loomer, who has a long history of bigoted remarks, would set off a backlash. That proved to be correct.  <a href="https://nyti.ms/3zD0rHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Strikes Back at Lebanon After Rocket Barrage</h3>
-<sub>By Isabel Kershner and Patrick Kingsley</sub>
-<p>Tensions along the border between the two countries have escalated to the highest level in years. On Friday, a shooting attack in the occupied West Bank killed two Israelis.  <a href="https://nyti.ms/3nUKI4n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How A.I. and DNA Are Unlocking the Mysteries of Global Supply Chains</h3>
-<sub>By Ana Swanson</sub>
-<p>Firms are turning to advanced technologies to help answer a surprisingly tricky question: Where do products really come from?  <a href="https://nyti.ms/411ev9W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tensions Subside in South Lebanon but Rise Again in West Bank and Israel</h3>
+<sub>By Patrick Kingsley and Isabel Kershner</sub>
+<p>Rare cross-border fire between Israel and militias in Lebanon ebbed on Friday, lowering fears of a wider escalation. But violence flared again in Israel and the Israeli-occupied West Bank, where two attacks killed three civilians.  <a href="https://nyti.ms/3nUKI4n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Dealing With China, U.S. and Europe Take Different Tacks</h3>
 <sub>By Edward Wong</sub>
 <p>The Biden administration says there is “convergence.” But trans-Atlantic leaders adopt different strategies on security and trade issues — including on Ukraine and Taiwan.  <a href="https://nyti.ms/3KniLcS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Live Music Is Roaring Back. But Fans Are Reeling From Sticker Shock.</h3>
-<sub>By Ben Sisario</sub>
-<p>Buying concert tickets has become a mess of high prices and surcharges, anxiety-inducing registrations and pervasive scalping as some of pop’s biggest acts hit the road again.  <a href="https://nyti.ms/3MlMTrT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Stabbing of Cash App Creator Raises Alarm, and Claims of ‘Lawless’ San Francisco</h3>
-<sub>By Kate Conger and Shawn Hubler</sub>
-<p>Bob Lee’s death has stirred outrage among tech leaders and comes at a precarious time for the industry — and the city it calls home.  <a href="https://nyti.ms/3ZLjudz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
