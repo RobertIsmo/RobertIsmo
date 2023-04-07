@@ -60,16 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 6, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. The Biden administration is proposing rules that would give schools flexibility to decide how to handle transgender athletes, with safety and fairness being taken into account. The Supreme Court also recently ruled in favor of a transgender girl who had been banned from playing on the girls&#39; track team, and the US acknowledged that their evacuation from Afghanistan should have started sooner than it did. In Tennessee, a Democratic state lawmaker was expelled from the House based on accusations of misconduct. 
+The US government has just proposed that schools must not &quot;categorically&quot; ban transgender athletes from playing sports, in an effort to increase inclusivity. Meanwhile, the Supreme Court recently ruled in favor of a transgender female athlete, who had been banned from joining the girls&#39; track team at her West Virginia middle school.
 
-Meanwhile, there was a school shooting in Nashville recently that has people questioning the city&#39;s current divisions between left and right, urban and rural, and state and city. The IRS is also coming out with an $80 billion plan to overhaul tax collection. There has been some discussion about tighter rules for ethics after revelations about Clarence Thomas&#39;s undisclosed vacations with a real estate billionaire. And Russia has launched an offensive ran aground after its ambitions never really went anywhere. 
+In other parts of the world, Chinese and French leaders have called for peace talks between Ukraine and Russia, while tensions between the two countries remain high. In Tennessee, two Democratic lawmakers were expelled from the House after a protest over gun control. At the same time, Nashville is grieving over a recent school shooting that has highlighted divisions between rural and urban, left and right.
 
-On top of all this, Donald Trump was just arraigned on criminal charges earlier this week. It&#39;s lifted up a campaign of Yusef Salaam, one of the wrongly imprisoned Central Park Five, who called it “karma” from the former president.</p>
+Back in the US, Donald Trump is still making headlines even though he&#39;s out of office. A federal judge overseeing one of his cases recently objected to his harsh rhetoric towards her family, and Trump&#39;s finances are now being investigated by a former Manhattan prosecutor. The US government recently acknowledged that they should have started evacuating Afghanistan sooner as opposed to when President Biden set to end the war in August. Finally, politicians are calling for tighter ethics codes in light of revelations about Justice Thomas accepting trips from a conservative donor without disclosing them. 
+
+In sports news, Augusta National played an easy opening round of its first Masters Tournament of the LIV Golf era, concluding with three PGA Tour and LIV players tied at the top.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>School Sports Cannot ‘Categorically’ Ban Transgender Athletes, Under Biden Proposal</h3>
-<sub>By Sarah Mervosh and Remy Tumin</sub>
-<p>The proposed rules under Title IX would give schools flexibility for “fairness in competition” or for the possibility that participation could lead to injury.  <a href="https://nyti.ms/3Mi4DnY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>School Sports Cannot ‘Categorically’ Ban Transgender Athletes Under New Biden Proposal</h3>
+<sub>By Sarah Mervosh, Remy Tumin and Ava Sasani</sub>
+<p>It is the first time the administration has substantively weighed in on the charged debate. The proposal gives schools significant leeway to reject the participation of transgender athletes.  <a href="https://nyti.ms/3Mi4DnY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -79,45 +81,9 @@ On top of all this, Donald Trump was just arraigned on criminal charges earlier 
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Acknowledges Afghanistan Evacuation Should Have Started Sooner</h3>
-<sub>By Katie Rogers</sub>
-<p>President Biden’s decision to end a 20-year war in August 2021 led to the swift collapse of the Afghan government and military. His administration has placed heavy blame on his predecessor.  <a href="https://nyti.ms/3ZHqU1D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tennessee House Ousts Democratic Lawmaker: What You Need to Know</h3>
-<sub>By Eliza Fawcett and Emily Cochrane</sub>
-<p>Expulsions from state legislatures have been rare and usually involve accusations of criminal or sexual misconduct.  <a href="https://nyti.ms/3UcyErb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After School Shooting, Nashville Grieves and Ponders Its Divisions</h3>
-<sub>By Richard Fausset</sub>
-<p>For decades, Nashville has prospered while finding common ground between urban and rural, left and right, state and city. In a partisan era, that’s becoming much harder.  <a href="https://nyti.ms/3U6b9A8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>I.R.S. Unveils $80 Billion Plan to Overhaul Tax Collection</h3>
-<sub>By Alan Rappeport</sub>
-<p>The 10-year strategy document outlines a focus on taxpayer services and enforcement efforts on the rich.  <a href="https://nyti.ms/4347cQm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Staring Down a Debt Crisis, McCarthy Toils to Navigate G.O.P. Divisions</h3>
-<sub>By Jonathan Swan and Annie Karni</sub>
-<p>The House speaker has little trust in his Budget Committee chairman or his No. 2 as he works to unite the fractious Republican majority around a spending plan.  <a href="https://nyti.ms/3nVxDYj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lawmakers Call for Tighter Ethics Rules After Revelations About Justice Thomas</h3>
-<sub>By Zach Montague</sub>
-<p>An investigation by ProPublica revealed that Clarence Thomas accompanied Harlan Crow, a conservative donor and real estate billionaire, on a series of luxury vacations almost every year without disclosing them.  <a href="https://nyti.ms/3mdYXk9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Russia’s Offensive Ran Aground</h3>
-<sub>By Josh Holder and Marco Hernandez</sub>
-<p>Whatever happens in Bakhmut, a once-ambitious winter offensive never really went anywhere.  <a href="https://nyti.ms/3nRPEqJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine War Plans Leak Prompts Pentagon Investigation</h3>
+<sub>By Helene Cooper and Eric Schmitt</sub>
+<p>Classified documents detailing secret American and NATO plans have appeared on Twitter and Telegram.  <a href="https://nyti.ms/3ZNyc3R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,16 +92,52 @@ On top of all this, Donald Trump was just arraigned on criminal charges earlier 
 <p>It is not clear that the Chinese and French leaders — much less Russia and Ukraine — have compatible terms for talks or peace, and Mr. Xi has not publicly agreed to pressure Moscow to negotiate.  <a href="https://nyti.ms/3ZOg3Tm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What It Was Like Inside the Courtroom During Trump’s Arraignment</h3>
-<sub>By Jonah E. Bromwich and Nate Schweber</sub>
-<p>Here are some of the most important moments from the hearing where criminal charges against Donald Trump were unveiled.  <a href="https://nyti.ms/3m86u45"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tennessee House Expels 2 Democrats Over Gun Control Protest</h3>
+<sub>By Emily Cochrane and Eliza Fawcett</sub>
+<p>The unseating of the lawmakers threatens to further inflame partisan rancor in a state that is divided over issues like how to respond to a school shooting in Nashville.  <a href="https://nyti.ms/3GphGQR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After School Shooting, Nashville Grieves and Ponders Its Divisions</h3>
+<sub>By Richard Fausset</sub>
+<p>For decades, Nashville has prospered while finding common ground between urban and rural, left and right, state and city. In a partisan era, that’s becoming much harder.  <a href="https://nyti.ms/3U6b9A8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump’s Arrest Lifts Campaign of Man He Once Condemned</h3>
-<sub>By Jeffery C. Mays</sub>
-<p>Yusef Salaam, one of the wrongly imprisoned Central Park Five, is running in a competitive City Council race in Harlem. He described the former president’s indictment as “karma.”  <a href="https://nyti.ms/3K8Dxgk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Dilemma for Judge in Trump Case: Whether to Muzzle the Former President</h3>
+<sub>By Jonah E. Bromwich, William K. Rashbaum and Kate Christobek</sub>
+<p>Justice Juan M. Merchan cautioned Donald Trump against incendiary rhetoric. Then the former president went after the judge’s family.  <a href="https://nyti.ms/3zGnh16"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House G.O.P. Subpoenas Former Manhattan Prosecutor in Move to Defend Trump</h3>
+<sub>By Luke Broadwater</sub>
+<p>The subpoena of Mark Pomerantz, who led the New York investigation into Donald Trump’s finances before resigning in protest, was an escalation of Republican efforts to protect the former president.  <a href="https://nyti.ms/419vZRw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Acknowledges Afghanistan Evacuation Should Have Started Sooner</h3>
+<sub>By Katie Rogers</sub>
+<p>President Biden’s decision to end a 20-year war in August 2021 led to the swift collapse of the Afghan government and military. His administration has placed heavy blame on his predecessor.  <a href="https://nyti.ms/3ZHqU1D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lawmakers Call for Tighter Ethics Code After Revelations About Justice Thomas</h3>
+<sub>By Zach Montague</sub>
+<p>An investigation by ProPublica revealed that Clarence Thomas accompanied Harlan Crow, a conservative donor and real estate billionaire, on a series of luxury vacations without disclosing them.  <a href="https://nyti.ms/3mdYXk9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Strikes Gaza After Being Hit by Militia Rockets From Lebanon</h3>
+<sub>By Patrick Kingsley and Ronen Bergman</sub>
+<p>The Israeli military blamed Palestinian exiles in Lebanon for what appeared to be a retaliatory attack over Israel’s raid of a mosque at a Jerusalem holy site one day earlier.  <a href="https://nyti.ms/4183a82"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Augusta National, Playing Easy for Now, Has Three Atop Masters Leaderboard</h3>
+<sub>By Alan Blinder and Doug Mills</sub>
+<p>The opening round of the first Masters Tournament of the LIV Golf era ended with a blend of PGA Tour and LIV players tied at the top.  <a href="https://nyti.ms/3MqBpn2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
