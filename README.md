@@ -60,22 +60,60 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 7, Central Standard Time</p>
 <p>
-There is a lot happening right now in the United States and around the world. In terms of US news, the Biden administration has proposed limits on trans athletes&#39; participation in school sports. The Supreme Court just recently ruled in favor of a transgender girl wanting to compete on a girls&#39; track team. In Tennessee, Republican lawmakers have thrown out two Democrats from the House in an act of partisan rancor. After a school shooting in Nashville, the city is struggling to reconcile its differences between urban and rural, left and right and state vs. city. Also, there is a Pentagon investigation into classified documents about US and NATO war plans that were leaked on social media. On top of this, there is also an ongoing legal case against former president Donald Trump and debate over how to enforce his ethics code after revelations about Supreme Court Justice Clarence Thomas.
-
-On the sports front, there was an exciting start to the new Masters Golf tournament in Augusta where three players shot 65s. Tiger Woods was also playing with a bad leg and he managed to shoot 74.
-
-Lastly, Mimi Sheraton, an iconic food critic for The New York Times, recently passed away at 97 years of age. She had a long and successful career writing for many different publications.</p>
+There is a lot happening in the world right now. In the US, tensions are high after Tennessee GOP members expelled two Democratic lawmakers, and President Biden proposed limiting trans athletes&#39; participation in school sports. In Israel, there&#39;s been an increase in military activity after rocket fire coming from Lebanon. Across the world, various companies are turning to artificial intelligence and DNA to understand global supply chains better. To top it off, a tech innovator was recently stabbed in San Francisco, raising alarm among tech leaders about the &#39;lawless&#39; state of the city.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Wages May Not Be Inflation’s Cause, but They’re the Focus of the Cure</h3>
+<sub>By Talmon Joseph Smith</sub>
+<p>While fear of a “wage-price spiral” has eased, the Federal Reserve’s course presumes job losses and risks a recession. Some see less painful remedies.  <a href="https://nyti.ms/3KFww84"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Economy May Be Heading to a Place That Must Not Be Named</h3>
+<sub>By Jeff Sommer</sub>
+<p>A hard landing? A banana? Euphemisms for recession have a long history in Washington. Whatever the Fed is stating, it seems to be expecting something ugly, our columnist says.  <a href="https://nyti.ms/3KICfKE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Strikes Back at Lebanon After Rocket Barrage</h3>
+<sub>By Isabel Kershner and Patrick Kingsley</sub>
+<p>Tensions along the border between the two countries have escalated to the highest level in years. On Friday, a shooting attack in the occupied West Bank killed two Israelis.  <a href="https://nyti.ms/3nUKI4n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Suspicions Multiply as Nord Stream Sabotage Remains Unsolved</h3>
+<sub>By Erika Solomon</sub>
+<p>Intelligence leaks surrounding the sabotage of the pipelines have provided more questions than answers. It may be in no one’s interest to reveal more.  <a href="https://nyti.ms/40QseAt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ukraine War Plans Leak Prompts Pentagon Investigation</h3>
+<sub>By Helene Cooper and Eric Schmitt</sub>
+<p>Classified documents detailing secret American and NATO plans have appeared on Twitter and Telegram.  <a href="https://nyti.ms/3ZNyc3R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>In A.I. Race, Microsoft and Google Choose Speed Over Caution</h3>
+<sub>By Nico Grant and Karen Weise</sub>
+<p>Technology companies were once leery of what some artificial intelligence could do. Now the priority is winning control of the industry’s next big thing.  <a href="https://nyti.ms/3KDGuae"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How A.I. and DNA Are Unlocking the Mysteries of Global Supply Chains</h3>
+<sub>By Ana Swanson</sub>
+<p>Firms are turning to advanced technologies to help answer a surprisingly tricky question: Where do products really come from?  <a href="https://nyti.ms/411ev9W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>The Virtual Vet Will See You Meow</h3>
+<sub>By Emily Anthes</sub>
+<p>Veterinary telemedicine could help more pet owners access much-needed care and put anxious animals at ease, but challenges remain.  <a href="https://nyti.ms/3Gnz605"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Plan Allows Limits on Trans Athletes’ Participation in School Sports</h3>
 <sub>By Sarah Mervosh, Remy Tumin and Ava Sasani</sub>
 <p>It is the first time the administration has substantively weighed in on the charged debate. The proposal would also prevent schools from enacting across-the-board bans.  <a href="https://nyti.ms/3Mi4DnY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Rules for Transgender Girl in School Sports Dispute</h3>
-<sub>By Adam Liptak</sub>
-<p>The justices issued a temporary order allowing the girl to compete on the girls’ track team at a West Virginia middle school.  <a href="https://nyti.ms/3UdgjKB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -85,58 +123,16 @@ Lastly, Mimi Sheraton, an iconic food critic for The New York Times, recently pa
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After School Shooting, Nashville Grieves and Ponders Its Divisions</h3>
-<sub>By Richard Fausset</sub>
-<p>For decades, Nashville has prospered while finding common ground between urban and rural, left and right, state and city. In a partisan era, that’s becoming much harder.  <a href="https://nyti.ms/3U6b9A8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine War Plans Leak Prompts Pentagon Investigation</h3>
-<sub>By Helene Cooper and Eric Schmitt</sub>
-<p>Classified documents detailing secret American and NATO plans have appeared on Twitter and Telegram.  <a href="https://nyti.ms/3ZNyc3R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Dilemma for Judge in Trump Case: Whether to Muzzle the Former President</h3>
-<sub>By Jonah E. Bromwich, William K. Rashbaum and Kate Christobek</sub>
-<p>Justice Juan M. Merchan cautioned Donald Trump against incendiary rhetoric. Then the former president went after the judge’s family.  <a href="https://nyti.ms/3zGnh16"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tennessee House Ousts 2 Democratic Lawmakers: What You Need to Know</h3>
+<sub>By Eliza Fawcett and Emily Cochrane</sub>
+<p>The House voted to expel Representatives Justin Jones and Justin J. Pearson. The Republican-controlled chamber fell one vote short of ousting a third lawmaker.  <a href="https://nyti.ms/3UcyErb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House G.O.P. Subpoenas Former Manhattan Prosecutor in Move to Defend Trump</h3>
-<sub>By Luke Broadwater</sub>
-<p>The subpoena of Mark Pomerantz, who led the New York investigation into Donald Trump’s finances before resigning in protest, was an escalation of Republican efforts to protect the former president.  <a href="https://nyti.ms/419vZRw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Acknowledges Afghanistan Evacuation Should Have Started Sooner</h3>
-<sub>By Katie Rogers</sub>
-<p>President Biden’s decision to end a 20-year war in August 2021 led to the swift collapse of the Afghan government and military. His administration has placed heavy blame on his predecessor.  <a href="https://nyti.ms/3ZHqU1D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lawmakers Call for Tighter Ethics Code After Revelations About Justice Thomas</h3>
-<sub>By Zach Montague</sub>
-<p>An investigation by ProPublica revealed that Clarence Thomas accompanied Harlan Crow, a conservative donor and real estate billionaire, on a series of luxury vacations without disclosing them.  <a href="https://nyti.ms/3mdYXk9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Augusta National, Playing Easy for Now, Has Three Atop Leaderboard</h3>
-<sub>By Alan Blinder and Doug Mills</sub>
-<p>Viktor Hovland, Joe Rahm and Brooks Koepka all shot 65s in the opening round of the first Masters of the LIV Golf era.  <a href="https://nyti.ms/3MqBpn2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Tiger Woods, On One Good Leg, Struggles to Shoot 74</h3>
-<sub>By Bill Pennington and Doug Mills</sub>
-<p>There was nothing easy about the first round of Woods’s 25th Masters Tournament on Thursday. He was in pain and limped, laboring up and down Augusta National’s hills.  <a href="https://nyti.ms/3mbQ2jl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Mimi Sheraton, Innovative Food Critic at The New York Times, Dies at 97</h3>
-<sub>By Robert D. McFadden</sub>
-<p>She was the first to wear a disguise in order to get a normal diner’s experience for her Times reviews and worked for many publications in a six-decade career.  <a href="https://nyti.ms/3KHQWh2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<h3>Stabbing of Cash App Creator Raises Alarm, and Claims of ‘Lawless’ San Francisco</h3>
+<sub>By Kate Conger and Shawn Hubler</sub>
+<p>Bob Lee’s death has stirred outrage among tech leaders and comes at a precarious time for the industry — and the city it calls home.  <a href="https://nyti.ms/3ZLjudz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
