@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 6, Central Standard Time</p>
 <p>
-The US government has just proposed that schools must not &quot;categorically&quot; ban transgender athletes from playing sports, in an effort to increase inclusivity. Meanwhile, the Supreme Court recently ruled in favor of a transgender female athlete, who had been banned from joining the girls&#39; track team at her West Virginia middle school.
+Right now, it looks like there&#39;s a lot of division in the United States, between the Republican and Democratic parties, as well as between the urban and rural areas. There&#39;s also an ongoing debate over transgender participation in school sports. On a global level, there are some sensitive military documents that have been leaked on social media. 
 
-In other parts of the world, Chinese and French leaders have called for peace talks between Ukraine and Russia, while tensions between the two countries remain high. In Tennessee, two Democratic lawmakers were expelled from the House after a protest over gun control. At the same time, Nashville is grieving over a recent school shooting that has highlighted divisions between rural and urban, left and right.
+Closer to home, former New York prosecutor Mark Pomerantz is being subpoenaed by House Republicans as part of an effort to protect Donald Trump, who&#39;s already been in some legal trouble after attacking a judge&#39;s family. Meanwhile, there have been revelations of undisclosed luxury vacations taken by Supreme Court Justice Clarence Thomas. 
 
-Back in the US, Donald Trump is still making headlines even though he&#39;s out of office. A federal judge overseeing one of his cases recently objected to his harsh rhetoric towards her family, and Trump&#39;s finances are now being investigated by a former Manhattan prosecutor. The US government recently acknowledged that they should have started evacuating Afghanistan sooner as opposed to when President Biden set to end the war in August. Finally, politicians are calling for tighter ethics codes in light of revelations about Justice Thomas accepting trips from a conservative donor without disclosing them. 
+In other news, after a school shooting in Nashville, people are grappling with the city&#39;s divisions and trying to figure out how to move forward. And over at Augusta National Golf Club in Georgia, Tiger Woods is struggling with a round of golf despite being injured - but three players at the first Masters tournament of 2021 have tied at the top! 
 
-In sports news, Augusta National played an easy opening round of its first Masters Tournament of the LIV Golf era, concluding with three PGA Tour and LIV players tied at the top.</p>
+Finally, there&#39;s been a sad passing: food critic Mimi Sheraton, one of the first to disguise herself for restaurant reviews in The New York Times and overall an influential journalist for six decades, has died at 97.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>School Sports Cannot ‘Categorically’ Ban Transgender Athletes Under New Biden Proposal</h3>
-<sub>By Sarah Mervosh, Remy Tumin and Ava Sasani</sub>
-<p>It is the first time the administration has substantively weighed in on the charged debate. The proposal gives schools significant leeway to reject the participation of transgender athletes.  <a href="https://nyti.ms/3Mi4DnY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Plan Allows Limits on Trans Athletes’ Participation in School Sports</h3>
+<sub></sub>
+<p>It is the first time the administration has substantively weighed in on the charged debate. The proposal would also prevent schools from enacting across-the-board bans.  <a href="https://nyti.ms/3Mi4DnY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,21 +81,9 @@ In sports news, Augusta National played an easy opening round of its first Maste
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine War Plans Leak Prompts Pentagon Investigation</h3>
-<sub>By Helene Cooper and Eric Schmitt</sub>
-<p>Classified documents detailing secret American and NATO plans have appeared on Twitter and Telegram.  <a href="https://nyti.ms/3ZNyc3R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Xi and Macron Call for Ukraine Peace Talks, but the Path Is Murky</h3>
-<sub>By Roger Cohen</sub>
-<p>It is not clear that the Chinese and French leaders — much less Russia and Ukraine — have compatible terms for talks or peace, and Mr. Xi has not publicly agreed to pressure Moscow to negotiate.  <a href="https://nyti.ms/3ZOg3Tm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tennessee House Expels 2 Democrats Over Gun Control Protest</h3>
+<h3>Tennessee G.O.P. Punishes 2 Democrats by Throwing Them Out of House</h3>
 <sub>By Emily Cochrane and Eliza Fawcett</sub>
-<p>The unseating of the lawmakers threatens to further inflame partisan rancor in a state that is divided over issues like how to respond to a school shooting in Nashville.  <a href="https://nyti.ms/3GphGQR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The unseating of the lawmakers threatened to further inflame partisan rancor in a state that is divided over issues like how to respond to a school shooting in Nashville.  <a href="https://nyti.ms/3GphGQR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -103,6 +91,12 @@ In sports news, Augusta National played an easy opening round of its first Maste
 <sub>By Richard Fausset</sub>
 <p>For decades, Nashville has prospered while finding common ground between urban and rural, left and right, state and city. In a partisan era, that’s becoming much harder.  <a href="https://nyti.ms/3U6b9A8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ukraine War Plans Leak Prompts Pentagon Investigation</h3>
+<sub>By Helene Cooper and Eric Schmitt</sub>
+<p>Classified documents detailing secret American and NATO plans have appeared on Twitter and Telegram.  <a href="https://nyti.ms/3ZNyc3R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Dilemma for Judge in Trump Case: Whether to Muzzle the Former President</h3>
@@ -128,16 +122,22 @@ In sports news, Augusta National played an easy opening round of its first Maste
 <p>An investigation by ProPublica revealed that Clarence Thomas accompanied Harlan Crow, a conservative donor and real estate billionaire, on a series of luxury vacations without disclosing them.  <a href="https://nyti.ms/3mdYXk9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Strikes Gaza After Being Hit by Militia Rockets From Lebanon</h3>
-<sub>By Patrick Kingsley and Ronen Bergman</sub>
-<p>The Israeli military blamed Palestinian exiles in Lebanon for what appeared to be a retaliatory attack over Israel’s raid of a mosque at a Jerusalem holy site one day earlier.  <a href="https://nyti.ms/4183a82"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Augusta National, Playing Easy for Now, Has Three Atop Masters Leaderboard</h3>
 <sub>By Alan Blinder and Doug Mills</sub>
 <p>The opening round of the first Masters Tournament of the LIV Golf era ended with a blend of PGA Tour and LIV players tied at the top.  <a href="https://nyti.ms/3MqBpn2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Tiger Woods, On One Good Leg, Struggles to Shoot 74</h3>
+<sub>By Bill Pennington and Doug Mills</sub>
+<p>There was nothing easy about the first round of Woods’s 25th Masters Tournament on Thursday. He was in pain and limped, laboring up and down Augusta National’s hills.  <a href="https://nyti.ms/3mbQ2jl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Mimi Sheraton, Innovative Food Critic at The New York Times, Dies at 97</h3>
+<sub>By Robert D. McFadden</sub>
+<p>She was the first to wear a disguise in order to get a normal diner’s experience for her Times reviews and worked for many publications in a six-decade career.  <a href="https://nyti.ms/3KHQWh2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
