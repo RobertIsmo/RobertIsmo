@@ -58,19 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, April 6, Central Standard Time</p>
+<p>It is Friday, April 7, Central Standard Time</p>
 <p>
-Right now, it looks like there&#39;s a lot of division in the United States, between the Republican and Democratic parties, as well as between the urban and rural areas. There&#39;s also an ongoing debate over transgender participation in school sports. On a global level, there are some sensitive military documents that have been leaked on social media. 
-
-Closer to home, former New York prosecutor Mark Pomerantz is being subpoenaed by House Republicans as part of an effort to protect Donald Trump, who&#39;s already been in some legal trouble after attacking a judge&#39;s family. Meanwhile, there have been revelations of undisclosed luxury vacations taken by Supreme Court Justice Clarence Thomas. 
-
-In other news, after a school shooting in Nashville, people are grappling with the city&#39;s divisions and trying to figure out how to move forward. And over at Augusta National Golf Club in Georgia, Tiger Woods is struggling with a round of golf despite being injured - but three players at the first Masters tournament of 2021 have tied at the top! 
-
-Finally, there&#39;s been a sad passing: food critic Mimi Sheraton, one of the first to disguise herself for restaurant reviews in The New York Times and overall an influential journalist for six decades, has died at 97.</p>
+It looks like the US is dealing with a few different issues. The Biden administration just proposed some limits on transgender athletes&#39; participation in school sports, and the Supreme Court ruled in favor of allowing a transgender girl to join her school&#39;s track team. Meanwhile, Tennessee Republicans just threw out two Democrats from their state House, likely because of differences on policy over their response to a school shooting in Nashville. It&#39;s all part of a growing partisan divide that&#39;s making it harder and harder for areas of common ground to be found. On a more international scale, Pentagon officials are looking into some leaked classified documents that shed light on secret US and NATO plans related to the Ukraine war. Closer to home, there was an ethics controversy surrounding Justice Clarence Thomas that led some lawmakers to call for tighter code after he failed to make his luxury vacation disclosures. If you want something a bit different though, Tiger Woods struggled through the first 18 holes of the Masters golf tournament on one leg, while three golfers tied for the lead at the top of the leaderboard at the end of round one. Also Mimi Sheraton, an innovative food critic who wrote for The New York Times passed away - she was 97.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Plan Allows Limits on Trans Athletes’ Participation in School Sports</h3>
-<sub></sub>
+<sub>By Sarah Mervosh, Remy Tumin and Ava Sasani</sub>
 <p>It is the first time the administration has substantively weighed in on the charged debate. The proposal would also prevent schools from enacting across-the-board bans.  <a href="https://nyti.ms/3Mi4DnY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
