@@ -60,18 +60,48 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 7, Central Standard Time</p>
 <p>
-Things are pretty chaotic right now. In the US, the Biden administration proposed a rule that would allow schools to block some transgender athletes from competing on sports teams, and in Tennessee the GOP retaliated against 2 Democratic lawmakers by trying to kick them out of the House. Around the world, there are heightened tensions between Israel and Lebanon after a rocket barrage and reports of sabotage on several pipelines near Russia that remain unsolved. Business-wise, there&#39;s some concern over wages possibly causing inflation and instability, but then also news about A.I. and DNA being used to unlock supply chain mysteries.</p>
+There has been a lot of news lately about the economy, climate, politics, international relations, and culture. The US jobs report hints at an economic slowdown President Biden will need to navigate. Scientists are looking into ways to reduce emissions through electric vehicles to tackle climate change. Journalists have been placed in difficult positions as they work to report on laws imposed by Vladimir Putin in Russia. Justice Thomas was recently advised he didn&#39;t have to report expensive gifts.  In New York City, there is an identity crisis occurring around a popular Chinese restaurant. Trump is using criminal cases and political pressure to rally support for his campaign while hiring an anti-Muslim activist. Israel recently retaliated against Lebanon after a tense incident at their border and workers are trying to unravel the mysteries of global supply chains with advancements in A.I. and DNA technology. Meanwhile, in spite of international differences on how to handle China, US and Europe leaders still find some common ground. Concerts are finally available again for an unfortunately high cost with complicated registration procedures and scalpers trying to take advantage of fans. And finally, San Francisco is facing concerns about its lawless status after the stabbing death of a tech leader.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wages May Not Be Inflation’s Cause, but They’re the Focus of the Cure</h3>
-<sub>By Talmon Joseph Smith</sub>
-<p>While fear of a “wage-price spiral” has eased, the Federal Reserve’s course presumes job losses and risks a recession. Some see less painful remedies.  <a href="https://nyti.ms/3KFww84"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Latest Jobs Data Hints at a Slowdown That President Biden Needs</h3>
+<sub>By Jim Tankersley</sub>
+<p>Robust growth in jobs has delighted the White House and helped the economy avoid a recession, but it has been accompanied by persistently high inflation.  <a href="https://nyti.ms/3nPyKJ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Calculating the Fastest Road to an Electric Car Future</h3>
+<sub>By Coral Davenport</sub>
+<p>Government scientists have spent a year analyzing electric vehicles to help the E.P.A. design new tailpipe rules to trigger an electric car revolution.  <a href="https://nyti.ms/3KjD5Mf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The jobs report hints at a slowing that President Biden needs.</h3>
-<sub>By Jim Tankersley</sub>
-<p>  <a href="https://nyti.ms/40R61SO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘Chilling Effect’: Arrest of Journalist Makes Covering Russia Even Tougher</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>The detention of the Wall Street Journal reporter Evan Gershkovich poses new obstacles for Western journalists seeking to report on Vladimir V. Putin’s rule.  <a href="https://nyti.ms/3KR3UZX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Thomas Says He Was Advised Lavish Gifts Didn’t Need to Be Reported</h3>
+<sub>By Abbie VanSickle</sub>
+<p>In a statement released by the Supreme Court, the justice said he had followed past guidance from others at the court and believed he was not required to report the trips.  <a href="https://nyti.ms/3Krc2im"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Shun Lee or Not Shun Lee? For Chinese Food Lovers, That Is the Question.</h3>
+<sub>By Katherine Rosman and Justin J Wee</sub>
+<p>An identity crisis involving a vaunted Chinese restaurant and the New Yorkers who love it strikes the Upper West Side.  <a href="https://nyti.ms/3ZQURwj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Bet: Criminal Case Could Help His Campaign, and Vice Versa</h3>
+<sub>By Michael C. Bender</sub>
+<p>The former president aims to apply political pressure to prosecutors — while revving up support for his campaign by portraying himself as a victim of Democratic persecution.  <a href="https://nyti.ms/40OcrCo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Moves to Hire Laura Loomer, Anti-Muslim Activist</h3>
+<sub>By Maggie Haberman and Jonathan Swan</sub>
+<p>The former president recently directed advisers to give Ms. Loomer, who has a long history of bigoted remarks, a role in support of his candidacy, people familiar with the move said.  <a href="https://nyti.ms/3zD0rHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,28 +110,10 @@ Things are pretty chaotic right now. In the US, the Biden administration propose
 <p>Tensions along the border between the two countries have escalated to the highest level in years. On Friday, a shooting attack in the occupied West Bank killed two Israelis.  <a href="https://nyti.ms/3nUKI4n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Suspicions Multiply as Nord Stream Sabotage Remains Unsolved</h3>
-<sub>By Erika Solomon</sub>
-<p>Intelligence leaks surrounding the sabotage of the pipelines have provided more questions than answers. It may be in no one’s interest to reveal more.  <a href="https://nyti.ms/40QseAt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How A.I. and DNA Are Unlocking the Mysteries of Global Supply Chains</h3>
 <sub>By Ana Swanson</sub>
 <p>Firms are turning to advanced technologies to help answer a surprisingly tricky question: Where do products really come from?  <a href="https://nyti.ms/411ev9W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>In A.I. Race, Microsoft and Google Choose Speed Over Caution</h3>
-<sub>By Nico Grant and Karen Weise</sub>
-<p>Technology companies were once leery of what some artificial intelligence could do. Now the priority is winning control of the industry’s next big thing.  <a href="https://nyti.ms/3KDGuae"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>The Virtual Vet Will See You Meow</h3>
-<sub>By Emily Anthes</sub>
-<p>Veterinary telemedicine could help more pet owners access much-needed care and put anxious animals at ease, but challenges remain.  <a href="https://nyti.ms/3Gnz605"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,29 +122,17 @@ Things are pretty chaotic right now. In the US, the Biden administration propose
 <p>The Biden administration says there is “convergence.” But trans-Atlantic leaders adopt different strategies on security and trade issues — including on Ukraine and Taiwan.  <a href="https://nyti.ms/3KniLcS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Plan Allows Limits on Trans Athletes’ Participation in School Sports</h3>
-<sub>By Sarah Mervosh, Remy Tumin and Ava Sasani</sub>
-<p>It is the first time the administration has substantively weighed in on the charged debate. The proposal would also prevent schools from enacting across-the-board bans.  <a href="https://nyti.ms/3Mi4DnY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Title IX and the New Rule on Transgender Athletes Explained</h3>
-<sub>By Remy Tumin</sub>
-<p>The Biden administration proposed a rule change that would allow schools to block some transgender athletes from competing on sports teams that match their gender identities.  <a href="https://nyti.ms/4182wqT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Live Music Is Roaring Back. But Fans Are Reeling From Sticker Shock.</h3>
+<sub>By Ben Sisario</sub>
+<p>Buying concert tickets has become a mess of high prices and surcharges, anxiety-inducing registrations and pervasive scalping as some of pop’s biggest acts hit the road again.  <a href="https://nyti.ms/3MlMTrT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tennessee G.O.P. Punishes 2 Democrats by Throwing Them Out of House</h3>
-<sub>By Emily Cochrane and Eliza Fawcett</sub>
-<p>The unseating of the lawmakers threatened to further inflame partisan rancor in a state that is divided over issues like how to respond to a school shooting in Nashville.  <a href="https://nyti.ms/3GphGQR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tennessee House Ousts 2 Democratic Lawmakers: What You Need to Know</h3>
-<sub>By Eliza Fawcett and Emily Cochrane</sub>
-<p>The House voted to expel Representatives Justin Jones and Justin J. Pearson. The Republican-controlled chamber fell one vote short of ousting a third lawmaker.  <a href="https://nyti.ms/3UcyErb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<h3>Stabbing of Cash App Creator Raises Alarm, and Claims of ‘Lawless’ San Francisco</h3>
+<sub>By Kate Conger and Shawn Hubler</sub>
+<p>Bob Lee’s death has stirred outrage among tech leaders and comes at a precarious time for the industry — and the city it calls home.  <a href="https://nyti.ms/3ZLjudz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
