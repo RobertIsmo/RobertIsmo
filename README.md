@@ -60,24 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 8, Central Standard Time</p>
 <p>
-It looks like there have been a lot of things happening in the world recently! In the US, former President Trump is facing a very different legal challenge in an election interference investigation. There&#39;s also a regulation proposal set to ensure electric cars make up the majority of new US auto sales by 2032. On the health front, there are conflicting rulings on the availability of the abortion pill. And a new batch of classified documents has surfaced online. In terms of international matters, French diplomacy is complicating American efforts to rein in China, while reports of Russian evacuation plans in South Ukraine have emerged. Finally, some Republican politicians are facing backlash, which may propel their expelled counterparts right back into office. Plus, Artificial Intelligence may be having an impact on how we trust media, government and society in general.</p>
+There are a lot of important and significant events happening in the world right now. In the U.S., leaked documents have revealed the depth of intelligence efforts focusing on Russia, as well as details about eavesdropping on allies; former President Trump has been indicted in Georgia for election interference; and youth activists have achieved victories in several states. On the international stage, French diplomacy has undercut U.S. attempts to rein China in, Russia is reportedly preparing to evacuate civilians from South Ukraine, and there has been a firestorm over two liberal lawmakers being expelled from Nashville. We&#39;re also seeing new proposed climate regulations designed to ensure electric cars become the majority of US auto sales by 2032, while scientists are conducting research into electric vehicles. Finally, experts are raising concerns about whether we can trust images created by artificial intelligence as this could be eroding trust in media, government and society.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Looms Next After Trump’s Indictment in New York</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>Former President Donald J. Trump now faces a very different legal challenge in the culmination of a more than two-year Atlanta investigation into election interference.  <a href="https://nyti.ms/3KJhvCs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Leaked Documents Reveal Depth of U.S. Spy Efforts and Russia’s Military Struggles</h3>
+<sub>By Julian E. Barnes, Helene Cooper, Thomas Gibbons-Neff, Michael Schwirtz and Eric Schmitt</sub>
+<p>The information, exposed on social media sites, also shows that U.S. intelligence services are eavesdropping on important allies.  <a href="https://nyti.ms/4199KuO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Next Legal Threat Could Be in Georgia. That May Be Tricky for Federal Prosecutors.</h3>
-<sub>By Glenn Thrush, Danny Hakim and Adam Goldman</sub>
-<p>The concurrent investigations create complications for separate teams relying on similar evidence, some of the same criminal targets and a small, shared pool of witnesses.  <a href="https://nyti.ms/3GP2Zqv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>French Diplomacy Undercuts U.S. Efforts to Rein China In</h3>
+<sub>By Roger Cohen</sub>
+<p>Allies don’t always see things the same way, as Emmanuel Macron’s cozy visit to Xi Jinping made abundantly clear.  <a href="https://nyti.ms/3Kj18uR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Says Russia Is Preparing to Evacuate Civilians From Occupied Areas of South</h3>
+<sub>By Matthew Mpoke Bigg and Yurii Shyvala</sub>
+<p>Ukraine is widely expected to launch a counteroffensive in the coming weeks to recapture territory from Russian forces. Some Ukrainian officials say it could focus on the south of the country.  <a href="https://nyti.ms/43fw8Ey"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>E.P.A. Is Said to Propose Rules Meant to Drive Up Electric Car Sales Tenfold</h3>
 <sub>By Coral Davenport</sub>
 <p>In what would be the nation’s most ambitious climate regulation, the proposal is designed to ensure that electric cars make up the majority of new U.S. auto sales by 2032.  <a href="https://nyti.ms/3GscAmT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Calculating the Fastest Road to an Electric Car Future</h3>
+<sub>By Coral Davenport</sub>
+<p>Government scientists have spent a year analyzing electric vehicles to help the E.P.A. design new tailpipe rules to trigger an electric car revolution.  <a href="https://nyti.ms/3KjD5Mf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Georgia Looms Next After Trump’s Indictment in New York</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Former President Donald J. Trump now faces a very different legal challenge in the culmination of a more than two-year Atlanta investigation into election interference.  <a href="https://nyti.ms/3KJhvCs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -98,40 +116,22 @@ It looks like there have been a lot of things happening in the world recently! I
 <p>The Times reviewed 101 studies of medication abortion, spanning continents and decades. All concluded that the pills are a safe method for terminating a pregnancy.  <a href="https://nyti.ms/3K3AllX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>French Diplomacy Undercuts U.S. Efforts to Rein China In</h3>
-<sub>By Roger Cohen</sub>
-<p>Allies don’t always see things the same way, as Emmanuel Macron’s cozy visit to Xi Jinping made abundantly clear.  <a href="https://nyti.ms/3Kj18uR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Week of Youthful Activism Sends Out Political Shockwaves</h3>
+<sub>By Jonathan Weisman</sub>
+<p>After Donald Trump’s indictment on Tuesday, progressives cemented two crucial victories in Wisconsin and Chicago, and, in Nashville, a firestorm erupted after the expulsion of two liberal lawmakers.  <a href="https://nyti.ms/3mkYiNO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New Batch of Classified Documents Appears on Social Media Sites</h3>
-<sub>By Helene Cooper, Julian E. Barnes, Eric Schmitt and Thomas Gibbons-Neff</sub>
-<p>Secret documents that appear to detail American national security secrets on Ukraine, the Middle East and China have surfaced online.  <a href="https://nyti.ms/3mjDdTW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Says Russia Is Preparing to Evacuate Civilians From Occupied Areas of South</h3>
-<sub>By Matthew Mpoke Bigg and Yurii Shyvala</sub>
-<p>Ukraine is widely expected to launch a counteroffensive in the coming weeks to recapture territory from Russian forces. Some Ukrainian officials say it could focus on the south of the country.  <a href="https://nyti.ms/43fw8Ey"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For DeSantis, Overflowing War Chest Obscures the Challenges Ahead</h3>
+<sub>By Rebecca Davis O’Brien</sub>
+<p>As he prepares for a widely expected 2024 campaign, the Florida governor has at least $110 million in allied committees. But he will also have to navigate a series of financial and political hurdles.  <a href="https://nyti.ms/3KIo3Rv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Outrage at G.O.P. Could Propel Expelled Democrats Right Back to House</h3>
-<sub>By Eliza Fawcett and Rick Rojas</sub>
-<p>A day after two young Black lawmakers were expelled from the Tennessee legislature, momentum was building to reappoint them directly back to their seats.  <a href="https://nyti.ms/43guORN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Can We No Longer Believe Anything We See?</h3>
 <sub>By Tiffany Hsu and Steven Lee Myers</sub>
 <p>Human eyes — and even technology — often struggle to identify images created by artificial intelligence. Experts fear that may hasten an erosion of trust in media, in government and in society.  <a href="https://nyti.ms/3mkZmkX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Why Pope Francis Is the Star of A.I.-Generated Photos</h3>
-<sub>By Kalley Huang</sub>
-<p>Francis has become a recurring favorite to show in incongruous situations, such as riding a motorcycle and attending Burning Man, in A.I.-generated images.  <a href="https://nyti.ms/3GrCZBh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
