@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 8, Central Standard Time</p>
 <p>
-There are a lot of important and significant events happening in the world right now. In the U.S., leaked documents have revealed the depth of intelligence efforts focusing on Russia, as well as details about eavesdropping on allies; former President Trump has been indicted in Georgia for election interference; and youth activists have achieved victories in several states. On the international stage, French diplomacy has undercut U.S. attempts to rein China in, Russia is reportedly preparing to evacuate civilians from South Ukraine, and there has been a firestorm over two liberal lawmakers being expelled from Nashville. We&#39;re also seeing new proposed climate regulations designed to ensure electric cars become the majority of US auto sales by 2032, while scientists are conducting research into electric vehicles. Finally, experts are raising concerns about whether we can trust images created by artificial intelligence as this could be eroding trust in media, government and society.</p>
+There have recently been some major developments in world politics. In the United States, leaked documents revealed the depth of US intelligence efforts and Russia&#39;s military struggles, while French diplomacy has undercut US efforts to rein in China. In Ukraine, Russia is preparing to evacuate civilians from occupied areas of the south. 
+On the environmental front, US regulators proposed rules meant to drive up electric car sales tenfold, and scientists calculated the fastest road to an electric car future. 
+In terms of domestic politics, Donald Trump was indicted in Georgia and abortion pill regulations are being challenged. Youthful activism is sending out political shockwaves while Florida Governor Ron DeSantis is obtaining a large campaign fund for potential 2024 presidential run. Pop culture has been significantly impacted by Covid-19; AI images are eroding trust in media, government and society overall. Finally, certain cultural moments have been defined by this pandemic era that will be forever remembered.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Leaked Documents Reveal Depth of U.S. Spy Efforts and Russia’s Military Struggles</h3>
@@ -99,22 +101,16 @@ There are a lot of important and significant events happening in the world right
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Judge Invalidates F.D.A. Approval of the Abortion Pill Mifepristone</h3>
+<h3>Two Federal Judges Issued Opposing Rulings on Abortion Pills. Here’s What’s Going On.</h3>
 <sub>By Pam Belluck</sub>
-<p>The Texas judge’s ruling was quickly contradicted by another federal judge in Washington State who ordered the F.D.A. to keep mifepristone available.  <a href="https://nyti.ms/3UkQOa7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<p>One invalidated the F.D.A.’s approval of the abortion pill mifepristone. The other ordered the F.D.A. to do nothing to restrict the pill’s availability.  <a href="https://nyti.ms/418Gkgo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Reaction to Texas Abortion Pill Ruling: Outrage, and Muted Praise</h3>
-<sub>By Maggie Astor and David W. Chen</sub>
-<p>Democrats and abortion-rights leaders said the decision could be a catastrophe and used the moment to criticize Republicans, who remained relatively quiet on Friday.  <a href="https://nyti.ms/3zFvEdl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Are Abortion Pills Safe? Here’s the Evidence.</h3>
-<sub>By Amy Schoenfeld Walker, Jonathan Corum, Malika Khurana and Ashley Wu</sub>
-<p>The Times reviewed 101 studies of medication abortion, spanning continents and decades. All concluded that the pills are a safe method for terminating a pregnancy.  <a href="https://nyti.ms/3K3AllX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<h3>Where Restrictions on Abortion Pills Could Matter Most in the U.S.</h3>
+<sub>By Allison McCann and Amy Schoenfeld Walker</sub>
+<p>A lawsuit is challenging the F.D.A.’s approval of medication abortion. Data shows the consequences could be far-reaching.  <a href="https://nyti.ms/3IFJ5Ox"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Week of Youthful Activism Sends Out Political Shockwaves</h3>
@@ -132,6 +128,12 @@ There are a lot of important and significant events happening in the world right
 <h3>Can We No Longer Believe Anything We See?</h3>
 <sub>By Tiffany Hsu and Steven Lee Myers</sub>
 <p>Human eyes — and even technology — often struggle to identify images created by artificial intelligence. Experts fear that may hasten an erosion of trust in media, in government and in society.  <a href="https://nyti.ms/3mkZmkX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>17 Pop Culture Moments That Define The Covid Era</h3>
+<sub></sub>
+<p>These are the cultural moments we will forever associate with the past three years.  <a href="https://nyti.ms/3ZTfrw3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
