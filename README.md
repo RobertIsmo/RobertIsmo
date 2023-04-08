@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 8, Central Standard Time</p>
 <p>
-There has been a lot in the news recently about abortion rights and the future of access for abortions in the US. In some cases, the courts have ruled on abortion cases that could make it more difficult for patients to get them. Medication abortions are increasing in popularity, both here in the US and around the world. At the same time, there have been new classified documents emerging online with American national security secrets - and an American reporter was detained in Russia on suspicion of espionage. 
-
-Back in the US, there is outrage at the recent decision to expel two Black lawmakers from their Tennessee legislature seats, while efforts are underway to protect transgender athletes as multiple states move to revoke them. Meanwhile, Trump&#39;s next potential legal threat could be in Georgia and he&#39;s betting that his criminal case could help his campaign by portraying himself as a victim of Democratic persecution. In other news related to the Supreme Court, Justice Thomas recently stated that he was not previously aware that lavish gifts needed to be reported according to new guidelines. 
-
-In an effort to create an electric car revolution, EPA scientists have also spent a year analyzing electric vehicles.</p>
+Lots of news is happening right now, particularly around the US. Former President Donald Trump is facing a legal challenge in Georgia after an investigation into election interference. Meanwhile, there was an abortion pill ruling in Texas that has sparked outrage from Democrats, while another federal judge ruled differently in Washington State to keep the abortion pill available. This is all part of a larger discussion on abortion pills and how safe they are. Additionally, some classified documents regarding national security have emerged online and Ukraine believes Russia is readying to evacuate civilians from occupied areas of the South. Outrage at the GOP in Tennessee has been followed by momentum to appoint two young Black lawmakers expelled from the legislature back to their seats. Finally, A.I.-generated images (of Pope Francis!) are putting trust in media and the government into question.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Georgia Looms Next After Trump’s Indictment in New York</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Former President Donald J. Trump now faces a very different legal challenge in the culmination of a more than two-year Atlanta investigation into election interference.  <a href="https://nyti.ms/3KJhvCs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Next Legal Threat Could Be in Georgia. That May Be Tricky for Federal Prosecutors.</h3>
+<sub>By Glenn Thrush, Danny Hakim and Adam Goldman</sub>
+<p>The concurrent investigations create complications for separate teams relying on similar evidence, some of the same criminal targets and a small, shared pool of witnesses.  <a href="https://nyti.ms/3GP2Zqv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Judge Invalidates F.D.A. Approval of the Abortion Pill Mifepristone</h3>
 <sub>By Pam Belluck</sub>
@@ -78,11 +86,11 @@ In an effort to create an electric car revolution, EPA scientists have also spen
 <p>Judge Matthew J. Kacsmaryk issued a preliminary ruling in a closely watched Texas case that could make it harder for patients to get abortions throughout the country.  <a href="https://nyti.ms/3zDOJwG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Medication Abortions Are Increasing: What They Are and Where Women Get Them</h3>
-<sub>By Claire Cain Miller and Margot Sanger-Katz</sub>
-<p>Most abortions overseas involve pills, and the method is used in about half of legal U.S. abortions. It also seems to be the future of illicit abortion.  <a href="https://nyti.ms/3smppYL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Reaction to Texas Abortion Pill Ruling: Outrage, and Muted Praise</h3>
+<sub>By Maggie Astor and David W. Chen</sub>
+<p>Democrats and abortion-rights leaders said the decision could be a catastrophe and used the moment to criticize Republicans, who remained relatively quiet on Friday.  <a href="https://nyti.ms/3zFvEdl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Are Abortion Pills Safe? Here’s the Evidence.</h3>
@@ -97,10 +105,10 @@ In an effort to create an electric car revolution, EPA scientists have also spen
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia formally charges detained American reporter with espionage, according to state media.</h3>
-<sub>By Neil MacFarquhar</sub>
-<p>Evan Gershkovich, a reporter for The Wall Street Journal, was detained last week. The Journal and U.S. officials have vehemently rejected the Russian authorities’ allegations against him.  <a href="https://nyti.ms/40RJzJd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<h3>Ukraine Says Russia Is Preparing to Evacuate Civilians From Occupied Areas of South</h3>
+<sub>By Matthew Mpoke Bigg and Yurii Shyvala</sub>
+<p>Ukraine is widely expected to launch a counteroffensive in the coming weeks to recapture territory from Russian forces. Some Ukrainian officials say it could focus on the south of the country.  <a href="https://nyti.ms/43fw8Ey"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Outrage at G.O.P. Could Propel Expelled Democrats Right Back to House</h3>
@@ -108,34 +116,22 @@ In an effort to create an electric car revolution, EPA scientists have also spen
 <p>A day after two young Black lawmakers were expelled from the Tennessee legislature, momentum was building to reappoint them directly back to their seats.  <a href="https://nyti.ms/43guORN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Can We No Longer Believe Anything We See?</h3>
+<sub>By Tiffany Hsu and Steven Lee Myers</sub>
+<p>Human eyes — and even technology — often struggle to identify images created by artificial intelligence. Experts fear that may hasten an erosion of trust in media, in government and in society.  <a href="https://nyti.ms/3mkZmkX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Why Pope Francis Is the Star of A.I.-Generated Photos</h3>
+<sub>By Kalley Huang</sub>
+<p>Francis has become a recurring favorite to show in incongruous situations, such as riding a motorcycle and attending Burning Man, in A.I.-generated images.  <a href="https://nyti.ms/3GrCZBh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Plan for Transgender Title IX Rules Began on Inauguration Day</h3>
 <sub>By Katie Rogers</sub>
 <p>Officials were working on a plan to protect transgender athletes since the day the president was sworn in. In recent months, they raced to issue protections as states moved to revoke them.  <a href="https://nyti.ms/3ZRwlef"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Next Legal Threat Could Be in Georgia. That May Be Tricky for Federal Prosecutors.</h3>
-<sub>By Glenn Thrush, Danny Hakim and Adam Goldman</sub>
-<p>The concurrent investigations create complications for separate teams relying on similar evidence, some of the same criminal targets and a small, shared pool of witnesses.  <a href="https://nyti.ms/3GP2Zqv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Bet: Criminal Case Could Help His Campaign, and Vice Versa</h3>
-<sub>By Michael C. Bender</sub>
-<p>The former president aims to apply political pressure to prosecutors — while revving up support for his campaign by portraying himself as a victim of Democratic persecution.  <a href="https://nyti.ms/40OcrCo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Thomas Says He Was Advised Lavish Gifts Did Not Need to Be Reported</h3>
-<sub>By Abbie VanSickle</sub>
-<p>In a statement, the justice said that he had followed past guidance from others at the court, but that he would now comply with new guidelines and disclose gifts and free travel.  <a href="https://nyti.ms/3Krc2im"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Calculating the Fastest Road to an Electric Car Future</h3>
-<sub>By Coral Davenport</sub>
-<p>Government scientists have spent a year analyzing electric vehicles to help the E.P.A. design new tailpipe rules to trigger an electric car revolution.  <a href="https://nyti.ms/3KjD5Mf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
