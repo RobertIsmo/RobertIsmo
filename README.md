@@ -60,48 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 7, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In the US, tensions remain high between Republicans and Democrats, with momentum building to put two recently expelled young Black lawmakers back into their seats. Meanwhile, scientists are working to trigger an electric car revolution as part of an effort to combat climate change. On the economic front, President Biden is trying to make the case for stability despite slower job growth while unemployment rates remain low. Overseas, there is a ongoing identity crisis in China surrounding a vaunted Chinese restaurant and journalist covering Russia are facing challenges due to government pressures. Meanwhile, tensions have been rising in the Middle East between Israel and Lebanon, and US and Europe have adopted different strategies when it comes to handling issues like security and trade with China. Former president Trump is aiming to apply political pressure even as he continues to face backlash for his past actions.</p>
+There&#39;s been a lot going on in the world lately. A judge in Texas invalidated the FDA&#39;s approval of the abortion pill, mifepristone, but another federal judge in Washington State ordered the FDA to keep the medicine available. Meanwhile, investigations into Donald Trump&#39;s business dealings have been heating up and have led to a few criminal charges. The former president is also trying to pressure federal prosecutors while revving up support for his campaign by depicting himself as a victim of Democratic persecution. On top of that, Russia has formally charged an American reporter with espionage - though U.S. officials are vehemently rejecting the allegations against him. There&#39;s also a dispute over some classified documents that have surfaced online, as well as a crisis involving a Chinese restaurant on the Upper West Side of Manhattan. Finally, U.S. Supreme Court Justice Thomas recently reported that he had taken lavish gifts without reporting them - though he has stated he will comply with new guidelines and disclose them going forward.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Outrage at G.O.P. Could Propel Expelled Democrats Right Back to House</h3>
-<sub>By Eliza Fawcett and Rick Rojas</sub>
-<p>A day after two young Black lawmakers were expelled from the Tennessee legislature, momentum was building to reappoint them directly back to their seats.  <a href="https://nyti.ms/43guORN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Calculating the Fastest Road to an Electric Car Future</h3>
-<sub>By Coral Davenport</sub>
-<p>Government scientists have spent a year analyzing electric vehicles to help the E.P.A. design new tailpipe rules to trigger an electric car revolution.  <a href="https://nyti.ms/3KjD5Mf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Jobs Report Bolsters Biden’s Economic Pitch, but Inflation Still Nags</h3>
-<sub>By Jim Tankersley</sub>
-<p>The president is framing slower employment growth as the basis of a new stability, not a harbinger of hard times.  <a href="https://nyti.ms/3nPyKJ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Job Growth Eases, but Extends Its Streak</h3>
-<sub>By Lydia DePillis</sub>
-<p>Employers added 236,000 jobs as the Federal Reserve’s interest-rate increases appeared to take a toll. The unemployment rate fell to 3.5 percent.  <a href="https://nyti.ms/3ZTz7jf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Judge Invalidates F.D.A. Approval of the Abortion Pill Mifepristone</h3>
+<sub>By Pam Belluck</sub>
+<p>The Texas judge’s ruling was quickly contradicted by another federal judge in Washington State who ordered the F.D.A. to keep mifepristone available.  <a href="https://nyti.ms/3UkQOa7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Thomas Says He Was Advised Lavish Gifts Didn’t Need to Be Reported</h3>
+<h3>For Texas Judge in Abortion Case, a Life Shaped by Conservative Causes</h3>
 <sub>By Abbie VanSickle</sub>
-<p>In a statement released by the Supreme Court, the justice said he had followed past guidance from others at the court and believed he was not required to report the trips.  <a href="https://nyti.ms/3Krc2im"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Judge Matthew J. Kacsmaryk issued a preliminary ruling in a closely watched Texas case that could make it harder for patients to get abortions throughout the country.  <a href="https://nyti.ms/3zDOJwG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Shun Lee or Not Shun Lee? For Chinese Food Lovers, That Is the Question.</h3>
-<sub>By Katherine Rosman and Justin J Wee</sub>
-<p>An identity crisis involving a vaunted Chinese restaurant and the New Yorkers who love it strikes the Upper West Side.  <a href="https://nyti.ms/3ZQURwj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Medication Abortions Are Increasing: What They Are and Where Women Get Them</h3>
+<sub>By Claire Cain Miller and Margot Sanger-Katz</sub>
+<p>Most abortions overseas involve pills, and the method is used in about half of legal U.S. abortions. It also seems to be the future of illicit abortion.  <a href="https://nyti.ms/3smppYL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘Chilling Effect’: Arrest of Journalist Makes Covering Russia Even Tougher</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>The detention of the Wall Street Journal reporter Evan Gershkovich poses new obstacles for Western journalists seeking to report on Vladimir V. Putin’s rule.  <a href="https://nyti.ms/3KR3UZX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Are Abortion Pills Safe? Here’s the Evidence.</h3>
+<sub>By Amy Schoenfeld Walker, Jonathan Corum, Malika Khurana and Ashley Wu</sub>
+<p>The Times reviewed 101 studies of medication abortion, spanning continents and decades. All concluded that the pills are a safe method for terminating a pregnancy.  <a href="https://nyti.ms/3K3AllX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>New Batch of Classified Documents Appears on Social Media Sites</h3>
+<sub>By Helene Cooper, Julian E. Barnes, Eric Schmitt and Thomas Gibbons-Neff</sub>
+<p>Secret documents that appear to detail American national security secrets on Ukraine, the Middle East and China have surfaced online.  <a href="https://nyti.ms/3mjDdTW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -111,27 +99,39 @@ There is a lot going on around the world right now. In the US, tensions remain h
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Outrage at G.O.P. Could Propel Expelled Democrats Right Back to House</h3>
+<sub>By Eliza Fawcett and Rick Rojas</sub>
+<p>A day after two young Black lawmakers were expelled from the Tennessee legislature, momentum was building to reappoint them directly back to their seats.  <a href="https://nyti.ms/43guORN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Plan for Transgender Title IX Protections Began on Inauguration Day</h3>
+<sub>By Katie Rogers</sub>
+<p>Officials were working on a plan to protect transgender athletes since the day the president was sworn in. In recent months, they raced to issue protections as states moved to revoke them.  <a href="https://nyti.ms/3ZRwlef"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Shun Lee or Not Shun Lee? For Chinese Food Lovers, That Is the Question.</h3>
+<sub>By Katherine Rosman and Justin J Wee</sub>
+<p>An identity crisis involving a vaunted Chinese restaurant and the New Yorkers who love it strikes the Upper West Side.  <a href="https://nyti.ms/3ZQURwj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Next Legal Threat Could Be in Georgia. That May Be Tricky for Federal Prosecutors.</h3>
+<sub>By Glenn Thrush, Danny Hakim and Adam Goldman</sub>
+<p>The concurrent investigations create complications for separate teams relying on similar evidence, some of the same criminal targets and a small, shared pool of witnesses.  <a href="https://nyti.ms/3GP2Zqv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s Bet: Criminal Case Could Help His Campaign, and Vice Versa</h3>
 <sub>By Michael C. Bender</sub>
 <p>The former president aims to apply political pressure to prosecutors — while revving up support for his campaign by portraying himself as a victim of Democratic persecution.  <a href="https://nyti.ms/40OcrCo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Wanted to Hire Laura Loomer, Anti-Muslim Activist</h3>
-<sub>By Maggie Haberman and Jonathan Swan</sub>
-<p>The former president’s aides feared that hiring Ms. Loomer, who has a long history of bigoted remarks, would set off a backlash. That proved to be correct.  <a href="https://nyti.ms/3zD0rHV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Tensions Subside in South Lebanon but Rise Again in West Bank and Israel</h3>
-<sub>By Patrick Kingsley and Isabel Kershner</sub>
-<p>Rare cross-border fire between Israel and militias in Lebanon ebbed on Friday, lowering fears of a wider escalation. But violence flared again in Israel and the Israeli-occupied West Bank, where two attacks killed three civilians.  <a href="https://nyti.ms/3nUKI4n"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Dealing With China, U.S. and Europe Take Different Tacks</h3>
-<sub>By Edward Wong</sub>
-<p>The Biden administration says there is “convergence.” But trans-Atlantic leaders adopt different strategies on security and trade issues — including on Ukraine and Taiwan.  <a href="https://nyti.ms/3KniLcS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Justice Thomas Says He Was Advised Lavish Gifts Did Not Need to Be Reported</h3>
+<sub>By Abbie VanSickle</sub>
+<p>In a statement, the justice said that he had followed past guidance from others at the court, but that he would now comply with new guidelines and disclose gifts and free travel.  <a href="https://nyti.ms/3Krc2im"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
