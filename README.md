@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 8, Central Standard Time</p>
 <p>
-Lots of news is happening right now, particularly around the US. Former President Donald Trump is facing a legal challenge in Georgia after an investigation into election interference. Meanwhile, there was an abortion pill ruling in Texas that has sparked outrage from Democrats, while another federal judge ruled differently in Washington State to keep the abortion pill available. This is all part of a larger discussion on abortion pills and how safe they are. Additionally, some classified documents regarding national security have emerged online and Ukraine believes Russia is readying to evacuate civilians from occupied areas of the South. Outrage at the GOP in Tennessee has been followed by momentum to appoint two young Black lawmakers expelled from the legislature back to their seats. Finally, A.I.-generated images (of Pope Francis!) are putting trust in media and the government into question.</p>
+It looks like there have been a lot of things happening in the world recently! In the US, former President Trump is facing a very different legal challenge in an election interference investigation. There&#39;s also a regulation proposal set to ensure electric cars make up the majority of new US auto sales by 2032. On the health front, there are conflicting rulings on the availability of the abortion pill. And a new batch of classified documents has surfaced online. In terms of international matters, French diplomacy is complicating American efforts to rein in China, while reports of Russian evacuation plans in South Ukraine have emerged. Finally, some Republican politicians are facing backlash, which may propel their expelled counterparts right back into office. Plus, Artificial Intelligence may be having an impact on how we trust media, government and society in general.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Georgia Looms Next After Trump’s Indictment in New York</h3>
@@ -74,16 +74,16 @@ Lots of news is happening right now, particularly around the US. Former Presiden
 <p>The concurrent investigations create complications for separate teams relying on similar evidence, some of the same criminal targets and a small, shared pool of witnesses.  <a href="https://nyti.ms/3GP2Zqv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>E.P.A. Is Said to Propose Rules Meant to Drive Up Electric Car Sales Tenfold</h3>
+<sub>By Coral Davenport</sub>
+<p>In what would be the nation’s most ambitious climate regulation, the proposal is designed to ensure that electric cars make up the majority of new U.S. auto sales by 2032.  <a href="https://nyti.ms/3GscAmT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Judge Invalidates F.D.A. Approval of the Abortion Pill Mifepristone</h3>
 <sub>By Pam Belluck</sub>
 <p>The Texas judge’s ruling was quickly contradicted by another federal judge in Washington State who ordered the F.D.A. to keep mifepristone available.  <a href="https://nyti.ms/3UkQOa7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Texas Judge in Abortion Case, a Life Shaped by Conservative Causes</h3>
-<sub>By Abbie VanSickle</sub>
-<p>Judge Matthew J. Kacsmaryk issued a preliminary ruling in a closely watched Texas case that could make it harder for patients to get abortions throughout the country.  <a href="https://nyti.ms/3zDOJwG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -97,6 +97,12 @@ Lots of news is happening right now, particularly around the US. Former Presiden
 <sub>By Amy Schoenfeld Walker, Jonathan Corum, Malika Khurana and Ashley Wu</sub>
 <p>The Times reviewed 101 studies of medication abortion, spanning continents and decades. All concluded that the pills are a safe method for terminating a pregnancy.  <a href="https://nyti.ms/3K3AllX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>French Diplomacy Undercuts U.S. Efforts to Rein China In</h3>
+<sub>By Roger Cohen</sub>
+<p>Allies don’t always see things the same way, as Emmanuel Macron’s cozy visit to Xi Jinping made abundantly clear.  <a href="https://nyti.ms/3Kj18uR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>New Batch of Classified Documents Appears on Social Media Sites</h3>
@@ -127,12 +133,6 @@ Lots of news is happening right now, particularly around the US. Former Presiden
 <sub>By Kalley Huang</sub>
 <p>Francis has become a recurring favorite to show in incongruous situations, such as riding a motorcycle and attending Burning Man, in A.I.-generated images.  <a href="https://nyti.ms/3GrCZBh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Plan for Transgender Title IX Rules Began on Inauguration Day</h3>
-<sub>By Katie Rogers</sub>
-<p>Officials were working on a plan to protect transgender athletes since the day the president was sworn in. In recent months, they raced to issue protections as states moved to revoke them.  <a href="https://nyti.ms/3ZRwlef"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
