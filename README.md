@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 7, Central Standard Time</p>
 <p>
-There&#39;s been a lot going on in the world lately. A judge in Texas invalidated the FDA&#39;s approval of the abortion pill, mifepristone, but another federal judge in Washington State ordered the FDA to keep the medicine available. Meanwhile, investigations into Donald Trump&#39;s business dealings have been heating up and have led to a few criminal charges. The former president is also trying to pressure federal prosecutors while revving up support for his campaign by depicting himself as a victim of Democratic persecution. On top of that, Russia has formally charged an American reporter with espionage - though U.S. officials are vehemently rejecting the allegations against him. There&#39;s also a dispute over some classified documents that have surfaced online, as well as a crisis involving a Chinese restaurant on the Upper West Side of Manhattan. Finally, U.S. Supreme Court Justice Thomas recently reported that he had taken lavish gifts without reporting them - though he has stated he will comply with new guidelines and disclose them going forward.</p>
+Recently, there&#39;s been a lot of news about abortion rights in the US because a judge invalidated the FDA&#39;s approval for the abortion pill mifepristone, but then another judge ordered the FDA to keep it available. In Tennessee two young Black lawmakers were expelled from the state legislature, but there&#39;s now momentum building to reappoint them back to their seats. Meanwhile, President Biden has begun a plan to protect transgender athletes from discrimination and restrictions.
+
+Closer to home, New Yorkers have been debating an identity crisis involving an iconic Chinese restaurant in the Upper West Side. And then Trump is still making headlines, with potential legal threats in Georgia and the possibility of his criminal case helping his campaign. Justice Thomas also just revealed that he was advised not to report lavish gifts he received, but will now comply with new guidelines.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Judge Invalidates F.D.A. Approval of the Abortion Pill Mifepristone</h3>
@@ -105,7 +107,7 @@ There&#39;s been a lot going on in the world lately. A judge in Texas invalidate
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Plan for Transgender Title IX Protections Began on Inauguration Day</h3>
+<h3>Biden Plan for Transgender Title IX Rules Began on Inauguration Day</h3>
 <sub>By Katie Rogers</sub>
 <p>Officials were working on a plan to protect transgender athletes since the day the president was sworn in. In recent months, they raced to issue protections as states moved to revoke them.  <a href="https://nyti.ms/3ZRwlef"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
