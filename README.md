@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, April 7, Central Standard Time</p>
+<p>It is Saturday, April 8, Central Standard Time</p>
 <p>
-Recently, there&#39;s been a lot of news about abortion rights in the US because a judge invalidated the FDA&#39;s approval for the abortion pill mifepristone, but then another judge ordered the FDA to keep it available. In Tennessee two young Black lawmakers were expelled from the state legislature, but there&#39;s now momentum building to reappoint them back to their seats. Meanwhile, President Biden has begun a plan to protect transgender athletes from discrimination and restrictions.
-
-Closer to home, New Yorkers have been debating an identity crisis involving an iconic Chinese restaurant in the Upper West Side. And then Trump is still making headlines, with potential legal threats in Georgia and the possibility of his criminal case helping his campaign. Justice Thomas also just revealed that he was advised not to report lavish gifts he received, but will now comply with new guidelines.</p>
+Right now, a lot of contentious issues related to politics and social rights are coming up. In the US, two young Black lawmakers were recently expelled from the Tennessee legislature and there&#39;s momentum to reappoint them directly back to their seats. Also, the Supreme Court Justice Thomas recently revealed he was advised not to report some lavish gifts he received, but has since decided to comply with new guidelines. Meanwhile, the US Justice Department is facing challenges in pursuing lawsuits against former President Trump simultaneously and documents containing national security secrets were released online. On a different note, electric car revolution is being advocated by the E.P.A. with government scientists putting together new rules related to tailpipe regulations. On the health front, a Texas judge ruled against the federal approval of abortion pill mifepristone, which was however soon overturned by another judge from Washington State. Lastly, studies have concluded that abortions through pills are safe regardless of where they occur.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Judge Invalidates F.D.A. Approval of the Abortion Pill Mifepristone</h3>
@@ -112,12 +110,6 @@ Closer to home, New Yorkers have been debating an identity crisis involving an i
 <p>Officials were working on a plan to protect transgender athletes since the day the president was sworn in. In recent months, they raced to issue protections as states moved to revoke them.  <a href="https://nyti.ms/3ZRwlef"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Shun Lee or Not Shun Lee? For Chinese Food Lovers, That Is the Question.</h3>
-<sub>By Katherine Rosman and Justin J Wee</sub>
-<p>An identity crisis involving a vaunted Chinese restaurant and the New Yorkers who love it strikes the Upper West Side.  <a href="https://nyti.ms/3ZQURwj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s Next Legal Threat Could Be in Georgia. That May Be Tricky for Federal Prosecutors.</h3>
 <sub>By Glenn Thrush, Danny Hakim and Adam Goldman</sub>
@@ -134,6 +126,12 @@ Closer to home, New Yorkers have been debating an identity crisis involving an i
 <h3>Justice Thomas Says He Was Advised Lavish Gifts Did Not Need to Be Reported</h3>
 <sub>By Abbie VanSickle</sub>
 <p>In a statement, the justice said that he had followed past guidance from others at the court, but that he would now comply with new guidelines and disclose gifts and free travel.  <a href="https://nyti.ms/3Krc2im"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Calculating the Fastest Road to an Electric Car Future</h3>
+<sub>By Coral Davenport</sub>
+<p>Government scientists have spent a year analyzing electric vehicles to help the E.P.A. design new tailpipe rules to trigger an electric car revolution.  <a href="https://nyti.ms/3KjD5Mf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
