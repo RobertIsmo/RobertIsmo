@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 9, Central Standard Time</p>
 <p>
-A lot of news is happening around the world right now! In the US, leaked documents have revealed the extent of US spy efforts, as well as information on Russia&#39;s military struggles. The government is working towards rules that would encourage more use of electric cars to help combat climate change, which scientists have been studying. Former president Donald Trump has recently been indicted in New York and Georgia, which has prompted a wave of activism amongst younger citizens. Florida governor Ron DeSantis has also been in the news with his sizable war chest points to potential presidential run in 2024. Lastly, an unlikely YouTube talk show called Hot Ones is suddenly gaining traction with its mix of celebrity interviews and spicy wings. Meanwhile, professional golfer Brooks Koepka has taken a lead at the flooded Augusta Nation tournament, while Tiger Woods is at the bottom.</p>
+There&#39;s been a lot of news lately about US politics, including the indictment of former president Donald Trump in New York, and leaked documents that reveal the country&#39;s spy efforts and Russia&#39;s military struggles. Technology and social media sites like Twitter and Discord have also been making headlines - they&#39;re trying to better handle the circulation of online material, and are facing gray areas in their regulations.
+
+In the climate field, the Environmental Protection Agency is proposing new regulations to ensure that electric cars make up the majority of US auto sales by 2032, while scientists have also been analyzing electric vehicles to trigger an electric car revolution. There has been recognition of young political activism stirring up shockwaves across the US, as well as discussion on Florida Governor Ron DeSantis&#39; preparedness for his 2024 campaign.
+
+Finally, there&#39;s some interesting stories about arts and entertainment: A YouTube talk show (Hot Ones) has gained traction lately with its simple set-up - deep cut questions with extra spicy wings - and in sports news, golf superstar Tiger Woods was at the bottom of the leaderboard when flooded Augusta National suspended play at the weekend.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Leaked Documents Reveal Depth of U.S. Spy Efforts and Russia’s Military Struggles</h3>
