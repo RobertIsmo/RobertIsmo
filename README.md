@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 9, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In particular, there is a group of mothers in Ukraine who managed to retreive their kids from Russian custody. At Stanford Law School, the Dean is trying to protect free speech after a student protest. Meanwhile, Trump and his lawyers are searching for another Roy Cohn to represent him. There are also dueling rulings around abortion that could make it all the way up to the Supreme Court. The gig economy of food delivery drivers is facing hardships with customers not tipping them generously, while Nashville takes time to grieve after tragedy struck the city. In Ireland, they are preparing a warm welcome for President Biden who has ancestral ties there. On the lighter side of things, children at an LA school are struggling to cope with grief due to the pandemic while others take a virtual trip to the Peeps Candy Factory and play The New York Times&#39; News Quiz. Finally, Marvel Superhero and Indigenous actress María Mercedes Coroy held on tight to her Maya roots after filming for Black Panther: Wakanda Forever in Guatemala.</p>
+Currently, in the world there is some turmoil in Ukraine between Russia and Ukraine, with a group of mothers going to recover their children from Russian authorities. Meanwhile in America, former President Trump and his lawyers are trying to maintain his presence in the court of public opinion and there is an ongoing legal battle regarding the access to abortion pills as well as a heated political debate in Tennessee due to recent events. On a brighter note, Irish people are excited for President Biden&#39;s trip to Ireland, as he is said to be the most Irish president since John F. Kennedy. Many other aspects of life have been affected by the pandemic, including the UberEats and DoorDash delivery drivers who are making less money due to contactless delivery, as well as teachers in Los Angeles who must manage students&#39; grief due to Covid. Finally, there is a visit to Peeps factory for Easter and a quiz for readers of The New York Times about news this week.</p>
 <ol>
-<img src="https://img.shields.io/badge/-todayspaper-blue" alt="">
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Russians Took Their Children. These Mothers Went and Got Them Back.</h3>
 <sub>By Carlotta Gall, Oleksandr Chubko and Daniel Berehulak</sub>
-<p>Making a nerve-wracking 3,000-mile journey from Ukraine, into Russia-occupied territory, and back again, a group of mothers managed to recover their children from the custody of the Russian authorities.  <a href="https://nyti.ms/3Gnz0Fx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Making a nerve-wracking 3,000-mile journey from Ukraine, into Russia-occupied territory, and back again, a group of mothers managed to recover their children from the custody of the Russian authorities.  <a href="https://nyti.ms/41aVlhG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fight for Roads Into Bakhmut Has Hit a Stalemate, Ukraine Says</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Even as Russian forces made some gains in the battered eastern city last week, Ukraine’s forces say they have thwarted Moscow’s efforts to sever supply lines. For now.  <a href="https://nyti.ms/3KfuJ8g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At Stanford Law School, the Dean Takes a Stand for Free Speech. Will It Work?</h3>
@@ -127,12 +133,6 @@ There is a lot happening in the world right now. In particular, there is a group
 <sub></sub>
 <p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3Kh4Y7G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Marvel Superhero and Indigenous Actress Holds Fast to Maya Roots</h3>
-<sub>By Julia Lieblich</sub>
-<p>After filming her part in “Black Panther: Wakanda Forever,” María Mercedes Coroy returned to her “normal” life of farming and trading in a Guatemalan town at the base of a volcano.  <a href="https://nyti.ms/3Ukbf7e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
