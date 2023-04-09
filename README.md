@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 9, Central Standard Time</p>
 <p>
-It appears that the world is in a state of turmoil as a number of different events are happening around the world. In Russia, a group of mothers managed to recover their children from Russian authorities by making a nerve-wracking 3,000-mile journey. In Canada, a pro-Russian hacking group may have targeted their infrastructure. In Ukraine, there is a stalemate taking place between Russian forces and Ukraine&#39;s forces. In the United States, Stanford Law has taken a stand for free speech but it is proving difficult to protect. There are also economic issues like Uber Eats and DoorDash, who delivery drivers have been praised as pandemic heroes but it is now becoming increasingly harder for them to make a living. There are also Trump and his lawyers who have been quickly hired after TV appearances or brief phone calls by him and there are money issues for those aged retirement. Finally, El Salvador has declared a state of emergency in order to decimate their ruthless gangster groups but at what cost?</p>
+Right now, there seems to be a lot going on in the world. In Russia, a group of mothers managed to get their kids back from the custody of Russian authorities, which is amazing. There&#39;s also evidence that hackers may have been targeting Canada&#39;s energy infrastructure. In Ukraine, there is a stalemate between the Ukrainian forces and Russian forces over control of the roads into Bakhmut. In the US, Stanford Law School&#39;s Dean released a memo defending free speech, however it has been complicated for them so protect people&#39;s rights. There are tech companies like Uber Eats and DoorDash who are being accused of not providing enough tips to delivery drivers. Nuevo Mexico is losing its dialect that has been around for 400 years. Trump&#39;s lawyers have had a bit of trouble getting him adequate legal defense because of how often he changes them. El Salvador declared a state of emergency last year to stop gangs from taking total control and are seeing some success in doing that. In Ireland, people are excited for Biden&#39;s visit because many have ancestral ties to him and he is considered the most &quot;Irish&quot; President since JFK. Finally, older Americans have been having trouble getting mortgages because they are seen as mortality risks by lenders. Financial planners do offer some advice though!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Russians Took Their Children. These Mothers Went and Got Them Back.</h3>
@@ -93,27 +93,33 @@ It appears that the world is in a state of turmoil as a number of different even
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>New Mexico Is Losing a Form of Spanish Spoken Nowhere Else on Earth</h3>
+<sub>By Simon Romero and Desiree Rios</sub>
+<p>A dialect from the state’s earliest Spanish-speaking settlers has endured for over 400 years in the state’s remote mountain villages. But its time may be running out.  <a href="https://nyti.ms/40ZWFo8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Nuevo México pierde un dialecto que no se habla en ningún otro lugar del mundo</h3>
+<sub>By Simon Romero and Desiree Rios</sub>
+<p>Durante más de 400 años, en las montañas remotas del estado ha sobrevivido el neomexicano, dialecto de los primeros colonos hispanohablantes. Pero es posible que su final esté cerca.  <a href="https://nyti.ms/43hitNq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump and His Lawyers: A Restless Search for Another Roy Cohn</h3>
 <sub>By Maggie Haberman and Jonathan Swan</sub>
 <p>Hired after TV appearances or brief phone calls, lawyers for the former president can come and go, as he demands they defend him first in the court of public opinion.  <a href="https://nyti.ms/3minh4w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New Mexico Is Losing a Form of Spanish Spoken Nowhere Else on Earth</h3>
-<sub>By Simon Romero and Desiree Rios</sub>
-<p>A dialect from the state’s earliest Spanish-speaking settlers has endured for over 400 years in the state’s remote mountain villages. But its time may be running out.  <a href="https://nyti.ms/40ZWFo8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>El Salvador Decimated Its Ruthless Gangs. But at What Cost?</h3>
+<sub>By Natalie Kitroeff and Daniele Volpe</sub>
+<p>In the year since El Salvador declared a state of emergency, the government has delivered a stunning blow to the gangs that were once the ultimate authority in much of the country.  <a href="https://nyti.ms/40SOlGB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ireland Readies a Warm Welcome for Biden, ‘the Most Irish’ President Since J.F.K.</h3>
 <sub>By Ed O’Loughlin</sub>
 <p>Ahead of President Biden’s trip to Ireland, the locals of two towns, including several of his relatives, are hoping he’ll return to celebrate their ancestral ties.  <a href="https://nyti.ms/3ZU2cLe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>El Salvador Decimated Its Ruthless Gangs. But at What Cost?</h3>
-<sub>By Natalie Kitroeff and Daniele Volpe</sub>
-<p>In the year since El Salvador declared a state of emergency, the government has delivered a stunning blow to the gangs that were once the ultimate authority in much of the country.  <a href="https://nyti.ms/40SOlGB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -127,12 +133,6 @@ It appears that the world is in a state of turmoil as a number of different even
 <sub>By Elizabeth Harris</sub>
 <p>Readers sent some of their most urgent financial queries, asking about issues like Social Security and student loan debt. Financial planners offered ideas.  <a href="https://nyti.ms/438vNDD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>What to Do With Your Tax Refund? Save for Emergencies.</h3>
-<sub>By Ann Carrns</sub>
-<p>The average refund is down from last year, but still almost $3,000. One option experts recommend is stashing part of it for unexpected expenses.  <a href="https://nyti.ms/3zDXXc3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
