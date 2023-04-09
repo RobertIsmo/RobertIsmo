@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 8, Central Standard Time</p>
 <p>
-There have recently been some major developments in world politics. In the United States, leaked documents revealed the depth of US intelligence efforts and Russia&#39;s military struggles, while French diplomacy has undercut US efforts to rein in China. In Ukraine, Russia is preparing to evacuate civilians from occupied areas of the south. 
-On the environmental front, US regulators proposed rules meant to drive up electric car sales tenfold, and scientists calculated the fastest road to an electric car future. 
-In terms of domestic politics, Donald Trump was indicted in Georgia and abortion pill regulations are being challenged. Youthful activism is sending out political shockwaves while Florida Governor Ron DeSantis is obtaining a large campaign fund for potential 2024 presidential run. Pop culture has been significantly impacted by Covid-19; AI images are eroding trust in media, government and society overall. Finally, certain cultural moments have been defined by this pandemic era that will be forever remembered.</p>
+It looks like US politics and international issues are really heating up - leaked documents have revealed some pretty deep efforts from U.S. intelligence, including eavesdropping on allies, and former President Donald Trump was just indicted in New York. In other news, the EPA is trying to push for a majority of new car sales to be electric by 2032, and the Supreme Court could hear a case about abortion pills. People were also potentially surprised by progressives winning elections in Wisconsin and Chicago, as well as a political firestorm over two lawmakers being expelled in Nashville. Meanwhile, in sports, golfers at Augusta National experienced some floods while current leader Koepka was 22 strokes ahead of Woods. Lastly, it looks like the YouTube show &#39;Hot Ones&#39; isn&#39;t going anywhere - making celebrities feel the heat with questions and spicy wings.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Leaked Documents Reveal Depth of U.S. Spy Efforts and Russia’s Military Struggles</h3>
@@ -70,16 +68,10 @@ In terms of domestic politics, Donald Trump was indicted in Georgia and abortion
 <p>The information, exposed on social media sites, also shows that U.S. intelligence services are eavesdropping on important allies.  <a href="https://nyti.ms/4199KuO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>French Diplomacy Undercuts U.S. Efforts to Rein China In</h3>
-<sub>By Roger Cohen</sub>
-<p>Allies don’t always see things the same way, as Emmanuel Macron’s cozy visit to Xi Jinping made abundantly clear.  <a href="https://nyti.ms/3Kj18uR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Says Russia Is Preparing to Evacuate Civilians From Occupied Areas of South</h3>
-<sub>By Matthew Mpoke Bigg and Yurii Shyvala</sub>
-<p>Ukraine is widely expected to launch a counteroffensive in the coming weeks to recapture territory from Russian forces. Some Ukrainian officials say it could focus on the south of the country.  <a href="https://nyti.ms/43fw8Ey"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Why Leaked Pentagon Documents Are Still Circulating on Social Media</h3>
+<sub>By Ryan Mac and Kellen Browning</sub>
+<p>Twitter and the social media platform Discord have policies about how they would handle the material. But those rules have gray areas and can be unevenly enforced.  <a href="https://nyti.ms/3nWqXt4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -95,9 +87,21 @@ In terms of domestic politics, Donald Trump was indicted in Georgia and abortion
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump and His Lawyers: A Restless Search for Another Roy Cohn</h3>
+<sub>By Maggie Haberman and Jonathan Swan</sub>
+<p>Hired after TV appearances or brief phone calls, lawyers for the former president can come and go, as he demands they defend him first in the court of public opinion.  <a href="https://nyti.ms/3minh4w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Georgia Looms Next After Trump’s Indictment in New York</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
 <p>Former President Donald J. Trump now faces a very different legal challenge in the culmination of a more than two-year Atlanta investigation into election interference.  <a href="https://nyti.ms/3KJhvCs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Dueling Rulings, Abortion Pill Cases Appear Headed to the Supreme Court</h3>
+<sub>By Abbie VanSickle and Pam Belluck</sub>
+<p>One federal judge said the F.D.A.’s approval of the drug mifepristone was invalid, while another federal judge ordered the agency to keep the pill available. The legal fallout is just beginning.  <a href="https://nyti.ms/3zGGWhy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -105,12 +109,6 @@ In terms of domestic politics, Donald Trump was indicted in Georgia and abortion
 <sub>By Pam Belluck</sub>
 <p>One invalidated the F.D.A.’s approval of the abortion pill mifepristone. The other ordered the F.D.A. to do nothing to restrict the pill’s availability.  <a href="https://nyti.ms/418Gkgo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where Restrictions on Abortion Pills Could Matter Most in the U.S.</h3>
-<sub>By Allison McCann and Amy Schoenfeld Walker</sub>
-<p>A lawsuit is challenging the F.D.A.’s approval of medication abortion. Data shows the consequences could be far-reaching.  <a href="https://nyti.ms/3IFJ5Ox"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Week of Youthful Activism Sends Out Political Shockwaves</h3>
@@ -124,16 +122,16 @@ In terms of domestic politics, Donald Trump was indicted in Georgia and abortion
 <p>As he prepares for a widely expected 2024 campaign, the Florida governor has at least $110 million in allied committees. But he will also have to navigate a series of financial and political hurdles.  <a href="https://nyti.ms/3KIo3Rv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Can We No Longer Believe Anything We See?</h3>
-<sub>By Tiffany Hsu and Steven Lee Myers</sub>
-<p>Human eyes — and even technology — often struggle to identify images created by artificial intelligence. Experts fear that may hasten an erosion of trust in media, in government and in society.  <a href="https://nyti.ms/3mkZmkX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘Hot Ones’ Was a Slow Burn All Along</h3>
+<sub>By Maya Salam</sub>
+<p>This YouTube talk show’s premise is simple: Disarm celebrities with deep-cut questions and scorchingly spicy wings. Nearly 300 episodes later, the recipe still works.  <a href="https://nyti.ms/3lZsZYX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>17 Pop Culture Moments That Define The Covid Era</h3>
-<sub></sub>
-<p>These are the cultural moments we will forever associate with the past three years.  <a href="https://nyti.ms/3ZTfrw3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>At a Flooded Augusta National, Koepka Builds a Lead and Woods Sinks</h3>
+<sub>By Alan Blinder, Bill Pennington and Doug Mills</sub>
+<p>Third-round play was suspended midafternoon Saturday. Koepka was alone atop the leaderboard, and Woods was at the bottom. Twenty-two strokes separated them.  <a href="https://nyti.ms/3MKJYt5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
