@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 9, Central Standard Time</p>
 <p>
-Currently, in the world there is some turmoil in Ukraine between Russia and Ukraine, with a group of mothers going to recover their children from Russian authorities. Meanwhile in America, former President Trump and his lawyers are trying to maintain his presence in the court of public opinion and there is an ongoing legal battle regarding the access to abortion pills as well as a heated political debate in Tennessee due to recent events. On a brighter note, Irish people are excited for President Biden&#39;s trip to Ireland, as he is said to be the most Irish president since John F. Kennedy. Many other aspects of life have been affected by the pandemic, including the UberEats and DoorDash delivery drivers who are making less money due to contactless delivery, as well as teachers in Los Angeles who must manage students&#39; grief due to Covid. Finally, there is a visit to Peeps factory for Easter and a quiz for readers of The New York Times about news this week.</p>
+It appears that the world is in a state of turmoil as a number of different events are happening around the world. In Russia, a group of mothers managed to recover their children from Russian authorities by making a nerve-wracking 3,000-mile journey. In Canada, a pro-Russian hacking group may have targeted their infrastructure. In Ukraine, there is a stalemate taking place between Russian forces and Ukraine&#39;s forces. In the United States, Stanford Law has taken a stand for free speech but it is proving difficult to protect. There are also economic issues like Uber Eats and DoorDash, who delivery drivers have been praised as pandemic heroes but it is now becoming increasingly harder for them to make a living. There are also Trump and his lawyers who have been quickly hired after TV appearances or brief phone calls by him and there are money issues for those aged retirement. Finally, El Salvador has declared a state of emergency in order to decimate their ruthless gangster groups but at what cost?</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Russians Took Their Children. These Mothers Went and Got Them Back.</h3>
 <sub>By Carlotta Gall, Oleksandr Chubko and Daniel Berehulak</sub>
 <p>Making a nerve-wracking 3,000-mile journey from Ukraine, into Russia-occupied territory, and back again, a group of mothers managed to recover their children from the custody of the Russian authorities.  <a href="https://nyti.ms/41aVlhG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A pro-Russian hacking group may have targeted Canada’s energy infrastructure.</h3>
+<sub>By Dan Bilefsky</sub>
+<p>  <a href="https://nyti.ms/3zGHh3U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Fight for Roads Into Bakhmut Has Hit a Stalemate, Ukraine Says</h3>
@@ -80,6 +86,12 @@ Currently, in the world there is some turmoil in Ukraine between Russia and Ukra
 <p>After a student protest, Jenny S. Martinez wrote a much-praised memo defending academic freedom. But that protest shows how complicated protecting free speech can be.  <a href="https://nyti.ms/41hSsMd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>$388 in Sushi. Just a $20 Tip: The Brutal Math of Uber Eats and DoorDash</h3>
+<sub>By Kellen Browning and Mark Abramson</sub>
+<p>Delivery drivers were hailed as pandemic heroes. But they say the rise of contactless delivery has made customers less inclined to tip generously and gig work is becoming an even harder way to make a living.  <a href="https://nyti.ms/40T7aJI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump and His Lawyers: A Restless Search for Another Roy Cohn</h3>
 <sub>By Maggie Haberman and Jonathan Swan</sub>
@@ -87,21 +99,9 @@ Currently, in the world there is some turmoil in Ukraine between Russia and Ukra
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Dueling Rulings, Abortion Pill Cases Appear Headed to the Supreme Court</h3>
-<sub>By Abbie VanSickle and Pam Belluck</sub>
-<p>One federal judge said the F.D.A.’s approval of the drug mifepristone was invalid, while another federal judge ordered the agency to keep the pill available. The legal fallout is just beginning.  <a href="https://nyti.ms/3zGGWhy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>$388 in Sushi. Just a $20 Tip: The Brutal Math of UberEats and DoorDash</h3>
-<sub>By Kellen Browning and Mark Abramson</sub>
-<p>Delivery drivers were hailed as pandemic heroes. But they say the rise of contactless delivery has made customers less inclined to tip generously and gig work is becoming an even harder way to make a living.  <a href="https://nyti.ms/40T7aJI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nashville, Battered and Mourning, Pauses for Easter</h3>
-<sub>By Ruth Graham</sub>
-<p>The holiest day in the Christian calendar comes as the church-filled city is in a heated political debate, and still deep in grief.  <a href="https://nyti.ms/3nPlJzc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>New Mexico Is Losing a Form of Spanish Spoken Nowhere Else on Earth</h3>
+<sub>By Simon Romero and Desiree Rios</sub>
+<p>A dialect from the state’s earliest Spanish-speaking settlers has endured for over 400 years in the state’s remote mountain villages. But its time may be running out.  <a href="https://nyti.ms/40ZWFo8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,28 +110,28 @@ Currently, in the world there is some turmoil in Ukraine between Russia and Ukra
 <p>Ahead of President Biden’s trip to Ireland, the locals of two towns, including several of his relatives, are hoping he’ll return to celebrate their ancestral ties.  <a href="https://nyti.ms/3ZU2cLe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The School Where the Pandemic Never Ended</h3>
-<sub>By Meg Bernhard</sub>
-<p>As the nation’s schools ‘return to normal,’ teachers in an L.A. neighborhood hit hard by Covid are left to manage their students’ grief — and their own.  <a href="https://nyti.ms/3GebKtN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>El Salvador Decimated Its Ruthless Gangs. But at What Cost?</h3>
+<sub>By Natalie Kitroeff and Daniele Volpe</sub>
+<p>In the year since El Salvador declared a state of emergency, the government has delivered a stunning blow to the gangs that were once the ultimate authority in much of the country.  <a href="https://nyti.ms/40SOlGB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>A Visit to the Peeps Factory</h3>
-<sub>By Kevin Dupzyk and Christopher Payne</sub>
-<p>As Easter approached, The New York Times for Kids took a trip to a world of marshmallow magic.  <a href="https://nyti.ms/3KDoLzK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>A Great Credit Score, but She Can’t Get a Mortgage</h3>
+<sub>By Paula Span</sub>
+<p>Despite solid financial track records, many older Americans have a hard time refinancing because of their mortality risks and lower retirement incomes.  <a href="https://nyti.ms/3KSL4BH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Retirement-Age Money Issues: Planners Weigh In on Your Questions</h3>
+<sub>By Elizabeth Harris</sub>
+<p>Readers sent some of their most urgent financial queries, asking about issues like Social Security and student loan debt. Financial planners offered ideas.  <a href="https://nyti.ms/438vNDD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jillian Rayfield</sub>
-<p>A psychedelics pioneer takes the ultimate trip. Also in this edition: Brooke Shields and the curse of beauty, and why Tetris consumed your brain.  <a href="https://nyti.ms/41rOUHp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, April 7, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3Kh4Y7G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>What to Do With Your Tax Refund? Save for Emergencies.</h3>
+<sub>By Ann Carrns</sub>
+<p>The average refund is down from last year, but still almost $3,000. One option experts recommend is stashing part of it for unexpected expenses.  <a href="https://nyti.ms/3zDXXc3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
