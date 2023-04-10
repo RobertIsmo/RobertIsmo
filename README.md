@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 9, Central Standard Time</p>
 <p>
-Right now, there is a lot happening around the globe that&#39;s concerning. In Ukraine, US officials are warning of potential danger if air defense and munitions assistance aren&#39;t implemented soon. Meanwhile in Europe, experts are skeptical about whether or not the pledged assistance will be enough for Ukraine&#39;s needs. On an international level, we&#39;re seeing leaked intelligence reports start to dribble onto the web. 
-
-Closer to home, the fight over Medicaid expansion in North Carolina has reached a tipping point after intense patient advocacy and shifting politics have led the state to join 39 others in expanding access. Closer still, Stanford Law School is trying to take a stand for free speech after student protests in an interesting way. And gig workers delivering food face brutal mathematics when it comes to low tips. 
-
-In El Salvador, the country has delivered a stunning blow to gangs over the last year with a state of emergency--but at what cost? And back here in the States, New Mexico is facing a unique potential loss: a dialect spoken nowhere else on Earth for over 400 years. 
-
-On a lighter note, Jon Rahm won his first Masters tournament this weekend and veteran Phil Mickelson earned redemption from fans with his best final round in thirty years at the tournament.</p>
+There are a lot of events happening across the world right now. In Ukraine, US officials have leaked documents suggesting that their air defense is in peril and they need a huge influx of munitions to keep Russia&#39;s air force from changing the course of the war. Over in Europe, they have pledged to supply Ukraine with one million shells over a year, but experts are saying that given their shrunken military industrial sector, this might not be achievable. In Stanford Law School, the dean has taken a stand for free speech and is trying to protect it after a student protest showed how tricky this can be. Here in the US, delivery drivers who were hailed as pandemic heroes during Covid-19 are now struggling because customer tips are increasingly dwindling. New Mexico is also facing the loss of their unique Spanish dialect from the state’s earliest settlers which has been around for over 400 years. And finally, El Salvador declared a state of emergency and delivered a huge blow to their once-dominant gangs.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Leaked Documents Suggest Ukrainian Air Defense Is in Peril if Not Reinforced</h3>
@@ -83,7 +77,7 @@ On a lighter note, Jon Rahm won his first Masters tournament this weekend and ve
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What Do Leaked U.S. Intelligence Reports Say? Here Is a Quick Guide.</h3>
 <sub>By Eric Nagourney</sub>
-<p>A trove of classified documents dribbling onto the web has tongues wagging.  <a href="https://nyti.ms/41hh087"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Many questions remain about the classified documents that have been dribbling onto the web.  <a href="https://nyti.ms/41hh087"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,23 +116,23 @@ On a lighter note, Jon Rahm won his first Masters tournament this weekend and ve
 <p>Mickelson, who withdrew from last year’s Masters Tournament as he took criticism for joining LIV Golf, earned a measure of redemption from fans by finishing in a tie for second place.  <a href="https://nyti.ms/41iHOox"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Masters Sunday in Photographs</h3>
+<sub>By Doug Mills</sub>
+<p>After days of rain and dark clouds, the final round was sunny and clear with nothing but blue skies and green fairways providing a brilliant backdrop for Jon Rahm’s win.  <a href="https://nyti.ms/3MCIlNE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>El Salvador Decimated Its Ruthless Gangs. But at What Cost?</h3>
 <sub>By Natalie Kitroeff and Daniele Volpe</sub>
 <p>In the year since El Salvador declared a state of emergency, the government has delivered a stunning blow to the gangs that were once the ultimate authority in much of the country.  <a href="https://nyti.ms/40SOlGB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Will North Carolina Be the ‘Beginning of the End’ of the Medicaid Expansion Fight?</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>Intense patient advocacy, shifting politics, a determined Democratic governor and a handful of maverick Republicans led the state to join 39 others that have expanded Medicaid.  <a href="https://nyti.ms/3GShHwX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>El Salvador diezmó a sus violentas pandillas, ¿a qué costo?</h3>
+<sub>By Natalie Kitroeff and Daniele Volpe</sub>
+<p>En el año que ha transcurrido desde que El Salvador declaró un estado de emergencia, el gobierno le ha propinado un golpe demoledor a las pandillas que solían ser la máxima autoridad en gran parte del país.  <a href="https://nyti.ms/3UjMQyF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>A Great Credit Score, but She Can’t Get a Mortgage</h3>
-<sub>By Paula Span</sub>
-<p>Despite solid financial track records, many older Americans have a hard time refinancing because of their mortality risks and lower retirement incomes.  <a href="https://nyti.ms/3KSL4BH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
