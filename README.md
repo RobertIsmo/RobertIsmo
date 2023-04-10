@@ -60,34 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 10, Central Standard Time</p>
 <p>
-There is a lot going on in the world today. Recently, there have been leaked documents that suggest that Ukraine&#39;s air defense is in peril if not reinforced. There have also been reports of massive Bitcoin mines that are consuming electricity and causing immense pollution. In terms of US news, there have been multiple mass shootings this year already and Florida Governor DeSantis is pushing an aggressive proposal to penalize those who aid undocumented immigrants. On a more positive note, President Biden is marking the 25th anniversary of the Good Friday Agreement in Northern Ireland before heading to his ancestral home in Ireland.</p>
+There is a lot of chaos going on around the world right now. Recently, there has been a bank collapse which has caused some economic fears of a potential slowdown, as well as a shooting in Louisville, Kentucky that has left five people dead and eight injured. In terms of mass shootings for the year, there have already been scores, some of which have come from leaked U.S. intelligence reports. Also recently, bitcoin mines have been causing immense pollution for which the public ends up paying a price. Even more so, there is still a lot of uncertainty surrounding U.S. abortion laws and former President Donald Trump is appealing a decision that would force Vice President Mike Pence to testify to a grand jury investigating his attempts to stay in power. It&#39;s definitely been an interesting few months so far!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Latest Leaked Documents Are Different From Past Breaches</h3>
-<sub>By David E. Sanger</sub>
-<p>The freshness of the documents — some appear to be barely 40 days old — and the hints they hold for operations to come make them particularly damaging, officials say.  <a href="https://nyti.ms/3UoQnMb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Leaked Documents Suggest Ukrainian Air Defense Is in Peril if Not Reinforced</h3>
-<sub>By Helene Cooper, Michael Schwirtz and Thomas Gibbons-Neff</sub>
-<p>A huge influx of munitions is needed to keep Russia’s air force from changing the course of the war, according to U.S. officials and newly leaked Pentagon documents.  <a href="https://nyti.ms/3o2Lz36"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Do Leaked U.S. Intelligence Reports Say? Here Is a Quick Guide.</h3>
-<sub>By Eric Nagourney</sub>
-<p>Many questions remain about the classified documents that have been dribbling onto the web.  <a href="https://nyti.ms/41hh087"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Real-World Costs of the Digital Race for Bitcoin</h3>
-<sub>By Gabriel J.X. Dance, Tim Wallace and Zach Levitt</sub>
-<p>Bitcoin mines cash in on electricity — by devouring it, selling it, even turning it off — and they cause immense pollution. In many cases, the public pays a price.  <a href="https://nyti.ms/41cCIKb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
+<h3>Bank Turmoil Squeezes Borrowers, Raising Fears of a Slowdown</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Economists are watching for the aftereffects of recent bank collapses across many industries. How bad could it get?  <a href="https://nyti.ms/40SqUwY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Dead and 6 Injured in Shooting in Louisville, Ky., Police Say</h3>
+<h3>5 Dead and 8 Injured in Shooting in Louisville, Ky., Police Say</h3>
 <sub>By Amanda Holpuch</sub>
 <p>The deputy police chief said that the suspected gunman was confirmed dead at the scene.  <a href="https://nyti.ms/40SVyGL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
@@ -99,10 +81,28 @@ There is a lot going on in the world today. Recently, there have been leaked doc
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Pushes Toughest Immigration Crackdown in the Nation</h3>
-<sub>By Miriam Jordan</sub>
-<p>The Florida governor is pushing an aggressive proposal to penalize those who aid undocumented immigrants and to track costs for providing them with health care.  <a href="https://nyti.ms/3mqwWpx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How the Latest Leaked Documents Are Different From Past Breaches</h3>
+<sub>By David E. Sanger</sub>
+<p>The freshness of the documents — some appear to be barely 40 days old — and the hints they hold for operations to come make them particularly damaging, officials say.  <a href="https://nyti.ms/3UoQnMb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What Do Leaked U.S. Intelligence Reports Say? Here Is a Quick Guide.</h3>
+<sub>By Eric Nagourney</sub>
+<p>Many questions remain about the classified documents that have been dribbling onto the web.  <a href="https://nyti.ms/41hh087"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Near Ukraine’s front lines, soldiers learn how to deal with combat stress.</h3>
+<sub>By Yousur Al-Hlou and Masha Froliak</sub>
+<p>  <a href="https://nyti.ms/3mqjFxd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Real-World Costs of the Digital Race for Bitcoin</h3>
+<sub>By Gabriel J.X. Dance, Tim Wallace and Zach Levitt</sub>
+<p>Bitcoin mines cash in on electricity — by devouring it, selling it, even turning it off — and they cause immense pollution. In many cases, the public pays a price.  <a href="https://nyti.ms/41cCIKb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>How Brian Cox Felt About That Big Episode 3 Twist in ‘Succession’</h3>
@@ -123,15 +123,15 @@ There is a lot going on in the world today. Recently, there have been leaked doc
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Abortion Ruling Could Undermine the F.D.A.’s Drug-Approval Authority</h3>
-<sub>By Christina Jewett and Pam Belluck</sub>
-<p>Legal scholars say the ruling by a Texas judge, if upheld, could spur disputes over many medications and upend the drug industry’s reliance on the agency.  <a href="https://nyti.ms/3MCYvXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Drug Company Leaders Condemn Ruling Invalidating F.D.A. Approval of Abortion Pill</h3>
+<sub>By Christina Jewett</sub>
+<p>More than 250 executives said that the decision ignored both scientific and legal precedent and, if it stands, would create uncertainty for the pharmaceutical and biotech industries.  <a href="https://nyti.ms/3ZPULVy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden Must Tread Rocky Path in Belfast Before Tending His Irish Roots</h3>
-<sub>By Mark Landler</sub>
-<p>President Biden, who has ancestral ties to Ireland, will mark the 25th anniversary of the Good Friday Agreement in Northern Ireland before heading south.  <a href="https://nyti.ms/3UkFURW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Appeals Decision Forcing Pence to Testify to Jan. 6 Grand Jury</h3>
+<sub>By Alan Feuer</sub>
+<p>The appeal seeks to narrow the scope of testimony that former Vice President Mike Pence can provide the grand jury investigating former President Donald Trump’s efforts to stay in power.  <a href="https://nyti.ms/43iFGyK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
