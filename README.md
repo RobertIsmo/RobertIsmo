@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 10, Central Standard Time</p>
 <p>
-There is a lot of chaos going on around the world right now. Recently, there has been a bank collapse which has caused some economic fears of a potential slowdown, as well as a shooting in Louisville, Kentucky that has left five people dead and eight injured. In terms of mass shootings for the year, there have already been scores, some of which have come from leaked U.S. intelligence reports. Also recently, bitcoin mines have been causing immense pollution for which the public ends up paying a price. Even more so, there is still a lot of uncertainty surrounding U.S. abortion laws and former President Donald Trump is appealing a decision that would force Vice President Mike Pence to testify to a grand jury investigating his attempts to stay in power. It&#39;s definitely been an interesting few months so far!</p>
+It’s been a busy news week. On the health front, a court ruling invalidated the FDA&#39;s approval for an abortion pill and could put a strain on the drug industry&#39;s reliance on the agency. In Louisville, Ky., a shooting left four dead and nine injured, with the motive currently unknown. Nationwide, the U.S. has faced scores of mass shootings already in 2023 alone. The latest documents leaked from the Trump administration have raised fresh concerns over how this could all be dealt with in future operations. In Ukraine, soldiers are learning how to cope with combat stress while closer to home, Americans have been faced by bank collapses which may lead to an economic slowdown. Elon Musk&#39;s Bitcoin mines obsession is taking its toll too, as it uses up masses of energy and public funds in order to cash in on it. Lastly, charges were filed against the mother of a six-year-old who shot his teacher within an elementary school in January.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bank Turmoil Squeezes Borrowers, Raising Fears of a Slowdown</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Economists are watching for the aftereffects of recent bank collapses across many industries. How bad could it get?  <a href="https://nyti.ms/40SqUwY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Drug Company Leaders Condemn Ruling Invalidating F.D.A. Approval of Abortion Pill</h3>
+<sub>By Pam Belluck and Christina Jewett</sub>
+<p>More than 400 executives said that the decision ignored scientific and legal precedent. On Monday afternoon, the Justice Department asked a federal appeals court to stay the ruling.  <a href="https://nyti.ms/3ZPULVy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Abortion Ruling Could Undermine the F.D.A.’s Drug-Approval Authority</h3>
+<sub>By Christina Jewett and Pam Belluck</sub>
+<p>Legal scholars say the ruling by a Texas judge, if upheld, could spur disputes over many medications and upend the drug industry’s reliance on the agency.  <a href="https://nyti.ms/3MCYvXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Dead and 8 Injured in Shooting in Louisville, Ky., Police Say</h3>
+<h3>4 Dead and 9 Injured in Shooting in Louisville, Ky., Police Say</h3>
 <sub>By Amanda Holpuch</sub>
-<p>The deputy police chief said that the suspected gunman was confirmed dead at the scene.  <a href="https://nyti.ms/40SVyGL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The police did not give a motive for the shooting, but they said that the gunman, who also died, may have been a current or former bank employee.  <a href="https://nyti.ms/40SVyGL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,15 +93,15 @@ There is a lot of chaos going on around the world right now. Recently, there has
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Do Leaked U.S. Intelligence Reports Say? Here Is a Quick Guide.</h3>
-<sub>By Eric Nagourney</sub>
-<p>Many questions remain about the classified documents that have been dribbling onto the web.  <a href="https://nyti.ms/41hh087"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Near Ukraine’s front lines, soldiers learn how to deal with combat stress.</h3>
 <sub>By Yousur Al-Hlou and Masha Froliak</sub>
 <p>  <a href="https://nyti.ms/3mqjFxd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Bank Turmoil Squeezes Borrowers, Raising Fears of a Slowdown</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Economists are watching for the aftereffects of recent bank collapses across many industries. How bad could it get?  <a href="https://nyti.ms/40SqUwY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,34 +110,28 @@ There is a lot of chaos going on around the world right now. Recently, there has
 <p>Bitcoin mines cash in on electricity — by devouring it, selling it, even turning it off — and they cause immense pollution. In many cases, the public pays a price.  <a href="https://nyti.ms/41cCIKb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How Brian Cox Felt About That Big Episode 3 Twist in ‘Succession’</h3>
-<sub>By Austin Considine</sub>
-<p>It was a pivotal moment for this series, which orbits his character, Logan Roy, a conservative media mogul and political kingmaker. Major spoilers ahead.  <a href="https://nyti.ms/3KpHBsy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Material Event: Unpacking That Pivotal ‘Succession’ Episode</h3>
-<sub>By James Poniewozik</sub>
-<p>The Roy family has never felt more human than it has in this season’s third episode — or more alien.  <a href="https://nyti.ms/3zLdp6k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Succession Style, Episode 3: Dressed for a Wedding or a Funeral</h3>
-<sub>By The Styles Desk</sub>
-<p>The Roy children wore black in a shocking, emotional show.  <a href="https://nyti.ms/41fxQnO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Drug Company Leaders Condemn Ruling Invalidating F.D.A. Approval of Abortion Pill</h3>
-<sub>By Christina Jewett</sub>
-<p>More than 250 executives said that the decision ignored both scientific and legal precedent and, if it stands, would create uncertainty for the pharmaceutical and biotech industries.  <a href="https://nyti.ms/3ZPULVy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Appeals Decision Forcing Pence to Testify to Jan. 6 Grand Jury</h3>
 <sub>By Alan Feuer</sub>
 <p>The appeal seeks to narrow the scope of testimony that former Vice President Mike Pence can provide the grand jury investigating former President Donald Trump’s efforts to stay in power.  <a href="https://nyti.ms/43iFGyK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Ignores Deadline for Personal Financial Disclosure to F.E.C.</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The disclosure will eventually provide the first look at the former president’s businesses since leaving the White House.  <a href="https://nyti.ms/3KNaMao"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Charges Filed Against Mother of 6-Year-Old Who Shot a Teacher</h3>
+<sub>By Jacey Fortin</sub>
+<p>Prosecutors had previously decided not to charge the boy, a first grader who brought the gun to his Newport News, Va., elementary school in January.  <a href="https://nyti.ms/3zIAGWJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Mickey Bars, Turkey Legs and the Obsession With Disney Food</h3>
+<sub>By Tejal Rao</sub>
+<p>A fascination with the theme parks’ cuisine has spawned fan websites and snagged our critic, who has a Disney back story of her own.  <a href="https://nyti.ms/43fu3c1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
