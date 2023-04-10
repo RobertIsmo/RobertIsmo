@@ -60,24 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 9, Central Standard Time</p>
 <p>
-Right now, there seems to be a lot going on in the world. In Russia, a group of mothers managed to get their kids back from the custody of Russian authorities, which is amazing. There&#39;s also evidence that hackers may have been targeting Canada&#39;s energy infrastructure. In Ukraine, there is a stalemate between the Ukrainian forces and Russian forces over control of the roads into Bakhmut. In the US, Stanford Law School&#39;s Dean released a memo defending free speech, however it has been complicated for them so protect people&#39;s rights. There are tech companies like Uber Eats and DoorDash who are being accused of not providing enough tips to delivery drivers. Nuevo Mexico is losing its dialect that has been around for 400 years. Trump&#39;s lawyers have had a bit of trouble getting him adequate legal defense because of how often he changes them. El Salvador declared a state of emergency last year to stop gangs from taking total control and are seeing some success in doing that. In Ireland, people are excited for Biden&#39;s visit because many have ancestral ties to him and he is considered the most &quot;Irish&quot; President since JFK. Finally, older Americans have been having trouble getting mortgages because they are seen as mortality risks by lenders. Financial planners do offer some advice though!</p>
+Right now, there is a lot happening around the globe that&#39;s concerning. In Ukraine, US officials are warning of potential danger if air defense and munitions assistance aren&#39;t implemented soon. Meanwhile in Europe, experts are skeptical about whether or not the pledged assistance will be enough for Ukraine&#39;s needs. On an international level, we&#39;re seeing leaked intelligence reports start to dribble onto the web. 
+
+Closer to home, the fight over Medicaid expansion in North Carolina has reached a tipping point after intense patient advocacy and shifting politics have led the state to join 39 others in expanding access. Closer still, Stanford Law School is trying to take a stand for free speech after student protests in an interesting way. And gig workers delivering food face brutal mathematics when it comes to low tips. 
+
+In El Salvador, the country has delivered a stunning blow to gangs over the last year with a state of emergency--but at what cost? And back here in the States, New Mexico is facing a unique potential loss: a dialect spoken nowhere else on Earth for over 400 years. 
+
+On a lighter note, Jon Rahm won his first Masters tournament this weekend and veteran Phil Mickelson earned redemption from fans with his best final round in thirty years at the tournament.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Russians Took Their Children. These Mothers Went and Got Them Back.</h3>
-<sub>By Carlotta Gall, Oleksandr Chubko and Daniel Berehulak</sub>
-<p>Making a nerve-wracking 3,000-mile journey from Ukraine, into Russia-occupied territory, and back again, a group of mothers managed to recover their children from the custody of the Russian authorities.  <a href="https://nyti.ms/41aVlhG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A pro-Russian hacking group may have targeted Canada’s energy infrastructure.</h3>
-<sub>By Dan Bilefsky</sub>
-<p>  <a href="https://nyti.ms/3zGHh3U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Leaked Documents Suggest Ukrainian Air Defense Is in Peril if Not Reinforced</h3>
+<sub>By Helene Cooper, Michael Schwirtz and Thomas Gibbons-Neff</sub>
+<p>A huge influx of munitions is needed to keep Russia’s air force from changing the course of the war, according to U.S. officials and newly leaked Pentagon documents.  <a href="https://nyti.ms/3o2Lz36"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fight for Roads Into Bakhmut Has Hit a Stalemate, Ukraine Says</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Even as Russian forces made some gains in the battered eastern city last week, Ukraine’s forces say they have thwarted Moscow’s efforts to sever supply lines. For now.  <a href="https://nyti.ms/3KfuJ8g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Europe Has Pledged a Million Shells for Ukraine in a Year. Can It Deliver?</h3>
+<sub>By Lara Jakes</sub>
+<p>Probably not, experts say, given the shrunken state of its military industrial sector. A look at a major munitions maker helps explain why.  <a href="https://nyti.ms/3GtzaLG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What Do Leaked U.S. Intelligence Reports Say? Here Is a Quick Guide.</h3>
+<sub>By Eric Nagourney</sub>
+<p>A trove of classified documents dribbling onto the web has tongues wagging.  <a href="https://nyti.ms/41hh087"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,11 +110,17 @@ Right now, there seems to be a lot going on in the world. In Russia, a group of 
 <p>Durante más de 400 años, en las montañas remotas del estado ha sobrevivido el neomexicano, dialecto de los primeros colonos hispanohablantes. Pero es posible que su final esté cerca.  <a href="https://nyti.ms/43hitNq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump and His Lawyers: A Restless Search for Another Roy Cohn</h3>
-<sub>By Maggie Haberman and Jonathan Swan</sub>
-<p>Hired after TV appearances or brief phone calls, lawyers for the former president can come and go, as he demands they defend him first in the court of public opinion.  <a href="https://nyti.ms/3minh4w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Jon Rahm Wins His First Masters</h3>
+<sub>By Alan Blinder and Doug Mills</sub>
+<p>Rahm trailed Brooks Koepka by two strokes at the start of Sunday’s final round but surged as Koepka faltered to claim his second major tournament victory.  <a href="https://nyti.ms/40SCUyD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Phil Mickelson Has Best Final Round in 30th Masters Appearance</h3>
+<sub>By Bill Pennington</sub>
+<p>Mickelson, who withdrew from last year’s Masters Tournament as he took criticism for joining LIV Golf, earned a measure of redemption from fans by finishing in a tie for second place.  <a href="https://nyti.ms/41iHOox"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>El Salvador Decimated Its Ruthless Gangs. But at What Cost?</h3>
@@ -116,10 +128,10 @@ Right now, there seems to be a lot going on in the world. In Russia, a group of 
 <p>In the year since El Salvador declared a state of emergency, the government has delivered a stunning blow to the gangs that were once the ultimate authority in much of the country.  <a href="https://nyti.ms/40SOlGB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ireland Readies a Warm Welcome for Biden, ‘the Most Irish’ President Since J.F.K.</h3>
-<sub>By Ed O’Loughlin</sub>
-<p>Ahead of President Biden’s trip to Ireland, the locals of two towns, including several of his relatives, are hoping he’ll return to celebrate their ancestral ties.  <a href="https://nyti.ms/3ZU2cLe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Will North Carolina Be the ‘Beginning of the End’ of the Medicaid Expansion Fight?</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>Intense patient advocacy, shifting politics, a determined Democratic governor and a handful of maverick Republicans led the state to join 39 others that have expanded Medicaid.  <a href="https://nyti.ms/3GShHwX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -127,12 +139,6 @@ Right now, there seems to be a lot going on in the world. In Russia, a group of 
 <sub>By Paula Span</sub>
 <p>Despite solid financial track records, many older Americans have a hard time refinancing because of their mortality risks and lower retirement incomes.  <a href="https://nyti.ms/3KSL4BH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Retirement-Age Money Issues: Planners Weigh In on Your Questions</h3>
-<sub>By Elizabeth Harris</sub>
-<p>Readers sent some of their most urgent financial queries, asking about issues like Social Security and student loan debt. Financial planners offered ideas.  <a href="https://nyti.ms/438vNDD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
