@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 10, Central Standard Time</p>
 <p>
-Right now, there is a lot going on around the world. In Ukraine, the U.S. and other countries are trying to reinforce air defense against possible threats from Russia. Meanwhile, Europe has pledged a million shells for Ukraine in a year but experts question if they will be able to deliver given their current state of military industrial sector. El Salvador has declared a state of emergency and delivered a devastating blow to its gangs, which were once powerful forces in much of the country. In the U.S., Stanford Law School&#39;s dean has taken a stand for free speech but it&#39;s complicated protecting freedom of expression here in America. Lastly, Jon Rahm won his first Masters tournament while Phil Mickelson had his best ever final round in 30 years at the Masters.</p>
+Currently, there is a lot going on in the world. In Ukraine, Europe pledged a million shells for their military defense against Russia, but experts say they won&#39;t be able to deliver due to their own military industrial sector shortages. In the US, leaked documents suggest Ukrainian air defense is in peril if not reinforced and the governor of Florida is pushing an aggressive proposal to penalize those who aid undocumented immigrants. Furthermore, people are taking notice of the real-world costs of digital Bitcoin mining as it affects electricity and causes immense pollution. Finally, Northern Ireland has been commemorating the 25th anniversary of the Good Friday Agreement amidst a legacy of bloody divisions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Leaked Documents Suggest Ukrainian Air Defense Is in Peril if Not Reinforced</h3>
-<sub>By Helene Cooper, Michael Schwirtz and Thomas Gibbons-Neff</sub>
-<p>A huge influx of munitions is needed to keep Russia’s air force from changing the course of the war, according to U.S. officials and newly leaked Pentagon documents.  <a href="https://nyti.ms/3o2Lz36"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How the Latest Leaked Documents Are Different From Past Breaches</h3>
+<sub>By David E. Sanger</sub>
+<p>The freshness of the documents — some appear to be barely 40 days old — and the hints they hold for operations to come make them particularly damaging, officials say.  <a href="https://nyti.ms/3UoQnMb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,64 +74,64 @@ Right now, there is a lot going on around the world. In Ukraine, the U.S. and ot
 <p>Probably not, experts say, given the shrunken state of its military industrial sector. A look at a major munitions maker helps explain why.  <a href="https://nyti.ms/3GtzaLG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Leaked Documents Suggest Ukrainian Air Defense Is in Peril if Not Reinforced</h3>
+<sub>By Helene Cooper, Michael Schwirtz and Thomas Gibbons-Neff</sub>
+<p>A huge influx of munitions is needed to keep Russia’s air force from changing the course of the war, according to U.S. officials and newly leaked Pentagon documents.  <a href="https://nyti.ms/3o2Lz36"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What Do Leaked U.S. Intelligence Reports Say? Here Is a Quick Guide.</h3>
 <sub>By Eric Nagourney</sub>
 <p>Many questions remain about the classified documents that have been dribbling onto the web.  <a href="https://nyti.ms/41hh087"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Stanford Law School, the Dean Takes a Stand for Free Speech. Will It Work?</h3>
-<sub>By Vimal Patel</sub>
-<p>After a student protest, Jenny S. Martinez wrote a much-praised memo defending academic freedom. But that protest shows how complicated protecting free speech can be.  <a href="https://nyti.ms/41hSsMd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>$388 in Sushi. Just a $20 Tip: The Brutal Math of Uber Eats and DoorDash</h3>
-<sub>By Kellen Browning and Mark Abramson</sub>
-<p>Delivery drivers were hailed as pandemic heroes. But they say the rise of contactless delivery has made customers less inclined to tip generously and gig work is becoming an even harder way to make a living.  <a href="https://nyti.ms/40T7aJI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Real-World Costs of the Digital Race for Bitcoin</h3>
+<sub>By Gabriel J.X. Dance, Tim Wallace and Zach Levitt</sub>
+<p>Bitcoin mines cash in on electricity — by devouring it, selling it, even turning it off — and they cause immense pollution. In many cases, the public pays a price.  <a href="https://nyti.ms/41cCIKb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New Mexico Is Losing a Form of Spanish Spoken Nowhere Else on Earth</h3>
-<sub>By Simon Romero and Desiree Rios</sub>
-<p>A dialect from the state’s earliest Spanish-speaking settlers has endured for over 400 years in the state’s remote mountain villages. But its time may be running out.  <a href="https://nyti.ms/40ZWFo8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
+<h3>DeSantis Pushes Toughest Immigration Crackdown in the Nation</h3>
+<sub>By Miriam Jordan</sub>
+<p>The Florida governor is pushing an aggressive proposal to penalize those who aid undocumented immigrants and to track costs for providing them with health care.  <a href="https://nyti.ms/3mqwWpx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Nuevo México pierde un dialecto que no se habla en ningún otro lugar del mundo</h3>
-<sub>By Simon Romero and Desiree Rios</sub>
-<p>Durante más de 400 años, en las montañas remotas del estado ha sobrevivido el neomexicano, dialecto de los primeros colonos hispanohablantes. Pero es posible que su final esté cerca.  <a href="https://nyti.ms/43hitNq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Abortion Ruling Could Undermine the F.D.A.’s Drug-Approval Authority</h3>
+<sub>By Christina Jewett and Pam Belluck</sub>
+<p>Legal scholars say the ruling by a Texas judge, if upheld, could spur disputes over many medications and upend the drug industry’s reliance on the agency.  <a href="https://nyti.ms/3MCYvXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Jon Rahm Wins His First Masters</h3>
-<sub>By Alan Blinder and Doug Mills</sub>
-<p>Rahm trailed Brooks Koepka by two strokes at the start of Sunday’s final round but surged as Koepka faltered to claim his second major tournament victory.  <a href="https://nyti.ms/40SCUyD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Phil Mickelson Has Best Final Round in 30th Masters Appearance</h3>
-<sub>By Bill Pennington</sub>
-<p>Mickelson, who withdrew from last year’s Masters Tournament as he took criticism for joining LIV Golf, earned a measure of redemption from fans by finishing in a tie for second place.  <a href="https://nyti.ms/41iHOox"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Masters Sunday in Photographs</h3>
-<sub>By Doug Mills</sub>
-<p>After days of rain and dark clouds, the final round was sunny and clear with nothing but blue skies and green fairways providing a brilliant backdrop for Jon Rahm’s win.  <a href="https://nyti.ms/3MCIlNE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York City Offers Free Preschool. Why Are 30,000 Spots Empty?</h3>
+<sub>By Troy Closson and Raúl Vilchis</sub>
+<p>The pandemic affected enrollment for pre-K and 3-K. Now, some believe the city should ramp up efforts to enroll new children.  <a href="https://nyti.ms/3Mv1QYt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>El Salvador Decimated Its Ruthless Gangs. But at What Cost?</h3>
-<sub>By Natalie Kitroeff and Daniele Volpe</sub>
-<p>In the year since El Salvador declared a state of emergency, the government has delivered a stunning blow to the gangs that were once the ultimate authority in much of the country.  <a href="https://nyti.ms/40SOlGB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Must Tread Rocky Path in Belfast Before Tending His Irish Roots</h3>
+<sub>By Mark Landler</sub>
+<p>President Biden, who has ancestral ties to Ireland, will mark the 25th anniversary of the Good Friday Agreement in Northern Ireland before heading south.  <a href="https://nyti.ms/3UkFURW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Look at Northern Ireland 25 Years After the Peace Accord</h3>
+<sub>By Andrew Testa and Mark Landler</sub>
+<p>As it commemorates a quarter-century since the Good Friday Agreement, the region is searching for its place and trying to move on from a legacy of bloody divisions.  <a href="https://nyti.ms/3zJZOfB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Will North Carolina Be the ‘Beginning of the End’ of the Medicaid Expansion Fight?</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>Intense patient advocacy, shifting politics, a determined Democratic governor and a handful of maverick Republicans led the state to join 39 others that have expanded Medicaid.  <a href="https://nyti.ms/3GShHwX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>El Salvador diezmó a sus violentas pandillas, ¿a qué costo?</h3>
-<sub>By Natalie Kitroeff and Daniele Volpe</sub>
-<p>En el año que ha transcurrido desde que El Salvador declaró un estado de emergencia, el gobierno le ha propinado un golpe demoledor a las pandillas que solían ser la máxima autoridad en gran parte del país.  <a href="https://nyti.ms/3UjMQyF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How Brian Cox Felt About That Big Episode 3 Twist in ‘Succession’</h3>
+<sub>By Austin Considine</sub>
+<p>It was a pivotal moment for this series, which orbits his character, Logan Roy, a conservative media mogul and political kingmaker. Major spoilers ahead.  <a href="https://nyti.ms/3KpHBsy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
