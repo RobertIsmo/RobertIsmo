@@ -60,19 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 11, Central Standard Time</p>
 <p>
-There&#39;s a lot going on right now! In the US, Republicans are struggling to find ways to appeal to their base while still appealing to moderates who may be alienated by their stances on abortion, guns, and gay rights. The FDA recently had a ruling invalidating its approval of the abortion pill, leading drug company executives to speak out against it. Meanwhile, leaked documents in South Korea suggesting US spying have sparked outrage there. Similarly, leaked documents from the Pentagon could damage US operations around the world. On the other hand, automakers are facing new federal rules pressuring them to transition to electric vehicles and Ukraine has won a fight against Russia in order to keep their lights on. Scientists are also debating whether AI can be truly intelligent without a body. And finally, two lawmakers in Tennessee were recently expelled from the House but swiftly voted back into office in rebuke of their expulsion. Phew that was a mouthful!</p>
+There is a lot going on in the world right now. In the US, Republicans are facing pressure from their base on the abortion issue and trying to figure out how to move forward. The Supreme Court may face headwinds in relation to a decision concerning the abortion pill. In Seoul, leaked documents and accusations of US spying are sparking outrage. Additionally, military secrets were leaked recently and authorities are trying to investigate clues left online. Automakers have also been given a new target for electric vehicles by the US government and will have to work hard to meet these standards. Over in Ukraine, there have been Russian bombings that Ukrainians have worked hard to recover from and lethal surprises hidden everywhere in the form of Russian land mines. AIs are being challenged over whether they can gain true intelligence without having a body of their own. For their big event next year, Democrats chose Chicago as their location because it embodies liberal values and is in a battleground region. In Tennessee, a Democratic lawmaker was expelled from office only for him to be sworn back into the same house four days later which was seen as a swift rebuke to the Republican supermajority.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pressured by Their Base on Abortion, Republicans Strain to Find a Way Forward</h3>
 <sub>By Jonathan Weisman</sub>
 <p>Some in the party are urging compromise, warning of dire electoral consequences for 2024, while other stances, on guns and gay rights, also risk turning off moderates.  <a href="https://nyti.ms/3MABkxa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Drug Company Leaders Condemn Ruling Invalidating F.D.A.’s Approval of Abortion Pill</h3>
-<sub>By Pam Belluck and Christina Jewett</sub>
-<p>More than 400 executives said that the decision ignored both scientific and legal precedent and that, if the ruling stood, it would create uncertainty for the pharmaceutical and biotech industries.  <a href="https://nyti.ms/3ZPULVy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Abortion Pill Ruling May Face Headwinds at the Supreme Court</h3>
@@ -105,7 +99,7 @@ There&#39;s a lot going on right now! In the US, Republicans are struggling to f
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Ukraine Won the War to Keep the Lights On</h3>
+<h3>How Ukraine’s Power Grid Survived So Many Russian Bombings</h3>
 <sub>By Marc Santora</sub>
 <p>Russia was determined to break Ukrainians’ will by plunging them into cold and darkness. Its failure, in the face of Ukrainian resilience, offers lessons as winter has released its icy grip.  <a href="https://nyti.ms/3mji6Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
@@ -120,6 +114,12 @@ There&#39;s a lot going on right now! In the US, Republicans are struggling to f
 <h3>Can Intelligence Be Separated From the Body?</h3>
 <sub>By Oliver Whang</sub>
 <p>Some researchers question whether A.I. can be truly intelligent without a body to interact with and learn from the physical world.  <a href="https://nyti.ms/3moav4t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chicago Will Host 2024 Democratic Convention as Party Returns to Midwest</h3>
+<sub>By Katie Glueck and Shane Goldmacher</sub>
+<p>For their flagship gathering, President Biden and Democrats chose a city in the heart of a battleground region, which had argued that it embodied the party’s liberal values.  <a href="https://nyti.ms/3zNgnHt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
