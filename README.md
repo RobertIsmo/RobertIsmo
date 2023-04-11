@@ -60,10 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 11, Central Standard Time</p>
 <p>
-There are a lot of things happening in the world right now. The Biden administration is proposing cutting water supplies from the Colorado River to states, economic troubles have started to hurt tax revenues in California, and IMF has lowered its growth outlook for the global economy due to financial system tremors. In Seoul, there&#39;s an outrage over leaked documents and accusations of US spying, and in the US there&#39;s many issues such as abortion legislation for Republicans and a shooting that left five dead in Louisville. There&#39;s also news about power grids surviving Russian bombings in Ukraine and consultants trying to get people back to the office. To top it off, Chicago was just chosen to host the 2024 Democratic Convention by President Biden as they return to the Midwest. Lastly, Mark Lamb, an ally of former President Donald J. Trump, is running for Kyrsten Sinema&#39;s Senate seat in Arizona where Sinema is a Democrat-turned-independent.</p>
+There are several issues happening in the world right now.  The Biden administration is trying to impose water rationing for states that get their water from the shrinking Colorado River. In California, tech layoffs and studio cutbacks have put their economy on edge and caused a deficit instead of the previous $100 billion surplus. South Korea is experiencing outrage after leaked documents revealed US spying on allies. Egypt is accused of a plan to secretly produce weapons for Russia. In the US, there was a shooting in Louisville where the gunman bought his rifle legally, with bodycam video set to be released soon. There&#39;s also news from Ukraine about how their power grid has endured Russian bombings in attempts to break their will. President Biden recently spoke with Evan Gershkovich’s family. There&#39;s also an interesting article about consultants that are trying to get people back into the office, though not too successfully. Regarding abortion, it was revealed that there is a second drug that can be used on its own for medication abortion without FDA approval. Lastly, Chicago was chosen as the location of the 2024 Democratic Convention, reportedly embodying its liberal values.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>White House Suggests Colorado River Cuts Be Spread Evenly Among States</h3>
+<h3>Biden Administration Proposes Evenly Cutting Colorado River Water Rations</h3>
 <sub>By Christopher Flavelle</sub>
 <p>As the river shrinks, the Biden administration is getting ready to impose, for the first time, reductions in water supplies to states.  <a href="https://nyti.ms/3msCBeM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
@@ -74,34 +74,22 @@ There are a lot of things happening in the world right now. The Biden administra
 <p>As recession fears persist, the troubles in major industries have hurt tax revenues, turning the state’s $100 billion surplus into a deficit.  <a href="https://nyti.ms/43qgdTU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>I.M.F. Lowers Growth Outlook Amid Financial System Tremors</h3>
-<sub>By Alan Rappeport</sub>
-<p>The International Monetary Fund says a painful slowdown, which could include a recession, has become a bigger risk for the global economy.  <a href="https://nyti.ms/3MAARLg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Leaked Documents and Accusations of U.S. Spying Spark Outrage in Seoul</h3>
 <sub>By Choe Sang-Hun</sub>
 <p>The reaction to the leak in South Korea is perhaps the strongest so far as the Biden administration scrambles to contain the damage from apparent spying on allies.  <a href="https://nyti.ms/3UsNqdF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Clues Left Online Might Aid Leak Investigation, Officials Say</h3>
-<sub>By Julian E. Barnes, Eric Schmitt and Helene Cooper</sub>
-<p>A large number of people potentially had access to the Pentagon intelligence documents posted on social media.  <a href="https://nyti.ms/3zLBERN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pressured by Their Base on Abortion, Republicans Strain to Find a Way Forward</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Some in the party are urging compromise, warning of dire electoral consequences for 2024, while other stances, on guns and gay rights, also risk turning off moderates.  <a href="https://nyti.ms/3MABkxa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Egypt rejects a report that a leaked Pentagon document outlines its plan to ship arms to Russia.</h3>
+<sub>By Vivian Yee and Vivian Nereim</sub>
+<p>The Washington Post said the document describes an Egyptian plan to secretly produce rockets, artillery rounds and gunpowder for Russia.  <a href="https://nyti.ms/405qm5z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>A Second Drug Can Be Used on Its Own for Medication Abortion</h3>
-<sub>By Pam Belluck</sub>
-<p>The drug, misoprostol, was not part of a federal judge’s recent ruling invalidating the F.D.A. approval of the abortion pill mifepristone.  <a href="https://nyti.ms/3MvO0VN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Bragg Sues Jim Jordan in Move to Block Interference in Trump Case</h3>
+<sub>By Jonah E. Bromwich, Maggie Haberman, Ben Protess and William K. Rashbaum</sub>
+<p>Mr. Jordan, a Republican from Ohio, had subpoenaed a former prosecutor who worked on the Manhattan district attorney’s investigation into former President Donald J. Trump.  <a href="https://nyti.ms/40XAzSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,6 +104,12 @@ There are a lot of things happening in the world right now. The Biden administra
 <p>Russia was determined to break Ukrainians’ will by plunging them into cold and darkness. Its failure, in the face of Ukrainian resilience, offers lessons as winter has released its icy grip.  <a href="https://nyti.ms/3mji6Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>President Biden speaks with Evan Gershkovich’s family.</h3>
+<sub>By Carly Olson</sub>
+<p>  <a href="https://nyti.ms/40fYg89"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The R.T.O. Whisperers Have a Plan</h3>
 <sub>By Emma Goldberg</sub>
@@ -123,15 +117,21 @@ There are a lot of things happening in the world right now. The Biden administra
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chicago Will Host 2024 Democratic Convention as Party Returns to Midwest</h3>
-<sub>By Katie Glueck and Shane Goldmacher</sub>
-<p>For their flagship gathering, President Biden and Democrats chose a city in the heart of a battleground region, which had argued that it embodied the party’s liberal values.  <a href="https://nyti.ms/3zNgnHt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Pressured by Their Base on Abortion, Republicans Strain to Find a Way Forward</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Some in the party are urging compromise, warning of dire electoral consequences for 2024, while other stances, on guns and gay rights, also risk turning off moderates.  <a href="https://nyti.ms/3MABkxa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>A Second Drug Can Be Used on Its Own for Medication Abortion</h3>
+<sub>By Pam Belluck</sub>
+<p>The drug, misoprostol, was not part of a federal judge’s recent ruling invalidating the F.D.A. approval of the abortion pill mifepristone.  <a href="https://nyti.ms/3MvO0VN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Sinema’s Senate Seat Draws First Major Republican Contender</h3>
-<sub>By Neil Vigdor</sub>
-<p>Mark Lamb, a sheriff and an ally of former President Donald J. Trump, will run for the seat held by Kyrsten Sinema, a Democrat-turned-independent.  <a href="https://nyti.ms/43qvnc4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Chicago Will Host 2024 Democratic Convention as Party Returns to Midwest</h3>
+<sub>By Katie Glueck and Shane Goldmacher</sub>
+<p>For their flagship gathering, President Biden and Democrats chose a city in the heart of a battleground region, which had argued that it embodied the party’s liberal values.  <a href="https://nyti.ms/3zNgnHt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
