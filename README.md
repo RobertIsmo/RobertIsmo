@@ -60,19 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 11, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, Republicans are facing pressure from their base on the abortion issue and trying to figure out how to move forward. The Supreme Court may face headwinds in relation to a decision concerning the abortion pill. In Seoul, leaked documents and accusations of US spying are sparking outrage. Additionally, military secrets were leaked recently and authorities are trying to investigate clues left online. Automakers have also been given a new target for electric vehicles by the US government and will have to work hard to meet these standards. Over in Ukraine, there have been Russian bombings that Ukrainians have worked hard to recover from and lethal surprises hidden everywhere in the form of Russian land mines. AIs are being challenged over whether they can gain true intelligence without having a body of their own. For their big event next year, Democrats chose Chicago as their location because it embodies liberal values and is in a battleground region. In Tennessee, a Democratic lawmaker was expelled from office only for him to be sworn back into the same house four days later which was seen as a swift rebuke to the Republican supermajority.</p>
+There are a lot of things happening in the world right now. The Biden administration is proposing cutting water supplies from the Colorado River to states, economic troubles have started to hurt tax revenues in California, and IMF has lowered its growth outlook for the global economy due to financial system tremors. In Seoul, there&#39;s an outrage over leaked documents and accusations of US spying, and in the US there&#39;s many issues such as abortion legislation for Republicans and a shooting that left five dead in Louisville. There&#39;s also news about power grids surviving Russian bombings in Ukraine and consultants trying to get people back to the office. To top it off, Chicago was just chosen to host the 2024 Democratic Convention by President Biden as they return to the Midwest. Lastly, Mark Lamb, an ally of former President Donald J. Trump, is running for Kyrsten Sinema&#39;s Senate seat in Arizona where Sinema is a Democrat-turned-independent.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pressured by Their Base on Abortion, Republicans Strain to Find a Way Forward</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Some in the party are urging compromise, warning of dire electoral consequences for 2024, while other stances, on guns and gay rights, also risk turning off moderates.  <a href="https://nyti.ms/3MABkxa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>White House Suggests Colorado River Cuts Be Spread Evenly Among States</h3>
+<sub>By Christopher Flavelle</sub>
+<p>As the river shrinks, the Biden administration is getting ready to impose, for the first time, reductions in water supplies to states.  <a href="https://nyti.ms/3msCBeM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortion Pill Ruling May Face Headwinds at the Supreme Court</h3>
-<sub>By Adam Liptak</sub>
-<p>Even justices hostile to abortion and the administrative state may think twice, legal scholars said, before embracing a Texas judge’s decision.  <a href="https://nyti.ms/3KNbmoB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>California Economy Is on Edge After Tech Layoffs and Studio Cutbacks</h3>
+<sub>By Kurtis Lee</sub>
+<p>As recession fears persist, the troubles in major industries have hurt tax revenues, turning the state’s $100 billion surplus into a deficit.  <a href="https://nyti.ms/43qgdTU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>I.M.F. Lowers Growth Outlook Amid Financial System Tremors</h3>
+<sub>By Alan Rappeport</sub>
+<p>The International Monetary Fund says a painful slowdown, which could include a recession, has become a bigger risk for the global economy.  <a href="https://nyti.ms/3MAARLg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Leaked Documents and Accusations of U.S. Spying Spark Outrage in Seoul</h3>
@@ -86,16 +92,22 @@ There is a lot going on in the world right now. In the US, Republicans are facin
 <p>A large number of people potentially had access to the Pentagon intelligence documents posted on social media.  <a href="https://nyti.ms/3zLBERN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Military’s Leaked Secrets</h3>
-<sub>By German Lopez</sub>
-<p>Officials are worried that leaked documents could damage U.S. operations around the world.  <a href="https://nyti.ms/3Ksgf5l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pressured by Their Base on Abortion, Republicans Strain to Find a Way Forward</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Some in the party are urging compromise, warning of dire electoral consequences for 2024, while other stances, on guns and gay rights, also risk turning off moderates.  <a href="https://nyti.ms/3MABkxa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Automakers Face Test in Reaching U.S. Target for Electric Vehicles</h3>
-<sub>By Neal E. Boudette</sub>
-<p>New federal rules are expected to speed the transition to E.V.s, a shift that car companies have embraced but will be challenged to carry out.  <a href="https://nyti.ms/3o45bnr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>A Second Drug Can Be Used on Its Own for Medication Abortion</h3>
+<sub>By Pam Belluck</sub>
+<p>The drug, misoprostol, was not part of a federal judge’s recent ruling invalidating the F.D.A. approval of the abortion pill mifepristone.  <a href="https://nyti.ms/3MvO0VN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gunman Who Killed Five in Louisville Left Note and Bought Rifle Legally</h3>
+<sub>By Tim Arango</sub>
+<p>The police plan to release body camera video on Tuesday afternoon from officers who responded to the shooting at a downtown bank.  <a href="https://nyti.ms/3o0Pqxs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,16 +116,10 @@ There is a lot going on in the world right now. In the US, Republicans are facin
 <p>Russia was determined to break Ukrainians’ will by plunging them into cold and darkness. Its failure, in the face of Ukrainian resilience, offers lessons as winter has released its icy grip.  <a href="https://nyti.ms/3mji6Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Lethal Surprises Hidden in the Grass: Russia’s Trip Wires and Land Mines</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>As Moscow’s troops set booby traps in forests, houses and backyards, finding them has become a dangerous art for Ukrainian soldiers.  <a href="https://nyti.ms/3MwD2Qa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Can Intelligence Be Separated From the Body?</h3>
-<sub>By Oliver Whang</sub>
-<p>Some researchers question whether A.I. can be truly intelligent without a body to interact with and learn from the physical world.  <a href="https://nyti.ms/3moav4t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The R.T.O. Whisperers Have a Plan</h3>
+<sub>By Emma Goldberg</sub>
+<p>A niche group of consultants is trying to get you back to the office. It’s not going too well.  <a href="https://nyti.ms/3mk8Ixs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -123,16 +129,10 @@ There is a lot going on in the world right now. In the US, Republicans are facin
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Expelled Democratic Lawmaker Is Sworn Back in to Tennessee House</h3>
-<sub>By Emily Cochrane</sub>
-<p>The move to reappoint Representative Justin Jones was a swift rebuke to the Republican supermajority over its decision to expel him and another lawmaker for leading a gun control protest.  <a href="https://nyti.ms/3KLl0bk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tennessee House Expulsions: What You Need to Know</h3>
-<sub>By Eliza Fawcett and Emily Cochrane</sub>
-<p>Four days after the House voted to expel State Representatives Justin Jones and Justin J. Pearson, the Metropolitan Nashville Council unanimously voted to send Mr. Jones back to the seat.  <a href="https://nyti.ms/3UcyErb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<h3>Sinema’s Senate Seat Draws First Major Republican Contender</h3>
+<sub>By Neil Vigdor</sub>
+<p>Mark Lamb, a sheriff and an ally of former President Donald J. Trump, will run for the seat held by Kyrsten Sinema, a Democrat-turned-independent.  <a href="https://nyti.ms/43qvnc4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
