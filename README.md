@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, April 10, Central Standard Time</p>
+<p>It is Tuesday, April 11, Central Standard Time</p>
 <p>
-There&#39;s a lot going on right now in the world. A ruling invalidating the FDA&#39;s approval of an abortion pill has drug company leaders condemning it. In the US, Tennessee recently expelled two lawmakers for leading a gun control protest and then swore them back in as a swift rebuke to the Republican supermajority. There was also a shooting in Louisville, Kentucky with a gunman killing five co-workers that was livestreamed. Meanwhile, President Biden is finding it harder to broker new treaties in today&#39;s fractious world. In sports news, Aliyah Boston just became the second-ever top pick from her college in the WNBA draft and there are racial disparities in how its stars are showcased. Lastly, back in Virginia, a 6-year-old first grader who shot his teacher was charged with a crime and up in Manhattan there will be a hearing on Donald Trump with the Republican-led Judiciary Committee hoping to tarnish the Democratic prosecutor leading his case. Finally, Trump ignored a deadline to file personal financial disclosure to the FEC.</p>
+There seems to be a lot going on in the world right now. A ruling has been issued that invalidates the FDA&#39;s approval of an abortion pill and major drug company executives have voiced their disappointment. In Tennessee, two Democratic lawmakers were expelled from the state House and then swiftly reappointed as a rebuke of the Republican majority. There was also a horrible shooting at a bank in Louisville which left 5 people dead, and authorities are trying to find out who was responsible. President Biden is currently visiting Northern Ireland for the 25th anniversary of the Good Friday Agreement, which ended years of violence. Also, the WNBA Draft just took place with South Carolina’s Aliyah Boston being chosen as the No. 1 pick. Furthermore, there have been some racial disparities in how its stars are showcased. Over in Virginia, there have been criminal charges brought against the mother of a 6-year-old who had taken a gun to school and shot a teacher back in January. Meanwhile on Capitol Hill, there is a House Committee hearing taking place in Manhattan which will potentially tarnish businessman and former President Donald Trump. Lastly, Trump failed to meet a deadline for personal financial disclosure to the Federal Election Commission.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Drug Company Leaders Condemn Ruling Invalidating F.D.A.’s Approval of Abortion Pill</h3>
@@ -129,9 +129,9 @@ There&#39;s a lot going on right now in the world. A ruling invalidating the FDA
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Al Jaffee, King of the Mad Magazine Fold-In, Dies at 102</h3>
+<h3>Al Jaffee, Inventive Cartoonist at Mad Magazine, Dies at 102</h3>
 <sub>By Neil Genzlinger</sub>
-<p>For 55 years, he encouraged fans of the satiric magazine to mutilate it.  <a href="https://nyti.ms/402fNAd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>For 55 years he created the fold-in (as opposed to, say, Playboy’s fold-out), giving readers a satirical double-take on whatever was going on in the news or elsewhere.  <a href="https://nyti.ms/402fNAd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
