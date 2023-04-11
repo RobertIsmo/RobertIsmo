@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 11, Central Standard Time</p>
 <p>
-There seems to be a lot going on in the world right now. A ruling has been issued that invalidates the FDA&#39;s approval of an abortion pill and major drug company executives have voiced their disappointment. In Tennessee, two Democratic lawmakers were expelled from the state House and then swiftly reappointed as a rebuke of the Republican majority. There was also a horrible shooting at a bank in Louisville which left 5 people dead, and authorities are trying to find out who was responsible. President Biden is currently visiting Northern Ireland for the 25th anniversary of the Good Friday Agreement, which ended years of violence. Also, the WNBA Draft just took place with South Carolina’s Aliyah Boston being chosen as the No. 1 pick. Furthermore, there have been some racial disparities in how its stars are showcased. Over in Virginia, there have been criminal charges brought against the mother of a 6-year-old who had taken a gun to school and shot a teacher back in January. Meanwhile on Capitol Hill, there is a House Committee hearing taking place in Manhattan which will potentially tarnish businessman and former President Donald Trump. Lastly, Trump failed to meet a deadline for personal financial disclosure to the Federal Election Commission.</p>
+There&#39;s been a lot going on lately in both the US and around the world. In the US, there&#39;s been some political unrest with the Tennessee House voting to expel two Democratic lawmakers who led a gun control protest but then swiftly reappointing one of them to his seat. There was also an armed attack in Louisville, KY where a gunman killed five people at a bank. On top of this, the US has been facing global unrest, with leaked Pentagon documents causing drama in South Korea and Russia laying trip wires and land mines in Ukraine. On a more positive note, President Biden is going to visit Northern Ireland to commemorate the 25th anniversary of the Good Friday Agreement. And finally, the WNBA draft happened recently - Aliyah Boston was the No. 1 pick by the Indiana Fever.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Drug Company Leaders Condemn Ruling Invalidating F.D.A.’s Approval of Abortion Pill</h3>
@@ -92,6 +92,18 @@ There seems to be a lot going on in the world right now. A ruling has been issue
 <p>A large number of people potentially had access to the Pentagon intelligence documents posted on social media.  <a href="https://nyti.ms/3zLBERN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Lethal Surprises Hidden in the Grass: Russia’s Trip Wires and Land Mines</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>As Moscow’s troops set booby traps in forests, houses and backyards, finding them has become a dangerous art for Ukrainian soldiers.  <a href="https://nyti.ms/3MwD2Qa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Amid Furor, Seoul Downplays Leaked Pentagon Documents</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>As opposition lawmakers in South Korea accuse Washington of spying, President Yoon Suk Yeol has tried to minimize the significance of the breach.  <a href="https://nyti.ms/3UsNqdF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Biden, an Era When Treaties Are More Likely to Be Broken Than Brokered</h3>
 <sub>By Peter Baker</sub>
@@ -120,18 +132,6 @@ There seems to be a lot going on in the world right now. A ruling has been issue
 <h3>House Panel Plans Manhattan Hearing. Bragg Calls It a ‘Political Stunt.’</h3>
 <sub>By Ed Shanahan</sub>
 <p>The Republican-led Judiciary Committee hopes to tarnish the Democratic prosecutor who is leading the criminal case against former President Donald J. Trump.  <a href="https://nyti.ms/3KiDPkQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Ignores Deadline for Personal Financial Disclosure to F.E.C.</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The disclosure will eventually provide the first look at the former president’s businesses since leaving the White House.  <a href="https://nyti.ms/3KNaMao"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Al Jaffee, Inventive Cartoonist at Mad Magazine, Dies at 102</h3>
-<sub>By Neil Genzlinger</sub>
-<p>For 55 years he created the fold-in (as opposed to, say, Playboy’s fold-out), giving readers a satirical double-take on whatever was going on in the news or elsewhere.  <a href="https://nyti.ms/402fNAd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
