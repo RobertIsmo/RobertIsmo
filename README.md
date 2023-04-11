@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 10, Central Standard Time</p>
 <p>
-There have been a lot of developments in the news lately. The leaders of a drug company recently condemned a ruling invalidating the FDA&#39;s approval of an abortion pill, a Democratic lawmaker was sworn back into the Tennessee House after being expelled, and a gunman killed four co-workers at a bank in Louisville while live-streaming the shooting. Meanwhile, there have been scores of mass shootings in the US this year so far, and authorities are looking for clues online regarding a large leak of classified Pentagon documents. 
-
-In terms of economic news, the recent turmoil in banks has caused some real-world costs by squeezing borrowers and raising fears of a slow-down. There are also environmental costs to consider with Bitcoin because digital miners consume lots of electricity, sell it, and even turn it off which causes immense amounts of pollution. 
-
-On the sports front, Aliyah Boston from South Carolina University was picked as the first pick for WNBA draft. However, women’s basketball still doesn&#39;t showcase some racial disparities in its stars. Additionally, charges were filed against the mother of 6-year-old who shot a teacher back in January, and Trump is appealing a decision which requires former Vice President Mike Pence to testify to grand jury about his efforts to stay in office during the Jan 6 incident.</p>
+There&#39;s a lot going on right now in the world. A ruling invalidating the FDA&#39;s approval of an abortion pill has drug company leaders condemning it. In the US, Tennessee recently expelled two lawmakers for leading a gun control protest and then swore them back in as a swift rebuke to the Republican supermajority. There was also a shooting in Louisville, Kentucky with a gunman killing five co-workers that was livestreamed. Meanwhile, President Biden is finding it harder to broker new treaties in today&#39;s fractious world. In sports news, Aliyah Boston just became the second-ever top pick from her college in the WNBA draft and there are racial disparities in how its stars are showcased. Lastly, back in Virginia, a 6-year-old first grader who shot his teacher was charged with a crime and up in Manhattan there will be a hearing on Donald Trump with the Republican-led Judiciary Committee hoping to tarnish the Democratic prosecutor leading his case. Finally, Trump ignored a deadline to file personal financial disclosure to the FEC.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Drug Company Leaders Condemn Ruling Invalidating F.D.A.’s Approval of Abortion Pill</h3>
@@ -79,16 +75,16 @@ On the sports front, Aliyah Boston from South Carolina University was picked as 
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gunman Kills 4 Co-Workers at Louisville Bank on Livestream, Police Say</h3>
+<h3>Tennessee House Expulsions: What You Need to Know</h3>
+<sub>By Eliza Fawcett and Emily Cochrane</sub>
+<p>Four days after the House voted to expel State Representatives Justin Jones and Justin J. Pearson, the Metropolitan Nashville Council unanimously voted to send Mr. Jones back to the seat.  <a href="https://nyti.ms/3UcyErb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gunman Kills 5 Co-Workers at Louisville Bank on Livestream, Police Say</h3>
 <sub>By Kevin Williams, Amanda Holpuch and Campbell Robertson</sub>
 <p>The police did not give a motive for the shooting in the Kentucky city but said that the gunman, who also died, had been a bank employee.  <a href="https://nyti.ms/40SVyGL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Partial List of U.S. Mass Shootings in 2023</h3>
-<sub>By The New York Times</sub>
-<p>There is no official consensus on what constitutes a mass shooting, but by one count there have already been scores so far this year.  <a href="https://nyti.ms/3D9OXhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Clues Left Online Might Aid Leak Investigation, Officials Say</h3>
@@ -96,17 +92,11 @@ On the sports front, Aliyah Boston from South Carolina University was picked as 
 <p>A large number of people potentially had access to the Pentagon intelligence documents posted on social media.  <a href="https://nyti.ms/3zLBERN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bank Turmoil Squeezes Borrowers, Raising Fears of a Slowdown</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Economists are watching for the aftereffects of recent bank collapses across many industries. How bad could it get?  <a href="https://nyti.ms/40SqUwY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Biden, an Era When Treaties Are More Likely to Be Broken Than Brokered</h3>
+<sub>By Peter Baker</sub>
+<p>The president’s trip to Northern Ireland will mark the 25th anniversary of the Good Friday Agreement, which ended decades of violence. But such breakthroughs are harder to achieve in today’s fractious world.  <a href="https://nyti.ms/3MtSRH1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Real-World Costs of the Digital Race for Bitcoin</h3>
-<sub>By Gabriel J.X. Dance, Tim Wallace and Zach Levitt</sub>
-<p>Bitcoin mines cash in on electricity — by devouring it, selling it, even turning it off — and they cause immense pollution. In many cases, the public pays a price.  <a href="https://nyti.ms/41cCIKb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>W.N.B.A. Draft: Aliyah Boston Goes No. 1 to Indiana Fever</h3>
@@ -133,9 +123,15 @@ On the sports front, Aliyah Boston from South Carolina University was picked as 
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Appeals Decision Forcing Pence to Testify to Jan. 6 Grand Jury</h3>
-<sub>By Alan Feuer</sub>
-<p>The appeal seeks to narrow the scope of testimony that former Vice President Mike Pence can provide the grand jury investigating former President Donald Trump’s efforts to stay in power.  <a href="https://nyti.ms/43iFGyK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Ignores Deadline for Personal Financial Disclosure to F.E.C.</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The disclosure will eventually provide the first look at the former president’s businesses since leaving the White House.  <a href="https://nyti.ms/3KNaMao"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Al Jaffee, King of the Mad Magazine Fold-In, Dies at 102</h3>
+<sub>By Neil Genzlinger</sub>
+<p>For 55 years, he encouraged fans of the satiric magazine to mutilate it.  <a href="https://nyti.ms/402fNAd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
