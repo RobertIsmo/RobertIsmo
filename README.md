@@ -60,13 +60,67 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 11, Central Standard Time</p>
 <p>
-There&#39;s been a lot going on lately in both the US and around the world. In the US, there&#39;s been some political unrest with the Tennessee House voting to expel two Democratic lawmakers who led a gun control protest but then swiftly reappointing one of them to his seat. There was also an armed attack in Louisville, KY where a gunman killed five people at a bank. On top of this, the US has been facing global unrest, with leaked Pentagon documents causing drama in South Korea and Russia laying trip wires and land mines in Ukraine. On a more positive note, President Biden is going to visit Northern Ireland to commemorate the 25th anniversary of the Good Friday Agreement. And finally, the WNBA draft happened recently - Aliyah Boston was the No. 1 pick by the Indiana Fever.</p>
+There&#39;s a lot going on right now! In the US, Republicans are struggling to find ways to appeal to their base while still appealing to moderates who may be alienated by their stances on abortion, guns, and gay rights. The FDA recently had a ruling invalidating its approval of the abortion pill, leading drug company executives to speak out against it. Meanwhile, leaked documents in South Korea suggesting US spying have sparked outrage there. Similarly, leaked documents from the Pentagon could damage US operations around the world. On the other hand, automakers are facing new federal rules pressuring them to transition to electric vehicles and Ukraine has won a fight against Russia in order to keep their lights on. Scientists are also debating whether AI can be truly intelligent without a body. And finally, two lawmakers in Tennessee were recently expelled from the House but swiftly voted back into office in rebuke of their expulsion. Phew that was a mouthful!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pressured by Their Base on Abortion, Republicans Strain to Find a Way Forward</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Some in the party are urging compromise, warning of dire electoral consequences for 2024, while other stances, on guns and gay rights, also risk turning off moderates.  <a href="https://nyti.ms/3MABkxa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Drug Company Leaders Condemn Ruling Invalidating F.D.A.’s Approval of Abortion Pill</h3>
 <sub>By Pam Belluck and Christina Jewett</sub>
 <p>More than 400 executives said that the decision ignored both scientific and legal precedent and that, if the ruling stood, it would create uncertainty for the pharmaceutical and biotech industries.  <a href="https://nyti.ms/3ZPULVy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Abortion Pill Ruling May Face Headwinds at the Supreme Court</h3>
+<sub>By Adam Liptak</sub>
+<p>Even justices hostile to abortion and the administrative state may think twice, legal scholars said, before embracing a Texas judge’s decision.  <a href="https://nyti.ms/3KNbmoB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Leaked Documents and Accusations of U.S. Spying Spark Outrage in Seoul</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>The reaction to the leak in South Korea is perhaps the strongest so far as the Biden administration scrambles to contain the damage from apparent spying on allies.  <a href="https://nyti.ms/3UsNqdF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Clues Left Online Might Aid Leak Investigation, Officials Say</h3>
+<sub>By Julian E. Barnes, Eric Schmitt and Helene Cooper</sub>
+<p>A large number of people potentially had access to the Pentagon intelligence documents posted on social media.  <a href="https://nyti.ms/3zLBERN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Military’s Leaked Secrets</h3>
+<sub>By German Lopez</sub>
+<p>Officials are worried that leaked documents could damage U.S. operations around the world.  <a href="https://nyti.ms/3Ksgf5l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Automakers Face Test in Reaching U.S. Target for Electric Vehicles</h3>
+<sub>By Neal E. Boudette</sub>
+<p>New federal rules are expected to speed the transition to E.V.s, a shift that car companies have embraced but will be challenged to carry out.  <a href="https://nyti.ms/3o45bnr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Ukraine Won the War to Keep the Lights On</h3>
+<sub>By Marc Santora</sub>
+<p>Russia was determined to break Ukrainians’ will by plunging them into cold and darkness. Its failure, in the face of Ukrainian resilience, offers lessons as winter has released its icy grip.  <a href="https://nyti.ms/3mji6Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Lethal Surprises Hidden in the Grass: Russia’s Trip Wires and Land Mines</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>As Moscow’s troops set booby traps in forests, houses and backyards, finding them has become a dangerous art for Ukrainian soldiers.  <a href="https://nyti.ms/3MwD2Qa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Can Intelligence Be Separated From the Body?</h3>
+<sub>By Oliver Whang</sub>
+<p>Some researchers question whether A.I. can be truly intelligent without a body to interact with and learn from the physical world.  <a href="https://nyti.ms/3moav4t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Expelled Democratic Lawmaker Is Sworn Back in to Tennessee House</h3>
@@ -79,60 +133,6 @@ There&#39;s been a lot going on lately in both the US and around the world. In t
 <sub>By Eliza Fawcett and Emily Cochrane</sub>
 <p>Four days after the House voted to expel State Representatives Justin Jones and Justin J. Pearson, the Metropolitan Nashville Council unanimously voted to send Mr. Jones back to the seat.  <a href="https://nyti.ms/3UcyErb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gunman Kills 5 Co-Workers at Louisville Bank on Livestream, Police Say</h3>
-<sub>By Kevin Williams, Amanda Holpuch and Campbell Robertson</sub>
-<p>The police did not give a motive for the shooting in the Kentucky city but said that the gunman, who also died, had been a bank employee.  <a href="https://nyti.ms/40SVyGL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Clues Left Online Might Aid Leak Investigation, Officials Say</h3>
-<sub>By Julian E. Barnes, Eric Schmitt and Helene Cooper</sub>
-<p>A large number of people potentially had access to the Pentagon intelligence documents posted on social media.  <a href="https://nyti.ms/3zLBERN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Lethal Surprises Hidden in the Grass: Russia’s Trip Wires and Land Mines</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>As Moscow’s troops set booby traps in forests, houses and backyards, finding them has become a dangerous art for Ukrainian soldiers.  <a href="https://nyti.ms/3MwD2Qa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid Furor, Seoul Downplays Leaked Pentagon Documents</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>As opposition lawmakers in South Korea accuse Washington of spying, President Yoon Suk Yeol has tried to minimize the significance of the breach.  <a href="https://nyti.ms/3UsNqdF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Biden, an Era When Treaties Are More Likely to Be Broken Than Brokered</h3>
-<sub>By Peter Baker</sub>
-<p>The president’s trip to Northern Ireland will mark the 25th anniversary of the Good Friday Agreement, which ended decades of violence. But such breakthroughs are harder to achieve in today’s fractious world.  <a href="https://nyti.ms/3MtSRH1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>W.N.B.A. Draft: Aliyah Boston Goes No. 1 to Indiana Fever</h3>
-<sub>By Kris Rhim</sub>
-<p>Boston, a senior forward from the University of South Carolina, was the second-ever top pick from her college.  <a href="https://nyti.ms/3o43A0C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Growing W.N.B.A. Still Boxes Out Some Personalities</h3>
-<sub>By Kurt Streeter</sub>
-<p>Ahead of the W.N.B.A. draft, women’s basketball remains troubled by racial disparities in how its stars are showcased.  <a href="https://nyti.ms/3UwLErN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Charges Filed Against Mother of 6-Year-Old Who Shot a Teacher</h3>
-<sub>By Jacey Fortin</sub>
-<p>Prosecutors had previously decided not to charge the boy, a first grader who took the gun to his Newport News, Va., elementary school in January.  <a href="https://nyti.ms/3zIAGWJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>House Panel Plans Manhattan Hearing. Bragg Calls It a ‘Political Stunt.’</h3>
-<sub>By Ed Shanahan</sub>
-<p>The Republican-led Judiciary Committee hopes to tarnish the Democratic prosecutor who is leading the criminal case against former President Donald J. Trump.  <a href="https://nyti.ms/3KiDPkQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
