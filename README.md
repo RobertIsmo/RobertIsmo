@@ -60,24 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 10, Central Standard Time</p>
 <p>
-It’s been a busy news week. On the health front, a court ruling invalidated the FDA&#39;s approval for an abortion pill and could put a strain on the drug industry&#39;s reliance on the agency. In Louisville, Ky., a shooting left four dead and nine injured, with the motive currently unknown. Nationwide, the U.S. has faced scores of mass shootings already in 2023 alone. The latest documents leaked from the Trump administration have raised fresh concerns over how this could all be dealt with in future operations. In Ukraine, soldiers are learning how to cope with combat stress while closer to home, Americans have been faced by bank collapses which may lead to an economic slowdown. Elon Musk&#39;s Bitcoin mines obsession is taking its toll too, as it uses up masses of energy and public funds in order to cash in on it. Lastly, charges were filed against the mother of a six-year-old who shot his teacher within an elementary school in January.</p>
+There have been a lot of developments in the news lately. The leaders of a drug company recently condemned a ruling invalidating the FDA&#39;s approval of an abortion pill, a Democratic lawmaker was sworn back into the Tennessee House after being expelled, and a gunman killed four co-workers at a bank in Louisville while live-streaming the shooting. Meanwhile, there have been scores of mass shootings in the US this year so far, and authorities are looking for clues online regarding a large leak of classified Pentagon documents. 
+
+In terms of economic news, the recent turmoil in banks has caused some real-world costs by squeezing borrowers and raising fears of a slow-down. There are also environmental costs to consider with Bitcoin because digital miners consume lots of electricity, sell it, and even turn it off which causes immense amounts of pollution. 
+
+On the sports front, Aliyah Boston from South Carolina University was picked as the first pick for WNBA draft. However, women’s basketball still doesn&#39;t showcase some racial disparities in its stars. Additionally, charges were filed against the mother of 6-year-old who shot a teacher back in January, and Trump is appealing a decision which requires former Vice President Mike Pence to testify to grand jury about his efforts to stay in office during the Jan 6 incident.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Drug Company Leaders Condemn Ruling Invalidating F.D.A. Approval of Abortion Pill</h3>
+<h3>Drug Company Leaders Condemn Ruling Invalidating F.D.A.’s Approval of Abortion Pill</h3>
 <sub>By Pam Belluck and Christina Jewett</sub>
-<p>More than 400 executives said that the decision ignored scientific and legal precedent. On Monday afternoon, the Justice Department asked a federal appeals court to stay the ruling.  <a href="https://nyti.ms/3ZPULVy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Abortion Ruling Could Undermine the F.D.A.’s Drug-Approval Authority</h3>
-<sub>By Christina Jewett and Pam Belluck</sub>
-<p>Legal scholars say the ruling by a Texas judge, if upheld, could spur disputes over many medications and upend the drug industry’s reliance on the agency.  <a href="https://nyti.ms/3MCYvXk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>More than 400 executives said that the decision ignored both scientific and legal precedent and that, if the ruling stood, it would create uncertainty for the pharmaceutical and biotech industries.  <a href="https://nyti.ms/3ZPULVy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>4 Dead and 9 Injured in Shooting in Louisville, Ky., Police Say</h3>
-<sub>By Amanda Holpuch</sub>
-<p>The police did not give a motive for the shooting, but they said that the gunman, who also died, may have been a current or former bank employee.  <a href="https://nyti.ms/40SVyGL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Expelled Democratic Lawmaker Is Sworn Back in to Tennessee House</h3>
+<sub>By Emily Cochrane</sub>
+<p>The move to reappoint Representative Justin Jones was a swift rebuke to the Republican supermajority over its decision to expel him and another lawmaker for leading a gun control protest.  <a href="https://nyti.ms/3KLl0bk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gunman Kills 4 Co-Workers at Louisville Bank on Livestream, Police Say</h3>
+<sub>By Kevin Williams, Amanda Holpuch and Campbell Robertson</sub>
+<p>The police did not give a motive for the shooting in the Kentucky city but said that the gunman, who also died, had been a bank employee.  <a href="https://nyti.ms/40SVyGL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,15 +91,9 @@ It’s been a busy news week. On the health front, a court ruling invalidated th
 <sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Latest Leaked Documents Are Different From Past Breaches</h3>
-<sub>By David E. Sanger</sub>
-<p>The freshness of the documents — some appear to be barely 40 days old — and the hints they hold for operations to come make them particularly damaging, officials say.  <a href="https://nyti.ms/3UoQnMb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Near Ukraine’s front lines, soldiers learn how to deal with combat stress.</h3>
-<sub>By Yousur Al-Hlou and Masha Froliak</sub>
-<p>  <a href="https://nyti.ms/3mqjFxd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Clues Left Online Might Aid Leak Investigation, Officials Say</h3>
+<sub>By Julian E. Barnes, Eric Schmitt and Helene Cooper</sub>
+<p>A large number of people potentially had access to the Pentagon intelligence documents posted on social media.  <a href="https://nyti.ms/3zLBERN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,28 +108,34 @@ It’s been a busy news week. On the health front, a court ruling invalidated th
 <p>Bitcoin mines cash in on electricity — by devouring it, selling it, even turning it off — and they cause immense pollution. In many cases, the public pays a price.  <a href="https://nyti.ms/41cCIKb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Appeals Decision Forcing Pence to Testify to Jan. 6 Grand Jury</h3>
-<sub>By Alan Feuer</sub>
-<p>The appeal seeks to narrow the scope of testimony that former Vice President Mike Pence can provide the grand jury investigating former President Donald Trump’s efforts to stay in power.  <a href="https://nyti.ms/43iFGyK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>W.N.B.A. Draft: Aliyah Boston Goes No. 1 to Indiana Fever</h3>
+<sub>By Kris Rhim</sub>
+<p>Boston, a senior forward from the University of South Carolina, was the second-ever top pick from her college.  <a href="https://nyti.ms/3o43A0C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Ignores Deadline for Personal Financial Disclosure to F.E.C.</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The disclosure will eventually provide the first look at the former president’s businesses since leaving the White House.  <a href="https://nyti.ms/3KNaMao"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A Growing W.N.B.A. Still Boxes Out Some Personalities</h3>
+<sub>By Kurt Streeter</sub>
+<p>Ahead of the W.N.B.A. draft, women’s basketball remains troubled by racial disparities in how its stars are showcased.  <a href="https://nyti.ms/3UwLErN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Charges Filed Against Mother of 6-Year-Old Who Shot a Teacher</h3>
 <sub>By Jacey Fortin</sub>
-<p>Prosecutors had previously decided not to charge the boy, a first grader who brought the gun to his Newport News, Va., elementary school in January.  <a href="https://nyti.ms/3zIAGWJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Prosecutors had previously decided not to charge the boy, a first grader who took the gun to his Newport News, Va., elementary school in January.  <a href="https://nyti.ms/3zIAGWJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Mickey Bars, Turkey Legs and the Obsession With Disney Food</h3>
-<sub>By Tejal Rao</sub>
-<p>A fascination with the theme parks’ cuisine has spawned fan websites and snagged our critic, who has a Disney back story of her own.  <a href="https://nyti.ms/43fu3c1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>House Panel Plans Manhattan Hearing. Bragg Calls It a ‘Political Stunt.’</h3>
+<sub>By Ed Shanahan</sub>
+<p>The Republican-led Judiciary Committee hopes to tarnish the Democratic prosecutor who is leading the criminal case against former President Donald J. Trump.  <a href="https://nyti.ms/3KiDPkQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Appeals Decision Forcing Pence to Testify to Jan. 6 Grand Jury</h3>
+<sub>By Alan Feuer</sub>
+<p>The appeal seeks to narrow the scope of testimony that former Vice President Mike Pence can provide the grand jury investigating former President Donald Trump’s efforts to stay in power.  <a href="https://nyti.ms/43iFGyK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
