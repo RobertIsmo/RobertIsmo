@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, April 11, Central Standard Time</p>
+<p>It is Wednesday, April 12, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world right now. French President Emmanuel Macron has been facing backlash from some allies after his performance during a recent trip to Beijing. In Russia, there&#39;s a new law making it harder for people to avoid compulsory military service and four potential “wild card” scenarios are being discussed regarding the Russia-Ukraine conflict. The Biden administration is proposing to cut water allotments from the Colorado River in an effort to save dwindling resources, and a YouTube celebrity is at the center of an uproar over leaked military secrets that were posted in an online meme group. In Ukraine, U.S. officials spoke with counterparts about the document leaks, and in the U.S., Congressman Jim Jordan is being sued in an attempt to block interference in former president Donald J. Trump&#39;s case, while Supreme Court Justice Clarence Thomas&#39; relationship with Harlan Crow has sparked questions about whether or not friendship can be separated from politics. Meanwhile, a judge&#39;s ruling against abortion pill adoption has drawn attention due to its use of terminology like &quot;chemical abortion&quot; and &quot;unborn human&quot; for anti-abortion groups, and consultants are trying to get people back into the office despite potential recession fears resulting from tech layoffs and studio cutbacks exacerbating California&#39;s budget deficit. Finally, reports surfaced that the gunman who killed five people in Louisville left a note before purchasing his rifle legally.</p>
+There&#39;s a lot going on right now around the world. French president Emmanuel Macron received backlash after cozying up to Beijing during his visit to China. Russia has just passed a law that makes it harder to dodge military service, and there&#39;s speculation of looming conflict between Russia and Ukraine. On the climate front, the Biden administration proposed cutting Colorado River water allotments since the river is shrinking due to climate change. Meanwhile, an online meme group involving Youth culture and military secrets sparked controversy on YouTube. In response, US leaders Lloyd J. Austin III and Antony J. Blinken spoke directly with Ukraine about the breach. Back in the US, Ohio congressman Jim Jordan is being sued by Bragg for interfering in Trump&#39;s case, and Supreme Court justice Clarence Thomas is facing criticism for his relationship with an eccentric billionaire. Additionally, Louisville police revealed that the gunman who killed five people last month had a legally bought rifle and left a note. Lastly, journalist Kwame Brathwaite passed away at 85 - he was part of the &#39;Black is Beautiful&#39; movement during the civil rights era and captured iconic images of everyday people as well as athletes, models, and musicians. All this and California&#39;s economy is on edge due to tech layoffs and studios cutting back - they&#39;ve gone from $100 billion in surplus to deficit in no time at all!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>From Red Carpet to Doghouse: Macron Returns From China to Allied Dismay</h3>
@@ -116,16 +116,16 @@ There&#39;s a lot going on around the world right now. French President Emmanuel
 <p>The preliminary ruling from Judge Matthew J. Kacsmaryk adopts the terminology of anti-abortion groups, such as “chemical abortion,” “abortionist” and “unborn human.”  <a href="https://nyti.ms/3UtExAo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The R.T.O. Whisperers Have a Plan</h3>
-<sub>By Emma Goldberg</sub>
-<p>A niche group of consultants is trying to get you back to the office. It’s not going too well.  <a href="https://nyti.ms/3mk8Ixs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Gunman Who Killed Five in Louisville Left Note and Bought Rifle Legally</h3>
 <sub>By Kevin Williams, Nicholas Bogel-Burroughs and Tim Arango</sub>
 <p>The police released body camera video on Tuesday afternoon from officers who responded to the shooting at a downtown bank.  <a href="https://nyti.ms/3o0Pqxs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Kwame Brathwaite, 85, Photographer With a Lens on Black Pride, Is Dead</h3>
+<sub>By Alex Williams</sub>
+<p>Part of the ‘Black is beautiful’ movement during the civil rights era, he trained his camera on athletes, musicians and models as well as everyday people.  <a href="https://nyti.ms/3KSnCEr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
