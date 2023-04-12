@@ -60,30 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 11, Central Standard Time</p>
 <p>
-There are several issues happening in the world right now.  The Biden administration is trying to impose water rationing for states that get their water from the shrinking Colorado River. In California, tech layoffs and studio cutbacks have put their economy on edge and caused a deficit instead of the previous $100 billion surplus. South Korea is experiencing outrage after leaked documents revealed US spying on allies. Egypt is accused of a plan to secretly produce weapons for Russia. In the US, there was a shooting in Louisville where the gunman bought his rifle legally, with bodycam video set to be released soon. There&#39;s also news from Ukraine about how their power grid has endured Russian bombings in attempts to break their will. President Biden recently spoke with Evan Gershkovich’s family. There&#39;s also an interesting article about consultants that are trying to get people back into the office, though not too successfully. Regarding abortion, it was revealed that there is a second drug that can be used on its own for medication abortion without FDA approval. Lastly, Chicago was chosen as the location of the 2024 Democratic Convention, reportedly embodying its liberal values.</p>
+There&#39;s a lot going on in the world right now. The Biden administration is proposing reducing water supplies from the Colorado River, which is shrinking due to climate change. There was an uproar over leaked military secrets after an online meme group related to it was discovered. The U.S. spoke to Ukraine officials about a document leak and also discussed Supreme Court Justice Clarence Thomas&#39; jet-setting trips with a billionaire for potential ethical issues. There&#39;s also been a case against Jim Jordan trying to block interference with the Donald Trump case from Manhattan district attorney’s investigation. Meanwhile, there are economic troubles in California due to layoffs in tech and studio cutbacks and in Russia, they&#39;ve made it more difficult to avoid draft if the situation in Ukraine escalates even further with the four &#39;wild card&#39; scenarios outlined by the Defense Intelligence Agency. Finally, President Biden will be celebrating diplomacy and his own Irish roots in Belfast soon.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Administration Proposes Evenly Cutting Colorado River Water Rations</h3>
+<h3>Biden Administration Proposes Evenly Cutting Water Allotments From Colorado River</h3>
 <sub>By Christopher Flavelle</sub>
 <p>As the river shrinks, the Biden administration is getting ready to impose, for the first time, reductions in water supplies to states.  <a href="https://nyti.ms/3msCBeM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>California Economy Is on Edge After Tech Layoffs and Studio Cutbacks</h3>
-<sub>By Kurtis Lee</sub>
-<p>As recession fears persist, the troubles in major industries have hurt tax revenues, turning the state’s $100 billion surplus into a deficit.  <a href="https://nyti.ms/43qgdTU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>An Online Meme Group Is at the Center of Uproar Over Leaked Military Secrets</h3>
+<sub>By Kellen Browning and Stuart A. Thompson</sub>
+<p>Youth culture and national defense collided in a community known for edgy jokes. The YouTube celebrity it was dedicated to seemed as surprised as anyone.  <a href="https://nyti.ms/402mdzB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Leaked Documents and Accusations of U.S. Spying Spark Outrage in Seoul</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>The reaction to the leak in South Korea is perhaps the strongest so far as the Biden administration scrambles to contain the damage from apparent spying on allies.  <a href="https://nyti.ms/3UsNqdF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Egypt rejects a report that a leaked Pentagon document outlines its plan to ship arms to Russia.</h3>
-<sub>By Vivian Yee and Vivian Nereim</sub>
-<p>The Washington Post said the document describes an Egyptian plan to secretly produce rockets, artillery rounds and gunpowder for Russia.  <a href="https://nyti.ms/405qm5z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Officials Speak to Ukrainians After Document Leaks</h3>
+<sub>By Michael Crowley</sub>
+<p>Defense Secretary Lloyd J. Austin III and Secretary of State Antony J. Blinken talked to their counterparts in Kyiv, but offered little detail on the investigation into the breach.  <a href="https://nyti.ms/3GzrBmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -93,21 +87,15 @@ There are several issues happening in the world right now.  The Biden administra
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gunman Who Killed Five in Louisville Left Note and Bought Rifle Legally</h3>
-<sub>By Tim Arango</sub>
-<p>The police plan to release body camera video on Tuesday afternoon from officers who responded to the shooting at a downtown bank.  <a href="https://nyti.ms/3o0Pqxs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Jet-Setting With Clarence Thomas Puts Spotlight on an Eccentric Billionaire</h3>
+<sub>By Abbie VanSickle</sub>
+<p>The justice’s relationship with Harlan Crow has raised questions about whether a friendship can be separated from politics and intensified calls for an ethics code for the justices.  <a href="https://nyti.ms/41plp93"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Ukraine’s Power Grid Survived So Many Russian Bombings</h3>
-<sub>By Marc Santora</sub>
-<p>Russia was determined to break Ukrainians’ will by plunging them into cold and darkness. Its failure, in the face of Ukrainian resilience, offers lessons as winter has released its icy grip.  <a href="https://nyti.ms/3mji6Bt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>President Biden speaks with Evan Gershkovich’s family.</h3>
-<sub>By Carly Olson</sub>
-<p>  <a href="https://nyti.ms/40fYg89"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge’s Ruling Against Abortion Pill Is Filled With Activists’ Language</h3>
+<sub>By Charlie Savage and Pam Belluck</sub>
+<p>The preliminary ruling from Judge Matthew J. Kacsmaryk adopts the terminology of anti-abortion groups, such as “chemical abortion,” “abortionist” and “unborn human.”  <a href="https://nyti.ms/3UtExAo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -117,21 +105,33 @@ There are several issues happening in the world right now.  The Biden administra
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pressured by Their Base on Abortion, Republicans Strain to Find a Way Forward</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Some in the party are urging compromise, warning of dire electoral consequences for 2024, while other stances, on guns and gay rights, also risk turning off moderates.  <a href="https://nyti.ms/3MABkxa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Gunman Who Killed Five in Louisville Left Note and Bought Rifle Legally</h3>
+<sub>By Kevin Williams, Nicholas Bogel-Burroughs and Tim Arango</sub>
+<p>The police released body camera video on Tuesday afternoon from officers who responded to the shooting at a downtown bank.  <a href="https://nyti.ms/3o0Pqxs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>A Second Drug Can Be Used on Its Own for Medication Abortion</h3>
-<sub>By Pam Belluck</sub>
-<p>The drug, misoprostol, was not part of a federal judge’s recent ruling invalidating the F.D.A. approval of the abortion pill mifepristone.  <a href="https://nyti.ms/3MvO0VN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>California Economy Is on Edge After Tech Layoffs and Studio Cutbacks</h3>
+<sub>By Kurtis Lee</sub>
+<p>As recession fears persist, the troubles in major industries have hurt tax revenues, turning the state’s $100 billion surplus into a deficit.  <a href="https://nyti.ms/43qgdTU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Moves to Make Draft Evasion More Difficult</h3>
+<sub>By Ivan Nechepurenko, Neil MacFarquhar and Vjosa Isai</sub>
+<p>A new law would bar anyone called up to fight in Ukraine from leaving the country, among other restrictions, even as the Kremlin insists it is not planning a new conscription.  <a href="https://nyti.ms/401xaRG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A leaked document outlines four ‘wild card’ scenarios in the Russia-Ukraine conflict.</h3>
+<sub>By Haley Willis, Julian E. Barnes and Christiaan Triebert</sub>
+<p>The scenarios, as assessed by the Defense Intelligence Agency, include the deaths of Presidents Vladimir V. Putin of Russia and Volodymyr Zelensky of Ukraine.  <a href="https://nyti.ms/3mrAh80"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chicago Will Host 2024 Democratic Convention as Party Returns to Midwest</h3>
-<sub>By Katie Glueck and Shane Goldmacher</sub>
-<p>For their flagship gathering, President Biden and Democrats chose a city in the heart of a battleground region, which had argued that it embodied the party’s liberal values.  <a href="https://nyti.ms/3zNgnHt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden to Celebrate Diplomacy, and His Own Irish Roots, in Belfast</h3>
+<sub>By Michael D. Shear and Katie Rogers</sub>
+<p>President Biden will mark the 25th anniversary of the Good Friday Agreement in Northern Ireland before paying homage to his own Irish ancestry.  <a href="https://nyti.ms/3ZUBy56"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
