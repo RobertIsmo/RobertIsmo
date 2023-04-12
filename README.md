@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 11, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. The Biden administration is proposing reducing water supplies from the Colorado River, which is shrinking due to climate change. There was an uproar over leaked military secrets after an online meme group related to it was discovered. The U.S. spoke to Ukraine officials about a document leak and also discussed Supreme Court Justice Clarence Thomas&#39; jet-setting trips with a billionaire for potential ethical issues. There&#39;s also been a case against Jim Jordan trying to block interference with the Donald Trump case from Manhattan district attorney’s investigation. Meanwhile, there are economic troubles in California due to layoffs in tech and studio cutbacks and in Russia, they&#39;ve made it more difficult to avoid draft if the situation in Ukraine escalates even further with the four &#39;wild card&#39; scenarios outlined by the Defense Intelligence Agency. Finally, President Biden will be celebrating diplomacy and his own Irish roots in Belfast soon.</p>
+There&#39;s a lot going on around the world right now. French President Emmanuel Macron has been facing backlash from some allies after his performance during a recent trip to Beijing. In Russia, there&#39;s a new law making it harder for people to avoid compulsory military service and four potential “wild card” scenarios are being discussed regarding the Russia-Ukraine conflict. The Biden administration is proposing to cut water allotments from the Colorado River in an effort to save dwindling resources, and a YouTube celebrity is at the center of an uproar over leaked military secrets that were posted in an online meme group. In Ukraine, U.S. officials spoke with counterparts about the document leaks, and in the U.S., Congressman Jim Jordan is being sued in an attempt to block interference in former president Donald J. Trump&#39;s case, while Supreme Court Justice Clarence Thomas&#39; relationship with Harlan Crow has sparked questions about whether or not friendship can be separated from politics. Meanwhile, a judge&#39;s ruling against abortion pill adoption has drawn attention due to its use of terminology like &quot;chemical abortion&quot; and &quot;unborn human&quot; for anti-abortion groups, and consultants are trying to get people back into the office despite potential recession fears resulting from tech layoffs and studio cutbacks exacerbating California&#39;s budget deficit. Finally, reports surfaced that the gunman who killed five people in Louisville left a note before purchasing his rifle legally.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>From Red Carpet to Doghouse: Macron Returns From China to Allied Dismay</h3>
+<sub>By Roger Cohen</sub>
+<p>Criticism of the French president’s performance in Beijing has been scathing among some allies, who saw him as cozying up to Beijing.  <a href="https://nyti.ms/402UX3I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Moves to Make Draft Evasion More Difficult</h3>
+<sub>By Ivan Nechepurenko, Neil MacFarquhar and Vjosa Isai</sub>
+<p>A new law would bar anyone called up to fight in Ukraine from leaving the country, among other restrictions, even as the Kremlin insists it is not planning a new conscription.  <a href="https://nyti.ms/401xaRG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A leaked document outlines four ‘wild card’ scenarios in the Russia-Ukraine conflict.</h3>
+<sub>By Haley Willis, Julian E. Barnes and Christiaan Triebert</sub>
+<p>The scenarios, as assessed by the Defense Intelligence Agency, include the deaths of Presidents Vladimir V. Putin of Russia and Volodymyr Zelensky of Ukraine.  <a href="https://nyti.ms/3mrAh80"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Biden Administration Proposes Evenly Cutting Water Allotments From Colorado River</h3>
 <sub>By Christopher Flavelle</sub>
@@ -114,24 +132,6 @@ There&#39;s a lot going on in the world right now. The Biden administration is p
 <h3>California Economy Is on Edge After Tech Layoffs and Studio Cutbacks</h3>
 <sub>By Kurtis Lee</sub>
 <p>As recession fears persist, the troubles in major industries have hurt tax revenues, turning the state’s $100 billion surplus into a deficit.  <a href="https://nyti.ms/43qgdTU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Moves to Make Draft Evasion More Difficult</h3>
-<sub>By Ivan Nechepurenko, Neil MacFarquhar and Vjosa Isai</sub>
-<p>A new law would bar anyone called up to fight in Ukraine from leaving the country, among other restrictions, even as the Kremlin insists it is not planning a new conscription.  <a href="https://nyti.ms/401xaRG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A leaked document outlines four ‘wild card’ scenarios in the Russia-Ukraine conflict.</h3>
-<sub>By Haley Willis, Julian E. Barnes and Christiaan Triebert</sub>
-<p>The scenarios, as assessed by the Defense Intelligence Agency, include the deaths of Presidents Vladimir V. Putin of Russia and Volodymyr Zelensky of Ukraine.  <a href="https://nyti.ms/3mrAh80"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Celebrate Diplomacy, and His Own Irish Roots, in Belfast</h3>
-<sub>By Michael D. Shear and Katie Rogers</sub>
-<p>President Biden will mark the 25th anniversary of the Good Friday Agreement in Northern Ireland before paying homage to his own Irish ancestry.  <a href="https://nyti.ms/3ZUBy56"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
