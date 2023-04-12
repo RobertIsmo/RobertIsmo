@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 12, Central Standard Time</p>
 <p>
-There are a few different things going on in the world, from the United States’ attempt to isolate China and German companies getting closer to them, to electric vehicle regulations being proposed in the U.S., and Elon Musk addressing the “painful” side of running Twitter. In terms of climate policy, electric cars are becoming more popular, but there’s a challenge in getting their “fleet turnover” up. Additionally, abortion access is a major issue in many countries—in the US, legal abortions fell 6 percent after Dobbs and in Europe there was some criticism towards French President Macron over his relationship with Beijing. Finally, Ukraine is having a hard time buying weapons from Brazil—the South American giant is instead offering to help broker peace.</p>
+There seems to be a lot going on in the world right now. The Biden administration is proposing rules to ensure more electric cars and trucks on the road by 2032, and China is leading the way in developing new types of batteries. At the same time, economists are trying to figure out how to respond to inflation data, and the military in Ukraine is locked in a bloody battle to keep their strategic position. Meanwhile, college campuses (as well as Facebook&#39;s parent company) are facing morale crises due to mass layoffs and absent bosses. On top of that, Donald Trump continues to make headlines with his bills aiming to delay the trial against E. Jean Carroll and stay in the presidential race even after conviction. Finally, Montana lawmakers are having difficulty on deciding if they should ban TikTok in their state or not.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As U.S. Tries to Isolate China, German Companies Move Closer</h3>
-<sub>By Melissa Eddy</sub>
-<p>Some are expanding in China, reluctant to leave a huge market they need to finance operations back home.  <a href="https://nyti.ms/3KSPgB6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>E.P.A. Lays Out Rules to Turbocharge Sales of Electric Cars and Trucks</h3>
 <sub>By Coral Davenport</sub>
@@ -80,34 +74,52 @@ There are a few different things going on in the world, from the United States�
 <p>China is far ahead of the rest of the world in the development of batteries that use sodium, which are starting to compete with ubiquitous lithium power cells.  <a href="https://nyti.ms/3KSwTMR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Automakers Face Test in Reaching U.S. Target for Electric Vehicles</h3>
-<sub>By Neal E. Boudette</sub>
-<p>New federal rules are expected to speed the transition to E.V.s, a shift that car companies have embraced but will be challenged to carry out.  <a href="https://nyti.ms/3o45bnr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Electric Cars Are Coming. How Long Until They Rule the Road?</h3>
-<sub>By Brad Plumer, Nadja Popovich and Blacki Migliozzi</sub>
-<p>A new car sold today can last a decade or two before retiring. This “fleet turnover” poses a major challenge for climate policy.  <a href="https://nyti.ms/3vePUir"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, March 10, Central Standard Time</sub></sub>
+<h3>Just How Good for the Planet Is That Big Electric Pickup Truck?</h3>
+<sub>By Elena Shao</sub>
+<p>E.V.s are usually a more climate-friendly option. But as they bulk up, their emissions savings, and other environmental and safety benefits, begin to diminish.  <a href="https://nyti.ms/3lMnHQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Texas Ruling, Democratic States Move to Stockpile Abortion Pills</h3>
-<sub>By David W. Chen and Ava Sasani</sub>
-<p>A federal judge’s decision to invalidate the F.D.A.’s approval of mifepristone could affect availability even in states where abortion is legal.  <a href="https://nyti.ms/401FvFd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inflation Cools Notably, but It’s a Long Road Back to Normal</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Fed officials are debating how to set policy after bank blowups. Fresh inflation data are unlikely to make such decisions easier.  <a href="https://nyti.ms/43px1KZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Legal Abortions Fell by 6 Percent in the Six Months After Dobbs, New Data Shows</h3>
-<sub>By Margot Sanger-Katz and Claire Cain Miller</sub>
-<p>While clinics in some states expanded capacity, bans prevented thousands from getting legal abortions, a major new survey of abortion providers finds.  <a href="https://nyti.ms/3GCOsxE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Final Blocks: Inside Ukraine’s Bloody Stand for Bakhmut</h3>
+<sub>By Andrew E. Kramer and Mauricio Lima</sub>
+<p>Pushed into a shrinking corner of the devastated city, the Ukrainian military is determined to hold out for strategic reasons, even as allies question the cost.  <a href="https://nyti.ms/3oaaAsR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Should College Come With Trigger Warnings? At Cornell, It’s a ‘Hard No.’</h3>
 <sub>By Katherine Rosman</sub>
-<p>When the student assembly voted to require faculty to alert students to upsetting educational materials, administrators pushed back.  <a href="https://nyti.ms/3GAo4EE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>When the student assembly voted to require faculty to alert students to upsetting educational materials, administrators pushed back.  <a href="https://nyti.ms/3mrw5F9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Witnesses Asked About Trump’s Handling of Map With Classified Information</h3>
+<sub>By Maggie Haberman, Adam Goldman and Alan Feuer</sub>
+<p>The map is just one element of the Justice Department’s inquiry into former President Donald Trump’s possession of sensitive documents and whether he obstructed justice in seeking to hold onto them.  <a href="https://nyti.ms/3zZysSF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Says He Won’t Drop Presidential Bid if Criminally Convicted</h3>
+<sub>By Michael C. Bender</sub>
+<p>He made the remarks in an interview with Tucker Carlson, his first time on the program since the release of private text messages showed the Fox News anchor’s repugnance for the former president.  <a href="https://nyti.ms/3zSb4Xn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Asks That Trial of Writer’s Suit Accusing Him of Rape Be Delayed</h3>
+<sub>By Benjamin Weiser</sub>
+<p>The author E. Jean Carroll has accused Donald J. Trump of attacking her in a dressing room, and the ex-president complained of pretrial publicity. The case is supposed to begin on April 25.  <a href="https://nyti.ms/43lBRcd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A Plan to Ban TikTok in Montana Is a Preview for the Rest of the Country</h3>
+<sub>By David McCabe</sub>
+<p>The fight has shown the difficult test and legally perilous road facing lawmakers or the White House if they try to enact a national ban on the social media service.  <a href="https://nyti.ms/3mqaOMd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -116,22 +128,10 @@ There are a few different things going on in the world, from the United States�
 <p>Workers at Facebook’s parent have been increasingly alarmed by job cuts and the company’s direction.  <a href="https://nyti.ms/3o0fyZb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Elon Musk Addresses the ‘Painful’ Side of Running Twitter</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The social network&#39;s owner  talks about bots, blue checks and why he went ahead with the $44 billion acquisition.  <a href="https://nyti.ms/3Kvb7gH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>From Red Carpet to Doghouse: Macron Returns From China to Allied Dismay</h3>
-<sub>By Roger Cohen</sub>
-<p>Criticism of the French president’s performance in Beijing has been scathing among some allies, who saw him as cozying up to Beijing.  <a href="https://nyti.ms/402UX3I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Problem for Ukraine: Countries Like Brazil Won’t Sell It Arms</h3>
-<sub>By André Spigariol and Jack Nicas</sub>
-<p>Ukraine wants to buy weapons from Brazil, but the South American giant has repeatedly declined. Instead, it is offering to broker peace.  <a href="https://nyti.ms/43sYlrS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Expelled Democrat Faces Vote on Returning Him to Tennessee House</h3>
+<sub>By Emily Cochrane</sub>
+<p>County officials are expected to vote Wednesday on sending Justin J. Pearson back to the state legislature, less than a week after he and a colleague were expelled.  <a href="https://nyti.ms/43mlT1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
