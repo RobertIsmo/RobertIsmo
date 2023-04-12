@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 12, Central Standard Time</p>
 <p>
-The U.S. is trying to isolate China, but some German companies are moving closer as they continue to expand in China so they can finance operations back home. Biden has proposed regulations to ensure two-thirds of new cars and a quarter of new heavy trucks sold in the U.S. by 2032 are all-electric. China is dominating the next big advance in batteries, which are starting to compete with lithium power cells. After a recent ruling in Texas, Democratic states are now making moves to stockpile abortion pills. A major survey of abortion providers shows legal abortions decreased by 6% in the six months following the ruling. At Cornell University, the student assembly wants faculty to alert students about potentially upsetting materials, but administrators are opposing it. The French president has come under criticism from allies for allegedly cozying up to China during his visit there. Ukraine wants to buy arms from Brazil, but Brazil is offering to broker peace instead, and a leaked document outlines Russian and Ukrainian conflict scenarios that involve the deaths of both presidents. Dog ownership surged in the pandemic and so did fresh, human-grade dog food options creating a big market opportunity. In Northern Ireland, 25 years after peace was achieved, some communities remain disillusioned due to unfulfilled opportunities they were hoping for then. Finally, President Biden is going to Belfast soon to commemorate the 25th anniversary of the Good Friday Agreement and honor his own Irish roots while he&#39;s there.</p>
+There are a few different things going on in the world, from the United States’ attempt to isolate China and German companies getting closer to them, to electric vehicle regulations being proposed in the U.S., and Elon Musk addressing the “painful” side of running Twitter. In terms of climate policy, electric cars are becoming more popular, but there’s a challenge in getting their “fleet turnover” up. Additionally, abortion access is a major issue in many countries—in the US, legal abortions fell 6 percent after Dobbs and in Europe there was some criticism towards French President Macron over his relationship with Beijing. Finally, Ukraine is having a hard time buying weapons from Brazil—the South American giant is instead offering to help broker peace.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As U.S. Tries to Isolate China, German Companies Move Closer</h3>
@@ -80,6 +80,18 @@ The U.S. is trying to isolate China, but some German companies are moving closer
 <p>China is far ahead of the rest of the world in the development of batteries that use sodium, which are starting to compete with ubiquitous lithium power cells.  <a href="https://nyti.ms/3KSwTMR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Automakers Face Test in Reaching U.S. Target for Electric Vehicles</h3>
+<sub>By Neal E. Boudette</sub>
+<p>New federal rules are expected to speed the transition to E.V.s, a shift that car companies have embraced but will be challenged to carry out.  <a href="https://nyti.ms/3o45bnr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Electric Cars Are Coming. How Long Until They Rule the Road?</h3>
+<sub>By Brad Plumer, Nadja Popovich and Blacki Migliozzi</sub>
+<p>A new car sold today can last a decade or two before retiring. This “fleet turnover” poses a major challenge for climate policy.  <a href="https://nyti.ms/3vePUir"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, March 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Texas Ruling, Democratic States Move to Stockpile Abortion Pills</h3>
 <sub>By David W. Chen and Ava Sasani</sub>
@@ -98,6 +110,18 @@ The U.S. is trying to isolate China, but some German companies are moving closer
 <p>When the student assembly voted to require faculty to alert students to upsetting educational materials, administrators pushed back.  <a href="https://nyti.ms/3GAo4EE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Mass Layoffs and Absentee Bosses Create a Morale Crisis at Meta</h3>
+<sub>By Sheera Frenkel and Mike Isaac</sub>
+<p>Workers at Facebook’s parent have been increasingly alarmed by job cuts and the company’s direction.  <a href="https://nyti.ms/3o0fyZb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Elon Musk Addresses the ‘Painful’ Side of Running Twitter</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>The social network&#39;s owner  talks about bots, blue checks and why he went ahead with the $44 billion acquisition.  <a href="https://nyti.ms/3Kvb7gH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>From Red Carpet to Doghouse: Macron Returns From China to Allied Dismay</h3>
 <sub>By Roger Cohen</sub>
@@ -109,30 +133,6 @@ The U.S. is trying to isolate China, but some German companies are moving closer
 <sub>By André Spigariol and Jack Nicas</sub>
 <p>Ukraine wants to buy weapons from Brazil, but the South American giant has repeatedly declined. Instead, it is offering to broker peace.  <a href="https://nyti.ms/43sYlrS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A leaked document outlines four ‘wild card’ scenarios in the Russia-Ukraine conflict.</h3>
-<sub>By Haley Willis, Julian E. Barnes and Christiaan Triebert</sub>
-<p>The scenarios, as assessed by the Defense Intelligence Agency, include the deaths of Presidents Vladimir V. Putin of Russia and Volodymyr Zelensky of Ukraine.  <a href="https://nyti.ms/3mrAh80"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Gourmet Dog Food Has Pet Owners Sending Kibbles Back</h3>
-<sub>By Julie Creswell</sub>
-<p>Dog ownership surged during the pandemic. So did the options for fresh, human-grade dog food, an expanding market.  <a href="https://nyti.ms/3KSwSIN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After 25 Years of Peace in Northern Ireland, Some Still Wait for Prosperity</h3>
-<sub>By Megan Specia</sub>
-<p>While the Good Friday Agreement brought undeniable progress, some of the most deprived communities remain disillusioned about the opportunities that failed to materialize.  <a href="https://nyti.ms/3Kt4Imk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Celebrate Diplomacy, and His Own Irish Roots, in Belfast</h3>
-<sub>By Michael D. Shear and Katie Rogers</sub>
-<p>President Biden will commemorate the 25th anniversary of the Good Friday Agreement in Northern Ireland before shifting focus to his ancestry.  <a href="https://nyti.ms/3ZUBy56"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
