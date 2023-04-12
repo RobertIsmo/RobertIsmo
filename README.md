@@ -60,10 +60,44 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 12, Central Standard Time</p>
 <p>
-The world is in a bit of an upheaval right now. In France, President Macron&#39;s visit to China has caused quite a stir, with many of his allies objecting to the cozying up he did with Beijing. Russia made it even harder to avoid military service - barring those called up to fight in Ukraine from leaving the country. That&#39;s not even mentioning the bombshell circumstances laid out in a leaked document that suggests a possible president power struggle between Vladimir Putin and Volodymyr Zelensky of Ukraine. 
-
-On our shores, the Biden Administration is proposing cuts to water allotments from the Colorado River as it dries up. Meanwhile, an online meme group has been responsible for spreading military secrets - leading to acknowledgement of the breach by Defense Secretary Lloyd J. Austin III and Secretary of State Antony J. Blinken in talks with Ukrainian officials. Supreme Court Justice Clarence Thomas is also wrapped up in some controversy over his relationship with billionaire Harlan Crow and calls for an ethics code for justices have intensified in light of it all. A gunman who killed five people near Louisville left a note behind detailing his motives, and out west in California, tech companies including Uber are laying off employees and causing trouble to ripple through other industries; what was once a $100 billion surplus has plummeted into a deficit due to decreased profits from those industries. Lastly, photographer Kwame Brathwaite passed away; he was part of the &#39;black is beautiful&#39; movement during civil rights-era and used his photographs to capture black pride among athletes, musicians, models and everyday people alike.</p>
+The U.S. is trying to isolate China, but some German companies are moving closer as they continue to expand in China so they can finance operations back home. Biden has proposed regulations to ensure two-thirds of new cars and a quarter of new heavy trucks sold in the U.S. by 2032 are all-electric. China is dominating the next big advance in batteries, which are starting to compete with lithium power cells. After a recent ruling in Texas, Democratic states are now making moves to stockpile abortion pills. A major survey of abortion providers shows legal abortions decreased by 6% in the six months following the ruling. At Cornell University, the student assembly wants faculty to alert students about potentially upsetting materials, but administrators are opposing it. The French president has come under criticism from allies for allegedly cozying up to China during his visit there. Ukraine wants to buy arms from Brazil, but Brazil is offering to broker peace instead, and a leaked document outlines Russian and Ukrainian conflict scenarios that involve the deaths of both presidents. Dog ownership surged in the pandemic and so did fresh, human-grade dog food options creating a big market opportunity. In Northern Ireland, 25 years after peace was achieved, some communities remain disillusioned due to unfulfilled opportunities they were hoping for then. Finally, President Biden is going to Belfast soon to commemorate the 25th anniversary of the Good Friday Agreement and honor his own Irish roots while he&#39;s there.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As U.S. Tries to Isolate China, German Companies Move Closer</h3>
+<sub>By Melissa Eddy</sub>
+<p>Some are expanding in China, reluctant to leave a huge market they need to finance operations back home.  <a href="https://nyti.ms/3KSPgB6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>E.P.A. Lays Out Rules to Turbocharge Sales of Electric Cars and Trucks</h3>
+<sub>By Coral Davenport</sub>
+<p>The Biden administration is proposing rules to ensure that two-thirds of new cars and a quarter of new heavy trucks sold in the U.S. by 2032 are all-electric.  <a href="https://nyti.ms/3oaDjxJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why China Could Dominate the Next Big Advance in Batteries</h3>
+<sub>By Keith Bradsher</sub>
+<p>China is far ahead of the rest of the world in the development of batteries that use sodium, which are starting to compete with ubiquitous lithium power cells.  <a href="https://nyti.ms/3KSwTMR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Texas Ruling, Democratic States Move to Stockpile Abortion Pills</h3>
+<sub>By David W. Chen and Ava Sasani</sub>
+<p>A federal judge’s decision to invalidate the F.D.A.’s approval of mifepristone could affect availability even in states where abortion is legal.  <a href="https://nyti.ms/401FvFd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Legal Abortions Fell by 6 Percent in the Six Months After Dobbs, New Data Shows</h3>
+<sub>By Margot Sanger-Katz and Claire Cain Miller</sub>
+<p>While clinics in some states expanded capacity, bans prevented thousands from getting legal abortions, a major new survey of abortion providers finds.  <a href="https://nyti.ms/3GCOsxE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Should College Come With Trigger Warnings? At Cornell, It’s a ‘Hard No.’</h3>
+<sub>By Katherine Rosman</sub>
+<p>When the student assembly voted to require faculty to alert students to upsetting educational materials, administrators pushed back.  <a href="https://nyti.ms/3GAo4EE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>From Red Carpet to Doghouse: Macron Returns From China to Allied Dismay</h3>
 <sub>By Roger Cohen</sub>
@@ -71,10 +105,10 @@ On our shores, the Biden Administration is proposing cuts to water allotments fr
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Moves to Make Draft Evasion More Difficult</h3>
-<sub>By Ivan Nechepurenko, Neil MacFarquhar and Vjosa Isai</sub>
-<p>A new law would bar anyone called up to fight in Ukraine from leaving the country, among other restrictions, even as the Kremlin insists it is not planning a new conscription.  <a href="https://nyti.ms/401xaRG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
+<h3>A Problem for Ukraine: Countries Like Brazil Won’t Sell It Arms</h3>
+<sub>By André Spigariol and Jack Nicas</sub>
+<p>Ukraine wants to buy weapons from Brazil, but the South American giant has repeatedly declined. Instead, it is offering to broker peace.  <a href="https://nyti.ms/43sYlrS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A leaked document outlines four ‘wild card’ scenarios in the Russia-Ukraine conflict.</h3>
@@ -82,58 +116,22 @@ On our shores, the Biden Administration is proposing cuts to water allotments fr
 <p>The scenarios, as assessed by the Defense Intelligence Agency, include the deaths of Presidents Vladimir V. Putin of Russia and Volodymyr Zelensky of Ukraine.  <a href="https://nyti.ms/3mrAh80"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Administration Proposes Evenly Cutting Water Allotments From Colorado River</h3>
-<sub>By Christopher Flavelle</sub>
-<p>As the river shrinks, the Biden administration is getting ready to impose, for the first time, reductions in water supplies to states.  <a href="https://nyti.ms/3msCBeM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>An Online Meme Group Is at the Center of Uproar Over Leaked Military Secrets</h3>
-<sub>By Kellen Browning and Stuart A. Thompson</sub>
-<p>Youth culture and national defense collided in a community known for edgy jokes. The YouTube celebrity it was dedicated to seemed as surprised as anyone.  <a href="https://nyti.ms/402mdzB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Gourmet Dog Food Has Pet Owners Sending Kibbles Back</h3>
+<sub>By Julie Creswell</sub>
+<p>Dog ownership surged during the pandemic. So did the options for fresh, human-grade dog food, an expanding market.  <a href="https://nyti.ms/3KSwSIN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After 25 Years of Peace in Northern Ireland, Some Still Wait for Prosperity</h3>
+<sub>By Megan Specia</sub>
+<p>While the Good Friday Agreement brought undeniable progress, some of the most deprived communities remain disillusioned about the opportunities that failed to materialize.  <a href="https://nyti.ms/3Kt4Imk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Officials Speak to Ukrainians After Document Leaks</h3>
-<sub>By Michael Crowley</sub>
-<p>Defense Secretary Lloyd J. Austin III and Secretary of State Antony J. Blinken talked to their counterparts in Kyiv, but offered little detail on the investigation into the breach.  <a href="https://nyti.ms/3GzrBmR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Bragg Sues Jim Jordan in Move to Block Interference in Trump Case</h3>
-<sub>By Jonah E. Bromwich, Maggie Haberman, Ben Protess and William K. Rashbaum</sub>
-<p>Mr. Jordan, a Republican from Ohio, had subpoenaed a former prosecutor who worked on the Manhattan district attorney’s investigation into former President Donald J. Trump.  <a href="https://nyti.ms/40XAzSV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jet-Setting With Clarence Thomas Puts Spotlight on an Eccentric Billionaire</h3>
-<sub>By Abbie VanSickle</sub>
-<p>The justice’s relationship with Harlan Crow has raised questions about whether a friendship can be separated from politics and intensified calls for an ethics code for the justices.  <a href="https://nyti.ms/41plp93"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge’s Ruling Against Abortion Pill Is Filled With Activists’ Language</h3>
-<sub>By Charlie Savage and Pam Belluck</sub>
-<p>The preliminary ruling from Judge Matthew J. Kacsmaryk adopts the terminology of anti-abortion groups, such as “chemical abortion,” “abortionist” and “unborn human.”  <a href="https://nyti.ms/3UtExAo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gunman Who Killed Five in Louisville Left Note and Bought Rifle Legally</h3>
-<sub>By Kevin Williams, Nicholas Bogel-Burroughs and Tim Arango</sub>
-<p>The police released body camera video on Tuesday afternoon from officers who responded to the shooting at a downtown bank.  <a href="https://nyti.ms/3o0Pqxs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Kwame Brathwaite, 85, Photographer With a Lens on Black Pride, Is Dead</h3>
-<sub>By Alex Williams</sub>
-<p>Part of the ‘Black is beautiful’ movement during the civil rights era, he trained his camera on athletes, musicians and models as well as everyday people.  <a href="https://nyti.ms/3KSnCEr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>California Economy Is on Edge After Tech Layoffs and Studio Cutbacks</h3>
-<sub>By Kurtis Lee</sub>
-<p>As recession fears persist, the troubles in major industries have hurt tax revenues, turning the state’s $100 billion surplus into a deficit.  <a href="https://nyti.ms/43qgdTU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden to Celebrate Diplomacy, and His Own Irish Roots, in Belfast</h3>
+<sub>By Michael D. Shear and Katie Rogers</sub>
+<p>President Biden will commemorate the 25th anniversary of the Good Friday Agreement in Northern Ireland before shifting focus to his ancestry.  <a href="https://nyti.ms/3ZUBy56"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
