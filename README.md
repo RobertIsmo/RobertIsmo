@@ -60,18 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 12, Central Standard Time</p>
 <p>
-There seems to be a lot going on in the world right now. The Biden administration is proposing rules to ensure more electric cars and trucks on the road by 2032, and China is leading the way in developing new types of batteries. At the same time, economists are trying to figure out how to respond to inflation data, and the military in Ukraine is locked in a bloody battle to keep their strategic position. Meanwhile, college campuses (as well as Facebook&#39;s parent company) are facing morale crises due to mass layoffs and absent bosses. On top of that, Donald Trump continues to make headlines with his bills aiming to delay the trial against E. Jean Carroll and stay in the presidential race even after conviction. Finally, Montana lawmakers are having difficulty on deciding if they should ban TikTok in their state or not.</p>
+Right now, it seems like there is a lot going on in the world. In Ukraine, the military is determined to hold out in a city that has been devastated by conflict. In South Korea, the Prime Minister is worried about what will happen if the United States doesn&#39;t offer support. Meanwhile, the Biden administration has proposed rules to encourage the sale of more electric cars and trucks in the United States. There have also been discussions about how good for the planet these electric vehicles will be. In addition, Fed officials are debating how to set policy after bank blowups and a judge has imposed sanctions on Fox News for withholding evidence. On top of that, Donald Trump is being asked about his handling of classified information and he is also asking for a delay in trial for a suit accusing him of rape. In Tennessee, another expelled Democrat has been just sent back to the House. Finally, Cornell University administrators have pushed back against a student assembly vote to require faculty members to alert students to upsetting educational materials.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Final Blocks: Inside Ukraine’s Bloody Stand for Bakhmut</h3>
+<sub>By Andrew E. Kramer and Mauricio Lima</sub>
+<p>Pushed into a shrinking corner of the devastated city, the Ukrainian military is determined to hold out for strategic reasons, even as allies question the cost.  <a href="https://nyti.ms/3oaaAsR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ukraine Needs South Korean Artillery Shells, Poland’s Prime Minister Says</h3>
+<sub>By Julian E. Barnes and Adam Entous</sub>
+<p>Leaders in Seoul need assurances that the United States would offer support in the face of any aggressive response from China or Russia, Prime Minister Mateusz Morawiecki said.  <a href="https://nyti.ms/43w1qaD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>E.P.A. Lays Out Rules to Turbocharge Sales of Electric Cars and Trucks</h3>
 <sub>By Coral Davenport</sub>
-<p>The Biden administration is proposing rules to ensure that two-thirds of new cars and a quarter of new heavy trucks sold in the U.S. by 2032 are all-electric.  <a href="https://nyti.ms/3oaDjxJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Biden administration is proposing rules to ensure that two-thirds of new cars and a quarter of new heavy trucks sold in the United States by 2032 are all-electric.  <a href="https://nyti.ms/3oaDjxJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why China Could Dominate the Next Big Advance in Batteries</h3>
-<sub>By Keith Bradsher</sub>
-<p>China is far ahead of the rest of the world in the development of batteries that use sodium, which are starting to compete with ubiquitous lithium power cells.  <a href="https://nyti.ms/3KSwTMR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Confused About Electric Cars? We Have Some Answers.</h3>
+<sub>By Vikas Bajaj</sub>
+<p>Here is what car buyers need to know about the Biden administration’s proposal to push the auto industry to sell more electric cars.  <a href="https://nyti.ms/3ZYgU48"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -86,16 +98,16 @@ There seems to be a lot going on in the world right now. The Biden administratio
 <p>Fed officials are debating how to set policy after bank blowups. Fresh inflation data are unlikely to make such decisions easier.  <a href="https://nyti.ms/43px1KZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Final Blocks: Inside Ukraine’s Bloody Stand for Bakhmut</h3>
-<sub>By Andrew E. Kramer and Mauricio Lima</sub>
-<p>Pushed into a shrinking corner of the devastated city, the Ukrainian military is determined to hold out for strategic reasons, even as allies question the cost.  <a href="https://nyti.ms/3oaaAsR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fed Officials Fretted Bank Turmoil Could Have Serious Economic Consequences</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Minutes from the Federal Reserve’s March 21-22 meeting showed that officials were grappling with how much more to lift borrowing costs.  <a href="https://nyti.ms/3UySe1a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Should College Come With Trigger Warnings? At Cornell, It’s a ‘Hard No.’</h3>
-<sub>By Katherine Rosman</sub>
-<p>When the student assembly voted to require faculty to alert students to upsetting educational materials, administrators pushed back.  <a href="https://nyti.ms/3mrw5F9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Judge Imposes Sanction on Fox for Withholding Evidence in Defamation Case</h3>
+<sub>By Katie Robertson and Jeremy W. Peters</sub>
+<p>Judge Eric Davis also said an investigation was likely into Fox’s handling of documents and whether it had withheld details about Rupert Murdoch’s corporate role.  <a href="https://nyti.ms/402te3k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,34 +116,22 @@ There seems to be a lot going on in the world right now. The Biden administratio
 <p>The map is just one element of the Justice Department’s inquiry into former President Donald Trump’s possession of sensitive documents and whether he obstructed justice in seeking to hold onto them.  <a href="https://nyti.ms/3zZysSF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Says He Won’t Drop Presidential Bid if Criminally Convicted</h3>
-<sub>By Michael C. Bender</sub>
-<p>He made the remarks in an interview with Tucker Carlson, his first time on the program since the release of private text messages showed the Fox News anchor’s repugnance for the former president.  <a href="https://nyti.ms/3zSb4Xn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Trump Asks That Trial of Writer’s Suit Accusing Him of Rape Be Delayed</h3>
 <sub>By Benjamin Weiser</sub>
-<p>The author E. Jean Carroll has accused Donald J. Trump of attacking her in a dressing room, and the ex-president complained of pretrial publicity. The case is supposed to begin on April 25.  <a href="https://nyti.ms/43lBRcd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A Plan to Ban TikTok in Montana Is a Preview for the Rest of the Country</h3>
-<sub>By David McCabe</sub>
-<p>The fight has shown the difficult test and legally perilous road facing lawmakers or the White House if they try to enact a national ban on the social media service.  <a href="https://nyti.ms/3mqaOMd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Mass Layoffs and Absentee Bosses Create a Morale Crisis at Meta</h3>
-<sub>By Sheera Frenkel and Mike Isaac</sub>
-<p>Workers at Facebook’s parent have been increasingly alarmed by job cuts and the company’s direction.  <a href="https://nyti.ms/3o0fyZb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The author E. Jean Carroll says that Donald J. Trump attacked her. His lawyers say that publicity surrounding Trump’s separate criminal fraud case prevents a fair hearing.  <a href="https://nyti.ms/43lBRcd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Expelled Democrat Faces Vote on Returning Him to Tennessee House</h3>
+<h3>Second Expelled Democrat Is Sent Back to Tennessee House</h3>
 <sub>By Emily Cochrane</sub>
-<p>County officials are expected to vote Wednesday on sending Justin J. Pearson back to the state legislature, less than a week after he and a colleague were expelled.  <a href="https://nyti.ms/43mlT1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>County officials voted on Wednesday to return Justin J. Pearson to the state legislature, less than a week after he and a colleague were expelled.  <a href="https://nyti.ms/43mlT1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Should College Come With Trigger Warnings? At Cornell, It’s a ‘Hard No.’</h3>
+<sub>By Katherine Rosman</sub>
+<p>When the student assembly voted to require faculty to alert students to upsetting educational materials, administrators pushed back.  <a href="https://nyti.ms/3mrw5F9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
