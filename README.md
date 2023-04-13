@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 13, Central Standard Time</p>
 <p>
-There are a lot of important developments happening across the world right now. In the United States, a court is imposing temporary restrictions on an abortion pill that can remain available, and there is an online market for unregulated abortion pills arising to meet demand. In Russia, newly leaked documents are showing wide-ranging infighting among officials, and there is evidence of pro-Russian content being spread in Africa. There was also a near shoot down incident involving a British spy plane that was more serious than originally reported, and jury selection has begun for a landmark trial against Fox News that could affect libel law. Japan is facing pressure from China to free several of its citizens who have been locked up on spy charges, and in the US senators like Dianne Feinstein are being pressured to resign from powerful committees.</p>
+Right now, there&#39;s been a lot of discussion about the availability of abortion pills in the United States. A court recently imposed temporary restrictions on the drug, and some people are selling them overseas. Research has found that abortion pills are safe, but their use is restricted in many places.
+
+On the international front, Russian officials are locked in a heated battle and leak scandal at home, and different narratives about Russia have been spread throughout Africa.
+
+In the political sphere, President Trump is being questioned as he faces a lawsuit from the New York attorney general. And state legislatures seem to be divided by partisanship - all part of issues with democracy at the moment.
+
+The world of sports is also seeing some upheaval, as the Women&#39;s Tennis Association recently announced it was lifting its suspension on Chinese tournaments after concerns over a Chinese star went unresolved.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Court Says Abortion Pill Can Remain Available but Imposes Temporary Restrictions</h3>
@@ -71,8 +77,14 @@ There are a lot of important developments happening across the world right now. 
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the Online Market for Overseas Abortion Pills</h3>
 <sub>By Allison McCann</sub>
-<p>For-profit sellers have arisen to meet the demand for unregulated abortion pills — one that will only grow if legal access in the United States is further restricted.  <a href="https://nyti.ms/3KqEpwM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>For-profit sellers are meeting the demand for unregulated abortion pills — one that will only grow if legal access in the U.S. is further restricted.  <a href="https://nyti.ms/3KqEpwM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Are Abortion Pills Safe? Here’s the Evidence.</h3>
+<sub>By Amy Schoenfeld Walker, Jonathan Corum, Malika Khurana and Ashley Wu</sub>
+<p>The Times reviewed 101 studies of medication abortion, spanning continents and decades. All concluded that the pills are a safe method for terminating a pregnancy.  <a href="https://nyti.ms/3K3AllX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>New Leaked Documents Show Broad Infighting Among Russian Officials</h3>
@@ -86,16 +98,22 @@ There are a lot of important developments happening across the world right now. 
 <p>Pro-Russian content presenting a distorted version of the war in Ukraine and promoting Russia’s interests in Africa is gaining an audience on the continent.  <a href="https://nyti.ms/3GGMrRn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Miscommunication Nearly Led to Russian Jet Shooting Down British Spy Plane, U.S. Officials Say</h3>
-<sub>By Thomas Gibbons-Neff and Eric Schmitt</sub>
-<p>Recently leaked intelligence documents called the incident, last year, a near shoot down. Officials said it was more serious than originally reported.  <a href="https://nyti.ms/41n4aFd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Landmark Trial Against Fox News Could Affect the Future of Libel Law</h3>
 <sub>By Michael M. Grynbaum</sub>
 <p>Jury selection starts on Thursday in Delaware Superior Court, where the proceedings will tackle misinformation and the limits of journalistic responsibility.  <a href="https://nyti.ms/3zVzEGY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In Fox-Dominion Trial, All Eyes Are on the Judge, Too</h3>
+<sub>By Katie Robertson</sub>
+<p>Judge Eric Davis of Delaware Superior Court has been evenhanded and reasonable, legal analysts say. The defamation suit is his highest-profile case.  <a href="https://nyti.ms/3o9fvue"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Faces Questioning in N.Y. Attorney General’s Lawsuit</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
+<p>Letitia James, the attorney general, has sued Donald J. Trump and three of his children, accusing them of a “staggering” fraud.  <a href="https://nyti.ms/3GFeCA8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -110,28 +128,16 @@ There are a lot of important developments happening across the world right now. 
 <p>State legislatures around the country — plagued by partisan division, uncompetitive races and gerrymandering — reflect the current pressures on democracy.  <a href="https://nyti.ms/3mtqMFc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump to Face Questioning Thursday in N.Y. Attorney General’s Lawsuit</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
-<p>Letitia James, the attorney general, has sued Donald J. Trump and three of his children, accusing them of a “staggering” fraud.  <a href="https://nyti.ms/3GFeCA8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Who Is Alvin Bragg, the D.A. Leading the Prosecution of Trump?</h3>
-<sub>By Michael Gold and Jonah E. Bromwich</sub>
-<p>The Manhattan district attorney finds himself in the eye of the storm after an investigation by his office led to the indictment of former President Donald J. Trump.  <a href="https://nyti.ms/3MEPj4L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Feinstein, Under Pressure to Resign, Asks to Step Down From Judiciary Panel</h3>
 <sub>By Annie Karni</sub>
 <p>The 89-year-old California Democrat, who has been absent from the Senate for more than a month after being diagnosed with shingles, said she would seek a temporary replacement on the powerful committee.  <a href="https://nyti.ms/3UwDcsu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Lonely Cry for Action as China Locks Up Japanese Citizens on Spy Charges</h3>
-<sub>By Ben Dooley and Hisako Ueno</sub>
-<p>Hideji Suzuki says Japan failed him during his six years in a Chinese prison. China’s recent arrest of a Japanese citizen is again testing Tokyo’s resolve.  <a href="https://nyti.ms/3zVjGMN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>WTA Returns to China, Lifting Suspension on Tournaments</h3>
+<sub>By Christopher Clarey</sub>
+<p>The tour had paused events there after concerns about the Chinese star Peng Shuai went unresolved, but Steve Simon, its chief executive, said a different approach was needed.  <a href="https://nyti.ms/3odUEpS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
