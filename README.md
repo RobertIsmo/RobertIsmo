@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 12, Central Standard Time</p>
 <p>
-Right now, it seems like there is a lot going on in the world. In Ukraine, the military is determined to hold out in a city that has been devastated by conflict. In South Korea, the Prime Minister is worried about what will happen if the United States doesn&#39;t offer support. Meanwhile, the Biden administration has proposed rules to encourage the sale of more electric cars and trucks in the United States. There have also been discussions about how good for the planet these electric vehicles will be. In addition, Fed officials are debating how to set policy after bank blowups and a judge has imposed sanctions on Fox News for withholding evidence. On top of that, Donald Trump is being asked about his handling of classified information and he is also asking for a delay in trial for a suit accusing him of rape. In Tennessee, another expelled Democrat has been just sent back to the House. Finally, Cornell University administrators have pushed back against a student assembly vote to require faculty members to alert students to upsetting educational materials.</p>
+There&#39;s lots of global news to cover! In Ukraine, the military is desperately trying to hold on to what&#39;s left of a city that&#39;s been crushed by war. Meanwhile, Poland&#39;s Prime Minister is asking South Korea for artillery shells and looking for reassurance from the US, in case China or Russia act aggressively. We also heard recently that there was almost a shoot down between Russian and British planes due to miscommunication. Closer to home, two Democrats in Tennessee have successfully been reinstated after they had initially been expelled from the House, while a Fox News trial has brought sanctions against them for withholding evidence. The Biden administration plans to switch things up too by proposing rules that two-thirds of new cars and a quarter of heavy trucks in the US will be fully electric by 2032. In other news, former President Trump is being investigated for obstruction of justice and has filed a lawsuit against one of his key witnesses. Lastly, we&#39;ve seen inflation cool off recently and the President touring his Irish heritage with family members.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Final Blocks: Inside Ukraine’s Bloody Stand for Bakhmut</h3>
@@ -74,40 +74,40 @@ Right now, it seems like there is a lot going on in the world. In Ukraine, the m
 <p>Leaders in Seoul need assurances that the United States would offer support in the face of any aggressive response from China or Russia, Prime Minister Mateusz Morawiecki said.  <a href="https://nyti.ms/43w1qaD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>E.P.A. Lays Out Rules to Turbocharge Sales of Electric Cars and Trucks</h3>
-<sub>By Coral Davenport</sub>
-<p>The Biden administration is proposing rules to ensure that two-thirds of new cars and a quarter of new heavy trucks sold in the United States by 2032 are all-electric.  <a href="https://nyti.ms/3oaDjxJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Miscommunication Nearly Led to Russian Jet Shooting Down British Spy Plane, U.S. Officials Say</h3>
+<sub>By Thomas Gibbons-Neff and Eric Schmitt</sub>
+<p>Recently leaked intelligence documents called the incident, last year, a near shoot down. Officials said it was more serious than originally reported.  <a href="https://nyti.ms/41n4aFd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Confused About Electric Cars? We Have Some Answers.</h3>
-<sub>By Vikas Bajaj</sub>
-<p>Here is what car buyers need to know about the Biden administration’s proposal to push the auto industry to sell more electric cars.  <a href="https://nyti.ms/3ZYgU48"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Second Expelled Democrat Is Sent Back to Tennessee House</h3>
+<sub>By Emily Cochrane</sub>
+<p>County officials voted on Wednesday to return Justin J. Pearson to the state legislature, less than a week after he and a colleague were expelled.  <a href="https://nyti.ms/43mlT1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Just How Good for the Planet Is That Big Electric Pickup Truck?</h3>
-<sub>By Elena Shao</sub>
-<p>E.V.s are usually a more climate-friendly option. But as they bulk up, their emissions savings, and other environmental and safety benefits, begin to diminish.  <a href="https://nyti.ms/3lMnHQ0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, February 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tennessee House Expulsions: What You Need to Know</h3>
+<sub>By Eliza Fawcett and Emily Cochrane</sub>
+<p>Only days after Republicans ousted two Democratic lawmakers over a gun control protest, one has already been returned to his seat and local officials unanimously voted on Wednesday to send the second back, too.  <a href="https://nyti.ms/3KBILBE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Cools Notably, but It’s a Long Road Back to Normal</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Fed officials are debating how to set policy after bank blowups. Fresh inflation data are unlikely to make such decisions easier.  <a href="https://nyti.ms/43px1KZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Officials Fretted Bank Turmoil Could Have Serious Economic Consequences</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Minutes from the Federal Reserve’s March 21-22 meeting showed that officials were grappling with how much more to lift borrowing costs.  <a href="https://nyti.ms/3UySe1a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Return of Justin Jones and the White Suit</h3>
+<sub>By Vanessa Friedman</sub>
+<p>The Tennessee lawmaker has become a viral symbol.  <a href="https://nyti.ms/43pw2dM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Judge Imposes Sanction on Fox for Withholding Evidence in Defamation Case</h3>
 <sub>By Katie Robertson and Jeremy W. Peters</sub>
 <p>Judge Eric Davis also said an investigation was likely into Fox’s handling of documents and whether it had withheld details about Rupert Murdoch’s corporate role.  <a href="https://nyti.ms/402te3k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>E.P.A. Lays Out Rules to Turbocharge Sales of Electric Cars and Trucks</h3>
+<sub>By Coral Davenport</sub>
+<p>The Biden administration is proposing rules to ensure that two-thirds of new cars and a quarter of new heavy trucks sold in the United States by 2032 are all-electric.  <a href="https://nyti.ms/3oaDjxJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,21 +117,21 @@ Right now, it seems like there is a lot going on in the world. In Ukraine, the m
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Asks That Trial of Writer’s Suit Accusing Him of Rape Be Delayed</h3>
-<sub>By Benjamin Weiser</sub>
-<p>The author E. Jean Carroll says that Donald J. Trump attacked her. His lawyers say that publicity surrounding Trump’s separate criminal fraud case prevents a fair hearing.  <a href="https://nyti.ms/43lBRcd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Sues Michael Cohen, the Key Witness Against Him</h3>
+<sub>By Maggie Haberman, Ben Protess, William K. Rashbaum and Jonah E. Bromwich</sub>
+<p>The lawsuit, filed in federal court in Florida, accuses Mr. Cohen of revealing Mr. Trump’s confidences and “spreading falsehoods” about him.  <a href="https://nyti.ms/3GGFEqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Second Expelled Democrat Is Sent Back to Tennessee House</h3>
-<sub>By Emily Cochrane</sub>
-<p>County officials voted on Wednesday to return Justin J. Pearson to the state legislature, less than a week after he and a colleague were expelled.  <a href="https://nyti.ms/43mlT1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inflation Cools Notably, but It’s a Long Road Back to Normal</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Fed officials are debating how to set policy after bank blowups. Fresh inflation data are unlikely to make such decisions easier.  <a href="https://nyti.ms/43px1KZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Should College Come With Trigger Warnings? At Cornell, It’s a ‘Hard No.’</h3>
-<sub>By Katherine Rosman</sub>
-<p>When the student assembly voted to require faculty to alert students to upsetting educational materials, administrators pushed back.  <a href="https://nyti.ms/3mrw5F9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘I’m Comin’ Home’: Biden Takes a Tour of His Irish Heritage</h3>
+<sub>By Katie Rogers and Michael D. Shear</sub>
+<p>With his sister, Valerie Biden Owens, and his son, Hunter Biden, in tow, the president spent the first day of his trip to Ireland steeped in family lore.  <a href="https://nyti.ms/3ZYEqhq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
