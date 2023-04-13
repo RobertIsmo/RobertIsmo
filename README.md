@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 13, Central Standard Time</p>
 <p>
-There are a lot of different things happening in the world right now. In the US, a Fifth Court of Appeals just published an order in an abortion pill case and two Tennessee lawmakers were expelled from the House and then reinstated. An investigation into former President Trump’s handling of classified information is also underway and he just sued his former lawyer Michael Cohen for revealing his confidences. Meanwhile, leaked documents have revealed broad infighting among Russian officials and in Ukraine there has been a bloody stand for Bakhmut. Finally, Fox News was sanctioned by a judge for withholding evidence in a defamation case.</p>
+There are a lot of important developments happening across the world right now. In the United States, a court is imposing temporary restrictions on an abortion pill that can remain available, and there is an online market for unregulated abortion pills arising to meet demand. In Russia, newly leaked documents are showing wide-ranging infighting among officials, and there is evidence of pro-Russian content being spread in Africa. There was also a near shoot down incident involving a British spy plane that was more serious than originally reported, and jury selection has begun for a landmark trial against Fox News that could affect libel law. Japan is facing pressure from China to free several of its citizens who have been locked up on spy charges, and in the US senators like Dianne Feinstein are being pressured to resign from powerful committees.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Court Says Abortion Pill Can Remain Available but Imposes Temporary Restrictions</h3>
@@ -69,9 +69,9 @@ There are a lot of different things happening in the world right now. In the US,
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read the document</h3>
-<sub></sub>
-<p>The U.S. Fifth Court of Appeals published an order in the abortion pill case.  <a href="https://nyti.ms/3GDjDcp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Inside the Online Market for Overseas Abortion Pills</h3>
+<sub>By Allison McCann</sub>
+<p>For-profit sellers have arisen to meet the demand for unregulated abortion pills — one that will only grow if legal access in the United States is further restricted.  <a href="https://nyti.ms/3KqEpwM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -81,10 +81,10 @@ There are a lot of different things happening in the world right now. In the US,
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Final Blocks: Inside Ukraine’s Bloody Stand for Bakhmut</h3>
-<sub>By Andrew E. Kramer and Mauricio Lima</sub>
-<p>Pushed into a shrinking corner of the devastated city, the Ukrainian military is determined to hold out for strategic reasons, even as allies question the cost.  <a href="https://nyti.ms/3oaaAsR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<h3>‘Glory to Putin’: How Pro-Russian Narratives Spread in Africa</h3>
+<sub>By Elian Peltier, Adam Satariano and Lynsey Chutel</sub>
+<p>Pro-Russian content presenting a distorted version of the war in Ukraine and promoting Russia’s interests in Africa is gaining an audience on the continent.  <a href="https://nyti.ms/3GGMrRn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Miscommunication Nearly Led to Russian Jet Shooting Down British Spy Plane, U.S. Officials Say</h3>
@@ -93,10 +93,34 @@ There are a lot of different things happening in the world right now. In the US,
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Judge Imposes Sanction on Fox for Withholding Evidence in Defamation Case</h3>
-<sub>By Katie Robertson and Jeremy W. Peters</sub>
-<p>Judge Eric Davis also said an investigation was likely into Fox’s handling of documents and whether it had withheld details about Rupert Murdoch’s corporate role.  <a href="https://nyti.ms/402te3k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Landmark Trial Against Fox News Could Affect the Future of Libel Law</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>Jury selection starts on Thursday in Delaware Superior Court, where the proceedings will tackle misinformation and the limits of journalistic responsibility.  <a href="https://nyti.ms/3zVzEGY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>What Do People Do All Day?</h3>
+<sub>By Malia Wollan</sub>
+<p>Now that work is more flexible, see how nine people are using their time in new ways.  <a href="https://nyti.ms/406fKnb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>If Tennessee’s Legislature Looks Broken, It’s Not Alone</h3>
+<sub>By Michael Wines</sub>
+<p>State legislatures around the country — plagued by partisan division, uncompetitive races and gerrymandering — reflect the current pressures on democracy.  <a href="https://nyti.ms/3mtqMFc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump to Face Questioning Thursday in N.Y. Attorney General’s Lawsuit</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
+<p>Letitia James, the attorney general, has sued Donald J. Trump and three of his children, accusing them of a “staggering” fraud.  <a href="https://nyti.ms/3GFeCA8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Who Is Alvin Bragg, the D.A. Leading the Prosecution of Trump?</h3>
+<sub>By Michael Gold and Jonah E. Bromwich</sub>
+<p>The Manhattan district attorney finds himself in the eye of the storm after an investigation by his office led to the indictment of former President Donald J. Trump.  <a href="https://nyti.ms/3MEPj4L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Feinstein, Under Pressure to Resign, Asks to Step Down From Judiciary Panel</h3>
@@ -104,35 +128,11 @@ There are a lot of different things happening in the world right now. In the US,
 <p>The 89-year-old California Democrat, who has been absent from the Senate for more than a month after being diagnosed with shingles, said she would seek a temporary replacement on the powerful committee.  <a href="https://nyti.ms/3UwDcsu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Second Expelled Democrat Is Sent Back to Tennessee House</h3>
-<sub>By Emily Cochrane</sub>
-<p>County officials voted on Wednesday to return Justin J. Pearson to the state legislature, less than a week after he and a colleague were expelled.  <a href="https://nyti.ms/43mlT1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tennessee House Expulsions: What You Need to Know</h3>
-<sub>By Eliza Fawcett and Emily Cochrane</sub>
-<p>Only days after Republicans ousted two Democratic lawmakers over a gun control protest, one has already been returned to his seat and local officials unanimously voted on Wednesday to send the second back, too.  <a href="https://nyti.ms/3KBILBE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Return of Justin Jones and the White Suit</h3>
-<sub>By Vanessa Friedman</sub>
-<p>The Tennessee lawmaker has become a viral symbol.  <a href="https://nyti.ms/43pw2dM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Witnesses Asked About Trump’s Handling of Map With Classified Information</h3>
-<sub>By Maggie Haberman, Adam Goldman and Alan Feuer</sub>
-<p>The map is just one element of the Justice Department’s inquiry into former President Donald Trump’s possession of sensitive documents and whether he obstructed justice in seeking to hold onto them.  <a href="https://nyti.ms/3zZysSF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Sues Michael Cohen, the Key Witness Against Him</h3>
-<sub>By Maggie Haberman, Ben Protess, William K. Rashbaum and Jonah E. Bromwich</sub>
-<p>The lawsuit, filed in federal court in Florida, accuses Mr. Cohen of revealing Mr. Trump’s confidences and “spreading falsehoods” about him.  <a href="https://nyti.ms/3GGFEqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Lonely Cry for Action as China Locks Up Japanese Citizens on Spy Charges</h3>
+<sub>By Ben Dooley and Hisako Ueno</sub>
+<p>Hideji Suzuki says Japan failed him during his six years in a Chinese prison. China’s recent arrest of a Japanese citizen is again testing Tokyo’s resolve.  <a href="https://nyti.ms/3zVjGMN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
