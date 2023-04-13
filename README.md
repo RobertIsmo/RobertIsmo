@@ -60,10 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 13, Central Standard Time</p>
 <p>
-There’s a lot happening around the world right now. In Russia, there’s infighting between officials shown in newly leaked documents and a possible breach of American intelligence agencies. Meanwhile, in Ukraine there’s a bloody stand for Bakhmut, and in Britain, there was nearly a shooting of a spy plane caused by miscommunication. 
-
-In the US, Feinstein has asked to step down from the Judiciary Panel due to pressure. Two Tennessee Democrats were expelled from their house and later allowed back in. Trump is now suing his key witness, Michael Cohen. Plus, inflation has cooled off recently but it still a long road to get back to normal. Lastly, Biden took a tour of his Irish heritage with his family in tow.</p>
+There are a lot of different things happening in the world right now. In the US, a Fifth Court of Appeals just published an order in an abortion pill case and two Tennessee lawmakers were expelled from the House and then reinstated. An investigation into former President Trump’s handling of classified information is also underway and he just sued his former lawyer Michael Cohen for revealing his confidences. Meanwhile, leaked documents have revealed broad infighting among Russian officials and in Ukraine there has been a bloody stand for Bakhmut. Finally, Fox News was sanctioned by a judge for withholding evidence in a defamation case.</p>
 <ol>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Court Says Abortion Pill Can Remain Available but Imposes Temporary Restrictions</h3>
+<sub>By Pam Belluck</sub>
+<p>The judges blocked the drug from being sent to patients through the mail and rolled back other steps the government had taken to ease access.  <a href="https://nyti.ms/41rPhBJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Read the document</h3>
+<sub></sub>
+<p>The U.S. Fifth Court of Appeals published an order in the abortion pill case.  <a href="https://nyti.ms/3GDjDcp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>New Leaked Documents Show Broad Infighting Among Russian Officials</h3>
 <sub>By Anton Troianovski, Aric Toler, Julian E. Barnes, Christiaan Triebert and Malachy Browne</sub>
@@ -122,18 +132,6 @@ In the US, Feinstein has asked to step down from the Judiciary Panel due to pres
 <h3>Trump Sues Michael Cohen, the Key Witness Against Him</h3>
 <sub>By Maggie Haberman, Ben Protess, William K. Rashbaum and Jonah E. Bromwich</sub>
 <p>The lawsuit, filed in federal court in Florida, accuses Mr. Cohen of revealing Mr. Trump’s confidences and “spreading falsehoods” about him.  <a href="https://nyti.ms/3GGFEqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Cools Notably, but It’s a Long Road Back to Normal</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Fed officials are debating how to set policy after bank blowups. Fresh inflation data are unlikely to make such decisions easier.  <a href="https://nyti.ms/43px1KZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘I’m Comin’ Home’: Biden Takes a Tour of His Irish Heritage</h3>
-<sub>By Katie Rogers and Michael D. Shear</sub>
-<p>With his sister, Valerie Biden Owens, and his son, Hunter Biden, in tow, the president spent the first day of his trip to Ireland steeped in family lore.  <a href="https://nyti.ms/3ZYEqhq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
