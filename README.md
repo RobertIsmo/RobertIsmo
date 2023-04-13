@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 13, Central Standard Time</p>
 <p>
-Right now, there&#39;s been a lot of discussion about the availability of abortion pills in the United States. A court recently imposed temporary restrictions on the drug, and some people are selling them overseas. Research has found that abortion pills are safe, but their use is restricted in many places.
-
-On the international front, Russian officials are locked in a heated battle and leak scandal at home, and different narratives about Russia have been spread throughout Africa.
-
-In the political sphere, President Trump is being questioned as he faces a lawsuit from the New York attorney general. And state legislatures seem to be divided by partisanship - all part of issues with democracy at the moment.
-
-The world of sports is also seeing some upheaval, as the Women&#39;s Tennis Association recently announced it was lifting its suspension on Chinese tournaments after concerns over a Chinese star went unresolved.</p>
+There is a lot happening in the world to discuss. A leader of an online group that leaked classified documents related to the war in Ukraine has been identified as an Air National Guardsman. New leaked documents suggest that there was broad infighting among Russian officials which are now breached, likely containing more material than previously thought. The Justice Department is now seeking emergency Supreme Court action after a ruling that blocked the abortion pill mifepristone from being sent by mail. There is also discussion of an online market for unregulated abortion pills, though there is evidence that various abortions pills are safe. On a less serious note, there was recently a landmark trial against Fox News that could affect libel law and a VHS tape of the movie Rocky just sold for $27,500 due to a nostalgia boom. To top it all off, Mary Quant, who revolutionized British fashion in the 1960s, recently passed away and Donald Trump is now being questioned in the New York Attorney General&#39;s lawsuit. Lastly, Dan Snyder just agreed to sell the Washington Commanders for $6 billion.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Leader of Online Group Where Secret Documents Leaked Is Air National Guardsman</h3>
+<sub>By Aric Toler, Michael Schwirtz, Haley Willis, Riley Mellen, Christiaan Triebert, Malachy Browne, Thomas Gibbons-Neff and Julian E. Barnes</sub>
+<p>Federal investigators are searching for the person who shared classified documents that revealed government secrets about the Ukraine war.  <a href="https://nyti.ms/3KAO04l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>New Leaked Documents Show Broad Infighting Among Russian Officials</h3>
+<sub>By Anton Troianovski, Aric Toler, Julian E. Barnes, Christiaan Triebert and Malachy Browne</sub>
+<p>The additional documents also suggest the breach of American intelligence agencies could contain far more material than previously believed.  <a href="https://nyti.ms/3GGP31v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Court Says Abortion Pill Can Remain Available but Imposes Temporary Restrictions</h3>
+<h3>Justice Department to Seek Emergency Supreme Court Action on Abortion Ruling</h3>
 <sub>By Pam Belluck</sub>
-<p>The judges blocked the drug from being sent to patients through the mail and rolled back other steps the government had taken to ease access.  <a href="https://nyti.ms/41rPhBJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The agency will challenge an appeals court ruling that blocked the abortion pill mifepristone from being sent by the mail and rolled back other recent measures that expanded access.  <a href="https://nyti.ms/41rPhBJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -85,18 +91,6 @@ The world of sports is also seeing some upheaval, as the Women&#39;s Tennis Asso
 <sub>By Amy Schoenfeld Walker, Jonathan Corum, Malika Khurana and Ashley Wu</sub>
 <p>The Times reviewed 101 studies of medication abortion, spanning continents and decades. All concluded that the pills are a safe method for terminating a pregnancy.  <a href="https://nyti.ms/3K3AllX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>New Leaked Documents Show Broad Infighting Among Russian Officials</h3>
-<sub>By Anton Troianovski, Aric Toler, Julian E. Barnes, Christiaan Triebert and Malachy Browne</sub>
-<p>The additional documents also suggest the breach of American intelligence agencies could contain far more material than previously believed.  <a href="https://nyti.ms/3GGP31v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Glory to Putin’: How Pro-Russian Narratives Spread in Africa</h3>
-<sub>By Elian Peltier, Adam Satariano and Lynsey Chutel</sub>
-<p>Pro-Russian content presenting a distorted version of the war in Ukraine and promoting Russia’s interests in Africa is gaining an audience on the continent.  <a href="https://nyti.ms/3GGMrRn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Landmark Trial Against Fox News Could Affect the Future of Libel Law</h3>
@@ -116,28 +110,28 @@ The world of sports is also seeing some upheaval, as the Women&#39;s Tennis Asso
 <p>Letitia James, the attorney general, has sued Donald J. Trump and three of his children, accusing them of a “staggering” fraud.  <a href="https://nyti.ms/3GFeCA8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>What Do People Do All Day?</h3>
-<sub>By Malia Wollan</sub>
-<p>Now that work is more flexible, see how nine people are using their time in new ways.  <a href="https://nyti.ms/406fKnb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>If Tennessee’s Legislature Looks Broken, It’s Not Alone</h3>
-<sub>By Michael Wines</sub>
-<p>State legislatures around the country — plagued by partisan division, uncompetitive races and gerrymandering — reflect the current pressures on democracy.  <a href="https://nyti.ms/3mtqMFc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A VHS Tape of ‘Rocky’ Just Sold for $27,500, Because Why Not</h3>
+<sub>By David Streitfeld</sub>
+<p>Collectors are finding that their childhood has a price — and it’s going up. When the future is frightening, it’s boom times at the nostalgia factory.  <a href="https://nyti.ms/41oZVcl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Feinstein, Under Pressure to Resign, Asks to Step Down From Judiciary Panel</h3>
-<sub>By Annie Karni</sub>
-<p>The 89-year-old California Democrat, who has been absent from the Senate for more than a month after being diagnosed with shingles, said she would seek a temporary replacement on the powerful committee.  <a href="https://nyti.ms/3UwDcsu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-fashion-blue" alt="">
+<h3>Mary Quant, British Fashion Revolutionary, Dies at 93</h3>
+<sub>By Penelope Green</sub>
+<p>Known as the mother of the miniskirt, clad in her signature play clothes and boots, with huge painted eyes, fake freckles and a bob, she epitomized London’s Swinging Sixties.  <a href="https://nyti.ms/3mtXwhE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Why Mary Quant Mattered</h3>
+<sub>By Elizabeth Paton</sub>
+<p>A salute to the British designer who made Sixties fashion swing.  <a href="https://nyti.ms/3KA1GN9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>WTA Returns to China, Lifting Suspension on Tournaments</h3>
-<sub>By Christopher Clarey</sub>
-<p>The tour had paused events there after concerns about the Chinese star Peng Shuai went unresolved, but Steve Simon, its chief executive, said a different approach was needed.  <a href="https://nyti.ms/3odUEpS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Dan Snyder Agrees to Sell Washington Commanders for $6 Billion</h3>
+<sub>By Ken Belson and Katherine Rosman</sub>
+<p>The N.F.L. team is on track to be sold to a group led by Josh Harris for a record figure, as investigations into sexual harassment claims and the team’s finances continue.  <a href="https://nyti.ms/3GGc7NU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
