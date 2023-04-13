@@ -58,26 +58,40 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, April 12, Central Standard Time</p>
+<p>It is Thursday, April 13, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. Ukrainian military is determined to hold out in a city, and Poland&#39;s Prime Minister said South Korea needs artillery shells. A near-miss incident between a Russian jet and British spy plane happened recently. Two Democrats were expelled from the Tennessee House, but eventually returned to their seats. A judge imposed sanctions on Fox for withholding evidence in a defamation case, and witnesses were asked about Trump&#39;s handling of classified information. Trump is suing Michael Cohen, and Dianne Feinstein has asked to step down from the Judiciary Panel due to pressure. Lastly, inflation data is cooling off, but certain Fed officials are still debating economic policy decisions.</p>
+There’s a lot happening around the world right now. In Russia, there’s infighting between officials shown in newly leaked documents and a possible breach of American intelligence agencies. Meanwhile, in Ukraine there’s a bloody stand for Bakhmut, and in Britain, there was nearly a shooting of a spy plane caused by miscommunication. 
+
+In the US, Feinstein has asked to step down from the Judiciary Panel due to pressure. Two Tennessee Democrats were expelled from their house and later allowed back in. Trump is now suing his key witness, Michael Cohen. Plus, inflation has cooled off recently but it still a long road to get back to normal. Lastly, Biden took a tour of his Irish heritage with his family in tow.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>New Leaked Documents Show Broad Infighting Among Russian Officials</h3>
+<sub>By Anton Troianovski, Aric Toler, Julian E. Barnes, Christiaan Triebert and Malachy Browne</sub>
+<p>The additional documents also suggest the breach of American intelligence agencies could contain far more material than previously believed.  <a href="https://nyti.ms/3GGP31v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Final Blocks: Inside Ukraine’s Bloody Stand for Bakhmut</h3>
 <sub>By Andrew E. Kramer and Mauricio Lima</sub>
 <p>Pushed into a shrinking corner of the devastated city, the Ukrainian military is determined to hold out for strategic reasons, even as allies question the cost.  <a href="https://nyti.ms/3oaaAsR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine Needs South Korean Artillery Shells, Poland’s Prime Minister Says</h3>
-<sub>By Julian E. Barnes and Adam Entous</sub>
-<p>Leaders in Seoul need assurances that the United States would offer support in the face of any aggressive response from China or Russia, Prime Minister Mateusz Morawiecki said.  <a href="https://nyti.ms/43w1qaD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Miscommunication Nearly Led to Russian Jet Shooting Down British Spy Plane, U.S. Officials Say</h3>
 <sub>By Thomas Gibbons-Neff and Eric Schmitt</sub>
 <p>Recently leaked intelligence documents called the incident, last year, a near shoot down. Officials said it was more serious than originally reported.  <a href="https://nyti.ms/41n4aFd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Judge Imposes Sanction on Fox for Withholding Evidence in Defamation Case</h3>
+<sub>By Katie Robertson and Jeremy W. Peters</sub>
+<p>Judge Eric Davis also said an investigation was likely into Fox’s handling of documents and whether it had withheld details about Rupert Murdoch’s corporate role.  <a href="https://nyti.ms/402te3k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Feinstein, Under Pressure to Resign, Asks to Step Down From Judiciary Panel</h3>
+<sub>By Annie Karni</sub>
+<p>The 89-year-old California Democrat, who has been absent from the Senate for more than a month after being diagnosed with shingles, said she would seek a temporary replacement on the powerful committee.  <a href="https://nyti.ms/3UwDcsu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,12 +112,6 @@ There&#39;s a lot going on in the world right now. Ukrainian military is determi
 <p>The Tennessee lawmaker has become a viral symbol.  <a href="https://nyti.ms/43pw2dM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Judge Imposes Sanction on Fox for Withholding Evidence in Defamation Case</h3>
-<sub>By Katie Robertson and Jeremy W. Peters</sub>
-<p>Judge Eric Davis also said an investigation was likely into Fox’s handling of documents and whether it had withheld details about Rupert Murdoch’s corporate role.  <a href="https://nyti.ms/402te3k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Witnesses Asked About Trump’s Handling of Map With Classified Information</h3>
 <sub>By Maggie Haberman, Adam Goldman and Alan Feuer</sub>
@@ -114,12 +122,6 @@ There&#39;s a lot going on in the world right now. Ukrainian military is determi
 <h3>Trump Sues Michael Cohen, the Key Witness Against Him</h3>
 <sub>By Maggie Haberman, Ben Protess, William K. Rashbaum and Jonah E. Bromwich</sub>
 <p>The lawsuit, filed in federal court in Florida, accuses Mr. Cohen of revealing Mr. Trump’s confidences and “spreading falsehoods” about him.  <a href="https://nyti.ms/3GGFEqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Feinstein, Under Pressure to Resign, Asks to Step Down From Judiciary Panel</h3>
-<sub>By Annie Karni</sub>
-<p>The 89-year-old California Democrat, who has been absent from the Senate for more than a month after being diagnosed with shingles, said she would seek a temporary replacement on the powerful committee.  <a href="https://nyti.ms/3UwDcsu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
