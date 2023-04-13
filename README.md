@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 13, Central Standard Time</p>
 <p>
-There is a lot happening in the world to discuss. A leader of an online group that leaked classified documents related to the war in Ukraine has been identified as an Air National Guardsman. New leaked documents suggest that there was broad infighting among Russian officials which are now breached, likely containing more material than previously thought. The Justice Department is now seeking emergency Supreme Court action after a ruling that blocked the abortion pill mifepristone from being sent by mail. There is also discussion of an online market for unregulated abortion pills, though there is evidence that various abortions pills are safe. On a less serious note, there was recently a landmark trial against Fox News that could affect libel law and a VHS tape of the movie Rocky just sold for $27,500 due to a nostalgia boom. To top it all off, Mary Quant, who revolutionized British fashion in the 1960s, recently passed away and Donald Trump is now being questioned in the New York Attorney General&#39;s lawsuit. Lastly, Dan Snyder just agreed to sell the Washington Commanders for $6 billion.</p>
+There is a lot going on in the world right now. A 21-year-old air national guard member was arrested for leaking secret documents. Documents are also showing there is infighting among Russian officials. The Florida Legislature has passed a six-week abortion ban, which is one of the most restrictive bans in the US. The Justice Department is looking to challenge an appeals court decision regarding access to the abortion pill mifepristone. Politically, people are discussing the 2024 presidential candidates and their positions on abortion. There was a tech consultant arrested for killing a Cash App Creator in San Francisco, and there is a historic defamation trial against Fox News that is underway. Also, the NY Attorney General is questioning Donald Trump in a lawsuit and Trump has threatened investigations of Democratic District Attorneys if reelected. People are paying high prices for old &quot;Rocky&quot; tapes out of nostalgia, and Dan Snyder has agreed to sell the Washington Commanders team for $6 billion amid investigations into sexual harassment claims and finances.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Leader of Online Group Where Secret Documents Leaked Is Air National Guardsman</h3>
+<h3>Here’s what we know about the leader of the online group where secret documents were leaked.</h3>
 <sub>By Aric Toler, Michael Schwirtz, Haley Willis, Riley Mellen, Christiaan Triebert, Malachy Browne, Thomas Gibbons-Neff and Julian E. Barnes</sub>
-<p>Federal investigators are searching for the person who shared classified documents that revealed government secrets about the Ukraine war.  <a href="https://nyti.ms/3KAO04l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Jack Teixeira, a 21-year-old member of the Massachusetts Air National Guard, was arrested on Thursday.  <a href="https://nyti.ms/3KAO04l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,23 +74,29 @@ There is a lot happening in the world to discuss. A leader of an online group th
 <p>The additional documents also suggest the breach of American intelligence agencies could contain far more material than previously believed.  <a href="https://nyti.ms/3GGP31v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Florida Legislature Passes Six-Week Abortion Ban</h3>
+<sub>By Patricia Mazzei, David W. Chen and Alexandra Glorioso</sub>
+<p>The prohibition would be among the most restrictive in the country, and Florida would no longer be a destination for women from across the Deep South seeking abortions.  <a href="https://nyti.ms/41hXPei"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Justice Department to Seek Emergency Supreme Court Action on Abortion Ruling</h3>
-<sub>By Pam Belluck</sub>
-<p>The agency will challenge an appeals court ruling that blocked the abortion pill mifepristone from being sent by the mail and rolled back other recent measures that expanded access.  <a href="https://nyti.ms/41rPhBJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Pam Belluck and Adam Liptak</sub>
+<p>The government will challenge an appeals court decision that blocked the abortion pill mifepristone from being sent by the mail and rolled back other recent measures that expanded access.  <a href="https://nyti.ms/41rPhBJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Online Market for Overseas Abortion Pills</h3>
-<sub>By Allison McCann</sub>
-<p>For-profit sellers are meeting the demand for unregulated abortion pills — one that will only grow if legal access in the U.S. is further restricted.  <a href="https://nyti.ms/3KqEpwM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Where the Likely 2024 Presidential Contenders Stand on Abortion</h3>
+<sub>By Maggie Astor</sub>
+<p>Not quite a year after the Supreme Court overturned Roe v. Wade, abortion continues to be one of the main issues shaping American politics.  <a href="https://nyti.ms/41jELMU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Are Abortion Pills Safe? Here’s the Evidence.</h3>
-<sub>By Amy Schoenfeld Walker, Jonathan Corum, Malika Khurana and Ashley Wu</sub>
-<p>The Times reviewed 101 studies of medication abortion, spanning continents and decades. All concluded that the pills are a safe method for terminating a pregnancy.  <a href="https://nyti.ms/3K3AllX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tech Consultant Arrested in San Francisco Killing of Cash App Creator</h3>
+<sub>By Sharon LaFraniere, Shawn Hubler and Thomas Fuller</sub>
+<p>The police said the consultant, Nima Momeni, was an acquaintance of Bob Lee.  <a href="https://nyti.ms/43y6g7i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Landmark Trial Against Fox News Could Affect the Future of Libel Law</h3>
@@ -110,28 +116,22 @@ There is a lot happening in the world to discuss. A leader of an online group th
 <p>Letitia James, the attorney general, has sued Donald J. Trump and three of his children, accusing them of a “staggering” fraud.  <a href="https://nyti.ms/3GFeCA8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Vows Investigations of Democratic District Attorneys</h3>
+<sub>By Alan Feuer</sub>
+<p>Mr. Trump’s threats of sweeping inquiries if re-elected came as local prosecutors in New York and Georgia were intensely scrutinizing him.  <a href="https://nyti.ms/40fw1q8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A VHS Tape of ‘Rocky’ Just Sold for $27,500, Because Why Not</h3>
+<h3>Yes, People Will Pay $27,500 for an Old ‘Rocky’ Tape. Here’s Why.</h3>
 <sub>By David Streitfeld</sub>
 <p>Collectors are finding that their childhood has a price — and it’s going up. When the future is frightening, it’s boom times at the nostalgia factory.  <a href="https://nyti.ms/41oZVcl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-fashion-blue" alt="">
-<h3>Mary Quant, British Fashion Revolutionary, Dies at 93</h3>
-<sub>By Penelope Green</sub>
-<p>Known as the mother of the miniskirt, clad in her signature play clothes and boots, with huge painted eyes, fake freckles and a bob, she epitomized London’s Swinging Sixties.  <a href="https://nyti.ms/3mtXwhE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Why Mary Quant Mattered</h3>
-<sub>By Elizabeth Paton</sub>
-<p>A salute to the British designer who made Sixties fashion swing.  <a href="https://nyti.ms/3KA1GN9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Dan Snyder Agrees to Sell Washington Commanders for $6 Billion</h3>
 <sub>By Ken Belson and Katherine Rosman</sub>
-<p>The N.F.L. team is on track to be sold to a group led by Josh Harris for a record figure, as investigations into sexual harassment claims and the team’s finances continue.  <a href="https://nyti.ms/3GGc7NU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The N.F.L. team is on track to be sold for a record figure to a group led by Josh Harris, as investigations into sexual harassment claims and the team’s finances continue.  <a href="https://nyti.ms/3GGc7NU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
