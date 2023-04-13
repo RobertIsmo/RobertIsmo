@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 12, Central Standard Time</p>
 <p>
-There&#39;s lots of global news to cover! In Ukraine, the military is desperately trying to hold on to what&#39;s left of a city that&#39;s been crushed by war. Meanwhile, Poland&#39;s Prime Minister is asking South Korea for artillery shells and looking for reassurance from the US, in case China or Russia act aggressively. We also heard recently that there was almost a shoot down between Russian and British planes due to miscommunication. Closer to home, two Democrats in Tennessee have successfully been reinstated after they had initially been expelled from the House, while a Fox News trial has brought sanctions against them for withholding evidence. The Biden administration plans to switch things up too by proposing rules that two-thirds of new cars and a quarter of heavy trucks in the US will be fully electric by 2032. In other news, former President Trump is being investigated for obstruction of justice and has filed a lawsuit against one of his key witnesses. Lastly, we&#39;ve seen inflation cool off recently and the President touring his Irish heritage with family members.</p>
+There&#39;s a lot going on in the world right now. Ukrainian military is determined to hold out in a city, and Poland&#39;s Prime Minister said South Korea needs artillery shells. A near-miss incident between a Russian jet and British spy plane happened recently. Two Democrats were expelled from the Tennessee House, but eventually returned to their seats. A judge imposed sanctions on Fox for withholding evidence in a defamation case, and witnesses were asked about Trump&#39;s handling of classified information. Trump is suing Michael Cohen, and Dianne Feinstein has asked to step down from the Judiciary Panel due to pressure. Lastly, inflation data is cooling off, but certain Fed officials are still debating economic policy decisions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Final Blocks: Inside Ukraine’s Bloody Stand for Bakhmut</h3>
@@ -104,12 +104,6 @@ There&#39;s lots of global news to cover! In Ukraine, the military is desperatel
 <p>Judge Eric Davis also said an investigation was likely into Fox’s handling of documents and whether it had withheld details about Rupert Murdoch’s corporate role.  <a href="https://nyti.ms/402te3k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>E.P.A. Lays Out Rules to Turbocharge Sales of Electric Cars and Trucks</h3>
-<sub>By Coral Davenport</sub>
-<p>The Biden administration is proposing rules to ensure that two-thirds of new cars and a quarter of new heavy trucks sold in the United States by 2032 are all-electric.  <a href="https://nyti.ms/3oaDjxJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Witnesses Asked About Trump’s Handling of Map With Classified Information</h3>
 <sub>By Maggie Haberman, Adam Goldman and Alan Feuer</sub>
@@ -120,6 +114,12 @@ There&#39;s lots of global news to cover! In Ukraine, the military is desperatel
 <h3>Trump Sues Michael Cohen, the Key Witness Against Him</h3>
 <sub>By Maggie Haberman, Ben Protess, William K. Rashbaum and Jonah E. Bromwich</sub>
 <p>The lawsuit, filed in federal court in Florida, accuses Mr. Cohen of revealing Mr. Trump’s confidences and “spreading falsehoods” about him.  <a href="https://nyti.ms/3GGFEqF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Feinstein, Under Pressure to Resign, Asks to Step Down From Judiciary Panel</h3>
+<sub>By Annie Karni</sub>
+<p>The 89-year-old California Democrat, who has been absent from the Senate for more than a month after being diagnosed with shingles, said she would seek a temporary replacement on the powerful committee.  <a href="https://nyti.ms/3UwDcsu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
