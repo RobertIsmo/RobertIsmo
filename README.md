@@ -60,24 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 14, Central Standard Time</p>
 <p>
-There are a lot of big changes happening around the world right now. In the US, the Biden administration is asking the Supreme Court to restore broad access to abortion pills. At the same time, unemployment remains low and inflation is falling, but economists are warning of a potential recession. On the business side, big banks have reported great profits, but it&#39;s unclear if this is sustainable. On an international scale, a war games gamer was exposed to classified documents by an airman in the National Guard. There&#39;s also been a hunt for the leaker on Discord and Twitter. In addition, China has shifted its car buying preferences away from foreign brands and toward domestic companies producing electric cars and S.U.V.s, and in Chernobyl there are ghosts who are still crossing paths with advancing Russian troops as war returns to the nuclear wasteland. Lastly, there is a conundrum of support for public schools in rural Texas, while Gov. Ron DeSantis of Florida has to appeal both to those enthralled by Donald Trump and those repelled by him.</p>
+To sum it up, there is a lot going on in the world right now. In the military, a young National Guard airman is facing some serious accusations of giving out classified documents to an online war games group. The Biden administration has just asked the Supreme Court to restore access to the most commonly used abortion pill in the US. It turns out many Americans had not heard of this drug before it became such a hot topic. Meanwhile, economists are discussing if a recession is headed our way despite good economic numbers, and big banks are reporting bumper profits. In international news, China is being pressured to offer debt relief to poor countries and Ghost from the past still roam the Chernobyl nuclear wasteland. Finally, when it comes to climate changing technology, we need to plug in many cars, trucks, heaters and factories for this change and in China, domestic car companies are selling more vehicles than foreign ones. In rural Texas there is an interesting rise of support for public schools even though many other parts of the US have been trying to move away from them in favour of private schools.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Airman Who Gave Gamers a Real Taste of War</h3>
 <sub>By Aric Toler, Christiaan Triebert, Haley Willis, Malachy Browne, Michael Schwirtz and Riley Mellen</sub>
-<p>The group liked online war games. But then Jack Teixeira, a 21-year-old National Guard airman, began showing them classified documents, members say.  <a href="https://nyti.ms/3A2MUcA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A group liked online war games. But then Jack Teixeira, a 21-year-old National Guard airman, began showing members classified documents, they say.  <a href="https://nyti.ms/3A2MUcA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Inside the Hunt for the Discord Leaker, and Twitter Chaos Updates</h3>
-<sub>By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano, Sophia Lanman and Rowan Niemisto</sub>
-<p>How Times journalists tracked down the alleged leaker of top secret military intelligence.  <a href="https://nyti.ms/3MID877"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>It’s typical for a national guardsman with Teixeira’s job to have top-secret clearance.</h3>
+<sub>By Helene Cooper, Julian E. Barnes and Eric Schmitt</sub>
+<p>  <a href="https://nyti.ms/41xNivL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Administration Asks Supreme Court to Restore Broad Availability of Abortion Pill</h3>
 <sub>By Adam Liptak</sub>
 <p>In an emergency application, lawyers for the government asked the justices to stay all of a Texas judge’s ruling suspending a commonly used abortion medication.  <a href="https://nyti.ms/3mB6byW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Abortion Pills, the Latest Battleground, Have Been Little Known to Americans</h3>
+<sub>By Ruth Igielnik and Andrew Fischer</sub>
+<p>A majority of Americans had not heard of mifepristone, a survey earlier this year found. The drug is now at the center of an abortion case headed to the Supreme Court.  <a href="https://nyti.ms/3ogPadD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -89,19 +95,13 @@ There are a lot of big changes happening around the world right now. In the US, 
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Biggest U.S. Banks Report Bumper Profits Amid Industry Turmoil</h3>
 <sub>By Rob Copeland and Stacy Cowley</sub>
-<p>JPMorgan Chase, Citigroup and Wells Fargo comfortably beat expectations for earnings in the first quarter, when the failures of smaller banks sent jitters throughout the sector.  <a href="https://nyti.ms/41boqtY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>JPMorgan Chase, Citigroup and Wells Fargo comfortably beat expectations for earnings in the first quarter, when the failures of smaller banks sent jitters through the sector.  <a href="https://nyti.ms/41boqtY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Bank Earnings Reveal About the Health of the Economy</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>JPMorgan Chase and Wells Fargo reported solid earnings on Friday, but big questions remain about the sector’s health and a potential recession.  <a href="https://nyti.ms/3oc9Ofb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>With the Odds on Their Side, They Still Couldn’t Beat the Market</h3>
-<sub>By Jeff Sommer</sub>
-<p>In 2022, conditions were heavily in stock pickers’ favor, but most trailed the market. This year looks worse, our columnist says.  <a href="https://nyti.ms/3L1869w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Pressure Mounts on China to Offer Debt Relief to Poor Countries Facing Default</h3>
+<sub>By Alan Rappeport</sub>
+<p>There was optimism at the spring meetings of the I.M.F. and World Bank that China will make concessions over restructuring its loans.  <a href="https://nyti.ms/40acQh9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,16 +122,16 @@ There are a lot of big changes happening around the world right now. In the US, 
 <p>Domestic companies are now selling more vehicles than their multinational rivals, which have failed to keep up with Chinese consumers’ demand for electric cars and S.U.V.s.  <a href="https://nyti.ms/3KF0IPL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Great Goat War of Southern France</h3>
+<sub>By Catherine Porter</sub>
+<p>A former Parisian moved to the country, fell in love with goats and let them roam free and multiply. Her winemaking neighbors are not enchanted.  <a href="https://nyti.ms/3zZsH7C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Well of Conservative Support for Public Schools in Rural Texas</h3>
 <sub>By J. David Goodman</sub>
 <p>A national movement to give parents public vouchers to spend on private schools has run up against the deep loyalty Texas has always had for its public schools.  <a href="https://nyti.ms/3o3eXpG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Conundrum of the DeSantis Base: Pro-Trump and Anti-Trump Voters</h3>
-<sub>By Michael C. Bender</sub>
-<p>Gov. Ron DeSantis of Florida has had to appeal to two conflicting elements of his base: Republicans who are repelled by Donald Trump, and those who remain enthralled by him.  <a href="https://nyti.ms/3myMN5I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
