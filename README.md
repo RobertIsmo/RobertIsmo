@@ -60,13 +60,35 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 14, Central Standard Time</p>
 <p>
-I wanted to let you know about some recent news stories. The FBI recently arrested a 21-year-old member of the Massachusetts Air National Guard, Jack Teixeira, who they say posted classified documents in an online chat group. In other news, the Florida Legislature recently passed a six-week abortion ban that is one of the most restrictive in the country, and the Justice Department is pushing for a Supreme Court decision on whether or not states can limit access to the most common method of ending pregnancies. Additionally, there was an arrest in San Francisco for the murder of Bob Lee, and Congress is now returning after many senators were out due to illness and injury. Finally, Reid Hoffman, the co-founder of LinkedIn, has been helping fund a lawsuit against Donald Trump from E. Jean Carroll accusing him of rape.</p>
+Right now, the economy seems like it&#39;s in flux: unemployment is surprisingly low, inflation is falling but economists worry that a recession could be on the way. The banking sector is having some turbulence, but they still reported bumper profits in the quarter. It appears we´ll have to watch what happens there closely to see what it means for the overall economy. Meanwhile, stock pickers have had a hard time beating the market this year and last.
+
+On top of that, there&#39;s plenty of other news happening around the world. A U.S airman revealed highly sensitive military documents during an online war game - and journalists are now on the hunt for them. In an unrelated story, there are people who refused to evacuate from the Chernobyl nuclear plant meltdown in 1986 and continued to live through its aftermath years later. To address climate change, electric solutions are becoming a more popular solution as we need to plug in millions of cars and homes.
+
+Back here in the US, politics are a big topic. Black democratic activists have been expelled from Tennessee legislature for trying to channel civil rights leaders of past generations&#39; defiance tactics. And even though Texas has a long history of supporting public schools, Republican supporters are pushing for public vouchers so parents can use private school funds instead. Finally, the governor of Florida has been trying to navigate gun politics while at the same time addressing concerns from Trump supporters and Republicans repelled by him alike - which has become even more pressing as potential presidential candidates join in on the conversation ahead of 2024.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>F.B.I. Arrests National Guardsman in Leak of Classified Documents</h3>
-<sub>By Haley Willis, Thomas Gibbons-Neff, Aric Toler, Christiaan Triebert, Julian E. Barnes and Malachy Browne</sub>
-<p>Authorities say Jack Teixeira, a 21-year-old member of the Massachusetts Air National Guard, posted sensitive materials in an online chat group.  <a href="https://nyti.ms/3KAO04l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Unemployment Is Low. Inflation Is Falling. But What Comes Next?</h3>
+<sub>By Ben Casselman</sub>
+<p>Despite hopeful signs, economists worry that a recession is on the way or that the Federal Reserve will cause one in trying to rein in inflation.  <a href="https://nyti.ms/4090Bl7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Biggest U.S. Banks Report Bumper Profits Amid Industry Turmoil</h3>
+<sub>By Rob Copeland and Stacy Cowley</sub>
+<p>JPMorgan Chase, Wells Fargo, Citigroup and PNC Financial comfortably beat expectations for earnings in the first quarter, when the failures of smaller banks sent jitters throughout the sector.  <a href="https://nyti.ms/41boqtY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Bank Earnings Reveal About the Health of the Economy</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>JPMorgan Chase and Wells Fargo reported solid earnings on Friday, but big questions remain about the sector’s health and a potential recession.  <a href="https://nyti.ms/3oc9Ofb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>With the Odds on Their Side, They Still Couldn’t Beat the Market</h3>
+<sub>By Jeff Sommer</sub>
+<p>In 2022, conditions were heavily in stock pickers’ favor, but most trailed the market. This year looks worse, our columnist says.  <a href="https://nyti.ms/3L1869w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Airman Who Gave Gamers a Real Taste of War</h3>
@@ -74,65 +96,47 @@ I wanted to let you know about some recent news stories. The FBI recently arrest
 <p>The group liked online war games. But then Jack Teixeira, a 21-year-old National Guard airman, began showing them classified documents, members say.  <a href="https://nyti.ms/3A2MUcA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Massachusetts Air National Guard’s Intelligence Mission in the Spotlight</h3>
-<sub>By John Ismay and Jenna Russell</sub>
-<p>A junior enlisted airman assigned to an intelligence unit on Cape Cod is accused of leaking a trove of top-secret information.  <a href="https://nyti.ms/3MHuN3D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Inside the Hunt for the Discord Leaker, and Twitter Chaos Updates</h3>
+<sub>By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano, Sophia Lanman and Rowan Niemisto</sub>
+<p>How Times journalists tracked down the alleged leaker of top secret military intelligence.  <a href="https://nyti.ms/3MID877"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ghosts Past and Present Cross Paths as War Comes to Nuclear Wasteland</h3>
+<sub>By Marc Santora and Emile Ducke</sub>
+<p>Not everyone evacuated when the Chernobyl nuclear plant melted down in 1986. The few who stayed lived through another calamity when Russian troops marched in.  <a href="https://nyti.ms/3KWZela"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Electrifying Everything Became a Key Climate Solution</h3>
+<sub>By Nadja Popovich and Brad Plumer</sub>
+<p>To tackle climate change, we’ll need to plug in millions of cars, trucks, home heaters, stoves and factories.  <a href="https://nyti.ms/3myYnxG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When ‘Top Secret’ Is Not So Secret</h3>
-<sub>By Helene Cooper, Julian E. Barnes and Eric Schmitt</sub>
-<p>The arrest of Jack Teixeira, a junior Massachusetts airman, in the leaking of classified documents opens a debate about security clearances.  <a href="https://nyti.ms/3o8HcDw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<h3>Politics Rooted in Protest Fuels ‘the Justins’ of Tennessee</h3>
+<sub>By Clyde McGrady, Emily Cochrane and Jon Cherry</sub>
+<p>The young Black Democrats expelled from the legislature bring an activist approach, and model themselves after civil rights leaders of the past.  <a href="https://nyti.ms/3UEA8uG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Legislature Passes Six-Week Abortion Ban</h3>
-<sub>By Patricia Mazzei, David W. Chen and Alexandra Glorioso</sub>
-<p>The prohibition is among the most restrictive in the country, and Florida will no longer be a destination for women from across the Deep South seeking the procedure.  <a href="https://nyti.ms/41hXPei"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Abortion Is Back at Supreme Court’s Door After Dueling Orders on Pill</h3>
-<sub>By Pam Belluck and Adam Liptak</sub>
-<p>The justices are poised to consider whether the most common method of ending pregnancies can be sharply curtailed in states where abortion remains legal.  <a href="https://nyti.ms/41rPhBJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<h3>A Well of Conservative Support for Public Schools in Rural Texas</h3>
+<sub>By J. David Goodman</sub>
+<p>A national movement to give parents public vouchers to spend on private schools has run up against the deep loyalty Texas has always had for its public schools.  <a href="https://nyti.ms/3o3eXpG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here’s What to Watch for Next in the Abortion Pill Case</h3>
-<sub>By Abbie VanSickle</sub>
-<p>A federal appeals court has upheld part of a Texas judge’s decision. The Justice Department says it will ask the Supreme Court to weigh in. Here is what’s at stake.  <a href="https://nyti.ms/3KwTz3J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<h3>The Conundrum of the DeSantis Base: Pro-Trump and Anti-Trump Voters</h3>
+<sub>By Michael C. Bender</sub>
+<p>Gov. Ron DeSantis of Florida has had to appeal to two conflicting elements of his base: Republicans who are repelled by Donald Trump, and those who remain enthralled by him.  <a href="https://nyti.ms/3myMN5I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where the Likely 2024 Presidential Contenders Stand on Abortion</h3>
-<sub>By Maggie Astor</sub>
-<p>Not quite a year after the Supreme Court overturned Roe v. Wade, abortion continues to be one of the main issues shaping American politics.  <a href="https://nyti.ms/41jELMU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tech Consultant Arrested in San Francisco Killing of Cash App Creator</h3>
-<sub>By Sharon LaFraniere, Shawn Hubler and Thomas Fuller</sub>
-<p>The police said the consultant, Nima Momeni, knew Bob Lee, who was fatally stabbed.  <a href="https://nyti.ms/43y6g7i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Injuries and Illness Slow Senators, as Well as the Senate Itself</h3>
-<sub>By Carl Hulse and Annie Karni</sub>
-<p>High-profile absences have created complications for Democrats as Congress returns and prompted new questions about the future of Republican leadership.  <a href="https://nyti.ms/3KAEfTQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Witness Testimony Helps Prosecutors Advance Trump Election Case</h3>
-<sub>By Alan Feuer and Glenn Thrush</sub>
-<p>The Justice Department’s success in compelling top aides to former President Donald Trump to testify to a grand jury moves the special counsel closer to a decision on seeking indictments.  <a href="https://nyti.ms/3mxJ0pb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>LinkedIn’s Co-Founder Helped Fund the Suit Accusing Trump of Rape</h3>
-<sub>By Benjamin Weiser and Charlie Savage</sub>
-<p>Reid Hoffman, a billionaire and critic of Donald J. Trump, is backing E. Jean Carroll’s suit against the former president.  <a href="https://nyti.ms/41nELeE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<h3>Republican 2024 Hopefuls Look to Navigate Gun Politics at N.R.A. Meeting</h3>
+<sub>By Katie Glueck</sub>
+<p>The current and potential 2024 presidential candidates are expected to show support for gun owners’ rights — a core issue for the party’s base, but one that can be a tougher sell in a general election.  <a href="https://nyti.ms/3ofrEh8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
