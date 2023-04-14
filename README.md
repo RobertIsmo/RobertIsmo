@@ -60,12 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 14, Central Standard Time</p>
 <p>
-Right now, the economy seems like it&#39;s in flux: unemployment is surprisingly low, inflation is falling but economists worry that a recession could be on the way. The banking sector is having some turbulence, but they still reported bumper profits in the quarter. It appears we´ll have to watch what happens there closely to see what it means for the overall economy. Meanwhile, stock pickers have had a hard time beating the market this year and last.
-
-On top of that, there&#39;s plenty of other news happening around the world. A U.S airman revealed highly sensitive military documents during an online war game - and journalists are now on the hunt for them. In an unrelated story, there are people who refused to evacuate from the Chernobyl nuclear plant meltdown in 1986 and continued to live through its aftermath years later. To address climate change, electric solutions are becoming a more popular solution as we need to plug in millions of cars and homes.
-
-Back here in the US, politics are a big topic. Black democratic activists have been expelled from Tennessee legislature for trying to channel civil rights leaders of past generations&#39; defiance tactics. And even though Texas has a long history of supporting public schools, Republican supporters are pushing for public vouchers so parents can use private school funds instead. Finally, the governor of Florida has been trying to navigate gun politics while at the same time addressing concerns from Trump supporters and Republicans repelled by him alike - which has become even more pressing as potential presidential candidates join in on the conversation ahead of 2024.</p>
+There are a lot of big changes happening around the world right now. In the US, the Biden administration is asking the Supreme Court to restore broad access to abortion pills. At the same time, unemployment remains low and inflation is falling, but economists are warning of a potential recession. On the business side, big banks have reported great profits, but it&#39;s unclear if this is sustainable. On an international scale, a war games gamer was exposed to classified documents by an airman in the National Guard. There&#39;s also been a hunt for the leaker on Discord and Twitter. In addition, China has shifted its car buying preferences away from foreign brands and toward domestic companies producing electric cars and S.U.V.s, and in Chernobyl there are ghosts who are still crossing paths with advancing Russian troops as war returns to the nuclear wasteland. Lastly, there is a conundrum of support for public schools in rural Texas, while Gov. Ron DeSantis of Florida has to appeal both to those enthralled by Donald Trump and those repelled by him.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Airman Who Gave Gamers a Real Taste of War</h3>
+<sub>By Aric Toler, Christiaan Triebert, Haley Willis, Malachy Browne, Michael Schwirtz and Riley Mellen</sub>
+<p>The group liked online war games. But then Jack Teixeira, a 21-year-old National Guard airman, began showing them classified documents, members say.  <a href="https://nyti.ms/3A2MUcA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Inside the Hunt for the Discord Leaker, and Twitter Chaos Updates</h3>
+<sub>By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano, Sophia Lanman and Rowan Niemisto</sub>
+<p>How Times journalists tracked down the alleged leaker of top secret military intelligence.  <a href="https://nyti.ms/3MID877"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Administration Asks Supreme Court to Restore Broad Availability of Abortion Pill</h3>
+<sub>By Adam Liptak</sub>
+<p>In an emergency application, lawyers for the government asked the justices to stay all of a Texas judge’s ruling suspending a commonly used abortion medication.  <a href="https://nyti.ms/3mB6byW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Unemployment Is Low. Inflation Is Falling. But What Comes Next?</h3>
 <sub>By Ben Casselman</sub>
@@ -75,7 +89,7 @@ Back here in the US, politics are a big topic. Black democratic activists have b
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Biggest U.S. Banks Report Bumper Profits Amid Industry Turmoil</h3>
 <sub>By Rob Copeland and Stacy Cowley</sub>
-<p>JPMorgan Chase, Wells Fargo, Citigroup and PNC Financial comfortably beat expectations for earnings in the first quarter, when the failures of smaller banks sent jitters throughout the sector.  <a href="https://nyti.ms/41boqtY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>JPMorgan Chase, Citigroup and Wells Fargo comfortably beat expectations for earnings in the first quarter, when the failures of smaller banks sent jitters throughout the sector.  <a href="https://nyti.ms/41boqtY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -91,18 +105,6 @@ Back here in the US, politics are a big topic. Black democratic activists have b
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Airman Who Gave Gamers a Real Taste of War</h3>
-<sub>By Aric Toler, Christiaan Triebert, Haley Willis, Malachy Browne, Michael Schwirtz and Riley Mellen</sub>
-<p>The group liked online war games. But then Jack Teixeira, a 21-year-old National Guard airman, began showing them classified documents, members say.  <a href="https://nyti.ms/3A2MUcA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Inside the Hunt for the Discord Leaker, and Twitter Chaos Updates</h3>
-<sub>By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano, Sophia Lanman and Rowan Niemisto</sub>
-<p>How Times journalists tracked down the alleged leaker of top secret military intelligence.  <a href="https://nyti.ms/3MID877"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ghosts Past and Present Cross Paths as War Comes to Nuclear Wasteland</h3>
 <sub>By Marc Santora and Emile Ducke</sub>
 <p>Not everyone evacuated when the Chernobyl nuclear plant melted down in 1986. The few who stayed lived through another calamity when Russian troops marched in.  <a href="https://nyti.ms/3KWZela"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -114,10 +116,10 @@ Back here in the US, politics are a big topic. Black democratic activists have b
 <p>To tackle climate change, we’ll need to plug in millions of cars, trucks, home heaters, stoves and factories.  <a href="https://nyti.ms/3myYnxG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Politics Rooted in Protest Fuels ‘the Justins’ of Tennessee</h3>
-<sub>By Clyde McGrady, Emily Cochrane and Jon Cherry</sub>
-<p>The young Black Democrats expelled from the legislature bring an activist approach, and model themselves after civil rights leaders of the past.  <a href="https://nyti.ms/3UEA8uG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Car Buyers Have Fallen Out of Love With Foreign Brands</h3>
+<sub>By Keith Bradsher</sub>
+<p>Domestic companies are now selling more vehicles than their multinational rivals, which have failed to keep up with Chinese consumers’ demand for electric cars and S.U.V.s.  <a href="https://nyti.ms/3KF0IPL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -130,12 +132,6 @@ Back here in the US, politics are a big topic. Black democratic activists have b
 <h3>The Conundrum of the DeSantis Base: Pro-Trump and Anti-Trump Voters</h3>
 <sub>By Michael C. Bender</sub>
 <p>Gov. Ron DeSantis of Florida has had to appeal to two conflicting elements of his base: Republicans who are repelled by Donald Trump, and those who remain enthralled by him.  <a href="https://nyti.ms/3myMN5I"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican 2024 Hopefuls Look to Navigate Gun Politics at N.R.A. Meeting</h3>
-<sub>By Katie Glueck</sub>
-<p>The current and potential 2024 presidential candidates are expected to show support for gun owners’ rights — a core issue for the party’s base, but one that can be a tougher sell in a general election.  <a href="https://nyti.ms/3ofrEh8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
