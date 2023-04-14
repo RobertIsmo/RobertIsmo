@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 14, Central Standard Time</p>
 <p>
-To sum it up, there is a lot going on in the world right now. In the military, a young National Guard airman is facing some serious accusations of giving out classified documents to an online war games group. The Biden administration has just asked the Supreme Court to restore access to the most commonly used abortion pill in the US. It turns out many Americans had not heard of this drug before it became such a hot topic. Meanwhile, economists are discussing if a recession is headed our way despite good economic numbers, and big banks are reporting bumper profits. In international news, China is being pressured to offer debt relief to poor countries and Ghost from the past still roam the Chernobyl nuclear wasteland. Finally, when it comes to climate changing technology, we need to plug in many cars, trucks, heaters and factories for this change and in China, domestic car companies are selling more vehicles than foreign ones. In rural Texas there is an interesting rise of support for public schools even though many other parts of the US have been trying to move away from them in favour of private schools.</p>
+Right now, the Supreme Court is temporarily restoring access to the abortion pill in order to preserve the status quo and study the case further. In other news, there&#39;s an airman who has been giving some gamers access to classified documents. In Chernobyl, ghosts from past and present have crossed paths with war coming to the nuclear wasteland even after its meltdown 1986. New York City has been dealing with rat horror stories lately too. To help tackle climate change, more and more people are turning to electrifying things like cars and home heaters. On a business note, China car buyers have shifted away from foreign brands and there&#39;s pressure mounting on them to provide debt relief for poor countries at risk of defaulting. In France, there&#39;s a &#39;Goat War&#39; as a former Parisian moved to the country and let their goats roam free - much to their winemaking neighbors&#39; chagrin! Lastly, President Biden recently visited Ireland to both conduct some diplomacy and trace back his own family roots.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Airman Who Gave Gamers a Real Taste of War</h3>
-<sub>By Aric Toler, Christiaan Triebert, Haley Willis, Malachy Browne, Michael Schwirtz and Riley Mellen</sub>
-<p>A group liked online war games. But then Jack Teixeira, a 21-year-old National Guard airman, began showing members classified documents, they say.  <a href="https://nyti.ms/3A2MUcA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>It’s typical for a national guardsman with Teixeira’s job to have top-secret clearance.</h3>
-<sub>By Helene Cooper, Julian E. Barnes and Eric Schmitt</sub>
-<p>  <a href="https://nyti.ms/41xNivL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Administration Asks Supreme Court to Restore Broad Availability of Abortion Pill</h3>
+<h3>Supreme Court Briefly Restores Broad Availability of Abortion Pill</h3>
 <sub>By Adam Liptak</sub>
-<p>In an emergency application, lawyers for the government asked the justices to stay all of a Texas judge’s ruling suspending a commonly used abortion medication.  <a href="https://nyti.ms/3mB6byW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The temporary stay of an appeals court ruling is meant to preserve the status quo while the justices study the case, and it did not forecast how they would ultimately rule.  <a href="https://nyti.ms/3mB6byW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -86,28 +74,28 @@ To sum it up, there is a lot going on in the world right now. In the military, a
 <p>A majority of Americans had not heard of mifepristone, a survey earlier this year found. The drug is now at the center of an abortion case headed to the Supreme Court.  <a href="https://nyti.ms/3ogPadD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Unemployment Is Low. Inflation Is Falling. But What Comes Next?</h3>
-<sub>By Ben Casselman</sub>
-<p>Despite hopeful signs, economists worry that a recession is on the way or that the Federal Reserve will cause one in trying to rein in inflation.  <a href="https://nyti.ms/4090Bl7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Airman Who Gave Gamers a Real Taste of War</h3>
+<sub>By Aric Toler, Christiaan Triebert, Haley Willis, Malachy Browne, Michael Schwirtz and Riley Mellen</sub>
+<p>A group liked online war games. But then Jack Teixeira, a 21-year-old National Guard airman, began showing members classified documents, they say.  <a href="https://nyti.ms/3A2MUcA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Biggest U.S. Banks Report Bumper Profits Amid Industry Turmoil</h3>
-<sub>By Rob Copeland and Stacy Cowley</sub>
-<p>JPMorgan Chase, Citigroup and Wells Fargo comfortably beat expectations for earnings in the first quarter, when the failures of smaller banks sent jitters through the sector.  <a href="https://nyti.ms/41boqtY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Pressure Mounts on China to Offer Debt Relief to Poor Countries Facing Default</h3>
-<sub>By Alan Rappeport</sub>
-<p>There was optimism at the spring meetings of the I.M.F. and World Bank that China will make concessions over restructuring its loans.  <a href="https://nyti.ms/40acQh9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>It’s typical for a national guardsman with Teixeira’s job to have top-secret clearance.</h3>
+<sub>By Helene Cooper, John Ismay, Julian E. Barnes and Eric Schmitt</sub>
+<p>  <a href="https://nyti.ms/41xNivL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ghosts Past and Present Cross Paths as War Comes to Nuclear Wasteland</h3>
 <sub>By Marc Santora and Emile Ducke</sub>
 <p>Not everyone evacuated when the Chernobyl nuclear plant melted down in 1986. The few who stayed lived through another calamity when Russian troops marched in.  <a href="https://nyti.ms/3KWZela"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Rat Horror Stories the New N.Y.C. Rat Czar Needs to Hear</h3>
+<sub>By Dodai Stewart</sub>
+<p>New Yorkers have encountered rodents in toilets, on trains, in bed. And that’s not all.  <a href="https://nyti.ms/406G14L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -122,17 +110,29 @@ To sum it up, there is a lot going on in the world right now. In the military, a
 <p>Domestic companies are now selling more vehicles than their multinational rivals, which have failed to keep up with Chinese consumers’ demand for electric cars and S.U.V.s.  <a href="https://nyti.ms/3KF0IPL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Pressure Mounts on China to Offer Debt Relief to Poor Countries Facing Default</h3>
+<sub>By Alan Rappeport</sub>
+<p>There was optimism at the spring meetings of the I.M.F. and World Bank that China will make concessions over restructuring its loans.  <a href="https://nyti.ms/40acQh9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Great Goat War of Southern France</h3>
 <sub>By Catherine Porter</sub>
 <p>A former Parisian moved to the country, fell in love with goats and let them roam free and multiply. Her winemaking neighbors are not enchanted.  <a href="https://nyti.ms/3zZsH7C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Well of Conservative Support for Public Schools in Rural Texas</h3>
-<sub>By J. David Goodman</sub>
-<p>A national movement to give parents public vouchers to spend on private schools has run up against the deep loyalty Texas has always had for its public schools.  <a href="https://nyti.ms/3o3eXpG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Biden Overcome After Seeing Priest Who Gave Last Rites to Son Beau</h3>
+<sub>By Katie Rogers</sub>
+<p>President Biden was in tears after the surprise meeting with the priest, Friar Frank O’Grady, who was given a last-minute security approval to meet with the president.  <a href="https://nyti.ms/3UAUkgO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Biden’s Visit to Ireland, in Pictures</h3>
+<sub>By Kenny Holston</sub>
+<p>President Biden’s three-day trip will mix diplomacy and personal genealogy as he meets with Irish leaders and traces his own family roots.  <a href="https://nyti.ms/3KvP89r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
