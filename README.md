@@ -60,31 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 13, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. A 21-year-old air national guard member was arrested for leaking secret documents. Documents are also showing there is infighting among Russian officials. The Florida Legislature has passed a six-week abortion ban, which is one of the most restrictive bans in the US. The Justice Department is looking to challenge an appeals court decision regarding access to the abortion pill mifepristone. Politically, people are discussing the 2024 presidential candidates and their positions on abortion. There was a tech consultant arrested for killing a Cash App Creator in San Francisco, and there is a historic defamation trial against Fox News that is underway. Also, the NY Attorney General is questioning Donald Trump in a lawsuit and Trump has threatened investigations of Democratic District Attorneys if reelected. People are paying high prices for old &quot;Rocky&quot; tapes out of nostalgia, and Dan Snyder has agreed to sell the Washington Commanders team for $6 billion amid investigations into sexual harassment claims and finances.</p>
+There are a few major stories happening in the world right now. A National Guardsman from Massachusetts named Jack Teixeira has been arrested for posting classified documents in an online chat group. This is raising some questions about security clearances. In the US, the Florida legislature has just passed a six-week abortion ban, which would be one of the most restrictive policies in the country if it goes into effect. The Supreme Court is also poised to consider the legality of abortion pills. On the political front, former President Donald Trump has been questioned by New York Attorney General Letitia James in her lawsuit against him, and he&#39;s also at the center of a civil suit accusing him of rape. LinkedIn&#39;s Co-Founder Reid Hoffman is a supporter of this suit. Finally, several senators have gone on medical leave recently which has posed complications for Democrats in Congress.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here’s what we know about the leader of the online group where secret documents were leaked.</h3>
-<sub>By Aric Toler, Michael Schwirtz, Haley Willis, Riley Mellen, Christiaan Triebert, Malachy Browne, Thomas Gibbons-Neff and Julian E. Barnes</sub>
-<p>Jack Teixeira, a 21-year-old member of the Massachusetts Air National Guard, was arrested on Thursday.  <a href="https://nyti.ms/3KAO04l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>F.B.I. Arrests National Guardsman in Leak of Classified Documents</h3>
+<sub>By Haley Willis, Thomas Gibbons-Neff, Aric Toler, Christiaan Triebert, Julian E. Barnes and Malachy Browne</sub>
+<p>Authorities say Jack Teixeira, a 21-year-old member of the Massachusetts Air National Guard, posted sensitive materials in an online chat group.  <a href="https://nyti.ms/3KAO04l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>New Leaked Documents Show Broad Infighting Among Russian Officials</h3>
-<sub>By Anton Troianovski, Aric Toler, Julian E. Barnes, Christiaan Triebert and Malachy Browne</sub>
-<p>The additional documents also suggest the breach of American intelligence agencies could contain far more material than previously believed.  <a href="https://nyti.ms/3GGP31v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<h3>The Airman Who Wanted to Give Gamers a Real Taste of War</h3>
+<sub>By Aric Toler, Christiaan Triebert, Haley Willis, Malachy Browne, Michael Schwirtz and Riley Mellen</sub>
+<p>The group liked online war games. But then Airman Jack Teixeira, members say, began showing them classified documents.  <a href="https://nyti.ms/41tKEa4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>When ‘Top Secret’ Is Not So Secret</h3>
+<sub>By Helene Cooper, Julian E. Barnes and Eric Schmitt</sub>
+<p>The arrest of Jack Teixeira, a junior Massachusetts airman, in the leaking of classified documents opens a debate about security clearances.  <a href="https://nyti.ms/3o8HcDw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Florida Legislature Passes Six-Week Abortion Ban</h3>
 <sub>By Patricia Mazzei, David W. Chen and Alexandra Glorioso</sub>
-<p>The prohibition would be among the most restrictive in the country, and Florida would no longer be a destination for women from across the Deep South seeking abortions.  <a href="https://nyti.ms/41hXPei"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The prohibition would be among the most restrictive in the country, and Florida would no longer be a destination for women from across the Deep South seeking the procedure.  <a href="https://nyti.ms/41hXPei"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Justice Department to Seek Emergency Supreme Court Action on Abortion Ruling</h3>
+<h3>Abortion Is Back at Supreme Court’s Door After Dueling Orders on Pill</h3>
 <sub>By Pam Belluck and Adam Liptak</sub>
-<p>The government will challenge an appeals court decision that blocked the abortion pill mifepristone from being sent by the mail and rolled back other recent measures that expanded access.  <a href="https://nyti.ms/41rPhBJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The justices are poised to consider whether the most common method of ending pregnancies can be sharply curtailed in states where abortion remains legal.  <a href="https://nyti.ms/41rPhBJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here’s What to Watch for Next in the Abortion Pill Case</h3>
+<sub>By Abbie VanSickle</sub>
+<p>A federal appeals court has upheld part of a Texas judge’s decision. The Justice Department says it will ask the Supreme Court to weigh in. Here is what’s at stake.  <a href="https://nyti.ms/3KwTz3J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Where the Likely 2024 Presidential Contenders Stand on Abortion</h3>
@@ -95,43 +107,31 @@ There is a lot going on in the world right now. A 21-year-old air national guard
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tech Consultant Arrested in San Francisco Killing of Cash App Creator</h3>
 <sub>By Sharon LaFraniere, Shawn Hubler and Thomas Fuller</sub>
-<p>The police said the consultant, Nima Momeni, was an acquaintance of Bob Lee.  <a href="https://nyti.ms/43y6g7i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Landmark Trial Against Fox News Could Affect the Future of Libel Law</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>Jury selection starts on Thursday in Delaware Superior Court, where the proceedings will tackle misinformation and the limits of journalistic responsibility.  <a href="https://nyti.ms/3zVzEGY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In Fox-Dominion Trial, All Eyes Are on the Judge, Too</h3>
-<sub>By Katie Robertson</sub>
-<p>Judge Eric Davis of Delaware Superior Court has been evenhanded and reasonable, legal analysts say. The defamation suit is his highest-profile case.  <a href="https://nyti.ms/3o9fvue"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Faces Questioning in N.Y. Attorney General’s Lawsuit</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
-<p>Letitia James, the attorney general, has sued Donald J. Trump and three of his children, accusing them of a “staggering” fraud.  <a href="https://nyti.ms/3GFeCA8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The police said the consultant, Nima Momeni, knew Bob Lee, who was fatally stabbed.  <a href="https://nyti.ms/43y6g7i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Vows Investigations of Democratic District Attorneys</h3>
-<sub>By Alan Feuer</sub>
-<p>Mr. Trump’s threats of sweeping inquiries if re-elected came as local prosecutors in New York and Georgia were intensely scrutinizing him.  <a href="https://nyti.ms/40fw1q8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Injuries and Illness Slow Senators, as Well as the Senate Itself</h3>
+<sub>By Carl Hulse and Annie Karni</sub>
+<p>High-profile absences have created complications for Democrats as Congress returns and prompted new questions about the future of Republican leadership.  <a href="https://nyti.ms/3KAEfTQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Yes, People Will Pay $27,500 for an Old ‘Rocky’ Tape. Here’s Why.</h3>
-<sub>By David Streitfeld</sub>
-<p>Collectors are finding that their childhood has a price — and it’s going up. When the future is frightening, it’s boom times at the nostalgia factory.  <a href="https://nyti.ms/41oZVcl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Witness Testimony Helps Prosecutors Advance Trump Election Case</h3>
+<sub>By Alan Feuer and Glenn Thrush</sub>
+<p>The Justice Department’s success in compelling top aides to former President Donald Trump to testify to a grand jury moves the special counsel closer to a decision on seeking indictments.  <a href="https://nyti.ms/3mxJ0pb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Dan Snyder Agrees to Sell Washington Commanders for $6 Billion</h3>
-<sub>By Ken Belson and Katherine Rosman</sub>
-<p>The N.F.L. team is on track to be sold for a record figure to a group led by Josh Harris, as investigations into sexual harassment claims and the team’s finances continue.  <a href="https://nyti.ms/3GGc7NU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>LinkedIn’s Co-Founder Helped Fund the Suit Accusing Trump of Rape</h3>
+<sub>By Benjamin Weiser and Charlie Savage</sub>
+<p>Reid Hoffman, a billionaire and critic of Donald J. Trump, is backing E. Jean Carroll’s suit against the former president.  <a href="https://nyti.ms/41nELeE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Is Questioned in N.Y. Attorney General’s Lawsuit</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
+<p>Letitia James, the attorney general, has sued Donald J. Trump and three of his children, accusing them of a “staggering” fraud.  <a href="https://nyti.ms/3GFeCA8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
