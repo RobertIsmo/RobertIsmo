@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, April 13, Central Standard Time</p>
+<p>It is Friday, April 14, Central Standard Time</p>
 <p>
-A National Guardsman named Jack Teixeira was arrested for posting classified documents in an online chat group. He wanted to give gamers a taste of war by showing them the documents. Then we have a junior enlisted airman assigned to an intelligence unit in Massachusetts leaking a trove of top-secret information. 
-The Florida Legislature passed a six-week abortion ban, which is one of the most restrictive in the country. The court is now looking into whether this method of ending pregnancies can be limited in states where it&#39;s legal. This is still a big issue for politicians, and Ryan Hoffman, a billionaire and critic of former President Donald Trump, has funded a suit accusing him of rape. 
-Lastly, there are some injuries and illnesses slowing down the Senate, and witnesses are helping prosecutors advance a case against him.</p>
+There&#39;s a lot happening around the world right now. First, a National Guardsman from Massachusetts was arrested for leaking classified documents to an online chat group. Then, the Florida Legislature passed a six-week abortion ban, meaning it will no longer be possible for women from across the Deep South to get abortions in Florida. The Supreme Court is also about to consider a case that could restrict access to abortion in some states across the U.S. Meanwhile, there is also news coming out of San Francisco where a tech consultant has been arrested in connection with the killing of Cash App creator Bob Lee. Finally, former President Donald Trump is in legal trouble after witnesses have testified against him in his election fraud case. A billionaire businessman is also funding the lawsuit accusing Trump of rape.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>F.B.I. Arrests National Guardsman in Leak of Classified Documents</h3>
@@ -71,9 +69,9 @@ Lastly, there are some injuries and illnesses slowing down the Senate, and witne
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Airman Who Wanted to Give Gamers a Real Taste of War</h3>
+<h3>The Airman Who Gave Gamers a Real Taste of War</h3>
 <sub>By Aric Toler, Christiaan Triebert, Haley Willis, Malachy Browne, Michael Schwirtz and Riley Mellen</sub>
-<p>The group liked online war games. But then Jack Teixeira, an active-duty airman, began showing them classified documents, members say.  <a href="https://nyti.ms/3A2MUcA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The group liked online war games. But then Jack Teixeira, a 21-year-old National Guard airman, began showing them classified documents, members say.  <a href="https://nyti.ms/3A2MUcA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -91,7 +89,7 @@ Lastly, there are some injuries and illnesses slowing down the Senate, and witne
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Florida Legislature Passes Six-Week Abortion Ban</h3>
 <sub>By Patricia Mazzei, David W. Chen and Alexandra Glorioso</sub>
-<p>The prohibition would be among the most restrictive in the country, and Florida would no longer be a destination for women from across the Deep South seeking the procedure.  <a href="https://nyti.ms/41hXPei"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The prohibition is among the most restrictive in the country, and Florida will no longer be a destination for women from across the Deep South seeking the procedure.  <a href="https://nyti.ms/41hXPei"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
