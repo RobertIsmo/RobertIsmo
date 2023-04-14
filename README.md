@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 13, Central Standard Time</p>
 <p>
-There are a few major stories happening in the world right now. A National Guardsman from Massachusetts named Jack Teixeira has been arrested for posting classified documents in an online chat group. This is raising some questions about security clearances. In the US, the Florida legislature has just passed a six-week abortion ban, which would be one of the most restrictive policies in the country if it goes into effect. The Supreme Court is also poised to consider the legality of abortion pills. On the political front, former President Donald Trump has been questioned by New York Attorney General Letitia James in her lawsuit against him, and he&#39;s also at the center of a civil suit accusing him of rape. LinkedIn&#39;s Co-Founder Reid Hoffman is a supporter of this suit. Finally, several senators have gone on medical leave recently which has posed complications for Democrats in Congress.</p>
+A National Guardsman named Jack Teixeira was arrested for posting classified documents in an online chat group. He wanted to give gamers a taste of war by showing them the documents. Then we have a junior enlisted airman assigned to an intelligence unit in Massachusetts leaking a trove of top-secret information. 
+The Florida Legislature passed a six-week abortion ban, which is one of the most restrictive in the country. The court is now looking into whether this method of ending pregnancies can be limited in states where it&#39;s legal. This is still a big issue for politicians, and Ryan Hoffman, a billionaire and critic of former President Donald Trump, has funded a suit accusing him of rape. 
+Lastly, there are some injuries and illnesses slowing down the Senate, and witnesses are helping prosecutors advance a case against him.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>F.B.I. Arrests National Guardsman in Leak of Classified Documents</h3>
@@ -71,7 +73,13 @@ There are a few major stories happening in the world right now. A National Guard
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Airman Who Wanted to Give Gamers a Real Taste of War</h3>
 <sub>By Aric Toler, Christiaan Triebert, Haley Willis, Malachy Browne, Michael Schwirtz and Riley Mellen</sub>
-<p>The group liked online war games. But then Airman Jack Teixeira, members say, began showing them classified documents.  <a href="https://nyti.ms/41tKEa4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The group liked online war games. But then Jack Teixeira, an active-duty airman, began showing them classified documents, members say.  <a href="https://nyti.ms/3A2MUcA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Massachusetts Air National Guard’s Intelligence Mission in the Spotlight</h3>
+<sub>By John Ismay and Jenna Russell</sub>
+<p>A junior enlisted airman assigned to an intelligence unit on Cape Cod is accused of leaking a trove of top-secret information.  <a href="https://nyti.ms/3MHuN3D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +134,6 @@ There are a few major stories happening in the world right now. A National Guard
 <h3>LinkedIn’s Co-Founder Helped Fund the Suit Accusing Trump of Rape</h3>
 <sub>By Benjamin Weiser and Charlie Savage</sub>
 <p>Reid Hoffman, a billionaire and critic of Donald J. Trump, is backing E. Jean Carroll’s suit against the former president.  <a href="https://nyti.ms/41nELeE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Is Questioned in N.Y. Attorney General’s Lawsuit</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and William K. Rashbaum</sub>
-<p>Letitia James, the attorney general, has sued Donald J. Trump and three of his children, accusing them of a “staggering” fraud.  <a href="https://nyti.ms/3GFeCA8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
