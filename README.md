@@ -58,20 +58,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, April 14, Central Standard Time</p>
+<p>It is Saturday, April 15, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. The Supreme Court is issuing a temporary stay that will preserve the availability of abortion pills in the US. In Brazil, their president is trying to rebuild ties with China and seeking to bring peace in Ukraine. President Biden is visiting Ireland and finding his own family roots there. Mike Pompeo said he won&#39;t run for president in 2024, but other current and potential candidates are speaking at an NRA meeting on gun rights. Finally, there was a tech executive who prosecutors say was murdered after an argument with someone he knew.</p>
+Right now, there is a lot going on in the world. In the United States, the Supreme Court has temporarily preserved access to abortion pills and there is an airman charged in leak of classified documents. Also, Mike Pompeo has said he won&#39;t be running for president in 2024. In addition, President Biden has been in Ireland making a case for his future and speaking about his family story while being overcome by emotion after seeing the priest who gave Beau his last rites. Finally, tech leaders have blamed San Francisco for Bob Lee&#39;s murder but have then come to face arrest when police found a suspect who knew the victim.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Briefly Preserves Broad Availability of Abortion Pill</h3>
 <sub>By Adam Liptak</sub>
 <p>The temporary stay is meant to preserve the status quo while the justices study lower court rulings, and it did not forecast how they would ultimately rule.  <a href="https://nyti.ms/3mB6byW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Abortion Pills, the Latest Battleground, Have Been Little Known to Americans</h3>
-<sub>By Ruth Igielnik and Andrew Fischer</sub>
-<p>A majority of Americans had not heard of mifepristone, a survey earlier this year found. The drug is now at the center of an abortion case headed to the Supreme Court.  <a href="https://nyti.ms/3ogPadD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -93,12 +87,6 @@ There is a lot happening in the world right now. The Supreme Court is issuing a 
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Brazil’s Lula Meets Xi in China as They Seek Path to Peace in Ukraine</h3>
-<sub>By Keith Bradsher</sub>
-<p>Brazil has been reluctant about choosing sides in the war, as its new president, Luiz Inácio Lula da Silva, seeks to rebuild the country’s ties with Beijing.  <a href="https://nyti.ms/3zYdi7C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Ireland, Biden Makes a Case for His Future, Drawing on a Family Story Rooted in Hope</h3>
 <sub>By Katie Rogers and Michael D. Shear</sub>
 <p>He may not be a candidate yet, but President Biden delivered a message of optimism to the people of Ireland. It was a possible preview of a campaign to come.  <a href="https://nyti.ms/3o9o6gx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -109,12 +97,6 @@ There is a lot happening in the world right now. The Supreme Court is issuing a 
 <sub>By Katie Rogers</sub>
 <p>President Biden was in tears after the surprise meeting with the priest, Friar Frank O’Grady, who was given a last-minute security approval to meet with the president.  <a href="https://nyti.ms/3UAUkgO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden’s Visit to Ireland, in Pictures</h3>
-<sub>By Kenny Holston</sub>
-<p>President Biden’s three-day trip will mix diplomacy and personal genealogy as he meets with Irish leaders and traces his own family roots.  <a href="https://nyti.ms/3KvP89r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Mike Pompeo Says He Won’t Run for President in 2024</h3>
@@ -129,9 +111,27 @@ There is a lot happening in the world right now. The Supreme Court is issuing a 
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Says He Will Announce 2024 Campaign ‘Relatively Soon’</h3>
+<sub>By Maggie Astor</sub>
+<p>The president, who is widely expected to run again but faces little pressure to imminently announce a formal bid, tiptoed beyond his previous public comments on the subject.  <a href="https://nyti.ms/3A0MgMQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Six Takeaways From Trump’s New Financial Disclosure</h3>
+<sub>By Michael C. Bender, Eric Lipton, Matthew Goldstein and Ken Bensinger</sub>
+<p>In a 101-page filing, Donald J. Trump revealed lower-than-expected values on his social media company and sizable bank loans.  <a href="https://nyti.ms/3myT1T0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tech Executive Was Left to ‘Slowly Die’ After Stabbing, Prosecutors Say</h3>
 <sub>By Sharon LaFraniere, Thomas Fuller and Shawn Hubler</sub>
 <p>Bob Lee was killed after what appeared to be an argument with someone he knew, prosecutors said in court documents. The lawyer for the suspect responded: “I wouldn’t describe this as a crime.”  <a href="https://nyti.ms/3MG9ZJX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Tech Leaders Blamed San Francisco for Bob Lee’s Killing. Then Came the Arrest.</h3>
+<sub>By Cade Metz and Ryan Mac</sub>
+<p>Some influential tech executives said Mr. Lee’s death reflected a city overrun by crime, but few have reversed course since the arrest of a man who knew the victim.  <a href="https://nyti.ms/3KymFjg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
