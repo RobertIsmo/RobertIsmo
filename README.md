@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 14, Central Standard Time</p>
 <p>
-Right now, the Supreme Court is temporarily restoring access to the abortion pill in order to preserve the status quo and study the case further. In other news, there&#39;s an airman who has been giving some gamers access to classified documents. In Chernobyl, ghosts from past and present have crossed paths with war coming to the nuclear wasteland even after its meltdown 1986. New York City has been dealing with rat horror stories lately too. To help tackle climate change, more and more people are turning to electrifying things like cars and home heaters. On a business note, China car buyers have shifted away from foreign brands and there&#39;s pressure mounting on them to provide debt relief for poor countries at risk of defaulting. In France, there&#39;s a &#39;Goat War&#39; as a former Parisian moved to the country and let their goats roam free - much to their winemaking neighbors&#39; chagrin! Lastly, President Biden recently visited Ireland to both conduct some diplomacy and trace back his own family roots.</p>
+There is a lot happening in the world right now. The Supreme Court is issuing a temporary stay that will preserve the availability of abortion pills in the US. In Brazil, their president is trying to rebuild ties with China and seeking to bring peace in Ukraine. President Biden is visiting Ireland and finding his own family roots there. Mike Pompeo said he won&#39;t run for president in 2024, but other current and potential candidates are speaking at an NRA meeting on gun rights. Finally, there was a tech executive who prosecutors say was murdered after an argument with someone he knew.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Briefly Restores Broad Availability of Abortion Pill</h3>
+<h3>Supreme Court Briefly Preserves Broad Availability of Abortion Pill</h3>
 <sub>By Adam Liptak</sub>
-<p>The temporary stay of an appeals court ruling is meant to preserve the status quo while the justices study the case, and it did not forecast how they would ultimately rule.  <a href="https://nyti.ms/3mB6byW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The temporary stay is meant to preserve the status quo while the justices study lower court rulings, and it did not forecast how they would ultimately rule.  <a href="https://nyti.ms/3mB6byW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -74,52 +74,34 @@ Right now, the Supreme Court is temporarily restoring access to the abortion pil
 <p>A majority of Americans had not heard of mifepristone, a survey earlier this year found. The drug is now at the center of an abortion case headed to the Supreme Court.  <a href="https://nyti.ms/3ogPadD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Airman Who Gave Gamers a Real Taste of War</h3>
-<sub>By Aric Toler, Christiaan Triebert, Haley Willis, Malachy Browne, Michael Schwirtz and Riley Mellen</sub>
-<p>A group liked online war games. But then Jack Teixeira, a 21-year-old National Guard airman, began showing members classified documents, they say.  <a href="https://nyti.ms/3A2MUcA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Virtual Clinics Have Been a Fast-Growing Method of Abortion. That Could Change.</h3>
+<sub>By Claire Cain Miller and Margot Sanger-Katz</sub>
+<p>So far, most telemedicine providers seem undaunted by court rulings that could imperil their business.  <a href="https://nyti.ms/3MMqAfe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>It’s typical for a national guardsman with Teixeira’s job to have top-secret clearance.</h3>
-<sub>By Helene Cooper, John Ismay, Julian E. Barnes and Eric Schmitt</sub>
-<p>  <a href="https://nyti.ms/41xNivL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Airman Charged in Leak of Classified Documents</h3>
+<sub>By Michael Crowley</sub>
+<p>Jack Teixeira, 21, was granted a top-secret security clearance in 2021, which was required for his job, the Justice Department complaint said.  <a href="https://nyti.ms/43DklQW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Teixeira’s case is unusual even in the small world of leak cases.</h3>
+<sub>By Charlie Savage</sub>
+<p>Based on the charging documents, Airman Jack Teixeira does not appear to have been acting as a foreign agent, differentiating him from classic spying cases. He also does not appear to have been acting as a whistle-blower.  <a href="https://nyti.ms/43vXRB3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ghosts Past and Present Cross Paths as War Comes to Nuclear Wasteland</h3>
-<sub>By Marc Santora and Emile Ducke</sub>
-<p>Not everyone evacuated when the Chernobyl nuclear plant melted down in 1986. The few who stayed lived through another calamity when Russian troops marched in.  <a href="https://nyti.ms/3KWZela"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Rat Horror Stories the New N.Y.C. Rat Czar Needs to Hear</h3>
-<sub>By Dodai Stewart</sub>
-<p>New Yorkers have encountered rodents in toilets, on trains, in bed. And that’s not all.  <a href="https://nyti.ms/406G14L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Electrifying Everything Became a Key Climate Solution</h3>
-<sub>By Nadja Popovich and Brad Plumer</sub>
-<p>To tackle climate change, we’ll need to plug in millions of cars, trucks, home heaters, stoves and factories.  <a href="https://nyti.ms/3myYnxG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Car Buyers Have Fallen Out of Love With Foreign Brands</h3>
+<h3>Brazil’s Lula Meets Xi in China as They Seek Path to Peace in Ukraine</h3>
 <sub>By Keith Bradsher</sub>
-<p>Domestic companies are now selling more vehicles than their multinational rivals, which have failed to keep up with Chinese consumers’ demand for electric cars and S.U.V.s.  <a href="https://nyti.ms/3KF0IPL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Pressure Mounts on China to Offer Debt Relief to Poor Countries Facing Default</h3>
-<sub>By Alan Rappeport</sub>
-<p>There was optimism at the spring meetings of the I.M.F. and World Bank that China will make concessions over restructuring its loans.  <a href="https://nyti.ms/40acQh9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Brazil has been reluctant about choosing sides in the war, as its new president, Luiz Inácio Lula da Silva, seeks to rebuild the country’s ties with Beijing.  <a href="https://nyti.ms/3zYdi7C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Great Goat War of Southern France</h3>
-<sub>By Catherine Porter</sub>
-<p>A former Parisian moved to the country, fell in love with goats and let them roam free and multiply. Her winemaking neighbors are not enchanted.  <a href="https://nyti.ms/3zZsH7C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Ireland, Biden Makes a Case for His Future, Drawing on a Family Story Rooted in Hope</h3>
+<sub>By Katie Rogers and Michael D. Shear</sub>
+<p>He may not be a candidate yet, but President Biden delivered a message of optimism to the people of Ireland. It was a possible preview of a campaign to come.  <a href="https://nyti.ms/3o9o6gx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -133,6 +115,24 @@ Right now, the Supreme Court is temporarily restoring access to the abortion pil
 <sub>By Kenny Holston</sub>
 <p>President Biden’s three-day trip will mix diplomacy and personal genealogy as he meets with Irish leaders and traces his own family roots.  <a href="https://nyti.ms/3KvP89r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Mike Pompeo Says He Won’t Run for President in 2024</h3>
+<sub>By Maggie Astor</sub>
+<p>“This isn’t our moment,” said Mr. Pompeo, a former Trump administration official. But he declined to endorse the former president and obliquely criticized him.  <a href="https://nyti.ms/3oiHyaU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republican 2024 Hopefuls Embrace Gun Politics at N.R.A. Meeting</h3>
+<sub>By Katie Glueck</sub>
+<p>The current and potential 2024 presidential candidates showed strong support for gun owners’ rights — a core issue for the party’s base, but one that can be a tougher sell in a general election.  <a href="https://nyti.ms/3ofrEh8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tech Executive Was Left to ‘Slowly Die’ After Stabbing, Prosecutors Say</h3>
+<sub>By Sharon LaFraniere, Thomas Fuller and Shawn Hubler</sub>
+<p>Bob Lee was killed after what appeared to be an argument with someone he knew, prosecutors said in court documents. The lawyer for the suspect responded: “I wouldn’t describe this as a crime.”  <a href="https://nyti.ms/3MG9ZJX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
