@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 15, Central Standard Time</p>
 <p>
-There have been some international news stories this week about potential military aid for Ukraine and a missile attack there that killed 11 people. In the business world, Silicon Valley is facing legal consequences for its habit of faking it, and the copyright laws for A.I.-created songs are being looked at more closely now. In the U.S., states are implementing legislation to restrict medical care for transgender adults and minors, while there is also another financial disclosure out from President Trump. To brighten things up, one arts piece discusses a beautiful 15th-century book of hours, and there is an edition of The Weekender featuring Brian Cox discussing &quot;Succession&quot;.</p>
+There is a lot going on in the world right now. At the Pentagon, there have been new twists in an old plot, with some people in Ukraine welcoming the disclosures that their forces need more weapons and munitions. In the US, airman Jack Teixeira who was charged with leaking information has been revealed to have been focused on the military during his high school years. In Russia, 11 people have died in a missile attack in eastern Ukraine while in Sudan there are issues that are impacting beyond Africa&#39;s borders. In Silicon Valley there have been charges, convictions and sentences indicating that playing fast and loose with facts may have serious consequences and 35 ways where A.I. is being used right now have been revealed. Also in New York City, police reports indicate that a tiny number of shoplifters commit thousands of thefts and it has become a burden for business owners to defend this issue. There is also a 15th century book of hours looking at how science, religion and art coalesce to showcase different perceptions of days, months and years. In other news, many Republican-led states recently passed laws banning gender affirming care for minors while a power struggle is being waged across democracies about how much control our courts should be allowed to have. To top it off, Youssef Eddafali who was friends with the Boston Marathon bomber is still dealing with guilt and anger over what has happened as well as the renewed meaning of finishing the marathon&#39;s blue and yellow line 10 years later.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Pentagon Leaks: New Twists in a Familiar Plot</h3>
 <sub>By Anton Troianovski, Andrew E. Kramer, Erika Solomon and Eric Schmitt</sub>
 <p>Some in Ukraine even welcomed the disclosures as confirming what they have been saying for months — that its forces desperately need more weapons and munitions.  <a href="https://nyti.ms/3KDWfg3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In High School, Airman Charged With Leak Was Focused on the Military</h3>
+<sub>By Dave Philipps, Jenna Russell, Jacey Fortin and Haley Willis</sub>
+<p>Jack Teixeira grew up in a family with strong military ties, was quiet and somewhat awkward in high school and seemed, to some, unnervingly obsessed with war and guns.  <a href="https://nyti.ms/3A3wgdc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,22 +80,28 @@ There have been some international news stories this week about potential milita
 <p>Rescuers were searching through rubble after the attack on the city of Sloviansk as fighting raged in Bakhmut.  <a href="https://nyti.ms/3A1pG6J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>35 Ways Real People Are Using A.I. Right Now</h3>
-<sub>By Francesca Paris and Larry Buchanan</sub>
-<p>Artificial intelligence models have found their way into many people’s lives, for work and for fun.  <a href="https://nyti.ms/43xOr8h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Who Owns a Song Created by A.I.?</h3>
-<sub>By Ephrat Livni, Lauren Hirsch and Sarah Kessler</sub>
-<p>Lawmakers are beginning to contemplate questions about authorship and ownership around creative machines. The stakes for creative businesses are high.  <a href="https://nyti.ms/3MFlXn4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Here is why Sudan matters far beyond Africa.</h3>
+<sub>By Declan Walsh</sub>
+<p>  <a href="https://nyti.ms/3KHWKWB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The End of Faking It in Silicon Valley</h3>
 <sub>By Erin Griffith</sub>
 <p>Recent charges, convictions and sentences all indicate that the start-up world’s habit of playing fast and loose with the truth actually has consequences.  <a href="https://nyti.ms/3MJzMRm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>35 Ways Real People Are Using A.I. Right Now</h3>
+<sub>By Francesca Paris and Larry Buchanan</sub>
+<p>Artificial intelligence models have found their way into many people’s lives, for work and for fun.  <a href="https://nyti.ms/43xOr8h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Tiny Number of Shoplifters Commit Thousands of New York City Thefts</h3>
+<sub>By Hurubie Meko</sub>
+<p>Nearly a third of all shoplifting arrests in the city last year involved just 327 people, the police said. Businesses say they have little defense.  <a href="https://nyti.ms/41erwgO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -104,16 +116,10 @@ There have been some international news stories this week about potential milita
 <p>In the past three months, 10 Republican-led states have passed laws banning gender-affirming care for minors.  <a href="https://nyti.ms/40auqBG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Missouri to Restrict Medical Care for Transgender Adults, Citing Consumer Protection Law</h3>
-<sub>By David W. Chen</sub>
-<p>In his emergency regulation, the state attorney general said it was necessary to put up “substantial guardrails” around gender-transitioning treatments, because they were considered “experimental.”  <a href="https://nyti.ms/3KF0CaF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Six Takeaways From Trump’s New Financial Disclosure</h3>
-<sub>By Michael C. Bender, Eric Lipton, Matthew Goldstein and Ken Bensinger</sub>
-<p>In a 101-page filing, Donald J. Trump revealed lower-than-expected values on his social media company and sizable bank loans.  <a href="https://nyti.ms/3myT1T0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How Much Power Should the Courts Have?</h3>
+<sub>By Emily Bazelon</sub>
+<p>In Israel, the United States and other democracies, bitter battles are being waged over the same question.  <a href="https://nyti.ms/3mwXBkE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -127,12 +133,6 @@ There have been some international news stories this week about potential milita
 <sub>By Talya Minsberg and Matthew Futterman</sub>
 <p>Ten years after the Boston Marathon bombing, the blue and yellow finish line of one of the world’s oldest and most prestigious events holds even stronger significance.  <a href="https://nyti.ms/3GPkwP5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Christine Chun</sub>
-<p>Brian Cox on a major twist in “Succession.” Also in this edition: pop culture moments that define the Covid era and rat horror stories.  <a href="https://nyti.ms/41kykci"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
