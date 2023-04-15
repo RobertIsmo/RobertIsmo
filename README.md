@@ -60,12 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 15, Central Standard Time</p>
 <p>
-Currently, there are many interesting stories happening around the world. In terms of technology, real people are using AI in their everyday lives, which raises questions about authorship and ownership.  In the criminal justice system, an Airman has been charged in a major leak of classified documents. Meanwhile, Silicon Valley is facing consequences for faking it with the truth. In the art world, people are admiring a 15th-century book of hours. 
-
-On a more serious note, several states have passed laws banning gender-affirming care for minors, and Missouri is regulating medical care for transgender adults. Additionally, former US President Donald Trump has released a financial disclosure including lower-than-expected values for his social media company along with sizable bank loans. There is also an unsettling story about a former friend of the Boston Marathon bomber who still owns up to the guilt and anger he feels over knowing the &#39;monster&#39;. 
-
-In terms of anniversaries this month, we mark 10 years since the Boston Marathon bombing that killed three people and injured hundreds. Meanwhile in eastern Ukraine there has been a Russian attack that has killed nine people so far after missiles were sent into residential areas. Lastly, China&#39;s leader hasn&#39;t called Ukraine&#39;s president yet as Russia&#39;s war raises questions about their ongoing relationship.</p>
+There have been some international news stories this week about potential military aid for Ukraine and a missile attack there that killed 11 people. In the business world, Silicon Valley is facing legal consequences for its habit of faking it, and the copyright laws for A.I.-created songs are being looked at more closely now. In the U.S., states are implementing legislation to restrict medical care for transgender adults and minors, while there is also another financial disclosure out from President Trump. To brighten things up, one arts piece discusses a beautiful 15th-century book of hours, and there is an edition of The Weekender featuring Brian Cox discussing &quot;Succession&quot;.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pentagon Leaks: New Twists in a Familiar Plot</h3>
+<sub>By Anton Troianovski, Andrew E. Kramer, Erika Solomon and Eric Schmitt</sub>
+<p>Some in Ukraine even welcomed the disclosures as confirming what they have been saying for months — that its forces desperately need more weapons and munitions.  <a href="https://nyti.ms/3KDWfg3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Death Toll From Russian Missile Attack in Eastern Ukraine Climbs to 11</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Rescuers were searching through rubble after the attack on the city of Sloviansk as fighting raged in Bakhmut.  <a href="https://nyti.ms/3A1pG6J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>35 Ways Real People Are Using A.I. Right Now</h3>
 <sub>By Francesca Paris and Larry Buchanan</sub>
@@ -77,12 +85,6 @@ In terms of anniversaries this month, we mark 10 years since the Boston Marathon
 <sub>By Ephrat Livni, Lauren Hirsch and Sarah Kessler</sub>
 <p>Lawmakers are beginning to contemplate questions about authorship and ownership around creative machines. The stakes for creative businesses are high.  <a href="https://nyti.ms/3MFlXn4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Airman Charged in Leak of Classified Documents</h3>
-<sub>By Michael Crowley</sub>
-<p>Jack Teixeira, 21, was granted a top-secret security clearance in 2021, which was required for his job, the Justice Department complaint said.  <a href="https://nyti.ms/43DklQW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The End of Faking It in Silicon Valley</h3>
@@ -121,22 +123,16 @@ In terms of anniversaries this month, we mark 10 years since the Boston Marathon
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>What the Boston Marathon Finish Line Means Now</h3>
+<h3>The Meaning of the Boston Marathon Finish Line, Then and Now</h3>
 <sub>By Talya Minsberg and Matthew Futterman</sub>
 <p>Ten years after the Boston Marathon bombing, the blue and yellow finish line of one of the world’s oldest and most prestigious events holds even stronger significance.  <a href="https://nyti.ms/3GPkwP5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why China’s Leader Hasn’t Called the President of Ukraine</h3>
-<sub>By Vivian Wang</sub>
-<p>China had been Ukraine’s top trade partner, importing barley, corn and arms. Now, Russia’s war raises the question: Is there still a relationship?  <a href="https://nyti.ms/3ML69Pz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Death Toll From Russian Attack in Eastern Ukraine Climbs to 9</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Rescuers were searching through rubble a day after Ukrainian officials said Russia sent a barrage of missiles into residential areas of the city of Sloviansk.  <a href="https://nyti.ms/3A1pG6J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Christine Chun</sub>
+<p>Brian Cox on a major twist in “Succession.” Also in this edition: pop culture moments that define the Covid era and rat horror stories.  <a href="https://nyti.ms/41kykci"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
