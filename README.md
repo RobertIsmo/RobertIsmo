@@ -60,19 +60,23 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 15, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, the Supreme Court has issued a stay preserving the availability of abortion pills, while virtual clinics are at risk of lower court rulings. There was also an incident involving an Airman charged with leaking classified documents, while Republican 2024 Hopefuls have embraced gun politics at NRA meetings. On top of that, President Biden revealed he planned to announce his own campaign for the 2024 election &quot;relatively soon&quot;. Meanwhile, Donald Trump&#39;s financial disclosure showed lower-than-expected values on his social media company and other such loans. Lastly, a tech executive was stabbed and left to &#39;slowly die&#39;, leading tech leaders to blame San Francisco until an arrest was made. Whew!</p>
+Currently, there are many interesting stories happening around the world. In terms of technology, real people are using AI in their everyday lives, which raises questions about authorship and ownership.  In the criminal justice system, an Airman has been charged in a major leak of classified documents. Meanwhile, Silicon Valley is facing consequences for faking it with the truth. In the art world, people are admiring a 15th-century book of hours. 
+
+On a more serious note, several states have passed laws banning gender-affirming care for minors, and Missouri is regulating medical care for transgender adults. Additionally, former US President Donald Trump has released a financial disclosure including lower-than-expected values for his social media company along with sizable bank loans. There is also an unsettling story about a former friend of the Boston Marathon bomber who still owns up to the guilt and anger he feels over knowing the &#39;monster&#39;. 
+
+In terms of anniversaries this month, we mark 10 years since the Boston Marathon bombing that killed three people and injured hundreds. Meanwhile in eastern Ukraine there has been a Russian attack that has killed nine people so far after missiles were sent into residential areas. Lastly, China&#39;s leader hasn&#39;t called Ukraine&#39;s president yet as Russia&#39;s war raises questions about their ongoing relationship.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Briefly Preserves Broad Availability of Abortion Pill</h3>
-<sub>By Adam Liptak</sub>
-<p>The temporary stay is meant to preserve the status quo while the justices study lower court rulings, and it did not forecast how they would ultimately rule.  <a href="https://nyti.ms/3mB6byW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>35 Ways Real People Are Using A.I. Right Now</h3>
+<sub>By Francesca Paris and Larry Buchanan</sub>
+<p>Artificial intelligence models have found their way into many people’s lives, for work and for fun.  <a href="https://nyti.ms/43xOr8h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Virtual Clinics Have Been a Fast-Growing Method of Abortion. That Could Change.</h3>
-<sub>By Claire Cain Miller and Margot Sanger-Katz</sub>
-<p>So far, most telemedicine providers seem undaunted by court rulings that could imperil their business.  <a href="https://nyti.ms/3MMqAfe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Who Owns a Song Created by A.I.?</h3>
+<sub>By Ephrat Livni, Lauren Hirsch and Sarah Kessler</sub>
+<p>Lawmakers are beginning to contemplate questions about authorship and ownership around creative machines. The stakes for creative businesses are high.  <a href="https://nyti.ms/3MFlXn4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Airman Charged in Leak of Classified Documents</h3>
@@ -80,40 +84,28 @@ There&#39;s a lot going on in the world right now. In the US, the Supreme Court 
 <p>Jack Teixeira, 21, was granted a top-secret security clearance in 2021, which was required for his job, the Justice Department complaint said.  <a href="https://nyti.ms/43DklQW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Teixeira’s case is unusual even in the small world of leak cases.</h3>
-<sub>By Charlie Savage</sub>
-<p>Based on the charging documents, Airman Jack Teixeira does not appear to have been acting as a foreign agent, differentiating him from classic spying cases. He also does not appear to have been acting as a whistle-blower.  <a href="https://nyti.ms/43vXRB3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The End of Faking It in Silicon Valley</h3>
+<sub>By Erin Griffith</sub>
+<p>Recent charges, convictions and sentences all indicate that the start-up world’s habit of playing fast and loose with the truth actually has consequences.  <a href="https://nyti.ms/3MJzMRm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Searching for Lost Time in the World’s Most Beautiful Calendar</h3>
+<sub>By Jason Farago</sub>
+<p>What is a day, a month, a year? Science, religion and art coalesce in an invaluable 15th-century book of hours.  <a href="https://nyti.ms/41q9tnq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Ireland, Biden Makes a Case for His Future, Drawing on a Family Story Rooted in Hope</h3>
-<sub>By Katie Rogers and Michael D. Shear</sub>
-<p>He may not be a candidate yet, but President Biden delivered a message of optimism to the people of Ireland. It was a possible preview of a campaign to come.  <a href="https://nyti.ms/3o9o6gx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden Overcome After Seeing Priest Who Gave Last Rites to Son Beau</h3>
-<sub>By Katie Rogers</sub>
-<p>President Biden was in tears after the surprise meeting with the priest, Friar Frank O’Grady, who was given a last-minute security approval to meet with the president.  <a href="https://nyti.ms/3UAUkgO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mike Pompeo Says He Won’t Run for President in 2024</h3>
-<sub>By Maggie Astor</sub>
-<p>“This isn’t our moment,” said Mr. Pompeo, a former Trump administration official. But he declined to endorse the former president and obliquely criticized him.  <a href="https://nyti.ms/3oiHyaU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Bans on Transition Care for Young People Spread Across U.S.</h3>
+<sub>By Francesca Paris</sub>
+<p>In the past three months, 10 Republican-led states have passed laws banning gender-affirming care for minors.  <a href="https://nyti.ms/40auqBG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican 2024 Hopefuls Embrace Gun Politics at N.R.A. Meeting</h3>
-<sub>By Katie Glueck</sub>
-<p>The current and potential 2024 presidential candidates showed strong support for gun owners’ rights — a core issue for the party’s base, but one that can be a tougher sell in a general election.  <a href="https://nyti.ms/3ofrEh8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Says He Will Announce 2024 Campaign ‘Relatively Soon’</h3>
-<sub>By Maggie Astor</sub>
-<p>The president, who is widely expected to run again but faces little pressure to imminently announce a formal bid, tiptoed beyond his previous public comments on the subject.  <a href="https://nyti.ms/3A0MgMQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Missouri to Restrict Medical Care for Transgender Adults, Citing Consumer Protection Law</h3>
+<sub>By David W. Chen</sub>
+<p>In his emergency regulation, the state attorney general said it was necessary to put up “substantial guardrails” around gender-transitioning treatments, because they were considered “experimental.”  <a href="https://nyti.ms/3KF0CaF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -123,16 +115,28 @@ There&#39;s a lot going on in the world right now. In the US, the Supreme Court 
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tech Executive Was Left to ‘Slowly Die’ After Stabbing, Prosecutors Say</h3>
-<sub>By Sharon LaFraniere, Thomas Fuller and Shawn Hubler</sub>
-<p>Bob Lee was killed after what appeared to be an argument with someone he knew, prosecutors said in court documents. The lawyer for the suspect responded: “I wouldn’t describe this as a crime.”  <a href="https://nyti.ms/3MG9ZJX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<h3>For Former Friend of Boston Marathon Bomber, a Burden of Shame and Betrayal</h3>
+<sub>By Jenna Russell</sub>
+<p>Ten years after the attack that killed three people and injured hundreds, Youssef Eddafali still wrestles with guilt and anger over the “monster” he thought he knew.  <a href="https://nyti.ms/3MHpXTV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Tech Leaders Blamed San Francisco for Bob Lee’s Killing. Then Came the Arrest.</h3>
-<sub>By Cade Metz and Ryan Mac</sub>
-<p>Some influential tech executives said Mr. Lee’s death reflected a city overrun by crime, but few have reversed course since the arrest of a man who knew the victim.  <a href="https://nyti.ms/3KymFjg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>What the Boston Marathon Finish Line Means Now</h3>
+<sub>By Talya Minsberg and Matthew Futterman</sub>
+<p>Ten years after the Boston Marathon bombing, the blue and yellow finish line of one of the world’s oldest and most prestigious events holds even stronger significance.  <a href="https://nyti.ms/3GPkwP5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why China’s Leader Hasn’t Called the President of Ukraine</h3>
+<sub>By Vivian Wang</sub>
+<p>China had been Ukraine’s top trade partner, importing barley, corn and arms. Now, Russia’s war raises the question: Is there still a relationship?  <a href="https://nyti.ms/3ML69Pz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Death Toll From Russian Attack in Eastern Ukraine Climbs to 9</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Rescuers were searching through rubble a day after Ukrainian officials said Russia sent a barrage of missiles into residential areas of the city of Sloviansk.  <a href="https://nyti.ms/3A1pG6J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
