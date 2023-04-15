@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 15, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. In the United States, the Supreme Court has temporarily preserved access to abortion pills and there is an airman charged in leak of classified documents. Also, Mike Pompeo has said he won&#39;t be running for president in 2024. In addition, President Biden has been in Ireland making a case for his future and speaking about his family story while being overcome by emotion after seeing the priest who gave Beau his last rites. Finally, tech leaders have blamed San Francisco for Bob Lee&#39;s murder but have then come to face arrest when police found a suspect who knew the victim.</p>
+There&#39;s a lot going on in the world right now. In the US, the Supreme Court has issued a stay preserving the availability of abortion pills, while virtual clinics are at risk of lower court rulings. There was also an incident involving an Airman charged with leaking classified documents, while Republican 2024 Hopefuls have embraced gun politics at NRA meetings. On top of that, President Biden revealed he planned to announce his own campaign for the 2024 election &quot;relatively soon&quot;. Meanwhile, Donald Trump&#39;s financial disclosure showed lower-than-expected values on his social media company and other such loans. Lastly, a tech executive was stabbed and left to &#39;slowly die&#39;, leading tech leaders to blame San Francisco until an arrest was made. Whew!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Briefly Preserves Broad Availability of Abortion Pill</h3>
