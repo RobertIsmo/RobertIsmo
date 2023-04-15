@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 15, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. At the Pentagon, there have been new twists in an old plot, with some people in Ukraine welcoming the disclosures that their forces need more weapons and munitions. In the US, airman Jack Teixeira who was charged with leaking information has been revealed to have been focused on the military during his high school years. In Russia, 11 people have died in a missile attack in eastern Ukraine while in Sudan there are issues that are impacting beyond Africa&#39;s borders. In Silicon Valley there have been charges, convictions and sentences indicating that playing fast and loose with facts may have serious consequences and 35 ways where A.I. is being used right now have been revealed. Also in New York City, police reports indicate that a tiny number of shoplifters commit thousands of thefts and it has become a burden for business owners to defend this issue. There is also a 15th century book of hours looking at how science, religion and art coalesce to showcase different perceptions of days, months and years. In other news, many Republican-led states recently passed laws banning gender affirming care for minors while a power struggle is being waged across democracies about how much control our courts should be allowed to have. To top it off, Youssef Eddafali who was friends with the Boston Marathon bomber is still dealing with guilt and anger over what has happened as well as the renewed meaning of finishing the marathon&#39;s blue and yellow line 10 years later.</p>
+There are a lot of international issues happening right now that could have huge implications for the world. In Ukraine, people are welcoming recent Pentagon leaks raising attention to the fact that their military needs more weapons and munitions. Meanwhile, in Sudan there is chaos erupting after they overthrew a dictator, with plans for a civilian-led democracy now in shambles. Closer to home, a high school airman has been charged with leaking confidential information and new laws are banning gender-affirming care for minors in the US. In Israel and other democracies, there&#39;s been a debate about how much power the courts should have, and on the 10 year anniversary of the Boston Marathon bombing survivors of the attack as well as spectators continue to be affected by its lasting impact.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Pentagon Leaks: New Twists in a Familiar Plot</h3>
@@ -81,9 +81,9 @@ There is a lot going on in the world right now. At the Pentagon, there have been
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here is why Sudan matters far beyond Africa.</h3>
-<sub>By Declan Walsh</sub>
-<p>  <a href="https://nyti.ms/3KHWKWB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Sudan Erupts in Chaos: Who Is Battling for Control and Why It Matters</h3>
+<sub>By Gerry Mullany</sub>
+<p>The strategically important country in northeastern Africa has been consumed by turmoil after overthrowing a dictator in 2019, with plans for a civilian-led democracy now in shambles.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
