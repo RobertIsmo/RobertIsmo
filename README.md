@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 15, Central Standard Time</p>
 <p>
-There are a lot of international issues happening right now that could have huge implications for the world. In Ukraine, people are welcoming recent Pentagon leaks raising attention to the fact that their military needs more weapons and munitions. Meanwhile, in Sudan there is chaos erupting after they overthrew a dictator, with plans for a civilian-led democracy now in shambles. Closer to home, a high school airman has been charged with leaking confidential information and new laws are banning gender-affirming care for minors in the US. In Israel and other democracies, there&#39;s been a debate about how much power the courts should have, and on the 10 year anniversary of the Boston Marathon bombing survivors of the attack as well as spectators continue to be affected by its lasting impact.</p>
+I wanted to catch you up on what&#39;s happening in the world. In Sudan, two rival military factions have been fighting in the capital city of Khartoum, and in other cities across the country, creating instability and putting the plans for a civilian-led democracy there in danger. It has also brought attention to the issue of weapons in Ukraine, as those forces are desperately seeking more arms and ammunition in order to battle threats there. In other news, Chinese relations with Ukraine are being tested as Russia wages war there and has just recently launched another missile attack that has killed 11 people. It&#39;s also been reported that a tiny number of ​shoplifters​ were committing most of the theft offenses committed in New York City last year. And finally, there was an interesting article about how science, religion, and art come together in a 15th century book of hours, as humans grapple with questions related to time.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Rival Generals Unleash Fighting in Sudan, Dashing Dreams of Democracy</h3>
+<sub>By Declan Walsh</sub>
+<p>One of Africa’s largest countries is spinning out of control, as weeks of mounting tensions between two military leaders erupted in battles in the capital, Khartoum, and in other cities.  <a href="https://nyti.ms/3ojwBWf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Clashes Spread Across Sudan: Maps and Videos</h3>
+<sub>By Axel Boada, Lazaro Gamio, Marco Hernandez, Guillermo Hernandez Martinez, Lauren Leatherby and Nailah Morgan</sub>
+<p>It was unclear who was in control of the country after widespread fighting between rival factions of the military.  <a href="https://nyti.ms/3zZR8BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Sudan Erupts in Chaos: Who Is Battling for Control and Why It Matters</h3>
+<sub>By Gerry Mullany</sub>
+<p>The strategically important country in northeastern Africa has been consumed by turmoil after overthrowing a dictator in 2019, with plans for a civilian-led democracy now in shambles.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Pentagon Leaks: New Twists in a Familiar Plot</h3>
 <sub>By Anton Troianovski, Andrew E. Kramer, Erika Solomon and Eric Schmitt</sub>
@@ -75,15 +93,15 @@ There are a lot of international issues happening right now that could have huge
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Death Toll From Russian Missile Attack in Eastern Ukraine Climbs to 11</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Rescuers were searching through rubble after the attack on the city of Sloviansk as fighting raged in Bakhmut.  <a href="https://nyti.ms/3A1pG6J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Why China’s Leader Hasn’t Called the President of Ukraine</h3>
+<sub>By Vivian Wang</sub>
+<p>China had been Ukraine’s top trade partner, importing barley, corn and arms. Now, Russia’s war raises the question: Is there still a relationship?  <a href="https://nyti.ms/3ML69Pz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Sudan Erupts in Chaos: Who Is Battling for Control and Why It Matters</h3>
-<sub>By Gerry Mullany</sub>
-<p>The strategically important country in northeastern Africa has been consumed by turmoil after overthrowing a dictator in 2019, with plans for a civilian-led democracy now in shambles.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Death Toll From Russian Missile Attack in Eastern Ukraine Climbs to 11</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Rescuers were searching through rubble a day after the city of Sloviansk was struck as fighting raged in Bakhmut.  <a href="https://nyti.ms/3A1pG6J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -92,11 +110,11 @@ There are a lot of international issues happening right now that could have huge
 <p>Recent charges, convictions and sentences all indicate that the start-up world’s habit of playing fast and loose with the truth actually has consequences.  <a href="https://nyti.ms/3MJzMRm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>35 Ways Real People Are Using A.I. Right Now</h3>
-<sub>By Francesca Paris and Larry Buchanan</sub>
-<p>Artificial intelligence models have found their way into many people’s lives, for work and for fun.  <a href="https://nyti.ms/43xOr8h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Killing of the Cash App Founder Bob Lee</h3>
+<sub>By Neelam Bohra, Sharon LaFraniere, Thomas Fuller, Shawn Hubler, Ryan Mac and Cade Metz</sub>
+<p>The death of the tech executive in San Francisco initially prompted finger-pointing about public safety and then exposed tensions between the city and leaders of the industry.  <a href="https://nyti.ms/41ybcau"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A Tiny Number of Shoplifters Commit Thousands of New York City Thefts</h3>
@@ -110,29 +128,11 @@ There are a lot of international issues happening right now that could have huge
 <p>What is a day, a month, a year? Science, religion and art coalesce in an invaluable 15th-century book of hours.  <a href="https://nyti.ms/41q9tnq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Bans on Transition Care for Young People Spread Across U.S.</h3>
-<sub>By Francesca Paris</sub>
-<p>In the past three months, 10 Republican-led states have passed laws banning gender-affirming care for minors.  <a href="https://nyti.ms/40auqBG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>How Much Power Should the Courts Have?</h3>
 <sub>By Emily Bazelon</sub>
 <p>In Israel, the United States and other democracies, bitter battles are being waged over the same question.  <a href="https://nyti.ms/3mwXBkE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Former Friend of Boston Marathon Bomber, a Burden of Shame and Betrayal</h3>
-<sub>By Jenna Russell</sub>
-<p>Ten years after the attack that killed three people and injured hundreds, Youssef Eddafali still wrestles with guilt and anger over the “monster” he thought he knew.  <a href="https://nyti.ms/3MHpXTV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Meaning of the Boston Marathon Finish Line, Then and Now</h3>
-<sub>By Talya Minsberg and Matthew Futterman</sub>
-<p>Ten years after the Boston Marathon bombing, the blue and yellow finish line of one of the world’s oldest and most prestigious events holds even stronger significance.  <a href="https://nyti.ms/3GPkwP5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
