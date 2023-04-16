@@ -60,22 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 16, Central Standard Time</p>
 <p>
-Right now, there is a lot of unrest and turmoil around the world. In Sudan, rival factions within the military are engaged in intense fighting in an attempt to gain control of the country– unfortunately derailing plans to establish a civilian-led democracy. Unfavorable political shifts, like anti-trans discrimination alongside right-wing religious campaigns in the US, combined with issues such as disfigurement happening due to beauty treatments, are having a major impact on the lives of many people. 
-
-A positive side to this is that citizens and soldiers from Ukraine are doing what they can to fight for justice and equality in their country - by freezing their sperm to provide support for their partners even in death, and by taking crucial steps to combat significant dates like running in Boston Marathons and campaigning against the existing education system.</p>
+There is a lot going on in the world right now. In the US, there is a campaign against transgender rights which has mobilized conservative groups. Across the country, states are banning gender-affirming care for minors. In Sudan, there is widespread fighting between different factions of the military, threatening a planned civilian-led democracy. In Ukraine, some soldiers are donating sperm to ensure that their partners can build families, even if they die in the war. Meanwhile, Brussels is crying foul at Poland and Hungary for banning Ukraine grain imports. Elsewhere, Christians gathered in Kyiv to celebrate Orthodox Easter despite the shadow of war. And finally, Fox News is on trial in Delaware for spreading false information about the 2020 Presidential election, while Eliud Kipchoge will be running his first Boston Marathon this Monday - he holds the world record for 26.2 miles!</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Tracking the Fighting in Sudan: Maps and Videos</h3>
-<sub>By Axel Boada, Lazaro Gamio, Marco Hernandez, Guillermo Hernandez Martinez, Lauren Leatherby and Nailah Morgan</sub>
-<p>It was unclear who was in control of the country after widespread fighting between rival factions of the military.  <a href="https://nyti.ms/3zZR8BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Sudan Erupts in Chaos: Who Is Battling for Control and Why It Matters</h3>
-<sub>By Gerry Mullany</sub>
-<p>The strategically important country in northeastern Africa has been consumed by turmoil after overthrowing a dictator in 2019, with plans for a civilian-led democracy now in shambles.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How a Campaign Against Transgender Rights Mobilized Conservatives</h3>
 <sub>By Adam Nagourney and Jeremy W. Peters</sub>
@@ -86,6 +72,18 @@ A positive side to this is that citizens and soldiers from Ukraine are doing wha
 <h3>Bans on Transition Care for Young People Spread Across U.S.</h3>
 <sub>By Francesca Paris</sub>
 <p>In the past three months, 10 Republican-led states have passed laws banning gender-affirming care for minors.  <a href="https://nyti.ms/40auqBG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Tracking the Fighting in Sudan: Maps and Videos</h3>
+<sub>By Axel Boada, Lazaro Gamio, Marco Hernandez, Guillermo Hernandez Martinez, Lauren Leatherby and Nailah Morgan</sub>
+<p>It was unclear who was in control of the country after widespread fighting between rival factions of the military.  <a href="https://nyti.ms/3zZR8BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Sudan Erupts in Chaos: Who Is Battling for Control and Why It Matters</h3>
+<sub>By Gerry Mullany</sub>
+<p>The strategically important country in northeastern Africa has been consumed by turmoil after overthrowing a dictator in 2019, with plans for a civilian-led democracy now in shambles.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -107,9 +105,15 @@ A positive side to this is that citizens and soldiers from Ukraine are doing wha
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Poland and Hungary Ban Ukraine Grain Imports, Brussels Cries Foul</h3>
-<sub>By Vivek Shankar</sub>
-<p>The European Union lifted tariffs on Ukrainian grain last year, but a glut of produce in Europe had seen the livelihoods of farmers suffer.  <a href="https://nyti.ms/3ohnlSI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Brussels Cries Foul as Poland and Hungary Ban Ukraine Grain Imports</h3>
+<sub>By Matthew Mpoke Bigg, Vivek Shankar and Enjoli Liston</sub>
+<p>The European Union lifted tariffs on Ukrainian grain last year. But farmers say they are suffering from a glut of produce in Europe.  <a href="https://nyti.ms/3ohnlSI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Under the Shadow of War, Kyiv Celebrates Orthodox Easter</h3>
+<sub>By Brendan Hoffman and Matthew Mpoke Bigg</sub>
+<p>Thousands of Christians gathered in the Ukrainian capital to mark Holy Week, one year after Ukraine’s army forced Russian troops back from the area around Kyiv.  <a href="https://nyti.ms/3A2yQjr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -129,12 +133,6 @@ A positive side to this is that citizens and soldiers from Ukraine are doing wha
 <sub>By Scott Cacciola</sub>
 <p>Kipchoge, who will run his first Boston Marathon on Monday, holds the world record for 26.2 miles. This is what happens when mere mortals try to keep his pace.  <a href="https://nyti.ms/3KC9aiv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Boston Marathon Route: The Ups, the Downs and That Citgo Sign</h3>
-<sub>By Matthew Futterman</sub>
-<p>From the rural suburbs to the bedlam of Fenway Park, the Boston Marathon is as special as distance running gets.  <a href="https://nyti.ms/41y8H83"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
