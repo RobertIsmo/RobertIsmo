@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 16, Central Standard Time</p>
 <p>
-There is a lot of unrest and violence occurring in the world right now. In Sudan, different factions of the military are clashing with each other over control of the country, making it difficult to understand who is in charge. And in Ukraine, there have been missile attacks near its Russian border, causing the death of 11 people--and largely confirming what Ukrainian forces already suspected: that they need more weapons and munitions. Both countries have seen years of turmoil and are looking for any kind of reprieve. 
-
-Meanwhile, here in the United States, former President Donald Trump has been charged with indictment, which has led his fundraising efforts to surge—even as a House Republican from New York has returned nearly $8,400 in donations back to donors. There are also stories about former friends of the Boston Marathon bomber, as well as poignant reflections on the meaning and symbolism behind the event&#39;s finish line 10 years after the attack. And in Silicon Valley, it seems like bad behavior will have tangible consequences after all.</p>
+Right now, there is a lot of turmoil in Sudan after they overthrew a dictator in 2019. Clashes spread across the country as rival factions of the military battle for control. Another place stuck in a violent conflict is Ukraine, which is in desperate need of weapons and munitions. Meanwhile, China has yet to call the president of Ukraine due to the war that Russia has started. On the lighter side, news from Silicon Valley shows that playing fast and loose with the truth comes with consequences, and donations for Donald Trump surged after he got indicted. Lastly, April 15th marks the 10-year anniversary of the Boston Marathon bombing, a reminder of how special their finish line has remained.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Clashes Spread Across Sudan: Maps and Videos</h3>
