@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 15, Central Standard Time</p>
 <p>
-I wanted to catch you up on what&#39;s happening in the world. In Sudan, two rival military factions have been fighting in the capital city of Khartoum, and in other cities across the country, creating instability and putting the plans for a civilian-led democracy there in danger. It has also brought attention to the issue of weapons in Ukraine, as those forces are desperately seeking more arms and ammunition in order to battle threats there. In other news, Chinese relations with Ukraine are being tested as Russia wages war there and has just recently launched another missile attack that has killed 11 people. It&#39;s also been reported that a tiny number of ​shoplifters​ were committing most of the theft offenses committed in New York City last year. And finally, there was an interesting article about how science, religion, and art come together in a 15th century book of hours, as humans grapple with questions related to time.</p>
+There is a lot of turmoil and unrest around the world. Conflict has been escalating in Sudan between two military leaders, which has spiraled into nationwide clashes and is threatening the dreams of democracy for the African nation. In Ukraine, forces are desperately in need of weapons and munitions, and China&#39;s strong trade relationship with Ukraine has been affected by Russia&#39;s war in the area. A tech executive from San Francisco died suddenly last month, sparking tensions between the city and tech industry leaders. Also, Boston Marathon bomber&#39;s former friend is still dealing with the guilt and betrayal 10 years after the attack that killed three people.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Rival Generals Unleash Fighting in Sudan, Dashing Dreams of Democracy</h3>
@@ -116,23 +116,23 @@ I wanted to catch you up on what&#39;s happening in the world. In Sudan, two riv
 <p>The death of the tech executive in San Francisco initially prompted finger-pointing about public safety and then exposed tensions between the city and leaders of the industry.  <a href="https://nyti.ms/41ybcau"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Tiny Number of Shoplifters Commit Thousands of New York City Thefts</h3>
-<sub>By Hurubie Meko</sub>
-<p>Nearly a third of all shoplifting arrests in the city last year involved just 327 people, the police said. Businesses say they have little defense.  <a href="https://nyti.ms/41erwgO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Searching for Lost Time in the World’s Most Beautiful Calendar</h3>
 <sub>By Jason Farago</sub>
 <p>What is a day, a month, a year? Science, religion and art coalesce in an invaluable 15th-century book of hours.  <a href="https://nyti.ms/41q9tnq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How Much Power Should the Courts Have?</h3>
-<sub>By Emily Bazelon</sub>
-<p>In Israel, the United States and other democracies, bitter battles are being waged over the same question.  <a href="https://nyti.ms/3mwXBkE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Received $5,300 in Donations. He Refunded Far More.</h3>
+<sub>By Grace Ashford and Michael Gold</sub>
+<p>Mr. Santos, a first-year House Republican from New York, has returned nearly $8,400 in donations so far this year, and has reported no spending on lawyers or trips.  <a href="https://nyti.ms/3oiAxH7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Former Friend of Boston Marathon Bomber, a Burden of Shame and Betrayal</h3>
+<sub>By Jenna Russell</sub>
+<p>Ten years after the attack that killed three people and injured hundreds, Youssef Eddafali still wrestles with guilt and anger over the “monster” he thought he knew.  <a href="https://nyti.ms/3MHpXTV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
