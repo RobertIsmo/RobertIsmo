@@ -58,16 +58,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, April 15, Central Standard Time</p>
+<p>It is Sunday, April 16, Central Standard Time</p>
 <p>
-There is a lot of turmoil and unrest around the world. Conflict has been escalating in Sudan between two military leaders, which has spiraled into nationwide clashes and is threatening the dreams of democracy for the African nation. In Ukraine, forces are desperately in need of weapons and munitions, and China&#39;s strong trade relationship with Ukraine has been affected by Russia&#39;s war in the area. A tech executive from San Francisco died suddenly last month, sparking tensions between the city and tech industry leaders. Also, Boston Marathon bomber&#39;s former friend is still dealing with the guilt and betrayal 10 years after the attack that killed three people.</p>
+There is a lot of unrest and violence occurring in the world right now. In Sudan, different factions of the military are clashing with each other over control of the country, making it difficult to understand who is in charge. And in Ukraine, there have been missile attacks near its Russian border, causing the death of 11 people--and largely confirming what Ukrainian forces already suspected: that they need more weapons and munitions. Both countries have seen years of turmoil and are looking for any kind of reprieve. 
+
+Meanwhile, here in the United States, former President Donald Trump has been charged with indictment, which has led his fundraising efforts to surge—even as a House Republican from New York has returned nearly $8,400 in donations back to donors. There are also stories about former friends of the Boston Marathon bomber, as well as poignant reflections on the meaning and symbolism behind the event&#39;s finish line 10 years after the attack. And in Silicon Valley, it seems like bad behavior will have tangible consequences after all.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rival Generals Unleash Fighting in Sudan, Dashing Dreams of Democracy</h3>
-<sub>By Declan Walsh</sub>
-<p>One of Africa’s largest countries is spinning out of control, as weeks of mounting tensions between two military leaders erupted in battles in the capital, Khartoum, and in other cities.  <a href="https://nyti.ms/3ojwBWf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Clashes Spread Across Sudan: Maps and Videos</h3>
 <sub>By Axel Boada, Lazaro Gamio, Marco Hernandez, Guillermo Hernandez Martinez, Lauren Leatherby and Nailah Morgan</sub>
@@ -111,9 +107,9 @@ There is a lot of turmoil and unrest around the world. Conflict has been escalat
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Killing of the Cash App Founder Bob Lee</h3>
-<sub>By Neelam Bohra, Sharon LaFraniere, Thomas Fuller, Shawn Hubler, Ryan Mac and Cade Metz</sub>
-<p>The death of the tech executive in San Francisco initially prompted finger-pointing about public safety and then exposed tensions between the city and leaders of the industry.  <a href="https://nyti.ms/41ybcau"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump’s Fund-Raising: From Sluggish to Surging After Indictment</h3>
+<sub>By Rebecca Davis O’Brien</sub>
+<p>While the former president reported a modest haul, he saw a big uptick in donations in the day after he was indicted.  <a href="https://nyti.ms/3L3qkab"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -132,6 +128,12 @@ There is a lot of turmoil and unrest around the world. Conflict has been escalat
 <h3>For Former Friend of Boston Marathon Bomber, a Burden of Shame and Betrayal</h3>
 <sub>By Jenna Russell</sub>
 <p>Ten years after the attack that killed three people and injured hundreds, Youssef Eddafali still wrestles with guilt and anger over the “monster” he thought he knew.  <a href="https://nyti.ms/3MHpXTV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Meaning of the Boston Marathon Finish Line, Then and Now</h3>
+<sub>By Talya Minsberg and Matthew Futterman</sub>
+<p>Ten years after the Boston Marathon bombing, the blue and yellow finish line of one of the world’s oldest and most prestigious events holds even stronger significance.  <a href="https://nyti.ms/3GPkwP5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
