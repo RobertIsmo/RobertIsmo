@@ -60,10 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 16, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. In Sudan, there is widespread fighting between rival factions of the military and it&#39;s not clear who&#39;s in control. Meanwhile, in the US, conservatives are pushing back against transgender rights and some Republican-led states have passed laws to ban gender-affirming care for minors. There&#39;s also this movement taking on the education establishment because parents are fed up with the status quo. Meanwhile, a beauty treatment that promised to zap fat ended up causing disfigurement for some people. In Ukraine, soldiers are freezing sperm as a way to stand up to Russia while in Eastern Ukraine, a missile attack has killed 11 people. Fox News is on trial for disseminating election lies, pushing people to ask how far First Amendment freedoms can truly go. On a lighter note, marathoner Eliud Kipchoge is about to run his first Boston Marathon with remarkable speed! Lastly, all the rain in California this winter has brought about an incredible wildflower display across the state.</p>
+Right now, there is a lot of unrest and turmoil around the world. In Sudan, rival factions within the military are engaged in intense fighting in an attempt to gain control of the country– unfortunately derailing plans to establish a civilian-led democracy. Unfavorable political shifts, like anti-trans discrimination alongside right-wing religious campaigns in the US, combined with issues such as disfigurement happening due to beauty treatments, are having a major impact on the lives of many people. 
+
+A positive side to this is that citizens and soldiers from Ukraine are doing what they can to fight for justice and equality in their country - by freezing their sperm to provide support for their partners even in death, and by taking crucial steps to combat significant dates like running in Boston Marathons and campaigning against the existing education system.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Clashes Spread Across Sudan: Maps and Videos</h3>
+<h3>Tracking the Fighting in Sudan: Maps and Videos</h3>
 <sub>By Axel Boada, Lazaro Gamio, Marco Hernandez, Guillermo Hernandez Martinez, Lauren Leatherby and Nailah Morgan</sub>
 <p>It was unclear who was in control of the country after widespread fighting between rival factions of the military.  <a href="https://nyti.ms/3zZR8BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
@@ -87,7 +89,7 @@ Right now, there&#39;s a lot going on in the world. In Sudan, there is widesprea
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Kids Can’t Read’: The Revolt That Is Taking on the Education Establishment</h3>
+<h3>‘Kids Can’t Read’: The Revolt That Is Taking On the Education Establishment</h3>
 <sub>By Sarah Mervosh</sub>
 <p>Fed up parents, civil rights activists, newly awakened educators and lawmakers are crusading for “the science of reading.” Can they get results?  <a href="https://nyti.ms/41aS4zu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
@@ -101,13 +103,19 @@ Right now, there&#39;s a lot going on in the world. In Sudan, there is widesprea
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>When Freezing Sperm Makes a Patriotic Statement</h3>
 <sub>By Emma Bubola</sub>
-<p>Some Ukrainian soldiers are trying to ensure that even if they die in the war, their partner can still build a family. They also want to send Russia a message of defiance.  <a href="https://nyti.ms/3mFTLG3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Some Ukrainian soldiers are trying to ensure that even if they die in the war, their partners can still build families. They also want to send Russia a message of defiance.  <a href="https://nyti.ms/3mFTLG3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Death Toll From Russian Missile Attack in Eastern Ukraine Climbs to 11</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Rescuers were searching through rubble a day after the city of Sloviansk was struck as fighting raged in Bakhmut.  <a href="https://nyti.ms/3A1pG6J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Poland and Hungary Ban Ukraine Grain Imports, Brussels Cries Foul</h3>
+<sub>By Vivek Shankar</sub>
+<p>The European Union lifted tariffs on Ukrainian grain last year, but a glut of produce in Europe had seen the livelihoods of farmers suffer.  <a href="https://nyti.ms/3ohnlSI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pentagon Leaks: New Twists in a Familiar Plot</h3>
+<sub>By Anton Troianovski, Andrew E. Kramer, Erika Solomon and Eric Schmitt</sub>
+<p>Some in Ukraine even welcomed the disclosures as confirming what they have been saying for months — that its forces desperately need more weapons and munitions.  <a href="https://nyti.ms/3KDWfg3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -127,12 +135,6 @@ Right now, there&#39;s a lot going on in the world. In Sudan, there is widesprea
 <sub>By Matthew Futterman</sub>
 <p>From the rural suburbs to the bedlam of Fenway Park, the Boston Marathon is as special as distance running gets.  <a href="https://nyti.ms/41y8H83"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Winter Showers (and Showers and Showers) Bring a Bounty of Wildflowers</h3>
-<sub>By Jill Cowan</sub>
-<p>The relentless succession of storms in California created conditions for a wondrous display now emerging in the state.  <a href="https://nyti.ms/3KDoXO9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
