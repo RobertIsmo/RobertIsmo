@@ -60,31 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 16, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, there is a campaign against transgender rights which has mobilized conservative groups. Across the country, states are banning gender-affirming care for minors. In Sudan, there is widespread fighting between different factions of the military, threatening a planned civilian-led democracy. In Ukraine, some soldiers are donating sperm to ensure that their partners can build families, even if they die in the war. Meanwhile, Brussels is crying foul at Poland and Hungary for banning Ukraine grain imports. Elsewhere, Christians gathered in Kyiv to celebrate Orthodox Easter despite the shadow of war. And finally, Fox News is on trial in Delaware for spreading false information about the 2020 Presidential election, while Eliud Kipchoge will be running his first Boston Marathon this Monday - he holds the world record for 26.2 miles!</p>
+It looks like a lot of interesting things are happening in the world right now. Technology-wise, Google is shaking things up with some radical changes to their search system. In the US, conservatives have found a new rallying issue in a campaign against transgender rights. Some parents and activists are looking to shake up education with something called &quot;the science of reading.&quot; In health news, people are experiencing disfigurement from treatments that were supposed to help them get rid of unwanted fat. On an international level, Ukraine soldiers are donating sperm so their partners can still build families should they die in the war and certain European countries are bickering over grain imports. Fake news is also proving to be an ongoing challenge as Fox News is now on trial for spreading election lies. There&#39;s some amazing sports news too: Eliud Kipchoge holds the world record for marathons! And finally, Japanese folklore creatures are being brought to life with an art contest on Shodoshima island while California is seeing a bounty of wildflowers due to some relentless storms.</p>
 <ol>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google Devising Radical Search Changes to Beat Back A.I. Rivals</h3>
+<sub>By Nico Grant</sub>
+<p>The tech giant is sprinting to protect its core business with a flurry of projects, including updates to its search engine and plans for an all-new one.  <a href="https://nyti.ms/3oiEuvh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How a Campaign Against Transgender Rights Mobilized Conservatives</h3>
 <sub>By Adam Nagourney and Jeremy W. Peters</sub>
 <p>Defeated on same-sex marriage, the religious right went searching for an issue that would re-energize supporters and donors. The campaign that followed has stunned political leaders across the spectrum.  <a href="https://nyti.ms/41bQmxL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Bans on Transition Care for Young People Spread Across U.S.</h3>
-<sub>By Francesca Paris</sub>
-<p>In the past three months, 10 Republican-led states have passed laws banning gender-affirming care for minors.  <a href="https://nyti.ms/40auqBG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Tracking the Fighting in Sudan: Maps and Videos</h3>
-<sub>By Axel Boada, Lazaro Gamio, Marco Hernandez, Guillermo Hernandez Martinez, Lauren Leatherby and Nailah Morgan</sub>
-<p>It was unclear who was in control of the country after widespread fighting between rival factions of the military.  <a href="https://nyti.ms/3zZR8BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Sudan Erupts in Chaos: Who Is Battling for Control and Why It Matters</h3>
-<sub>By Gerry Mullany</sub>
-<p>The strategically important country in northeastern Africa has been consumed by turmoil after overthrowing a dictator in 2019, with plans for a civilian-led democracy now in shambles.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Kids Can’t Read’: The Revolt That Is Taking On the Education Establishment</h3>
@@ -105,22 +93,10 @@ There is a lot going on in the world right now. In the US, there is a campaign a
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Brussels Cries Foul as Poland and Hungary Ban Ukraine Grain Imports</h3>
+<h3>E.U. Cries Foul as Poland and Hungary Ban Ukraine Grain Imports</h3>
 <sub>By Matthew Mpoke Bigg, Vivek Shankar and Enjoli Liston</sub>
 <p>The European Union lifted tariffs on Ukrainian grain last year. But farmers say they are suffering from a glut of produce in Europe.  <a href="https://nyti.ms/3ohnlSI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Under the Shadow of War, Kyiv Celebrates Orthodox Easter</h3>
-<sub>By Brendan Hoffman and Matthew Mpoke Bigg</sub>
-<p>Thousands of Christians gathered in the Ukrainian capital to mark Holy Week, one year after Ukraine’s army forced Russian troops back from the area around Kyiv.  <a href="https://nyti.ms/3A2yQjr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pentagon Leaks: New Twists in a Familiar Plot</h3>
-<sub>By Anton Troianovski, Andrew E. Kramer, Erika Solomon and Eric Schmitt</sub>
-<p>Some in Ukraine even welcomed the disclosures as confirming what they have been saying for months — that its forces desperately need more weapons and munitions.  <a href="https://nyti.ms/3KDWfg3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fox News Is on Trial, and So Are Falsehoods About 2020</h3>
@@ -133,6 +109,30 @@ There is a lot going on in the world right now. In the US, there is a campaign a
 <sub>By Scott Cacciola</sub>
 <p>Kipchoge, who will run his first Boston Marathon on Monday, holds the world record for 26.2 miles. This is what happens when mere mortals try to keep his pace.  <a href="https://nyti.ms/3KC9aiv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Japanese Island Where the Wild Things Are</h3>
+<sub>By Motoko Rich and Hikari Hida</sub>
+<p>In the pantheon of yokai, spooky beings of Japanese folklore embody anxieties ancient and modern. On Shodoshima, an art contest helps bring new ones to life.  <a href="https://nyti.ms/3MNqvbc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>‘The Phantom of the Opera’: Thinking of a Spectacle Fondly</h3>
+<sub>By Joshua Barone, Alexis Soloski and Elisabeth Vincentelli</sub>
+<p>As the longest-running musical in Broadway history closes, Times critics with a lasting affection for the show take stock of its legacy.  <a href="https://nyti.ms/41kFvRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>The Phandom of the Opera</h3>
+<sub>By Michael Paulson</sub>
+<p>As “The Phantom of the Opera” ends its record-breaking Broadway run on Sunday, its most devoted followers, who call themselves Phans, are mourning.  <a href="https://nyti.ms/406yrHu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Winter Showers (and Showers and Showers) Bring a Bounty of Wildflowers</h3>
+<sub>By Jill Cowan</sub>
+<p>The relentless succession of storms in California created conditions for a wondrous display now emerging in the state.  <a href="https://nyti.ms/3KDoXO9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
