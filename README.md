@@ -60,25 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 17, Central Standard Time</p>
 <p>
-It looks like a lot is going on in the world right now! In technology, Google is working on making major changes to their search engine to keep up with competitors also working with Artificial Intelligence. In the US, there&#39;s a campaign against transgender rights that has caught a lot of people by surprise. In Sudan, there are explosions happening throughout the capital and it is feared that a civil war could come soon. Across the pond in Ukraine, there&#39;s another conflict breaking out, this one with Europe over grain imports. In Boston the yearly Marathon recently happened with a memorable tribute to an official therapy dog of the race. There was also a case at Fox News with the US First Amendment being put on trial. Lastly, Kyiv put on an emotional Easter celebration in spite of the wars surrounding them.</p>
+There is a lot going on in the world right now. In Ukraine, NATO is preparing for potential combat with Russia after their invasion of the country. In Sudan, violence and political turmoil is gripping the capital, Khartoum. There have also been some developments with election technology in the US - Fox News is being sued by Dominion Voting Systems, a voting machine company, for defamation. Schools are now being required to drop Native American mascots in New York. And finally, some positive news - a Kenyan Olympic runner has moved to Boulder, Colorado to train for the marathon.</p>
 <ol>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google Devising Radical Search Changes to Beat Back A.I. Rivals</h3>
-<sub>By Nico Grant</sub>
-<p>The tech giant is sprinting to protect its core business with a flurry of projects, including updates to its search engine and plans for an all-new one.  <a href="https://nyti.ms/3oiEuvh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Campaign Against Transgender Rights Mobilized Conservatives</h3>
-<sub>By Adam Nagourney and Jeremy W. Peters</sub>
-<p>Defeated on same-sex marriage, the religious right went searching for an issue that would re-energize supporters and donors. The campaign that followed has stunned political leaders across the spectrum.  <a href="https://nyti.ms/41bQmxL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With Russia’s Invasion of Ukraine, NATO Readies for Combat on Its Borders</h3>
+<sub>By Steven Erlanger</sub>
+<p>Shocked by Russian atrocities, NATO is becoming the war-fighting alliance it was during the Cold War, committed to defending “every inch” of its territory from Day 1.  <a href="https://nyti.ms/3L2WbrI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Sudan Fears ‘Ghost of Civil War’ as Explosions Rock Capital</h3>
-<sub>By Declan Walsh and Abdi Latif Dahir</sub>
-<p>The civilian death toll is climbing and concern over a broader conflict is growing as rival generals vie for control of Africa’s third-largest country.  <a href="https://nyti.ms/3A3SITi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<h3>As New Wave of Violence Hits Sudan’s Capital, Civilians Feel the Strain</h3>
+<sub>By Abdi Latif Dahir</sub>
+<p>Khartoum residents were trapped at home without electricity or water as the country’s two top generals battled for a third day to control the East African nation.  <a href="https://nyti.ms/3A5PqyS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Tracking the Fighting in Sudan: Maps and Videos</h3>
@@ -86,52 +80,58 @@ It looks like a lot is going on in the world right now! In technology, Google is
 <p>It was unclear who was in control of the country after widespread fighting between rival factions of the military.  <a href="https://nyti.ms/3zZR8BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>To Speed Up, a Top Runner Is (Kind of) Slowing Down</h3>
+<sub>By Talya Minsberg and Scott Cacciola</sub>
+<p>Hellen Obiri moved from Kenya to Boulder, Colo., to chase a running accomplishment she has yet to achieve: dominance in the marathon.  <a href="https://nyti.ms/41bqYs1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Eliud Kipchoge’s Next Feat: The Tactical Boston Marathon</h3>
+<sub>By Matthew Futterman</sub>
+<p>The Boston Marathon, a tricky, hilly beast of a course, has humbled legends in the past. Can this master of speed tackle Heartbreak Hill?  <a href="https://nyti.ms/3oiEqM3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Jim Jordan, a Fighter Aligned With Trump, Wrestled His Way to Power</h3>
 <sub>By Luke Broadwater</sub>
 <p>The Ohio Republican defines himself by his penchant for punching back, whether against allegations that he was derelict in a sex abuse scandal or attempts to prosecute the former president.  <a href="https://nyti.ms/407rvty"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How Fast Is Eliud Kipchoge? You’ll Fall Down When You Find Out.</h3>
-<sub>By Scott Cacciola</sub>
-<p>Kipchoge, who will run his first Boston Marathon on Monday, holds the world record for 26.2 miles. This is what happens when mere mortals try to keep his pace.  <a href="https://nyti.ms/3KC9aiv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>G.O.P. to Attack Bragg on Crime at a Hearing in New York</h3>
+<sub>By Luke Broadwater and Hurubie Meko</sub>
+<p>Republicans argue Alvin Bragg, the district attorney, has allowed a crime crisis to flourish in New York. But data shows that, after a pandemic spike, crime is down slightly in the city.  <a href="https://nyti.ms/40iwt6K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Golden Retrievers Gather to Salute the Therapy Dog of Mile 3</h3>
-<sub>By Talya Minsberg</sub>
-<p>Hundreds of dogs and humans came together in Boston to honor Spencer, the official dog of the Boston Marathon, who died in February.  <a href="https://nyti.ms/3KKAOd4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Joe Biden Has Slow-Walked His Way to a 2024 Run</h3>
+<sub>By Shane Goldmacher and Reid J. Epstein</sub>
+<p>Closed-door meetings about when to roll out the president’s campaign are intensifying. Still, with no serious primary challenge and Republicans infighting, he feels little pressure.  <a href="https://nyti.ms/408IT16"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How to Watch the Boston Marathon</h3>
-<sub>By Talya Minsberg</sub>
-<p>Here’s how to watch the race on TV, through a livestream or in person.  <a href="https://nyti.ms/43ONFnF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>It’s Beginning to Look a Lot Like 2024</h3>
+<sub>By Maggie Astor</sub>
+<p>Candidates are visiting early primary states, attending cattle calls and holding donor summits. The nascent campaign seems to be kicking into gear.  <a href="https://nyti.ms/3KHNBgv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox News Is on Trial, and So Are Falsehoods About 2020</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>A jury in Delaware will be asked to weigh the limits of the First Amendment. Another question in the case is whether the network will pay a financial penalty for disseminating election lies.  <a href="https://nyti.ms/3mHWUF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<h3>What to Know About Dominion, the Voting Machine Company Suing Fox</h3>
+<sub>By Tiffany Hsu</sub>
+<p>Dominion, which is owned by a New York private equity firm, has accused the news network of spreading false narratives about its election technology.  <a href="https://nyti.ms/3mGOM7S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>E.U. Cries Foul as Poland and Hungary Ban Ukraine Grain Imports</h3>
-<sub>By Matthew Mpoke Bigg, Vivek Shankar and Enjoli Liston</sub>
-<p>The European Union lifted tariffs on Ukrainian grain last year. But farmers say they are suffering from a glut of produce in Europe.  <a href="https://nyti.ms/3ohnlSI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>As New York Bans Native American Mascots, Some Schools Try to Keep Them</h3>
+<sub>By Jesse McKinley</sub>
+<p>The Board of Regents is expected to approve a policy barring school nicknames like “the Warriors.” A provision allows their use if a tribal nation endorses them.  <a href="https://nyti.ms/40eWILe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Under the Shadow of War, Kyiv Celebrates Orthodox Easter</h3>
-<sub>By Brendan Hoffman and Matthew Mpoke Bigg</sub>
-<p>Thousands of Christians gathered in the Ukrainian capital to mark Holy Week, one year after Ukraine’s army forced Russian troops back from the area around Kyiv.  <a href="https://nyti.ms/3A2yQjr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>With Cheers and Tears, ‘Phantom of the Opera’ Ends Record Broadway Run</h3>
-<sub>By Michael Paulson</sub>
-<p>The show’s record-breaking 35-year Broadway run came to an end on Sunday night. Its famous chandelier got a bow, and its composer, Andrew Lloyd Webber, spoke after its emotional final performance.  <a href="https://nyti.ms/43ESoYC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Shoot Your (Carefully Aimed) Shot</h3>
+<sub>By Roxane Gay</sub>
+<p>When everything is still possible, take a moment to enjoy a work crush. Just don’t do anything unwise, or illegal.  <a href="https://nyti.ms/41dVIIG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
