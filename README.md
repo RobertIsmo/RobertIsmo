@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 17, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Ukraine, NATO is preparing for potential combat with Russia after their invasion of the country. In Sudan, violence and political turmoil is gripping the capital, Khartoum. There have also been some developments with election technology in the US - Fox News is being sued by Dominion Voting Systems, a voting machine company, for defamation. Schools are now being required to drop Native American mascots in New York. And finally, some positive news - a Kenyan Olympic runner has moved to Boulder, Colorado to train for the marathon.</p>
+To start, there is tension between Russia and Ukraine on their border, with NATO preparing for potential combat. Additionally, in Sudan, rival factions of the military have been fighting and it is unclear who is in control. On the sports front, Kenyan runner Hellen Obiri has moved to Colorado to try and win a marathon while Eliud Kipchoge is set to tackle the tricky Boston Marathon. In terms of business news, Fox News has gone up against the voting machine company Dominion in a $1.6 billion defamation case. Meanwhile in the US, Republican Jim Jordan has risen to power and is facing criticism from both sides amidst an alleged sex abuse scandal. Additionally, there are new electric car tax breaks which favor US-made vehicles and Joe Biden is being pushed to launch his 2024 campaign sooner. Finally, people are noticing office crushes as everything remains largely unknown.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>With Russia’s Invasion of Ukraine, NATO Readies for Combat on Its Borders</h3>
 <sub>By Steven Erlanger</sub>
 <p>Shocked by Russian atrocities, NATO is becoming the war-fighting alliance it was during the Cold War, committed to defending “every inch” of its territory from Day 1.  <a href="https://nyti.ms/3L2WbrI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As New Wave of Violence Hits Sudan’s Capital, Civilians Feel the Strain</h3>
-<sub>By Abdi Latif Dahir</sub>
-<p>Khartoum residents were trapped at home without electricity or water as the country’s two top generals battled for a third day to control the East African nation.  <a href="https://nyti.ms/3A5PqyS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,6 +86,18 @@ There is a lot going on in the world right now. In Ukraine, NATO is preparing fo
 <p>The Boston Marathon, a tricky, hilly beast of a course, has humbled legends in the past. Can this master of speed tackle Heartbreak Hill?  <a href="https://nyti.ms/3oiEqM3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Judge Delays Fox and Dominion Trial by a Day</h3>
+<sub>By Jeremy W. Peters and Katie Robertson</sub>
+<p>Opening statements in the $1.6 billion defamation case against Fox News were set to begin on Monday.  <a href="https://nyti.ms/40cVlwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What to Know About Dominion, the Voting Machine Company Suing Fox</h3>
+<sub>By Tiffany Hsu</sub>
+<p>Dominion, which is owned by a New York private equity firm, has accused the news network of spreading false narratives about its election technology.  <a href="https://nyti.ms/3mGOM7S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Jim Jordan, a Fighter Aligned With Trump, Wrestled His Way to Power</h3>
 <sub>By Luke Broadwater</sub>
@@ -99,9 +105,15 @@ There is a lot going on in the world right now. In Ukraine, NATO is preparing fo
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. to Attack Bragg on Crime at a Hearing in New York</h3>
+<h3>G.O.P. Attacks Bragg on Crime at a Hearing in New York</h3>
 <sub>By Luke Broadwater and Hurubie Meko</sub>
 <p>Republicans argue Alvin Bragg, the district attorney, has allowed a crime crisis to flourish in New York. But data shows that, after a pandemic spike, crime is down slightly in the city.  <a href="https://nyti.ms/40iwt6K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Car Brands Will Benefit Most From Electric Car Tax Breaks</h3>
+<sub>By Jack Ewing</sub>
+<p>Rules that take effect on Tuesday will limit the $7,500 credits to electric cars made domestically with minerals from the U.S. or trade allies.  <a href="https://nyti.ms/41afx3E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,19 +129,7 @@ There is a lot going on in the world right now. In Ukraine, NATO is preparing fo
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to Know About Dominion, the Voting Machine Company Suing Fox</h3>
-<sub>By Tiffany Hsu</sub>
-<p>Dominion, which is owned by a New York private equity firm, has accused the news network of spreading false narratives about its election technology.  <a href="https://nyti.ms/3mGOM7S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>As New York Bans Native American Mascots, Some Schools Try to Keep Them</h3>
-<sub>By Jesse McKinley</sub>
-<p>The Board of Regents is expected to approve a policy barring school nicknames like “the Warriors.” A provision allows their use if a tribal nation endorses them.  <a href="https://nyti.ms/40eWILe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Shoot Your (Carefully Aimed) Shot</h3>
+<h3>The Thrill of the Office Crush</h3>
 <sub>By Roxane Gay</sub>
 <p>When everything is still possible, take a moment to enjoy a work crush. Just don’t do anything unwise, or illegal.  <a href="https://nyti.ms/41dVIIG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
