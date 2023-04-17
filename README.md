@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 17, Central Standard Time</p>
 <p>
-Currently, some alarming news is occurring in the U.S., as federal agencies were warned of child labor risks but this was ignored or missed. On the political front, Republican Speaker McCarthy has proposed a one-year debt ceiling increase tied to spending cuts, clashing with the Biden Administration. More globally, the invasion of Ukraine by Russia has revolutionized NATO military strategy and there is widespread fighting between rival factions of the military in Sudan. On the sports side, a top runner is attempting to become dominant in the marathon by moving from Kenya to Boulder, Colorado. And in business news, FOX is on trial for defamation with Dominion Voting Systems as well as a recent tax break for U.S. car companies for electric cars made here and abroad with minerals only from the US or trade allies. Lastly, over in Texas, two children survived a gunman shooting at two classrooms leaving 19 dead and those two children are still trying to recover a year later.</p>
+Things have been pretty crazy in the world lately. In the US, there are allegations of the government ignoring warnings about exploited migrant children; politicians are debating how to manage the nation&#39;s debt; and a Republican House member is facing criminal investigations despite running for re-election. Overseas, Russia is invading Ukraine, sending a shockwave throughout NATO, and there is chaos erupting in Sudan that could potentially disrupt an entire region. In sports, a top Kenyan runner has moved to Boulder, Colorado and is training for her first marathon. In the food world, a cookie chain called Crumbl is taking America by storm -- people can&#39;t decide if they love it or hate it!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Was Warned of Migrant Child Labor, but ‘Didn’t Want to Hear It’</h3>
@@ -71,49 +71,25 @@ Currently, some alarming news is occurring in the U.S., as federal agencies were
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy Proposes One-Year Debt Ceiling Increase Tied to Spending Cuts</h3>
 <sub>By Catie Edmondson and Jim Tankersley</sub>
-<p>Clashing with President Biden, who has called for a debt limit hike with no conditions, the Republican speaker went to Wall Street to pitch what he called a “responsible, sensible” solution.  <a href="https://nyti.ms/3L5HfJj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Clashing with President Biden, who has called for raising the debt limit with no conditions, the Republican speaker went to Wall Street to pitch what he called a “responsible, sensible” solution.  <a href="https://nyti.ms/3L5HfJj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Invasion of Ukraine Revolutionizes NATO Military Strategy</h3>
-<sub>By Steven Erlanger</sub>
-<p>Shocked by Russian atrocities, NATO is becoming the war-fighting alliance it was during the Cold War, committed to defending “every inch” of its territory from Day 1.  <a href="https://nyti.ms/3L2WbrI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Says He Will Run for Re-election in 2024</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>Mr. Santos, a Republican House member from New York, has admitted to lying about parts of his biography and is facing several ethics and criminal inquiries.  <a href="https://nyti.ms/3oh03MK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Tracking the Fighting in Sudan: Maps and Videos</h3>
-<sub>By Axel Boada, Lazaro Gamio, Marco Hernandez, Guillermo Hernandez Martinez, Lauren Leatherby, Nailah Morgan, Scott Reinhard, Declan Walsh, Abdi Latif Dahir and Christoph Koettl</sub>
-<p>It was unclear who was in control of the country after widespread fighting between rival factions of the military.  <a href="https://nyti.ms/3zZR8BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>To Speed Up, a Top Runner Is (Kind of) Slowing Down</h3>
-<sub>By Talya Minsberg and Scott Cacciola</sub>
-<p>Hellen Obiri moved from Kenya to Boulder, Colo., to chase a running accomplishment she has yet to achieve: dominance in the marathon.  <a href="https://nyti.ms/41bqYs1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Judge Delays Fox and Dominion Trial by a Day</h3>
-<sub>By Jeremy W. Peters and Katie Robertson</sub>
-<p>Opening statements in Dominion Voting Systems’ $1.6 billion defamation case against Fox News were set to begin on Monday.  <a href="https://nyti.ms/40cVlwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to Know About Dominion, the Voting Machine Company Suing Fox</h3>
-<sub>By Tiffany Hsu</sub>
-<p>Dominion, which is owned by a New York private equity firm, has accused the news network of spreading false narratives about its election technology.  <a href="https://nyti.ms/3mGOM7S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Jim Jordan, a Fighter Aligned With Trump, Wrestled His Way to Power</h3>
-<sub>By Luke Broadwater</sub>
-<p>The Ohio Republican defines himself by his penchant for punching back, whether against allegations that he was derelict in a sex abuse scandal or attempts to prosecute the former president.  <a href="https://nyti.ms/407rvty"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Attacks Bragg on Crime at a Hearing in New York</h3>
 <sub>By Luke Broadwater and Hurubie Meko</sub>
 <p>Republicans argue Alvin Bragg, the district attorney, has allowed a crime crisis to flourish in New York. But data shows that, after a pandemic spike, crime is down slightly in the city.  <a href="https://nyti.ms/40iwt6K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Grand Jury Decides Not to Charge Officers in Shooting Death of Jayland Walker</h3>
+<sub>By Jesus Jiménez and Michael Levenson</sub>
+<p>Mr. Walker, a 25-year-old Black man, was shot dozens of times after an attempted traffic stop and chase in Akron, Ohio, last year.  <a href="https://nyti.ms/43J5bJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +104,34 @@ Currently, some alarming news is occurring in the U.S., as federal agencies were
 <p>When a gunman opened fire in two classrooms in Uvalde, Texas, 19 children died. Two fourth graders wounded in the massacre are still trying to recover.  <a href="https://nyti.ms/3GPUfAl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Car Brands Will Benefit Most From Electric Car Tax Breaks</h3>
-<sub>By Jack Ewing</sub>
-<p>Rules that take effect on Tuesday will limit the $7,500 credits to electric cars made domestically with minerals from the U.S. or trade allies.  <a href="https://nyti.ms/41afx3E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Invasion of Ukraine Revolutionizes NATO Military Strategy</h3>
+<sub>By Steven Erlanger</sub>
+<p>Shocked by Russian atrocities, NATO is becoming the war-fighting alliance it was during the Cold War, committed to defending “every inch” of its territory from Day 1.  <a href="https://nyti.ms/3L2WbrI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Sudan Erupts in Chaos: Who Is Battling for Control and Why It Matters</h3>
+<sub>By The New York Times</sub>
+<p>The strategically important country in northeastern Africa has been consumed by fighting between two military factions, with plans for a transition to a civilian-led democracy now in shambles.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>To Speed Up, a Top Runner Is (Kind of) Slowing Down</h3>
+<sub>By Talya Minsberg and Scott Cacciola</sub>
+<p>Hellen Obiri moved from Kenya to Boulder, Colo., to chase a running accomplishment she has yet to achieve: dominance in the marathon.  <a href="https://nyti.ms/41bqYs1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>F.B.I. Arrests Two on Charges Tied to Chinese Police Outpost in New York</h3>
+<sub>By William K. Rashbaum and Karen Zraick</sub>
+<p>Federal prosecutors in Brooklyn charged the men with conspiring with the Chinese government and destroying evidence.  <a href="https://nyti.ms/3HdfhsX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Are Crumbl Cookies the Best or the Worst? It Doesn’t Matter.</h3>
+<sub>By Priya Krishna</sub>
+<p>The fastest-growing dessert chain in the United States has sweets lovers divided. But the debate is great for business.  <a href="https://nyti.ms/3L6O3qe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
