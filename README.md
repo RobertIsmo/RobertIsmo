@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 16, Central Standard Time</p>
 <p>
-It looks like a lot of interesting things are happening in the world right now. Technology-wise, Google is shaking things up with some radical changes to their search system. In the US, conservatives have found a new rallying issue in a campaign against transgender rights. Some parents and activists are looking to shake up education with something called &quot;the science of reading.&quot; In health news, people are experiencing disfigurement from treatments that were supposed to help them get rid of unwanted fat. On an international level, Ukraine soldiers are donating sperm so their partners can still build families should they die in the war and certain European countries are bickering over grain imports. Fake news is also proving to be an ongoing challenge as Fox News is now on trial for spreading election lies. There&#39;s some amazing sports news too: Eliud Kipchoge holds the world record for marathons! And finally, Japanese folklore creatures are being brought to life with an art contest on Shodoshima island while California is seeing a bounty of wildflowers due to some relentless storms.</p>
+There is a lot going on around the world right now! In technology, Google is coming up with major changes to try and stay ahead of its artificial intelligence rivals. In the US, conservatives are experiencing a surge in anti-transgender mobilization. In Sudan, there is fear of civil war brewing as explosions rock the capital. On the sports front, Eliud Kipchoge has shattered marathon records and golden retrievers have gathered to salute an inspiring therapy dog. There have also been legal proceedings in Delaware against Fox News for false coverage about the 2020 elections. Meanwhile in Ukraine, some soldiers are freezing their sperm in a act of national defiance against Russia, who has barred imports of Ukrainian grain throughout the European Union. Lastly, theater fans are saying goodbye to “The Phantom of the Opera” as it closes its record-breaking Broadway run at the Majestic Theater.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Google Devising Radical Search Changes to Beat Back A.I. Rivals</h3>
@@ -74,16 +74,46 @@ It looks like a lot of interesting things are happening in the world right now. 
 <p>Defeated on same-sex marriage, the religious right went searching for an issue that would re-energize supporters and donors. The campaign that followed has stunned political leaders across the spectrum.  <a href="https://nyti.ms/41bQmxL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Kids Can’t Read’: The Revolt That Is Taking On the Education Establishment</h3>
-<sub>By Sarah Mervosh</sub>
-<p>Fed up parents, civil rights activists, newly awakened educators and lawmakers are crusading for “the science of reading.” Can they get results?  <a href="https://nyti.ms/41aS4zu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Sudan Fears ‘Ghost of Civil War’ as Explosions Rock Capital</h3>
+<sub>By Declan Walsh and Abdi Latif Dahir</sub>
+<p>The civilian death toll is climbing and concern over a broader conflict is growing as rival generals vie for control of Africa’s third-largest country.  <a href="https://nyti.ms/3A3SITi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>A Beauty Treatment Promised to Zap Fat. For Some, It Brought Disfigurement.</h3>
-<sub>By Anna Kodé</sub>
-<p>CoolSculpting is among the most popular fixes for unwanted bulges. But the risk of a serious side effect appears to be higher than previously known.  <a href="https://nyti.ms/3mKkbGx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Tracking the Fighting in Sudan: Maps and Videos</h3>
+<sub>By Axel Boada, Lazaro Gamio, Marco Hernandez, Guillermo Hernandez Martinez, Lauren Leatherby and Nailah Morgan</sub>
+<p>It was unclear who was in control of the country after widespread fighting between rival factions of the military.  <a href="https://nyti.ms/3zZR8BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Jim Jordan, a Fighter Aligned With Trump, Wrestled His Way to Power</h3>
+<sub>By Luke Broadwater</sub>
+<p>The Ohio Republican defines himself by his penchant for punching back, whether against allegations that he was derelict in a sex abuse scandal or attempts to prosecute the former president.  <a href="https://nyti.ms/407rvty"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>How Fast Is Eliud Kipchoge? You’ll Fall Down When You Find Out.</h3>
+<sub>By Scott Cacciola</sub>
+<p>Kipchoge, who will run his first Boston Marathon on Monday, holds the world record for 26.2 miles. This is what happens when mere mortals try to keep his pace.  <a href="https://nyti.ms/3KC9aiv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Golden Retrievers Gather to Salute the Therapy Dog of Mile 3</h3>
+<sub>By Talya Minsberg</sub>
+<p>Hundreds of dogs and humans came together in Boston to honor Spencer, the official dog of the Boston Marathon, who died in February.  <a href="https://nyti.ms/3KKAOd4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>How to Watch the Boston Marathon</h3>
+<sub>By Talya Minsberg</sub>
+<p>Here’s how to watch the race on TV, through a livestream or in person.  <a href="https://nyti.ms/43ONFnF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fox News Is on Trial, and So Are Falsehoods About 2020</h3>
+<sub>By Jeremy W. Peters</sub>
+<p>A jury in Delaware will be asked to weigh the limits of the First Amendment. Another question in the case is whether the network will pay a financial penalty for disseminating election lies.  <a href="https://nyti.ms/3mHWUF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,40 +128,10 @@ It looks like a lot of interesting things are happening in the world right now. 
 <p>The European Union lifted tariffs on Ukrainian grain last year. But farmers say they are suffering from a glut of produce in Europe.  <a href="https://nyti.ms/3ohnlSI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox News Is on Trial, and So Are Falsehoods About 2020</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>A jury in Delaware will be asked to weigh the limits of the First Amendment. Another question in the case is whether the network will pay a financial penalty for disseminating election lies.  <a href="https://nyti.ms/3mHWUF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>How Fast Is Eliud Kipchoge? You’ll Fall Down When You Find Out.</h3>
-<sub>By Scott Cacciola</sub>
-<p>Kipchoge, who will run his first Boston Marathon on Monday, holds the world record for 26.2 miles. This is what happens when mere mortals try to keep his pace.  <a href="https://nyti.ms/3KC9aiv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Japanese Island Where the Wild Things Are</h3>
-<sub>By Motoko Rich and Hikari Hida</sub>
-<p>In the pantheon of yokai, spooky beings of Japanese folklore embody anxieties ancient and modern. On Shodoshima, an art contest helps bring new ones to life.  <a href="https://nyti.ms/3MNqvbc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>‘The Phantom of the Opera’: Thinking of a Spectacle Fondly</h3>
-<sub>By Joshua Barone, Alexis Soloski and Elisabeth Vincentelli</sub>
-<p>As the longest-running musical in Broadway history closes, Times critics with a lasting affection for the show take stock of its legacy.  <a href="https://nyti.ms/41kFvRM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>The Phandom of the Opera</h3>
+<h3>Fans Gather as ‘Phantom’ Ends a Record Broadway Run</h3>
 <sub>By Michael Paulson</sub>
-<p>As “The Phantom of the Opera” ends its record-breaking Broadway run on Sunday, its most devoted followers, who call themselves Phans, are mourning.  <a href="https://nyti.ms/406yrHu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Winter Showers (and Showers and Showers) Bring a Bounty of Wildflowers</h3>
-<sub>By Jill Cowan</sub>
-<p>The relentless succession of storms in California created conditions for a wondrous display now emerging in the state.  <a href="https://nyti.ms/3KDoXO9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The final day of “The Phantom of the Opera” was both jubilant and tear-stained as theatergoers bid it farewell. It is closing its run at the Majestic Theater on an unusually high note.  <a href="https://nyti.ms/43ESoYC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
