@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, April 16, Central Standard Time</p>
+<p>It is Monday, April 17, Central Standard Time</p>
 <p>
-There has been a lot of news lately about exciting technological changes, debates over transgender rights, and ongoing wars in Sudan and Ukraine. Google is remodeling its search engine to stay competitive with artificial intelligence. At home, the religious right has mobilized against transgender people in reaction to the legalization of gay marriage. In Africa, political leaders are worried about Sudan erupting into civil war. And in Ukraine, Christians have gathered to celebrate Orthodox Easter amidst the shadows of war. On top of all that, the acclaimed musical Phantom of the Opera just had its final Broadway performance after 35 years!</p>
+It looks like technology is changing a lot. Google is coming up with some radical search changes to try and keep its business alive in the face of Artificial Intelligence rivals. Conservatives have started a campaign against transgender rights, which has surprised political leaders all over the world. In Sudan there are explosions happening in the capital and a lot of concern that a civil war could be on the way. On a happier note, Eliud Kipchoge holds the world record for marathon running, and hundreds of people and dogs gathered together in Boston to salute the therapy dog of Mile 3. There&#39;s a trial going on over at Fox News about false information concerning the 2020 election, and Ukraine is facing some trouble as Poland and Hungary ban imports of Ukrainian grain. Finally, there was an emotional ending to &#39;Phantom of the Opera&#39; after 35 years on Broadway.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Google Devising Radical Search Changes to Beat Back A.I. Rivals</h3>
