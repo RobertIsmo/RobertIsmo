@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 16, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now! In technology, Google is coming up with major changes to try and stay ahead of its artificial intelligence rivals. In the US, conservatives are experiencing a surge in anti-transgender mobilization. In Sudan, there is fear of civil war brewing as explosions rock the capital. On the sports front, Eliud Kipchoge has shattered marathon records and golden retrievers have gathered to salute an inspiring therapy dog. There have also been legal proceedings in Delaware against Fox News for false coverage about the 2020 elections. Meanwhile in Ukraine, some soldiers are freezing their sperm in a act of national defiance against Russia, who has barred imports of Ukrainian grain throughout the European Union. Lastly, theater fans are saying goodbye to “The Phantom of the Opera” as it closes its record-breaking Broadway run at the Majestic Theater.</p>
+There has been a lot of news lately about exciting technological changes, debates over transgender rights, and ongoing wars in Sudan and Ukraine. Google is remodeling its search engine to stay competitive with artificial intelligence. At home, the religious right has mobilized against transgender people in reaction to the legalization of gay marriage. In Africa, political leaders are worried about Sudan erupting into civil war. And in Ukraine, Christians have gathered to celebrate Orthodox Easter amidst the shadows of war. On top of all that, the acclaimed musical Phantom of the Opera just had its final Broadway performance after 35 years!</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Google Devising Radical Search Changes to Beat Back A.I. Rivals</h3>
@@ -82,7 +82,7 @@ There is a lot going on around the world right now! In technology, Google is com
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Tracking the Fighting in Sudan: Maps and Videos</h3>
-<sub>By Axel Boada, Lazaro Gamio, Marco Hernandez, Guillermo Hernandez Martinez, Lauren Leatherby and Nailah Morgan</sub>
+<sub>By Axel Boada, Lazaro Gamio, Marco Hernandez, Guillermo Hernandez Martinez, Lauren Leatherby, Nailah Morgan, Scott Reinhard, Declan Walsh, Abdi Latif Dahir and Christoph Koettl</sub>
 <p>It was unclear who was in control of the country after widespread fighting between rival factions of the military.  <a href="https://nyti.ms/3zZR8BM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
@@ -117,21 +117,21 @@ There is a lot going on around the world right now! In technology, Google is com
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>When Freezing Sperm Makes a Patriotic Statement</h3>
-<sub>By Emma Bubola</sub>
-<p>Some Ukrainian soldiers are trying to ensure that even if they die in the war, their partners can still build families. They also want to send Russia a message of defiance.  <a href="https://nyti.ms/3mFTLG3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>E.U. Cries Foul as Poland and Hungary Ban Ukraine Grain Imports</h3>
 <sub>By Matthew Mpoke Bigg, Vivek Shankar and Enjoli Liston</sub>
 <p>The European Union lifted tariffs on Ukrainian grain last year. But farmers say they are suffering from a glut of produce in Europe.  <a href="https://nyti.ms/3ohnlSI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Under the Shadow of War, Kyiv Celebrates Orthodox Easter</h3>
+<sub>By Brendan Hoffman and Matthew Mpoke Bigg</sub>
+<p>Thousands of Christians gathered in the Ukrainian capital to mark Holy Week, one year after Ukraine’s army forced Russian troops back from the area around Kyiv.  <a href="https://nyti.ms/3A2yQjr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>Fans Gather as ‘Phantom’ Ends a Record Broadway Run</h3>
+<h3>With Cheers and Tears, ‘Phantom of the Opera’ Ends Record Broadway Run</h3>
 <sub>By Michael Paulson</sub>
-<p>The final day of “The Phantom of the Opera” was both jubilant and tear-stained as theatergoers bid it farewell. It is closing its run at the Majestic Theater on an unusually high note.  <a href="https://nyti.ms/43ESoYC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The show’s record-breaking 35-year Broadway run came to an end on Sunday night. Its famous chandelier got a bow, and its composer, Andrew Lloyd Webber, spoke after its emotional final performance.  <a href="https://nyti.ms/43ESoYC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
