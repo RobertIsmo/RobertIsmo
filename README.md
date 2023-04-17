@@ -60,10 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 17, Central Standard Time</p>
 <p>
-To start, there is tension between Russia and Ukraine on their border, with NATO preparing for potential combat. Additionally, in Sudan, rival factions of the military have been fighting and it is unclear who is in control. On the sports front, Kenyan runner Hellen Obiri has moved to Colorado to try and win a marathon while Eliud Kipchoge is set to tackle the tricky Boston Marathon. In terms of business news, Fox News has gone up against the voting machine company Dominion in a $1.6 billion defamation case. Meanwhile in the US, Republican Jim Jordan has risen to power and is facing criticism from both sides amidst an alleged sex abuse scandal. Additionally, there are new electric car tax breaks which favor US-made vehicles and Joe Biden is being pushed to launch his 2024 campaign sooner. Finally, people are noticing office crushes as everything remains largely unknown.</p>
+Currently, some alarming news is occurring in the U.S., as federal agencies were warned of child labor risks but this was ignored or missed. On the political front, Republican Speaker McCarthy has proposed a one-year debt ceiling increase tied to spending cuts, clashing with the Biden Administration. More globally, the invasion of Ukraine by Russia has revolutionized NATO military strategy and there is widespread fighting between rival factions of the military in Sudan. On the sports side, a top runner is attempting to become dominant in the marathon by moving from Kenya to Boulder, Colorado. And in business news, FOX is on trial for defamation with Dominion Voting Systems as well as a recent tax break for U.S. car companies for electric cars made here and abroad with minerals only from the US or trade allies. Lastly, over in Texas, two children survived a gunman shooting at two classrooms leaving 19 dead and those two children are still trying to recover a year later.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Was Warned of Migrant Child Labor, but ‘Didn’t Want to Hear It’</h3>
+<sub>By Hannah Dreier</sub>
+<p>The White House and federal agencies were repeatedly alerted to signs of children at risk. The warnings were ignored or missed.  <a href="https://nyti.ms/3UKFip2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy Proposes One-Year Debt Ceiling Increase Tied to Spending Cuts</h3>
+<sub>By Catie Edmondson and Jim Tankersley</sub>
+<p>Clashing with President Biden, who has called for a debt limit hike with no conditions, the Republican speaker went to Wall Street to pitch what he called a “responsible, sensible” solution.  <a href="https://nyti.ms/3L5HfJj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Russia’s Invasion of Ukraine, NATO Readies for Combat on Its Borders</h3>
+<h3>Russian Invasion of Ukraine Revolutionizes NATO Military Strategy</h3>
 <sub>By Steven Erlanger</sub>
 <p>Shocked by Russian atrocities, NATO is becoming the war-fighting alliance it was during the Cold War, committed to defending “every inch” of its territory from Day 1.  <a href="https://nyti.ms/3L2WbrI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
@@ -80,16 +92,10 @@ To start, there is tension between Russia and Ukraine on their border, with NATO
 <p>Hellen Obiri moved from Kenya to Boulder, Colo., to chase a running accomplishment she has yet to achieve: dominance in the marathon.  <a href="https://nyti.ms/41bqYs1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Eliud Kipchoge’s Next Feat: The Tactical Boston Marathon</h3>
-<sub>By Matthew Futterman</sub>
-<p>The Boston Marathon, a tricky, hilly beast of a course, has humbled legends in the past. Can this master of speed tackle Heartbreak Hill?  <a href="https://nyti.ms/3oiEqM3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Judge Delays Fox and Dominion Trial by a Day</h3>
 <sub>By Jeremy W. Peters and Katie Robertson</sub>
-<p>Opening statements in the $1.6 billion defamation case against Fox News were set to begin on Monday.  <a href="https://nyti.ms/40cVlwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Opening statements in Dominion Voting Systems’ $1.6 billion defamation case against Fox News were set to begin on Monday.  <a href="https://nyti.ms/40cVlwL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,29 +116,23 @@ To start, there is tension between Russia and Ukraine on their border, with NATO
 <p>Republicans argue Alvin Bragg, the district attorney, has allowed a crime crisis to flourish in New York. But data shows that, after a pandemic spike, crime is down slightly in the city.  <a href="https://nyti.ms/40iwt6K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a Missed Tummy Tuck in Mexico Led to a Deadly Kidnapping</h3>
+<sub>By Jacey Fortin</sub>
+<p>Latavia McGee is one of many Americans who have sought cosmetic surgery south of the border. She and three friends met gunfire and a chaotic abduction that left two of them dead.  <a href="https://nyti.ms/41cKYKT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Two Children, a Burst of Gunfire and the Year That Came After</h3>
+<sub>By Edgar Sandoval and Tamir Kalifa</sub>
+<p>When a gunman opened fire in two classrooms in Uvalde, Texas, 19 children died. Two fourth graders wounded in the massacre are still trying to recover.  <a href="https://nyti.ms/3GPUfAl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. Car Brands Will Benefit Most From Electric Car Tax Breaks</h3>
 <sub>By Jack Ewing</sub>
 <p>Rules that take effect on Tuesday will limit the $7,500 credits to electric cars made domestically with minerals from the U.S. or trade allies.  <a href="https://nyti.ms/41afx3E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Joe Biden Has Slow-Walked His Way to a 2024 Run</h3>
-<sub>By Shane Goldmacher and Reid J. Epstein</sub>
-<p>Closed-door meetings about when to roll out the president’s campaign are intensifying. Still, with no serious primary challenge and Republicans infighting, he feels little pressure.  <a href="https://nyti.ms/408IT16"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>It’s Beginning to Look a Lot Like 2024</h3>
-<sub>By Maggie Astor</sub>
-<p>Candidates are visiting early primary states, attending cattle calls and holding donor summits. The nascent campaign seems to be kicking into gear.  <a href="https://nyti.ms/3KHNBgv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Thrill of the Office Crush</h3>
-<sub>By Roxane Gay</sub>
-<p>When everything is still possible, take a moment to enjoy a work crush. Just don’t do anything unwise, or illegal.  <a href="https://nyti.ms/41dVIIG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
