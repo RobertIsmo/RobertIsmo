@@ -60,10 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 18, Central Standard Time</p>
 <p>
-The world is experiencing a lot of conflict right now. In Russia, Western technology goods have been winding up in missiles, raising questions about the efficacy of sanctions against them. In Moscow, an American named Evan Gershkovich has made his first court appearance since he was detained last month. Diplomats from the Group of 7 nations held a meeting and came to agreement on how to proceed with Russian aggression in Ukraine and Chinese assertiveness. Here in the U.S., the FBI is building a war crimes case against Syrian officials for their role in a brutal detention and torture system under President Bashar al-Assad. Additionally, there is a case involving an 84-year-old being charged in the shooting of a Black teenager who went to the wrong house and another man charged with murder in the shooting of a woman who went up a wrong driveway in upstate New York. Meanwhile, Mexico has become the biggest user of a notorious spy tool called Pegasus. Finally, there have been satellite launches that could potentially threaten astronomy but some scientists see this as an opportunity for research into things like gamma rays and space weather. Lastly, there is chaos erupting in Sudan between two military factions causing plans for transition to a civilian-led democracy to be put on hold.</p>
+There is a lot of unrest in the world right now. In Russia, there have been questions raised about sanctions after Western technology goods have been found in Russian missiles. An American was recently detained in Moscow and appeared in court for the first time after being arrested last month. Meanwhile, top diplomats discussed policies on Russia&#39;s war against Ukraine and China&#39;s assertiveness. Mexico has become the biggest user of a very controversial spy tool called Pegasus despite promising to stop using it. On the domestic front, there is an upcoming possible debt crisis in the US that Wall Street isn&#39;t paying much attention to yet, and a 16-year-old was reportedly shot by a man who still hasn&#39;t been arrested. There was also a murder in upstate New York involving a person who wandered into the wrong driveway. Lastly, there has been news about Sudan with reports of chaos, as well as an ex-boyband member alleging he was raped by the father of the Menendez brothers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. and E.U. Face Uphill Fight in Keeping Chips Out of Russia</h3>
+<h3>Russia Is Importing Western Weapons Technology, Bypassing Sanctions</h3>
 <sub>By Ana Swanson and Matina Stevis-Gridneff</sub>
 <p>Western technology goods are winding up in Russian missiles, raising questions about the efficacy of sanctions.  <a href="https://nyti.ms/3UMJMet"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
@@ -80,17 +80,17 @@ The world is experiencing a lot of conflict right now. In Russia, Western techno
 <p>The foreign ministers of the Group of 7 nations affirmed their shared visions on Russia’s war on Ukraine and China’s assertiveness after talk flared this month over different strategies.  <a href="https://nyti.ms/3UMrBpt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After American’s Killing in Syria, F.B.I. Builds War Crimes Case Against Top Officials</h3>
-<sub>By Katie Benner and Adam Goldman</sub>
-<p>The inquiry aims to hold to account Syrian officials considered key architects of a brutal system of detention and torture that has flourished under President Bashar al-Assad.  <a href="https://nyti.ms/3GSnbaN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>As Possible Debt Limit Crisis Nears, Wall Street Shrugs</h3>
+<sub>By Jim Tankersley</sub>
+<p>Few investors have focused on the possibility that Congress will not raise the nation’s borrowing limit in time to avoid an economically catastrophic default.  <a href="https://nyti.ms/40lJfS5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>84-Year-Old Is Charged in Shooting of Black Teenager Who Went to Wrong House</h3>
-<sub>By Livia Albeck-Ripka, Patrick LaForge and Christine Hauser</sub>
-<p>Lawyers for the family of Ralph Yarl, 16, said he was critically injured when he was shot twice in Kansas City, Mo.  <a href="https://nyti.ms/3A61e4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<h3>What We Know About the Ralph Yarl Shooting in Kansas City</h3>
+<sub>By Derrick Bryson Taylor, Julie Bosman and Mitch Smith</sub>
+<p>The man charged in the shooting of a 16-year-old in Missouri has not been taken into custody, and the authorities said his whereabouts remained unknown.  <a href="https://nyti.ms/3L5RNXR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Man Charged With Murder in Shooting of Woman Who Went Up Wrong Driveway</h3>
@@ -98,41 +98,41 @@ The world is experiencing a lot of conflict right now. In Russia, Western techno
 <p>Kevin Monahan shot Kaylin Gillis, 20, when she and several friends wound up outside his house in a rural part of upstate New York, the authorities said.  <a href="https://nyti.ms/3ojvfuM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Tried to Bury Her. Now She’s Helping Trump Try to Bury Him.</h3>
+<sub>By Matt Flegenheimer, Maggie Haberman and Michael C. Bender</sub>
+<p>Susie Wiles helped Ron DeSantis become governor of Florida, but he turned against her and banished her from his orbit. Donald Trump was all too happy to bring her in from the cold.  <a href="https://nyti.ms/3ollnRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>What Was Twitter, Anyway?</h3>
+<sub>By Willy Staley</sub>
+<p>Whether the platform is dying or not, it’s time to reckon with how exactly it broke our brains.  <a href="https://nyti.ms/3A8B7tw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Mexico Became the Biggest User of the World’s Most Notorious Spy Tool</h3>
-<sub>By Natalie Kitroeff and Ronen Bergman</sub>
-<p>A Times investigation reveals the story behind how Mexico became the first and most prolific user of Pegasus. It’s still using it, despite promising to stop.  <a href="https://nyti.ms/3A68jSf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The E.U.’s top humanitarian aid officer in Sudan was shot in Khartoum.</h3>
+<sub>By Matina Stevis-Gridneff and Declan Walsh</sub>
+<p>  <a href="https://nyti.ms/3UOXGgw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Cómo México se convirtió en el mayor usuario del programa de espionaje más conocida del mundo</h3>
-<sub>By Natalie Kitroeff and Ronen Bergman</sub>
-<p>Una investigación del Times revela cómo el país se convirtió en el usuario más prolífico de Pegasus. Todavía lo utiliza, a pesar de que el gobierno prometió dejar de espiar.  <a href="https://nyti.ms/3KIgARv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Courting the Sirens of the Southern Sky</h3>
-<sub>By Dennis Overbye and Marcos Zegers</sub>
-<p>These days it takes a generation to build a giant telescope. A new one is taking shape in the Atacama Desert in Chile.  <a href="https://nyti.ms/3mJqrOW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>From Bullets to ‘Bird Residue,’ the Many Trials of Telescopes</h3>
-<sub>By Dennis Overbye</sub>
-<p>Before an observatory can plumb the secrets of the cosmos, it must navigate more humbling challenges.  <a href="https://nyti.ms/3onBcqD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Satellites Threaten Astronomy, but a Few Scientists See an Opportunity</h3>
-<sub>By Lyndie Chiou</sub>
-<p>Mega-constellations built by SpaceX, Amazon and other companies could carry thousands of sensors that could aid research into gamma rays, space weather and other subjects.  <a href="https://nyti.ms/3L2CJeD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Sudan Erupts in Chaos: Who Is Battling for Control and Why It Matters</h3>
 <sub>By The New York Times</sub>
 <p>The strategically important country in northeastern Africa has been consumed by fighting between two military factions, with plans for a transition to a civilian-led democracy now in shambles.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Ex-Member of Menudo Says He Was Raped by Father of the Menendez Brothers</h3>
+<sub>By Matt Stevens</sub>
+<p>The allegation, made in a forthcoming docuseries, resembles the claims of abuse by the brothers, who were convicted in 1996 of murdering their parents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Mexico Became the Biggest User of the World’s Most Notorious Spy Tool</h3>
+<sub>By Natalie Kitroeff and Ronen Bergman</sub>
+<p>A Times investigation reveals the story behind how Mexico became the first and most prolific user of Pegasus. It’s still using it, despite promising to stop.  <a href="https://nyti.ms/3A68jSf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
