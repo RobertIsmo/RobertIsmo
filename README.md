@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 17, Central Standard Time</p>
 <p>
-Things have been pretty crazy in the world lately. In the US, there are allegations of the government ignoring warnings about exploited migrant children; politicians are debating how to manage the nation&#39;s debt; and a Republican House member is facing criminal investigations despite running for re-election. Overseas, Russia is invading Ukraine, sending a shockwave throughout NATO, and there is chaos erupting in Sudan that could potentially disrupt an entire region. In sports, a top Kenyan runner has moved to Boulder, Colorado and is training for her first marathon. In the food world, a cookie chain called Crumbl is taking America by storm -- people can&#39;t decide if they love it or hate it!</p>
+There is a lot happening in the world right now. In the US, migrant children are being put to work and the government has been ignoring warnings. There was an 84-year-old man in Kansas City who was charged with shooting a black teenager. In Akron, Ohio, a grand jury declined to charge officers involved in a shooting death of a black man. Speaker of the House McCarthy proposed a one-year debt ceiling increase tied to spending cuts as an alternative to President Biden&#39;s proposal. Additionally, House Republicans held a field hearing and targeted district attorney in New York, claiming his policies had caused a crime spree. Additionally, Latavia McGee was one of many Americans who were kidnapped and two were killed after seeking cosmetic surgery in Mexico. Furthermore, 19 children lost their lives due to gun violence in Uvalde, Texas recently. Around the world, hospitals and aid groups have become targets in Sudan as two generals vying for power agreed to stand down and there is much violence among civilians. Additionally, there is a paramilitary group known as Rapid Support Forces fighting against the Sudanese Army. In running news, Boston Marathon bombing survivors celebrated 10 years after the attack with no overwhelming presence of bombings at the marathon this year while in Texas to New Jersey hazardous chemicals were transported which shed light on risks associated with plastics production growth. Lastly, two men have been charged by the FBI and accused of conspiring with the Chinese government and destroying evidence at police outpost located here in New York. </p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Was Warned of Migrant Child Labor, but ‘Didn’t Want to Hear It’</h3>
+<h3>As Migrant Children Were Put to Work, U.S. Ignored Warnings</h3>
 <sub>By Hannah Dreier</sub>
 <p>The White House and federal agencies were repeatedly alerted to signs of children at risk. The warnings were ignored or missed.  <a href="https://nyti.ms/3UKFip2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>84-Year-Old Is Charged in Shooting of Black Teenager Who Went to Wrong House</h3>
+<sub>By Livia Albeck-Ripka, Patrick LaForge and Christine Hauser</sub>
+<p>Lawyers for the family of Ralph Yarl, 16, said he was critically injured when he was shot twice in Kansas City, Mo.  <a href="https://nyti.ms/3A61e4c"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Grand Jury Decides Not to Charge Officers in Shooting Death of Jayland Walker</h3>
+<sub>By Michael Levenson and Jesus Jiménez</sub>
+<p>Mr. Walker, a 25-year-old Black man, was shot dozens of times after an attempted traffic stop and a chase in Akron, Ohio, last year.  <a href="https://nyti.ms/43J5bJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,22 +86,10 @@ Things have been pretty crazy in the world lately. In the US, there are allegati
 <p>Clashing with President Biden, who has called for raising the debt limit with no conditions, the Republican speaker went to Wall Street to pitch what he called a “responsible, sensible” solution.  <a href="https://nyti.ms/3L5HfJj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Says He Will Run for Re-election in 2024</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>Mr. Santos, a Republican House member from New York, has admitted to lying about parts of his biography and is facing several ethics and criminal inquiries.  <a href="https://nyti.ms/3oh03MK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Attacks Bragg on Crime at a Hearing in New York</h3>
-<sub>By Luke Broadwater and Hurubie Meko</sub>
-<p>Republicans argue Alvin Bragg, the district attorney, has allowed a crime crisis to flourish in New York. But data shows that, after a pandemic spike, crime is down slightly in the city.  <a href="https://nyti.ms/40iwt6K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Grand Jury Decides Not to Charge Officers in Shooting Death of Jayland Walker</h3>
-<sub>By Jesus Jiménez and Michael Levenson</sub>
-<p>Mr. Walker, a 25-year-old Black man, was shot dozens of times after an attempted traffic stop and chase in Akron, Ohio, last year.  <a href="https://nyti.ms/43J5bJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Republicans Attack Bragg, Spotlighting Crime Victims in New York</h3>
+<sub>By Luke Broadwater and Jonah E. Bromwich</sub>
+<p>House Republicans used a field hearing blocks from Alvin L. Bragg’s office to attack the district attorney and argue that his policies and statements had prompted a crime spree.  <a href="https://nyti.ms/3mzYHfL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,33 +105,33 @@ Things have been pretty crazy in the world lately. In the US, there are allegati
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Invasion of Ukraine Revolutionizes NATO Military Strategy</h3>
-<sub>By Steven Erlanger</sub>
-<p>Shocked by Russian atrocities, NATO is becoming the war-fighting alliance it was during the Cold War, committed to defending “every inch” of its territory from Day 1.  <a href="https://nyti.ms/3L2WbrI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Hospitals and Aid Groups Become Targets as Sudan Fighting Intensifies</h3>
+<sub>By Abdi Latif Dahir and Declan Walsh</sub>
+<p>Civilians are caught in the cross-fire, and two rival generals vying for power made it clear their forces had no intention of standing down.  <a href="https://nyti.ms/43E4LEm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Sudan Erupts in Chaos: Who Is Battling for Control and Why It Matters</h3>
-<sub>By The New York Times</sub>
-<p>The strategically important country in northeastern Africa has been consumed by fighting between two military factions, with plans for a transition to a civilian-led democracy now in shambles.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<h3>Who are the Rapid Support Forces, the paramilitary group fighting the Sudanese Army?</h3>
+<sub>By Elian Peltier and Abdi Latif Dahir</sub>
+<p>  <a href="https://nyti.ms/3UHnjzu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>To Speed Up, a Top Runner Is (Kind of) Slowing Down</h3>
-<sub>By Talya Minsberg and Scott Cacciola</sub>
-<p>Hellen Obiri moved from Kenya to Boulder, Colo., to chase a running accomplishment she has yet to achieve: dominance in the marathon.  <a href="https://nyti.ms/41bqYs1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<h3>Boston Strong, 10 Years On</h3>
+<sub>By Matthew Futterman</sub>
+<p>It might be the greatest victory of this city and the world running community that the marathon bombings a decade ago had far from an overwhelming presence in Monday’s race.  <a href="https://nyti.ms/41zlwPh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Texas to New Jersey: Tracking the Toxic Chemicals in the Ohio Train Inferno</h3>
+<sub>By HIROKO TABUCHI</sub>
+<p>Tankers of vinyl chloride were going halfway across the country, government records show, a trip highlighting the risks of transporting chemicals as plastics production grows.  <a href="https://nyti.ms/40aZUb3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>F.B.I. Arrests Two on Charges Tied to Chinese Police Outpost in New York</h3>
 <sub>By William K. Rashbaum and Karen Zraick</sub>
 <p>Federal prosecutors in Brooklyn charged the men with conspiring with the Chinese government and destroying evidence.  <a href="https://nyti.ms/3HdfhsX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Are Crumbl Cookies the Best or the Worst? It Doesn’t Matter.</h3>
-<sub>By Priya Krishna</sub>
-<p>The fastest-growing dessert chain in the United States has sweets lovers divided. But the debate is great for business.  <a href="https://nyti.ms/3L6O3qe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
