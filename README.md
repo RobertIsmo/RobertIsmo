@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, April 17, Central Standard Time</p>
+<p>It is Tuesday, April 18, Central Standard Time</p>
 <p>
-It&#39;s been an eventful few weeks in the world! In the US, there have been some troubling cases of children being used for labor and the government being warned about the risk of doing so. An 84 year old was even charged with shooting a black teenager who went to the wrong house. A man has also been charged with a woman&#39;s murder who ended up at his house by mistake in upstate New York. There was also the case of Jayland Walker, a 25 year old Black man who was shot dozens of times after an attempted traffic stop and chase in Akron, Ohio. 
-
-Elsewhere, China has started recovering from its economic halt due to Covid-19. It seems like a fierce &quot;price war&quot; over electric cars has erupted in China too. There have also been debates about Crumbl Cookies being the best or worst but that doesn&#39;t seem to matter as it helps their business. On the political tip, McCarthy has proposed a one-year debt ceiling increase tied to spending cuts, and Republicans are attacking Bragg in New York for recent crimes happening in his district. Lastly, Robert F Kennedy Jr is soon gonna announce his white house run but he has been sowing doubts about vaccinations by twisting facts out of context which isn&#39;t helping anyone. Lastly, there was a tragic story about Latavia McGee who met gunshot and violent kidnap after going to Mexico for a tummy tuck – leaving two of her friends dead. 2 fourth graders were also left wounded after a gunman opened fire in their classroom in Texas last year and they still try to see the light of day.</p>
+The world right now is a complicated place, with a lot of news that can be tough to make sense of. In the US, we&#39;re seeing migrant children put to work while people in positions of power failed to act, an 84-year-old being charged with shooting a black teenager who went to the wrong house, and a man charged with murder for shooting a woman who went up the wrong driveway. Meanwhile, in China there&#39;s an economic recovery underway as price wars over electric cars erupt and Wall Street is seeing proposals to tie debt ceiling increases to spending cuts. And here in the US, Republicans are targeting District Attorneys and there was no indictment against the officer involved in Jayland Walker&#39;s shooting death. Lastly, there was a tragic story about Latavia McGee from Mexico whose attempt at getting a tummy tuck led to a kidnapping and two deaths.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Migrant Children Were Put to Work, U.S. Ignored Warnings</h3>
@@ -82,28 +80,28 @@ Elsewhere, China has started recovering from its economic halt due to Covid-19. 
 <p>Kevin Monahan shot Kaylin Gillis, 20, when she and several friends wound up outside his house in a rural part of upstate New York, the authorities said.  <a href="https://nyti.ms/3ojvfuM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Grand Jury Decides Not to Charge Officers in Shooting Death of Jayland Walker</h3>
-<sub>By Michael Levenson and Jesus Jiménez</sub>
-<p>Mr. Walker, a 25-year-old Black man, was shot dozens of times after an attempted traffic stop and a chase in Akron, Ohio, last year.  <a href="https://nyti.ms/43J5bJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Are Crumbl Cookies the Best or the Worst? It Doesn’t Matter.</h3>
+<sub>By Priya Krishna</sub>
+<p>The fastest-growing dessert chain in the United States has sweets lovers divided. But the debate is great for business.  <a href="https://nyti.ms/3L6O3qe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hospitals and Aid Groups Become Targets as Sudan Fighting Intensifies</h3>
+<sub>By Abdi Latif Dahir and Declan Walsh</sub>
+<p>Civilians are caught in the cross-fire, and two rival generals vying for power made it clear their forces had no intention of standing down.  <a href="https://nyti.ms/43E4LEm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘Zero Covid’ Behind It, China’s Economy Starts to Recover</h3>
+<h3>With ‘Zero Covid’ Behind It, China’s Economy Starts to Recover</h3>
 <sub>By Keith Bradsher</sub>
-<p>The economy grew 4.5 percent in the first three months of the year, a pickup from the end of 2022, when the relaxation of pandemic prevention measures led to a wave of illness.  <a href="https://nyti.ms/3MNpHmn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The economy grew 4.5 percent in the first three months of the year, a sizable pickup from the end of 2022, when the relaxation of pandemic prevention measures led to a wave of illness.  <a href="https://nyti.ms/3MNpHmn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Buy Now and Save! Price War Over Electric Cars Erupts in China.</h3>
 <sub>By Claire Fu and Daisuke Wakabayashi</sub>
 <p>The intense competition among the country’s huge number of start-up carmakers has unsettled what had been a pillar of the economy in the last few years.  <a href="https://nyti.ms/3L39yaf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Are Crumbl Cookies the Best or the Worst? It Doesn’t Matter.</h3>
-<sub>By Priya Krishna</sub>
-<p>The fastest-growing dessert chain in the United States has sweets lovers divided. But the debate is great for business.  <a href="https://nyti.ms/3L6O3qe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -119,6 +117,12 @@ Elsewhere, China has started recovering from its economic halt due to Covid-19. 
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Grand Jury Decides Not to Charge Officers in Shooting Death of Jayland Walker</h3>
+<sub>By Michael Levenson and Jesus Jiménez</sub>
+<p>Mr. Walker, a 25-year-old Black man, was shot dozens of times after an attempted traffic stop and a chase in Akron, Ohio, last year.  <a href="https://nyti.ms/43J5bJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Robert F. Kennedy Jr., Soon to Announce White House Run, Sows Doubts About Vaccines</h3>
 <sub>By Sheryl Gay Stolberg</sub>
 <p>Mr. Kennedy, a Democrat who plans to kick off his campaign this week, says he wants to make vaccines safer, but he is spreading misinformation by twisting facts out of context.  <a href="https://nyti.ms/3UGy1GG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -128,12 +132,6 @@ Elsewhere, China has started recovering from its economic halt due to Covid-19. 
 <h3>How a Missed Tummy Tuck in Mexico Led to a Deadly Kidnapping</h3>
 <sub>By Jacey Fortin</sub>
 <p>Latavia McGee is one of many Americans who have sought cosmetic surgery south of the border. She and three friends met gunfire and a chaotic abduction that left two of them dead.  <a href="https://nyti.ms/41cKYKT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Two Children, a Burst of Gunfire and the Year That Came After</h3>
-<sub>By Edgar Sandoval and Tamir Kalifa</sub>
-<p>When a gunman opened fire in two classrooms in Uvalde, Texas, 19 children died. Two fourth graders wounded in the massacre are still trying to recover.  <a href="https://nyti.ms/3GPUfAl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
