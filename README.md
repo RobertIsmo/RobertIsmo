@@ -60,16 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 18, Central Standard Time</p>
 <p>
-It&#39;s been a tough year, but lately there&#39;ve been several alarming stories in the news. To start with, the U.S. government ignored warnings that migrant children were being put to work, even though they were at risk. Furthermore, an 84-year-old was charged with shooting a black teenager who went to the wrong house in Kansas City. In upstate New York a man was also charged with murder after shooting a woman who went up the wrong driveway.
+There are a lot of goings-on in the world right now. In the US, an FBI inquiry is underway to hold Syrian officials&#39;s accountable for war crimes like torture and detention. An 84 year old man has been charged with shooting a Black teenager who went to the wrong house and a man in upstate New York is charged with murder after shooting a woman who went up the wrong driveway. 
 
-The violence continues as fighting intensifies in Sudan and hospitals and aid groups have become targets. Fortunately, on the economic front things are looking up for China and it reported 4.5% growth in the first three months of 2021 due to pandemic prevention measures being relaxed. One area where prices have dropped is in electric cars in China as fierce competition among start-up carmakers has led to great bargains.
+In international news, there has been talk over different strategies regarding Russia’s war on Ukraine and China’s assertiveness among Group of 7 nations. There have been complications for regular people due to European Union blacklists of people linked to the war. Also, Mexico has become the biggest user of a controversial spy tool called Pegasus.
 
-Back home, Speaker McCarthy proposed a one-year debt ceiling increase with spending cuts attached, which is different from President Biden&#39;s approach of raising the debt limit without conditions. Meanwhile, Republicans have attacked district attorney Bragg for policies that may have prompted crime in New York and there was no legal action taken against police officers after the shooting death of Jayland Walker in Akron, Ohio. Finally, Robert F Kennedy Jr., who&#39;s about to announces his White House run, has exacerbated via spreading misinformation on vaccine safety while Latavia McGee tragically experienced gunfire and abduction while trying to get a tummy tuck overseas, leading to two deaths.</p>
+In science news, there&#39;s a new telescope being built in Chile and satellites could help research into space weather and other subjects.  Additionally, House Judiciary Committee just held a hearing recently on victims of violent crime in Manhattan. 
+
+And while Florida Governor Ron DeSantis tried to get rid of one of his helpers, Donald Trump was very happy to bring her in from exile.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Migrant Children Were Put to Work, U.S. Ignored Warnings</h3>
-<sub>By Hannah Dreier</sub>
-<p>The White House and federal agencies were repeatedly alerted to signs of children at risk. The warnings were ignored or missed.  <a href="https://nyti.ms/3UKFip2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After American’s Killing in Syria, F.B.I. Builds War Crimes Case Against Top Officials</h3>
+<sub>By Katie Benner and Adam Goldman</sub>
+<p>The inquiry aims to hold to account Syrian officials considered key architects of a brutal system of detention and torture that has flourished under President Bashar al-Assad.  <a href="https://nyti.ms/3GSnbaN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -84,59 +86,59 @@ Back home, Speaker McCarthy proposed a one-year debt ceiling increase with spend
 <p>Kevin Monahan shot Kaylin Gillis, 20, when she and several friends wound up outside his house in a rural part of upstate New York, the authorities said.  <a href="https://nyti.ms/3ojvfuM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Are Crumbl Cookies the Best or the Worst? It Doesn’t Matter.</h3>
-<sub>By Priya Krishna</sub>
-<p>The fastest-growing dessert chain in the United States has sweets lovers divided. But the debate is great for business.  <a href="https://nyti.ms/3L6O3qe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Wrong Mr. Kozlov: When Sanctions Spell Trouble for Regular People</h3>
+<sub>By Monika Pronczuk</sub>
+<p>After Russia invaded Ukraine, the European Union blacklisted about 1,500 people linked to the war. That has complicated the lives of those who share their sometimes fairly common names.  <a href="https://nyti.ms/3mG5NiC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Blinken and Top Allied Diplomats Stress Unity on Russia and China</h3>
+<sub>By Edward Wong</sub>
+<p>The foreign ministers of the Group of 7 nations discussed their shared visions on Russia’s war on Ukraine and China’s assertiveness after talk flared this month over different strategies.  <a href="https://nyti.ms/3UMrBpt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Mexico Became the Biggest User of the World’s Most Notorious Spy Tool</h3>
+<sub>By Natalie Kitroeff and Ronen Bergman</sub>
+<p>A Times investigation reveals the story behind how Mexico became the first and most prolific user of Pegasus. It’s still using it, despite promising to stop.  <a href="https://nyti.ms/3A68jSf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Courting the Sirens of the Southern Sky</h3>
+<sub>By Dennis Overbye and Marcos Zegers</sub>
+<p>These days it takes a generation to build a giant telescope. A new one is taking shape in the Atacama Desert in Chile.  <a href="https://nyti.ms/3mJqrOW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>From Bullets to ‘Bird Residue,’ the Many Trials of Telescopes</h3>
+<sub>By Dennis Overbye</sub>
+<p>Before an observatory can plumb the secrets of the cosmos, it must navigate more humbling challenges.  <a href="https://nyti.ms/3onBcqD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Satellites Threaten Astronomy, but a Few Scientists See an Opportunity</h3>
+<sub>By Lyndie Chiou</sub>
+<p>Mega-constellations built by SpaceX, Amazon and other companies could carry thousands of sensors that could aid research into gamma rays, space weather and other subjects.  <a href="https://nyti.ms/3L2CJeD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hospitals and Aid Groups Become Targets as Sudan Fighting Intensifies</h3>
-<sub>By Abdi Latif Dahir and Declan Walsh</sub>
-<p>Civilians are caught in the cross-fire, and two rival generals vying for power made it clear their forces had no intention of standing down.  <a href="https://nyti.ms/43E4LEm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>With ‘Zero Covid’ Behind It, China’s Economy Starts to Recover</h3>
-<sub>By Keith Bradsher</sub>
-<p>The economy grew 4.5 percent in the first three months of the year, a sizable pickup from the end of 2022, when the relaxation of pandemic prevention measures led to a wave of illness.  <a href="https://nyti.ms/3MNpHmn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Buy Now and Save! Price War Over Electric Cars Erupts in China.</h3>
-<sub>By Claire Fu and Daisuke Wakabayashi</sub>
-<p>The intense competition among the country’s huge number of start-up carmakers has unsettled what had been a pillar of the economy in the last few years.  <a href="https://nyti.ms/3L39yaf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<h3>U.S. and European Officials Come Under Attack in Sudan</h3>
+<sub>By Edward Wong and Declan Walsh</sub>
+<p>The violence against foreign officials, who are usually not targeted, highlighted how much the security situation has worsened in Khartoum in recent days.  <a href="https://nyti.ms/40jAubg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Proposes One-Year Debt Ceiling Increase Tied to Spending Cuts</h3>
-<sub>By Catie Edmondson and Jim Tankersley</sub>
-<p>Clashing with President Biden, who has called for raising the debt limit with no conditions, the Republican speaker went to Wall Street to pitch what he called a “responsible, sensible” solution.  <a href="https://nyti.ms/3L5HfJj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<h3>DeSantis Tried to Bury Her. Now She’s Helping Trump Try to Bury Him.</h3>
+<sub>By Matt Flegenheimer, Maggie Haberman and Michael C. Bender</sub>
+<p>Susie Wiles helped Ron DeSantis become governor of Florida, but he turned against her and banished her from his orbit. Donald Trump was all too happy to bring her in from the cold.  <a href="https://nyti.ms/3ollnRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Attack Bragg, Spotlighting Crime Victims in New York</h3>
-<sub>By Luke Broadwater and Jonah E. Bromwich</sub>
-<p>House Republicans used a field hearing blocks from Alvin L. Bragg’s office to attack the district attorney and argue that his policies and statements had prompted a crime spree.  <a href="https://nyti.ms/3mzYHfL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Grand Jury Decides Not to Charge Officers in Shooting Death of Jayland Walker</h3>
-<sub>By Michael Levenson and Jesus Jiménez</sub>
-<p>Mr. Walker, a 25-year-old Black man, was shot dozens of times after an attempted traffic stop and a chase in Akron, Ohio, last year.  <a href="https://nyti.ms/43J5bJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Robert F. Kennedy Jr., Soon to Announce White House Run, Sows Doubts About Vaccines</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>Mr. Kennedy, a Democrat who plans to kick off his campaign this week, says he wants to make vaccines safer, but he is spreading misinformation by twisting facts out of context.  <a href="https://nyti.ms/3UGy1GG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Missed Tummy Tuck in Mexico Led to a Deadly Kidnapping</h3>
-<sub>By Jacey Fortin</sub>
-<p>Latavia McGee is one of many Americans who have sought cosmetic surgery south of the border. She and three friends met gunfire and a chaotic abduction that left two of them dead.  <a href="https://nyti.ms/41cKYKT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York Is a Hellscape, Republicans Say. A Cabby Told Them So.</h3>
+<sub>By Ginia Bellafante</sub>
+<p>A look at the stagecraft behind the House Judiciary Committee hearing on “Victims of Violent Crime in Manhattan.”  <a href="https://nyti.ms/3MRWJlr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
