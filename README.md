@@ -60,14 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 18, Central Standard Time</p>
 <p>
-There are a lot of goings-on in the world right now. In the US, an FBI inquiry is underway to hold Syrian officials&#39;s accountable for war crimes like torture and detention. An 84 year old man has been charged with shooting a Black teenager who went to the wrong house and a man in upstate New York is charged with murder after shooting a woman who went up the wrong driveway. 
-
-In international news, there has been talk over different strategies regarding Russia’s war on Ukraine and China’s assertiveness among Group of 7 nations. There have been complications for regular people due to European Union blacklists of people linked to the war. Also, Mexico has become the biggest user of a controversial spy tool called Pegasus.
-
-In science news, there&#39;s a new telescope being built in Chile and satellites could help research into space weather and other subjects.  Additionally, House Judiciary Committee just held a hearing recently on victims of violent crime in Manhattan. 
-
-And while Florida Governor Ron DeSantis tried to get rid of one of his helpers, Donald Trump was very happy to bring her in from exile.</p>
+The world is experiencing a lot of conflict right now. In Russia, Western technology goods have been winding up in missiles, raising questions about the efficacy of sanctions against them. In Moscow, an American named Evan Gershkovich has made his first court appearance since he was detained last month. Diplomats from the Group of 7 nations held a meeting and came to agreement on how to proceed with Russian aggression in Ukraine and Chinese assertiveness. Here in the U.S., the FBI is building a war crimes case against Syrian officials for their role in a brutal detention and torture system under President Bashar al-Assad. Additionally, there is a case involving an 84-year-old being charged in the shooting of a Black teenager who went to the wrong house and another man charged with murder in the shooting of a woman who went up a wrong driveway in upstate New York. Meanwhile, Mexico has become the biggest user of a notorious spy tool called Pegasus. Finally, there have been satellite launches that could potentially threaten astronomy but some scientists see this as an opportunity for research into things like gamma rays and space weather. Lastly, there is chaos erupting in Sudan between two military factions causing plans for transition to a civilian-led democracy to be put on hold.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. and E.U. Face Uphill Fight in Keeping Chips Out of Russia</h3>
+<sub>By Ana Swanson and Matina Stevis-Gridneff</sub>
+<p>Western technology goods are winding up in Russian missiles, raising questions about the efficacy of sanctions.  <a href="https://nyti.ms/3UMJMet"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Evan Gershkovich makes his first court appearance in Moscow, where a judge upheld his detention.</h3>
+<sub>By Ivan Nechepurenko and Anton Troianovski</sub>
+<p>It was the first time Mr. Gershkovich, a 31-year-old American, was seen clearly since he was detained last month.  <a href="https://nyti.ms/3ol2w94"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Blinken and Top Diplomats Stress Unity on Russia and China</h3>
+<sub>By Edward Wong</sub>
+<p>The foreign ministers of the Group of 7 nations affirmed their shared visions on Russia’s war on Ukraine and China’s assertiveness after talk flared this month over different strategies.  <a href="https://nyti.ms/3UMrBpt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After American’s Killing in Syria, F.B.I. Builds War Crimes Case Against Top Officials</h3>
 <sub>By Katie Benner and Adam Goldman</sub>
@@ -87,21 +99,15 @@ And while Florida Governor Ron DeSantis tried to get rid of one of his helpers, 
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Wrong Mr. Kozlov: When Sanctions Spell Trouble for Regular People</h3>
-<sub>By Monika Pronczuk</sub>
-<p>After Russia invaded Ukraine, the European Union blacklisted about 1,500 people linked to the war. That has complicated the lives of those who share their sometimes fairly common names.  <a href="https://nyti.ms/3mG5NiC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken and Top Allied Diplomats Stress Unity on Russia and China</h3>
-<sub>By Edward Wong</sub>
-<p>The foreign ministers of the Group of 7 nations discussed their shared visions on Russia’s war on Ukraine and China’s assertiveness after talk flared this month over different strategies.  <a href="https://nyti.ms/3UMrBpt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Mexico Became the Biggest User of the World’s Most Notorious Spy Tool</h3>
 <sub>By Natalie Kitroeff and Ronen Bergman</sub>
 <p>A Times investigation reveals the story behind how Mexico became the first and most prolific user of Pegasus. It’s still using it, despite promising to stop.  <a href="https://nyti.ms/3A68jSf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Cómo México se convirtió en el mayor usuario del programa de espionaje más conocida del mundo</h3>
+<sub>By Natalie Kitroeff and Ronen Bergman</sub>
+<p>Una investigación del Times revela cómo el país se convirtió en el usuario más prolífico de Pegasus. Todavía lo utiliza, a pesar de que el gobierno prometió dejar de espiar.  <a href="https://nyti.ms/3KIgARv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -123,22 +129,10 @@ And while Florida Governor Ron DeSantis tried to get rid of one of his helpers, 
 <sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. and European Officials Come Under Attack in Sudan</h3>
-<sub>By Edward Wong and Declan Walsh</sub>
-<p>The violence against foreign officials, who are usually not targeted, highlighted how much the security situation has worsened in Khartoum in recent days.  <a href="https://nyti.ms/40jAubg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Tried to Bury Her. Now She’s Helping Trump Try to Bury Him.</h3>
-<sub>By Matt Flegenheimer, Maggie Haberman and Michael C. Bender</sub>
-<p>Susie Wiles helped Ron DeSantis become governor of Florida, but he turned against her and banished her from his orbit. Donald Trump was all too happy to bring her in from the cold.  <a href="https://nyti.ms/3ollnRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York Is a Hellscape, Republicans Say. A Cabby Told Them So.</h3>
-<sub>By Ginia Bellafante</sub>
-<p>A look at the stagecraft behind the House Judiciary Committee hearing on “Victims of Violent Crime in Manhattan.”  <a href="https://nyti.ms/3MRWJlr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<h3>Sudan Erupts in Chaos: Who Is Battling for Control and Why It Matters</h3>
+<sub>By The New York Times</sub>
+<p>The strategically important country in northeastern Africa has been consumed by fighting between two military factions, with plans for a transition to a civilian-led democracy now in shambles.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
