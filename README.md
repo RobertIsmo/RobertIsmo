@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 18, Central Standard Time</p>
 <p>
-There is a lot of unrest in the world right now. In Russia, there have been questions raised about sanctions after Western technology goods have been found in Russian missiles. An American was recently detained in Moscow and appeared in court for the first time after being arrested last month. Meanwhile, top diplomats discussed policies on Russia&#39;s war against Ukraine and China&#39;s assertiveness. Mexico has become the biggest user of a very controversial spy tool called Pegasus despite promising to stop using it. On the domestic front, there is an upcoming possible debt crisis in the US that Wall Street isn&#39;t paying much attention to yet, and a 16-year-old was reportedly shot by a man who still hasn&#39;t been arrested. There was also a murder in upstate New York involving a person who wandered into the wrong driveway. Lastly, there has been news about Sudan with reports of chaos, as well as an ex-boyband member alleging he was raped by the father of the Menendez brothers.</p>
+Recently in world news, there have been a few high-profile court hearings and diplomatic talks. In Moscow, American Evan Gershkovich defended himself against detentions while Blinken and other senior diplomats discussed strategic plans for managing Russia&#39;s war on Ukraine and China&#39;s assertiveness. In Sudan, chaos has ensued with multiple military factions fighting for control, and the E.U.&#39;s top humanitarian aid officer was shot in Khartoum. Closer to home, Americans have faced turmoil of their own in relation to the possible debt limit crisis and the Republican party&#39;s abandonment of deficit fights. Out in Missouri, a 16-year-old boy was shot by the suspect who just recently turned himself in, while an accused murderer is being charged for shooting a woman in New York who mistakenly drove up the wrong driveway. Lastly, an ex-member of Menudo just accused the father of the Menendez brothers for rape allegations as stated in an upcoming docuseries. </p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Russia Is Importing Western Weapons Technology, Bypassing Sanctions</h3>
@@ -69,9 +69,9 @@ There is a lot of unrest in the world right now. In Russia, there have been ques
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Evan Gershkovich makes his first court appearance in Moscow, where a judge upheld his detention.</h3>
+<h3>Evan Gershkovich declares his innocence in a Moscow court, but his detention is upheld.</h3>
 <sub>By Ivan Nechepurenko and Anton Troianovski</sub>
-<p>It was the first time Mr. Gershkovich, a 31-year-old American, was seen clearly since he was detained last month.  <a href="https://nyti.ms/3ol2w94"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>It was the first time Mr. Gershkovich, a 31-year-old American, has been seen clearly since he was detained last month.  <a href="https://nyti.ms/3ol2w94"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -87,9 +87,15 @@ There is a lot of unrest in the world right now. In Russia, there have been ques
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Ralph Yarl Shooting in Kansas City</h3>
+<h3>The G.O.P.’s Fiscal Hawks Fly Far Away From Deficit Fights</h3>
+<sub>By Jonathan Weisman</sub>
+<p>After a decade of rising deficits and soaring debt, the top White House contenders, Donald Trump and Ron DeSantis, show little interest in battling over the nation’s finances.  <a href="https://nyti.ms/43HbfT6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Accused of Shooting Ralph Yarl Turns Himself In</h3>
 <sub>By Derrick Bryson Taylor, Julie Bosman and Mitch Smith</sub>
-<p>The man charged in the shooting of a 16-year-old in Missouri has not been taken into custody, and the authorities said his whereabouts remained unknown.  <a href="https://nyti.ms/3L5RNXR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The man charged in the shooting of a 16-year-old in Missouri was in police custody on Tuesday afternoon after being charged with first-degree assault.  <a href="https://nyti.ms/3L5RNXR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -126,12 +132,6 @@ There is a lot of unrest in the world right now. In Russia, there have been ques
 <h3>Ex-Member of Menudo Says He Was Raped by Father of the Menendez Brothers</h3>
 <sub>By Matt Stevens</sub>
 <p>The allegation, made in a forthcoming docuseries, resembles the claims of abuse by the brothers, who were convicted in 1996 of murdering their parents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Mexico Became the Biggest User of the World’s Most Notorious Spy Tool</h3>
-<sub>By Natalie Kitroeff and Ronen Bergman</sub>
-<p>A Times investigation reveals the story behind how Mexico became the first and most prolific user of Pegasus. It’s still using it, despite promising to stop.  <a href="https://nyti.ms/3A68jSf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
