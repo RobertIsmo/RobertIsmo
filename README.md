@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 18, Central Standard Time</p>
 <p>
-It looks like there is a lot going on in the world right now. Technology wise, Fox News has had to pay out an expensive settlement and make embarrassing disclosures after they broadcast false claims. There are also some legal cases against them, like libel and a discriminatory work environment. In US news, Susie Wiles helped a Governor get elected in Florida but he counter-acted by banning her from his circle; Donald Trump then offered her a spot in his team. Meanwhile, an Atlanta prosecutor has requested to remove a lawyer from the Trump case where ten Georgia Republicans have been trying to reverse the 2020 Presidential elections results. A tragic event recently occurred in Kansas City where a teenage boy was shot after mistakenly ringing a doorbell at the wrong house; further in New York, new details have emerged about a deadly shooting of another young woman after driving up the wrong driveway. Additionally, a Russian court rejected an appeal from a Wall Street Journal reporter who was detained for espionage accusations. The Pentagon is currently closely examining their procedures for handling classified information since it was recently revealed that an Air National Guard posted secrets online. Lastly, the Ukrainian and Russian presidents visited the military line between them where there has been fighting, trapping families in their homes with limited resources.  On Netflix&#39;s side too, they announced they&#39;re ending their DVD service even though they owe some of their success to it.</p>
+It seems like there is a lot of legal drama going on at the moment. Fox News recently settled a defamation case with Dominion Voting Systems for $787.5 million, and there are several other legal cases they&#39;re entangled in. In politics, Ron DeSantis, Florida&#39;s governor, is trying to rally support from his own party without much luck. Also in Florida, an 84-year-old homeowner has been charged with two felonies after fatally shooting a teen who rang their doorbell by accident. Upstate, details have emerged about a deadly shooting that took place in the wrong driveway. Finally, on the tech side of things, Netflix has announced that it will be ending its DVD service, while the FDA has authorized an additional Covid booster shot for people over 65.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fox Will Pay $787.5 Million to Settle Defamation Suit</h3>
+<sub>By Jeremy W. Peters and Katie Robertson</sub>
+<p>The settlement with Dominion Voting Systems was the latest extraordinary twist in a case that exposed the inner workings of the most powerful voice in conservative news.  <a href="https://nyti.ms/3UP99g3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>A $787.5 Million Settlement and Embarrassing Disclosures: The Costs of Airing a Lie</h3>
 <sub>By Jim Rutenberg and Katie Robertson</sub>
 <p>Fox News’s late-stage agreement with Dominion Voting Systems came with a rare acknowledgment of broadcasting false claims by the conservative media powerhouse.  <a href="https://nyti.ms/3AaO2va"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fox News’s settlement in the Dominion case is big news, except on Fox News.</h3>
+<sub>By Stuart A. Thompson</sub>
+<p>In about six minutes of coverage, the network acknowledged the $787.5 million settlement, then moved on to other topics.  <a href="https://nyti.ms/3GVyvTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -81,9 +93,9 @@ It looks like there is a lot going on in the world right now. Technology wise, F
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Atlanta Prosecutor Seeks Removal of Lawyer in Trump Case</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>The lawyer represents 10 Georgia Republicans who were part of a plan to reverse the results of the 2020 presidential election and keep Donald J. Trump in power.  <a href="https://nyti.ms/3KNiekO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Meets With Republicans on Capitol Hill, to a Lukewarm Response</h3>
+<sub>By Michael C. Bender and Annie Karni</sub>
+<p>Ron DeSantis has not managed much momentum from his party in Congress, where he served before becoming Florida’s governor.  <a href="https://nyti.ms/3KVDzsu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,40 +110,28 @@ It looks like there is a lot going on in the world right now. Technology wise, F
 <p>The man who fired on three vehicles that mistakenly drove up his driveway, killing a young woman, had a reputation as a sour character who did not like visitors.  <a href="https://nyti.ms/3onr6WN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Court Rejects Wall Street Journal Reporter’s Appeal</h3>
-<sub>By Ivan Nechepurenko and Anton Troianovski</sub>
-<p>It was the first time that Evan Gershkovich, a 31-year-old American, has been seen clearly since he was detained last month and accused of espionage.  <a href="https://nyti.ms/3ol2w94"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon Details Review of Policies for Handling Classified Information</h3>
-<sub>By John Ismay and Eric Schmitt</sub>
-<p>The Air Force also announced actions focused on security protocols following the arrest of an Air National Guardsman accused of posting classified documents online.  <a href="https://nyti.ms/3mDSCil"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky and Putin Make Dueling Trips to Front Line in Ukraine</h3>
-<sub>By Ivan Nechepurenko, Matthew Mpoke Bigg and Victoria Kim</sub>
-<p>The visits by the Ukrainian and Russian leaders came as both sought to display strength and confidence ahead of an anticipated Kyiv counteroffensive.  <a href="https://nyti.ms/41jV0K9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>What Was Twitter, Anyway?</h3>
 <sub>By Willy Staley</sub>
 <p>Whether the platform is dying or not, it’s time to reckon with how exactly it broke our brains.  <a href="https://nyti.ms/3A8B7tw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fighting in Sudan Traps Families as Generals Fail to Keep a Cease-Fire</h3>
-<sub>By Abdi Latif Dahir and Elian Peltier</sub>
-<p>Terrified to step outside because of firefights and bands of armed men in the streets, residents remain stuck in their homes with dwindling supplies of food, water and medicine.  <a href="https://nyti.ms/3mFc8uT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Netflix Will End Its DVD Service, 5.2 Billion Discs Later</h3>
 <sub>By Nicole Sperling</sub>
 <p>Sending movies through the mail, in recognizable red-and-white envelopes, helped the company become a behemoth in Hollywood.  <a href="https://nyti.ms/3mRHiit"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>F.D.A. Authorizes Another Covid Booster Shot for People Over 65</h3>
+<sub>By Christina Jewett</sub>
+<p>Seniors and people with compromised immune systems may get a second bivalent booster if at least four months have passed since their last one.  <a href="https://nyti.ms/41EFF6w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>One Dead in Parking Garage Collapse in Lower Manhattan</h3>
+<sub>By Ed Shanahan</sub>
+<p>A portion of the four-story Ann Street structure fell in, leaving cars stacked atop one another and rubble down to street level.  <a href="https://nyti.ms/3ojxONn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
