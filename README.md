@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 19, Central Standard Time</p>
 <p>
-It looks like India is now becoming the most populous country in the world, surpassing China. This could lead to big changes in the global economy, since India has a much younger work force that&#39;s expanding while China&#39;s age and contracts. On top of this, China&#39;s shrinking population is a potential problem that could lead to serious implications for everyone around the world. Meanwhile, Fox News recently settled with Dominion Voting Systems for $787.5 million over broadcasting false claims about the 2020 election. In other news, access to abortion pills could be limited as a case involving them moves through the Supreme Court. Also, an Attic Greek cup seized from a museum is at the center of investigations and debates about its restoration. Lastly, there&#39;ve been a few military and civilian tensions around the world—in Sudan two generals dinner together before turning on each other resulting in an unresolved conflict; and a similar issue happened in Kansas City when an 84-year old shooter mistakenly shot and killed a woman who had accidentally ended up in his driveway.</p>
+There have been a couple of big stories happening in the world recently. India is now estimated to have overtaken China as the world&#39;s most populous country, and this raises a lot of questions about its economy and international clout. In China, meanwhile, the population is shrinking and economists are concerned by what that may mean for the country and global economy. Also, Fox News recently had to settle with Dominion Voting Systems in a defamation lawsuit to the tune of $787.5 million, with some embarrassing revelations coming out about their coverage of the 2020 election. In the US specifically, there is an ongoing Supreme Court case concerning access to the abortion pill, while 84-year-old homeowner in Kansas City has been charged with two felonies after shooting a teen who rang their doorbell at the wrong house. Finally, tensions between Sudanese generals resulted in a war breaking out.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>India Is Passing China in Population. Can Its Economy Ever Do the Same?</h3>
@@ -98,6 +98,12 @@ It looks like India is now becoming the most populous country in the world, surp
 <p>In about six minutes of coverage, the network acknowledged the $787.5 million settlement, then moved on to other topics.  <a href="https://nyti.ms/3GVyvTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Plan to Get Rupert Murdoch to Pay Up</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>An owner of Dominion Voting Systems spoke about the company’s strategy that led Fox to agree to a $787.5 million defamation settlement.  <a href="https://nyti.ms/40nkFQT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court to Decide Availability of Abortion Pill as Appeal Moves Forward</h3>
 <sub>By Abbie VanSickle</sub>
@@ -126,12 +132,6 @@ It looks like India is now becoming the most populous country in the world, surp
 <h3>Shooting of Teen Who Rang Doorbell at Wrong House Unsettles Kansas City</h3>
 <sub>By Mitch Smith and Julie Bosman</sub>
 <p>Residents and friends of the victim were searching for answers as the 84-year-old homeowner surrendered to the authorities on two felony charges.  <a href="https://nyti.ms/40m9Uyf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New Details Emerge in Deadly Upstate Shooting of Woman in Wrong Driveway</h3>
-<sub>By Jesse McKinley, Hurubie Meko and Jay Root</sub>
-<p>The man who fired on three vehicles that mistakenly drove up his driveway, killing a young woman, had a reputation as a sour character who did not like visitors.  <a href="https://nyti.ms/3onr6WN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
