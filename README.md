@@ -60,54 +60,60 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 18, Central Standard Time</p>
 <p>
-Recently in world news, there have been a few high-profile court hearings and diplomatic talks. In Moscow, American Evan Gershkovich defended himself against detentions while Blinken and other senior diplomats discussed strategic plans for managing Russia&#39;s war on Ukraine and China&#39;s assertiveness. In Sudan, chaos has ensued with multiple military factions fighting for control, and the E.U.&#39;s top humanitarian aid officer was shot in Khartoum. Closer to home, Americans have faced turmoil of their own in relation to the possible debt limit crisis and the Republican party&#39;s abandonment of deficit fights. Out in Missouri, a 16-year-old boy was shot by the suspect who just recently turned himself in, while an accused murderer is being charged for shooting a woman in New York who mistakenly drove up the wrong driveway. Lastly, an ex-member of Menudo just accused the father of the Menendez brothers for rape allegations as stated in an upcoming docuseries. </p>
+It looks like there is a lot going on in the world right now. Technology wise, Fox News has had to pay out an expensive settlement and make embarrassing disclosures after they broadcast false claims. There are also some legal cases against them, like libel and a discriminatory work environment. In US news, Susie Wiles helped a Governor get elected in Florida but he counter-acted by banning her from his circle; Donald Trump then offered her a spot in his team. Meanwhile, an Atlanta prosecutor has requested to remove a lawyer from the Trump case where ten Georgia Republicans have been trying to reverse the 2020 Presidential elections results. A tragic event recently occurred in Kansas City where a teenage boy was shot after mistakenly ringing a doorbell at the wrong house; further in New York, new details have emerged about a deadly shooting of another young woman after driving up the wrong driveway. Additionally, a Russian court rejected an appeal from a Wall Street Journal reporter who was detained for espionage accusations. The Pentagon is currently closely examining their procedures for handling classified information since it was recently revealed that an Air National Guard posted secrets online. Lastly, the Ukrainian and Russian presidents visited the military line between them where there has been fighting, trapping families in their homes with limited resources.  On Netflix&#39;s side too, they announced they&#39;re ending their DVD service even though they owe some of their success to it.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Russia Is Importing Western Weapons Technology, Bypassing Sanctions</h3>
-<sub>By Ana Swanson and Matina Stevis-Gridneff</sub>
-<p>Western technology goods are winding up in Russian missiles, raising questions about the efficacy of sanctions.  <a href="https://nyti.ms/3UMJMet"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Evan Gershkovich declares his innocence in a Moscow court, but his detention is upheld.</h3>
-<sub>By Ivan Nechepurenko and Anton Troianovski</sub>
-<p>It was the first time Mr. Gershkovich, a 31-year-old American, has been seen clearly since he was detained last month.  <a href="https://nyti.ms/3ol2w94"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken and Top Diplomats Stress Unity on Russia and China</h3>
-<sub>By Edward Wong</sub>
-<p>The foreign ministers of the Group of 7 nations affirmed their shared visions on Russia’s war on Ukraine and China’s assertiveness after talk flared this month over different strategies.  <a href="https://nyti.ms/3UMrBpt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A $787.5 Million Settlement and Embarrassing Disclosures: The Costs of Airing a Lie</h3>
+<sub>By Jim Rutenberg and Katie Robertson</sub>
+<p>Fox News’s late-stage agreement with Dominion Voting Systems came with a rare acknowledgment of broadcasting false claims by the conservative media powerhouse.  <a href="https://nyti.ms/3AaO2va"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>As Possible Debt Limit Crisis Nears, Wall Street Shrugs</h3>
-<sub>By Jim Tankersley</sub>
-<p>Few investors have focused on the possibility that Congress will not raise the nation’s borrowing limit in time to avoid an economically catastrophic default.  <a href="https://nyti.ms/40lJfS5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here are the other legal cases Fox is entangled in.</h3>
+<sub>By Katie Robertson</sub>
+<p>Cases on libel and a discriminatory work environment are still pending.  <a href="https://nyti.ms/3omPdVu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The G.O.P.’s Fiscal Hawks Fly Far Away From Deficit Fights</h3>
-<sub>By Jonathan Weisman</sub>
-<p>After a decade of rising deficits and soaring debt, the top White House contenders, Donald Trump and Ron DeSantis, show little interest in battling over the nation’s finances.  <a href="https://nyti.ms/43HbfT6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Accused of Shooting Ralph Yarl Turns Himself In</h3>
-<sub>By Derrick Bryson Taylor, Julie Bosman and Mitch Smith</sub>
-<p>The man charged in the shooting of a 16-year-old in Missouri was in police custody on Tuesday afternoon after being charged with first-degree assault.  <a href="https://nyti.ms/3L5RNXR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Man Charged With Murder in Shooting of Woman Who Went Up Wrong Driveway</h3>
-<sub>By Ed Shanahan</sub>
-<p>Kevin Monahan shot Kaylin Gillis, 20, when she and several friends wound up outside his house in a rural part of upstate New York, the authorities said.  <a href="https://nyti.ms/3ojvfuM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Tried to Bury Her. Now She’s Helping Trump Try to Bury Him.</h3>
 <sub>By Matt Flegenheimer, Maggie Haberman and Michael C. Bender</sub>
 <p>Susie Wiles helped Ron DeSantis become governor of Florida, but he turned against her and banished her from his orbit. Donald Trump was all too happy to bring her in from the cold.  <a href="https://nyti.ms/3ollnRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Atlanta Prosecutor Seeks Removal of Lawyer in Trump Case</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>The lawyer represents 10 Georgia Republicans who were part of a plan to reverse the results of the 2020 presidential election and keep Donald J. Trump in power.  <a href="https://nyti.ms/3KNiekO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Shooting of Teen Who Rang Doorbell at Wrong House Unsettles Kansas City</h3>
+<sub>By Mitch Smith and Julie Bosman</sub>
+<p>Residents and friends of the victim were searching for answers as the 84-year-old homeowner surrendered to the authorities on two felony charges.  <a href="https://nyti.ms/40m9Uyf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New Details Emerge in Deadly Upstate Shooting of Woman in Wrong Driveway</h3>
+<sub>By Jesse McKinley, Hurubie Meko and Jay Root</sub>
+<p>The man who fired on three vehicles that mistakenly drove up his driveway, killing a young woman, had a reputation as a sour character who did not like visitors.  <a href="https://nyti.ms/3onr6WN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Court Rejects Wall Street Journal Reporter’s Appeal</h3>
+<sub>By Ivan Nechepurenko and Anton Troianovski</sub>
+<p>It was the first time that Evan Gershkovich, a 31-year-old American, has been seen clearly since he was detained last month and accused of espionage.  <a href="https://nyti.ms/3ol2w94"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pentagon Details Review of Policies for Handling Classified Information</h3>
+<sub>By John Ismay and Eric Schmitt</sub>
+<p>The Air Force also announced actions focused on security protocols following the arrest of an Air National Guardsman accused of posting classified documents online.  <a href="https://nyti.ms/3mDSCil"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky and Putin Make Dueling Trips to Front Line in Ukraine</h3>
+<sub>By Ivan Nechepurenko, Matthew Mpoke Bigg and Victoria Kim</sub>
+<p>The visits by the Ukrainian and Russian leaders came as both sought to display strength and confidence ahead of an anticipated Kyiv counteroffensive.  <a href="https://nyti.ms/41jV0K9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -117,21 +123,15 @@ Recently in world news, there have been a few high-profile court hearings and di
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The E.U.’s top humanitarian aid officer in Sudan was shot in Khartoum.</h3>
-<sub>By Matina Stevis-Gridneff and Declan Walsh</sub>
-<p>  <a href="https://nyti.ms/3UOXGgw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Fighting in Sudan Traps Families as Generals Fail to Keep a Cease-Fire</h3>
+<sub>By Abdi Latif Dahir and Elian Peltier</sub>
+<p>Terrified to step outside because of firefights and bands of armed men in the streets, residents remain stuck in their homes with dwindling supplies of food, water and medicine.  <a href="https://nyti.ms/3mFc8uT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Sudan Erupts in Chaos: Who Is Battling for Control and Why It Matters</h3>
-<sub>By The New York Times</sub>
-<p>The strategically important country in northeastern Africa has been consumed by fighting between two military factions, with plans for a transition to a civilian-led democracy now in shambles.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Ex-Member of Menudo Says He Was Raped by Father of the Menendez Brothers</h3>
-<sub>By Matt Stevens</sub>
-<p>The allegation, made in a forthcoming docuseries, resembles the claims of abuse by the brothers, who were convicted in 1996 of murdering their parents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Netflix Will End Its DVD Service, 5.2 Billion Discs Later</h3>
+<sub>By Nicole Sperling</sub>
+<p>Sending movies through the mail, in recognizable red-and-white envelopes, helped the company become a behemoth in Hollywood.  <a href="https://nyti.ms/3mRHiit"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
