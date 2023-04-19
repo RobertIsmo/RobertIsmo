@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, April 18, Central Standard Time</p>
+<p>It is Wednesday, April 19, Central Standard Time</p>
 <p>
-It seems like there is a lot of legal drama going on at the moment. Fox News recently settled a defamation case with Dominion Voting Systems for $787.5 million, and there are several other legal cases they&#39;re entangled in. In politics, Ron DeSantis, Florida&#39;s governor, is trying to rally support from his own party without much luck. Also in Florida, an 84-year-old homeowner has been charged with two felonies after fatally shooting a teen who rang their doorbell by accident. Upstate, details have emerged about a deadly shooting that took place in the wrong driveway. Finally, on the tech side of things, Netflix has announced that it will be ending its DVD service, while the FDA has authorized an additional Covid booster shot for people over 65.</p>
+The world is going through a lot right now. Fox News recently settled a defamation lawsuit with Dominion Voting Systems, agreeing to pay $787.5 million. In India, population numbers are on the rise while China&#39;s population is shrinking and having implications for the economy in both countries. In US politics, Florida Governor Ron DeSantis was recently visiting Republicans on Capitol Hill but hasn&#39;t managed to garner much support from them yet. There&#39;s also been an unsettling shooting of a teen in Kansas City and another tragedy in Upstate New York involving a deadly shooting of a woman at the wrong driveway. And finally, Netflix is ending its DVD service after sending out 5.2 billion discs over the years.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fox Will Pay $787.5 Million to Settle Defamation Suit</h3>
@@ -84,6 +84,18 @@ It seems like there is a lot of legal drama going on at the moment. Fox News rec
 <h3>Here are the other legal cases Fox is entangled in.</h3>
 <sub>By Katie Robertson</sub>
 <p>Cases on libel and a discriminatory work environment are still pending.  <a href="https://nyti.ms/3omPdVu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>India Is Passing China in Population. Can Its Economy Ever Do the Same?</h3>
+<sub>By Mujib Mashal and Alex Travelli</sub>
+<p>India has a young, vast work force that is expanding as China’s ages and shrinks. But the country’s immense size also lays bare its enormous challenges.  <a href="https://nyti.ms/40jAibN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why China’s Shrinking Population Is a Problem for Everyone</h3>
+<sub>By Nicole Hong</sub>
+<p>China struggled for years to curtail its rapid population growth. Now that its population is declining, economists and others fear serious implications for China and countries around the world.  <a href="https://nyti.ms/40mX2Yq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,12 +122,6 @@ It seems like there is a lot of legal drama going on at the moment. Fox News rec
 <p>The man who fired on three vehicles that mistakenly drove up his driveway, killing a young woman, had a reputation as a sour character who did not like visitors.  <a href="https://nyti.ms/3onr6WN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>What Was Twitter, Anyway?</h3>
-<sub>By Willy Staley</sub>
-<p>Whether the platform is dying or not, it’s time to reckon with how exactly it broke our brains.  <a href="https://nyti.ms/3A8B7tw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Netflix Will End Its DVD Service, 5.2 Billion Discs Later</h3>
 <sub>By Nicole Sperling</sub>
@@ -126,12 +132,6 @@ It seems like there is a lot of legal drama going on at the moment. Fox News rec
 <h3>F.D.A. Authorizes Another Covid Booster Shot for People Over 65</h3>
 <sub>By Christina Jewett</sub>
 <p>Seniors and people with compromised immune systems may get a second bivalent booster if at least four months have passed since their last one.  <a href="https://nyti.ms/41EFF6w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>One Dead in Parking Garage Collapse in Lower Manhattan</h3>
-<sub>By Ed Shanahan</sub>
-<p>A portion of the four-story Ann Street structure fell in, leaving cars stacked atop one another and rubble down to street level.  <a href="https://nyti.ms/3ojxONn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
