@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 19, Central Standard Time</p>
 <p>
-There have been a couple of big stories happening in the world recently. India is now estimated to have overtaken China as the world&#39;s most populous country, and this raises a lot of questions about its economy and international clout. In China, meanwhile, the population is shrinking and economists are concerned by what that may mean for the country and global economy. Also, Fox News recently had to settle with Dominion Voting Systems in a defamation lawsuit to the tune of $787.5 million, with some embarrassing revelations coming out about their coverage of the 2020 election. In the US specifically, there is an ongoing Supreme Court case concerning access to the abortion pill, while 84-year-old homeowner in Kansas City has been charged with two felonies after shooting a teen who rang their doorbell at the wrong house. Finally, tensions between Sudanese generals resulted in a war breaking out.</p>
+Right now there are a few big events happening that affect people around the world. In India, the population is slowly passing China, which could lead to new opportunities economically. There is also continued war and conflict in Ukraine, where Russian propaganda is confusing and worrying some residents. Meanwhile in the US, abortion remains at the forefront of debate as a pill maker sues the FDA to protect its drug and a Supreme Court decision looms. Finally, a deadly shooting in Kansas City unsettles people living there and has shining a light on &#39;stand your ground&#39; laws across the country.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What’s Next for Dominion After Its $787.5 Million Settlement With Fox News?</h3>
+<sub>By Tiffany Hsu</sub>
+<p>The election technology company has several more defamation lawsuits pending against public figures and news outlets.  <a href="https://nyti.ms/3AgDfiI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Everybody Knows What Fox News Is Now</h3>
+<sub>By James Poniewozik</sub>
+<p>Even without a trial, the Dominion suit made plain that the network’s main goal is the maintenance of a reality bubble.  <a href="https://nyti.ms/3ootEUG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Will This Be the ‘Indian Century’? Four Key Questions</h3>
+<sub>By Alex Travelli and Weiyi Cai</sub>
+<p>As India becomes the most populous country in the world, can it take advantage?  <a href="https://nyti.ms/3MU5KdG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>India Is Passing China in Population. Can Its Economy Ever Do the Same?</h3>
 <sub>By Mujib Mashal and Alex Travelli</sub>
@@ -69,45 +87,21 @@ There have been a couple of big stories happening in the world recently. India i
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why China’s Shrinking Population Is a Problem for Everyone</h3>
-<sub>By Nicole Hong</sub>
-<p>China struggled for years to curtail its rapid population growth. Now that its population is declining, economists and others fear serious implications for China and countries around the world.  <a href="https://nyti.ms/40mX2Yq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>India Is Surpassing China in Population</h3>
-<sub>By David Leonhardt</sub>
-<p>We look at India’s looming status as the world’s most populous country and also give you the latest on the Fox News settlement.  <a href="https://nyti.ms/3LmiUPL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A $787.5 Million Settlement and Embarrassing Disclosures: The Costs of Airing a Lie</h3>
-<sub>By Jim Rutenberg and Katie Robertson</sub>
-<p>Fox News’s late-stage agreement with Dominion Voting Systems came with a rare acknowledgment of broadcasting false claims by the conservative media powerhouse.  <a href="https://nyti.ms/3AaO2va"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to Know About the $787.5 Million Fox News-Dominion Settlement</h3>
-<sub>By John Yoon</sub>
-<p>The 11th-hour deal saved Fox a potentially lengthy legal tangle, though it still faces other lawsuits over its coverage of false claims about the 2020 election.  <a href="https://nyti.ms/41DbigJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox News’s settlement in the Dominion case is big news, except on Fox News.</h3>
-<sub>By Stuart A. Thompson</sub>
-<p>In about six minutes of coverage, the network acknowledged the $787.5 million settlement, then moved on to other topics.  <a href="https://nyti.ms/3GVyvTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Plan to Get Rupert Murdoch to Pay Up</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>An owner of Dominion Voting Systems spoke about the company’s strategy that led Fox to agree to a $787.5 million defamation settlement.  <a href="https://nyti.ms/40nkFQT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘Our Own Guys Are Shelling Us’: How Russian Propaganda Plagues Ukraine</h3>
+<sub>By Carlotta Gall, Oleksandr Chubko, Dyma Shapoval and Daniel Berehulak</sub>
+<p>A year into the war, some residents of eastern Ukrainian towns still confound officials and the police with their support for Russia despite the constant bombardment from Russian forces.  <a href="https://nyti.ms/43Mqeel"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court to Decide Availability of Abortion Pill as Appeal Moves Forward</h3>
 <sub>By Abbie VanSickle</sub>
-<p>Justice Samuel A. Alito Jr. had issued a stay that was set to expire at midnight, meaning the justices are likely to act before then, although they could extend the deadline or fail to act.  <a href="https://nyti.ms/3GX0VMS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Justice Samuel A. Alito Jr. had paused an appeals court ruling but that is set to expire at midnight, meaning the justices are likely to act before then, although they could extend the deadline or fail to act.  <a href="https://nyti.ms/3GX0VMS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Abortion Pill Maker Sues F.D.A. to Protect Drug if a Court Orders It Off the Market</h3>
+<sub>By Pam Belluck</sub>
+<p>The suit by GenBioPro, the generic maker of mifepristone, is the latest strand in the intense legal battle over abortion pills.  <a href="https://nyti.ms/3UMvtqt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -116,16 +110,10 @@ There have been a couple of big stories happening in the world recently. India i
 <p>Investigators seized the Attic Greek cup from the Met last year. They, and others, doubt the museum’s reconstruction of it from fragments was simply a product of genius.  <a href="https://nyti.ms/3KRtD36"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>3 Nuclear Superpowers, Rather Than 2, Usher In a New Strategic Era</h3>
-<sub>By David E. Sanger, William J. Broad and Chris Buckley</sub>
-<p>China is on track to massively expand its nuclear arsenal, just as Russia suspends the last major arms control treaty. It augurs a new world in which Beijing, Moscow and Washington will likely be atomic peers.  <a href="https://nyti.ms/3KL3naB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Sudan’s Generals Dined With Peace Negotiators, Then Started a War</h3>
-<sub>By Declan Walsh</sub>
-<p>What led the two generals, recently allies, to turn their forces on each other — devastating a country of 45 million people?  <a href="https://nyti.ms/41HgiB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>What Would You Do for a Taylor Swift Sweatshirt?</h3>
+<sub>By Madison Malone Kircher</sub>
+<p>Outside a stadium in Tampa, hundreds of fans waited overnight in the rain before scrambling for Eras Tour merch.  <a href="https://nyti.ms/43NMwfO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -133,6 +121,18 @@ There have been a couple of big stories happening in the world recently. India i
 <sub>By Mitch Smith and Julie Bosman</sub>
 <p>Residents and friends of the victim were searching for answers as the 84-year-old homeowner surrendered to the authorities on two felony charges.  <a href="https://nyti.ms/40m9Uyf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New Details Emerge in Deadly Upstate Shooting of Woman in Wrong Driveway</h3>
+<sub>By Jesse McKinley, Hurubie Meko and Jay Root</sub>
+<p>The man who fired on three vehicles that mistakenly drove up his driveway, killing a young woman, had a reputation as a sour character who did not like visitors.  <a href="https://nyti.ms/3onr6WN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Are ‘Stand Your Ground’ Laws, and When Do They Apply?</h3>
+<sub>By Adeel Hassan</sub>
+<p>The shootings of two people who mistakenly approached homes in Missouri and New York have renewed attention to self-defense laws across the country.  <a href="https://nyti.ms/3UMdJeU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
