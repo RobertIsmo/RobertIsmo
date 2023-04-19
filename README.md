@@ -60,8 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 19, Central Standard Time</p>
 <p>
-Right now there are a few big events happening that affect people around the world. In India, the population is slowly passing China, which could lead to new opportunities economically. There is also continued war and conflict in Ukraine, where Russian propaganda is confusing and worrying some residents. Meanwhile in the US, abortion remains at the forefront of debate as a pill maker sues the FDA to protect its drug and a Supreme Court decision looms. Finally, a deadly shooting in Kansas City unsettles people living there and has shining a light on &#39;stand your ground&#39; laws across the country.</p>
+There is intense legal and political controversy surrounding access to abortion pills and self-defense laws across the US. Recently, the Supreme Court extended a block on a lower court ruling and an abortion pill maker sued the FDA to protect its drug, if a court orders it off of the market. There have been several defamation lawsuits filed against public figures and news outlets recently too, such as Fox News, who recently settled for $787.5 million. Out of this, comes an assault on media protections that could lead to overturning of a landmark Supreme Court ruling. 
+
+Furthermore, there has been renewed attention to shootings of people who mistakenly go to someone’s door in Missouri and New York, which has sparked talk over stand your ground laws. Internationally, Russian propaganda has become a pervasive issue in Ukraine with Russian forces causing widespread bombardment while still gaining support from citizens. On top of that, there is some drama related to Taylor Swift merchandise with fans waiting overnight in the rain outside a stadium for shirts and Governor DeSantis being heavily scrutinized over his fight with Disney.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Extends Pause on Ruling Limiting Access to Abortion Pill</h3>
+<sub>By Abbie VanSickle</sub>
+<p>The court said on Wednesday that it would extend a block on a lower-court ruling, giving the justices more time to consider the case.  <a href="https://nyti.ms/3GX0VMS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Abortion Pill Maker Sues F.D.A. to Protect Drug if a Court Orders It Off the Market</h3>
+<sub>By Pam Belluck</sub>
+<p>The suit by GenBioPro, the generic maker of mifepristone, is the latest strand in the intense legal battle over abortion pills.  <a href="https://nyti.ms/3UMvtqt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What’s Next for Dominion After Its $787.5 Million Settlement With Fox News?</h3>
 <sub>By Tiffany Hsu</sub>
@@ -74,40 +88,40 @@ Right now there are a few big events happening that affect people around the wor
 <p>Even without a trial, the Dominion suit made plain that the network’s main goal is the maintenance of a reality bubble.  <a href="https://nyti.ms/3ootEUG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Will This Be the ‘Indian Century’? Four Key Questions</h3>
-<sub>By Alex Travelli and Weiyi Cai</sub>
-<p>As India becomes the most populous country in the world, can it take advantage?  <a href="https://nyti.ms/3MU5KdG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>After Fox Settlement, Assault on Media Protections Is Likely to Continue</h3>
+<sub>By David Enrich</sub>
+<p>Those who argue that the news media should pay a steeper price for mistakes are pushing to have a landmark Supreme Court ruling overturned.  <a href="https://nyti.ms/41o7DUz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>India Is Passing China in Population. Can Its Economy Ever Do the Same?</h3>
-<sub>By Mujib Mashal and Alex Travelli</sub>
-<p>India has a young, vast work force that is expanding as China’s ages and shrinks. But the country’s immense size also lays bare its enormous challenges.  <a href="https://nyti.ms/40jAibN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fox News Settled Its Suit, but Similar 2020 Election Cases Are Pending</h3>
+<sub>By Lora Kelley</sub>
+<p>Another election technology company, Smartmatic, is suing news outlets, including Fox, over false claims of election fraud, and Dominion has other cases pending.  <a href="https://nyti.ms/3KI2RKo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Victim’s Father Breaks Down as Bail Is Denied in Wrong-Driveway Shooting</h3>
+<sub>By Jesse McKinley, Jay Root and Chelsia Rose Marcius</sub>
+<p>Kaylin Gillis’s death “touches a chord across the country,” the Washington County district attorney said during a court hearing in the case.  <a href="https://nyti.ms/3URbO8F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Missouri Man Pleads Not Guilty in Shooting of Teen Who Mistakenly Came to His Door</h3>
+<sub>By Julie Bosman and Mitch Smith</sub>
+<p>Andrew D. Lester, 84, said little in court on Wednesday, speaking softly and answering basic questions.  <a href="https://nyti.ms/3UR9Ghd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Are ‘Stand Your Ground’ Laws, and When Do They Apply?</h3>
+<sub>By Adeel Hassan</sub>
+<p>The shootings of two people who mistakenly approached homes in Missouri and New York have renewed attention to self-defense laws across the country.  <a href="https://nyti.ms/3UMdJeU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Our Own Guys Are Shelling Us’: How Russian Propaganda Plagues Ukraine</h3>
 <sub>By Carlotta Gall, Oleksandr Chubko, Dyma Shapoval and Daniel Berehulak</sub>
 <p>A year into the war, some residents of eastern Ukrainian towns still confound officials and the police with their support for Russia despite the constant bombardment from Russian forces.  <a href="https://nyti.ms/43Mqeel"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court to Decide Availability of Abortion Pill as Appeal Moves Forward</h3>
-<sub>By Abbie VanSickle</sub>
-<p>Justice Samuel A. Alito Jr. had paused an appeals court ruling but that is set to expire at midnight, meaning the justices are likely to act before then, although they could extend the deadline or fail to act.  <a href="https://nyti.ms/3GX0VMS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Abortion Pill Maker Sues F.D.A. to Protect Drug if a Court Orders It Off the Market</h3>
-<sub>By Pam Belluck</sub>
-<p>The suit by GenBioPro, the generic maker of mifepristone, is the latest strand in the intense legal battle over abortion pills.  <a href="https://nyti.ms/3UMvtqt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Kylix Marvel: Why Experts Distrust the Story of an Ancient Cup’s Rebirth</h3>
-<sub>By Graham Bowley and Tom Mashberg</sub>
-<p>Investigators seized the Attic Greek cup from the Met last year. They, and others, doubt the museum’s reconstruction of it from fragments was simply a product of genius.  <a href="https://nyti.ms/3KRtD36"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -117,21 +131,9 @@ Right now there are a few big events happening that affect people around the wor
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Shooting of Teen Who Rang Doorbell at Wrong House Unsettles Kansas City</h3>
-<sub>By Mitch Smith and Julie Bosman</sub>
-<p>Residents and friends of the victim were searching for answers as the 84-year-old homeowner surrendered to the authorities on two felony charges.  <a href="https://nyti.ms/40m9Uyf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New Details Emerge in Deadly Upstate Shooting of Woman in Wrong Driveway</h3>
-<sub>By Jesse McKinley, Hurubie Meko and Jay Root</sub>
-<p>The man who fired on three vehicles that mistakenly drove up his driveway, killing a young woman, had a reputation as a sour character who did not like visitors.  <a href="https://nyti.ms/3onr6WN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Are ‘Stand Your Ground’ Laws, and When Do They Apply?</h3>
-<sub>By Adeel Hassan</sub>
-<p>The shootings of two people who mistakenly approached homes in Missouri and New York have renewed attention to self-defense laws across the country.  <a href="https://nyti.ms/3UMdJeU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Republicans Hit DeSantis Over Disney Feud</h3>
+<sub>By Maggie Haberman</sub>
+<p>As Gov. Ron DeSantis of Florida escalates a fight against his state’s largest private employer, his potential rivals for the White House see an opening to attack.  <a href="https://nyti.ms/3A8y58J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
