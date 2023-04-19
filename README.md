@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 19, Central Standard Time</p>
 <p>
-The world is going through a lot right now. Fox News recently settled a defamation lawsuit with Dominion Voting Systems, agreeing to pay $787.5 million. In India, population numbers are on the rise while China&#39;s population is shrinking and having implications for the economy in both countries. In US politics, Florida Governor Ron DeSantis was recently visiting Republicans on Capitol Hill but hasn&#39;t managed to garner much support from them yet. There&#39;s also been an unsettling shooting of a teen in Kansas City and another tragedy in Upstate New York involving a deadly shooting of a woman at the wrong driveway. And finally, Netflix is ending its DVD service after sending out 5.2 billion discs over the years.</p>
+Recently, the news has been incredibly tumultuous! Fox News paid $787.5 million to settle a defamation lawsuit from Dominion Voting Systems, and their late-stage settlement came with an embarrassing admission that they had broadcast false claims. This settlement has made people think about all of the other cases that Fox is entangled in, such as libel and a discriminatory work environment. 
+
+On a much larger global scale, India recently overtook China in terms of population size. Although India has a young and growing labor force, its immense size also brings up huge challenges. Meanwhile, China is experiencing an opposite problem with shrinking population numbers- experts fear serious implications for the country and the world as a whole. 
+
+In US politics, Ron DeSantis is in the headlines for trying to bury an old political ally- Susie Wiles- who later Donald Trump brought back into his own administration. DeSantis managed former congressional colleagues on Capitol Hill reasonably lukewarmly, and there&#39;s shooting of a teenager at the wrong doorbell in Kansas City which is quite unsettling. There&#39;s also news about an upstate shooting where a man fired upon three cars that mistakenly drove onto his driveway, killing a young woman. 
+
+In entertainment news, Netflix recently announced it will end its DVD service after 5.2 billion disks were sent out in its recognizable red-and-white envelopes! Lastly there&#39;s good news on vaccines- the FDA authorized another COVID booster shot for people over 65, four months after they got their last one. </p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fox Will Pay $787.5 Million to Settle Defamation Suit</h3>
