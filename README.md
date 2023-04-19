@@ -60,38 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 19, Central Standard Time</p>
 <p>
-Recently, the news has been incredibly tumultuous! Fox News paid $787.5 million to settle a defamation lawsuit from Dominion Voting Systems, and their late-stage settlement came with an embarrassing admission that they had broadcast false claims. This settlement has made people think about all of the other cases that Fox is entangled in, such as libel and a discriminatory work environment. 
-
-On a much larger global scale, India recently overtook China in terms of population size. Although India has a young and growing labor force, its immense size also brings up huge challenges. Meanwhile, China is experiencing an opposite problem with shrinking population numbers- experts fear serious implications for the country and the world as a whole. 
-
-In US politics, Ron DeSantis is in the headlines for trying to bury an old political ally- Susie Wiles- who later Donald Trump brought back into his own administration. DeSantis managed former congressional colleagues on Capitol Hill reasonably lukewarmly, and there&#39;s shooting of a teenager at the wrong doorbell in Kansas City which is quite unsettling. There&#39;s also news about an upstate shooting where a man fired upon three cars that mistakenly drove onto his driveway, killing a young woman. 
-
-In entertainment news, Netflix recently announced it will end its DVD service after 5.2 billion disks were sent out in its recognizable red-and-white envelopes! Lastly there&#39;s good news on vaccines- the FDA authorized another COVID booster shot for people over 65, four months after they got their last one. </p>
+It looks like India is now becoming the most populous country in the world, surpassing China. This could lead to big changes in the global economy, since India has a much younger work force that&#39;s expanding while China&#39;s age and contracts. On top of this, China&#39;s shrinking population is a potential problem that could lead to serious implications for everyone around the world. Meanwhile, Fox News recently settled with Dominion Voting Systems for $787.5 million over broadcasting false claims about the 2020 election. In other news, access to abortion pills could be limited as a case involving them moves through the Supreme Court. Also, an Attic Greek cup seized from a museum is at the center of investigations and debates about its restoration. Lastly, there&#39;ve been a few military and civilian tensions around the world—in Sudan two generals dinner together before turning on each other resulting in an unresolved conflict; and a similar issue happened in Kansas City when an 84-year old shooter mistakenly shot and killed a woman who had accidentally ended up in his driveway.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox Will Pay $787.5 Million to Settle Defamation Suit</h3>
-<sub>By Jeremy W. Peters and Katie Robertson</sub>
-<p>The settlement with Dominion Voting Systems was the latest extraordinary twist in a case that exposed the inner workings of the most powerful voice in conservative news.  <a href="https://nyti.ms/3UP99g3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A $787.5 Million Settlement and Embarrassing Disclosures: The Costs of Airing a Lie</h3>
-<sub>By Jim Rutenberg and Katie Robertson</sub>
-<p>Fox News’s late-stage agreement with Dominion Voting Systems came with a rare acknowledgment of broadcasting false claims by the conservative media powerhouse.  <a href="https://nyti.ms/3AaO2va"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox News’s settlement in the Dominion case is big news, except on Fox News.</h3>
-<sub>By Stuart A. Thompson</sub>
-<p>In about six minutes of coverage, the network acknowledged the $787.5 million settlement, then moved on to other topics.  <a href="https://nyti.ms/3GVyvTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Here are the other legal cases Fox is entangled in.</h3>
-<sub>By Katie Robertson</sub>
-<p>Cases on libel and a discriminatory work environment are still pending.  <a href="https://nyti.ms/3omPdVu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>India Is Passing China in Population. Can Its Economy Ever Do the Same?</h3>
 <sub>By Mujib Mashal and Alex Travelli</sub>
@@ -104,17 +74,53 @@ In entertainment news, Netflix recently announced it will end its DVD service af
 <p>China struggled for years to curtail its rapid population growth. Now that its population is declining, economists and others fear serious implications for China and countries around the world.  <a href="https://nyti.ms/40mX2Yq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Tried to Bury Her. Now She’s Helping Trump Try to Bury Him.</h3>
-<sub>By Matt Flegenheimer, Maggie Haberman and Michael C. Bender</sub>
-<p>Susie Wiles helped Ron DeSantis become governor of Florida, but he turned against her and banished her from his orbit. Donald Trump was all too happy to bring her in from the cold.  <a href="https://nyti.ms/3ollnRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>India Is Surpassing China in Population</h3>
+<sub>By David Leonhardt</sub>
+<p>We look at India’s looming status as the world’s most populous country and also give you the latest on the Fox News settlement.  <a href="https://nyti.ms/3LmiUPL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A $787.5 Million Settlement and Embarrassing Disclosures: The Costs of Airing a Lie</h3>
+<sub>By Jim Rutenberg and Katie Robertson</sub>
+<p>Fox News’s late-stage agreement with Dominion Voting Systems came with a rare acknowledgment of broadcasting false claims by the conservative media powerhouse.  <a href="https://nyti.ms/3AaO2va"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What to Know About the $787.5 Million Fox News-Dominion Settlement</h3>
+<sub>By John Yoon</sub>
+<p>The 11th-hour deal saved Fox a potentially lengthy legal tangle, though it still faces other lawsuits over its coverage of false claims about the 2020 election.  <a href="https://nyti.ms/41DbigJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fox News’s settlement in the Dominion case is big news, except on Fox News.</h3>
+<sub>By Stuart A. Thompson</sub>
+<p>In about six minutes of coverage, the network acknowledged the $787.5 million settlement, then moved on to other topics.  <a href="https://nyti.ms/3GVyvTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Meets With Republicans on Capitol Hill, to a Lukewarm Response</h3>
-<sub>By Michael C. Bender and Annie Karni</sub>
-<p>Ron DeSantis has not managed much momentum from his party in Congress, where he served before becoming Florida’s governor.  <a href="https://nyti.ms/3KVDzsu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
+<h3>Supreme Court to Decide Availability of Abortion Pill as Appeal Moves Forward</h3>
+<sub>By Abbie VanSickle</sub>
+<p>Justice Samuel A. Alito Jr. had issued a stay that was set to expire at midnight, meaning the justices are likely to act before then, although they could extend the deadline or fail to act.  <a href="https://nyti.ms/3GX0VMS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The Kylix Marvel: Why Experts Distrust the Story of an Ancient Cup’s Rebirth</h3>
+<sub>By Graham Bowley and Tom Mashberg</sub>
+<p>Investigators seized the Attic Greek cup from the Met last year. They, and others, doubt the museum’s reconstruction of it from fragments was simply a product of genius.  <a href="https://nyti.ms/3KRtD36"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>3 Nuclear Superpowers, Rather Than 2, Usher In a New Strategic Era</h3>
+<sub>By David E. Sanger, William J. Broad and Chris Buckley</sub>
+<p>China is on track to massively expand its nuclear arsenal, just as Russia suspends the last major arms control treaty. It augurs a new world in which Beijing, Moscow and Washington will likely be atomic peers.  <a href="https://nyti.ms/3KL3naB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Sudan’s Generals Dined With Peace Negotiators, Then Started a War</h3>
+<sub>By Declan Walsh</sub>
+<p>What led the two generals, recently allies, to turn their forces on each other — devastating a country of 45 million people?  <a href="https://nyti.ms/41HgiB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Shooting of Teen Who Rang Doorbell at Wrong House Unsettles Kansas City</h3>
@@ -126,18 +132,6 @@ In entertainment news, Netflix recently announced it will end its DVD service af
 <h3>New Details Emerge in Deadly Upstate Shooting of Woman in Wrong Driveway</h3>
 <sub>By Jesse McKinley, Hurubie Meko and Jay Root</sub>
 <p>The man who fired on three vehicles that mistakenly drove up his driveway, killing a young woman, had a reputation as a sour character who did not like visitors.  <a href="https://nyti.ms/3onr6WN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Netflix Will End Its DVD Service, 5.2 Billion Discs Later</h3>
-<sub>By Nicole Sperling</sub>
-<p>Sending movies through the mail, in recognizable red-and-white envelopes, helped the company become a behemoth in Hollywood.  <a href="https://nyti.ms/3mRHiit"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>F.D.A. Authorizes Another Covid Booster Shot for People Over 65</h3>
-<sub>By Christina Jewett</sub>
-<p>Seniors and people with compromised immune systems may get a second bivalent booster if at least four months have passed since their last one.  <a href="https://nyti.ms/41EFF6w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
