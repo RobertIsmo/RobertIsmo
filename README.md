@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 20, Central Standard Time</p>
 <p>
-In the world, Chinese President Xi Jinping is strengthening his stance against the United States and refusing to restart high-level talks. Treasury Secretary Janet Yellen is calling for a more conciliatory approach to China in her upcoming speech. There have also been two separate incidents in the US recently where two men have been charged with shootings after taking wrong turns on everyday tasks. Republican leaders are trying to push for a new face for the party, while opponents of the news media are trying to have a landmark Supreme Court ruling overturned so that the media can be held liable for publishing false information. There has also been controversy recently around an artificial intelligence-generated song being released under fake artist names, raising legal and creative questions. In Ukraine, many people in eastern towns are still showing support for Russia despite constant bombardment from Russian forces. Back in the US, Boston&#39;s leading restaurateur has been accused of workplace abuse and mistreatment of staff, while crime scene investigators document the aftermath of mass shootings such as Sandy Hook.</p>
+Right now, things in the world are pretty tense when it comes to international relations. China has been refusing to restart high-level talks with the United States, for instance, and the situation could potentially escalate in contested areas such as the Taiwan Strait. Meanwhile, Israel&#39;s right-wing government is causing difficulty for some Jewish Democrats. Their traditional defense of Israel often hinged on shared democratic values, but now that&#39;s proving tougher.
+
+In the US, the Republican party recent losses under Donald Trump has Republican governors talking election strategy for 2024, while two separate shootings involving wrong turns were reported in different parts this week. Meanwhile in Ukraine, social media stars are rethinking how they use their influence after years of Russian dominating their mediums.
+
+In Sudan, US troops are currently readying for evactuation of the American embassy as fighting intensifes, with civilians caught in the midst of it. Back home in the US, MyPillow founder Mike Lindell is being forced to pay up after arranging an ill-fated contest offering $5 million if someone could &#39;prove him wrong&#39; concerning false election claims. Finally, a track by two AIs posing as Drake and The Weeknd has gone viral and been removed from streaming services, raising important legal and creative questions about what defines &#39;real music&#39; going forward.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Xi Befriends World Leaders, He Hardens His Stance on the U.S.</h3>
@@ -68,17 +72,11 @@ In the world, Chinese President Xi Jinping is strengthening his stance against t
 <p>China has rebuffed calls to restart high-level talks with the United States, raising the risk of confrontation in contested areas like the Taiwan Strait.  <a href="https://nyti.ms/3LgmkTU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Yellen to Call for ‘Constructive’ China Relationship</h3>
-<sub>By Ana Swanson</sub>
-<p>The Treasury secretary will strike a more conciliatory note in a speech Thursday, following months of escalated tensions between the world’s two largest economies.  <a href="https://nyti.ms/3os42WO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hundreds of Miles Apart, Separate Shootings Follow Wrong Turns</h3>
-<sub>By Julie Bosman, Mitch Smith, Jesse McKinley and Jay Root</sub>
-<p>Two men appeared in courtrooms in different parts of the country on Wednesday, charged in shootings that came after minor missteps on everyday tasks.  <a href="https://nyti.ms/43L41xr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<h3>Israel’s Right-Wing Government Has Jewish Democrats at a Loss</h3>
+<sub>By Jonathan Weisman</sub>
+<p>American lawmakers defending Israel have often fallen back on what they call the countries’ shared democratic values. But defending the current far-right government is proving a lot harder.  <a href="https://nyti.ms/43MFgAW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis’s Electability Pitch Wobbles, Despite G.O.P. Losses Under Trump</h3>
@@ -87,39 +85,33 @@ In the world, Chinese President Xi Jinping is strengthening his stance against t
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who’s Running for President in 2024?</h3>
-<sub>By Martín González Gómez and Maggie Astor</sub>
-<p>See who is in, and who else might run.  <a href="https://nyti.ms/3Y05QCI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Super PAC Targets Greene, Gaetz, Boebert and Others on the Far Right</h3>
-<sub>By Nick Corasaniti</sub>
-<p>The bipartisan group will challenge hard-right House Republicans in their home districts, running ads that accuse the lawmakers of holding antidemocratic positions.  <a href="https://nyti.ms/3AfynKW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>An A.I. Hit of Fake ‘Drake’ and ‘The Weeknd’ Rattles the Music World</h3>
-<sub>By Joe Coscarelli</sub>
-<p>A track like “Heart on My Sleeve,” which went viral before being taken down by streaming services this week, may be a novelty for now. But the legal and creative questions it raises are here to stay.  <a href="https://nyti.ms/40m1eaT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Hundreds of Miles Apart, Separate Shootings Follow Wrong Turns</h3>
+<sub>By Julie Bosman, Mitch Smith, Jesse McKinley and Jay Root</sub>
+<p>Two men appeared in courtrooms in different parts of the country on Wednesday, charged in shootings that came after minor missteps on everyday tasks.  <a href="https://nyti.ms/43L41xr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Peering Into the Future of Novels, With Trained Machines Ready</h3>
-<sub>By Elizabeth A. Harris</sub>
-<p>Who wrote it, the novelist or the technology? How about both? Stephen Marche experiments with teaching artificial intelligence to write with him, not for him.  <a href="https://nyti.ms/3UVCaXd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine’s Social Media Stars Rethink How They Wield Their Influence</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Russian was once the lingua franca of influencers in Ukraine. Now, not so much.  <a href="https://nyti.ms/43MKCMx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Our Own Guys Are Shelling Us’: How Russian Propaganda Plagues Ukraine</h3>
-<sub>By Carlotta Gall, Oleksandr Chubko, Dyma Shapoval and Daniel Berehulak</sub>
-<p>A year into the war, some residents of eastern Ukrainian towns still confound officials and the police with their support for Russia despite the constant bombardment from Russian forces.  <a href="https://nyti.ms/43Mqeel"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<h3>U.S. Positioning Troops for Evacuation of American Embassy in Sudan</h3>
+<sub>By Helene Cooper</sub>
+<p>Fierce fighting has trapped people in the capital, Khartoum, and the United States says it is “conducting prudent planning” to get diplomatic staff members out.  <a href="https://nyti.ms/41HP7WX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Barbara Lynch, a Leading Boston Restaurateur, Is Accused of Workplace Abuse</h3>
-<sub>By Julia Moskin</sub>
-<p>The chef has spoken out against sexism and abuse, but many former cooks and staff members say she has verbally and physically harassed workers for decades.  <a href="https://nyti.ms/43Q4MVM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fighting Intensifies in Khartoum as Sudan Cease-Fires Fail</h3>
+<sub>By Isabella Kwai and Cora Engelbrecht</sub>
+<p>With two generals vying for power, residents in the Sudanese capital said the violence had destroyed hospitals, airfields and homes, and left civilians caught in the crossfire.  <a href="https://nyti.ms/3MZuYYn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>BuzzFeed Shuts Down Its Namesake News Division</h3>
+<sub>By Benjamin Mullin and Katie Robertson</sub>
+<p>BuzzFeed News, which won a Pulitzer Prize but never made money, is “beginning the process of closing,” the company’s founder, Jonah Peretti, said in a memo to employees.  <a href="https://nyti.ms/3L116bw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -129,9 +121,21 @@ In the world, Chinese President Xi Jinping is strengthening his stance against t
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>After Fox Settlement, Assault on Media Protections Is Likely to Continue</h3>
-<sub>By David Enrich</sub>
-<p>Those who argue that the news media should pay a steeper price for publishing false information are pushing to have a landmark Supreme Court ruling overturned.  <a href="https://nyti.ms/41o7DUz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Fox Settlement Is a Victory for Dominion. But the Misinformation War Continues.</h3>
+<sub>By Steven Lee Myers, Tiffany Hsu and Stuart A. Thompson</sub>
+<p>False claims about election fraud remain a problem, spreading in various places online, voting and media experts said.  <a href="https://nyti.ms/3Agzf1O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Prove Mike Wrong’ for $5 Million, Lindell Pitched. Now He’s Told to Pay Up.</h3>
+<sub>By Neil Vigdor</sub>
+<p>An arbitration panel ruled that the MyPillow founder had failed to pay a computer software expert who disproved his false election claims as part of a contest.  <a href="https://nyti.ms/40llfOR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>An A.I. Hit of Fake ‘Drake’ and ‘The Weeknd’ Rattles the Music World</h3>
+<sub>By Joe Coscarelli</sub>
+<p>A track like “Heart on My Sleeve,” which went viral before being taken down by streaming services this week, may be a novelty for now. But the legal and creative questions it raises are here to stay.  <a href="https://nyti.ms/40m1eaT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
