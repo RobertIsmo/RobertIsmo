@@ -60,26 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 19, Central Standard Time</p>
 <p>
-There is intense legal and political controversy surrounding access to abortion pills and self-defense laws across the US. Recently, the Supreme Court extended a block on a lower court ruling and an abortion pill maker sued the FDA to protect its drug, if a court orders it off of the market. There have been several defamation lawsuits filed against public figures and news outlets recently too, such as Fox News, who recently settled for $787.5 million. Out of this, comes an assault on media protections that could lead to overturning of a landmark Supreme Court ruling. 
+There&#39;s a lot going on in the world right now! First, there is a landmark Supreme Court ruling which some people want to be overturned, as it protects the news media from paying a steeper price for mistakes. This is linked to Fox News and their settlement with the election technology company Dominion. 
 
-Furthermore, there has been renewed attention to shootings of people who mistakenly go to someone’s door in Missouri and New York, which has sparked talk over stand your ground laws. Internationally, Russian propaganda has become a pervasive issue in Ukraine with Russian forces causing widespread bombardment while still gaining support from citizens. On top of that, there is some drama related to Taylor Swift merchandise with fans waiting overnight in the rain outside a stadium for shirts and Governor DeSantis being heavily scrutinized over his fight with Disney.</p>
+In other news, the US Supreme Court has delayed its decision on the abortion pill, meaning access to the drug will remain widely available. At the same time, two separate shootings in different parts of the country occurred after minor missteps on everyday tasks, bringing attention to self-defense laws across the country. 
+
+We&#39;re also seeing a conflict between Russia and Ukraine, due to Russian propaganda, and US Defense Secretary Lloyd J. Austin III is pushing for Sweden to become part of NATO.
+
+Finally, Florida Governor Ron DeSantis is in a fight with Disney World over an agreement they have and his potential Republican rivals are attacking him. In addition to that, there is also a cease-fire in Sudan making it difficult for civilians to use as an escape route.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Extends Pause on Ruling Limiting Access to Abortion Pill</h3>
-<sub>By Abbie VanSickle</sub>
-<p>The court said on Wednesday that it would extend a block on a lower-court ruling, giving the justices more time to consider the case.  <a href="https://nyti.ms/3GX0VMS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Abortion Pill Maker Sues F.D.A. to Protect Drug if a Court Orders It Off the Market</h3>
-<sub>By Pam Belluck</sub>
-<p>The suit by GenBioPro, the generic maker of mifepristone, is the latest strand in the intense legal battle over abortion pills.  <a href="https://nyti.ms/3UMvtqt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What’s Next for Dominion After Its $787.5 Million Settlement With Fox News?</h3>
-<sub>By Tiffany Hsu</sub>
-<p>The election technology company has several more defamation lawsuits pending against public figures and news outlets.  <a href="https://nyti.ms/3AgDfiI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After Fox Settlement, Assault on Media Protections Is Likely to Continue</h3>
+<sub>By David Enrich</sub>
+<p>Those who argue that the news media should pay a steeper price for mistakes are pushing to have a landmark Supreme Court ruling overturned.  <a href="https://nyti.ms/41o7DUz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -89,27 +81,21 @@ Furthermore, there has been renewed attention to shootings of people who mistake
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>After Fox Settlement, Assault on Media Protections Is Likely to Continue</h3>
-<sub>By David Enrich</sub>
-<p>Those who argue that the news media should pay a steeper price for mistakes are pushing to have a landmark Supreme Court ruling overturned.  <a href="https://nyti.ms/41o7DUz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox News Settled Its Suit, but Similar 2020 Election Cases Are Pending</h3>
-<sub>By Lora Kelley</sub>
-<p>Another election technology company, Smartmatic, is suing news outlets, including Fox, over false claims of election fraud, and Dominion has other cases pending.  <a href="https://nyti.ms/3KI2RKo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Victim’s Father Breaks Down as Bail Is Denied in Wrong-Driveway Shooting</h3>
-<sub>By Jesse McKinley, Jay Root and Chelsia Rose Marcius</sub>
-<p>Kaylin Gillis’s death “touches a chord across the country,” the Washington County district attorney said during a court hearing in the case.  <a href="https://nyti.ms/3URbO8F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What’s Next for Dominion After Its $787.5 Million Settlement With Fox News?</h3>
+<sub>By Tiffany Hsu</sub>
+<p>The election technology company has several more defamation lawsuits pending against public figures and news outlets.  <a href="https://nyti.ms/3AgDfiI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Missouri Man Pleads Not Guilty in Shooting of Teen Who Mistakenly Came to His Door</h3>
-<sub>By Julie Bosman and Mitch Smith</sub>
-<p>Andrew D. Lester, 84, said little in court on Wednesday, speaking softly and answering basic questions.  <a href="https://nyti.ms/3UR9Ghd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Supreme Court Delays Decision on Abortion Pill, Preserving Access for Now</h3>
+<sub>By Abbie VanSickle</sub>
+<p>The drug will remain widely available as the justices extended their deadline to Friday on whether to uphold the F.D.A.’s approval of the pill.  <a href="https://nyti.ms/3GX0VMS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hundreds of Miles Apart, Separate Shootings Follow Wrong Turns</h3>
+<sub>By Julie Bosman, Mitch Smith, Jesse McKinley and Jay Root</sub>
+<p>Two men appeared in courtrooms in different parts of the country on Wednesday, charged in shootings that came after minor missteps on everyday tasks.  <a href="https://nyti.ms/43L41xr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -124,6 +110,12 @@ Furthermore, there has been renewed attention to shootings of people who mistake
 <p>A year into the war, some residents of eastern Ukrainian towns still confound officials and the police with their support for Russia despite the constant bombardment from Russian forces.  <a href="https://nyti.ms/43Mqeel"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Defense Secretary Urges Swift NATO Membership for Sweden</h3>
+<sub>By Helene Cooper</sub>
+<p>Defense Secretary Lloyd J. Austin III, visiting Sweden, said he hoped that objections to adding the country to the alliance would be ironed out by midsummer, when member states meet in Lithuania.  <a href="https://nyti.ms/3AiqcgI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>What Would You Do for a Taylor Swift Sweatshirt?</h3>
 <sub>By Madison Malone Kircher</sub>
@@ -134,6 +126,18 @@ Furthermore, there has been renewed attention to shootings of people who mistake
 <h3>Republicans Hit DeSantis Over Disney Feud</h3>
 <sub>By Maggie Haberman</sub>
 <p>As Gov. Ron DeSantis of Florida escalates a fight against his state’s largest private employer, his potential rivals for the White House see an opening to attack.  <a href="https://nyti.ms/3A8y58J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>DeSantis Appointees Seek to ‘Void’ Disney World Agreement</h3>
+<sub>By Brooks Barnes</sub>
+<p>A board overseeing the resort wants lawyers to prepare a resolution to stop Disney from maintaining vast control over the complex for decades to come.  <a href="https://nyti.ms/3Hl24yj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Uneven Cease-Fire in Sudan Makes Escape Hard for Desperate Civilians</h3>
+<sub>By Declan Walsh, Elian Peltier and Cora Engelbrecht</sub>
+<p>The army and the paramilitary group it is battling agreed to a 24-hour cease-fire. But many residents were unsure whether the truce was solid enough to safely flee.  <a href="https://nyti.ms/3mVScnk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
