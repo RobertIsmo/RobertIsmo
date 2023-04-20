@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 19, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! First, there is a landmark Supreme Court ruling which some people want to be overturned, as it protects the news media from paying a steeper price for mistakes. This is linked to Fox News and their settlement with the election technology company Dominion. 
-
-In other news, the US Supreme Court has delayed its decision on the abortion pill, meaning access to the drug will remain widely available. At the same time, two separate shootings in different parts of the country occurred after minor missteps on everyday tasks, bringing attention to self-defense laws across the country. 
-
-We&#39;re also seeing a conflict between Russia and Ukraine, due to Russian propaganda, and US Defense Secretary Lloyd J. Austin III is pushing for Sweden to become part of NATO.
-
-Finally, Florida Governor Ron DeSantis is in a fight with Disney World over an agreement they have and his potential Republican rivals are attacking him. In addition to that, there is also a cease-fire in Sudan making it difficult for civilians to use as an escape route.</p>
+There has been a lot going on in the world lately. The Supreme Court recently delayed a decision on abortion pill access that would have restricted it, so it&#39;s still widely available for now. There have been shootings in different parts of the US where innocent people were harmed due to missteps they made on everyday tasks. In other news, there&#39;s a fight happening between Fox News and Dominion over alleged defamation and media protections that resulted in Fox News having to settle with Dominion for $787.5 million. Governor DeSantis of Florida is also at odds with Disney World and is pushing for an agreement termination which is currently being discussed by his appointees. Outside of that, the US authorized a new round of Covid boosters for older adults and people with weakened immune systems and NATO is working to give Sweden membership soon. Lastly, there&#39;s a cease-fire in Sudan but many civilians are unsure whether it will hold long enough for them to be able to flee safely.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>After Fox Settlement, Assault on Media Protections Is Likely to Continue</h3>
@@ -87,21 +81,15 @@ Finally, Florida Governor Ron DeSantis is in a fight with Disney World over an a
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Delays Decision on Abortion Pill, Preserving Access for Now</h3>
-<sub>By Abbie VanSickle</sub>
-<p>The drug will remain widely available as the justices extended their deadline to Friday on whether to uphold the F.D.A.’s approval of the pill.  <a href="https://nyti.ms/3GX0VMS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hundreds of Miles Apart, Separate Shootings Follow Wrong Turns</h3>
 <sub>By Julie Bosman, Mitch Smith, Jesse McKinley and Jay Root</sub>
 <p>Two men appeared in courtrooms in different parts of the country on Wednesday, charged in shootings that came after minor missteps on everyday tasks.  <a href="https://nyti.ms/43L41xr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Are ‘Stand Your Ground’ Laws, and When Do They Apply?</h3>
-<sub>By Adeel Hassan</sub>
-<p>The shootings of two people who mistakenly approached homes in Missouri and New York have renewed attention to self-defense laws across the country.  <a href="https://nyti.ms/3UMdJeU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Supreme Court Delays Decision on Abortion Pill, Preserving Access for Now</h3>
+<sub>By Abbie VanSickle</sub>
+<p>The drug will remain widely available as the justices extended their deadline to Friday on whether to uphold the F.D.A.’s approval of the pill.  <a href="https://nyti.ms/3GX0VMS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -138,6 +126,12 @@ Finally, Florida Governor Ron DeSantis is in a fight with Disney World over an a
 <h3>Uneven Cease-Fire in Sudan Makes Escape Hard for Desperate Civilians</h3>
 <sub>By Declan Walsh, Elian Peltier and Cora Engelbrecht</sub>
 <p>The army and the paramilitary group it is battling agreed to a 24-hour cease-fire. But many residents were unsure whether the truce was solid enough to safely flee.  <a href="https://nyti.ms/3mVScnk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>U.S. Authorizes a New Round of Covid Boosters</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>Older Americans and those with weakened immune systems, groups still particularly vulnerable to the virus, may receive additional shots of the reformulated vaccine, federal officials said.  <a href="https://nyti.ms/3AcIf8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
