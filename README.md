@@ -60,16 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 20, Central Standard Time</p>
 <p>
-Right now, things in the world are pretty tense when it comes to international relations. China has been refusing to restart high-level talks with the United States, for instance, and the situation could potentially escalate in contested areas such as the Taiwan Strait. Meanwhile, Israel&#39;s right-wing government is causing difficulty for some Jewish Democrats. Their traditional defense of Israel often hinged on shared democratic values, but now that&#39;s proving tougher.
-
-In the US, the Republican party recent losses under Donald Trump has Republican governors talking election strategy for 2024, while two separate shootings involving wrong turns were reported in different parts this week. Meanwhile in Ukraine, social media stars are rethinking how they use their influence after years of Russian dominating their mediums.
-
-In Sudan, US troops are currently readying for evactuation of the American embassy as fighting intensifes, with civilians caught in the midst of it. Back home in the US, MyPillow founder Mike Lindell is being forced to pay up after arranging an ill-fated contest offering $5 million if someone could &#39;prove him wrong&#39; concerning false election claims. Finally, a track by two AIs posing as Drake and The Weeknd has gone viral and been removed from streaming services, raising important legal and creative questions about what defines &#39;real music&#39; going forward.</p>
+There is a lot of instability and violence in the world right now. In the US, tragic consequences are a result of tiny missteps in a country bristling with guns. Meanwhile, SpaceX had an unexpected outcome during a test flight, but still gained insight from their approach. There&#39;s also a drug that&#39;s great for horses but horrific for humans that drug dealers are mixing into fentanyl too. In Israel, a far-right government has Jewish democrats at a loss when it comes to defending it. President Trump has taken it upon himself to challenge Governor DeSantis in Florida through personal touchpoints like signed letters and Mar-a-Lago dinners. There was also an expensive defamation case settled quickly between Fox and Dominion that ended positively for Dominion but misinformation about election fraud continues to circulate online. Alec Baldwin was charged with involuntary manslaughter after some gunplay gone wrong on set but those charges have since been dropped and the film&#39;s armorer still faces charges. In Uganda, they&#39;ve passed a law which proposes life in prison for anyone engaging in same-sex relations and President Museveni is celebrating the &#39;strong stance&#39; that legislators took against the LGBTQ+ community there. The US military is also positioning troops to evacuate people from Khartoum in Sudan as the ceasefires there have failed due to two generals vying for power, leaving civilian&#39;s homes, hospitals, and airports destroyed in the chaos.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Xi Befriends World Leaders, He Hardens His Stance on the U.S.</h3>
-<sub>By David Pierson</sub>
-<p>China has rebuffed calls to restart high-level talks with the United States, raising the risk of confrontation in contested areas like the Taiwan Strait.  <a href="https://nyti.ms/3LgmkTU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In a Nation Armed to the Teeth, These Tiny Missteps Led to Tragedy</h3>
+<sub>By Jack Healy, Glenn Thrush, Eliza Fawcett and Susan C. Beachy</sub>
+<p>A workman knocking on the wrong door. A cheerleader mistaking another car for her own. Small errors can have large consequences in a nation bristling with guns.  <a href="https://nyti.ms/3H34zFg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Starship Exploded, but SpaceX Had Reason to Pop Champagne Anyway</h3>
+<sub>By Daniel Victor and Kenneth Chang</sub>
+<p>The four-minute flight ended in what the company called a “rapid unscheduled disassembly” — meaning it blew up. But there was much to learn from the flight, the latest step in SpaceX’s explode-as-you-learn approach.  <a href="https://nyti.ms/3Lht444"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>The Fight Over a Drug That Is Great for Horses but Horrific for Humans</h3>
+<sub>By Jan Hoffman</sub>
+<p>Drug dealers are mixing xylazine, an animal tranquilizer relied on by veterinarians, into fentanyl, with deadly results. But controlling it is tricky.  <a href="https://nyti.ms/3mUIdyL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -79,45 +87,15 @@ In Sudan, US troops are currently readying for evactuation of the American embas
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis’s Electability Pitch Wobbles, Despite G.O.P. Losses Under Trump</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The former president’s rivals are seeking to tap into Republican frustration with recent election disappointments to urge a new face for the party in 2024, but it is proving to be a tough sell.  <a href="https://nyti.ms/3AjyswY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hundreds of Miles Apart, Separate Shootings Follow Wrong Turns</h3>
-<sub>By Julie Bosman, Mitch Smith, Jesse McKinley and Jay Root</sub>
-<p>Two men appeared in courtrooms in different parts of the country on Wednesday, charged in shootings that came after minor missteps on everyday tasks.  <a href="https://nyti.ms/43L41xr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine’s Social Media Stars Rethink How They Wield Their Influence</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Russian was once the lingua franca of influencers in Ukraine. Now, not so much.  <a href="https://nyti.ms/43MKCMx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Positioning Troops for Evacuation of American Embassy in Sudan</h3>
-<sub>By Helene Cooper</sub>
-<p>Fierce fighting has trapped people in the capital, Khartoum, and the United States says it is “conducting prudent planning” to get diplomatic staff members out.  <a href="https://nyti.ms/41HP7WX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fighting Intensifies in Khartoum as Sudan Cease-Fires Fail</h3>
-<sub>By Isabella Kwai and Cora Engelbrecht</sub>
-<p>With two generals vying for power, residents in the Sudanese capital said the violence had destroyed hospitals, airfields and homes, and left civilians caught in the crossfire.  <a href="https://nyti.ms/3MZuYYn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Signed Letters, Mar-a-Lago Dinners: Trump’s Personal Touch in Fighting DeSantis</h3>
+<sub>By Michael C. Bender and Annie Karni</sub>
+<p>The former president has found a way to connect with Florida’s congressional delegation in a way that Gov. Ron DeSantis has not.  <a href="https://nyti.ms/40oNuwk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>BuzzFeed Shuts Down Its Namesake News Division</h3>
-<sub>By Benjamin Mullin and Katie Robertson</sub>
-<p>BuzzFeed News, which won a Pulitzer Prize but never made money, is “beginning the process of closing,” the company’s founder, Jonah Peretti, said in a memo to employees.  <a href="https://nyti.ms/3L116bw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>They Saw the Horrific Aftermath of a Mass Shooting. Should We?</h3>
-<sub>By Jay Kirk</sub>
-<p>The crime-scene investigators are the ones who document, and remember, the unimaginable. This is what they saw at Sandy Hook.  <a href="https://nyti.ms/3Afy5DQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Hard Lines in Fox-Dominion Deal Talks Suddenly Softened</h3>
+<sub>By Jeremy W. Peters, Jim Rutenberg and Katie Robertson</sub>
+<p>The $787.5 million settlement, believed to be the largest in a defamation case, came together quickly.  <a href="https://nyti.ms/41BNV7s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -129,14 +107,32 @@ In Sudan, US troops are currently readying for evactuation of the American embas
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Prove Mike Wrong’ for $5 Million, Lindell Pitched. Now He’s Told to Pay Up.</h3>
 <sub>By Neil Vigdor</sub>
-<p>An arbitration panel ruled that the MyPillow founder had failed to pay a computer software expert who disproved his false election claims as part of a contest.  <a href="https://nyti.ms/40llfOR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>An arbitration panel ruled that the MyPillow founder had failed to pay a computer software expert who disproved his false election claims as part of a contest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>An A.I. Hit of Fake ‘Drake’ and ‘The Weeknd’ Rattles the Music World</h3>
-<sub>By Joe Coscarelli</sub>
-<p>A track like “Heart on My Sleeve,” which went viral before being taken down by streaming services this week, may be a novelty for now. But the legal and creative questions it raises are here to stay.  <a href="https://nyti.ms/40m1eaT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<h3>‘Rust’ Prosecutors Are Dropping Charges Against Alec Baldwin, His Lawyers Say</h3>
+<sub>By Julia Jacobs and Graham Bowley</sub>
+<p>Mr. Baldwin had been charged with involuntary manslaughter after the gun he was practicing with went off on set, killing the film’s cinematographer. The film’s armorer still faces charges.  <a href="https://nyti.ms/3V8NLTb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘We Will Hunt You’: Ugandans Flee Ahead of Harsh Anti-Gay Law</h3>
+<sub>By Abdi Latif Dahir</sub>
+<p>The bill, passed last month, calls for life in prison for anyone engaging in same-sex relations. President Yoweri Museveni congratulated lawmakers for their “strong stand” against L.G.B.T.Q. people.  <a href="https://nyti.ms/41rmE7V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Positioning Troops for Evacuation of American Embassy in Sudan</h3>
+<sub>By Helene Cooper, Elian Peltier and Farnaz Fassihi</sub>
+<p>Fierce fighting has trapped people in the capital, Khartoum, and the United States says it is “conducting prudent planning” to get diplomatic staff members out.  <a href="https://nyti.ms/41HP7WX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fighting Intensifies in Khartoum as Sudan Cease-Fires Fail</h3>
+<sub>By Isabella Kwai and Cora Engelbrecht</sub>
+<p>With two generals vying for power, residents in the Sudanese capital said the violence had destroyed hospitals, airfields and homes, and left civilians caught in the crossfire.  <a href="https://nyti.ms/3MZuYYn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
