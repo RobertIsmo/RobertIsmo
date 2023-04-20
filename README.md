@@ -60,25 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 20, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. There are media protections being threatened after a settlement between Fox News and Dominion, and the election technology company is facing more defamation lawsuits from people and news outlets. Sadly, there have been two separate shootings in different parts of the country following wrong turns. But there is some good news coming from the Supreme Court - they delayed their decision on the Abortion Pill, meaning that it will stay accessible for now. And then overseas in Ukraine and Sudan, Russian propaganda continues to plague citizens while a new cease-fire was declared but has been all over the place, leading to difficulty in making escapes during times of war. In terms of health news here, the US government has authorized a new round of Covid booster shots which offer protection against the virus for those particularly vulnerable to it. On a less serious note, an A.I. hit &#39;song&#39; by fake accounts impersonating Drake and The Weeknd went viral before streaming services took it down, raising legal and creative questions about how to move forward. Finally, some political news: Republicans are hitting Florida&#39;s governor Ron DeSantis for having a feud with Disney World, while his board appointed by him seeks to void Disney&#39;s long control over their complex. </p>
+Right now, tensions between the United States and China are continuing to rise as China has rejected calls to restart high-level talks. Meanwhile, the US Treasury Secretary is calling for a more conciliatory approach towards China while Republicans are struggling to find a new face for the party ahead of the 2024 Presidential election. Closer to home, there have been two separate shootings in different parts of the country after minor missteps on everyday tasks. There&#39;s also news about electric vehicle tax credits creating chaos for consumers. In addition, AI technology is causing some confusion in the music world and a chef in Boston is being accused of workplace abuse. Lastly, crime-scene investigators have documented their experience processing the aftermath of a mass shooting.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>After Fox Settlement, Assault on Media Protections Is Likely to Continue</h3>
-<sub>By David Enrich</sub>
-<p>Those who argue that the news media should pay a steeper price for mistakes are pushing to have a landmark Supreme Court ruling overturned.  <a href="https://nyti.ms/41o7DUz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Everybody Knows What Fox News Is Now</h3>
-<sub>By James Poniewozik</sub>
-<p>Even without a trial, the Dominion suit made plain that the network’s main goal is the maintenance of a reality bubble.  <a href="https://nyti.ms/3ootEUG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Xi Befriends World Leaders, He Hardens His Stance on the U.S.</h3>
+<sub>By David Pierson</sub>
+<p>China has rebuffed calls to restart high-level talks with the United States, raising the risk of confrontation in contested areas like the Taiwan Strait.  <a href="https://nyti.ms/3LgmkTU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What’s Next for Dominion After Its $787.5 Million Settlement With Fox News?</h3>
-<sub>By Tiffany Hsu</sub>
-<p>The election technology company has several more defamation lawsuits pending against public figures and news outlets.  <a href="https://nyti.ms/3AgDfiI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<h3>Yellen to Call for ‘Constructive’ China Relationship</h3>
+<sub>By Ana Swanson</sub>
+<p>The Treasury secretary will strike a more conciliatory note in a speech Thursday, following months of escalated tensions between the world’s two largest economies.  <a href="https://nyti.ms/3os42WO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hundreds of Miles Apart, Separate Shootings Follow Wrong Turns</h3>
@@ -87,16 +81,22 @@ Right now, there&#39;s a lot going on in the world. There are media protections 
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Delays Decision on Abortion Pill, Preserving Access for Now</h3>
-<sub>By Abbie VanSickle</sub>
-<p>The drug will remain widely available as the justices extended their deadline to Friday on whether to uphold the F.D.A.’s approval of the pill.  <a href="https://nyti.ms/3GX0VMS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<h3>DeSantis’s Electability Pitch Wobbles, Despite G.O.P. Losses Under Trump</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The former president’s rivals are seeking to tap into Republican frustration with recent election disappointments to urge a new face for the party in 2024, but it is proving to be a tough sell.  <a href="https://nyti.ms/3AjyswY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Our Own Guys Are Shelling Us’: How Russian Propaganda Plagues Ukraine</h3>
-<sub>By Carlotta Gall, Oleksandr Chubko, Dyma Shapoval and Daniel Berehulak</sub>
-<p>A year into the war, some residents of eastern Ukrainian towns still confound officials and the police with their support for Russia despite the constant bombardment from Russian forces.  <a href="https://nyti.ms/43Mqeel"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who’s Running for President in 2024?</h3>
+<sub>By Martín González Gómez and Maggie Astor</sub>
+<p>See who is in, and who else might run.  <a href="https://nyti.ms/3Y05QCI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Super PAC Targets Greene, Gaetz, Boebert and Others on the Far Right</h3>
+<sub>By Nick Corasaniti</sub>
+<p>The bipartisan group will challenge hard-right House Republicans in their home districts, running ads that accuse the lawmakers of holding antidemocratic positions.  <a href="https://nyti.ms/3AfynKW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>An A.I. Hit of Fake ‘Drake’ and ‘The Weeknd’ Rattles the Music World</h3>
@@ -104,35 +104,35 @@ Right now, there&#39;s a lot going on in the world. There are media protections 
 <p>A track like “Heart on My Sleeve,” which went viral before being taken down by streaming services this week, may be a novelty for now. But the legal and creative questions it raises are here to stay.  <a href="https://nyti.ms/40m1eaT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Hit DeSantis Over Disney Feud</h3>
-<sub>By Maggie Haberman</sub>
-<p>As Gov. Ron DeSantis of Florida escalates a fight against his state’s largest private employer, his potential rivals for the White House see an opening to attack.  <a href="https://nyti.ms/3A8y58J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Peering Into the Future of Novels, With Trained Machines Ready</h3>
+<sub>By Elizabeth A. Harris</sub>
+<p>Who wrote it, the novelist or the technology? How about both? Stephen Marche experiments with teaching artificial intelligence to write with him, not for him.  <a href="https://nyti.ms/3UVCaXd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Our Own Guys Are Shelling Us’: How Russian Propaganda Plagues Ukraine</h3>
+<sub>By Carlotta Gall, Oleksandr Chubko, Dyma Shapoval and Daniel Berehulak</sub>
+<p>A year into the war, some residents of eastern Ukrainian towns still confound officials and the police with their support for Russia despite the constant bombardment from Russian forces.  <a href="https://nyti.ms/43Mqeel"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Barbara Lynch, a Leading Boston Restaurateur, Is Accused of Workplace Abuse</h3>
+<sub>By Julia Moskin</sub>
+<p>The chef has spoken out against sexism and abuse, but many former cooks and staff members say she has verbally and physically harassed workers for decades.  <a href="https://nyti.ms/43Q4MVM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>They Saw the Horrific Aftermath of a Mass Shooting. Should We?</h3>
+<sub>By Jay Kirk</sub>
+<p>The crime-scene investigators are the ones who document, and remember, the unimaginable. This is what they saw at Sandy Hook.  <a href="https://nyti.ms/3Afy5DQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>DeSantis Appointees Seek to ‘Void’ Disney World Agreement</h3>
-<sub>By Brooks Barnes</sub>
-<p>A board overseeing the resort wants lawyers to prepare a resolution to stop Disney from maintaining vast control over the complex for decades to come.  <a href="https://nyti.ms/3Hl24yj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Uneven Cease-Fire in Sudan Makes Escape Hard for Desperate Civilians</h3>
-<sub>By Declan Walsh, Elian Peltier and Cora Engelbrecht</sub>
-<p>The army and the paramilitary group it is battling agreed to a 24-hour cease-fire. But many residents were unsure whether the truce was solid enough to safely flee.  <a href="https://nyti.ms/3mVScnk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Sudan’s Generals Dined With Peace Negotiators, Then Started a War</h3>
-<sub>By Declan Walsh</sub>
-<p>What led the two generals, recently allies, to turn their forces on each other — devastating a country of 45 million people?  <a href="https://nyti.ms/41HgiB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>U.S. Authorizes a New Round of Covid Boosters</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>Older Americans and those with weakened immune systems, groups still particularly vulnerable to the virus, may receive additional shots of the reformulated vaccine, federal officials said.  <a href="https://nyti.ms/3AcIf8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<h3>Electric Vehicle Tax Credit Rules Create ‘Chaos for Consumers’</h3>
+<sub>By Lawrence Ulrich</sub>
+<p>Buying an electric car has become much more complicated because of restrictions on which models qualify for a federal tax credit of up to $7,500.  <a href="https://nyti.ms/3Ld7oGc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
