@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 20, Central Standard Time</p>
 <p>
-There are a few major news stories happening around the world right now. In the US, there have been two recent court cases involving shootings caused by minor missteps. There&#39;s also a Supreme Court decision that delays a ruling on abortion rights and keeps abortion pills available for now. 
-
-In Europe, Swedish officials are pushing for NATO membership and US defense secretary Lloyd J. Austin III is visiting to encourage them. 
-
-Finally, there&#39;s violence in Sudan between two militaristic forces. They agreed to a temporary cease-fire but civilians are unsure if they can flee safely with it in effect. 
-
-It seems like the business and media industry is particularly active right now. Fox News settled a lawsuit for $787.5 million dollars which motivated people to attempt overturning existing media protections in court. And Disney World is involved in a growing feud with Florida governor Ron DeSantis and his appointees over control of the resort complex.</p>
+Right now, there&#39;s a lot going on in the world. There are media protections being threatened after a settlement between Fox News and Dominion, and the election technology company is facing more defamation lawsuits from people and news outlets. Sadly, there have been two separate shootings in different parts of the country following wrong turns. But there is some good news coming from the Supreme Court - they delayed their decision on the Abortion Pill, meaning that it will stay accessible for now. And then overseas in Ukraine and Sudan, Russian propaganda continues to plague citizens while a new cease-fire was declared but has been all over the place, leading to difficulty in making escapes during times of war. In terms of health news here, the US government has authorized a new round of Covid booster shots which offer protection against the virus for those particularly vulnerable to it. On a less serious note, an A.I. hit &#39;song&#39; by fake accounts impersonating Drake and The Weeknd went viral before streaming services took it down, raising legal and creative questions about how to move forward. Finally, some political news: Republicans are hitting Florida&#39;s governor Ron DeSantis for having a feud with Disney World, while his board appointed by him seeks to void Disney&#39;s long control over their complex. </p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>After Fox Settlement, Assault on Media Protections Is Likely to Continue</h3>
@@ -104,12 +98,6 @@ It seems like the business and media industry is particularly active right now. 
 <p>A year into the war, some residents of eastern Ukrainian towns still confound officials and the police with their support for Russia despite the constant bombardment from Russian forces.  <a href="https://nyti.ms/43Mqeel"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Defense Secretary Urges Swift NATO Membership for Sweden</h3>
-<sub>By Helene Cooper</sub>
-<p>Defense Secretary Lloyd J. Austin III, visiting Sweden, said he hoped that objections to adding the country to the alliance would be ironed out by midsummer, when member states meet in Lithuania.  <a href="https://nyti.ms/3AiqcgI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>An A.I. Hit of Fake ‘Drake’ and ‘The Weeknd’ Rattles the Music World</h3>
 <sub>By Joe Coscarelli</sub>
@@ -138,6 +126,12 @@ It seems like the business and media industry is particularly active right now. 
 <h3>Sudan’s Generals Dined With Peace Negotiators, Then Started a War</h3>
 <sub>By Declan Walsh</sub>
 <p>What led the two generals, recently allies, to turn their forces on each other — devastating a country of 45 million people?  <a href="https://nyti.ms/41HgiB2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>U.S. Authorizes a New Round of Covid Boosters</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>Older Americans and those with weakened immune systems, groups still particularly vulnerable to the virus, may receive additional shots of the reformulated vaccine, federal officials said.  <a href="https://nyti.ms/3AcIf8d"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
