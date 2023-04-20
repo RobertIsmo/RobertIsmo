@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 20, Central Standard Time</p>
 <p>
-Right now, tensions between the United States and China are continuing to rise as China has rejected calls to restart high-level talks. Meanwhile, the US Treasury Secretary is calling for a more conciliatory approach towards China while Republicans are struggling to find a new face for the party ahead of the 2024 Presidential election. Closer to home, there have been two separate shootings in different parts of the country after minor missteps on everyday tasks. There&#39;s also news about electric vehicle tax credits creating chaos for consumers. In addition, AI technology is causing some confusion in the music world and a chef in Boston is being accused of workplace abuse. Lastly, crime-scene investigators have documented their experience processing the aftermath of a mass shooting.</p>
+In the world, Chinese President Xi Jinping is strengthening his stance against the United States and refusing to restart high-level talks. Treasury Secretary Janet Yellen is calling for a more conciliatory approach to China in her upcoming speech. There have also been two separate incidents in the US recently where two men have been charged with shootings after taking wrong turns on everyday tasks. Republican leaders are trying to push for a new face for the party, while opponents of the news media are trying to have a landmark Supreme Court ruling overturned so that the media can be held liable for publishing false information. There has also been controversy recently around an artificial intelligence-generated song being released under fake artist names, raising legal and creative questions. In Ukraine, many people in eastern towns are still showing support for Russia despite constant bombardment from Russian forces. Back in the US, Boston&#39;s leading restaurateur has been accused of workplace abuse and mistreatment of staff, while crime scene investigators document the aftermath of mass shootings such as Sandy Hook.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Xi Befriends World Leaders, He Hardens His Stance on the U.S.</h3>
@@ -129,10 +129,10 @@ Right now, tensions between the United States and China are continuing to rise a
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Electric Vehicle Tax Credit Rules Create ‘Chaos for Consumers’</h3>
-<sub>By Lawrence Ulrich</sub>
-<p>Buying an electric car has become much more complicated because of restrictions on which models qualify for a federal tax credit of up to $7,500.  <a href="https://nyti.ms/3Ld7oGc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<h3>After Fox Settlement, Assault on Media Protections Is Likely to Continue</h3>
+<sub>By David Enrich</sub>
+<p>Those who argue that the news media should pay a steeper price for publishing false information are pushing to have a landmark Supreme Court ruling overturned.  <a href="https://nyti.ms/41o7DUz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
