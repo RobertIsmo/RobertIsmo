@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 21, Central Standard Time</p>
 <p>
-In the US, there is a big debate going on about the debt ceiling and how to manage the nation&#39;s borrowing limit. Republicans have proposed cuts to federal spending in exchange for lifting the limit. In Russia, prisoners with HIV are being forced onto the front lines of war because they don&#39;t have access to adequate medical care in prison. There was recently an accidental bombing of a Russian city, injuring three people. As part of their military aid package to Ukraine, the US has just sent them anti-tank land mines that will be lethal indefinitely. Meanwhile in the US, there is an ongoing discussion about the Supreme Court&#39;s decision to overturn Roe v. Wade and the states where abortion is currently banned. Finally, scientists have been examining an unusual experiment in Belgium involving taking in mentally ill people into family homes and using video chat technology with parrots. President Biden has also held few press conferences since he came into office— fewer than any president since Reagan.</p>
+In the US, the House GOP has proposed a bill to raise the nation’s debt ceiling in exchange for government spending reductions and unraveling of parts of the Biden administration&#39;s policy agenda. Across the world, prisoners in Russia are enlisting for military service as a way to access lifesaving medications denied to them in prison. Meanwhile, an accidental bombing near Ukraine&#39;s border has caused injury to three people. In response to this, the Pentagon has provided an aid package to Ukraine that includes ancient anti-tank land mines that are lethal indefinitely. On another note, something is at stake in Supreme Court decisions–the court is expected to decide on access to abortion pills. It&#39;s estimated that legislation is in place banning abortions in certain states and the New York Times is tracking the status of laws in each state introduced after Roe v. Wade&#39;s reversal. In sports news, five NFL players were suspended for gambling and two Lions players sit out six games for gambling violations. Scientists have conducted an experiment involving parrots interacting via video chat, which could have implications for mental health care worldwide. Finally, elite US law schools are boycotting US News&#39; rankings system after criticism of a new proposed system, and delays have since ensued. Lastly, President Biden is gearing up for a second term announcement and his news media strategy remains at arm&#39;s length.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Debt Ceiling Debate Is About More Than Debt</h3>
@@ -104,10 +104,10 @@ In the US, there is a big debate going on about the debt ceiling and how to mana
 <p>The New York Times is tracking the status of abortion laws in each state following the Supreme Court’s decision to overturn Roe v. Wade.  <a href="https://nyti.ms/3sYKAjR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Obscure G.O.P. Bookkeeper at the Center of the George Santos Mess</h3>
-<sub>By Grace Ashford and Nicholas Fandos</sub>
-<p>Nancy Marks, Mr. Santos’s former campaign treasurer, has her own history of questionable dealings that have aroused interest from federal investigators.  <a href="https://nyti.ms/3UTmqE2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>N.F.L. Suspends Five Players for Gambling</h3>
+<sub>By Jenny Vrentas</sub>
+<p>Quintez Cephus and C.J. Moore of the Detroit Lions and Shaka Toney of the Washington Commanders were suspended indefinitely for betting on N.F.L. games, and two other Lions players will sit out six games for gambling violations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,10 +116,10 @@ In the US, there is a big debate going on about the debt ceiling and how to mana
 <p>In the Belgian town of Geel, families have long taken in people with psychiatric conditions. Could this approach work elsewhere?  <a href="https://nyti.ms/3oyM3y7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Gaza Celebrates Eid, a Gift for Women — and a Duty for Men</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>Palestinian Muslims give the eidiya — a gift of money — to female relatives and children on the Eid that marks the end of Ramadan. It is a revered tradition but one that can come with a heavy price.  <a href="https://nyti.ms/3LjsKBR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Elite Law Schools Boycotted the U.S. News Rankings. Now, They May Be Paying a Price.</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>After a preview of the new rankings system, Yale and other universities raised a storm of objections. The formal list is now indefinitely delayed.  <a href="https://nyti.ms/3L0sxSI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -129,7 +129,7 @@ In the US, there is a big debate going on about the debt ceiling and how to mana
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Any Questions? Biden Holds Fewest News Conferences Since Reagan</h3>
+<h3>Biden Has Held the Fewest News Conferences Since Reagan. Any Questions?</h3>
 <sub>By Michael D. Shear</sub>
 <p>As President Biden prepares to announce his bid for a second term as soon as Tuesday, his decision to keep the news media at arm’s length is part of a deliberate strategy.  <a href="https://nyti.ms/3oxBiMt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
