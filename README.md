@@ -58,13 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, April 20, Central Standard Time</p>
+<p>It is Friday, April 21, Central Standard Time</p>
 <p>
-There is so much happening in the world right now, it&#39;s hard to keep up! In the US, there are discussions about gun control as America is armed with a large amount of guns, and of course, tiny missteps can lead to tragic consequences. Meanwhile, drug dealers have been mixing a horse tranquilizer into fentanyl with devastating results. On a political note, former President Donald Trump is using unconventional methods to fight a current Governor in Florida, and former Vice President Joe Biden is likely running for Presidency this year. 
-
-In the scientific field, however, there have been some more exciting events. SpaceX launched its most powerful rocket ever– though it ended in an explosive failure– and hopefully it will still lead to some incredible breakthroughs. Yet on the other side of the globe, Uganda recently passed legislation condemning anyone involved in L.G.B.T.Q rights to life in prison!
-
-And it&#39;s not just news abroad that we need to pay attention to-- a few weeks ago, prosecutors dropped charges against actor Alec Baldwin after the gun he was practicing with went off on set. Finally, there is an article featuring interviews with crime-scene investigators after the Sandy Hook shooting; they document and remember these unimaginable events everyday.</p>
+There have been a lot of tragic and troubling events happening in the world recently. In the US, there have been several tragedies related to people having too many firearms, and disparities in access to guns that lead to large consequences. In Uganda, they are poised to pass a law that would put anyone engaging in same-sex relations in prison for life, while in Israel they have a far-right government that has made American lawmakers defending Israel more difficult. On a lighter note, charges against actor Alec Baldwin for an unintentional death on a film set have been dropped by prosecutors. Lastly, there has been some progress towards settling defamation cases between Fox and Dominion, as well as between Lachlan Murdoch and an Australian news site.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In a Nation Armed to the Teeth, These Tiny Missteps Led to Tragedy</h3>
@@ -85,15 +81,21 @@ And it&#39;s not just news abroad that we need to pay attention to-- a few weeks
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Israel’s Right-Wing Government Has Jewish Democrats at a Loss</h3>
+<sub>By Jonathan Weisman</sub>
+<p>American lawmakers defending Israel have often fallen back on what they call the countries’ shared democratic values. But defending the current far-right government is proving a lot harder.  <a href="https://nyti.ms/43MFgAW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Signed Letters, Mar-a-Lago Dinners: Trump’s Personal Touch in Fighting DeSantis</h3>
 <sub>By Michael C. Bender and Annie Karni</sub>
 <p>The former president has found a way to connect with Florida’s congressional delegation in a way that Gov. Ron DeSantis has not.  <a href="https://nyti.ms/40oNuwk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Larry Elder, Republican Who Lost in California’s Recall Election, Runs for President</h3>
-<sub>By E. Justin Swanson</sub>
-<p>On Fox News, the conservative talk radio host said he had “a moral, religious and a patriotic duty to give back to a country that’s been so good to my family and me.”  <a href="https://nyti.ms/3USvpFy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Christie, in New Hampshire, Reconnects With 2016 Supporters</h3>
+<sub>By Trip Gabriel</sub>
+<p>The former New Jersey governor is testing a campaign as Donald Trump’s most vocal critic in the Republican field.  <a href="https://nyti.ms/3N37P7q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -130,12 +132,6 @@ And it&#39;s not just news abroad that we need to pay attention to-- a few weeks
 <h3>‘We Will Hunt You’: Ugandans Flee Ahead of Harsh Anti-Gay Law</h3>
 <sub>By Abdi Latif Dahir</sub>
 <p>The bill, passed last month, calls for life in prison for anyone engaging in same-sex relations. President Yoweri Museveni congratulated lawmakers for their “strong stand” against L.G.B.T.Q. people.  <a href="https://nyti.ms/41rmE7V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>They Saw the Horrific Aftermath of a Mass Shooting. Should We?</h3>
-<sub>By Jay Kirk</sub>
-<p>The crime-scene investigators are the ones who document, and remember, the unimaginable. This is what they saw at Sandy Hook.  <a href="https://nyti.ms/3Afy5DQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
