@@ -60,8 +60,50 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 21, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, there&#39;s a tragedy that was caused by tiny missteps by people in a country bristling with guns. There&#39;s also political news; Biden&#39;s likely to announce his run for president as early as next Tuesday, while Trump is personally intervening in Florida&#39;s governor race. In the science world, Elon Musk&#39;s SpaceX just failed its rocket test but still had some successes. For business news, Fox and Dominion recently made an agreement that greatly benefited Fox; Lachlan Murdoch later dropped a libel suit against an Australian website. Back in the US, charges have been dropped against Alec Baldwin involving a fatal film set accident. And finally, Uganda recently passed a harsh anti-gay law threatening life imprisonment, with President Museveni celebrating it as a &quot;strong stand&quot;.</p>
+There is a lot going on in the world right now. The Supreme Court is considering a piece of legislation about access to abortion medication, as several states have passed new laws banning abortion. Meanwhile, in Russia, prisoners with HIV are choosing to go to war to get lifesaving drugs due to lack of access in their prisons. In Florida, they recently hired a cruise ship to house state workers because of an influx of migrants, but haven&#39;t figured out a place for it yet. Business groups are also in a fight with the Biden administration over their labor policies. On a lighter note, restaurants around the world are now catering specifically to dogs, offering them their own menus and even tasting menus!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Is Expected to Decide on Access to Abortion Pill as Appeal Moves Forward</h3>
+<sub>By Abbie VanSickle and Pam Belluck</sub>
+<p>The court is expected to weigh in on whether a commonly used pill, mifepristone, should remain widely available. Here is what’s at stake.  <a href="https://nyti.ms/3N1WeW8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tracking the States Where Abortion Is Now Banned</h3>
+<sub>By The New York Times</sub>
+<p>The New York Times is tracking the status of abortion laws in each state following the Supreme Court’s decision to overturn Roe v. Wade.  <a href="https://nyti.ms/3sYKAjR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Obscure G.O.P. Bookkeeper at the Center of the George Santos Mess</h3>
+<sub>By Grace Ashford and Nicholas Fandos</sub>
+<p>Nancy Marks, Mr. Santos’s former campaign treasurer, has her own history of questionable dealings that have aroused interest from federal investigators.  <a href="https://nyti.ms/3UTmqE2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘A Quick Death or a Slow Death’: Prisoners Choose War to Get Lifesaving Drugs</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>An estimated 20 percent of Russia prisoner recruits are H.I.V. positive. To some, the front lines seemed less risky than prisons where they said they were denied effective treatments.  <a href="https://nyti.ms/3mSetme"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Three people are injured after Russia says it accidentally bombs its own city.</h3>
+<sub>By Ivan Nechepurenko and Jeffrey Gettleman</sub>
+<p>A blast in Belgorod, near the Ukrainian border, was the result of “an accidental discharge of aviation ammunition,” Russia’s Defense Ministry said.  <a href="https://nyti.ms/3KSlxHv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Gaza Celebrates Eid, a Gift for Women — and a Duty for Men</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>Palestinian Muslims give the eidiya — a gift of money — to female relatives and children on the Eid that marks the end of Ramadan. It is a revered tradition but one that can come with a heavy price.  <a href="https://nyti.ms/3LjsKBR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Cruise Ship for Florida’s Migrant Crisis Had Nowhere to Dock</h3>
+<sub>By Frances Robles</sub>
+<p>As part of Gov. Ron DeSantis’s emergency response to a migrant influx in the Florida Keys, the state hired a cruise ship to house state workers. But it neglected to arrange a place to put it.  <a href="https://nyti.ms/3LsTMa5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In a Nation Armed to the Teeth, These Tiny Missteps Led to Tragedy</h3>
 <sub>By Jack Healy, Glenn Thrush, Eliza Fawcett and Susan C. Beachy</sub>
@@ -74,40 +116,10 @@ There&#39;s a lot going on in the world right now. In the US, there&#39;s a trag
 <p>Drug dealers are mixing xylazine, an animal tranquilizer relied on by veterinarians, into fentanyl, with deadly results. But controlling it is tricky.  <a href="https://nyti.ms/3mUIdyL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden in Final Stage of ’24 Planning, With Announcement as Early as Tuesday</h3>
-<sub>By Shane Goldmacher, Michael D. Shear and Maggie Haberman</sub>
-<p>A campaign video is said to be in production, and donors are being mobilized, for a run that could be announced early next week.  <a href="https://nyti.ms/3LhhgPb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Israel’s Right-Wing Government Has Jewish Democrats at a Loss</h3>
-<sub>By Jonathan Weisman</sub>
-<p>American lawmakers defending Israel have often fallen back on what they call the countries’ shared democratic values. But defending the current far-right government is proving a lot harder.  <a href="https://nyti.ms/43MFgAW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Signed Letters, Mar-a-Lago Dinners: Trump’s Personal Touch in Fighting DeSantis</h3>
-<sub>By Michael C. Bender and Annie Karni</sub>
-<p>The former president has found a way to connect with Florida’s congressional delegation in a way that Gov. Ron DeSantis has not.  <a href="https://nyti.ms/40oNuwk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Christie, in New Hampshire, Reconnects With 2016 Supporters</h3>
-<sub>By Trip Gabriel</sub>
-<p>The former New Jersey governor is testing a campaign as Donald Trump’s most vocal critic in the Republican field.  <a href="https://nyti.ms/3N37P7q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>SpaceX’s Starship ‘Learning Experience’ Ends in Explosion</h3>
-<sub>By Kenneth Chang</sub>
-<p>The first flight of the most powerful rocket ever was not the success that Elon Musk and his company hoped for, but the launch achieved several milestones toward future journeys.  <a href="https://nyti.ms/3mQFRkt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Starship Exploded, but SpaceX Had Reason to Pop Champagne Anyway</h3>
-<sub>By Daniel Victor and Kenneth Chang</sub>
-<p>The four-minute flight ended in what the company called a “rapid unscheduled disassembly” — meaning it blew up. But there was much to learn from the flight, the latest step in SpaceX’s explode-as-you-learn approach.  <a href="https://nyti.ms/3Lht444"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Battle Over Labor Secretary Nominee Reflects a Larger Fight for Biden</h3>
+<sub>By Noam Scheiber</sub>
+<p>Business groups are critical of the candidate, Julie Su, and key senators are wavering. The administration’s labor policies are central to the clash.  <a href="https://nyti.ms/3KQZVLz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -116,22 +128,10 @@ There&#39;s a lot going on in the world right now. In the US, there&#39;s a trag
 <p>The $787.5 million settlement, believed to be the largest in a defamation case, came together quickly.  <a href="https://nyti.ms/41BNV7s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Lachlan Murdoch Drops Libel Suit Against Australian News Site</h3>
-<sub>By Katie Robertson</sub>
-<p>His lawyer said the website, Crikey, intended to exploit the outcome of the Fox-Dominion defamation case in the U.S.  <a href="https://nyti.ms/3onmeRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Rust’ Prosecutors Are Dropping Charges Against Alec Baldwin</h3>
-<sub>By Graham Bowley and Julia Jacobs</sub>
-<p>Mr. Baldwin had been charged with involuntary manslaughter after the gun he was practicing with went off on a film set, killing the cinematographer. The film’s armorer still faces charges.  <a href="https://nyti.ms/3V8NLTb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘We Will Hunt You’: Ugandans Flee Ahead of Harsh Anti-Gay Law</h3>
-<sub>By Abdi Latif Dahir</sub>
-<p>The bill, passed last month, calls for life in prison for anyone engaging in same-sex relations. President Yoweri Museveni congratulated lawmakers for their “strong stand” against L.G.B.T.Q. people.  <a href="https://nyti.ms/41rmE7V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>No More Begging for Treats. Dogs Now Have Restaurants.</h3>
+<sub>By Christina Morales</sub>
+<p>From special menus for canine companions to food trucks and even tasting menus, some restaurateurs are pulling out all the stops for pets.  <a href="https://nyti.ms/41LuGsg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
