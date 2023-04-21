@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 21, Central Standard Time</p>
 <p>
-There are a lot of significant developments taking place in the world right now. In some countries, prisoners with HIV&#x2F;AIDS are opting to sign up for war instead of staying in prison, where effective treatments are denied to them. In Russia, there was an accidental bombing of a city near the Ukrainian border that injured three people. The Supreme Court is reportedly deciding on the access to abortion pill and many US states have already banned it. Meanwhile, in New York, federal investigators are investigating a case involving a former campaign treasurer accused of questionable dealings. Muslims in Gaza are choosing to give the eidiya, money gifts to female relatives during Eid, even if this means they cannot financially support their own family members. In Florida, officials hired a cruise ship to respond to a migrant influx but did not have anywhere to dock it. In the US, small errors have proven to be costly as the country remains heavily armed. Drugs like fentanyl are also increasingly being mixed with animal tranquilizers which is having dangerous effects on humans. Finally, due to disputes between business groups and key senators, Julie Su is facing backlash for her nomination as the new labor secretary and a large defamation case was just settled for $787.5 million. Oh, and dogs now have restaurants specifically tailored for them!</p>
+In the US, there is a big debate going on about the debt ceiling and how to manage the nation&#39;s borrowing limit. Republicans have proposed cuts to federal spending in exchange for lifting the limit. In Russia, prisoners with HIV are being forced onto the front lines of war because they don&#39;t have access to adequate medical care in prison. There was recently an accidental bombing of a Russian city, injuring three people. As part of their military aid package to Ukraine, the US has just sent them anti-tank land mines that will be lethal indefinitely. Meanwhile in the US, there is an ongoing discussion about the Supreme Court&#39;s decision to overturn Roe v. Wade and the states where abortion is currently banned. Finally, scientists have been examining an unusual experiment in Belgium involving taking in mentally ill people into family homes and using video chat technology with parrots. President Biden has also held few press conferences since he came into office— fewer than any president since Reagan.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Debt Ceiling Debate Is About More Than Debt</h3>
+<sub>By Jim Tankersley</sub>
+<p>Republicans’ opening bid to avert economic catastrophe by raising the nation’s borrowing limit focuses more on energy policy than reducing debt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What’s in the House G.O.P. Debt Limit Bill</h3>
+<sub>By Madeleine Ngo, Catie Edmondson and Jim Tankersley</sub>
+<p>Republicans revealed a proposal on Wednesday that would cut federal spending and unravel parts of the Biden administration’s policy agenda in exchange for lifting the nation’s borrowing cap.  <a href="https://nyti.ms/3mQ7xWI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘A Quick Death or a Slow Death’: Prisoners Choose War to Get Lifesaving Drugs</h3>
 <sub>By Andrew E. Kramer</sub>
@@ -72,6 +84,12 @@ There are a lot of significant developments taking place in the world right now.
 <h3>Three people are injured after Russia says it accidentally bombed its own city.</h3>
 <sub>By Ivan Nechepurenko and Jeffrey Gettleman</sub>
 <p>A blast in Belgorod, near the Ukrainian border, was the result of “an accidental discharge of aviation ammunition,” Russia’s Defense Ministry said.  <a href="https://nyti.ms/3KSlxHv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pentagon Aid Package to Ukraine Includes Decades-Old Anti-Tank Land Mines</h3>
+<sub>By John Ismay</sub>
+<p>The M21 mines do not run afoul of international treaties. But unlike other mines the United States has given to Kyiv, they can be lethal indefinitely.  <a href="https://nyti.ms/3KX3sYO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,46 +111,28 @@ There are a lot of significant developments taking place in the world right now.
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Radical Experiment in Mental Health Care, Tested Over Centuries</h3>
+<sub>By Matina Stevis-Gridneff, Koba Ryckewaert and Ilvy Njiokiktjien</sub>
+<p>In the Belgian town of Geel, families have long taken in people with psychiatric conditions. Could this approach work elsewhere?  <a href="https://nyti.ms/3oyM3y7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Gaza Celebrates Eid, a Gift for Women — and a Duty for Men</h3>
 <sub>By Raja Abdulrahim</sub>
 <p>Palestinian Muslims give the eidiya — a gift of money — to female relatives and children on the Eid that marks the end of Ramadan. It is a revered tradition but one that can come with a heavy price.  <a href="https://nyti.ms/3LjsKBR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Cruise Ship for Florida’s Migrant Crisis Had Nowhere to Dock</h3>
-<sub>By Frances Robles</sub>
-<p>As part of Gov. Ron DeSantis’s emergency response to a migrant influx in the Florida Keys, the state hired a cruise ship to house state workers. But it neglected to arrange a place to put it.  <a href="https://nyti.ms/3LsTMa5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Polly Wants a Video Chat</h3>
+<sub>By Emily Anthes</sub>
+<p>Scientists let parrots call their parrot friends. Here’s what happened.  <a href="https://nyti.ms/3LiFFnm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In a Nation Armed to the Teeth, These Tiny Missteps Led to Tragedy</h3>
-<sub>By Jack Healy, Glenn Thrush, Eliza Fawcett and Susan C. Beachy</sub>
-<p>A workman knocking on the wrong door. A cheerleader mistaking another car for her own. Small errors can have large consequences in a nation bristling with guns.  <a href="https://nyti.ms/3H34zFg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>The Fight Over a Drug That Is Great for Horses but Horrific for Humans</h3>
-<sub>By Jan Hoffman</sub>
-<p>Drug dealers are mixing xylazine, an animal tranquilizer relied on by veterinarians, into fentanyl, with deadly results. But controlling it is tricky.  <a href="https://nyti.ms/3mUIdyL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Battle Over Labor Secretary Nominee Reflects a Larger Fight for Biden</h3>
-<sub>By Noam Scheiber</sub>
-<p>Business groups are critical of the candidate, Julie Su, and key senators are wavering. The administration’s labor policies are central to the clash.  <a href="https://nyti.ms/3KQZVLz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Hard Lines in Fox-Dominion Deal Talks Suddenly Softened</h3>
-<sub>By Jeremy W. Peters, Jim Rutenberg and Katie Robertson</sub>
-<p>The $787.5 million settlement, believed to be the largest in a defamation case, came together quickly.  <a href="https://nyti.ms/41BNV7s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>No More Begging for Treats. Dogs Now Have Restaurants.</h3>
-<sub>By Christina Morales</sub>
-<p>From special menus for canine companions to food trucks and even tasting menus, some restaurateurs are pulling out all the stops for pets.  <a href="https://nyti.ms/41LuGsg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<h3>Any Questions? Biden Holds Fewest News Conferences Since Reagan</h3>
+<sub>By Michael D. Shear</sub>
+<p>As President Biden prepares to announce his bid for a second term as soon as Tuesday, his decision to keep the news media at arm’s length is part of a deliberate strategy.  <a href="https://nyti.ms/3oxBiMt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
