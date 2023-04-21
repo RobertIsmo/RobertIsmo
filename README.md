@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 20, Central Standard Time</p>
 <p>
-Right now, there are some concerning events going on both domestically and abroad. In the US, a workman&#39;s mistake put many people in danger due to the prevalence of guns. On the health side, Americans are increasingly buying and using an animal tranquilizer called xylazine which is mixing with fentanyl and causing deaths. Politically, Joe Biden is gearing up for a 2020 presidential run and it looks like Israel&#39;s right-wing government could be making it hard for American democrats to defend them. On the science side, SpaceX&#39;s most powerful rocket ever blew up during its first flight but still managed to teach the team some lessons. Outside of the US, Uganda recently legalized oppressive anti-gay laws that threaten jail time for engaging in same-sex relationships. Lastly, there&#39;s a trade issue coming out of Ukraine where officials recently solved a grain blockage issue but their solution has inadvertently caused problems for other European farmers. It&#39;s a lot to keep up with.</p>
+There is so much happening in the world right now, it&#39;s hard to keep up! In the US, there are discussions about gun control as America is armed with a large amount of guns, and of course, tiny missteps can lead to tragic consequences. Meanwhile, drug dealers have been mixing a horse tranquilizer into fentanyl with devastating results. On a political note, former President Donald Trump is using unconventional methods to fight a current Governor in Florida, and former Vice President Joe Biden is likely running for Presidency this year. 
+
+In the scientific field, however, there have been some more exciting events. SpaceX launched its most powerful rocket ever– though it ended in an explosive failure– and hopefully it will still lead to some incredible breakthroughs. Yet on the other side of the globe, Uganda recently passed legislation condemning anyone involved in L.G.B.T.Q rights to life in prison!
+
+And it&#39;s not just news abroad that we need to pay attention to-- a few weeks ago, prosecutors dropped charges against actor Alec Baldwin after the gun he was practicing with went off on set. Finally, there is an article featuring interviews with crime-scene investigators after the Sandy Hook shooting; they document and remember these unimaginable events everyday.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In a Nation Armed to the Teeth, These Tiny Missteps Led to Tragedy</h3>
@@ -81,9 +85,15 @@ Right now, there are some concerning events going on both domestically and abroa
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Israel’s Right-Wing Government Has Jewish Democrats at a Loss</h3>
-<sub>By Jonathan Weisman</sub>
-<p>American lawmakers defending Israel have often fallen back on what they call the countries’ shared democratic values. But defending the current far-right government is proving a lot harder.  <a href="https://nyti.ms/43MFgAW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Signed Letters, Mar-a-Lago Dinners: Trump’s Personal Touch in Fighting DeSantis</h3>
+<sub>By Michael C. Bender and Annie Karni</sub>
+<p>The former president has found a way to connect with Florida’s congressional delegation in a way that Gov. Ron DeSantis has not.  <a href="https://nyti.ms/40oNuwk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Larry Elder, Republican Who Lost in California’s Recall Election, Runs for President</h3>
+<sub>By E. Justin Swanson</sub>
+<p>On Fox News, the conservative talk radio host said he had “a moral, religious and a patriotic duty to give back to a country that’s been so good to my family and me.”  <a href="https://nyti.ms/3USvpFy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -104,10 +114,10 @@ Right now, there are some concerning events going on both domestically and abroa
 <p>The $787.5 million settlement, believed to be the largest in a defamation case, came together quickly.  <a href="https://nyti.ms/41BNV7s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Prove Mike Wrong’ for $5 Million, Lindell Pitched. Now He’s Told to Pay Up.</h3>
-<sub>By Neil Vigdor</sub>
-<p>An arbitration panel ruled that the MyPillow founder had failed to pay a computer software expert who disproved his false election claims as part of a contest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Lachlan Murdoch Drops Libel Suit Against Australian News Site</h3>
+<sub>By Katie Robertson</sub>
+<p>His lawyer said the website, Crikey, intended to exploit the outcome of the Fox-Dominion defamation case in the U.S.  <a href="https://nyti.ms/3onmeRk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -126,12 +136,6 @@ Right now, there are some concerning events going on both domestically and abroa
 <h3>They Saw the Horrific Aftermath of a Mass Shooting. Should We?</h3>
 <sub>By Jay Kirk</sub>
 <p>The crime-scene investigators are the ones who document, and remember, the unimaginable. This is what they saw at Sandy Hook.  <a href="https://nyti.ms/3Afy5DQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Freeing Ukraine’s Trapped Grain Rankled Farmers Elsewhere in Europe</h3>
-<sub>By Patricia Cohen</sub>
-<p>When Russia’s war blocked vitally needed grains at Ukrainian ports, officials succeeded in finding other routes out. But the solution brought its own problems.  <a href="https://nyti.ms/3V0WNBp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
