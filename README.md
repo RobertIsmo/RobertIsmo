@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 21, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The Supreme Court is considering a piece of legislation about access to abortion medication, as several states have passed new laws banning abortion. Meanwhile, in Russia, prisoners with HIV are choosing to go to war to get lifesaving drugs due to lack of access in their prisons. In Florida, they recently hired a cruise ship to house state workers because of an influx of migrants, but haven&#39;t figured out a place for it yet. Business groups are also in a fight with the Biden administration over their labor policies. On a lighter note, restaurants around the world are now catering specifically to dogs, offering them their own menus and even tasting menus!</p>
+There are a lot of significant developments taking place in the world right now. In some countries, prisoners with HIV&#x2F;AIDS are opting to sign up for war instead of staying in prison, where effective treatments are denied to them. In Russia, there was an accidental bombing of a city near the Ukrainian border that injured three people. The Supreme Court is reportedly deciding on the access to abortion pill and many US states have already banned it. Meanwhile, in New York, federal investigators are investigating a case involving a former campaign treasurer accused of questionable dealings. Muslims in Gaza are choosing to give the eidiya, money gifts to female relatives during Eid, even if this means they cannot financially support their own family members. In Florida, officials hired a cruise ship to respond to a migrant influx but did not have anywhere to dock it. In the US, small errors have proven to be costly as the country remains heavily armed. Drugs like fentanyl are also increasingly being mixed with animal tranquilizers which is having dangerous effects on humans. Finally, due to disputes between business groups and key senators, Julie Su is facing backlash for her nomination as the new labor secretary and a large defamation case was just settled for $787.5 million. Oh, and dogs now have restaurants specifically tailored for them!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘A Quick Death or a Slow Death’: Prisoners Choose War to Get Lifesaving Drugs</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>An estimated 20 percent of Russia prisoner recruits are H.I.V. positive. To some, the front lines seemed less risky than prisons where they said they were denied effective treatments.  <a href="https://nyti.ms/3mSetme"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Three people are injured after Russia says it accidentally bombed its own city.</h3>
+<sub>By Ivan Nechepurenko and Jeffrey Gettleman</sub>
+<p>A blast in Belgorod, near the Ukrainian border, was the result of “an accidental discharge of aviation ammunition,” Russia’s Defense Ministry said.  <a href="https://nyti.ms/3KSlxHv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Is Expected to Decide on Access to Abortion Pill as Appeal Moves Forward</h3>
 <sub>By Abbie VanSickle and Pam Belluck</sub>
@@ -78,18 +90,6 @@ There is a lot going on in the world right now. The Supreme Court is considering
 <h3>The Obscure G.O.P. Bookkeeper at the Center of the George Santos Mess</h3>
 <sub>By Grace Ashford and Nicholas Fandos</sub>
 <p>Nancy Marks, Mr. Santos’s former campaign treasurer, has her own history of questionable dealings that have aroused interest from federal investigators.  <a href="https://nyti.ms/3UTmqE2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘A Quick Death or a Slow Death’: Prisoners Choose War to Get Lifesaving Drugs</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>An estimated 20 percent of Russia prisoner recruits are H.I.V. positive. To some, the front lines seemed less risky than prisons where they said they were denied effective treatments.  <a href="https://nyti.ms/3mSetme"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Three people are injured after Russia says it accidentally bombs its own city.</h3>
-<sub>By Ivan Nechepurenko and Jeffrey Gettleman</sub>
-<p>A blast in Belgorod, near the Ukrainian border, was the result of “an accidental discharge of aviation ammunition,” Russia’s Defense Ministry said.  <a href="https://nyti.ms/3KSlxHv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
