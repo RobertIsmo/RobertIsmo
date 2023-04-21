@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 20, Central Standard Time</p>
 <p>
-There is a lot of instability and violence in the world right now. In the US, tragic consequences are a result of tiny missteps in a country bristling with guns. Meanwhile, SpaceX had an unexpected outcome during a test flight, but still gained insight from their approach. There&#39;s also a drug that&#39;s great for horses but horrific for humans that drug dealers are mixing into fentanyl too. In Israel, a far-right government has Jewish democrats at a loss when it comes to defending it. President Trump has taken it upon himself to challenge Governor DeSantis in Florida through personal touchpoints like signed letters and Mar-a-Lago dinners. There was also an expensive defamation case settled quickly between Fox and Dominion that ended positively for Dominion but misinformation about election fraud continues to circulate online. Alec Baldwin was charged with involuntary manslaughter after some gunplay gone wrong on set but those charges have since been dropped and the film&#39;s armorer still faces charges. In Uganda, they&#39;ve passed a law which proposes life in prison for anyone engaging in same-sex relations and President Museveni is celebrating the &#39;strong stance&#39; that legislators took against the LGBTQ+ community there. The US military is also positioning troops to evacuate people from Khartoum in Sudan as the ceasefires there have failed due to two generals vying for power, leaving civilian&#39;s homes, hospitals, and airports destroyed in the chaos.</p>
+Right now, there are some concerning events going on both domestically and abroad. In the US, a workman&#39;s mistake put many people in danger due to the prevalence of guns. On the health side, Americans are increasingly buying and using an animal tranquilizer called xylazine which is mixing with fentanyl and causing deaths. Politically, Joe Biden is gearing up for a 2020 presidential run and it looks like Israel&#39;s right-wing government could be making it hard for American democrats to defend them. On the science side, SpaceX&#39;s most powerful rocket ever blew up during its first flight but still managed to teach the team some lessons. Outside of the US, Uganda recently legalized oppressive anti-gay laws that threaten jail time for engaging in same-sex relationships. Lastly, there&#39;s a trade issue coming out of Ukraine where officials recently solved a grain blockage issue but their solution has inadvertently caused problems for other European farmers. It&#39;s a lot to keep up with.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In a Nation Armed to the Teeth, These Tiny Missteps Led to Tragedy</h3>
 <sub>By Jack Healy, Glenn Thrush, Eliza Fawcett and Susan C. Beachy</sub>
 <p>A workman knocking on the wrong door. A cheerleader mistaking another car for her own. Small errors can have large consequences in a nation bristling with guns.  <a href="https://nyti.ms/3H34zFg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Starship Exploded, but SpaceX Had Reason to Pop Champagne Anyway</h3>
-<sub>By Daniel Victor and Kenneth Chang</sub>
-<p>The four-minute flight ended in what the company called a “rapid unscheduled disassembly” — meaning it blew up. But there was much to learn from the flight, the latest step in SpaceX’s explode-as-you-learn approach.  <a href="https://nyti.ms/3Lht444"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -81,27 +75,33 @@ There is a lot of instability and violence in the world right now. In the US, tr
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden in Final Stage of ’24 Planning, With Announcement as Early as Tuesday</h3>
+<sub>By Shane Goldmacher, Michael D. Shear and Maggie Haberman</sub>
+<p>A campaign video is said to be in production, and donors are being mobilized, for a run that could be announced early next week.  <a href="https://nyti.ms/3LhhgPb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Israel’s Right-Wing Government Has Jewish Democrats at a Loss</h3>
 <sub>By Jonathan Weisman</sub>
 <p>American lawmakers defending Israel have often fallen back on what they call the countries’ shared democratic values. But defending the current far-right government is proving a lot harder.  <a href="https://nyti.ms/43MFgAW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Signed Letters, Mar-a-Lago Dinners: Trump’s Personal Touch in Fighting DeSantis</h3>
-<sub>By Michael C. Bender and Annie Karni</sub>
-<p>The former president has found a way to connect with Florida’s congressional delegation in a way that Gov. Ron DeSantis has not.  <a href="https://nyti.ms/40oNuwk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>SpaceX’s Starship ‘Learning Experience’ Ends in Explosion</h3>
+<sub>By Kenneth Chang</sub>
+<p>The first flight of the most powerful rocket ever was not the success that Elon Musk and his company hoped for, but the launch achieved several milestones toward future journeys.  <a href="https://nyti.ms/3mQFRkt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Starship Exploded, but SpaceX Had Reason to Pop Champagne Anyway</h3>
+<sub>By Daniel Victor and Kenneth Chang</sub>
+<p>The four-minute flight ended in what the company called a “rapid unscheduled disassembly” — meaning it blew up. But there was much to learn from the flight, the latest step in SpaceX’s explode-as-you-learn approach.  <a href="https://nyti.ms/3Lht444"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How Hard Lines in Fox-Dominion Deal Talks Suddenly Softened</h3>
 <sub>By Jeremy W. Peters, Jim Rutenberg and Katie Robertson</sub>
 <p>The $787.5 million settlement, believed to be the largest in a defamation case, came together quickly.  <a href="https://nyti.ms/41BNV7s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fox Settlement Is a Victory for Dominion. But the Misinformation War Continues.</h3>
-<sub>By Steven Lee Myers, Tiffany Hsu and Stuart A. Thompson</sub>
-<p>False claims about election fraud remain a problem, spreading in various places online, voting and media experts said.  <a href="https://nyti.ms/3Agzf1O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,9 +111,9 @@ There is a lot of instability and violence in the world right now. In the US, tr
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Rust’ Prosecutors Are Dropping Charges Against Alec Baldwin, His Lawyers Say</h3>
-<sub>By Julia Jacobs and Graham Bowley</sub>
-<p>Mr. Baldwin had been charged with involuntary manslaughter after the gun he was practicing with went off on set, killing the film’s cinematographer. The film’s armorer still faces charges.  <a href="https://nyti.ms/3V8NLTb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘Rust’ Prosecutors Are Dropping Charges Against Alec Baldwin</h3>
+<sub>By Graham Bowley and Julia Jacobs</sub>
+<p>Mr. Baldwin had been charged with involuntary manslaughter after the gun he was practicing with went off on a film set, killing the cinematographer. The film’s armorer still faces charges.  <a href="https://nyti.ms/3V8NLTb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,16 +122,16 @@ There is a lot of instability and violence in the world right now. In the US, tr
 <p>The bill, passed last month, calls for life in prison for anyone engaging in same-sex relations. President Yoweri Museveni congratulated lawmakers for their “strong stand” against L.G.B.T.Q. people.  <a href="https://nyti.ms/41rmE7V"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Positioning Troops for Evacuation of American Embassy in Sudan</h3>
-<sub>By Helene Cooper, Elian Peltier and Farnaz Fassihi</sub>
-<p>Fierce fighting has trapped people in the capital, Khartoum, and the United States says it is “conducting prudent planning” to get diplomatic staff members out.  <a href="https://nyti.ms/41HP7WX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>They Saw the Horrific Aftermath of a Mass Shooting. Should We?</h3>
+<sub>By Jay Kirk</sub>
+<p>The crime-scene investigators are the ones who document, and remember, the unimaginable. This is what they saw at Sandy Hook.  <a href="https://nyti.ms/3Afy5DQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fighting Intensifies in Khartoum as Sudan Cease-Fires Fail</h3>
-<sub>By Isabella Kwai and Cora Engelbrecht</sub>
-<p>With two generals vying for power, residents in the Sudanese capital said the violence had destroyed hospitals, airfields and homes, and left civilians caught in the crossfire.  <a href="https://nyti.ms/3MZuYYn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Freeing Ukraine’s Trapped Grain Rankled Farmers Elsewhere in Europe</h3>
+<sub>By Patricia Cohen</sub>
+<p>When Russia’s war blocked vitally needed grains at Ukrainian ports, officials succeeded in finding other routes out. But the solution brought its own problems.  <a href="https://nyti.ms/3V0WNBp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
