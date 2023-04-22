@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 22, Central Standard Time</p>
 <p>
-Right now, there is a lot of debate and legal action in the US around abortion access. Democrats have vowed to prioritize abortion rights in the 2024 campaign, while an Airman was found to have distributed sensitive intelligence more widely than previously known. In Ukraine, meanwhile, documents show that weapon supplies from the West are falling short of the country&#39;s needs. 
-
-In Russia, technocrats with wide expertise continue to help President Vladimir Putin keep the economy running despite Western sanctions. Ukraine is also taking steps try to distance itself from Russia&#39;s long legacy of domination by signng a law that bans Russian place names. 
-
-Back in the US, after California&#39;s heavy rains this winter, gold seekers are out looking for their own mother lode. Several states are also trying to enforce restrictions on gender treatments for adults, while people everywhere celebrated Earth Day by reading inspiring articles about the climate and nature. Finally, the beloved Australian comic Barry Humphries (Dame Edna to you!) has passed away at 89.</p>
+A lot is going on in the world right now. The US government is trying to propose the first controls on greenhouse gases from power plants and has recently ensured broad access to abortion pills. Abortion is also becoming a more prominent part of the 2024 election debates, and sensitive intelligence has been shared more widely than previously known. At the same time, Western weapons supplies have fallen short of Ukraine&#39;s needs, Russia&#39;s technocrats are helping President Putin keep the economy afloat despite western sanctions, and Ukraine has signed a law banning Russian place names. On another note, California&#39;s winter storms have led to an increase in gold prospecting, many states are trying to restrict gender treatments for adults, school book bans are on the rise nationally, a Menominee tribe is facing a crisis due to sustainable logging practices, and lastly there is an interactive F.A.Q. that aims to answer climate questions.</p>
 <ol>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>E.P.A. to Propose First Controls on Greenhouse Gases From Power Plants</h3>
+<sub>By Coral Davenport and Lisa Friedman</sub>
+<p>If the regulation is implemented, it will be the first time the federal government has limited carbon emissions from existing power plants, which generate 25 percent of U.S. greenhouse gases.  <a href="https://nyti.ms/3N5JXQf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Ensures, for Now, Broad Access to Abortion Pill</h3>
 <sub>By Abbie VanSickle</sub>
@@ -114,6 +116,12 @@ Back in the US, after California&#39;s heavy rains this winter, gold seekers are
 <p>Missouri has imposed sweeping rules to limit health care for trans adults. Other states have banned Medicaid coverage or introduced bills outlawing care for young adults.  <a href="https://nyti.ms/3LjrWwK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Florida at Center of Debate as School Book Bans Surge Nationally</h3>
+<sub>By Patricia Mazzei, Elizabeth A. Harris and Alexandra Alter</sub>
+<p>Proponents say the laws aim to give parents control over their children’s education. But many educators say the rules have brought chaos and fear.  <a href="https://nyti.ms/3mSLkY5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>The Giving Forest</h3>
 <sub>By Cara Buckley and Jamie Kelter Davis</sub>
@@ -121,22 +129,10 @@ Back in the US, after California&#39;s heavy rains this winter, gold seekers are
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>7 Inspiring Reads for Earth Day</h3>
-<sub>By The New York Times</sub>
-<p>We picked some of our favorite articles from the Times’s Climate Desk.  <a href="https://nyti.ms/3KPr5Cw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Older Voters Say About Biden 2024: From ‘He’s Fine’ to ‘Oh, God’</h3>
-<sub>By Katie Glueck</sub>
-<p>In interviews, dozens of left-leaning older Americans wrestled with the prospect of a president in his mid-80s, reflecting on their own abilities and changes to their lives — and even their mortality.  <a href="https://nyti.ms/41HMJj6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>Barry Humphries (Dame Edna to You, Possums) Is Dead at 89</h3>
-<sub>By Margalit Fox</sub>
-<p>Bewigged, bejeweled and bejowled, Mr. Humphries’s creation was one of the longest-lived characters ever channeled by a single performer.  <a href="https://nyti.ms/40xRWZs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<h3>Have Climate Questions? Get Answers Here.</h3>
+<sub>By The New York Times Climate Desk</sub>
+<p>What’s causing global warming? How can we fix it? This interactive F.A.Q. will tackle your climate questions big and small.  <a href="https://nyti.ms/3DKau01"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
