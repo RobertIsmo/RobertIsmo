@@ -60,54 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 21, Central Standard Time</p>
 <p>
-In the US, the House GOP has proposed a bill to raise the nation’s debt ceiling in exchange for government spending reductions and unraveling of parts of the Biden administration&#39;s policy agenda. Across the world, prisoners in Russia are enlisting for military service as a way to access lifesaving medications denied to them in prison. Meanwhile, an accidental bombing near Ukraine&#39;s border has caused injury to three people. In response to this, the Pentagon has provided an aid package to Ukraine that includes ancient anti-tank land mines that are lethal indefinitely. On another note, something is at stake in Supreme Court decisions–the court is expected to decide on access to abortion pills. It&#39;s estimated that legislation is in place banning abortions in certain states and the New York Times is tracking the status of laws in each state introduced after Roe v. Wade&#39;s reversal. In sports news, five NFL players were suspended for gambling and two Lions players sit out six games for gambling violations. Scientists have conducted an experiment involving parrots interacting via video chat, which could have implications for mental health care worldwide. Finally, elite US law schools are boycotting US News&#39; rankings system after criticism of a new proposed system, and delays have since ensued. Lastly, President Biden is gearing up for a second term announcement and his news media strategy remains at arm&#39;s length.</p>
+Right now, the US Supreme Court has issued an order on the abortion pill, and the nation&#39;s debt ceiling debate is about more than debt. In the NFL, five players have been suspended for gambling, and testimony suggests Trump was at a meeting about accessing voting software. Elsewhere in the world, there&#39;s an interesting mental health care experiment in Belgium being tested over centuries, and the Pentagon is speeding up tank timelines for Ukraine while resisting calls for jets. In science news, scientists are studying how parrots respond to video chats and medications like Ozempic can lead to malnutrition. Lastly, President Biden has held the fewest news conferences since Reagan largely as part of a deliberate strategy.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The court has generally supported the F.D.A.’s authority on drug safety.</h3>
+<sub>By Adam Liptak</sub>
+<p>  <a href="https://nyti.ms/3AhUG2H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Read the Supreme Court’s Order on Abortion Pill Access</h3>
+<sub></sub>
+<p>The Supreme Court order on an abortion pill.  <a href="https://nyti.ms/3MZMziN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Airman Shared Sensitive Intelligence More Widely and for Longer Than Previously Known</h3>
+<sub>By Aric Toler, Malachy Browne and Julian E. Barnes</sub>
+<p>A Discord user matching the profile of Jack Teixeira distributed intelligence to a larger chat group, days after the beginning of the Ukraine war.  <a href="https://nyti.ms/43VVLe8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Debt Ceiling Debate Is About More Than Debt</h3>
 <sub>By Jim Tankersley</sub>
 <p>Republicans’ opening bid to avert economic catastrophe by raising the nation’s borrowing limit focuses more on energy policy than reducing debt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What’s in the House G.O.P. Debt Limit Bill</h3>
-<sub>By Madeleine Ngo, Catie Edmondson and Jim Tankersley</sub>
-<p>Republicans revealed a proposal on Wednesday that would cut federal spending and unravel parts of the Biden administration’s policy agenda in exchange for lifting the nation’s borrowing cap.  <a href="https://nyti.ms/3mQ7xWI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘A Quick Death or a Slow Death’: Prisoners Choose War to Get Lifesaving Drugs</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>An estimated 20 percent of Russia prisoner recruits are H.I.V. positive. To some, the front lines seemed less risky than prisons where they said they were denied effective treatments.  <a href="https://nyti.ms/3mSetme"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Three people are injured after Russia says it accidentally bombed its own city.</h3>
-<sub>By Ivan Nechepurenko and Jeffrey Gettleman</sub>
-<p>A blast in Belgorod, near the Ukrainian border, was the result of “an accidental discharge of aviation ammunition,” Russia’s Defense Ministry said.  <a href="https://nyti.ms/3KSlxHv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon Aid Package to Ukraine Includes Decades-Old Anti-Tank Land Mines</h3>
-<sub>By John Ismay</sub>
-<p>The M21 mines do not run afoul of international treaties. But unlike other mines the United States has given to Kyiv, they can be lethal indefinitely.  <a href="https://nyti.ms/3KX3sYO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Is Expected to Decide on Access to Abortion Pill as Appeal Moves Forward</h3>
-<sub>By Abbie VanSickle and Pam Belluck</sub>
-<p>The court is expected to weigh in on whether a commonly used pill, mifepristone, should remain widely available. Here is what’s at stake.  <a href="https://nyti.ms/3N1WeW8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking the States Where Abortion Is Now Banned</h3>
-<sub>By The New York Times</sub>
-<p>The New York Times is tracking the status of abortion laws in each state following the Supreme Court’s decision to overturn Roe v. Wade.  <a href="https://nyti.ms/3sYKAjR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>N.F.L. Suspends Five Players for Gambling</h3>
 <sub>By Jenny Vrentas</sub>
 <p>Quintez Cephus and C.J. Moore of the Detroit Lions and Shaka Toney of the Washington Commanders were suspended indefinitely for betting on N.F.L. games, and two other Lions players will sit out six games for gambling violations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Testimony Suggests Trump Was at Meeting About Accessing Voting Software</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>In a letter to federal officials, a liberal-leaning group highlighted testimony to the House Jan. 6 committee that described then-President Trump attending a meeting about the plan in December 2020.  <a href="https://nyti.ms/3AitQr6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,6 +110,12 @@ In the US, the House GOP has proposed a bill to raise the nation’s debt ceilin
 <p>After a preview of the new rankings system, Yale and other universities raised a storm of objections. The formal list is now indefinitely delayed.  <a href="https://nyti.ms/3L0sxSI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pentagon Speeds Up Tank Timeline for Ukraine but Resists Calls for Jets</h3>
+<sub>By Helene Cooper</sub>
+<p>The U.S. will begin training Ukrainian troops on M1 Abrams tanks in the next few weeks, officials said, and combat-ready tanks could reach the battlefields by the fall.  <a href="https://nyti.ms/3L1Uv06"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Polly Wants a Video Chat</h3>
 <sub>By Emily Anthes</sub>
@@ -132,6 +126,12 @@ In the US, the House GOP has proposed a bill to raise the nation’s debt ceilin
 <h3>Biden Has Held the Fewest News Conferences Since Reagan. Any Questions?</h3>
 <sub>By Michael D. Shear</sub>
 <p>As President Biden prepares to announce his bid for a second term as soon as Tuesday, his decision to keep the news media at arm’s length is part of a deliberate strategy.  <a href="https://nyti.ms/3oxBiMt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>An Extreme Risk of Taking Ozempic: Malnutrition</h3>
+<sub>By Dani Blum</sub>
+<p>The diabetes medication has gained attention for its dramatic weight loss effects — but doctors worry that it can go too far.  <a href="https://nyti.ms/40vgD99"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
