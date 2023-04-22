@@ -58,15 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, April 21, Central Standard Time</p>
+<p>It is Saturday, April 22, Central Standard Time</p>
 <p>
-There is a lot of political and social news happening in the world right now. In the U.S., there are still ongoing debates around abortion, with both sides of the debate vowing to continue fighting while a key abortion pill remains available. There&#39;s also been a lot of discussion regarding Republicans and their struggle to deal with abortion policy since the Supreme Court decision last summer. Additionally, on the debt ceiling debate, Republicans are using it as an opportunity to push for policies related to energy policy rather than just reducing the nation&#39;s debt. 
-
-In terms of sports news, the NFL has suspended five players for gambling violations and in terms of law, testimony has suggested that Trump was at a meeting about accessing voting software. Manhattan&#39;s district attorney has also agreed to let an ex-prosecutor testify about Trump&#39;s case in Congress. 
-
-In other parts of the world, scientists have been letting parrots video chat with their parrot friends as radical experiment in mental health care is being tested over centuries in Belgian town Geel. 
-
-Finally, President Biden is preparing to announce his bid for a second term but he has held fewer news conferences than other presidents like Reagan due to part of a deliberate strategy.</p>
+There are a lot of political issues going on right now. The Supreme Court recently kept a key abortion pill available while the legal fight continues and this decision has brought vows to keep fighting from both sides of the abortion debate. Airman Shared Sensitive Intelligence related to a Discord user matching the profile of Jack Teixeira, and Republican Party is struggling to contend with abortion since the Supreme Court eliminated the constitutional right to the procedure last summer by sending abortion policy to the states. In addition, the debt ceiling debate is about more than just debt but rather focus on energy policy. The NFL has suspended five players for gambling, and there was testimony that suggested then-President Trump attended a meeting in December 2020 about accessing voting software. The Manhattan District Attorney also sued Representative Jim Jordan over questioning a former investigator about their criminal investigation into Donald J. Trump. Meanwhile, there was an issue with Yale and other universities with U.S News Rankings being delayed due to a storm of objections. The Pentagon has sped up tank timeline for Ukraine resistance call of jets, and scientists have allowed parrots to call their parrot friends in an experiment. Lastly, President Biden is preparing to announce his bid for second term as soon as Tuesday but he has held the fewest news conferences since Ronald Reagan raising questions about his strategy, and there is an extreme risk of Ozempic for malnutrition if people take it too far.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The decision brought vows to keep fighting from both sides of the abortion debate.</h3>
@@ -110,12 +104,6 @@ Finally, President Biden is preparing to announce his bid for a second term but 
 <p>Alvin L. Bragg, Manhattan’s district attorney, sued Representative Jim Jordan to stop him from questioning a former investigator about his criminal investigation of Donald J. Trump.  <a href="https://nyti.ms/3KVNQEV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Radical Experiment in Mental Health Care, Tested Over Centuries</h3>
-<sub>By Matina Stevis-Gridneff, Koba Ryckewaert and Ilvy Njiokiktjien</sub>
-<p>In the Belgian town of Geel, families have long taken in people with psychiatric conditions. Could this approach work elsewhere?  <a href="https://nyti.ms/3oyM3y7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Elite Law Schools Boycotted the U.S. News Rankings. Now, They May Be Paying a Price.</h3>
 <sub>By Anemona Hartocollis</sub>
@@ -138,6 +126,12 @@ Finally, President Biden is preparing to announce his bid for a second term but 
 <h3>Biden Has Held the Fewest News Conferences Since Reagan. Any Questions?</h3>
 <sub>By Michael D. Shear</sub>
 <p>As President Biden prepares to announce his bid for a second term as soon as Tuesday, his decision to keep the news media at arm’s length is part of a deliberate strategy.  <a href="https://nyti.ms/3oxBiMt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>An Extreme Risk of Taking Ozempic: Malnutrition</h3>
+<sub>By Dani Blum</sub>
+<p>The diabetes medication has gained attention for its dramatic weight loss effects — but doctors worry that it can go too far.  <a href="https://nyti.ms/40vgD99"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
