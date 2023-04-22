@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 21, Central Standard Time</p>
 <p>
-Right now, the US Supreme Court has issued an order on the abortion pill, and the nation&#39;s debt ceiling debate is about more than debt. In the NFL, five players have been suspended for gambling, and testimony suggests Trump was at a meeting about accessing voting software. Elsewhere in the world, there&#39;s an interesting mental health care experiment in Belgium being tested over centuries, and the Pentagon is speeding up tank timelines for Ukraine while resisting calls for jets. In science news, scientists are studying how parrots respond to video chats and medications like Ozempic can lead to malnutrition. Lastly, President Biden has held the fewest news conferences since Reagan largely as part of a deliberate strategy.</p>
+There is a lot of political and social news happening in the world right now. In the U.S., there are still ongoing debates around abortion, with both sides of the debate vowing to continue fighting while a key abortion pill remains available. There&#39;s also been a lot of discussion regarding Republicans and their struggle to deal with abortion policy since the Supreme Court decision last summer. Additionally, on the debt ceiling debate, Republicans are using it as an opportunity to push for policies related to energy policy rather than just reducing the nation&#39;s debt. 
+
+In terms of sports news, the NFL has suspended five players for gambling violations and in terms of law, testimony has suggested that Trump was at a meeting about accessing voting software. Manhattan&#39;s district attorney has also agreed to let an ex-prosecutor testify about Trump&#39;s case in Congress. 
+
+In other parts of the world, scientists have been letting parrots video chat with their parrot friends as radical experiment in mental health care is being tested over centuries in Belgian town Geel. 
+
+Finally, President Biden is preparing to announce his bid for a second term but he has held fewer news conferences than other presidents like Reagan due to part of a deliberate strategy.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The court has generally supported the F.D.A.’s authority on drug safety.</h3>
-<sub>By Adam Liptak</sub>
-<p>  <a href="https://nyti.ms/3AhUG2H"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The decision brought vows to keep fighting from both sides of the abortion debate.</h3>
+<sub>By Ava Sasani</sub>
+<p>The court kept a key abortion pill available while the legal fight continues.  <a href="https://nyti.ms/3mSoGiz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read the Supreme Court’s Order on Abortion Pill Access</h3>
-<sub></sub>
-<p>The Supreme Court order on an abortion pill.  <a href="https://nyti.ms/3MZMziN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Abortion has become politically fraught for Republicans.</h3>
+<sub>By Amy Harmon, David W. Chen and Ava Sasani</sub>
+<p>The Republican Party has struggled to contend with abortion since the Supreme Court eliminated the constitutional right to the procedure last summer and sent abortion policy to the states.  <a href="https://nyti.ms/3mV16Sd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -96,6 +102,12 @@ Right now, the US Supreme Court has issued an order on the abortion pill, and th
 <h3>Testimony Suggests Trump Was at Meeting About Accessing Voting Software</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
 <p>In a letter to federal officials, a liberal-leaning group highlighted testimony to the House Jan. 6 committee that described then-President Trump attending a meeting about the plan in December 2020.  <a href="https://nyti.ms/3AitQr6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Bragg Agrees to Let Ex-Prosecutor Testify About Trump Case in Congress</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>Alvin L. Bragg, Manhattan’s district attorney, sued Representative Jim Jordan to stop him from questioning a former investigator about his criminal investigation of Donald J. Trump.  <a href="https://nyti.ms/3KVNQEV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,12 +138,6 @@ Right now, the US Supreme Court has issued an order on the abortion pill, and th
 <h3>Biden Has Held the Fewest News Conferences Since Reagan. Any Questions?</h3>
 <sub>By Michael D. Shear</sub>
 <p>As President Biden prepares to announce his bid for a second term as soon as Tuesday, his decision to keep the news media at arm’s length is part of a deliberate strategy.  <a href="https://nyti.ms/3oxBiMt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>An Extreme Risk of Taking Ozempic: Malnutrition</h3>
-<sub>By Dani Blum</sub>
-<p>The diabetes medication has gained attention for its dramatic weight loss effects — but doctors worry that it can go too far.  <a href="https://nyti.ms/40vgD99"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
