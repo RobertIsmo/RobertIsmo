@@ -60,19 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 22, Central Standard Time</p>
 <p>
-There are a lot of interesting and important things taking place in the world today. In the US, there is an ongoing conversation about abortion, as well as efforts to reduce debt and create new energy policies. In the NFL, five players have been suspended for gambling. President Biden is also preparing to announce his bid for a second term, despite having held the fewest news conferences of any president since Reagan. Internationally, the Pentagon has sped up plans for tanks to be deployed in Ukraine, and Belgium has been conducting radical experiments in mental health care for centuries.</p>
+Right now, it looks like current events in the US are dominating the news. The Supreme Court has made an order to ensure access to an abortion pill while Democrats are ramping up campaigns involving abortion rights. There&#39;s also some communication from a former Airman about the Ukraine war that involves sensitive intelligence. On a global level, Russia has apparently been relying on its economic officials to keep the economy afloat even with Western sanctions and then there&#39;s Ukraine which recently banned Russian place names as part of their &#39;decolonization&#39; effort. Lastly, California has seen gold seekers come out due to recent heavy rains and multiple states are attempting to regulate gender treatments for adults. Additionally, there is an article about how Wisconsin&#39;s Menominee tribe is struggling with them having too many trees and not enough loggers and some reads for Earth Day which focus on climate change. Lastly, Barry Humphries (audiences may recognize him as Dame Edna) passed away at 89 years old, and there is testimony suggesting Trump attended a meeting in December about accessing voting software.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Is Mifepristone and How Is It Used?</h3>
-<sub>By Claire Cain Miller and Margot Sanger-Katz</sub>
-<p>About half of people who get legal abortions in the United States — and three-quarters in Europe — use medication abortion.  <a href="https://nyti.ms/3mSvXic"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Supreme Court Ensures, for Now, Broad Access to Abortion Pill</h3>
+<sub>By Abbie VanSickle</sub>
+<p>The order halts lower court rulings that would have restricted the drug as an appeal moves forward in a case with profound implications for abortion access and the F.D.A.’s regulatory authority.  <a href="https://nyti.ms/3ozWUry"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortion has become politically fraught for Republicans.</h3>
-<sub>By Amy Harmon, David W. Chen and Ava Sasani</sub>
-<p>The Republican Party has struggled to contend with abortion since the Supreme Court eliminated the constitutional right to the procedure last summer and sent abortion policy to the states.  <a href="https://nyti.ms/3mV16Sd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<h3>Abortion Surges to the Center of the 2024 Campaign</h3>
+<sub>By Katie Glueck</sub>
+<p>Democrats are vowing to make abortion rights a pillar of their campaigns, while Republicans are caught between their conservative base and a public that generally backs access to the procedure.  <a href="https://nyti.ms/41tX3eM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Airman Shared Sensitive Intelligence More Widely and for Longer Than Previously Known</h3>
@@ -80,58 +80,58 @@ There are a lot of interesting and important things taking place in the world to
 <p>A Discord user matching the profile of Jack Teixeira distributed intelligence to a larger chat group, days after the beginning of the Ukraine war.  <a href="https://nyti.ms/43VVLe8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia’s Technocrats Embraced the West, Then Enabled Putin’s War</h3>
+<sub>By Anatoly Kurmanaev</sub>
+<p>The expertise of economic officials who continue to work in the government has helped President Vladimir Putin largely keep the economy afloat in the face of Western sanctions.  <a href="https://nyti.ms/40q1BBz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky Signs Law Banning Russian Place Names, Part of Broader ‘Decolonization’ Effort</h3>
+<sub>By Jeffrey Gettleman and Olha Kotiuzhanska</sub>
+<p>The action late Friday was the latest in a series of steps by Ukraine to distance itself from a long legacy of Russian domination.  <a href="https://nyti.ms/40AcNLQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Debt Ceiling Debate Is About More Than Debt</h3>
-<sub>By Jim Tankersley</sub>
-<p>Republicans’ opening bid to avert economic catastrophe by raising the nation’s borrowing limit focuses more on energy policy than reducing debt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Eureka! After California’s Heavy Rains, Gold Seekers Are Giddy.</h3>
+<sub>By Thomas Fuller and Jim Wilson</sub>
+<p>The mother lode of winter storms has sent water blasting through rock crevices and rivers in the Sierra Nevada, leading to more glittering discoveries by prospectors.  <a href="https://nyti.ms/40DIX9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Many States Are Trying to Restrict Gender Treatments for Adults, Too</h3>
+<sub>By Azeen Ghorayshi</sub>
+<p>Missouri has imposed sweeping rules to limit health care for trans adults. Other states have banned Medicaid coverage or introduced bills outlawing care for young adults.  <a href="https://nyti.ms/3LjrWwK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Giving Forest</h3>
+<sub>By Cara Buckley and Jamie Kelter Davis</sub>
+<p>The Menominee tribe has sustainably logged its forest in Wisconsin for 160 years. But that careful balance faces a crisis: too many trees and too few loggers.  <a href="https://nyti.ms/3V4WAgI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>7 Inspiring Reads for Earth Day</h3>
+<sub>By The New York Times</sub>
+<p>We picked some of our favorite articles from the Times’s Climate Desk.  <a href="https://nyti.ms/3KPr5Cw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>N.F.L. Suspends Five Players for Gambling</h3>
-<sub>By Jenny Vrentas</sub>
-<p>Quintez Cephus and C.J. Moore of the Detroit Lions and Shaka Toney of the Washington Commanders were suspended indefinitely for betting on N.F.L. games, and two other Lions players will sit out six games for gambling violations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Older Voters Say About Biden 2024: From ‘He’s Fine’ to ‘Oh, God’</h3>
+<sub>By Katie Glueck</sub>
+<p>In interviews, dozens of left-leaning older Americans wrestled with the prospect of a president in his mid-80s, reflecting on their own abilities and changes to their lives — and even their mortality.  <a href="https://nyti.ms/41HMJj6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>Barry Humphries (Dame Edna to You, Possums) Is Dead at 89</h3>
+<sub>By Margalit Fox</sub>
+<p>Bewigged, bejeweled and bejowled, Mr. Humphries’s creation was one of the longest-lived characters ever channeled by a single performer.  <a href="https://nyti.ms/40xRWZs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Testimony Suggests Trump Was at Meeting About Accessing Voting Software</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
 <p>In a letter to federal officials, a liberal-leaning group highlighted testimony to the House Jan. 6 committee that described then-President Trump attending a meeting about the plan in December 2020.  <a href="https://nyti.ms/3AitQr6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Bragg Agrees to Let Ex-Prosecutor Testify About Trump Case in Congress</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>Alvin L. Bragg, Manhattan’s district attorney, sued Representative Jim Jordan to stop him from questioning a former investigator about his criminal investigation of Donald J. Trump.  <a href="https://nyti.ms/3KVNQEV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Elite Law Schools Boycotted the U.S. News Rankings. Now, They May Be Paying a Price.</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>After a preview of the new rankings system, Yale and other universities raised a storm of objections. The formal list is now indefinitely delayed.  <a href="https://nyti.ms/3L0sxSI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pentagon Speeds Up Tank Timeline for Ukraine but Resists Calls for Jets</h3>
-<sub>By Helene Cooper</sub>
-<p>The U.S. will begin training Ukrainian troops on M1 Abrams tanks in the next few weeks, officials said, and combat-ready tanks could reach the battlefields by the fall.  <a href="https://nyti.ms/3L1Uv06"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Polly Wants a Video Chat</h3>
-<sub>By Emily Anthes</sub>
-<p>Scientists let parrots call their parrot friends. Here’s what happened.  <a href="https://nyti.ms/3LiFFnm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Has Held the Fewest News Conferences Since Reagan. Any Questions?</h3>
-<sub>By Michael D. Shear</sub>
-<p>As President Biden prepares to announce his bid for a second term as soon as Tuesday, his decision to keep the news media at arm’s length is part of a deliberate strategy.  <a href="https://nyti.ms/3oxBiMt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Radical Experiment in Mental Health Care, Tested Over Centuries</h3>
-<sub>By Matina Stevis-Gridneff, Koba Ryckewaert and Ilvy Njiokiktjien</sub>
-<p>In the Belgian town of Geel, families have long taken in people with psychiatric conditions. Could this approach work elsewhere?  <a href="https://nyti.ms/3oyM3y7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
