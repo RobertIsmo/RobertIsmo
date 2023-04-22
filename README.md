@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 22, Central Standard Time</p>
 <p>
-There are a lot of political issues going on right now. The Supreme Court recently kept a key abortion pill available while the legal fight continues and this decision has brought vows to keep fighting from both sides of the abortion debate. Airman Shared Sensitive Intelligence related to a Discord user matching the profile of Jack Teixeira, and Republican Party is struggling to contend with abortion since the Supreme Court eliminated the constitutional right to the procedure last summer by sending abortion policy to the states. In addition, the debt ceiling debate is about more than just debt but rather focus on energy policy. The NFL has suspended five players for gambling, and there was testimony that suggested then-President Trump attended a meeting in December 2020 about accessing voting software. The Manhattan District Attorney also sued Representative Jim Jordan over questioning a former investigator about their criminal investigation into Donald J. Trump. Meanwhile, there was an issue with Yale and other universities with U.S News Rankings being delayed due to a storm of objections. The Pentagon has sped up tank timeline for Ukraine resistance call of jets, and scientists have allowed parrots to call their parrot friends in an experiment. Lastly, President Biden is preparing to announce his bid for second term as soon as Tuesday but he has held the fewest news conferences since Ronald Reagan raising questions about his strategy, and there is an extreme risk of Ozempic for malnutrition if people take it too far.</p>
+There are a lot of interesting and important things taking place in the world today. In the US, there is an ongoing conversation about abortion, as well as efforts to reduce debt and create new energy policies. In the NFL, five players have been suspended for gambling. President Biden is also preparing to announce his bid for a second term, despite having held the fewest news conferences of any president since Reagan. Internationally, the Pentagon has sped up plans for tanks to be deployed in Ukraine, and Belgium has been conducting radical experiments in mental health care for centuries.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The decision brought vows to keep fighting from both sides of the abortion debate.</h3>
-<sub>By Ava Sasani</sub>
-<p>The court kept a key abortion pill available while the legal fight continues.  <a href="https://nyti.ms/3mSoGiz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What Is Mifepristone and How Is It Used?</h3>
+<sub>By Claire Cain Miller and Margot Sanger-Katz</sub>
+<p>About half of people who get legal abortions in the United States — and three-quarters in Europe — use medication abortion.  <a href="https://nyti.ms/3mSvXic"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +128,10 @@ There are a lot of political issues going on right now. The Supreme Court recent
 <p>As President Biden prepares to announce his bid for a second term as soon as Tuesday, his decision to keep the news media at arm’s length is part of a deliberate strategy.  <a href="https://nyti.ms/3oxBiMt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>An Extreme Risk of Taking Ozempic: Malnutrition</h3>
-<sub>By Dani Blum</sub>
-<p>The diabetes medication has gained attention for its dramatic weight loss effects — but doctors worry that it can go too far.  <a href="https://nyti.ms/40vgD99"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Radical Experiment in Mental Health Care, Tested Over Centuries</h3>
+<sub>By Matina Stevis-Gridneff, Koba Ryckewaert and Ilvy Njiokiktjien</sub>
+<p>In the Belgian town of Geel, families have long taken in people with psychiatric conditions. Could this approach work elsewhere?  <a href="https://nyti.ms/3oyM3y7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
