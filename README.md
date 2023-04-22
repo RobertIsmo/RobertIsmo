@@ -60,36 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 22, Central Standard Time</p>
 <p>
-A lot is going on in the world right now. The US government is trying to propose the first controls on greenhouse gases from power plants and has recently ensured broad access to abortion pills. Abortion is also becoming a more prominent part of the 2024 election debates, and sensitive intelligence has been shared more widely than previously known. At the same time, Western weapons supplies have fallen short of Ukraine&#39;s needs, Russia&#39;s technocrats are helping President Putin keep the economy afloat despite western sanctions, and Ukraine has signed a law banning Russian place names. On another note, California&#39;s winter storms have led to an increase in gold prospecting, many states are trying to restrict gender treatments for adults, school book bans are on the rise nationally, a Menominee tribe is facing a crisis due to sustainable logging practices, and lastly there is an interactive F.A.Q. that aims to answer climate questions.</p>
+In the US, the Supreme Court has recently ruled on a case related to the availability of the abortion pill. Meanwhile, the Environmental Protection Agency is looking to introduce controls on greenhouse gases from power plants. In Russia, technocrats have enabled President Putin&#39;s war despite Western sanctions. Airmen in the US were found to have shared sensitive intelligence with a larger group than previously known. Over in Ukraine, the President has signed a ban on Russian place names. California experienced heavy rains which has allowed gold seekers to find more glittering discoveries. Fox News is under scrutiny after it had to pay a large sum in a defamation settlement. School book bans have been surging in the US as other countries debate control over children&#39;s education. The Menominee tribe in Wisconsin is struggling with an abundance of trees and too few loggers due to overlogging. Lastly, countries are angling for advantage as war rages in Sudan due to its strategically located location and natural resources.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Abortion Pill Ruling, the Supreme Court Trades Ambition for Prudence</h3>
+<sub>By Adam Liptak</sub>
+<p>The court’s order seemed to vindicate a commitment in last year’s decision in Dobbs: to leave further questions about abortion to the political process.  <a href="https://nyti.ms/3KRmsI8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Abortion Pill Ruling: What’s Happened, What’s at Stake, What’s Next</h3>
+<sub>By Abbie VanSickle and Pam Belluck</sub>
+<p>The court is expected to weigh in on whether a commonly used pill, mifepristone, should remain widely available. Here is what’s at stake.  <a href="https://nyti.ms/3N1WeW8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>E.P.A. to Propose First Controls on Greenhouse Gases From Power Plants</h3>
 <sub>By Coral Davenport and Lisa Friedman</sub>
 <p>If the regulation is implemented, it will be the first time the federal government has limited carbon emissions from existing power plants, which generate 25 percent of U.S. greenhouse gases.  <a href="https://nyti.ms/3N5JXQf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Ensures, for Now, Broad Access to Abortion Pill</h3>
-<sub>By Abbie VanSickle</sub>
-<p>The order halts lower court rulings that would have restricted the drug as an appeal moves forward in a case with profound implications for abortion access and the F.D.A.’s regulatory authority.  <a href="https://nyti.ms/3ozWUry"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortion Surges to the Center of the 2024 Campaign</h3>
-<sub>By Katie Glueck</sub>
-<p>Democrats are vowing to make abortion rights a pillar of their campaigns, while Republicans are caught between their conservative base and a public that generally backs access to the procedure.  <a href="https://nyti.ms/41tX3eM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Airman Shared Sensitive Intelligence More Widely and for Longer Than Previously Known</h3>
-<sub>By Aric Toler, Malachy Browne and Julian E. Barnes</sub>
-<p>A Discord user matching the profile of Jack Teixeira distributed intelligence to a larger chat group, days after the beginning of the Ukraine war.  <a href="https://nyti.ms/43VVLe8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Western Weapons Supplies Fall Short of Ukraine’s Needs, Documents Show</h3>
-<sub>By Lara Jakes and John Ismay</sub>
-<p>Ukraine’s defense minister reported the first U.S.-made Patriot air-defense battery had arrived this week, but secret documents show Kyiv was still waiting for tanks and ammo for its coming counteroffensive.  <a href="https://nyti.ms/41NC7PE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,8 +86,14 @@ A lot is going on in the world right now. The US government is trying to propose
 <p>The expertise of economic officials who continue to work in the government has helped President Vladimir Putin largely keep the economy afloat in the face of Western sanctions.  <a href="https://nyti.ms/40q1BBz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Airman Shared Sensitive Intelligence More Widely and for Longer Than Previously Known</h3>
+<sub>By Aric Toler, Malachy Browne and Julian E. Barnes</sub>
+<p>A Discord user matching the profile of Jack Teixeira distributed intelligence to a larger chat group, days after the beginning of the Ukraine war.  <a href="https://nyti.ms/43VVLe8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Signs Law Banning Russian Place Names, Part of Broader ‘Decolonization’ Effort</h3>
+<h3>Zelensky Signs Ban on Russian Place Names in Struggle Over National Identity</h3>
 <sub>By Jeffrey Gettleman and Olha Kotiuzhanska</sub>
 <p>The action late Friday was the latest in a series of steps by Ukraine to distance itself from a long legacy of Russian domination.  <a href="https://nyti.ms/40AcNLQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
@@ -110,10 +104,10 @@ A lot is going on in the world right now. The US government is trying to propose
 <p>The mother lode of winter storms has sent water blasting through rock crevices and rivers in the Sierra Nevada, leading to more glittering discoveries by prospectors.  <a href="https://nyti.ms/40DIX9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Many States Are Trying to Restrict Gender Treatments for Adults, Too</h3>
-<sub>By Azeen Ghorayshi</sub>
-<p>Missouri has imposed sweeping rules to limit health care for trans adults. Other states have banned Medicaid coverage or introduced bills outlawing care for young adults.  <a href="https://nyti.ms/3LjrWwK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Chastened, Humbled Fox News? Don’t Count on It.</h3>
+<sub>By Jeremy W. Peters</sub>
+<p>There is little reason to think Fox News will adjust its coverage after paying a $787.5 million defamation settlement to Dominion Voting Systems. Its audience won’t let it.  <a href="https://nyti.ms/41uvUbC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -133,6 +127,12 @@ A lot is going on in the world right now. The US government is trying to propose
 <sub>By The New York Times Climate Desk</sub>
 <p>What’s causing global warming? How can we fix it? This interactive F.A.Q. will tackle your climate questions big and small.  <a href="https://nyti.ms/3DKau01"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, February 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As War Rages in Sudan, Countries Angle for Advantage</h3>
+<sub>By Declan Walsh</sub>
+<p>Even before its two leading generals went to war last week, “everyone wanted a chunk of Sudan,” an expert said of the strategically located country rich in natural resources.  <a href="https://nyti.ms/3UWT8V4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
