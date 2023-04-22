@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 22, Central Standard Time</p>
 <p>
-Right now, it looks like current events in the US are dominating the news. The Supreme Court has made an order to ensure access to an abortion pill while Democrats are ramping up campaigns involving abortion rights. There&#39;s also some communication from a former Airman about the Ukraine war that involves sensitive intelligence. On a global level, Russia has apparently been relying on its economic officials to keep the economy afloat even with Western sanctions and then there&#39;s Ukraine which recently banned Russian place names as part of their &#39;decolonization&#39; effort. Lastly, California has seen gold seekers come out due to recent heavy rains and multiple states are attempting to regulate gender treatments for adults. Additionally, there is an article about how Wisconsin&#39;s Menominee tribe is struggling with them having too many trees and not enough loggers and some reads for Earth Day which focus on climate change. Lastly, Barry Humphries (audiences may recognize him as Dame Edna) passed away at 89 years old, and there is testimony suggesting Trump attended a meeting in December about accessing voting software.</p>
+Right now, there is a lot of debate and legal action in the US around abortion access. Democrats have vowed to prioritize abortion rights in the 2024 campaign, while an Airman was found to have distributed sensitive intelligence more widely than previously known. In Ukraine, meanwhile, documents show that weapon supplies from the West are falling short of the country&#39;s needs. 
+
+In Russia, technocrats with wide expertise continue to help President Vladimir Putin keep the economy running despite Western sanctions. Ukraine is also taking steps try to distance itself from Russia&#39;s long legacy of domination by signng a law that bans Russian place names. 
+
+Back in the US, after California&#39;s heavy rains this winter, gold seekers are out looking for their own mother lode. Several states are also trying to enforce restrictions on gender treatments for adults, while people everywhere celebrated Earth Day by reading inspiring articles about the climate and nature. Finally, the beloved Australian comic Barry Humphries (Dame Edna to you!) has passed away at 89.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Ensures, for Now, Broad Access to Abortion Pill</h3>
@@ -79,6 +83,12 @@ Right now, it looks like current events in the US are dominating the news. The S
 <sub>By Aric Toler, Malachy Browne and Julian E. Barnes</sub>
 <p>A Discord user matching the profile of Jack Teixeira distributed intelligence to a larger chat group, days after the beginning of the Ukraine war.  <a href="https://nyti.ms/43VVLe8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Western Weapons Supplies Fall Short of Ukraine’s Needs, Documents Show</h3>
+<sub>By Lara Jakes and John Ismay</sub>
+<p>Ukraine’s defense minister reported the first U.S.-made Patriot air-defense battery had arrived this week, but secret documents show Kyiv was still waiting for tanks and ammo for its coming counteroffensive.  <a href="https://nyti.ms/41NC7PE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia’s Technocrats Embraced the West, Then Enabled Putin’s War</h3>
@@ -127,12 +137,6 @@ Right now, it looks like current events in the US are dominating the news. The S
 <sub>By Margalit Fox</sub>
 <p>Bewigged, bejeweled and bejowled, Mr. Humphries’s creation was one of the longest-lived characters ever channeled by a single performer.  <a href="https://nyti.ms/40xRWZs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Testimony Suggests Trump Was at Meeting About Accessing Voting Software</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>In a letter to federal officials, a liberal-leaning group highlighted testimony to the House Jan. 6 committee that described then-President Trump attending a meeting about the plan in December 2020.  <a href="https://nyti.ms/3AitQr6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
