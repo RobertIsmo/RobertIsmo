@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 23, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In China, scientists are facing censorship pressures as they try to study Covid-19. In Sudan, a power struggle has broken out and people are being displaced by the fighting. With the opioid crisis ongoing, it was revealed that millions of dollars had been donated to an organization that advises on opioid policy by members of the Sackler family. In Virginia, an alumnus is on the Board who has attacked diversity programs at the University. In Ukraine, Russian troops have been evacuating civilians from occupied areas in the South. On a lighter note, there&#39;s an island off of Scotland for sale although it isn&#39;t quite ready yet for human habitation. Bed Bath &amp; Beyond declared bankruptcy due to not being able to keep up with online shopping. Banning menthol cigarettes has created a divide among Black leaders, and some Republican legislatures are trying to make it harder to get issues onto state ballots after abortion rights supporters swept ballot measures last year. Finally, there are two reviews for entertainment - a remake of Dead Ringers that takes on childbirth from a new perspective, and the great debate over Crumbl cookies.</p>
+There has been some major news around the world this week. In China, there is a lot of censorship concerning Covid-19 stories. In Sudan, there has been fighting between two military factions, which has resulted in many people fleeing the country. The Sackler family have funded an organization that advises on opioid policy, despite the nation&#39;s drug crisis. At the University of Virginia, an alumnus is attacking diversity programs, causing tension amongst alumni. Russian troops are evacuating civilians from occupied South Ukraine as fighting escalates. President Biden is expanding the number of legal immigrants entering the United States through executive authority. There is an island for sale off the coast of Scotland that is attracting dozens of buyers, despite adversity for anyone wanting to stay for a length of time. In other news, Bed Bath &amp; Beyond recently filed for bankruptcy due to the rise of online shopping. New York is looking to become the third state to ban menthol cigarettes and this has divided some black leaders in the state. Finally, Rachel Weisz had a great streaming remake of &#39;Dead Ringers&#39; with a new perspective on childbirth, and also readers can test their knowledge by taking our news quiz!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Chinese Censorship Is Quietly Rewriting the Covid-19 Story</h3>
@@ -92,6 +92,12 @@ There is a lot happening in the world right now. In China, scientists are facing
 <p>Russian troops are forcibly relocating residents near the southern city of Kherson as fighting there intensifies, a Ukrainian official said Sunday.  <a href="https://nyti.ms/3N11edA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Opens a New Back Door on Immigration</h3>
+<sub>By Miriam Jordan</sub>
+<p>Congress has yet to pass an immigration overhaul, but President Biden has used his executive authority to significantly expand the number of legal immigrants entering the U.S.  <a href="https://nyti.ms/41z2uc8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Scottish Island for Sale, Amenities Not Included</h3>
 <sub>By Remy Tumin</sub>
@@ -108,12 +114,6 @@ There is a lot happening in the world right now. In China, scientists are facing
 <h3>Black Smokers at Center of New York Fight to Ban Menthol Cigarettes</h3>
 <sub>By Luis Ferré-Sadurní</sub>
 <p>A proposal to make New York the third state to ban menthol cigarettes has created a furious and expensive lobbying war, and has divided Black leaders.  <a href="https://nyti.ms/3LmeRTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Losing Ballot Issues on Abortion, G.O.P. Now Tries to Keep Them Off the Ballot</h3>
-<sub>By Kate Zernike and Michael Wines</sub>
-<p>After abortion rights supporters swept six ballot measures last year, Republican legislatures seek to make it harder to get on the ballot, and harder to win if there is a vote.  <a href="https://nyti.ms/41vynTa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
