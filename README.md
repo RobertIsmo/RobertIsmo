@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 22, Central Standard Time</p>
 <p>
-In the US, the Supreme Court has recently ruled on a case related to the availability of the abortion pill. Meanwhile, the Environmental Protection Agency is looking to introduce controls on greenhouse gases from power plants. In Russia, technocrats have enabled President Putin&#39;s war despite Western sanctions. Airmen in the US were found to have shared sensitive intelligence with a larger group than previously known. Over in Ukraine, the President has signed a ban on Russian place names. California experienced heavy rains which has allowed gold seekers to find more glittering discoveries. Fox News is under scrutiny after it had to pay a large sum in a defamation settlement. School book bans have been surging in the US as other countries debate control over children&#39;s education. The Menominee tribe in Wisconsin is struggling with an abundance of trees and too few loggers due to overlogging. Lastly, countries are angling for advantage as war rages in Sudan due to its strategically located location and natural resources.</p>
+There is a lot going on in the world right now. The Supreme Court is deciding if abortion pills should remain easily accessible. The EPA proposed the first controls on greenhouse gases from power plants. Russia’s economic officials have been enabling Putin’s war. After California&#39;s heavy rains, gold seekers are lining up to find buried treasures. Fox News has been paying out large sums for defamation cases. There’s an increased debate around school book bans. Countries are angling for a piece of Sudan’s resources. Crypto detectives are cleaning up cryptocurrency movement, and the NFL is figuring out how best to respond to players betting on games. Lastly, there&#39;s a huge blob of seaweed heading towards Florida which just keeps growing.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Abortion Pill Ruling, the Supreme Court Trades Ambition for Prudence</h3>
@@ -87,18 +87,6 @@ In the US, the Supreme Court has recently ruled on a case related to the availab
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Airman Shared Sensitive Intelligence More Widely and for Longer Than Previously Known</h3>
-<sub>By Aric Toler, Malachy Browne and Julian E. Barnes</sub>
-<p>A Discord user matching the profile of Jack Teixeira distributed intelligence to a larger chat group, days after the beginning of the Ukraine war.  <a href="https://nyti.ms/43VVLe8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Signs Ban on Russian Place Names in Struggle Over National Identity</h3>
-<sub>By Jeffrey Gettleman and Olha Kotiuzhanska</sub>
-<p>The action late Friday was the latest in a series of steps by Ukraine to distance itself from a long legacy of Russian domination.  <a href="https://nyti.ms/40AcNLQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Eureka! After California’s Heavy Rains, Gold Seekers Are Giddy.</h3>
 <sub>By Thomas Fuller and Jim Wilson</sub>
 <p>The mother lode of winter storms has sent water blasting through rock crevices and rivers in the Sierra Nevada, leading to more glittering discoveries by prospectors.  <a href="https://nyti.ms/40DIX9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -116,23 +104,35 @@ In the US, the Supreme Court has recently ruled on a case related to the availab
 <p>Proponents say the laws aim to give parents control over their children’s education. But many educators say the rules have brought chaos and fear.  <a href="https://nyti.ms/3mSLkY5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Giving Forest</h3>
-<sub>By Cara Buckley and Jamie Kelter Davis</sub>
-<p>The Menominee tribe has sustainably logged its forest in Wisconsin for 160 years. But that careful balance faces a crisis: too many trees and too few loggers.  <a href="https://nyti.ms/3V4WAgI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Have Climate Questions? Get Answers Here.</h3>
-<sub>By The New York Times Climate Desk</sub>
-<p>What’s causing global warming? How can we fix it? This interactive F.A.Q. will tackle your climate questions big and small.  <a href="https://nyti.ms/3DKau01"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, February 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As War Rages in Sudan, Countries Angle for Advantage</h3>
 <sub>By Declan Walsh</sub>
 <p>Even before its two leading generals went to war last week, “everyone wanted a chunk of Sudan,” an expert said of the strategically located country rich in natural resources.  <a href="https://nyti.ms/3UWT8V4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Crypto Detectives Are Cleaning Up</h3>
+<sub>By David Yaffe-Bellany</sub>
+<p>Early adopters thought cryptocurrencies would be free from prying eyes. But tracking the flow of funds has become a big business.  <a href="https://nyti.ms/41vMveS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>N.F.L. Walks a Fine Line on Players’ Betting</h3>
+<sub>By Jenny Vrentas, Ken Belson and Kevin Draper</sub>
+<p>The suspension of five players, three of whom bet on N.F.L. games, exposes the league’s unsure footing as it both promotes and punishes sports gambling.  <a href="https://nyti.ms/3oxe1Ky"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Those Seaweed Blobs Headed for Florida? See How Big They Are.</h3>
+<sub>By Elena Shao</sub>
+<p>The amount of Sargassum drifting toward North America is a record for the month of March.  <a href="https://nyti.ms/3KNaPlq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jillian Rayfield</sub>
+<p>The 100 best restaurants in New York City. Also in this edition: Keri Russell’s return to television, and the great debate over Crumbl cookies.  <a href="https://nyti.ms/41PpiUH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
