@@ -60,13 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 23, Central Standard Time</p>
 <p>
-There is a war raging in Sudan as countries compete for power, the Supreme Court overturned an abortion pill ruling in the US and Russia&#39;s economic officials are helping Vladimir Putin keep the economy afloat. Meanwhile, gold seekers in California are giddy due to heavy rains, the EPA is set to propose control of greenhouse gas emissions from power plants, school book bans across the US are sparking debate, Fox News has paid out a $787.5 million defamation settlement over election fraud claims, Florida is facing record amounts of seaweed floating towards it, cryptocurrencies are being tracked by crypto detectives, and the NFL is juggling between promoting and punishing sports gambling.</p>
+Currently, there is chaos in Sudan and Russian forces are attacking cities in Ukraine. In the US, an alum of the University of Virginia is on its board despite criticism against the school&#39;s diversity programs. Additionally, Republicans are trying to make it harder for abortion rights to be supported at the ballot box and Bed Bath &amp; Beyond has filed for bankruptcy.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As War Rages in Sudan, Countries Angle for Advantage</h3>
-<sub>By Declan Walsh</sub>
-<p>Even before its two leading generals went to war last week, “everyone wanted a chunk of Sudan,” an expert said of the strategically located country rich in natural resources.  <a href="https://nyti.ms/3UWT8V4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<h3>Chaos in Sudan: Who Is Battling for Power, and What It Means</h3>
+<sub>By The New York Times</sub>
+<p>The strategically important country in northeastern Africa has been consumed by more than a week of fighting between two military factions, and plans for a transition to a civilian-led democracy are now in shambles.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Sacklers Gave Millions to Institution That Advises on Opioid Policy</h3>
+<sub>By Christina Jewett</sub>
+<p>Even as the nation’s drug crisis mounted, the National Academies of Sciences, Engineering and Medicine continued to accept funds from some members of the Sackler family, including those involved with Purdue Pharma.  <a href="https://nyti.ms/429AZWP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At U.Va., an Alumnus Attacked Diversity Programs. Now He Is on the Board.</h3>
+<sub>By Stephanie Saul</sub>
+<p>As D.E.I. programs come under attack, a plan at the University of Virginia for “more diversity, less Confederacy” enraged some alumni, who started organizing against it.  <a href="https://nyti.ms/40vMeaO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Pounds Cities Across the Country, Ukraine Says</h3>
+<sub>By Jeffrey Gettleman</sub>
+<p>Russian forces hit Ukrainian cities with missiles, mortars, artillery and airstrikes over the weekend, Ukrainian officials said.  <a href="https://nyti.ms/3N11edA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Leonardo’s Ferry Left High and Dry by Global Warming and Red Tape</h3>
+<sub>By Jason Horowitz</sub>
+<p>A ferry used to traverse the banks of the Adda River, in northern Italy, but drought and an abundance of bureaucracy has closed it down.  <a href="https://nyti.ms/41Q1Oin"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Losing Ballot Issues on Abortion, G.O.P. Now Tries to Keep Them Off the Ballot</h3>
+<sub>By Kate Zernike and Michael Wines</sub>
+<p>After abortion rights supporters swept six ballot measures last year, Republican legislatures seek to make it harder to get on the ballot, and harder to win if there is a vote.  <a href="https://nyti.ms/41vynTa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Abortion Pill Ruling, the Supreme Court Trades Ambition for Prudence</h3>
@@ -74,53 +104,23 @@ There is a war raging in Sudan as countries compete for power, the Supreme Court
 <p>The court’s order seemed to vindicate a commitment in last year’s decision in Dobbs: to leave further questions about abortion to the political process.  <a href="https://nyti.ms/3KRmsI8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia’s Technocrats Embraced the West, Then Enabled Putin’s War</h3>
-<sub>By Anatoly Kurmanaev</sub>
-<p>The expertise of economic officials who continue to work in the government has helped President Vladimir Putin largely keep the economy afloat in the face of Western sanctions.  <a href="https://nyti.ms/40q1BBz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Bed Bath &amp; Beyond Files for Bankruptcy</h3>
+<sub>By Jordyn Holman and Lauren Hirsch</sub>
+<p>The company said that it would seek to sell all or some of its business, and that store closing sales would begin on Wednesday.  <a href="https://nyti.ms/41VEuA1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Eureka! After California’s Heavy Rains, Gold Seekers Are Giddy.</h3>
-<sub>By Thomas Fuller and Jim Wilson</sub>
-<p>The mother lode of winter storms has sent water blasting through rock crevices and rivers in the Sierra Nevada, leading to more glittering discoveries by prospectors.  <a href="https://nyti.ms/40DIX9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<h3>After Front Door Shooting, Kansas City Grapples With Race</h3>
+<sub>By Mitch Smith</sub>
+<p>In a city that has seen a new wave of business investment, the shooting of Ralph Yarl, 16, drew new attention to persistent disparities between Black and white residents.  <a href="https://nyti.ms/3L4HK54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>E.P.A. to Propose First Controls on Greenhouse Gases From Power Plants</h3>
-<sub>By Coral Davenport and Lisa Friedman</sub>
-<p>If the regulation is implemented, it will be the first time the federal government has limited carbon emissions from existing power plants, which generate 25 percent of U.S. greenhouse gases.  <a href="https://nyti.ms/3N5JXQf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Florida at Center of Debate as School Book Bans Surge Nationally</h3>
-<sub>By Patricia Mazzei, Elizabeth A. Harris and Alexandra Alter</sub>
-<p>Proponents say the laws aim to give parents control over their children’s education. But many educators say the rules have brought chaos and fear.  <a href="https://nyti.ms/3mSLkY5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Chastened, Humbled Fox News? Don’t Count on It.</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>There is little reason to think Fox News will adjust its coverage after paying a $787.5 million defamation settlement to Dominion Voting Systems. Its audience won’t let it.  <a href="https://nyti.ms/41uvUbC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Those Seaweed Blobs Headed for Florida? See How Big They Are.</h3>
-<sub>By Elena Shao</sub>
-<p>The amount of Sargassum drifting toward North America is a record for the month of March.  <a href="https://nyti.ms/3KNaPlq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Crypto Detectives Are Cleaning Up</h3>
-<sub>By David Yaffe-Bellany</sub>
-<p>Early adopters thought cryptocurrencies would be free from prying eyes. But tracking the flow of funds has become a big business.  <a href="https://nyti.ms/41vMveS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>N.F.L. Walks a Fine Line on Players’ Betting</h3>
-<sub>By Jenny Vrentas, Ken Belson and Kevin Draper</sub>
-<p>The suspension of five players, three of whom bet on N.F.L. games, exposes the league’s unsure footing as it both promotes and punishes sports gambling.  <a href="https://nyti.ms/3oxe1Ky"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Rachel Weisz and the Glorious Horrors of Pregnancy</h3>
+<sub>By Alexandra Kleeman</sub>
+<p>Her brilliant streaming remake of the psychosexual thriller “Dead Ringers” has a refreshing new perspective on childbirth.  <a href="https://nyti.ms/3AjWEzv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Weekender</h3>
