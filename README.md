@@ -60,24 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 22, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The Supreme Court is deciding if abortion pills should remain easily accessible. The EPA proposed the first controls on greenhouse gases from power plants. Russia’s economic officials have been enabling Putin’s war. After California&#39;s heavy rains, gold seekers are lining up to find buried treasures. Fox News has been paying out large sums for defamation cases. There’s an increased debate around school book bans. Countries are angling for a piece of Sudan’s resources. Crypto detectives are cleaning up cryptocurrency movement, and the NFL is figuring out how best to respond to players betting on games. Lastly, there&#39;s a huge blob of seaweed heading towards Florida which just keeps growing.</p>
+Right now, there&#39;s chaos and conflict in Sudan, with the US military evacuating diplomatic personnel. Russia is also embroiled in a tense political atmosphere as its technocrats facilitate President Putin&#39;s war efforts. At the same time, in the US Supreme Court, various abortion pill rulings and debates are taking place while book bans surge across the nation. Meanwhile, due to recent showers and stormy weather, California has seen a huge uptick in gold seekers hoping to find their fortune. Efforts have been made to curb greenhouse gas emissions from power plants and the crypto currency market is booming with detectives cleaning up funding flows. The NFL is struggling with bets as they both promote and punish gambling. Finally, New York City has released their best restaurants which seem to be causing quite a stir.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Military Evacuates Embassy Personnel in Embattled Sudan</h3>
+<sub>By Charlie Savage, Michael D. Shear, Elian Peltier and Declan Walsh</sub>
+<p>Diplomatic personnel, who had been stuck in the midst of a brutal war for more than a week, were evacuated from the capital, Khartoum, an American official said.  <a href="https://nyti.ms/3H1rYXG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As War Rages in Sudan, Countries Angle for Advantage</h3>
+<sub>By Declan Walsh</sub>
+<p>Even before its two leading generals went to war last week, “everyone wanted a chunk of Sudan,” an expert said of the strategically located country rich in natural resources.  <a href="https://nyti.ms/3UWT8V4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Abortion Pill Ruling, the Supreme Court Trades Ambition for Prudence</h3>
 <sub>By Adam Liptak</sub>
 <p>The court’s order seemed to vindicate a commitment in last year’s decision in Dobbs: to leave further questions about abortion to the political process.  <a href="https://nyti.ms/3KRmsI8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Abortion Pill Ruling: What’s Happened, What’s at Stake, What’s Next</h3>
-<sub>By Abbie VanSickle and Pam Belluck</sub>
-<p>The court is expected to weigh in on whether a commonly used pill, mifepristone, should remain widely available. Here is what’s at stake.  <a href="https://nyti.ms/3N1WeW8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>E.P.A. to Propose First Controls on Greenhouse Gases From Power Plants</h3>
-<sub>By Coral Davenport and Lisa Friedman</sub>
-<p>If the regulation is implemented, it will be the first time the federal government has limited carbon emissions from existing power plants, which generate 25 percent of U.S. greenhouse gases.  <a href="https://nyti.ms/3N5JXQf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,10 +92,10 @@ There is a lot going on in the world right now. The Supreme Court is deciding if
 <p>The mother lode of winter storms has sent water blasting through rock crevices and rivers in the Sierra Nevada, leading to more glittering discoveries by prospectors.  <a href="https://nyti.ms/40DIX9u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Chastened, Humbled Fox News? Don’t Count on It.</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>There is little reason to think Fox News will adjust its coverage after paying a $787.5 million defamation settlement to Dominion Voting Systems. Its audience won’t let it.  <a href="https://nyti.ms/41uvUbC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>E.P.A. to Propose First Controls on Greenhouse Gases From Power Plants</h3>
+<sub>By Coral Davenport and Lisa Friedman</sub>
+<p>If the regulation is implemented, it will be the first time the federal government has limited carbon emissions from existing power plants, which generate 25 percent of U.S. greenhouse gases.  <a href="https://nyti.ms/3N5JXQf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -104,11 +104,17 @@ There is a lot going on in the world right now. The Supreme Court is deciding if
 <p>Proponents say the laws aim to give parents control over their children’s education. But many educators say the rules have brought chaos and fear.  <a href="https://nyti.ms/3mSLkY5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As War Rages in Sudan, Countries Angle for Advantage</h3>
-<sub>By Declan Walsh</sub>
-<p>Even before its two leading generals went to war last week, “everyone wanted a chunk of Sudan,” an expert said of the strategically located country rich in natural resources.  <a href="https://nyti.ms/3UWT8V4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Chastened, Humbled Fox News? Don’t Count on It.</h3>
+<sub>By Jeremy W. Peters</sub>
+<p>There is little reason to think Fox News will adjust its coverage after paying a $787.5 million defamation settlement to Dominion Voting Systems. Its audience won’t let it.  <a href="https://nyti.ms/41uvUbC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Those Seaweed Blobs Headed for Florida? See How Big They Are.</h3>
+<sub>By Elena Shao</sub>
+<p>The amount of Sargassum drifting toward North America is a record for the month of March.  <a href="https://nyti.ms/3KNaPlq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Crypto Detectives Are Cleaning Up</h3>
@@ -121,12 +127,6 @@ There is a lot going on in the world right now. The Supreme Court is deciding if
 <sub>By Jenny Vrentas, Ken Belson and Kevin Draper</sub>
 <p>The suspension of five players, three of whom bet on N.F.L. games, exposes the league’s unsure footing as it both promotes and punishes sports gambling.  <a href="https://nyti.ms/3oxe1Ky"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Those Seaweed Blobs Headed for Florida? See How Big They Are.</h3>
-<sub>By Elena Shao</sub>
-<p>The amount of Sargassum drifting toward North America is a record for the month of March.  <a href="https://nyti.ms/3KNaPlq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Weekender</h3>
