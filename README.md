@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 23, Central Standard Time</p>
 <p>
-Right now, there is chaos in Sudan following a conflict between two military factions, and Russia is also attacking Ukrainian cities. Meanwhile, US institutions are facing backlash for taking donations from companies connected to the opioid crisis. In the US, the University of Virginia recently added an alum to its board who was against diversity initiatives. Closer to home, Bed Bath &amp; Beyond has announced bankruptcy and Kansas City is grappling with race issues after a shooting at a front door. Finally, Rachel Weisz&#39;s new movie is taking on pregnancy in a very fresh way.</p>
+There is a lot happening in the world right now. In China, scientists are facing censorship pressures as they try to study Covid-19. In Sudan, a power struggle has broken out and people are being displaced by the fighting. With the opioid crisis ongoing, it was revealed that millions of dollars had been donated to an organization that advises on opioid policy by members of the Sackler family. In Virginia, an alumnus is on the Board who has attacked diversity programs at the University. In Ukraine, Russian troops have been evacuating civilians from occupied areas in the South. On a lighter note, there&#39;s an island off of Scotland for sale although it isn&#39;t quite ready yet for human habitation. Bed Bath &amp; Beyond declared bankruptcy due to not being able to keep up with online shopping. Banning menthol cigarettes has created a divide among Black leaders, and some Republican legislatures are trying to make it harder to get issues onto state ballots after abortion rights supporters swept ballot measures last year. Finally, there are two reviews for entertainment - a remake of Dead Ringers that takes on childbirth from a new perspective, and the great debate over Crumbl cookies.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Chinese Censorship Is Quietly Rewriting the Covid-19 Story</h3>
+<sub>By Mara Hvistendahl and Benjamin Mueller</sub>
+<p>Under government pressure, Chinese scientists have retracted studies and withheld or deleted data. The censorship has stymied efforts to understand the virus.  <a href="https://nyti.ms/3L87CNI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Chaos in Sudan: Who Is Battling for Power, and Why It Hasn’t Stopped</h3>
 <sub>By The New York Times</sub>
@@ -81,39 +87,33 @@ Right now, there is chaos in Sudan following a conflict between two military fac
 <sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Pounds Cities Across the Country, Ukraine Says</h3>
-<sub>By Jeffrey Gettleman</sub>
-<p>Russian forces hit Ukrainian cities with missiles, mortars, artillery and airstrikes over the weekend, Ukrainian officials said.  <a href="https://nyti.ms/3N11edA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Says Russian Troops Are Evacuating Civilians From Occupied Areas of South</h3>
+<sub>By Jeffrey Gettleman and Olha Kotiuzhanska</sub>
+<p>Russian troops are forcibly relocating residents near the southern city of Kherson as fighting there intensifies, a Ukrainian official said Sunday.  <a href="https://nyti.ms/3N11edA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Leonardo’s Ferry Left High and Dry by Global Warming and Red Tape</h3>
-<sub>By Jason Horowitz</sub>
-<p>A ferry used to traverse the banks of the Adda River, in northern Italy, but drought and an abundance of bureaucracy has closed it down.  <a href="https://nyti.ms/41Q1Oin"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Scottish Island for Sale, Amenities Not Included</h3>
+<sub>By Remy Tumin</sub>
+<p>Reaching Barlocco Island is challenging, and staying there for any length of time even more so. Still, dozens are vying for the 25 acres of nature.  <a href="https://nyti.ms/3oDglQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Bed Bath &amp; Beyond Files for Bankruptcy</h3>
+<sub>By Jordyn Holman and Lauren Hirsch</sub>
+<p>The company, which failed to fully reckon with the rise of online shopping, said that store closing sales would begin on Wednesday.  <a href="https://nyti.ms/41VEuA1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Black Smokers at Center of New York Fight to Ban Menthol Cigarettes</h3>
+<sub>By Luis Ferré-Sadurní</sub>
+<p>A proposal to make New York the third state to ban menthol cigarettes has created a furious and expensive lobbying war, and has divided Black leaders.  <a href="https://nyti.ms/3LmeRTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Losing Ballot Issues on Abortion, G.O.P. Now Tries to Keep Them Off the Ballot</h3>
 <sub>By Kate Zernike and Michael Wines</sub>
 <p>After abortion rights supporters swept six ballot measures last year, Republican legislatures seek to make it harder to get on the ballot, and harder to win if there is a vote.  <a href="https://nyti.ms/41vynTa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Abortion Pill Ruling, the Supreme Court Trades Ambition for Prudence</h3>
-<sub>By Adam Liptak</sub>
-<p>The court’s order seemed to vindicate a commitment in last year’s decision in Dobbs: to leave further questions about abortion to the political process.  <a href="https://nyti.ms/3KRmsI8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bed Bath &amp; Beyond Files for Bankruptcy</h3>
-<sub>By Jordyn Holman and Lauren Hirsch</sub>
-<p>The company said that it would seek to sell all or some of its business, and that store closing sales would begin on Wednesday.  <a href="https://nyti.ms/41VEuA1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Front Door Shooting, Kansas City Grapples With Race</h3>
-<sub>By Mitch Smith</sub>
-<p>In a city that has seen a new wave of business investment, the shooting of Ralph Yarl, 16, drew new attention to persistent disparities between Black and white residents.  <a href="https://nyti.ms/3L4HK54"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
