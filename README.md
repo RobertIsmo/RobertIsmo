@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 23, Central Standard Time</p>
 <p>
-Currently, there is chaos in Sudan and Russian forces are attacking cities in Ukraine. In the US, an alum of the University of Virginia is on its board despite criticism against the school&#39;s diversity programs. Additionally, Republicans are trying to make it harder for abortion rights to be supported at the ballot box and Bed Bath &amp; Beyond has filed for bankruptcy.</p>
+Right now, there is chaos in Sudan following a conflict between two military factions, and Russia is also attacking Ukrainian cities. Meanwhile, US institutions are facing backlash for taking donations from companies connected to the opioid crisis. In the US, the University of Virginia recently added an alum to its board who was against diversity initiatives. Closer to home, Bed Bath &amp; Beyond has announced bankruptcy and Kansas City is grappling with race issues after a shooting at a front door. Finally, Rachel Weisz&#39;s new movie is taking on pregnancy in a very fresh way.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Chaos in Sudan: Who Is Battling for Power, and What It Means</h3>
+<h3>Chaos in Sudan: Who Is Battling for Power, and Why It Hasn’t Stopped</h3>
 <sub>By The New York Times</sub>
-<p>The strategically important country in northeastern Africa has been consumed by more than a week of fighting between two military factions, and plans for a transition to a civilian-led democracy are now in shambles.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The strategically important country in northeastern Africa has been consumed by more than a week of fighting between two military factions. Sudanese are fleeing and many countries are evacuating their personnel — but many people are stuck.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
