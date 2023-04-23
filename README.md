@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 23, Central Standard Time</p>
 <p>
-In the world right now, there is a lot happening. Sudan is facing violent military conflict, diplomats from the US Embassy have been evacuated from Khartoum, and there&#39;s a lot of complex geopolitical maneuvering and resource control involved in the situation. In the US, the Supreme Court made a prudential decision regarding abortion access and restrictions, but experts say that much remains left to political process. Russia’s technocrats have enabled the government’s war-like ambitions, while heavy rains in California are turning up precious gold findings for prospectors. Environmental news reveals that the EPA may set greenhouse gas emission limits on power plants in effort to address climate change, while school book bans across state lines have raised questions and concerns with educators. Fox News has recently paid out a large defamation settlement to Dominion Voting Systems, and the NFL is struggling to draw clear boundaries around athlete gambling. Finally, in lighter news, some New York restaurants were highlighted as being especially great, plus Keri Russell’s new TV role and a debate about Crumbl cookies made for fun mentions to end off the week.</p>
+There is a war raging in Sudan as countries compete for power, the Supreme Court overturned an abortion pill ruling in the US and Russia&#39;s economic officials are helping Vladimir Putin keep the economy afloat. Meanwhile, gold seekers in California are giddy due to heavy rains, the EPA is set to propose control of greenhouse gas emissions from power plants, school book bans across the US are sparking debate, Fox News has paid out a $787.5 million defamation settlement over election fraud claims, Florida is facing record amounts of seaweed floating towards it, cryptocurrencies are being tracked by crypto detectives, and the NFL is juggling between promoting and punishing sports gambling.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Military Evacuates Embassy Personnel in Embattled Sudan</h3>
-<sub>By Charlie Savage, Michael D. Shear, Elian Peltier and Declan Walsh</sub>
-<p>President Biden announced that diplomatic personnel, who had been stuck in the midst of a brutal war for more than a week, were evacuated from the capital, Khartoum.  <a href="https://nyti.ms/3H1rYXG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As War Rages in Sudan, Countries Angle for Advantage</h3>
 <sub>By Declan Walsh</sub>
@@ -132,6 +126,12 @@ In the world right now, there is a lot happening. Sudan is facing violent milita
 <h3>The Weekender</h3>
 <sub>By Jillian Rayfield</sub>
 <p>The 100 best restaurants in New York City. Also in this edition: Keri Russell’s return to television, and the great debate over Crumbl cookies.  <a href="https://nyti.ms/41PpiUH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, April 21, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3KThV7X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
