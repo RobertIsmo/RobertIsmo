@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 24, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. Tucker Carlson, an influential Fox News host, has been stirring up a wave of white fear in American cable news. Joe Biden is readying himself for a reelection bid, trying to defend his record while warning against the dangers of Donald Trump&#39;s return. Meanwhile, China&#39;s ambassador to France has made some controversial remarks that have angered European leaders. In Ukraine and many other places around the world, there is a renewed hope amidst difficult and dangerous times. Closer to home, there are numerous business stories like Credit Suisse struggling and Don Lemon leaving CNN under scrutiny. We&#39;re also seeing the implications of remote work affecting the next generation of workers, particularly when it comes to supervision, and Dr. Judith Herman&#39;s surprising return to trauma studies after years of silence.</p>
+Recently, there&#39;s been a lot of news in the US and around the world. Fox News has just announced it is replacing Tucker Carlson’s show with &#39;Fox News Tonight&#39;. The reason is because many people have found his racial and conservative views offensive. Meanwhile, Joe Biden has declared he is running for re-election and has won the full support of the Democratic Party despite questions about his age and approval ratings. In foreign news, China tried to limit the damage caused by their ambassador&#39;s remarks questioning ex-Soviet sovereignty that angered Europe. A few people in media have been fired due to scandals, such as Don Lemon from CNN and Jeff Shell from NBCUniversal. Lastly, the First Republic Bank lost $102 Billion in customer deposits and the NY Jets made a trade for Aaron Rodgers to try to turn them into a Super Bowl contender.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘Fox News Tonight’ Will Replace Tucker Carlson’s Show</h3>
+<sub>By Katie Robertson</sub>
+<p>The new show will start Monday night and feature rotating Fox News personalities until a new host is named.  <a href="https://nyti.ms/40EUzsC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Tucker Carlson Stoked White Fear to Conquer Cable</h3>
 <sub>By Nicholas Confessore</sub>
@@ -89,31 +95,19 @@ There&#39;s a lot happening in the world right now. Tucker Carlson, an influenti
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China Tries to Limit Damage From Diplomat’s Comments That Riled Europe</h3>
 <sub>By Steven Erlanger</sub>
-<p>Remarks by China’s ambassador to France that questioned the sovereignty of ex-Soviet states threatened to upset Beijing’s efforts to court European leaders.  <a href="https://nyti.ms/3LlI3d7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Ukraine’s Gravesites, a Spring Ritual Hints at Renewal</h3>
-<sub>By Andrew E. Kramer, Maria Varenikova and Mauricio Lima</sub>
-<p>A decimated village welcomes back displaced residents for a day of remembrance and hope.  <a href="https://nyti.ms/3N9ur6e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Remarks by China’s ambassador to France questioning the sovereignty of ex-Soviet states threatened to upset China’s efforts to balance courting Europe with supporting Russia.  <a href="https://nyti.ms/3LlI3d7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Don Lemon, CNN Star Anchor, to Leave the Network</h3>
+<h3>Don Lemon Ousted From CNN in Move That Left Him ‘Stunned’</h3>
 <sub>By Michael M. Grynbaum, John Koblin and Benjamin Mullin</sub>
 <p>Mr. Lemon, one of the network’s most recognizable stars, had been under scrutiny since an uproar over on-air remarks he made about women and aging in February.  <a href="https://nyti.ms/3NaIV5Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Smaller U.S. Banks Say the Crisis Is Contained but Fears Persist</h3>
-<sub>By Jason Karaian and Stacy Cowley</sub>
-<p>In recent calls with investors, regional bank leaders tried to cast the turmoil in the industry spurred by the collapse of Silicon Valley Bank as a moment that has passed.  <a href="https://nyti.ms/3N5NzC3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Final Days at Credit Suisse Were Marked by a $69 Billion Race for the Exits</h3>
-<sub>By Michael J. de la Merced</sub>
-<p>Clients hurried to withdraw money as the Swiss bank faced collapse last month. It was eventually forced to sell itself to a rival, UBS.  <a href="https://nyti.ms/41yfFu2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>NBCUniversal’s C.E.O. Was Fired After Harassment Complaint</h3>
+<sub>By Benjamin Mullin</sub>
+<p>Hadley Gamble, a correspondent at CNBC, produced messages to investigators that documented instances of harassment by Jeff Shell, according to her lawyer.  <a href="https://nyti.ms/441clcE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -122,16 +116,22 @@ There&#39;s a lot happening in the world right now. Tucker Carlson, an influenti
 <p>One of the first major studies on remote work shows a hidden penalty of flexibility: less supervision.  <a href="https://nyti.ms/440Oytl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Civilians Flee Fighting in Sudan for Troubled Neighboring Countries</h3>
-<sub>By Abdi Latif Dahir and Lynsey Chutel</sub>
-<p>The clashes have killed more than 400 people and injured thousands more. Those displaced are streaming into nations such as Chad, Egypt and South Sudan, adding to a refugee crisis in the region.  <a href="https://nyti.ms/3mZuRBn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>First Republic Bank Lost $102 Billion in Customer Deposits</h3>
+<sub>By Rob Copeland and Maureen Farrell</sub>
+<p>The regional bank received a $30 billion lifeline from big banks last month, but depositors and investors remain worried about its prospects.  <a href="https://nyti.ms/3LoxtCf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>She Redefined Trauma. Then Trauma Redefined Her.</h3>
-<sub>By Ellen Barry</sub>
-<p>Dr. Judith Herman, who helped launch the field of trauma studies, has returned to publishing after a long, mysterious ordeal.  <a href="https://nyti.ms/3mZQvFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Smaller U.S. Banks Say the Crisis Is Contained, but Fears Persist</h3>
+<sub>By Jason Karaian and Stacy Cowley</sub>
+<p>In recent calls with investors, regional bank leaders tried to cast the turmoil in the industry spurred by the collapse of Silicon Valley Bank as a moment that had passed.  <a href="https://nyti.ms/3N5NzC3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Jets Trade for Aaron Rodgers After Delay</h3>
+<sub>By Kris Rhim</sub>
+<p>Rodgers, a four-time league M.V.P. with the Green Bay Packers, will look to turn the Jets into a Super Bowl contender.  <a href="https://nyti.ms/40DwqCN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
