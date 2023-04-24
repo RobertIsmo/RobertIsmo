@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 23, Central Standard Time</p>
 <p>
-There has been some major news around the world this week. In China, there is a lot of censorship concerning Covid-19 stories. In Sudan, there has been fighting between two military factions, which has resulted in many people fleeing the country. The Sackler family have funded an organization that advises on opioid policy, despite the nation&#39;s drug crisis. At the University of Virginia, an alumnus is attacking diversity programs, causing tension amongst alumni. Russian troops are evacuating civilians from occupied South Ukraine as fighting escalates. President Biden is expanding the number of legal immigrants entering the United States through executive authority. There is an island for sale off the coast of Scotland that is attracting dozens of buyers, despite adversity for anyone wanting to stay for a length of time. In other news, Bed Bath &amp; Beyond recently filed for bankruptcy due to the rise of online shopping. New York is looking to become the third state to ban menthol cigarettes and this has divided some black leaders in the state. Finally, Rachel Weisz had a great streaming remake of &#39;Dead Ringers&#39; with a new perspective on childbirth, and also readers can test their knowledge by taking our news quiz!</p>
+There is a lot going on in the world right now. In China, the government is censoring news about the COVID-19 pandemic in an effort to control how its citizens view the situation. In Sudan, warring generals have led to chaos, refugees, and evacuations of many countries&#39; personnel. The U.S. under President Biden is working to expand legal immigration options, while also facing backlash from some alumni at the University of Virginia over a plan to increase diversity initiatives while lessening ties to the Confederacy. Meanwhile, Russia is forcibly relocating residents in parts of Ukraine, and a Scottish island has gone up for sale without much of its amenities. Closer to home, businesses such as Bed Bath &amp; Beyond and NBCUniversal continue to struggle with adapting to changing markets and a new leadership shakeup, respectively. And Rachel Weisz&#39;s recent work has affected perceptions of pregnancy and childbirth. Finally, gardeners are being offered advice on creating container gardens for their homes.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Chinese Censorship Is Quietly Rewriting the Covid-19 Story</h3>
@@ -69,16 +69,16 @@ There has been some major news around the world this week. In China, there is a 
 <sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Pulls Diplomats From Sudan, and an Exodus Begins</h3>
+<sub>By Declan Walsh, Charlie Savage and Eric Schmitt</sub>
+<p>With hopes fading that two warring generals will end their battle anytime soon, diplomats and other foreigners began heading for Sudan’s doors.  <a href="https://nyti.ms/3KYQbyV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Chaos in Sudan: Who Is Battling for Power, and Why It Hasn’t Stopped</h3>
 <sub>By The New York Times</sub>
 <p>The strategically important country in northeastern Africa has been consumed by more than a week of fighting between two military factions. Sudanese are fleeing and many countries are evacuating their personnel — but many people are stuck.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Sacklers Gave Millions to Institution That Advises on Opioid Policy</h3>
-<sub>By Christina Jewett</sub>
-<p>Even as the nation’s drug crisis mounted, the National Academies of Sciences, Engineering and Medicine continued to accept funds from some members of the Sackler family, including those involved with Purdue Pharma.  <a href="https://nyti.ms/429AZWP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At U.Va., an Alumnus Attacked Diversity Programs. Now He Is on the Board.</h3>
@@ -116,23 +116,23 @@ There has been some major news around the world this week. In China, there is a 
 <p>A proposal to make New York the third state to ban menthol cigarettes has created a furious and expensive lobbying war, and has divided Black leaders.  <a href="https://nyti.ms/3LmeRTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Jeff Shell, C.E.O. of NBCUniversal, Steps Down After Inquiry</h3>
+<sub>By Benjamin Mullin, John Koblin and Nicole Sperling</sub>
+<p>Comcast, the company’s owner, said he was leaving after an investigation into “an inappropriate relationship with a woman in the company.”  <a href="https://nyti.ms/41za46A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Rachel Weisz and the Glorious Horrors of Pregnancy</h3>
 <sub>By Alexandra Kleeman</sub>
 <p>Her brilliant streaming remake of the psychosexual thriller “Dead Ringers” has a refreshing new perspective on childbirth.  <a href="https://nyti.ms/3AjWEzv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jillian Rayfield</sub>
-<p>The 100 best restaurants in New York City. Also in this edition: Keri Russell’s return to television, and the great debate over Crumbl cookies.  <a href="https://nyti.ms/41PpiUH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, April 21, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href="https://nyti.ms/3KThV7X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>How Do You Create a Container Garden? Start Here.</h3>
+<sub>By Margaret Roach</sub>
+<p>From the choice and arrangement of your pots to how you think about what goes in them, one garden designer has some advice for you.  <a href="https://nyti.ms/41JFRBL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
