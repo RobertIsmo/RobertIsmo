@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 24, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, President Biden is about to announce his re-election campaign and it has won the full support of his party despite questions about his age and middling approval ratings. In China, the Communist Party is introducing draft rules that will shape the future of chatbot services like ChatGPT, and there is increased censorship of stories about Covid-19. Meanwhile, in Sudan there is chaos as two military factions battle for power creating many refugees, and the US is pulling its diplomats from the country. Lastly, in the sports sphere there is an exciting match-up between Golden State and the Sacramento Kings in their first round N.B.A playoff matchup which has been a long time coming for Sacramento fans.</p>
+There is a lot going on around the world right now. In the United States, Joe Biden is expected to announce his re-election campaign this week and has earned the full support of the Democratic Party. In China, the Baltic States have summoned Chinese representatives after their ambassador made controversial comments about the legitimacy of post-Soviet countries. Meanwhile in Ukraine, displaced citizens are visiting gravesites in hopes of renewal. In terms of business news, smaller US banks are trying to assure investors that they have weathered the storm while Credit Suisse was forced to sell itself to UBS after clients hurriedly withdrew money. A study has revealed that young workers may be disadvantaged with remote work as they miss out on supervision. Additionally in Sudan, civilians are being forced to flee due to clashes that have killed over 400 people and spurred a regional refugee crisis. China also recently released guidelines for the rapidly growing chatbot industry which require it to toe the party line. In addition, former President Donald Trump is facing a lawsuit from writer E. Jean Carroll who is accusing him of rape in a prominent case set for trial this week. Finally, workers in Los Angeles have been busy converting Crypto.com Arena from an NBA court to an NHL rink as playoff games have been happening all weekend, and Sacramento Kings fans are pleased with the team&#39;s surprising performance against Golden State in the NBA playoffs.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Democrats Learned to Cast Aside Reservations and Embrace Biden 2024</h3>
@@ -80,34 +80,16 @@ There is a lot going on in the world right now. In the US, President Biden is ab
 <p>A decimated village welcomes back displaced residents for a day of remembrance and hope.  <a href="https://nyti.ms/3N9ur6e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Pulls Diplomats From Sudan, and an Exodus Begins</h3>
-<sub>By Declan Walsh, Charlie Savage and Eric Schmitt</sub>
-<p>With hopes fading that two warring generals will end their battle anytime soon, diplomats and other foreigners began heading for Sudan’s doors.  <a href="https://nyti.ms/3KYQbyV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Chaos in Sudan: Who Is Battling for Power, and Why It Hasn’t Stopped</h3>
-<sub>By The New York Times</sub>
-<p>The strategically important country in northeastern Africa has been consumed by more than a week of fighting between two military factions. Sudanese are fleeing and many countries are evacuating their personnel — but many people are stuck.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Says Chatbots Must Toe the Party Line</h3>
-<sub>By Chang Che</sub>
-<p>The Communist Party outlined draft rules that would set guardrails on the rapidly growing industry of services like ChatGPT.  <a href="https://nyti.ms/3KZmuhb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Smaller U.S. Banks Say the Crisis Is Contained but Fears Persist</h3>
+<sub>By Jason Karaian and Stacy Cowley</sub>
+<p>In recent calls with investors, regional bank leaders tried to cast the turmoil in the industry spurred by the collapse of Silicon Valley Bank as a moment that has passed.  <a href="https://nyti.ms/3N5NzC3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Chinese Censorship Is Quietly Rewriting the Covid-19 Story</h3>
-<sub>By Mara Hvistendahl and Benjamin Mueller</sub>
-<p>Under government pressure, Chinese scientists have retracted studies and withheld or deleted data. The censorship has stymied efforts to understand the virus.  <a href="https://nyti.ms/3L87CNI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Accuses a Liberal Columnist of Espionage</h3>
-<sub>By Vivian Wang</sub>
-<p>Dong Yuyu was a longtime writer and editor at a top Chinese Communist Party newspaper who had frequently met with foreign diplomats and journalists.  <a href="https://nyti.ms/3H8YZ4i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Final Days at Credit Suisse Were Marked by a $69 Billion Race for the Exits</h3>
+<sub>By Michael J. de la Merced</sub>
+<p>Clients hurried to withdraw money as the Swiss bank faced collapse last month. It was eventually forced to sell itself to a rival, UBS.  <a href="https://nyti.ms/41yfFu2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -116,10 +98,22 @@ There is a lot going on in the world right now. In the US, President Biden is ab
 <p>One of the first major studies on remote work shows a hidden penalty of flexibility: less supervision.  <a href="https://nyti.ms/440Oytl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Civilians Flee Fighting in Sudan for Troubled Neighboring Countries</h3>
+<sub>By Abdi Latif Dahir and Lynsey Chutel</sub>
+<p>The clashes have killed more than 400 people and injured thousands more. Those displaced are streaming into nations such as Chad, Egypt and South Sudan, adding to a refugee crisis in the region.  <a href="https://nyti.ms/3mZuRBn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Says Chatbots Must Toe the Party Line</h3>
+<sub>By Chang Che</sub>
+<p>The Communist Party outlined draft rules that would set guardrails on the rapidly growing industry of services like ChatGPT.  <a href="https://nyti.ms/3KZmuhb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Amid a Legal Onslaught, Trump Faces Writer’s Suit Accusing Him of Rape</h3>
+<h3>Amid Legal Onslaught, Trump Faces Writer’s Suit Accusing Him of Rape</h3>
 <sub>By Benjamin Weiser</sub>
-<p>E. Jean Carroll wants her story of an attack in a Bergdorf Goodman dressing room proved under a law she lobbied to pass. After years of accusations and denials, a trial begins Tuesday.  <a href="https://nyti.ms/41y29GR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>E. Jean Carroll wants her account of an attack in a Bergdorf Goodman dressing room proved under a law she lobbied to pass. After years of accusations and denials, a trial begins Tuesday.  <a href="https://nyti.ms/41y29GR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -133,6 +127,12 @@ There is a lot going on in the world right now. In the US, President Biden is ab
 <sub>By Kurt Streeter</sub>
 <p>The surprising Kings are pushing Golden State in their first-round N.B.A. playoff matchup. Sacramento fans have waited a long time for a team that matched their fervor.  <a href="https://nyti.ms/41UcUTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>The Cathartic Value of Dame Edna’s Extravaganzas of Ego</h3>
+<sub>By Ben Brantley</sub>
+<p>Audiences were eager to humbly suffer the stinging quips tossed out by the towering figure that was Barry Humphries’s creation.  <a href="https://nyti.ms/3NgN8EO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
