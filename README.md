@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 24, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In the United States, Joe Biden is expected to announce his re-election campaign this week and has earned the full support of the Democratic Party. In China, the Baltic States have summoned Chinese representatives after their ambassador made controversial comments about the legitimacy of post-Soviet countries. Meanwhile in Ukraine, displaced citizens are visiting gravesites in hopes of renewal. In terms of business news, smaller US banks are trying to assure investors that they have weathered the storm while Credit Suisse was forced to sell itself to UBS after clients hurriedly withdrew money. A study has revealed that young workers may be disadvantaged with remote work as they miss out on supervision. Additionally in Sudan, civilians are being forced to flee due to clashes that have killed over 400 people and spurred a regional refugee crisis. China also recently released guidelines for the rapidly growing chatbot industry which require it to toe the party line. In addition, former President Donald Trump is facing a lawsuit from writer E. Jean Carroll who is accusing him of rape in a prominent case set for trial this week. Finally, workers in Los Angeles have been busy converting Crypto.com Arena from an NBA court to an NHL rink as playoff games have been happening all weekend, and Sacramento Kings fans are pleased with the team&#39;s surprising performance against Golden State in the NBA playoffs.</p>
+There&#39;s a lot happening in the world right now. Tucker Carlson, an influential Fox News host, has been stirring up a wave of white fear in American cable news. Joe Biden is readying himself for a reelection bid, trying to defend his record while warning against the dangers of Donald Trump&#39;s return. Meanwhile, China&#39;s ambassador to France has made some controversial remarks that have angered European leaders. In Ukraine and many other places around the world, there is a renewed hope amidst difficult and dangerous times. Closer to home, there are numerous business stories like Credit Suisse struggling and Don Lemon leaving CNN under scrutiny. We&#39;re also seeing the implications of remote work affecting the next generation of workers, particularly when it comes to supervision, and Dr. Judith Herman&#39;s surprising return to trauma studies after years of silence.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Tucker Carlson Stoked White Fear to Conquer Cable</h3>
+<sub>By Nicholas Confessore</sub>
+<p>A string of setbacks made the pundit flee television, the Republican establishment and even his home. He re-emerged with what may be the most racist, and successful, show in the history of cable news.  <a href="https://nyti.ms/3F3W2Q7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What to Know About Tucker Carlson’s Rise</h3>
+<sub>By Nicholas Confessore</sub>
+<p>A Times examination of the host’s career and singular influence at Fox News shows how his trajectory traces the transformation of American conservatism itself.  <a href="https://nyti.ms/37ZP02y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Plans an Election Bid That Will Be More Complicated the 2nd Time Around</h3>
+<sub>By Michael D. Shear</sub>
+<p>The president’s mission will be to defend his record while warning about the dangers of Donald J. Trump’s return.  <a href="https://nyti.ms/3ArpfTI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Democrats Learned to Cast Aside Reservations and Embrace Biden 2024</h3>
 <sub>By Shane Goldmacher</sub>
@@ -69,15 +87,21 @@ There is a lot going on around the world right now. In the United States, Joe Bi
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Chinese Ambassador’s Comments on Ex-Soviet States Draw Ire</h3>
-<sub>By Steven Erlanger and David Pierson</sub>
-<p>The Baltic States summoned Chinese representatives after China’s ambassador to France questioned the sovereignty of countries that declared independence from the Soviet Union.  <a href="https://nyti.ms/3LlI3d7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China Tries to Limit Damage From Diplomat’s Comments That Riled Europe</h3>
+<sub>By Steven Erlanger</sub>
+<p>Remarks by China’s ambassador to France that questioned the sovereignty of ex-Soviet states threatened to upset Beijing’s efforts to court European leaders.  <a href="https://nyti.ms/3LlI3d7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>At Ukraine’s Gravesites, a Spring Ritual Hints at Renewal</h3>
 <sub>By Andrew E. Kramer, Maria Varenikova and Mauricio Lima</sub>
 <p>A decimated village welcomes back displaced residents for a day of remembrance and hope.  <a href="https://nyti.ms/3N9ur6e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Don Lemon, CNN Star Anchor, to Leave the Network</h3>
+<sub>By Michael M. Grynbaum, John Koblin and Benjamin Mullin</sub>
+<p>Mr. Lemon, one of the network’s most recognizable stars, had been under scrutiny since an uproar over on-air remarks he made about women and aging in February.  <a href="https://nyti.ms/3NaIV5Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,34 +128,10 @@ There is a lot going on around the world right now. In the United States, Joe Bi
 <p>The clashes have killed more than 400 people and injured thousands more. Those displaced are streaming into nations such as Chad, Egypt and South Sudan, adding to a refugee crisis in the region.  <a href="https://nyti.ms/3mZuRBn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Says Chatbots Must Toe the Party Line</h3>
-<sub>By Chang Che</sub>
-<p>The Communist Party outlined draft rules that would set guardrails on the rapidly growing industry of services like ChatGPT.  <a href="https://nyti.ms/3KZmuhb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Amid Legal Onslaught, Trump Faces Writer’s Suit Accusing Him of Rape</h3>
-<sub>By Benjamin Weiser</sub>
-<p>E. Jean Carroll wants her account of an attack in a Bergdorf Goodman dressing room proved under a law she lobbied to pass. After years of accusations and denials, a trial begins Tuesday.  <a href="https://nyti.ms/41y29GR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>When a Los Angeles Playoff Game Ends, Their Jobs Begin</h3>
-<sub>By Tania Ganguli and Mark Abramson</sub>
-<p>Between Thursday and Monday night, Crypto.com Arena will have hosted four N.B.A. games and two in the N.H.L. It was an eventful weekend for the workers who convert the venue from rink to court.  <a href="https://nyti.ms/41UcV9Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>A Decade After Sacramento Showed Up for the Kings, the Kings Return the Favor</h3>
-<sub>By Kurt Streeter</sub>
-<p>The surprising Kings are pushing Golden State in their first-round N.B.A. playoff matchup. Sacramento fans have waited a long time for a team that matched their fervor.  <a href="https://nyti.ms/41UcUTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>The Cathartic Value of Dame Edna’s Extravaganzas of Ego</h3>
-<sub>By Ben Brantley</sub>
-<p>Audiences were eager to humbly suffer the stinging quips tossed out by the towering figure that was Barry Humphries’s creation.  <a href="https://nyti.ms/3NgN8EO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>She Redefined Trauma. Then Trauma Redefined Her.</h3>
+<sub>By Ellen Barry</sub>
+<p>Dr. Judith Herman, who helped launch the field of trauma studies, has returned to publishing after a long, mysterious ordeal.  <a href="https://nyti.ms/3mZQvFI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
