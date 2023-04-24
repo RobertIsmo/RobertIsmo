@@ -60,13 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 24, Central Standard Time</p>
 <p>
-There is a lot of chaos happening around the world right now. In China, their government is attempting to control and censor what their people can learn about the coronavirus. This has caused a hinderance in understanding the virus and trying to develop solutions for it. In Sudan, there has been an ongoing battle between two warring generals, leading to mass evacuations for many diplomats and foreign people. Ukraine has accused Russia of evacuating residents near the southern city of Kherson due to intensifying fighting. Back in the United States, President Biden has used his executive power to expand legal immigration into the country. There is also an island for sale off the coast of Scotland which is drawing attention, even with its difficult location. On a more positive note, Bed Bath &amp; Beyond recently filed for bankruptcy and store closing sales will be starting soon. Rachel Weisz&#39;s remake of &quot;Dead Ringers&quot; is causing new conversations about childbirth surrounding towards pregnancy horrors, while container gardening becomes more popular around the world as well.</p>
+There is a lot going on in the world right now. In the US, President Biden is about to announce his re-election campaign and it has won the full support of his party despite questions about his age and middling approval ratings. In China, the Communist Party is introducing draft rules that will shape the future of chatbot services like ChatGPT, and there is increased censorship of stories about Covid-19. Meanwhile, in Sudan there is chaos as two military factions battle for power creating many refugees, and the US is pulling its diplomats from the country. Lastly, in the sports sphere there is an exciting match-up between Golden State and the Sacramento Kings in their first round N.B.A playoff matchup which has been a long time coming for Sacramento fans.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Democrats Learned to Cast Aside Reservations and Embrace Biden 2024</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The president, who is expected to formally announce his re-election campaign this week, has won the full support of his party despite questions about his age and middling approval ratings.  <a href="https://nyti.ms/41Tp1Ao"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Chinese Censorship Is Quietly Rewriting the Covid-19 Story</h3>
-<sub>By Mara Hvistendahl and Benjamin Mueller</sub>
-<p>Under government pressure, Chinese scientists have retracted studies and withheld or deleted data. The censorship has stymied efforts to understand the virus.  <a href="https://nyti.ms/3L87CNI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
+<h3>A Chinese Ambassador’s Comments on Ex-Soviet States Draw Ire</h3>
+<sub>By Steven Erlanger and David Pierson</sub>
+<p>The Baltic States summoned Chinese representatives after China’s ambassador to France questioned the sovereignty of countries that declared independence from the Soviet Union.  <a href="https://nyti.ms/3LlI3d7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Ukraine’s Gravesites, a Spring Ritual Hints at Renewal</h3>
+<sub>By Andrew E. Kramer, Maria Varenikova and Mauricio Lima</sub>
+<p>A decimated village welcomes back displaced residents for a day of remembrance and hope.  <a href="https://nyti.ms/3N9ur6e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.S. Pulls Diplomats From Sudan, and an Exodus Begins</h3>
@@ -80,59 +92,47 @@ There is a lot of chaos happening around the world right now. In China, their go
 <p>The strategically important country in northeastern Africa has been consumed by more than a week of fighting between two military factions. Sudanese are fleeing and many countries are evacuating their personnel — but many people are stuck.  <a href="https://nyti.ms/43D8iTk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At U.Va., an Alumnus Attacked Diversity Programs. Now He Is on the Board.</h3>
-<sub>By Stephanie Saul</sub>
-<p>As D.E.I. programs come under attack, a plan at the University of Virginia for “more diversity, less Confederacy” enraged some alumni, who started organizing against it.  <a href="https://nyti.ms/40vMeaO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Says Chatbots Must Toe the Party Line</h3>
+<sub>By Chang Che</sub>
+<p>The Communist Party outlined draft rules that would set guardrails on the rapidly growing industry of services like ChatGPT.  <a href="https://nyti.ms/3KZmuhb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Chinese Censorship Is Quietly Rewriting the Covid-19 Story</h3>
+<sub>By Mara Hvistendahl and Benjamin Mueller</sub>
+<p>Under government pressure, Chinese scientists have retracted studies and withheld or deleted data. The censorship has stymied efforts to understand the virus.  <a href="https://nyti.ms/3L87CNI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Says Russian Troops Are Evacuating Civilians From Occupied Areas of South</h3>
-<sub>By Jeffrey Gettleman and Olha Kotiuzhanska</sub>
-<p>Russian troops are forcibly relocating residents near the southern city of Kherson as fighting there intensifies, a Ukrainian official said Sunday.  <a href="https://nyti.ms/3N11edA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Opens a New Back Door on Immigration</h3>
-<sub>By Miriam Jordan</sub>
-<p>Congress has yet to pass an immigration overhaul, but President Biden has used his executive authority to significantly expand the number of legal immigrants entering the U.S.  <a href="https://nyti.ms/41z2uc8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Scottish Island for Sale, Amenities Not Included</h3>
-<sub>By Remy Tumin</sub>
-<p>Reaching Barlocco Island is challenging, and staying there for any length of time even more so. Still, dozens are vying for the 25 acres of nature.  <a href="https://nyti.ms/3oDglQl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
+<h3>China Accuses a Liberal Columnist of Espionage</h3>
+<sub>By Vivian Wang</sub>
+<p>Dong Yuyu was a longtime writer and editor at a top Chinese Communist Party newspaper who had frequently met with foreign diplomats and journalists.  <a href="https://nyti.ms/3H8YZ4i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bed Bath &amp; Beyond Files for Bankruptcy</h3>
-<sub>By Jordyn Holman and Lauren Hirsch</sub>
-<p>The company, which failed to fully reckon with the rise of online shopping, said that store closing sales would begin on Wednesday.  <a href="https://nyti.ms/41VEuA1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
+<h3>What Young Workers Miss Without the ‘Power of Proximity’</h3>
+<sub>By Emma Goldberg and Ben Casselman</sub>
+<p>One of the first major studies on remote work shows a hidden penalty of flexibility: less supervision.  <a href="https://nyti.ms/440Oytl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Black Smokers at Center of New York Fight to Ban Menthol Cigarettes</h3>
-<sub>By Luis Ferré-Sadurní</sub>
-<p>A proposal to make New York the third state to ban menthol cigarettes has created a furious and expensive lobbying war, and has divided Black leaders.  <a href="https://nyti.ms/3LmeRTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Amid a Legal Onslaught, Trump Faces Writer’s Suit Accusing Him of Rape</h3>
+<sub>By Benjamin Weiser</sub>
+<p>E. Jean Carroll wants her story of an attack in a Bergdorf Goodman dressing room proved under a law she lobbied to pass. After years of accusations and denials, a trial begins Tuesday.  <a href="https://nyti.ms/41y29GR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>When a Los Angeles Playoff Game Ends, Their Jobs Begin</h3>
+<sub>By Tania Ganguli and Mark Abramson</sub>
+<p>Between Thursday and Monday night, Crypto.com Arena will have hosted four N.B.A. games and two in the N.H.L. It was an eventful weekend for the workers who convert the venue from rink to court.  <a href="https://nyti.ms/41UcV9Y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Jeff Shell, C.E.O. of NBCUniversal, Steps Down After Inquiry</h3>
-<sub>By Benjamin Mullin, John Koblin and Nicole Sperling</sub>
-<p>Comcast, the company’s owner, said he was leaving after an investigation into “an inappropriate relationship with a woman in the company.”  <a href="https://nyti.ms/41za46A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>A Decade After Sacramento Showed Up for the Kings, the Kings Return the Favor</h3>
+<sub>By Kurt Streeter</sub>
+<p>The surprising Kings are pushing Golden State in their first-round N.B.A. playoff matchup. Sacramento fans have waited a long time for a team that matched their fervor.  <a href="https://nyti.ms/41UcUTs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Rachel Weisz and the Glorious Horrors of Pregnancy</h3>
-<sub>By Alexandra Kleeman</sub>
-<p>Her brilliant streaming remake of the psychosexual thriller “Dead Ringers” has a refreshing new perspective on childbirth.  <a href="https://nyti.ms/3AjWEzv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>How Do You Create a Container Garden? Start Here.</h3>
-<sub>By Margaret Roach</sub>
-<p>From the choice and arrangement of your pots to how you think about what goes in them, one garden designer has some advice for you.  <a href="https://nyti.ms/41JFRBL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
