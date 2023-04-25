@@ -60,25 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 24, Central Standard Time</p>
 <p>
-Recently, there&#39;s been a lot of news in the US and around the world. Fox News has just announced it is replacing Tucker Carlson’s show with &#39;Fox News Tonight&#39;. The reason is because many people have found his racial and conservative views offensive. Meanwhile, Joe Biden has declared he is running for re-election and has won the full support of the Democratic Party despite questions about his age and approval ratings. In foreign news, China tried to limit the damage caused by their ambassador&#39;s remarks questioning ex-Soviet sovereignty that angered Europe. A few people in media have been fired due to scandals, such as Don Lemon from CNN and Jeff Shell from NBCUniversal. Lastly, the First Republic Bank lost $102 Billion in customer deposits and the NY Jets made a trade for Aaron Rodgers to try to turn them into a Super Bowl contender.</p>
+It looks like it&#39;s been a bit of a wild ride in the world lately. Tucker Carlson was abruptly dismissed from Fox News while Don Lemon was ousted from CNN. Biden is gearing up for his re-election bid as North Dakota&#39;s governor recently signed a near-total abortion ban. Russia-led United Nations meetings have been drawing West&#39;s accusations of hypocrisy, and there&#39;s been some controversy surrounding First Republic Bank due to customer deposit losses. Atlanta prosecutors are also announcing the timeline for charging decisions related to their investigation into Donald Trump. There&#39;s also some interesting new messages circulating that involve &#39;decarb bros&#39; and technology in the fight against climate change, too!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘Fox News Tonight’ Will Replace Tucker Carlson’s Show</h3>
-<sub>By Katie Robertson</sub>
-<p>The new show will start Monday night and feature rotating Fox News personalities until a new host is named.  <a href="https://nyti.ms/40EUzsC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What Tucker Carlson Leaves Behind as He Is Shown the Door</h3>
+<sub>By Nicholas Confessore</sub>
+<p>The host’s abrupt dismissal upends Fox News’s prime-time lineup — and the carefully honed impression that the ratings star was all but untouchable.  <a href="https://nyti.ms/3n31qym"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Tucker Carlson Stoked White Fear to Conquer Cable</h3>
-<sub>By Nicholas Confessore</sub>
-<p>A string of setbacks made the pundit flee television, the Republican establishment and even his home. He re-emerged with what may be the most racist, and successful, show in the history of cable news.  <a href="https://nyti.ms/3F3W2Q7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to Know About Tucker Carlson’s Rise</h3>
-<sub>By Nicholas Confessore</sub>
-<p>A Times examination of the host’s career and singular influence at Fox News shows how his trajectory traces the transformation of American conservatism itself.  <a href="https://nyti.ms/37ZP02y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Plans an Election Bid That Will Be More Complicated the 2nd Time Around</h3>
@@ -86,22 +74,34 @@ Recently, there&#39;s been a lot of news in the US and around the world. Fox New
 <p>The president’s mission will be to defend his record while warning about the dangers of Donald J. Trump’s return.  <a href="https://nyti.ms/3ArpfTI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Many Young Voters Bitter Over Biden’s Support of Willow Oil Drilling</h3>
+<sub>By Lisa Friedman</sub>
+<p>Despite his aggressive moves to try to slash greenhouse gas emissions, President Biden has angered young climate voters upset by a drilling project in Alaska.  <a href="https://nyti.ms/3L8nM9A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Democrats Learned to Cast Aside Reservations and Embrace Biden 2024</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The president, who is expected to formally announce his re-election campaign this week, has won the full support of his party despite questions about his age and middling approval ratings.  <a href="https://nyti.ms/41Tp1Ao"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine’s Spring Offensive Comes With Immense Stakes for Future of the War</h3>
+<sub>By Julian E. Barnes, Eric Schmitt, Adam Entous and Thomas Gibbons-Neff</sub>
+<p>Without a decisive victory, Western support for Ukraine could weaken, and Kyiv could come under increasing pressure to enter serious peace talks to end or freeze the conflict.  <a href="https://nyti.ms/43Xf46K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Tries to Limit Damage From Diplomat’s Comments That Riled Europe</h3>
-<sub>By Steven Erlanger</sub>
-<p>Remarks by China’s ambassador to France questioning the sovereignty of ex-Soviet states threatened to upset China’s efforts to balance courting Europe with supporting Russia.  <a href="https://nyti.ms/3LlI3d7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russian-Led U.N. Meeting on Peace Draws West’s Accusations of Hypocrisy</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>Taking advantage of its turn as president of the Security Council, Moscow sent Foreign Minister Sergey V. Lavrov to preside over a session on peace and diplomacy.  <a href="https://nyti.ms/41U6fJ1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Don Lemon Ousted From CNN in Move That Left Him ‘Stunned’</h3>
 <sub>By Michael M. Grynbaum, John Koblin and Benjamin Mullin</sub>
 <p>Mr. Lemon, one of the network’s most recognizable stars, had been under scrutiny since an uproar over on-air remarks he made about women and aging in February.  <a href="https://nyti.ms/3NaIV5Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>North Dakota Governor Signs Near-Total Abortion Ban</h3>
+<sub>By Ava Sasani</sub>
+<p>The governor approved the state’s prohibition on Monday, just a month after the State Supreme Court blocked an earlier ban.  <a href="https://nyti.ms/3HyNQdh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -111,27 +111,27 @@ Recently, there&#39;s been a lot of news in the US and around the world. Fox New
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Young Workers Miss Without the ‘Power of Proximity’</h3>
-<sub>By Emma Goldberg and Ben Casselman</sub>
-<p>One of the first major studies on remote work shows a hidden penalty of flexibility: less supervision.  <a href="https://nyti.ms/440Oytl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Do You Even Decarbonize, Bro?</h3>
+<sub>By Nell Gallogly</sub>
+<p>‘Decarb bros’ think the best way to combat climate change is to ditch the gloom of earlier environmentalism and focus on what new technology can do.  <a href="https://nyti.ms/3LnODQy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Atlanta Prosecutor Sets Timetable for Charging Decisions in Trump Investigation</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>In a letter on Monday, the prosecutor said she would announce any indictments from her investigation into Donald J. Trump and his allies between July 11 and Sept. 1.  <a href="https://nyti.ms/41DE9lM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Is Endorsed by a Senator With Sway on Republican Donors</h3>
+<sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
+<p>Steve Daines of Montana, the chairman of the National Republican Senatorial Committee, cited the former president’s accomplishments on issues like immigration.  <a href="https://nyti.ms/41M0I7o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>First Republic Bank Lost $102 Billion in Customer Deposits</h3>
-<sub>By Rob Copeland and Maureen Farrell</sub>
+<sub>By Maureen Farrell and Rob Copeland</sub>
 <p>The regional bank received a $30 billion lifeline from big banks last month, but depositors and investors remain worried about its prospects.  <a href="https://nyti.ms/3LoxtCf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Smaller U.S. Banks Say the Crisis Is Contained, but Fears Persist</h3>
-<sub>By Jason Karaian and Stacy Cowley</sub>
-<p>In recent calls with investors, regional bank leaders tried to cast the turmoil in the industry spurred by the collapse of Silicon Valley Bank as a moment that had passed.  <a href="https://nyti.ms/3N5NzC3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Jets Trade for Aaron Rodgers After Delay</h3>
-<sub>By Kris Rhim</sub>
-<p>Rodgers, a four-time league M.V.P. with the Green Bay Packers, will look to turn the Jets into a Super Bowl contender.  <a href="https://nyti.ms/40DwqCN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
