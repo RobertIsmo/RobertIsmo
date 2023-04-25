@@ -60,25 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 25, Central Standard Time</p>
 <p>
-It looks like the upcoming US presidential elections in 2024 is really heating up as more political candidates come forth to run for president. Meanwhile, former president Donald Trump is once again facing legal scrutiny as a writer has filed a lawsuit alleging he raped her decades ago, and an Atlanta prosecutor is currently looking into his actions and is expected to announce any indictments between July 11 to September 1. On the business side of things, the sudden exit of Fox News host Tucker Carlson is shaking up the TV world while a global food crisis has caused protests in Romania and other countries that lined up to help Ukraine. Last but not least, Manhattan&#39;s office space market isn&#39;t faring well and could be witnessing some damaging effects on New York City and the national economy.</p>
+There&#39;s a lot happening right now in the world. President Biden has announced his re-election bid, defying both President Trump and history. He has also named Julie Chávez Rodríguez as his campaign manager. There has been speculation about who will run for President in 2024 too. In terms of media coverage, after Carlson and Lemon exit from Fox News and CNN, it marks a shift from the Trump-era coverage. There have also been some unexpected changes, with Tucker Carlson&#39;s sudden departure from Fox News and Don Lemon&#39;s ousting from CNN leaving them both &#39;stunned&#39;. Moreover, Ukraine is facing an immense spring offensive that could define the future of their war. To top it off, Dr Fauci recently reflected on the pandemic in an interview and there will be a new natural history museum exhibiting butterflies in New York too. On top of that, former President Trump is being taken to trial over rape allegations by E. Jean Carroll.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Announces Re-election Bid, Defying Trump and History</h3>
+<sub>By Peter Baker</sub>
+<p>While the president once pitched himself as “a bridge” to a new generation of Democratic leaders, he has decided that he is not ready to turn the torch over yet.  <a href="https://nyti.ms/3V685UT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden names Julie Chávez Rodríguez as his campaign manager.</h3>
+<sub>By Katie Glueck</sub>
+<p>Ms. Chávez Rodríguez, a veteran of Vice President Kamala Harris’s political orbit, also worked on the president’s 2020 campaign before becoming director of the White House Office of Intergovernmental Affairs.  <a href="https://nyti.ms/40wZhZu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Who’s Running for President in 2024?</h3>
 <sub>By Martín González Gómez and Maggie Astor</sub>
 <p>See who is in, and who else might run.  <a href="https://nyti.ms/3Y05QCI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, February 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Democrats Learned to Cast Aside Reservations and Embrace Biden 2024</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The president, who is expected to formally announce his re-election campaign this week, has won the full support of his party despite questions about his age and middling approval ratings.  <a href="https://nyti.ms/41Tp1Ao"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Tucker Carlson Leaves Behind as He Is Shown the Door</h3>
-<sub>By Nicholas Confessore</sub>
-<p>The host’s abrupt dismissal upends Fox News’s prime-time lineup — and the carefully honed impression that the ratings star was all but untouchable.  <a href="https://nyti.ms/3n31qym"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>As Carlson and Lemon Exit, a Chapter Closes on Cable’s Trump War</h3>
@@ -87,9 +87,21 @@ It looks like the upcoming US presidential elections in 2024 is really heating u
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Tucker Carlson Leaves Behind as He Is Shown the Door</h3>
+<sub>By Nicholas Confessore</sub>
+<p>The host’s abrupt dismissal upends Fox News’s prime-time lineup — and the carefully honed impression that the ratings star was all but untouchable.  <a href="https://nyti.ms/3n31qym"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Tucker Carlson’s Surprise Exit Stuns People in Donald Trump’s Orbit</h3>
 <sub>By Jonathan Swan and Maggie Haberman</sub>
 <p>The former president and Tucker Carlson are said to have been on friendlier terms lately, after embarrassing disclosures in Dominion’s suit against Fox News.  <a href="https://nyti.ms/3Ls00qo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Don Lemon Ousted From CNN in Move That Left Him ‘Stunned’</h3>
+<sub>By Michael M. Grynbaum, John Koblin and Benjamin Mullin</sub>
+<p>Mr. Lemon, one of the network’s most recognizable stars, had been under scrutiny since an uproar over on-air remarks he made about women and aging in February.  <a href="https://nyti.ms/3NaIV5Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,10 +111,10 @@ It looks like the upcoming US presidential elections in 2024 is really heating u
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Group That Searches for Missing Ukrainian Children</h3>
-<sub>By Julian E. Barnes</sub>
-<p>Save Ukraine’s mission includes reuniting families victimized by Russia’s deportations in occupied areas.  <a href="https://nyti.ms/3HeagQK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<h3>Ukraine’s Spring Offensive Comes With Immense Stakes for Future of the War</h3>
+<sub>By Julian E. Barnes, Eric Schmitt, Adam Entous and Thomas Gibbons-Neff</sub>
+<p>Without a decisive victory, Western support for Ukraine could weaken, and Kyiv could come under increasing pressure to enter serious peace talks to end or freeze the conflict.  <a href="https://nyti.ms/43Xf46K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Dr. Fauci Looks Back: ‘Something Clearly Went Wrong’</h3>
@@ -120,18 +132,6 @@ It looks like the upcoming US presidential elections in 2024 is really heating u
 <h3>Trump Faces Rape Allegation as E. Jean Carroll’s Suit Goes to Trial</h3>
 <sub>By Benjamin Weiser</sub>
 <p>The writer’s case will be heard in Federal District Court starting Tuesday. She says former President Donald J. Trump attacked her in a department store decades ago.  <a href="https://nyti.ms/3n67upN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Atlanta Prosecutor Sets Timetable for Charging Decisions in Trump Investigation</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>In a letter on Monday, the prosecutor said she would announce any indictments from her investigation into Donald J. Trump and his allies between July 11 and Sept. 1.  <a href="https://nyti.ms/41DE9lM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Bleak Outlook for Manhattan’s Office Space May Signal a Bigger Problem</h3>
-<sub>By Matthew Haag</sub>
-<p>Remote work and rising interest rates are dealing a double blow to office landlords, with potentially grave consequences for the city and even national economy.  <a href="https://nyti.ms/3NcLUdV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
