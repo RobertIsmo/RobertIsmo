@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, April 24, Central Standard Time</p>
+<p>It is Tuesday, April 25, Central Standard Time</p>
 <p>
-There&#39;s been a lot going on in the world lately! In the business world, Fox News&#39; ratings star Tucker Carlson was suddenly fired, while NBCUniversal&#39;s CEO was fired after a harassment complaint. Meanwhile, President Biden is preparing for his re-election bid, but he has caused controversy among young climate voters with his support of a drilling project in Alaska. In Ukraine, there&#39;s an immense spring offensive at stake that could decide the fate of the war. On the global front, Russia is facing accusations of hypocrisy over its U.N.-led meetings related to peace. Lastly, North Dakota has just signed a near-total abortion ban and Donald Trump is getting support from Republican donors thanks to an endorsement from Senator Steve Daines.</p>
+In the world right now, it&#39;s a pretty tumultuous time. Tucker Carlson is leaving Fox News, President Biden is planning his re-election bid and there have been young climate voters angered by an oil drilling project in Alaska. In addition, Russia is leading a U.N. meeting on peace which is causing tensions with the West. Meanwhile, Don Lemon and the NBCUniversal CEO were both recently fired following harassment complaints and North Dakota is implementing a near-total abortion ban. Lastly, Trump has been endorsed by a Senator with sway on Republican donors while the prosecutor of Atlanta is investigating his allies and setting a timeline for charging decisions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Tucker Carlson Leaves Behind as He Is Shown the Door</h3>
