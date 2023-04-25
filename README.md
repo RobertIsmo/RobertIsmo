@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, April 24, Central Standard Time</p>
 <p>
-It looks like it&#39;s been a bit of a wild ride in the world lately. Tucker Carlson was abruptly dismissed from Fox News while Don Lemon was ousted from CNN. Biden is gearing up for his re-election bid as North Dakota&#39;s governor recently signed a near-total abortion ban. Russia-led United Nations meetings have been drawing West&#39;s accusations of hypocrisy, and there&#39;s been some controversy surrounding First Republic Bank due to customer deposit losses. Atlanta prosecutors are also announcing the timeline for charging decisions related to their investigation into Donald Trump. There&#39;s also some interesting new messages circulating that involve &#39;decarb bros&#39; and technology in the fight against climate change, too!</p>
+There&#39;s been a lot going on in the world lately! In the business world, Fox News&#39; ratings star Tucker Carlson was suddenly fired, while NBCUniversal&#39;s CEO was fired after a harassment complaint. Meanwhile, President Biden is preparing for his re-election bid, but he has caused controversy among young climate voters with his support of a drilling project in Alaska. In Ukraine, there&#39;s an immense spring offensive at stake that could decide the fate of the war. On the global front, Russia is facing accusations of hypocrisy over its U.N.-led meetings related to peace. Lastly, North Dakota has just signed a near-total abortion ban and Donald Trump is getting support from Republican donors thanks to an endorsement from Senator Steve Daines.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Tucker Carlson Leaves Behind as He Is Shown the Door</h3>
 <sub>By Nicholas Confessore</sub>
 <p>The host’s abrupt dismissal upends Fox News’s prime-time lineup — and the carefully honed impression that the ratings star was all but untouchable.  <a href="https://nyti.ms/3n31qym"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Tucker Carlson, a Source of Repeated Controversies, Is Out at Fox News</h3>
+<sub>By Jeremy W. Peters, Katie Robertson and Michael M. Grynbaum</sub>
+<p>Mr. Carlson has been one of the network’s top-rated hosts for many years.  <a href="https://nyti.ms/3V7M7RI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ It looks like it&#39;s been a bit of a wild ride in the world lately. Tucker Car
 <h3>Trump Is Endorsed by a Senator With Sway on Republican Donors</h3>
 <sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
 <p>Steve Daines of Montana, the chairman of the National Republican Senatorial Committee, cited the former president’s accomplishments on issues like immigration.  <a href="https://nyti.ms/41M0I7o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>First Republic Bank Lost $102 Billion in Customer Deposits</h3>
-<sub>By Maureen Farrell and Rob Copeland</sub>
-<p>The regional bank received a $30 billion lifeline from big banks last month, but depositors and investors remain worried about its prospects.  <a href="https://nyti.ms/3LoxtCf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
