@@ -60,24 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 25, Central Standard Time</p>
 <p>
-Right now, President Biden&#39;s poll numbers remain relatively low, but due to structural advantages Democrats are optimistic that he has a strong position going into the next election. Experts are weighing in on the health implications of a president that would finish his second term being 86 years old. Early polls show a close race between Biden and potential Republican rivals. Fox News and CNN have made recent decisions to let go of two stars that were controversial throughout Trump&#39;s presidency. Businesses are weighing the costs and benefits of terminating Tucker Carlson&#39;s contracts given his notoriety. In Ukraine, volunteers are running missions to reunite families separated during Russia&#39;s hostile takeovers. Harry Belafonte, a groundbreaking singer, actor, and civil rights activist passed away at 96 years old. Dr. Anthony Fauci recently gave an in depth interview about the mistakes made throughout the pandemic and the decisions that will shape his legacy. The movie Rust recently resumed production in Montana with safety precautions following a fatal shooting that occurred when cast members were rehearsing with fake guns. A new study shows rising temperatures are creating new and unexpected heatwaves in regions that haven&#39;t experienced it before and office landlords in Manhattan have had to deal with a double blow from remote work and rising interest rates which could have serious implications for the city and country economically.</p>
+There&#39;s a lot happening in the world right now. President Biden&#39;s poll numbers remain low, but Democrats still feel hopeful. We recently lost Harry Belafonte, a barrier-breaking singer, actor, and civil rights activist who left an incredible legacy. Tucker Carlson and Don Lemon are both leaving cable news channels after long careers covering the excesses of Trump-era coverage. There have been a few business scandals lately too - Anheuser-Busch put two executives on leave due to backlash over their campaign with a transgender influencer and there has also been controversy over Bud Light&#39;s promotion of Dylan Mulvaney. Finally, Dr. Fauci has given an extensive interview about the pandemic and record-breaking temperatures across the globe.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Analysis: The Map, the Issues and the Incumbency Favoring Democrats</h3>
+<h3>Analysis: Biden Faces Headwinds, but Democrats See Reasons for Optimism</h3>
 <sub>By Jonathan Weisman</sub>
 <p>President Biden’s poll numbers remain low, but structural advantages have Democrats insisting he is far better positioned than his Republican rivals.  <a href="https://nyti.ms/40CNlFu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Biden Would End His Second Term at 86. What Could That Mean for His Brain and Body?</h3>
-<sub>By Melinda Wenner Moyer</sub>
-<p>Experts weigh in on octogenarian health.  <a href="https://nyti.ms/3n1Ai2G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-multimedia-blue" alt="">
+<h3>The Long Career Arc of Joe Biden</h3>
+<sub>By Maggie Astor</sub>
+<p>A timeline of Joseph R. Biden Jr.’s career highlights told through photographs.  <a href="https://nyti.ms/40CO4GW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>An Early, Early Look at Biden’s 2024 Prospects</h3>
 <sub>By Nate Cohn</sub>
 <p>Almost every recent poll shows a highly competitive presidential race.  <a href="https://nyti.ms/3AtDaIY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Harry Belafonte, 96, Dies; Barrier-Breaking Singer, Actor and Activist</h3>
+<sub>By Peter Keepnews</sub>
+<p>In the 1950s, when segregation was still widespread, his ascent to the upper echelon of show business was historic. But his primary focus was civil rights.  <a href="https://nyti.ms/3n5sA7C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Watch These Great Harry Belafonte Screen Performances</h3>
+<sub>By Jason Bailey</sub>
+<p>While Belafonte’s cinematic output was minimal, he made an impact with each role.  <a href="https://nyti.ms/3HflMv0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Group That Searches for Missing Ukrainian Children</h3>
+<sub>By Julian E. Barnes</sub>
+<p>Save Ukraine’s mission includes reuniting families victimized by Russia’s deportations in occupied areas.  <a href="https://nyti.ms/3HeagQK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -87,27 +105,9 @@ Right now, President Biden&#39;s poll numbers remain relatively low, but due to 
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Calculus Behind Firing Tucker Carlson</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The host was Fox News’s brightest star, but his history of controversy and potential legal issues may have prompted the Murdochs to swing the ax.  <a href="https://nyti.ms/41FpKFy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Group That Searches for Missing Ukrainian Children</h3>
-<sub>By Julian E. Barnes</sub>
-<p>Save Ukraine’s mission includes reuniting families victimized by Russia’s deportations in occupied areas.  <a href="https://nyti.ms/3HeagQK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Harry Belafonte, 96, Dies; Barrier-Breaking Singer, Actor and Activist</h3>
-<sub>By Peter Keepnews</sub>
-<p>In the 1950s, when segregation was still widespread, his ascent to the upper echelon of show business was historic. But his primary focus was civil rights.  <a href="https://nyti.ms/3n5sA7C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Harry Belafonte on His Artistic Values and His Activism</h3>
-<sub>By The New York Times</sub>
-<p>In interviews and articles in The New York Times, Mr. Belafonte, who died on Tuesday, spoke about the civil rights movement and his frustration with how Black life was depicted onscreen.  <a href="https://nyti.ms/446bDKX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tucker Carlson and Don Lemon Hire a Top Hollywood Lawyer</h3>
+<sub>By Katie Robertson</sub>
+<p>Bryan Freedman has a track record of getting multimillion-dollar settlements for TV stars and has represented celebrities like Quentin Tarantino, Julia Roberts and Seth Rogen.  <a href="https://nyti.ms/3n6zauA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -117,21 +117,21 @@ Right now, President Biden&#39;s poll numbers remain relatively low, but due to 
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Rust’ Returns With Fake Guns, Rubber Bullets and Watchful Eyes</h3>
+<h3>Alec Baldwin Returns to ‘Rust,’ With Fake Guns and Rubber Bullets</h3>
 <sub>By Julia Jacobs</sub>
-<p>An emotional gathering in Montana to finish a film that halted production in 2021 when its cinematographer was killed by a gun its star, Alec Baldwin, was rehearsing with.  <a href="https://nyti.ms/3NfaACI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>An emotional gathering in Montana to finish a film that halted production in 2021 when its cinematographer was killed by a gun Mr. Baldwin was rehearsing with.  <a href="https://nyti.ms/3NfaACI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>2 Executives Are on Leave After Bud Light Promotion With Transgender Influencer</h3>
+<sub>By Amanda Holpuch and Julie Creswell</sub>
+<p>Anheuser-Busch announced the moves after a conservative backlash over its association with the actress and social media personality Dylan Mulvaney.  <a href="https://nyti.ms/40IfDhU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Here Are the Places Most at Risk From Record-Shattering Heat</h3>
 <sub>By Raymond Zhong</sub>
 <p>It’s the regions of the world that haven’t yet experienced an off-the-charts heat wave that we should worry about, a new scientific study argues.  <a href="https://nyti.ms/41ZaRgT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Bleak Outlook for Manhattan’s Office Space May Signal a Bigger Problem</h3>
-<sub>By Matthew Haag</sub>
-<p>Remote work and rising interest rates are dealing a double blow to office landlords, with potentially grave consequences for the city and even national economy.  <a href="https://nyti.ms/3NcLUdV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
