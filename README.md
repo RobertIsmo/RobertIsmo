@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 25, Central Standard Time</p>
 <p>
-There&#39;s a lot happening right now in the world. President Biden has announced his re-election bid, defying both President Trump and history. He has also named Julie Chávez Rodríguez as his campaign manager. There has been speculation about who will run for President in 2024 too. In terms of media coverage, after Carlson and Lemon exit from Fox News and CNN, it marks a shift from the Trump-era coverage. There have also been some unexpected changes, with Tucker Carlson&#39;s sudden departure from Fox News and Don Lemon&#39;s ousting from CNN leaving them both &#39;stunned&#39;. Moreover, Ukraine is facing an immense spring offensive that could define the future of their war. To top it off, Dr Fauci recently reflected on the pandemic in an interview and there will be a new natural history museum exhibiting butterflies in New York too. On top of that, former President Trump is being taken to trial over rape allegations by E. Jean Carroll.</p>
+There are some big stories happening in the world right now, including current US President Joe Biden announcing his re-election bid and appointing Julie Chávez Rodríguez as his campaign manager. Looking ahead to next year, there&#39;s already speculating about who might run for president in 2024. In terms of media coverage, both Fox News and CNN have cut ties with some of their popular hosts such as Tucker Carlson and Don Lemon.
+
+Internationally, European and Ukrainian farmers are engaging in protests among other issues. Ukraine is also at the center of tensions between Russia, as they face an uncertain future with the upcoming war there.
+
+Finally, we lost two esteemed public figures recently - barrier-breaking singer Harry Belafonte, who passed away at 96 years old and Dr. Anthony Fauci reflected on the hardships of the pandemic in a recent interview.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Announces Re-election Bid, Defying Trump and History</h3>
@@ -93,10 +97,10 @@ There&#39;s a lot happening right now in the world. President Biden has announce
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Tucker Carlson’s Surprise Exit Stuns People in Donald Trump’s Orbit</h3>
-<sub>By Jonathan Swan and Maggie Haberman</sub>
-<p>The former president and Tucker Carlson are said to have been on friendlier terms lately, after embarrassing disclosures in Dominion’s suit against Fox News.  <a href="https://nyti.ms/3Ls00qo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<h3>The Calculus Behind Firing Tucker Carlson</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>The host was Fox News’s brightest star, but his history of controversy and potential legal issues may have prompted the Murdochs to swing the ax.  <a href="https://nyti.ms/41FpKFy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Don Lemon Ousted From CNN in Move That Left Him ‘Stunned’</h3>
@@ -105,7 +109,7 @@ There&#39;s a lot happening right now in the world. President Biden has announce
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>These Countries Lined Up to Help Ukraine. Now Their Farmers Are Angry.</h3>
+<h3>Angry Farmers Pierce Europe’s United Front on Ukraine</h3>
 <sub>By Andrew Higgins</sub>
 <p>A grain deal that got Ukrainian exports moving and eased a global food crisis is now fueling protests in Romania and among other staunch supporters of Kyiv.  <a href="https://nyti.ms/3oCRkoi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
@@ -116,23 +120,23 @@ There&#39;s a lot happening right now in the world. President Biden has announce
 <p>Without a decisive victory, Western support for Ukraine could weaken, and Kyiv could come under increasing pressure to enter serious peace talks to end or freeze the conflict.  <a href="https://nyti.ms/43Xf46K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Harry Belafonte, 96, Dies; Barrier-Breaking Singer, Actor and Activist</h3>
+<sub>By Peter Keepnews</sub>
+<p>In the 1950s, when segregation was still widespread, his ascent to the upper echelon of show business was historic. But his primary focus was civil rights.  <a href="https://nyti.ms/3n5sA7C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Harry Belafonte Knows a Thing or Two About New York</h3>
+<sub>By John Leland</sub>
+<p>The city native, about to turn 90, looks back at a glorious past and wonders what his next act will be.  <a href="https://nyti.ms/2k8xrBK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Dr. Fauci Looks Back: ‘Something Clearly Went Wrong’</h3>
 <sub>By David Wallace-Wells</sub>
 <p>In his most extensive interview yet, Anthony Fauci wrestles with the hard lessons of the pandemic — and the decisions that will define his legacy.  <a href="https://nyti.ms/3mTaNkg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, April 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Wonder and Awe in Natural History’s New Wing. Butterflies, Too.</h3>
-<sub>By Michael Kimmelman and Peter Fisher</sub>
-<p>The stunning $465 million Richard Gilder Center for Science, designed like a canyon, is destined to become a colossal attraction.  <a href="https://nyti.ms/3Nfrf90"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Faces Rape Allegation as E. Jean Carroll’s Suit Goes to Trial</h3>
-<sub>By Benjamin Weiser</sub>
-<p>The writer’s case will be heard in Federal District Court starting Tuesday. She says former President Donald J. Trump attacked her in a department store decades ago.  <a href="https://nyti.ms/3n67upN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
