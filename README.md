@@ -60,18 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 26, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! Technology is at the forefront, with Microsoft recently facing pushback from U.S. regulators over their $69 Billion bid for video game publisher Activision. Additionally, countries are trying to ban TikTok out of concerns that it may endanger user data. There&#39;s also political strife in the U.S., with House Republicans pitching a debt limit bill for deep spending cuts and President Biden renewing a promise to protect South Korea from nuclear weapons. On the international front, Poland has been moving away from its Soviet past, while Binance, a popular cryptocurrency exchange, is under increasing pressure. Chief Justice John Roberts also declined an invitation to testify before congress over ethics concerns.</p>
+There is a lot happening in the world right now. In the UK, Microsoft&#39;s $69 billion bid to acquire Activision was stopped by the British antitrust watchdog, which is viewed as a major victory for those pushing for more regulation of tech giants. Over in Poland, a town that used to be occupied by the Soviets has decided to ditch their military re-enactments and Lenin banners. On the political front, Russian opposition leader Alexei Navalny is facing a terrorism case that he says is &quot;absurd&quot; and could land him in jail for life. South Korea&#39;s President Yoon Suk Yeol just visited the United States and he and President Biden agreed to cooperate on nuclear weapons. In the US, House Republicans are trying to pass a fiscal plan that ties a yearlong debt ceiling increase to spending cuts and policy changes while trying to rebrand their plan as something other than &quot;cuts.&quot; Meanwhile, lawmakers are looking at how banning TikTok would affect users across the country. Finally, Bud Light got into an ad flap with a transgender influencer that put them &quot;in the center of the culture wars in a way that no company could possibly want to be.&quot; As for President Biden&#39;s 2024 campaign plans - we&#39;ll have to stay tuned on that one!</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>U.K. Blocks Microsoft’s $69 Billion Bid for Activision, a Blow for Tech Deals</h3>
 <sub>By David McCabe and Kellen Browning</sub>
-<p>The decision barring the takeover of a big video game publisher is a major loss for Microsoft, which also faces pushback from U.S. regulators.  <a href="https://nyti.ms/3mYBAeZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The decision barring the takeover of a big video game publisher is a major victory for proponents of regulating tech giants, which have faced obstacles in the United States.  <a href="https://nyti.ms/3mYBAeZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The U.K. Deals a Huge Blow to Microsoft’s $69 Billion Activision Bid</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>The British antitrust watchdog blocked the takeover attempt, in a decision that will be closely watched in Washington and Brussels.  <a href="https://nyti.ms/3L3vi5E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Kitsch to Creepy: Polish Town No Longer Relishes Soviet Past (or Rasputin)</h3>
+<sub>By Andrew Higgins</sub>
+<p>A Polish town that was once occupied by the Soviets used to embrace its history with military re-enactments and Lenin banners. But “nobody wants to be reminded of Russia these days.”  <a href="https://nyti.ms/41FqMS0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Navalny, Top Kremlin Critic, Says New Charge Could Jail Him for Life</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>The jailed Russian opposition leader said he faced a terrorism case that he described as “absurd.”  <a href="https://nyti.ms/3HhPWOu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside Biden’s Renewed Promise to Protect South Korea From Nuclear Weapons</h3>
-<sub>By David E. Sanger and Choe Sang-Hun</sub>
-<p>President Biden’s emphasis on America’s willingness to defend South Korea is a striking admission that North Korea’s arsenal is here to stay.  <a href="https://nyti.ms/440IAIJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. and South Korea Agree to Cooperate on Nuclear Weapons</h3>
+<sub>By David E. Sanger</sub>
+<p>The agreement is a centerpiece of this week’s state visit by President Yoon Suk Yeol of South Korea, who will appear with President Biden at the White House on Wednesday.  <a href="https://nyti.ms/3Nfw425"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,10 +104,10 @@ There is a lot going on in the world right now! Technology is at the forefront, 
 <p>House Republicans pitched their 2011 debt limit bill aggressively, trumpeting a zeal for deep spending cuts. Their latest fiscal plan tiptoes around them, with a milder slogan to match.  <a href="https://nyti.ms/3L7Pgw3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kitsch to Creepy: Polish Town No Longer Relishes Soviet Past (or Rasputin)</h3>
-<sub>By Andrew Higgins</sub>
-<p>A Polish town that was once occupied by the Soviets used to embrace its history with military re-enactments and Lenin banners. But “nobody wants to be reminded of Russia these days.”  <a href="https://nyti.ms/41FqMS0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Republicans, Grasping for Votes, Alter Debt Limit Plan</h3>
+<sub>By Catie Edmondson and Carl Hulse</sub>
+<p>After a late-night haggling session, it was still not clear whether Speaker Kevin McCarthy could pass his fiscal plan, which would tie a yearlong debt ceiling increase to spending cuts and policy changes.  <a href="https://nyti.ms/41Zh0Kd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -115,24 +133,6 @@ There is a lot going on in the world right now! Technology is at the forefront, 
 <sub>By Reid J. Epstein and Shane Goldmacher</sub>
 <p>The president has no immediate plans to barnstorm key states with large rallies. He will instead try to burnish his record, and hope Republican infighting continues.  <a href="https://nyti.ms/3oGbLke"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Binance Faces Mounting Pressure as U.S. Crypto Crackdown Intensifies</h3>
-<sub>By David Yaffe-Bellany, Emily Flitter and Matthew Goldstein</sub>
-<p>The scrutiny on Binance, the giant cryptocurrency exchange, has sent new tremors through a market that is still bruised by the implosion of FTX.  <a href="https://nyti.ms/3NfQgkC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Woman Shaping a Generation of Black Thought</h3>
-<sub>By Jenna Wortham</sub>
-<p>Christina Sharpe is expanding the vocabulary of life in slavery’s long shadow — peeling back the meaning of familiar words and resurrecting neglected history.  <a href="https://nyti.ms/41FoYIu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chief Justice Declines to Testify Before Congress Over Ethics Concerns</h3>
-<sub>By Abbie VanSickle</sub>
-<p>In an accompanying statement on ethics practices, the Supreme Court’s justices insisted their current ethical guidelines on gifts, travel and financial deals are sufficient.  <a href="https://nyti.ms/3Lw7lFw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
