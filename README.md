@@ -60,36 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 26, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the UK, Microsoft&#39;s $69 billion bid to acquire Activision was stopped by the British antitrust watchdog, which is viewed as a major victory for those pushing for more regulation of tech giants. Over in Poland, a town that used to be occupied by the Soviets has decided to ditch their military re-enactments and Lenin banners. On the political front, Russian opposition leader Alexei Navalny is facing a terrorism case that he says is &quot;absurd&quot; and could land him in jail for life. South Korea&#39;s President Yoon Suk Yeol just visited the United States and he and President Biden agreed to cooperate on nuclear weapons. In the US, House Republicans are trying to pass a fiscal plan that ties a yearlong debt ceiling increase to spending cuts and policy changes while trying to rebrand their plan as something other than &quot;cuts.&quot; Meanwhile, lawmakers are looking at how banning TikTok would affect users across the country. Finally, Bud Light got into an ad flap with a transgender influencer that put them &quot;in the center of the culture wars in a way that no company could possibly want to be.&quot; As for President Biden&#39;s 2024 campaign plans - we&#39;ll have to stay tuned on that one!</p>
+There are a lot of interesting things happening in the world right now. In the US, House Republicans are pushing to pass a fiscal plan while Speaker Kevin McCarthy attempts to navigate divisions between members. Meanwhile, UK regulators have blocked a big tech acquisition between Microsoft and Activision. Internationally, Alexei Navalny, a Russian opposition leader, is facing terrorism charges that could land him in jail for life, while Pope Francis has granted women a vote in an influential meeting of Bishops. Finally, tensions are mounting between Disney and Florida&#39;s Governor Ron DeSantis over business regulations and Bud Light is facing criticism due to a marketing flap.</p>
 <ol>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>U.K. Blocks Microsoft’s $69 Billion Bid for Activision, a Blow for Tech Deals</h3>
-<sub>By David McCabe and Kellen Browning</sub>
-<p>The decision barring the takeover of a big video game publisher is a major victory for proponents of regulating tech giants, which have faced obstacles in the United States.  <a href="https://nyti.ms/3mYBAeZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The U.K. Deals a Huge Blow to Microsoft’s $69 Billion Activision Bid</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The British antitrust watchdog blocked the takeover attempt, in a decision that will be closely watched in Washington and Brussels.  <a href="https://nyti.ms/3L3vi5E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kitsch to Creepy: Polish Town No Longer Relishes Soviet Past (or Rasputin)</h3>
-<sub>By Andrew Higgins</sub>
-<p>A Polish town that was once occupied by the Soviets used to embrace its history with military re-enactments and Lenin banners. But “nobody wants to be reminded of Russia these days.”  <a href="https://nyti.ms/41FqMS0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Navalny, Top Kremlin Critic, Says New Charge Could Jail Him for Life</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>The jailed Russian opposition leader said he faced a terrorism case that he described as “absurd.”  <a href="https://nyti.ms/3HhPWOu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. and South Korea Agree to Cooperate on Nuclear Weapons</h3>
-<sub>By David E. Sanger</sub>
-<p>The agreement is a centerpiece of this week’s state visit by President Yoon Suk Yeol of South Korea, who will appear with President Biden at the White House on Wednesday.  <a href="https://nyti.ms/3Nfw425"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>House Republicans, Pushing Past Divisions, Press for Debt Limit Vote</h3>
+<sub>By Catie Edmondson and Carl Hulse</sub>
+<p>It was not clear whether Speaker Kevin McCarthy could pass the fiscal plan, which he has described as a necessary step to force President Biden to negotiate over the terms of a debt ceiling increase.  <a href="https://nyti.ms/41Zh0Kd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,41 +74,65 @@ There is a lot happening in the world right now. In the UK, Microsoft&#39;s $69 
 <p>The Republican speaker has stuck to partisan bills that have kept his party united. That ends with a tough vote to raise the debt limit in exchange for spending cuts.  <a href="https://nyti.ms/3AvKbJa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Don’t Call It a ‘Cut’: G.O.P. Tries to Rebrand Its Plan to Reduce Spending</h3>
-<sub>By Catie Edmondson</sub>
-<p>House Republicans pitched their 2011 debt limit bill aggressively, trumpeting a zeal for deep spending cuts. Their latest fiscal plan tiptoes around them, with a milder slogan to match.  <a href="https://nyti.ms/3L7Pgw3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>U.K. Blocks Microsoft’s $69 Billion Bid for Activision, a Blow for Tech Deals</h3>
+<sub>By David McCabe and Kellen Browning</sub>
+<p>The decision barring the takeover of a big video game publisher is a major victory for proponents of regulating tech giants, which have faced obstacles in the United States.  <a href="https://nyti.ms/3mYBAeZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans, Grasping for Votes, Alter Debt Limit Plan</h3>
-<sub>By Catie Edmondson and Carl Hulse</sub>
-<p>After a late-night haggling session, it was still not clear whether Speaker Kevin McCarthy could pass his fiscal plan, which would tie a yearlong debt ceiling increase to spending cuts and policy changes.  <a href="https://nyti.ms/41Zh0Kd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Navalny, Top Kremlin Critic, Says New Charge Could Jail Him for Life</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>The jailed Russian opposition leader said he faced a terrorism case that he described as “absurd.”  <a href="https://nyti.ms/3HhPWOu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Lawmakers Want to Ban TikTok. Here’s What Users Say Is at Stake.</h3>
-<sub>By Kalley Huang, Alexandra Eaton and Shane O’Neill</sub>
-<p>We spoke with nine young people across the country about how a ban would change their lives.  <a href="https://nyti.ms/3NaPHbJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<h3>Disney Sues DeSantis Over Control of Its Florida Resort</h3>
+<sub>By Brooks Barnes</sub>
+<p>The company claimed “a targeted campaign of government retaliation,” which it said stemmed from its criticism of a contentious state education law.  <a href="https://nyti.ms/3n73Gog"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Why Countries Are Trying to Ban TikTok</h3>
-<sub>By Sapna Maheshwari and Amanda Holpuch</sub>
-<p>Governments have expressed concerns that TikTok, which is owned by the Chinese company ByteDance, may endanger sensitive user data.  <a href="https://nyti.ms/3mjkGa6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man vs. Mouse: Ron DeSantis Finds Taking On Disney Is a Dicey Business</h3>
+<sub>By Charles Homans</sub>
+<p>Republicans are increasingly taking on corporations they denounce as “woke.” The Florida governor is just the latest to find that it isn’t easy.  <a href="https://nyti.ms/3AtlDk3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In an Indian Village, Cultivating Girls’ Big-League Dreams</h3>
+<sub>By Mujib Mashal and Atul Loke</sub>
+<p>A new $500 million women’s cricket league is offering the kind of opportunities that never existed before in India. The girls of one Punjab village are ready.  <a href="https://nyti.ms/3Awx76i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. and South Korea Agree to Cooperate on Nuclear Weapons</h3>
+<sub>By David E. Sanger</sub>
+<p>The agreement is a centerpiece of this week’s state visit by President Yoon Suk Yeol of South Korea, who met with President Biden at the White House on Wednesday.  <a href="https://nyti.ms/3Nfw425"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside Biden’s Renewed Promise to Protect South Korea From Nuclear Weapons</h3>
+<sub>By David E. Sanger and Choe Sang-Hun</sub>
+<p>President Biden’s emphasis on America’s willingness to defend South Korea is a striking admission that North Korea’s arsenal is here to stay.  <a href="https://nyti.ms/440IAIJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>He Calls the Shots for New York’s Governor. He Lives in Colorado.</h3>
+<sub>By Nicholas Fandos and Jeffery C. Mays</sub>
+<p>Adam Sullivan holds deep influence over Gov. Kathy Hochul, her administration and campaign team, even as skepticism mounts over his judgment and distance from New York.  <a href="https://nyti.ms/41Zc1Jp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pope Gives Women a Vote in Influential Meeting of Bishops</h3>
+<sub>By Jason Horowitz and Elisabetta Povoledo</sub>
+<p>The move is an important step by Francis as he strives for greater inclusiveness.  <a href="https://nyti.ms/3NgPgN0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ad Flap Leaves Bitter Aftertaste for Bud Light and Warning for Big Business</h3>
 <sub>By Charles Homans</sub>
 <p>Bud Light’s marketing effort with a transgender influencer has put it “in the center of the culture wars in a way that no company could possibly want to be,” one observer said.  <a href="https://nyti.ms/3HeuPwy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s 2024 Campaign Begins. You Might Miss It at First.</h3>
-<sub>By Reid J. Epstein and Shane Goldmacher</sub>
-<p>The president has no immediate plans to barnstorm key states with large rallies. He will instead try to burnish his record, and hope Republican infighting continues.  <a href="https://nyti.ms/3oGbLke"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
