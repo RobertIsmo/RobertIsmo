@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, April 25, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. President Biden is running for reelection, but some polls say his numbers are quite low. Vice President Kamala Harris is playing a key role in his campaign and will receive more scrutiny in the process. It was recently announced that Bud Light is under fire after an advertising campaign featured a transgender influencer, and two executives have been placed on leave because of this. Tragically, Harry Belafonte passed away at 96 after having achieved celebrity status and using it to fight for civil rights. Also, the cable news war between Fox News and CNN appears to be cooling off after both outlets decided to part ways with popular hosts Tucker Carlson and Don Lemon, respectively. Lastly, Taliban forces have killed the head of an ISIS cell that took responsibility for a deadly airport bombing back in August 2021.</p>
+It looks like a lot is happening in the world right now. Joe Biden has acknowledged that he&#39;s not accomplished all he hoped, and he&#39;s running for reelection on his record--both good and bad. His VP Kamala Harris is under increased scrutiny, especially on the abortion access issue. Big businesses have had to face consequences from public controversy--Bud Light&#39;s marketing with a transgender influencer became a flashpoint. Music, film and civil rights icon, Harry Belafonte, passed away at 96. TV hosts Tucker Carlson and Don Lemon both left their networks, sparking debates about cable news&#39; coverage of former president Donald Trump. Alec Baldwin resurrected a project he abruptly stopped in 2021 when his cinematographer was killed while they were rehearsing with firearms, and lastly there&#39;s a new scientific study out that talks about how global warming is making some places far more vulnerable to extreme heatwaves.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Is Running on His Record (and Away From It)</h3>
@@ -69,21 +69,9 @@ There is a lot happening in the world right now. President Biden is running for 
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Analysis: Biden Faces Headwinds, but Democrats See Reasons for Optimism</h3>
-<sub>By Jonathan Weisman</sub>
-<p>President Biden’s poll numbers remain low, but structural advantages have Democrats insisting he is far better positioned than his Republican rivals.  <a href="https://nyti.ms/40CNlFu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Biden’s 2024 Bid, Kamala Harris Will Be Under More Scrutiny</h3>
 <sub>By Katie Rogers</sub>
 <p>The vice president will be central to President Biden’s re-election efforts, particularly on the issue of abortion access. Both critics and supporters say the increased spotlight is a good thing.  <a href="https://nyti.ms/3Hd7SJU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-multimedia-blue" alt="">
-<h3>The Long Career Arc of Joe Biden</h3>
-<sub>By Maggie Astor</sub>
-<p>A timeline of Joseph R. Biden Jr.’s career highlights told through photographs.  <a href="https://nyti.ms/40CO4GW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +120,18 @@ There is a lot happening in the world right now. President Biden is running for 
 <h3>Taliban Kill Head of ISIS Cell That Bombed Kabul Airport</h3>
 <sub>By Karoun Demirjian and Eric Schmitt</sub>
 <p>Thirteen U.S. service members and scores of Afghan civilians died in the bombing as the United States was evacuating in August 2021.  <a href="https://nyti.ms/40ETZLm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Alec Baldwin Returns to ‘Rust,’ With Fake Guns and Rubber Bullets</h3>
+<sub>By Julia Jacobs</sub>
+<p>An emotional gathering in Montana to finish a film that halted production in 2021 when its cinematographer was killed by a gun Mr. Baldwin was rehearsing with.  <a href="https://nyti.ms/3NfaACI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Here Are the Places Most at Risk From Record-Shattering Heat</h3>
+<sub>By Raymond Zhong</sub>
+<p>It’s the regions of the world that haven’t yet experienced an off-the-charts heat wave that we should worry about, a new scientific study argues.  <a href="https://nyti.ms/41ZaRgT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
