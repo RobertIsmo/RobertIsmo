@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, April 25, Central Standard Time</p>
+<p>It is Wednesday, April 26, Central Standard Time</p>
 <p>
-It looks like a lot is happening in the world right now. Joe Biden has acknowledged that he&#39;s not accomplished all he hoped, and he&#39;s running for reelection on his record--both good and bad. His VP Kamala Harris is under increased scrutiny, especially on the abortion access issue. Big businesses have had to face consequences from public controversy--Bud Light&#39;s marketing with a transgender influencer became a flashpoint. Music, film and civil rights icon, Harry Belafonte, passed away at 96. TV hosts Tucker Carlson and Don Lemon both left their networks, sparking debates about cable news&#39; coverage of former president Donald Trump. Alec Baldwin resurrected a project he abruptly stopped in 2021 when his cinematographer was killed while they were rehearsing with firearms, and lastly there&#39;s a new scientific study out that talks about how global warming is making some places far more vulnerable to extreme heatwaves.</p>
+Right now, President Biden is campaigning for the 2024 elections and his running mate, Vice President Kamala Harris, is under more scrutiny from both critics and supporters. On the business side of things, Bud Light ended up in the center of a culture war backlash which led to two executives taking leave. We also said goodbye to barrier-breaking singer, actor and activist Harry Belafonte. On TV news, Fox News&#39; Tucker Carlson and Don Lemon from CNN both decided to move on. In Afghanistan, the head of an ISIS cell that had bombed a Kabul Airport was killed. There are also worries about record-shattering heat happening in some areas of the world. Lastly, there&#39;s a case against former President Donald Trump involving sexual assault allegations put forward by E. Jean Carroll.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Is Running on His Record (and Away From It)</h3>
@@ -122,16 +122,16 @@ It looks like a lot is happening in the world right now. Joe Biden has acknowled
 <p>Thirteen U.S. service members and scores of Afghan civilians died in the bombing as the United States was evacuating in August 2021.  <a href="https://nyti.ms/40ETZLm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Alec Baldwin Returns to ‘Rust,’ With Fake Guns and Rubber Bullets</h3>
-<sub>By Julia Jacobs</sub>
-<p>An emotional gathering in Montana to finish a film that halted production in 2021 when its cinematographer was killed by a gun Mr. Baldwin was rehearsing with.  <a href="https://nyti.ms/3NfaACI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Here Are the Places Most at Risk From Record-Shattering Heat</h3>
 <sub>By Raymond Zhong</sub>
 <p>It’s the regions of the world that haven’t yet experienced an off-the-charts heat wave that we should worry about, a new scientific study argues.  <a href="https://nyti.ms/41ZaRgT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Lawyers for Trump and His Accuser Clash Over Her Motives in Rape Case</h3>
+<sub>By Benjamin Weiser, Lola Fadulu and Kate Christobek</sub>
+<p>E. Jean Carroll says former President Donald J. Trump attacked her in a department store. As the trial began, his lawyer called her lawsuit a plan to make her famous.  <a href="https://nyti.ms/3n67upN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
