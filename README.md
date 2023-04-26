@@ -60,31 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 26, Central Standard Time</p>
 <p>
-There are a lot of interesting things happening in the world right now. In the US, House Republicans are pushing to pass a fiscal plan while Speaker Kevin McCarthy attempts to navigate divisions between members. Meanwhile, UK regulators have blocked a big tech acquisition between Microsoft and Activision. Internationally, Alexei Navalny, a Russian opposition leader, is facing terrorism charges that could land him in jail for life, while Pope Francis has granted women a vote in an influential meeting of Bishops. Finally, tensions are mounting between Disney and Florida&#39;s Governor Ron DeSantis over business regulations and Bud Light is facing criticism due to a marketing flap.</p>
+Right now, there are a bunch of political issues happening in the US. The Republican party has proposed cutting federal spending to lift the nation&#39;s borrowing cap, and Disney is suing Florida governor Ron DeSantis over control of its resort after he criticized an education law. Also in the US, Montana legislators voted to bar a transgender lawmaker from the House chamber, and there&#39;s been speculation about Russian President Putin&#39;s health. In India, there&#39;s a new cricket league that is offering girls opportunities they never had before. Meanwhile, China and Ukraine had a phone call with carefully chosen words, and there could be new rules for power plants to encourage carbon capture. The US also agreed to cooperate with South Korea on nuclear weapons this week, and in New York state, there is skepticism over Governor Hochul&#39;s advisor since he lives in Colorado. Lastly, polls indicate that voter opinions on President Biden&#39;s age may be misguiding.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans, Pushing Past Divisions, Press for Debt Limit Vote</h3>
-<sub>By Catie Edmondson and Carl Hulse</sub>
-<p>It was not clear whether Speaker Kevin McCarthy could pass the fiscal plan, which he has described as a necessary step to force President Biden to negotiate over the terms of a debt ceiling increase.  <a href="https://nyti.ms/41Zh0Kd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After a Hellish Start and a Honeymoon, McCarthy Faces His First Big Test</h3>
-<sub>By Annie Karni</sub>
-<p>The Republican speaker has stuck to partisan bills that have kept his party united. That ends with a tough vote to raise the debt limit in exchange for spending cuts.  <a href="https://nyti.ms/3AvKbJa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>U.K. Blocks Microsoft’s $69 Billion Bid for Activision, a Blow for Tech Deals</h3>
-<sub>By David McCabe and Kellen Browning</sub>
-<p>The decision barring the takeover of a big video game publisher is a major victory for proponents of regulating tech giants, which have faced obstacles in the United States.  <a href="https://nyti.ms/3mYBAeZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Navalny, Top Kremlin Critic, Says New Charge Could Jail Him for Life</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>The jailed Russian opposition leader said he faced a terrorism case that he described as “absurd.”  <a href="https://nyti.ms/3HhPWOu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<h3>What’s in the House G.O.P. Debt Limit Bill</h3>
+<sub>By Madeleine Ngo, Catie Edmondson and Jim Tankersley</sub>
+<p>Republicans’ proposal would cut federal spending and unravel parts of the Biden administration’s policy agenda in exchange for lifting the nation’s borrowing cap.  <a href="https://nyti.ms/3mQ7xWI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Disney Sues DeSantis Over Control of Its Florida Resort</h3>
@@ -98,10 +80,40 @@ There are a lot of interesting things happening in the world right now. In the U
 <p>Republicans are increasingly taking on corporations they denounce as “woke.” The Florida governor is just the latest to find that it isn’t easy.  <a href="https://nyti.ms/3AtlDk3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the DeSantis-Disney Dispute</h3>
+<sub>By Jesus Jiménez and Brooks Barnes</sub>
+<p>The fight between the Florida governor and the company, now headed to court, began over an education law and grew into a feud about oversight of land that includes the amusement park.  <a href="https://nyti.ms/3vJp5Ec"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Montana House Votes to Discipline Transgender Lawmaker</h3>
+<sub>By Jim Robbins, Remy Tumin and Jacey Fortin</sub>
+<p>Legislators voted to bar Representative Zooey Zephyr, the state’s only transgender legislator, from the House chamber for the remainder of the legislative session.  <a href="https://nyti.ms/3NfSUXi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In an Indian Village, Cultivating Girls’ Big-League Dreams</h3>
 <sub>By Mujib Mashal and Atul Loke</sub>
 <p>A new $500 million women’s cricket league is offering the kind of opportunities that never existed before in India. The girls of one Punjab village are ready.  <a href="https://nyti.ms/3Awx76i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Documents Reflect Persistent, if Unfounded, Speculation on Putin’s Health</h3>
+<sub>By Michael Crowley</sub>
+<p>Leaked materials include unsubstantiated intelligence about a Ukrainian politician’s claim that the Russian leader is undergoing chemotherapy.  <a href="https://nyti.ms/3NgKTld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Xi and Zelensky Talk at Last, but Words Are Chosen Carefully</h3>
+<sub>By David Pierson, Marc Santora and Vivian Wang</sub>
+<p>Volodymyr Zelensky has urged discussions with Xi Jinping since the Russian invasion, but in its official account of the phone call, China left out two words: “Russia” and “war.”  <a href="https://nyti.ms/3VgxA6g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>New Rules for Power Plants Could Give Carbon Capture a Boost. Here’s How.</h3>
+<sub>By Brad Plumer</sub>
+<p>The technology has struggled to gain traction, but strict new emissions limits for gas and coal stations could encourage broader adoption.  <a href="https://nyti.ms/3HdtFkI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,29 +122,17 @@ There are a lot of interesting things happening in the world right now. In the U
 <p>The agreement is a centerpiece of this week’s state visit by President Yoon Suk Yeol of South Korea, who met with President Biden at the White House on Wednesday.  <a href="https://nyti.ms/3Nfw425"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside Biden’s Renewed Promise to Protect South Korea From Nuclear Weapons</h3>
-<sub>By David E. Sanger and Choe Sang-Hun</sub>
-<p>President Biden’s emphasis on America’s willingness to defend South Korea is a striking admission that North Korea’s arsenal is here to stay.  <a href="https://nyti.ms/440IAIJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>He Calls the Shots for New York’s Governor. He Lives in Colorado.</h3>
 <sub>By Nicholas Fandos and Jeffery C. Mays</sub>
 <p>Adam Sullivan holds deep influence over Gov. Kathy Hochul, her administration and campaign team, even as skepticism mounts over his judgment and distance from New York.  <a href="https://nyti.ms/41Zc1Jp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pope Gives Women a Vote in Influential Meeting of Bishops</h3>
-<sub>By Jason Horowitz and Elisabetta Povoledo</sub>
-<p>The move is an important step by Francis as he strives for greater inclusiveness.  <a href="https://nyti.ms/3NgPgN0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>How Much Do Voters Really Care About Biden’s Age?</h3>
+<sub>By Ian Prasad Philbrick</sub>
+<p>The evidence suggests it may end up mattering less to voters than their responses to polls indicate.  <a href="https://nyti.ms/41Rtrrs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ad Flap Leaves Bitter Aftertaste for Bud Light and Warning for Big Business</h3>
-<sub>By Charles Homans</sub>
-<p>Bud Light’s marketing effort with a transgender influencer has put it “in the center of the culture wars in a way that no company could possibly want to be,” one observer said.  <a href="https://nyti.ms/3HeuPwy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
