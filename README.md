@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 26, Central Standard Time</p>
 <p>
-Right now, President Biden is campaigning for the 2024 elections and his running mate, Vice President Kamala Harris, is under more scrutiny from both critics and supporters. On the business side of things, Bud Light ended up in the center of a culture war backlash which led to two executives taking leave. We also said goodbye to barrier-breaking singer, actor and activist Harry Belafonte. On TV news, Fox News&#39; Tucker Carlson and Don Lemon from CNN both decided to move on. In Afghanistan, the head of an ISIS cell that had bombed a Kabul Airport was killed. There are also worries about record-shattering heat happening in some areas of the world. Lastly, there&#39;s a case against former President Donald Trump involving sexual assault allegations put forward by E. Jean Carroll.</p>
+It&#39;s been a very busy and eventful couple of weeks! To start with, President Biden recently made a promise to protect South Korea from nuclear weapons, which some interpret as an admission that North Korea&#39;s nuclear arsenal is here to stay. Biden is also running for re-election on his record – he&#39;s acknowledged that he didn&#39;t accomplish all he wanted to during his first term, but argues that it&#39;s an argument for why he should be elected a second time. His Vice President Kamala Harris is also getting more attention during this election period and is focused on issues such as access to abortion. There has also been backlash over Bud Light&#39;s association with a transgender influencer. In the music realm, legendary singer, actor and civil rights leader Harry Belafonte has passed away – he was known for breaking racial barriers and captivating audiences both on-screen and off. There was also drama at Fox News and CNN when two of the network&#39;s stars left. And finally, there have been reports of the Taliban assassinating the head of an ISIS cell responsible for bombing Kabul Airport in August 2021, and scientists studying where could experience extreme &amp; record-breaking heat waves in the near future.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside Biden’s Renewed Promise to Protect South Korea From Nuclear Weapons</h3>
+<sub>By David E. Sanger and Choe Sang-Hun</sub>
+<p>President Biden’s emphasis on America’s willingness to defend South Korea is a striking admission that North Korea’s arsenal is here to stay.  <a href="https://nyti.ms/440IAIJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Is Running on His Record (and Away From It)</h3>
 <sub>By Peter Baker</sub>
@@ -126,12 +132,6 @@ Right now, President Biden is campaigning for the 2024 elections and his running
 <h3>Here Are the Places Most at Risk From Record-Shattering Heat</h3>
 <sub>By Raymond Zhong</sub>
 <p>It’s the regions of the world that haven’t yet experienced an off-the-charts heat wave that we should worry about, a new scientific study argues.  <a href="https://nyti.ms/41ZaRgT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Lawyers for Trump and His Accuser Clash Over Her Motives in Rape Case</h3>
-<sub>By Benjamin Weiser, Lola Fadulu and Kate Christobek</sub>
-<p>E. Jean Carroll says former President Donald J. Trump attacked her in a department store. As the trial began, his lawyer called her lawsuit a plan to make her famous.  <a href="https://nyti.ms/3n67upN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
