@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 26, Central Standard Time</p>
 <p>
-It&#39;s been a very busy and eventful couple of weeks! To start with, President Biden recently made a promise to protect South Korea from nuclear weapons, which some interpret as an admission that North Korea&#39;s nuclear arsenal is here to stay. Biden is also running for re-election on his record – he&#39;s acknowledged that he didn&#39;t accomplish all he wanted to during his first term, but argues that it&#39;s an argument for why he should be elected a second time. His Vice President Kamala Harris is also getting more attention during this election period and is focused on issues such as access to abortion. There has also been backlash over Bud Light&#39;s association with a transgender influencer. In the music realm, legendary singer, actor and civil rights leader Harry Belafonte has passed away – he was known for breaking racial barriers and captivating audiences both on-screen and off. There was also drama at Fox News and CNN when two of the network&#39;s stars left. And finally, there have been reports of the Taliban assassinating the head of an ISIS cell responsible for bombing Kabul Airport in August 2021, and scientists studying where could experience extreme &amp; record-breaking heat waves in the near future.</p>
+There is a lot going on in the world right now! Technology is at the forefront, with Microsoft recently facing pushback from U.S. regulators over their $69 Billion bid for video game publisher Activision. Additionally, countries are trying to ban TikTok out of concerns that it may endanger user data. There&#39;s also political strife in the U.S., with House Republicans pitching a debt limit bill for deep spending cuts and President Biden renewing a promise to protect South Korea from nuclear weapons. On the international front, Poland has been moving away from its Soviet past, while Binance, a popular cryptocurrency exchange, is under increasing pressure. Chief Justice John Roberts also declined an invitation to testify before congress over ethics concerns.</p>
 <ol>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>U.K. Blocks Microsoft’s $69 Billion Bid for Activision, a Blow for Tech Deals</h3>
+<sub>By David McCabe and Kellen Browning</sub>
+<p>The decision barring the takeover of a big video game publisher is a major loss for Microsoft, which also faces pushback from U.S. regulators.  <a href="https://nyti.ms/3mYBAeZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside Biden’s Renewed Promise to Protect South Korea From Nuclear Weapons</h3>
 <sub>By David E. Sanger and Choe Sang-Hun</sub>
@@ -69,16 +75,34 @@ It&#39;s been a very busy and eventful couple of weeks! To start with, President
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Is Running on His Record (and Away From It)</h3>
-<sub>By Peter Baker</sub>
-<p>President Biden has acknowledged that he has not accomplished all he wished to. But that, he maintains, is an argument for his re-election.  <a href="https://nyti.ms/4425UWu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<h3>After a Hellish Start and a Honeymoon, McCarthy Faces His First Big Test</h3>
+<sub>By Annie Karni</sub>
+<p>The Republican speaker has stuck to partisan bills that have kept his party united. That ends with a tough vote to raise the debt limit in exchange for spending cuts.  <a href="https://nyti.ms/3AvKbJa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Biden’s 2024 Bid, Kamala Harris Will Be Under More Scrutiny</h3>
-<sub>By Katie Rogers</sub>
-<p>The vice president will be central to President Biden’s re-election efforts, particularly on the issue of abortion access. Both critics and supporters say the increased spotlight is a good thing.  <a href="https://nyti.ms/3Hd7SJU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Don’t Call It a ‘Cut’: G.O.P. Tries to Rebrand Its Plan to Reduce Spending</h3>
+<sub>By Catie Edmondson</sub>
+<p>House Republicans pitched their 2011 debt limit bill aggressively, trumpeting a zeal for deep spending cuts. Their latest fiscal plan tiptoes around them, with a milder slogan to match.  <a href="https://nyti.ms/3L7Pgw3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Kitsch to Creepy: Polish Town No Longer Relishes Soviet Past (or Rasputin)</h3>
+<sub>By Andrew Higgins</sub>
+<p>A Polish town that was once occupied by the Soviets used to embrace its history with military re-enactments and Lenin banners. But “nobody wants to be reminded of Russia these days.”  <a href="https://nyti.ms/41FqMS0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Lawmakers Want to Ban TikTok. Here’s What Users Say Is at Stake.</h3>
+<sub>By Kalley Huang, Alexandra Eaton and Shane O’Neill</sub>
+<p>We spoke with nine young people across the country about how a ban would change their lives.  <a href="https://nyti.ms/3NaPHbJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Why Countries Are Trying to Ban TikTok</h3>
+<sub>By Sapna Maheshwari and Amanda Holpuch</sub>
+<p>Governments have expressed concerns that TikTok, which is owned by the Chinese company ByteDance, may endanger sensitive user data.  <a href="https://nyti.ms/3mjkGa6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ad Flap Leaves Bitter Aftertaste for Bud Light and Warning for Big Business</h3>
@@ -86,52 +110,28 @@ It&#39;s been a very busy and eventful couple of weeks! To start with, President
 <p>Bud Light’s marketing effort with a transgender influencer has put it “in the center of the culture wars in a way that no company could possibly want to be,” one observer said.  <a href="https://nyti.ms/3HeuPwy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>2 Executives Are on Leave After Bud Light Promotion With Transgender Influencer</h3>
-<sub>By Amanda Holpuch and Julie Creswell</sub>
-<p>Anheuser-Busch announced the moves after a conservative backlash over its association with the actress and social media personality Dylan Mulvaney.  <a href="https://nyti.ms/40IfDhU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Harry Belafonte, 96, Dies; Barrier-Breaking Singer, Actor and Activist</h3>
-<sub>By Peter Keepnews</sub>
-<p>In the 1950s, when segregation was still widespread, his ascent to the upper echelon of show business was historic. But his primary focus was civil rights.  <a href="https://nyti.ms/3n5sA7C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Harry Belafonte, Folk Hero</h3>
-<sub>By Wesley Morris</sub>
-<p>Cool and charismatic, Belafonte channeled his stardom into activism. He was a true people person, who knew how to reach, teach and challenge us.  <a href="https://nyti.ms/3AqKkh0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Harry Belafonte: A Life in Photos</h3>
-<sub>By Peter Keepnews</sub>
-<p>He captivated audiences with his singing, achieved movie stardom and spent decades fighting for civil rights. In all his endeavors he broke racial barriers.  <a href="https://nyti.ms/3AwZ79X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s 2024 Campaign Begins. You Might Miss It at First.</h3>
+<sub>By Reid J. Epstein and Shane Goldmacher</sub>
+<p>The president has no immediate plans to barnstorm key states with large rallies. He will instead try to burnish his record, and hope Republican infighting continues.  <a href="https://nyti.ms/3oGbLke"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>As Carlson and Lemon Exit, a Chapter Closes on Cable’s Trump War</h3>
-<sub>By Jim Rutenberg</sub>
-<p>The two hosts took very different approaches, but the decisions by Fox News and CNN to shed the stars mark at least a temporary shift in the excesses of Trump-era coverage.  <a href="https://nyti.ms/3LqAp1g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<h3>Binance Faces Mounting Pressure as U.S. Crypto Crackdown Intensifies</h3>
+<sub>By David Yaffe-Bellany, Emily Flitter and Matthew Goldstein</sub>
+<p>The scrutiny on Binance, the giant cryptocurrency exchange, has sent new tremors through a market that is still bruised by the implosion of FTX.  <a href="https://nyti.ms/3NfQgkC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Tucker Carlson and Don Lemon Hire a Top Hollywood Lawyer</h3>
-<sub>By Katie Robertson</sub>
-<p>Bryan Freedman has a track record of getting multimillion-dollar settlements for TV stars and has represented celebrities like Quentin Tarantino, Julia Roberts and Seth Rogen.  <a href="https://nyti.ms/3n6zauA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Woman Shaping a Generation of Black Thought</h3>
+<sub>By Jenna Wortham</sub>
+<p>Christina Sharpe is expanding the vocabulary of life in slavery’s long shadow — peeling back the meaning of familiar words and resurrecting neglected history.  <a href="https://nyti.ms/41FoYIu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Taliban Kill Head of ISIS Cell That Bombed Kabul Airport</h3>
-<sub>By Karoun Demirjian and Eric Schmitt</sub>
-<p>Thirteen U.S. service members and scores of Afghan civilians died in the bombing as the United States was evacuating in August 2021.  <a href="https://nyti.ms/40ETZLm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Here Are the Places Most at Risk From Record-Shattering Heat</h3>
-<sub>By Raymond Zhong</sub>
-<p>It’s the regions of the world that haven’t yet experienced an off-the-charts heat wave that we should worry about, a new scientific study argues.  <a href="https://nyti.ms/41ZaRgT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Chief Justice Declines to Testify Before Congress Over Ethics Concerns</h3>
+<sub>By Abbie VanSickle</sub>
+<p>In an accompanying statement on ethics practices, the Supreme Court’s justices insisted their current ethical guidelines on gifts, travel and financial deals are sufficient.  <a href="https://nyti.ms/3Lw7lFw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
