@@ -59,19 +59,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 27, Central Standard Time</p>
-<p>
-Things seem to be pretty hectic right now in terms of news. In the business world, inflation is changing how people spend their money and the US economy is showing signs of growth. On an international scale, there&#39;s a lot of tension developing in Sudan while China is cracking down on financial firms and bankers. Closer to home, a US Airman has been accused of leaking information and even our politics aren&#39;t safe from controversy as a Montana lawmaker was barred from the House floor for her comments on a transgender bill.</p>
+<p>It looks like there&#39;s a lot going on in the world right now, especially in the business and economics sectors. The US economy has grown in the first quarter, and inflation remains high despite some changes in what is driving it. Elsewhere, the controversy surrounding Fox News has deepened with the discovery of offensive texts sent by Tucker Carlson, while an airman who is accused of leaking confidential information has a history of making racist and violent remarks. 
+
+Away from politics and economics, tech tycoon Elon Musk is ramping up efforts in artificial intelligence as he warns against its dangers. In Ukraine, Soledar is a small town that has been widely affected by conflict, but its salt is a proud symbol of national identity. Moving over to entertainment news, Jerry Springer - host of the raucous and often confrontational talk show - has passed away at 79 years old. A further 7 landmark copyright cases are being heard with Ed Sheeran at the center of it all. Looking to fashion, Anna Wintour paid tribute to iconic designer Karl Lagerfeld and explored how his clothes have played an important part in her life.
+
+Finally, this year&#39;s Met Gala will be focused on the 2023 theme with a variety of guests expected, while the upcoming NFL draft will look to change its tone amid criticism of its fascination with players’ bodies and tragic family histories.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Still Going Fast, Inflation Changes Drivers</h3>
-<sub>By Jeanna Smialek and Christine Zhang</sub>
-<p>Two years ago, high inflation was about supply shortages and pricier goods. Then it was about war in Ukraine and energy. These days, services are key.  <a href="https://nyti.ms/3ncQRJ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Economy Grew at 1.1% Rate in First Quarter</h3>
+<sub>By Ben Casselman</sub>
+<p>The gross domestic product increased for the third straight quarter as consumer spending remained robust despite higher interest rates.  <a href="https://nyti.ms/3LBBi7j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>G.D.P. Report: What to Look For</h3>
-<sub>By Ben Casselman</sub>
-<p>U.S. economic data on Thursday morning is expected to show that the year opened with the third straight quarterly expansion in gross domestic product.  <a href="https://nyti.ms/3LBBi7j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Inflation Is Still High. What’s Driving It Has Changed.</h3>
+<sub>By Jeanna Smialek and Christine Zhang</sub>
+<p>Two years ago, high inflation was about supply shortages and pricier goods. Then it was about war in Ukraine and energy. These days, services are key.  <a href="https://nyti.ms/3ncQRJ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -86,34 +89,16 @@ Things seem to be pretty hectic right now in terms of news. In the business worl
 <p>Prosecutors accused Jack Teixeira of trying to fecklessly cover up his actions and described a possible propensity toward violence.  <a href="https://nyti.ms/3Nd80wU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Looting, Roadblocks: Paramilitary Is a Scary Neighbor in Sudan’s Capital</h3>
-<sub>By Lynsey Chutel and Abdi Latif Dahir</sub>
-<p>In parts of Khartoum that have been taken over by a feared paramilitary force, the civilians who have not fled endure an uneasy coexistence with fighters who are battling the regular army.  <a href="https://nyti.ms/449STds"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Watch an A.I. Learn to Write by Reading Nothing but Jane Austen</h3>
+<h3>How Can an A.I. Learn to Write? Choose a Famous Author, and We’ll Show You.</h3>
 <sub>By Aatish Bhatia</sub>
-<p>We trained six tiny language models starting from scratch to see how they learn.  <a href="https://nyti.ms/3LbnPBx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>An interactive explanation of how language models learn to mimic language, from Shakespeare to Star Trek.  <a href="https://nyti.ms/3LbnPBx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Elon Musk Ramps Up A.I. Efforts, Even as He Warns of Dangers</h3>
 <sub>By Cade Metz, Ryan Mac and Kate Conger</sub>
 <p>The billionaire plans to compete with OpenAI, the ChatGPT developer he helped found, while calling out the potential harms of artificial intelligence.  <a href="https://nyti.ms/40JthkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Consulting Firm Is the Latest Target of a Chinese Crackdown</h3>
-<sub>By Daisuke Wakabayashi and Keith Bradsher</sub>
-<p>Bain &amp; Company employees were questioned less than a month after Chinese police officials raided the Beijing offices of another U.S. advisory firm.  <a href="https://nyti.ms/3ndGdld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Is Cracking Down on Bankers. Here Are Some of the Targets.</h3>
-<sub>By Claire Fu</sub>
-<p>As Xi Jinping and the Communist Party further exercise control over the economy, the financial sector is coming under close scrutiny.  <a href="https://nyti.ms/3n3ai7h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -123,16 +108,34 @@ Things seem to be pretty hectic right now in terms of news. In the business worl
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Jerry Springer, Host of Unapologetically Brash Talk Show, Dies at 79</h3>
+<sub>By Remy Tumin</sub>
+<p>The raucous and often confrontational “Jerry Springer Show” ran for nearly three decades and became a cultural phenomenon.  <a href="https://nyti.ms/445MGiW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Stolen or Original? Hear Songs From 7 Landmark Copyright Cases.</h3>
 <sub>By Ben Sisario</sub>
 <p>Ed Sheeran is on trial, accused of borrowing from Marvin Gaye. Listen to the tracks at stake in lawsuits involving George Harrison, 2 Live Crew, Led Zeppelin and Katy Perry that may shape his case.  <a href="https://nyti.ms/445PtbS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Montana G.O.P. Bars Transgender Lawmaker From House Floor</h3>
-<sub>By Jim Robbins, Remy Tumin and Jacey Fortin</sub>
-<p>The move was the culmination of a weeklong battle between House leadership and Representative Zooey Zephyr after her impassioned comments over a bill that would prohibit care for transgender minors.  <a href="https://nyti.ms/3NfSUXi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-fashion-blue" alt="">
+<h3>Karl and Anna, a Love Story in Clothes</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Anna Wintour remembers the designer Karl Lagerfeld, and how she’s worn his clothes to the most important events in her life.  <a href="https://nyti.ms/3n8nzLM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Everything You Need to Know About the 2023 Met Gala</h3>
+<sub>By Vanessa Friedman</sub>
+<p>From the theme to the dress code, from official hosts to likely guests: Here’s what we know so far about the party of the year.  <a href="https://nyti.ms/404cRmW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>After Focusing on Tragedy, the N.F.L. Draft Looks to Change Its Tone</h3>
+<sub>By Ken Belson</sub>
+<p>Criticism of the fascination with players’ bodies and the focus on tragic family histories has the league and its broadcast partners rethinking the draft.  <a href="https://nyti.ms/3LsTGza"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
