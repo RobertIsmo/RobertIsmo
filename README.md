@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 26, Central Standard Time</p>
 <p>
-Right now, there is a lot of news about business, politics, and social issues in the U.S. Fox is dealing with an internal crisis following the release of offensive messages sent by one of their hosts. The House Republicans just passed a bill to raise the debt ceiling while cutting federal spending, but President Biden has vowed to veto it. A woman who accused Donald Trump of rape gave her testimony in court and Disney is suing Florida over their control of its resort. People are questioning Twitter&#39;s verification system after they removed the check marks used to authenticate accounts. In India, a new cricket league is offering opportunities for young women that never existed before, and in California there are discussions to repeal a ban on state-funded travel to certain conservative states. Lastly, First Republic Bank is struggling financially due to losses and lack of loan payments from homeowners and businesses.</p>
+There seems to be a lot of tension between government officials, corporations, and citizens in different parts of the world. In the US, House Republicans are trying to pass a debt limit bill while President Biden plans to veto it. In California, there&#39;s debate about boycotts of states with anti-LGBTQ laws. Trump&#39;s accuser just delivered her story in a court case and Republicans are increasingly pushing back against so-called &quot;woke&quot; companies. Meanwhile, in India, there is a new $500 million women&#39;s cricket league that could help girls realize their dreams. On Twitter, things have become more confusing with the elimination of checkmarks and blue checks no longer being seen as fashionable.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>On Eve of Trial, Discovery of Carlson Texts Set Off Crisis Atop Fox</h3>
@@ -71,7 +71,7 @@ Right now, there is a lot of news about business, politics, and social issues in
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House G.O.P. Passes Debt Limit Bill, Paving the Way for a Clash With Biden</h3>
 <sub>By Catie Edmondson and Carl Hulse</sub>
-<p>House Republicans narrowly passed a bill to raise the debt ceiling while cutting spending by nearly 14 percent over a decade. President Biden has vowed a veto the measure.  <a href="https://nyti.ms/41Zh0Kd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>House Republicans narrowly passed a bill to raise the debt ceiling while cutting spending by nearly 14 percent over a decade. President Biden has vowed to veto the measure.  <a href="https://nyti.ms/41Zh0Kd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,6 +86,24 @@ Right now, there is a lot of news about business, politics, and social issues in
 <p>E. Jean Carroll, who says Donald Trump raped her, told a chilling story on the stand. The former president harangued her from outside the courtroom.  <a href="https://nyti.ms/3Au3K4C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Montana G.O.P. Bars Transgender Lawmaker From House Floor</h3>
+<sub>By Jim Robbins, Remy Tumin and Jacey Fortin</sub>
+<p>The move was the culmination of a weeklong battle between House leadership and Representative Zooey Zephyr after her impassioned comments over a bill that would prohibit care for transgender minors.  <a href="https://nyti.ms/3NfSUXi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Efforts to Restrict Transgender Health Care Face Pushback in Three States</h3>
+<sub>By Mitch Smith</sub>
+<p>As Republicans move to limit gender-transitioning treatments, a sustained veto in Kansas, a judge’s order in Missouri and federal intervention in Tennessee have emerged as barriers.  <a href="https://nyti.ms/3AxXwAQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>California Reconsiders Its Boycotts of States Over Their L.G.B.T.Q. Laws</h3>
+<sub>By Jill Cowan</sub>
+<p>San Francisco repealed its ban on city business with conservative states, and California may follow suit by rescinding a similar prohibition on state-funded travel.  <a href="https://nyti.ms/3VgVCOw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Disney Sues DeSantis Over Control of Its Florida Resort</h3>
 <sub>By Brooks Barnes</sub>
@@ -96,18 +114,6 @@ Right now, there is a lot of news about business, politics, and social issues in
 <h3>Man vs. Mouse: Ron DeSantis Finds Taking On Disney Is a Dicey Business</h3>
 <sub>By Charles Homans</sub>
 <p>Republicans are increasingly taking on corporations they denounce as “woke.” The Florida governor is just the latest to find that it isn’t easy.  <a href="https://nyti.ms/3AtlDk3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Montana House Votes to Discipline Transgender Lawmaker</h3>
-<sub>By Jim Robbins, Remy Tumin and Jacey Fortin</sub>
-<p>Legislators voted to bar Representative Zooey Zephyr, a recently elected transgender legislator, from the House chamber for the remainder of the legislative session.  <a href="https://nyti.ms/3NfSUXi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Reconsiders Its Boycotts of States Over Their L.G.B.T.Q. Laws</h3>
-<sub>By Jill Cowan</sub>
-<p>San Francisco repealed its ban on city business with conservative states, and California may follow suit by rescinding a similar prohibition on state-funded travel.  <a href="https://nyti.ms/3VgVCOw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -127,12 +133,6 @@ Right now, there is a lot of news about business, politics, and social issues in
 <sub>By Callie Holtermann and Lora Kelley</sub>
 <p>Once a coveted status symbol, Twitter’s verification badge — which can be purchased for a monthly fee — is no longer fashionable, according to some users.  <a href="https://nyti.ms/40TEsrv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>First Republic Lurches as It Struggles to Find a Savior</h3>
-<sub>By Rob Copeland and Maureen Farrell</sub>
-<p>The bank is sitting on big losses and paying more to borrow money than it is making on its loans to homeowners and businesses.  <a href="https://nyti.ms/3LdDwIz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
