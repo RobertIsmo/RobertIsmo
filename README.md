@@ -58,9 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, April 26, Central Standard Time</p>
+<p>It is Thursday, April 27, Central Standard Time</p>
 <p>
-There seems to be a lot of tension between government officials, corporations, and citizens in different parts of the world. In the US, House Republicans are trying to pass a debt limit bill while President Biden plans to veto it. In California, there&#39;s debate about boycotts of states with anti-LGBTQ laws. Trump&#39;s accuser just delivered her story in a court case and Republicans are increasingly pushing back against so-called &quot;woke&quot; companies. Meanwhile, in India, there is a new $500 million women&#39;s cricket league that could help girls realize their dreams. On Twitter, things have become more confusing with the elimination of checkmarks and blue checks no longer being seen as fashionable.</p>
+There is a lot going on in the world right now that is making news headlines. For instance, it has just come to light that Fox News host Tucker Carlson sent some very offensive private messages which have now been leaked. Meanwhile, president Trump&#39;s accuser, E. Jean Carroll, has come forward with a new eye witness account of him committing sexual assault all those years ago. Furthermore, an airman accused of leaking confidential documents is facing scrutiny given they have a history with racist and violent remarks. 
+
+In politics, Montana&#39;s GOP leaders have barred a transgender lawmaker from entering the House Floor while also seeking to restrict health care for trans people in multiple states. This has been faced with both pushbacks and vetoes. Additionally, California may soon rescind its ban on state-funded travel to conservative states despite the businesses operating within them enacting anti-LGBTQ+ laws. And finally, on the House of Representatives floor, Republicans narrowly passed a bill to raise the debt ceiling and cut spending which President Biden has vowed to veto if needed. 
+
+Changes are also being made on Twitter as well; they recently eliminated check marks which were previously used to authenticate tweets from credible sources - leading many to be unsure of how much faith to put into what they&#39;re reading online. Last but definitely not least, Disney is currently being sued by Florida Governor Ron DeSantis for retaliating against them over education laws within their state.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>On Eve of Trial, Discovery of Carlson Texts Set Off Crisis Atop Fox</h3>
@@ -68,23 +72,23 @@ There seems to be a lot of tension between government officials, corporations, a
 <p>Private messages sent by Tucker Carlson that had been redacted in legal filings showed him making highly offensive remarks that went beyond the comments of his prime-time show.  <a href="https://nyti.ms/3Nf9pD0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House G.O.P. Passes Debt Limit Bill, Paving the Way for a Clash With Biden</h3>
-<sub>By Catie Edmondson and Carl Hulse</sub>
-<p>House Republicans narrowly passed a bill to raise the debt ceiling while cutting spending by nearly 14 percent over a decade. President Biden has vowed to veto the measure.  <a href="https://nyti.ms/41Zh0Kd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What’s in the House G.O.P. Debt Limit Bill</h3>
-<sub>By Madeleine Ngo, Catie Edmondson and Jim Tankersley</sub>
-<p>Republicans’ proposal would cut federal spending and unravel parts of the Biden administration’s policy agenda in exchange for lifting the nation’s borrowing cap.  <a href="https://nyti.ms/3mQ7xWI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>In Searing Detail, Trump’s Accuser Tells Her Story</h3>
 <sub>By Benjamin Weiser, Lola Fadulu, Kate Christobek and Karen Zraick</sub>
 <p>E. Jean Carroll, who says Donald Trump raped her, told a chilling story on the stand. The former president harangued her from outside the courtroom.  <a href="https://nyti.ms/3Au3K4C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Airman Accused of Leak Has History of Racist and Violent Remarks, Filing Says</h3>
+<sub>By Glenn Thrush</sub>
+<p>Prosecutors accused Jack Teixeira of trying to fecklessly cover up his actions and described a possible propensity toward violence.  <a href="https://nyti.ms/3Nd80wU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Happens Next in the Leaked Documents Case</h3>
+<sub>By Glenn Thrush and Julian E. Barnes</sub>
+<p>Airman Jack Teixeira is expected to face a court hearing on Thursday, hours after prosecutors accused him of seeking to obstruct investigators and having a history of violent and racist remarks.  <a href="https://nyti.ms/3LbaDhb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Montana G.O.P. Bars Transgender Lawmaker From House Floor</h3>
@@ -104,6 +108,18 @@ There seems to be a lot of tension between government officials, corporations, a
 <p>San Francisco repealed its ban on city business with conservative states, and California may follow suit by rescinding a similar prohibition on state-funded travel.  <a href="https://nyti.ms/3VgVCOw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House G.O.P. Passes Debt Limit Bill, Paving the Way for a Clash With Biden</h3>
+<sub>By Catie Edmondson and Carl Hulse</sub>
+<p>House Republicans narrowly passed a bill to raise the debt ceiling while cutting spending by nearly 14 percent over a decade. President Biden has vowed to veto the measure.  <a href="https://nyti.ms/41Zh0Kd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What’s in the House G.O.P. Debt Limit Bill</h3>
+<sub>By Madeleine Ngo, Catie Edmondson and Jim Tankersley</sub>
+<p>Republicans’ proposal would cut federal spending and unravel parts of the Biden administration’s policy agenda in exchange for lifting the nation’s borrowing cap.  <a href="https://nyti.ms/3mQ7xWI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Disney Sues DeSantis Over Control of Its Florida Resort</h3>
 <sub>By Brooks Barnes</sub>
@@ -116,23 +132,11 @@ There seems to be a lot of tension between government officials, corporations, a
 <p>Republicans are increasingly taking on corporations they denounce as “woke.” The Florida governor is just the latest to find that it isn’t easy.  <a href="https://nyti.ms/3AtlDk3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In an Indian Village, Cultivating Girls’ Big-League Dreams</h3>
-<sub>By Mujib Mashal and Atul Loke</sub>
-<p>A new $500 million women’s cricket league is offering the kind of opportunities that never existed before in India. The girls of one Punjab village are ready.  <a href="https://nyti.ms/3Awx76i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Tweets Become Harder to Believe as Labels Change Meaning</h3>
 <sub>By Steven Lee Myers, Sheera Frenkel and Tiffany Hsu</sub>
 <p>The elimination of check marks that helped authenticate accounts has convulsed a platform that once seemed indispensable for following breaking news.  <a href="https://nyti.ms/3oNCRpK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Are Blue Checks Uncool Now?</h3>
-<sub>By Callie Holtermann and Lora Kelley</sub>
-<p>Once a coveted status symbol, Twitter’s verification badge — which can be purchased for a monthly fee — is no longer fashionable, according to some users.  <a href="https://nyti.ms/40TEsrv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
