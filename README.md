@@ -60,13 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, April 26, Central Standard Time</p>
 <p>
-Right now, there are a bunch of political issues happening in the US. The Republican party has proposed cutting federal spending to lift the nation&#39;s borrowing cap, and Disney is suing Florida governor Ron DeSantis over control of its resort after he criticized an education law. Also in the US, Montana legislators voted to bar a transgender lawmaker from the House chamber, and there&#39;s been speculation about Russian President Putin&#39;s health. In India, there&#39;s a new cricket league that is offering girls opportunities they never had before. Meanwhile, China and Ukraine had a phone call with carefully chosen words, and there could be new rules for power plants to encourage carbon capture. The US also agreed to cooperate with South Korea on nuclear weapons this week, and in New York state, there is skepticism over Governor Hochul&#39;s advisor since he lives in Colorado. Lastly, polls indicate that voter opinions on President Biden&#39;s age may be misguiding.</p>
+Right now, there is a lot of news about business, politics, and social issues in the U.S. Fox is dealing with an internal crisis following the release of offensive messages sent by one of their hosts. The House Republicans just passed a bill to raise the debt ceiling while cutting federal spending, but President Biden has vowed to veto it. A woman who accused Donald Trump of rape gave her testimony in court and Disney is suing Florida over their control of its resort. People are questioning Twitter&#39;s verification system after they removed the check marks used to authenticate accounts. In India, a new cricket league is offering opportunities for young women that never existed before, and in California there are discussions to repeal a ban on state-funded travel to certain conservative states. Lastly, First Republic Bank is struggling financially due to losses and lack of loan payments from homeowners and businesses.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>On Eve of Trial, Discovery of Carlson Texts Set Off Crisis Atop Fox</h3>
+<sub>By Jim Rutenberg, Jeremy W. Peters and Michael S. Schmidt</sub>
+<p>Private messages sent by Tucker Carlson that had been redacted in legal filings showed him making highly offensive remarks that went beyond the comments of his prime-time show.  <a href="https://nyti.ms/3Nf9pD0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House G.O.P. Passes Debt Limit Bill, Paving the Way for a Clash With Biden</h3>
+<sub>By Catie Edmondson and Carl Hulse</sub>
+<p>House Republicans narrowly passed a bill to raise the debt ceiling while cutting spending by nearly 14 percent over a decade. President Biden has vowed a veto the measure.  <a href="https://nyti.ms/41Zh0Kd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What’s in the House G.O.P. Debt Limit Bill</h3>
 <sub>By Madeleine Ngo, Catie Edmondson and Jim Tankersley</sub>
 <p>Republicans’ proposal would cut federal spending and unravel parts of the Biden administration’s policy agenda in exchange for lifting the nation’s borrowing cap.  <a href="https://nyti.ms/3mQ7xWI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Searing Detail, Trump’s Accuser Tells Her Story</h3>
+<sub>By Benjamin Weiser, Lola Fadulu, Kate Christobek and Karen Zraick</sub>
+<p>E. Jean Carroll, who says Donald Trump raped her, told a chilling story on the stand. The former president harangued her from outside the courtroom.  <a href="https://nyti.ms/3Au3K4C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Disney Sues DeSantis Over Control of Its Florida Resort</h3>
@@ -81,15 +99,15 @@ Right now, there are a bunch of political issues happening in the US. The Republ
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the DeSantis-Disney Dispute</h3>
-<sub>By Jesus Jiménez and Brooks Barnes</sub>
-<p>The fight between the Florida governor and the company, now headed to court, began over an education law and grew into a feud about oversight of land that includes the amusement park.  <a href="https://nyti.ms/3vJp5Ec"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Montana House Votes to Discipline Transgender Lawmaker</h3>
 <sub>By Jim Robbins, Remy Tumin and Jacey Fortin</sub>
-<p>Legislators voted to bar Representative Zooey Zephyr, the state’s only transgender legislator, from the House chamber for the remainder of the legislative session.  <a href="https://nyti.ms/3NfSUXi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Legislators voted to bar Representative Zooey Zephyr, a recently elected transgender legislator, from the House chamber for the remainder of the legislative session.  <a href="https://nyti.ms/3NfSUXi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>California Reconsiders Its Boycotts of States Over Their L.G.B.T.Q. Laws</h3>
+<sub>By Jill Cowan</sub>
+<p>San Francisco repealed its ban on city business with conservative states, and California may follow suit by rescinding a similar prohibition on state-funded travel.  <a href="https://nyti.ms/3VgVCOw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,40 +116,22 @@ Right now, there are a bunch of political issues happening in the US. The Republ
 <p>A new $500 million women’s cricket league is offering the kind of opportunities that never existed before in India. The girls of one Punjab village are ready.  <a href="https://nyti.ms/3Awx76i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Documents Reflect Persistent, if Unfounded, Speculation on Putin’s Health</h3>
-<sub>By Michael Crowley</sub>
-<p>Leaked materials include unsubstantiated intelligence about a Ukrainian politician’s claim that the Russian leader is undergoing chemotherapy.  <a href="https://nyti.ms/3NgKTld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Tweets Become Harder to Believe as Labels Change Meaning</h3>
+<sub>By Steven Lee Myers, Sheera Frenkel and Tiffany Hsu</sub>
+<p>The elimination of check marks that helped authenticate accounts has convulsed a platform that once seemed indispensable for following breaking news.  <a href="https://nyti.ms/3oNCRpK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Xi and Zelensky Talk at Last, but Words Are Chosen Carefully</h3>
-<sub>By David Pierson, Marc Santora and Vivian Wang</sub>
-<p>Volodymyr Zelensky has urged discussions with Xi Jinping since the Russian invasion, but in its official account of the phone call, China left out two words: “Russia” and “war.”  <a href="https://nyti.ms/3VgxA6g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Are Blue Checks Uncool Now?</h3>
+<sub>By Callie Holtermann and Lora Kelley</sub>
+<p>Once a coveted status symbol, Twitter’s verification badge — which can be purchased for a monthly fee — is no longer fashionable, according to some users.  <a href="https://nyti.ms/40TEsrv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, April 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>New Rules for Power Plants Could Give Carbon Capture a Boost. Here’s How.</h3>
-<sub>By Brad Plumer</sub>
-<p>The technology has struggled to gain traction, but strict new emissions limits for gas and coal stations could encourage broader adoption.  <a href="https://nyti.ms/3HdtFkI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. and South Korea Agree to Cooperate on Nuclear Weapons</h3>
-<sub>By David E. Sanger</sub>
-<p>The agreement is a centerpiece of this week’s state visit by President Yoon Suk Yeol of South Korea, who met with President Biden at the White House on Wednesday.  <a href="https://nyti.ms/3Nfw425"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>He Calls the Shots for New York’s Governor. He Lives in Colorado.</h3>
-<sub>By Nicholas Fandos and Jeffery C. Mays</sub>
-<p>Adam Sullivan holds deep influence over Gov. Kathy Hochul, her administration and campaign team, even as skepticism mounts over his judgment and distance from New York.  <a href="https://nyti.ms/41Zc1Jp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>How Much Do Voters Really Care About Biden’s Age?</h3>
-<sub>By Ian Prasad Philbrick</sub>
-<p>The evidence suggests it may end up mattering less to voters than their responses to polls indicate.  <a href="https://nyti.ms/41Rtrrs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>First Republic Lurches as It Struggles to Find a Savior</h3>
+<sub>By Rob Copeland and Maureen Farrell</sub>
+<p>The bank is sitting on big losses and paying more to borrow money than it is making on its loans to homeowners and businesses.  <a href="https://nyti.ms/3LdDwIz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
