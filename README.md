@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 27, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. On the political front, House Republicans have passed a bill to raise the debt ceiling while cutting spending by nearly 14% over a decade, but President Biden has vowed to veto it. Trump&#39;s accuser has given detailed testimony in court. Meanwhile, Republicans are increasingly pushing back against corporations they deem &quot;woke&quot;, with Florida governor Ron DeSantis taking on Disney in a lawsuit over his control of its resort in the state. In Ukraine, Soledar, which was crushed in Russia&#39;s assault on Bakhmut, is treasured as a symbol of loss in many Ukrainian kitchens as its salt is a national staple. Finally, Twitter recently changed its authentication features, making it harder to tell which news sources are reliable.</p>
+Things seem to be pretty hectic right now in terms of news. In the business world, inflation is changing how people spend their money and the US economy is showing signs of growth. On an international scale, there&#39;s a lot of tension developing in Sudan while China is cracking down on financial firms and bankers. Closer to home, a US Airman has been accused of leaking information and even our politics aren&#39;t safe from controversy as a Montana lawmaker was barred from the House floor for her comments on a transgender bill.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Still Going Fast, Inflation Changes Drivers</h3>
+<sub>By Jeanna Smialek and Christine Zhang</sub>
+<p>Two years ago, high inflation was about supply shortages and pricier goods. Then it was about war in Ukraine and energy. These days, services are key.  <a href="https://nyti.ms/3ncQRJ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>G.D.P. Report: What to Look For</h3>
+<sub>By Ben Casselman</sub>
+<p>U.S. economic data on Thursday morning is expected to show that the year opened with the third straight quarterly expansion in gross domestic product.  <a href="https://nyti.ms/3LBBi7j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>On Eve of Trial, Discovery of Carlson Texts Set Off Crisis Atop Fox</h3>
 <sub>By Jim Rutenberg, Jeremy W. Peters and Michael S. Schmidt</sub>
 <p>Private messages sent by Tucker Carlson that had been redacted in legal filings showed him making highly offensive remarks that went beyond the comments of his prime-time show.  <a href="https://nyti.ms/3Nf9pD0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Searing Detail, Trump’s Accuser Tells Her Story</h3>
-<sub>By Benjamin Weiser, Lola Fadulu, Kate Christobek and Karen Zraick</sub>
-<p>E. Jean Carroll, who says Donald Trump raped her, told a chilling story on the stand. The former president harangued her from outside the courtroom.  <a href="https://nyti.ms/3Au3K4C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,47 +86,35 @@ There&#39;s a lot going on in the world right now. On the political front, House
 <p>Prosecutors accused Jack Teixeira of trying to fecklessly cover up his actions and described a possible propensity toward violence.  <a href="https://nyti.ms/3Nd80wU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Happens Next in the Leaked Documents Case</h3>
-<sub>By Glenn Thrush and Julian E. Barnes</sub>
-<p>Airman Jack Teixeira is expected to face a court hearing on Thursday, hours after prosecutors accused him of seeking to obstruct investigators and having a history of violent and racist remarks.  <a href="https://nyti.ms/3LbaDhb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Looting, Roadblocks: Paramilitary Is a Scary Neighbor in Sudan’s Capital</h3>
+<sub>By Lynsey Chutel and Abdi Latif Dahir</sub>
+<p>In parts of Khartoum that have been taken over by a feared paramilitary force, the civilians who have not fled endure an uneasy coexistence with fighters who are battling the regular army.  <a href="https://nyti.ms/449STds"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Montana G.O.P. Bars Transgender Lawmaker From House Floor</h3>
-<sub>By Jim Robbins, Remy Tumin and Jacey Fortin</sub>
-<p>The move was the culmination of a weeklong battle between House leadership and Representative Zooey Zephyr after her impassioned comments over a bill that would prohibit care for transgender minors.  <a href="https://nyti.ms/3NfSUXi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Watch an A.I. Learn to Write by Reading Nothing but Jane Austen</h3>
+<sub>By Aatish Bhatia</sub>
+<p>We trained six tiny language models starting from scratch to see how they learn.  <a href="https://nyti.ms/3LbnPBx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Efforts to Restrict Transgender Health Care Face Pushback in Three States</h3>
-<sub>By Mitch Smith</sub>
-<p>As Republicans move to limit gender-transitioning treatments, a sustained veto in Kansas, a judge’s order in Missouri and federal intervention in Tennessee have emerged as barriers.  <a href="https://nyti.ms/3AxXwAQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>California Reconsiders Its Boycotts of States Over Their L.G.B.T.Q. Laws</h3>
-<sub>By Jill Cowan</sub>
-<p>San Francisco repealed its ban on city business with conservative states, and California may follow suit by rescinding a similar prohibition on state-funded travel.  <a href="https://nyti.ms/3VgVCOw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House G.O.P. Passes Debt Limit Bill, Paving the Way for a Clash With Biden</h3>
-<sub>By Catie Edmondson and Carl Hulse</sub>
-<p>House Republicans narrowly passed a bill to raise the debt ceiling while cutting spending by nearly 14 percent over a decade. President Biden has vowed to veto the measure.  <a href="https://nyti.ms/41Zh0Kd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Elon Musk Ramps Up A.I. Efforts, Even as He Warns of Dangers</h3>
+<sub>By Cade Metz, Ryan Mac and Kate Conger</sub>
+<p>The billionaire plans to compete with OpenAI, the ChatGPT developer he helped found, while calling out the potential harms of artificial intelligence.  <a href="https://nyti.ms/40JthkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Disney Sues DeSantis Over Control of Its Florida Resort</h3>
-<sub>By Brooks Barnes</sub>
-<p>The company claimed “a targeted campaign of government retaliation,” which it said stemmed from its criticism of a contentious state education law.  <a href="https://nyti.ms/3n73Gog"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<h3>U.S. Consulting Firm Is the Latest Target of a Chinese Crackdown</h3>
+<sub>By Daisuke Wakabayashi and Keith Bradsher</sub>
+<p>Bain &amp; Company employees were questioned less than a month after Chinese police officials raided the Beijing offices of another U.S. advisory firm.  <a href="https://nyti.ms/3ndGdld"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man vs. Mouse: Ron DeSantis Finds Taking On Disney Is a Dicey Business</h3>
-<sub>By Charles Homans</sub>
-<p>Republicans are increasingly taking on corporations they denounce as “woke.” The Florida governor is just the latest to find that it isn’t easy.  <a href="https://nyti.ms/3AtlDk3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Is Cracking Down on Bankers. Here Are Some of the Targets.</h3>
+<sub>By Claire Fu</sub>
+<p>As Xi Jinping and the Communist Party further exercise control over the economy, the financial sector is coming under close scrutiny.  <a href="https://nyti.ms/3n3ai7h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Symbol of Loss in Almost Every Ukrainian Kitchen</h3>
@@ -128,10 +122,16 @@ There&#39;s a lot going on in the world right now. On the political front, House
 <p>Soledar, crushed in Russia’s long assault on Bakhmut, was only a little town. But its salt is a national staple, and a matter of pride.  <a href="https://nyti.ms/3LdFtVc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Tweets Become Harder to Believe as Labels Change Meaning</h3>
-<sub>By Steven Lee Myers, Sheera Frenkel and Tiffany Hsu</sub>
-<p>The elimination of check marks that helped authenticate accounts has convulsed a platform that once seemed indispensable for following breaking news.  <a href="https://nyti.ms/3oNCRpK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Stolen or Original? Hear Songs From 7 Landmark Copyright Cases.</h3>
+<sub>By Ben Sisario</sub>
+<p>Ed Sheeran is on trial, accused of borrowing from Marvin Gaye. Listen to the tracks at stake in lawsuits involving George Harrison, 2 Live Crew, Led Zeppelin and Katy Perry that may shape his case.  <a href="https://nyti.ms/445PtbS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Montana G.O.P. Bars Transgender Lawmaker From House Floor</h3>
+<sub>By Jim Robbins, Remy Tumin and Jacey Fortin</sub>
+<p>The move was the culmination of a weeklong battle between House leadership and Representative Zooey Zephyr after her impassioned comments over a bill that would prohibit care for transgender minors.  <a href="https://nyti.ms/3NfSUXi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
