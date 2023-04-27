@@ -60,13 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 27, Central Standard Time</p>
 <p>
-I just read about a lot of things going on in the world, from politics to sports to business. In the US, President Biden is facing a big decision about the debt limit because of a bill passed by Republicans. The US economy is growing slowly but inflation is still high. 
+In the US, President Biden is facing a major decision on the debt limit and American consumers are spending despite rising interest rates. Inflation is still high, but the forces driving it have shifted from goods to services. There&#39;s been a resurgence of attention on the murder of Emmett Till from nearly 70 years ago that galvanized the civil rights movement, and more recently an Airman accused of a leak who has a history of racist and violent remarks. Judy Blume&#39;s coming-of-age novel &quot;Are You There, God? It&#39;s Me, Margaret&quot; is finally being adapted for film. 
 
-In other news, Carolyn Bryant Donham, whose testimony led to the acquittal of two men accused of murdering Emmett Till in 1955, has died. An airman was accused of leaking government secrets and had a history of making racist and violent remarks. Judy Blume&#39;s coming-of-age novel is being made into a movie soon. 
+In sports news, WNBA player Brittney Griner is advocating for detainee rights while Ukrainian troops work to fend off Russian attacks as they await arms from the West. The US government announced sanctions on Russia&#39;s intelligence agencies and Iran&#39;s due to detention of Americans. 
 
-Also, there is a lot of financial stress because owners and lenders are haggling over real estate debts. In New York, officials failed to address the housing crisis so now they have to figure out what to do next. At Fox News, one anchor was let go after offensive private messages he sent were found. Meanwhile, an alternative conservative cable news channel called Newsmax has been getting more viewers since he left. 
-
-In sports news, basketball star Brittney Griner spoke out against Russia for detaining people wrongfully while the US imposed sanctions against Russia&#39;s intelligence agency and Iran&#39;s intelligence services for similarly detaining Americans.</p>
+In entertainment, host of the raucous talk show &quot;Jerry Springer&quot; has died at the age of 79. And in Montana, transgender legislator Zooey Zephyr is barred from joining her colleagues on floor proceedings so she reports to work in a Capitol hallway.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Faces His First Big Choice on Debt Limit</h3>
@@ -77,7 +75,7 @@ In sports news, basketball star Brittney Griner spoke out against Russia for det
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. Economy Continues to Grow, but More Slowly</h3>
 <sub>By Ben Casselman</sub>
-<p>The gross domestic product increased by 1.1 percent in the first quarter as consumer spending remained robust despite higher interest rates.  <a href="https://nyti.ms/3LBBi7j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Gross domestic product increased 1.1 percent in the first quarter as consumer spending remained robust despite higher interest rates.  <a href="https://nyti.ms/3LBBi7j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -89,8 +87,14 @@ In sports news, basketball star Brittney Griner spoke out against Russia for det
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Carolyn Bryant Donham Dies at 88; Her Words Doomed Emmett Till</h3>
 <sub>By Margalit Fox</sub>
-<p>She said Till, 14, had accosted her, and her testimony in the 1955 trial of her husband and his half brother was crucial in their acquittal in one of the most momentous murders in American history.  <a href="https://nyti.ms/41Hb8FR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>She accused Emmett, 14, of accosting her, and her testimony led to the acquittals of her husband and his half brother in a murder that helped galvanize the civil rights movement.  <a href="https://nyti.ms/41Hb8FR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Emmett Till’s Enduring Legacy</h3>
+<sub>By Adeel Hassan</sub>
+<p>Here is a look at who he was, the outrage at his murder and the acquittal of his killers, and how he has shaped the civil rights movement in America.  <a href="https://nyti.ms/3mCFg39"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Airman Accused of Leak Has History of Racist and Violent Remarks, Filing Says</h3>
@@ -104,40 +108,34 @@ In sports news, basketball star Brittney Griner spoke out against Russia for det
 <p>Judy Blume’s coming-of-age story finally hits the big screen this month. The book will always have a spotlight of its own.  <a href="https://nyti.ms/3HigajG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Stress Builds as Office Building Owners and Lenders Haggle Over Debt</h3>
-<sub>By Matthew Goldstein, Julie Creswell and Peter Eavis</sub>
-<p>The health of banks and cities and the nation’s economy could hinge on high-stakes negotiations over commercial real estate loans.  <a href="https://nyti.ms/3Lz6RhM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York Officials Failed to Address the Housing Crisis. Now What?</h3>
-<sub>By Luis Ferré-Sadurní and Mihir Zaveri</sub>
-<p>The state seemed poised to take the first meaningful action in decades to address its deep housing shortage. But the plans fell apart, in yet another indictment of dysfunction in Albany.  <a href="https://nyti.ms/3LwUqDc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>On Eve of Trial, Discovery of Carlson Texts Set Off Crisis Atop Fox</h3>
-<sub>By Jim Rutenberg, Jeremy W. Peters and Michael S. Schmidt</sub>
-<p>Private messages sent by Tucker Carlson that had been redacted in legal filings showed him making highly offensive remarks that went beyond the comments of his prime-time show.  <a href="https://nyti.ms/3Nf9pD0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Newsmax Ratings Climb After Tucker Carlson’s Exit at Fox</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>The niche conservative news channel is still small compared to Fox News, but its viewership has doubled and in some time slots even tripled since Tucker Carlson was dismissed.  <a href="https://nyti.ms/40EmjOd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Brittney Griner on Gershkovich Arrest: ‘No One Should Be in Those Conditions’</h3>
-<sub>By Kris Rhim and Alan Yuhas</sub>
-<p>Ms. Griner, speaking to reporters as she prepares for her next basketball season in the W.N.B.A., said she would continue to fight for those wrongfully detained by Russia.  <a href="https://nyti.ms/3LB5dfR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Kris Rhim</sub>
+<p>Griner, speaking to reporters as she prepares for her next basketball season in the W.N.B.A., said she would continue to fight for those considered wrongfully detained by Russia, like the journalist Evan Gershkovich.  <a href="https://nyti.ms/3LB5dfR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Troops Repel Russian Attacks, and Hope Western Arms Turn the Tide</h3>
+<sub>By Michael Schwirtz and Stanislav Kozliuk</sub>
+<p>Fierce fighting has yielded heavy casualties but little movement. Ukrainian forces need heavy weapons to change that, but they say it is no guarantee.  <a href="https://nyti.ms/3AzoKa1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Imposes Sanctions on Russia’s Intelligence Agency for Detaining Americans</h3>
 <sub>By Michael D. Shear</sub>
 <p>The United States also announced sanctions on Iran’s intelligence services, seeking to punish foreign governments for detention of Americans by cutting off access to the international financial system.  <a href="https://nyti.ms/3Nf5PJe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Jerry Springer, Host of a Raucous Talk Show, Is Dead at 79</h3>
+<sub>By Neil Genzlinger</sub>
+<p>The unapologetically confrontational “Jerry Springer Show” ran for nearly three decades and became a cultural phenomenon. Mr. Springer also had a career in politics.  <a href="https://nyti.ms/445MGiW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Montana Trans Legislator Is Doing Her Job From a Capitol Hallway</h3>
+<sub>By Jim Robbins and Mike Baker</sub>
+<p>Barred by Republican lawmakers from participating in the legislative session on the floor, Representative Zooey Zephyr reported for work on a hallway bench.  <a href="https://nyti.ms/3LbQ7fq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
