@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 27, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now that is making news headlines. For instance, it has just come to light that Fox News host Tucker Carlson sent some very offensive private messages which have now been leaked. Meanwhile, president Trump&#39;s accuser, E. Jean Carroll, has come forward with a new eye witness account of him committing sexual assault all those years ago. Furthermore, an airman accused of leaking confidential documents is facing scrutiny given they have a history with racist and violent remarks. 
-
-In politics, Montana&#39;s GOP leaders have barred a transgender lawmaker from entering the House Floor while also seeking to restrict health care for trans people in multiple states. This has been faced with both pushbacks and vetoes. Additionally, California may soon rescind its ban on state-funded travel to conservative states despite the businesses operating within them enacting anti-LGBTQ+ laws. And finally, on the House of Representatives floor, Republicans narrowly passed a bill to raise the debt ceiling and cut spending which President Biden has vowed to veto if needed. 
-
-Changes are also being made on Twitter as well; they recently eliminated check marks which were previously used to authenticate tweets from credible sources - leading many to be unsure of how much faith to put into what they&#39;re reading online. Last but definitely not least, Disney is currently being sued by Florida Governor Ron DeSantis for retaliating against them over education laws within their state.</p>
+There&#39;s a lot going on in the world right now. On the political front, House Republicans have passed a bill to raise the debt ceiling while cutting spending by nearly 14% over a decade, but President Biden has vowed to veto it. Trump&#39;s accuser has given detailed testimony in court. Meanwhile, Republicans are increasingly pushing back against corporations they deem &quot;woke&quot;, with Florida governor Ron DeSantis taking on Disney in a lawsuit over his control of its resort in the state. In Ukraine, Soledar, which was crushed in Russia&#39;s assault on Bakhmut, is treasured as a symbol of loss in many Ukrainian kitchens as its salt is a national staple. Finally, Twitter recently changed its authentication features, making it harder to tell which news sources are reliable.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>On Eve of Trial, Discovery of Carlson Texts Set Off Crisis Atop Fox</h3>
@@ -114,12 +110,6 @@ Changes are also being made on Twitter as well; they recently eliminated check m
 <p>House Republicans narrowly passed a bill to raise the debt ceiling while cutting spending by nearly 14 percent over a decade. President Biden has vowed to veto the measure.  <a href="https://nyti.ms/41Zh0Kd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What’s in the House G.O.P. Debt Limit Bill</h3>
-<sub>By Madeleine Ngo, Catie Edmondson and Jim Tankersley</sub>
-<p>Republicans’ proposal would cut federal spending and unravel parts of the Biden administration’s policy agenda in exchange for lifting the nation’s borrowing cap.  <a href="https://nyti.ms/3mQ7xWI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Disney Sues DeSantis Over Control of Its Florida Resort</h3>
 <sub>By Brooks Barnes</sub>
@@ -131,6 +121,12 @@ Changes are also being made on Twitter as well; they recently eliminated check m
 <sub>By Charles Homans</sub>
 <p>Republicans are increasingly taking on corporations they denounce as “woke.” The Florida governor is just the latest to find that it isn’t easy.  <a href="https://nyti.ms/3AtlDk3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Symbol of Loss in Almost Every Ukrainian Kitchen</h3>
+<sub>By Marc Santora</sub>
+<p>Soledar, crushed in Russia’s long assault on Bakhmut, was only a little town. But its salt is a national staple, and a matter of pride.  <a href="https://nyti.ms/3LdFtVc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Tweets Become Harder to Believe as Labels Change Meaning</h3>
