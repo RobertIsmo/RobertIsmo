@@ -59,16 +59,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 27, Central Standard Time</p>
-<p>It looks like there&#39;s a lot going on in the world right now, especially in the business and economics sectors. The US economy has grown in the first quarter, and inflation remains high despite some changes in what is driving it. Elsewhere, the controversy surrounding Fox News has deepened with the discovery of offensive texts sent by Tucker Carlson, while an airman who is accused of leaking confidential information has a history of making racist and violent remarks. 
+<p>
+I just read about a lot of things going on in the world, from politics to sports to business. In the US, President Biden is facing a big decision about the debt limit because of a bill passed by Republicans. The US economy is growing slowly but inflation is still high. 
 
-Away from politics and economics, tech tycoon Elon Musk is ramping up efforts in artificial intelligence as he warns against its dangers. In Ukraine, Soledar is a small town that has been widely affected by conflict, but its salt is a proud symbol of national identity. Moving over to entertainment news, Jerry Springer - host of the raucous and often confrontational talk show - has passed away at 79 years old. A further 7 landmark copyright cases are being heard with Ed Sheeran at the center of it all. Looking to fashion, Anna Wintour paid tribute to iconic designer Karl Lagerfeld and explored how his clothes have played an important part in her life.
+In other news, Carolyn Bryant Donham, whose testimony led to the acquittal of two men accused of murdering Emmett Till in 1955, has died. An airman was accused of leaking government secrets and had a history of making racist and violent remarks. Judy Blume&#39;s coming-of-age novel is being made into a movie soon. 
 
-Finally, this year&#39;s Met Gala will be focused on the 2023 theme with a variety of guests expected, while the upcoming NFL draft will look to change its tone amid criticism of its fascination with players’ bodies and tragic family histories.</p>
+Also, there is a lot of financial stress because owners and lenders are haggling over real estate debts. In New York, officials failed to address the housing crisis so now they have to figure out what to do next. At Fox News, one anchor was let go after offensive private messages he sent were found. Meanwhile, an alternative conservative cable news channel called Newsmax has been getting more viewers since he left. 
+
+In sports news, basketball star Brittney Griner spoke out against Russia for detaining people wrongfully while the US imposed sanctions against Russia&#39;s intelligence agency and Iran&#39;s intelligence services for similarly detaining Americans.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Faces His First Big Choice on Debt Limit</h3>
+<sub>By Jim Tankersley</sub>
+<p>After Republicans passed a bill that pairs spending cuts and fossil fuel support with raising the nation’s borrowing cap, the president must decide when and how to negotiate  <a href="https://nyti.ms/3NjmZWf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Economy Grew at 1.1% Rate in First Quarter</h3>
+<h3>U.S. Economy Continues to Grow, but More Slowly</h3>
 <sub>By Ben Casselman</sub>
-<p>The gross domestic product increased for the third straight quarter as consumer spending remained robust despite higher interest rates.  <a href="https://nyti.ms/3LBBi7j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The gross domestic product increased by 1.1 percent in the first quarter as consumer spending remained robust despite higher interest rates.  <a href="https://nyti.ms/3LBBi7j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -77,65 +86,59 @@ Finally, this year&#39;s Met Gala will be focused on the 2023 theme with a varie
 <p>Two years ago, high inflation was about supply shortages and pricier goods. Then it was about war in Ukraine and energy. These days, services are key.  <a href="https://nyti.ms/3ncQRJ5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Carolyn Bryant Donham Dies at 88; Her Words Doomed Emmett Till</h3>
+<sub>By Margalit Fox</sub>
+<p>She said Till, 14, had accosted her, and her testimony in the 1955 trial of her husband and his half brother was crucial in their acquittal in one of the most momentous murders in American history.  <a href="https://nyti.ms/41Hb8FR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Airman Accused of Leak Has History of Racist and Violent Remarks, Filing Says</h3>
+<sub>By Glenn Thrush</sub>
+<p>Prosecutors accused Jack Teixeira of trying to cover up his actions and described a possible propensity toward violence.  <a href="https://nyti.ms/3Nd80wU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Why ‘Are You There, God? It’s Me, Margaret’ Still Matters</h3>
+<sub>By Elisabeth Egan</sub>
+<p>Judy Blume’s coming-of-age story finally hits the big screen this month. The book will always have a spotlight of its own.  <a href="https://nyti.ms/3HigajG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Stress Builds as Office Building Owners and Lenders Haggle Over Debt</h3>
+<sub>By Matthew Goldstein, Julie Creswell and Peter Eavis</sub>
+<p>The health of banks and cities and the nation’s economy could hinge on high-stakes negotiations over commercial real estate loans.  <a href="https://nyti.ms/3Lz6RhM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York Officials Failed to Address the Housing Crisis. Now What?</h3>
+<sub>By Luis Ferré-Sadurní and Mihir Zaveri</sub>
+<p>The state seemed poised to take the first meaningful action in decades to address its deep housing shortage. But the plans fell apart, in yet another indictment of dysfunction in Albany.  <a href="https://nyti.ms/3LwUqDc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>On Eve of Trial, Discovery of Carlson Texts Set Off Crisis Atop Fox</h3>
 <sub>By Jim Rutenberg, Jeremy W. Peters and Michael S. Schmidt</sub>
 <p>Private messages sent by Tucker Carlson that had been redacted in legal filings showed him making highly offensive remarks that went beyond the comments of his prime-time show.  <a href="https://nyti.ms/3Nf9pD0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Airman Accused of Leak Has History of Racist and Violent Remarks, Filing Says</h3>
-<sub>By Glenn Thrush</sub>
-<p>Prosecutors accused Jack Teixeira of trying to fecklessly cover up his actions and described a possible propensity toward violence.  <a href="https://nyti.ms/3Nd80wU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>How Can an A.I. Learn to Write? Choose a Famous Author, and We’ll Show You.</h3>
-<sub>By Aatish Bhatia</sub>
-<p>An interactive explanation of how language models learn to mimic language, from Shakespeare to Star Trek.  <a href="https://nyti.ms/3LbnPBx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Elon Musk Ramps Up A.I. Efforts, Even as He Warns of Dangers</h3>
-<sub>By Cade Metz, Ryan Mac and Kate Conger</sub>
-<p>The billionaire plans to compete with OpenAI, the ChatGPT developer he helped found, while calling out the potential harms of artificial intelligence.  <a href="https://nyti.ms/40JthkM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Newsmax Ratings Climb After Tucker Carlson’s Exit at Fox</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>The niche conservative news channel is still small compared to Fox News, but its viewership has doubled and in some time slots even tripled since Tucker Carlson was dismissed.  <a href="https://nyti.ms/40EmjOd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Symbol of Loss in Almost Every Ukrainian Kitchen</h3>
-<sub>By Marc Santora</sub>
-<p>Soledar, crushed in Russia’s long assault on Bakhmut, was only a little town. But its salt is a national staple, and a matter of pride.  <a href="https://nyti.ms/3LdFtVc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Jerry Springer, Host of Unapologetically Brash Talk Show, Dies at 79</h3>
-<sub>By Remy Tumin</sub>
-<p>The raucous and often confrontational “Jerry Springer Show” ran for nearly three decades and became a cultural phenomenon.  <a href="https://nyti.ms/445MGiW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Stolen or Original? Hear Songs From 7 Landmark Copyright Cases.</h3>
-<sub>By Ben Sisario</sub>
-<p>Ed Sheeran is on trial, accused of borrowing from Marvin Gaye. Listen to the tracks at stake in lawsuits involving George Harrison, 2 Live Crew, Led Zeppelin and Katy Perry that may shape his case.  <a href="https://nyti.ms/445PtbS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-fashion-blue" alt="">
-<h3>Karl and Anna, a Love Story in Clothes</h3>
-<sub>By Vanessa Friedman</sub>
-<p>Anna Wintour remembers the designer Karl Lagerfeld, and how she’s worn his clothes to the most important events in her life.  <a href="https://nyti.ms/3n8nzLM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Everything You Need to Know About the 2023 Met Gala</h3>
-<sub>By Vanessa Friedman</sub>
-<p>From the theme to the dress code, from official hosts to likely guests: Here’s what we know so far about the party of the year.  <a href="https://nyti.ms/404cRmW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, April 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>After Focusing on Tragedy, the N.F.L. Draft Looks to Change Its Tone</h3>
-<sub>By Ken Belson</sub>
-<p>Criticism of the fascination with players’ bodies and the focus on tragic family histories has the league and its broadcast partners rethinking the draft.  <a href="https://nyti.ms/3LsTGza"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<h3>Brittney Griner on Gershkovich Arrest: ‘No One Should Be in Those Conditions’</h3>
+<sub>By Kris Rhim and Alan Yuhas</sub>
+<p>Ms. Griner, speaking to reporters as she prepares for her next basketball season in the W.N.B.A., said she would continue to fight for those wrongfully detained by Russia.  <a href="https://nyti.ms/3LB5dfR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Imposes Sanctions on Russia’s Intelligence Agency for Detaining Americans</h3>
+<sub>By Michael D. Shear</sub>
+<p>The United States also announced sanctions on Iran’s intelligence services, seeking to punish foreign governments for detention of Americans by cutting off access to the international financial system.  <a href="https://nyti.ms/3Nf5PJe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
