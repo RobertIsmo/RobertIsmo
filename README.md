@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 28, Central Standard Time</p>
 <p>
-To a close friend, I would say that there is a lot going on in the world right now. The Federal Reserve recently released a report documenting its failure to prevent a Silicon Valley Bank&#39;s painful collapse, as well as a separate report on Signature Bank&#39;s failure. As far as economics go, wages and prices are generally slow, but food prices are high and making it difficult for some consumers. Some investors believe that we may be heading towards another recession, but history shows that patient investors may still do well in this situation. There has also been news that radiation detection sensors are being wired into Ukraine in order to detect nuclear blasts. In the US, North Carolina courts have reversed itself in light of new partisan rulings. Further news includes the former mayor of Bend, Ore being homeless and the Former Vice-President Pence speaking before a grand jury regarding Donald Trump’s efforts to retain power. Without forgetting Montana where a nonbinary son is encouraging his governor to reject transgender bills. Finally, WinRed’s has plan to charge more for online donations has created some stir amongst top republican leaders.</p>
+In business news, the Federal Reserve released hundreds of pages detailing how bank supervision and regulation failed to stop the collapse of Silicon Valley Bank. US wages and prices are slowing unevenly, leaving the current economy in a rocky and bumpy state. First Republic&#39;s shares have slipped as their fate remains uncertain, but overall stock values remain positive. Investors who remain patient during a potential recession can still get handsome returns if they stick it out. 
+
+In world news, the US is evacuating American civilians from Sudan by land, and the EU has extended a tariff waiver for Ukrainian grain, despite some protests. In Ukraine, the US is setting up radiation sensors to detect nuclear blasts, and in North Carolina their Supreme Court has reversed itself on a key voting case due to a new partisan mix.
+
+In US news, an Oregon lawyer who used to be Mayor is now homeless. Meanwhile, top Republicans are balking at WinRed’s plan to charge more for online donations and Florida lawmakers are clearing a possible presidential roadblock for existing Governor Ron DeSantis. 
+
+Finally, in NY region news, Governor Kathy Hochul announced in the state budget deal ban on the use of natural gas in all new buildings.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fed Slams Its Own Oversight of Silicon Valley Bank in Post-Mortem</h3>
 <sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve released hundreds of pages documenting how bank supervision and regulation failed to prevent the lender’s painful collapse. The F.D.I.C. released a separate report on Signature Bank’s failure.  <a href="https://nyti.ms/3AC41mc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Federal Reserve released hundreds of pages documenting how bank supervision and regulation failed to prevent the lender’s collapse. The F.D.I.C. released a separate report on Signature Bank.  <a href="https://nyti.ms/3AC41mc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -75,9 +81,9 @@ To a close friend, I would say that there is a lot going on in the world right n
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Higher Food Prices Bring Bigger Profits, but Consumers Start to Resist</h3>
-<sub>By Lora Kelley</sub>
-<p>Some of the biggest packaged food companies raised their prices last quarter and their profits rose, but some customers were starting to cut back or trade down.  <a href="https://nyti.ms/3neUm1O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>First Republic’s Shares Slide as Its Fate Remains Uncertain</h3>
+<sub>By Joe Rennison</sub>
+<p>Among investors at least, First Republic’s troubles seem contained to the bank itself. The S&amp;P 500 and an index of bank stocks were higher on Friday.  <a href="https://nyti.ms/3NhIyX7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -86,10 +92,22 @@ To a close friend, I would say that there is a lot going on in the world right n
 <p>Economic downturns are rough on stocks, but history shows that handsome returns can pile up anyway if you stick with it, our columnist says.  <a href="https://nyti.ms/3Npf4qe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Begins Overland Evacuation of American Civilians From Sudan</h3>
+<sub>By Declan Walsh, Eric Schmitt, Edward Wong and Abdi Latif Dahir</sub>
+<p>A bus convoy carrying about 300 U.S. citizens followed a long route previously used by other nations and the U.N. It was the first organized American evacuation effort.  <a href="https://nyti.ms/3NhiMSR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>U.S. Wires Ukraine With Radiation Sensors to Detect Nuclear Blasts</h3>
 <sub>By William J. Broad</sub>
 <p>The federal National Nuclear Security Administration is setting up an advanced network that can verify an attacker’s identity.  <a href="https://nyti.ms/40OOBFw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>E.U. Extends Tariff Waiver for Ukrainian Grain, Despite Some Protests</h3>
+<sub>By Matina Stevis-Gridneff</sub>
+<p>The bloc will provide more than $100 million to farmers in eastern countries where tariff-free Ukrainian grain produced a supply glut and plunging prices.  <a href="https://nyti.ms/3n7GHtp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,33 +123,21 @@ To a close friend, I would say that there is a lot going on in the world right n
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Appears Before Grand Jury on Trump’s Efforts to Retain Power</h3>
-<sub>By Maggie Haberman</sub>
-<p>The former vice president is a key witness to former President Donald Trump’s attempts to block congressional certification of Joseph Biden’s victory in the 2020 election.  <a href="https://nyti.ms/3AGGTTf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Transgender Lawmaker Is Exiled as Montana G.O.P. Flexes New Power</h3>
-<sub>By Jim Robbins, Mike Baker and Jacey Fortin</sub>
-<p>Barred by Republican lawmakers from participating in the legislative session on the House floor, Representative Zooey Zephyr reported for work on a hallway bench.  <a href="https://nyti.ms/3LbQ7fq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Montana Governor’s Nonbinary Son Calls on Him to Reject Transgender Bills</h3>
-<sub>By Eduardo Medina and Jacey Fortin</sub>
-<p>The governor’s son, David Gianforte, told The Montana Free Press that he had asked his father to not sign “immoral” bills pertaining to the L.G.B.T.Q. community.  <a href="https://nyti.ms/3ABOnqQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Cease-Fire Is Extended in Sudan, but Bombardments and Gunfire Ensue</h3>
-<sub>By Abdi Latif Dahir and Cora Engelbrecht</sub>
-<p>As the clashes entered the 14th day, foreign powers continued evacuating their nationals as they warned of escalating violence in the coming days.  <a href="https://nyti.ms/3NhiMSR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Top Republicans Balk at WinRed’s Plan to Charge More for Online Donations</h3>
 <sub>By Shane Goldmacher</sub>
 <p>Republican Party leaders are opposed to a proposed price increase by the online donation-processing company, WinRed, stirring debate about the company’s future.  <a href="https://nyti.ms/3LCnVUb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Florida Lawmakers Clear a Potential Presidential Roadblock for DeSantis</h3>
+<sub>By Nicholas Nehamas and Patricia Mazzei</sub>
+<p>The Florida Legislature passed an elections bill on Friday clarifying that Gov. Ron DeSantis would not have to resign early if he ran for president.  <a href="https://nyti.ms/428fq92"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York to Ban Natural Gas, Including Stoves, in New Buildings</h3>
+<sub>By Liam Stack</sub>
+<p>Gov. Kathy Hochul announced a state budget deal on Thursday with the first statewide ban on the use of natural gas in new buildings.  <a href="https://nyti.ms/3LiTeSA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
