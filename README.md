@@ -60,30 +60,48 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 28, Central Standard Time</p>
 <p>
-The world has been busy lately. In the business world, the Federal Reserve released hundreds of pages documenting how they failed to prevent the collapse of a Silicon Valley Bank. Paychecks rose 5.1 percent from a year earlier, which is great news for workers but could complicate the Fed&#39;s efforts to control inflation. Meanwhile, in science news, the US is wiring Ukraine with radiation sensors to detect any nuclear blasts. In US news, former Vice President Pence appeared before a grand jury regarding Donald Trump&#39;s efforts to keep power and there was also some controversy over a transgender lawmaker in Montana being barred from participating in the legislative session. Looking beyond our borders, China&#39;s popular live shopping craze has been seeing some changes due to increased competition and government surveillance. And finally, in sports news, the Carolina Panthers surprised no one by selecting Bryce Young of Alabama as part of round 1 for this year&#39;s NFL draft.</p>
+To a close friend, I would say that there is a lot going on in the world right now. The Federal Reserve recently released a report documenting its failure to prevent a Silicon Valley Bank&#39;s painful collapse, as well as a separate report on Signature Bank&#39;s failure. As far as economics go, wages and prices are generally slow, but food prices are high and making it difficult for some consumers. Some investors believe that we may be heading towards another recession, but history shows that patient investors may still do well in this situation. There has also been news that radiation detection sensors are being wired into Ukraine in order to detect nuclear blasts. In the US, North Carolina courts have reversed itself in light of new partisan rulings. Further news includes the former mayor of Bend, Ore being homeless and the Former Vice-President Pence speaking before a grand jury regarding Donald Trump’s efforts to retain power. Without forgetting Montana where a nonbinary son is encouraging his governor to reject transgender bills. Finally, WinRed’s has plan to charge more for online donations has created some stir amongst top republican leaders.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fed Slams Its Own Oversight of Silicon Valley Bank in Post-Mortem</h3>
 <sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve released hundreds of pages documenting how bank supervision and regulation failed to prevent the lender’s painful collapse.  <a href="https://nyti.ms/3AC41mc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Federal Reserve released hundreds of pages documenting how bank supervision and regulation failed to prevent the lender’s painful collapse. The F.D.I.C. released a separate report on Signature Bank’s failure.  <a href="https://nyti.ms/3AC41mc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wages Continue to Grow, Good for Workers but a Worry for the Fed</h3>
-<sub>By Ben Casselman</sub>
-<p>Wages and salaries for workers rose 5.1 percent from a year earlier, which helps employees keep up with the rising cost of living but complicates the Federal Reserve’s efforts to tamp down inflation.  <a href="https://nyti.ms/3ACUhrI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Wages and Prices Slow Unevenly, Reflecting ‘Rocky and Bumpy’ Economy</h3>
+<sub>By Ben Casselman and Jeanna Smialek</sub>
+<p>Key pay and inflation gauges have stayed stubbornly high as Federal Reserve officials consider when to stop raising interest rates.  <a href="https://nyti.ms/3VgS2nn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Cooled in March, but Stubborn Price Increases Remain</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve’s preferred inflation gauge, the Personal Consumption Expenditures index, slowed in March. But signs point to staying power.  <a href="https://nyti.ms/40KGn1h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Higher Food Prices Bring Bigger Profits, but Consumers Start to Resist</h3>
+<sub>By Lora Kelley</sub>
+<p>Some of the biggest packaged food companies raised their prices last quarter and their profits rose, but some customers were starting to cut back or trade down.  <a href="https://nyti.ms/3neUm1O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Worried About a Recession? Patient Investors Can Ride It Out.</h3>
+<sub>By Jeff Sommer</sub>
+<p>Economic downturns are rough on stocks, but history shows that handsome returns can pile up anyway if you stick with it, our columnist says.  <a href="https://nyti.ms/3Npf4qe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>U.S. Wires Ukraine With Radiation Sensors to Detect Nuclear Blasts</h3>
 <sub>By William J. Broad</sub>
 <p>The federal National Nuclear Security Administration is setting up an advanced network that can verify an attacker’s identity.  <a href="https://nyti.ms/40OOBFw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>North Carolina Court, With New Partisan Mix, Reverses Itself on a Key Voting Case</h3>
+<sub>By Michael Wines</sub>
+<p>When it had a Democratic majority last year, the North Carolina Supreme Court voided the state’s legislative and congressional maps as illegal gerrymanders. Now the court has a Republican majority, and says the opposite.  <a href="https://nyti.ms/44bcCcU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Homeless in the City Where He Was Once Mayor</h3>
+<sub>By Mike Baker</sub>
+<p>Craig Coyner’s descent onto the streets of Bend, Ore., came after decades spent fighting as a lawyer and politician for those on the edge of society.  <a href="https://nyti.ms/41JHAYb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,10 +122,10 @@ The world has been busy lately. In the business world, the Federal Reserve relea
 <p>The governor’s son, David Gianforte, told The Montana Free Press that he had asked his father to not sign “immoral” bills pertaining to the L.G.B.T.Q. community.  <a href="https://nyti.ms/3ABOnqQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Shining Promise and Dashed Dreams of China’s Live Shopping Craze</h3>
-<sub>By Vivian Wang</sub>
-<p>Star sellers can amass huge followings and eye-popping fortunes, through a format that mixes consumerism and entertainment. But competition is fierce, and the government is watching.  <a href="https://nyti.ms/3n6MK1k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Cease-Fire Is Extended in Sudan, but Bombardments and Gunfire Ensue</h3>
+<sub>By Abdi Latif Dahir and Cora Engelbrecht</sub>
+<p>As the clashes entered the 14th day, foreign powers continued evacuating their nationals as they warned of escalating violence in the coming days.  <a href="https://nyti.ms/3NhiMSR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -115,24 +133,6 @@ The world has been busy lately. In the business world, the Federal Reserve relea
 <sub>By Shane Goldmacher</sub>
 <p>Republican Party leaders are opposed to a proposed price increase by the online donation-processing company, WinRed, stirring debate about the company’s future.  <a href="https://nyti.ms/3LCnVUb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Stumbles at Home, DeSantis Heads Abroad to Find His Footing</h3>
-<sub>By Jonathan Weisman, Patrick Kingsley and Nicholas Nehamas</sub>
-<p>The Florida governor is finishing a whirlwind trip from Asia to Israel to London, asserting a muscular foreign policy voice, especially in Jerusalem, as the spotlight on him grows brighter.  <a href="https://nyti.ms/41LprsL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>What We Learned From Round 1 of the N.F.L. Draft</h3>
-<sub>By Mike Tanier</sub>
-<p>The Carolina Panthers surprised no one by selecting Bryce Young of Alabama. The Houston Texans began building their future. And a highly regarded quarterback wasn’t chosen at all.  <a href="https://nyti.ms/3Ntmski"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>N.F.L. Draft Picks 2023: All the Results From the First Round</h3>
-<sub>By The New York Times</sub>
-<p>The Carolina Panthers selected Bryce Young, the Alabama quarterback, at No. 1 overall. Other teams got busy with trades. Here’s a full list of the results from the first round.  <a href="https://nyti.ms/3Nk154U"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
