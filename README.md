@@ -60,20 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, April 27, Central Standard Time</p>
 <p>
-There are many important news stories happening around the world right now. In the US, President Biden is facing a decision on raising the nation&#39;s debt limit, which Republicans have paired with spending cuts and fossil fuel support. There is also a grand jury hearing involving former Vice President Pence and former President Trump&#39;s efforts to remain in power following the 2020 election. Joseph Tacopina, Trump&#39;s lawyer, is also sparring in court with a journalist who accused him of rape. Elsewhere, Carolyn Bryant Donham, a key witness to the Emmett Till case, passed away at age 88, and a transgender lawmaker in Montana is being barred from participating in legislative sessions. 
-
-In New York, there is an agreement on a budget including a change in minimum wage; Ukrainians are fighting off Russian attacks in the hopes for help from Western arms; and an Airman has been ordered to stay in custody pending court motions. Finally, Jerry Springer has been featured in the news for his talk show which threw open studio doors to all sorts of issues.</p>
+There is a lot of news happening around the world right now. In Ukraine, troops are trying to repel Russian attacks and are hoping that Western arms will help turn the tide of the fight with heavy casualties but little movement. In the US, former Vice President Mike Pence is appearing before a grand jury to testify on former President Donald Trump&#39;s efforts to retain power. Trump&#39;s lawyer is currently sparring with E. Jean Carroll over allegations of rape made against him.  Carolyn Bryant Donham, who accused Emmett Till of accosting her leading to his eventual execution has passed away at 88. A transgender lawmaker in Montana is being exiled since Republicans have gained more power and Montana&#39;s governor&#39;s nonbinary son is asking him not to sign any bills that could harm the L.G.B.T.Q. community. Biden is also facing his first big decision surrounding the debt limit where Republicans are trying to find a balance between spending cuts and increasing the nation&#39;s borrowing cap and this decision could change things going forward significantly. Lastly, Judy Blume&#39;s famous coming-of-age story is coming out on the big screen and New York is making changes to their minimum wage and $229 billion budget deal after leaders in Albany went back and forth for weeks on it and Afghan women who were part of a combat unit in Afghanistan are asking Congress for permanent legal status after they were evacuated during the U.S.&#39;s withdrawal from Afghanistan while U.N also unanimously condemned Taliban&#39;s treatment of women in a resolution and called for them to end prohibitions on women attending school past 6th grade and other work related restrictions as well.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Faces His First Big Choice on Debt Limit</h3>
-<sub>By Jim Tankersley</sub>
-<p>After Republicans passed a bill that pairs spending cuts and fossil fuel support with raising the nation’s borrowing cap, the president must decide when and how to negotiate  <a href="https://nyti.ms/3NjmZWf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Real Debt Limit Fight Is Yet to Come</h3>
-<sub>By Carl Hulse</sub>
-<p>Speaker Kevin McCarthy squeezed a debt ceiling increase out of reluctant House Republicans, but he will be hard-pressed to do it again when it counts.  <a href="https://nyti.ms/3AwCm65"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Troops Repel Russian Attacks, and Hope Western Arms Turn the Tide</h3>
+<sub>By Michael Schwirtz and Stanislav Kozliuk</sub>
+<p>Fierce fighting has yielded heavy casualties but little movement. Ukrainian forces need heavy weapons to change that, but they say it is no guarantee.  <a href="https://nyti.ms/3AzoKa1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -100,6 +92,24 @@ In New York, there is an agreement on a budget including a change in minimum wag
 <p>Barred by Republican lawmakers from participating in the legislative session on the House floor, Representative Zooey Zephyr reported for work on a hallway bench.  <a href="https://nyti.ms/3LbQ7fq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Montana Governor’s Nonbinary Son Calls on Him to Reject Transgender Bills</h3>
+<sub>By Eduardo Medina and Jacey Fortin</sub>
+<p>The governor’s son, David Gianforte, told The Montana Free Press that he had asked his father to not sign “immoral” bills pertaining to the L.G.B.T.Q. community.  <a href="https://nyti.ms/3ABOnqQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Faces His First Big Choice on Debt Limit</h3>
+<sub>By Jim Tankersley</sub>
+<p>After Republicans passed a bill that pairs spending cuts and fossil fuel support with raising the nation’s borrowing cap, the president must decide when and how to negotiate  <a href="https://nyti.ms/3NjmZWf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Real Debt Limit Fight Is Yet to Come</h3>
+<sub>By Carl Hulse</sub>
+<p>Speaker Kevin McCarthy squeezed a debt ceiling increase out of reluctant House Republicans, but he will be hard-pressed to do it again when it counts.  <a href="https://nyti.ms/3AwCm65"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>Why ‘Are You There, God? It’s Me, Margaret’ Still Matters</h3>
 <sub>By Elisabeth Egan</sub>
@@ -107,7 +117,7 @@ In New York, there is an agreement on a budget including a change in minimum wag
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York to Change Minimum Wage and Bail in $229 Billion Budget Deal</h3>
+<h3>New York Would Change Minimum Wage and Bail in $229 Billion Budget Deal</h3>
 <sub>By Luis Ferré-Sadurní and Grace Ashford</sub>
 <p>After weeks of dissension, leaders in Albany reached a handshake agreement on a budget that saw Gov. Kathy Hochul fall short on some of her key objectives.  <a href="https://nyti.ms/3NlcIsG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
@@ -119,21 +129,9 @@ In New York, there is an agreement on a budget including a change in minimum wag
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Troops Repel Russian Attacks, and Hope Western Arms Turn the Tide</h3>
-<sub>By Michael Schwirtz and Stanislav Kozliuk</sub>
-<p>Fierce fighting has yielded heavy casualties but little movement. Ukrainian forces need heavy weapons to change that, but they say it is no guarantee.  <a href="https://nyti.ms/3AzoKa1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Airman in Leaks Case to Remain in Custody While Judge Considers Motions</h3>
-<sub>By Jenna Russell, Glenn Thrush and Julian E. Barnes</sub>
-<p>A magistrate judge in Massachusetts did not immediately rule on whether to release Jack Teixeira, the 21-year-old Air National Guardsman, to his parents before his trial.  <a href="https://nyti.ms/424fc2B"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Jerry Springer, American Ringmaster</h3>
-<sub>By James Poniewozik</sub>
-<p>The talk show populist threw the studio doors open, and all hell broke through.  <a href="https://nyti.ms/3LD0KZO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.N. Security Council Unanimously Condemns Taliban’s Treatment of Women</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>The resolution, an uncommon display of consensus on the Council, called for the Taliban to end their prohibitions on women working and attending school after sixth grade.  <a href="https://nyti.ms/3oEoVOz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
