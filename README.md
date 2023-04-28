@@ -60,13 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 28, Central Standard Time</p>
 <p>
-There is a lot going on right now around the world. In Ukraine, Ukrainian troops are fighting off Russian attacks, and they’re hoping that Western arms will help them turn the tide. Meanwhile in the US, former Vice President Mike Pence has been called to testify before a grand jury about former President Trump&#39;s attempts to stay in power after he lost the election. 
+There&#39;s a lot going on in the world right now! In Ukraine, troops are repelling Russian attacks and hoping Western arms will help them turn the tide of battle. In the US, Vice President Mike Pence has appeared before a grand jury to testify about former President Donald Trump&#39;s efforts to retain power. There&#39;s also a legal battle between Trump&#39;s lawyer and E. Jean Carroll, who has accused him of rape. Additionally, the woman who accused 14-year-old Emmett Till of accosting her before his death, Carolyn Bryant Donham, passed away at 88 years old. 
 
-Also in the US, Joseph Tacopina was interrogating E. Jean Carroll on live TV over her accusation of rape against Donald Trump, and Carolyn Bryant Donham died at 88; her words had doomed Emmett Till years before. In Montana, a transgender lawmaker was not allowed to take their position on the House floor due to Republican lawmakers’ protests, and then the governor’s nonbinary son called on him to reject anti-trans bills they wanted to pass in the state legislature. 
+In related news, Jerry Springer was honored as an &quot;American Ringmaster&quot; and in Montana, a transgender lawmaker was barred from participating in the legislative session on the House floor. Montana Governor&#39;s nonbinary son called on him to reject current transgender bills in the state. Pope Francis returned to Hungary much to the delight of Viktor Orban.
 
-At the same time, President Biden has to decide when and how to negotiate increase of the nation’s debt limit regarding a bill with spending cuts and fossil fuel support passed by Republicans, and he faces intense pressure as this is the first big decision he has to make regarding government finance. 
-
-Finally, a UN Security Council resolution was unanimously passed that condemned Taliban&#39;s treatment of women who were prohibited from working or attending school after sixth grade, while abortion bans failed in South Carolina and Nebraska due to lack of votes from conservative state legislatures. Additionally, Afghan women who had previously fought with the US military are asking Congress for permanent legal status so they can stay in the country.</p>
+President Biden is facing his first big choice on debt limit. While House Republicans squeezed through a bill that would raise debt limits and cut spending, there are more negotiations yet to come. A state budget deal was reached in New York that would raise minimum wage and change bail laws after weeks of negotiation between Gov. Kathy Hochul and lawmakers. Lastly, abortion bans failed in South Carolina and Nebraska due to lack of votes from conservative legislatures.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainian Troops Repel Russian Attacks, and Hope Western Arms Turn the Tide</h3>
@@ -92,6 +90,12 @@ Finally, a UN Security Council resolution was unanimously passed that condemned 
 <p>She accused Emmett, 14, of accosting her, and her testimony led to the acquittals of her husband and his half brother in a murder that helped galvanize the civil rights movement.  <a href="https://nyti.ms/41Hb8FR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Jerry Springer, American Ringmaster</h3>
+<sub>By James Poniewozik</sub>
+<p>The talk show populist threw the studio doors open, and all hell broke through.  <a href="https://nyti.ms/3LD0KZO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Transgender Lawmaker Is Exiled as Montana G.O.P. Flexes New Power</h3>
 <sub>By Jim Robbins, Mike Baker and Jacey Fortin</sub>
@@ -103,6 +107,12 @@ Finally, a UN Security Council resolution was unanimously passed that condemned 
 <sub>By Eduardo Medina and Jacey Fortin</sub>
 <p>The governor’s son, David Gianforte, told The Montana Free Press that he had asked his father to not sign “immoral” bills pertaining to the L.G.B.T.Q. community.  <a href="https://nyti.ms/3ABOnqQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pope Returns to Hungary, to Delight of Viktor Orban</h3>
+<sub>By Jason Horowitz and Elisabetta Povoledo</sub>
+<p>Francis wants to “re-embrace” Hungarian Christians, but some worry the visit gives political cover to the country’s leader, who is on the opposite side of nearly every issue important to the pontiff.  <a href="https://nyti.ms/3LDdtvI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Faces His First Big Choice on Debt Limit</h3>
@@ -120,18 +130,6 @@ Finally, a UN Security Council resolution was unanimously passed that condemned 
 <h3>New York State Budget Deal Would Raise Minimum Wage and Change Bail Laws</h3>
 <sub>By Luis Ferré-Sadurní and Grace Ashford</sub>
 <p>Gov. Kathy Hochul announced that she and state lawmakers had reached an agreement on a $229 billion spending plan after weeks of contentious negotiations.  <a href="https://nyti.ms/3NlcIsG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Afghan Women Who Fought With U.S. Military Seek Legal Immigration Status</h3>
-<sub>By Luke Broadwater and Ava Sasani</sub>
-<p>Members of an all-female tactical combat unit in Afghanistan, who were evacuated during the United States withdrawal, are asking Congress to grant them permanent legal status.  <a href="https://nyti.ms/3AAnXpj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.N. Security Council Unanimously Condemns Taliban’s Treatment of Women</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>The resolution, an uncommon display of consensus on the Council, called for the Taliban to end their prohibitions on women working and attending school after sixth grade.  <a href="https://nyti.ms/3oEoVOz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
