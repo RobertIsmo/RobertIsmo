@@ -60,34 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 28, Central Standard Time</p>
 <p>
-There&#39;s been a lot going on in the world lately. In the business world, wages and prices could be showing signs of cooling down ahead of a Federal Reserve meeting, while higher food prices have been bringing in bigger profits for large packaged food companies. The Eurozone economy also recently showed signs of modest growth. 
-
-In U.S. news, former Vice President Mike Pence appeared before a grand jury to give his testimony on Donald Trump&#39;s attempts to retain power in the 2020 election. Meanwhile, a transgender lawmaker has been exiled from Montana as the G.O.P. flexes its new power, and the governor&#39;s nonbinary son is asking him to reject upcoming bills pertaining to the LGBTQ+ community. 
-
-On a lighter note, China&#39;s live shopping craze is shining a light on the dashed dreams and bright promises of stardom while Randi Weingarten is proving her worth at the center of America&#39;s political fights. Lastly, there’s also been some big developments in sports- NFL Draft picks for 2023 came out recently and Round One of this year&#39;s draft just wrapped up with some surprises along the way!</p>
+The world has been busy lately. In the business world, the Federal Reserve released hundreds of pages documenting how they failed to prevent the collapse of a Silicon Valley Bank. Paychecks rose 5.1 percent from a year earlier, which is great news for workers but could complicate the Fed&#39;s efforts to control inflation. Meanwhile, in science news, the US is wiring Ukraine with radiation sensors to detect any nuclear blasts. In US news, former Vice President Pence appeared before a grand jury regarding Donald Trump&#39;s efforts to keep power and there was also some controversy over a transgender lawmaker in Montana being barred from participating in the legislative session. Looking beyond our borders, China&#39;s popular live shopping craze has been seeing some changes due to increased competition and government surveillance. And finally, in sports news, the Carolina Panthers surprised no one by selecting Bryce Young of Alabama as part of round 1 for this year&#39;s NFL draft.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wages and Prices Could Show a Cool-Down Before a Fed Meeting</h3>
-<sub>By Ben Casselman and Jeanna Smialek</sub>
-<p>Key wage and inflation gauges released on Friday are expected to moderate, which may give Federal Reserve officials comfort as they consider when to stop raising rates.  <a href="https://nyti.ms/3neUeiQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Higher Food Prices Bring Bigger Profits, but Consumers Start to Resist</h3>
-<sub>By Lora Kelley</sub>
-<p>Some of the biggest packaged food companies raised their prices last quarter and their profits rose, but some customers were starting to cut back or trade down.  <a href="https://nyti.ms/3neUm1O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to Watch as the Fed Releases Its Look Into Silicon Valley Bank</h3>
+<h3>Fed Slams Its Own Oversight of Silicon Valley Bank in Post-Mortem</h3>
 <sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve is set to release an examination of why its oversight of the bank failed to stem disaster at 11 a.m. on Friday.  <a href="https://nyti.ms/3AC41mc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Federal Reserve released hundreds of pages documenting how bank supervision and regulation failed to prevent the lender’s painful collapse.  <a href="https://nyti.ms/3AC41mc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Eurozone Economy Shows Signs of Modest Growth</h3>
-<sub>By Liz Alderman</sub>
-<p>The countries that use the euro recorded economic expansion of 0.1 percent in the first quarter, a slight improvement over the previous quarter’s flat output.  <a href="https://nyti.ms/442NMfc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Wages Continue to Grow, Good for Workers but a Worry for the Fed</h3>
+<sub>By Ben Casselman</sub>
+<p>Wages and salaries for workers rose 5.1 percent from a year earlier, which helps employees keep up with the rising cost of living but complicates the Federal Reserve’s efforts to tamp down inflation.  <a href="https://nyti.ms/3ACUhrI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inflation Cooled in March, but Stubborn Price Increases Remain</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Federal Reserve’s preferred inflation gauge, the Personal Consumption Expenditures index, slowed in March. But signs point to staying power.  <a href="https://nyti.ms/40KGn1h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>U.S. Wires Ukraine With Radiation Sensors to Detect Nuclear Blasts</h3>
+<sub>By William J. Broad</sub>
+<p>The federal National Nuclear Security Administration is setting up an advanced network that can verify an attacker’s identity.  <a href="https://nyti.ms/40OOBFw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,17 +110,17 @@ On a lighter note, China&#39;s live shopping craze is shining a light on the das
 <p>Star sellers can amass huge followings and eye-popping fortunes, through a format that mixes consumerism and entertainment. But competition is fierce, and the government is watching.  <a href="https://nyti.ms/3n6MK1k"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How Randi Weingarten Landed at the Heart of America’s Political Fights</h3>
-<sub>By Jonathan Mahler</sub>
-<p>School closures and culture wars turned classrooms into battlegrounds — and made the head of one of the country’s largest teachers’ unions a lightning rod for criticism.  <a href="https://nyti.ms/3n6MTBU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Top Republicans Balk at WinRed’s Plan to Charge More for Online Donations</h3>
+<sub>By Shane Goldmacher</sub>
+<p>Republican Party leaders are opposed to a proposed price increase by the online donation-processing company, WinRed, stirring debate about the company’s future.  <a href="https://nyti.ms/3LCnVUb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Learn From Pain’: Why Germany Protects Soviet War Memorials</h3>
-<sub>By Anatoly Kurmanaev, Christopher F. Schuetze and Ekaterina Bodyagina</sub>
-<p>Such monuments have been toppled across Eastern Europe, particularly since Russia invaded Ukraine. But in Germany, they are seen as a way to honor Nazi victims and grapple with history.  <a href="https://nyti.ms/3oRXMIl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Stumbles at Home, DeSantis Heads Abroad to Find His Footing</h3>
+<sub>By Jonathan Weisman, Patrick Kingsley and Nicholas Nehamas</sub>
+<p>The Florida governor is finishing a whirlwind trip from Asia to Israel to London, asserting a muscular foreign policy voice, especially in Jerusalem, as the spotlight on him grows brighter.  <a href="https://nyti.ms/41LprsL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>What We Learned From Round 1 of the N.F.L. Draft</h3>
