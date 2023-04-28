@@ -58,9 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, April 27, Central Standard Time</p>
+<p>It is Friday, April 28, Central Standard Time</p>
 <p>
-There is a lot of news happening around the world right now. In Ukraine, troops are trying to repel Russian attacks and are hoping that Western arms will help turn the tide of the fight with heavy casualties but little movement. In the US, former Vice President Mike Pence is appearing before a grand jury to testify on former President Donald Trump&#39;s efforts to retain power. Trump&#39;s lawyer is currently sparring with E. Jean Carroll over allegations of rape made against him.  Carolyn Bryant Donham, who accused Emmett Till of accosting her leading to his eventual execution has passed away at 88. A transgender lawmaker in Montana is being exiled since Republicans have gained more power and Montana&#39;s governor&#39;s nonbinary son is asking him not to sign any bills that could harm the L.G.B.T.Q. community. Biden is also facing his first big decision surrounding the debt limit where Republicans are trying to find a balance between spending cuts and increasing the nation&#39;s borrowing cap and this decision could change things going forward significantly. Lastly, Judy Blume&#39;s famous coming-of-age story is coming out on the big screen and New York is making changes to their minimum wage and $229 billion budget deal after leaders in Albany went back and forth for weeks on it and Afghan women who were part of a combat unit in Afghanistan are asking Congress for permanent legal status after they were evacuated during the U.S.&#39;s withdrawal from Afghanistan while U.N also unanimously condemned Taliban&#39;s treatment of women in a resolution and called for them to end prohibitions on women attending school past 6th grade and other work related restrictions as well.</p>
+There is a lot going on right now around the world. In Ukraine, Ukrainian troops are fighting off Russian attacks, and they’re hoping that Western arms will help them turn the tide. Meanwhile in the US, former Vice President Mike Pence has been called to testify before a grand jury about former President Trump&#39;s attempts to stay in power after he lost the election. 
+
+Also in the US, Joseph Tacopina was interrogating E. Jean Carroll on live TV over her accusation of rape against Donald Trump, and Carolyn Bryant Donham died at 88; her words had doomed Emmett Till years before. In Montana, a transgender lawmaker was not allowed to take their position on the House floor due to Republican lawmakers’ protests, and then the governor’s nonbinary son called on him to reject anti-trans bills they wanted to pass in the state legislature. 
+
+At the same time, President Biden has to decide when and how to negotiate increase of the nation’s debt limit regarding a bill with spending cuts and fossil fuel support passed by Republicans, and he faces intense pressure as this is the first big decision he has to make regarding government finance. 
+
+Finally, a UN Security Council resolution was unanimously passed that condemned Taliban&#39;s treatment of women who were prohibited from working or attending school after sixth grade, while abortion bans failed in South Carolina and Nebraska due to lack of votes from conservative state legislatures. Additionally, Afghan women who had previously fought with the US military are asking Congress for permanent legal status so they can stay in the country.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainian Troops Repel Russian Attacks, and Hope Western Arms Turn the Tide</h3>
@@ -110,16 +116,10 @@ There is a lot of news happening around the world right now. In Ukraine, troops 
 <p>Speaker Kevin McCarthy squeezed a debt ceiling increase out of reluctant House Republicans, but he will be hard-pressed to do it again when it counts.  <a href="https://nyti.ms/3AwCm65"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Why ‘Are You There, God? It’s Me, Margaret’ Still Matters</h3>
-<sub>By Elisabeth Egan</sub>
-<p>Judy Blume’s coming-of-age story finally hits the big screen this month. The book will always have a spotlight of its own.  <a href="https://nyti.ms/3HigajG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York Would Change Minimum Wage and Bail in $229 Billion Budget Deal</h3>
+<h3>New York State Budget Deal Would Raise Minimum Wage and Change Bail Laws</h3>
 <sub>By Luis Ferré-Sadurní and Grace Ashford</sub>
-<p>After weeks of dissension, leaders in Albany reached a handshake agreement on a budget that saw Gov. Kathy Hochul fall short on some of her key objectives.  <a href="https://nyti.ms/3NlcIsG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Gov. Kathy Hochul announced that she and state lawmakers had reached an agreement on a $229 billion spending plan after weeks of contentious negotiations.  <a href="https://nyti.ms/3NlcIsG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +132,12 @@ There is a lot of news happening around the world right now. In Ukraine, troops 
 <h3>U.N. Security Council Unanimously Condemns Taliban’s Treatment of Women</h3>
 <sub>By Farnaz Fassihi</sub>
 <p>The resolution, an uncommon display of consensus on the Council, called for the Taliban to end their prohibitions on women working and attending school after sixth grade.  <a href="https://nyti.ms/3oEoVOz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Abortion Bans Fail in South Carolina and Nebraska</h3>
+<sub>By Adeel Hassan and Eliza Fawcett</sub>
+<p>The conservative state legislatures couldn’t muster enough votes to pass bills that would have severely restricted the procedure.  <a href="https://nyti.ms/40KwMYm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
