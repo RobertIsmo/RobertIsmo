@@ -60,11 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 29, Central Standard Time</p>
 <p>
-There is a potential spring offensive in Ukraine, while contract negotiations are heating up in Hollywood between unions and artificial intelligence technology. In Montana, the governor has signed into law a ban on transgender care for minors. Donald Trump is facing legal jeopardy over a rape case in which he was accused of. Meanwhile, the Justice Department is stepping up an inquiry into Trump fund-raising to see if he and his allies were soliciting donations with claims of election fraud that turned out to be false. 
+Right now, there is a stalemate in the fight in Ukraine&#39;s Donbas region, and it looks like a patch of the Zaporizhzhia region in southeastern Ukraine could be the next big battlefield. In Hollywood, conversations between unions representing writers and actors and Hollywood companies about labor contract negotiations have sparked talk of a writers&#39; strike going into effect soon. On the other side of the United States, the governor of Montana has signed a law banning transgender care for minors, despite urgings from his nonbinary son and protests from a transgender state lawmaker. 
 
-In the US housing market, there is a shortage of sellers driving &#39;real gridlock&#39; for eager buyers. Manhattan&#39;s diamond district has changed significantly and Dr. Anthony Fauci is looking back at his time counselintg Presidents on the pandemic. Philadelphia is also worth visiting for 36 hours considering all its attractions. 
-
-In South Korea, President Yoon Suk Yeol&#39;s efforts to align his country more closely with Washington and Tokyo has satrted to receive criticism as they have won little to show for it despite receiving warmth from Biden&#39;s administration.</p>
+Also, former President Trump is facing legal jeopardy as prosecutors investigate his campaign fundraising mishaps involving possible false claims of election fraud. Meanwhile in New York, they are looking to toughen their bail law to give judges more discretion on when bail is unnecessary. Lastly, South Korea&#39;s president Yoon Suk Yeol has been seen as having polarized his country due to his foreign policy choices aligning his country with Washington and Tokyo, with some saying he gained little from those choices.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Life in Ukraine’s Trenches: Gearing Up for a Spring Offensive</h3>
@@ -129,7 +127,7 @@ In South Korea, President Yoon Suk Yeol&#39;s efforts to align his country more 
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Warmth From Biden, South Korea’s Leader Faces a Different Tune at Home</h3>
 <sub>By Choe Sang-Hun</sub>
-<p>President Yoon Suk Yeol’s foreign policy, aligning his country more closely with Washington and Tokyo, has polarized his country. And critics say he has won little to show for it.  <a href="https://nyti.ms/3ABMeLK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Yoon Suk Yeol’s foreign policy, aligning his country more closely with Washington and Tokyo, has polarized his country. And critics say he has won little to show for it.  <a href="https://nyti.ms/42aNzom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
