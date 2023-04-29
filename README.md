@@ -60,23 +60,29 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 29, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now! In the US, North Carolina just had its Supreme Court reverse a decision on Gerrymandering that reflects the politicization of courts nationally. Montana has also signed a bill banning transgender care for minors, and New York just toughened up its bail law for more judicial discretion. On the business side, there&#39;s been some regulatory reviews on failed banks from the Federal Reserve and Federal Deposit Insurance Corporation. 
+There is a potential spring offensive in Ukraine, while contract negotiations are heating up in Hollywood between unions and artificial intelligence technology. In Montana, the governor has signed into law a ban on transgender care for minors. Donald Trump is facing legal jeopardy over a rape case in which he was accused of. Meanwhile, the Justice Department is stepping up an inquiry into Trump fund-raising to see if he and his allies were soliciting donations with claims of election fraud that turned out to be false. 
 
-Internationally, the US is evacuating American civilians from Sudan, and there was a large fuel tank fire burning in Crimea with speculation of a drone attack. The EU has extended a tariff waiver for Ukrainian grain, despite some protests, and Spain is baking in summer-like heat, worrying about what comes next. 
+In the US housing market, there is a shortage of sellers driving &#39;real gridlock&#39; for eager buyers. Manhattan&#39;s diamond district has changed significantly and Dr. Anthony Fauci is looking back at his time counselintg Presidents on the pandemic. Philadelphia is also worth visiting for 36 hours considering all its attractions. 
 
-All in all, not an easy time right now!</p>
+In South Korea, President Yoon Suk Yeol&#39;s efforts to align his country more closely with Washington and Tokyo has satrted to receive criticism as they have won little to show for it despite receiving warmth from Biden&#39;s administration.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>North Carolina Gerrymander Ruling Reflects Politicization of Judiciary Nationally</h3>
-<sub>By Michael Wines</sub>
-<p>When it had a Democratic majority last year, the North Carolina Supreme Court voided the state’s legislative and congressional maps as illegal gerrymanders. Now the court has a Republican majority, and says the opposite.  <a href="https://nyti.ms/44bcCcU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Begins Overland Evacuation of American Civilians From Sudan</h3>
-<sub>By Declan Walsh, Eric Schmitt, Edward Wong and Abdi Latif Dahir</sub>
-<p>A bus convoy carrying about 300 people was the first U.S.-organized evacuation effort of Americans other than diplomats since fighting broke out nearly two weeks ago in the northeast African nation.  <a href="https://nyti.ms/3NhiMSR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<h3>Life in Ukraine’s Trenches: Gearing Up for a Spring Offensive</h3>
+<sub>By Michael Schwirtz and David Guttenfelder</sub>
+<p>With fighting in the eastern Donbas region settling into a bloody stalemate, a patch of the Zaporizhzhia region of southeastern Ukraine could prove to be the war’s next big theater.  <a href="https://nyti.ms/4277DYT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Will a Chatbot Write the Next ‘Succession’?</h3>
+<sub>By Noam Scheiber and John Koblin</sub>
+<p>As labor contract negotiations heat up in Hollywood, unions representing writers and actors seek limits on artificial intelligence.  <a href="https://nyti.ms/3NvEceS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why There Is Talk of a Writers’ Strike in Hollywood</h3>
+<sub>By John Koblin and Brooks Barnes</sub>
+<p>TV and movie writers want more money, but Hollywood companies say the demands ignore economic realities. The deadline to sort out those differences is approaching.  <a href="https://nyti.ms/42swzuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Montana Governor Signs Law Banning Transgender Care for Minors</h3>
@@ -85,57 +91,51 @@ All in all, not an easy time right now!</p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Rape Case Places Trump in Legal Jeopardy. Politically, He’s Thriving.</h3>
+<sub>By Jonah E. Bromwich, Benjamin Weiser and Lola Fadulu</sub>
+<p>The former president’s new campaign is rolling unimpeded under the spotlights. In quiet courtrooms, he faces more serious threats.  <a href="https://nyti.ms/3ADlvyl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors in Jan. 6 Case Step up Inquiry Into Trump Fund-Raising</h3>
+<sub>By Maggie Haberman, Alan Feuer and Jonathan Swan</sub>
+<p>The Justice Department has been gathering evidence about whether the former president and his allies solicited donations with claims of election fraud they knew to be false.  <a href="https://nyti.ms/3LkLuiS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Home Buyers Are Eager but Sellers Are Scarce, Creating ‘Real Gridlock’</h3>
+<sub>By Gregory Schmidt</sub>
+<p>Homeowners with low-rate mortgages are delaying the decision to sell until market conditions change.  <a href="https://nyti.ms/3ABy4do"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos, Instead of Shrinking From the Spotlight, Steps Into It</h3>
+<sub>By Nicholas Fandos</sub>
+<p>Mr. Santos seems to be testing whether his notoriety will translate into a form of celebrity, if not eventual acceptance.  <a href="https://nyti.ms/42569hR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Towering, Terrifying Demon Horse Isn’t Even the Weirdest Part</h3>
+<sub>By Tiffany Hsu</sub>
+<p>The Denver airport is a magnet for conspiracy theories — and a case study in the line between mass delusion and fun.  <a href="https://nyti.ms/42al7Da"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>New York Will Toughen Contentious Bail Law to Give Judges More Discretion</h3>
 <sub>By Jesse McKinley, Grace Ashford and Hurubie Meko</sub>
 <p>State leaders agree to eliminate a provision that requires judges to prescribe the “least restrictive” means to ensure defendants return to court.  <a href="https://nyti.ms/3HnmVAJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Gov. Hochul Gets a Budget Deal, but No Signature Win</h3>
-<sub>By Grace Ashford</sub>
-<p>The budget deal contained a series of hard-fought wins for the governor, but left her without a grand policy achievement to trumpet.  <a href="https://nyti.ms/3Lk7evD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Slams Its Own Oversight of Silicon Valley Bank in Post-Mortem</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve released hundreds of pages documenting how bank supervision and regulation failed to prevent the lender’s collapse. The F.D.I.C. released a separate report on Signature Bank.  <a href="https://nyti.ms/3AC41mc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Key Takeaways From Regulatory Review of Bank Failures</h3>
-<sub>By Emily Flitter, Jeanna Smialek and Alan Rappeport</sub>
-<p>The Federal Reserve and the Federal Deposit Insurance Corp. reviewed what went wrong with oversight of two regional banks. A watchdog agency released its own take.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Large Fuel Tank Fire Burns in Crimea After Suspected Drone Attack</h3>
-<sub>By Victoria Kim</sub>
-<p>A Russian-installed local official did not specify who might be behind such an attack. Ukraine typically maintains a policy of strategic ambiguity about strikes in Crimea.  <a href="https://nyti.ms/3AINrAM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After Warmth From Biden, South Korea’s Leader Faces a Different Tune at Home</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>President Yoon Suk Yeol’s foreign policy, aligning his country more closely with Washington and Tokyo, has polarized his country. And critics say he has won little to show for it.  <a href="https://nyti.ms/3ABMeLK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>E.U. Extends Tariff Waiver for Ukrainian Grain, Despite Some Protests</h3>
-<sub>By Matina Stevis-Gridneff</sub>
-<p>The bloc will provide more than $100 million to farmers in eastern countries where tariff-free Ukrainian grain produced a supply glut and plunging prices.  <a href="https://nyti.ms/3n7GHtp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Spain Bakes in Summer-Like Heat, and Worries About What Comes Next</h3>
-<sub>By Constant Méheut</sub>
-<p>The April temperatures, over 100 degrees Fahrenheit in some places, come on top of a long-running drought that has depleted reservoirs and dried up fields.  <a href="https://nyti.ms/3VjMA35"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Brought His Detractors in From the Cold. Will They Stay?</h3>
-<sub>By Catie Edmondson</sub>
-<p>The speaker’s all-carrots, no-sticks approach of empowering hard-right Republicans carries risks, and any negotiation with President Biden on the debt ceiling is likely to test them.  <a href="https://nyti.ms/3oQb5J6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Campaign, Interrupted: Pence May Run, but He Can’t Hide From Trump’s Legal Woes</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The former vice president faces many challenges in his potential presidential run, perhaps none bigger than his complicated relationship with his old boss.  <a href="https://nyti.ms/3NqGa0a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By Jaclyn Reiss</sub>
+<p>A look at how Manhattan&#39;s diamond district has changed. Also: Dr. Anthony Fauci looks back, and how to spend 36 hours in Philadelphia.  <a href="https://nyti.ms/3oPWqh1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
