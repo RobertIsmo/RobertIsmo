@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 28, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In North Carolina, the Supreme Court has reversed its ruling on the legality of gerrymandering of legislative and congressional maps, now that it has a Republican majority. Meanwhile in Sudan, the US has organized an overland evacuation of American civilians to get them out of harm&#39;s way since fighting broke out there two weeks ago. 
-
-In Montana, the governor just signed a law banning transgender care for minors despite being urged by his own son, who is nonbinary, to reject it. Gov. Hochul in New York also got a budget deal done but no signature win this time. 
-
-On the business front, the Federal Reserve came out with a post-mortem on its oversight failings after Silicon Valley Bank collapsed and also released their key takeaways from regulatory reviews of other failed banks. People are also seeing persistently high pay and inflation gauges while Federal Reserve officials consider when to stop raising interest rates. 
-
-Overseas in Ukraine, people have witnessed the deadliest Russian attack in months as it kills at least 25 in cities and in response, the US is wiring such areas with radiation sensors in order to detect nuclear blasts. The EU is extending tariff waivers on grain to Ukraine but some are protesting this decision due to concerns over supply glutting and plummeting prices. Here at home, McCarthy is working with hard-right Republicans which carries risks and may be tested when he negotiates with President Biden on the debt ceiling. Finally, one small town is dealing with its mayor descending into homelessness after having spent decades fighting for those on society&#39;s edge. </p>
+There&#39;s a lot going on in the world right now! In North Carolina, there&#39;s been a major change in the way legislative and congressional maps are seen due to the shift in party control of their Supreme Court. Meanwhile here in the US, Montana just passed a law preventing transgender minors from receiving certain medical care while New York State is making changes to their bail laws to give judges more discretion. Internationally, we&#39;ve started evacuating civilians from Sudan following an outbreak of fighting and there&#39;s been a deadly Russian attack on Ukrainian cities resulting in at least 25 deaths. To top it all off, E.U. countries have extended tariff waivers for Ukrainian grain, despite some protests. In our own country, we&#39;ve got Speaker of the House Kevin McCarthy trying to bridge divisions among Republican factions, along with disturbing cases of homelessness such as that of former Bend Mayor Craig Coyner. And finally, Biden will be doing something rare for a president by attending this weekend&#39;s White House Correspondents&#39; Association dinner.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>North Carolina Gerrymander Ruling Reflects Politicization of Judiciary Nationally</h3>
@@ -87,6 +81,12 @@ Overseas in Ukraine, people have witnessed the deadliest Russian attack in month
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York Will Toughen Contentious Bail Law to Give Judges More Discretion</h3>
+<sub>By Jesse McKinley, Grace Ashford and Hurubie Meko</sub>
+<p>State leaders agree to eliminate a provision that requires judges to prescribe the “least restrictive” means to ensure defendants return to court.  <a href="https://nyti.ms/3HnmVAJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Gov. Hochul Gets a Budget Deal, but No Signature Win</h3>
 <sub>By Grace Ashford</sub>
 <p>The budget deal contained a series of hard-fought wins for the governor, but left her without a grand policy achievement to trumpet.  <a href="https://nyti.ms/3Lk7evD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -99,12 +99,6 @@ Overseas in Ukraine, people have witnessed the deadliest Russian attack in month
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A ‘Rocky and Bumpy’ Economy Where Wages Are Up and Inflation Persists</h3>
-<sub>By Ben Casselman and Jeanna Smialek</sub>
-<p>Key pay and inflation gauges have stayed stubbornly high as Federal Reserve officials consider when to stop raising interest rates.  <a href="https://nyti.ms/3VgS2nn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Key Takeaways From Regulatory Review of Bank Failures</h3>
 <sub>By Emily Flitter, Jeanna Smialek and Alan Rappeport</sub>
 <p>The Federal Reserve and the Federal Deposit Insurance Corp. reviewed what went wrong with oversight of two regional banks. A watchdog agency released its own take.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -114,12 +108,6 @@ Overseas in Ukraine, people have witnessed the deadliest Russian attack in month
 <h3>Deadliest Russian Attack in Months on Ukraine’s Cities Kills at Least 25</h3>
 <sub>By Marc Santora</sub>
 <p>The first widespread barrage on civilian targets in more than a month underscored the vital role of Ukrainian air defenses.  <a href="https://nyti.ms/40RX5Ma"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>U.S. Wires Ukraine With Radiation Sensors to Detect Nuclear Blasts</h3>
-<sub>By William J. Broad</sub>
-<p>The federal National Nuclear Security Administration is setting up an advanced network that can verify an attacker’s identity.  <a href="https://nyti.ms/40OOBFw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -138,6 +126,12 @@ Overseas in Ukraine, people have witnessed the deadliest Russian attack in month
 <h3>Homeless in the City Where He Was Once Mayor</h3>
 <sub>By Mike Baker</sub>
 <p>Craig Coyner’s descent onto the streets of Bend, Ore., came after decades spent fighting as a lawyer and politician for those on the edge of society.  <a href="https://nyti.ms/41JHAYb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Press Freedom! Celebrities! (Also, the President.)</h3>
+<sub>By Katie Rogers</sub>
+<p>President Biden, who gets out of town most weekends, will attend the White House Correspondents’ Association dinner on Saturday evening.  <a href="https://nyti.ms/3nbZL9E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
