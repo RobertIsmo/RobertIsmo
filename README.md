@@ -60,31 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 29, Central Standard Time</p>
 <p>
-There is currently a bloody stalemate in the eastern Donbas region of Ukraine. Regulators are preparing to seize and sell First Republic, a troubled lender. In Hollywood, labor contract negotiations are heating up as unions representing writers and actors are pushing for limits on artificial intelligence. Also in the US, Donald Trump&#39;s legal jeopardy has grown with a rape case against him in New York and prosecution inquiry into illegal fundraising centered around claims of election fraud. Housebuyers around the US have been eager but sellers are scarce, creating &quot;real gridlock&quot;. Meanwhile, in Texas, a gunman killed 5 people and wounded 3 before fleeing. Finally, South Korea&#39;s leader is facing criticism for his foreign policy aligning more closely with Washington and Tokyo after receiving warmth from President Biden.</p>
+There are a lot of events happening around the world right now. In the US, Joe Biden is running for president again and people are frustrated because they feel like their promises have not been kept. South Carolina Democrats just elected their first Black woman to run their state party. In Ukraine, there is a potential for a spring offensive and someone who lost his legs in the war is trying to run a marathon. Crimea had a large fire in an fuel depot after apparently being attacked by a drone but Ukraine did not claim responsibility. First Republic is going bankrupt and will soon be seized by the FDIC. Donald Trump is also facing further legal jeopardy while still managing to continue his campaign against it. And finally, there is a huge jewelry sale involving Nazi-looted gems, and Denver airport has become the center of many weird conspiracy theories.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Biden Runs Again, Black Voters’ Frustration Bubbles</h3>
+<sub>By Maya King and Reid J. Epstein</sub>
+<p>In interviews, Black voters, organizers and elected officials pointed to what some saw as unkept promises — raising questions about the enthusiasm of Democrats’ most loyal voters.  <a href="https://nyti.ms/3AFB2xA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>South Carolina Democrats Elect First Black Woman to Run State Party</h3>
+<sub>By Maya King</sub>
+<p>Christale Spain won with the support of the party establishment, including Representative James E. Clyburn.  <a href="https://nyti.ms/3LHs3m6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Life in Ukraine’s Trenches: Gearing Up for a Spring Offensive</h3>
 <sub>By Michael Schwirtz and David Guttenfelder</sub>
 <p>With fighting in the eastern Donbas region settling into a bloody stalemate, a patch of the Zaporizhzhia region of southeastern Ukraine could prove to be the war’s next big theater.  <a href="https://nyti.ms/4277DYT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>He Lost His Legs in the War in Ukraine, but Not His Will to Run</h3>
+<sub>By Jennie Coughlin</sub>
+<p>Artem Moroz survived an attack on his unit, but he was not sure he would stand again. Then a movie about the 2013 Boston Marathon bombing inspired a new goal.  <a href="https://nyti.ms/3NiEfe9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Large Fire Burns at Crimea Fuel Depot After Suspected Drone Attack</h3>
+<sub>By Marc Santora and Victoria Kim</sub>
+<p>A Russian-installed local official blamed the blaze on “enemy drones.” Ukraine, which typically maintains a policy of strategic ambiguity about strikes in Crimea, did not claim responsibility.  <a href="https://nyti.ms/3AINrAM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Regulators Prepare to Seize and Sell First Republic</h3>
 <sub>By Lauren Hirsch and Maureen Farrell</sub>
-<p>JPMorgan and PNC, two of the country’s largest banks are said to be interested in acquiring the troubled lender after it is seized by the Federal Deposit Insurance Corporation.  <a href="https://nyti.ms/40OVYwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>JPMorgan, PNC and Bank of America are said to be interested in acquiring the troubled lender after it is seized by the Federal Deposit Insurance Corporation.  <a href="https://nyti.ms/40OVYwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Will a Chatbot Write the Next ‘Succession’?</h3>
-<sub>By Noam Scheiber and John Koblin</sub>
-<p>As labor contract negotiations heat up in Hollywood, unions representing writers and actors seek limits on artificial intelligence.  <a href="https://nyti.ms/3NvEceS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why There Is Talk of a Writers’ Strike in Hollywood</h3>
-<sub>By John Koblin and Brooks Barnes</sub>
-<p>TV and movie writers want more money, but Hollywood companies say the demands ignore economic realities. The deadline to sort out those differences is approaching.  <a href="https://nyti.ms/42swzuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Rape Case Places Trump in Legal Jeopardy. Politically, He’s Thriving.</h3>
@@ -98,11 +110,11 @@ There is currently a bloody stalemate in the eastern Donbas region of Ukraine. R
 <p>The Justice Department has been gathering evidence about whether the former president and his allies solicited donations with claims of election fraud they knew to be false.  <a href="https://nyti.ms/3LkLuiS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Home Buyers Are Eager but Sellers Are Scarce, Creating ‘Real Gridlock’</h3>
-<sub>By Gregory Schmidt</sub>
-<p>Homeowners with low-rate mortgages are delaying the decision to sell until market conditions change.  <a href="https://nyti.ms/3ABy4do"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Nazi Cloud Hangs Over One of the Largest Jewelry Sales in History</h3>
+<sub>By Zachary Small</sub>
+<p>The gems in Christie’s huge sale next week come from the estate of a woman whose husband bought businesses from Jews pressured to sell because of Nazi persecution.  <a href="https://nyti.ms/3HgjImA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Press Freedom! Celebrities! (Also, the President.)</h3>
@@ -112,7 +124,7 @@ There is currently a bloody stalemate in the eastern Donbas region of Ukraine. R
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Gunman Kills Five People in Texas Home, Authorities Say</h3>
-<sub>By Euan Ward and Jesus Jiménez</sub>
+<sub>By Maria Jimenez Moya, Jesus Jiménez and Euan Ward</sub>
 <p>Three others were wounded and the gunman remained at large, officials said. The attack on Friday night started after the man was asked to stop shooting in his yard, the authorities said.  <a href="https://nyti.ms/3oR0ptK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
@@ -121,18 +133,6 @@ There is currently a bloody stalemate in the eastern Donbas region of Ukraine. R
 <sub>By Tiffany Hsu</sub>
 <p>The Denver airport is a magnet for conspiracy theories — and a case study in the line between mass delusion and fun.  <a href="https://nyti.ms/42al7Da"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Warmth From Biden, South Korea’s Leader Faces a Different Tune at Home</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>President Yoon Suk Yeol’s foreign policy, aligning his country more closely with Washington and Tokyo, has polarized his country. And critics say he has won little to show for it.  <a href="https://nyti.ms/42aNzom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Lord Commander’ of the DMZ Has Seen It All on the Korean Frontier</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>He faced off with North Korean troops, helped prepare for the Trump-Kim summit and witnessed some of the most ​hair-raising — and ​bizarre — moments ​on the world’s most heavily armed border.  <a href="https://nyti.ms/3LEVO76"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
