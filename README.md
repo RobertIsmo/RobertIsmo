@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, April 28, Central Standard Time</p>
+<p>It is Saturday, April 29, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! In North Carolina, there&#39;s been a major change in the way legislative and congressional maps are seen due to the shift in party control of their Supreme Court. Meanwhile here in the US, Montana just passed a law preventing transgender minors from receiving certain medical care while New York State is making changes to their bail laws to give judges more discretion. Internationally, we&#39;ve started evacuating civilians from Sudan following an outbreak of fighting and there&#39;s been a deadly Russian attack on Ukrainian cities resulting in at least 25 deaths. To top it all off, E.U. countries have extended tariff waivers for Ukrainian grain, despite some protests. In our own country, we&#39;ve got Speaker of the House Kevin McCarthy trying to bridge divisions among Republican factions, along with disturbing cases of homelessness such as that of former Bend Mayor Craig Coyner. And finally, Biden will be doing something rare for a president by attending this weekend&#39;s White House Correspondents&#39; Association dinner.</p>
+It looks like things are getting interesting in the world! There was recently a Supreme Court ruling in North Carolina that demonstrates the politicization of the judiciary, and the US just started an overland evacuation of American civilians from Sudan. In Montana, a law was signed banning transgender care for minors, and New York is toughening its contentious bail law to give judges more discretion. We also have updates on banking issues, with the Federal Reserve slamming its own oversight of Silicon Valley Bank and taking a look at what went wrong with two other banks. In Ukraine, there was one of the deadliest Russian attacks in months on cities there which killed at least 25 people, and the European Union is extending tariff waivers for Ukrainian grain. On the domestic side here, politicians like former Vice President Mike Pence are having to navigate legal issues with Donald Trump still looming large. Lastly, President Joe Biden will be attending the White House Correspondents’ Association dinner on Saturday.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>North Carolina Gerrymander Ruling Reflects Politicization of Judiciary Nationally</h3>
@@ -123,15 +123,15 @@ There&#39;s a lot going on in the world right now! In North Carolina, there&#39;
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Homeless in the City Where He Was Once Mayor</h3>
-<sub>By Mike Baker</sub>
-<p>Craig Coyner’s descent onto the streets of Bend, Ore., came after decades spent fighting as a lawyer and politician for those on the edge of society.  <a href="https://nyti.ms/41JHAYb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Press Freedom! Celebrities! (Also, the President.)</h3>
 <sub>By Katie Rogers</sub>
 <p>President Biden, who gets out of town most weekends, will attend the White House Correspondents’ Association dinner on Saturday evening.  <a href="https://nyti.ms/3nbZL9E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Campaign, Interrupted: Pence May Run, but He Can’t Hide From Trump’s Legal Woes</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The former vice president faces many challenges in his potential presidential run, perhaps none bigger than his complicated relationship with his old boss.  <a href="https://nyti.ms/3NqGa0a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
