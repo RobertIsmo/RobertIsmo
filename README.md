@@ -60,14 +60,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, April 28, Central Standard Time</p>
 <p>
-In business news, the Federal Reserve released hundreds of pages detailing how bank supervision and regulation failed to stop the collapse of Silicon Valley Bank. US wages and prices are slowing unevenly, leaving the current economy in a rocky and bumpy state. First Republic&#39;s shares have slipped as their fate remains uncertain, but overall stock values remain positive. Investors who remain patient during a potential recession can still get handsome returns if they stick it out. 
+There is a lot happening in the world right now. In North Carolina, the Supreme Court has reversed its ruling on the legality of gerrymandering of legislative and congressional maps, now that it has a Republican majority. Meanwhile in Sudan, the US has organized an overland evacuation of American civilians to get them out of harm&#39;s way since fighting broke out there two weeks ago. 
 
-In world news, the US is evacuating American civilians from Sudan by land, and the EU has extended a tariff waiver for Ukrainian grain, despite some protests. In Ukraine, the US is setting up radiation sensors to detect nuclear blasts, and in North Carolina their Supreme Court has reversed itself on a key voting case due to a new partisan mix.
+In Montana, the governor just signed a law banning transgender care for minors despite being urged by his own son, who is nonbinary, to reject it. Gov. Hochul in New York also got a budget deal done but no signature win this time. 
 
-In US news, an Oregon lawyer who used to be Mayor is now homeless. Meanwhile, top Republicans are balking at WinRed’s plan to charge more for online donations and Florida lawmakers are clearing a possible presidential roadblock for existing Governor Ron DeSantis. 
+On the business front, the Federal Reserve came out with a post-mortem on its oversight failings after Silicon Valley Bank collapsed and also released their key takeaways from regulatory reviews of other failed banks. People are also seeing persistently high pay and inflation gauges while Federal Reserve officials consider when to stop raising interest rates. 
 
-Finally, in NY region news, Governor Kathy Hochul announced in the state budget deal ban on the use of natural gas in all new buildings.</p>
+Overseas in Ukraine, people have witnessed the deadliest Russian attack in months as it kills at least 25 in cities and in response, the US is wiring such areas with radiation sensors in order to detect nuclear blasts. The EU is extending tariff waivers on grain to Ukraine but some are protesting this decision due to concerns over supply glutting and plummeting prices. Here at home, McCarthy is working with hard-right Republicans which carries risks and may be tested when he negotiates with President Biden on the debt ceiling. Finally, one small town is dealing with its mayor descending into homelessness after having spent decades fighting for those on society&#39;s edge. </p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>North Carolina Gerrymander Ruling Reflects Politicization of Judiciary Nationally</h3>
+<sub>By Michael Wines</sub>
+<p>When it had a Democratic majority last year, the North Carolina Supreme Court voided the state’s legislative and congressional maps as illegal gerrymanders. Now the court has a Republican majority, and says the opposite.  <a href="https://nyti.ms/44bcCcU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Begins Overland Evacuation of American Civilians From Sudan</h3>
+<sub>By Declan Walsh, Eric Schmitt, Edward Wong and Abdi Latif Dahir</sub>
+<p>A bus convoy carrying about 300 people was the first U.S.-organized evacuation effort of Americans other than diplomats since fighting broke out nearly two weeks ago in the northeast African nation.  <a href="https://nyti.ms/3NhiMSR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Montana Governor Signs Law Banning Transgender Care for Minors</h3>
+<sub>By Jim Robbins and Jacey Fortin</sub>
+<p>Gov. Greg Gianforte had been urged by his son, who is nonbinary, to reject the bill. A transgender lawmaker was barred from the House floor after the debate.  <a href="https://nyti.ms/3NmBh8g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Gov. Hochul Gets a Budget Deal, but No Signature Win</h3>
+<sub>By Grace Ashford</sub>
+<p>The budget deal contained a series of hard-fought wins for the governor, but left her without a grand policy achievement to trumpet.  <a href="https://nyti.ms/3Lk7evD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fed Slams Its Own Oversight of Silicon Valley Bank in Post-Mortem</h3>
 <sub>By Jeanna Smialek</sub>
@@ -75,27 +99,21 @@ Finally, in NY region news, Governor Kathy Hochul announced in the state budget 
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wages and Prices Slow Unevenly, Reflecting ‘Rocky and Bumpy’ Economy</h3>
+<h3>A ‘Rocky and Bumpy’ Economy Where Wages Are Up and Inflation Persists</h3>
 <sub>By Ben Casselman and Jeanna Smialek</sub>
 <p>Key pay and inflation gauges have stayed stubbornly high as Federal Reserve officials consider when to stop raising interest rates.  <a href="https://nyti.ms/3VgS2nn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>First Republic’s Shares Slide as Its Fate Remains Uncertain</h3>
-<sub>By Joe Rennison</sub>
-<p>Among investors at least, First Republic’s troubles seem contained to the bank itself. The S&amp;P 500 and an index of bank stocks were higher on Friday.  <a href="https://nyti.ms/3NhIyX7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Worried About a Recession? Patient Investors Can Ride It Out.</h3>
-<sub>By Jeff Sommer</sub>
-<p>Economic downturns are rough on stocks, but history shows that handsome returns can pile up anyway if you stick with it, our columnist says.  <a href="https://nyti.ms/3Npf4qe"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Key Takeaways From Regulatory Review of Bank Failures</h3>
+<sub>By Emily Flitter, Jeanna Smialek and Alan Rappeport</sub>
+<p>The Federal Reserve and the Federal Deposit Insurance Corp. reviewed what went wrong with oversight of two regional banks. A watchdog agency released its own take.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Begins Overland Evacuation of American Civilians From Sudan</h3>
-<sub>By Declan Walsh, Eric Schmitt, Edward Wong and Abdi Latif Dahir</sub>
-<p>A bus convoy carrying about 300 U.S. citizens followed a long route previously used by other nations and the U.N. It was the first organized American evacuation effort.  <a href="https://nyti.ms/3NhiMSR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Deadliest Russian Attack in Months on Ukraine’s Cities Kills at Least 25</h3>
+<sub>By Marc Santora</sub>
+<p>The first widespread barrage on civilian targets in more than a month underscored the vital role of Ukrainian air defenses.  <a href="https://nyti.ms/40RX5Ma"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -111,33 +129,15 @@ Finally, in NY region news, Governor Kathy Hochul announced in the state budget 
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>North Carolina Court, With New Partisan Mix, Reverses Itself on a Key Voting Case</h3>
-<sub>By Michael Wines</sub>
-<p>When it had a Democratic majority last year, the North Carolina Supreme Court voided the state’s legislative and congressional maps as illegal gerrymanders. Now the court has a Republican majority, and says the opposite.  <a href="https://nyti.ms/44bcCcU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>McCarthy Brought His Detractors in From the Cold. Will They Stay?</h3>
+<sub>By Catie Edmondson</sub>
+<p>The speaker’s all-carrots, no-sticks approach of empowering hard-right Republicans carries risks, and any negotiation with President Biden on the debt ceiling is likely to test them.  <a href="https://nyti.ms/3oQb5J6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Homeless in the City Where He Was Once Mayor</h3>
 <sub>By Mike Baker</sub>
 <p>Craig Coyner’s descent onto the streets of Bend, Ore., came after decades spent fighting as a lawyer and politician for those on the edge of society.  <a href="https://nyti.ms/41JHAYb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Top Republicans Balk at WinRed’s Plan to Charge More for Online Donations</h3>
-<sub>By Shane Goldmacher</sub>
-<p>Republican Party leaders are opposed to a proposed price increase by the online donation-processing company, WinRed, stirring debate about the company’s future.  <a href="https://nyti.ms/3LCnVUb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Lawmakers Clear a Potential Presidential Roadblock for DeSantis</h3>
-<sub>By Nicholas Nehamas and Patricia Mazzei</sub>
-<p>The Florida Legislature passed an elections bill on Friday clarifying that Gov. Ron DeSantis would not have to resign early if he ran for president.  <a href="https://nyti.ms/428fq92"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York to Ban Natural Gas, Including Stoves, in New Buildings</h3>
-<sub>By Liam Stack</sub>
-<p>Gov. Kathy Hochul announced a state budget deal on Thursday with the first statewide ban on the use of natural gas in new buildings.  <a href="https://nyti.ms/3LiTeSA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
