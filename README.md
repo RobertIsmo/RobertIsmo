@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 29, Central Standard Time</p>
 <p>
-It looks like things are getting interesting in the world! There was recently a Supreme Court ruling in North Carolina that demonstrates the politicization of the judiciary, and the US just started an overland evacuation of American civilians from Sudan. In Montana, a law was signed banning transgender care for minors, and New York is toughening its contentious bail law to give judges more discretion. We also have updates on banking issues, with the Federal Reserve slamming its own oversight of Silicon Valley Bank and taking a look at what went wrong with two other banks. In Ukraine, there was one of the deadliest Russian attacks in months on cities there which killed at least 25 people, and the European Union is extending tariff waivers for Ukrainian grain. On the domestic side here, politicians like former Vice President Mike Pence are having to navigate legal issues with Donald Trump still looming large. Lastly, President Joe Biden will be attending the White House Correspondents’ Association dinner on Saturday.</p>
+There is a lot happening in the world right now! In the US, North Carolina just had its Supreme Court reverse a decision on Gerrymandering that reflects the politicization of courts nationally. Montana has also signed a bill banning transgender care for minors, and New York just toughened up its bail law for more judicial discretion. On the business side, there&#39;s been some regulatory reviews on failed banks from the Federal Reserve and Federal Deposit Insurance Corporation. 
+
+Internationally, the US is evacuating American civilians from Sudan, and there was a large fuel tank fire burning in Crimea with speculation of a drone attack. The EU has extended a tariff waiver for Ukrainian grain, despite some protests, and Spain is baking in summer-like heat, worrying about what comes next. 
+
+All in all, not an easy time right now!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>North Carolina Gerrymander Ruling Reflects Politicization of Judiciary Nationally</h3>
@@ -105,10 +109,10 @@ It looks like things are getting interesting in the world! There was recently a 
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Deadliest Russian Attack in Months on Ukraine’s Cities Kills at Least 25</h3>
-<sub>By Marc Santora</sub>
-<p>The first widespread barrage on civilian targets in more than a month underscored the vital role of Ukrainian air defenses.  <a href="https://nyti.ms/40RX5Ma"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<h3>Large Fuel Tank Fire Burns in Crimea After Suspected Drone Attack</h3>
+<sub>By Victoria Kim</sub>
+<p>A Russian-installed local official did not specify who might be behind such an attack. Ukraine typically maintains a policy of strategic ambiguity about strikes in Crimea.  <a href="https://nyti.ms/3AINrAM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>E.U. Extends Tariff Waiver for Ukrainian Grain, Despite Some Protests</h3>
@@ -116,16 +120,16 @@ It looks like things are getting interesting in the world! There was recently a 
 <p>The bloc will provide more than $100 million to farmers in eastern countries where tariff-free Ukrainian grain produced a supply glut and plunging prices.  <a href="https://nyti.ms/3n7GHtp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Spain Bakes in Summer-Like Heat, and Worries About What Comes Next</h3>
+<sub>By Constant Méheut</sub>
+<p>The April temperatures, over 100 degrees Fahrenheit in some places, come on top of a long-running drought that has depleted reservoirs and dried up fields.  <a href="https://nyti.ms/3VjMA35"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy Brought His Detractors in From the Cold. Will They Stay?</h3>
 <sub>By Catie Edmondson</sub>
 <p>The speaker’s all-carrots, no-sticks approach of empowering hard-right Republicans carries risks, and any negotiation with President Biden on the debt ceiling is likely to test them.  <a href="https://nyti.ms/3oQb5J6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Press Freedom! Celebrities! (Also, the President.)</h3>
-<sub>By Katie Rogers</sub>
-<p>President Biden, who gets out of town most weekends, will attend the White House Correspondents’ Association dinner on Saturday evening.  <a href="https://nyti.ms/3nbZL9E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
