@@ -60,14 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 29, Central Standard Time</p>
 <p>
-Right now, there is a stalemate in the fight in Ukraine&#39;s Donbas region, and it looks like a patch of the Zaporizhzhia region in southeastern Ukraine could be the next big battlefield. In Hollywood, conversations between unions representing writers and actors and Hollywood companies about labor contract negotiations have sparked talk of a writers&#39; strike going into effect soon. On the other side of the United States, the governor of Montana has signed a law banning transgender care for minors, despite urgings from his nonbinary son and protests from a transgender state lawmaker. 
-
-Also, former President Trump is facing legal jeopardy as prosecutors investigate his campaign fundraising mishaps involving possible false claims of election fraud. Meanwhile in New York, they are looking to toughen their bail law to give judges more discretion on when bail is unnecessary. Lastly, South Korea&#39;s president Yoon Suk Yeol has been seen as having polarized his country due to his foreign policy choices aligning his country with Washington and Tokyo, with some saying he gained little from those choices.</p>
+There is currently a bloody stalemate in the eastern Donbas region of Ukraine. Regulators are preparing to seize and sell First Republic, a troubled lender. In Hollywood, labor contract negotiations are heating up as unions representing writers and actors are pushing for limits on artificial intelligence. Also in the US, Donald Trump&#39;s legal jeopardy has grown with a rape case against him in New York and prosecution inquiry into illegal fundraising centered around claims of election fraud. Housebuyers around the US have been eager but sellers are scarce, creating &quot;real gridlock&quot;. Meanwhile, in Texas, a gunman killed 5 people and wounded 3 before fleeing. Finally, South Korea&#39;s leader is facing criticism for his foreign policy aligning more closely with Washington and Tokyo after receiving warmth from President Biden.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Life in Ukraine’s Trenches: Gearing Up for a Spring Offensive</h3>
 <sub>By Michael Schwirtz and David Guttenfelder</sub>
 <p>With fighting in the eastern Donbas region settling into a bloody stalemate, a patch of the Zaporizhzhia region of southeastern Ukraine could prove to be the war’s next big theater.  <a href="https://nyti.ms/4277DYT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Regulators Prepare to Seize and Sell First Republic</h3>
+<sub>By Lauren Hirsch and Maureen Farrell</sub>
+<p>JPMorgan and PNC, two of the country’s largest banks are said to be interested in acquiring the troubled lender after it is seized by the Federal Deposit Insurance Corporation.  <a href="https://nyti.ms/40OVYwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -81,12 +85,6 @@ Also, former President Trump is facing legal jeopardy as prosecutors investigate
 <sub>By John Koblin and Brooks Barnes</sub>
 <p>TV and movie writers want more money, but Hollywood companies say the demands ignore economic realities. The deadline to sort out those differences is approaching.  <a href="https://nyti.ms/42swzuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Montana Governor Signs Law Banning Transgender Care for Minors</h3>
-<sub>By Jim Robbins and Jacey Fortin</sub>
-<p>Gov. Greg Gianforte had been urged by his son, who is nonbinary, to reject the bill. A transgender lawmaker was barred from the House floor after the debate.  <a href="https://nyti.ms/3NmBh8g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Rape Case Places Trump in Legal Jeopardy. Politically, He’s Thriving.</h3>
@@ -106,10 +104,16 @@ Also, former President Trump is facing legal jeopardy as prosecutors investigate
 <p>Homeowners with low-rate mortgages are delaying the decision to sell until market conditions change.  <a href="https://nyti.ms/3ABy4do"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos, Instead of Shrinking From the Spotlight, Steps Into It</h3>
-<sub>By Nicholas Fandos</sub>
-<p>Mr. Santos seems to be testing whether his notoriety will translate into a form of celebrity, if not eventual acceptance.  <a href="https://nyti.ms/42569hR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Press Freedom! Celebrities! (Also, the President.)</h3>
+<sub>By Katie Rogers</sub>
+<p>President Biden, who gets out of town most weekends, will attend the White House Correspondents’ Association dinner on Saturday evening.  <a href="https://nyti.ms/3nbZL9E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gunman Kills Five People in Texas Home, Authorities Say</h3>
+<sub>By Euan Ward and Jesus Jiménez</sub>
+<p>Three others were wounded and the gunman remained at large, officials said. The attack on Friday night started after the man was asked to stop shooting in his yard, the authorities said.  <a href="https://nyti.ms/3oR0ptK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -118,22 +122,16 @@ Also, former President Trump is facing legal jeopardy as prosecutors investigate
 <p>The Denver airport is a magnet for conspiracy theories — and a case study in the line between mass delusion and fun.  <a href="https://nyti.ms/42al7Da"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York Will Toughen Contentious Bail Law to Give Judges More Discretion</h3>
-<sub>By Jesse McKinley, Grace Ashford and Hurubie Meko</sub>
-<p>State leaders agree to eliminate a provision that requires judges to prescribe the “least restrictive” means to ensure defendants return to court.  <a href="https://nyti.ms/3HnmVAJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Warmth From Biden, South Korea’s Leader Faces a Different Tune at Home</h3>
 <sub>By Choe Sang-Hun</sub>
 <p>President Yoon Suk Yeol’s foreign policy, aligning his country more closely with Washington and Tokyo, has polarized his country. And critics say he has won little to show for it.  <a href="https://nyti.ms/42aNzom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By Jaclyn Reiss</sub>
-<p>A look at how Manhattan&#39;s diamond district has changed. Also: Dr. Anthony Fauci looks back, and how to spend 36 hours in Philadelphia.  <a href="https://nyti.ms/3oPWqh1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Lord Commander’ of the DMZ Has Seen It All on the Korean Frontier</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>He faced off with North Korean troops, helped prepare for the Trump-Kim summit and witnessed some of the most ​hair-raising — and ​bizarre — moments ​on the world’s most heavily armed border.  <a href="https://nyti.ms/3LEVO76"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
