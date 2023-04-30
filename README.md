@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 30, Central Standard Time</p>
 <p>
-Right now, there is a lot of news happening in the US and around the world. In the US, George Mason University’s law school is facing scrutiny as it has cultivated close ties to justices, offering generous pay and unusual perks. In Russia, hundreds of men face criminal charges for becoming war refuseniks in response to Moscow&#39;s invasion of Ukraine. President Biden recently took a jab at Fox News while delivering remarks at the White House Correspondents’ Association dinner. In San Francisco, tech workers staying home due to the pandemic has forced civic leaders to confront tough challenges related to the city’s recovery. In London, citizens are responding with a “take it or leave it” shrug to King Charles’s coronation. Meanwhile, states are pushing for new age restrictions for young people online that could also impact adults’ access to services. And in New York, there&#39;s an uptick in interest for Bryant Park’s secret penthouse. Lastly, there is news out of First Republic where regulators are preparing to seize and sell it after troubled times; and in Brooklyn, victims from last year’s subway shooting are still feeling the effects of the incident.</p>
+There are a lot of changes happening in the world right now. In the US, there are a few stories about government officials relaxing rules on past drug use, as more states legalize marijuana and employers need to find younger talent. We&#39;re also hearing about how top universities have developed ties with justices and other courts for financial gain. 
+
+In other parts of the world, hundreds of Russian men are facing criminal charges for refusing to fight in Russia&#39;s invasion of Ukraine. We&#39;re also learning about how Sudan is struggling with its health care system collapsing, as hospitals close and many doctors flee due to poor supplies and harsh conditions. 
+
+Back in the US, President Biden made some jokes about the media at a White House Correspondents&#39; Association dinner, and we&#39;re seeing what people wore (including some surprises). There&#39;s news about a Whole Foods Market in San Francisco that has not done well during the pandemic, and a secret penthouse above New York&#39;s Bryant Park that&#39;s making headlines. And regulators have been preparing to seize First Republic Bank, which could be bought by JPMorgan, PNC, or Bank of America. 
+
+Finally, there is a new push to shield children online--a reminder of laws from the 1990s which tried to limit what kids could see online but were overturned in court.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Needing Younger Workers, Federal Officials Relax Rules on Past Drug Use</h3>
+<sub>By Ernesto Londoño</sub>
+<p>As more states legalize marijuana and competition for talent grows fiercer, the U.S. government is loosening guidelines from the “Just Say No” era.  <a href="https://nyti.ms/3LGgRWE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Scalia Law School Became a Key Friend of the Court</h3>
 <sub>By Steve Eder and Jo Becker</sub>
@@ -80,6 +92,12 @@ Right now, there is a lot of news happening in the US and around the world. In t
 <p>At the White House Correspondents’ Association dinner, President Biden also skewered CNN and made light of his age.  <a href="https://nyti.ms/3LGqrJ1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The White House Correspondents’ Association Dinner Best Dressed</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Who were they? The answers may surprise you.  <a href="https://nyti.ms/42966S1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In San Francisco, a Troubled Year at a Whole Foods Market Reflects a City’s Woes</h3>
 <sub>By Thomas Fuller and Sharon LaFraniere</sub>
@@ -91,6 +109,18 @@ Right now, there is a lot of news happening in the US and around the world. In t
 <sub>By Dodai Stewart</sub>
 <p>High above Bryant Park, painting, music, fashion and events are showcased in a quirky historic venue.  <a href="https://nyti.ms/44fLPMt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>After Student’s Suicide, an Elite School Says It Fell ‘Tragically Short’</h3>
+<sub>By Benjamin Weiser and Tracey Tully</sub>
+<p>The Lawrenceville School in New Jersey on Sunday released a remarkable admission of failure and committed to a new focus on mental health.  <a href="https://nyti.ms/3LGY0e9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Regulators Prepare to Seize and Sell First Republic</h3>
+<sub>By Lauren Hirsch, Maureen Farrell and Jeanna Smialek</sub>
+<p>JPMorgan, PNC and Bank of America are said to be interested in acquiring the troubled lender after it is seized by the Federal Deposit Insurance Corporation.  <a href="https://nyti.ms/40OVYwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>States’ Push to Protect Kids Online Could Remake the Internet</h3>
@@ -105,33 +135,9 @@ Right now, there is a lot of news happening in the US and around the world. In t
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Many in U.K. Greet King Charles’s Coronation With a ‘Take It or Leave It’ Shrug</h3>
-<sub>By Mark Landler</sub>
-<p>Images of the new king may be blanketing Britain, but many in the country are more focused on navigating a cost-of-living crisis than celebrating a dysfunctional royal family.  <a href="https://nyti.ms/3NpCoV1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>London’s Other Royals, the ‘Pearlies,’ Keep Alive Cockney Customs</h3>
-<sub>By Megan Specia</sub>
-<p>The Pearly Kings and Queens, known for their button-festooned costumes, preserve a charitable tradition that began in the Victorian era and became a symbol of the city’s working-class culture.  <a href="https://nyti.ms/3Nr7CLg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Regulators Prepare to Seize and Sell First Republic</h3>
-<sub>By Lauren Hirsch, Maureen Farrell and Jeanna Smialek</sub>
-<p>JPMorgan, PNC and Bank of America are said to be interested in acquiring the troubled lender after it is seized by the Federal Deposit Insurance Corporation.  <a href="https://nyti.ms/40OVYwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Year of Pain: Victims Struggle After Brooklyn Subway Shooting</h3>
-<sub>By Karen Zraick</sub>
-<p>The rush hour attack killed no one. But every mass shooting has effects that persist unseen.  <a href="https://nyti.ms/3LI5GN2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Airman in Leaks Case Worked on a Global Network Essential to Drone Missions</h3>
-<sub>By John Ismay</sub>
-<p>Airman Jack Teixeira’s unit is part of a vast system that carries video and data from spy satellites and drone missions worldwide.  <a href="https://nyti.ms/3LHtUHo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Hospitals Close and Doctors Flee, Sudan’s Health Care System Is Collapsing</h3>
+<sub>By Lynsey Chutel</sub>
+<p>The medical professionals who remain face meager supplies and harrowing conditions, even setting up field hospitals in living rooms amid the fighting.  <a href="https://nyti.ms/3NlR9bi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
