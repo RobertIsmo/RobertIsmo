@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 30, Central Standard Time</p>
 <p>
-There is a lot of news happening around the world right now. In the US, we&#39;re learning how a prominent law school cultivates ties to justices with generous pay and perks. In Russia, hundreds of men have faced criminal charges for refusing to fight in the military. And President Biden recently praised the US journalist detained there. In San Francisco, tech workers are staying home and causing problems for civic leaders dealing with pandemic recovery. Elsewhere in the US, President Biden made light of his age at the White House Correspondents&#39; Association dinner and mocked Fox News. Across the pond in London, folks seem more focused on a cost-of-living crisis than celebrating the new king&#39;s coronation. We&#39;re also hearing about a quirky secret penthouse and about &quot;Pearly Kings and Queens&quot;, who preserve charitable traditions from Victorian times. There was also a shooting in Texas after someone asked a man to stop shooting in their yard - he later killed five people and remains at large. And back in the US, an airman got caught up in leaks case related to a global network essential to drone missions. Finally, there is a social movement in Brazil fighting poverty by taking land from the rich - it&#39;s one of the most controversial movements anywhere in Latin America right now.</p>
+Right now, there is a lot of news happening in the US and around the world. In the US, George Mason University’s law school is facing scrutiny as it has cultivated close ties to justices, offering generous pay and unusual perks. In Russia, hundreds of men face criminal charges for becoming war refuseniks in response to Moscow&#39;s invasion of Ukraine. President Biden recently took a jab at Fox News while delivering remarks at the White House Correspondents’ Association dinner. In San Francisco, tech workers staying home due to the pandemic has forced civic leaders to confront tough challenges related to the city’s recovery. In London, citizens are responding with a “take it or leave it” shrug to King Charles’s coronation. Meanwhile, states are pushing for new age restrictions for young people online that could also impact adults’ access to services. And in New York, there&#39;s an uptick in interest for Bryant Park’s secret penthouse. Lastly, there is news out of First Republic where regulators are preparing to seize and sell it after troubled times; and in Brooklyn, victims from last year’s subway shooting are still feeling the effects of the incident.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Scalia Law School Became a Key Friend of the Court</h3>
 <sub>By Steve Eder and Jo Becker</sub>
-<p>The school cultivated ties to justices, with generous pay and unusual perks. In turn, it gained prestige, donations and influence.  <a href="https://nyti.ms/44hl7Da"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>George Mason University’s law school cultivated ties to justices, with generous pay and unusual perks. In turn, it gained prestige, donations and influence.  <a href="https://nyti.ms/44hl7Da"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,16 +74,10 @@ There is a lot of news happening around the world right now. In the US, we&#39;r
 <p>Since Moscow’s invasion of Ukraine, hundreds of Russian men have faced criminal charges for becoming war refuseniks. That has not stopped others from going to unusual lengths to avoid battle.  <a href="https://nyti.ms/3VmSH6L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden Praises ‘Absolute Courage’ of U.S. Journalist Detained in Russia</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>In a speech at the annual White House Association Correspondents’ dinner, the president said his administration was “working every day” to secure the release of Evan Gershkovich.  <a href="https://nyti.ms/40RX4Ij"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Gets a Chance to Mock Fox News, and Gleefully Takes It</h3>
 <sub>By Peter Baker and Katie Robertson</sub>
-<p>At the White House Correspondents’ Association dinner, President Biden also skewered CNN and made light of his age.  <a href="https://nyti.ms/3VkmA7L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>At the White House Correspondents’ Association dinner, President Biden also skewered CNN and made light of his age.  <a href="https://nyti.ms/3LGqrJ1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,10 +93,16 @@ There is a lot of news happening around the world right now. In the US, we&#39;r
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Regulators Prepare to Seize and Sell First Republic</h3>
-<sub>By Lauren Hirsch and Maureen Farrell</sub>
-<p>JPMorgan, PNC and Bank of America are said to be interested in acquiring the troubled lender after it is seized by the Federal Deposit Insurance Corporation.  <a href="https://nyti.ms/40OVYwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<h3>States’ Push to Protect Kids Online Could Remake the Internet</h3>
+<sub>By Natasha Singer</sub>
+<p>New age restrictions for minors on sites like TikTok and Pornhub could also hinder adults’ access to online services.  <a href="https://nyti.ms/3NqIeWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Echoes of History in New National Push to Shield Children Online</h3>
+<sub>By Kashmir Hill and Natasha Singer</sub>
+<p>In the 1990s, the U.S. government limited what young people could see online, but lost a court fight challenging those rules. Now it’s happening again.  <a href="https://nyti.ms/41RgY7r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Many in U.K. Greet King Charles’s Coronation With a ‘Take It or Leave It’ Shrug</h3>
@@ -116,22 +116,22 @@ There is a lot of news happening around the world right now. In the US, we&#39;r
 <p>The Pearly Kings and Queens, known for their button-festooned costumes, preserve a charitable tradition that began in the Victorian era and became a symbol of the city’s working-class culture.  <a href="https://nyti.ms/3Nr7CLg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After a Neighbor’s Complaint, Gunman Kills Five People in Texas Home</h3>
-<sub>By Maria Jimenez Moya, Eduardo Medina and Jesus Jiménez</sub>
-<p>The attack on Friday night started after a man was asked by neighbors to stop shooting in his yard, the authorities said. The gunman remained at large.  <a href="https://nyti.ms/3oR0ptK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Regulators Prepare to Seize and Sell First Republic</h3>
+<sub>By Lauren Hirsch, Maureen Farrell and Jeanna Smialek</sub>
+<p>JPMorgan, PNC and Bank of America are said to be interested in acquiring the troubled lender after it is seized by the Federal Deposit Insurance Corporation.  <a href="https://nyti.ms/40OVYwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Year of Pain: Victims Struggle After Brooklyn Subway Shooting</h3>
+<sub>By Karen Zraick</sub>
+<p>The rush hour attack killed no one. But every mass shooting has effects that persist unseen.  <a href="https://nyti.ms/3LI5GN2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Airman in Leaks Case Worked on a Global Network Essential to Drone Missions</h3>
 <sub>By John Ismay</sub>
 <p>Airman Jack Teixeira’s unit is part of a vast system that carries video and data from spy satellites and drone missions worldwide.  <a href="https://nyti.ms/3LHtUHo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>If You Don’t Use Your Land, These Marxists May Take It</h3>
-<sub>By Jack Nicas and Maria Magdalena Arréllaga</sub>
-<p>The Landless Workers Movement organizes Brazil’s poor to take land from the rich. It is perhaps the largest — and most polarizing — social movement in Latin America.  <a href="https://nyti.ms/3oUFSoc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
