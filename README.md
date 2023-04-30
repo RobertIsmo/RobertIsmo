@@ -60,17 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 30, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, Joe Biden is running for office again and Black voters are expressing their frustration with him. Meanwhile, Democrats in South Carolina have elected their first Black woman to run their state party.
+The world is a pretty interesting place right now! In the US, Joe Biden is running for president again, and some Black voters are expressing their frustration with politicians. In South Carolina, the Democrats elected their first Black woman to run the state party. Over in Ukraine, a long-term conflict is brewing in the east that could soon become a full-scale spring offensive. On a more positive note in Ukraine, one man who lost his legs in war found a goal to keep running, thanks to inspiration from a movie about Boston Marathon bombing. In Crimea there was recently a large fire at a fuel depot that may have been attributed to an enemy drone attack. 
 
-In Ukraine, fighting is settling into a bloody stalemate in the eastern Donbas region. At the same time, there&#39;s a large fire burning at the Crimea fuel depot due to a suspected drone attack by an unknown source. 
-
-On a more positive note, there&#39;s an inspiring story about Artem Moroz who lost his legs in the war but hasn&#39;t lost hope or his will to run for it gave him a new goal. 
-
-In terms of economic news, US regulators are preparing to seize and sell First Republic bank due to trouble within the lender. 
-
-On the sports side of things, the NFL draft just finished up and we can look forward to some new teams developing already with the picks they made.
-
-Finally, there is another interesting story out of Korea where the &#39;Lord Commander&#39; of the DMZ has faced off with North Korean troops and played an important part in preparing for the Trump-Kim summit.</p>
+In President Biden&#39;s new White House term, he had the opportunity to mock Fox News and other news outlets during the White House Correspondents’ Association dinner. There was also news from the business world - regulators have plans to seize and sell First Republic bank. In other legal jeopardy news, Donald Trump is facing some allegations of rape which puts him into legal jeopardy.. but politically he&#39;s still thriving. Meanwhile in Texas, a gunman killed five people after his neighbors had asked him to stop shooting in his yard. Christie’s is about to have one of their largest jewelry sales in history; however, there is some controversy as it comes from the estate of someone whose husband bought businesses from Jews pressured by Nazis. Lastly, the NFL draft just happened and we learned who won and lost based on the outcomes of transacting teams like Philadelphia, Detroit and Green Bay. South Korea&#39;s President is also facing some criticism at home due to differences between US foreign policy aligning more around Washington and Tokyo versus what Korea wants as well.. somewhat of a tense moment for global politics!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Biden Runs Again, Black Voters’ Frustration Bubbles</h3>
@@ -101,6 +93,12 @@ Finally, there is another interesting story out of Korea where the &#39;Lord Com
 <sub>By Marc Santora and Victoria Kim</sub>
 <p>A Russian-installed local official blamed the blaze on “enemy drones.” Ukraine, which typically maintains a policy of strategic ambiguity about strikes in Crimea, did not claim responsibility.  <a href="https://nyti.ms/3AINrAM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Gets a Chance to Mock Fox News, and Gleefully Takes It</h3>
+<sub>By Peter Baker and Katie Robertson</sub>
+<p>At the White House Correspondents’ Association dinner, President Biden also skewered CNN and made light of his age.  <a href="https://nyti.ms/3VkmA7L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Regulators Prepare to Seize and Sell First Republic</h3>
@@ -137,12 +135,6 @@ Finally, there is another interesting story out of Korea where the &#39;Lord Com
 <sub>By Choe Sang-Hun</sub>
 <p>President Yoon Suk Yeol’s foreign policy, aligning his country more closely with Washington and Tokyo, has polarized his country. And critics say he has won little to show for it.  <a href="https://nyti.ms/42aNzom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Lord Commander’ of the DMZ Has Seen It All on the Korean Frontier</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>He faced off with North Korean troops, helped prepare for the Trump-Kim summit and witnessed some of the most ​hair-raising — and ​bizarre — moments ​on the world’s most heavily armed border.  <a href="https://nyti.ms/3LEVO76"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
