@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 29, Central Standard Time</p>
 <p>
-There are a lot of events happening around the world right now. In the US, Joe Biden is running for president again and people are frustrated because they feel like their promises have not been kept. South Carolina Democrats just elected their first Black woman to run their state party. In Ukraine, there is a potential for a spring offensive and someone who lost his legs in the war is trying to run a marathon. Crimea had a large fire in an fuel depot after apparently being attacked by a drone but Ukraine did not claim responsibility. First Republic is going bankrupt and will soon be seized by the FDIC. Donald Trump is also facing further legal jeopardy while still managing to continue his campaign against it. And finally, there is a huge jewelry sale involving Nazi-looted gems, and Denver airport has become the center of many weird conspiracy theories.</p>
+There is a lot of news from around the world right now—from the US, to Ukraine, and South Korea. In the US, Biden is running for president again and Black voters are demanding their votes be heard. In South Carolina, the Democrats elected the first Black woman to run the state party. In Ukraine, fighting in an eastern region is escalating into a possible big military theater faced with drones and scheduled attacks. Things are looking up in sports as an amputee who had his legs removed due to war in Ukraine is training to run a marathon after being inspired by a movie about another athlete&#39;s comeback story. And things are heating up in Crimea due to a suspected drone attack setting fuel depots on fire. It looks like banks may take control of First Republic soon as regulators prepare for its seizure. Trump faces legal issues due to rape cases involving him. There has also been a mass shooting in Texas that killed five people. Theestimation of one of the largest jewelry sales in history is intricately linked between Nazi persecution and forced selling from Jewish business owners. Over in Washington D.C., Biden attended the White House Correspondents dinner and promoted press freedom, while celebrities were present as well. Finally, in South Korea, President Yoon Suk Yeol&#39;s foreign policy has divided opinions and he hasn&#39;t yet won much support for aligning his country closer with Washington and Tokyo after being welcomed warmly by President Biden.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Biden Runs Again, Black Voters’ Frustration Bubbles</h3>
@@ -105,10 +105,10 @@ There are a lot of events happening around the world right now. In the US, Joe B
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors in Jan. 6 Case Step up Inquiry Into Trump Fund-Raising</h3>
-<sub>By Maggie Haberman, Alan Feuer and Jonathan Swan</sub>
-<p>The Justice Department has been gathering evidence about whether the former president and his allies solicited donations with claims of election fraud they knew to be false.  <a href="https://nyti.ms/3LkLuiS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
+<h3>Gunman Kills Five People in Texas Home, Authorities Say</h3>
+<sub>By Maria Jimenez Moya, Eduardo Medina and Jesus Jiménez</sub>
+<p>The attack on Friday night started after the man was asked by neighbors to stop shooting in his yard, the authorities said. The gunman remained at large.  <a href="https://nyti.ms/3oR0ptK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Nazi Cloud Hangs Over One of the Largest Jewelry Sales in History</h3>
@@ -122,16 +122,16 @@ There are a lot of events happening around the world right now. In the US, Joe B
 <p>President Biden, who gets out of town most weekends, will attend the White House Correspondents’ Association dinner on Saturday evening.  <a href="https://nyti.ms/3nbZL9E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gunman Kills Five People in Texas Home, Authorities Say</h3>
-<sub>By Maria Jimenez Moya, Jesus Jiménez and Euan Ward</sub>
-<p>Three others were wounded and the gunman remained at large, officials said. The attack on Friday night started after the man was asked to stop shooting in his yard, the authorities said.  <a href="https://nyti.ms/3oR0ptK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Who Won, and Who Lost, in the 2023 N.F.L. Draft</h3>
+<sub>By Mike Tanier</sub>
+<p>Philadelphia, Detroit and Green Bay all had their reasons for making the picks they did. Here’s what we learned in the draft aftermath.  <a href="https://nyti.ms/3LGSBnk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Towering, Terrifying Demon Horse Isn’t Even the Weirdest Part</h3>
-<sub>By Tiffany Hsu</sub>
-<p>The Denver airport is a magnet for conspiracy theories — and a case study in the line between mass delusion and fun.  <a href="https://nyti.ms/42al7Da"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Warmth From Biden, South Korea’s Leader Faces a Different Tune at Home</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>President Yoon Suk Yeol’s foreign policy, aligning his country more closely with Washington and Tokyo, has polarized his country. And critics say he has won little to show for it.  <a href="https://nyti.ms/42aNzom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
