@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, April 29, Central Standard Time</p>
 <p>
-There is a lot of news from around the world right now—from the US, to Ukraine, and South Korea. In the US, Biden is running for president again and Black voters are demanding their votes be heard. In South Carolina, the Democrats elected the first Black woman to run the state party. In Ukraine, fighting in an eastern region is escalating into a possible big military theater faced with drones and scheduled attacks. Things are looking up in sports as an amputee who had his legs removed due to war in Ukraine is training to run a marathon after being inspired by a movie about another athlete&#39;s comeback story. And things are heating up in Crimea due to a suspected drone attack setting fuel depots on fire. It looks like banks may take control of First Republic soon as regulators prepare for its seizure. Trump faces legal issues due to rape cases involving him. There has also been a mass shooting in Texas that killed five people. Theestimation of one of the largest jewelry sales in history is intricately linked between Nazi persecution and forced selling from Jewish business owners. Over in Washington D.C., Biden attended the White House Correspondents dinner and promoted press freedom, while celebrities were present as well. Finally, in South Korea, President Yoon Suk Yeol&#39;s foreign policy has divided opinions and he hasn&#39;t yet won much support for aligning his country closer with Washington and Tokyo after being welcomed warmly by President Biden.</p>
+There is a lot going on in the world right now. In the US, Joe Biden is running for reelection and some Black voters and organizers are frustrated with the promises he has made and not kept. This comes as South Carolina Democrats elect their first Black female chair of their state party. 
+
+In Ukraine, fighting in the eastern Donbas region is settling into a bloody stalemate and soldiers who have lost their legs in war like Artem Moroz have found new goals to pursue. A large fire has burned at Crimea fuel depot after what authorities suspect was a drone attack, with Ukraine not claiming responsibility. 
+
+Also, regulators are preparing to seize and sell First Republic bank as well as Donald Trump facing legal jeopardy for his role in a rape case but still thriving politically. In Texas, a gunman killed five people in a home after being asked by neighbors to stop shooting in his yard. 
+
+Christie&#39;s is holding one of its largest jewelry sales in history next week but the gems come from an estate whose husband bought businesses from Jews persecuted by Nazis. And finally, South Korean president Yoon Suk Yeol has received warmness from Biden, however faces opposition at home for aligning politically more closely with Washington and Tokyo and Lord Commander of the DMZ has seen it all as he prepares for the Trump-Kim summit.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Biden Runs Again, Black Voters’ Frustration Bubbles</h3>
@@ -105,9 +111,9 @@ There is a lot of news from around the world right now—from the US, to Ukraine
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gunman Kills Five People in Texas Home, Authorities Say</h3>
+<h3>After a Neighbor’s Complaint, Gunman Kills Five People in Texas Home</h3>
 <sub>By Maria Jimenez Moya, Eduardo Medina and Jesus Jiménez</sub>
-<p>The attack on Friday night started after the man was asked by neighbors to stop shooting in his yard, the authorities said. The gunman remained at large.  <a href="https://nyti.ms/3oR0ptK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The attack on Friday night started after a man was asked by neighbors to stop shooting in his yard, the authorities said. The gunman remained at large.  <a href="https://nyti.ms/3oR0ptK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -115,12 +121,6 @@ There is a lot of news from around the world right now—from the US, to Ukraine
 <sub>By Zachary Small</sub>
 <p>The gems in Christie’s huge sale next week come from the estate of a woman whose husband bought businesses from Jews pressured to sell because of Nazi persecution.  <a href="https://nyti.ms/3HgjImA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Press Freedom! Celebrities! (Also, the President.)</h3>
-<sub>By Katie Rogers</sub>
-<p>President Biden, who gets out of town most weekends, will attend the White House Correspondents’ Association dinner on Saturday evening.  <a href="https://nyti.ms/3nbZL9E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Who Won, and Who Lost, in the 2023 N.F.L. Draft</h3>
@@ -133,6 +133,12 @@ There is a lot of news from around the world right now—from the US, to Ukraine
 <sub>By Choe Sang-Hun</sub>
 <p>President Yoon Suk Yeol’s foreign policy, aligning his country more closely with Washington and Tokyo, has polarized his country. And critics say he has won little to show for it.  <a href="https://nyti.ms/42aNzom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Lord Commander’ of the DMZ Has Seen It All on the Korean Frontier</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>He faced off with North Korean troops, helped prepare for the Trump-Kim summit and witnessed some of the most ​hair-raising — and ​bizarre — moments ​on the world’s most heavily armed border.  <a href="https://nyti.ms/3LEVO76"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
