@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 30, Central Standard Time</p>
 <p>
-Right now there are a lot of events happening around the world. In the United States, there has been news about how a law school has cultivated ties to justices, with generous pay and unusual perks in exchange for influence. There&#39;s also been news about US journalist detained in Russia, President Biden&#39;s taking a chance to mock Fox News at the White House Correspondents&#39; dinner, and an incident involving a gunman killing five people in Texas in response to complaints from neighbors. Additionally, in the UK there&#39;s been coverage surrounding the coronation of King Charles and the &quot;Pearlies&quot; which are traditional cockney customs taking place. Lastly, Brazil is experiencing a movement known as the &#39;Landless Workers Movement&#39;, which organizes people to take land from the wealthy.</p>
+There is a lot of news happening around the world right now. In the US, we&#39;re learning how a prominent law school cultivates ties to justices with generous pay and perks. In Russia, hundreds of men have faced criminal charges for refusing to fight in the military. And President Biden recently praised the US journalist detained there. In San Francisco, tech workers are staying home and causing problems for civic leaders dealing with pandemic recovery. Elsewhere in the US, President Biden made light of his age at the White House Correspondents&#39; Association dinner and mocked Fox News. Across the pond in London, folks seem more focused on a cost-of-living crisis than celebrating the new king&#39;s coronation. We&#39;re also hearing about a quirky secret penthouse and about &quot;Pearly Kings and Queens&quot;, who preserve charitable traditions from Victorian times. There was also a shooting in Texas after someone asked a man to stop shooting in their yard - he later killed five people and remains at large. And back in the US, an airman got caught up in leaks case related to a global network essential to drone missions. Finally, there is a social movement in Brazil fighting poverty by taking land from the rich - it&#39;s one of the most controversial movements anywhere in Latin America right now.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Scalia Law School Became a Key Friend of the Court</h3>
@@ -68,10 +68,10 @@ Right now there are a lot of events happening around the world. In the United St
 <p>The school cultivated ties to justices, with generous pay and unusual perks. In turn, it gained prestige, donations and influence.  <a href="https://nyti.ms/44hl7Da"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>They Refused to Fight for Russia. The Law Did Not Treat Them Kindly.</h3>
 <sub>By Neil MacFarquhar</sub>
-<p>Since Moscow’s invasion of Ukraine, hundreds of Russian men have faced criminal charges for becoming war refuseniks. That has not stopped others from going to unusual lengths to avoid battle.  <a href="https://nyti.ms/3NxD1eW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Since Moscow’s invasion of Ukraine, hundreds of Russian men have faced criminal charges for becoming war refuseniks. That has not stopped others from going to unusual lengths to avoid battle.  <a href="https://nyti.ms/3VmSH6L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
