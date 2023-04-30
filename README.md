@@ -58,15 +58,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, April 29, Central Standard Time</p>
+<p>It is Sunday, April 30, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, Joe Biden is running for reelection and some Black voters and organizers are frustrated with the promises he has made and not kept. This comes as South Carolina Democrats elect their first Black female chair of their state party. 
+There is a lot happening in the world right now. In the US, Joe Biden is running for office again and Black voters are expressing their frustration with him. Meanwhile, Democrats in South Carolina have elected their first Black woman to run their state party.
 
-In Ukraine, fighting in the eastern Donbas region is settling into a bloody stalemate and soldiers who have lost their legs in war like Artem Moroz have found new goals to pursue. A large fire has burned at Crimea fuel depot after what authorities suspect was a drone attack, with Ukraine not claiming responsibility. 
+In Ukraine, fighting is settling into a bloody stalemate in the eastern Donbas region. At the same time, there&#39;s a large fire burning at the Crimea fuel depot due to a suspected drone attack by an unknown source. 
 
-Also, regulators are preparing to seize and sell First Republic bank as well as Donald Trump facing legal jeopardy for his role in a rape case but still thriving politically. In Texas, a gunman killed five people in a home after being asked by neighbors to stop shooting in his yard. 
+On a more positive note, there&#39;s an inspiring story about Artem Moroz who lost his legs in the war but hasn&#39;t lost hope or his will to run for it gave him a new goal. 
 
-Christie&#39;s is holding one of its largest jewelry sales in history next week but the gems come from an estate whose husband bought businesses from Jews persecuted by Nazis. And finally, South Korean president Yoon Suk Yeol has received warmness from Biden, however faces opposition at home for aligning politically more closely with Washington and Tokyo and Lord Commander of the DMZ has seen it all as he prepares for the Trump-Kim summit.</p>
+In terms of economic news, US regulators are preparing to seize and sell First Republic bank due to trouble within the lender. 
+
+On the sports side of things, the NFL draft just finished up and we can look forward to some new teams developing already with the picks they made.
+
+Finally, there is another interesting story out of Korea where the &#39;Lord Commander&#39; of the DMZ has faced off with North Korean troops and played an important part in preparing for the Trump-Kim summit.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Biden Runs Again, Black Voters’ Frustration Bubbles</h3>
