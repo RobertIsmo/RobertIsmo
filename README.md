@@ -60,44 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 30, Central Standard Time</p>
 <p>
-The world is a pretty interesting place right now! In the US, Joe Biden is running for president again, and some Black voters are expressing their frustration with politicians. In South Carolina, the Democrats elected their first Black woman to run the state party. Over in Ukraine, a long-term conflict is brewing in the east that could soon become a full-scale spring offensive. On a more positive note in Ukraine, one man who lost his legs in war found a goal to keep running, thanks to inspiration from a movie about Boston Marathon bombing. In Crimea there was recently a large fire at a fuel depot that may have been attributed to an enemy drone attack. 
-
-In President Biden&#39;s new White House term, he had the opportunity to mock Fox News and other news outlets during the White House Correspondents’ Association dinner. There was also news from the business world - regulators have plans to seize and sell First Republic bank. In other legal jeopardy news, Donald Trump is facing some allegations of rape which puts him into legal jeopardy.. but politically he&#39;s still thriving. Meanwhile in Texas, a gunman killed five people after his neighbors had asked him to stop shooting in his yard. Christie’s is about to have one of their largest jewelry sales in history; however, there is some controversy as it comes from the estate of someone whose husband bought businesses from Jews pressured by Nazis. Lastly, the NFL draft just happened and we learned who won and lost based on the outcomes of transacting teams like Philadelphia, Detroit and Green Bay. South Korea&#39;s President is also facing some criticism at home due to differences between US foreign policy aligning more around Washington and Tokyo versus what Korea wants as well.. somewhat of a tense moment for global politics!</p>
+Right now there are a lot of events happening around the world. In the United States, there has been news about how a law school has cultivated ties to justices, with generous pay and unusual perks in exchange for influence. There&#39;s also been news about US journalist detained in Russia, President Biden&#39;s taking a chance to mock Fox News at the White House Correspondents&#39; dinner, and an incident involving a gunman killing five people in Texas in response to complaints from neighbors. Additionally, in the UK there&#39;s been coverage surrounding the coronation of King Charles and the &quot;Pearlies&quot; which are traditional cockney customs taking place. Lastly, Brazil is experiencing a movement known as the &#39;Landless Workers Movement&#39;, which organizes people to take land from the wealthy.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Biden Runs Again, Black Voters’ Frustration Bubbles</h3>
-<sub>By Maya King and Reid J. Epstein</sub>
-<p>In interviews, Black voters, organizers and elected officials pointed to what some saw as unkept promises — raising questions about the enthusiasm of Democrats’ most loyal voters.  <a href="https://nyti.ms/3AFB2xA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<h3>How Scalia Law School Became a Key Friend of the Court</h3>
+<sub>By Steve Eder and Jo Becker</sub>
+<p>The school cultivated ties to justices, with generous pay and unusual perks. In turn, it gained prestige, donations and influence.  <a href="https://nyti.ms/44hl7Da"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>South Carolina Democrats Elect First Black Woman to Run State Party</h3>
-<sub>By Maya King</sub>
-<p>Christale Spain won with the support of the party establishment, including Representative James E. Clyburn.  <a href="https://nyti.ms/3LHs3m6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<h3>They Refused to Fight for Russia. The Law Did Not Treat Them Kindly.</h3>
+<sub>By Neil MacFarquhar</sub>
+<p>Since Moscow’s invasion of Ukraine, hundreds of Russian men have faced criminal charges for becoming war refuseniks. That has not stopped others from going to unusual lengths to avoid battle.  <a href="https://nyti.ms/3NxD1eW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Life in Ukraine’s Trenches: Gearing Up for a Spring Offensive</h3>
-<sub>By Michael Schwirtz and David Guttenfelder</sub>
-<p>With fighting in the eastern Donbas region settling into a bloody stalemate, a patch of the Zaporizhzhia region of southeastern Ukraine could prove to be the war’s next big theater.  <a href="https://nyti.ms/4277DYT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>He Lost His Legs in the War in Ukraine, but Not His Will to Run</h3>
-<sub>By Jennie Coughlin</sub>
-<p>Artem Moroz survived an attack on his unit, but he was not sure he would stand again. Then a movie about the 2013 Boston Marathon bombing inspired a new goal.  <a href="https://nyti.ms/3NiEfe9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Large Fire Burns at Crimea Fuel Depot After Suspected Drone Attack</h3>
-<sub>By Marc Santora and Victoria Kim</sub>
-<p>A Russian-installed local official blamed the blaze on “enemy drones.” Ukraine, which typically maintains a policy of strategic ambiguity about strikes in Crimea, did not claim responsibility.  <a href="https://nyti.ms/3AINrAM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<h3>Biden Praises ‘Absolute Courage’ of U.S. Journalist Detained in Russia</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>In a speech at the annual White House Association Correspondents’ dinner, the president said his administration was “working every day” to secure the release of Evan Gershkovich.  <a href="https://nyti.ms/40RX4Ij"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Gets a Chance to Mock Fox News, and Gleefully Takes It</h3>
 <sub>By Peter Baker and Katie Robertson</sub>
 <p>At the White House Correspondents’ Association dinner, President Biden also skewered CNN and made light of his age.  <a href="https://nyti.ms/3VkmA7L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In San Francisco, a Troubled Year at a Whole Foods Market Reflects a City’s Woes</h3>
+<sub>By Thomas Fuller and Sharon LaFraniere</sub>
+<p>Tech workers have stayed home, and ongoing social problems downtown are forcing civic and business leaders to confront harsh realities about the city’s pandemic recovery.  <a href="https://nyti.ms/3neadgW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Inside New York’s ‘Most Bizarre’ Secret Penthouse</h3>
+<sub>By Dodai Stewart</sub>
+<p>High above Bryant Park, painting, music, fashion and events are showcased in a quirky historic venue.  <a href="https://nyti.ms/44fLPMt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -106,10 +104,16 @@ In President Biden&#39;s new White House term, he had the opportunity to mock Fo
 <p>JPMorgan, PNC and Bank of America are said to be interested in acquiring the troubled lender after it is seized by the Federal Deposit Insurance Corporation.  <a href="https://nyti.ms/40OVYwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Rape Case Places Trump in Legal Jeopardy. Politically, He’s Thriving.</h3>
-<sub>By Jonah E. Bromwich, Benjamin Weiser and Lola Fadulu</sub>
-<p>The former president’s new campaign is rolling unimpeded under the spotlights. In quiet courtrooms, he faces more serious threats.  <a href="https://nyti.ms/3ADlvyl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Many in U.K. Greet King Charles’s Coronation With a ‘Take It or Leave It’ Shrug</h3>
+<sub>By Mark Landler</sub>
+<p>Images of the new king may be blanketing Britain, but many in the country are more focused on navigating a cost-of-living crisis than celebrating a dysfunctional royal family.  <a href="https://nyti.ms/3NpCoV1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>London’s Other Royals, the ‘Pearlies,’ Keep Alive Cockney Customs</h3>
+<sub>By Megan Specia</sub>
+<p>The Pearly Kings and Queens, known for their button-festooned costumes, preserve a charitable tradition that began in the Victorian era and became a symbol of the city’s working-class culture.  <a href="https://nyti.ms/3Nr7CLg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -118,23 +122,17 @@ In President Biden&#39;s new White House term, he had the opportunity to mock Fo
 <p>The attack on Friday night started after a man was asked by neighbors to stop shooting in his yard, the authorities said. The gunman remained at large.  <a href="https://nyti.ms/3oR0ptK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Nazi Cloud Hangs Over One of the Largest Jewelry Sales in History</h3>
-<sub>By Zachary Small</sub>
-<p>The gems in Christie’s huge sale next week come from the estate of a woman whose husband bought businesses from Jews pressured to sell because of Nazi persecution.  <a href="https://nyti.ms/3HgjImA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Who Won, and Who Lost, in the 2023 N.F.L. Draft</h3>
-<sub>By Mike Tanier</sub>
-<p>Philadelphia, Detroit and Green Bay all had their reasons for making the picks they did. Here’s what we learned in the draft aftermath.  <a href="https://nyti.ms/3LGSBnk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Airman in Leaks Case Worked on a Global Network Essential to Drone Missions</h3>
+<sub>By John Ismay</sub>
+<p>Airman Jack Teixeira’s unit is part of a vast system that carries video and data from spy satellites and drone missions worldwide.  <a href="https://nyti.ms/3LHtUHo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Warmth From Biden, South Korea’s Leader Faces a Different Tune at Home</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>President Yoon Suk Yeol’s foreign policy, aligning his country more closely with Washington and Tokyo, has polarized his country. And critics say he has won little to show for it.  <a href="https://nyti.ms/42aNzom"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
+<h3>If You Don’t Use Your Land, These Marxists May Take It</h3>
+<sub>By Jack Nicas and Maria Magdalena Arréllaga</sub>
+<p>The Landless Workers Movement organizes Brazil’s poor to take land from the rich. It is perhaps the largest — and most polarizing — social movement in Latin America.  <a href="https://nyti.ms/3oUFSoc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
