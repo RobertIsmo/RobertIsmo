@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, April 30, Central Standard Time</p>
+<p>It is Monday, May 1, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! In the US, the government is relaxing rules on past drug use to attract younger workers as more states legalize marijuana. Government officials are also becoming closer with George Mason University’s law school due to generous pay and perks they offer. Overseas, Pope Francis is working hard on a ‘mission’ of peace in Ukraine, while many Russian men have been charged for becoming war refuseniks since their invasion. And in San Francisco, tech workers are staying home and this has caused business leaders to reconsider their pandemic recovery plans. On a lighter note, there&#39;s also an eccentric secret &#39;penthouse&#39; located high above Bryant Park in New York City. Lastly, in Sudan their healthcare system is collapsing as hospitals close and doctors flee - but at least a dead walrus has been immortalized as a sculpture to remind onlookers of the importance of coexisting!</p>
+There is a lot going on in the world right now. In the US, federal officials have relaxed rules around past drug use in order to attract younger workers. A law school has been cultivating close ties with justices and offering generous pay to gain influence. The Pope is on a secret mission of peace in Ukraine, and in San Francisco there are ongoing social problems caused by the pandemic. In New York, there&#39;s a secret penthouse full of fun events and elite schools are re-focusing on mental health. In business news, regulators are preparing to seize and sell First Republic Bank and states are trying to protect minors online. Globally, Sudan&#39;s healthcare system is collapsing due to hospital closures, while Norway has immortalized Freya the walrus as a sculpture to remind us of our need to coexist with nature. Lastly, Japan is considering saying goodbye to its baseball past by redeveloping stadiums.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Needing Younger Workers, Federal Officials Relax Rules on Past Drug Use</h3>
@@ -78,12 +78,6 @@ There&#39;s a lot going on in the world right now! In the US, the government is 
 <h3>Pope Reveals He’s Working on Secret ‘Mission’ of Peace in Ukraine</h3>
 <sub>By Jason Horowitz</sub>
 <p>Francis said he was doing “all that is humanly possible” to help return Ukrainian children taken to Russia and urged Hungary not to slam doors on migrants.  <a href="https://nyti.ms/3ALE7w0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Refused to Fight for Russia. The Law Did Not Treat Them Kindly.</h3>
-<sub>By Neil MacFarquhar</sub>
-<p>Since Moscow’s invasion of Ukraine, hundreds of Russian men have faced criminal charges for becoming war refuseniks. That has not stopped others from going to unusual lengths to avoid battle.  <a href="https://nyti.ms/3VmSH6L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ There&#39;s a lot going on in the world right now! In the US, the government is 
 <h3>Freya, the Walrus Killed by Norwegian Officials, Is Immortalized as a Sculpture</h3>
 <sub>By Lauren McCarthy</sub>
 <p>The bronze sculpture depicts the walrus on her side and should remind onlookers about the importance of coexisting, the artist said.  <a href="https://nyti.ms/44ji4L1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Looking to the Future, Japan Would Say Goodbye to Its Baseball Past</h3>
+<sub>By Joshua Mellin</sub>
+<p>A polarizing redevelopment plan would level Meiji Jingu, a stadium where Babe Ruth dominated and the novelist Haruki Murakami was inspired.  <a href="https://nyti.ms/44ri6R4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
