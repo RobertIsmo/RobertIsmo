@@ -60,14 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 1, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, regulators have taken over a big bank and sold it to JPMorgan Chase. As part of the deal, 84 branches will be re-opened. Also, the government is relaxing rules on drug use as competition for talent increases. On the other hand, Iran executed a former senior official who had provided intelligence to Britain regarding Iranian nuclear and military programs. 
-
-Pope Francis recently revealed he was working on a &#39;mission&#39; of peace in Ukraine, while in San Francisco, a Whole Foods Market is reflecting the city&#39;s woes with fewer tech workers spending money in the area. Meanwhile, an elite New York school has admitted to falling &#39;tragically short&#39; after a student&#39;s suicide, and Governor Hochul severed ties with her top political adviser due to backlash from an article The New York Times published. Lastly, Sudan is facing collapse of its health care system as hospitals close down and doctors flee.</p>
+There is business news related to the recent sale of First Republic Bank to JPMorgan Chase, which involves the reopening of 84 branches in 8 states. Also, according to Western intelligence officials, Iran executed a former senior official who provided Britain with valuable intelligence on their nuclear and military programs. In the tech industry, there&#39;s been discussion about the potential dangers posed by A.I. chatbots, and how to ensure they don&#39;t give out false information. Last but not least, the theme of this year&#39;s Met Gala is iconic fashion designer Karl Lagerfeld - perfect opportunity to take a quiz on him!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>First Republic Bank Is Seized by Regulators and Sold to JPMorgan Chase</h3>
 <sub>By Maureen Farrell, Lauren Hirsch and Jeanna Smialek</sub>
 <p>As part of its deal, 84 First Republic branches in eight states will reopen as JPMorgan branches on Monday.  <a href="https://nyti.ms/3LpkNtw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>3 Failed Banks This Year Were Bigger Than 25 That Crumbled in 2008</h3>
+<sub>By Karl Russell and Christine Zhang</sub>
+<p>First Republic Bank’s collapse makes 2023 a record year for bank failures in terms of total assets.  <a href="https://nyti.ms/3LnBbfA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>JPMorgan Chase Returns to a Familiar Role: Bank Rescuer</h3>
+<sub>By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Lauren Hirsch</sub>
+<p>The lending giant’s shares jumped on the news that it is buying First Republic. But investors are watching to see if the deal ends the regional banking crisis.  <a href="https://nyti.ms/3LItJM5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -77,10 +87,10 @@ Pope Francis recently revealed he was working on a &#39;mission&#39; of peace in
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Needing Younger Workers, Federal Officials Relax Rules on Past Drug Use</h3>
-<sub>By Ernesto Londoño</sub>
-<p>As more states legalize marijuana and competition for talent grows fiercer, the U.S. government is loosening guidelines from the “Just Say No” era.  <a href="https://nyti.ms/3LGgRWE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<h3>Independents Saw Urgency in Ousting Trump. Will They Feel the Same About Re-electing Biden?</h3>
+<sub>By Trip Gabriel</sub>
+<p>In Arizona, where independents are a crucial voting bloc, there might not be the same sense of urgency for a Biden-Trump rematch. And some voters might look elsewhere.  <a href="https://nyti.ms/3AKq4qN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Iranian Insider and British Spy: How a Double Life Ended on the Gallows</h3>
@@ -94,47 +104,35 @@ Pope Francis recently revealed he was working on a &#39;mission&#39; of peace in
 <p>ایران یک مقام ارشد پیشین را که به گفته‌ی مقامات اطلاعاتی غربی در طول یک دهه اطلاعات ارزشمندی در مورد برنامه‌های هسته‌ای و نظامی ایران در اختیار بریتانیا قرار داده بود، در ماه ژانویه اعدام کرد.  <a href="https://nyti.ms/3ANMsiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pope Reveals He’s Working on Secret ‘Mission’ of Peace in Ukraine</h3>
-<sub>By Jason Horowitz</sub>
-<p>Francis said he was doing “all that is humanly possible” to help return Ukrainian children taken to Russia and urged Hungary not to slam doors on migrants.  <a href="https://nyti.ms/3ALE7w0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘The Godfather of A.I.’ Leaves Google and Warns of Danger Ahead</h3>
+<sub>By Cade Metz</sub>
+<p>For half a century, Geoffrey Hinton nurtured the technology at the heart of chatbots like ChatGPT. Now he worries it will cause serious harm.  <a href="https://nyti.ms/42flixh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Scalia Law School Became a Key Friend of the Court</h3>
-<sub>By Steve Eder and Jo Becker</sub>
-<p>George Mason University’s law school cultivated ties to justices, with generous pay and unusual perks. In turn, it gained prestige, donations and influence.  <a href="https://nyti.ms/44hl7Da"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>When A.I. Chatbots Hallucinate</h3>
+<sub>By Karen Weise and Cade Metz</sub>
+<p>Ensuring that chatbots aren’t serving false information to users has become one of the most important and tricky tasks in the tech industry.  <a href="https://nyti.ms/3VhogyZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In San Francisco, a Troubled Year at a Whole Foods Market Reflects a City’s Woes</h3>
-<sub>By Thomas Fuller and Sharon LaFraniere</sub>
-<p>Tech workers have stayed home, and ongoing social problems downtown are forcing civic and business leaders to confront harsh realities about the city’s pandemic recovery.  <a href="https://nyti.ms/3neadgW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>What Exactly Are the Dangers Posed by A.I.?</h3>
+<sub>By Cade Metz</sub>
+<p>A recent letter calling for a moratorium on A.I development blends real threats with speculation. But concern is growing among experts.  <a href="https://nyti.ms/42cEFac"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Inside New York’s ‘Most Bizarre’ Secret Penthouse</h3>
-<sub>By Dodai Stewart</sub>
-<p>High above Bryant Park, painting, music, fashion and events are showcased in a quirky historic venue.  <a href="https://nyti.ms/44fLPMt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Kyrsten Sinema’s Party of One</h3>
+<sub>By Robert Draper</sub>
+<p>What the Arizona senator’s breakup with the Democrats means for American politics.  <a href="https://nyti.ms/40TQzon"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>After Student’s Suicide, an Elite School Says It Fell ‘Tragically Short’</h3>
-<sub>By Benjamin Weiser and Tracey Tully</sub>
-<p>The Lawrenceville School in New Jersey on Sunday made a remarkable admission of failure and committed to a new focus on mental health.  <a href="https://nyti.ms/3LGY0e9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Gov. Hochul Severs Ties With Top Political Adviser in Face of Backlash</h3>
-<sub>By Nicholas Fandos and Jeffery C. Mays</sub>
-<p>Gov. Kathy Hochul and the adviser, Adam Sullivan, agreed that he should step down after The New York Times detailed how his guidance and behavior were questioned by others.  <a href="https://nyti.ms/3LgJKHH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Hospitals Close and Doctors Flee, Sudan’s Health Care System Is Collapsing</h3>
-<sub>By Lynsey Chutel</sub>
-<p>The medical professionals who remain face meager supplies and harrowing conditions, even setting up field hospitals in living rooms amid the fighting.  <a href="https://nyti.ms/3NlR9bi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-fashion-blue" alt="">
+<h3>Quiz: How Well Do You Know Karl Lagerfeld?</h3>
+<sub>By Louis Lucero II</sub>
+<p>Test your knowledge of the Karl Lagerfeld, the ponytail-sporting avatar of high fashion who is the theme of this year’s Met Gala.  <a href="https://nyti.ms/426vvfd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
