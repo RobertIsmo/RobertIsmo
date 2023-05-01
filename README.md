@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 30, Central Standard Time</p>
 <p>
-There are a lot of changes happening in the world right now. In the US, there are a few stories about government officials relaxing rules on past drug use, as more states legalize marijuana and employers need to find younger talent. We&#39;re also hearing about how top universities have developed ties with justices and other courts for financial gain. 
+There is a lot going on in the world right now. In the US, federal officials are relaxing rules on past drug use because they need younger workers and competition for talent is growing fiercer. There is also a look at how an elite law school became a key friend of the court. 
 
-In other parts of the world, hundreds of Russian men are facing criminal charges for refusing to fight in Russia&#39;s invasion of Ukraine. We&#39;re also learning about how Sudan is struggling with its health care system collapsing, as hospitals close and many doctors flee due to poor supplies and harsh conditions. 
+In other news, Pope Francis has revealed he&#39;s working on a secret mission of peace in Ukraine, while Russian men face criminal charges for becoming war refuseniks. In San Francisco, there&#39;s been a troubled year at Whole Foods Market that reflects citywide woes. 
 
-Back in the US, President Biden made some jokes about the media at a White House Correspondents&#39; Association dinner, and we&#39;re seeing what people wore (including some surprises). There&#39;s news about a Whole Foods Market in San Francisco that has not done well during the pandemic, and a secret penthouse above New York&#39;s Bryant Park that&#39;s making headlines. And regulators have been preparing to seize First Republic Bank, which could be bought by JPMorgan, PNC, or Bank of America. 
+Also, New York has an interesting &#39;secret penthouse&#39; downtown, while an elite school admitted to failing after a student&#39;s suicide. Governor Hochul has also severed ties with her top political adviser due to backlash. 
 
-Finally, there is a new push to shield children online--a reminder of laws from the 1990s which tried to limit what kids could see online but were overturned in court.</p>
+On the business side, regulators are preparing to seize and sell First Republic Bank, as states push to protect kids online, which could potentially remold the Internet. Additionally, there are reports of Sudan&#39;s healthcare system collapsing as hospitals close and doctors flee. Lastly, Freya, the walrus killed by Norwegian officials is now immortalized as a sculpture to remind people about the importance of coexisting.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Needing Younger Workers, Federal Officials Relax Rules on Past Drug Use</h3>
@@ -81,21 +81,15 @@ Finally, there is a new push to shield children online--a reminder of laws from 
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pope Reveals He’s Working on Secret ‘Mission’ of Peace in Ukraine</h3>
+<sub>By Jason Horowitz</sub>
+<p>Francis said he was doing “all that is humanly possible” to help return Ukrainian children taken to Russia and urged Hungary not to slam doors on migrants.  <a href="https://nyti.ms/3ALE7w0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>They Refused to Fight for Russia. The Law Did Not Treat Them Kindly.</h3>
 <sub>By Neil MacFarquhar</sub>
 <p>Since Moscow’s invasion of Ukraine, hundreds of Russian men have faced criminal charges for becoming war refuseniks. That has not stopped others from going to unusual lengths to avoid battle.  <a href="https://nyti.ms/3VmSH6L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Gets a Chance to Mock Fox News, and Gleefully Takes It</h3>
-<sub>By Peter Baker and Katie Robertson</sub>
-<p>At the White House Correspondents’ Association dinner, President Biden also skewered CNN and made light of his age.  <a href="https://nyti.ms/3LGqrJ1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The White House Correspondents’ Association Dinner Best Dressed</h3>
-<sub>By Vanessa Friedman</sub>
-<p>Who were they? The answers may surprise you.  <a href="https://nyti.ms/42966S1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -113,7 +107,13 @@ Finally, there is a new push to shield children online--a reminder of laws from 
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>After Student’s Suicide, an Elite School Says It Fell ‘Tragically Short’</h3>
 <sub>By Benjamin Weiser and Tracey Tully</sub>
-<p>The Lawrenceville School in New Jersey on Sunday released a remarkable admission of failure and committed to a new focus on mental health.  <a href="https://nyti.ms/3LGY0e9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Lawrenceville School in New Jersey on Sunday made a remarkable admission of failure and committed to a new focus on mental health.  <a href="https://nyti.ms/3LGY0e9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Gov. Hochul Severs Ties With Top Political Adviser in Face of Backlash</h3>
+<sub>By Nicholas Fandos and Jeffery C. Mays</sub>
+<p>Gov. Kathy Hochul and the adviser, Adam Sullivan, agreed that he should step down after The New York Times detailed how his guidance and behavior were questioned by others.  <a href="https://nyti.ms/3LgJKHH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -128,16 +128,16 @@ Finally, there is a new push to shield children online--a reminder of laws from 
 <p>New age restrictions for minors on sites like TikTok and Pornhub could also hinder adults’ access to online services.  <a href="https://nyti.ms/3NqIeWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Echoes of History in New National Push to Shield Children Online</h3>
-<sub>By Kashmir Hill and Natasha Singer</sub>
-<p>In the 1990s, the U.S. government limited what young people could see online, but lost a court fight challenging those rules. Now it’s happening again.  <a href="https://nyti.ms/41RgY7r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Hospitals Close and Doctors Flee, Sudan’s Health Care System Is Collapsing</h3>
 <sub>By Lynsey Chutel</sub>
 <p>The medical professionals who remain face meager supplies and harrowing conditions, even setting up field hospitals in living rooms amid the fighting.  <a href="https://nyti.ms/3NlR9bi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Freya, the Walrus Killed by Norwegian Officials, Is Immortalized as a Sculpture</h3>
+<sub>By Lauren McCarthy</sub>
+<p>The bronze sculpture depicts the walrus on her side and should remind onlookers about the importance of coexisting, the artist said.  <a href="https://nyti.ms/44ji4L1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
