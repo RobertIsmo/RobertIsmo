@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, April 30, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, federal officials are relaxing rules on past drug use because they need younger workers and competition for talent is growing fiercer. There is also a look at how an elite law school became a key friend of the court. 
-
-In other news, Pope Francis has revealed he&#39;s working on a secret mission of peace in Ukraine, while Russian men face criminal charges for becoming war refuseniks. In San Francisco, there&#39;s been a troubled year at Whole Foods Market that reflects citywide woes. 
-
-Also, New York has an interesting &#39;secret penthouse&#39; downtown, while an elite school admitted to failing after a student&#39;s suicide. Governor Hochul has also severed ties with her top political adviser due to backlash. 
-
-On the business side, regulators are preparing to seize and sell First Republic Bank, as states push to protect kids online, which could potentially remold the Internet. Additionally, there are reports of Sudan&#39;s healthcare system collapsing as hospitals close and doctors flee. Lastly, Freya, the walrus killed by Norwegian officials is now immortalized as a sculpture to remind people about the importance of coexisting.</p>
+There&#39;s a lot going on in the world right now! In the US, the government is relaxing rules on past drug use to attract younger workers as more states legalize marijuana. Government officials are also becoming closer with George Mason University’s law school due to generous pay and perks they offer. Overseas, Pope Francis is working hard on a ‘mission’ of peace in Ukraine, while many Russian men have been charged for becoming war refuseniks since their invasion. And in San Francisco, tech workers are staying home and this has caused business leaders to reconsider their pandemic recovery plans. On a lighter note, there&#39;s also an eccentric secret &#39;penthouse&#39; located high above Bryant Park in New York City. Lastly, in Sudan their healthcare system is collapsing as hospitals close and doctors flee - but at least a dead walrus has been immortalized as a sculpture to remind onlookers of the importance of coexisting!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Needing Younger Workers, Federal Officials Relax Rules on Past Drug Use</h3>
@@ -119,7 +113,7 @@ On the business side, regulators are preparing to seize and sell First Republic 
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Regulators Prepare to Seize and Sell First Republic</h3>
 <sub>By Lauren Hirsch, Maureen Farrell and Jeanna Smialek</sub>
-<p>JPMorgan, PNC and Bank of America are said to be interested in acquiring the troubled lender after it is seized by the Federal Deposit Insurance Corporation.  <a href="https://nyti.ms/40OVYwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>JPMorgan and PNC are said to be interested in acquiring the troubled lender after it is seized by the Federal Deposit Insurance Corporation.  <a href="https://nyti.ms/40OVYwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
