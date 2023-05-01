@@ -60,7 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 1, Central Standard Time</p>
 <p>
-There is business news related to the recent sale of First Republic Bank to JPMorgan Chase, which involves the reopening of 84 branches in 8 states. Also, according to Western intelligence officials, Iran executed a former senior official who provided Britain with valuable intelligence on their nuclear and military programs. In the tech industry, there&#39;s been discussion about the potential dangers posed by A.I. chatbots, and how to ensure they don&#39;t give out false information. Last but not least, the theme of this year&#39;s Met Gala is iconic fashion designer Karl Lagerfeld - perfect opportunity to take a quiz on him!</p>
+There has been a lot of news involving the banking industry lately. Regulators recently shut down and seized First Republic Bank, which is now owned by JPMorgan Chase. This year has seen 3 major bank failures, which is more than in 2008. This has been the second-largest bank failure in U.S. history. As a result, people are questioning how the banking crisis has unfolded.
+
+On the political side, independents are a crucial voting bloc in the United States, especially in Arizona where they could potentially turn away from reelecting President Joe Biden in the upcoming election. 
+
+Internationally, Iran recently executed a former senior official who had worked as a British spy providing intelligence on nuclear and military plans. This came after conflicts between Ukraine and Russian forces, with an unusual wet ground making it hard for Ukraine to prepare a counteroffensive. 
+
+In terms of technology, Geoffrey Hinton recently left Google and warned about potential dangers posed by A.I., while chatbots becoming increasingly popular have made it difficult to ensure users don&#39;t receive false information. 
+
+Lastly, there was an article exploring Kyrsten Sinema&#39;s influence on American politics and her breakup with the Democratic Party.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>First Republic Bank Is Seized by Regulators and Sold to JPMorgan Chase</h3>
@@ -75,15 +83,15 @@ There is business news related to the recent sale of First Republic Bank to JPMo
 <sub><sub>Friday, March 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>JPMorgan Chase Returns to a Familiar Role: Bank Rescuer</h3>
-<sub>By Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Lauren Hirsch</sub>
-<p>The lending giant’s shares jumped on the news that it is buying First Republic. But investors are watching to see if the deal ends the regional banking crisis.  <a href="https://nyti.ms/3LItJM5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>First Republic Is Sold: What to Know</h3>
 <sub>By Lora Kelley</sub>
 <p>First Republic is the second-largest bank by assets to fail in U.S. history. Here are some answers to questions you may have about what comes next for the bank and for depositors’ money.  <a href="https://nyti.ms/3HtkfBT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Timeline of How the Banking Crisis Has Unfolded</h3>
+<sub>By Madeleine Ngo</sub>
+<p>First Republic’s downfall was just the latest in a series of problems affecting midsize banks.  <a href="https://nyti.ms/3LH2Sjk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,17 +130,17 @@ There is business news related to the recent sale of First Republic Bank to JPMo
 <p>A recent letter calling for a moratorium on A.I development blends real threats with speculation. But concern is growing among experts.  <a href="https://nyti.ms/42cEFac"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Wants to Push Forward. Not So Fast, Says Its Black Soupy Mud.</h3>
+<sub>By Michael Schwirtz</sub>
+<p>The unusually wet ground is one obstacle that the Ukrainian military, for all of its ingenuity, is finding difficult to overcome as it prepares for a counteroffensive against Russian forces.  <a href="https://nyti.ms/3Nstbet"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Kyrsten Sinema’s Party of One</h3>
 <sub>By Robert Draper</sub>
 <p>What the Arizona senator’s breakup with the Democrats means for American politics.  <a href="https://nyti.ms/40TQzon"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-fashion-blue" alt="">
-<h3>Quiz: How Well Do You Know Karl Lagerfeld?</h3>
-<sub>By Louis Lucero II</sub>
-<p>Test your knowledge of the Karl Lagerfeld, the ponytail-sporting avatar of high fashion who is the theme of this year’s Met Gala.  <a href="https://nyti.ms/426vvfd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, April 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
