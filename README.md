@@ -60,24 +60,50 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 1, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, federal officials have relaxed rules around past drug use in order to attract younger workers. A law school has been cultivating close ties with justices and offering generous pay to gain influence. The Pope is on a secret mission of peace in Ukraine, and in San Francisco there are ongoing social problems caused by the pandemic. In New York, there&#39;s a secret penthouse full of fun events and elite schools are re-focusing on mental health. In business news, regulators are preparing to seize and sell First Republic Bank and states are trying to protect minors online. Globally, Sudan&#39;s healthcare system is collapsing due to hospital closures, while Norway has immortalized Freya the walrus as a sculpture to remind us of our need to coexist with nature. Lastly, Japan is considering saying goodbye to its baseball past by redeveloping stadiums.</p>
+There is a lot going on in the world right now. In the US, regulators have taken over a big bank and sold it to JPMorgan Chase. As part of the deal, 84 branches will be re-opened. Also, the government is relaxing rules on drug use as competition for talent increases. On the other hand, Iran executed a former senior official who had provided intelligence to Britain regarding Iranian nuclear and military programs. 
+
+Pope Francis recently revealed he was working on a &#39;mission&#39; of peace in Ukraine, while in San Francisco, a Whole Foods Market is reflecting the city&#39;s woes with fewer tech workers spending money in the area. Meanwhile, an elite New York school has admitted to falling &#39;tragically short&#39; after a student&#39;s suicide, and Governor Hochul severed ties with her top political adviser due to backlash from an article The New York Times published. Lastly, Sudan is facing collapse of its health care system as hospitals close down and doctors flee.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>First Republic Bank Is Seized by Regulators and Sold to JPMorgan Chase</h3>
+<sub>By Maureen Farrell, Lauren Hirsch and Jeanna Smialek</sub>
+<p>As part of its deal, 84 First Republic branches in eight states will reopen as JPMorgan branches on Monday.  <a href="https://nyti.ms/3LpkNtw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>First Republic Is Sold: What to Know</h3>
+<sub>By Lora Kelley</sub>
+<p>First Republic is the second-largest bank by assets to fail in U.S. history. Here are some answers to questions you may have about what comes next for the bank and for depositors’ money.  <a href="https://nyti.ms/3HtkfBT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Needing Younger Workers, Federal Officials Relax Rules on Past Drug Use</h3>
 <sub>By Ernesto Londoño</sub>
 <p>As more states legalize marijuana and competition for talent grows fiercer, the U.S. government is loosening guidelines from the “Just Say No” era.  <a href="https://nyti.ms/3LGgRWE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Scalia Law School Became a Key Friend of the Court</h3>
-<sub>By Steve Eder and Jo Becker</sub>
-<p>George Mason University’s law school cultivated ties to justices, with generous pay and unusual perks. In turn, it gained prestige, donations and influence.  <a href="https://nyti.ms/44hl7Da"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Iranian Insider and British Spy: How a Double Life Ended on the Gallows</h3>
+<sub>By Farnaz Fassihi and Ronen Bergman</sub>
+<p>In January, Iran executed a former senior official who provided Britain with valuable intelligence on Iranian nuclear and military programs over a decade, according to Western intelligence officials.  <a href="https://nyti.ms/44jbO5G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>مقام عالی‌رتبه داخلی و جاسوس بریتانیا: زندگی دوگانه‌ای که به چوبه‌ی دار ختم شد</h3>
+<sub>By Farnaz Fassihi and Ronen Bergman</sub>
+<p>ایران یک مقام ارشد پیشین را که به گفته‌ی مقامات اطلاعاتی غربی در طول یک دهه اطلاعات ارزشمندی در مورد برنامه‌های هسته‌ای و نظامی ایران در اختیار بریتانیا قرار داده بود، در ماه ژانویه اعدام کرد.  <a href="https://nyti.ms/3ANMsiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Pope Reveals He’s Working on Secret ‘Mission’ of Peace in Ukraine</h3>
 <sub>By Jason Horowitz</sub>
 <p>Francis said he was doing “all that is humanly possible” to help return Ukrainian children taken to Russia and urged Hungary not to slam doors on migrants.  <a href="https://nyti.ms/3ALE7w0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Scalia Law School Became a Key Friend of the Court</h3>
+<sub>By Steve Eder and Jo Becker</sub>
+<p>George Mason University’s law school cultivated ties to justices, with generous pay and unusual perks. In turn, it gained prestige, donations and influence.  <a href="https://nyti.ms/44hl7Da"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,34 +130,10 @@ There is a lot going on in the world right now. In the US, federal officials hav
 <p>Gov. Kathy Hochul and the adviser, Adam Sullivan, agreed that he should step down after The New York Times detailed how his guidance and behavior were questioned by others.  <a href="https://nyti.ms/3LgJKHH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Regulators Prepare to Seize and Sell First Republic</h3>
-<sub>By Lauren Hirsch, Maureen Farrell and Jeanna Smialek</sub>
-<p>JPMorgan and PNC are said to be interested in acquiring the troubled lender after it is seized by the Federal Deposit Insurance Corporation.  <a href="https://nyti.ms/40OVYwT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, April 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>States’ Push to Protect Kids Online Could Remake the Internet</h3>
-<sub>By Natasha Singer</sub>
-<p>New age restrictions for minors on sites like TikTok and Pornhub could also hinder adults’ access to online services.  <a href="https://nyti.ms/3NqIeWa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Hospitals Close and Doctors Flee, Sudan’s Health Care System Is Collapsing</h3>
 <sub>By Lynsey Chutel</sub>
 <p>The medical professionals who remain face meager supplies and harrowing conditions, even setting up field hospitals in living rooms amid the fighting.  <a href="https://nyti.ms/3NlR9bi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Freya, the Walrus Killed by Norwegian Officials, Is Immortalized as a Sculpture</h3>
-<sub>By Lauren McCarthy</sub>
-<p>The bronze sculpture depicts the walrus on her side and should remind onlookers about the importance of coexisting, the artist said.  <a href="https://nyti.ms/44ji4L1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Looking to the Future, Japan Would Say Goodbye to Its Baseball Past</h3>
-<sub>By Joshua Mellin</sub>
-<p>A polarizing redevelopment plan would level Meiji Jingu, a stadium where Babe Ruth dominated and the novelist Haruki Murakami was inspired.  <a href="https://nyti.ms/44ri6R4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
