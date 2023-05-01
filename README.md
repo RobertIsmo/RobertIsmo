@@ -60,44 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 1, Central Standard Time</p>
 <p>
-There has been a lot of news involving the banking industry lately. Regulators recently shut down and seized First Republic Bank, which is now owned by JPMorgan Chase. This year has seen 3 major bank failures, which is more than in 2008. This has been the second-largest bank failure in U.S. history. As a result, people are questioning how the banking crisis has unfolded.
+There are some interesting developments happening in the world right now. In the business world, regulators have seized First Republic Bank and sold it to JPMorgan Chase. Over in Iran, a senior ex-official was executed for providing intelligence to Britain on nuclear and military programs over the past decade. 
 
-On the political side, independents are a crucial voting bloc in the United States, especially in Arizona where they could potentially turn away from reelecting President Joe Biden in the upcoming election. 
+Meanwhile, a prominent figure in artificial intelligence is parting ways with Google and warning of potential dangers to come. Speaking of AI, researchers are even getting better at mind-reading using language models and brain activity. And of course, there&#39;s always concerns and debates on how dangerous AI could really become.
 
-Internationally, Iran recently executed a former senior official who had worked as a British spy providing intelligence on nuclear and military plans. This came after conflicts between Ukraine and Russian forces, with an unusual wet ground making it hard for Ukraine to prepare a counteroffensive. 
-
-In terms of technology, Geoffrey Hinton recently left Google and warned about potential dangers posed by A.I., while chatbots becoming increasingly popular have made it difficult to ensure users don&#39;t receive false information. 
-
-Lastly, there was an article exploring Kyrsten Sinema&#39;s influence on American politics and her breakup with the Democratic Party.</p>
+In Ukraine, they&#39;re trying to take on the Russian forces but are hindered by the wet ground that creates black soupy mud. Here in the US there&#39;s a lot of political action happening too - Kentucky Republicans are fighting for a governor nominee, Washington&#39;s climate champion Jay Inslee won&#39;t run for re-election, and Senator Ben Cardin of Maryland will be retiring soon.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In an Unsteady Banking Industry, First Republic’s Problems Stood Out</h3>
+<sub>By Stacy Cowley</sub>
+<p>The bank’s rivals appear on firmer footing this time, in contrast with the widespread panic after the failures of Silicon Valley Bank and Signature Bank in March.  <a href="https://nyti.ms/3B1LTCt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>First Republic Bank Is Seized by Regulators and Sold to JPMorgan Chase</h3>
-<sub>By Maureen Farrell, Lauren Hirsch and Jeanna Smialek</sub>
-<p>As part of its deal, 84 First Republic branches in eight states will reopen as JPMorgan branches on Monday.  <a href="https://nyti.ms/3LpkNtw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>3 Failed Banks This Year Were Bigger Than 25 That Crumbled in 2008</h3>
-<sub>By Karl Russell and Christine Zhang</sub>
-<p>First Republic Bank’s collapse makes 2023 a record year for bank failures in terms of total assets.  <a href="https://nyti.ms/3LnBbfA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>First Republic Is Sold: What to Know</h3>
-<sub>By Lora Kelley</sub>
-<p>First Republic is the second-largest bank by assets to fail in U.S. history. Here are some answers to questions you may have about what comes next for the bank and for depositors’ money.  <a href="https://nyti.ms/3HtkfBT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Timeline of How the Banking Crisis Has Unfolded</h3>
-<sub>By Madeleine Ngo</sub>
-<p>First Republic’s downfall was just the latest in a series of problems affecting midsize banks.  <a href="https://nyti.ms/3LH2Sjk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Independents Saw Urgency in Ousting Trump. Will They Feel the Same About Re-electing Biden?</h3>
-<sub>By Trip Gabriel</sub>
-<p>In Arizona, where independents are a crucial voting bloc, there might not be the same sense of urgency for a Biden-Trump rematch. And some voters might look elsewhere.  <a href="https://nyti.ms/3AKq4qN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Maureen Farrell, Jeanna Smialek and Lauren Hirsch</sub>
+<p>As part of the deal, 84 First Republic branches in eight states reopened as JPMorgan branches on Monday.  <a href="https://nyti.ms/3LpkNtw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -118,10 +96,10 @@ Lastly, there was an article exploring Kyrsten Sinema&#39;s influence on America
 <p>For half a century, Geoffrey Hinton nurtured the technology at the heart of chatbots like ChatGPT. Now he worries it will cause serious harm.  <a href="https://nyti.ms/42flixh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>When A.I. Chatbots Hallucinate</h3>
-<sub>By Karen Weise and Cade Metz</sub>
-<p>Ensuring that chatbots aren’t serving false information to users has become one of the most important and tricky tasks in the tech industry.  <a href="https://nyti.ms/3VhogyZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>A.I. Is Getting Better at Mind-Reading</h3>
+<sub>By Oliver Whang</sub>
+<p>In a recent experiment, researchers used large language models to translate brain activity into words.  <a href="https://nyti.ms/3nkvtBM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -140,6 +118,24 @@ Lastly, there was an article exploring Kyrsten Sinema&#39;s influence on America
 <h3>Kyrsten Sinema’s Party of One</h3>
 <sub>By Robert Draper</sub>
 <p>What the Arizona senator’s breakup with the Democrats means for American politics.  <a href="https://nyti.ms/40TQzon"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Hostile, Under-the-Radar Primary Splinters Republicans</h3>
+<sub>By Nick Corasaniti</sub>
+<p>Kentucky Republicans are fighting over a nominee to challenge the Democratic governor, with a longtime Mitch McConnell ally squaring off against a wealthy former Trump administration ambassador.  <a href="https://nyti.ms/3AJwTJ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gov. Jay Inslee of Washington, Climate Champion, Won’t Seek Re-Election</h3>
+<sub>By Reid J. Epstein</sub>
+<p>Mr. Inslee, 72, a former presidential candidate and a leading Democratic proponent of policies to slow climate change, said he would not seek a fourth term.  <a href="https://nyti.ms/3AHn5z9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senator Ben Cardin Will Retire, Teeing Up Competitive Primaries in Maryland</h3>
+<sub>By Trip Gabriel</sub>
+<p>His retirement is likely to draw a number of Democrats and Republicans to compete for the seat.  <a href="https://nyti.ms/44khuN2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
