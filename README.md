@@ -60,12 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 1, Central Standard Time</p>
 <p>
-There are some interesting developments happening in the world right now. In the business world, regulators have seized First Republic Bank and sold it to JPMorgan Chase. Over in Iran, a senior ex-official was executed for providing intelligence to Britain on nuclear and military programs over the past decade. 
+Recently, the U.S.&#39;s Treasury Secretary Janet L. Yellen warned that the country could run out of cash by June 1, and called on Congress to take action. This is in a context of an unsteady banking industry, with one bank, First Republic, having been seized by regulators and sold off to JPMorgan Chase. Prisons in the U.S. are facing staff shortages, so they are enlisting teachers and case managers as guards. 
 
-Meanwhile, a prominent figure in artificial intelligence is parting ways with Google and warning of potential dangers to come. Speaking of AI, researchers are even getting better at mind-reading using language models and brain activity. And of course, there&#39;s always concerns and debates on how dangerous AI could really become.
-
-In Ukraine, they&#39;re trying to take on the Russian forces but are hindered by the wet ground that creates black soupy mud. Here in the US there&#39;s a lot of political action happening too - Kentucky Republicans are fighting for a governor nominee, Washington&#39;s climate champion Jay Inslee won&#39;t run for re-election, and Senator Ben Cardin of Maryland will be retiring soon.</p>
+Meanwhile, AI is becoming better at natural language comprehension and mind reading, prompting warnings from experts about its potential for danger. In Ukraine, wet ground is causing challenges for their military as they prepare for a counteroffensive against Russia. In Arizona, Senator Kyrsten Sinema has broken away from the Democratic Party and Republican primaries are getting increasingly hostile. Finally, Washington state&#39;s Governor Jay Inslee will not seek re-election and in Maryland Senator Ben Cardin is retiring which will start competitive primaries for his seat.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Could Run Out of Cash by June 1, Yellen Warns</h3>
+<sub>By Alan Rappeport</sub>
+<p>Janet L. Yellen, the Treasury secretary, called on Congress to raise or suspend the debt limit so the United States could continue paying its bills.  <a href="https://nyti.ms/3VphjMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>In an Unsteady Banking Industry, First Republic’s Problems Stood Out</h3>
 <sub>By Stacy Cowley</sub>
@@ -78,16 +82,10 @@ In Ukraine, they&#39;re trying to take on the Russian forces but are hindered by
 <p>As part of the deal, 84 First Republic branches in eight states reopened as JPMorgan branches on Monday.  <a href="https://nyti.ms/3LpkNtw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Iranian Insider and British Spy: How a Double Life Ended on the Gallows</h3>
-<sub>By Farnaz Fassihi and Ronen Bergman</sub>
-<p>In January, Iran executed a former senior official who provided Britain with valuable intelligence on Iranian nuclear and military programs over a decade, according to Western intelligence officials.  <a href="https://nyti.ms/44jbO5G"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>مقام عالی‌رتبه داخلی و جاسوس بریتانیا: زندگی دوگانه‌ای که به چوبه‌ی دار ختم شد</h3>
-<sub>By Farnaz Fassihi and Ronen Bergman</sub>
-<p>ایران یک مقام ارشد پیشین را که به گفته‌ی مقامات اطلاعاتی غربی در طول یک دهه اطلاعات ارزشمندی در مورد برنامه‌های هسته‌ای و نظامی ایران در اختیار بریتانیا قرار داده بود، در ماه ژانویه اعدام کرد.  <a href="https://nyti.ms/3ANMsiN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Short on Staff, Prisons Enlist Teachers and Case Managers as Guards</h3>
+<sub>By Glenn Thrush</sub>
+<p>The patchwork system that has evolved to address the situation has drained morale among staff members and placed additional strains on prisoners.  <a href="https://nyti.ms/3APS9Nb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -134,7 +132,7 @@ In Ukraine, they&#39;re trying to take on the Russian forces but are hindered by
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Senator Ben Cardin Will Retire, Teeing Up Competitive Primaries in Maryland</h3>
-<sub>By Trip Gabriel</sub>
+<sub>By Trip Gabriel and Luke Broadwater</sub>
 <p>His retirement is likely to draw a number of Democrats and Republicans to compete for the seat.  <a href="https://nyti.ms/44khuN2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
