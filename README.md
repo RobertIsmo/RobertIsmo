@@ -60,14 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 1, Central Standard Time</p>
 <p>
-Recently, the U.S.&#39;s Treasury Secretary Janet L. Yellen warned that the country could run out of cash by June 1, and called on Congress to take action. This is in a context of an unsteady banking industry, with one bank, First Republic, having been seized by regulators and sold off to JPMorgan Chase. Prisons in the U.S. are facing staff shortages, so they are enlisting teachers and case managers as guards. 
-
-Meanwhile, AI is becoming better at natural language comprehension and mind reading, prompting warnings from experts about its potential for danger. In Ukraine, wet ground is causing challenges for their military as they prepare for a counteroffensive against Russia. In Arizona, Senator Kyrsten Sinema has broken away from the Democratic Party and Republican primaries are getting increasingly hostile. Finally, Washington state&#39;s Governor Jay Inslee will not seek re-election and in Maryland Senator Ben Cardin is retiring which will start competitive primaries for his seat.</p>
+It looks like the US might be running out of cash soon, but that President Biden is meeting with lawmakers to try and avoid a default. In the banking industry, First Republic Bank recently had a late-night handle of negotiations, which left JPMorgan in control. On the fashion front, people are gearing up for the 2023 Met Gala, where the highlight will be honoring the late Karl Lagerfeld. Meanwhile, U.S. prisons are struggling with lack of staff and have resorted to bringing in teachers and case managers to act as guards. Technology is advancing quickly, with &quot;the Godfather of A.I.&quot; leaving Google while cautioning us against its dangers.  On an international level, things are getting tense with Russia and Ukraine being involved in some hostile counterattacks. Politics-wise, Kyrsten Sinema is stirring up quite a storm by ditching her Democratic ties and a Republican primary battle between Mitch McConnell&#39;s man and a former Trump official is heating up. Finally, Vice may be headed for bankruptcy after struggling to find new buyers this year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Could Run Out of Cash by June 1, Yellen Warns</h3>
-<sub>By Alan Rappeport</sub>
-<p>Janet L. Yellen, the Treasury secretary, called on Congress to raise or suspend the debt limit so the United States could continue paying its bills.  <a href="https://nyti.ms/3VphjMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Alan Rappeport and Jim Tankersley</sub>
+<p>President Biden said he would meet with lawmakers on May 9 to discuss ways to avoid a default.  <a href="https://nyti.ms/3VphjMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Late-Night Negotiating Frenzy Left First Republic in JPMorgan’s Control</h3>
+<sub>By Maureen Farrell, Matthew Goldstein and Lauren Hirsch</sub>
+<p>The resolution of First Republic Bank came after a frantic night of deal making by government officials and executives at the country’s biggest bank.  <a href="https://nyti.ms/3neLdq3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -76,10 +80,10 @@ Meanwhile, AI is becoming better at natural language comprehension and mind read
 <p>The bank’s rivals appear on firmer footing this time, in contrast with the widespread panic after the failures of Silicon Valley Bank and Signature Bank in March.  <a href="https://nyti.ms/3B1LTCt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>First Republic Bank Is Seized by Regulators and Sold to JPMorgan Chase</h3>
-<sub>By Maureen Farrell, Jeanna Smialek and Lauren Hirsch</sub>
-<p>As part of the deal, 84 First Republic branches in eight states reopened as JPMorgan branches on Monday.  <a href="https://nyti.ms/3LpkNtw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-fashion-blue" alt="">
+<h3>2023 Met Gala: Red Carpet Roundup</h3>
+<sub>By The Styles Desk</sub>
+<p>Some of the biggest names from Hollywood, fashion, politics, media and music arrive to honor Karl Lagerfeld for fashion’s biggest night  <a href="https://nyti.ms/3LkUZih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -94,12 +98,6 @@ Meanwhile, AI is becoming better at natural language comprehension and mind read
 <p>For half a century, Geoffrey Hinton nurtured the technology at the heart of chatbots like ChatGPT. Now he worries it will cause serious harm.  <a href="https://nyti.ms/42flixh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>A.I. Is Getting Better at Mind-Reading</h3>
-<sub>By Oliver Whang</sub>
-<p>In a recent experiment, researchers used large language models to translate brain activity into words.  <a href="https://nyti.ms/3nkvtBM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>What Exactly Are the Dangers Posed by A.I.?</h3>
 <sub>By Cade Metz</sub>
@@ -107,9 +105,9 @@ Meanwhile, AI is becoming better at natural language comprehension and mind read
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Wants to Push Forward. Not So Fast, Says Its Black Soupy Mud.</h3>
-<sub>By Michael Schwirtz</sub>
-<p>The unusually wet ground is one obstacle that the Ukrainian military, for all of its ingenuity, is finding difficult to overcome as it prepares for a counteroffensive against Russian forces.  <a href="https://nyti.ms/3Nstbet"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Signs Point to Counteroffensive, Russia and Ukraine Step Up Attacks</h3>
+<sub>By Marc Santora</sub>
+<p>Russian forces were reportedly moving into defensive positions, as Ukraine’s defense chief said the military was “reaching the finish line” for a major push to reclaim occupied land.  <a href="https://nyti.ms/3LIqXX0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -124,16 +122,16 @@ Meanwhile, AI is becoming better at natural language comprehension and mind read
 <p>Kentucky Republicans are fighting over a nominee to challenge the Democratic governor, with a longtime Mitch McConnell ally squaring off against a wealthy former Trump administration ambassador.  <a href="https://nyti.ms/3AJwTJ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gov. Jay Inslee of Washington, Climate Champion, Won’t Seek Re-Election</h3>
-<sub>By Reid J. Epstein</sub>
-<p>Mr. Inslee, 72, a former presidential candidate and a leading Democratic proponent of policies to slow climate change, said he would not seek a fourth term.  <a href="https://nyti.ms/3AHn5z9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>He Bombed the Nazis. 75 Years Later, the Nightmares Began.</h3>
+<sub>By Michael Wilson</sub>
+<p>Like most of his generation, John Wenzel returned from World War II with no interest in sharing memories. Just shy of his 100th birthday, he found he could no longer ignore the past.  <a href="https://nyti.ms/42b7bsM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senator Ben Cardin Will Retire, Teeing Up Competitive Primaries in Maryland</h3>
-<sub>By Trip Gabriel and Luke Broadwater</sub>
-<p>His retirement is likely to draw a number of Democrats and Republicans to compete for the seat.  <a href="https://nyti.ms/44khuN2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Vice Is Said to Be Headed for Bankruptcy</h3>
+<sub>By Lauren Hirsch and Benjamin Mullin</sub>
+<p>The company, which was once valued at $5.7 billion, has been struggling to find a buyer this year.  <a href="https://nyti.ms/3oWZN5S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
