@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 2, Central Standard Time</p>
 <p>
-There seems to be a lot happening in the world right now! Big banks like JPMorgan are rescuing struggling companies, while the Federal Reserve has been forced to make another bank collapse policy decision. The U.S. is also running out of money and President Biden is trying to avoid a default, while Hollywood writers have gone on strike, halting production. On the international scene, there is a Cold War-like chill in Germany where Russian spies are hiding in plain sight, and South Korea is facing its long-buried history of women&#39;s exploitation for American soldiers. In terms of energy solutions, there is the growing trend of using pumped storage (rather than dams) for hydropower. Technology giant Google promised not to fund climate lies, but the ads keep coming and fashion was all about Karl Lagerfield at the Met Gala. Finally, music legend Gordon Lightfoot passed away at 84 this week leaving behind many of his hit songs.</p>
+In the US, debates over the constitutionality of the debt limit are taking place as the government is facing imminent default. Democrats in the House are working on plans to increase the debt ceiling and prevent a default. Meanwhile, people are learning more about what exactly the debt ceiling is, and how large banks can be stable even during hard economic times. The Federal Reserve is also considering raising interest rates in light of new bank failures. Markets are fluctuating due to fears of further bank instability and a weaker economic outlook. In Hollywood, there is a writers&#39; strike affecting late night television shows. In Germany, Russian spies have been exposed engaging in covert operations on German soil which has lead to a Cold War-style chill between Berlin and Moscow. Moreover, South Korea still has to deal with its history of compelling women into prostitution for American soldiers from decades ago. On an environmental note, a new way of producing hydropower electricity -- known as pumped storage -- is gaining traction around the world. Lastly, former president Donald Trump is facing allegations of rape by author E. Jean Carroll and she is currently undergoing cross-examination by her legal team seeking to bolster her case.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Is the Debt Limit Constitutional? Biden Aides Are Debating It.</h3>
+<sub>By Jim Tankersley</sub>
+<p>As the government heads toward a possible default on its debt as soon as next month, officials are entertaining a legal theory that previous administrations ruled out.  <a href="https://nyti.ms/3Vnl8S6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Democrats Move to Force a Debt-Limit Increase as Default Date Looms</h3>
+<sub>By Carl Hulse</sub>
+<p>House Democratic leaders who have been quietly planning a strategy to force a debt ceiling increase to avert default began taking steps on Tuesday to deploy their secret weapon.  <a href="https://nyti.ms/3AJAff8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Everything You Need to Know About the Debt Ceiling</h3>
+<sub>By Alan Rappeport</sub>
+<p>Congress controls how much money the United States can borrow. Here’s a look at why that is and what it means.  <a href="https://nyti.ms/44nTuIU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How JPMorgan Became Banking’s Regular Rescuer</h3>
 <sub>By Emily Flitter</sub>
@@ -74,17 +92,17 @@ There seems to be a lot happening in the world right now! Big banks like JPMorga
 <p>The Federal Reserve will release a policy decision on Wednesday on the heels of another bank collapse.  <a href="https://nyti.ms/41Ti8PL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Could Run Out of Cash by June 1, Yellen Warns</h3>
-<sub>By Alan Rappeport and Jim Tankersley</sub>
-<p>President Biden said he would meet with lawmakers on May 9 to discuss ways to avoid a default.  <a href="https://nyti.ms/3VphjMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Markets Sink on Fears About Banks and Weaker Economic Outlook</h3>
+<sub>By Joe Rennison</sub>
+<p>The relative calm that met the collapse of First Republic Bank on Monday was shattered on Tuesday, with broad-based declines across industries.  <a href="https://nyti.ms/3nmPqYK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Hollywood Writers Go on Strike, Halting Production</h3>
-<sub>By John Koblin and Brooks Barnes</sub>
-<p>The dispute, which pits 11,500 television and screenwriters against the major studios, has shattered 15 years of labor peace in the entertainment business.  <a href="https://nyti.ms/3LN0uaI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<h3>Late Shows Go Dark in First Fallout From Strike</h3>
+<sub>By John Koblin</sub>
+<p>How long they stay off the air is an open question. During the last strike, they gradually returned after a couple of months.  <a href="https://nyti.ms/3AIS7Hb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How Will the Writers’ Strike Affect Your Favorite Show?</h3>
@@ -110,29 +128,11 @@ There seems to be a lot happening in the world right now! Big banks like JPMorga
 <p>So-called pumped storage, rather than conventional dams, is emerging as the future of deriving electricity from water&#39;s gravitational qualities.  <a href="https://nyti.ms/3AMSnVE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google Promised to Defund Climate Lies, but the Ads Keep Coming</h3>
-<sub>By Nico Grant and Steven Lee Myers</sub>
-<p>Google said in 2021 that it would stop running ads alongside videos and other content that denied the existence and causes of climate change.  <a href="https://nyti.ms/3HvgM5C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Carroll’s Friend Tells of a Fraught Call Reporting an Attack by Trump</h3>
+<sub>By Lola Fadulu, Kate Christobek and Benjamin Weiser</sub>
+<p>E. Jean Carroll, who has accused the former president of raping her, has finished her cross-examination. Her lawyers are calling witnesses to bolster her case.  <a href="https://nyti.ms/40YkGLp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>What Would Karl Have Thought of It All?</h3>
-<sub>By Vanessa Friedman</sub>
-<p>Karl Lagerfeld was famous for not holding back. So what would he have said about the looks worn in his (and his cat’s) honor?  <a href="https://nyti.ms/42dQBsf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-fashion-blue" alt="">
-<h3>17 Looks That Did the Most at the Met Gala</h3>
-<sub>By The Styles Desk</sub>
-<p>Who interpreted (or ignored) the Karl Lagerfeld theme best? Hint: Doja Cat, Lil Nas X, Phoebe Bridgers, Jared Leto and Anok Yai made the list.  <a href="https://nyti.ms/3oPX8uE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Gordon Lightfoot, Hitmaking Singer-Songwriter, Is Dead at 84</h3>
-<sub>By William Grimes</sub>
-<p>His rich baritone and gift for melodies made him one of the most popular artists of the 1970s with songs like “The Wreck of the Edmund Fitzgerald” and “If You Could Read My Mind.”  <a href="https://nyti.ms/3nsPSEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
