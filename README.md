@@ -58,14 +58,44 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, May 1, Central Standard Time</p>
+<p>It is Tuesday, May 2, Central Standard Time</p>
 <p>
-There&#39;s quite a lot happening in the world at the moment. The US Treasury Secretary recently warned that the US could run out of money by June 1 due to their financial situation. Meanwhile, after a night of negotiations, JP Morgan now controls First Republic Bank in the banking industry, despite the instability surrounding it. On another note, Karl Lagerfeld was recently honored at the 2023 Met Gala and &#39;Godfather of A.I&#39; Geoffrey Hinton has left Google prompting warnings about potential dangers posed by A.I. development. In other news, Russia and Ukraine have been involved in a standoff which looks to be escalating and Gordon Lightfoot, a famous Canadian folk singer, passed away at 84 years old. There have been issues concerning staff shortages in prisons resulting in more stress for prisoners and Kyrsten Sinema of Arizona is causing a stir after breaking with Democrats in her state. Finally, Vice Media may be heading for bankruptcy despite being valued at $5.7 billion earlier this year.</p>
+Right now, there&#39;s a lot going on around the world. In the business world, Hollywood writers have gone on strike which is halting production. There was also news from the US that they might run out of cash by June 1. In fashion, people are looking back at the Met Gala from May, and planning for next year&#39;s gala in 2023. On the political front, Russian and Ukraine are escalating their attacks against each other, and tensions are high in the US Government. In music, Gordon Lightfoot, one of the most popular artists of the 1970s, just passed away at 84. And finally in technology, AI has been receiving a lot of attention lately, as some experts are raising concerns about its potential dangers.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Hollywood Writers Will Go on Strike, Halting Production</h3>
+<sub>By John Koblin and Brooks Barnes</sub>
+<p>The dispute, which pits 11,500 television and screenwriters against the major studios, has shattered 15 years of labor peace in the entertainment business.  <a href="https://nyti.ms/3LN0uaI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Happens to Your Favorite Show? Answers to Questions About the Writers’ Strike.</h3>
+<sub>By John Koblin and Brooks Barnes</sub>
+<p>What you need to know about the first Hollywood strike in 16 years.  <a href="https://nyti.ms/42swzuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Could Run Out of Cash by June 1, Yellen Warns</h3>
 <sub>By Alan Rappeport and Jim Tankersley</sub>
 <p>President Biden said he would meet with lawmakers on May 9 to discuss ways to avoid a default.  <a href="https://nyti.ms/3VphjMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-fashion-blue" alt="">
+<h3>17 Looks That Did the Most at the Met Gala</h3>
+<sub>By The Styles Desk</sub>
+<p>Who interpreted (or ignored) the Karl Lagerfeld theme best? Hint: Doja Cat, Lil Nas X, Phoebe Bridgers, Jared Leto and Anok Yai made the list.  <a href="https://nyti.ms/3oPX8uE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-fashion-blue" alt="">
+<h3>2023 Met Gala: Red Carpet Roundup</h3>
+<sub>By The Styles Desk</sub>
+<p>Some of the biggest names from Hollywood, fashion, politics, media and music arrived to honor Karl Lagerfeld for fashion’s biggest night.  <a href="https://nyti.ms/3LkUZih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Signs Point to Counteroffensive, Russia and Ukraine Step Up Attacks</h3>
+<sub>By Marc Santora</sub>
+<p>Russian forces were reportedly moving into defensive positions, as Ukraine’s defense chief said the military was “reaching the finish line” for a major push to reclaim occupied land.  <a href="https://nyti.ms/3LIqXX0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -80,10 +110,10 @@ There&#39;s quite a lot happening in the world at the moment. The US Treasury Se
 <p>The bank’s rivals appear on firmer footing this time, in contrast with the widespread panic after the failures of Silicon Valley Bank and Signature Bank in March.  <a href="https://nyti.ms/3B1LTCt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-fashion-blue" alt="">
-<h3>2023 Met Gala: Red Carpet Roundup</h3>
-<sub>By The Styles Desk</sub>
-<p>Some of the biggest names from Hollywood, fashion, politics, media and music arrive to honor Karl Lagerfeld for fashion’s biggest night.  <a href="https://nyti.ms/3LkUZih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Gordon Lightfoot, Hitmaking Singer-Songwriter, Is Dead at 84</h3>
+<sub>By William Grimes</sub>
+<p>His rich baritone and gift for melodies made him one of the most popular artists of the 1970s with songs like “The Wreck of the Edmund Fitzgerald” and “If You Could Read My Mind.”  <a href="https://nyti.ms/3nsPSEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -98,40 +128,10 @@ There&#39;s quite a lot happening in the world at the moment. The US Treasury Se
 <p>A recent letter calling for a moratorium on A.I development blends real threats with speculation. But concern is growing among experts.  <a href="https://nyti.ms/42cEFac"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Signs Point to Counteroffensive, Russia and Ukraine Step Up Attacks</h3>
-<sub>By Marc Santora</sub>
-<p>Russian forces were reportedly moving into defensive positions, as Ukraine’s defense chief said the military was “reaching the finish line” for a major push to reclaim occupied land.  <a href="https://nyti.ms/3LIqXX0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Gordon Lightfoot, Canadian Folk Singer, Dies at 84</h3>
-<sub>By William Grimes</sub>
-<p>Mr. Lightfoot’s rich baritone and gift for melodies made him one of the most popular artists of the 1970s. His hits included “The Wreck of the Edmund Fitzgerald.”  <a href="https://nyti.ms/3nsPSEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Short on Staff, Prisons Enlist Teachers and Case Managers as Guards</h3>
-<sub>By Glenn Thrush</sub>
-<p>The patchwork system that has evolved to address the situation has drained morale among staff members and placed additional strains on prisoners.  <a href="https://nyti.ms/3APS9Nb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Kyrsten Sinema’s Party of One</h3>
 <sub>By Robert Draper</sub>
 <p>What the Arizona senator’s breakup with the Democrats means for American politics.  <a href="https://nyti.ms/40TQzon"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>He Bombed the Nazis. 75 Years Later, the Nightmares Began.</h3>
-<sub>By Michael Wilson</sub>
-<p>Like most of his generation, John Wenzel returned from World War II with no interest in sharing memories. Just shy of his 100th birthday, he found he could no longer ignore the past.  <a href="https://nyti.ms/42b7bsM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Vice Is Said to Be Headed for Bankruptcy</h3>
-<sub>By Lauren Hirsch and Benjamin Mullin</sub>
-<p>The company, which was once valued at $5.7 billion, has been struggling to find a buyer this year.  <a href="https://nyti.ms/3oWZN5S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
