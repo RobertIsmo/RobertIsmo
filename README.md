@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 1, Central Standard Time</p>
 <p>
-It looks like the US might be running out of cash soon, but that President Biden is meeting with lawmakers to try and avoid a default. In the banking industry, First Republic Bank recently had a late-night handle of negotiations, which left JPMorgan in control. On the fashion front, people are gearing up for the 2023 Met Gala, where the highlight will be honoring the late Karl Lagerfeld. Meanwhile, U.S. prisons are struggling with lack of staff and have resorted to bringing in teachers and case managers to act as guards. Technology is advancing quickly, with &quot;the Godfather of A.I.&quot; leaving Google while cautioning us against its dangers.  On an international level, things are getting tense with Russia and Ukraine being involved in some hostile counterattacks. Politics-wise, Kyrsten Sinema is stirring up quite a storm by ditching her Democratic ties and a Republican primary battle between Mitch McConnell&#39;s man and a former Trump official is heating up. Finally, Vice may be headed for bankruptcy after struggling to find new buyers this year.</p>
+There&#39;s quite a lot happening in the world at the moment. The US Treasury Secretary recently warned that the US could run out of money by June 1 due to their financial situation. Meanwhile, after a night of negotiations, JP Morgan now controls First Republic Bank in the banking industry, despite the instability surrounding it. On another note, Karl Lagerfeld was recently honored at the 2023 Met Gala and &#39;Godfather of A.I&#39; Geoffrey Hinton has left Google prompting warnings about potential dangers posed by A.I. development. In other news, Russia and Ukraine have been involved in a standoff which looks to be escalating and Gordon Lightfoot, a famous Canadian folk singer, passed away at 84 years old. There have been issues concerning staff shortages in prisons resulting in more stress for prisoners and Kyrsten Sinema of Arizona is causing a stir after breaking with Democrats in her state. Finally, Vice Media may be heading for bankruptcy despite being valued at $5.7 billion earlier this year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Could Run Out of Cash by June 1, Yellen Warns</h3>
@@ -83,13 +83,7 @@ It looks like the US might be running out of cash soon, but that President Biden
 <img src="https://img.shields.io/badge/-fashion-blue" alt="">
 <h3>2023 Met Gala: Red Carpet Roundup</h3>
 <sub>By The Styles Desk</sub>
-<p>Some of the biggest names from Hollywood, fashion, politics, media and music arrive to honor Karl Lagerfeld for fashion’s biggest night  <a href="https://nyti.ms/3LkUZih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Short on Staff, Prisons Enlist Teachers and Case Managers as Guards</h3>
-<sub>By Glenn Thrush</sub>
-<p>The patchwork system that has evolved to address the situation has drained morale among staff members and placed additional strains on prisoners.  <a href="https://nyti.ms/3APS9Nb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Some of the biggest names from Hollywood, fashion, politics, media and music arrive to honor Karl Lagerfeld for fashion’s biggest night.  <a href="https://nyti.ms/3LkUZih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -110,16 +104,22 @@ It looks like the US might be running out of cash soon, but that President Biden
 <p>Russian forces were reportedly moving into defensive positions, as Ukraine’s defense chief said the military was “reaching the finish line” for a major push to reclaim occupied land.  <a href="https://nyti.ms/3LIqXX0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Gordon Lightfoot, Canadian Folk Singer, Dies at 84</h3>
+<sub>By William Grimes</sub>
+<p>Mr. Lightfoot’s rich baritone and gift for melodies made him one of the most popular artists of the 1970s. His hits included “The Wreck of the Edmund Fitzgerald.”  <a href="https://nyti.ms/3nsPSEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Short on Staff, Prisons Enlist Teachers and Case Managers as Guards</h3>
+<sub>By Glenn Thrush</sub>
+<p>The patchwork system that has evolved to address the situation has drained morale among staff members and placed additional strains on prisoners.  <a href="https://nyti.ms/3APS9Nb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Kyrsten Sinema’s Party of One</h3>
 <sub>By Robert Draper</sub>
 <p>What the Arizona senator’s breakup with the Democrats means for American politics.  <a href="https://nyti.ms/40TQzon"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Hostile, Under-the-Radar Primary Splinters Republicans</h3>
-<sub>By Nick Corasaniti</sub>
-<p>Kentucky Republicans are fighting over a nominee to challenge the Democratic governor, with a longtime Mitch McConnell ally squaring off against a wealthy former Trump administration ambassador.  <a href="https://nyti.ms/3AJwTJ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
