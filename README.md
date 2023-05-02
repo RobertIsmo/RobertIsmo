@@ -60,16 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 2, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on around the world. In the business world, Hollywood writers have gone on strike which is halting production. There was also news from the US that they might run out of cash by June 1. In fashion, people are looking back at the Met Gala from May, and planning for next year&#39;s gala in 2023. On the political front, Russian and Ukraine are escalating their attacks against each other, and tensions are high in the US Government. In music, Gordon Lightfoot, one of the most popular artists of the 1970s, just passed away at 84. And finally in technology, AI has been receiving a lot of attention lately, as some experts are raising concerns about its potential dangers.</p>
+There has been a lot happening in the news lately. In the business world, Hollywood writers are on strike, making it difficult for production to continue. Meanwhile, U.S. Treasury Secretary Janet Yellen has warned that the U.S. could run out of cash by June 1st unless something is done about it soon. And a late-night negotiating frenzy recently left First Republic Bank in JPMorgan&#39;s control due to its growing unsteadiness compared to its rivals. 
+
+On the cultural side, many celebrities attended the Met Gala and were decked out in their most elaborate outfits. As for fashion designers, Karl Lagerfeld was honored at the 2023 Met Gala with another red carpet roundup of industry stars arriving to pay tribute. In music news, Canadian singer-songwriter Gordon Lightfoot died at the age of 84, having made many timeless hits throughout his career like &quot;The Wreck of the Edmund Fitzgerald&quot; and &quot;If You Could Read My Mind.&quot; 
+
+In terms of technology, A.I. has been a hot topic as one of its pioneers Geoffrey Hinton has recently left Google and expressed concern over potential dangers posed by A.I.. Finally, there is a political controversy brewing between Kyrsten Sinema and her break from Democratic party lines in Arizona which could have far-reaching implications for American politics moving forward.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Hollywood Writers Will Go on Strike, Halting Production</h3>
+<h3>Hollywood Writers Go on Strike, Halting Production</h3>
 <sub>By John Koblin and Brooks Barnes</sub>
 <p>The dispute, which pits 11,500 television and screenwriters against the major studios, has shattered 15 years of labor peace in the entertainment business.  <a href="https://nyti.ms/3LN0uaI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Happens to Your Favorite Show? Answers to Questions About the Writers’ Strike.</h3>
+<h3>How Will the Writers’ Strike Affect Your Favorite Show?</h3>
 <sub>By John Koblin and Brooks Barnes</sub>
 <p>What you need to know about the first Hollywood strike in 16 years.  <a href="https://nyti.ms/42swzuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
