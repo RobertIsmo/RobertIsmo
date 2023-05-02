@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 2, Central Standard Time</p>
 <p>
-In the US, debates over the constitutionality of the debt limit are taking place as the government is facing imminent default. Democrats in the House are working on plans to increase the debt ceiling and prevent a default. Meanwhile, people are learning more about what exactly the debt ceiling is, and how large banks can be stable even during hard economic times. The Federal Reserve is also considering raising interest rates in light of new bank failures. Markets are fluctuating due to fears of further bank instability and a weaker economic outlook. In Hollywood, there is a writers&#39; strike affecting late night television shows. In Germany, Russian spies have been exposed engaging in covert operations on German soil which has lead to a Cold War-style chill between Berlin and Moscow. Moreover, South Korea still has to deal with its history of compelling women into prostitution for American soldiers from decades ago. On an environmental note, a new way of producing hydropower electricity -- known as pumped storage -- is gaining traction around the world. Lastly, former president Donald Trump is facing allegations of rape by author E. Jean Carroll and she is currently undergoing cross-examination by her legal team seeking to bolster her case.</p>
+It looks like the United States is facing a possible default on its debt as soon as next month, so government officials are debating over whether the debt limit is constitutional. House Democrats have begun steps to force a debt-ceiling increase in order to avoid default, and there have been discussions regarding the 14th Amendment as it relates to the debt ceiling debate. On the business side of things, JPMorgan has been banking&#39;s regular rescuer, with the largest bank avoiding the stability questions that have impacted other banks. Markets have been trending downwards due to fears about banks and a weaker economic outlook, with some late shows also going dark due to a writers&#39; strike. There are also some interesting developments happening overseas—in Berlin, Germany, Russian spies have been discovered hiding in plain sight which has led to a Cold War-like chill; and in South Korea it has emerged that women were forced into prostitution for American soldiers during the Vietnam War. On the legal side of things, Justice Stevens&#39; private papers were made public providing a window into Supreme Court cases and decisions on abortion, presidential elections and more. Finally, there is an upcoming new type of hydropower called pumped storage which can access electricity from water&#39;s gravitational qualities rather than through traditional dams.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Is the Debt Limit Constitutional? Biden Aides Are Debating It.</h3>
@@ -74,6 +74,12 @@ In the US, debates over the constitutionality of the debt limit are taking place
 <p>House Democratic leaders who have been quietly planning a strategy to force a debt ceiling increase to avert default began taking steps on Tuesday to deploy their secret weapon.  <a href="https://nyti.ms/3AJAff8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why the 14th Amendment Is Being Cited in the Debt Ceiling Debate</h3>
+<sub>By Linda Qiu</sub>
+<p>Some Biden administration officials believe a constitutional clause prevents the United States from failing to make payments even if it means breaching the debt limit.  <a href="https://nyti.ms/3oTkwHE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Everything You Need to Know About the Debt Ceiling</h3>
 <sub>By Alan Rappeport</sub>
@@ -84,12 +90,6 @@ In the US, debates over the constitutionality of the debt limit are taking place
 <h3>How JPMorgan Became Banking’s Regular Rescuer</h3>
 <sub>By Emily Flitter</sub>
 <p>The largest bank is also the only one whose stability hasn’t been questioned. Its C.E.O. makes sure of that.  <a href="https://nyti.ms/3NBu8Br"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Will Decide Next Rate Move After Bank Jitters</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve will release a policy decision on Wednesday on the heels of another bank collapse.  <a href="https://nyti.ms/41Ti8PL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -122,16 +122,16 @@ In the US, debates over the constitutionality of the debt limit are taking place
 <p>It’s a long-buried part of South Korean history: women compelled by force, trickery or desperation into prostitution, with the complicity of their own leaders.  <a href="https://nyti.ms/3Hv1gXn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Release of Justice Stevens’s Private Papers Opens Window Into Supreme Court</h3>
+<sub>By Adam Liptak</sub>
+<p>The justice’s files on thousands of cases, including landmark decisions on abortion and the 2000 election, were made public.  <a href="https://nyti.ms/42g5rOJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Is It a Lake, or a Battery? A New Kind of Hydropower Is Spreading Fast.</h3>
 <sub>By Mira Rojanasakul and Max Bearak</sub>
 <p>So-called pumped storage, rather than conventional dams, is emerging as the future of deriving electricity from water&#39;s gravitational qualities.  <a href="https://nyti.ms/3AMSnVE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Carroll’s Friend Tells of a Fraught Call Reporting an Attack by Trump</h3>
-<sub>By Lola Fadulu, Kate Christobek and Benjamin Weiser</sub>
-<p>E. Jean Carroll, who has accused the former president of raping her, has finished her cross-examination. Her lawyers are calling witnesses to bolster her case.  <a href="https://nyti.ms/40YkGLp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
