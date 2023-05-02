@@ -60,12 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 2, Central Standard Time</p>
 <p>
-There has been a lot happening in the news lately. In the business world, Hollywood writers are on strike, making it difficult for production to continue. Meanwhile, U.S. Treasury Secretary Janet Yellen has warned that the U.S. could run out of cash by June 1st unless something is done about it soon. And a late-night negotiating frenzy recently left First Republic Bank in JPMorgan&#39;s control due to its growing unsteadiness compared to its rivals. 
-
-On the cultural side, many celebrities attended the Met Gala and were decked out in their most elaborate outfits. As for fashion designers, Karl Lagerfeld was honored at the 2023 Met Gala with another red carpet roundup of industry stars arriving to pay tribute. In music news, Canadian singer-songwriter Gordon Lightfoot died at the age of 84, having made many timeless hits throughout his career like &quot;The Wreck of the Edmund Fitzgerald&quot; and &quot;If You Could Read My Mind.&quot; 
-
-In terms of technology, A.I. has been a hot topic as one of its pioneers Geoffrey Hinton has recently left Google and expressed concern over potential dangers posed by A.I.. Finally, there is a political controversy brewing between Kyrsten Sinema and her break from Democratic party lines in Arizona which could have far-reaching implications for American politics moving forward.</p>
+In the world of business and economics, the Federal Reserve is set to make a policy decision on Wednesday following another bank collapse. Meanwhile, in the Eurozone, inflation has risen 7% prompting discussion about a possible rate increase. In the US, Treasury Secretary Yellen is warning that the country could be out of cash as soon as June 1. Hollywood writers have gone on strike, halting production of TV shows and movies, while Google is being called out for not adequately defunding climate change denial ads despite their promises to do so. On the international news front, Germany is quietly confronting Russian spies, while an expose has revealed a harsh sex trade built for American Soldiers in South Korea. Finally, hydropower is emerging as the future of electricity with pumped storage emerging more often than traditional dams.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fed Will Decide Next Rate Move After Bank Jitters</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Federal Reserve will release a policy decision on Wednesday on the heels of another bank collapse.  <a href="https://nyti.ms/41Ti8PL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Late-Night Negotiating Frenzy Left First Republic in JPMorgan’s Control</h3>
+<sub>By Maureen Farrell, Matthew Goldstein and Lauren Hirsch</sub>
+<p>The resolution of First Republic Bank came after a frantic night of deal making by government officials and executives at the country’s biggest bank.  <a href="https://nyti.ms/3neLdq3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Could Run Out of Cash by June 1, Yellen Warns</h3>
+<sub>By Alan Rappeport and Jim Tankersley</sub>
+<p>President Biden said he would meet with lawmakers on May 9 to discuss ways to avoid a default.  <a href="https://nyti.ms/3VphjMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Eurozone Inflation Rises as Policymakers Weigh a Rate Increase</h3>
+<sub>By Melissa Eddy</sub>
+<p>The annual rate of inflation reached 7 percent, but the underlying “core” rate eased for the first time in 10 months.  <a href="https://nyti.ms/3VmqIEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Hollywood Writers Go on Strike, Halting Production</h3>
 <sub>By John Koblin and Brooks Barnes</sub>
@@ -78,11 +98,29 @@ In terms of technology, A.I. has been a hot topic as one of its pioneers Geoffre
 <p>What you need to know about the first Hollywood strike in 16 years.  <a href="https://nyti.ms/42swzuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Could Run Out of Cash by June 1, Yellen Warns</h3>
-<sub>By Alan Rappeport and Jim Tankersley</sub>
-<p>President Biden said he would meet with lawmakers on May 9 to discuss ways to avoid a default.  <a href="https://nyti.ms/3VphjMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Discreetly, Berlin Confronts Russian Spies Hiding in Plain Sight</h3>
+<sub>By Erika Solomon</sub>
+<p>For years, Germany seemed to tolerate even flagrant Russian operations on its soil. But a new Cold War-like chill has now made the snooping difficult to ignore.  <a href="https://nyti.ms/3VpLX85"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Brutal Sex Trade Built for American Soldiers</h3>
+<sub>By Choe Sang-Hun and Jean Chung</sub>
+<p>It’s a long-buried part of South Korean history: women compelled by force, trickery or desperation into prostitution, with the complicity of their own leaders.  <a href="https://nyti.ms/3Hv1gXn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Hydropower Renaissance, but Where Are the Giant Dams?</h3>
+<sub>By Mira Rojanasakul and Max Bearak</sub>
+<p>So-called pumped storage, rather than conventional dams, is emerging as the future of deriving electricity from water&#39;s gravitational qualities.  <a href="https://nyti.ms/3AMSnVE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google Promised to Defund Climate Lies, but the Ads Keep Coming</h3>
+<sub>By Nico Grant and Steven Lee Myers</sub>
+<p>Google said in 2021 that it would stop running ads alongside videos and other content that denied the existence and causes of climate change.  <a href="https://nyti.ms/3HvgM5C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-fashion-blue" alt="">
 <h3>17 Looks That Did the Most at the Met Gala</h3>
@@ -90,52 +128,10 @@ In terms of technology, A.I. has been a hot topic as one of its pioneers Geoffre
 <p>Who interpreted (or ignored) the Karl Lagerfeld theme best? Hint: Doja Cat, Lil Nas X, Phoebe Bridgers, Jared Leto and Anok Yai made the list.  <a href="https://nyti.ms/3oPX8uE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-fashion-blue" alt="">
-<h3>2023 Met Gala: Red Carpet Roundup</h3>
-<sub>By The Styles Desk</sub>
-<p>Some of the biggest names from Hollywood, fashion, politics, media and music arrived to honor Karl Lagerfeld for fashion’s biggest night.  <a href="https://nyti.ms/3LkUZih"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Signs Point to Counteroffensive, Russia and Ukraine Step Up Attacks</h3>
-<sub>By Marc Santora</sub>
-<p>Russian forces were reportedly moving into defensive positions, as Ukraine’s defense chief said the military was “reaching the finish line” for a major push to reclaim occupied land.  <a href="https://nyti.ms/3LIqXX0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Late-Night Negotiating Frenzy Left First Republic in JPMorgan’s Control</h3>
-<sub>By Maureen Farrell, Matthew Goldstein and Lauren Hirsch</sub>
-<p>The resolution of First Republic Bank came after a frantic night of deal making by government officials and executives at the country’s biggest bank.  <a href="https://nyti.ms/3neLdq3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In an Unsteady Banking Industry, First Republic’s Problems Stood Out</h3>
-<sub>By Stacy Cowley</sub>
-<p>The bank’s rivals appear on firmer footing this time, in contrast with the widespread panic after the failures of Silicon Valley Bank and Signature Bank in March.  <a href="https://nyti.ms/3B1LTCt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Gordon Lightfoot, Hitmaking Singer-Songwriter, Is Dead at 84</h3>
 <sub>By William Grimes</sub>
 <p>His rich baritone and gift for melodies made him one of the most popular artists of the 1970s with songs like “The Wreck of the Edmund Fitzgerald” and “If You Could Read My Mind.”  <a href="https://nyti.ms/3nsPSEC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘The Godfather of A.I.’ Leaves Google and Warns of Danger Ahead</h3>
-<sub>By Cade Metz</sub>
-<p>For half a century, Geoffrey Hinton nurtured the technology at the heart of chatbots like ChatGPT. Now he worries it will cause serious harm.  <a href="https://nyti.ms/42flixh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>What Exactly Are the Dangers Posed by A.I.?</h3>
-<sub>By Cade Metz</sub>
-<p>A recent letter calling for a moratorium on A.I development blends real threats with speculation. But concern is growing among experts.  <a href="https://nyti.ms/42cEFac"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Kyrsten Sinema’s Party of One</h3>
-<sub>By Robert Draper</sub>
-<p>What the Arizona senator’s breakup with the Democrats means for American politics.  <a href="https://nyti.ms/40TQzon"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
