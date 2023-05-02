@@ -60,31 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 2, Central Standard Time</p>
 <p>
-In the world of business and economics, the Federal Reserve is set to make a policy decision on Wednesday following another bank collapse. Meanwhile, in the Eurozone, inflation has risen 7% prompting discussion about a possible rate increase. In the US, Treasury Secretary Yellen is warning that the country could be out of cash as soon as June 1. Hollywood writers have gone on strike, halting production of TV shows and movies, while Google is being called out for not adequately defunding climate change denial ads despite their promises to do so. On the international news front, Germany is quietly confronting Russian spies, while an expose has revealed a harsh sex trade built for American Soldiers in South Korea. Finally, hydropower is emerging as the future of electricity with pumped storage emerging more often than traditional dams.</p>
+There seems to be a lot happening in the world right now! Big banks like JPMorgan are rescuing struggling companies, while the Federal Reserve has been forced to make another bank collapse policy decision. The U.S. is also running out of money and President Biden is trying to avoid a default, while Hollywood writers have gone on strike, halting production. On the international scene, there is a Cold War-like chill in Germany where Russian spies are hiding in plain sight, and South Korea is facing its long-buried history of women&#39;s exploitation for American soldiers. In terms of energy solutions, there is the growing trend of using pumped storage (rather than dams) for hydropower. Technology giant Google promised not to fund climate lies, but the ads keep coming and fashion was all about Karl Lagerfield at the Met Gala. Finally, music legend Gordon Lightfoot passed away at 84 this week leaving behind many of his hit songs.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How JPMorgan Became Banking’s Regular Rescuer</h3>
+<sub>By Emily Flitter</sub>
+<p>The largest bank is also the only one whose stability hasn’t been questioned. Its C.E.O. makes sure of that.  <a href="https://nyti.ms/3NBu8Br"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fed Will Decide Next Rate Move After Bank Jitters</h3>
 <sub>By Jeanna Smialek</sub>
 <p>The Federal Reserve will release a policy decision on Wednesday on the heels of another bank collapse.  <a href="https://nyti.ms/41Ti8PL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Late-Night Negotiating Frenzy Left First Republic in JPMorgan’s Control</h3>
-<sub>By Maureen Farrell, Matthew Goldstein and Lauren Hirsch</sub>
-<p>The resolution of First Republic Bank came after a frantic night of deal making by government officials and executives at the country’s biggest bank.  <a href="https://nyti.ms/3neLdq3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Could Run Out of Cash by June 1, Yellen Warns</h3>
 <sub>By Alan Rappeport and Jim Tankersley</sub>
 <p>President Biden said he would meet with lawmakers on May 9 to discuss ways to avoid a default.  <a href="https://nyti.ms/3VphjMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Eurozone Inflation Rises as Policymakers Weigh a Rate Increase</h3>
-<sub>By Melissa Eddy</sub>
-<p>The annual rate of inflation reached 7 percent, but the underlying “core” rate eased for the first time in 10 months.  <a href="https://nyti.ms/3VmqIEi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Hollywood Writers Go on Strike, Halting Production</h3>
@@ -111,7 +105,7 @@ In the world of business and economics, the Federal Reserve is set to make a pol
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Hydropower Renaissance, but Where Are the Giant Dams?</h3>
+<h3>Is It a Lake, or a Battery? A New Kind of Hydropower Is Spreading Fast.</h3>
 <sub>By Mira Rojanasakul and Max Bearak</sub>
 <p>So-called pumped storage, rather than conventional dams, is emerging as the future of deriving electricity from water&#39;s gravitational qualities.  <a href="https://nyti.ms/3AMSnVE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
@@ -120,6 +114,12 @@ In the world of business and economics, the Federal Reserve is set to make a pol
 <h3>Google Promised to Defund Climate Lies, but the Ads Keep Coming</h3>
 <sub>By Nico Grant and Steven Lee Myers</sub>
 <p>Google said in 2021 that it would stop running ads alongside videos and other content that denied the existence and causes of climate change.  <a href="https://nyti.ms/3HvgM5C"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>What Would Karl Have Thought of It All?</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Karl Lagerfeld was famous for not holding back. So what would he have said about the looks worn in his (and his cat’s) honor?  <a href="https://nyti.ms/42dQBsf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-fashion-blue" alt="">
