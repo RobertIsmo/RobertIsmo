@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 3, Central Standard Time</p>
 <p>
-Right now, there is a lot of news about the economy and money. The U.S. Federal Reserve is having a meeting this month and everyone is watching to see what decisions they make. In the meantime, manufacturing in the U.S. has slowed down, despite a recent rebound from the pandemic, which is hampering the recovery. There is a lot of uncertainty in the markets right now, as investors wonder what will happen if the Fed makes a &quot;shock pause&quot; in interest rate increases, and shares in regional lenders have fallen. 
-
-In Europe, there&#39;s discussion of a &#39;peace dividend&#39; after years of conflict - but that comes with hard tradeoffs such as increased defense spending at the cost of social safety net programs and climate transition goals. Closer to home, there&#39;s been a tragic shooting in Texas where a man was arrested for killing 5 people, and questions have been raised about gun laws in the state. 
-
-Meanwhile, wind power pioneer Henrik Stiesdal continues to keep up his fight against climate change by rolling out new green tech innovations; unfortunately 8th grade students across the US have seen their US history test scores drop for nearly a decade now - so that could be something we need to brush up on! In the NY area, rent controls could soon increase by 2-5%, and global cities like Barcelona are trying new containerization strategies that could force NYC to get rid of 150 thousand parking spots.</p>
+There are a few major stories in the news right now. First, the Federal Reserve is releasing a rate decision and many Democrats are pushing for them to pause on rate increases. Second, there was a shooting in Texas resulting in five deaths that has raised questions about gun regulation. Third, an eighth-grade history test across the US has seen declining scores over nearly a decade. Fourth, in Serbia a seventh grader opened fire at school killing eight children and one security guard. Lastly, cities around the world have been embracing containerization which could mean eliminating thousands of parking spots in New York City.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What to Watch at the Fed’s May Meeting</h3>
@@ -73,10 +69,10 @@ Meanwhile, wind power pioneer Henrik Stiesdal continues to keep up his fight aga
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>After Pandemic Rebound, U.S. Manufacturing Droops</h3>
-<sub>By Lydia DePillis</sub>
-<p>Factories that roared out of the recession have stalled, hampering the economy, even as a new wave of production looms.  <a href="https://nyti.ms/3LnogsJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<h3>Many Democrats are pushing the Fed to pause rate increases. Biden’s not one.</h3>
+<sub>By Jim Tankersley</sub>
+<p>  <a href="https://nyti.ms/41ZcnjP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Markets Expect the Fed to Raise Rates Despite Banking Turmoil</h3>
@@ -105,7 +101,7 @@ Meanwhile, wind power pioneer Henrik Stiesdal continues to keep up his fight aga
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Texas, Aimless Gunfire Rattles Residents, but It’s Hard to Stop</h3>
 <sub>By J. David Goodman</sub>
-<p>The shooting deaths of five people in a rural area northeast of Houston has raised questions about how to handle reports of gunfire in the state, where gun ownership has become less regulated.  <a href="https://nyti.ms/3HxXD3a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The shooting deaths of five people in a rural area northeast of Houston have raised questions about how to handle reports of gunfire in the state, where gun ownership has become less regulated.  <a href="https://nyti.ms/3HxXD3a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -120,22 +116,22 @@ Meanwhile, wind power pioneer Henrik Stiesdal continues to keep up his fight aga
 <p>The latest test results continue a nearly decade-long decline. Try a sample quiz to test your knowledge.  <a href="https://nyti.ms/3ANzkKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Can You Pass an 8th-Grade History Test?</h3>
+<sub></sub>
+<p>Here are five questions of medium difficulty from the eighth-grade U.S. history test given by the federal government.  <a href="https://nyti.ms/412fDtt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>7th Grader Opens Fire at School in Serbia, Killing 8 Children</h3>
 <sub>By Cora Engelbrecht</sub>
-<p>The suspect fired into a crowd at the school in Belgrade with his father’s handgun, the police said. A security guard was also killed in the shooting.  <a href="https://nyti.ms/3Nyh9A9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The assailant had two pistols, four Molotov cocktails and detailed plans, the police said. A security guard was also killed.  <a href="https://nyti.ms/3Nyh9A9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Why New York’s Giant Trash Bag Piles May Be an Endangered Species</h3>
 <sub>By Emma G. Fitzsimmons</sub>
 <p>Containerization, which has been embraced by global cities like Barcelona and Buenos Aires, could force New York to eliminate 150,000 parking spots.  <a href="https://nyti.ms/3nmFApE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Rent for Millions of New Yorkers Could Increase by 2 to 5 Percent</h3>
-<sub>By Mihir Zaveri</sub>
-<p>The panel, known as the Rent Guidelines Board, took a preliminary vote on potential rent hikes on Tuesday evening.  <a href="https://nyti.ms/3AK3VbZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
