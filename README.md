@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, May 2, Central Standard Time</p>
+<p>It is Wednesday, May 3, Central Standard Time</p>
 <p>
-Right now, business is a bit rough in the US. Manufacturing is dropping off even as new production balls get rolling, and the banking crisis isn&#39;t over in the eyes of Wall Street investors. Carlson sent a text that caused uproar in Fox and led to his firing. In Texas, a man was arrested for allegedly killing five people and there&#39;s lots of debate about gun control in the state. There’s also an escalating debt limit debate on the federal level, with pundits citing the 14th Amendment. A court also rejected a Montana lawmaker’s effort to return to office after her comments about transgender legislation. Meantime, a Trump trial is going on where Carroll is being cross-examined about her account of how she reacted after an attack from Trump which she has accused him of. Meanwhile, the Supreme Court recently released details on a landmark abortion case from Justice John Paul Stevens’ files which have since been made public. Finally, writers have gone on strike due to various issues and this has affected late show production – not sure how long it will last but during the last strike they gradually returned after a couple of months.</p>
+There are a lot of economic and legal issues coming up all over the world. In the US, manufacturing has faltered despite an earlier rebound from the pandemic, and Wall Street investors are worried that regional banks still face many challenges. President Biden&#39;s administration is debating whether it is constitutional to breach the debt limit if necessary, citing the 14th Amendment. The government of Ukraine says that Russia has been ramping up pressure on civilians in occupied areas. In Montana, a lawmaker has been barred from the chamber due to her comments in a debate about transgender legislation, and a lawyer for former President Donald Trump is currently cross-examining author E. Jean Carroll, who accused him of rape.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>After Pandemic Rebound, U.S. Manufacturing Droops</h3>
@@ -83,7 +83,7 @@ Right now, business is a bit rough in the US. Manufacturing is dropping off even
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Man Accused of Killing 5 in Texas Is Arrested</h3>
 <sub>By J. David Goodman</sub>
-<p>The man, Francisco Oropesa, was located just a few miles from the site of the shooting.  <a href="https://nyti.ms/44q6gGE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The man, Francisco Oropesa, was caught just a few miles from the site of the shooting hiding in a hamper under a pile of laundry, the county sheriff said.  <a href="https://nyti.ms/44q6gGE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,6 +104,18 @@ Right now, business is a bit rough in the US. Manufacturing is dropping off even
 <p>Some Biden administration officials believe a constitutional clause prevents the United States from failing to make payments even if it means breaching the debt limit.  <a href="https://nyti.ms/3oTkwHE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The ‘Peace Dividend’ Is Over in Europe. Now Come the Hard Tradeoffs.</h3>
+<sub>By Patricia Cohen and Liz Alderman</sub>
+<p>Defending against an unpredictable Russia in years to come will mean bumping up against a strained social safety net and ambitious climate transition plans.  <a href="https://nyti.ms/3VuS23s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Ramps Up Pressure on Civilians in Occupied Ukraine</h3>
+<sub>By Marc Santora</sub>
+<p>Wary of Ukrainian partisans and anticipating a counteroffensive, Russian authorities have “reinforced” counterintelligence units in occupied territory, Ukraine says.  <a href="https://nyti.ms/42klvyW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Judge Rejects Montana Lawmaker’s Effort to Return to House Floor</h3>
 <sub>By Jacey Fortin</sub>
@@ -120,18 +132,6 @@ Right now, business is a bit rough in the US. Manufacturing is dropping off even
 <h3>In Trump Trial, a Lawyer Pushes, and E. Jean Carroll Pushes Right Back</h3>
 <sub>By Lola Fadulu</sub>
 <p>The writer E. Jean Carroll and Donald Trump’s lawyer, Joseph Tacopina, clashed repeatedly over her account of how she reacted after she was attacked.  <a href="https://nyti.ms/3VovhOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justices Wrestled With Court’s Power in Landmark Abortion Case, Papers Show</h3>
-<sub>By Adam Liptak</sub>
-<p>Justice John Paul Stevens’s files on thousands of cases, including landmark decisions on abortion and the 2000 election, have been made public, opening a window on the Supreme Court.  <a href="https://nyti.ms/42g5rOJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Writers Go on Strike and Late Shows Go Dark</h3>
-<sub>By John Koblin</sub>
-<p>How long they stay off the air is an open question. During the last strike, they gradually returned after a couple of months.  <a href="https://nyti.ms/3AIS7Hb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
