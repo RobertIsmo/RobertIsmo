@@ -60,31 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 3, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! The US is facing a potential debt default, which has implications for mortgage rate increases for borrowers and higher returns for savers. Democrats are pushing for the Fed to pause rate increases, but Biden isn&#39;t one of them. In Serbia, a 7th grader opened fire at a school killing 8 children and a security guard. And the US is in a heated debate about Sudanese democracy - critics are arguing American efforts failed to empower civilians. Meanwhile, Sudanese people fleeing the country have found an opportunity in Saudi Arabia&#39;s rescue ships.</p>
+There&#39;s a lot going on in the world right now! The U.S. is working to free an American journalist held by Russia on bogus espionage charges. The Pope is trying to mediate peace negotiations in Ukraine, but it doesn&#39;t look to be making much progress. There was a shooting in an Atlanta medical building that left one dead and four injured, and police are searching for a suspect. In addition, US history scores for 8th graders have been declining for almost ten years. And lastly, Fox News host Tucker Carlson was fired based on a text message he sent about white men fighting differently than others.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Debt Limit Standoff is a New Economic Headwind for the Fed</h3>
-<sub>By Alan Rappeport</sub>
-<p>The central bank must consider how looming U.S. default could impact the economy as it makes a decision on raising interest rates.  <a href="https://nyti.ms/44tRkr1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Many Democrats are pushing the Fed to pause rate increases. Biden’s not one.</h3>
-<sub>By Jim Tankersley</sub>
-<p>  <a href="https://nyti.ms/3NAc8Hy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Fed Rate Increases Mean for Mortgages, Credit Cards and More</h3>
 <sub>By Tara Siegel Bernard</sub>
 <p>Savers will benefit and borrowers can expect to pay more on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3AVcDUM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Carlson’s Text That Alarmed Fox Leaders: ‘It’s Not How White Men Fight’</h3>
-<sub>By Jeremy W. Peters, Michael S. Schmidt and Jim Rutenberg</sub>
-<p>The discovery of the text message contributed to a chain of events that ultimately led to Tucker Carlson’s firing.  <a href="https://nyti.ms/3p4Dxaj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Kremlin made an intentional choice to publicize the drone episode. The question is why.</h3>
+<sub>By Anton Troianovski</sub>
+<p>  <a href="https://nyti.ms/4203W7T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Blinken says the U.S. is ‘intensely engaged’ in efforts to free Evan Gershkovich.</h3>
+<sub>By Edward Wong and Daniel Victor</sub>
+<p>The Wall Street Journal reporter has been held for more than a month on espionage charges that the United States considers bogus.  <a href="https://nyti.ms/420csU5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Secret ‘Mission’ for Peace in Ukraine May Show Limits of Pope’s Influence</h3>
+<sub>By Jason Horowitz</sub>
+<p>Since Francis made cryptic reference to a Vatican peace effort, the suggestion had elicited denial or bewilderment by war’s protagonists.  <a href="https://nyti.ms/42042wg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>One Dead and 4 Injured in Shooting at Atlanta Medical Building, Police Say</h3>
+<sub>By Remy Tumin and Johnny Diaz</sub>
+<p>The authorities said they were “actively searching” for a 24-year-old suspect after the shooting in the city’s Midtown commercial district.  <a href="https://nyti.ms/3Lui7uO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>It’s Not Just Math and Reading: U.S. History Scores for 8th Graders Plunge</h3>
@@ -104,35 +110,29 @@ There&#39;s a lot going on in the world right now! The US is facing a potential 
 <p>Nipton, Calif., has one main road and about two dozen residents. Entrepreneurs with dreams of turning it around have come and gone. Will this time be different?  <a href="https://nyti.ms/3VqSEXz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Will Offer No Defense in Rape Trial, His Lawyer Says</h3>
+<sub>By Lola Fadulu, Kate Christobek and Benjamin Weiser</sub>
+<p>The lawyer said he would call no witnesses to rebut E. Jean Carroll’s account of being assaulted at Bergdorf Goodman. The case could go to a jury early next week.  <a href="https://nyti.ms/3p4UZeQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-review-blue" alt="">
+<h3>Tucker Carlson’s Code of Whiteness</h3>
+<sub>By A.O. Scott</sub>
+<p>What the former Fox News host’s text message reveals about his racial ideology.  <a href="https://nyti.ms/3NEWD0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Carlson’s Text That Alarmed Fox Leaders: ‘It’s Not How White Men Fight’</h3>
+<sub>By Jeremy W. Peters, Michael S. Schmidt and Jim Rutenberg</sub>
+<p>The discovery of the text message contributed to a chain of events that ultimately led to Tucker Carlson’s firing.  <a href="https://nyti.ms/3p4Dxaj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Man Accused of Killing 5 in Texas Had Help Evading Capture, Officials Say</h3>
 <sub>By J. David Goodman</sub>
 <p>The man, Francisco Oropesa, was caught a few miles from the site of the shooting, hiding under a pile of laundry, the county sheriff said.  <a href="https://nyti.ms/44q6gGE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>7th Grader Opens Fire at School in Serbia, Killing 8 Children</h3>
-<sub>By Cora Engelbrecht</sub>
-<p>The assailant had two pistols, four Molotov cocktails and detailed plans, the police said. A security guard was also killed.  <a href="https://nyti.ms/3Nyh9A9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Serbia School Attack Is a Rare Mass Shooting Outside the U.S.</h3>
-<sub>By Jenny Gross</sub>
-<p>The attack in Belgrade, which killed eight people, was the first mass shooting in the country in recent years.  <a href="https://nyti.ms/3ASGBc6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How U.S. Efforts to Guide Sudan to Democracy Ended in War</h3>
-<sub>By Edward Wong, Michael Crowley and Declan Walsh</sub>
-<p>Critics say the Biden administration and its partners were naïve about the intentions of two rival generals and failed to empower civilian leaders.  <a href="https://nyti.ms/415xqQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fleeing Sudan, Some Find Saudi Ships ‘a Golden Opportunity’ to Escape</h3>
-<sub>By Vivian Nereim</sub>
-<p>A Sudanese student waiting to be evacuated by Saudi Arabia counted himself as one of the lucky ones: Born in the kingdom and holding a residency permit, he could board a rescue ship.  <a href="https://nyti.ms/3ARaOsc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
