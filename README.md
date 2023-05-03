@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 2, Central Standard Time</p>
 <p>
-It looks like the United States is facing a possible default on its debt as soon as next month, so government officials are debating over whether the debt limit is constitutional. House Democrats have begun steps to force a debt-ceiling increase in order to avoid default, and there have been discussions regarding the 14th Amendment as it relates to the debt ceiling debate. On the business side of things, JPMorgan has been banking&#39;s regular rescuer, with the largest bank avoiding the stability questions that have impacted other banks. Markets have been trending downwards due to fears about banks and a weaker economic outlook, with some late shows also going dark due to a writers&#39; strike. There are also some interesting developments happening overseas—in Berlin, Germany, Russian spies have been discovered hiding in plain sight which has led to a Cold War-like chill; and in South Korea it has emerged that women were forced into prostitution for American soldiers during the Vietnam War. On the legal side of things, Justice Stevens&#39; private papers were made public providing a window into Supreme Court cases and decisions on abortion, presidential elections and more. Finally, there is an upcoming new type of hydropower called pumped storage which can access electricity from water&#39;s gravitational qualities rather than through traditional dams.</p>
+It looks like the U.S. is going through some tough economic times right now - manufacturing has drooped after a pandemic rebound, and there&#39;s concern of another banking crisis. Political tensions have been flaring, too - the Biden administration is debating whether the debt limit is constitutional and House Democrats are working to force an increase, raising questions about the 14th Amendment. There were also a few other stories from around the country - gun violence in Texas, a writers’ strike in Hollywood, a potential rape case involving Donald Trump and former Justice Stevens&#39; private papers being released which open up a window into Supreme Court decisions.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>After Pandemic Rebound, U.S. Manufacturing Droops</h3>
+<sub>By Lydia DePillis</sub>
+<p>Factories that roared out of the recession have stalled, hampering the economy, even as a new wave of production looms.  <a href="https://nyti.ms/3LnogsJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Many on Wall Street Fear the Banking Crisis Isn’t Over</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Lauren Hirsch</sub>
+<p>Even after the sale of First Republic, investors are worried about challenges that regional banks still face, imperiling the economy.  <a href="https://nyti.ms/3oYGbhV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Is the Debt Limit Constitutional? Biden Aides Are Debating It.</h3>
 <sub>By Jim Tankersley</sub>
@@ -80,26 +92,14 @@ It looks like the United States is facing a possible default on its debt as soon
 <p>Some Biden administration officials believe a constitutional clause prevents the United States from failing to make payments even if it means breaching the debt limit.  <a href="https://nyti.ms/3oTkwHE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Everything You Need to Know About the Debt Ceiling</h3>
-<sub>By Alan Rappeport</sub>
-<p>Congress controls how much money the United States can borrow. Here’s a look at why that is and what it means.  <a href="https://nyti.ms/44nTuIU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Texas, Aimless Gunfire Rattles Residents, but It’s Hard to Stop</h3>
+<sub>By J. David Goodman</sub>
+<p>Law enforcement officials across the state were engaged in an expanding manhunt for a fugitive who killed five people after a dispute over gunfire.  <a href="https://nyti.ms/3HxXD3a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How JPMorgan Became Banking’s Regular Rescuer</h3>
-<sub>By Emily Flitter</sub>
-<p>The largest bank is also the only one whose stability hasn’t been questioned. Its C.E.O. makes sure of that.  <a href="https://nyti.ms/3NBu8Br"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Markets Sink on Fears About Banks and Weaker Economic Outlook</h3>
-<sub>By Joe Rennison</sub>
-<p>The relative calm that met the collapse of First Republic Bank on Monday was shattered on Tuesday, with broad-based declines across industries.  <a href="https://nyti.ms/3nmPqYK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Late Shows Go Dark in First Fallout From Strike</h3>
+<h3>Writers Go on Strike and Late Shows Go Dark</h3>
 <sub>By John Koblin</sub>
 <p>How long they stay off the air is an open question. During the last strike, they gradually returned after a couple of months.  <a href="https://nyti.ms/3AIS7Hb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
@@ -110,16 +110,16 @@ It looks like the United States is facing a possible default on its debt as soon
 <p>What you need to know about the first Hollywood strike in 16 years.  <a href="https://nyti.ms/42swzuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Discreetly, Berlin Confronts Russian Spies Hiding in Plain Sight</h3>
-<sub>By Erika Solomon</sub>
-<p>For years, Germany seemed to tolerate even flagrant Russian operations on its soil. But a new Cold War-like chill has now made the snooping difficult to ignore.  <a href="https://nyti.ms/3VpLX85"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Carroll’s Friend Tells of a Fraught Call Reporting an Attack by Trump</h3>
+<sub>By Kate Christobek, Benjamin Weiser and Lola Fadulu</sub>
+<p>E. Jean Carroll, who has accused the former president of raping her, has finished her cross-examination. On Tuesday, her lawyers called witnesses to bolster her case.  <a href="https://nyti.ms/40YkGLp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Brutal Sex Trade Built for American Soldiers</h3>
-<sub>By Choe Sang-Hun and Jean Chung</sub>
-<p>It’s a long-buried part of South Korean history: women compelled by force, trickery or desperation into prostitution, with the complicity of their own leaders.  <a href="https://nyti.ms/3Hv1gXn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Trump Trial, a Lawyer Pushes, and E. Jean Carroll Pushes Right Back</h3>
+<sub>By Lola Fadulu</sub>
+<p>The writer E. Jean Carroll and Donald Trump’s lawyer, Joseph Tacopina, clashed repeatedly over her account of how she reacted after she was attacked.  <a href="https://nyti.ms/3VovhOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +128,10 @@ It looks like the United States is facing a possible default on its debt as soon
 <p>The justice’s files on thousands of cases, including landmark decisions on abortion and the 2000 election, were made public.  <a href="https://nyti.ms/42g5rOJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Is It a Lake, or a Battery? A New Kind of Hydropower Is Spreading Fast.</h3>
-<sub>By Mira Rojanasakul and Max Bearak</sub>
-<p>So-called pumped storage, rather than conventional dams, is emerging as the future of deriving electricity from water&#39;s gravitational qualities.  <a href="https://nyti.ms/3AMSnVE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Rejects Montana Lawmaker’s Effort to Return to House Floor</h3>
+<sub>By Jacey Fortin</sub>
+<p>Representative Zooey Zephyr sued after being barred from the chamber in a standoff that started over her comments on transgender legislation.  <a href="https://nyti.ms/3noUls4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
