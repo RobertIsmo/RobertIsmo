@@ -60,8 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 3, Central Standard Time</p>
 <p>
-It looks like the economic recovery from the pandemic is starting to slow down in the US, with stagnation in manufacturing. On Wall Street, people are still worried about how regional banks will fare going forward. In Texas, there has been a string of deadly shootings that have prompted questions about gun regulation. Meanwhile at the federal level, Biden administration officials are debating whether or not tapping into a constitutional clause can help prevent a possible default on US debt. Politically, a Montana lawmaker who made controversial comments on transgender legislation has been barred from returning to her house floor, and former President Donald Trump&#39;s long-standing dispute with journalist E. Jean Carroll over her accusations of him attacking her is being explored in court.</p>
+Right now, there is a lot of news about the economy and money. The U.S. Federal Reserve is having a meeting this month and everyone is watching to see what decisions they make. In the meantime, manufacturing in the U.S. has slowed down, despite a recent rebound from the pandemic, which is hampering the recovery. There is a lot of uncertainty in the markets right now, as investors wonder what will happen if the Fed makes a &quot;shock pause&quot; in interest rate increases, and shares in regional lenders have fallen. 
+
+In Europe, there&#39;s discussion of a &#39;peace dividend&#39; after years of conflict - but that comes with hard tradeoffs such as increased defense spending at the cost of social safety net programs and climate transition goals. Closer to home, there&#39;s been a tragic shooting in Texas where a man was arrested for killing 5 people, and questions have been raised about gun laws in the state. 
+
+Meanwhile, wind power pioneer Henrik Stiesdal continues to keep up his fight against climate change by rolling out new green tech innovations; unfortunately 8th grade students across the US have seen their US history test scores drop for nearly a decade now - so that could be something we need to brush up on! In the NY area, rent controls could soon increase by 2-5%, and global cities like Barcelona are trying new containerization strategies that could force NYC to get rid of 150 thousand parking spots.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What to Watch at the Fed’s May Meeting</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Federal Reserve officials will release a rate decision at 2 p.m. The key question is what will come next.  <a href="https://nyti.ms/3NBnlrd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>After Pandemic Rebound, U.S. Manufacturing Droops</h3>
 <sub>By Lydia DePillis</sub>
@@ -69,9 +79,15 @@ It looks like the economic recovery from the pandemic is starting to slow down i
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Many on Wall Street Fear the Banking Crisis Isn’t Over</h3>
+<h3>Markets Expect the Fed to Raise Rates Despite Banking Turmoil</h3>
 <sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Lauren Hirsch</sub>
-<p>Even after the sale of First Republic, investors are worried about challenges that regional banks still face, imperiling the economy.  <a href="https://nyti.ms/3oYGbhV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A ‘shock pause’ by the central bank would spook an already jittery market, one analyst said, even as shares in regional lenders fall.  <a href="https://nyti.ms/44nIon6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The ‘Peace Dividend’ Is Over in Europe. Now Come the Hard Tradeoffs.</h3>
+<sub>By Patricia Cohen and Liz Alderman</sub>
+<p>Defending against an unpredictable Russia in years to come will mean bumping up against a strained social safety net and ambitious climate transition plans.  <a href="https://nyti.ms/3VuS23s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -92,46 +108,34 @@ It looks like the economic recovery from the pandemic is starting to slow down i
 <p>The shooting deaths of five people in a rural area northeast of Houston has raised questions about how to handle reports of gunfire in the state, where gun ownership has become less regulated.  <a href="https://nyti.ms/3HxXD3a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Is the Debt Limit Constitutional? Biden Aides Are Debating It.</h3>
-<sub>By Jim Tankersley</sub>
-<p>As the government heads toward a possible default on its debt as soon as next month, officials are entertaining a legal theory that previous administrations ruled out.  <a href="https://nyti.ms/3Vnl8S6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why the 14th Amendment Is Being Cited in the Debt Ceiling Debate</h3>
-<sub>By Linda Qiu</sub>
-<p>Some Biden administration officials believe a constitutional clause prevents the United States from failing to make payments even if it means breaching the debt limit.  <a href="https://nyti.ms/3oTkwHE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The ‘Peace Dividend’ Is Over in Europe. Now Come the Hard Tradeoffs.</h3>
-<sub>By Patricia Cohen and Liz Alderman</sub>
-<p>Defending against an unpredictable Russia in years to come will mean bumping up against a strained social safety net and ambitious climate transition plans.  <a href="https://nyti.ms/3VuS23s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Danish Wind Pioneer Keeps Battling Climate Change</h3>
+<sub>By Stanley Reed</sub>
+<p>Henrik Stiesdal helped design the first modern wind turbines. A thousand patents later, he’s a green tech entrepreneur rolling out new innovations.  <a href="https://nyti.ms/3NyWz2W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>It’s Not Just Math and Reading: U.S. History Scores for 8th Graders Plunge</h3>
+<sub>By Sarah Mervosh</sub>
+<p>The latest test results continue a nearly decade-long decline. Try a sample quiz to test your knowledge.  <a href="https://nyti.ms/3ANzkKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Ramps Up Pressure on Civilians in Occupied Ukraine</h3>
-<sub>By Marc Santora</sub>
-<p>Wary of Ukrainian partisans and anticipating a counteroffensive, Russian authorities have “reinforced” counterintelligence units in occupied territory, Ukraine says.  <a href="https://nyti.ms/42klvyW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<h3>7th Grader Opens Fire at School in Serbia, Killing 8 Children</h3>
+<sub>By Cora Engelbrecht</sub>
+<p>The suspect fired into a crowd at the school in Belgrade with his father’s handgun, the police said. A security guard was also killed in the shooting.  <a href="https://nyti.ms/3Nyh9A9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Rejects Montana Lawmaker’s Effort to Return to House Floor</h3>
-<sub>By Jacey Fortin</sub>
-<p>Representative Zooey Zephyr sued after being barred from the chamber in a standoff that started over her comments on transgender legislation.  <a href="https://nyti.ms/3noUls4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Why New York’s Giant Trash Bag Piles May Be an Endangered Species</h3>
+<sub>By Emma G. Fitzsimmons</sub>
+<p>Containerization, which has been embraced by global cities like Barcelona and Buenos Aires, could force New York to eliminate 150,000 parking spots.  <a href="https://nyti.ms/3nmFApE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Carroll’s Friend Tells of a Fraught Call Reporting an Attack by Trump</h3>
-<sub>By Kate Christobek, Benjamin Weiser and Lola Fadulu</sub>
-<p>E. Jean Carroll, who has accused the former president of raping her, has finished her cross-examination. On Tuesday, her lawyers called witnesses to bolster her case.  <a href="https://nyti.ms/40YkGLp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Trump Trial, a Lawyer Pushes, and E. Jean Carroll Pushes Right Back</h3>
-<sub>By Lola Fadulu</sub>
-<p>The writer E. Jean Carroll and Donald Trump’s lawyer, Joseph Tacopina, clashed repeatedly over her account of how she reacted after she was attacked.  <a href="https://nyti.ms/3VovhOy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Rent for Millions of New Yorkers Could Increase by 2 to 5 Percent</h3>
+<sub>By Mihir Zaveri</sub>
+<p>The panel, known as the Rent Guidelines Board, took a preliminary vote on potential rent hikes on Tuesday evening.  <a href="https://nyti.ms/3AK3VbZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
