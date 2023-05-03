@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 2, Central Standard Time</p>
 <p>
-It looks like the U.S. is going through some tough economic times right now - manufacturing has drooped after a pandemic rebound, and there&#39;s concern of another banking crisis. Political tensions have been flaring, too - the Biden administration is debating whether the debt limit is constitutional and House Democrats are working to force an increase, raising questions about the 14th Amendment. There were also a few other stories from around the country - gun violence in Texas, a writers’ strike in Hollywood, a potential rape case involving Donald Trump and former Justice Stevens&#39; private papers being released which open up a window into Supreme Court decisions.</p>
+Right now, business is a bit rough in the US. Manufacturing is dropping off even as new production balls get rolling, and the banking crisis isn&#39;t over in the eyes of Wall Street investors. Carlson sent a text that caused uproar in Fox and led to his firing. In Texas, a man was arrested for allegedly killing five people and there&#39;s lots of debate about gun control in the state. There’s also an escalating debt limit debate on the federal level, with pundits citing the 14th Amendment. A court also rejected a Montana lawmaker’s effort to return to office after her comments about transgender legislation. Meantime, a Trump trial is going on where Carroll is being cross-examined about her account of how she reacted after an attack from Trump which she has accused him of. Meanwhile, the Supreme Court recently released details on a landmark abortion case from Justice John Paul Stevens’ files which have since been made public. Finally, writers have gone on strike due to various issues and this has affected late show production – not sure how long it will last but during the last strike they gradually returned after a couple of months.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>After Pandemic Rebound, U.S. Manufacturing Droops</h3>
@@ -74,16 +74,28 @@ It looks like the U.S. is going through some tough economic times right now - ma
 <p>Even after the sale of First Republic, investors are worried about challenges that regional banks still face, imperiling the economy.  <a href="https://nyti.ms/3oYGbhV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Carlson’s Text That Alarmed Fox Leaders: ‘It’s Not How White Men Fight’</h3>
+<sub>By Jeremy W. Peters, Michael S. Schmidt and Jim Rutenberg</sub>
+<p>The discovery of the text message contributed to a chain of events that ultimately led to Tucker Carlson’s firing.  <a href="https://nyti.ms/3p4Dxaj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Accused of Killing 5 in Texas Is Arrested</h3>
+<sub>By J. David Goodman</sub>
+<p>The man, Francisco Oropesa, was located just a few miles from the site of the shooting.  <a href="https://nyti.ms/44q6gGE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Texas, Aimless Gunfire Rattles Residents, but It’s Hard to Stop</h3>
+<sub>By J. David Goodman</sub>
+<p>The shooting deaths of five people in a rural area northeast of Houston has raised questions about how to handle reports of gunfire in the state, where gun ownership has become less regulated.  <a href="https://nyti.ms/3HxXD3a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Is the Debt Limit Constitutional? Biden Aides Are Debating It.</h3>
 <sub>By Jim Tankersley</sub>
 <p>As the government heads toward a possible default on its debt as soon as next month, officials are entertaining a legal theory that previous administrations ruled out.  <a href="https://nyti.ms/3Vnl8S6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Democrats Move to Force a Debt-Limit Increase as Default Date Looms</h3>
-<sub>By Carl Hulse</sub>
-<p>House Democratic leaders who have been quietly planning a strategy to force a debt ceiling increase to avert default began taking steps on Tuesday to deploy their secret weapon.  <a href="https://nyti.ms/3AJAff8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,22 +105,10 @@ It looks like the U.S. is going through some tough economic times right now - ma
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Texas, Aimless Gunfire Rattles Residents, but It’s Hard to Stop</h3>
-<sub>By J. David Goodman</sub>
-<p>Law enforcement officials across the state were engaged in an expanding manhunt for a fugitive who killed five people after a dispute over gunfire.  <a href="https://nyti.ms/3HxXD3a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge Rejects Montana Lawmaker’s Effort to Return to House Floor</h3>
+<sub>By Jacey Fortin</sub>
+<p>Representative Zooey Zephyr sued after being barred from the chamber in a standoff that started over her comments on transgender legislation.  <a href="https://nyti.ms/3noUls4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Writers Go on Strike and Late Shows Go Dark</h3>
-<sub>By John Koblin</sub>
-<p>How long they stay off the air is an open question. During the last strike, they gradually returned after a couple of months.  <a href="https://nyti.ms/3AIS7Hb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Will the Writers’ Strike Affect Your Favorite Show?</h3>
-<sub>By John Koblin and Brooks Barnes</sub>
-<p>What you need to know about the first Hollywood strike in 16 years.  <a href="https://nyti.ms/42swzuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Carroll’s Friend Tells of a Fraught Call Reporting an Attack by Trump</h3>
@@ -123,15 +123,15 @@ It looks like the U.S. is going through some tough economic times right now - ma
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Release of Justice Stevens’s Private Papers Opens Window Into Supreme Court</h3>
+<h3>Justices Wrestled With Court’s Power in Landmark Abortion Case, Papers Show</h3>
 <sub>By Adam Liptak</sub>
-<p>The justice’s files on thousands of cases, including landmark decisions on abortion and the 2000 election, were made public.  <a href="https://nyti.ms/42g5rOJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Justice John Paul Stevens’s files on thousands of cases, including landmark decisions on abortion and the 2000 election, have been made public, opening a window on the Supreme Court.  <a href="https://nyti.ms/42g5rOJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Rejects Montana Lawmaker’s Effort to Return to House Floor</h3>
-<sub>By Jacey Fortin</sub>
-<p>Representative Zooey Zephyr sued after being barred from the chamber in a standoff that started over her comments on transgender legislation.  <a href="https://nyti.ms/3noUls4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Writers Go on Strike and Late Shows Go Dark</h3>
+<sub>By John Koblin</sub>
+<p>How long they stay off the air is an open question. During the last strike, they gradually returned after a couple of months.  <a href="https://nyti.ms/3AIS7Hb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
