@@ -60,31 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 3, Central Standard Time</p>
 <p>
-There are a few major stories in the news right now. First, the Federal Reserve is releasing a rate decision and many Democrats are pushing for them to pause on rate increases. Second, there was a shooting in Texas resulting in five deaths that has raised questions about gun regulation. Third, an eighth-grade history test across the US has seen declining scores over nearly a decade. Fourth, in Serbia a seventh grader opened fire at school killing eight children and one security guard. Lastly, cities around the world have been embracing containerization which could mean eliminating thousands of parking spots in New York City.</p>
+There&#39;s a lot going on in the world right now! The US is facing a potential debt default, which has implications for mortgage rate increases for borrowers and higher returns for savers. Democrats are pushing for the Fed to pause rate increases, but Biden isn&#39;t one of them. In Serbia, a 7th grader opened fire at a school killing 8 children and a security guard. And the US is in a heated debate about Sudanese democracy - critics are arguing American efforts failed to empower civilians. Meanwhile, Sudanese people fleeing the country have found an opportunity in Saudi Arabia&#39;s rescue ships.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to Watch at the Fed’s May Meeting</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Federal Reserve officials will release a rate decision at 2 p.m. The key question is what will come next.  <a href="https://nyti.ms/3NBnlrd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Debt Limit Standoff is a New Economic Headwind for the Fed</h3>
+<sub>By Alan Rappeport</sub>
+<p>The central bank must consider how looming U.S. default could impact the economy as it makes a decision on raising interest rates.  <a href="https://nyti.ms/44tRkr1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Many Democrats are pushing the Fed to pause rate increases. Biden’s not one.</h3>
 <sub>By Jim Tankersley</sub>
-<p>  <a href="https://nyti.ms/41ZcnjP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>  <a href="https://nyti.ms/3NAc8Hy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Markets Expect the Fed to Raise Rates Despite Banking Turmoil</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced and Lauren Hirsch</sub>
-<p>A ‘shock pause’ by the central bank would spook an already jittery market, one analyst said, even as shares in regional lenders fall.  <a href="https://nyti.ms/44nIon6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What Fed Rate Increases Mean for Mortgages, Credit Cards and More</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>Savers will benefit and borrowers can expect to pay more on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3AVcDUM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The ‘Peace Dividend’ Is Over in Europe. Now Come the Hard Tradeoffs.</h3>
-<sub>By Patricia Cohen and Liz Alderman</sub>
-<p>Defending against an unpredictable Russia in years to come will mean bumping up against a strained social safety net and ambitious climate transition plans.  <a href="https://nyti.ms/3VuS23s"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Carlson’s Text That Alarmed Fox Leaders: ‘It’s Not How White Men Fight’</h3>
@@ -93,34 +87,28 @@ There are a few major stories in the news right now. First, the Federal Reserve 
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Accused of Killing 5 in Texas Is Arrested</h3>
-<sub>By J. David Goodman</sub>
-<p>The man, Francisco Oropesa, was caught just a few miles from the site of the shooting hiding in a hamper under a pile of laundry, the county sheriff said.  <a href="https://nyti.ms/44q6gGE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Texas, Aimless Gunfire Rattles Residents, but It’s Hard to Stop</h3>
-<sub>By J. David Goodman</sub>
-<p>The shooting deaths of five people in a rural area northeast of Houston have raised questions about how to handle reports of gunfire in the state, where gun ownership has become less regulated.  <a href="https://nyti.ms/3HxXD3a"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Danish Wind Pioneer Keeps Battling Climate Change</h3>
-<sub>By Stanley Reed</sub>
-<p>Henrik Stiesdal helped design the first modern wind turbines. A thousand patents later, he’s a green tech entrepreneur rolling out new innovations.  <a href="https://nyti.ms/3NyWz2W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>It’s Not Just Math and Reading: U.S. History Scores for 8th Graders Plunge</h3>
 <sub>By Sarah Mervosh</sub>
 <p>The latest test results continue a nearly decade-long decline. Try a sample quiz to test your knowledge.  <a href="https://nyti.ms/3ANzkKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Can You Pass an 8th-Grade History Test?</h3>
 <sub></sub>
 <p>Here are five questions of medium difficulty from the eighth-grade U.S. history test given by the federal government.  <a href="https://nyti.ms/412fDtt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>When the Circus Came to a Ghost Town</h3>
+<sub>By Debra Kamin</sub>
+<p>Nipton, Calif., has one main road and about two dozen residents. Entrepreneurs with dreams of turning it around have come and gone. Will this time be different?  <a href="https://nyti.ms/3VqSEXz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Accused of Killing 5 in Texas Had Help Evading Capture, Officials Say</h3>
+<sub>By J. David Goodman</sub>
+<p>The man, Francisco Oropesa, was caught a few miles from the site of the shooting, hiding under a pile of laundry, the county sheriff said.  <a href="https://nyti.ms/44q6gGE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>7th Grader Opens Fire at School in Serbia, Killing 8 Children</h3>
@@ -128,11 +116,23 @@ There are a few major stories in the news right now. First, the Federal Reserve 
 <p>The assailant had two pistols, four Molotov cocktails and detailed plans, the police said. A security guard was also killed.  <a href="https://nyti.ms/3Nyh9A9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why New York’s Giant Trash Bag Piles May Be an Endangered Species</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>Containerization, which has been embraced by global cities like Barcelona and Buenos Aires, could force New York to eliminate 150,000 parking spots.  <a href="https://nyti.ms/3nmFApE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Serbia School Attack Is a Rare Mass Shooting Outside the U.S.</h3>
+<sub>By Jenny Gross</sub>
+<p>The attack in Belgrade, which killed eight people, was the first mass shooting in the country in recent years.  <a href="https://nyti.ms/3ASGBc6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How U.S. Efforts to Guide Sudan to Democracy Ended in War</h3>
+<sub>By Edward Wong, Michael Crowley and Declan Walsh</sub>
+<p>Critics say the Biden administration and its partners were naïve about the intentions of two rival generals and failed to empower civilian leaders.  <a href="https://nyti.ms/415xqQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fleeing Sudan, Some Find Saudi Ships ‘a Golden Opportunity’ to Escape</h3>
+<sub>By Vivian Nereim</sub>
+<p>A Sudanese student waiting to be evacuated by Saudi Arabia counted himself as one of the lucky ones: Born in the kingdom and holding a residency permit, he could board a rescue ship.  <a href="https://nyti.ms/3ARaOsc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
