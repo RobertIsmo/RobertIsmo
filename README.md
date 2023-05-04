@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 4, Central Standard Time</p>
 <p>
-In the world, there&#39;s been a lot of news about finance lately. The Federal Reserve made its 10th rate increase, which effects mortgages and credit cards, as well as other forms of debt. In Atlanta, a suspect was caught after killing one person and injuring 4 in a shooting. In Russia, the Kremlin claims explosions above the Kremlin were an attempt to kill Putin and have accused Ukraine of launching a drone attack. On the political side, former Fox News host Tucker Carlson has been criticized for his &quot;code of whiteness&quot; that has been revealed in text messages. Governor Kathy Hochul&#39;s former adviser has been fired due to sexual harassment complaints by his colleagues. Additionally, Democrats are attempting to force a debt-limit increase with at least five GOP defections. On top of that, Trump won&#39;t provide any defense witnesses in a rape trial involving him and a jury could decide the case early next week. Lastly, a homeless man in New York City was choked to death by a subway rider and it has been ruled homicide by the medical examiner&#39;s office. There&#39;s now an A.I. tool that helps with people&#39;s wellness and emotions called Pi!</p>
+There has been a lot happening in the world over the past week. The Federal Reserve made their 10th rate increase and opened the door to a potential pause, meaning borrowers can expect to pay more on forms of debt and savers can get more bang for their buck. In Moscow, there were explosions above the Kremlin which they are claiming were an assassination attempt on Putin and Ukraine is denying any involvement. Closer to home, there was a shooting in Atlanta which left one dead and four injured and now the suspect has been caught. We’re also hearing a lot about sexual harassment in politics as Kathy Hochul’s former adviser was recently revealed to have multiple complaints of sexual harassment against him. Politically speaking, Democrats are trying to get at least five GOP defections in order to pass a debt-limit increase and we’ve heard Trump will not be calling any witnesses in the case of E. Jean Carroll’s rape accusation against him. Additionally, tensions between Sudan and America have grown due to lack of proper communication and understanding between both parties. As far as New York City goes, there was a homeless man killed while riding the subway after being choked by another rider; this case has been ruled a homicide. Finally, technology is at it again with a new emotional support A.I. companion hitting the market and an article out exploring why Americans feel more pain than before.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fed Makes 10th Rate Increase and Opens Door to Pause</h3>
@@ -74,28 +74,22 @@ In the world, there&#39;s been a lot of news about finance lately. The Federal R
 <p>Savers will benefit and borrowers can expect to pay more on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3AVcDUM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Suspect Caught After Killing 1 and Injuring 4 in Atlanta Shooting, Police Say</h3>
-<sub>By Sean Keenan, Eduardo Medina, Remy Tumin and Johnny Diaz</sub>
-<p>The authorities said that the 24-year-old suspect in the attack at an Atlanta medical building had been caught after an extensive manhunt that lasted several hours.  <a href="https://nyti.ms/3Lui7uO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Moscow Claims Explosions Above the Kremlin Were an Attempt to Kill Putin</h3>
 <sub>By Anton Troianovski and Haley Willis</sub>
 <p>Russia said Ukraine had launched a drone attack, which Kyiv vehemently denied, accusing Russia of manufacturing a pretext for escalation.  <a href="https://nyti.ms/3nsWrqV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Kremlin made an intentional choice to publicize the drone episode. The question is why.</h3>
-<sub>By Anton Troianovski</sub>
-<p>  <a href="https://nyti.ms/4203W7T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-books-review-blue" alt="">
 <h3>Tucker Carlson’s Code of Whiteness</h3>
 <sub>By A.O. Scott</sub>
 <p>The racial ideology revealed in the former Fox News host’s text message.  <a href="https://nyti.ms/3NEWD0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Suspect Caught After Killing 1 and Injuring 4 in Atlanta Shooting, Police Say</h3>
+<sub>By Sean Keenan, Eduardo Medina, Remy Tumin and Johnny Diaz</sub>
+<p>The authorities said that the 24-year-old suspect in the attack at an Atlanta medical building had been caught after an extensive manhunt that lasted several hours.  <a href="https://nyti.ms/3Lui7uO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -132,6 +126,12 @@ In the world, there&#39;s been a lot of news about finance lately. The Federal R
 <h3>My Weekend With an Emotional Support A.I. Companion</h3>
 <sub>By Erin Griffith</sub>
 <p>Pi, an A.I. tool that debuted this week, is a twist on the new wave of chatbots: It assists people with their wellness and emotions.  <a href="https://nyti.ms/3AKAPcJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Why Americans Feel More Pain</h3>
+<sub>By Nicholas Kristof</sub>
+<p>Chronic pain is not just a result of car accidents and workplace injuries but is also linked to troubled childhoods, loneliness, job insecurity and a hundred other pressures on working families.  <a href="https://nyti.ms/3LogRJC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
