@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 4, Central Standard Time</p>
 <p>
-Lots of businesses are starting to reopen in China, but foreign companies there are feeling uneasy about the government&#39;s increased focus on controlling what companies say about markets and other businesses. In addition, Chinese censors are removing videos about poverty from the internet and the news media, despite the president&#39;s claims that he has succeeded in ending it. 
-
-In Montana, one family is responsible for the state&#39;s conservative shift, and even some Republicans are cautious. In Turkey, wealthy families got rich off of a corrupt construction system which collapsed during an earthquake recently. Also, luxury fashion is being turned upside down as almost nobody can tell the difference between expensive designer handbags and knockoffs that cost a fraction of the price.
-
-Investment banks and regulators are struggling right now with figuring out how to keep stock market troubles from spilling into day-to-day business operations. HSBC is torn between keeping its Asian division or staying based in Britain while Russian officials are alleging that a drone attack was aimed at killing the President--something Ukraine denies.
-
-The British economy could be bumped up with King Charles&#39; coronation over the weekend, while municipalities across England will have citizens voting today in areas influential to future national elections. Former Fox News host Tucker Carlson wrote a book on whiteness and civil violations like littering or idling could also be subject to sliding-scale fines if proposed City Council legislation passes.</p>
+There&#39;s a lot happening in the world right now. In China, foreign businesses are facing increased security scrutiny as the country reopens. Meanwhile, videos about poverty are being censored by the government. In Montana, the conservative right is led by one particular family. In Turkey, corruption has created a construction system that is causing families to become wealthy off of it. The luxury handbag market is changing due to &quot;superfake&quot; handbags that $10,000 Chanel bags and $200 knockoffs. PacWest is considering selling a loan portfolio after its shares plummeted and HSBC is trying to keep itself together from being split up by Ping An&#39;s Chinese insurer. Meanwhile, the European Central Bank has raised rates and in Moscow, there have been explosions with Ukraine denying involvement. In Britain, their economy needs a boost and there is a big generation divide regarding their monarchy. Lastly, Fox News host Tucker Carlson’s text messages have revealed his racial ideologies.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Even as China Reopens, Security Visits Spook Foreign Businesses</h3>
@@ -87,7 +81,7 @@ The British economy could be bumped up with King Charles&#39; coronation over th
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>His Cousin Promised a Quake-Proof Building. Then the Walls Crumbled.</h3>
+<h3>In Erdogan’s Turkey, a Building System Fatally Weakened by Corruption</h3>
 <sub>By Ceylan Yeginsu, Rebecca R. Ruiz and Nimet Kirac</sub>
 <p>Turkish families got wealthy off a construction system rife with patronage. A Times investigation reveals just how fatally shaky that system was.  <a href="https://nyti.ms/3oYUov2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
@@ -101,7 +95,7 @@ The British economy could be bumped up with King Charles&#39; coronation over th
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>PacWest Says It’s Exploring Options After Shares Plunge</h3>
 <sub>By Lauren Hirsch</sub>
-<p>An intensifying challenge for bankers and regulators is how to keep the turmoil in the stock market from spilling into the lenders’ day-to-day businesses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The lender released a statement overnight saying it was planning to sell a $2.7 billion loan portfolio and had been approached by potential “partners and investors.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,11 +104,17 @@ The British economy could be bumped up with King Charles&#39; coronation over th
 <p>The global bank’s biggest shareholder, the giant Chinese insurer Ping An, wants HSBC to spin off its profitable Asian operation.  <a href="https://nyti.ms/3VunHSk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>European Central Bank Raises Rates Again, but Only a Quarter Point</h3>
+<sub>By Eshe Nelson</sub>
+<p>The bank said “underlying price pressures remain strong” in the eurozone, where the annual inflation rate reached 7 percent last month.  <a href="https://nyti.ms/44wbqRu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Moscow Claims Explosions Above the Kremlin Were an Attempt to Kill Putin</h3>
-<sub>By Anton Troianovski and Haley Willis</sub>
-<p>Russia said Ukraine had launched a drone attack, which Kyiv vehemently denied, accusing Russia of manufacturing a pretext for escalation.  <a href="https://nyti.ms/3nsWrqV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<h3>What We Know About the Explosions Over the Kremlin</h3>
+<sub>By Cora Engelbrecht</sub>
+<p>Moscow has accused Ukraine of a drone attack aimed at assassinating President Vladimir V. Putin, without providing evidence. Kyiv has strenuously denied involvement.  <a href="https://nyti.ms/422FtP3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Britain’s Economy Needs a Pick-Me-Up. Is the Coronation Enough?</h3>
@@ -123,22 +123,16 @@ The British economy could be bumped up with King Charles&#39; coronation over th
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>It’s an Election Day in Much of the U.K. Here’s What’s at Stake.</h3>
-<sub>By Stephen Castle</sub>
-<p>Municipalities across England will face voters, including in areas that could sway the next national election. Here’s a guide to the ballots and how to interpret them.  <a href="https://nyti.ms/3nwuJcY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<h3>Respect and Disdain: How Britain’s Generations Diverge on the Monarchy</h3>
+<sub>By Megan Specia</sub>
+<p>The divide in Bristol goes a long way toward explaining the substantial split in public opinion about the role the royals play in a modern Britain.  <a href="https://nyti.ms/3VpYOr3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-review-blue" alt="">
 <h3>Tucker Carlson’s Code of Whiteness</h3>
 <sub>By A.O. Scott</sub>
 <p>The racial ideology revealed in the former Fox News host’s text message.  <a href="https://nyti.ms/3NEWD0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>If You Double-Park and You’re Rich, Should You Pay a Higher Fine?</h3>
-<sub>By Eliza Shapiro</sub>
-<p>Civil violations like littering or idling could be subject to sliding-scale fines under a City Council bill aimed at easing the affordability crisis.  <a href="https://nyti.ms/3LRQZr0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
