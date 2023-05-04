@@ -60,13 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 4, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, four members of the far-right extremist group Proud Boys were convicted of sedition after storming the Capitol on Jan 6th. Meanwhile, in Russia two explosions occurred in Moscow in what may have been a drone attack and both Ukraine and Russia have angrily blamed each other for it. 
+It seems like there is a lot going on in the world right now. In the US, four members of the Proud Boys have been convicted of sedition in a case related to the January 6th storming of the US Capitol. There&#39;s tension between Ukraine and Russia over possible drone attacks near Moscow. South African leaders allowed a Russian plane under US sanctions to land at a military base, which could lead to more tensions between those countries. In New York, there have been no arrests yet for the death of someone who was put in a police chokehold.
 
-China has recently reopened but foreign businesses are concerned that the communist party&#39;s focus on control and censorship might be behind some of their questioning. In addition, censorship has been scrubbed from the internet to prevent discussion of poverty. 
-
-In Montana, a single extended family has spearheaded its unflinching conservatism, having three members hold leadership positions in the legislature. Small banks such as PacWest and Western Alliance have been forced to take steps to reassure investors as their shares have dropped significantly. Goldman Sachs is being investigated for their work with Silicon Valley Bank which ended with SVB collapsing after making a disastrous move. 
-
-Elsewhere, Supreme Court Justice Thomas&#39; friend has defended him over his failure to disclose tuition payments received from Harlan Crow and Ed Sheeran was victorious in a copyright case against Marvin Gaye&#39;s classic &#39;Let&#39;s Get It On&#39;. Lastly, Tucker Carlson&#39;s latest book reveals insight into his white racial ideology.</p>
+In addition, there are some financial worries with small banks and the herder market. Though Federal Reserve Chairman Jerome Powell believes this time is different from past recessions, fears still abound. In other news, an autopsy report came out that someone died of head injuries due to a police beating. Also, &#39;superfake&#39; handbags are becoming popular as almost nobody can tell them apart from expensive designer ones - though there&#39;s controversy over one man who&#39;s being sued by his former wife&#39;s friends over text messages involving her abortion. Finally, people should enjoy top racehorses while they can as they won&#39;t be around for long as they&#39;ll be headed to breeding sheds where the real money is soon enough.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Four Proud Boys Convicted of Sedition in Key Jan. 6 Case</h3>
@@ -81,27 +77,21 @@ Elsewhere, Supreme Court Justice Thomas&#39; friend has defended him over his fa
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What We Know About the Explosions Over the Kremlin</h3>
-<sub>By Cora Engelbrecht</sub>
-<p>Moscow has accused Ukraine of a drone attack aimed at assassinating President Vladimir V. Putin, without providing evidence. Kyiv has strenuously denied involvement.  <a href="https://nyti.ms/422FtP3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Even as China Reopens, Security Visits Spook Foreign Businesses</h3>
-<sub>By Daisuke Wakabayashi, Chris Buckley and Keith Bradsher</sub>
-<p>Fears are growing that the Communist Party’s increasing focus on control over information about markets and companies is behind the questioning of firms.  <a href="https://nyti.ms/3Vvglho"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why China’s Censors Are Deleting Videos About Poverty</h3>
-<sub>By Li Yuan</sub>
-<p>Xi Jinping says he has defeated poverty, but discussion of economic struggle is taboo, scrubbed from the internet and banished from the news.  <a href="https://nyti.ms/3p9XbBT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>South Africa Allowed Russian Plane Under U.S. Sanctions to Land at Base</h3>
+<sub>By Lynsey Chutel and John Eligon</sub>
+<p>The move could increase tensions between South Africa and the United States as it moves to isolate Moscow over the war in Ukraine.  <a href="https://nyti.ms/427h5vF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>One Family Has Spearheaded Montana’s Unflinching Conservatism</h3>
-<sub>By Mike Baker and Jacey Fortin</sub>
-<p>Three members of the Regier family now hold leadership positions in the Montana Legislature as the state’s conservative shift has left even some Republicans wary.  <a href="https://nyti.ms/42nRKNP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Justice Thomas’s Friend Defends Failure to Disclose Tuition Payments by Harlan Crow</h3>
+<sub>By Charlie Savage</sub>
+<p>The revelation by ProPublica on Thursday added to the lavish gifts and travel from the Texas billionaire that Justice Clarence Thomas has not disclosed.  <a href="https://nyti.ms/3AVV3Ao"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>No Arrest in New York Subway Chokehold Death, and Many Want to Know Why</h3>
+<sub>By Hurubie Meko, Chelsia Rose Marcius and Jonah E. Bromwich</sub>
+<p>Law enforcement officials said they were still determining what happened and whether to charge the man who choked Jordan Neely, 30, to death.  <a href="https://nyti.ms/3p8und0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -111,15 +101,15 @@ Elsewhere, Supreme Court Justice Thomas&#39; friend has defended him over his fa
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Goldman Says U.S. Is Investigating Its Work for Silicon Valley Bank</h3>
-<sub>By Emily Flitter</sub>
-<p>Hired to help with a capital raise, Goldman Sachs advised SVB to make a move that provoked a public panic and ended with the smaller bank collapsing.  <a href="https://nyti.ms/42bLvxa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Recession Fears Abound, but the Fed Chair Bets This Time Is Different</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Jerome H. Powell, the Federal Reserve chair, thinks his central bank can defy history to clinch slower inflation and a soft economic landing.  <a href="https://nyti.ms/3HJYwph"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Thomas’s Friend Defends Failure to Disclose Tuition Payments by Harlan Crow</h3>
-<sub>By Charlie Savage</sub>
-<p>The revelation by ProPublica on Thursday added to the lavish gifts and travel from the Texas billionaire that Justice Clarence Thomas has not disclosed.  <a href="https://nyti.ms/3AVV3Ao"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Autopsy Shows Tyre Nichols Died of Head Injuries From Police Beating</h3>
+<sub>By Emily Cochrane and Jessica Jaglois</sub>
+<p>Medical examiners formally declared his death a homicide, describing severe blunt force injuries to his head and neck as well as bruises and cuts all over his body.  <a href="https://nyti.ms/3Lvxkfb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -128,17 +118,23 @@ Elsewhere, Supreme Court Justice Thomas&#39; friend has defended him over his fa
 <p>Can you tell the difference between a $10,000 Chanel bag and a $200 knockoff? Almost nobody can, and it’s turning luxury fashion upside down.  <a href="https://nyti.ms/3VAlq8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Ed Sheeran Wins Copyright Case Over Marvin Gaye’s ‘Let’s Get It On’</h3>
-<sub>By Ben Sisario</sub>
-<p>The pop star was accused of copying the 1973 classic for his 2014 hit “Thinking Out Loud.” He described the chords both songs use as “common building blocks.”  <a href="https://nyti.ms/3HHCYtA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Husband Sued Over His Ex-Wife’s Abortion; Now Her Friends Are Suing Him</h3>
+<sub>By Emily Bazelon</sub>
+<p>A Texas man says text messages on his ex-wife’s phone show the women helped her obtain an abortion. The women say he invaded their privacy.  <a href="https://nyti.ms/426EGNg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-review-blue" alt="">
-<h3>Tucker Carlson’s Code of Whiteness</h3>
-<sub>By A.O. Scott</sub>
-<p>The racial ideology revealed in the former Fox News host’s text message.  <a href="https://nyti.ms/3NEWD0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Default Looming, What Can Biden Do?</h3>
+<sub>By Jim Tankersley</sub>
+<p>The president has not wavered in his calls for Republicans to raise the nation’s borrowing limit without condition. Privately, his aides have discussed other paths.  <a href="https://nyti.ms/3M6usHf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>First, a Run for the Roses. Then, a Dash to the Breeding Shed.</h3>
+<sub>By Joe Drape</sub>
+<p>Enjoy today’s top racehorses while you can. It won’t be long before they quit racing and go where the real money is.  <a href="https://nyti.ms/3p02nYK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
