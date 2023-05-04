@@ -60,10 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 3, Central Standard Time</p>
 <p>
-There have been some troubling events happening around the world lately. In Atlanta, a suspect was caught after killing one person and injuring four others in a shooting. The Kremlin has claimed that explosions near the Kremlin were an attempt to kill Vladimir Putin, which Ukraine has denied and accused Russia of using as an excuse for escalation. 
-In the U.S., the Federal Reserve has made its 10th rate increase, meaning people taking out credit cards and student loans will see higher interest rates, while savers may benefit. There&#39;s also been news ofhouse Republicans potentially defecting on the debt-limit increase in order to get it through Congress. 
-Closer to home, authorities here in New York are investigating claims of sexual harassment against a former adviser of Governor Hochul and a homeless man was choked to death by a Subway Rider in Manhattan while trying to protect his partner. 
-It doesn&#39;t look like things will settle down soon.</p>
+There&#39;s been a lot of news lately around the world. The Federal Reserve has made its 10th rate increase in 15 years which could affect mortgages, credit cards, and other forms of debt. In Atlanta, a shooting has left one dead and four injured with the 24-year-old suspect recently being caught after an extensive manhunt. Moscow is claiming that explosions above the Kremlin were an attempted assassination of Putin, but Ukraine firmly denies it. There have also been more recent developments in the United States such as House Republicans that Democrats are hoping to get defections from in order for them to raise the debt limit. Donald Trump has also said he won&#39;t be offering any defense witnesses during trial for rape claims against him, and a subway rider was recently choked to death ruled as a homicide by the medical examiner.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fed Makes 10th Rate Increase and Opens Door to Pause</h3>
@@ -79,7 +76,7 @@ It doesn&#39;t look like things will settle down soon.</p>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Suspect Caught After Killing 1 and Injuring 4 in Atlanta Shooting, Police Say</h3>
-<sub>By Sean Keenan, Remy Tumin, Johnny Diaz and Eduardo Medina</sub>
+<sub>By Sean Keenan, Eduardo Medina, Remy Tumin and Johnny Diaz</sub>
 <p>The authorities said that the 24-year-old suspect in the attack at an Atlanta medical building had been caught after an extensive manhunt that lasted several hours.  <a href="https://nyti.ms/3Lui7uO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
