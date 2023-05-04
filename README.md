@@ -60,18 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 4, Central Standard Time</p>
 <p>
-There has been a lot happening in the world over the past week. The Federal Reserve made their 10th rate increase and opened the door to a potential pause, meaning borrowers can expect to pay more on forms of debt and savers can get more bang for their buck. In Moscow, there were explosions above the Kremlin which they are claiming were an assassination attempt on Putin and Ukraine is denying any involvement. Closer to home, there was a shooting in Atlanta which left one dead and four injured and now the suspect has been caught. We’re also hearing a lot about sexual harassment in politics as Kathy Hochul’s former adviser was recently revealed to have multiple complaints of sexual harassment against him. Politically speaking, Democrats are trying to get at least five GOP defections in order to pass a debt-limit increase and we’ve heard Trump will not be calling any witnesses in the case of E. Jean Carroll’s rape accusation against him. Additionally, tensions between Sudan and America have grown due to lack of proper communication and understanding between both parties. As far as New York City goes, there was a homeless man killed while riding the subway after being choked by another rider; this case has been ruled a homicide. Finally, technology is at it again with a new emotional support A.I. companion hitting the market and an article out exploring why Americans feel more pain than before.</p>
+Lots of businesses are starting to reopen in China, but foreign companies there are feeling uneasy about the government&#39;s increased focus on controlling what companies say about markets and other businesses. In addition, Chinese censors are removing videos about poverty from the internet and the news media, despite the president&#39;s claims that he has succeeded in ending it. 
+
+In Montana, one family is responsible for the state&#39;s conservative shift, and even some Republicans are cautious. In Turkey, wealthy families got rich off of a corrupt construction system which collapsed during an earthquake recently. Also, luxury fashion is being turned upside down as almost nobody can tell the difference between expensive designer handbags and knockoffs that cost a fraction of the price.
+
+Investment banks and regulators are struggling right now with figuring out how to keep stock market troubles from spilling into day-to-day business operations. HSBC is torn between keeping its Asian division or staying based in Britain while Russian officials are alleging that a drone attack was aimed at killing the President--something Ukraine denies.
+
+The British economy could be bumped up with King Charles&#39; coronation over the weekend, while municipalities across England will have citizens voting today in areas influential to future national elections. Former Fox News host Tucker Carlson wrote a book on whiteness and civil violations like littering or idling could also be subject to sliding-scale fines if proposed City Council legislation passes.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Makes 10th Rate Increase and Opens Door to Pause</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Fed raised rates by a quarter point, bringing them above 5 percent for the first time in more than 15 years.  <a href="https://nyti.ms/3LTE8oo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<h3>Even as China Reopens, Security Visits Spook Foreign Businesses</h3>
+<sub>By Daisuke Wakabayashi, Chris Buckley and Keith Bradsher</sub>
+<p>Fears are growing that the Communist Party’s increasing focus on control over information about markets and companies is behind the questioning of firms.  <a href="https://nyti.ms/3Vvglho"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Fed Rate Increases Mean for Mortgages, Credit Cards and More</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>Savers will benefit and borrowers can expect to pay more on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3AVcDUM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Why China’s Censors Are Deleting Videos About Poverty</h3>
+<sub>By Li Yuan</sub>
+<p>Xi Jinping says he has defeated poverty, but discussion of economic struggle is taboo, scrubbed from the internet and banished from the news.  <a href="https://nyti.ms/3p9XbBT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>One Family Has Spearheaded Montana’s Unflinching Conservatism</h3>
+<sub>By Mike Baker and Jacey Fortin</sub>
+<p>Three members of the Regier family now hold leadership positions in the Montana Legislature as the state’s conservative shift has left even some Republicans wary.  <a href="https://nyti.ms/42nRKNP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>His Cousin Promised a Quake-Proof Building. Then the Walls Crumbled.</h3>
+<sub>By Ceylan Yeginsu, Rebecca R. Ruiz and Nimet Kirac</sub>
+<p>Turkish families got wealthy off a construction system rife with patronage. A Times investigation reveals just how fatally shaky that system was.  <a href="https://nyti.ms/3oYUov2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Inside the Delirious Rise of ‘Superfake’ Handbags</h3>
+<sub>By Amy X. Wang and Grant Cornett</sub>
+<p>Can you tell the difference between a $10,000 Chanel bag and a $200 knockoff? Almost nobody can, and it’s turning luxury fashion upside down.  <a href="https://nyti.ms/3VAlq8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>PacWest Says It’s Exploring Options After Shares Plunge</h3>
+<sub>By Lauren Hirsch</sub>
+<p>An intensifying challenge for bankers and regulators is how to keep the turmoil in the stock market from spilling into the lenders’ day-to-day businesses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Born in Asia but Based in Britain, HSBC Fights to Stay in One Piece</h3>
+<sub>By Michael J. de la Merced</sub>
+<p>The global bank’s biggest shareholder, the giant Chinese insurer Ping An, wants HSBC to spin off its profitable Asian operation.  <a href="https://nyti.ms/3VunHSk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,59 +116,29 @@ There has been a lot happening in the world over the past week. The Federal Rese
 <p>Russia said Ukraine had launched a drone attack, which Kyiv vehemently denied, accusing Russia of manufacturing a pretext for escalation.  <a href="https://nyti.ms/3nsWrqV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Britain’s Economy Needs a Pick-Me-Up. Is the Coronation Enough?</h3>
+<sub>By Eshe Nelson</sub>
+<p>Caught between slow growth and high inflation, businesses are hoping King Charles’s coronation will bolster consumer confidence enough to last more than just one weekend.  <a href="https://nyti.ms/3LW9r1R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>It’s an Election Day in Much of the U.K. Here’s What’s at Stake.</h3>
+<sub>By Stephen Castle</sub>
+<p>Municipalities across England will face voters, including in areas that could sway the next national election. Here’s a guide to the ballots and how to interpret them.  <a href="https://nyti.ms/3nwuJcY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-books-review-blue" alt="">
 <h3>Tucker Carlson’s Code of Whiteness</h3>
 <sub>By A.O. Scott</sub>
 <p>The racial ideology revealed in the former Fox News host’s text message.  <a href="https://nyti.ms/3NEWD0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Suspect Caught After Killing 1 and Injuring 4 in Atlanta Shooting, Police Say</h3>
-<sub>By Sean Keenan, Eduardo Medina, Remy Tumin and Johnny Diaz</sub>
-<p>The authorities said that the 24-year-old suspect in the attack at an Atlanta medical building had been caught after an extensive manhunt that lasted several hours.  <a href="https://nyti.ms/3Lui7uO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Hochul’s Ex-Adviser Has History of Sexual Harassment Complaints</h3>
-<sub>By Nicholas Fandos and Jeffery C. Mays</sub>
-<p>Nearly six years before Adam Sullivan lost his job with Gov. Kathy Hochul, a Democratic group fired him amid sexual harassment complaints from colleagues.  <a href="https://nyti.ms/411jV4g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Meet the House Republicans Who Democrats Hope Will Defect on the Debt Limit</h3>
-<sub>By Catie Edmondson</sub>
-<p>A long-shot Democratic effort to force a debt-limit increase to the floor hinges on at least five G.O.P. defections. These House Republicans are considered the likeliest.  <a href="https://nyti.ms/44pbxOO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Will Offer No Defense Witnesses in Rape Trial, His Lawyer Says</h3>
-<sub>By Lola Fadulu, Benjamin Weiser and Kate Christobek</sub>
-<p>The lawyer said he would call no witnesses to rebut E. Jean Carroll’s account of being assaulted at Bergdorf Goodman. The case could go to a jury early next week.  <a href="https://nyti.ms/3p4UZeQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How U.S. Efforts to Guide Sudan to Democracy Ended in War</h3>
-<sub>By Edward Wong, Michael Crowley and Declan Walsh</sub>
-<p>Critics say the Biden administration and its partners were naïve about the intentions of two rival generals and failed to empower civilian leaders.  <a href="https://nyti.ms/415xqQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Subway Rider Choked Homeless Man to Death, Medical Examiner Rules</h3>
-<sub>By Maria Cramer and Chelsia Rose Marcius</sub>
-<p>Jordan Neely died after a man held him in a chokehold. On Wednesday, the medical examiner’s office said the cause of death was compression of the neck, and ruled it a homicide.  <a href="https://nyti.ms/3AW0TBq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>My Weekend With an Emotional Support A.I. Companion</h3>
-<sub>By Erin Griffith</sub>
-<p>Pi, an A.I. tool that debuted this week, is a twist on the new wave of chatbots: It assists people with their wellness and emotions.  <a href="https://nyti.ms/3AKAPcJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Why Americans Feel More Pain</h3>
-<sub>By Nicholas Kristof</sub>
-<p>Chronic pain is not just a result of car accidents and workplace injuries but is also linked to troubled childhoods, loneliness, job insecurity and a hundred other pressures on working families.  <a href="https://nyti.ms/3LogRJC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<h3>If You Double-Park and You’re Rich, Should You Pay a Higher Fine?</h3>
+<sub>By Eliza Shapiro</sub>
+<p>Civil violations like littering or idling could be subject to sliding-scale fines under a City Council bill aimed at easing the affordability crisis.  <a href="https://nyti.ms/3LRQZr0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
