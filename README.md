@@ -60,8 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 4, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In China, foreign businesses are facing increased security scrutiny as the country reopens. Meanwhile, videos about poverty are being censored by the government. In Montana, the conservative right is led by one particular family. In Turkey, corruption has created a construction system that is causing families to become wealthy off of it. The luxury handbag market is changing due to &quot;superfake&quot; handbags that $10,000 Chanel bags and $200 knockoffs. PacWest is considering selling a loan portfolio after its shares plummeted and HSBC is trying to keep itself together from being split up by Ping An&#39;s Chinese insurer. Meanwhile, the European Central Bank has raised rates and in Moscow, there have been explosions with Ukraine denying involvement. In Britain, their economy needs a boost and there is a big generation divide regarding their monarchy. Lastly, Fox News host Tucker Carlson’s text messages have revealed his racial ideologies.</p>
+There is a lot going on in the world right now. In the US, four members of the far-right extremist group Proud Boys were convicted of sedition after storming the Capitol on Jan 6th. Meanwhile, in Russia two explosions occurred in Moscow in what may have been a drone attack and both Ukraine and Russia have angrily blamed each other for it. 
+
+China has recently reopened but foreign businesses are concerned that the communist party&#39;s focus on control and censorship might be behind some of their questioning. In addition, censorship has been scrubbed from the internet to prevent discussion of poverty. 
+
+In Montana, a single extended family has spearheaded its unflinching conservatism, having three members hold leadership positions in the legislature. Small banks such as PacWest and Western Alliance have been forced to take steps to reassure investors as their shares have dropped significantly. Goldman Sachs is being investigated for their work with Silicon Valley Bank which ended with SVB collapsing after making a disastrous move. 
+
+Elsewhere, Supreme Court Justice Thomas&#39; friend has defended him over his failure to disclose tuition payments received from Harlan Crow and Ed Sheeran was victorious in a copyright case against Marvin Gaye&#39;s classic &#39;Let&#39;s Get It On&#39;. Lastly, Tucker Carlson&#39;s latest book reveals insight into his white racial ideology.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Four Proud Boys Convicted of Sedition in Key Jan. 6 Case</h3>
+<sub>By Alan Feuer and Zach Montague</sub>
+<p>The verdict was a blow against the far-right group and another milestone in the Justice Department’s prosecution of the pro-Trump rioters who stormed the Capitol.  <a href="https://nyti.ms/42rp1aO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Kremlin Blasts Were Real. The Rest Is Hazy, Maybe Intentionally.</h3>
+<sub>By Michael Schwirtz</sub>
+<p>Kyiv and Moscow angrily blamed each other after two explosions in an apparent drone attack on the heart of Russian power, but whose outrage is real?  <a href="https://nyti.ms/41e5fyU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What We Know About the Explosions Over the Kremlin</h3>
+<sub>By Cora Engelbrecht</sub>
+<p>Moscow has accused Ukraine of a drone attack aimed at assassinating President Vladimir V. Putin, without providing evidence. Kyiv has strenuously denied involvement.  <a href="https://nyti.ms/422FtP3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Even as China Reopens, Security Visits Spook Foreign Businesses</h3>
 <sub>By Daisuke Wakabayashi, Chris Buckley and Keith Bradsher</sub>
@@ -80,10 +104,22 @@ There&#39;s a lot happening in the world right now. In China, foreign businesses
 <p>Three members of the Regier family now hold leadership positions in the Montana Legislature as the state’s conservative shift has left even some Republicans wary.  <a href="https://nyti.ms/42nRKNP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Erdogan’s Turkey, a Building System Fatally Weakened by Corruption</h3>
-<sub>By Ceylan Yeginsu, Rebecca R. Ruiz and Nimet Kirac</sub>
-<p>Turkish families got wealthy off a construction system rife with patronage. A Times investigation reveals just how fatally shaky that system was.  <a href="https://nyti.ms/3oYUov2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Small Banks Rush to Reassure Investors as Shares Plunge</h3>
+<sub>By Lauren Hirsch</sub>
+<p>PacWest said it had been approached by potential “partners and investors.” Western Alliance denied a report it was seeking a sale.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Goldman Says U.S. Is Investigating Its Work for Silicon Valley Bank</h3>
+<sub>By Emily Flitter</sub>
+<p>Hired to help with a capital raise, Goldman Sachs advised SVB to make a move that provoked a public panic and ended with the smaller bank collapsing.  <a href="https://nyti.ms/42bLvxa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Thomas’s Friend Defends Failure to Disclose Tuition Payments by Harlan Crow</h3>
+<sub>By Charlie Savage</sub>
+<p>The revelation by ProPublica on Thursday added to the lavish gifts and travel from the Texas billionaire that Justice Clarence Thomas has not disclosed.  <a href="https://nyti.ms/3AVV3Ao"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -92,41 +128,11 @@ There&#39;s a lot happening in the world right now. In China, foreign businesses
 <p>Can you tell the difference between a $10,000 Chanel bag and a $200 knockoff? Almost nobody can, and it’s turning luxury fashion upside down.  <a href="https://nyti.ms/3VAlq8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>PacWest Says It’s Exploring Options After Shares Plunge</h3>
-<sub>By Lauren Hirsch</sub>
-<p>The lender released a statement overnight saying it was planning to sell a $2.7 billion loan portfolio and had been approached by potential “partners and investors.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Ed Sheeran Wins Copyright Case Over Marvin Gaye’s ‘Let’s Get It On’</h3>
+<sub>By Ben Sisario</sub>
+<p>The pop star was accused of copying the 1973 classic for his 2014 hit “Thinking Out Loud.” He described the chords both songs use as “common building blocks.”  <a href="https://nyti.ms/3HHCYtA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Born in Asia but Based in Britain, HSBC Fights to Stay in One Piece</h3>
-<sub>By Michael J. de la Merced</sub>
-<p>The global bank’s biggest shareholder, the giant Chinese insurer Ping An, wants HSBC to spin off its profitable Asian operation.  <a href="https://nyti.ms/3VunHSk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>European Central Bank Raises Rates Again, but Only a Quarter Point</h3>
-<sub>By Eshe Nelson</sub>
-<p>The bank said “underlying price pressures remain strong” in the eurozone, where the annual inflation rate reached 7 percent last month.  <a href="https://nyti.ms/44wbqRu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What We Know About the Explosions Over the Kremlin</h3>
-<sub>By Cora Engelbrecht</sub>
-<p>Moscow has accused Ukraine of a drone attack aimed at assassinating President Vladimir V. Putin, without providing evidence. Kyiv has strenuously denied involvement.  <a href="https://nyti.ms/422FtP3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Britain’s Economy Needs a Pick-Me-Up. Is the Coronation Enough?</h3>
-<sub>By Eshe Nelson</sub>
-<p>Caught between slow growth and high inflation, businesses are hoping King Charles’s coronation will bolster consumer confidence enough to last more than just one weekend.  <a href="https://nyti.ms/3LW9r1R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Respect and Disdain: How Britain’s Generations Diverge on the Monarchy</h3>
-<sub>By Megan Specia</sub>
-<p>The divide in Bristol goes a long way toward explaining the substantial split in public opinion about the role the royals play in a modern Britain.  <a href="https://nyti.ms/3VpYOr3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-review-blue" alt="">
 <h3>Tucker Carlson’s Code of Whiteness</h3>
