@@ -60,12 +60,33 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 3, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! The U.S. is working to free an American journalist held by Russia on bogus espionage charges. The Pope is trying to mediate peace negotiations in Ukraine, but it doesn&#39;t look to be making much progress. There was a shooting in an Atlanta medical building that left one dead and four injured, and police are searching for a suspect. In addition, US history scores for 8th graders have been declining for almost ten years. And lastly, Fox News host Tucker Carlson was fired based on a text message he sent about white men fighting differently than others.</p>
+There have been some troubling events happening around the world lately. In Atlanta, a suspect was caught after killing one person and injuring four others in a shooting. The Kremlin has claimed that explosions near the Kremlin were an attempt to kill Vladimir Putin, which Ukraine has denied and accused Russia of using as an excuse for escalation. 
+In the U.S., the Federal Reserve has made its 10th rate increase, meaning people taking out credit cards and student loans will see higher interest rates, while savers may benefit. There&#39;s also been news ofhouse Republicans potentially defecting on the debt-limit increase in order to get it through Congress. 
+Closer to home, authorities here in New York are investigating claims of sexual harassment against a former adviser of Governor Hochul and a homeless man was choked to death by a Subway Rider in Manhattan while trying to protect his partner. 
+It doesn&#39;t look like things will settle down soon.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fed Makes 10th Rate Increase and Opens Door to Pause</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Fed raised rates by a quarter point, bringing them above 5 percent for the first time in more than 15 years.  <a href="https://nyti.ms/3LTE8oo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Fed Rate Increases Mean for Mortgages, Credit Cards and More</h3>
 <sub>By Tara Siegel Bernard</sub>
 <p>Savers will benefit and borrowers can expect to pay more on credit cards, student loans and other forms of debt.  <a href="https://nyti.ms/3AVcDUM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Suspect Caught After Killing 1 and Injuring 4 in Atlanta Shooting, Police Say</h3>
+<sub>By Sean Keenan, Remy Tumin, Johnny Diaz and Eduardo Medina</sub>
+<p>The authorities said that the 24-year-old suspect in the attack at an Atlanta medical building had been caught after an extensive manhunt that lasted several hours.  <a href="https://nyti.ms/3Lui7uO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Moscow Claims Explosions Above the Kremlin Were an Attempt to Kill Putin</h3>
+<sub>By Anton Troianovski and Haley Willis</sub>
+<p>Russia said Ukraine had launched a drone attack, which Kyiv vehemently denied, accusing Russia of manufacturing a pretext for escalation.  <a href="https://nyti.ms/3nsWrqV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,34 +95,16 @@ There&#39;s a lot going on in the world right now! The U.S. is working to free a
 <p>  <a href="https://nyti.ms/4203W7T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken says the U.S. is ‘intensely engaged’ in efforts to free Evan Gershkovich.</h3>
-<sub>By Edward Wong and Daniel Victor</sub>
-<p>The Wall Street Journal reporter has been held for more than a month on espionage charges that the United States considers bogus.  <a href="https://nyti.ms/420csU5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-books-review-blue" alt="">
+<h3>Tucker Carlson’s Code of Whiteness</h3>
+<sub>By A.O. Scott</sub>
+<p>The racial ideology revealed in the former Fox News host’s text message.  <a href="https://nyti.ms/3NEWD0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Secret ‘Mission’ for Peace in Ukraine May Show Limits of Pope’s Influence</h3>
-<sub>By Jason Horowitz</sub>
-<p>Since Francis made cryptic reference to a Vatican peace effort, the suggestion had elicited denial or bewilderment by war’s protagonists.  <a href="https://nyti.ms/42042wg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>One Dead and 4 Injured in Shooting at Atlanta Medical Building, Police Say</h3>
-<sub>By Remy Tumin and Johnny Diaz</sub>
-<p>The authorities said they were “actively searching” for a 24-year-old suspect after the shooting in the city’s Midtown commercial district.  <a href="https://nyti.ms/3Lui7uO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>It’s Not Just Math and Reading: U.S. History Scores for 8th Graders Plunge</h3>
-<sub>By Sarah Mervosh</sub>
-<p>The latest test results continue a nearly decade-long decline. Try a sample quiz to test your knowledge.  <a href="https://nyti.ms/3ANzkKF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can You Pass an 8th-Grade History Test?</h3>
-<sub></sub>
-<p>Here are five questions of medium difficulty from the eighth-grade U.S. history test given by the federal government.  <a href="https://nyti.ms/412fDtt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Hochul’s Ex-Adviser Has History of Sexual Harassment Complaints</h3>
+<sub>By Nicholas Fandos and Jeffery C. Mays</sub>
+<p>Nearly six years before Adam Sullivan lost his job with Gov. Kathy Hochul, a Democratic group fired him amid sexual harassment complaints from colleagues.  <a href="https://nyti.ms/411jV4g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
@@ -110,29 +113,29 @@ There&#39;s a lot going on in the world right now! The U.S. is working to free a
 <p>Nipton, Calif., has one main road and about two dozen residents. Entrepreneurs with dreams of turning it around have come and gone. Will this time be different?  <a href="https://nyti.ms/3VqSEXz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Meet the House Republicans Who Democrats Hope Will Defect on the Debt Limit</h3>
+<sub>By Catie Edmondson</sub>
+<p>A long-shot Democratic effort to force a debt-limit increase to the floor hinges on at least five G.O.P. defections. These House Republicans are considered the likeliest.  <a href="https://nyti.ms/44pbxOO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Will Offer No Defense in Rape Trial, His Lawyer Says</h3>
-<sub>By Lola Fadulu, Kate Christobek and Benjamin Weiser</sub>
+<h3>Trump Will Offer No Defense Witnesses in Rape Trial, His Lawyer Says</h3>
+<sub>By Lola Fadulu, Benjamin Weiser and Kate Christobek</sub>
 <p>The lawyer said he would call no witnesses to rebut E. Jean Carroll’s account of being assaulted at Bergdorf Goodman. The case could go to a jury early next week.  <a href="https://nyti.ms/3p4UZeQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-review-blue" alt="">
-<h3>Tucker Carlson’s Code of Whiteness</h3>
-<sub>By A.O. Scott</sub>
-<p>What the former Fox News host’s text message reveals about his racial ideology.  <a href="https://nyti.ms/3NEWD0T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How U.S. Efforts to Guide Sudan to Democracy Ended in War</h3>
+<sub>By Edward Wong, Michael Crowley and Declan Walsh</sub>
+<p>Critics say the Biden administration and its partners were naïve about the intentions of two rival generals and failed to empower civilian leaders.  <a href="https://nyti.ms/415xqQi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Carlson’s Text That Alarmed Fox Leaders: ‘It’s Not How White Men Fight’</h3>
-<sub>By Jeremy W. Peters, Michael S. Schmidt and Jim Rutenberg</sub>
-<p>The discovery of the text message contributed to a chain of events that ultimately led to Tucker Carlson’s firing.  <a href="https://nyti.ms/3p4Dxaj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Accused of Killing 5 in Texas Had Help Evading Capture, Officials Say</h3>
-<sub>By J. David Goodman</sub>
-<p>The man, Francisco Oropesa, was caught a few miles from the site of the shooting, hiding under a pile of laundry, the county sheriff said.  <a href="https://nyti.ms/44q6gGE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Subway Rider Choked Homeless Man to Death, Medical Examiner Rules</h3>
+<sub>By Maria Cramer and Chelsia Rose Marcius</sub>
+<p>Jordan Neely died after a man held him in a chokehold. On Wednesday, the medical examiner’s office said the cause of death was compression of the neck, and ruled it a homicide.  <a href="https://nyti.ms/3AW0TBq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
