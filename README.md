@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, May 3, Central Standard Time</p>
+<p>It is Thursday, May 4, Central Standard Time</p>
 <p>
-There&#39;s been a lot of news lately around the world. The Federal Reserve has made its 10th rate increase in 15 years which could affect mortgages, credit cards, and other forms of debt. In Atlanta, a shooting has left one dead and four injured with the 24-year-old suspect recently being caught after an extensive manhunt. Moscow is claiming that explosions above the Kremlin were an attempted assassination of Putin, but Ukraine firmly denies it. There have also been more recent developments in the United States such as House Republicans that Democrats are hoping to get defections from in order for them to raise the debt limit. Donald Trump has also said he won&#39;t be offering any defense witnesses during trial for rape claims against him, and a subway rider was recently choked to death ruled as a homicide by the medical examiner.</p>
+In the world, there&#39;s been a lot of news about finance lately. The Federal Reserve made its 10th rate increase, which effects mortgages and credit cards, as well as other forms of debt. In Atlanta, a suspect was caught after killing one person and injuring 4 in a shooting. In Russia, the Kremlin claims explosions above the Kremlin were an attempt to kill Putin and have accused Ukraine of launching a drone attack. On the political side, former Fox News host Tucker Carlson has been criticized for his &quot;code of whiteness&quot; that has been revealed in text messages. Governor Kathy Hochul&#39;s former adviser has been fired due to sexual harassment complaints by his colleagues. Additionally, Democrats are attempting to force a debt-limit increase with at least five GOP defections. On top of that, Trump won&#39;t provide any defense witnesses in a rape trial involving him and a jury could decide the case early next week. Lastly, a homeless man in New York City was choked to death by a subway rider and it has been ruled homicide by the medical examiner&#39;s office. There&#39;s now an A.I. tool that helps with people&#39;s wellness and emotions called Pi!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fed Makes 10th Rate Increase and Opens Door to Pause</h3>
@@ -104,12 +104,6 @@ There&#39;s been a lot of news lately around the world. The Federal Reserve has 
 <p>Nearly six years before Adam Sullivan lost his job with Gov. Kathy Hochul, a Democratic group fired him amid sexual harassment complaints from colleagues.  <a href="https://nyti.ms/411jV4g"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>When the Circus Came to a Ghost Town</h3>
-<sub>By Debra Kamin</sub>
-<p>Nipton, Calif., has one main road and about two dozen residents. Entrepreneurs with dreams of turning it around have come and gone. Will this time be different?  <a href="https://nyti.ms/3VqSEXz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Meet the House Republicans Who Democrats Hope Will Defect on the Debt Limit</h3>
 <sub>By Catie Edmondson</sub>
@@ -132,6 +126,12 @@ There&#39;s been a lot of news lately around the world. The Federal Reserve has 
 <h3>Subway Rider Choked Homeless Man to Death, Medical Examiner Rules</h3>
 <sub>By Maria Cramer and Chelsia Rose Marcius</sub>
 <p>Jordan Neely died after a man held him in a chokehold. On Wednesday, the medical examiner’s office said the cause of death was compression of the neck, and ruled it a homicide.  <a href="https://nyti.ms/3AW0TBq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>My Weekend With an Emotional Support A.I. Companion</h3>
+<sub>By Erin Griffith</sub>
+<p>Pi, an A.I. tool that debuted this week, is a twist on the new wave of chatbots: It assists people with their wellness and emotions.  <a href="https://nyti.ms/3AKAPcJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
