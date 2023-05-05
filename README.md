@@ -58,14 +58,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, May 4, Central Standard Time</p>
+<p>It is Friday, May 5, Central Standard Time</p>
 <p>
-The world is experiencing a wide range of news stories across different topics. For example, there are issues with banks as investors doubt their long-term viability, and the Justice Department is increasing their efforts to determine if former President Trump hid documents. In addition, in New York City, people are reacting to the death of a homeless individual on the subway and the lack of an arrest for his death. There are also news stories regarding abortion bans and protection along with stories about pro-Trump individuals who participated in riots at the Capitol. Lastly, &#39;Superfake&#39; handbags have experienced a delirious rise and Justice Thomas did not fully disclose all gifts from a billionaire friend.</p>
+To catch them up, a lot has been going on recently. Smaller banks are in trouble around the world due to share prices dropping, there have been two shooting incidents recently-- one in Serbia and another in New York City-- resulting in the deaths of eight and nine people respectively. The president before Donald Trump is being investigated by the Justice Department for potentially hiding documents, and further investigations into his other cases are underway. North Carolina has passed a 12-week abortion band, while a man in Texas has been sued over his ex-wife&#39;s abortion. A judge also threw out the rape accusation against Trump from 2006. And finally, four members of the Proud Boys have been convicted of sedition relating to the Capitol riots back in January.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Smaller Banks Are Scrambling as Share Prices Plunge</h3>
 <sub>By Rob Copeland, Joe Rennison and Matthew Goldstein</sub>
 <p>Investors are not convinced that regional banks including PacWest and Western Alliance can remain viable. Some are actively betting on their demise.  <a href="https://nyti.ms/3pdcQQU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>8 Dead in Shooting in Serbia, Day After School Massacre That Killed 9</h3>
+<sub>By John Yoon</sub>
+<p>At least 10 others were injured in the latest shooting, about 30 miles outside of Serbia’s capital, Belgrade. Hours after the nighttime attack, the gunman remained at large.  <a href="https://nyti.ms/44uOvpE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Day After a School Shooting, Belgrade Is Consumed With Grief</h3>
+<sub>By Constant Méheut and Vladimir Zivojinovic</sub>
+<p>Eight children and a security guard were killed by a 13-year-old boy who entered a school in the Serbian capital armed with pistols owned by his father.  <a href="https://nyti.ms/3VDJKGw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,18 +132,6 @@ The world is experiencing a wide range of news stories across different topics. 
 <h3>Four Proud Boys Convicted of Sedition in Key Jan. 6 Case</h3>
 <sub>By Alan Feuer and Zach Montague</sub>
 <p>The verdict was a blow against the far-right group and another milestone in the Justice Department’s prosecution of the pro-Trump rioters who stormed the Capitol.  <a href="https://nyti.ms/42rp1aO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Inside the Delirious Rise of ‘Superfake’ Handbags</h3>
-<sub>By Amy X. Wang and Grant Cornett</sub>
-<p>Can you tell the difference between a $10,000 Chanel bag and a $200 knockoff? Almost nobody can, and it’s turning luxury fashion upside down.  <a href="https://nyti.ms/3VAlq8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Thomas’s Friend Defends Failure to Disclose Tuition Payments by Harlan Crow</h3>
-<sub>By Charlie Savage</sub>
-<p>The revelation by ProPublica on Thursday added to the lavish gifts and travel from the Texas billionaire that Justice Clarence Thomas has not disclosed.  <a href="https://nyti.ms/3AVV3Ao"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
