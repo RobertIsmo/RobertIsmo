@@ -60,20 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 5, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. On the business side, bank stocks have been bouncing around as investors readjust their expectations of the economic outlook. In health news, the head of the CDC has resigned and the WHO has declared an end to global Covid emergency. Meanwhile, cases, hospitalizations and deaths from Covid are at some of their lowest levels in years, but the CDC is scaling back its Covid tracking efforts. There has also been a shocking subway killing that has made New Yorkers--and elected officials--question mental health and public safety.
-
-On other fronts, the video game franchise The Legend of Zelda just released yet another long-awaited entry. In politics, the college president of Bard College has been defending himself after Epstein money was revealed in some of his donations. And closer to home, a conspiracy theory emerged that targetedTrump&#39;s potential rival - Florida governor Ron DeSantis - linking him with conspiracist groups calling him a &#39;tool of the Deep State&#39;. But it looks like his popularity with these groups may seeing a downturn.</p>
+Right now, there is a lot happening in the world. US national security officials are warning about A.I., specifically its potential to upend war and cyber conflict. The World Health Organization has just ended the Covid global health emergency designation, although it doesn&#39;t represent any huge improvements in the pandemic. US job growth is remaining strong and bank stocks are shooting higher as the economy rebounds from Covid-19 worries. Meanwhile, Russia is trying to remain focused on their Victory Day holiday while there is unease over the ongoing war in Ukraine. Yevgeny Prigozhin, head of the Wagner mercenary force, is becoming a powerful figure in Russia due to his leadership and use of social media. In video games, there&#39;s lots of buzz around The Legend of Zelda and how it still continues to push boundaries after nearly 4 decades. College President Leon Botstein is stirring controversy by defending taking money from Jeffrey Epstein while many countries with ties to Britain are looking to break away or at least distance themselves from the British monarchy now that Charles III has taken over. And lastly, there&#39;s this flurry of photos circulating of King Charles throughout his life which makes us all appreciate how deeply he cares for the arts and culture.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bank Stocks Bounce as Investors Rethink Economic Outlook</h3>
-<sub>By Joe Rennison</sub>
-<p>PacWest and Western Alliance, the banks at the center of the latest phase of the crisis, recouped a chunk of earlier losses, as robust economic data also heartened investors.  <a href="https://nyti.ms/3HEmen2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Next Fear on A.I.: Hollywood’s Killer Robots Become the Military’s Tools</h3>
+<sub>By David E. Sanger</sub>
+<p>U.S. national security officials are warning about the potential for the new technology to upend war, cyber conflict and — in the most extreme case — the use of nuclear weapons.  <a href="https://nyti.ms/3AWNoBR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Walensky to Resign as C.D.C. Director</h3>
+<h3>Walensky Resigns as C.D.C. Director</h3>
 <sub>By Apoorva Mandavilli</sub>
-<p>In an announcement on Friday, the head of the beleaguered agency said she would step down in June.  <a href="https://nyti.ms/3HEt4J9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In an announcement on Friday, the head of the beleaguered agency said she would step down in June. “We made this world a safer place,” she said.  <a href="https://nyti.ms/3HEt4J9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -82,23 +80,29 @@ On other fronts, the video game franchise The Legend of Zelda just released yet 
 <p>The decision has little practical effect but is a significant moment in the struggle against a virus that has killed millions and upended lives throughout the world.  <a href="https://nyti.ms/428FvF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>C.D.C. to Scale Back Covid Tracking Efforts</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>With the official end of the public health emergency next week, the agency will no longer report community levels of infection and will stop trying to tally every case.  <a href="https://nyti.ms/42pqRcq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Job Growth Retains Vigor Despite Economic Worries</h3>
+<sub>By Lydia DePillis</sub>
+<p>Employers added 253,000 jobs in April and unemployment fell to 3.4 percent, but the labor market’s strength complicates the Fed’s inflation fight.  <a href="https://nyti.ms/3LYCEJt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>What’s Going On With Covid Right Now?</h3>
-<sub>By Dana G. Smith</sub>
-<p>Cases, hospitalizations and deaths are lower than they’ve been in years. We asked experts how to think about personal risk — and what the future likely holds.  <a href="https://nyti.ms/3N5AHvx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Bank Stocks Shoot Higher as Investors Rethink Economic Outlook</h3>
+<sub>By Joe Rennison</sub>
+<p>PacWest and Western Alliance, the banks at the center of the latest phase of the crisis, recouped a chunk of earlier losses, as robust economic data also heartened investors.  <a href="https://nyti.ms/3HEmen2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Subway Killing Stuns, and Divides, New Yorkers</h3>
-<sub>By Emma G. Fitzsimmons and Maria Cramer</sub>
-<p>After a homeless man was killed on the subway, New Yorkers and elected officials are mourning his death and debating how the city should address mental health and public safety.  <a href="https://nyti.ms/42rQfOU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia tries to focus on its Victory Day holiday while unease about the war in Ukraine grows.</h3>
+<sub>By Neil MacFarquhar</sub>
+<p>  <a href="https://nyti.ms/3LYwUPF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Years in the Shadows, Prigozhin Becomes a Player in Russia</h3>
+<sub>By Anton Troianovski and Ben Shpigel</sub>
+<p>Yevgeny V. Prigozhin has used his leadership of the Wagner mercenary force and social media to turn brutality into a personal brand.  <a href="https://nyti.ms/44AdV5y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>How The Legend of Zelda Changed the Game</h3>
@@ -118,23 +122,17 @@ On other fronts, the video game franchise The Legend of Zelda just released yet 
 <p>Whether through a hard break or a soft fade in ties, nations that have kept the British monarch as their head of state are moving toward separation.  <a href="https://nyti.ms/42qzgfN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>King Charles: A Life in Photos</h3>
+<sub>By The New York Times</sub>
+<p>Cameras have followed Britain’s new head of state since infancy. Here is a selection of memorable images from a very public life.  <a href="https://nyti.ms/3LWppJ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>A King Who Actually Likes the Arts</h3>
 <sub>By Alex Marshall</sub>
 <p>In King Charles III, Britain has its most culturally attuned monarch for generations.  <a href="https://nyti.ms/3NDWLxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Ron DeSoros’? Conspiracy Theorists Target Trump’s Rival.</h3>
-<sub>By Stuart A. Thompson</sub>
-<p>Ron DeSantis, a likely contender for the Republican presidential nomination, must court far-right voters who consider him a tool of the Deep State.  <a href="https://nyti.ms/3LAsXiW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The Devolution of Ron DeSantis</h3>
-<sub>By Nate Cohn</sub>
-<p>After a promising start, he has become bogged down in issues that have divided and hurt Republicans in the past.  <a href="https://nyti.ms/3LE0FUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
