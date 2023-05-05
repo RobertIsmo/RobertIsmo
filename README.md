@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 4, Central Standard Time</p>
 <p>
-The world is in a state of flux. Financially, smaller banks are struggling and their share prices have plunged due to lack of investors as speculation rumbles over their stability. In politics, justice departments are intensifying efforts to uncover evidence of wrongdoing from Donald Trump&#39;s time in office. However, many states are pushing for strict law changes surrounding abortion and numerous cases have emerged involving accusations of obscuring documents or privacy invasions. Even more shocking is the death of Tyre Nichols, which an autopsy found was caused by head injuries inflicted by police brutality. Finally, even luxury fashion is being affected as people struggle to tell apart fake handbags from real ones.</p>
+The world is experiencing a wide range of news stories across different topics. For example, there are issues with banks as investors doubt their long-term viability, and the Justice Department is increasing their efforts to determine if former President Trump hid documents. In addition, in New York City, people are reacting to the death of a homeless individual on the subway and the lack of an arrest for his death. There are also news stories regarding abortion bans and protection along with stories about pro-Trump individuals who participated in riots at the Capitol. Lastly, &#39;Superfake&#39; handbags have experienced a delirious rise and Justice Thomas did not fully disclose all gifts from a billionaire friend.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Smaller Banks Are Scrambling as Share Prices Plunge</h3>
@@ -90,6 +90,12 @@ The world is in a state of flux. Financially, smaller banks are struggling and t
 <h3>No Arrest in New York Subway Chokehold Death, and Many Want to Know Why</h3>
 <sub>By Hurubie Meko, Chelsia Rose Marcius and Jonah E. Bromwich</sub>
 <p>Law enforcement officials said they were still determining what happened and whether to charge the man who choked Jordan Neely, 30, to death.  <a href="https://nyti.ms/3p8und0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Doctors Have Long Warned That Chokeholds Are Deadly</h3>
+<sub>By Gina Kolata</sub>
+<p>Many police departments prohibit their officers from employing the kind of neck restraints a man used in fatally subduing Jordan Neely in the New York City subway.  <a href="https://nyti.ms/3LX8ypr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ The world is in a state of flux. Financially, smaller banks are struggling and t
 <h3>Justice Thomas’s Friend Defends Failure to Disclose Tuition Payments by Harlan Crow</h3>
 <sub>By Charlie Savage</sub>
 <p>The revelation by ProPublica on Thursday added to the lavish gifts and travel from the Texas billionaire that Justice Clarence Thomas has not disclosed.  <a href="https://nyti.ms/3AVV3Ao"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Autopsy Shows Tyre Nichols Died of Head Injuries From Police Beating</h3>
-<sub>By Emily Cochrane and Jessica Jaglois</sub>
-<p>Medical examiners formally declared his death a homicide, describing severe blunt force injuries to his head and neck as well as bruises and cuts all over his body.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
