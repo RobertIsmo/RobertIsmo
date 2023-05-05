@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 5, Central Standard Time</p>
 <p>
-Things have been quite chaotic in the news world recently! In business, investors are really worried about regional banks because of plummeting share prices. A tech job-cut tracker has cataloged hundreds of thousands of job losses, but still believes that the industry will bounce back. In US news, there&#39;s been a spotlight on how to protect families living near toxic chemical zones, and debate on the role of the monarchy in British identity. On a more somber note, there was a school shooting in Serbia that left 8 dead and 14 injured and there is an intensifying effort to find out if Trump hid documents relating to classified material. Finally, a legal battle between E Jean Carroll and Trump is ongoing as she accuses him of attacking her decades ago.</p>
+There is a lot happening in the world right now. Wages are rising rapidly despite Federal Reserve efforts to cool inflation, and there has been a wave of tech job cuts due to the pandemic. Families living near petrochemical plants are facing health threats that are being addressed by the Biden administration. Communities around Ukraine&#39;s Dnipro River rely on it for sustenance even as it serves as a front line in conflict. A homeless man was recently killed on the NYC subway, causing debate about how to address mental health and public safety. Doctors have long warned of the dangerous effects of chokeholds, which have recently been used to subdue an individual in the NYC subway. The video game franchise Legend of Zelda is celebrating its 40th anniversary with a new installment. The World Health Organization has ended its global health emergency designation for Covid, while the CDC is scaling back its tracking efforts. In Serbia, 8 people were killed and 14 others injured in a shooting only one day after a school massacre. And finally, Britons are asking questions about why monarchy still persists as a newly crowned king is celebrated throughout the country.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Smaller Banks Are Scrambling as Share Prices Plunge</h3>
-<sub>By Rob Copeland, Joe Rennison and Matthew Goldstein</sub>
-<p>Investors are not convinced that regional banks including PacWest and Western Alliance can remain viable. Some are actively betting on their demise.  <a href="https://nyti.ms/3pdcQQU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<h3>Wages Climb Rapidly, Defying Fed’s Hopes as it Fights Inflation</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Pay gains picked up last month, the opposite of what Federal Reserve officials are hoping for as they try to cool inflation.  <a href="https://nyti.ms/41aatLY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Bearer of Bad News</h3>
@@ -92,11 +92,29 @@ Things have been quite chaotic in the news world recently! In business, investor
 <p>After a homeless man was killed on the subway, New Yorkers and elected officials are mourning his death and debating how the city should address mental health and public safety.  <a href="https://nyti.ms/42rQfOU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Doctors Have Long Warned That Chokeholds Are Deadly</h3>
+<sub>By Gina Kolata</sub>
+<p>Many police departments prohibit their officers from employing the kind of neck restraints a man used in fatally subduing Jordan Neely in the New York City subway.  <a href="https://nyti.ms/3LX8ypr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>How The Legend of Zelda Changed the Game</h3>
 <sub>By Zachary Small and Rumsey Taylor</sub>
 <p>For nearly four decades, the video game franchise has emphasized exploration and the joy of discovery. Millions of fans hope that the newest entry, Tears of the Kingdom, will push the boundaries of what an open-world game can be.  <a href="https://nyti.ms/3AVCmN1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>W.H.O. Ends Global Health Emergency Designation for Covid</h3>
+<sub>By Stephanie Nolen</sub>
+<p>The decision has little practical effect but is a significant moment in the struggle against a virus that has killed millions and upended lives throughout the world.  <a href="https://nyti.ms/428FvF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>C.D.C. to Scale Back Covid Tracking Efforts</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>With the official end of the public health emergency next week, the agency will no longer report community levels of infection and will stop trying to tally every case.  <a href="https://nyti.ms/42pqRcq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>8 Are Dead in Shooting in Serbia, a Day After School Massacre</h3>
@@ -110,29 +128,11 @@ Things have been quite chaotic in the news world recently! In business, investor
 <p>As long as there has been a monarchy, there have been questions about its legitimacy. But for many people, it would be difficult to disentangle the royal family from British identity.  <a href="https://nyti.ms/44vR3E4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Intensifying Efforts to Determine if Trump Hid Documents</h3>
-<sub>By Maggie Haberman, Adam Goldman, Alan Feuer, Ben Protess and Michael S. Schmidt</sub>
-<p>Prosecutors investigating the former president’s handling of classified material have issued a wave of new subpoenas and obtained the confidential cooperation of a witness who worked at Mar-a-Lago.  <a href="https://nyti.ms/3NHi69w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Businesses Caught in Cross-Fire as Iran Enforces Hijab Law</h3>
-<sub>By Vivian Yee and Leily Nikounazar</sub>
-<p>As more Iranian women go without the head scarves mandated by law, efforts by the government to force businesses to promote compliance points to a growing struggle in the months ahead.  <a href="https://nyti.ms/3pairYf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Why E. Jean Carroll Will Always Tell You She Is ‘Fine, Fabulous’</h3>
 <sub>By Ginia Bellafante</sub>
 <p>Decades after the sexual revolution and before #MeToo, the writer tucked away her pain and projected a carefree attitude. Now she’s accused of having too much fun.  <a href="https://nyti.ms/3nuAGXP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Rape Trial Deposition, Trump Says Vulgar Tape Simply Reflects Truth</h3>
-<sub>By Benjamin Weiser, Lola Fadulu and Kate Christobek</sub>
-<p>The former president did not disavow the “Access Hollywood” video when questioned by lawyers for E. Jean Carroll, who has accused him of attacking her. They rested their case Thursday.  <a href="https://nyti.ms/3AXyPxP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
