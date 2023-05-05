@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 5, Central Standard Time</p>
 <p>
-To catch them up, a lot has been going on recently. Smaller banks are in trouble around the world due to share prices dropping, there have been two shooting incidents recently-- one in Serbia and another in New York City-- resulting in the deaths of eight and nine people respectively. The president before Donald Trump is being investigated by the Justice Department for potentially hiding documents, and further investigations into his other cases are underway. North Carolina has passed a 12-week abortion band, while a man in Texas has been sued over his ex-wife&#39;s abortion. A judge also threw out the rape accusation against Trump from 2006. And finally, four members of the Proud Boys have been convicted of sedition relating to the Capitol riots back in January.</p>
+There are a lot of concerning things happening in the world right now. In Serbia, there have been two mass shootings within a few days of each other, leaving 17 dead and many more injured. In the US, the Justice Department is intensifying their efforts to investigate former President Trump&#39;s handling of classified material, and a Texas man is being sued for his ex-wife&#39;s abortion. Additionally, North Carolina&#39;s legislature recently passed a 12-week abortion ban, and handbag knockoffs, known as &#39;superfake&#39;, have been rising in popularity around the world.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Smaller Banks Are Scrambling as Share Prices Plunge</h3>
@@ -69,16 +69,16 @@ To catch them up, a lot has been going on recently. Smaller banks are in trouble
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>8 Dead in Shooting in Serbia, Day After School Massacre That Killed 9</h3>
-<sub>By John Yoon</sub>
-<p>At least 10 others were injured in the latest shooting, about 30 miles outside of Serbia’s capital, Belgrade. Hours after the nighttime attack, the gunman remained at large.  <a href="https://nyti.ms/44uOvpE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>8 Are Dead in Shooting in Serbia, a Day After School Massacre</h3>
+<sub>By Constant Méheut, John Yoon, Matej Leskovsek and Victoria Kim</sub>
+<p>A suspect was in custody after an overnight manhunt in the attack, which also injured at least 14, about 30 miles outside of Serbia’s capital, Belgrade.  <a href="https://nyti.ms/44uOvpE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Day After a School Shooting, Belgrade Is Consumed With Grief</h3>
-<sub>By Constant Méheut and Vladimir Zivojinovic</sub>
-<p>Eight children and a security guard were killed by a 13-year-old boy who entered a school in the Serbian capital armed with pistols owned by his father.  <a href="https://nyti.ms/3VDJKGw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<h3>Serbia Sees Back-to-Back Mass Shootings, a Rarity Outside the U.S.</h3>
+<sub>By Jenny Gross</sub>
+<p>Two attacks this week, which left 17 people dead, were the first mass shootings in the country in recent years.  <a href="https://nyti.ms/3ASGBc6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Dept. Intensifying Efforts to Determine if Trump Hid Documents</h3>
@@ -128,10 +128,10 @@ To catch them up, a lot has been going on recently. Smaller banks are in trouble
 <p>The former president did not disavow the “Access Hollywood” video when questioned by lawyers for E. Jean Carroll, who has accused him of attacking her. They rested their case Thursday.  <a href="https://nyti.ms/3AXyPxP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Four Proud Boys Convicted of Sedition in Key Jan. 6 Case</h3>
-<sub>By Alan Feuer and Zach Montague</sub>
-<p>The verdict was a blow against the far-right group and another milestone in the Justice Department’s prosecution of the pro-Trump rioters who stormed the Capitol.  <a href="https://nyti.ms/42rp1aO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Inside the Delirious Rise of ‘Superfake’ Handbags</h3>
+<sub>By Amy X. Wang and Grant Cornett</sub>
+<p>Can you tell the difference between a $10,000 Chanel bag and a $200 knockoff? Almost nobody can, and it’s turning luxury fashion upside down.  <a href="https://nyti.ms/3VAlq8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
