@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 5, Central Standard Time</p>
 <p>
-There are a lot of concerning things happening in the world right now. In Serbia, there have been two mass shootings within a few days of each other, leaving 17 dead and many more injured. In the US, the Justice Department is intensifying their efforts to investigate former President Trump&#39;s handling of classified material, and a Texas man is being sued for his ex-wife&#39;s abortion. Additionally, North Carolina&#39;s legislature recently passed a 12-week abortion ban, and handbag knockoffs, known as &#39;superfake&#39;, have been rising in popularity around the world.</p>
+Things have been quite chaotic in the news world recently! In business, investors are really worried about regional banks because of plummeting share prices. A tech job-cut tracker has cataloged hundreds of thousands of job losses, but still believes that the industry will bounce back. In US news, there&#39;s been a spotlight on how to protect families living near toxic chemical zones, and debate on the role of the monarchy in British identity. On a more somber note, there was a school shooting in Serbia that left 8 dead and 14 injured and there is an intensifying effort to find out if Trump hid documents relating to classified material. Finally, a legal battle between E Jean Carroll and Trump is ongoing as she accuses him of attacking her decades ago.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Smaller Banks Are Scrambling as Share Prices Plunge</h3>
@@ -68,29 +68,23 @@ There are a lot of concerning things happening in the world right now. In Serbia
 <p>Investors are not convinced that regional banks including PacWest and Western Alliance can remain viable. Some are actively betting on their demise.  <a href="https://nyti.ms/3pdcQQU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>8 Are Dead in Shooting in Serbia, a Day After School Massacre</h3>
-<sub>By Constant Méheut, John Yoon, Matej Leskovsek and Victoria Kim</sub>
-<p>A suspect was in custody after an overnight manhunt in the attack, which also injured at least 14, about 30 miles outside of Serbia’s capital, Belgrade.  <a href="https://nyti.ms/44uOvpE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Serbia Sees Back-to-Back Mass Shootings, a Rarity Outside the U.S.</h3>
-<sub>By Jenny Gross</sub>
-<p>Two attacks this week, which left 17 people dead, were the first mass shootings in the country in recent years.  <a href="https://nyti.ms/3ASGBc6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Bearer of Bad News</h3>
+<sub>By Lora Kelley</sub>
+<p>Roger Lee has cataloged hundreds of thousands of tech job cuts on his site Layoffs.fyi. He still believes the industry will “100 percent” bounce back.  <a href="https://nyti.ms/3VBVdGp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Intensifying Efforts to Determine if Trump Hid Documents</h3>
-<sub>By Maggie Haberman, Adam Goldman, Alan Feuer, Ben Protess and Michael S. Schmidt</sub>
-<p>Prosecutors investigating the former president’s handling of classified material have issued a wave of new subpoenas and obtained the confidential cooperation of a witness who worked at Mar-a-Lago.  <a href="https://nyti.ms/3NHi69w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<h3>Living and Breathing on the Front Line of a Toxic Chemical Zone</h3>
+<sub>By Eric Lipton</sub>
+<p>As the Biden administration moves to curb health threats caused by toxic chemicals, the debate hits home for families living near petrochemical plants.  <a href="https://nyti.ms/3nxWn9j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Legal Moves in Trump Case Reveal Challenges of Prosecuting a President</h3>
-<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
-<p>Lawyers for former President Donald J. Trump sought to have his hush-money case moved to federal court, even as the judge in the case scheduled his trial for early next year.  <a href="https://nyti.ms/3LGjyXg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Dnipro River, Axis of Life and Death in Ukraine</h3>
+<sub>By Nicole Tung and Marc Santora</sub>
+<p>The river has helped to define Ukraine’s history and culture, and remains vital to daily sustenance, even as it also serves as a front line in war — as it has countless times over thousands of years.  <a href="https://nyti.ms/3Lx4KKp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A Subway Killing Stuns, and Divides, New Yorkers</h3>
@@ -98,40 +92,46 @@ There are a lot of concerning things happening in the world right now. In Serbia
 <p>After a homeless man was killed on the subway, New Yorkers and elected officials are mourning his death and debating how the city should address mental health and public safety.  <a href="https://nyti.ms/42rQfOU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How The Legend of Zelda Changed the Game</h3>
+<sub>By Zachary Small and Rumsey Taylor</sub>
+<p>For nearly four decades, the video game franchise has emphasized exploration and the joy of discovery. Millions of fans hope that the newest entry, Tears of the Kingdom, will push the boundaries of what an open-world game can be.  <a href="https://nyti.ms/3AVCmN1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>8 Are Dead in Shooting in Serbia, a Day After School Massacre</h3>
+<sub>By Constant Méheut, John Yoon, Joe Orovic and Jenny Gross</sub>
+<p>A suspect was in custody after an overnight manhunt in the attack, which also injured at least 14, about 30 miles outside of Serbia’s capital, Belgrade.  <a href="https://nyti.ms/44uOvpE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As a King Is Crowned, Some Britons Ask Why the Monarchy Persists</h3>
+<sub>By Sarah Lyall</sub>
+<p>As long as there has been a monarchy, there have been questions about its legitimacy. But for many people, it would be difficult to disentangle the royal family from British identity.  <a href="https://nyti.ms/44vR3E4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Dept. Intensifying Efforts to Determine if Trump Hid Documents</h3>
+<sub>By Maggie Haberman, Adam Goldman, Alan Feuer, Ben Protess and Michael S. Schmidt</sub>
+<p>Prosecutors investigating the former president’s handling of classified material have issued a wave of new subpoenas and obtained the confidential cooperation of a witness who worked at Mar-a-Lago.  <a href="https://nyti.ms/3NHi69w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Businesses Caught in Cross-Fire as Iran Enforces Hijab Law</h3>
+<sub>By Vivian Yee and Leily Nikounazar</sub>
+<p>As more Iranian women go without the head scarves mandated by law, efforts by the government to force businesses to promote compliance points to a growing struggle in the months ahead.  <a href="https://nyti.ms/3pairYf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>No Arrest in New York Subway Chokehold Death, and Many Want to Know Why</h3>
-<sub>By Hurubie Meko, Chelsia Rose Marcius and Jonah E. Bromwich</sub>
-<p>Law enforcement officials said they were still determining what happened and whether to charge the man who choked Jordan Neely, 30, to death.  <a href="https://nyti.ms/3p8und0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Doctors Have Long Warned That Chokeholds Are Deadly</h3>
-<sub>By Gina Kolata</sub>
-<p>Many police departments prohibit their officers from employing the kind of neck restraints a man used in fatally subduing Jordan Neely in the New York City subway.  <a href="https://nyti.ms/3LX8ypr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>North Carolina Legislature Passes 12-Week Abortion Ban</h3>
-<sub>By David W. Chen and Kate Kelly</sub>
-<p>Republicans used their new supermajority status to push through the restriction, which stands to limit abortion access throughout the South if enacted.  <a href="https://nyti.ms/3ASNwCi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Husband Sued Over His Ex-Wife’s Abortion; Now Her Friends Are Suing Him</h3>
-<sub>By Emily Bazelon</sub>
-<p>A Texas man says text messages on his ex-wife’s phone show the women helped her obtain an abortion. The women say he invaded their privacy.  <a href="https://nyti.ms/426EGNg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<h3>Why E. Jean Carroll Will Always Tell You She Is ‘Fine, Fabulous’</h3>
+<sub>By Ginia Bellafante</sub>
+<p>Decades after the sexual revolution and before #MeToo, the writer tucked away her pain and projected a carefree attitude. Now she’s accused of having too much fun.  <a href="https://nyti.ms/3nuAGXP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>In Rape Trial Deposition, Trump Says Vulgar Tape Simply Reflects Truth</h3>
 <sub>By Benjamin Weiser, Lola Fadulu and Kate Christobek</sub>
 <p>The former president did not disavow the “Access Hollywood” video when questioned by lawyers for E. Jean Carroll, who has accused him of attacking her. They rested their case Thursday.  <a href="https://nyti.ms/3AXyPxP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Inside the Delirious Rise of ‘Superfake’ Handbags</h3>
-<sub>By Amy X. Wang and Grant Cornett</sub>
-<p>Can you tell the difference between a $10,000 Chanel bag and a $200 knockoff? Almost nobody can, and it’s turning luxury fashion upside down.  <a href="https://nyti.ms/3VAlq8u"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
