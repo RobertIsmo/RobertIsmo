@@ -60,49 +60,21 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 5, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. Wages are rising rapidly despite Federal Reserve efforts to cool inflation, and there has been a wave of tech job cuts due to the pandemic. Families living near petrochemical plants are facing health threats that are being addressed by the Biden administration. Communities around Ukraine&#39;s Dnipro River rely on it for sustenance even as it serves as a front line in conflict. A homeless man was recently killed on the NYC subway, causing debate about how to address mental health and public safety. Doctors have long warned of the dangerous effects of chokeholds, which have recently been used to subdue an individual in the NYC subway. The video game franchise Legend of Zelda is celebrating its 40th anniversary with a new installment. The World Health Organization has ended its global health emergency designation for Covid, while the CDC is scaling back its tracking efforts. In Serbia, 8 people were killed and 14 others injured in a shooting only one day after a school massacre. And finally, Britons are asking questions about why monarchy still persists as a newly crowned king is celebrated throughout the country.</p>
+There is a lot going on in the world right now. On the business side, bank stocks have been bouncing around as investors readjust their expectations of the economic outlook. In health news, the head of the CDC has resigned and the WHO has declared an end to global Covid emergency. Meanwhile, cases, hospitalizations and deaths from Covid are at some of their lowest levels in years, but the CDC is scaling back its Covid tracking efforts. There has also been a shocking subway killing that has made New Yorkers--and elected officials--question mental health and public safety.
+
+On other fronts, the video game franchise The Legend of Zelda just released yet another long-awaited entry. In politics, the college president of Bard College has been defending himself after Epstein money was revealed in some of his donations. And closer to home, a conspiracy theory emerged that targetedTrump&#39;s potential rival - Florida governor Ron DeSantis - linking him with conspiracist groups calling him a &#39;tool of the Deep State&#39;. But it looks like his popularity with these groups may seeing a downturn.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wages Climb Rapidly, Defying Fed’s Hopes as it Fights Inflation</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Pay gains picked up last month, the opposite of what Federal Reserve officials are hoping for as they try to cool inflation.  <a href="https://nyti.ms/41aatLY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Bank Stocks Bounce as Investors Rethink Economic Outlook</h3>
+<sub>By Joe Rennison</sub>
+<p>PacWest and Western Alliance, the banks at the center of the latest phase of the crisis, recouped a chunk of earlier losses, as robust economic data also heartened investors.  <a href="https://nyti.ms/3HEmen2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Bearer of Bad News</h3>
-<sub>By Lora Kelley</sub>
-<p>Roger Lee has cataloged hundreds of thousands of tech job cuts on his site Layoffs.fyi. He still believes the industry will “100 percent” bounce back.  <a href="https://nyti.ms/3VBVdGp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Living and Breathing on the Front Line of a Toxic Chemical Zone</h3>
-<sub>By Eric Lipton</sub>
-<p>As the Biden administration moves to curb health threats caused by toxic chemicals, the debate hits home for families living near petrochemical plants.  <a href="https://nyti.ms/3nxWn9j"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Dnipro River, Axis of Life and Death in Ukraine</h3>
-<sub>By Nicole Tung and Marc Santora</sub>
-<p>The river has helped to define Ukraine’s history and culture, and remains vital to daily sustenance, even as it also serves as a front line in war — as it has countless times over thousands of years.  <a href="https://nyti.ms/3Lx4KKp"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Subway Killing Stuns, and Divides, New Yorkers</h3>
-<sub>By Emma G. Fitzsimmons and Maria Cramer</sub>
-<p>After a homeless man was killed on the subway, New Yorkers and elected officials are mourning his death and debating how the city should address mental health and public safety.  <a href="https://nyti.ms/42rQfOU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Doctors Have Long Warned That Chokeholds Are Deadly</h3>
-<sub>By Gina Kolata</sub>
-<p>Many police departments prohibit their officers from employing the kind of neck restraints a man used in fatally subduing Jordan Neely in the New York City subway.  <a href="https://nyti.ms/3LX8ypr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How The Legend of Zelda Changed the Game</h3>
-<sub>By Zachary Small and Rumsey Taylor</sub>
-<p>For nearly four decades, the video game franchise has emphasized exploration and the joy of discovery. Millions of fans hope that the newest entry, Tears of the Kingdom, will push the boundaries of what an open-world game can be.  <a href="https://nyti.ms/3AVCmN1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<h3>Walensky to Resign as C.D.C. Director</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>In an announcement on Friday, the head of the beleaguered agency said she would step down in June.  <a href="https://nyti.ms/3HEt4J9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>W.H.O. Ends Global Health Emergency Designation for Covid</h3>
@@ -116,22 +88,52 @@ There is a lot happening in the world right now. Wages are rising rapidly despit
 <p>With the official end of the public health emergency next week, the agency will no longer report community levels of infection and will stop trying to tally every case.  <a href="https://nyti.ms/42pqRcq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>8 Are Dead in Shooting in Serbia, a Day After School Massacre</h3>
-<sub>By Constant Méheut, John Yoon, Joe Orovic and Jenny Gross</sub>
-<p>A suspect was in custody after an overnight manhunt in the attack, which also injured at least 14, about 30 miles outside of Serbia’s capital, Belgrade.  <a href="https://nyti.ms/44uOvpE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As a King Is Crowned, Some Britons Ask Why the Monarchy Persists</h3>
-<sub>By Sarah Lyall</sub>
-<p>As long as there has been a monarchy, there have been questions about its legitimacy. But for many people, it would be difficult to disentangle the royal family from British identity.  <a href="https://nyti.ms/44vR3E4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>What’s Going On With Covid Right Now?</h3>
+<sub>By Dana G. Smith</sub>
+<p>Cases, hospitalizations and deaths are lower than they’ve been in years. We asked experts how to think about personal risk — and what the future likely holds.  <a href="https://nyti.ms/3N5AHvx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, April 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why E. Jean Carroll Will Always Tell You She Is ‘Fine, Fabulous’</h3>
-<sub>By Ginia Bellafante</sub>
-<p>Decades after the sexual revolution and before #MeToo, the writer tucked away her pain and projected a carefree attitude. Now she’s accused of having too much fun.  <a href="https://nyti.ms/3nuAGXP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Subway Killing Stuns, and Divides, New Yorkers</h3>
+<sub>By Emma G. Fitzsimmons and Maria Cramer</sub>
+<p>After a homeless man was killed on the subway, New Yorkers and elected officials are mourning his death and debating how the city should address mental health and public safety.  <a href="https://nyti.ms/42rQfOU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>How The Legend of Zelda Changed the Game</h3>
+<sub>By Zachary Small and Rumsey Taylor</sub>
+<p>For nearly four decades, the video game franchise has emphasized exploration and the joy of discovery. Millions of fans hope that the newest entry, Tears of the Kingdom, will push the boundaries of what an open-world game can be.  <a href="https://nyti.ms/3AVCmN1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A College President Defends Seeking Money From Jeffrey Epstein</h3>
+<sub>By Vimal Patel</sub>
+<p>Leon Botstein, the president of Bard College, said, “Among the very rich is a higher percentage of unpleasant and not very attractive people.”  <a href="https://nyti.ms/42uWQYW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why Nearly All the King’s Realms Want to Say Goodbye and Good Riddance</h3>
+<sub>By Damien Cave</sub>
+<p>Whether through a hard break or a soft fade in ties, nations that have kept the British monarch as their head of state are moving toward separation.  <a href="https://nyti.ms/42qzgfN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A King Who Actually Likes the Arts</h3>
+<sub>By Alex Marshall</sub>
+<p>In King Charles III, Britain has its most culturally attuned monarch for generations.  <a href="https://nyti.ms/3NDWLxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Ron DeSoros’? Conspiracy Theorists Target Trump’s Rival.</h3>
+<sub>By Stuart A. Thompson</sub>
+<p>Ron DeSantis, a likely contender for the Republican presidential nomination, must court far-right voters who consider him a tool of the Deep State.  <a href="https://nyti.ms/3LAsXiW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The Devolution of Ron DeSantis</h3>
+<sub>By Nate Cohn</sub>
+<p>After a promising start, he has become bogged down in issues that have divided and hurt Republicans in the past.  <a href="https://nyti.ms/3LE0FUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
