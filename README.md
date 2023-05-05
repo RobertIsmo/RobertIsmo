@@ -60,32 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 4, Central Standard Time</p>
 <p>
-It seems like there is a lot going on in the world right now. In the US, four members of the Proud Boys have been convicted of sedition in a case related to the January 6th storming of the US Capitol. There&#39;s tension between Ukraine and Russia over possible drone attacks near Moscow. South African leaders allowed a Russian plane under US sanctions to land at a military base, which could lead to more tensions between those countries. In New York, there have been no arrests yet for the death of someone who was put in a police chokehold.
-
-In addition, there are some financial worries with small banks and the herder market. Though Federal Reserve Chairman Jerome Powell believes this time is different from past recessions, fears still abound. In other news, an autopsy report came out that someone died of head injuries due to a police beating. Also, &#39;superfake&#39; handbags are becoming popular as almost nobody can tell them apart from expensive designer ones - though there&#39;s controversy over one man who&#39;s being sued by his former wife&#39;s friends over text messages involving her abortion. Finally, people should enjoy top racehorses while they can as they won&#39;t be around for long as they&#39;ll be headed to breeding sheds where the real money is soon enough.</p>
+The world is in a state of flux. Financially, smaller banks are struggling and their share prices have plunged due to lack of investors as speculation rumbles over their stability. In politics, justice departments are intensifying efforts to uncover evidence of wrongdoing from Donald Trump&#39;s time in office. However, many states are pushing for strict law changes surrounding abortion and numerous cases have emerged involving accusations of obscuring documents or privacy invasions. Even more shocking is the death of Tyre Nichols, which an autopsy found was caused by head injuries inflicted by police brutality. Finally, even luxury fashion is being affected as people struggle to tell apart fake handbags from real ones.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Four Proud Boys Convicted of Sedition in Key Jan. 6 Case</h3>
-<sub>By Alan Feuer and Zach Montague</sub>
-<p>The verdict was a blow against the far-right group and another milestone in the Justice Department’s prosecution of the pro-Trump rioters who stormed the Capitol.  <a href="https://nyti.ms/42rp1aO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kremlin Blasts Were Real. The Rest Is Hazy, Maybe Intentionally.</h3>
-<sub>By Michael Schwirtz</sub>
-<p>Kyiv and Moscow angrily blamed each other after two explosions in an apparent drone attack on the heart of Russian power, but whose outrage is real?  <a href="https://nyti.ms/41e5fyU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>South Africa Allowed Russian Plane Under U.S. Sanctions to Land at Base</h3>
-<sub>By Lynsey Chutel and John Eligon</sub>
-<p>The move could increase tensions between South Africa and the United States as it moves to isolate Moscow over the war in Ukraine.  <a href="https://nyti.ms/427h5vF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Smaller Banks Are Scrambling as Share Prices Plunge</h3>
+<sub>By Rob Copeland, Joe Rennison and Matthew Goldstein</sub>
+<p>Investors are not convinced that regional banks including PacWest and Western Alliance can remain viable. Some are actively betting on their demise.  <a href="https://nyti.ms/3pdcQQU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Thomas’s Friend Defends Failure to Disclose Tuition Payments by Harlan Crow</h3>
-<sub>By Charlie Savage</sub>
-<p>The revelation by ProPublica on Thursday added to the lavish gifts and travel from the Texas billionaire that Justice Clarence Thomas has not disclosed.  <a href="https://nyti.ms/3AVV3Ao"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Justice Dept. Intensifying Efforts to Determine if Trump Hid Documents</h3>
+<sub>By Maggie Haberman, Adam Goldman, Alan Feuer, Ben Protess and Michael S. Schmidt</sub>
+<p>Prosecutors investigating the former president’s handling of classified material have issued a wave of new subpoenas and obtained the confidential cooperation of a witness who worked at Mar-a-Lago.  <a href="https://nyti.ms/3NHi69w"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Legal Moves in Trump Case Reveal Challenges of Prosecuting a President</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and William K. Rashbaum</sub>
+<p>Lawyers for former President Donald J. Trump sought to have his hush-money case moved to federal court, even as the judge in the case scheduled his trial for early next year.  <a href="https://nyti.ms/3LGjyXg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Subway Killing Stuns, and Divides, New Yorkers</h3>
+<sub>By Emma G. Fitzsimmons and Maria Cramer</sub>
+<p>After a homeless man was killed on the subway, New Yorkers and elected officials are mourning his death and debating how the city should address mental health and public safety.  <a href="https://nyti.ms/42rQfOU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -94,22 +92,28 @@ In addition, there are some financial worries with small banks and the herder ma
 <p>Law enforcement officials said they were still determining what happened and whether to charge the man who choked Jordan Neely, 30, to death.  <a href="https://nyti.ms/3p8und0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Small Banks Rush to Reassure Investors as Shares Plunge</h3>
-<sub>By Lauren Hirsch</sub>
-<p>PacWest said it had been approached by potential “partners and investors.” Western Alliance denied a report it was seeking a sale.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Recession Fears Abound, but the Fed Chair Bets This Time Is Different</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Jerome H. Powell, the Federal Reserve chair, thinks his central bank can defy history to clinch slower inflation and a soft economic landing.  <a href="https://nyti.ms/3HJYwph"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>North Carolina Legislature Passes 12-Week Abortion Ban</h3>
+<sub>By David W. Chen and Kate Kelly</sub>
+<p>Republicans used their new supermajority status to push through the restriction, which stands to limit abortion access throughout the South if enacted.  <a href="https://nyti.ms/3ASNwCi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Autopsy Shows Tyre Nichols Died of Head Injuries From Police Beating</h3>
-<sub>By Emily Cochrane and Jessica Jaglois</sub>
-<p>Medical examiners formally declared his death a homicide, describing severe blunt force injuries to his head and neck as well as bruises and cuts all over his body.  <a href="https://nyti.ms/3Lvxkfb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Husband Sued Over His Ex-Wife’s Abortion; Now Her Friends Are Suing Him</h3>
+<sub>By Emily Bazelon</sub>
+<p>A Texas man says text messages on his ex-wife’s phone show the women helped her obtain an abortion. The women say he invaded their privacy.  <a href="https://nyti.ms/426EGNg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Rape Trial Deposition, Trump Says Vulgar Tape Simply Reflects Truth</h3>
+<sub>By Benjamin Weiser, Lola Fadulu and Kate Christobek</sub>
+<p>The former president did not disavow the “Access Hollywood” video when questioned by lawyers for E. Jean Carroll, who has accused him of attacking her. They rested their case Thursday.  <a href="https://nyti.ms/3AXyPxP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Four Proud Boys Convicted of Sedition in Key Jan. 6 Case</h3>
+<sub>By Alan Feuer and Zach Montague</sub>
+<p>The verdict was a blow against the far-right group and another milestone in the Justice Department’s prosecution of the pro-Trump rioters who stormed the Capitol.  <a href="https://nyti.ms/42rp1aO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -119,21 +123,15 @@ In addition, there are some financial worries with small banks and the herder ma
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Husband Sued Over His Ex-Wife’s Abortion; Now Her Friends Are Suing Him</h3>
-<sub>By Emily Bazelon</sub>
-<p>A Texas man says text messages on his ex-wife’s phone show the women helped her obtain an abortion. The women say he invaded their privacy.  <a href="https://nyti.ms/426EGNg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Justice Thomas’s Friend Defends Failure to Disclose Tuition Payments by Harlan Crow</h3>
+<sub>By Charlie Savage</sub>
+<p>The revelation by ProPublica on Thursday added to the lavish gifts and travel from the Texas billionaire that Justice Clarence Thomas has not disclosed.  <a href="https://nyti.ms/3AVV3Ao"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Default Looming, What Can Biden Do?</h3>
-<sub>By Jim Tankersley</sub>
-<p>The president has not wavered in his calls for Republicans to raise the nation’s borrowing limit without condition. Privately, his aides have discussed other paths.  <a href="https://nyti.ms/3M6usHf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>First, a Run for the Roses. Then, a Dash to the Breeding Shed.</h3>
-<sub>By Joe Drape</sub>
-<p>Enjoy today’s top racehorses while you can. It won’t be long before they quit racing and go where the real money is.  <a href="https://nyti.ms/3p02nYK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Autopsy Shows Tyre Nichols Died of Head Injuries From Police Beating</h3>
+<sub>By Emily Cochrane and Jessica Jaglois</sub>
+<p>Medical examiners formally declared his death a homicide, describing severe blunt force injuries to his head and neck as well as bruises and cuts all over his body.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
