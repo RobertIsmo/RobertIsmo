@@ -58,10 +58,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, May 5, Central Standard Time</p>
+<p>It is Saturday, May 6, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In the U.S., prosecutors are nearing charging decisions after investigating whether former President Donald J. Trump and his allies illegally meddled in Georgia’s 2020 election. Also, a Jan. 6 rioter in D.C. was just given the longest sentence yet for attacks on police officers and national security officials are warning about the potential for new AI technology to upend war, cyber conflict, and even nuclear weapons. There&#39;s also a legal wrangle between Florida Governor Ron DeSantis, who just signed a bill that allows approved agreements with Walt Disney World to be voidable, and an issue of debt being withheld from the U.S. due to a standoff with House Republicans. Meanwhile, in New York City there is an ongoing investigation into the murder of Jordan Neely by Daniel Penny, who has not yet been charged, and a US Supreme Court stay of execution granted to death row inmate Richard Glossip just prior to his scheduled execution date of May 18th after Oklahoma&#39;s attorney general urged that he not be put to death citing issues with his murder trial. Lastly, there is growing excitement over the newest game release in The Legend of Zelda franchise, Tears of The Kingdom, which many hope will push boundaries of what an open-world game can be.</p>
+There are many nations that have had ties with the British monarchy that are now breaking away, while Britain’s new head of state has been in the public eye ever since he was a baby. In the US, some people that supported ex-President Donald Trump have been investigated for illegally tampering with an election and some of them have already taken legal plea deals. One rioter who attacked police during an incident connected to Trump has been given one of the longest sentences yet in those investigations. Advanced technology such as artificial intelligence is being discussed by national security officials, as they fear it could be used for military purposes. The controversial television presenter Tucker Carlson might be going back on air earlier than expected but Fox is not sure if they will let him. Jordan Neely was killed in May 2021; his killer hasn&#39;t been charged yet. If you come across someone exhibiting distressing behaviour, it&#39;s important to know how to respond and offer help in a safe manner. President Joe Biden recently stated that he knows more than most people due to his long political career, and this coincides with House Republicans rejecting the government&#39;s 2022 budget plan. One bill passed recently in Florida can void any approved development agreement between Walt Disney World and Governor DeSantis, while DeSantis is facing criticism due to numerous issues. Lastly, there has been a stay on an inmate called Richard Glossip that was scheduled for execution this May 18th in Oklahoma.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why So Many Nations in the King’s Realm Want to Say Goodbye</h3>
+<sub>By Damien Cave</sub>
+<p>Whether through a hard break or a soft fade in ties, nations that have kept the British monarch as their head of state are moving toward separation.  <a href="https://nyti.ms/42qzgfN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>King Charles: A Life in Photos</h3>
+<sub>By The New York Times</sub>
+<p>Cameras have followed Britain’s new head of state since infancy. Here is a selection of memorable images from a very public life.  <a href="https://nyti.ms/3LWppJ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Most Fake Trump Electors Have Taken Immunity Deals in Georgia Case</h3>
 <sub>By Danny Hakim</sub>
@@ -121,18 +133,6 @@ There is a lot going on around the world right now. In the U.S., prosecutors are
 <sub>By Adam Liptak</sub>
 <p>The court acted after Oklahoma’s attorney general joined Mr. Glossip in urging it to halt the execution, which had been scheduled for May 18.  <a href="https://nyti.ms/41aF0ck"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About the Case of Richard Glossip, Death Row Prisoner</h3>
-<sub>By Remy Tumin</sub>
-<p>The U.S. Supreme Court has granted a stay of execution after Oklahoma’s attorney general urged that Mr. Glossip not be put to death, citing problems with his murder trial.  <a href="https://nyti.ms/42x2d9Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>How The Legend of Zelda Changed the Game</h3>
-<sub>By Zachary Small and Rumsey Taylor</sub>
-<p>For nearly four decades, the video game franchise has emphasized exploration and the joy of discovery. Millions of fans hope that the newest entry, Tears of the Kingdom, will push the boundaries of what an open-world game can be.  <a href="https://nyti.ms/3AVCmN1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
