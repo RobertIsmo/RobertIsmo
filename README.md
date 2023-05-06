@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 6, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Ukraine, they recently shot down a missile fired by Russia with the help of US-made artillery. Meanwhile, Russia and Ukraine are both feeling pressure from their respective Western and Eastern backers. In Russia, a prominent nationalist writer was injured in a car bombing. On Saturday, Charles III was crowned king in the UK after 70 years of no monarchs - there were some traditional elements with some modern touches at the ceremony. We also saw distance between the brothers William and Harry during the coronation, who usually have a close relationship. Closer to home, authorities in Georgia are currently investigating whether Donald Trump interfered with their election while they also have 9 people who received immunity deals for pretending to be electors during his campaign. In New Hampshire some residents still bewitch over the collapsed rock formation that existed since 2003. Finally, there&#39;s quite a bit happening in sports too where we&#39;ll see Stephen Curry vs LeBron James for the playoffs - possibly for their last time together - redefining basketball for this generation. Oh, and there&#39;s also energy crises due to extreme weather changes caused by climate change which prevent access to generators and batteries for many people.</p>
+There is a lot going on in the world right now. In Ukraine, they&#39;ve claimed to have shot down Russia&#39;s most sophisticated missile for the first time. As Russian president Putin takes his time, Ukraine feels mounting pressure from the West. In Russia, a car bomb injured a prominent nationalist writer according to state media. Over in Britain, Charles III was crowned king with a lavish ceremony filled with traditional elements and modern touches. Meanwhile, the relationship between William and Harry has grown distant. Here in the United States, we are learning more about the mind-set of an airman involved in a massive data leak. A rock formation in New Hampshire is also causing some commotion as they remember it after its collapse sixteen years ago. On top of that, there is uncertainty ahead of the 2023 Kentucky Derby and speculation over Republican Vivek Ramaswamy&#39;s 2024 intentions, while Florida Governor Ron DeSantis eyes Wisconsin as he circles Trump.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Claims It Shot Down Russia’s Most Sophisticated Missile for First Time</h3>
@@ -105,15 +105,21 @@ There is a lot going on in the world right now. In Ukraine, they recently shot d
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Most Fake Trump Electors Have Taken Immunity Deals in Georgia Case</h3>
-<sub>By Danny Hakim</sub>
-<p>Prosecutors are nearing charging decisions after investigating whether former President Donald J. Trump and his allies illegally meddled in Georgia’s 2020 election.  <a href="https://nyti.ms/3Bi6Jh3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Why the Fuss Over a Rock Formation That Fell? Don’t Tell New Hampshire That.</h3>
+<sub>By Jenna Russell and John Tully</sub>
+<p>The Old Man of the Mountain collapsed in 2003, but it hasn’t lost its hold on residents.  <a href="https://nyti.ms/3LZtPyM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New Hampshire’s Old Man of the Mountain, 20 Years Gone, Still Bewitches</h3>
-<sub>By Jenna Russell and John Tully</sub>
-<p>The rock formation collapsed in 2003, but it hasn’t lost its hold on residents, who have passed on their affection to a new generation.  <a href="https://nyti.ms/3LZtPyM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The past four Derbies have been wild. What could possibly happen next?</h3>
+<sub>By Melissa Hoppert</sub>
+<p>Forte, the morning-line favorite in the 149th Run for the Roses, was scratched on the morning of the race, which figures to be anything but ordinary.  <a href="https://nyti.ms/3peTAT3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Expert Picks: Who Will Win the 2023 Kentucky Derby</h3>
+<sub>By Joe Drape and Melissa Hoppert</sub>
+<p>Joe Drape and Melissa Hoppert assess the field for the 149th running of the Kentucky Derby.  <a href="https://nyti.ms/3paO1oL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +128,10 @@ There is a lot going on in the world right now. In Ukraine, they recently shot d
 <p>Vivek Ramaswamy, a long-shot 2024 contender, is lavishly wealthy and astoundingly confident. He also promises to exert breathtaking power in ways that Donald Trump never did.  <a href="https://nyti.ms/3NFZwhU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Nothing Is Bigger Than Stephen Curry vs. LeBron James</h3>
-<sub>By Sopan Deb</sub>
-<p>Curry and James are meeting in the playoffs, perhaps for the last time. Together and apart, they have redefined a generation of basketball.  <a href="https://nyti.ms/3LCXCMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Backup Power: A Growing Need, if You Can Afford It</h3>
-<sub>By Ivan Penn and Peter Eavis</sub>
-<p>Extreme weather linked to climate change is causing more blackouts. But generators and batteries are still out of reach of many.  <a href="https://nyti.ms/3LYCH6X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis to Visit Wisconsin, a 2024 Battleground, as He Circles Trump</h3>
+<sub>By Nicholas Nehamas and Alexandra Glorioso</sub>
+<p>The Florida governor, who has slipped in polls as his expected entrance to the presidential race nears, is moving beyond early nominating states like Iowa and New Hampshire.  <a href="https://nyti.ms/42bwScT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
