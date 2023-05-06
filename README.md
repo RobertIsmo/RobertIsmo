@@ -60,19 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 6, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. For example, there is a coronation ceremony taking place in London with the King Charles III and other members of the royal family. Meanwhile, many countries are moving away from the British monarchy as their head of state and nation. Here in the US, there are criminal investigations against Donald Trump and his allies for their alleged interference with the 2020 election. On top of that, an execution has been delayed by the Supreme Court after Richard Glossip, a death row inmate, made an appeal to them. These are just some of the storylines unfolding around us today.</p>
+Right now the world is focused on the upcoming coronation of Charles III in Westminster Abbey with some anti-monarchists looking to prove their point. In the US, there are investigations into former President Donald Trump and his allies for their meddling in the 2020 election in Georgia, and whether certain charges will be brought against them. In Ukraine, they&#39;ve shot down a Russian missile for the first time with a new U.S.-made Patriot air-defense battery. A car bombing involving a prominent Russian nationalist is being reported by state media. In New Hampshire, commemoration is happening for the Old Man of the Mountain rock formation that collapsed 20 years ago. Vivek Ramaswamy has arisen as a possible 2024 Republican contender who promises to exercise power further than Donald Trump ever did. Meanwhile, Black mothers in America are having worse birth outcomes regardless of income or education which has lead to unwanted epidurals and untreated pain while over-the-counter hearing aids are providing new options that may be confusing users as well. Finally The Weekender edition of international news includes an Annie Ernaux&#39;s taboo-breaking writing as well as a warning from &#39;The Godfather of A.I.&#39; and an article focusing on the rise of &#39;superfake&#39; handbags.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What Will Happen During the Coronation</h3>
 <sub>By Isabella Kwai</sub>
-<p>Processions through central London will bookend a coronation service in Westminster Abbey. King Charles III and other members of the royal family will also make an appearance on the balcony of Buckingham Palace.  <a href="https://nyti.ms/3HKmW24"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>After the coronation service at Westminster Abbey, King Charles III and other members of the royal family will make an appearance on the balcony of Buckingham Palace.  <a href="https://nyti.ms/3HKmW24"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why So Many Nations in the King’s Realm Want to Say Goodbye</h3>
-<sub>By Damien Cave</sub>
-<p>Whether through a hard break or a soft fade in ties, nations that have kept the British monarch as their head of state are moving toward separation.  <a href="https://nyti.ms/42qzgfN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<h3>Anti-monarchists see an opportunity to prove their point in the coronation events.</h3>
+<sub>By Emma Bubola</sub>
+<p>Supporters of an elected head of state for Britain see the coronation as an opportunity to highlight the absurdity of having a royal family in the 21st century.  <a href="https://nyti.ms/3Vzuhat"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Most Fake Trump Electors Have Taken Immunity Deals in Georgia Case</h3>
@@ -80,58 +80,58 @@ There&#39;s a lot happening in the world right now. For example, there is a coro
 <p>Prosecutors are nearing charging decisions after investigating whether former President Donald J. Trump and his allies illegally meddled in Georgia’s 2020 election.  <a href="https://nyti.ms/3Bi6Jh3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jan. 6 Rioter Gets 14 Years for Police Attacks, Longest Sentence Yet in Inquiry</h3>
-<sub>By Alan Feuer and Zach Montague</sub>
-<p>The sentence was delivered the same day prosecutors recommended 25 years in prison for Stewart Rhodes, the leader of the Oath Keepers militia, who was convicted of seditious conspiracy in the attack.  <a href="https://nyti.ms/3NJ8bAo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Says It Shot Down Russia’s Most Sophisticated Missile for First Time</h3>
+<sub>By Marc Santora</sub>
+<p>The Air Force said it intercepted the missile with a newly delivered U.S.-made Patriot air-defense battery, the first time Kyiv has said it used the advanced weapon.  <a href="https://nyti.ms/3phMH38"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Car Bombing Injures Prominent Russian Nationalist, State Media Reports</h3>
+<sub>By Cassandra Vinograd</sub>
+<p>Zakhar Prilepin, who fought in eastern Ukraine in support of a separatist rebellion, has long advocated an imperialist foreign policy by Moscow.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Next Fear on A.I.: Hollywood’s Killer Robots Become the Military’s Tools</h3>
-<sub>By David E. Sanger</sub>
-<p>U.S. national security officials are warning about the potential for the new technology to upend war, cyber conflict and — in the most extreme case — the use of nuclear weapons.  <a href="https://nyti.ms/3AWNoBR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Tucker Carlson Wants to Return to TV Before 2025. Will Fox Let Him?</h3>
-<sub>By Jeremy W. Peters and Benjamin Mullin</sub>
-<p>In conversations with his associates, Mr. Carlson has expressed interest in getting back to work before the agreement expires.  <a href="https://nyti.ms/41akIzJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What We Know About Jordan Neely’s Killing</h3>
-<sub>By Maria Cramer, Hurubie Meko and Amelia Nierenberg</sub>
-<p>On May 1, a 24-year-old man named Daniel Penny choked Jordan Neely, 30, to death on a New York City subway train. Mr. Penny has not been charged.  <a href="https://nyti.ms/3nznWzc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>How to Respond to a Stranger in Mental Distress</h3>
-<sub>By Dani Blum and Dana G. Smith</sub>
-<p>Experts explain what to do if you feel threatened and how to offer help if the situation calls for it.  <a href="https://nyti.ms/3Lve0yA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>New Hampshire’s Old Man of the Mountain, 20 Years Gone, Still Bewitches</h3>
+<sub>By Jenna Russell and John Tully</sub>
+<p>The rock formation collapsed in 2003, but it hasn’t lost its hold on residents, who have passed on their affection to a new generation.  <a href="https://nyti.ms/3LZtPyM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Asked About Age, Biden Says He Knows ‘More Than the Vast Majority of People’</h3>
-<sub>By Katie Rogers</sub>
-<p>The president also said that he was not yet prepared to lean on the 14th Amendment to compel the government to pay its debt amid a showdown with House Republicans.  <a href="https://nyti.ms/41eZeSm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Smooth-Talking Republican Who Would Rule by Fiat</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Vivek Ramaswamy, a long-shot 2024 contender, is lavishly wealthy and astoundingly confident. He also promises to exert breathtaking power in ways that Donald Trump never did.  <a href="https://nyti.ms/3NFZwhU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>DeSantis Signs Into Law Latest Wrinkle in Disney Feud</h3>
-<sub>By Brooks Barnes</sub>
-<p>The bill would allow approved development agreements for Walt Disney World to be voided. The company has already sued the governor over the issue.  <a href="https://nyti.ms/3ns1qZ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Big Promises From Vivek Ramaswamy</h3>
+<sub>By Jonathan Weisman</sub>
+<p>“End” this, “shut down” that, “annihilate” the other thing. A political newcomer promises to outdo Donald Trump.  <a href="https://nyti.ms/3LF13lV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Why Ron DeSantis Is Struggling</h3>
-<sub>By Nate Cohn</sub>
-<p>After a promising start, he has become bogged down in issues that have divided and hurt Republicans in the past.  <a href="https://nyti.ms/3LE0FUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<h3>Unwanted Epidurals, Untreated Pain: Black Women Tell Their Birth Stories</h3>
+<sub>By Claire Cain Miller and Sarah Kliff</sub>
+<p>Regardless of income or education, Black mothers have worse birth outcomes.  <a href="https://nyti.ms/3pdjFC3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Stays Execution of Death Row Inmate Richard Glossip</h3>
-<sub>By Adam Liptak</sub>
-<p>The court acted after Oklahoma’s attorney general joined Mr. Glossip in urging it to halt the execution, which had been scheduled for May 18.  <a href="https://nyti.ms/41aF0ck"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Hearing Aids Are Changing. Their Users Are, Too.</h3>
+<sub>By Neelam Bohra</sub>
+<p>As more young people risk hearing loss, over-the-counter hearing aids are providing new options, but also confusing choices.  <a href="https://nyti.ms/3pcTyeu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tightening Supreme Court Ethics Rules Faces Steep Hurdles</h3>
+<sub>By Charlie Savage</sub>
+<p>Revelations about Justice Clarence Thomas’s failure to disclose largess from a Republican donor have highlighted a dilemma.  <a href="https://nyti.ms/42xbuyP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub></sub>
+<p>Annie Ernaux’s taboo-breaking writing. Also in this edition: a warning from the “Godfather of A.I.,” and the rise of “superfake” handbags.  <a href="https://nyti.ms/44v440L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
