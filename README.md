@@ -60,48 +60,68 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 5, Central Standard Time</p>
 <p>
-Right now, there is a lot happening in the world. US national security officials are warning about A.I., specifically its potential to upend war and cyber conflict. The World Health Organization has just ended the Covid global health emergency designation, although it doesn&#39;t represent any huge improvements in the pandemic. US job growth is remaining strong and bank stocks are shooting higher as the economy rebounds from Covid-19 worries. Meanwhile, Russia is trying to remain focused on their Victory Day holiday while there is unease over the ongoing war in Ukraine. Yevgeny Prigozhin, head of the Wagner mercenary force, is becoming a powerful figure in Russia due to his leadership and use of social media. In video games, there&#39;s lots of buzz around The Legend of Zelda and how it still continues to push boundaries after nearly 4 decades. College President Leon Botstein is stirring controversy by defending taking money from Jeffrey Epstein while many countries with ties to Britain are looking to break away or at least distance themselves from the British monarchy now that Charles III has taken over. And lastly, there&#39;s this flurry of photos circulating of King Charles throughout his life which makes us all appreciate how deeply he cares for the arts and culture.</p>
+There are a lot of things going on in the world right now. In the US, prosecutors are close to making charging decisions about former President Donald Trump and his allies for possible election meddling in Georgia&#39;s 2020 election. There was also a Jan. 6 rioter who received a 14-year prison sentence for attacking police officers - the longest sentence yet in the inquiry. Moving onto technology, national security officials are worried about artificial intelligence being used by the military as weapons. 
+
+On a more business note, Fox is deciding whether to let Tucker Carlson come back or not before his contract expires in 2025. In addition, Florida Governor Ron DeSantis is struggling as he is bogged down by issues that hurt Republicans in the past. There&#39;s also a death row inmate by the name of Richard Glossip whose execution was stayed due to issues with his murder trial. Lastly, The Legend of Zelda video game franchise turns 40 this year and fans are looking forward to an update with their newest game - Tears of the Kingdom. Finally, Dr. Walensky just resigned from her position as director of the CDC after helping make the world a safer place.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Most Fake Trump Electors Have Taken Immunity Deals in Georgia Case</h3>
+<sub>By Danny Hakim</sub>
+<p>Prosecutors are nearing charging decisions after investigating whether former President Donald J. Trump and his allies illegally meddled in Georgia’s 2020 election.  <a href="https://nyti.ms/3Bi6Jh3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jan. 6 Rioter Gets 14 Years for Police Attacks, Longest Sentence Yet in Inquiry</h3>
+<sub>By Alan Feuer and Zach Montague</sub>
+<p>The sentence was delivered the same day prosecutors recommended 25 years in prison for Stewart Rhodes, the leader of the Oath Keepers militia, who was convicted of seditious conspiracy in the attack.  <a href="https://nyti.ms/3NJ8bAo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Next Fear on A.I.: Hollywood’s Killer Robots Become the Military’s Tools</h3>
 <sub>By David E. Sanger</sub>
 <p>U.S. national security officials are warning about the potential for the new technology to upend war, cyber conflict and — in the most extreme case — the use of nuclear weapons.  <a href="https://nyti.ms/3AWNoBR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Walensky Resigns as C.D.C. Director</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>In an announcement on Friday, the head of the beleaguered agency said she would step down in June. “We made this world a safer place,” she said.  <a href="https://nyti.ms/3HEt4J9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Tucker Carlson Wants to Return to TV Before 2025. Will Fox Let Him?</h3>
+<sub>By Jeremy W. Peters and Benjamin Mullin</sub>
+<p>In conversations with his associates, Mr. Carlson has expressed interest in getting back to work before the agreement expires.  <a href="https://nyti.ms/41akIzJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>W.H.O. Ends Global Health Emergency Designation for Covid</h3>
-<sub>By Stephanie Nolen</sub>
-<p>The decision has little practical effect but is a significant moment in the struggle against a virus that has killed millions and upended lives throughout the world.  <a href="https://nyti.ms/428FvF9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What We Know About Jordan Neely’s Killing</h3>
+<sub>By Maria Cramer, Hurubie Meko and Amelia Nierenberg</sub>
+<p>On May 1, a 24-year-old man named Daniel Penny choked Jordan Neely, 30, to death on a New York City subway train. Mr. Penny has not been charged.  <a href="https://nyti.ms/3nznWzc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>How to Respond to a Stranger in Mental Distress</h3>
+<sub>By Dani Blum and Dana G. Smith</sub>
+<p>Experts explain what to do if you feel threatened and how to offer help if the situation calls for it.  <a href="https://nyti.ms/3Lve0yA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Job Growth Retains Vigor Despite Economic Worries</h3>
-<sub>By Lydia DePillis</sub>
-<p>Employers added 253,000 jobs in April and unemployment fell to 3.4 percent, but the labor market’s strength complicates the Fed’s inflation fight.  <a href="https://nyti.ms/3LYCEJt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Signs Into Law Latest Wrinkle in Disney Feud</h3>
+<sub>By Brooks Barnes</sub>
+<p>The bill would allow approved development agreements for Walt Disney World to be voided. The company has already sued the governor over the issue.  <a href="https://nyti.ms/3ns1qZ7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bank Stocks Shoot Higher as Investors Rethink Economic Outlook</h3>
-<sub>By Joe Rennison</sub>
-<p>PacWest and Western Alliance, the banks at the center of the latest phase of the crisis, recouped a chunk of earlier losses, as robust economic data also heartened investors.  <a href="https://nyti.ms/3HEmen2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Why Ron DeSantis Is Struggling</h3>
+<sub>By Nate Cohn</sub>
+<p>After a promising start, he has become bogged down in issues that have divided and hurt Republicans in the past.  <a href="https://nyti.ms/3LE0FUL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia tries to focus on its Victory Day holiday while unease about the war in Ukraine grows.</h3>
-<sub>By Neil MacFarquhar</sub>
-<p>  <a href="https://nyti.ms/3LYwUPF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Stays Execution of Death Row Inmate Richard Glossip</h3>
+<sub>By Adam Liptak</sub>
+<p>The court acted after Oklahoma’s attorney general joined Mr. Glossip in urging it to halt the execution, which had been scheduled for May 18.  <a href="https://nyti.ms/41aF0ck"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Years in the Shadows, Prigozhin Becomes a Player in Russia</h3>
-<sub>By Anton Troianovski and Ben Shpigel</sub>
-<p>Yevgeny V. Prigozhin has used his leadership of the Wagner mercenary force and social media to turn brutality into a personal brand.  <a href="https://nyti.ms/44AdV5y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What to Know About the Case of Richard Glossip, Death Row Prisoner</h3>
+<sub>By Remy Tumin</sub>
+<p>The U.S. Supreme Court has granted a stay of execution after Oklahoma’s attorney general urged that Mr. Glossip not be put to death, citing problems with his murder trial.  <a href="https://nyti.ms/42x2d9Z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -110,29 +130,11 @@ Right now, there is a lot happening in the world. US national security officials
 <p>For nearly four decades, the video game franchise has emphasized exploration and the joy of discovery. Millions of fans hope that the newest entry, Tears of the Kingdom, will push the boundaries of what an open-world game can be.  <a href="https://nyti.ms/3AVCmN1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A College President Defends Seeking Money From Jeffrey Epstein</h3>
-<sub>By Vimal Patel</sub>
-<p>Leon Botstein, the president of Bard College, said, “Among the very rich is a higher percentage of unpleasant and not very attractive people.”  <a href="https://nyti.ms/42uWQYW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Walensky Resigns as C.D.C. Director</h3>
+<sub>By Apoorva Mandavilli and Noah Weiland</sub>
+<p>In an announcement on Friday, the head of the beleaguered agency said she would step down in June. “We made this world a safer place,” she said.  <a href="https://nyti.ms/3HEt4J9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why Nearly All the King’s Realms Want to Say Goodbye and Good Riddance</h3>
-<sub>By Damien Cave</sub>
-<p>Whether through a hard break or a soft fade in ties, nations that have kept the British monarch as their head of state are moving toward separation.  <a href="https://nyti.ms/42qzgfN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>King Charles: A Life in Photos</h3>
-<sub>By The New York Times</sub>
-<p>Cameras have followed Britain’s new head of state since infancy. Here is a selection of memorable images from a very public life.  <a href="https://nyti.ms/3LWppJ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A King Who Actually Likes the Arts</h3>
-<sub>By Alex Marshall</sub>
-<p>In King Charles III, Britain has its most culturally attuned monarch for generations.  <a href="https://nyti.ms/3NDWLxz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
