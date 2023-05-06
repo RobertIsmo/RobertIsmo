@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 5, Central Standard Time</p>
 <p>
-There are a lot of things going on in the world right now. In the US, prosecutors are close to making charging decisions about former President Donald Trump and his allies for possible election meddling in Georgia&#39;s 2020 election. There was also a Jan. 6 rioter who received a 14-year prison sentence for attacking police officers - the longest sentence yet in the inquiry. Moving onto technology, national security officials are worried about artificial intelligence being used by the military as weapons. 
-
-On a more business note, Fox is deciding whether to let Tucker Carlson come back or not before his contract expires in 2025. In addition, Florida Governor Ron DeSantis is struggling as he is bogged down by issues that hurt Republicans in the past. There&#39;s also a death row inmate by the name of Richard Glossip whose execution was stayed due to issues with his murder trial. Lastly, The Legend of Zelda video game franchise turns 40 this year and fans are looking forward to an update with their newest game - Tears of the Kingdom. Finally, Dr. Walensky just resigned from her position as director of the CDC after helping make the world a safer place.</p>
+There is a lot going on around the world right now. In the U.S., prosecutors are nearing charging decisions after investigating whether former President Donald J. Trump and his allies illegally meddled in Georgia’s 2020 election. Also, a Jan. 6 rioter in D.C. was just given the longest sentence yet for attacks on police officers and national security officials are warning about the potential for new AI technology to upend war, cyber conflict, and even nuclear weapons. There&#39;s also a legal wrangle between Florida Governor Ron DeSantis, who just signed a bill that allows approved agreements with Walt Disney World to be voidable, and an issue of debt being withheld from the U.S. due to a standoff with House Republicans. Meanwhile, in New York City there is an ongoing investigation into the murder of Jordan Neely by Daniel Penny, who has not yet been charged, and a US Supreme Court stay of execution granted to death row inmate Richard Glossip just prior to his scheduled execution date of May 18th after Oklahoma&#39;s attorney general urged that he not be put to death citing issues with his murder trial. Lastly, there is growing excitement over the newest game release in The Legend of Zelda franchise, Tears of The Kingdom, which many hope will push boundaries of what an open-world game can be.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Most Fake Trump Electors Have Taken Immunity Deals in Georgia Case</h3>
@@ -100,6 +98,12 @@ On a more business note, Fox is deciding whether to let Tucker Carlson come back
 <p>Experts explain what to do if you feel threatened and how to offer help if the situation calls for it.  <a href="https://nyti.ms/3Lve0yA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Asked About Age, Biden Says He Knows ‘More Than the Vast Majority of People’</h3>
+<sub>By Katie Rogers</sub>
+<p>The president also said that he was not yet prepared to lean on the 14th Amendment to compel the government to pay its debt amid a showdown with House Republicans.  <a href="https://nyti.ms/41eZeSm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>DeSantis Signs Into Law Latest Wrinkle in Disney Feud</h3>
 <sub>By Brooks Barnes</sub>
@@ -129,12 +133,6 @@ On a more business note, Fox is deciding whether to let Tucker Carlson come back
 <sub>By Zachary Small and Rumsey Taylor</sub>
 <p>For nearly four decades, the video game franchise has emphasized exploration and the joy of discovery. Millions of fans hope that the newest entry, Tears of the Kingdom, will push the boundaries of what an open-world game can be.  <a href="https://nyti.ms/3AVCmN1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Walensky Resigns as C.D.C. Director</h3>
-<sub>By Apoorva Mandavilli and Noah Weiland</sub>
-<p>In an announcement on Friday, the head of the beleaguered agency said she would step down in June. “We made this world a safer place,” she said.  <a href="https://nyti.ms/3HEt4J9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
