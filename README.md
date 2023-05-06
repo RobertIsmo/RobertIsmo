@@ -60,19 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 6, Central Standard Time</p>
 <p>
-There are many nations that have had ties with the British monarchy that are now breaking away, while Britain’s new head of state has been in the public eye ever since he was a baby. In the US, some people that supported ex-President Donald Trump have been investigated for illegally tampering with an election and some of them have already taken legal plea deals. One rioter who attacked police during an incident connected to Trump has been given one of the longest sentences yet in those investigations. Advanced technology such as artificial intelligence is being discussed by national security officials, as they fear it could be used for military purposes. The controversial television presenter Tucker Carlson might be going back on air earlier than expected but Fox is not sure if they will let him. Jordan Neely was killed in May 2021; his killer hasn&#39;t been charged yet. If you come across someone exhibiting distressing behaviour, it&#39;s important to know how to respond and offer help in a safe manner. President Joe Biden recently stated that he knows more than most people due to his long political career, and this coincides with House Republicans rejecting the government&#39;s 2022 budget plan. One bill passed recently in Florida can void any approved development agreement between Walt Disney World and Governor DeSantis, while DeSantis is facing criticism due to numerous issues. Lastly, there has been a stay on an inmate called Richard Glossip that was scheduled for execution this May 18th in Oklahoma.</p>
+There&#39;s a lot happening in the world right now. For example, there is a coronation ceremony taking place in London with the King Charles III and other members of the royal family. Meanwhile, many countries are moving away from the British monarchy as their head of state and nation. Here in the US, there are criminal investigations against Donald Trump and his allies for their alleged interference with the 2020 election. On top of that, an execution has been delayed by the Supreme Court after Richard Glossip, a death row inmate, made an appeal to them. These are just some of the storylines unfolding around us today.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What Will Happen During the Coronation</h3>
+<sub>By Isabella Kwai</sub>
+<p>Processions through central London will bookend a coronation service in Westminster Abbey. King Charles III and other members of the royal family will also make an appearance on the balcony of Buckingham Palace.  <a href="https://nyti.ms/3HKmW24"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Why So Many Nations in the King’s Realm Want to Say Goodbye</h3>
 <sub>By Damien Cave</sub>
 <p>Whether through a hard break or a soft fade in ties, nations that have kept the British monarch as their head of state are moving toward separation.  <a href="https://nyti.ms/42qzgfN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>King Charles: A Life in Photos</h3>
-<sub>By The New York Times</sub>
-<p>Cameras have followed Britain’s new head of state since infancy. Here is a selection of memorable images from a very public life.  <a href="https://nyti.ms/3LWppJ8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Most Fake Trump Electors Have Taken Immunity Deals in Georgia Case</h3>
