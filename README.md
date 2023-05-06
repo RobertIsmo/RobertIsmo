@@ -60,12 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 6, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. Britain just crowned their first king in 70 years, King Charles III. His two sons, William and Harry, had a strained relationship during the coronation ceremony. In Ukraine, they have reportedly shot down Russia&#39;s most sophisticated missile with a U.S.-made Patriot air-defense battery. And in Russia, a car bombing injured a prominent writer who had advocated an imperialist foreign policy by Moscow. Meanwhile in the United States, Georgia is investigating whether former President Donald J Trump and his allies illegally meddled in Georgia&#39;s 2020 election and most of the fake electors have taken immunity deals. Additionally, New Hampshire recently commemorated 20 years since their Old Man of the Mountain collapsed with residents sharing fond memories to a new generation. There&#39;s also a newly emerged Republican candidate called Vivek Ramaswamy who promises to exert breathtaking power in ways that Donald Trump never did. All this comes amidst dark maternal mortality statistics of Black mothers having worse birth outcomes than other women due to untreated pain or unwanted epidurals. And finally, The Kentucky Derby was recently disrupted when the morning-line favorite Forte was scratched due to illness only hours before the race - making this year&#39;s 149th Run for The Roses anything but ordinary.</p>
+There is a lot going on in the world right now. In Ukraine, they recently shot down a missile fired by Russia with the help of US-made artillery. Meanwhile, Russia and Ukraine are both feeling pressure from their respective Western and Eastern backers. In Russia, a prominent nationalist writer was injured in a car bombing. On Saturday, Charles III was crowned king in the UK after 70 years of no monarchs - there were some traditional elements with some modern touches at the ceremony. We also saw distance between the brothers William and Harry during the coronation, who usually have a close relationship. Closer to home, authorities in Georgia are currently investigating whether Donald Trump interfered with their election while they also have 9 people who received immunity deals for pretending to be electors during his campaign. In New Hampshire some residents still bewitch over the collapsed rock formation that existed since 2003. Finally, there&#39;s quite a bit happening in sports too where we&#39;ll see Stephen Curry vs LeBron James for the playoffs - possibly for their last time together - redefining basketball for this generation. Oh, and there&#39;s also energy crises due to extreme weather changes caused by climate change which prevent access to generators and batteries for many people.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Missed the Coronation? Here’s What Happened, From the Crown to the Crowds</h3>
+<h3>Ukraine Claims It Shot Down Russia’s Most Sophisticated Missile for First Time</h3>
+<sub>By Marc Santora, Eric Schmitt and John Ismay</sub>
+<p>The air force said it intercepted the hypersonic missile with a newly delivered U.S.-made Patriot air-defense battery. U.S. officials confirmed the strike.  <a href="https://nyti.ms/3phMH38"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Putin Bides His Time, Ukraine Faces a Ticking Clock</h3>
+<sub>By Paul Sonne and Andrew E. Kramer</sub>
+<p>Ukraine is feeling short-term pressure from its Western backers for success in a looming counteroffensive. Vladimir Putin seems to be operating on a longer timeline.  <a href="https://nyti.ms/42vPVPa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Car Bombing Injures Prominent Russian Nationalist Writer, State Media Reports</h3>
+<sub>By Neil MacFarquhar and Anton Troianovski</sub>
+<p>Zakhar Prilepin, who himself fought in eastern Ukraine, has long advocated an imperialist foreign policy by Moscow.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Charles III Was Crowned King. But Can He Ever Be the Star?</h3>
+<sub>By James Poniewozik</sub>
+<p>On Saturday, Charles finally became the focal figure of the long-running royal TV drama — if only for a day.  <a href="https://nyti.ms/3pg6aS0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Missed the Coronation? Here’s What Happened, From the Crown to the Crowds.</h3>
 <sub>By The New York Times</sub>
-<p>The lavish ceremony, Britain’s first in 70 years, was brimming with ancient traditions with a few modern touches.  <a href="https://nyti.ms/44C3Ep8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The lavish ceremony for Britain’s first new reigning monarch in 70 years, was brimming with ancient traditions with a few modern touches.  <a href="https://nyti.ms/44C3Ep8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,10 +98,10 @@ There is a lot happening in the world right now. Britain just crowned their firs
 <p>The sons of King Charles III did not appear to interact during their father’s coronation.  <a href="https://nyti.ms/3B2SwnK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Coronation of King Charles III, in Pictures</h3>
-<sub>By The New York Times</sub>
-<p>Britain is crowning King Charles III. Here’s a selection of the best photographs from the coronation weekend.  <a href="https://nyti.ms/42aRrq4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>War, Weapons and Conspiracy Theories: Inside Airman Teixeira’s Online World</h3>
+<sub>By Aric Toler, Robin Stein, Glenn Thrush, Riley Mellen and Ishaan Jhaveri</sub>
+<p>A review of more than 9,500 messages obtained by The New York Times offers important clues about the mind-set of a young airman implicated in a vast leak of government secrets.  <a href="https://nyti.ms/42eg5Gq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -85,18 +109,6 @@ There is a lot happening in the world right now. Britain just crowned their firs
 <sub>By Danny Hakim</sub>
 <p>Prosecutors are nearing charging decisions after investigating whether former President Donald J. Trump and his allies illegally meddled in Georgia’s 2020 election.  <a href="https://nyti.ms/3Bi6Jh3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Claims It Shot Down Russia’s Most Sophisticated Missile for First Time</h3>
-<sub>By Marc Santora</sub>
-<p>The Air Force said it intercepted the missile with a newly delivered U.S.-made Patriot air-defense battery. There was no immediate confirmation from Ukraine’s Western allies, including the United States.  <a href="https://nyti.ms/3phMH38"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Car Bombing Injures Prominent Russian Nationalist Writer, State Media Reports</h3>
-<sub>By Neil MacFarquhar and Anton Troianovski</sub>
-<p>Zakhar Prilepin, who himself fought in eastern Ukraine, has long advocated an imperialist foreign policy by Moscow.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>New Hampshire’s Old Man of the Mountain, 20 Years Gone, Still Bewitches</h3>
@@ -110,29 +122,17 @@ There is a lot happening in the world right now. Britain just crowned their firs
 <p>Vivek Ramaswamy, a long-shot 2024 contender, is lavishly wealthy and astoundingly confident. He also promises to exert breathtaking power in ways that Donald Trump never did.  <a href="https://nyti.ms/3NFZwhU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Big Promises From Vivek Ramaswamy</h3>
-<sub>By Jonathan Weisman</sub>
-<p>“End” this, “shut down” that, “annihilate” the other thing. A political newcomer promises to outdo Donald Trump.  <a href="https://nyti.ms/3LF13lV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Unwanted Epidurals, Untreated Pain: Black Women Tell Their Birth Stories</h3>
-<sub>By Claire Cain Miller and Sarah Kliff</sub>
-<p>Regardless of income or education, Black mothers have worse birth outcomes.  <a href="https://nyti.ms/3pdjFC3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Nothing Is Bigger Than Stephen Curry vs. LeBron James</h3>
+<sub>By Sopan Deb</sub>
+<p>Curry and James are meeting in the playoffs, perhaps for the last time. Together and apart, they have redefined a generation of basketball.  <a href="https://nyti.ms/3LCXCMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Forte, the Derby Favorite, Is Scratched Hours Before the Race</h3>
-<sub>By Joe Drape</sub>
-<p>The colt was taken out of the field by order of veterinarians at the end of a difficult week for the Derby and the sport.  <a href="https://nyti.ms/3B2Hpv2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Backup Power: A Growing Need, if You Can Afford It</h3>
+<sub>By Ivan Penn and Peter Eavis</sub>
+<p>Extreme weather linked to climate change is causing more blackouts. But generators and batteries are still out of reach of many.  <a href="https://nyti.ms/3LYCH6X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>What to Watch for in the 2023 Kentucky Derby</h3>
-<sub>By Joe Drape and Melissa Hoppert</sub>
-<p>Forte, the morning-line favorite in the 149th Run for the Roses, was scratched on the morning of the race, which figures to be anything but ordinary.  <a href="https://nyti.ms/419lQDW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
