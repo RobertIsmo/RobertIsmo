@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 6, Central Standard Time</p>
 <p>
-Right now the world is focused on the upcoming coronation of Charles III in Westminster Abbey with some anti-monarchists looking to prove their point. In the US, there are investigations into former President Donald Trump and his allies for their meddling in the 2020 election in Georgia, and whether certain charges will be brought against them. In Ukraine, they&#39;ve shot down a Russian missile for the first time with a new U.S.-made Patriot air-defense battery. A car bombing involving a prominent Russian nationalist is being reported by state media. In New Hampshire, commemoration is happening for the Old Man of the Mountain rock formation that collapsed 20 years ago. Vivek Ramaswamy has arisen as a possible 2024 Republican contender who promises to exercise power further than Donald Trump ever did. Meanwhile, Black mothers in America are having worse birth outcomes regardless of income or education which has lead to unwanted epidurals and untreated pain while over-the-counter hearing aids are providing new options that may be confusing users as well. Finally The Weekender edition of international news includes an Annie Ernaux&#39;s taboo-breaking writing as well as a warning from &#39;The Godfather of A.I.&#39; and an article focusing on the rise of &#39;superfake&#39; handbags.</p>
+There is a lot happening in the world right now. Britain just crowned their first king in 70 years, King Charles III. His two sons, William and Harry, had a strained relationship during the coronation ceremony. In Ukraine, they have reportedly shot down Russia&#39;s most sophisticated missile with a U.S.-made Patriot air-defense battery. And in Russia, a car bombing injured a prominent writer who had advocated an imperialist foreign policy by Moscow. Meanwhile in the United States, Georgia is investigating whether former President Donald J Trump and his allies illegally meddled in Georgia&#39;s 2020 election and most of the fake electors have taken immunity deals. Additionally, New Hampshire recently commemorated 20 years since their Old Man of the Mountain collapsed with residents sharing fond memories to a new generation. There&#39;s also a newly emerged Republican candidate called Vivek Ramaswamy who promises to exert breathtaking power in ways that Donald Trump never did. All this comes amidst dark maternal mortality statistics of Black mothers having worse birth outcomes than other women due to untreated pain or unwanted epidurals. And finally, The Kentucky Derby was recently disrupted when the morning-line favorite Forte was scratched due to illness only hours before the race - making this year&#39;s 149th Run for The Roses anything but ordinary.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Will Happen During the Coronation</h3>
-<sub>By Isabella Kwai</sub>
-<p>After the coronation service at Westminster Abbey, King Charles III and other members of the royal family will make an appearance on the balcony of Buckingham Palace.  <a href="https://nyti.ms/3HKmW24"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Missed the Coronation? Here’s What Happened, From the Crown to the Crowds</h3>
+<sub>By The New York Times</sub>
+<p>The lavish ceremony, Britain’s first in 70 years, was brimming with ancient traditions with a few modern touches.  <a href="https://nyti.ms/44C3Ep8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Anti-monarchists see an opportunity to prove their point in the coronation events.</h3>
-<sub>By Emma Bubola</sub>
-<p>Supporters of an elected head of state for Britain see the coronation as an opportunity to highlight the absurdity of having a royal family in the 21st century.  <a href="https://nyti.ms/3Vzuhat"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Once Close, William and Harry Are Now Rows Apart</h3>
+<sub>By Sarah Lyall</sub>
+<p>The sons of King Charles III did not appear to interact during their father’s coronation.  <a href="https://nyti.ms/3B2SwnK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Coronation of King Charles III, in Pictures</h3>
+<sub>By The New York Times</sub>
+<p>Britain is crowning King Charles III. Here’s a selection of the best photographs from the coronation weekend.  <a href="https://nyti.ms/42aRrq4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,15 +87,15 @@ Right now the world is focused on the upcoming coronation of Charles III in West
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Says It Shot Down Russia’s Most Sophisticated Missile for First Time</h3>
+<h3>Ukraine Claims It Shot Down Russia’s Most Sophisticated Missile for First Time</h3>
 <sub>By Marc Santora</sub>
-<p>The Air Force said it intercepted the missile with a newly delivered U.S.-made Patriot air-defense battery, the first time Kyiv has said it used the advanced weapon.  <a href="https://nyti.ms/3phMH38"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Air Force said it intercepted the missile with a newly delivered U.S.-made Patriot air-defense battery. There was no immediate confirmation from Ukraine’s Western allies, including the United States.  <a href="https://nyti.ms/3phMH38"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Car Bombing Injures Prominent Russian Nationalist, State Media Reports</h3>
-<sub>By Cassandra Vinograd</sub>
-<p>Zakhar Prilepin, who fought in eastern Ukraine in support of a separatist rebellion, has long advocated an imperialist foreign policy by Moscow.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Car Bombing Injures Prominent Russian Nationalist Writer, State Media Reports</h3>
+<sub>By Neil MacFarquhar and Anton Troianovski</sub>
+<p>Zakhar Prilepin, who himself fought in eastern Ukraine, has long advocated an imperialist foreign policy by Moscow.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +122,16 @@ Right now the world is focused on the upcoming coronation of Charles III in West
 <p>Regardless of income or education, Black mothers have worse birth outcomes.  <a href="https://nyti.ms/3pdjFC3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hearing Aids Are Changing. Their Users Are, Too.</h3>
-<sub>By Neelam Bohra</sub>
-<p>As more young people risk hearing loss, over-the-counter hearing aids are providing new options, but also confusing choices.  <a href="https://nyti.ms/3pcTyeu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Forte, the Derby Favorite, Is Scratched Hours Before the Race</h3>
+<sub>By Joe Drape</sub>
+<p>The colt was taken out of the field by order of veterinarians at the end of a difficult week for the Derby and the sport.  <a href="https://nyti.ms/3B2Hpv2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tightening Supreme Court Ethics Rules Faces Steep Hurdles</h3>
-<sub>By Charlie Savage</sub>
-<p>Revelations about Justice Clarence Thomas’s failure to disclose largess from a Republican donor have highlighted a dilemma.  <a href="https://nyti.ms/42xbuyP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub></sub>
-<p>Annie Ernaux’s taboo-breaking writing. Also in this edition: a warning from the “Godfather of A.I.,” and the rise of “superfake” handbags.  <a href="https://nyti.ms/44v440L"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>What to Watch for in the 2023 Kentucky Derby</h3>
+<sub>By Joe Drape and Melissa Hoppert</sub>
+<p>Forte, the morning-line favorite in the 149th Run for the Roses, was scratched on the morning of the race, which figures to be anything but ordinary.  <a href="https://nyti.ms/419lQDW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
