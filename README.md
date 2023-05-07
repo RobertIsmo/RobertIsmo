@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 7, Central Standard Time</p>
 <p>
-Right now, there is a lot of tension going on in the world. In Ukraine, their Western backers are pressuring them to take action due to a looming counteroffensive, while Russia seems to be taking things slower. Japan&#39;s Prime Minister is visiting South Korea, which could lead to an important thaw between these two countries. In Britain, Charles III was recently crowned king in an ancient ceremony with modern twists. Meanwhile in the United States, at least 9 people were killed in a shooting at a Texas mall. Finally, there was commotion at the Kentucky Derby after the morning-line favorite was scratched due to a bruised hoof.</p>
+Well, there is a lot going on in the world right now. Putin is taking his time with his next moves in Ukraine, so Ukraine and their Western backers are feeling a lot of pressure to act quickly. Meanwhile, the Ukraine air force claims to have shot down Russia&#39;s most advanced missile with a recently purchased US-made Patriot air defense battery. 
+
+In Britain, Charles was just crowned King in a traditional ceremony that had modern touches. It was the first such event since Queen Elizabeth II&#39;s coronation in 1953. 
+
+Also, in the US there was a shooting at a mall in Texas, leaving nine people dead including the gunman who was killed by an officer who went to investigate unrelated gunshots. In Kentucky, at the Derby, Forte the morning-line favorite was scratched due to a bruised hoof at the end of a difficult week for both the sport and race. 
+
+And finally, Japan&#39;s Prime Minister Shinzo Abe is visiting South Korea and what he says about the nations&#39; tense history could either continue or derail the thawing relations between them.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Putin Bides His Time, Ukraine Faces a Ticking Clock</h3>
