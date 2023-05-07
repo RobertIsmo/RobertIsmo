@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 6, Central Standard Time</p>
 <p>
-Right now, there is a lot happening in the world. In Ukraine, tensions between Russia and the West have been rising due to Russia&#39;s occupation of parts of the country. Recently, Ukraine shot down Russia&#39;s most sophisticated missile for the first time, with US-made Patriot air-defense battery. England recently had a coronation ceremony for King Charles III, which was a massive royal spectacle. There were several issues associated with the ceremony, such as the relationship between King Charles and his sons who did not seem to interact during the event. Related issues mentioned include fashion related to the coronation, and a quiz about hats at both the coronation and Kentucky Derby. In terms of politics back in the US, there is Vivek Ramaswamy who is a possible 2024 presidential contender that promises to exert an unusual amount of power if he became president. Lastly, there is also a battle between two basketball stars, Stephen Curry and LeBron James, which has redefined basketball in recent years. On top of these events, extreme weather linked to climate change is causing more power outages across the US with backup power systems being too expensive for many people.</p>
+Right now, world events are quite unpredictable. In Ukraine, the country and its Western backers are facing a ticking clock as they prepare for a counteroffensive against Russia. Recently, Ukraine shot down one of Russia&#39;s most advanced missiles using a newly delivered U.S.-made Patriot air-defense battery. Meanwhile, in the UK, Charles was crowned King in an ancient ceremony that had modern twists. It was the first coronation since Queen Elizabeth II&#39;s in 1953 and a royal spectacle only Britain still stages. 
+
+In the US, there was a tragic shooting at a Texas mall that left nine dead including the gunman and the motive is still unclear. On the lighter side, some major events also took place over the weekend such as the Kentucky Derby and King Charles&#39; coronation which ignited many discussions over fashion and hats. Lastly, the issue of backup power has become more prominent with extreme weather linked to climate change causing more blackouts--but unfortunately, generators and batteries are still out of reach for many people.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Putin Bides His Time, Ukraine Faces a Ticking Clock</h3>
@@ -93,15 +95,15 @@ Right now, there is a lot happening in the world. In Ukraine, tensions between R
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Once Close, William and Harry Are Now Rows Apart</h3>
-<sub>By Sarah Lyall</sub>
-<p>The sons of King Charles III did not appear to interact during their father’s coronation.  <a href="https://nyti.ms/3B2SwnK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Were Will and Kate Late to the Coronation? The News Media Wonders.</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>The Prince and Princess of Wales arrived at Westminster Abbey after King Charles III, prompting speculation among the many journalists covering the ceremony.  <a href="https://nyti.ms/3NKpd0N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>War, Weapons and Conspiracy Theories: Inside Airman Teixeira’s Online World</h3>
-<sub>By Aric Toler, Robin Stein, Glenn Thrush, Riley Mellen and Ishaan Jhaveri</sub>
-<p>A review of more than 9,500 messages obtained by The New York Times offers important clues about the mind-set of a young airman implicated in a vast leak of government secrets.  <a href="https://nyti.ms/42eg5Gq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>At Least 9 Dead, Including Gunman, in Shooting at Texas Mall</h3>
+<sub>By Mary Beth Gahan, Remy Tumin, Claire Fahy and Lauren McCarthy</sub>
+<p>The gunman was killed at the Allen Premium Outlets in Allen, Texas, on Saturday. The person acted alone and the motive was unclear.  <a href="https://nyti.ms/3HNhZpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -111,21 +113,21 @@ Right now, there is a lot happening in the world. In Ukraine, tensions between R
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Best Hats From the Kentucky Derby</h3>
+<sub>By The Styles Desk</sub>
+<p>The annual race brings out hats of mass proportions.  <a href="https://nyti.ms/3B2JE1A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>War of the Hats: Coronation vs. Kentucky Derby</h3>
 <sub>By The Styles Desk</sub>
 <p>Can you tell where each of these hats appeared? Take our quiz.  <a href="https://nyti.ms/44zuhLC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Smooth-Talking Republican Who Would Rule by Fiat</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Vivek Ramaswamy, a long-shot 2024 contender, is lavishly wealthy and astoundingly confident. He also promises to exert breathtaking power in ways that Donald Trump never did.  <a href="https://nyti.ms/3NFZwhU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Nothing Is Bigger Than Stephen Curry vs. LeBron James</h3>
-<sub>By Sopan Deb</sub>
-<p>Curry and James are meeting in the playoffs, perhaps for the last time. Together and apart, they have redefined a generation of basketball.  <a href="https://nyti.ms/3LCXCMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>War, Weapons and Conspiracy Theories: Inside Airman Teixeira’s Online World</h3>
+<sub>By Aric Toler, Robin Stein, Glenn Thrush, Riley Mellen and Ishaan Jhaveri</sub>
+<p>A review of more than 9,500 messages obtained by The New York Times offers important clues about the mind-set of a young airman implicated in a vast leak of government secrets.  <a href="https://nyti.ms/42eg5Gq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
