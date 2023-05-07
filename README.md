@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 7, Central Standard Time</p>
 <p>
-There are a lot of different things going on in the world right now. In the US, the policy that had allowed for migrants to be swiftly expelled at the southern border is about to be lifted, potentially bringing thousands of people there. Meanwhile, reports of migrant children being exploited for cheap labor has led to a debate in Congress. On top of that, President Biden is sending 1,500 active-duty troops to the border to prepare for an increase in migrants. In Ukraine, they have been launching drones at Crimean territory in anticipation of Russian counteroffensive, while millions of citizens who left after the war began are returning home. There have been multiple devastating mass shootings in the US this year, including one at a Texas mall where 9 people were shot dead including a gunman. In Europe, King Charles held his coronation which was promised to be thoroughly modern but reverted back to a 13th century style ceremony. Finally, Elizabeth Holmes (former founder of Theranos) has adopted a new personality and is awaiting prison as she awaits trial for her dishonesty regarding her company.</p>
+There is a lot going on around the world right now. In the US, there is concern that the easing of pandemic restrictions could lead to a surge of migrants at the border and in response President Biden is sending 1,500 active-duty troops to the southern border. There have been debates in Congress over migrant child labor and a recent shooting at a Texas mall that left nine people dead, including the suspect. In Ukraine, Wagner Chief has backtracked on threats to pull fighters from Bakhmut and Ukrainians are returning home after fleeing the war. In Britain, Prince Charles was coronated with a thoroughly 21st century ceremony while in the US there were debates over hats at the Kentucky Derby. Lastly, Elizabeth Holmes has adopted a new persona after being convicted for fraud surrounding her company Theranos.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>An End to Pandemic Restrictions Could Bring Thousands to the Border</h3>
@@ -81,9 +81,9 @@ There are a lot of different things going on in the world right now. In the US, 
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Launches Wave of Drones at Crimea, Russian Official Says</h3>
-<sub>By Andrés R. Martínez and Matthew Mpoke Bigg</sub>
-<p>It was the latest in a string of reported attacks on Russian-held territory, as Ukraine prepares for an expected counteroffensive.  <a href="https://nyti.ms/42w90Rb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Wagner Chief Appears to Backtrack on Threat to Pull Fighters From Bakhmut</h3>
+<sub>By Neil MacFarquhar, Matthew Mpoke Bigg and Andrés R. Martínez</sub>
+<p>Yevgeny V. Prigozhin said his mercenaries had been promised the ammunition and equipment they needed and would not have to withdraw from Russia’s fight for the eastern Ukrainian city.  <a href="https://nyti.ms/42w90Rb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,10 +98,10 @@ There are a lot of different things going on in the world right now. In the US, 
 <p>A police officer on an unrelated assignment nearby rushed toward the sounds of gunfire and killed the gunman.  <a href="https://nyti.ms/3HNhZpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Dozens of Shots</h3>
-<sub>By the staff of The Morning</sub>
-<p>A gunman killed at least eight people at a mall in Texas yesterday.  <a href="https://nyti.ms/3LNEZFU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Allen, Texas, Mall Shooting</h3>
+<sub>By Joshua Needelman</sub>
+<p>The identity and motive of the gunman so far remain a mystery. The shooting at the Allen Premium Outlets left nine people dead, including the suspect.  <a href="https://nyti.ms/44AsxSk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
