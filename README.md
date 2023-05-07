@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 6, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Ukraine, they&#39;ve claimed to have shot down Russia&#39;s most sophisticated missile for the first time. As Russian president Putin takes his time, Ukraine feels mounting pressure from the West. In Russia, a car bomb injured a prominent nationalist writer according to state media. Over in Britain, Charles III was crowned king with a lavish ceremony filled with traditional elements and modern touches. Meanwhile, the relationship between William and Harry has grown distant. Here in the United States, we are learning more about the mind-set of an airman involved in a massive data leak. A rock formation in New Hampshire is also causing some commotion as they remember it after its collapse sixteen years ago. On top of that, there is uncertainty ahead of the 2023 Kentucky Derby and speculation over Republican Vivek Ramaswamy&#39;s 2024 intentions, while Florida Governor Ron DeSantis eyes Wisconsin as he circles Trump.</p>
+Right now, there is a lot happening in the world. In Ukraine, tensions between Russia and the West have been rising due to Russia&#39;s occupation of parts of the country. Recently, Ukraine shot down Russia&#39;s most sophisticated missile for the first time, with US-made Patriot air-defense battery. England recently had a coronation ceremony for King Charles III, which was a massive royal spectacle. There were several issues associated with the ceremony, such as the relationship between King Charles and his sons who did not seem to interact during the event. Related issues mentioned include fashion related to the coronation, and a quiz about hats at both the coronation and Kentucky Derby. In terms of politics back in the US, there is Vivek Ramaswamy who is a possible 2024 presidential contender that promises to exert an unusual amount of power if he became president. Lastly, there is also a battle between two basketball stars, Stephen Curry and LeBron James, which has redefined basketball in recent years. On top of these events, extreme weather linked to climate change is causing more power outages across the US with backup power systems being too expensive for many people.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Claims It Shot Down Russia’s Most Sophisticated Missile for First Time</h3>
-<sub>By Marc Santora, Eric Schmitt and John Ismay</sub>
-<p>The air force said it intercepted the hypersonic missile with a newly delivered U.S.-made Patriot air-defense battery. U.S. officials confirmed the strike.  <a href="https://nyti.ms/3phMH38"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Putin Bides His Time, Ukraine Faces a Ticking Clock</h3>
 <sub>By Paul Sonne and Andrew E. Kramer</sub>
@@ -75,9 +69,15 @@ There is a lot going on in the world right now. In Ukraine, they&#39;ve claimed 
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Car Bombing Injures Prominent Russian Nationalist Writer, State Media Reports</h3>
-<sub>By Neil MacFarquhar and Anton Troianovski</sub>
-<p>Zakhar Prilepin, who himself fought in eastern Ukraine, has long advocated an imperialist foreign policy by Moscow.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Claims It Shot Down Russia’s Most Sophisticated Missile for First Time</h3>
+<sub>By Marc Santora, Eric Schmitt and John Ismay</sub>
+<p>The air force said it intercepted the hypersonic missile with a newly delivered U.S.-made Patriot air-defense battery. U.S. officials confirmed the strike.  <a href="https://nyti.ms/3phMH38"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Charles Is Crowned King in Ancient Ceremony With Modern Twists</h3>
+<sub>By Mark Landler</sub>
+<p>The coronation, the first since Queen Elizabeth II’s in 1953, was a royal spectacle of the kind that only Britain still stages.  <a href="https://nyti.ms/422XuNj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -86,10 +86,10 @@ There is a lot going on in the world right now. In Ukraine, they&#39;ve claimed 
 <p>On Saturday, Charles finally became the focal figure of the long-running royal TV drama — if only for a day.  <a href="https://nyti.ms/3pg6aS0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Missed the Coronation? Here’s What Happened, From the Crown to the Crowds.</h3>
-<sub>By The New York Times</sub>
-<p>The lavish ceremony for Britain’s first new reigning monarch in 70 years, was brimming with ancient traditions with a few modern touches.  <a href="https://nyti.ms/44C3Ep8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-fashion-blue" alt="">
+<h3>Coronation Fashion: Queen Camilla, Princess Catherine and Clothes Full of Meaning</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Why a dress is never just a dress at a major occasion of State.  <a href="https://nyti.ms/3nE3HQT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,23 +104,17 @@ There is a lot going on in the world right now. In Ukraine, they&#39;ve claimed 
 <p>A review of more than 9,500 messages obtained by The New York Times offers important clues about the mind-set of a young airman implicated in a vast leak of government secrets.  <a href="https://nyti.ms/42eg5Gq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why the Fuss Over a Rock Formation That Fell? Don’t Tell New Hampshire That.</h3>
-<sub>By Jenna Russell and John Tully</sub>
-<p>The Old Man of the Mountain collapsed in 2003, but it hasn’t lost its hold on residents.  <a href="https://nyti.ms/3LZtPyM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The past four Derbies have been wild. What could possibly happen next?</h3>
-<sub>By Melissa Hoppert</sub>
-<p>Forte, the morning-line favorite in the 149th Run for the Roses, was scratched on the morning of the race, which figures to be anything but ordinary.  <a href="https://nyti.ms/3peTAT3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<h3>Forte, the morning-line favorite, was scratched hours before the race.</h3>
+<sub>By Joe Drape</sub>
+<p>The colt was taken out of the field with a bruised hoof at the end of a difficult week for the Derby and the sport.  <a href="https://nyti.ms/3B2Hpv2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Expert Picks: Who Will Win the 2023 Kentucky Derby</h3>
-<sub>By Joe Drape and Melissa Hoppert</sub>
-<p>Joe Drape and Melissa Hoppert assess the field for the 149th running of the Kentucky Derby.  <a href="https://nyti.ms/3paO1oL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>War of the Hats: Coronation vs. Kentucky Derby</h3>
+<sub>By The Styles Desk</sub>
+<p>Can you tell where each of these hats appeared? Take our quiz.  <a href="https://nyti.ms/44zuhLC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Smooth-Talking Republican Who Would Rule by Fiat</h3>
@@ -128,10 +122,16 @@ There is a lot going on in the world right now. In Ukraine, they&#39;ve claimed 
 <p>Vivek Ramaswamy, a long-shot 2024 contender, is lavishly wealthy and astoundingly confident. He also promises to exert breathtaking power in ways that Donald Trump never did.  <a href="https://nyti.ms/3NFZwhU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis to Visit Wisconsin, a 2024 Battleground, as He Circles Trump</h3>
-<sub>By Nicholas Nehamas and Alexandra Glorioso</sub>
-<p>The Florida governor, who has slipped in polls as his expected entrance to the presidential race nears, is moving beyond early nominating states like Iowa and New Hampshire.  <a href="https://nyti.ms/42bwScT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Nothing Is Bigger Than Stephen Curry vs. LeBron James</h3>
+<sub>By Sopan Deb</sub>
+<p>Curry and James are meeting in the playoffs, perhaps for the last time. Together and apart, they have redefined a generation of basketball.  <a href="https://nyti.ms/3LCXCMs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Backup Power: A Growing Need, if You Can Afford It</h3>
+<sub>By Ivan Penn and Peter Eavis</sub>
+<p>Extreme weather linked to climate change is causing more blackouts. But generators and batteries are still out of reach for many.  <a href="https://nyti.ms/3LYCH6X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
