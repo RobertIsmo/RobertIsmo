@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, May 6, Central Standard Time</p>
+<p>It is Sunday, May 7, Central Standard Time</p>
 <p>
-Right now, world events are quite unpredictable. In Ukraine, the country and its Western backers are facing a ticking clock as they prepare for a counteroffensive against Russia. Recently, Ukraine shot down one of Russia&#39;s most advanced missiles using a newly delivered U.S.-made Patriot air-defense battery. Meanwhile, in the UK, Charles was crowned King in an ancient ceremony that had modern twists. It was the first coronation since Queen Elizabeth II&#39;s in 1953 and a royal spectacle only Britain still stages. 
-
-In the US, there was a tragic shooting at a Texas mall that left nine dead including the gunman and the motive is still unclear. On the lighter side, some major events also took place over the weekend such as the Kentucky Derby and King Charles&#39; coronation which ignited many discussions over fashion and hats. Lastly, the issue of backup power has become more prominent with extreme weather linked to climate change causing more blackouts--but unfortunately, generators and batteries are still out of reach for many people.</p>
+Right now, there is a lot of tension going on in the world. In Ukraine, their Western backers are pressuring them to take action due to a looming counteroffensive, while Russia seems to be taking things slower. Japan&#39;s Prime Minister is visiting South Korea, which could lead to an important thaw between these two countries. In Britain, Charles III was recently crowned king in an ancient ceremony with modern twists. Meanwhile in the United States, at least 9 people were killed in a shooting at a Texas mall. Finally, there was commotion at the Kentucky Derby after the morning-line favorite was scratched due to a bruised hoof.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Putin Bides His Time, Ukraine Faces a Ticking Clock</h3>
@@ -103,7 +101,7 @@ In the US, there was a tragic shooting at a Texas mall that left nine dead inclu
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At Least 9 Dead, Including Gunman, in Shooting at Texas Mall</h3>
 <sub>By Mary Beth Gahan, Remy Tumin, Claire Fahy and Lauren McCarthy</sub>
-<p>The gunman was killed at the Allen Premium Outlets in Allen, Texas, on Saturday. The person acted alone and the motive was unclear.  <a href="https://nyti.ms/3HNhZpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A police officer on an unrelated assignment nearby rushed toward the sounds of gunfire and killed the gunman.  <a href="https://nyti.ms/3HNhZpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
@@ -130,10 +128,10 @@ In the US, there was a tragic shooting at a Texas mall that left nine dead inclu
 <p>A review of more than 9,500 messages obtained by The New York Times offers important clues about the mind-set of a young airman implicated in a vast leak of government secrets.  <a href="https://nyti.ms/42eg5Gq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Backup Power: A Growing Need, if You Can Afford It</h3>
-<sub>By Ivan Penn and Peter Eavis</sub>
-<p>Extreme weather linked to climate change is causing more blackouts. But generators and batteries are still out of reach for many.  <a href="https://nyti.ms/3LYCH6X"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>​As Japan’s Leader Goes to Seoul, South Koreans Are All Ears</h3>
+<sub>By Choe Sang-Hun and Motoko Rich</sub>
+<p>What the prime minister says about the fraught history between the two nations could continue a nascent thaw that is underway, or bring it to a halt.  <a href="https://nyti.ms/3nA7DSz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
