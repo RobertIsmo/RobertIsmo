@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 7, Central Standard Time</p>
 <p>
-Right now there are a lot of different things happening around the world. In the US, there is an upcoming policy change that could lead to a surge of migration at the southern border; President Biden has ordered 1,500 active-duty troops to the border as a precaution. In Ukraine, they are bracing for a possible counteroffensive, and residents have been returning to their homes after years of war. There was also a mass shooting in Texas recently that left at least nine people dead. Globally, there was recently a coronation ceremony for a new king where old customs were revived. And in New York, Donald Trump is facing tax fraud charges that rarely get used against ex-presidents.</p>
+There are a lot of different things going on in the world right now. In the US, the policy that had allowed for migrants to be swiftly expelled at the southern border is about to be lifted, potentially bringing thousands of people there. Meanwhile, reports of migrant children being exploited for cheap labor has led to a debate in Congress. On top of that, President Biden is sending 1,500 active-duty troops to the border to prepare for an increase in migrants. In Ukraine, they have been launching drones at Crimean territory in anticipation of Russian counteroffensive, while millions of citizens who left after the war began are returning home. There have been multiple devastating mass shootings in the US this year, including one at a Texas mall where 9 people were shot dead including a gunman. In Europe, King Charles held his coronation which was promised to be thoroughly modern but reverted back to a 13th century style ceremony. Finally, Elizabeth Holmes (former founder of Theranos) has adopted a new personality and is awaiting prison as she awaits trial for her dishonesty regarding her company.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>An End to Pandemic Restrictions Could Bring Thousands to the Border</h3>
 <sub>By Miriam Jordan and Michael D. Shear</sub>
 <p>Title 42, the policy that has allowed the swift expulsion of many migrants at the southern border, will lift on Thursday. Officials are bracing for a new immigration surge.  <a href="https://nyti.ms/3piEmwj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Migrant Child Labor Debate in Congress Becomes Mired in Immigration Fight</h3>
+<sub>By Karoun Demirjian and Hannah Dreier</sub>
+<p>Revelations that migrant children have been exploited for cheap labor brought calls for action, but a partisan battle over immigration policy has complicated lawmakers’ efforts.  <a href="https://nyti.ms/41fFm1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ Right now there are a lot of different things happening around the world. In the
 <h3>Liz Holmes Wants You to Forget About Elizabeth</h3>
 <sub>By Amy Chozick</sub>
 <p>The black turtlenecks are gone. So is the voice. As the convicted Theranos founder awaits prison, she has adopted a new persona: devoted mother.  <a href="https://nyti.ms/41fFtdr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Trump Case, Bragg Pursues a Common Charge With a Rarely Used Strategy</h3>
-<sub>By Ben Protess, Kate Christobek, Jonah E. Bromwich, William K. Rashbaum and Sean Piccoli</sub>
-<p>A review of more than two dozen cases shows that in at least one sense, the indictment of the former president stands apart.  <a href="https://nyti.ms/3M2Cvo5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
