@@ -60,49 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 7, Central Standard Time</p>
 <p>
-Well, there is a lot going on in the world right now. Putin is taking his time with his next moves in Ukraine, so Ukraine and their Western backers are feeling a lot of pressure to act quickly. Meanwhile, the Ukraine air force claims to have shot down Russia&#39;s most advanced missile with a recently purchased US-made Patriot air defense battery. 
-
-In Britain, Charles was just crowned King in a traditional ceremony that had modern touches. It was the first such event since Queen Elizabeth II&#39;s coronation in 1953. 
-
-Also, in the US there was a shooting at a mall in Texas, leaving nine people dead including the gunman who was killed by an officer who went to investigate unrelated gunshots. In Kentucky, at the Derby, Forte the morning-line favorite was scratched due to a bruised hoof at the end of a difficult week for both the sport and race. 
-
-And finally, Japan&#39;s Prime Minister Shinzo Abe is visiting South Korea and what he says about the nations&#39; tense history could either continue or derail the thawing relations between them.</p>
+Right now there are a lot of different things happening around the world. In the US, there is an upcoming policy change that could lead to a surge of migration at the southern border; President Biden has ordered 1,500 active-duty troops to the border as a precaution. In Ukraine, they are bracing for a possible counteroffensive, and residents have been returning to their homes after years of war. There was also a mass shooting in Texas recently that left at least nine people dead. Globally, there was recently a coronation ceremony for a new king where old customs were revived. And in New York, Donald Trump is facing tax fraud charges that rarely get used against ex-presidents.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Putin Bides His Time, Ukraine Faces a Ticking Clock</h3>
-<sub>By Paul Sonne and Andrew E. Kramer</sub>
-<p>Ukraine is feeling short-term pressure from its Western backers for success in a looming counteroffensive. Vladimir Putin seems to be operating on a longer timeline.  <a href="https://nyti.ms/42vPVPa"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An End to Pandemic Restrictions Could Bring Thousands to the Border</h3>
+<sub>By Miriam Jordan and Michael D. Shear</sub>
+<p>Title 42, the policy that has allowed the swift expulsion of many migrants at the southern border, will lift on Thursday. Officials are bracing for a new immigration surge.  <a href="https://nyti.ms/3piEmwj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden to Send 1,500 Active-Duty Troops to the Southern Border</h3>
+<sub>By Helene Cooper and Zolan Kanno-Youngs</sub>
+<p>The easing of Covid-era restrictions could lead to an increase in migrants, officials say.  <a href="https://nyti.ms/3LrGF7D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Claims It Shot Down Russia’s Most Sophisticated Missile for First Time</h3>
-<sub>By Marc Santora, Eric Schmitt and John Ismay</sub>
-<p>The air force said it intercepted the hypersonic missile with a newly delivered U.S.-made Patriot air-defense battery. U.S. officials confirmed the strike.  <a href="https://nyti.ms/3phMH38"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<h3>Ukraine Launches Wave of Drones at Crimea, Russian Official Says</h3>
+<sub>By Andrés R. Martínez and Matthew Mpoke Bigg</sub>
+<p>It was the latest in a string of reported attacks on Russian-held territory, as Ukraine prepares for an expected counteroffensive.  <a href="https://nyti.ms/42w90Rb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Charles Is Crowned King in Ancient Ceremony With Modern Twists</h3>
-<sub>By Mark Landler</sub>
-<p>The coronation, the first since Queen Elizabeth II’s in 1953, was a royal spectacle of the kind that only Britain still stages.  <a href="https://nyti.ms/422XuNj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Charles III Was Crowned King. But Can He Ever Be the Star?</h3>
-<sub>By James Poniewozik</sub>
-<p>On Saturday, Charles finally became the focal figure of the long-running royal TV drama — if only for a day.  <a href="https://nyti.ms/3pg6aS0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-fashion-blue" alt="">
-<h3>Coronation Fashion: Queen Camilla, Princess Catherine and Clothes Full of Meaning</h3>
-<sub>By Vanessa Friedman</sub>
-<p>Why a dress is never just a dress at a major occasion of State.  <a href="https://nyti.ms/3nE3HQT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Were Will and Kate Late to the Coronation? The News Media Wonders.</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>The Prince and Princess of Wales arrived at Westminster Abbey after King Charles III, prompting speculation among the many journalists covering the ceremony.  <a href="https://nyti.ms/3NKpd0N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<h3>Ukrainians Return Home, Renewed and Resigned</h3>
+<sub>By Jeffrey Gettleman and Finbarr O’Reilly</sub>
+<p>More than 5.5 million people who left after the war began in February 2022 have gone back home — and not just to large cities like Kyiv or Dnipro, but to small places near the front line, as well.  <a href="https://nyti.ms/3B1rjBX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At Least 9 Dead, Including Gunman, in Shooting at Texas Mall</h3>
@@ -110,17 +92,29 @@ And finally, Japan&#39;s Prime Minister Shinzo Abe is visiting South Korea and w
 <p>A police officer on an unrelated assignment nearby rushed toward the sounds of gunfire and killed the gunman.  <a href="https://nyti.ms/3HNhZpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Forte, the morning-line favorite, was scratched hours before the race.</h3>
-<sub>By Joe Drape</sub>
-<p>The colt was taken out of the field with a bruised hoof at the end of a difficult week for the Derby and the sport.  <a href="https://nyti.ms/3B2Hpv2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Dozens of Shots</h3>
+<sub>By the staff of The Morning</sub>
+<p>A gunman killed at least eight people at a mall in Texas yesterday.  <a href="https://nyti.ms/3LNEZFU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Best Hats From the Kentucky Derby</h3>
-<sub>By The Styles Desk</sub>
-<p>The annual race brings out hats of mass proportions.  <a href="https://nyti.ms/3B2JE1A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Partial List of U.S. Mass Shootings in 2023</h3>
+<sub>By The New York Times</sub>
+<p>There is no official consensus on what constitutes a mass shooting, but by one count there have already been scores so far this year.  <a href="https://nyti.ms/3D9OXhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How Two Men’s Disparate Paths Crossed in a Killing on the F Train</h3>
+<sub>By Michael Wilson and Andy Newman</sub>
+<p>Jordan Neely’s mental health decline played out in public after his mother was strangled. Daniel Penny said he was protecting himself and others when he choked Mr. Neely.  <a href="https://nyti.ms/41shvvP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Charles’s Coronation, Everything Olde Was New Again</h3>
+<sub>By Sarah Lyall</sub>
+<p>The king promised a thoroughly 21st-century ceremony, but when push came to shove, he took his place on a 13th-century throne.  <a href="https://nyti.ms/41hl8Ey"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>War of the Hats: Coronation vs. Kentucky Derby</h3>
@@ -128,17 +122,17 @@ And finally, Japan&#39;s Prime Minister Shinzo Abe is visiting South Korea and w
 <p>Can you tell where each of these hats appeared? Take our quiz.  <a href="https://nyti.ms/44zuhLC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>War, Weapons and Conspiracy Theories: Inside Airman Teixeira’s Online World</h3>
-<sub>By Aric Toler, Robin Stein, Glenn Thrush, Riley Mellen and Ishaan Jhaveri</sub>
-<p>A review of more than 9,500 messages obtained by The New York Times offers important clues about the mind-set of a young airman implicated in a vast leak of government secrets.  <a href="https://nyti.ms/42eg5Gq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Liz Holmes Wants You to Forget About Elizabeth</h3>
+<sub>By Amy Chozick</sub>
+<p>The black turtlenecks are gone. So is the voice. As the convicted Theranos founder awaits prison, she has adopted a new persona: devoted mother.  <a href="https://nyti.ms/41fFtdr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>​As Japan’s Leader Goes to Seoul, South Koreans Are All Ears</h3>
-<sub>By Choe Sang-Hun and Motoko Rich</sub>
-<p>What the prime minister says about the fraught history between the two nations could continue a nascent thaw that is underway, or bring it to a halt.  <a href="https://nyti.ms/3nA7DSz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Trump Case, Bragg Pursues a Common Charge With a Rarely Used Strategy</h3>
+<sub>By Ben Protess, Kate Christobek, Jonah E. Bromwich, William K. Rashbaum and Sean Piccoli</sub>
+<p>A review of more than two dozen cases shows that in at least one sense, the indictment of the former president stands apart.  <a href="https://nyti.ms/3M2Cvo5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
