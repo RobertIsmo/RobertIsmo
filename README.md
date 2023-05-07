@@ -60,25 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 7, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In the US, there is concern that the easing of pandemic restrictions could lead to a surge of migrants at the border and in response President Biden is sending 1,500 active-duty troops to the southern border. There have been debates in Congress over migrant child labor and a recent shooting at a Texas mall that left nine people dead, including the suspect. In Ukraine, Wagner Chief has backtracked on threats to pull fighters from Bakhmut and Ukrainians are returning home after fleeing the war. In Britain, Prince Charles was coronated with a thoroughly 21st century ceremony while in the US there were debates over hats at the Kentucky Derby. Lastly, Elizabeth Holmes has adopted a new persona after being convicted for fraud surrounding her company Theranos.</p>
+It looks like there&#39;s a lot happening in the world right now. In the US, there has been a mass shooting in Allen, Texas, that left nine people dead, including the suspect. On top of this, there are increasing debates in Congress over migrant child labor. In Europe, the coronation of Charles as king was steeped in history, and in Russia, Wagner Chief has appeared to backtrack on his threat to pull fighters from Bakhmut. Additionally, in New York City a case against former president Trump is taking shape with an unconventional strategy. Lastly, 5.5 million Ukrainians have returned home after fleeing war-torn areas.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An End to Pandemic Restrictions Could Bring Thousands to the Border</h3>
-<sub>By Miriam Jordan and Michael D. Shear</sub>
-<p>Title 42, the policy that has allowed the swift expulsion of many migrants at the southern border, will lift on Thursday. Officials are bracing for a new immigration surge.  <a href="https://nyti.ms/3piEmwj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Trump Case, Bragg Pursues a Common Charge With a Rarely Used Strategy</h3>
+<sub>By Ben Protess, Kate Christobek, Jonah E. Bromwich, William K. Rashbaum and Sean Piccoli</sub>
+<p>A review of more than two dozen cases shows that in at least one sense, the indictment of the former president stands apart.  <a href="https://nyti.ms/3M2Cvo5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Migrant Child Labor Debate in Congress Becomes Mired in Immigration Fight</h3>
-<sub>By Karoun Demirjian and Hannah Dreier</sub>
-<p>Revelations that migrant children have been exploited for cheap labor brought calls for action, but a partisan battle over immigration policy has complicated lawmakers’ efforts.  <a href="https://nyti.ms/41fFm1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Send 1,500 Active-Duty Troops to the Southern Border</h3>
-<sub>By Helene Cooper and Zolan Kanno-Youngs</sub>
-<p>The easing of Covid-era restrictions could lead to an increase in migrants, officials say.  <a href="https://nyti.ms/3LrGF7D"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Wagner Chief Appears to Backtrack on Threat to Pull Fighters From Bakhmut</h3>
@@ -94,14 +82,14 @@ There is a lot going on around the world right now. In the US, there is concern 
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At Least 9 Dead, Including Gunman, in Shooting at Texas Mall</h3>
-<sub>By Mary Beth Gahan, Remy Tumin, Claire Fahy and Lauren McCarthy</sub>
+<sub>By Mary Beth Gahan, Adam Goldman, Remy Tumin, Claire Fahy and Lauren McCarthy</sub>
 <p>A police officer on an unrelated assignment nearby rushed toward the sounds of gunfire and killed the gunman.  <a href="https://nyti.ms/3HNhZpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What We Know About the Allen, Texas, Mall Shooting</h3>
-<sub>By Joshua Needelman</sub>
-<p>The identity and motive of the gunman so far remain a mystery. The shooting at the Allen Premium Outlets left nine people dead, including the suspect.  <a href="https://nyti.ms/44AsxSk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Joshua Needelman and Adam Goldman</sub>
+<p>The motive of the gunman so far remains a mystery. The shooting at the Allen Premium Outlets left nine people dead, including the suspect.  <a href="https://nyti.ms/44AsxSk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +104,34 @@ There is a lot going on around the world right now. In the US, there is concern 
 <p>Jordan Neely’s mental health decline played out in public after his mother was strangled. Daniel Penny said he was protecting himself and others when he choked Mr. Neely.  <a href="https://nyti.ms/41shvvP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Charles’s Coronation, Everything Olde Was New Again</h3>
-<sub>By Sarah Lyall</sub>
-<p>The king promised a thoroughly 21st-century ceremony, but when push came to shove, he took his place on a 13th-century throne.  <a href="https://nyti.ms/41hl8Ey"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An End to Pandemic Restrictions Could Bring Thousands to the Border</h3>
+<sub>By Miriam Jordan and Michael D. Shear</sub>
+<p>Title 42, the policy that has allowed the swift expulsion of many migrants at the southern border, will lift on Thursday. Officials are bracing for a new immigration surge.  <a href="https://nyti.ms/3piEmwj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>War of the Hats: Coronation vs. Kentucky Derby</h3>
-<sub>By The Styles Desk</sub>
-<p>Can you tell where each of these hats appeared? Take our quiz.  <a href="https://nyti.ms/44zuhLC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At Least 7 Killed After Driver Plows Car Into Group of Migrants in Texas</h3>
+<sub>By Edgar Sandoval</sub>
+<p>The driver of a Range Rover barreled into a crowd in Brownsville, Texas, on Sunday, officials said. It was unclear if the crash had been accidental or deliberate.  <a href="https://nyti.ms/3NPZaW6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Migrant Child Labor Debate in Congress Becomes Mired in Immigration Fight</h3>
+<sub>By Karoun Demirjian and Hannah Dreier</sub>
+<p>Revelations that migrant children have been exploited for cheap labor brought calls for action, but a partisan battle over immigration policy has complicated lawmakers’ efforts.  <a href="https://nyti.ms/41fFm1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Liz Holmes Wants You to Forget About Elizabeth</h3>
 <sub>By Amy Chozick</sub>
 <p>The black turtlenecks are gone. So is the voice. As the convicted Theranos founder awaits prison, she has adopted a new persona: devoted mother.  <a href="https://nyti.ms/41fFtdr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Charles’s Coronation, Everything Olde Was New Again</h3>
+<sub>By Sarah Lyall</sub>
+<p>The king promised a thoroughly 21st-century ceremony, but when push came to shove, he took his place on a 13th-century throne.  <a href="https://nyti.ms/41hl8Ey"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
