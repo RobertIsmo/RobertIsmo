@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 8, Central Standard Time</p>
 <p>
-There has been a lot of gun violence in the US lately. On Sunday, a man drove his car into a group of migrants in Texas, killing at least eight people. In Texas and other states, people are pushing for tighter gun regulation but it&#39;s not making much change in legislation yet. There has also been a shooting at an outlet mall in Allen, Texas although the motive for this attack remains unknown. In the UK, there is a coronation and election happening at the same time which is creating some unrest. Meanwhile, some families in Los Angeles are claiming reparations from the Dodgers organization since the land they owned was taken away to build Dodger Stadium. Lastly, there is a trial in Serbia involving possible connections between their top leadership and drug gangs.</p>
+Right now, the US is dealing with mass killings that have led to some people opening up their views on gun regulation, but so far it hasn&#39;t changed the political realities on the issue in their State Capitol. In Texas, there was a mysterious mall shooting that left nine dead including the suspect. Twitter has come under fire for allowing graphic images from this attack to spread. 
+
+In international news, Wagner Chief appears to have backed off a threat to pull fighters from Bakhmut after assuring them that they would get needed ammunition and equipment. Meanwhile, the UK is preparing for a new era following a coronation and election, while some suburbs are upset about a Mayor&#39;s plans to send migrants to their hotels. In another tragic incident in Texas, at least 8 were killed when a driver plowed a car into a group of migrants. Lastly, some former residents near Dodgers Stadium are seeking reparations due to being displaced years ago and in Serbia, people are questioning connections between leadership and organized crime groups after a grisly trial.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Mass Killings in Texas, Frustration but No Action on Guns</h3>
