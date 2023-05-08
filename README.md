@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 7, Central Standard Time</p>
 <p>
-There has been a lot of news about gun violence lately. In Texas, several people were killed in mass shootings but there have been no changes to gun laws as a result. Similarly, a mystery shooter left 9 people dead in Allen, Texas, yet efforts to combat the spread of these images going viral on social media failed.
-
-In the UK, the new royal crowning ceremony and upcoming election have caused some unrest among citizens. In the US, there has also been tension surrounding Eric Adams&#39; plan to move asylum seekers to suburbs, which several suburban communities rejected. On top of that, police are investigating a car crash in Texas involving migrants--it&#39;s unclear whether or not the incident was intentional.
-
-Finally, the Los Angeles Dodgers may be on the brink of returning some property back to families who were previously forced off their land to create Dodger Stadium in the 1950s.</p>
+There is a lot going on in the world right now, from mass shootings and other violent incidents to reparative justice cases and government initiatives. In the US, people are grappling with gun violence and regulations, but not much legislation has changed yet. Elsewhere, a criminal trial in Serbia is raising questions about connections between the national leadership and drug gangs, and there&#39;s a heated debate over the placement of migrants in suburban communities. And even in entertainment, the convicted Theranos founder has adopted a new persona as she awaits prison sentence. All of these stories show that the world can be unpredictable and complex.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Mass Killings in Texas, Frustration but No Action on Guns</h3>
@@ -114,12 +110,6 @@ Finally, the Los Angeles Dodgers may be on the brink of returning some property 
 <p>Beneath the gilded continuity of the coronation celebrations, there were signs that both Britain and its royal family are preparing for a new era.  <a href="https://nyti.ms/3Lz3S7O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>War of the Hats: Coronation vs. Kentucky Derby</h3>
-<sub>By The Styles Desk</sub>
-<p>Can you tell where each of these hats appeared? Take our quiz.  <a href="https://nyti.ms/44zuhLC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Suburbs Are Furious at Adams’s Plan to Send Migrants to Their Hotels</h3>
 <sub>By Stefanos Chen</sub>
@@ -127,8 +117,8 @@ Finally, the Los Angeles Dodgers may be on the brink of returning some property 
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Least 7 Killed After Driver Plows Car Into Group of Migrants in Texas</h3>
-<sub>By Verónica G. Cárdenas and Edgar Sandoval</sub>
+<h3>At Least 8 Killed After Driver Plows Car Into Group of Migrants in Texas</h3>
+<sub>By Edgar Sandoval and Verónica G. Cárdenas</sub>
 <p>The driver of a Range Rover barreled into a crowd in Brownsville, Texas, on Sunday, officials said. It was unclear if the crash had been accidental or deliberate.  <a href="https://nyti.ms/3NPZaW6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
@@ -137,6 +127,12 @@ Finally, the Los Angeles Dodgers may be on the brink of returning some property 
 <sub>By Jesus Jiménez</sub>
 <p>Dodger Stadium is the home to the seven-time world champion Los Angeles Dodgers. But in the 1950s, the land around it belonged to families who are now seeking reparations for what they lost.  <a href="https://nyti.ms/3M0nmnu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The President, the Soccer Hooligans and an Underworld ‘House of Horrors’</h3>
+<sub>By Robert F. Worth</sub>
+<p>A grisly trial in Serbia has raised questions about connections between the country’s top leadership and its violent drug gangs.  <a href="https://nyti.ms/3NzFtBQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
