@@ -60,10 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 8, Central Standard Time</p>
 <p>
-Right now, the US is dealing with mass killings that have led to some people opening up their views on gun regulation, but so far it hasn&#39;t changed the political realities on the issue in their State Capitol. In Texas, there was a mysterious mall shooting that left nine dead including the suspect. Twitter has come under fire for allowing graphic images from this attack to spread. 
+Right now, a lot of news is focused on how much of an issue the debt limit has become, both in the US and globally. The president has been meeting with Speaker Kevin McCarthy, but their budget proposals don&#39;t match up. Wall Street is worried about a potential &quot;financial catastrophe&quot; if talks continue to stall. On top of that, Texas experienced two mass shootings recently, yet there&#39;s not much hope for gun control. 
 
-In international news, Wagner Chief appears to have backed off a threat to pull fighters from Bakhmut after assuring them that they would get needed ammunition and equipment. Meanwhile, the UK is preparing for a new era following a coronation and election, while some suburbs are upset about a Mayor&#39;s plans to send migrants to their hotels. In another tragic incident in Texas, at least 8 were killed when a driver plowed a car into a group of migrants. Lastly, some former residents near Dodgers Stadium are seeking reparations due to being displaced years ago and in Serbia, people are questioning connections between leadership and organized crime groups after a grisly trial.</p>
+In foreign news, Ukraine is using homemade attack drones against Russia&#39;s advanced forces. Chinese Foreign Minister Yang Jiechi met with an American envoy and urged them to reflect on their wrongdoing. Lastly, there&#39;s been some recent attention towards singer-songwriter Connie Converse who disappeared 16 years ago. Lastly, Hollywood writers are in the middle of a strike over what they see as unfair wages and conditions that have been going on for months with no end in sight.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Debt Limit Talks, Biden and Republicans Start Far Apart</h3>
+<sub>By Jim Tankersley</sub>
+<p>As the president prepares to meet with Speaker Kevin McCarthy this week, his budget shares little common ground with spending and tax proposals from House Republicans.  <a href="https://nyti.ms/41dLKGy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>We Hit the Debt Limit. What Happens Now?</h3>
+<sub>By Jeanna Smialek and Ashley Wu</sub>
+<p>Lawmakers will need to reach a bipartisan agreement to lift the debt limit. The longer it takes, the more turmoil there could be for the United States and the global economy.  <a href="https://nyti.ms/3NOZULk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>What Would the G.O.P. Plan Actually Do to the Budget?</h3>
+<sub>By Margot Sanger-Katz and Alicia Parlapiano</sub>
+<p>The plan declines to make choices on cuts, and with large categories exempted by leadership, that may make implementing the bill even harder than passing it.  <a href="https://nyti.ms/3NP45GS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Debt-Ceiling Déjà Vu Worries Wall Street</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>The last crisis, in 2011, led to a credit downgrade that sank stocks. This time, Treasury Secretary Janet Yellen has warned of a “financial catastrophe.”  <a href="https://nyti.ms/3LA3Jkw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Mass Killings in Texas, Frustration but No Action on Guns</h3>
 <sub>By J. David Goodman, Adam Goldman, Edgar Sandoval and David Montgomery</sub>
@@ -82,59 +106,35 @@ In international news, Wagner Chief appears to have backed off a threat to pull 
 <p>Graphic images of the attack went viral on the platform, which has made cuts to its moderation team. Some users said the images exposed the realities of gun violence.  <a href="https://nyti.ms/3VDJuHx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Trump Case, Bragg Pursues a Common Charge With a Rarely Used Strategy</h3>
-<sub>By Ben Protess, Kate Christobek, Jonah E. Bromwich, William K. Rashbaum and Sean Piccoli</sub>
-<p>A review of more than two dozen cases shows that in at least one sense, the indictment of the former president stands apart.  <a href="https://nyti.ms/3M2Cvo5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Homemade, Cheap and Lethal, Attack Drones Are Vital to Ukraine</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Fighting superior Russian firepower, Ukrainian forces turn off-the-shelf drones into deadly weapons by adapting them to carry explosives.  <a href="https://nyti.ms/42wsaGG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wagner Chief Appears to Backtrack on Threat to Pull Fighters From Bakhmut</h3>
-<sub>By Neil MacFarquhar, Matthew Mpoke Bigg and Andrés R. Martínez</sub>
-<p>Yevgeny V. Prigozhin said his mercenaries had been promised the ammunition and equipment they needed and would not have to withdraw from Russia’s fight for the eastern Ukrainian city.  <a href="https://nyti.ms/42w90Rb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<h3>China’s Foreign Minister Meets U.S. Envoy and Urges Washington to Reflect</h3>
+<sub>By David Pierson</sub>
+<p>The meeting was one of the highest-level engagements between American and Chinese officials since the downing of a suspected Chinese spy balloon in February.  <a href="https://nyti.ms/3NMSFmU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Two Men’s Disparate Paths Crossed in a Killing on the F Train</h3>
-<sub>By Michael Wilson and Andy Newman</sub>
-<p>Jordan Neely’s mental health decline played out in public after his mother was strangled. Daniel Penny said he was protecting himself and others when he choked Mr. Neely.  <a href="https://nyti.ms/41shvvP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<h3>Before Dylan, There Was Connie Converse. Then She Vanished.</h3>
+<sub>By Howard Fishman</sub>
+<p>There’s a resurgence of interest in the pioneering singer-songwriter who disappeared when she was 50.  <a href="https://nyti.ms/3nIgnGh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Liz Holmes Wants You to Forget About Elizabeth</h3>
-<sub>By Amy Chozick</sub>
-<p>The black turtlenecks are gone. So is the voice. As the convicted Theranos founder awaits prison, she has adopted a new persona: devoted mother.  <a href="https://nyti.ms/41fFtdr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<h3>‘It’s Going to Be a While’: No End in Sight for Hollywood Strike</h3>
+<sub>By Brooks Barnes and John Koblin</sub>
+<p>The writers and entertainment companies remain far apart on several key issues, including money, and the standoff could last for months.  <a href="https://nyti.ms/3LGgNoE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Coronation and an Election Leave a Restless U.K. ‘in a Waiting Room’</h3>
-<sub>By Mark Landler</sub>
-<p>Beneath the gilded continuity of the coronation celebrations, there were signs that both Britain and its royal family are preparing for a new era.  <a href="https://nyti.ms/3Lz3S7O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Suburbs Are Furious at Adams’s Plan to Send Migrants to Their Hotels</h3>
-<sub>By Stefanos Chen</sub>
-<p>The Rockland County executive declared a state of emergency in a move to block Mayor Eric Adams’s plan to move some asylum seekers to the suburbs.  <a href="https://nyti.ms/3pf1Hiq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Least 8 Killed After Driver Plows Car Into Group of Migrants in Texas</h3>
-<sub>By Edgar Sandoval and Verónica G. Cárdenas</sub>
-<p>The driver of a Range Rover barreled into a crowd in Brownsville, Texas, on Sunday, officials said. It was unclear if the crash had been accidental or deliberate.  <a href="https://nyti.ms/3NPZaW6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>The Land Beneath This Stadium Once Was Theirs. They Want It Back.</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Dodger Stadium is the home to the seven-time world champion Los Angeles Dodgers. But in the 1950s, the land around it belonged to families who are now seeking reparations for what they lost.  <a href="https://nyti.ms/3M0nmnu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The President, the Soccer Hooligans and an Underworld ‘House of Horrors’</h3>
-<sub>By Robert F. Worth</sub>
-<p>A grisly trial in Serbia has raised questions about connections between the country’s top leadership and its violent drug gangs.  <a href="https://nyti.ms/3NzFtBQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What’s the Latest on the Writers’ Strike?</h3>
+<sub>By John Koblin and Brooks Barnes</sub>
+<p>What you need to know about the first Hollywood work stoppage in 16 years.  <a href="https://nyti.ms/42swzuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
