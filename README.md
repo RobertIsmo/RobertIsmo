@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 8, Central Standard Time</p>
 <p>
-Right now, a lot of news is focused on how much of an issue the debt limit has become, both in the US and globally. The president has been meeting with Speaker Kevin McCarthy, but their budget proposals don&#39;t match up. Wall Street is worried about a potential &quot;financial catastrophe&quot; if talks continue to stall. On top of that, Texas experienced two mass shootings recently, yet there&#39;s not much hope for gun control. 
-
-In foreign news, Ukraine is using homemade attack drones against Russia&#39;s advanced forces. Chinese Foreign Minister Yang Jiechi met with an American envoy and urged them to reflect on their wrongdoing. Lastly, there&#39;s been some recent attention towards singer-songwriter Connie Converse who disappeared 16 years ago. Lastly, Hollywood writers are in the middle of a strike over what they see as unfair wages and conditions that have been going on for months with no end in sight.</p>
+There has been ongoing tension between the United States and global economies due to the need for lawmakers to reach a bipartisan agreement to lift the debt limit, with Treasury Secretary Janet Yellen warning of potential catastrophe if it isn&#39;t solved soon. At the same time, there is political unrest in Texas over gun regulation following a series of mass killings in the state, and a writers&#39; strike in Hollywood that could last for months. Internationally, Ukrainian forces are turning off-the-shelf drones into deadly weapons to combat Russian power, and Russia is planning a muted Victory Day celebration on Tuesday due to fears of attacks or unrest. Lastly, China&#39;s foreign minister is urging Washington to reflect following the downing of a suspected Chinese spy balloon in February.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Debt Limit Talks, Biden and Republicans Start Far Apart</h3>
@@ -100,16 +98,16 @@ In foreign news, Ukraine is using homemade attack drones against Russia&#39;s ad
 <p>The motive of the gunman so far remains a mystery. The shooting at the Allen Premium Outlets left nine people dead, including the suspect.  <a href="https://nyti.ms/44AsxSk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Twitter Criticized for Allowing Texas Shooting Images to Spread</h3>
-<sub>By Benjamin Mullin</sub>
-<p>Graphic images of the attack went viral on the platform, which has made cuts to its moderation team. Some users said the images exposed the realities of gun violence.  <a href="https://nyti.ms/3VDJuHx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Homemade, Cheap and Lethal, Attack Drones Are Vital to Ukraine</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>Fighting superior Russian firepower, Ukrainian forces turn off-the-shelf drones into deadly weapons by adapting them to carry explosives.  <a href="https://nyti.ms/42wsaGG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fearing Attacks and Perhaps Unrest, Russia Plans Muted Victory Day</h3>
+<sub>By Neil MacFarquhar</sub>
+<p>The Kremlin will commemorate the Soviet Union’s defeat of Nazi Germany in World War II, but many towns have canceled events on Tuesday.  <a href="https://nyti.ms/3LKiSzN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
