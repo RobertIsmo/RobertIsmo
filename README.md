@@ -60,8 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, May 7, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot happening in the world right now. In the US, there has been a mass shooting in Allen, Texas, that left nine people dead, including the suspect. On top of this, there are increasing debates in Congress over migrant child labor. In Europe, the coronation of Charles as king was steeped in history, and in Russia, Wagner Chief has appeared to backtrack on his threat to pull fighters from Bakhmut. Additionally, in New York City a case against former president Trump is taking shape with an unconventional strategy. Lastly, 5.5 million Ukrainians have returned home after fleeing war-torn areas.</p>
+There has been a lot of news about gun violence lately. In Texas, several people were killed in mass shootings but there have been no changes to gun laws as a result. Similarly, a mystery shooter left 9 people dead in Allen, Texas, yet efforts to combat the spread of these images going viral on social media failed.
+
+In the UK, the new royal crowning ceremony and upcoming election have caused some unrest among citizens. In the US, there has also been tension surrounding Eric Adams&#39; plan to move asylum seekers to suburbs, which several suburban communities rejected. On top of that, police are investigating a car crash in Texas involving migrants--it&#39;s unclear whether or not the incident was intentional.
+
+Finally, the Los Angeles Dodgers may be on the brink of returning some property back to families who were previously forced off their land to create Dodger Stadium in the 1950s.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Mass Killings in Texas, Frustration but No Action on Guns</h3>
+<sub>By J. David Goodman, Adam Goldman, Edgar Sandoval and David Montgomery</sub>
+<p>The drumbeat of mass murder has fueled a new openness to gun regulation among some Texans, but it has done little to reshape the political realities in the State Capitol.  <a href="https://nyti.ms/3nyrSjM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Allen, Texas, Mall Shooting</h3>
+<sub>By Joshua Needelman and Adam Goldman</sub>
+<p>The motive of the gunman so far remains a mystery. The shooting at the Allen Premium Outlets left nine people dead, including the suspect.  <a href="https://nyti.ms/44AsxSk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Twitter Criticized for Allowing Texas Shooting Images to Spread</h3>
+<sub>By Benjamin Mullin</sub>
+<p>Graphic images of the attack went viral on the platform, which has made cuts to its moderation team. Some users said the images exposed the realities of gun violence.  <a href="https://nyti.ms/3VDJuHx"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>In Trump Case, Bragg Pursues a Common Charge With a Rarely Used Strategy</h3>
 <sub>By Ben Protess, Kate Christobek, Jonah E. Bromwich, William K. Rashbaum and Sean Piccoli</sub>
@@ -74,52 +96,10 @@ It looks like there&#39;s a lot happening in the world right now. In the US, the
 <p>Yevgeny V. Prigozhin said his mercenaries had been promised the ammunition and equipment they needed and would not have to withdraw from Russia’s fight for the eastern Ukrainian city.  <a href="https://nyti.ms/42w90Rb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainians Return Home, Renewed and Resigned</h3>
-<sub>By Jeffrey Gettleman and Finbarr O’Reilly</sub>
-<p>More than 5.5 million people who left after the war began in February 2022 have gone back home — and not just to large cities like Kyiv or Dnipro, but to small places near the front line, as well.  <a href="https://nyti.ms/3B1rjBX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Least 9 Dead, Including Gunman, in Shooting at Texas Mall</h3>
-<sub>By Mary Beth Gahan, Adam Goldman, Remy Tumin, Claire Fahy and Lauren McCarthy</sub>
-<p>A police officer on an unrelated assignment nearby rushed toward the sounds of gunfire and killed the gunman.  <a href="https://nyti.ms/3HNhZpf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Allen, Texas, Mall Shooting</h3>
-<sub>By Joshua Needelman and Adam Goldman</sub>
-<p>The motive of the gunman so far remains a mystery. The shooting at the Allen Premium Outlets left nine people dead, including the suspect.  <a href="https://nyti.ms/44AsxSk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Partial List of U.S. Mass Shootings in 2023</h3>
-<sub>By The New York Times</sub>
-<p>There is no official consensus on what constitutes a mass shooting, but by one count there have already been scores so far this year.  <a href="https://nyti.ms/3D9OXhh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>How Two Men’s Disparate Paths Crossed in a Killing on the F Train</h3>
 <sub>By Michael Wilson and Andy Newman</sub>
 <p>Jordan Neely’s mental health decline played out in public after his mother was strangled. Daniel Penny said he was protecting himself and others when he choked Mr. Neely.  <a href="https://nyti.ms/41shvvP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An End to Pandemic Restrictions Could Bring Thousands to the Border</h3>
-<sub>By Miriam Jordan and Michael D. Shear</sub>
-<p>Title 42, the policy that has allowed the swift expulsion of many migrants at the southern border, will lift on Thursday. Officials are bracing for a new immigration surge.  <a href="https://nyti.ms/3piEmwj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Least 7 Killed After Driver Plows Car Into Group of Migrants in Texas</h3>
-<sub>By Edgar Sandoval</sub>
-<p>The driver of a Range Rover barreled into a crowd in Brownsville, Texas, on Sunday, officials said. It was unclear if the crash had been accidental or deliberate.  <a href="https://nyti.ms/3NPZaW6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Migrant Child Labor Debate in Congress Becomes Mired in Immigration Fight</h3>
-<sub>By Karoun Demirjian and Hannah Dreier</sub>
-<p>Revelations that migrant children have been exploited for cheap labor brought calls for action, but a partisan battle over immigration policy has complicated lawmakers’ efforts.  <a href="https://nyti.ms/41fFm1v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -129,9 +109,33 @@ It looks like there&#39;s a lot happening in the world right now. In the US, the
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Charles’s Coronation, Everything Olde Was New Again</h3>
-<sub>By Sarah Lyall</sub>
-<p>The king promised a thoroughly 21st-century ceremony, but when push came to shove, he took his place on a 13th-century throne.  <a href="https://nyti.ms/41hl8Ey"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Coronation and an Election Leave a Restless U.K. ‘in a Waiting Room’</h3>
+<sub>By Mark Landler</sub>
+<p>Beneath the gilded continuity of the coronation celebrations, there were signs that both Britain and its royal family are preparing for a new era.  <a href="https://nyti.ms/3Lz3S7O"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>War of the Hats: Coronation vs. Kentucky Derby</h3>
+<sub>By The Styles Desk</sub>
+<p>Can you tell where each of these hats appeared? Take our quiz.  <a href="https://nyti.ms/44zuhLC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Suburbs Are Furious at Adams’s Plan to Send Migrants to Their Hotels</h3>
+<sub>By Stefanos Chen</sub>
+<p>The Rockland County executive declared a state of emergency in a move to block Mayor Eric Adams’s plan to move some asylum seekers to the suburbs.  <a href="https://nyti.ms/3pf1Hiq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At Least 7 Killed After Driver Plows Car Into Group of Migrants in Texas</h3>
+<sub>By Verónica G. Cárdenas and Edgar Sandoval</sub>
+<p>The driver of a Range Rover barreled into a crowd in Brownsville, Texas, on Sunday, officials said. It was unclear if the crash had been accidental or deliberate.  <a href="https://nyti.ms/3NPZaW6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>The Land Beneath This Stadium Once Was Theirs. They Want It Back.</h3>
+<sub>By Jesus Jiménez</sub>
+<p>Dodger Stadium is the home to the seven-time world champion Los Angeles Dodgers. But in the 1950s, the land around it belonged to families who are now seeking reparations for what they lost.  <a href="https://nyti.ms/3M0nmnu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
