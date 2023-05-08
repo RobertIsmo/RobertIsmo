@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, May 7, Central Standard Time</p>
+<p>It is Monday, May 8, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now, from mass shootings and other violent incidents to reparative justice cases and government initiatives. In the US, people are grappling with gun violence and regulations, but not much legislation has changed yet. Elsewhere, a criminal trial in Serbia is raising questions about connections between the national leadership and drug gangs, and there&#39;s a heated debate over the placement of migrants in suburban communities. And even in entertainment, the convicted Theranos founder has adopted a new persona as she awaits prison sentence. All of these stories show that the world can be unpredictable and complex.</p>
+There has been a lot of gun violence in the US lately. On Sunday, a man drove his car into a group of migrants in Texas, killing at least eight people. In Texas and other states, people are pushing for tighter gun regulation but it&#39;s not making much change in legislation yet. There has also been a shooting at an outlet mall in Allen, Texas although the motive for this attack remains unknown. In the UK, there is a coronation and election happening at the same time which is creating some unrest. Meanwhile, some families in Los Angeles are claiming reparations from the Dodgers organization since the land they owned was taken away to build Dodger Stadium. Lastly, there is a trial in Serbia involving possible connections between their top leadership and drug gangs.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Mass Killings in Texas, Frustration but No Action on Guns</h3>
