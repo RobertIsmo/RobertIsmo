@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 8, Central Standard Time</p>
 <p>
-There has been ongoing tension between the United States and global economies due to the need for lawmakers to reach a bipartisan agreement to lift the debt limit, with Treasury Secretary Janet Yellen warning of potential catastrophe if it isn&#39;t solved soon. At the same time, there is political unrest in Texas over gun regulation following a series of mass killings in the state, and a writers&#39; strike in Hollywood that could last for months. Internationally, Ukrainian forces are turning off-the-shelf drones into deadly weapons to combat Russian power, and Russia is planning a muted Victory Day celebration on Tuesday due to fears of attacks or unrest. Lastly, China&#39;s foreign minister is urging Washington to reflect following the downing of a suspected Chinese spy balloon in February.</p>
+There are a lot of things happening around the world right now. In Texas, there was a mall shooting where nine people died and the suspect&#39;s motive is still a mystery. In Washington DC, President Biden and House Republicans have had meetings to discuss the US debt limit. In Ukraine, they are using homemade and cheap drones to fight against Russian forces in the war. In Russia, they are planning a much more toned-down Victory Day due to possible attacks or unrest. George Alvarez has been charged with striking and killing migrants in Texas while driving an SUV. In New York City, a Ukrainian immigrant who has lived in a Manhattan hotel for decades is facing eviction by owners who make millions from the city to house others. Lastly, Norway has achieved an electric vehicle revolution, with 80 percent of new cars sold being battery-powered. However, issues arise due to unreliable chargers.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Texas Mall Shooting, Searching for Motive and Grieving for Children</h3>
+<sub>By Alan Feuer, Adam Goldman, Neelam Bohra and Livia Albeck-Ripka</sub>
+<p>As the city of Allen mourns victims, authorities examine racist social media posts that they say belonged to the gunman.  <a href="https://nyti.ms/3HPwmtg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Allen, Texas, Mall Shooting</h3>
+<sub>By Joshua Needelman and Adam Goldman</sub>
+<p>The motive of the gunman so far remains a mystery. The shooting at the Allen Premium Outlets left nine people dead, including the suspect.  <a href="https://nyti.ms/44AsxSk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Debt Limit Talks, Biden and Republicans Start Far Apart</h3>
 <sub>By Jim Tankersley</sub>
@@ -80,24 +92,6 @@ There has been ongoing tension between the United States and global economies du
 <p>The plan declines to make choices on cuts, and with large categories exempted by leadership, that may make implementing the bill even harder than passing it.  <a href="https://nyti.ms/3NP45GS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Debt-Ceiling Déjà Vu Worries Wall Street</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The last crisis, in 2011, led to a credit downgrade that sank stocks. This time, Treasury Secretary Janet Yellen has warned of a “financial catastrophe.”  <a href="https://nyti.ms/3LA3Jkw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Mass Killings in Texas, Frustration but No Action on Guns</h3>
-<sub>By J. David Goodman, Adam Goldman, Edgar Sandoval and David Montgomery</sub>
-<p>The drumbeat of mass murder has fueled a new openness to gun regulation among some Texans, but it has done little to reshape the political realities in the State Capitol.  <a href="https://nyti.ms/3nyrSjM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Allen, Texas, Mall Shooting</h3>
-<sub>By Joshua Needelman and Adam Goldman</sub>
-<p>The motive of the gunman so far remains a mystery. The shooting at the Allen Premium Outlets left nine people dead, including the suspect.  <a href="https://nyti.ms/44AsxSk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Homemade, Cheap and Lethal, Attack Drones Are Vital to Ukraine</h3>
 <sub>By Andrew E. Kramer</sub>
@@ -110,10 +104,10 @@ There has been ongoing tension between the United States and global economies du
 <p>The Kremlin will commemorate the Soviet Union’s defeat of Nazi Germany in World War II, but many towns have canceled events on Tuesday.  <a href="https://nyti.ms/3LKiSzN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Foreign Minister Meets U.S. Envoy and Urges Washington to Reflect</h3>
-<sub>By David Pierson</sub>
-<p>The meeting was one of the highest-level engagements between American and Chinese officials since the downing of a suspected Chinese spy balloon in February.  <a href="https://nyti.ms/3NMSFmU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Driver Whose S.U.V. Struck and Killed Migrants in Texas Is Charged</h3>
+<sub>By Edgar Sandoval</sub>
+<p>The authorities in Brownsville, Texas, said George Alvarez was behind the wheel and that they were still trying to determine whether the crash was deliberate.  <a href="https://nyti.ms/3B4ToZ9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -122,17 +116,23 @@ There has been ongoing tension between the United States and global economies du
 <p>There’s a resurgence of interest in the pioneering singer-songwriter who disappeared when she was 50.  <a href="https://nyti.ms/3nIgnGh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘It’s Going to Be a While’: No End in Sight for Hollywood Strike</h3>
-<sub>By Brooks Barnes and John Koblin</sub>
-<p>The writers and entertainment companies remain far apart on several key issues, including money, and the standoff could last for months.  <a href="https://nyti.ms/3LGgNoE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Corporate Giants Buy Up Primary Care Practices at Rapid Pace</h3>
+<sub>By Reed Abelson</sub>
+<p>Large health insurers and other companies are especially keen on doctors’ groups that care for patients in private Medicare plans.  <a href="https://nyti.ms/42tcbJg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Refugee From Another Time Gets an Eviction Notice</h3>
+<sub>By Dan Barry and Photographs By Kirsten Luce</sub>
+<p>A Ukrainian immigrant, 82, has lived in a Manhattan hotel for decades. Now the owners want him out — while earning millions from the city to house others.  <a href="https://nyti.ms/3HNAtWz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What’s the Latest on the Writers’ Strike?</h3>
-<sub>By John Koblin and Brooks Barnes</sub>
-<p>What you need to know about the first Hollywood work stoppage in 16 years.  <a href="https://nyti.ms/42swzuV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, March 21, Central Standard Time</sub></sub>
+<h3>In Norway, the Electric Vehicle Future Has Already Arrived</h3>
+<sub>By Jack Ewing</sub>
+<p>About 80 percent of new cars sold in Norway are battery-powered. As a result, the air is cleaner, the streets are quieter and the grid hasn’t collapsed. But problems with unreliable chargers persist.  <a href="https://nyti.ms/3LJm0vV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
