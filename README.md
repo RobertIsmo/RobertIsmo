@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 9, Central Standard Time</p>
 <p>
-There are a few major events going on in the world right now. Russia is commemorating Victory Day, albeit in a much more subdued way than usual due to ongoing tensions in Ukraine. In the U.S., President Biden and House Speaker McCarthy are meeting with congressional leaders to avert a potential default, as the country runs out of cash and has reached its debt ceiling limit. Meanwhile, Pakistan&#39;s former leader Imran Khan was arrested and his detention is causing concerns about mass protests breaking out. Lastly, there have been Israeli airstrikes against Islamic Jihad in Gaza, which has left at least 13 people dead.</p>
+Right now, there is tension between the U.S. and Russia as Victory Day in Russia is toned down this year due to the war in Ukraine. In Congress, President Biden and House Speaker McCarthy are discussing the debt limit and potential spending cuts as a possible default looms. In the stock market, Wall Street is anxiously preparing for a debt ceiling showdown, while some people are looking at ways to work around it. 
+
+In health news, the U.S. Panel has just recommended that women should start getting regular mammograms at 40 instead of 50 as previously thought. In politics, CIA spymaster William Burns is set to gain more power due to his role in supporting Ukraine. On a completely different note in Florida, social studies textbooks have been rejected and changes were made based on topics like Black Lives Matter and kneeling during the anthem. 
+
+New York is changing how they teach children to read following half of children in grades three to eight failing reading tests. Meanwhile, there&#39;s a tech cold war between China and the U.S., where wireless carriers in many states have had to remove Chinese equipment which has turned out to be costly and difficult. On the other end of things, the Westminster Dog Show just wrapped up with a Samoyed falling short as best in show for two years in a row. </p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What is Victory Day in Russia, and why is it so significant?</h3>
@@ -74,28 +78,16 @@ There are a few major events going on in the world right now. Russia is commemor
 <p>The president will host the House speaker and other congressional leaders at the White House on Tuesday to discuss their impasse over the debt ceiling and spending cuts.  <a href="https://nyti.ms/3M8d84r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘There Are No Good Options’: The U.S. Is Running Out of Money</h3>
-<sub>By Alan Rappeport</sub>
-<p>Treasury is running out of cash, leaving little time to resolve a debt ceiling standoff that could result in default.  <a href="https://nyti.ms/3NSD4Cf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Everything You Need to Know About the Debt Ceiling</h3>
-<sub>By Alan Rappeport</sub>
-<p>Congress controls how much money the United States can borrow. Here’s a look at why that is and what it means.  <a href="https://nyti.ms/44nTuIU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<h3>How Wall Street Is Preparing for a Debt Ceiling Showdown</h3>
+<sub>By Joe Rennison</sub>
+<p>Stocks aren’t showing signs of panic about the government’s ability to pay its bills, but there is anxiety creeping into other markets.  <a href="https://nyti.ms/3LRfGTi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Coin, the Constitution, Premium Bonds: The Debt Limit Workarounds</h3>
 <sub>By Jeanna Smialek</sub>
 <p>As Congress hurtles toward a debt limit showdown, ways to work around it are garnering attention.  <a href="https://nyti.ms/3NPe0ft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>William Burns, a C.I.A. Spymaster With Unusual Powers</h3>
-<sub>By Robert Draper</sub>
-<p>Mr. Burns, a key figure in bolstering the Biden administration’s support for Ukraine, has amassed influence beyond most previous spy chiefs.  <a href="https://nyti.ms/44DTJiZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -110,29 +102,41 @@ There are a few major events going on in the world right now. Russia is commemor
 <p>If you’re at average risk for breast cancer, start getting mammograms at 40 and go every two years, an influential scientific panel says. Many women were doing it anyway.  <a href="https://nyti.ms/42EZN9i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>William Burns, a C.I.A. Spymaster With Unusual Powers</h3>
+<sub>By Robert Draper</sub>
+<p>Mr. Burns, a key figure in bolstering the Biden administration’s support for Ukraine, has amassed influence beyond most previous spy chiefs.  <a href="https://nyti.ms/44DTJiZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Florida Rejects Dozens of Social Studies Textbooks, and Forces Changes in Others</h3>
+<sub>By Sarah Mervosh and Dana Goldstein</sub>
+<p>The state objected to content on topics like the Black Lives Matter movement, socialism and why some citizens ‘take a knee’ during the national anthem.  <a href="https://nyti.ms/42mB5L9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>New York Is Forcing Schools to Change How They Teach Children to Read</h3>
 <sub>By Troy Closson</sub>
 <p>Half of children in grades three to eight fail reading tests. The city’s schools chancellor, who has faulted the current approach, will begin rolling out new curriculums next year.  <a href="https://nyti.ms/3Be4tad"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Imran Khan, Pakistan’s Ex-Leader, Is Arrested</h3>
-<sub>By Christina Goldbaum and Salman Masood</sub>
-<p>Mr. Khan, a former cricket star, has staged a comeback since being ousted, openly challenging the powerful military. His detention raises fears of mass protests.  <a href="https://nyti.ms/3NSyZ15"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Rip and Replace’: The Tech Cold War Is Upending Wireless Carriers</h3>
+<sub>By Cecilia Kang</sub>
+<p>As China and the United States jockey for tech primacy, wireless carriers in dozens of states are tearing out Chinese equipment. That has turned into a costly, difficult process.  <a href="https://nyti.ms/3MdfVtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli Airstrikes Kill at Least 13 in Gaza, Palestinians Say</h3>
-<sub>By Isabel Kershner and Raja Abdulrahim</sub>
-<p>At least three of the dead were leaders in Islamic Jihad, the group said. Officials reported that at least 10 civilians, including children, were killed in the strikes, which Israel said had hit the planners of attacks.  <a href="https://nyti.ms/42hIR92"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Striker Will Never Know He Wasn’t Best in Show</h3>
+<sub>By Sarah Lyall</sub>
+<p>A blindingly white Samoyed fell just short of the top spot at Westminster in consecutive years, but the now-retired champion is busy playing, romping, posing and shedding.  <a href="https://nyti.ms/3pllTiC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Behind the Scenes at the Westminster Dog Show</h3>
+<sub>By Calla Kessler and Desiree Rios</sub>
+<p>The annual event comes back to New York City this year, with best in show being decided at Arthur Ashe Stadium in Flushing.  <a href="https://nyti.ms/3HSqAXI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Is Islamic Jihad and Why Is Israel Targeting It?</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>A brief guide to the armed group that saw three leaders killed in Israeli airstrikes early Tuesday.  <a href="https://nyti.ms/41ro8OY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
