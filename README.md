@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 8, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. President Biden is trying to steer his immigration policy away from Trump&#39;s, even though the number of migrants has been increasing and making it hard for him to achieve that. Meanwhile, places like New York City are scrambling to provide housing for migrants. There has been a tragedy in Texas with a mall shooting, and the legislature there is looking at raising the age limit to buy assault weapons in response. In addition, there is trial happening applying to former president Trump regarding rape allegations made against him by author E. Jean Carroll. Biden also faces immense challenges in his pursuit of a repeat win in 2024, while Republicans continue their efforts to push for stricter election laws. On top of that, countries like Norway are leading the way in electric vehicle adoption, but there are still some issues with their charging systems. Lastly, there is an interesting reappraisal of an obscure singer-songwriter that had disappeared when she was 50.</p>
+There are some really interesting events happening in the world right now. In terms of immigration, the US has seen surges of migrants to its border and President Biden has been taking steps to address the influx, while officials look for housing options. In Texas, there was a devastating shooting with many children among the victims and legislators are trying to raise the age to buy assault weapons as a result. On the political side of things, Donald Trump is currently facing a rape trial, and there&#39;s an ongoing push for stricter voting laws in some states. Additionally, there&#39;s an evacuation taking place in parts of Ukraine due to an imminent Ukrainian counteroffensive. To lighten things up, there have been resurgences of interest in pioneering singer-songwriters and a homeless encampment in Phoenix is about to start clearing. </p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Said He’d Veer From Trump on Immigration. The Reality Is More Complicated.</h3>
@@ -78,6 +78,12 @@ There is a lot happening in the world right now. President Biden is trying to st
 <h3>What the End of a Pandemic-Era Health Order Will Mean for the Southern Border</h3>
 <sub>By Eileen Sullivan</sub>
 <p>Title 42, the rule used to immediately expel migrants, will end this week. U.S. officials expect illegal crossings to increase, placing additional strain on an already overtaxed system.  <a href="https://nyti.ms/44zTSUR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Among the Victims in Texas Shooting: A Wounded 6-Year-Old Who Lost His Parents and Brother</h3>
+<sub>By Ruth Graham, Jesus Jiménez and Mary Beth Gahan</sub>
+<p>Some of the dead and injured belonged to the same families. The Mendoza sisters, in elementary school, both died.  <a href="https://nyti.ms/3M7m1Lr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ There is a lot happening in the world right now. President Biden is trying to st
 <h3>Phoenix to Start Clearing Sprawling Downtown Homeless Encampment</h3>
 <sub>By Jill Cowan</sub>
 <p>A Phoenix judge ordered the city to begin clearing tents in the Zone, an area that has as many as 1,100 people sleeping unsheltered on a given night.  <a href="https://nyti.ms/3VNkCgC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In Norway, the Electric Vehicle Future Has Already Arrived</h3>
-<sub>By Jack Ewing</sub>
-<p>About 80 percent of new cars sold in Norway are battery-powered. As a result, the air is cleaner, the streets are quieter and the grid hasn’t collapsed. But problems with unreliable chargers persist.  <a href="https://nyti.ms/3LJm0vV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
