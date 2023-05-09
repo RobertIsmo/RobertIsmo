@@ -60,22 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 9, Central Standard Time</p>
 <p>
-Right now, there is tension between the U.S. and Russia as Victory Day in Russia is toned down this year due to the war in Ukraine. In Congress, President Biden and House Speaker McCarthy are discussing the debt limit and potential spending cuts as a possible default looms. In the stock market, Wall Street is anxiously preparing for a debt ceiling showdown, while some people are looking at ways to work around it. 
-
-In health news, the U.S. Panel has just recommended that women should start getting regular mammograms at 40 instead of 50 as previously thought. In politics, CIA spymaster William Burns is set to gain more power due to his role in supporting Ukraine. On a completely different note in Florida, social studies textbooks have been rejected and changes were made based on topics like Black Lives Matter and kneeling during the anthem. 
-
-New York is changing how they teach children to read following half of children in grades three to eight failing reading tests. Meanwhile, there&#39;s a tech cold war between China and the U.S., where wireless carriers in many states have had to remove Chinese equipment which has turned out to be costly and difficult. On the other end of things, the Westminster Dog Show just wrapped up with a Samoyed falling short as best in show for two years in a row. </p>
+Right now, there is a lot happening in the world. In the US, a jury recently awarded $5 million in damages to writer E. Jean Carroll over her claims of an assault, and the government has pledged $1.2 billion so Ukraine can buy air defense missiles and other equipment. On the health front, it has been advised that women start getting regular mammograms at age 40, and Wall Street is preparing for a debt ceiling showdown. There is also tech cold war between China and the US, affecting wireless carriers throughout multiple states. On the lighter side of things, at this year&#39;s Westminster Dog Show in New York City, a Samoyed was awarded runner up in consecutive years, and the Met Museum has set a plan in place to find any looted art within its collection. Lastly, we have a story of how dementia affects mothers and loved ones.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What is Victory Day in Russia, and why is it so significant?</h3>
-<sub>By Dan Bilefsky, Anton Troianovski and Neil MacFarquhar</sub>
-<p>The holiday commemorating the Soviet defeat of Nazi Germany in 1945 is toned down this year as the war in Ukraine drags on.  <a href="https://nyti.ms/3nISK0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>E. Jean Carroll described an assault in minute detail.</h3>
+<sub>By Lola Fadulu, Kate Christobek and Benjamin Weiser</sub>
+<p>  <a href="https://nyti.ms/3Mc40eZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and McCarthy to Discuss Debt Limit as a Possible Default Looms</h3>
-<sub>By Peter Baker and Jim Tankersley</sub>
-<p>The president will host the House speaker and other congressional leaders at the White House on Tuesday to discuss their impasse over the debt ceiling and spending cuts.  <a href="https://nyti.ms/3M8d84r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Here’s a closer look at the $5 million in damages that the jury awarded Carroll.</h3>
+<sub>By Lola Fadulu</sub>
+<p>  <a href="https://nyti.ms/41l8fJQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -84,22 +80,16 @@ New York is changing how they teach children to read following half of children 
 <p>Stocks aren’t showing signs of panic about the government’s ability to pay its bills, but there is anxiety creeping into other markets.  <a href="https://nyti.ms/3LRfGTi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Coin, the Constitution, Premium Bonds: The Debt Limit Workarounds</h3>
-<sub>By Jeanna Smialek</sub>
-<p>As Congress hurtles toward a debt limit showdown, ways to work around it are garnering attention.  <a href="https://nyti.ms/3NPe0ft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The U.S. is providing $1.2 billion for Ukraine to buy air defense missiles and other crucial equipment.</h3>
+<sub>By John Ismay</sub>
+<p>A Pentagon spokesman also confirmed that Ukrainian troops using a U.S.-made Patriot air-defense system shot down a hypersonic Russian missile.  <a href="https://nyti.ms/3VQFinR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>When Should Women Get Regular Mammograms? At 40, U.S. Panel Now Says.</h3>
 <sub>By Roni Caryn Rabin</sub>
 <p>The new advice comes as breast cancer diagnoses rise among younger women and mortality rates among Black women remain persistently high.  <a href="https://nyti.ms/3nL2iIg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>New Mammogram Advice: What to Know</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>If you’re at average risk for breast cancer, start getting mammograms at 40 and go every two years, an influential scientific panel says. Many women were doing it anyway.  <a href="https://nyti.ms/42EZN9i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -112,12 +102,6 @@ New York is changing how they teach children to read following half of children 
 <h3>Florida Rejects Dozens of Social Studies Textbooks, and Forces Changes in Others</h3>
 <sub>By Sarah Mervosh and Dana Goldstein</sub>
 <p>The state objected to content on topics like the Black Lives Matter movement, socialism and why some citizens ‘take a knee’ during the national anthem.  <a href="https://nyti.ms/42mB5L9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York Is Forcing Schools to Change How They Teach Children to Read</h3>
-<sub>By Troy Closson</sub>
-<p>Half of children in grades three to eight fail reading tests. The city’s schools chancellor, who has faulted the current approach, will begin rolling out new curriculums next year.  <a href="https://nyti.ms/3Be4tad"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -137,6 +121,18 @@ New York is changing how they teach children to read following half of children 
 <sub>By Calla Kessler and Desiree Rios</sub>
 <p>The annual event comes back to New York City this year, with best in show being decided at Arthur Ashe Stadium in Flushing.  <a href="https://nyti.ms/3HSqAXI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>After Seizures, the Met Sets a Plan to Scour Collections for Looted Art</h3>
+<sub>By Robin Pogrebin and Graham Bowley</sub>
+<p>The plan features the hiring of a four-person provenance research team that will help review the museum’s collection for works with tainted histories.  <a href="https://nyti.ms/3W3rhDz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Mother Who Changed: A Story of Dementia</h3>
+<sub>By Katie Engelhart</sub>
+<p>As cognitive decline began to alter who Diane Norelius was, her adult daughters and her boyfriend wound up in a bitter dispute over which version of her should get to decide what she wanted.  <a href="https://nyti.ms/3nPzazv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
