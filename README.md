@@ -60,78 +60,78 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 9, Central Standard Time</p>
 <p>
-It looks like there is a lot of unrest in the world right now. In occupied Ukraine, there&#39;s chaos and shortages amid Russian evacuation orders, forcing many civilians to remain. In the US, President Biden is facing a surge of migrants at the border, while the end of pandemic-era health orders could mean illegal crossings will increase. A mass shooting in Texas has sparked debate in the state consensus over raising age to buy assault weapons. In NYC, officials are searching for housing for migrants, and there&#39;s a rape trial surrounding President Trump. Meanwhile, Israel has conducted airstrikes in Gaza which have killed at least 13 people, and Phoenix is starting to clear a sprawling downtown homeless encampment.</p>
+There is a lot going on in the world right now. The US is facing a possible default because of an impasse over the debt ceiling and spending cuts. In response, Treasury is running out of cash and there are only a few weeks to resolve the issue. On top of that, New York City is tackling educational inequality by introducing changes to how reading is taught. Overseas, there have been deadly airstrikes in Gaza by Israeli forces targeting Islamic Jihad leaders, as well as major protests in Pakistan after former leader Imran Khan was arrested. Finally, the Westminster Dog Show returned to NYC this year and President Biden is trying to figure out how he can beat Donald Trump in 2024.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden and McCarthy to Discuss Debt Limit as a Possible Default Looms</h3>
+<sub>By Peter Baker and Jim Tankersley</sub>
+<p>The president will host the House speaker and other congressional leaders at the White House on Tuesday to discuss their impasse over the debt ceiling and spending cuts.  <a href="https://nyti.ms/3M8d84r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘There Are No Good Options’: The U.S. Is Running Out of Money</h3>
+<sub>By Alan Rappeport</sub>
+<p>Treasury is running out of cash, leaving little time to resolve a debt ceiling standoff that could result in default.  <a href="https://nyti.ms/3NSD4Cf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Everything You Need to Know About the Debt Ceiling</h3>
+<sub>By Alan Rappeport</sub>
+<p>Congress controls how much money the United States can borrow. Here’s a look at why that is and what it means.  <a href="https://nyti.ms/44nTuIU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>William Burns, a C.I.A. Spymaster With Unusual Powers</h3>
+<sub>By Robert Draper</sub>
+<p>Mr. Burns, a key figure in bolstering the Biden administration’s support for Ukraine, has amassed influence beyond most previous spy chiefs.  <a href="https://nyti.ms/44DTJiZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Chaos and Shortages in Parts of Occupied Ukraine Amid Russian Evacuation Orders</h3>
-<sub>By Marc Santora and Anna Lukinova</sub>
-<p>Running short of food, fuel and cash, and with a Ukrainian counteroffensive imminent, many civilians are defying a directive by occupation forces, unsure where they would go.  <a href="https://nyti.ms/3VGtrJ1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Said He’d Veer From Trump on Immigration. The Reality Is More Complicated.</h3>
-<sub>By Michael D. Shear</sub>
-<p>Surges of migrants have shaped President Biden’s policies at the border in ways that few of his allies imagined when he was running for president.  <a href="https://nyti.ms/3LKMm0z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<h3>Imran Khan, Pakistan’s Ex-Leader, Is Arrested</h3>
+<sub>By Christina Goldbaum and Salman Masood</sub>
+<p>Mr. Khan, a former cricket star, has staged a comeback since being ousted, openly challenging the powerful military. His detention raises fears of mass protests.  <a href="https://nyti.ms/3NSyZ15"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Racetracks, Parks, Offices: A Frantic Search for Migrant Housing</h3>
-<sub>By Dana Rubinstein</sub>
-<p>New York City officials are casting a wide net as they scramble to house the influx of migrants. The Flatiron Building said no.  <a href="https://nyti.ms/3pk1b2J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What the End of a Pandemic-Era Health Order Will Mean for the Southern Border</h3>
-<sub>By Eileen Sullivan</sub>
-<p>Title 42, the rule used to immediately expel migrants, will end this week. U.S. officials expect illegal crossings to increase, placing additional strain on an already overtaxed system.  <a href="https://nyti.ms/44zTSUR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Among the Victims in Texas Shooting: A Wounded 6-Year-Old Who Lost His Parents and Brother</h3>
-<sub>By Ruth Graham, Jesus Jiménez and Mary Beth Gahan</sub>
-<p>Some of the dead and injured belonged to the same families. The Mendoza sisters, in elementary school, both died.  <a href="https://nyti.ms/3M7m1Lr"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Texas Mall Shooting, Searching for Motive and Grieving for Children</h3>
-<sub>By Alan Feuer, Adam Goldman, Neelam Bohra and Livia Albeck-Ripka</sub>
-<p>As the city of Allen mourns victims, authorities examine racist social media posts that they say belonged to the gunman.  <a href="https://nyti.ms/3HPwmtg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Shift, Texas House Advances Bill to Raise Age to Buy Assault Weapons</h3>
-<sub>By J. David Goodman</sub>
-<p>The mass shooting at a shopping center in Allen, Texas, has exerted an unexpectedly raw and emotional force on the State Legislature.  <a href="https://nyti.ms/3B4MYJt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<h3>New York Is Forcing Schools to Change How They Teach Children to Read</h3>
+<sub>By Troy Closson</sub>
+<p>Half of children in grades three to eight fail reading tests. The city’s schools chancellor, who has faulted the current approach, will begin rolling out new curriculums next year.  <a href="https://nyti.ms/3Be4tad"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Rape Trial, Jury Must Now Decide if It Believes Carroll or Trump</h3>
-<sub>By Benjamin Weiser, Lola Fadulu, Kate Christobek and Karen Zraick</sub>
-<p>Donald J. Trump never showed up for the trial, nor did his lawyer call witnesses. Their case was simple: The writer E. Jean Carroll had made up her story.  <a href="https://nyti.ms/41hGAco"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>We Want to Know What New York City’s Reading Overhaul Means for You</h3>
+<sub>By Troy Closson</sub>
+<p>In an effort to close proficiency gaps, the city’s schools chancellor is making major changes to how reading is taught. We’d like to hear from you.  <a href="https://nyti.ms/3B5Lrmw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israeli Airstrikes Kill at Least 13 in Gaza, Palestinians Say</h3>
+<sub>By Isabel Kershner and Raja Abdulrahim</sub>
+<p>At least three of the dead were leaders in Islamic Jihad, the group said. Officials reported that at least 10 civilians, including children, were killed in the strikes, which Israel said had hit the planners of attacks.  <a href="https://nyti.ms/42hIR92"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What Is Islamic Jihad and Why Is Israel Targeting It?</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>A brief guide to the armed group that saw three leaders killed in Israeli airstrikes early Tuesday.  <a href="https://nyti.ms/41ro8OY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Behind the Scenes at the Westminster Dog Show</h3>
+<sub>By Calla Kessler and Desiree Rios</sub>
+<p>The annual event comes back to New York City this year, with best in show being decided at Arthur Ashe Stadium in Flushing.  <a href="https://nyti.ms/3HSqAXI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nancy Mace, a ‘Caucus of One’ in the G.O.P., Says She’s Trying to Change Her Party</h3>
+<sub>By Annie Karni</sub>
+<p>The South Carolina representative, who has publicly criticized her party but backed it on most legislation, is trying to figure out how to be a mainstream Republican in the hard-right House G.O.P.  <a href="https://nyti.ms/3nGmyL0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Casts Himself as the Trump Beater. Polls Suggest That’s No Sure Thing.</h3>
 <sub>By Peter Baker</sub>
 <p>While the president argues that he is the one best positioned to stop his predecessor from returning to the White House, surveys indicate that he starts the 2024 race facing enormous challenges.  <a href="https://nyti.ms/3BcSVUF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli Airstrikes Kill at Least 13 in Gaza, Palestinians Say</h3>
-<sub>By Isabel Kershner</sub>
-<p>At least three of the dead were leaders in Islamic Jihad, the group said, and officials said at least 10 civilians, including children, were killed in the strikes, which Israel said had hit the planners of attacks.  <a href="https://nyti.ms/42hIR92"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Before Dylan, There Was Connie Converse. Then She Vanished.</h3>
-<sub>By Howard Fishman</sub>
-<p>There’s a resurgence of interest in the pioneering singer-songwriter who disappeared when she was 50.  <a href="https://nyti.ms/3nIgnGh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Phoenix to Start Clearing Sprawling Downtown Homeless Encampment</h3>
-<sub>By Jill Cowan</sub>
-<p>A Phoenix judge ordered the city to begin clearing tents in the Zone, an area that has as many as 1,100 people sleeping unsheltered on a given night.  <a href="https://nyti.ms/3VNkCgC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
