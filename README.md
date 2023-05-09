@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 9, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The US is facing a possible default because of an impasse over the debt ceiling and spending cuts. In response, Treasury is running out of cash and there are only a few weeks to resolve the issue. On top of that, New York City is tackling educational inequality by introducing changes to how reading is taught. Overseas, there have been deadly airstrikes in Gaza by Israeli forces targeting Islamic Jihad leaders, as well as major protests in Pakistan after former leader Imran Khan was arrested. Finally, the Westminster Dog Show returned to NYC this year and President Biden is trying to figure out how he can beat Donald Trump in 2024.</p>
+There are a few major events going on in the world right now. Russia is commemorating Victory Day, albeit in a much more subdued way than usual due to ongoing tensions in Ukraine. In the U.S., President Biden and House Speaker McCarthy are meeting with congressional leaders to avert a potential default, as the country runs out of cash and has reached its debt ceiling limit. Meanwhile, Pakistan&#39;s former leader Imran Khan was arrested and his detention is causing concerns about mass protests breaking out. Lastly, there have been Israeli airstrikes against Islamic Jihad in Gaza, which has left at least 13 people dead.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What is Victory Day in Russia, and why is it so significant?</h3>
+<sub>By Dan Bilefsky, Anton Troianovski and Neil MacFarquhar</sub>
+<p>The holiday commemorating the Soviet defeat of Nazi Germany in 1945 is toned down this year as the war in Ukraine drags on.  <a href="https://nyti.ms/3nISK0l"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden and McCarthy to Discuss Debt Limit as a Possible Default Looms</h3>
 <sub>By Peter Baker and Jim Tankersley</sub>
@@ -81,15 +87,27 @@ There is a lot going on in the world right now. The US is facing a possible defa
 <sub><sub>Tuesday, May 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Coin, the Constitution, Premium Bonds: The Debt Limit Workarounds</h3>
+<sub>By Jeanna Smialek</sub>
+<p>As Congress hurtles toward a debt limit showdown, ways to work around it are garnering attention.  <a href="https://nyti.ms/3NPe0ft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>William Burns, a C.I.A. Spymaster With Unusual Powers</h3>
 <sub>By Robert Draper</sub>
 <p>Mr. Burns, a key figure in bolstering the Biden administration’s support for Ukraine, has amassed influence beyond most previous spy chiefs.  <a href="https://nyti.ms/44DTJiZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Imran Khan, Pakistan’s Ex-Leader, Is Arrested</h3>
-<sub>By Christina Goldbaum and Salman Masood</sub>
-<p>Mr. Khan, a former cricket star, has staged a comeback since being ousted, openly challenging the powerful military. His detention raises fears of mass protests.  <a href="https://nyti.ms/3NSyZ15"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>When Should Women Get Regular Mammograms? At 40, U.S. Panel Now Says.</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>The new advice comes as breast cancer diagnoses rise among younger women and mortality rates among Black women remain persistently high.  <a href="https://nyti.ms/3nL2iIg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>New Mammogram Advice: What to Know</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>If you’re at average risk for breast cancer, start getting mammograms at 40 and go every two years, an influential scientific panel says. Many women were doing it anyway.  <a href="https://nyti.ms/42EZN9i"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -98,10 +116,10 @@ There is a lot going on in the world right now. The US is facing a possible defa
 <p>Half of children in grades three to eight fail reading tests. The city’s schools chancellor, who has faulted the current approach, will begin rolling out new curriculums next year.  <a href="https://nyti.ms/3Be4tad"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>We Want to Know What New York City’s Reading Overhaul Means for You</h3>
-<sub>By Troy Closson</sub>
-<p>In an effort to close proficiency gaps, the city’s schools chancellor is making major changes to how reading is taught. We’d like to hear from you.  <a href="https://nyti.ms/3B5Lrmw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Imran Khan, Pakistan’s Ex-Leader, Is Arrested</h3>
+<sub>By Christina Goldbaum and Salman Masood</sub>
+<p>Mr. Khan, a former cricket star, has staged a comeback since being ousted, openly challenging the powerful military. His detention raises fears of mass protests.  <a href="https://nyti.ms/3NSyZ15"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -115,24 +133,6 @@ There is a lot going on in the world right now. The US is facing a possible defa
 <sub>By Raja Abdulrahim</sub>
 <p>A brief guide to the armed group that saw three leaders killed in Israeli airstrikes early Tuesday.  <a href="https://nyti.ms/41ro8OY"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Behind the Scenes at the Westminster Dog Show</h3>
-<sub>By Calla Kessler and Desiree Rios</sub>
-<p>The annual event comes back to New York City this year, with best in show being decided at Arthur Ashe Stadium in Flushing.  <a href="https://nyti.ms/3HSqAXI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nancy Mace, a ‘Caucus of One’ in the G.O.P., Says She’s Trying to Change Her Party</h3>
-<sub>By Annie Karni</sub>
-<p>The South Carolina representative, who has publicly criticized her party but backed it on most legislation, is trying to figure out how to be a mainstream Republican in the hard-right House G.O.P.  <a href="https://nyti.ms/3nGmyL0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Casts Himself as the Trump Beater. Polls Suggest That’s No Sure Thing.</h3>
-<sub>By Peter Baker</sub>
-<p>While the president argues that he is the one best positioned to stop his predecessor from returning to the White House, surveys indicate that he starts the 2024 race facing enormous challenges.  <a href="https://nyti.ms/3BcSVUF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
