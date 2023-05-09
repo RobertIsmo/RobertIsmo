@@ -58,10 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, May 8, Central Standard Time</p>
+<p>It is Tuesday, May 9, Central Standard Time</p>
 <p>
-There are some really interesting events happening in the world right now. In terms of immigration, the US has seen surges of migrants to its border and President Biden has been taking steps to address the influx, while officials look for housing options. In Texas, there was a devastating shooting with many children among the victims and legislators are trying to raise the age to buy assault weapons as a result. On the political side of things, Donald Trump is currently facing a rape trial, and there&#39;s an ongoing push for stricter voting laws in some states. Additionally, there&#39;s an evacuation taking place in parts of Ukraine due to an imminent Ukrainian counteroffensive. To lighten things up, there have been resurgences of interest in pioneering singer-songwriters and a homeless encampment in Phoenix is about to start clearing. </p>
+There&#39;s a lot going on in the world right now. In parts of Ukraine occupied by Russia, there is &quot;panic&quot; and food, fuel, and cash shortages due to evacuation orders from the Russian forces. Migrant surges have affected US president Biden&#39;s immigration policies to a degree that few could have anticipated. New York City officials are scrambling to find housing for an influx of migrant individuals and families. President Biden has been facing immense challenges in his attempts to prevent former president Trump from returning to office. Meanwhile, right-wing groups are trying to implement stricter voting laws in a number of states, while Phoenix will be clearing out a sprawling homeless encampment in the city&#39;s downtown area. Lastly, there has been a resurgence of interest in the missing pioneer singer-songwriter Connie Converse.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Panic’ and Shortages in Parts of Occupied Ukraine Amid Russian Evacuation Orders</h3>
+<sub>By Marc Santora and Anna Lukinova</sub>
+<p>Running short of food, fuel and cash, and with a Ukrainian counteroffensive imminent, many civilians are defying occupation forces’ directive, unsure where they would go.  <a href="https://nyti.ms/3VGtrJ1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Said He’d Veer From Trump on Immigration. The Reality Is More Complicated.</h3>
 <sub>By Michael D. Shear</sub>
@@ -114,12 +120,6 @@ There are some really interesting events happening in the world right now. In te
 <h3>Under the Radar, Right-Wing Push to Tighten Voting Laws Persists</h3>
 <sub>By Nick Corasaniti and Alexandra Berzon</sub>
 <p>The clashes in state capitals have faded, but the Republican push for stricter state election laws is organized and planning for the long term.  <a href="https://nyti.ms/3nxnode"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Panic’ and Shortages in Parts of Occupied Ukraine Amid Russian Evacuation Orders</h3>
-<sub>By Marc Santora and Anna Lukinova</sub>
-<p>Running short of food, fuel and cash, and with a Ukrainian counteroffensive imminent, many civilians are defying occupation forces’ directive, unsure where they would go.  <a href="https://nyti.ms/3VGtrJ1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
