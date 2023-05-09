@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 9, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In parts of Ukraine occupied by Russia, there is &quot;panic&quot; and food, fuel, and cash shortages due to evacuation orders from the Russian forces. Migrant surges have affected US president Biden&#39;s immigration policies to a degree that few could have anticipated. New York City officials are scrambling to find housing for an influx of migrant individuals and families. President Biden has been facing immense challenges in his attempts to prevent former president Trump from returning to office. Meanwhile, right-wing groups are trying to implement stricter voting laws in a number of states, while Phoenix will be clearing out a sprawling homeless encampment in the city&#39;s downtown area. Lastly, there has been a resurgence of interest in the missing pioneer singer-songwriter Connie Converse.</p>
+It looks like there is a lot of unrest in the world right now. In occupied Ukraine, there&#39;s chaos and shortages amid Russian evacuation orders, forcing many civilians to remain. In the US, President Biden is facing a surge of migrants at the border, while the end of pandemic-era health orders could mean illegal crossings will increase. A mass shooting in Texas has sparked debate in the state consensus over raising age to buy assault weapons. In NYC, officials are searching for housing for migrants, and there&#39;s a rape trial surrounding President Trump. Meanwhile, Israel has conducted airstrikes in Gaza which have killed at least 13 people, and Phoenix is starting to clear a sprawling downtown homeless encampment.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Panic’ and Shortages in Parts of Occupied Ukraine Amid Russian Evacuation Orders</h3>
+<h3>Chaos and Shortages in Parts of Occupied Ukraine Amid Russian Evacuation Orders</h3>
 <sub>By Marc Santora and Anna Lukinova</sub>
-<p>Running short of food, fuel and cash, and with a Ukrainian counteroffensive imminent, many civilians are defying occupation forces’ directive, unsure where they would go.  <a href="https://nyti.ms/3VGtrJ1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Running short of food, fuel and cash, and with a Ukrainian counteroffensive imminent, many civilians are defying a directive by occupation forces, unsure where they would go.  <a href="https://nyti.ms/3VGtrJ1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,10 +116,10 @@ There&#39;s a lot going on in the world right now. In parts of Ukraine occupied 
 <p>While the president argues that he is the one best positioned to stop his predecessor from returning to the White House, surveys indicate that he starts the 2024 race facing enormous challenges.  <a href="https://nyti.ms/3BcSVUF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Under the Radar, Right-Wing Push to Tighten Voting Laws Persists</h3>
-<sub>By Nick Corasaniti and Alexandra Berzon</sub>
-<p>The clashes in state capitals have faded, but the Republican push for stricter state election laws is organized and planning for the long term.  <a href="https://nyti.ms/3nxnode"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israeli Airstrikes Kill at Least 13 in Gaza, Palestinians Say</h3>
+<sub>By Isabel Kershner</sub>
+<p>At least three of the dead were leaders in Islamic Jihad, the group said, and officials said at least 10 civilians, including children, were killed in the strikes, which Israel said had hit the planners of attacks.  <a href="https://nyti.ms/42hIR92"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
