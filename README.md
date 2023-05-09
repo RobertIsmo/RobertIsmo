@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, May 8, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now! In the US, Republicans are pushing to tighten voting laws while authorities try to find a motive for the shooting at an Allen, Texas shopping mall. Police have charged the driver of an SUV that killed migrants in Texas. Pulitzer Prizes were awarded to The New York Times and The Associated Press for their coverage on the Ukraine war. Lawmakers must also agree to lift the debt limit amid fears of global economic turmoil. On a slightly lighter note, in Norway electric vehicles have already become quite popular with 80% of new cars being battery powered; and there is renewed interest in the music of pioneering singer-songwriter Connie Converse who vanished when she was 50. Lastly, an article about art explores the artistry of glass blowing as a full-body sport!</p>
+There is a lot happening in the world right now. President Biden is trying to steer his immigration policy away from Trump&#39;s, even though the number of migrants has been increasing and making it hard for him to achieve that. Meanwhile, places like New York City are scrambling to provide housing for migrants. There has been a tragedy in Texas with a mall shooting, and the legislature there is looking at raising the age limit to buy assault weapons in response. In addition, there is trial happening applying to former president Trump regarding rape allegations made against him by author E. Jean Carroll. Biden also faces immense challenges in his pursuit of a repeat win in 2024, while Republicans continue their efforts to push for stricter election laws. On top of that, countries like Norway are leading the way in electric vehicle adoption, but there are still some issues with their charging systems. Lastly, there is an interesting reappraisal of an obscure singer-songwriter that had disappeared when she was 50.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Under the Radar, Right-Wing Push to Tighten Voting Laws Persists</h3>
-<sub>By Nick Corasaniti and Alexandra Berzon</sub>
-<p>The clashes in state capitals have faded, but the Republican push for stricter state election laws is organized and planning for the long term.  <a href="https://nyti.ms/3nxnode"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Said He’d Veer From Trump on Immigration. The Reality Is More Complicated.</h3>
+<sub>By Michael D. Shear</sub>
+<p>Surges of migrants have shaped President Biden’s policies at the border in ways that few of his allies imagined when he was running for president.  <a href="https://nyti.ms/3LKMm0z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Racetracks, Parks, Offices: A Frantic Search for Migrant Housing</h3>
+<sub>By Dana Rubinstein</sub>
+<p>New York City officials are casting a wide net as they scramble to house the influx of migrants. The Flatiron Building said no.  <a href="https://nyti.ms/3pk1b2J"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What the End of a Pandemic-Era Health Order Will Mean for the Southern Border</h3>
+<sub>By Eileen Sullivan</sub>
+<p>Title 42, the rule used to immediately expel migrants, will end this week. U.S. officials expect illegal crossings to increase, placing additional strain on an already overtaxed system.  <a href="https://nyti.ms/44zTSUR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,15 +87,33 @@ There is a lot happening around the world right now! In the US, Republicans are 
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Allen, Texas, Mall Shooting</h3>
-<sub>By Joshua Needelman and Adam Goldman</sub>
-<p>The motive of the gunman so far remains a mystery. The shooting at the Allen Premium Outlets left nine people dead, including the suspect.  <a href="https://nyti.ms/44AsxSk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, May 7, Central Standard Time</sub></sub>
+<h3>In Shift, Texas House Advances Bill to Raise Age to Buy Assault Weapons</h3>
+<sub>By J. David Goodman</sub>
+<p>The mass shooting at a shopping center in Allen, Texas, has exerted an unexpectedly raw and emotional force on the State Legislature.  <a href="https://nyti.ms/3B4MYJt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Rape Trial, Jury Must Now Decide if It Believes Carroll or Trump</h3>
+<sub>By Benjamin Weiser, Lola Fadulu, Kate Christobek and Karen Zraick</sub>
+<p>Donald J. Trump never showed up for the trial, nor did his lawyer call witnesses. Their case was simple: The writer E. Jean Carroll had made up her story.  <a href="https://nyti.ms/41hGAco"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Driver Whose S.U.V. Struck and Killed Migrants in Texas Is Charged</h3>
-<sub>By Edgar Sandoval</sub>
-<p>The authorities in Brownsville, Texas, said that George Alvarez was behind the wheel and that they were still trying to determine whether the crash was deliberate.  <a href="https://nyti.ms/3B4ToZ9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Casts Himself as the Trump Beater. Polls Suggest That’s No Sure Thing.</h3>
+<sub>By Peter Baker</sub>
+<p>While the president argues that he is the one best positioned to stop his predecessor from returning to the White House, surveys indicate that he starts the 2024 race facing enormous challenges.  <a href="https://nyti.ms/3BcSVUF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Under the Radar, Right-Wing Push to Tighten Voting Laws Persists</h3>
+<sub>By Nick Corasaniti and Alexandra Berzon</sub>
+<p>The clashes in state capitals have faded, but the Republican push for stricter state election laws is organized and planning for the long term.  <a href="https://nyti.ms/3nxnode"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Panic’ and Shortages in Parts of Occupied Ukraine Amid Russian Evacuation Orders</h3>
+<sub>By Marc Santora and Anna Lukinova</sub>
+<p>Running short of food, fuel and cash, and with a Ukrainian counteroffensive imminent, many civilians are defying occupation forces’ directive, unsure where they would go.  <a href="https://nyti.ms/3VGtrJ1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -92,46 +122,16 @@ There is a lot happening around the world right now! In the US, Republicans are 
 <p>There’s a resurgence of interest in the pioneering singer-songwriter who disappeared when she was 50.  <a href="https://nyti.ms/3nIgnGh"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Ukraine War Coverage Earns Pulitzers for The A.P. and The Times</h3>
-<sub>By Katie Robertson</sub>
-<p>Several news organizations won multiple awards, including The Washington Post, The Los Angeles Times and AL.com, a site that covers Alabama.  <a href="https://nyti.ms/3LGO437"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Pulitzer Prizes: 2023 Winners List</h3>
-<sub>By The New York Times</sub>
-<p>Here are the winners and finalists.  <a href="https://nyti.ms/44CRaxM"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>We Hit the Debt Limit. What Happens Now?</h3>
-<sub>By Jeanna Smialek and Ashley Wu</sub>
-<p>Lawmakers will need to reach a bipartisan agreement to lift the debt limit. The longer it takes, the more turmoil there could be for the United States and the global economy.  <a href="https://nyti.ms/3NOZULk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Corporate Giants Buy Up Primary Care Practices at Rapid Pace</h3>
-<sub>By Reed Abelson</sub>
-<p>Large health insurers and other companies are especially keen on doctors’ groups that care for patients in private Medicare plans.  <a href="https://nyti.ms/42tcbJg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Refugee From Another Time Gets an Eviction Notice</h3>
-<sub>By Dan Barry and Photographs By Kirsten Luce</sub>
-<p>A Ukrainian immigrant, 82, has lived in a Manhattan hotel for decades. Now the owners want him out — while earning millions from the city to house others.  <a href="https://nyti.ms/3HNAtWz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Phoenix to Start Clearing Sprawling Downtown Homeless Encampment</h3>
+<sub>By Jill Cowan</sub>
+<p>A Phoenix judge ordered the city to begin clearing tents in the Zone, an area that has as many as 1,100 people sleeping unsheltered on a given night.  <a href="https://nyti.ms/3VNkCgC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>In Norway, the Electric Vehicle Future Has Already Arrived</h3>
 <sub>By Jack Ewing</sub>
 <p>About 80 percent of new cars sold in Norway are battery-powered. As a result, the air is cleaner, the streets are quieter and the grid hasn’t collapsed. But problems with unreliable chargers persist.  <a href="https://nyti.ms/3LJm0vV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-special-series-blue" alt="">
-<h3>For This Glass Blower, Art Is a Full-Body Sport</h3>
-<sub>By Joshua Needelman and Sasha Arutyunova</sub>
-<p>The intense process of working with glass, Deborah Czeresko says, means “moving all the time.”  <a href="https://nyti.ms/42eL0lS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
