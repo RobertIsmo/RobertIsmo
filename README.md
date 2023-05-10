@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 10, Central Standard Time</p>
 <p>
-There have been a lot of changes to the world recently. The US has shifted to a &quot;peacetime&quot; mode now that the Covid-19 public health emergency is coming to an end. In New York, some services, such as mobile testing sites, will still be ending, but others such as free vaccines and Paxlovid will continue for a while. There is also a criminal investigation happening involving George Santos, a first-term Republican congressman. In other news, Donald Trump was found guilty in a sexual abuse and defamation case in a jury trial and he must now pay out $5 million. There has also been a move to make live shopping more popular in the US through start-ups and big tech names. In Ukraine, Kherson had been liberated but it has now turned into a kill zone. On top of that, President Biden is looking for a way to avoid default on the US debt limit with Republican leaders. Finally, Tucker Carlson announced that he will be starting his own show on Twitter after his negotiations with Fox News seem to have broken down. Some Democrats are worried that the Biden campaign isn’t showing enough urgency ahead of the 2024 election against Donald Trump.</p>
+There is a lot going on in the world right now. In New York, Representative George Santos has been charged with several counts, including wire fraud and money laundering. Also, the Covid-19 public health emergency declared by the Trump administration will be coming to an end this week. At the same time, former President Donald Trump was found guilty in a defamation case by a jury and he is continuing to deny it. In other news, companies are trying to popularize live shopping online while Biden&#39;s slow start has some Democrats worried ahead of his possible rematch against Donald Trump. Finally, scientists have unveiled a more diverse human genome and hurricane-spotting Saildrones are mapping out storms at sea.</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>These Are the Charges Against George Santos</h3>
+<sub>By Nicholas Fandos and Rebecca Davis O’Brien</sub>
+<p>In a wide-ranging indictment unsealed on Wednesday, federal prosecutors charged Representative George Santos with 13 counts.  <a href="https://nyti.ms/3NZecsS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Read the George Santos Indictment</h3>
+<sub></sub>
+<p>Representative George Santos of New York was charged Wednesday by federal prosecutors with seven counts of wire fraud, three counts of money laundering, one count of theft of public funds, and two counts of making materially false statements to the House of Representatives.  <a href="https://nyti.ms/3VOuxlX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Covid Emergency Ends, U.S. Response Shifts to ‘Peacetime’ Mode</h3>
 <sub>By Sheryl Gay Stolberg and Noah Weiland</sub>
@@ -74,12 +86,6 @@ There have been a lot of changes to the world recently. The US has shifted to a 
 <p>The city had already stopped some services, like mobile testing sites, but many others, including free vaccines and Paxlovid, will continue for now.  <a href="https://nyti.ms/3nGcjXn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Is Said to Face Federal Criminal Charges</h3>
-<sub>By Michael Gold, William K. Rashbaum and Grace Ashford</sub>
-<p>The first-term Republican congressman’s extensive lies on the campaign trail and questionable financial dealings were the focus of criminal and ethical inquiries.  <a href="https://nyti.ms/3NVGbJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Trump, a Verdict That’s Harder to Spin</h3>
 <sub>By Maggie Haberman and Jonathan Swan</sub>
@@ -87,10 +93,10 @@ There have been a lot of changes to the world recently. The US has shifted to a 
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Donald Trump Sexually Abused and Defamed E. Jean Carroll, Jury Finds</h3>
-<sub>By Benjamin Weiser, Lola Fadulu and Kate Christobek</sub>
-<p>The ex-president must pay Ms. Carroll $5 million. More than a dozen women have accused Mr. Trump of sexual misconduct, but this civil case was the only one tested before a jury.  <a href="https://nyti.ms/41CW2jT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<h3>After Defamation Finding, Trump Again Says Carroll Lied</h3>
+<sub>By Lola Fadulu</sub>
+<p>During the trial, the judge cautioned the former president about his social media posts. He was not deterred, claiming that E. Jean Carroll had invented her story.  <a href="https://nyti.ms/3NU9yfF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Companies Trying to Make Live Shopping a Thing in the U.S.</h3>
@@ -116,22 +122,16 @@ There have been a lot of changes to the world recently. The US has shifted to a 
 <p>Understanding the secrets of a warming ocean means steering straight into the biggest hurricanes. Enter the saildrone.  <a href="https://nyti.ms/3VMPfCy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Tucker Carlson, Still Under Contract at Fox, Says He Will Start Show on Twitter</h3>
-<sub>By Jeremy W. Peters, Benjamin Mullin and Ryan Mac</sub>
-<p>His claim, made on Twitter, suggested that his negotiations to reach an amicable separation with the network had broken down.  <a href="https://nyti.ms/42IrHB4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Is Tucker Carlson Too Hot for Twitter to Handle?</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Elon Musk didn&#39;t exactly give the conservative media star a warm embrace, suggesting the outspoken owner has reservations.  <a href="https://nyti.ms/3Mgtjgi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Scientists Unveil a More Diverse Human Genome</h3>
+<sub>By Elie Dolgin</sub>
+<p>The “pangenome,” which collated genetic sequences from 47 people of diverse ethnic backgrounds, could greatly expand the reach of personalized medicine.  <a href="https://nyti.ms/3HZ467A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Campaign, Barely in Gear, Inches Toward 2024</h3>
+<h3>Biden’s Slow Start Worries Democrats. Aides Insist All Is Well.</h3>
 <sub>By Reid J. Epstein and Shane Goldmacher</sub>
-<p>Some Democrats worry that the campaign’s early sluggishness shows a lack of urgency ahead of a possible rematch against Donald Trump. His aides say they know what they’re doing.  <a href="https://nyti.ms/3nHTzXt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Some Democrats fear that the campaign’s early sluggishness shows a lack of urgency ahead of a possible rematch against Donald Trump. His aides say they know what they’re doing.  <a href="https://nyti.ms/3nHTzXt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
