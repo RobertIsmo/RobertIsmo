@@ -60,35 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 10, Central Standard Time</p>
 <p>
-In the US, President Biden and House Speaker McCarthy had their first meeting in three months to discuss the debt ceiling and spending cuts, but they were unable to reach an agreement. Meanwhile, a first-term Republican congressman from New York is facing federal criminal charges for his extensive lies on the campaign trail and questionable financial dealings.
-
-In the world, Russian president Vladimir Putin tried to justify Russia&#39;s invasion of Ukraine by repeating false claims during a scaled-down celebration of Victory Day. Meanwhile, China&#39;s foreign minister is visiting Europe amidst controversy over Moscow&#39;s ties with Ukraine. Furthermore, a journalist was killed near the intense fighting in Eastern Ukraine.
-
-Finally, Fox News&#39; Tucker Carlson claims he will start a show on Twitter after his negotiations with the network to reach an amicable separation reportedly failed. In addition, the state of Texas is expanding its law enforcement on the border To test how far it can go in enforcing immigration laws.</p>
+There have been a lot of changes to the world recently. The US has shifted to a &quot;peacetime&quot; mode now that the Covid-19 public health emergency is coming to an end. In New York, some services, such as mobile testing sites, will still be ending, but others such as free vaccines and Paxlovid will continue for a while. There is also a criminal investigation happening involving George Santos, a first-term Republican congressman. In other news, Donald Trump was found guilty in a sexual abuse and defamation case in a jury trial and he must now pay out $5 million. There has also been a move to make live shopping more popular in the US through start-ups and big tech names. In Ukraine, Kherson had been liberated but it has now turned into a kill zone. On top of that, President Biden is looking for a way to avoid default on the US debt limit with Republican leaders. Finally, Tucker Carlson announced that he will be starting his own show on Twitter after his negotiations with Fox News seem to have broken down. Some Democrats are worried that the Biden campaign isn’t showing enough urgency ahead of the 2024 election against Donald Trump.</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Donald Trump Sexually Abused and Defamed E. Jean Carroll, Jury Finds</h3>
-<sub>By Benjamin Weiser, Lola Fadulu and Kate Christobek</sub>
-<p>The ex-president must pay Ms. Carroll $5 million. More than a dozen women have accused Mr. Trump of sexual misconduct, but this civil case was the only one tested before a jury.  <a href="https://nyti.ms/41CW2jT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Covid Emergency Ends, U.S. Response Shifts to ‘Peacetime’ Mode</h3>
+<sub>By Sheryl Gay Stolberg and Noah Weiland</sub>
+<p>The coronavirus public health emergency, declared by the Trump administration in 2020, will expire on Thursday. Interviews with senior health officials suggest the nation is not ready for a new pandemic.  <a href="https://nyti.ms/3NXlc9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>E. Jean Carroll described an assault in minute detail.</h3>
-<sub>By Lola Fadulu, Kate Christobek and Benjamin Weiser</sub>
-<p>  <a href="https://nyti.ms/3Mc40eZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Here’s a closer look at the $5 million in damages that the jury awarded Carroll.</h3>
-<sub>By Lola Fadulu</sub>
-<p>  <a href="https://nyti.ms/41l8fJQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York law gave jurors three types of battery to consider in the Trump case.</h3>
-<sub>By Lola Fadulu</sub>
-<p>A federal judge presiding over the lawsuit against the former president walked jurors through each variety of wrongdoing, explaining their precise definitions.  <a href="https://nyti.ms/3LNHxDH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<h3>What Does the End of the Covid Health Emergency Mean for New York City?</h3>
+<sub>By Sharon Otterman</sub>
+<p>The city had already stopped some services, like mobile testing sites, but many others, including free vaccines and Paxlovid, will continue for now.  <a href="https://nyti.ms/3nGcjXn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos Is Said to Face Federal Criminal Charges</h3>
@@ -96,34 +80,40 @@ Finally, Fox News&#39; Tucker Carlson claims he will start a show on Twitter aft
 <p>The first-term Republican congressman’s extensive lies on the campaign trail and questionable financial dealings were the focus of criminal and ethical inquiries.  <a href="https://nyti.ms/3NVGbJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Who Is Rep.-Elect George Santos? His Résumé May Be Largely Fiction.</h3>
-<sub>By Grace Ashford and Michael Gold</sub>
-<p>Mr. Santos, a Republican from New York, says he’s the “embodiment of the American dream.” But he seems to have misrepresented a number of his career highlights.  <a href="https://nyti.ms/3Wsx7x7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and McCarthy Reach No Consensus as a Possible Default Looms</h3>
-<sub>By Peter Baker, Jim Tankersley and Catie Edmondson</sub>
-<p>In their first meeting in three months, the president and House speaker remained at loggerheads over the debt ceiling and spending cuts. But they agreed to meet again.  <a href="https://nyti.ms/3M8d84r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Trump, a Verdict That’s Harder to Spin</h3>
+<sub>By Maggie Haberman and Jonathan Swan</sub>
+<p>After an indictment in Manhattan, Donald Trump’s supporters fell in line behind him. A jury’s decision in a sexual abuse and defamation case may yet carry a political price.  <a href="https://nyti.ms/3NXXnOT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Donald Trump Sexually Abused and Defamed E. Jean Carroll, Jury Finds</h3>
+<sub>By Benjamin Weiser, Lola Fadulu and Kate Christobek</sub>
+<p>The ex-president must pay Ms. Carroll $5 million. More than a dozen women have accused Mr. Trump of sexual misconduct, but this civil case was the only one tested before a jury.  <a href="https://nyti.ms/41CW2jT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>On Muted War Holiday, Putin Tries to Justify Invasion of Ukraine</h3>
-<sub>By Anatoly Kurmanaev and Ivan Nechepurenko</sub>
-<p>With Russia struggling on the battlefield, Vladimir V. Putin presided over a scaled-down celebration of the Soviet Union’s victory in World War II, while using it to repeat false claims about Ukraine.  <a href="https://nyti.ms/41uYJUA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Companies Trying to Make Live Shopping a Thing in the U.S.</h3>
+<sub>By Jordyn Holman and Kalley Huang</sub>
+<p>The market for selling goods in real time online is relatively small, but a number of start-ups and big tech names are betting American consumers will catch on.  <a href="https://nyti.ms/3BbTVZd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Woos European Leaders on Trip Overshadowed by Kremlin Ties</h3>
-<sub>By Steven Erlanger and Erika Solomon</sub>
-<p>A three-stop tour by China’s foreign minister this week has everyone trying to balance economic and security interests when it comes to Russia and Ukraine.  <a href="https://nyti.ms/3MbTWTv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<h3>‘Death Is Everywhere’ in a Once-Jubilant Ukrainian City</h3>
+<sub>By Jeffrey Gettleman</sub>
+<p>No city in Ukraine has suffered the reversal of fortunes that Kherson has. Liberated in the fall, it was a symbol of hope. Now it is a kill zone.  <a href="https://nyti.ms/3Be92la"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An A.F.P. journalist was killed by rocket fire near the intense fighting in the area around Bakhmut.</h3>
-<sub>By Anushka Patil</sub>
-<p>Arman Soldin, 32, was the 17th journalist to be killed in Ukraine since 2022, according to the Committee to Protect Journalists.  <a href="https://nyti.ms/3MaJv2y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Might the Government Avoid Default? Biden Offers Clues.</h3>
+<sub>By Jim Tankersley</sub>
+<p>After making little progress with Republican leaders at the White House on Tuesday, the president previewed two possible endgames to resolve a debt-limit standoff.  <a href="https://nyti.ms/41oYR7K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Hurricanes of Data: The Tiny Craft Mapping Superstorms at Sea</h3>
+<sub>By Porter Fox</sub>
+<p>Understanding the secrets of a warming ocean means steering straight into the biggest hurricanes. Enter the saildrone.  <a href="https://nyti.ms/3VMPfCy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -132,11 +122,17 @@ Finally, Fox News&#39; Tucker Carlson claims he will start a show on Twitter aft
 <p>His claim, made on Twitter, suggested that his negotiations to reach an amicable separation with the network had broken down.  <a href="https://nyti.ms/42IrHB4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Is Tucker Carlson Too Hot for Twitter to Handle?</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Elon Musk didn&#39;t exactly give the conservative media star a warm embrace, suggesting the outspoken owner has reservations.  <a href="https://nyti.ms/3Mgtjgi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Patrols Its Own Border, Pushing Legal Limits</h3>
-<sub>By J. David Goodman</sub>
-<p>Gov. Greg Abbott is expanding state law enforcement on the border as some state leaders appear eager to test the waters on how far Texas can go in enforcing immigration law.  <a href="https://nyti.ms/3VTdCyO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<h3>Biden Campaign, Barely in Gear, Inches Toward 2024</h3>
+<sub>By Reid J. Epstein and Shane Goldmacher</sub>
+<p>Some Democrats worry that the campaign’s early sluggishness shows a lack of urgency ahead of a possible rematch against Donald Trump. His aides say they know what they’re doing.  <a href="https://nyti.ms/3nHTzXt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
