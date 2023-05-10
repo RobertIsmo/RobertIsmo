@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, May 9, Central Standard Time</p>
 <p>
-Right now, there is a lot happening in the world. In the US, a jury recently awarded $5 million in damages to writer E. Jean Carroll over her claims of an assault, and the government has pledged $1.2 billion so Ukraine can buy air defense missiles and other equipment. On the health front, it has been advised that women start getting regular mammograms at age 40, and Wall Street is preparing for a debt ceiling showdown. There is also tech cold war between China and the US, affecting wireless carriers throughout multiple states. On the lighter side of things, at this year&#39;s Westminster Dog Show in New York City, a Samoyed was awarded runner up in consecutive years, and the Met Museum has set a plan in place to find any looted art within its collection. Lastly, we have a story of how dementia affects mothers and loved ones.</p>
+There&#39;s a lot going on around the world right now. In the US, President Biden and House Speaker McCarthy have been unable to reach an agreement on reducing debt and spending, raising fears of a potential default. In New York, a jury found that former President Donald Trump had sexually abused and defamed E. Jean Carroll and must now pay her $5 million. Meanwhile, there are federal criminal charges against Rep.-elect George Santos for lying on the campaign trail and taking part in questionable financial dealings. In Europe, China is trying to win over leaders with visits overshadowed by their ties to Russia as tensions remain high surrounding the Kremlin&#39;s invasion of Ukraine. A journalist was killed near Bakhmut due to rocket fire in the area and Texas has been working to expand its own law enforcement patrolling the border in order to enforce immigration laws. On top of that, Fox News talk show host Tucker Carlson announced he will now be broadcasting his show on Twitter after negotiations broke down regarding his contract with Fox.</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Donald Trump Sexually Abused and Defamed E. Jean Carroll, Jury Finds</h3>
+<sub>By Benjamin Weiser, Lola Fadulu and Kate Christobek</sub>
+<p>The ex-president must pay Ms. Carroll $5 million. More than a dozen women have accused Mr. Trump of sexual misconduct, but this civil case was the only one tested before a jury.  <a href="https://nyti.ms/41CW2jT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>E. Jean Carroll described an assault in minute detail.</h3>
 <sub>By Lola Fadulu, Kate Christobek and Benjamin Weiser</sub>
@@ -74,64 +80,58 @@ Right now, there is a lot happening in the world. In the US, a jury recently awa
 <p>  <a href="https://nyti.ms/41l8fJQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Wall Street Is Preparing for a Debt Ceiling Showdown</h3>
-<sub>By Joe Rennison</sub>
-<p>Stocks aren’t showing signs of panic about the government’s ability to pay its bills, but there is anxiety creeping into other markets.  <a href="https://nyti.ms/3LRfGTi"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York law gave jurors three types of battery to consider in the Trump case.</h3>
+<sub>By Lola Fadulu</sub>
+<p>A federal judge presiding over the lawsuit against the former president walked jurors through each variety of wrongdoing, explaining their precise definitions.  <a href="https://nyti.ms/3LNHxDH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Is Said to Face Federal Criminal Charges</h3>
+<sub>By Michael Gold, William K. Rashbaum and Grace Ashford</sub>
+<p>The first-term Republican congressman’s extensive lies on the campaign trail and questionable financial dealings were the focus of criminal and ethical inquiries.  <a href="https://nyti.ms/3NVGbJH"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Who Is Rep.-Elect George Santos? His Résumé May Be Largely Fiction.</h3>
+<sub>By Grace Ashford and Michael Gold</sub>
+<p>Mr. Santos, a Republican from New York, says he’s the “embodiment of the American dream.” But he seems to have misrepresented a number of his career highlights.  <a href="https://nyti.ms/3Wsx7x7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden and McCarthy Reach No Consensus as a Possible Default Looms</h3>
+<sub>By Peter Baker, Jim Tankersley and Catie Edmondson</sub>
+<p>In their first meeting in three months, the president and House speaker remained at loggerheads over the debt ceiling and spending cuts. But they agreed to meet again.  <a href="https://nyti.ms/3M8d84r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The U.S. is providing $1.2 billion for Ukraine to buy air defense missiles and other crucial equipment.</h3>
-<sub>By John Ismay</sub>
-<p>A Pentagon spokesman also confirmed that Ukrainian troops using a U.S.-made Patriot air-defense system shot down a hypersonic Russian missile.  <a href="https://nyti.ms/3VQFinR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>On Muted War Holiday, Putin Tries to Justify Invasion of Ukraine</h3>
+<sub>By Anatoly Kurmanaev and Ivan Nechepurenko</sub>
+<p>With Russia struggling on the battlefield, Vladimir V. Putin presided over a scaled-down celebration of the Soviet Union’s victory in World War II, while using it to repeat false claims about Ukraine.  <a href="https://nyti.ms/41uYJUA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>When Should Women Get Regular Mammograms? At 40, U.S. Panel Now Says.</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>The new advice comes as breast cancer diagnoses rise among younger women and mortality rates among Black women remain persistently high.  <a href="https://nyti.ms/3nL2iIg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Woos European Leaders on Trip Overshadowed by Kremlin Ties</h3>
+<sub>By Steven Erlanger and Erika Solomon</sub>
+<p>A three-stop tour by China’s foreign minister this week has everyone trying to balance economic and security interests when it comes to Russia and Ukraine.  <a href="https://nyti.ms/3MbTWTv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>An A.F.P. journalist was killed by rocket fire near the intense fighting in the area around Bakhmut.</h3>
+<sub>By Anushka Patil</sub>
+<p>Arman Soldin, 32, was the 17th journalist to be killed in Ukraine since 2022, according to the Committee to Protect Journalists.  <a href="https://nyti.ms/3MaJv2y"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Tucker Carlson, Still Under Contract at Fox, Says He Will Start Show on Twitter</h3>
+<sub>By Jeremy W. Peters, Benjamin Mullin and Ryan Mac</sub>
+<p>His claim, made on Twitter, suggested that his negotiations to reach an amicable separation with the network had broken down.  <a href="https://nyti.ms/42IrHB4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>William Burns, a C.I.A. Spymaster With Unusual Powers</h3>
-<sub>By Robert Draper</sub>
-<p>Mr. Burns, a key figure in bolstering the Biden administration’s support for Ukraine, has amassed influence beyond most previous spy chiefs.  <a href="https://nyti.ms/44DTJiZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Rejects Dozens of Social Studies Textbooks, and Forces Changes in Others</h3>
-<sub>By Sarah Mervosh and Dana Goldstein</sub>
-<p>The state objected to content on topics like the Black Lives Matter movement, socialism and why some citizens ‘take a knee’ during the national anthem.  <a href="https://nyti.ms/42mB5L9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Rip and Replace’: The Tech Cold War Is Upending Wireless Carriers</h3>
-<sub>By Cecilia Kang</sub>
-<p>As China and the United States jockey for tech primacy, wireless carriers in dozens of states are tearing out Chinese equipment. That has turned into a costly, difficult process.  <a href="https://nyti.ms/3MdfVtj"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Striker Will Never Know He Wasn’t Best in Show</h3>
-<sub>By Sarah Lyall</sub>
-<p>A blindingly white Samoyed fell just short of the top spot at Westminster in consecutive years, but the now-retired champion is busy playing, romping, posing and shedding.  <a href="https://nyti.ms/3pllTiC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Behind the Scenes at the Westminster Dog Show</h3>
-<sub>By Calla Kessler and Desiree Rios</sub>
-<p>The annual event comes back to New York City this year, with best in show being decided at Arthur Ashe Stadium in Flushing.  <a href="https://nyti.ms/3HSqAXI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>After Seizures, the Met Sets a Plan to Scour Collections for Looted Art</h3>
-<sub>By Robin Pogrebin and Graham Bowley</sub>
-<p>The plan features the hiring of a four-person provenance research team that will help review the museum’s collection for works with tainted histories.  <a href="https://nyti.ms/3W3rhDz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Mother Who Changed: A Story of Dementia</h3>
-<sub>By Katie Engelhart</sub>
-<p>As cognitive decline began to alter who Diane Norelius was, her adult daughters and her boyfriend wound up in a bitter dispute over which version of her should get to decide what she wanted.  <a href="https://nyti.ms/3nPzazv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Texas Patrols Its Own Border, Pushing Legal Limits</h3>
+<sub>By J. David Goodman</sub>
+<p>Gov. Greg Abbott is expanding state law enforcement on the border as some state leaders appear eager to test the waters on how far Texas can go in enforcing immigration law.  <a href="https://nyti.ms/3VTdCyO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
