@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 10, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. Former US President Donald Trump was just found guilty of sexually abusing and defaming E. Jean Carroll, a case tested by a jury. He&#39;s been ordered to pay $5 million in damages as a result. Meanwhile, Congressman George Santos is facing federal criminal charges for lying on the campaign trail and engaging in questionable financial activities.  In terms of international news, President Biden and House Speaker McCarthy just had a meeting with no consensus being reached on the debt ceiling and spending cuts, while Vladimir Putin is attempting to justify Russia&#39;s invasion of Ukraine during a scaled-down ceremony celebrating the Soviet Union&#39;s victory in World War II. Also, Chinese foreign minister is visiting European countries, and we recently heard that a journalist was killed in Ukraine due to rocket fire. Lastly, Fox News commentator Tucker Carlson announced he will be starting a new show on Twitter, presumably following an amicable separation from the network.</p>
+In the US, President Biden and House Speaker McCarthy had their first meeting in three months to discuss the debt ceiling and spending cuts, but they were unable to reach an agreement. Meanwhile, a first-term Republican congressman from New York is facing federal criminal charges for his extensive lies on the campaign trail and questionable financial dealings.
+
+In the world, Russian president Vladimir Putin tried to justify Russia&#39;s invasion of Ukraine by repeating false claims during a scaled-down celebration of Victory Day. Meanwhile, China&#39;s foreign minister is visiting Europe amidst controversy over Moscow&#39;s ties with Ukraine. Furthermore, a journalist was killed near the intense fighting in Eastern Ukraine.
+
+Finally, Fox News&#39; Tucker Carlson claims he will start a show on Twitter after his negotiations with the network to reach an amicable separation reportedly failed. In addition, the state of Texas is expanding its law enforcement on the border To test how far it can go in enforcing immigration laws.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Donald Trump Sexually Abused and Defamed E. Jean Carroll, Jury Finds</h3>
