@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 10, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot of political upheaval going on right now. Representative George Santos of New York has been indicted on several federal charges and Republican Leaders are standing behind him despite the indictment. On a different note, former President Trump is accusing E. Jean Carroll of lying and a judge had to caution him on social media posts. There is also some news coming out related to immigration and the US-Mexico border. The US warned migrants before the pandemic restrictions end that the border is not open and Mexico allowed tens of thousands of migrants to travel to the US border. In addition, there&#39;s some positive news happening in health-related fields too. The FDA is considering allowing over-the-counter birth control pill sales in the US and they say that the benefits of it outweigh the risks. There&#39;s also a pancreatic cancer vaccine that may have staved off returning cancer in half of those who received it in a small trial, but more research needs to be done. Finally, Beyoncé is returning to the stage with her first solo tour in seven years with a spectacular Renaissance performance.</p>
+It seems like there&#39;s a lot happening all around the world. In the US, a first-term Congressman from New York, George Santos, has been indicted on federal charges including fraud, money laundering and lying to Congress. The Republican leadership is standing behind him and allowing him to continue to serve. In terms of immigration the U.S. border is not open but the Mexican government has allowed tens of thousands of migrants to travel to the U.S. border with humanitarian visas. In medical news, a trial for a vaccine for pancreatic cancer showed promise and the FDA voted that the benefits of over-the-counter birth control outweigh the risks. Lastly in entertainment news Beyoncé made her long awaited return to the stage with her first solo tour in seven years.</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Is Charged With Fraud and Lying in 13-Count Indictment</h3>
+<sub>By Grace Ashford and Michael Gold</sub>
+<p>The first-term congressman pleaded not guilty to charges that included accusations of fraudulently receiving unemployment benefits.  <a href="https://nyti.ms/3VQCg31"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Republican Leaders Stand Behind Santos After His Indictment</h3>
 <sub>By Annie Karni</sub>
@@ -74,28 +80,16 @@ It looks like there&#39;s a lot of political upheaval going on right now. Repres
 <p>Federal prosecutors unsealed an indictment on Wednesday charging Representative George Santos of New York, the scandal-ridden congressman, with 13 federal charges, including counts of money laundering, stealing public money, wire fraud and making false statements to Congress. Mr. Santos pleaded not guilty.  <a href="https://nyti.ms/3Bh4jiq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>After Defamation Finding, Trump Again Says Carroll Lied</h3>
-<sub>By Benjamin Weiser and Lola Fadulu</sub>
-<p>During the trial, the judge cautioned the former president about his social media posts. He was not deterred, claiming that E. Jean Carroll had invented her story.  <a href="https://nyti.ms/3NU9yfF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Atlanta Prosecutors Drop Effort to Remove Defense Lawyer in Trump Inquiry</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>Prosecutors said on Wednesday that their concerns about a lawyer representing a group of fake electors for Donald J. Trump had been resolved.  <a href="https://nyti.ms/42xanzC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Revives Election Lies and False Boasts in CNN Town Hall</h3>
+<sub>By Linda Qiu</sub>
+<p>Former President Donald J. Trump misleadingly and wrongly described his own record, the events of Jan. 6, 2021, his handling of classified documents, foreign policy and the economy.  <a href="https://nyti.ms/44OrnCQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>F.D.A. Advisers Say Benefits of Over-the-Counter Birth Control Pill Outweigh Risks</h3>
-<sub>By Pam Belluck</sub>
-<p>The agency is expected to decide this summer whether to allow the first nonprescription sales of an oral contraceptive in the United States.  <a href="https://nyti.ms/42h2Uo1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>A Birth Control Pill May Soon Be Available Over the Counter. Here’s What to Know.</h3>
-<sub>By Alisha Haridasani Gupta</sub>
-<p>F.D.A. advisers voted that the benefits of a nonprescription pill outweigh the risks. If the agency decides to move on the recommendation, the progestin-only contraceptive could be in stores within a few months.  <a href="https://nyti.ms/3Bg9ZJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Adams Weakens Right-to-Shelter Rules, Anticipating Migrant Surge</h3>
+<sub>By Emma G. Fitzsimmons and Andy Newman</sub>
+<p>Saying New York City had “reached our limit,” the Adams  administration said it would loosen regulations that have protected homeless families seeking shelter.  <a href="https://nyti.ms/42mmX4q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,10 +104,16 @@ It looks like there&#39;s a lot of political upheaval going on right now. Repres
 <p>In April, nearly 30,000 humanitarian visas were issued to migrants, according to government data, more than triple the monthly average in the first three months of the year.  <a href="https://nyti.ms/3VUJqDk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Migrant Crossing Surges Aren’t New. Why Is the Border Overwhelmed?</h3>
-<sub>By Eileen Sullivan</sub>
-<p>Outdated immigration laws, partisan gridlock and conflict abroad are some reasons behind the strained U.S. border with Mexico.  <a href="https://nyti.ms/42odU2N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>F.D.A. Advisers Say Benefits of Over-the-Counter Birth Control Pill Outweigh Risks</h3>
+<sub>By Pam Belluck</sub>
+<p>The agency is expected to decide this summer whether to allow the first nonprescription sales of an oral contraceptive in the United States.  <a href="https://nyti.ms/42h2Uo1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>A Birth Control Pill May Soon Be Available Over the Counter. Here’s What to Know.</h3>
+<sub>By Alisha Haridasani Gupta</sub>
+<p>F.D.A. advisers voted that the benefits of a nonprescription pill outweigh the risks. If the agency decides to move on the recommendation, the progestin-only contraceptive could be in stores within a few months.  <a href="https://nyti.ms/3Bg9ZJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
