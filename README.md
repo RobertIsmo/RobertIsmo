@@ -60,43 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 11, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now - some of it scandalous and some of it hopeful. Recently, a New York congressman, George Santos, has been charged with fraud and lying in a 13-count indictment. Republican leaders are standing by him despite the charges. Meanwhile, former President Donald Trump held a CNN town hall where he reiterated false claims about his own record. U.S. immigration officials have warned migrants to not cross the border before official pandemic restrictions end on Thursday, but Mexico is allowing tens of thousands of migrants to travel to the U.S. border anyway. On the upside, there may soon be an over-the-counter birth control pill available if the F.D.A. decides to move forward with recommendations from their panel of advisers and a pancreatic cancer vaccine has shown promising results in a small trial - staving off the return of one of the deadliest forms of cancer in half of those who received it!</p>
+There is a lot going on in the world right now. There is a record level of migration to the US border and the US government has put in new restrictions on asylum to try to reduce it. The expiration of the Covid-19 emergency has caused a lot of mixed emotions for those who lost loved ones to the virus and experts are warning that US governments must be better prepared for the next pandemic. In addition, there is a lot of activity in terms of trade with Russia and China, with sanctions being placed on trade between the two countries and China trying to create its own chip industry to no longer rely on US supplies. Finally, Ukraine is set to participate in the Eurovision song competition this year as a sign of strength and courage despite their struggles during the war.</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Is Charged With Fraud and Lying in 13-Count Indictment</h3>
-<sub>By Grace Ashford and Michael Gold</sub>
-<p>The first-term congressman pleaded not guilty to charges that included accusations of fraudulently receiving unemployment benefits.  <a href="https://nyti.ms/3VQCg31"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What’s Driving Record Levels of Migration to the U.S. Border?</h3>
+<sub>By Natalie Kitroeff and Julie Turkewitz</sub>
+<p>The United States is trying to curtail border crossings as a Covid-era immigration policy lifts this week, but it has little control over the crises in Latin America that have upended the lives of millions.  <a href="https://nyti.ms/42Jtl5F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Leaders Stand Behind Santos After His Indictment</h3>
-<sub>By Annie Karni</sub>
-<p>Speaker Kevin McCarthy has signaled that the New York congressman will be allowed to continue to serve even after being indicted on several federal charges.  <a href="https://nyti.ms/3LQSOTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The George Santos Indictment, Annotated</h3>
-<sub>By Rebecca Davis O’Brien and Michael Gold</sub>
-<p>Federal prosecutors unsealed an indictment on Wednesday charging Representative George Santos of New York, the scandal-ridden congressman, with 13 federal charges, including counts of money laundering, stealing public money, wire fraud and making false statements to Congress. Mr. Santos pleaded not guilty.  <a href="https://nyti.ms/3Bh4jiq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Five Takeaways From Trump’s Unruly CNN Town Hall</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>Behaving as the Republicans’ de facto nominee, Donald Trump dug in on his 2020 lies and dodged on abortion. The G.O.P. audience cheered, but so did Democrats seeking 2024 fodder.  <a href="https://nyti.ms/3LU4zZQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>CNN’s Trump Forum Was a Bracing Preview of Political Coverage to Come</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>Criticized for handing Donald Trump a live prime-time platform, CNN faced a divisive response to an occasionally bewildering broadcast.  <a href="https://nyti.ms/42irTr3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Revives Election Lies and False Boasts in CNN Town Hall</h3>
-<sub>By Linda Qiu</sub>
-<p>Former President Donald J. Trump misleadingly and wrongly described his own record, the events of Jan. 6, 2021, his handling of classified documents, foreign policy and the economy.  <a href="https://nyti.ms/44OrnCQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Who Gets In? A Guide to America’s Chaotic Border Rules.</h3>
+<sub>By Natalie Kitroeff, Christine Zhang, Miriam Jordan and Eileen Sullivan</sub>
+<p>New restrictions on asylum will lead many migrants to be deported — but others will still get into the United States. Here’s what the process will look like.  <a href="https://nyti.ms/3I3rjoV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Adams Weakens Right-to-Shelter Rules, Anticipating Migrant Surge</h3>
@@ -105,34 +81,58 @@ There is a lot happening in the world right now - some of it scandalous and some
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Warns Migrants Before End of Pandemic Restrictions That ‘Border Is Not Open’</h3>
-<sub>By Aishvarya Kavi</sub>
-<p>Officials are bracing for an increase in illegal border crossings as Title 42, a pandemic-era health policy that allowed officials to expel migrants quickly, ends on Thursday.  <a href="https://nyti.ms/42tlqtA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<h3>Families of Those Lost to Covid Wrestle With Mixed Emotions as Emergency Ends</h3>
+<sub>By Julie Bosman</sub>
+<p>More than 1.1 million Americans have died of Covid. An official end to the health emergency has landed in complicated ways for those affected most acutely.  <a href="https://nyti.ms/3NWCFyZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Mexico Allows Tens of Thousands of Migrants to Travel to U.S. Border</h3>
-<sub>By James Fredrick</sub>
-<p>In April, nearly 30,000 humanitarian visas were issued to migrants, according to government data, more than triple the monthly average in the first three months of the year.  <a href="https://nyti.ms/3VUJqDk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Emergency Ends, a Look at Covid’s U.S. Death Toll</h3>
+<sub>By Lazaro Gamio, Eleanor Lutz and Albert Sun</sub>
+<p>The country has recorded more than 1.1 million deaths from the virus.  <a href="https://nyti.ms/3I12Y3e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>F.D.A. Advisers Say Benefits of Over-the-Counter Birth Control Pill Outweigh Risks</h3>
-<sub>By Pam Belluck</sub>
-<p>The agency is expected to decide this summer whether to allow the first nonprescription sales of an oral contraceptive in the United States.  <a href="https://nyti.ms/42h2Uo1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Experts See Lessons for Next Pandemic as Covid Emergency Comes to an End</h3>
+<sub>By Sheryl Gay Stolberg and Noah Weiland</sub>
+<p>The United States’ struggle to respond to the virus has highlighted the importance of communicating with the public, sharing data and stockpiling vital supplies.  <a href="https://nyti.ms/3O1SSD4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>A Birth Control Pill May Soon Be Available Over the Counter. Here’s What to Know.</h3>
-<sub>By Alisha Haridasani Gupta</sub>
-<p>F.D.A. advisers voted that the benefits of a nonprescription pill outweigh the risks. If the agency decides to move on the recommendation, the progestin-only contraceptive could be in stores within a few months.  <a href="https://nyti.ms/3Bg9ZJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What the End of the Covid Public Health Emergency Means for Individuals</h3>
+<sub>By Dani Blum</sub>
+<p>The emergency expired May 11, complicating access to tests and treatment in the U.S.  <a href="https://nyti.ms/3WVzAQk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos: An Accused Con Man Who Happened to Trade in Politics</h3>
+<sub>By Nicholas Fandos</sub>
+<p>In federal prosecutors’ eyes, Mr. Santos is a grifter with a taste for fame and designer goods, willing to lie and defraud donors to get ahead.  <a href="https://nyti.ms/3I0QdFG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Luxury Imports to Russia Take a Detour Around Sanctions — Through Dubai</h3>
+<sub>By Anton Troianovski and Jack Ewing</sub>
+<p>More than a year into Vladimir Putin’s invasion, the web of global trade has adjusted to Western sanctions, with a network of middlemen sending cars, electronics and more to Russia.  <a href="https://nyti.ms/41rIIyz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Undaunted by Air Raids, a Ukrainian Duo Gets Ready for Eurovision</h3>
+<sub>By Marc Santora and Alex Marshall</sub>
+<p>With a song inspired by the bravery of Ukrainian soldiers, the pop group Tvorchi sees the beloved, often campy global song competition as a serious opportunity to represent their country.  <a href="https://nyti.ms/3VS8I4Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Pancreatic Cancer Vaccine Shows Promise in Small Trial</h3>
-<sub>By Benjamin Mueller</sub>
-<p>Using mRNA tailored to each patient’s tumor, the vaccine may have staved off the return of one of the deadliest forms of cancer in half of those who received it.  <a href="https://nyti.ms/41qp9qc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>E.P.A. Proposes First Limits on Climate Pollution From Existing Power Plants</h3>
+<sub>By Coral Davenport</sub>
+<p>It’s the last in a string of major regulations proposed by the Biden administration to sharply cut the greenhouse gases produced by the United States.  <a href="https://nyti.ms/3O1pnRJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘De-Americanize’: How China Is Remaking Its Chip Business</h3>
+<sub>By Chang Che and John Liu</sub>
+<p>Seven months after Washington unveiled tough curbs, Chinese companies are doubling down on homegrown supply chains and drawing billions in cash from Beijing and investors.  <a href="https://nyti.ms/42MPq3m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
