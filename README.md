@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 11, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. There is a record level of migration to the US border and the US government has put in new restrictions on asylum to try to reduce it. The expiration of the Covid-19 emergency has caused a lot of mixed emotions for those who lost loved ones to the virus and experts are warning that US governments must be better prepared for the next pandemic. In addition, there is a lot of activity in terms of trade with Russia and China, with sanctions being placed on trade between the two countries and China trying to create its own chip industry to no longer rely on US supplies. Finally, Ukraine is set to participate in the Eurovision song competition this year as a sign of strength and courage despite their struggles during the war.</p>
+Right now, a lot of people are trying to cross the US border from Latin America due to a variety of crises and poverty that have occurred in their home countries. The US is trying to put restrictions on who gets in and an Adams administration has loosened regulations for homeless families seeking shelter. There’s still a pandemic going on and over a million people in the US have died from Covid-19. There&#39;s a criminal accused of fraud, money laundering, and lying to donors in politics. Also, pizza pop-ups are becoming really popular with portable ovens and creative recipes. Lastly, Donald Trump had an unruly town hall on CNN where he dug his heels in on his lies and avoided talking about abortion but got cheers from the GOP audience.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What’s Driving Record Levels of Migration to the U.S. Border?</h3>
@@ -79,6 +79,12 @@ There is a lot going on in the world right now. There is a record level of migra
 <sub>By Emma G. Fitzsimmons and Andy Newman</sub>
 <p>Saying New York City had “reached our limit,” the Adams  administration said it would loosen regulations that have protected homeless families seeking shelter.  <a href="https://nyti.ms/42mmX4q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What the End of a Pandemic-Era Health Order Will Mean for the Southern Border</h3>
+<sub>By Eileen Sullivan</sub>
+<p>Title 42, the rule used to immediately expel migrants, will end this week. U.S. officials expect illegal crossings to increase, placing additional strain on an already overtaxed system.  <a href="https://nyti.ms/44zTSUR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Families of Those Lost to Covid Wrestle With Mixed Emotions as Emergency Ends</h3>
@@ -110,29 +116,23 @@ There is a lot going on in the world right now. There is a record level of migra
 <p>In federal prosecutors’ eyes, Mr. Santos is a grifter with a taste for fame and designer goods, willing to lie and defraud donors to get ahead.  <a href="https://nyti.ms/3I0QdFG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Luxury Imports to Russia Take a Detour Around Sanctions — Through Dubai</h3>
-<sub>By Anton Troianovski and Jack Ewing</sub>
-<p>More than a year into Vladimir Putin’s invasion, the web of global trade has adjusted to Western sanctions, with a network of middlemen sending cars, electronics and more to Russia.  <a href="https://nyti.ms/41rIIyz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What Comes Next for George Santos?</h3>
+<sub>By Rebecca Davis O’Brien</sub>
+<p>The fraud and money laundering charges unsealed on Wednesday do not immediately restrict Mr. Santos from serving in Congress, but the consequences in the months ahead could be severe.  <a href="https://nyti.ms/3pzSfWR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Undaunted by Air Raids, a Ukrainian Duo Gets Ready for Eurovision</h3>
-<sub>By Marc Santora and Alex Marshall</sub>
-<p>With a song inspired by the bravery of Ukrainian soldiers, the pop group Tvorchi sees the beloved, often campy global song competition as a serious opportunity to represent their country.  <a href="https://nyti.ms/3VS8I4Q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>New York’s Most Inventive Pizzas Are Cooked Up at Pop-Ups</h3>
+<sub>By Pete Wells</sub>
+<p>With a new breed of portable ovens and an anything-goes spirit, roving pizzaiolos are turning out impressive pies at bars, breweries and events.  <a href="https://nyti.ms/41iELMt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Five Takeaways From Trump’s Unruly CNN Town Hall</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>Behaving as the Republicans’ de facto nominee, Donald Trump dug in on his 2020 lies and dodged on abortion. The G.O.P. audience cheered, but so did Democrats seeking 2024 fodder.  <a href="https://nyti.ms/3LU4zZQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>E.P.A. Proposes First Limits on Climate Pollution From Existing Power Plants</h3>
-<sub>By Coral Davenport</sub>
-<p>It’s the last in a string of major regulations proposed by the Biden administration to sharply cut the greenhouse gases produced by the United States.  <a href="https://nyti.ms/3O1pnRJ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘De-Americanize’: How China Is Remaking Its Chip Business</h3>
-<sub>By Chang Che and John Liu</sub>
-<p>Seven months after Washington unveiled tough curbs, Chinese companies are doubling down on homegrown supply chains and drawing billions in cash from Beijing and investors.  <a href="https://nyti.ms/42MPq3m"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
