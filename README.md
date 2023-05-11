@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, May 10, Central Standard Time</p>
+<p>It is Thursday, May 11, Central Standard Time</p>
 <p>
-It seems like there&#39;s a lot happening all around the world. In the US, a first-term Congressman from New York, George Santos, has been indicted on federal charges including fraud, money laundering and lying to Congress. The Republican leadership is standing behind him and allowing him to continue to serve. In terms of immigration the U.S. border is not open but the Mexican government has allowed tens of thousands of migrants to travel to the U.S. border with humanitarian visas. In medical news, a trial for a vaccine for pancreatic cancer showed promise and the FDA voted that the benefits of over-the-counter birth control outweigh the risks. Lastly in entertainment news Beyoncé made her long awaited return to the stage with her first solo tour in seven years.</p>
+There are a lot of interesting things happening in the world right now. In the US, first-term congressman George Santos has been charged with fraud and lying in a 13-count indictment but Republican leaders are standing behind him despite this. Across the country, former president Donald Trump recently held a CNN town hall where he revived election lies and false boasts, making it clear that political coverage this year will be unpredictable and controversial. Meanwhile, the government has warned migrants that the US border is not open even as Mexico allows tens of thousands of people to migrate up to the border. On the upside, a recent trial of a pancreatic cancer vaccine showed promise in staving off the return of this deadly form of cancer for half of those tested. Finally, there&#39;s some potentially good news on the health front as FDA advisers say that the benefits of an over-the-counter birth control pill outweigh its risks.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos Is Charged With Fraud and Lying in 13-Count Indictment</h3>
@@ -78,6 +78,18 @@ It seems like there&#39;s a lot happening all around the world. In the US, a fir
 <h3>The George Santos Indictment, Annotated</h3>
 <sub>By Rebecca Davis O’Brien and Michael Gold</sub>
 <p>Federal prosecutors unsealed an indictment on Wednesday charging Representative George Santos of New York, the scandal-ridden congressman, with 13 federal charges, including counts of money laundering, stealing public money, wire fraud and making false statements to Congress. Mr. Santos pleaded not guilty.  <a href="https://nyti.ms/3Bh4jiq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Five Takeaways From Trump’s Unruly CNN Town Hall</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>Behaving as the Republicans’ de facto nominee, Donald Trump dug in on his 2020 lies and dodged on abortion. The G.O.P. audience cheered, but so did Democrats seeking 2024 fodder.  <a href="https://nyti.ms/3LU4zZQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>CNN’s Trump Forum Was a Bracing Preview of Political Coverage to Come</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>Criticized for handing Donald Trump a live prime-time platform, CNN faced a divisive response to an occasionally bewildering broadcast.  <a href="https://nyti.ms/42irTr3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,18 +132,6 @@ It seems like there&#39;s a lot happening all around the world. In the US, a fir
 <h3>Pancreatic Cancer Vaccine Shows Promise in Small Trial</h3>
 <sub>By Benjamin Mueller</sub>
 <p>Using mRNA tailored to each patient’s tumor, the vaccine may have staved off the return of one of the deadliest forms of cancer in half of those who received it.  <a href="https://nyti.ms/41qp9qc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Makes Gains Near Embattled Bakhmut, a First in Months</h3>
-<sub>By Carlotta Gall, Anatoly Kurmanaev and Traci Carl</sub>
-<p>The leader of Russia’s Wagner paramilitary group confirmed the Ukrainian advance, and continued to air divisions among Moscow’s forces.  <a href="https://nyti.ms/3VSKGGW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Beyoncé Returns to the Stage With a ‘Renaissance’ Spectacle</h3>
-<sub>By Alex Marshall and Ben Sisario</sub>
-<p>The pop superstar opened her first solo tour in seven years in Stockholm and performed tracks from her acclaimed 2022 album, but left most of the choreography to her dancers.  <a href="https://nyti.ms/452U0MT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
