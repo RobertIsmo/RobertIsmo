@@ -60,78 +60,78 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, May 10, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In New York, Representative George Santos has been charged with several counts, including wire fraud and money laundering. Also, the Covid-19 public health emergency declared by the Trump administration will be coming to an end this week. At the same time, former President Donald Trump was found guilty in a defamation case by a jury and he is continuing to deny it. In other news, companies are trying to popularize live shopping online while Biden&#39;s slow start has some Democrats worried ahead of his possible rematch against Donald Trump. Finally, scientists have unveiled a more diverse human genome and hurricane-spotting Saildrones are mapping out storms at sea.</p>
+It looks like there&#39;s a lot of political upheaval going on right now. Representative George Santos of New York has been indicted on several federal charges and Republican Leaders are standing behind him despite the indictment. On a different note, former President Trump is accusing E. Jean Carroll of lying and a judge had to caution him on social media posts. There is also some news coming out related to immigration and the US-Mexico border. The US warned migrants before the pandemic restrictions end that the border is not open and Mexico allowed tens of thousands of migrants to travel to the US border. In addition, there&#39;s some positive news happening in health-related fields too. The FDA is considering allowing over-the-counter birth control pill sales in the US and they say that the benefits of it outweigh the risks. There&#39;s also a pancreatic cancer vaccine that may have staved off returning cancer in half of those who received it in a small trial, but more research needs to be done. Finally, Beyoncé is returning to the stage with her first solo tour in seven years with a spectacular Renaissance performance.</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>These Are the Charges Against George Santos</h3>
-<sub>By Nicholas Fandos and Rebecca Davis O’Brien</sub>
-<p>In a wide-ranging indictment unsealed on Wednesday, federal prosecutors charged Representative George Santos with 13 counts.  <a href="https://nyti.ms/3NZecsS"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Read the George Santos Indictment</h3>
-<sub></sub>
-<p>Representative George Santos of New York was charged Wednesday by federal prosecutors with seven counts of wire fraud, three counts of money laundering, one count of theft of public funds, and two counts of making materially false statements to the House of Representatives.  <a href="https://nyti.ms/3VOuxlX"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Covid Emergency Ends, U.S. Response Shifts to ‘Peacetime’ Mode</h3>
-<sub>By Sheryl Gay Stolberg and Noah Weiland</sub>
-<p>The coronavirus public health emergency, declared by the Trump administration in 2020, will expire on Thursday. Interviews with senior health officials suggest the nation is not ready for a new pandemic.  <a href="https://nyti.ms/3NXlc9v"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Republican Leaders Stand Behind Santos After His Indictment</h3>
+<sub>By Annie Karni</sub>
+<p>Speaker Kevin McCarthy has signaled that the New York congressman will be allowed to continue to serve even after being indicted on several federal charges.  <a href="https://nyti.ms/3LQSOTL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What Does the End of the Covid Health Emergency Mean for New York City?</h3>
-<sub>By Sharon Otterman</sub>
-<p>The city had already stopped some services, like mobile testing sites, but many others, including free vaccines and Paxlovid, will continue for now.  <a href="https://nyti.ms/3nGcjXn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Trump, a Verdict That’s Harder to Spin</h3>
-<sub>By Maggie Haberman and Jonathan Swan</sub>
-<p>After an indictment in Manhattan, Donald Trump’s supporters fell in line behind him. A jury’s decision in a sexual abuse and defamation case may yet carry a political price.  <a href="https://nyti.ms/3NXXnOT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The George Santos Indictment, Annotated</h3>
+<sub>By Rebecca Davis O’Brien and Michael Gold</sub>
+<p>Federal prosecutors unsealed an indictment on Wednesday charging Representative George Santos of New York, the scandal-ridden congressman, with 13 federal charges, including counts of money laundering, stealing public money, wire fraud and making false statements to Congress. Mr. Santos pleaded not guilty.  <a href="https://nyti.ms/3Bh4jiq"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>After Defamation Finding, Trump Again Says Carroll Lied</h3>
-<sub>By Lola Fadulu</sub>
+<sub>By Benjamin Weiser and Lola Fadulu</sub>
 <p>During the trial, the judge cautioned the former president about his social media posts. He was not deterred, claiming that E. Jean Carroll had invented her story.  <a href="https://nyti.ms/3NU9yfF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Companies Trying to Make Live Shopping a Thing in the U.S.</h3>
-<sub>By Jordyn Holman and Kalley Huang</sub>
-<p>The market for selling goods in real time online is relatively small, but a number of start-ups and big tech names are betting American consumers will catch on.  <a href="https://nyti.ms/3BbTVZd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Atlanta Prosecutors Drop Effort to Remove Defense Lawyer in Trump Inquiry</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Prosecutors said on Wednesday that their concerns about a lawyer representing a group of fake electors for Donald J. Trump had been resolved.  <a href="https://nyti.ms/42xanzC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Death Is Everywhere’ in a Once-Jubilant Ukrainian City</h3>
-<sub>By Jeffrey Gettleman</sub>
-<p>No city in Ukraine has suffered the reversal of fortunes that Kherson has. Liberated in the fall, it was a symbol of hope. Now it is a kill zone.  <a href="https://nyti.ms/3Be92la"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>F.D.A. Advisers Say Benefits of Over-the-Counter Birth Control Pill Outweigh Risks</h3>
+<sub>By Pam Belluck</sub>
+<p>The agency is expected to decide this summer whether to allow the first nonprescription sales of an oral contraceptive in the United States.  <a href="https://nyti.ms/42h2Uo1"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Might the Government Avoid Default? Biden Offers Clues.</h3>
-<sub>By Jim Tankersley</sub>
-<p>After making little progress with Republican leaders at the White House on Tuesday, the president previewed two possible endgames to resolve a debt-limit standoff.  <a href="https://nyti.ms/41oYR7K"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Hurricanes of Data: The Tiny Craft Mapping Superstorms at Sea</h3>
-<sub>By Porter Fox</sub>
-<p>Understanding the secrets of a warming ocean means steering straight into the biggest hurricanes. Enter the saildrone.  <a href="https://nyti.ms/3VMPfCy"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Scientists Unveil a More Diverse Human Genome</h3>
-<sub>By Elie Dolgin</sub>
-<p>The “pangenome,” which collated genetic sequences from 47 people of diverse ethnic backgrounds, could greatly expand the reach of personalized medicine.  <a href="https://nyti.ms/3HZ467A"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>A Birth Control Pill May Soon Be Available Over the Counter. Here’s What to Know.</h3>
+<sub>By Alisha Haridasani Gupta</sub>
+<p>F.D.A. advisers voted that the benefits of a nonprescription pill outweigh the risks. If the agency decides to move on the recommendation, the progestin-only contraceptive could be in stores within a few months.  <a href="https://nyti.ms/3Bg9ZJF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Slow Start Worries Democrats. Aides Insist All Is Well.</h3>
-<sub>By Reid J. Epstein and Shane Goldmacher</sub>
-<p>Some Democrats fear that the campaign’s early sluggishness shows a lack of urgency ahead of a possible rematch against Donald Trump. His aides say they know what they’re doing.  <a href="https://nyti.ms/3nHTzXt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Warns Migrants Before End of Pandemic Restrictions That ‘Border Is Not Open’</h3>
+<sub>By Aishvarya Kavi</sub>
+<p>Officials are bracing for an increase in illegal border crossings as Title 42, a pandemic-era health policy that allowed officials to expel migrants quickly, ends on Thursday.  <a href="https://nyti.ms/42tlqtA"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Mexico Allows Tens of Thousands of Migrants to Travel to U.S. Border</h3>
+<sub>By James Fredrick</sub>
+<p>In April, nearly 30,000 humanitarian visas were issued to migrants, according to government data, more than triple the monthly average in the first three months of the year.  <a href="https://nyti.ms/3VUJqDk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Migrant Crossing Surges Aren’t New. Why Is the Border Overwhelmed?</h3>
+<sub>By Eileen Sullivan</sub>
+<p>Outdated immigration laws, partisan gridlock and conflict abroad are some reasons behind the strained U.S. border with Mexico.  <a href="https://nyti.ms/42odU2N"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Pancreatic Cancer Vaccine Shows Promise in Small Trial</h3>
+<sub>By Benjamin Mueller</sub>
+<p>Using mRNA tailored to each patient’s tumor, the vaccine may have staved off the return of one of the deadliest forms of cancer in half of those who received it.  <a href="https://nyti.ms/41qp9qc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Makes Gains Near Embattled Bakhmut, a First in Months</h3>
+<sub>By Carlotta Gall, Anatoly Kurmanaev and Traci Carl</sub>
+<p>The leader of Russia’s Wagner paramilitary group confirmed the Ukrainian advance, and continued to air divisions among Moscow’s forces.  <a href="https://nyti.ms/3VSKGGW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Beyoncé Returns to the Stage With a ‘Renaissance’ Spectacle</h3>
+<sub>By Alex Marshall and Ben Sisario</sub>
+<p>The pop superstar opened her first solo tour in seven years in Stockholm and performed tracks from her acclaimed 2022 album, but left most of the choreography to her dancers.  <a href="https://nyti.ms/452U0MT"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
