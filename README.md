@@ -60,24 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 11, Central Standard Time</p>
 <p>
-A lot has been happening in the world lately. For one thing, there&#39;s been a record surge of people migrating to the United States, driven by crises in Latin America. To try to manage the influx, the US government has recently imposed strict restrictions on who can come into the country. In New York City, officials are busing migrants upstate to other counties, but those counties are mobilizing against it. Meanwhile, with the Covid emergency coming to an end, public health officials are shifting their surveillance efforts to monitoring sewage systems for signs of infection. There&#39;s also been an incredibly sad death toll from Covid in the US- over 1 million people have died from the virus. On a less somber note, Thursday night former president Donald Trump did a contentious town hall on CNN which revealed some of his views on certain policies, including separating migrant children from their parents and potentially pardoning rioters from the Jan 6th insurrection.</p>
+Right now, there&#39;s a lot going on in the world related to politics and the pandemic. In the US, the House just approved a strict GOP border bill in response to President Biden&#39;s stance on immigration. Multiple cities are bussing migrants north, and at the border, people are facing legal complications as previous restrictions expire. There&#39;s also been some legal news: a man is being charged for killing someone in a subway chokehold, and former President Trump may be sued for third time after making comments about a woman on CNN. To top it off, the Covid emergency has ended but surveillance is being shifted to sewers, so there could still be more news about how the pandemic effected people. But there is some news unrelated to politics or health: the founder of an influential blog that set off a trend in confessional writing online is being talked about again.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What’s Driving Record Levels of Migration to the U.S. Border?</h3>
-<sub>By Natalie Kitroeff and Julie Turkewitz</sub>
-<p>The United States is trying to curtail border crossings as a Covid-era immigration policy lifts this week, but it has little control over the crises in Latin America that have upended the lives of millions.  <a href="https://nyti.ms/42Jtl5F"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Who Gets In? A Guide to America’s Chaotic Border Rules.</h3>
-<sub>By Natalie Kitroeff, Christine Zhang, Miriam Jordan and Eileen Sullivan</sub>
-<p>New restrictions on asylum will lead many migrants to be deported — but others will still get into the United States. Here’s what the process will look like.  <a href="https://nyti.ms/3I3rjoV"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Approves Stringent G.O.P. Border Bill, Attacking Biden on Immigration</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The legislation, which seeks to revive, codify and stiffen a series of border policies pursued by the Trump administration, was timed to be considered on the eve of an expected border surge.  <a href="https://nyti.ms/3Mhgxy0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>New York City Starts Busing Migrants North. Counties Are Fighting It.</h3>
 <sub>By Dana Rubinstein and Christopher Maag</sub>
-<p>About two dozen migrants moved into a hotel in the town of Newburgh on Thursday morning, even as officials there sought an injunction to prevent that from happening.  <a href="https://nyti.ms/42LAmTl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Dozens of migrants moved into a hotel in the town of Newburgh on Thursday, even as officials there sought an injunction to prevent that from happening.  <a href="https://nyti.ms/42LAmTl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Scenes From the Border as Title 42 Expires</h3>
+<sub>By The New York Times</sub>
+<p>New York Times photographers are documenting the experience on both sides of the border, from Tijuana on the West Coast to Matamoros near the Gulf of Mexico.  <a href="https://nyti.ms/3I3JCdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Daniel Penny Will Be Charged in Subway Chokehold Killing of Jordan Neely</h3>
+<sub>By Jonah E. Bromwich, Andy Newman and Hurubie Meko</sub>
+<p>Mr. Penny choked Mr. Neely for several minutes on the floor of an F train. He is expected to surrender on Friday and be charged with manslaughter.  <a href="https://nyti.ms/41uxrgZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -99,21 +105,15 @@ A lot has been happening in the world lately. For one thing, there&#39;s been a 
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos: An Accused Con Man Who Happened to Trade in Politics</h3>
-<sub>By Nicholas Fandos</sub>
-<p>In federal prosecutors’ eyes, Mr. Santos is a grifter with a taste for fame and designer goods, willing to lie and defraud donors to get ahead.  <a href="https://nyti.ms/3I0QdFG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>E. Jean Carroll May Sue Trump a Third Time After ‘Vile’ Comments on CNN</h3>
+<sub>By Benjamin Weiser, Lola Fadulu and Kate Christobek</sub>
+<p>In an interview, her lawyer said that the former president’s mocking comments in a town hall broadcast could create fresh legal jeopardy.  <a href="https://nyti.ms/3Bj6amR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What Comes Next for George Santos?</h3>
-<sub>By Rebecca Davis O’Brien</sub>
-<p>The fraud and money laundering charges unsealed on Wednesday do not immediately restrict Mr. Santos from serving in Congress, but the consequences in the months ahead could be severe.  <a href="https://nyti.ms/3pzSfWR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Heather Armstrong Was the Original Influencer</h3>
-<sub>By Lisa Belkin</sub>
-<p>With her blog, Dooce, she ushered in an age of confessional writing online by women, inspiring millions of readers and creators to come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Suggests He Knowingly Took Documents From White House</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The former president, in his appearance on CNN, misstated the law governing presidential records, saying he was allowed to take the material now at the heart of a Justice Department investigation.  <a href="https://nyti.ms/42KxJRR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -124,14 +124,14 @@ A lot has been happening in the world lately. For one thing, there&#39;s been a 
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>CNN Chairman Defends Decision to Host Trump Town Hall</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>“People woke up and they know what the stakes are in this election in a way that they didn’t the day before,” Chris Licht said in a morning call at the network.  <a href="https://nyti.ms/3LXcu8t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Michael M. Grynbaum and Benjamin Mullin</sub>
+<p>“People woke up, and they know what the stakes are in this election in a way that they didn’t the day before,” Chris Licht said in a morning call at the network.  <a href="https://nyti.ms/3LXcu8t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Learned About Trump’s Policies in Contentious Town Hall</h3>
-<sub>By Neil Vigdor</sub>
-<p>Former President Donald J. Trump staked out positions on several major issues, including separating migrant children from their parents and pardoning Jan. 6 rioters.  <a href="https://nyti.ms/3O1ohVW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Heather Armstrong Was the Original Influencer</h3>
+<sub>By Lisa Belkin</sub>
+<p>With her blog, Dooce, she ushered in an age of confessional writing online by women, inspiring millions of readers and creators to come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
