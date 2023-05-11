@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 11, Central Standard Time</p>
 <p>
-Right now, a lot of people are trying to cross the US border from Latin America due to a variety of crises and poverty that have occurred in their home countries. The US is trying to put restrictions on who gets in and an Adams administration has loosened regulations for homeless families seeking shelter. There’s still a pandemic going on and over a million people in the US have died from Covid-19. There&#39;s a criminal accused of fraud, money laundering, and lying to donors in politics. Also, pizza pop-ups are becoming really popular with portable ovens and creative recipes. Lastly, Donald Trump had an unruly town hall on CNN where he dug his heels in on his lies and avoided talking about abortion but got cheers from the GOP audience.</p>
+A lot has been happening in the world lately. For one thing, there&#39;s been a record surge of people migrating to the United States, driven by crises in Latin America. To try to manage the influx, the US government has recently imposed strict restrictions on who can come into the country. In New York City, officials are busing migrants upstate to other counties, but those counties are mobilizing against it. Meanwhile, with the Covid emergency coming to an end, public health officials are shifting their surveillance efforts to monitoring sewage systems for signs of infection. There&#39;s also been an incredibly sad death toll from Covid in the US- over 1 million people have died from the virus. On a less somber note, Thursday night former president Donald Trump did a contentious town hall on CNN which revealed some of his views on certain policies, including separating migrant children from their parents and potentially pardoning rioters from the Jan 6th insurrection.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What’s Driving Record Levels of Migration to the U.S. Border?</h3>
@@ -75,16 +75,16 @@ Right now, a lot of people are trying to cross the US border from Latin America 
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Adams Weakens Right-to-Shelter Rules, Anticipating Migrant Surge</h3>
-<sub>By Emma G. Fitzsimmons and Andy Newman</sub>
-<p>Saying New York City had “reached our limit,” the Adams  administration said it would loosen regulations that have protected homeless families seeking shelter.  <a href="https://nyti.ms/42mmX4q"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<h3>New York City Starts Busing Migrants North. Counties Are Fighting It.</h3>
+<sub>By Dana Rubinstein and Christopher Maag</sub>
+<p>About two dozen migrants moved into a hotel in the town of Newburgh on Thursday morning, even as officials there sought an injunction to prevent that from happening.  <a href="https://nyti.ms/42LAmTl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What the End of a Pandemic-Era Health Order Will Mean for the Southern Border</h3>
-<sub>By Eileen Sullivan</sub>
-<p>Title 42, the rule used to immediately expel migrants, will end this week. U.S. officials expect illegal crossings to increase, placing additional strain on an already overtaxed system.  <a href="https://nyti.ms/44zTSUR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, May 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>As Covid Emergency Ends, Surveillance Shifts to the Sewers</h3>
+<sub>By Emily Anthes</sub>
+<p>With other virus tracking efforts winding down, wastewater data is likely to become increasingly important in the months ahead, scientists say.  <a href="https://nyti.ms/3I2W1hU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Families of Those Lost to Covid Wrestle With Mixed Emotions as Emergency Ends</h3>
@@ -98,18 +98,6 @@ Right now, a lot of people are trying to cross the US border from Latin America 
 <p>The country has recorded more than 1.1 million deaths from the virus.  <a href="https://nyti.ms/3I12Y3e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Experts See Lessons for Next Pandemic as Covid Emergency Comes to an End</h3>
-<sub>By Sheryl Gay Stolberg and Noah Weiland</sub>
-<p>The United States’ struggle to respond to the virus has highlighted the importance of communicating with the public, sharing data and stockpiling vital supplies.  <a href="https://nyti.ms/3O1SSD4"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>What the End of the Covid Public Health Emergency Means for Individuals</h3>
-<sub>By Dani Blum</sub>
-<p>The emergency expired May 11, complicating access to tests and treatment in the U.S.  <a href="https://nyti.ms/3WVzAQk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, February 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos: An Accused Con Man Who Happened to Trade in Politics</h3>
 <sub>By Nicholas Fandos</sub>
@@ -122,17 +110,29 @@ Right now, a lot of people are trying to cross the US border from Latin America 
 <p>The fraud and money laundering charges unsealed on Wednesday do not immediately restrict Mr. Santos from serving in Congress, but the consequences in the months ahead could be severe.  <a href="https://nyti.ms/3pzSfWR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>New York’s Most Inventive Pizzas Are Cooked Up at Pop-Ups</h3>
-<sub>By Pete Wells</sub>
-<p>With a new breed of portable ovens and an anything-goes spirit, roving pizzaiolos are turning out impressive pies at bars, breweries and events.  <a href="https://nyti.ms/41iELMt"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Heather Armstrong Was the Original Influencer</h3>
+<sub>By Lisa Belkin</sub>
+<p>With her blog, Dooce, she ushered in an age of confessional writing online by women, inspiring millions of readers and creators to come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Five Takeaways From Trump’s Unruly CNN Town Hall</h3>
 <sub>By Shane Goldmacher and Maggie Haberman</sub>
 <p>Behaving as the Republicans’ de facto nominee, Donald Trump dug in on his 2020 lies and dodged on abortion. The G.O.P. audience cheered, but so did Democrats seeking 2024 fodder.  <a href="https://nyti.ms/3LU4zZQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>CNN Chairman Defends Decision to Host Trump Town Hall</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>“People woke up and they know what the stakes are in this election in a way that they didn’t the day before,” Chris Licht said in a morning call at the network.  <a href="https://nyti.ms/3LXcu8t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Learned About Trump’s Policies in Contentious Town Hall</h3>
+<sub>By Neil Vigdor</sub>
+<p>Former President Donald J. Trump staked out positions on several major issues, including separating migrant children from their parents and pardoning Jan. 6 rioters.  <a href="https://nyti.ms/3O1ohVW"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
