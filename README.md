@@ -58,15 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, May 11, Central Standard Time</p>
+<p>It is Friday, May 12, Central Standard Time</p>
 <p>
-There are a lot of things going on in the world right now. The House recently approved a strict G.O.P. border bill, which aims to revive and make stricter some of President Trump&#39;s immigration policies. Meanwhile, some migrants have been facing difficulties getting appointments with the Border Patrol due to overcrowding. There has also been a criminal case in New York City concerning a man who was charged for killing someone else in a chokehold.
-
-President Trump&#39;s second term goals also seem to be causing quite the stir, as he is looking to break the norms that were left untouched during his previous presidency. There is also an ongoing case concerning President Trump, where he allegedly made some &quot;vile&quot; comments on CNN that could create fresh legal trouble for him. He even joked about taking documents from the White House while on air!
-
-In other news, scientists are shifting their surveillance to sewage data due to the ending pandemic emergency, and the U.S. has built and is mostly ok with its European-style welfare state that was created partially due to Covid-19 relief. Furthermore, Heather Armstrong has been praised as an original Influencer in regards to her blog, Dooce. 
-
-Finally, there have been reports about Republicans caught in the middle about a debt limit fight; and a meeting between Biden and Republicans which was delayed so they can pursue a debt limit deal before the U.S defaults. A judge from Virginia has also recently struck down the federal law on age limits for buying handguns after it was challenged under the Supreme Court’s Bruen decision from 2022.</p>
+Right now, the US has seen a House approval of a strict border bill designed to counter President Biden&#39;s immigration practices, as well as a federal decision that Border Patrol cannot bypass release notices to manage migration into the country. At home, former president Donald Trump has suggested he knowingly took documents from the White House which is at the heart of an investigation by the Justice Department. The Covid-19 pandemic is ending and focus has shifted onto surveying wastewater in order to track the virus. Temporary benefits made way for more generous social policies, however some Republicans are caught in the middle of a debt limit fight. A meeting between Biden and Republicans was delayed until next week to find agreement and avoid defaulting on debt in the US. Further, a ruling in Virginia struck down limits on age of handgun buyers, while in Russia the economic sanctions from Western countries have been adjusted to and a network of middlemen are sending luxury items such as cars, electronics, etc to the country.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Approves Stringent G.O.P. Border Bill, Attacking Biden on Immigration</h3>
@@ -75,9 +69,9 @@ Finally, there have been reports about Republicans caught in the middle about a 
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Migrants Struggle to Get Appointments on Border Patrol App</h3>
-<sub>By Maria Abi-Habib, Emiliano Rodríguez Mega, Edgar Sandoval and J. David Goodman</sub>
-<p>The problems faced by migrants suggested that an important strategy for alleviating crowding at the border still faced challenges.  <a href="https://nyti.ms/42NYbdf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Federal Judge Says Border Patrol Can’t Forgo Release Notices to Ease Backups</h3>
+<sub>By Miriam Jordan and Eileen Sullivan</sub>
+<p>The order does not affect the expiration of the pandemic-era Title 42 immigration restrictions, according to an expert. But it could complicate efforts to manage how many migrants cross into the United States.  <a href="https://nyti.ms/3o27LKK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -116,12 +110,6 @@ Finally, there have been reports about Republicans caught in the middle about a 
 <p>The Covid-19 public health emergency is ending. But some pandemic relief benefits, even if temporary, made way for more generous social policies.  <a href="https://nyti.ms/412Laf5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Heather Armstrong Was the Original Influencer</h3>
-<sub>By Lisa Belkin</sub>
-<p>With her blog, Dooce, she ushered in an age of confessional writing online by women, inspiring millions of readers and creators to come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Vulnerable Republicans Caught in the Middle in Debt Limit Fight</h3>
 <sub>By Catie Edmondson</sub>
@@ -138,6 +126,12 @@ Finally, there have been reports about Republicans caught in the middle about a 
 <h3>Judge in Virginia Strikes Down Federal Limit on Age of Handgun Buyers</h3>
 <sub>By Glenn Thrush</sub>
 <p>The ruling in Richmond is one of the first successful challenges to gun control laws under the Supreme Court’s landmark 2022 Bruen decision.  <a href="https://nyti.ms/3nNDLT5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Russia’s Rich Get Their Luxuries Now</h3>
+<sub>By Anton Troianovski and Jack Ewing</sub>
+<p>More than a year into Vladimir Putin’s invasion, the web of global trade has adjusted to Western sanctions, with a network of middlemen sending cars, electronics and more to Russia.  <a href="https://nyti.ms/41rIIyz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
