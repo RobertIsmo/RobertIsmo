@@ -60,10 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 12, Central Standard Time</p>
 <p>
-Right now, the US is dealing with a potential cash shortage in June and Ukraine is making offensive maneuvers against Russia to potentially prepare for diplomatic talks. There are also a lot of issues surrounding asylum seekers elsewhere who are being taken advantage of by gangs and officials. In China, the government is becoming increasingly protective and security-minded under Xi Jinping and cracking down on foreign-affiliated businesses while ignoring their economic needs.
+There are a lot of interesting and important news stories happening in the world right now. In the US, officials are discussing ways to diplomacy with Russia while confronting backlogged immigration courts due to a lack of judges. Immigration politics will remain a prominent issue in the 2024 race, as it did when Donald Trump ran for president. Also in the US, there is an upcoming risk of running out of cash in June, and Elon Musk has appointed Twitter&#39;s new chief.
 
-Meanwhile, Paris is making progress on having Olympic swimming in the Seine river ahead of the 2024 Summer Games and New York is getting ready to implement congestion pricing in some of its busiest parts. Closer to home, people are forming &#39;mommunes&#39; where they live together to split household bills and raise children as a group. 
-And lastly, after 25 years since &quot;Seinfeld&quot; went off the air, it&#39;s become more relevant than ever in our era of re-evaluated priorities.</p>
+Meanwhile, on a global scale, people are focusing on Turkey’s presidential election, which could determine Recep Tayyip Erdogan’s control of the country. There has also been an investigation into how a major earthquake in Turkey led to fatalities due to flawed design and limited oversight. And lastly, in a more lighter note, some mothers are creating “mommunes” where they live under one roof and split the household bills among themselves while raising their children.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ukraine’s Offensive Could Set Stage for Diplomacy With Russia, U.S. Officials Say</h3>
@@ -71,34 +70,28 @@ And lastly, after 25 years since &quot;Seinfeld&quot; went off the air, it&#39;s
 <p>While exploring endgames, Biden aides say they reject any push for peace talks — including from China — that would freeze the current front lines and Russia’s gains.  <a href="https://nyti.ms/3I46SIu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Asylum Seekers Are Prey for Gangs and Officials</h3>
-<sub>By Maria Abi-Habib</sub>
-<p>Migrants deported by the United States to Mexico face criminal horrors and an asylum system where cases linger for years without resolution.  <a href="https://nyti.ms/42vU59S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Backlogged Courts, and Years of Delays, Await Many Migrants</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>A severe shortage of immigration judges has led to long delays for asylum cases. The backlog is expected to grow now that pandemic-era border restrictions have been lifted.  <a href="https://nyti.ms/3Mlmj1r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Immigration Politics Return to the Forefront as the 2024 Race Picks Up Pace</h3>
+<sub>By Trip Gabriel and Reid J. Epstein</sub>
+<p>Donald J. Trump rode border security to the presidency in 2016. Republicans hope the issue will be at the center of the debate again.  <a href="https://nyti.ms/3Mm0QWc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Daniel Penny Arraigned on Manslaughter Charge in Jordan Neely’s Killing</h3>
-<sub>By Hurubie Meko and Jonah E. Bromwich</sub>
+<sub>By Jonah E. Bromwich, Hurubie Meko and Nate Schweber</sub>
 <p>The Manhattan district attorney’s office charged Mr. Penny with second-degree manslaughter for choking Mr. Neely, a homeless man, to death on the subway.  <a href="https://nyti.ms/41qug9T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Xi’s China, Economic Needs May Take a Back Seat to Security</h3>
-<sub>By David Pierson</sub>
-<p>Xi Jinping wants to insulate China from perceived threats from the West. He also wants to promote the country as deserving of foreign investment and clout. Can he do both?  <a href="https://nyti.ms/3Bm22Tg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In China, the Police Came for the Consultants. Now the C.E.O.s Are Alarmed.</h3>
-<sub>By Daisuke Wakabayashi, Ana Swanson and Lauren Hirsch</sub>
-<p>Foreign businesses, a top Chinese official said in March, “are not foreigners, but family.” Then came a crackdown on firms with foreign ties.  <a href="https://nyti.ms/3BpUGOo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>What’s the Deal With Adulthood? 25 Years Later, ‘Seinfeld’ Feels Revelatory.</h3>
-<sub>By Maya Salam</sub>
-<p>The show about nothing ended in May 1998. But in an era when priorities are being re-evaluated, the sitcom has taken on new relevance.  <a href="https://nyti.ms/3nUTq2W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Turkey’s President Amassed Power. He Could Still Lose This Election.</h3>
+<sub>By Ben Hubbard</sub>
+<p>Turkey’s president, Recep Tayyip Erdogan, has tilted the political playing field in his favor over the past two decades, concentrating power in his own hands. Still, he faces a stiff challenge in Sunday’s election.  <a href="https://nyti.ms/3ppUJqP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -107,34 +100,40 @@ And lastly, after 25 years since &quot;Seinfeld&quot; went off the air, it&#39;s
 <p>A Times investigation and forensic analysis uncovered how flawed design and minimal oversight proved fatal when a major earthquake struck southern Turkey.  <a href="https://nyti.ms/3nWymJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>What’s the Deal With Adulthood? 25 Years Later, ‘Seinfeld’ Feels Revelatory.</h3>
+<sub>By Maya Salam</sub>
+<p>The show about nothing ended in May 1998. But in an era when priorities are being re-evaluated, the sitcom has taken on new relevance.  <a href="https://nyti.ms/3nUTq2W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Xi’s China, Economic Needs May Take a Back Seat to Security</h3>
+<sub>By David Pierson</sub>
+<p>Xi Jinping wants to insulate China from perceived threats from the West. He also wants to promote the country as deserving of foreign investment and clout. Can he do both?  <a href="https://nyti.ms/3Bm22Tg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Faces ‘Significant Risk’ of Running Out of Cash in June, C.B.O. Warns</h3>
+<h3>U.S. Faces ‘Significant Risk’ of Running Out of Cash in June, Budget Office Warns</h3>
 <sub>By Alan Rappeport</sub>
 <p>A default would cause financial distress, economic disruptions and rapid increases in borrowing rates, the nonpartisan Congressional Budget Office said.  <a href="https://nyti.ms/41qEiIg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Elon Musk Appoints Linda Yaccarino as Twitter’s New Chief</h3>
+<h3>Elon Musk Appoints Linda Yaccarino Twitter’s New Chief</h3>
 <sub>By Tiffany Hsu, Sapna Maheshwari, Benjamin Mullin and Ryan Mac</sub>
-<p>Mr. Musk said Ms. Yaccarino would focus on business operations and that he would work on product design and technology at the social media platform.  <a href="https://nyti.ms/3MldYLb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mr. Musk said Ms. Yaccarino would focus on business operations and he would work on product design and technology at the social media platform.  <a href="https://nyti.ms/3MldYLb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Behind the New Indictments of El Chapo’s Sons, Rivalry Seethed Between Agencies</h3>
+<sub>By Alan Feuer</sub>
+<p>When sweeping charges against the Chapitos were announced last month, the Justice Department presented a unified front. It was another story behind the scenes.  <a href="https://nyti.ms/3O1LQOD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>‘Mommunes’: Mothers Are Living Single Together</h3>
 <sub>By Debra Kamin</sub>
 <p>Women are joining forces under one roof, using the age-old power of sisterhood to split the household bills and raise their children.  <a href="https://nyti.ms/3pzUOIL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York City Congestion Pricing Plan Could Give Poor Drivers a Discount</h3>
-<sub>By Ana Ley</sub>
-<p>The tolling program, which would be the first of its kind in the nation, is intended to reduce traffic by charging drivers to enter the busiest parts of Manhattan.  <a href="https://nyti.ms/3pBMA2R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Olympic Swimming in the Seine? How Paris Is Remaking a River.</h3>
-<sub>By Catherine Porter and James Hill</sub>
-<p>Organizers of the 2024 Summer Games promised a waterway clean enough for Olympic swimmers and then Parisians to swim in. The job was bigger than anyone knew.  <a href="https://nyti.ms/3VWfI0E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
