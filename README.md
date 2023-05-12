@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 12, Central Standard Time</p>
 <p>
-The world is in a complicated place right now. In some countries, asylum seekers are facing criminal horrors and their cases are taking years to resolve. Meanwhile, after Title 42 expired in the U.S., there has been increased scrutiny of the police&#39;s growing presence in subway stations due to a recent chokehold killing. Governments are also changing policies to deal with COVID-19. For example, foreign travelers entering the country no longer need to be vaccinated and restrictions on travel that started in 2020 are ending. Finally, there are interesting stories of how people are creating new systems of living together, such as mommunes where groups of mothers are joining forces under one roof to split bills and raise children.</p>
+There is turmoil around the world right now, especially at the U.S. southern border. The Trump administration had made it extremely difficult for asylum seekers and undocumented immigrants to enter the United States, resulting in the deportation of thousands of people and terrible criminal violence towards those who remain in Mexico. Closer to home, police brutality is coming under increased scrutiny after the death of an unarmed homeless man by a chokehold in New York City&#39;s subway system. Meanwhile, there is hope in the form of ‘mommunes’, which are communities of single mothers banding together to help one another financially and with parenting tasks. In other news, the United States is facing a severe cash shortage, there are concerns about weapons ending up on the black market due to inadequate military control and security, and former President Trump continues to avoid accountability for a variety of issues related to his presidency.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Asylum Seekers Are Prey for Gangs and Officials</h3>
@@ -75,15 +75,45 @@ The world is in a complicated place right now. In some countries, asylum seekers
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Daniel Penny Surrenders to Face Charges in Subway Killing of Jordan Neely</h3>
+<sub>By Hurubie Meko and Jonah E. Bromwich</sub>
+<p>The Manhattan district attorney’s office will charge Mr. Penny with second-degree manslaughter for choking Mr. Neely, a homeless man, to death.  <a href="https://nyti.ms/41qug9T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Chokehold Killing Fuels Scrutiny of Police’s Growing Role in Subways</h3>
 <sub>By Ana Ley and Chelsia Rose Marcius</sub>
 <p>Jordan Neely’s death has renewed debate over the New York City mayor’s strategy of flooding platforms with police officers to improve safety.  <a href="https://nyti.ms/3VVgTxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Daniel Penny Will Be Charged in Subway Chokehold Killing of Jordan Neely</h3>
-<sub>By Jonah E. Bromwich, Hurubie Meko and Andy Newman</sub>
-<p>Mr. Penny choked Mr. Neely for several minutes on the floor of an F train. He is expected to surrender on Friday and be charged with manslaughter.  <a href="https://nyti.ms/41uxrgZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>‘Mommunes’: Mothers Are Living Single Together</h3>
+<sub>By Debra Kamin</sub>
+<p>Women are joining forces under one roof, using the age-old power of sisterhood to split the household bills and raise their children.  <a href="https://nyti.ms/3pzUOIL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why One Upscale Apartment Building Became a Death Trap</h3>
+<sub>By Ben Hubbard, Anjali Singhvi, James Glanz, Mika Gröndahl, Elif Ince, Beril Eski and Safak Timur</sub>
+<p>A Times investigation and forensic analysis uncovered how flawed design and minimal oversight proved fatal when a major earthquake struck southern Turkey.  <a href="https://nyti.ms/3nWymJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Faces ‘Significant Risk’ of Running Out of Cash in June, C.B.O. Warns</h3>
+<sub>By Alan Rappeport</sub>
+<p>A default would cause financial distress, economic disruptions and rapid increases in borrowing rates, the nonpartisan Congressional Budget Office said.  <a href="https://nyti.ms/41qEiIg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Soldiers Risk Their Lives to Keep Weapons From the Black Market</h3>
+<sub>By Lara Jakes</sub>
+<p>They can’t track every shell, but at a time of heightened scrutiny in Washington they know they can ill afford slips with the big ticket items.  <a href="https://nyti.ms/3nSHU82"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The U.S. ambassador to South Africa accused the country of providing weapons to Russia.</h3>
+<sub>By John Eligon</sub>
+<p>The American ambassador to South Africa told reporters that Washington is confident a Russian ship picked up a load of weapons and ammunition near Cape Town in December.  <a href="https://nyti.ms/44PukTD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -102,36 +132,6 @@ The world is in a complicated place right now. In some countries, asylum seekers
 <h3>E. Jean Carroll May Sue Trump a Third Time After ‘Vile’ Comments on CNN</h3>
 <sub>By Benjamin Weiser, Lola Fadulu and Kate Christobek</sub>
 <p>In an interview, her lawyer said that the former president’s mocking comments in a town hall broadcast could create fresh legal jeopardy.  <a href="https://nyti.ms/3Bj6amR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>‘Mommunes’: Mothers Are Living Single Together</h3>
-<sub>By Debra Kamin</sub>
-<p>Women are joining forces under one roof, using the age-old power of sisterhood to split the household bills and raise their children.  <a href="https://nyti.ms/3pzUOIL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why One Upscale Apartment Building Became a Death Trap</h3>
-<sub>By Ben Hubbard, Anjali Singhvi, James Glanz, Mika Gröndahl, Elif Ince, Beril Eski and Safak Timur</sub>
-<p>A Times investigation and forensic analysis uncovered how flawed design and minimal oversight proved fatal when a major earthquake struck southern Turkey.  <a href="https://nyti.ms/3nWymJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine’s Dogged Effort to Get Weapons to the Battlefield, Not the Black Market</h3>
-<sub>By Lara Jakes</sub>
-<p>They can’t track every shell, but at a time of heightened scrutiny in Washington they know they can ill afford slips with the big ticket items.  <a href="https://nyti.ms/3nSHU82"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Covid Cautions Continue for Some, Even as Federal Emergency Ends</h3>
-<sub>By Campbell Robertson</sub>
-<p>While mandates and lockdowns are long gone, the virus isn’t and, for some Americans, neither are masks.  <a href="https://nyti.ms/3BhSkRO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>U.S. Ends Last Covid Travel Barrier, Vaccine Mandate for Foreign Arrivals</h3>
-<sub>By Ceylan Yeginsu</sub>
-<p>International travelers entering the country are no longer required to be vaccinated, removing the last of the restrictions on travel put in place beginning in 2020.  <a href="https://nyti.ms/41zbjlw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
