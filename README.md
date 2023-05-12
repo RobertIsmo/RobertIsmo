@@ -60,19 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 12, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! Border security and immigration are a major topic of discussion as the U.S. government recently let a pandemic restriction, Title 42, expire. Additionally, there are some legal cases happening in the country; for example, there&#39;s currently an instance in which a man is facing charges for killing another person on the subway and a former president could face charges again after making comments during an interview. On top of that, the United States is working on restructuring social policies as well as trying to avoid falling into debt by striking deals between opposing parties. Finally, there have been efforts made to make rivers clean enough to swim safely in, like with Paris preparing for the 2024 Summer Olympics, as well as continuing to monitor coronavirus levels by watching wastewater collectors.</p>
+The world is in a complicated place right now. In some countries, asylum seekers are facing criminal horrors and their cases are taking years to resolve. Meanwhile, after Title 42 expired in the U.S., there has been increased scrutiny of the police&#39;s growing presence in subway stations due to a recent chokehold killing. Governments are also changing policies to deal with COVID-19. For example, foreign travelers entering the country no longer need to be vaccinated and restrictions on travel that started in 2020 are ending. Finally, there are interesting stories of how people are creating new systems of living together, such as mommunes where groups of mothers are joining forces under one roof to split bills and raise children.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Minutes After Title 42 Expired, Scenes of Anxiety and Weariness Along the Border</h3>
-<sub>By Jack Healy, Soumya Karlamangla and Edgar Sandoval</sub>
-<p>Some people attempted last-minute crossings, but most of the border was quiet as U.S. officials prepared for the days ahead.  <a href="https://nyti.ms/3NZjJQ9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Asylum Seekers Are Prey for Gangs and Officials</h3>
+<sub>By Maria Abi-Habib</sub>
+<p>Migrants deported by the United States to Mexico face criminal horrors and an asylum system where cases linger for years without resolution.  <a href="https://nyti.ms/42vU59S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Judge Says Border Patrol Can’t Forgo Release Notices to Ease Backups</h3>
-<sub>By Miriam Jordan and Eileen Sullivan</sub>
-<p>The order does not affect the expiration of the pandemic-era Title 42 immigration restrictions, according to an expert. But it could complicate efforts to manage how many migrants cross into the United States.  <a href="https://nyti.ms/3o27LKK"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<h3>Minutes After Title 42 Expired, Scenes of Anxiety and Weariness Along the Border</h3>
+<sub>By Jack Healy, Soumya Karlamangla and Edgar Sandoval</sub>
+<p>Some people tried last-minute crossings, but most of the border was quiet as U.S. officials prepared for the days ahead.  <a href="https://nyti.ms/3NZjJQ9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Chokehold Killing Fuels Scrutiny of Police’s Growing Role in Subways</h3>
+<sub>By Ana Ley and Chelsia Rose Marcius</sub>
+<p>Jordan Neely’s death has renewed debate over the New York City mayor’s strategy of flooding platforms with police officers to improve safety.  <a href="https://nyti.ms/3VVgTxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Daniel Penny Will Be Charged in Subway Chokehold Killing of Jordan Neely</h3>
@@ -86,52 +92,46 @@ There&#39;s a lot going on in the world right now! Border security and immigrati
 <p>The former president made it clearer than ever this week that on issues including Ukraine, the economy and the rule of law, his return to office would lead to a sharp departure from core American values.  <a href="https://nyti.ms/42AlqIk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why the Anti-Trump Republican Primary Has Yet to Emerge</h3>
+<sub>By Trip Gabriel</sub>
+<p>The former president’s current and potential rivals have failed to gain traction as the party seems to rally around him in the face of criticism.  <a href="https://nyti.ms/3VTMdN7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>E. Jean Carroll May Sue Trump a Third Time After ‘Vile’ Comments on CNN</h3>
 <sub>By Benjamin Weiser, Lola Fadulu and Kate Christobek</sub>
 <p>In an interview, her lawyer said that the former president’s mocking comments in a town hall broadcast could create fresh legal jeopardy.  <a href="https://nyti.ms/3Bj6amR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Suggests He Knowingly Took Documents From White House</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The former president, in his appearance on CNN, misstated the law governing presidential records, saying he was allowed to take the material now at the heart of a Justice Department investigation.  <a href="https://nyti.ms/42KxJRR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Olympic Swimming in the Seine? How Paris Is Remaking a River.</h3>
-<sub>By Catherine Porter and James Hill</sub>
-<p>Organizers of the 2024 Summer Games promised a waterway clean enough for Olympic swimmers and then Parisians to swim in. The job was bigger than anyone knew.  <a href="https://nyti.ms/3VWfI0E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>‘Mommunes’: Mothers Are Living Single Together</h3>
+<sub>By Debra Kamin</sub>
+<p>Women are joining forces under one roof, using the age-old power of sisterhood to split the household bills and raise their children.  <a href="https://nyti.ms/3pzUOIL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>As Covid Emergency Ends, Surveillance Shifts to the Sewers</h3>
-<sub>By Emily Anthes</sub>
-<p>With other virus tracking efforts winding down, wastewater data is likely to become increasingly important in the months ahead, scientists say.  <a href="https://nyti.ms/3I2W1hU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why One Upscale Apartment Building Became a Death Trap</h3>
+<sub>By Ben Hubbard, Anjali Singhvi, James Glanz, Mika Gröndahl, Elif Ince, Beril Eski and Safak Timur</sub>
+<p>A Times investigation and forensic analysis uncovered how flawed design and minimal oversight proved fatal when a major earthquake struck southern Turkey.  <a href="https://nyti.ms/3nWymJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The U.S. Built a European-Style Welfare State. It’s Largely Over.</h3>
-<sub>By Claire Cain Miller and Alicia Parlapiano</sub>
-<p>The Covid-19 public health emergency is ending. But some pandemic relief benefits, even if temporary, made way for more generous social policies.  <a href="https://nyti.ms/412Laf5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine’s Dogged Effort to Get Weapons to the Battlefield, Not the Black Market</h3>
+<sub>By Lara Jakes</sub>
+<p>They can’t track every shell, but at a time of heightened scrutiny in Washington they know they can ill afford slips with the big ticket items.  <a href="https://nyti.ms/3nSHU82"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Vulnerable Republicans Caught in the Middle in Debt Limit Fight</h3>
-<sub>By Catie Edmondson</sub>
-<p>House G.O.P. lawmakers in competitive seats who could be crucial to averting a catastrophic default are being fawned over by Democrats one minute and pummeled the next.  <a href="https://nyti.ms/3VY9k9h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<h3>Covid Cautions Continue for Some, Even as Federal Emergency Ends</h3>
+<sub>By Campbell Robertson</sub>
+<p>While mandates and lockdowns are long gone, the virus isn’t and, for some Americans, neither are masks.  <a href="https://nyti.ms/3BhSkRO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Meeting Between Biden and Republicans Delayed as Sides Pursue Debt Limit Deal</h3>
-<sub>By Carl Hulse, Jim Tankersley and Alan Rappeport</sub>
-<p>The decision to delay Friday’s expected meeting to next week was cast as a positive development, one that could allow officials to find agreement before the United States defaults on its debt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge in Virginia Strikes Down Federal Limit on Age of Handgun Buyers</h3>
-<sub>By Glenn Thrush</sub>
-<p>The ruling in Richmond is one of the first successful challenges to gun control laws under the Supreme Court’s landmark 2022 Bruen decision.  <a href="https://nyti.ms/3nNDLT5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>U.S. Ends Last Covid Travel Barrier, Vaccine Mandate for Foreign Arrivals</h3>
+<sub>By Ceylan Yeginsu</sub>
+<p>International travelers entering the country are no longer required to be vaccinated, removing the last of the restrictions on travel put in place beginning in 2020.  <a href="https://nyti.ms/41zbjlw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
