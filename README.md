@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 11, Central Standard Time</p>
 <p>
-There&#39;s been a lot of news lately related to politics, immigration, and the US economy. 
+There are a lot of things going on in the world right now. The House recently approved a strict G.O.P. border bill, which aims to revive and make stricter some of President Trump&#39;s immigration policies. Meanwhile, some migrants have been facing difficulties getting appointments with the Border Patrol due to overcrowding. There has also been a criminal case in New York City concerning a man who was charged for killing someone else in a chokehold.
 
-The House just approved a tough Republican-backed bill to take stronger control of immigration. New York City has also started busing migrants north but some counties are fighting against it. The former president Donald Trump is attempting to shatter the norms that he didn&#39;t already break in his second term, and was recently accused of taking documents from the White House. 
+President Trump&#39;s second term goals also seem to be causing quite the stir, as he is looking to break the norms that were left untouched during his previous presidency. There is also an ongoing case concerning President Trump, where he allegedly made some &quot;vile&quot; comments on CNN that could create fresh legal trouble for him. He even joked about taking documents from the White House while on air!
 
-On the economics side, while Covid emergency is ending, surveillance is shifting to the sewers. The US also attempted to build a European-style welfare state, but scrapped it off as soon as the public health emergency ended.
+In other news, scientists are shifting their surveillance to sewage data due to the ending pandemic emergency, and the U.S. has built and is mostly ok with its European-style welfare state that was created partially due to Covid-19 relief. Furthermore, Heather Armstrong has been praised as an original Influencer in regards to her blog, Dooce. 
 
-Finally, there are legal proceedings taking place as well. In Virginia, a judge just struck down federal limit on age of handgun buyers while Daniel Penny faces charge in Subway chokehold killing of Jordan Neely. Trump is suggesting he knowingly took documents from White House and E. Jean Carroll might sue him for his &quot;vile&quot; comments on a recent CNN broadcast.</p>
+Finally, there have been reports about Republicans caught in the middle about a debt limit fight; and a meeting between Biden and Republicans which was delayed so they can pursue a debt limit deal before the U.S defaults. A judge from Virginia has also recently struck down the federal law on age limits for buying handguns after it was challenged under the Supreme Court’s Bruen decision from 2022.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Approves Stringent G.O.P. Border Bill, Attacking Biden on Immigration</h3>
@@ -74,10 +74,10 @@ Finally, there are legal proceedings taking place as well. In Virginia, a judge 
 <p>The legislation, which seeks to revive, codify and stiffen a series of border policies pursued by the Trump administration, was timed to be considered on the eve of an expected border surge.  <a href="https://nyti.ms/3Mhgxy0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York City Starts Busing Migrants North. Counties Are Fighting It.</h3>
-<sub>By Dana Rubinstein and Christopher Maag</sub>
-<p>Dozens of migrants moved into a hotel in the town of Newburgh on Thursday, even as officials there sought an injunction to prevent that from happening.  <a href="https://nyti.ms/42LAmTl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Migrants Struggle to Get Appointments on Border Patrol App</h3>
+<sub>By Maria Abi-Habib, Emiliano Rodríguez Mega, Edgar Sandoval and J. David Goodman</sub>
+<p>The problems faced by migrants suggested that an important strategy for alleviating crowding at the border still faced challenges.  <a href="https://nyti.ms/42NYbdf"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
