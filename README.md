@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, May 11, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world related to politics and the pandemic. In the US, the House just approved a strict GOP border bill in response to President Biden&#39;s stance on immigration. Multiple cities are bussing migrants north, and at the border, people are facing legal complications as previous restrictions expire. There&#39;s also been some legal news: a man is being charged for killing someone in a subway chokehold, and former President Trump may be sued for third time after making comments about a woman on CNN. To top it off, the Covid emergency has ended but surveillance is being shifted to sewers, so there could still be more news about how the pandemic effected people. But there is some news unrelated to politics or health: the founder of an influential blog that set off a trend in confessional writing online is being talked about again.</p>
+There&#39;s been a lot of news lately related to politics, immigration, and the US economy. 
+
+The House just approved a tough Republican-backed bill to take stronger control of immigration. New York City has also started busing migrants north but some counties are fighting against it. The former president Donald Trump is attempting to shatter the norms that he didn&#39;t already break in his second term, and was recently accused of taking documents from the White House. 
+
+On the economics side, while Covid emergency is ending, surveillance is shifting to the sewers. The US also attempted to build a European-style welfare state, but scrapped it off as soon as the public health emergency ended.
+
+Finally, there are legal proceedings taking place as well. In Virginia, a judge just struck down federal limit on age of handgun buyers while Daniel Penny faces charge in Subway chokehold killing of Jordan Neely. Trump is suggesting he knowingly took documents from White House and E. Jean Carroll might sue him for his &quot;vile&quot; comments on a recent CNN broadcast.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Approves Stringent G.O.P. Border Bill, Attacking Biden on Immigration</h3>
@@ -74,34 +80,16 @@ Right now, there&#39;s a lot going on in the world related to politics and the p
 <p>Dozens of migrants moved into a hotel in the town of Newburgh on Thursday, even as officials there sought an injunction to prevent that from happening.  <a href="https://nyti.ms/42LAmTl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Scenes From the Border as Title 42 Expires</h3>
-<sub>By The New York Times</sub>
-<p>New York Times photographers are documenting the experience on both sides of the border, from Tijuana on the West Coast to Matamoros near the Gulf of Mexico.  <a href="https://nyti.ms/3I3JCdB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Daniel Penny Will Be Charged in Subway Chokehold Killing of Jordan Neely</h3>
-<sub>By Jonah E. Bromwich, Andy Newman and Hurubie Meko</sub>
+<sub>By Jonah E. Bromwich, Hurubie Meko and Andy Newman</sub>
 <p>Mr. Penny choked Mr. Neely for several minutes on the floor of an F train. He is expected to surrender on Friday and be charged with manslaughter.  <a href="https://nyti.ms/41uxrgZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>As Covid Emergency Ends, Surveillance Shifts to the Sewers</h3>
-<sub>By Emily Anthes</sub>
-<p>With other virus tracking efforts winding down, wastewater data is likely to become increasingly important in the months ahead, scientists say.  <a href="https://nyti.ms/3I2W1hU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Families of Those Lost to Covid Wrestle With Mixed Emotions as Emergency Ends</h3>
-<sub>By Julie Bosman</sub>
-<p>More than 1.1 million Americans have died of Covid. An official end to the health emergency has landed in complicated ways for those affected most acutely.  <a href="https://nyti.ms/3NWCFyZ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Emergency Ends, a Look at Covid’s U.S. Death Toll</h3>
-<sub>By Lazaro Gamio, Eleanor Lutz and Albert Sun</sub>
-<p>The country has recorded more than 1.1 million deaths from the virus.  <a href="https://nyti.ms/3I12Y3e"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump’s Second-Term Goal: Shattering the Norms He Didn’t Already Break</h3>
+<sub>By Shane Goldmacher, Jonathan Swan, Maggie Haberman and Stephanie Lai</sub>
+<p>The former president made it clearer than ever this week that on issues including Ukraine, the economy and the rule of law, his return to office would lead to a sharp departure from core American values.  <a href="https://nyti.ms/42AlqIk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -116,22 +104,40 @@ Right now, there&#39;s a lot going on in the world related to politics and the p
 <p>The former president, in his appearance on CNN, misstated the law governing presidential records, saying he was allowed to take the material now at the heart of a Justice Department investigation.  <a href="https://nyti.ms/42KxJRR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Five Takeaways From Trump’s Unruly CNN Town Hall</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>Behaving as the Republicans’ de facto nominee, Donald Trump dug in on his 2020 lies and dodged on abortion. The G.O.P. audience cheered, but so did Democrats seeking 2024 fodder.  <a href="https://nyti.ms/3LU4zZQ"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>CNN Chairman Defends Decision to Host Trump Town Hall</h3>
-<sub>By Michael M. Grynbaum and Benjamin Mullin</sub>
-<p>“People woke up, and they know what the stakes are in this election in a way that they didn’t the day before,” Chris Licht said in a morning call at the network.  <a href="https://nyti.ms/3LXcu8t"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>As Covid Emergency Ends, Surveillance Shifts to the Sewers</h3>
+<sub>By Emily Anthes</sub>
+<p>With other virus tracking efforts winding down, wastewater data is likely to become increasingly important in the months ahead, scientists say.  <a href="https://nyti.ms/3I2W1hU"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The U.S. Built a European-Style Welfare State. It’s Largely Over.</h3>
+<sub>By Claire Cain Miller and Alicia Parlapiano</sub>
+<p>The Covid-19 public health emergency is ending. But some pandemic relief benefits, even if temporary, made way for more generous social policies.  <a href="https://nyti.ms/412Laf5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, April 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>Heather Armstrong Was the Original Influencer</h3>
 <sub>By Lisa Belkin</sub>
 <p>With her blog, Dooce, she ushered in an age of confessional writing online by women, inspiring millions of readers and creators to come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Vulnerable Republicans Caught in the Middle in Debt Limit Fight</h3>
+<sub>By Catie Edmondson</sub>
+<p>House G.O.P. lawmakers in competitive seats who could be crucial to averting a catastrophic default are being fawned over by Democrats one minute and pummeled the next.  <a href="https://nyti.ms/3VY9k9h"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Meeting Between Biden and Republicans Delayed as Sides Pursue Debt Limit Deal</h3>
+<sub>By Carl Hulse, Jim Tankersley and Alan Rappeport</sub>
+<p>The decision to delay Friday’s expected meeting to next week was cast as a positive development, one that could allow officials to find agreement before the United States defaults on its debt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge in Virginia Strikes Down Federal Limit on Age of Handgun Buyers</h3>
+<sub>By Glenn Thrush</sub>
+<p>The ruling in Richmond is one of the first successful challenges to gun control laws under the Supreme Court’s landmark 2022 Bruen decision.  <a href="https://nyti.ms/3nNDLT5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
