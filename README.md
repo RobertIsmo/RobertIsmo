@@ -60,36 +60,45 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 12, Central Standard Time</p>
 <p>
-There is turmoil around the world right now, especially at the U.S. southern border. The Trump administration had made it extremely difficult for asylum seekers and undocumented immigrants to enter the United States, resulting in the deportation of thousands of people and terrible criminal violence towards those who remain in Mexico. Closer to home, police brutality is coming under increased scrutiny after the death of an unarmed homeless man by a chokehold in New York City&#39;s subway system. Meanwhile, there is hope in the form of ‘mommunes’, which are communities of single mothers banding together to help one another financially and with parenting tasks. In other news, the United States is facing a severe cash shortage, there are concerns about weapons ending up on the black market due to inadequate military control and security, and former President Trump continues to avoid accountability for a variety of issues related to his presidency.</p>
+Right now, the US is dealing with a potential cash shortage in June and Ukraine is making offensive maneuvers against Russia to potentially prepare for diplomatic talks. There are also a lot of issues surrounding asylum seekers elsewhere who are being taken advantage of by gangs and officials. In China, the government is becoming increasingly protective and security-minded under Xi Jinping and cracking down on foreign-affiliated businesses while ignoring their economic needs.
+
+Meanwhile, Paris is making progress on having Olympic swimming in the Seine river ahead of the 2024 Summer Games and New York is getting ready to implement congestion pricing in some of its busiest parts. Closer to home, people are forming &#39;mommunes&#39; where they live together to split household bills and raise children as a group. 
+And lastly, after 25 years since &quot;Seinfeld&quot; went off the air, it&#39;s become more relevant than ever in our era of re-evaluated priorities.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ukraine’s Offensive Could Set Stage for Diplomacy With Russia, U.S. Officials Say</h3>
+<sub>By Edward Wong and Michael Crowley</sub>
+<p>While exploring endgames, Biden aides say they reject any push for peace talks — including from China — that would freeze the current front lines and Russia’s gains.  <a href="https://nyti.ms/3I46SIu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Asylum Seekers Are Prey for Gangs and Officials</h3>
 <sub>By Maria Abi-Habib</sub>
 <p>Migrants deported by the United States to Mexico face criminal horrors and an asylum system where cases linger for years without resolution.  <a href="https://nyti.ms/42vU59S"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Minutes After Title 42 Expired, Scenes of Anxiety and Weariness Along the Border</h3>
-<sub>By Jack Healy, Soumya Karlamangla and Edgar Sandoval</sub>
-<p>Some people tried last-minute crossings, but most of the border was quiet as U.S. officials prepared for the days ahead.  <a href="https://nyti.ms/3NZjJQ9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Daniel Penny Surrenders to Face Charges in Subway Killing of Jordan Neely</h3>
+<h3>Daniel Penny Arraigned on Manslaughter Charge in Jordan Neely’s Killing</h3>
 <sub>By Hurubie Meko and Jonah E. Bromwich</sub>
-<p>The Manhattan district attorney’s office will charge Mr. Penny with second-degree manslaughter for choking Mr. Neely, a homeless man, to death.  <a href="https://nyti.ms/41qug9T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Manhattan district attorney’s office charged Mr. Penny with second-degree manslaughter for choking Mr. Neely, a homeless man, to death on the subway.  <a href="https://nyti.ms/41qug9T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Chokehold Killing Fuels Scrutiny of Police’s Growing Role in Subways</h3>
-<sub>By Ana Ley and Chelsia Rose Marcius</sub>
-<p>Jordan Neely’s death has renewed debate over the New York City mayor’s strategy of flooding platforms with police officers to improve safety.  <a href="https://nyti.ms/3VVgTxo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Xi’s China, Economic Needs May Take a Back Seat to Security</h3>
+<sub>By David Pierson</sub>
+<p>Xi Jinping wants to insulate China from perceived threats from the West. He also wants to promote the country as deserving of foreign investment and clout. Can he do both?  <a href="https://nyti.ms/3Bm22Tg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>‘Mommunes’: Mothers Are Living Single Together</h3>
-<sub>By Debra Kamin</sub>
-<p>Women are joining forces under one roof, using the age-old power of sisterhood to split the household bills and raise their children.  <a href="https://nyti.ms/3pzUOIL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In China, the Police Came for the Consultants. Now the C.E.O.s Are Alarmed.</h3>
+<sub>By Daisuke Wakabayashi, Ana Swanson and Lauren Hirsch</sub>
+<p>Foreign businesses, a top Chinese official said in March, “are not foreigners, but family.” Then came a crackdown on firms with foreign ties.  <a href="https://nyti.ms/3BpUGOo"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>What’s the Deal With Adulthood? 25 Years Later, ‘Seinfeld’ Feels Revelatory.</h3>
+<sub>By Maya Salam</sub>
+<p>The show about nothing ended in May 1998. But in an era when priorities are being re-evaluated, the sitcom has taken on new relevance.  <a href="https://nyti.ms/3nUTq2W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,35 +113,29 @@ There is turmoil around the world right now, especially at the U.S. southern bor
 <p>A default would cause financial distress, economic disruptions and rapid increases in borrowing rates, the nonpartisan Congressional Budget Office said.  <a href="https://nyti.ms/41qEiIg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Soldiers Risk Their Lives to Keep Weapons From the Black Market</h3>
-<sub>By Lara Jakes</sub>
-<p>They can’t track every shell, but at a time of heightened scrutiny in Washington they know they can ill afford slips with the big ticket items.  <a href="https://nyti.ms/3nSHU82"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Elon Musk Appoints Linda Yaccarino as Twitter’s New Chief</h3>
+<sub>By Tiffany Hsu, Sapna Maheshwari, Benjamin Mullin and Ryan Mac</sub>
+<p>Mr. Musk said Ms. Yaccarino would focus on business operations and that he would work on product design and technology at the social media platform.  <a href="https://nyti.ms/3MldYLb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The U.S. ambassador to South Africa accused the country of providing weapons to Russia.</h3>
-<sub>By John Eligon</sub>
-<p>The American ambassador to South Africa told reporters that Washington is confident a Russian ship picked up a load of weapons and ammunition near Cape Town in December.  <a href="https://nyti.ms/44PukTD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Second-Term Goal: Shattering the Norms He Didn’t Already Break</h3>
-<sub>By Shane Goldmacher, Jonathan Swan, Maggie Haberman and Stephanie Lai</sub>
-<p>The former president made it clearer than ever this week that on issues including Ukraine, the economy and the rule of law, his return to office would lead to a sharp departure from core American values.  <a href="https://nyti.ms/42AlqIk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why the Anti-Trump Republican Primary Has Yet to Emerge</h3>
-<sub>By Trip Gabriel</sub>
-<p>The former president’s current and potential rivals have failed to gain traction as the party seems to rally around him in the face of criticism.  <a href="https://nyti.ms/3VTMdN7"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>‘Mommunes’: Mothers Are Living Single Together</h3>
+<sub>By Debra Kamin</sub>
+<p>Women are joining forces under one roof, using the age-old power of sisterhood to split the household bills and raise their children.  <a href="https://nyti.ms/3pzUOIL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>E. Jean Carroll May Sue Trump a Third Time After ‘Vile’ Comments on CNN</h3>
-<sub>By Benjamin Weiser, Lola Fadulu and Kate Christobek</sub>
-<p>In an interview, her lawyer said that the former president’s mocking comments in a town hall broadcast could create fresh legal jeopardy.  <a href="https://nyti.ms/3Bj6amR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<h3>New York City Congestion Pricing Plan Could Give Poor Drivers a Discount</h3>
+<sub>By Ana Ley</sub>
+<p>The tolling program, which would be the first of its kind in the nation, is intended to reduce traffic by charging drivers to enter the busiest parts of Manhattan.  <a href="https://nyti.ms/3pBMA2R"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Olympic Swimming in the Seine? How Paris Is Remaking a River.</h3>
+<sub>By Catherine Porter and James Hill</sub>
+<p>Organizers of the 2024 Summer Games promised a waterway clean enough for Olympic swimmers and then Parisians to swim in. The job was bigger than anyone knew.  <a href="https://nyti.ms/3VWfI0E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
