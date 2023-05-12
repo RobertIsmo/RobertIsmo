@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 12, Central Standard Time</p>
 <p>
-Right now, the US has seen a House approval of a strict border bill designed to counter President Biden&#39;s immigration practices, as well as a federal decision that Border Patrol cannot bypass release notices to manage migration into the country. At home, former president Donald Trump has suggested he knowingly took documents from the White House which is at the heart of an investigation by the Justice Department. The Covid-19 pandemic is ending and focus has shifted onto surveying wastewater in order to track the virus. Temporary benefits made way for more generous social policies, however some Republicans are caught in the middle of a debt limit fight. A meeting between Biden and Republicans was delayed until next week to find agreement and avoid defaulting on debt in the US. Further, a ruling in Virginia struck down limits on age of handgun buyers, while in Russia the economic sanctions from Western countries have been adjusted to and a network of middlemen are sending luxury items such as cars, electronics, etc to the country.</p>
+There&#39;s a lot going on in the world right now! Border security and immigration are a major topic of discussion as the U.S. government recently let a pandemic restriction, Title 42, expire. Additionally, there are some legal cases happening in the country; for example, there&#39;s currently an instance in which a man is facing charges for killing another person on the subway and a former president could face charges again after making comments during an interview. On top of that, the United States is working on restructuring social policies as well as trying to avoid falling into debt by striking deals between opposing parties. Finally, there have been efforts made to make rivers clean enough to swim safely in, like with Paris preparing for the 2024 Summer Olympics, as well as continuing to monitor coronavirus levels by watching wastewater collectors.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Approves Stringent G.O.P. Border Bill, Attacking Biden on Immigration</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The legislation, which seeks to revive, codify and stiffen a series of border policies pursued by the Trump administration, was timed to be considered on the eve of an expected border surge.  <a href="https://nyti.ms/3Mhgxy0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
+<h3>Minutes After Title 42 Expired, Scenes of Anxiety and Weariness Along the Border</h3>
+<sub>By Jack Healy, Soumya Karlamangla and Edgar Sandoval</sub>
+<p>Some people attempted last-minute crossings, but most of the border was quiet as U.S. officials prepared for the days ahead.  <a href="https://nyti.ms/3NZjJQ9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Federal Judge Says Border Patrol Can’t Forgo Release Notices to Ease Backups</h3>
@@ -98,6 +98,12 @@ Right now, the US has seen a House approval of a strict border bill designed to 
 <p>The former president, in his appearance on CNN, misstated the law governing presidential records, saying he was allowed to take the material now at the heart of a Justice Department investigation.  <a href="https://nyti.ms/42KxJRR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Olympic Swimming in the Seine? How Paris Is Remaking a River.</h3>
+<sub>By Catherine Porter and James Hill</sub>
+<p>Organizers of the 2024 Summer Games promised a waterway clean enough for Olympic swimmers and then Parisians to swim in. The job was bigger than anyone knew.  <a href="https://nyti.ms/3VWfI0E"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>As Covid Emergency Ends, Surveillance Shifts to the Sewers</h3>
 <sub>By Emily Anthes</sub>
@@ -126,12 +132,6 @@ Right now, the US has seen a House approval of a strict border bill designed to 
 <h3>Judge in Virginia Strikes Down Federal Limit on Age of Handgun Buyers</h3>
 <sub>By Glenn Thrush</sub>
 <p>The ruling in Richmond is one of the first successful challenges to gun control laws under the Supreme Court’s landmark 2022 Bruen decision.  <a href="https://nyti.ms/3nNDLT5"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Russia’s Rich Get Their Luxuries Now</h3>
-<sub>By Anton Troianovski and Jack Ewing</sub>
-<p>More than a year into Vladimir Putin’s invasion, the web of global trade has adjusted to Western sanctions, with a network of middlemen sending cars, electronics and more to Russia.  <a href="https://nyti.ms/41rIIyz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
