@@ -60,20 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 13, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Turkey, their elections are coming up on Sunday and people are anxious about the outcome. The current president is facing tough competition for the first time in twenty years. Ukraine&#39;s President Zelensky met with the Pope and Italian Prime Minister Giorgia Meloni recently to bolster support for his country&#39;s fight against Russia. Germany is investing nearly 3 billion US dollars in aid to Ukraine as part of efforts to reset their rocky relations. In the US, there is a growing issue of homelessness as record numbers of people are dying on the streets. Politically, there are debates over immigration, with both Democrats and Republicans attempting to forge an immigration deal in Congress. Meanwhile, sports betting is becoming increasingly regulated due to harm it can cause to the public and athletes. Finally, Eurovision fans can watch the final show this Saturday!</p>
+There are a lot of important political developments happening around the world. Ukrainian President Zelensky visited Italy to strengthen support for their fight against Russia, and Germany offered Ukraine a huge military aid package to reset relations between them. In Turkey, President Erdogan is in a tough election battle against multiple challengers which is being closely watched by the West and Moscow. Meanwhile, in the US, Republican Ron DeSantis is retooling his presidential campaign and Democrats are debating immigration policies as record numbers of homeless and migrants die in the US. In the sports world there is a backlash to gambling, while New York has just revealed a list of its top 50 homeless people at risk. Finally, Eurovision is holding its grand final – so make sure you watch it!</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Erdogan Loss in Turkey Would Stir Relief in the West and Anxiety in Moscow</h3>
-<sub>By Steven Erlanger and Anatoly Kurmanaev</sub>
-<p>European leaders would be delighted to have “an easier Turkey,” while Russia could lose an important economic and diplomatic partnership should the Turkish leader lose power in Sunday’s elections.  <a href="https://nyti.ms/3O1FcI8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Turkey’s Election: What You Need to Know</h3>
-<sub>By Cora Engelbrecht, Ben Hubbard and Gulsin Harman</sub>
-<p>Sunday’s vote is the toughest for President Recep Tayyip Erdogan during his 20 years as the country’s premier politician. The withdraw of one of his three challengers made it even tougher.  <a href="https://nyti.ms/3pwxiwg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Meets Pope and Meloni in Italy to Bolster Ukraine’s Support</h3>
 <sub>By Jason Horowitz</sub>
@@ -87,16 +75,28 @@ There is a lot happening in the world right now. In Turkey, their elections are 
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Ron DeSantis Is Limping to the Starting Line</h3>
+<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
+<p>Mr. DeSantis and his allies are retooling his expected run for the White House after a series of missteps and miscalculations allowed Donald J. Trump to define the 2024 Republican race.  <a href="https://nyti.ms/3VZKLc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘A Daily Game of Russian Roulette’: Homeless in San Diego</h3>
 <sub>By Eli Saslow and Erin Schaff</sub>
 <p>As a record number of people die on America’s streets, Abdul Curry fights to stay alive.  <a href="https://nyti.ms/42uhM2o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Ron DeSantis Is Limping to the Starting Line</h3>
-<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
-<p>Mr. DeSantis and his allies are retooling his expected run for the White House after a series of missteps and miscalculations allowed Donald J. Trump to define the 2024 Republican race.  <a href="https://nyti.ms/3VZKLc0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>An Erdogan Loss in Turkey Would Stir Relief in the West and Anxiety in Moscow</h3>
+<sub>By Steven Erlanger and Anatoly Kurmanaev</sub>
+<p>European leaders would be delighted to have “an easier Turkey,” while Russia could lose an important economic and diplomatic partnership should the Turkish leader lose power in Sunday’s elections.  <a href="https://nyti.ms/3O1FcI8"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Turkey’s Election: What You Need to Know</h3>
+<sub>By Cora Engelbrecht, Ben Hubbard and Gulsin Harman</sub>
+<p>Sunday’s vote is the toughest for President Recep Tayyip Erdogan during his 20 years as the country’s premier politician. The withdraw of one of his three challengers made it even tougher.  <a href="https://nyti.ms/3pwxiwg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, May 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Asylum Debate Snarls Efforts to Forge an Immigration Deal in Congress</h3>
