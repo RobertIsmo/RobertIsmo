@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 12, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Ukraine, there has been a long-anticipated counteroffensive being downplayed by Ukrainian officials but cheered on by Russia&#39;s pro-war bloggers. U.S. officials are exploring ways to diplomatically deal with the situation. On the home front, pandemic-era migration restrictions were recently lifted without a fresh spike in border crossings, and thousands of migrants are now stuck in holding patterns. There is also a court challenge in the U.S. that might undermine efforts to deal with record levels of border crossings, and backlogged immigration courts face long delays for asylum cases. In New York, a man has been charged with second-degree manslaughter for allegedly choking someone to death on the subway. And in Turkey, President Erdogan faces a stiff challenge in this weekend&#39;s elections despite having tilted the political playing field in his own favor over the past two decades. Finally, here at home, Congress is facing a significant risk of running out of cash by June, according to the Congressional Budget Office, so budgets and debt limits are being discussed as potential sources of compromise.</p>
+To a close friend, I would say that there has been a lot of tension between Ukraine and Russia over their current political and military states. In response to Ukraine&#39;s long-anticipated counteroffensive, the US is attempting to bring diplomatic resolution to the issue. Immigration also has been in the news, as pandemic-era restrictions have been lifted at the border. This unfortunately has caused a lot of delays and backlogs in immigration courts. Additionally there&#39;s been some violence in NY, with a man charged with manslaughter for killing another on the subway. Lastly, Turkey is having an election that could mean a new shift in power for their president. On a lighter note, 25 years later a classic sitcom about nothing is incredibly relevant, and we have a new nonhormonal drug to help with menopause hot flashes.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine’s Advances Near Bakhmut Expose Rifts in Russian Forces</h3>
@@ -122,16 +122,16 @@ There is a lot going on in the world right now. In Ukraine, there has been a lon
 <p>The show about nothing ended in May 1998. But in an era when priorities are being re-evaluated, the sitcom has taken on new relevance.  <a href="https://nyti.ms/3nUTq2W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Faces ‘Significant Risk’ of Running Out of Cash in June, Budget Office Warns</h3>
-<sub>By Alan Rappeport</sub>
-<p>A default would cause financial distress, economic disruptions and rapid increases in borrowing rates, the nonpartisan Congressional Budget Office said.  <a href="https://nyti.ms/41qEiIg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>Striking Writers’ Union Denies Waiver, Imperiling Tony Awards Telecast</h3>
+<sub>By Michael Paulson and John Koblin</sub>
+<p>The Writers Guild of America indicated it would not grant a waiver to allow a live telecast of the Tonys on June 11, threatening one of Broadway’s biggest marketing moments.  <a href="https://nyti.ms/3MnRDNm"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Garret Graves, Republicans’ ‘Assistant Coach,’ Sees Hope in Debt Limit Talks</h3>
-<sub>By Annie Karni</sub>
-<p>The Louisiana congressman, who acts as a consigliere to Speaker Kevin McCarthy, says four areas of potential compromise have emerged.  <a href="https://nyti.ms/42xUhWd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>F.D.A. Approves New Drug to Treat Hot Flashes</h3>
+<sub>By Christina Jewett</sub>
+<p>It is the first nonhormonal treatment for the menopause symptom.  <a href="https://nyti.ms/41vkCmv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
