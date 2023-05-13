@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 13, Central Standard Time</p>
 <p>
-Right now, there are some important things happening all around the world. In Turkey, voters will decide whether or not to keep President Erdogan in power in Sunday’s election. Meanwhile, in the United States, immigration remains a hot-button issue, especially as certain pandemic-era restrictions are beginning to lift. In New York City, the mayor has come under criticism for attempting to house migrant families in public school gymnasiums. In Germany, meanwhile, leaders have just announced their biggest ever military aid package for Ukraine, which involves sending nearly $3 billion in aid to help the nation in its ongoing war against Russia. Lastly, there is a homeless crisis unfolding on the streets of San Diego and a scandal involving fraudulent campaign finances swirling around a member of Congress from New York.</p>
+There is a major election happening in Turkey with the current leader having amassed a lot of power. If he loses, it could create a stir in the West due to the threat of chaos being reduced, but could be bad news for Russia as Turkey is an important economic and diplomatic partner. In the US, there is an ongoing debate about immigration, specifically regarding asylum seekers. A lot of migrants are currently stuck in limbo awaiting decisions which could have big implications for US&#x2F;Mexico border policies. Meanwhile in Germany, they are providing a record amount of financial aid to Ukraine in an effort to reset relations between them, while in Italy Ukrainian President Zelensky has arrived for a visit with Pope Francis. Closer to home, New York City is considering housing migrant families in public school gyms and there&#39;s been a recent scandal surrounding George Santos, who had made his way onto the &#39;Top 50&#39; list of homeless people at risk. Finally, amidst all this turmoil we also have some lighter stories like Tom Bishop&#39;s dollhouse miniatures show that&#39;s been running for forty years now and the tragedy of Jordan Neely who was killed by another subway rider after being placed on the city&#39;s watch list.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>An Erdogan Loss in Turkey Would Stir Relief in the West and Anxiety in Moscow</h3>
@@ -104,11 +104,11 @@ Right now, there are some important things happening all around the world. In Tu
 <p>As a record number of people die on America’s streets, Abdul Curry fights to stay alive.  <a href="https://nyti.ms/42uhM2o"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Lies, Charges and Questions Remaining in the George Santos Scandal</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>While much has emerged about Mr. Santos’s background and history since he was elected to Congress, questions remain about his campaign finances and the source of his personal finances.  <a href="https://nyti.ms/42O9HFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Germany Announces Its Biggest Military Aid Package Yet for Ukraine</h3>
+<sub>By Erika Solomon and Christopher F. Schuetze</sub>
+<p>The nearly $3 billion package is part of an effort by both sides to reset rocky relations, which have become increasingly important to maintaining European unity in backing the war.  <a href="https://nyti.ms/3Bmm4gn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Arrives in Italy for Meeting With Pope Francis</h3>
@@ -116,11 +116,11 @@ Right now, there are some important things happening all around the world. In Tu
 <p>The Ukrainian president’s visit comes at a potentially pivotal moment in the war against Russia, as Kyiv’s forces make advances near the key eastern city of Bakhmut.  <a href="https://nyti.ms/42SxFzG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Germany Announces Its Biggest Military Aid Package for Ukraine</h3>
-<sub>By Christopher F. Schuetze</sub>
-<p>The nearly $3 billion package is roughly as much as Germany’s total military aid contribution to Ukraine since the war began.  <a href="https://nyti.ms/3Bmm4gn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Lies, Charges and Questions Remaining in the George Santos Scandal</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>George Santos has told so many stories they can be hard to keep straight. We break them down including major questions about his personal finances and his campaign fund-raising and spending.  <a href="https://nyti.ms/42O9HFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Inside the Big World of Small Objects</h3>
