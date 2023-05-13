@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, May 12, Central Standard Time</p>
+<p>It is Saturday, May 13, Central Standard Time</p>
 <p>
-To a close friend, I would say that there has been a lot of tension between Ukraine and Russia over their current political and military states. In response to Ukraine&#39;s long-anticipated counteroffensive, the US is attempting to bring diplomatic resolution to the issue. Immigration also has been in the news, as pandemic-era restrictions have been lifted at the border. This unfortunately has caused a lot of delays and backlogs in immigration courts. Additionally there&#39;s been some violence in NY, with a man charged with manslaughter for killing another on the subway. Lastly, Turkey is having an election that could mean a new shift in power for their president. On a lighter note, 25 years later a classic sitcom about nothing is incredibly relevant, and we have a new nonhormonal drug to help with menopause hot flashes.</p>
+It looks like tensions between Russia and Ukraine are heating up, with Ukraine&#39;s advances in the conflict exposing rifts in the Russian forces. Meanwhile, the US is exploring diplomatic solutions to the conflict and nonhormonal hot flashes drugs have been approved by the FDA. In New York City, they&#39;re looking to house migrants in public school gyms, while a man has been charged with manslaughter for killing another on the subway. In Turkey, a long-established president remains in a tight race for re-election. There&#39;s also potential for disruption of this year&#39;s Tony awards ceremony due to a writers&#39; union dispute. Lastly, LeBron James won a game 6 against Golden State, ending their championship hopes.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine’s Advances Near Bakhmut Expose Rifts in Russian Forces</h3>
@@ -86,10 +86,10 @@ To a close friend, I would say that there has been a lot of tension between Ukra
 <p>Despite the relative calm, the Biden administration faces court challenges that they say may undermine efforts to deal with record levels of border crossings.  <a href="https://nyti.ms/44Pifhn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Backlogged Courts and Years of Delays Await Many Migrants</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>A severe shortage of immigration judges has led to long delays for asylum cases. The backlog is expected to grow now that pandemic-era border restrictions have been lifted.  <a href="https://nyti.ms/3Mlmj1r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York City Plans to House Migrant Families in Public School Gymnasium</h3>
+<sub>By Hurubie Meko</sub>
+<p>The plan faced immediate criticism from a Brooklyn councilman, but a spokesman for the mayor said, “We are opening emergency shelters and respite centers daily, but we are out of space.”  <a href="https://nyti.ms/42yoNiE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -110,18 +110,6 @@ To a close friend, I would say that there has been a lot of tension between Ukra
 <p>Turkey’s president, Recep Tayyip Erdogan, has tilted the political playing field in his favor over the past two decades, concentrating power in his own hands. Still, he faces a stiff challenge in Sunday’s election.  <a href="https://nyti.ms/3ppUJqP"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why One Upscale Apartment Building Became a Death Trap</h3>
-<sub>By Ben Hubbard, Anjali Singhvi, James Glanz, Mika Gröndahl, Elif Ince, Beril Eski and Safak Timur</sub>
-<p>A Times investigation and forensic analysis uncovered how flawed design and minimal oversight proved fatal when a major earthquake struck southern Turkey.  <a href="https://nyti.ms/3nWymJl"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, May 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>What’s the Deal With Adulthood? 25 Years Later, ‘Seinfeld’ Feels Revelatory.</h3>
-<sub>By Maya Salam</sub>
-<p>The show about nothing ended in May 1998. But in an era when priorities are being re-evaluated, the sitcom has taken on new relevance.  <a href="https://nyti.ms/3nUTq2W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
 <h3>Striking Writers’ Union Denies Waiver, Imperiling Tony Awards Telecast</h3>
 <sub>By Michael Paulson and John Koblin</sub>
@@ -132,6 +120,18 @@ To a close friend, I would say that there has been a lot of tension between Ukra
 <h3>F.D.A. Approves New Drug to Treat Hot Flashes</h3>
 <sub>By Christina Jewett</sub>
 <p>It is the first nonhormonal treatment for the menopause symptom.  <a href="https://nyti.ms/41vkCmv"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>What to Know About the New Treatment for Hot Flashes</h3>
+<sub>By Alisha Haridasani Gupta</sub>
+<p>Veozah, a nonhormonal drug, is effective against a signature symptom of menopause.  <a href="https://nyti.ms/42T2Meu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Golden State Falls to Lakers in Game 6, Ending Championship Hopes</h3>
+<sub>By Sopan Deb</sub>
+<p>It was the first playoff matchup of Stephen Curry and LeBron James since 2018. This time, James came out on top.  <a href="https://nyti.ms/42ylNTF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
