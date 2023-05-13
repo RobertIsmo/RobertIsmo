@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, May 13, Central Standard Time</p>
 <p>
-It looks like tensions between Russia and Ukraine are heating up, with Ukraine&#39;s advances in the conflict exposing rifts in the Russian forces. Meanwhile, the US is exploring diplomatic solutions to the conflict and nonhormonal hot flashes drugs have been approved by the FDA. In New York City, they&#39;re looking to house migrants in public school gyms, while a man has been charged with manslaughter for killing another on the subway. In Turkey, a long-established president remains in a tight race for re-election. There&#39;s also potential for disruption of this year&#39;s Tony awards ceremony due to a writers&#39; union dispute. Lastly, LeBron James won a game 6 against Golden State, ending their championship hopes.</p>
+Right now, tensions in Ukraine between Ukrainian forces and Russian forces have heightened. Ukrainian officials launched a counteroffensive which has caused some divisions in the Russian armed forces. U.S. officials are hoping that could lead to some diplomatic talks, but have shot down any push for peace talks from other countries, like China. The Ukrainian President is meeting with the Pope in Italy at this potentially pivotal moment for the war against Russia. 
+
+In the U.S., there has been record levels of border crossings, but luckily without an additional spike in migration when restrictions were lifted. To deal with these large numbers of people, the city of New York has been left with no option but to house migrant families in public school gymnasiums. Meanwhile, a man in Manhattan was arraigned on a manslaughter charge for killing another man on the subway—which was so strange because apparently it happened with no visible struggle or violence beforehand. 
+
+On a different note, Turkey is having their presidential election on Sunday where Erdogan is seeking his second term amidst difficult odds after amassing personal power over two decades, although the election is a bit clouded by all the recent unrest happening around the world. Also, back at home, Writers’ Union struck down any waiver that could&#39;ve allowed a Tony Awards telecast come June 11th—posing a huge threat to Broadway&#39;s biggest marketing moments. 
+
+But finally on more positive news, there&#39;s now a new drug approved by the FDA to treat hot flashes during menopause! It&#39;s the first nonhormonal treatment available to provide relief from that symptom.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine’s Advances Near Bakhmut Expose Rifts in Russian Forces</h3>
@@ -73,6 +79,12 @@ It looks like tensions between Russia and Ukraine are heating up, with Ukraine&#
 <sub>By Edward Wong and Michael Crowley</sub>
 <p>While exploring endgames, Biden aides say they reject any push for peace talks — including from China — that would freeze the current front lines and Russia’s gains.  <a href="https://nyti.ms/3I46SIu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky Arrives in Italy for Meeting With Pope Francis</h3>
+<sub>By Jason Horowitz</sub>
+<p>The Ukrainian president’s visit comes at a potentially pivotal moment in the war against Russia, as Kyiv’s forces make advances near the key eastern city of Bakhmut.  <a href="https://nyti.ms/42SxFzG"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, May 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Migrant Camps, Anxiety and Relief: ‘It Was Worth It. We Are in America.’</h3>
@@ -126,12 +138,6 @@ It looks like tensions between Russia and Ukraine are heating up, with Ukraine&#
 <h3>What to Know About the New Treatment for Hot Flashes</h3>
 <sub>By Alisha Haridasani Gupta</sub>
 <p>Veozah, a nonhormonal drug, is effective against a signature symptom of menopause.  <a href="https://nyti.ms/42T2Meu"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Golden State Falls to Lakers in Game 6, Ending Championship Hopes</h3>
-<sub>By Sopan Deb</sub>
-<p>It was the first playoff matchup of Stephen Curry and LeBron James since 2018. This time, James came out on top.  <a href="https://nyti.ms/42ylNTF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
