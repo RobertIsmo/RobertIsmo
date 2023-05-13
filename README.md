@@ -60,10 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, May 12, Central Standard Time</p>
 <p>
-There are a lot of interesting and important news stories happening in the world right now. In the US, officials are discussing ways to diplomacy with Russia while confronting backlogged immigration courts due to a lack of judges. Immigration politics will remain a prominent issue in the 2024 race, as it did when Donald Trump ran for president. Also in the US, there is an upcoming risk of running out of cash in June, and Elon Musk has appointed Twitter&#39;s new chief.
-
-Meanwhile, on a global scale, people are focusing on Turkey’s presidential election, which could determine Recep Tayyip Erdogan’s control of the country. There has also been an investigation into how a major earthquake in Turkey led to fatalities due to flawed design and limited oversight. And lastly, in a more lighter note, some mothers are creating “mommunes” where they live under one roof and split the household bills among themselves while raising their children.</p>
+There is a lot going on in the world right now. In Ukraine, there has been a long-anticipated counteroffensive being downplayed by Ukrainian officials but cheered on by Russia&#39;s pro-war bloggers. U.S. officials are exploring ways to diplomatically deal with the situation. On the home front, pandemic-era migration restrictions were recently lifted without a fresh spike in border crossings, and thousands of migrants are now stuck in holding patterns. There is also a court challenge in the U.S. that might undermine efforts to deal with record levels of border crossings, and backlogged immigration courts face long delays for asylum cases. In New York, a man has been charged with second-degree manslaughter for allegedly choking someone to death on the subway. And in Turkey, President Erdogan faces a stiff challenge in this weekend&#39;s elections despite having tilted the political playing field in his own favor over the past two decades. Finally, here at home, Congress is facing a significant risk of running out of cash by June, according to the Congressional Budget Office, so budgets and debt limits are being discussed as potential sources of compromise.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine’s Advances Near Bakhmut Expose Rifts in Russian Forces</h3>
+<sub>By Marc Santora and Andrew E. Kramer</sub>
+<p>Russia’s pro-war bloggers were quick to claim that Ukraine’s long-anticipated counteroffensive had begun, but Ukrainian officials downplayed the advances.  <a href="https://nyti.ms/41s2DgF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ukraine’s Offensive Could Set Stage for Diplomacy With Russia, U.S. Officials Say</h3>
 <sub>By Edward Wong and Michael Crowley</sub>
@@ -71,21 +75,33 @@ Meanwhile, on a global scale, people are focusing on Turkey’s presidential ele
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Backlogged Courts, and Years of Delays, Await Many Migrants</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>A severe shortage of immigration judges has led to long delays for asylum cases. The backlog is expected to grow now that pandemic-era border restrictions have been lifted.  <a href="https://nyti.ms/3Mlmj1r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Migrant Camps, Anxiety and Relief: ‘It Was Worth It. We Are in America.’</h3>
+<sub>By Soumya Karlamangla, Edgar Sandoval, Miriam Jordan and Simon Romero</sub>
+<p>Pandemic-era migration restrictions were lifted without a fresh spike in border crossings. Thousands of migrants now find themselves in a holding pattern.  <a href="https://nyti.ms/3pECH49"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Immigration Politics Return to the Forefront as the 2024 Race Picks Up Pace</h3>
-<sub>By Trip Gabriel and Reid J. Epstein</sub>
-<p>Donald J. Trump rode border security to the presidency in 2016. Republicans hope the issue will be at the center of the debate again.  <a href="https://nyti.ms/3Mm0QWc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Border Is Calm as Crowds Cross and Biden Administration Fights Court Ruling</h3>
+<sub>By Eileen Sullivan and Michael D. Shear</sub>
+<p>Despite the relative calm, the Biden administration faces court challenges that they say may undermine efforts to deal with record levels of border crossings.  <a href="https://nyti.ms/44Pifhn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Backlogged Courts and Years of Delays Await Many Migrants</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>A severe shortage of immigration judges has led to long delays for asylum cases. The backlog is expected to grow now that pandemic-era border restrictions have been lifted.  <a href="https://nyti.ms/3Mlmj1r"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Daniel Penny Arraigned on Manslaughter Charge in Jordan Neely’s Killing</h3>
 <sub>By Jonah E. Bromwich, Hurubie Meko and Nate Schweber</sub>
-<p>The Manhattan district attorney’s office charged Mr. Penny with second-degree manslaughter for choking Mr. Neely, a homeless man, to death on the subway.  <a href="https://nyti.ms/41qug9T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Manhattan district attorney’s office charged Mr. Penny with second-degree manslaughter for choking Mr. Neely to death on the subway.  <a href="https://nyti.ms/41qug9T"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Most Disturbing Thing About Jordan Neely’s Killing</h3>
+<sub>By Ismail Muhammad</sub>
+<p>It was all so calm and unhurried. Sometimes, somehow, the fear of violence shakes people more than violence itself.  <a href="https://nyti.ms/3M2ZUEO"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -106,34 +122,16 @@ Meanwhile, on a global scale, people are focusing on Turkey’s presidential ele
 <p>The show about nothing ended in May 1998. But in an era when priorities are being re-evaluated, the sitcom has taken on new relevance.  <a href="https://nyti.ms/3nUTq2W"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Xi’s China, Economic Needs May Take a Back Seat to Security</h3>
-<sub>By David Pierson</sub>
-<p>Xi Jinping wants to insulate China from perceived threats from the West. He also wants to promote the country as deserving of foreign investment and clout. Can he do both?  <a href="https://nyti.ms/3Bm22Tg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Faces ‘Significant Risk’ of Running Out of Cash in June, Budget Office Warns</h3>
 <sub>By Alan Rappeport</sub>
 <p>A default would cause financial distress, economic disruptions and rapid increases in borrowing rates, the nonpartisan Congressional Budget Office said.  <a href="https://nyti.ms/41qEiIg"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Elon Musk Appoints Linda Yaccarino Twitter’s New Chief</h3>
-<sub>By Tiffany Hsu, Sapna Maheshwari, Benjamin Mullin and Ryan Mac</sub>
-<p>Mr. Musk said Ms. Yaccarino would focus on business operations and he would work on product design and technology at the social media platform.  <a href="https://nyti.ms/3MldYLb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Behind the New Indictments of El Chapo’s Sons, Rivalry Seethed Between Agencies</h3>
-<sub>By Alan Feuer</sub>
-<p>When sweeping charges against the Chapitos were announced last month, the Justice Department presented a unified front. It was another story behind the scenes.  <a href="https://nyti.ms/3O1LQOD"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>‘Mommunes’: Mothers Are Living Single Together</h3>
-<sub>By Debra Kamin</sub>
-<p>Women are joining forces under one roof, using the age-old power of sisterhood to split the household bills and raise their children.  <a href="https://nyti.ms/3pzUOIL"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Garret Graves, Republicans’ ‘Assistant Coach,’ Sees Hope in Debt Limit Talks</h3>
+<sub>By Annie Karni</sub>
+<p>The Louisiana congressman, who acts as a consigliere to Speaker Kevin McCarthy, says four areas of potential compromise have emerged.  <a href="https://nyti.ms/42xUhWd"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
